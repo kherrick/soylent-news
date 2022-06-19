@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+      name="viewport"
+    />
+    <meta name="description" content="Soylent News" />
+    <meta name="theme-color" content="#fff" />
+    <title>Soylent News</title>
+    <link rel="manifest" href="manifest.json" />
+    <link
+      href="data:image/x-icon;base64,AAABAAEAAQECAAEAAQA4AAAAFgAAACgAAAABAAAAAgAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAQECAAEAAQA4AAAAFgAAACgAAAABAAAAAgAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      rel="icon"
+      type="image/x-icon"
+    />
+    <link
+      href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAADOtka5AAAAA1BMVEUAAACnej3aAAAANklEQVR42u3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8G4IAAAFjdVCkAAAAAElFTkSuQmCC"
+      rel="apple-touch-icon"
+    />
+    <style>
+      /*<!--*/
+      body {
+        color: rgb(25, 25, 25);
+        font-family: Verdana, Geneva, sans-serif;
+        margin: 0;
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      a:link,
+      a:focus,
+      a:hover,
+      a:active {
+        color: rgb(75, 75, 125);
+      }
+
+      a:visited {
+        color: rgb(25, 25, 25);
+      }
+
+      h1 > a,
+      h1 > a:link,
+      h1 > a:focus,
+      h1 > a:hover,
+      h1 > a:active,
+      h1 > a:visited {
+        color: #fff;
+      }
+
+      h2 > a,
+      h2 > a:link,
+      h2 > a:focus,
+      h2 > a:hover,
+      h2 > a:active,
+      h2 > a:visited {
+        color: rgb(25, 25, 25);
+      }
+
+      h1 {
+        background: linear-gradient(#600, #933);
+        margin: 0;
+        padding: 1rem;
+      }
+
+      h2 {
+        background-color: rgb(200, 200, 200);
+        margin: 1rem 0;
+        padding: 0.5rem 0.5rem 0.5rem 1rem;
+      }
+
+      #latest > section,
+      #archives > section {
+        margin: 0 1rem 1rem 1rem;
+        padding-bottom: 1rem;
+      }
+
+      #latest > section:not(:last-child),
+      #archives > section:not(:last-child) {
+        border-bottom: 1px dotted rgb(200, 200, 200);
+      }
+
+      section > h3 {
+        margin: 0 0 0.5rem 0;
+      }
+
+      section > h4 {
+        font-weight: normal;
+        margin: 0 0 0 1rem;
+      }
+
+      .descendants-container,
+      .points-container {
+        align-items: center;
+        border-left: 1px solid #333;
+        display: inline-flex;
+        margin-left: 0.5rem;
+        padding-left: 0.5rem;
+        text-align: center;
+      }
+
+      .points {
+        align-items: center;
+        display: inline-flex;
+        height: 1rem;
+        margin-left: 1ch;
+        min-width: 3ch;
+      }
+
+      blockquote,
+      blockquote > div {
+        margin: 0;
+      }
+
+      .text {
+        line-height: 1.5rem;
+        margin: 0 1rem 0 1rem;
+        overflow: auto;
+      }
+
+      blockquote > div > p:first-child {
+        margin-top: 1rem;
+      }
+
+      blockquote > div > p:last-child {
+        margin-bottom: 0;
+      }
+
+      hr,
+      hr + p,
+      hr + p + p {
+        display: none;
+      }
+      /*-->*/
+    </style>
+  </head>
+
+  <body>
+    <main>
+      <h1>
+        <a href="https://kherrick.github.io/soylent-news/">Soylent News</a>
+      </h1>
+      <section id="latest">
+        <h2>Latest</h2>
+      </section>
+      <section id="archives">
+        <h2>
+          <a
+            href="https://github.com/kherrick/soylent-news/blob/main/archives/index.md"
+            >Archives</a
+          >
+        </h2>
+      </section>
+    </main>
+    <script type="module">
+      import { buildDescendants } from "./lib/build-html-descendants.js";
+      import { buildNextItem } from "./lib/build-html-next-item.js";
+      import { getNextDateTime } from "./lib/date-time.js";
+
+      class UpdateQueue {
+        constructor() {
+          this._sids = [];
+          this._isUpdating = false;
+        }
+
+        addItemById(id) {
+          this._sids.push(id);
+        }
+
+        async flush() {
+          const sid = this._sids.shift();
+
+          if (sid) {
+            this._isUpdating = true;
+
+            // await updateSectionById(sid);
+            await this.flush();
+          } else {
+            this._isUpdating = false;
+
+            setTimeout(async () => {
+              if (!this._isUpdating && this._sids && this._sids.length) {
+                await this.flush();
+              }
+            }, 0);
+          }
+        }
+      }
+
+      // get latest section
+      const latestSection = document.getElementById("latest");
+
+      if ("IntersectionObserver" in window) {
+        window.soylentNewsState = { index: [], nextTimeIndex: -1 };
+
+        const addNewsItem = async (newsItem, queue) => {
+          try {
+            const { date, time, itemComments, itemTitle, itemLink } = newsItem;
+            const section = await buildNextItem({
+              document,
+              dateTime: `${date}, ${time}`,
+              itemComments,
+              itemLink,
+              itemTitle: new DOMParser().parseFromString(
+                itemTitle.replace(/\\/g, ""),
+                "text/html"
+              ).documentElement.textContent,
+              fetchItemDetails: false,
+            });
+
+            // remove loading indicator for section
+            section.querySelector(".points-container").remove();
+
+            const id = section.getAttribute("id");
+            if (!document.getElementById(id)) {
+              document.getElementById("latest").appendChild(section);
+
+              queue.addItemById(id);
+            }
+          } catch (error) {}
+        };
+
+        const buildArchiveIndex = async (lastDateTime) => {
+          const nextDate = lastDateTime.slice(0, 10);
+          const nextYear = nextDate.slice(0, 4);
+
+          return (
+            await (
+              await fetch(
+                `https://raw.githubusercontent.com/kherrick/soylent-news/main/archives/${nextYear}/${nextDate}/index.md`
+              )
+            ).text()
+          )
+            .split("\n")
+            .filter((line) => line.match(new RegExp("^\\* \\[")))
+            .map((line) => {
+              const segment = line.replace("* ", "").split("](");
+              const pubDate = segment[0].slice(1);
+
+              const itemComments = segment[1].split(") - [")[0];
+              const itemTitle = segment[1].split(") - [")[1];
+              const itemLink = segment[2].slice(0, -1);
+              const date = pubDate.slice(0, 10);
+              const time = pubDate.slice(-8);
+
+              return {
+                date,
+                itemComments,
+                itemLink,
+                itemTitle,
+                time,
+              };
+            });
+        };
+
+        const handleIntersectingEntry = async (entry, queue) => {
+          if (entry.isIntersecting) {
+            const lastDateTime = document
+              .getElementById("latest")
+              .querySelector(
+                "section:last-child > section > h4 > span"
+              ).textContent;
+
+            const nextDateTime = getNextDateTime(lastDateTime ?? "", -1);
+            const archiveIndex = await buildArchiveIndex(nextDateTime);
+            const nextTimeIndex = archiveIndex.findIndex(
+              ({ time }) => time === nextDateTime.slice(-8)
+            );
+
+            const handleIndexUpdate = (index, existingIndexValues = []) => {
+              index.forEach((i) => {
+                existingIndexValues.push(i);
+              });
+              return existingIndexValues;
+            };
+
+            window.soylentNewsState = {
+              index: handleIndexUpdate(
+                archiveIndex,
+                window.soylentNewsState.index
+              ),
+              nextTimeIndex,
+            };
+
+            let currentTimeIndex = nextTimeIndex + 1;
+            const items = Object.values(window.soylentNewsState.index);
+            for (let item of items) {
+              if (currentTimeIndex < window.soylentNewsState.index.length) {
+                addNewsItem(items[currentTimeIndex], queue);
+
+                currentTimeIndex = currentTimeIndex + 1;
+              }
+            }
+
+            queue.flush();
+          }
+        };
+
+        const archives = document.getElementById("archives");
+        const archivesObserver = new IntersectionObserver(
+          (entries) => {
+            const queue = new UpdateQueue();
+
+            entries.forEach((entry) => handleIntersectingEntry(entry, queue));
+          },
+          {
+            root: null,
+            rootMargin: "0px",
+            threshold: 0,
+          }
+        );
+
+        archivesObserver.observe(archives);
+
+        let latestSectionsExpanded = true;
+        const handleLatestHeaderClick = () => {
+          latestSectionsExpanded = !latestSectionsExpanded;
+
+          if (latestSectionsExpanded) {
+            archivesObserver.observe(archives);
+          } else {
+            archivesObserver.disconnect(archives);
+          }
+
+          for (let section of document.querySelectorAll("#latest > section")) {
+            section.style.display = latestSectionsExpanded ? "block" : "none";
+          }
+        };
+
+        const latestHeader = document.querySelector("#latest > h2");
+        latestHeader.style.cursor = "pointer";
+        latestHeader.addEventListener("click", handleLatestHeaderClick);
+      }
+    </script>
+    <script type="module">
+      import { Workbox } from "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-window.prod.mjs";
+
+      if ("serviceWorker" in navigator) {
+        const base = document.querySelector("base");
+        const serviceWorkerPath = `${
+          base ? base.href.replace(/\/$/, "") : ""
+        }/service-worker.js`;
+
+        const wb = new Workbox(serviceWorkerPath);
+
+        // setup event listeners
+        wb.addEventListener("waiting", (event) => {
+          wb.addEventListener("controlling", () => {
+            window.location.reload();
+          });
+
+          wb.messageSkipWaiting();
+        });
+
+        wb.register();
+      }
+    </script>
+  </body>
+</html>
