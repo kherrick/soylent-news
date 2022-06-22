@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-22, 13:46:00](https://soylentnews.org/article.pl?sid=22/06/21/151218&from=rss) - [Science Coverage of Climate Change Can Change Minds—Briefly](https://soylentnews.org/article.pl?sid=22/06/21/151218&from=rss)
 * [2022-06-22, 12:20:00](https://soylentnews.org/article.pl?sid=22/06/22/1214221&from=rss) - [The Open Secret of Google Search](https://soylentnews.org/article.pl?sid=22/06/22/1214221&from=rss)
 * [2022-06-22, 10:54:00](https://soylentnews.org/article.pl?sid=22/06/21/1446229&from=rss) - [NASA Finally Succeeds With its Artemis 1 Wet Launch Test](https://soylentnews.org/article.pl?sid=22/06/21/1446229&from=rss)
 * [2022-06-22, 08:09:00](https://soylentnews.org/article.pl?sid=22/06/21/1440242&from=rss) - [Google Says It's Time for Longtime Small Business Users to Pay Up](https://soylentnews.org/article.pl?sid=22/06/21/1440242&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-16, 08:51:00](https://soylentnews.org/article.pl?sid=22/06/15/1453258&from=rss) - [Microsoft Has Ended Internet Explorer Support in Windows 10](https://soylentnews.org/article.pl?sid=22/06/15/1453258&from=rss)
 * [2022-06-16, 06:03:00](https://soylentnews.org/article.pl?sid=22/06/15/1446255&from=rss) - [50 Terrible Coding Tips for a C++ Developer](https://soylentnews.org/article.pl?sid=22/06/15/1446255&from=rss)
 * [2022-06-16, 03:14:00](https://soylentnews.org/article.pl?sid=22/06/15/0257253&from=rss) - [Demo Mission to Test New ‘Space Tug’ Continues to Flounder](https://soylentnews.org/article.pl?sid=22/06/15/0257253&from=rss)
-* [2022-06-16, 00:26:00](https://soylentnews.org/article.pl?sid=22/06/15/0242256&from=rss) - [New Processing Technique Could Make Potatoes Healthier](https://soylentnews.org/article.pl?sid=22/06/15/0242256&from=rss)
 
 ## [Archives](archives/index.md)
 
