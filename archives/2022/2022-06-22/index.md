@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 16:33:00](https://soylentnews.org/article.pl?sid=22/06/22/0451216&from=rss) - [Testing the Use of Human Urine as a Natural Fertilizer for Crops](https://soylentnews.org/article.pl?sid=22/06/22/0451216&from=rss)
 * [2022-06-22, 13:46:00](https://soylentnews.org/article.pl?sid=22/06/21/151218&from=rss) - [Science Coverage of Climate Change Can Change Minds—Briefly](https://soylentnews.org/article.pl?sid=22/06/21/151218&from=rss)
 * [2022-06-22, 12:20:00](https://soylentnews.org/article.pl?sid=22/06/22/1214221&from=rss) - [The Open Secret of Google Search](https://soylentnews.org/article.pl?sid=22/06/22/1214221&from=rss)
 * [2022-06-22, 10:54:00](https://soylentnews.org/article.pl?sid=22/06/21/1446229&from=rss) - [NASA Finally Succeeds With its Artemis 1 Wet Launch Test](https://soylentnews.org/article.pl?sid=22/06/21/1446229&from=rss)

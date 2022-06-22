@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-22, 16:33:00](https://soylentnews.org/article.pl?sid=22/06/22/0451216&from=rss) - [Testing the Use of Human Urine as a Natural Fertilizer for Crops](https://soylentnews.org/article.pl?sid=22/06/22/0451216&from=rss)
 * [2022-06-22, 13:46:00](https://soylentnews.org/article.pl?sid=22/06/21/151218&from=rss) - [Science Coverage of Climate Change Can Change Minds—Briefly](https://soylentnews.org/article.pl?sid=22/06/21/151218&from=rss)
 * [2022-06-22, 12:20:00](https://soylentnews.org/article.pl?sid=22/06/22/1214221&from=rss) - [The Open Secret of Google Search](https://soylentnews.org/article.pl?sid=22/06/22/1214221&from=rss)
 * [2022-06-22, 10:54:00](https://soylentnews.org/article.pl?sid=22/06/21/1446229&from=rss) - [NASA Finally Succeeds With its Artemis 1 Wet Launch Test](https://soylentnews.org/article.pl?sid=22/06/21/1446229&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-16, 14:20:00](https://soylentnews.org/article.pl?sid=22/06/15/150258&from=rss) - [Astronomers May Have Detected a ‘Dark’ Free-Floating Black Hole](https://soylentnews.org/article.pl?sid=22/06/15/150258&from=rss)
 * [2022-06-16, 11:37:00](https://soylentnews.org/article.pl?sid=22/06/15/1458246&from=rss) - [Double-Layered Catalyst Generates More Hydrogen](https://soylentnews.org/article.pl?sid=22/06/15/1458246&from=rss)
 * [2022-06-16, 08:51:00](https://soylentnews.org/article.pl?sid=22/06/15/1453258&from=rss) - [Microsoft Has Ended Internet Explorer Support in Windows 10](https://soylentnews.org/article.pl?sid=22/06/15/1453258&from=rss)
-* [2022-06-16, 06:03:00](https://soylentnews.org/article.pl?sid=22/06/15/1446255&from=rss) - [50 Terrible Coding Tips for a C++ Developer](https://soylentnews.org/article.pl?sid=22/06/15/1446255&from=rss)
 
 ## [Archives](archives/index.md)
 
