@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2022-06-22, 05:25:00](https://soylentnews.org/article.pl?sid=22/06/21/1436223&from=rss) - [Wreck of Historic Royal Ship Discovered Off the English Coast](https://soylentnews.org/article.pl?sid=22/06/21/1436223&from=rss)
+* [2022-06-22, 08:09:00](https://soylentnews.org/article.pl?sid=22/06/21/1440242&from=rss) - [Google Says It's Time for Longtime Small Business Users to Pay Up](https://soylentnews.org/article.pl?sid=22/06/21/1440242&from=rss)
 * [2022-06-22, 02:42:00](https://soylentnews.org/article.pl?sid=22/06/21/1433259&from=rss) - [Could Nuclear Desalination Plants Beat Water Scarcity?](https://soylentnews.org/article.pl?sid=22/06/21/1433259&from=rss)
 * [2022-06-21, 23:53:00](https://soylentnews.org/article.pl?sid=22/06/21/1157234&from=rss) - [Blood Pressure E-tattoo Promises Continuous, Mobile Monitoring](https://soylentnews.org/article.pl?sid=22/06/21/1157234&from=rss)
 * [2022-06-21, 21:11:00](https://soylentnews.org/article.pl?sid=22/06/21/0021202&from=rss) - [Internet Explorer shutdown to cause Japan headaches 'for months'](https://soylentnews.org/article.pl?sid=22/06/21/0021202&from=rss)
