@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-22, 05:25:00](https://soylentnews.org/article.pl?sid=22/06/21/1436223&from=rss) - [Wreck of Historic Royal Ship Discovered Off the English Coast](https://soylentnews.org/article.pl?sid=22/06/21/1436223&from=rss)
 * [2022-06-22, 02:42:00](https://soylentnews.org/article.pl?sid=22/06/21/1433259&from=rss) - [Could Nuclear Desalination Plants Beat Water Scarcity?](https://soylentnews.org/article.pl?sid=22/06/21/1433259&from=rss)
 * [2022-06-21, 23:53:00](https://soylentnews.org/article.pl?sid=22/06/21/1157234&from=rss) - [Blood Pressure E-tattoo Promises Continuous, Mobile Monitoring](https://soylentnews.org/article.pl?sid=22/06/21/1157234&from=rss)
 * [2022-06-21, 21:11:00](https://soylentnews.org/article.pl?sid=22/06/21/0021202&from=rss) - [Internet Explorer shutdown to cause Japan headaches 'for months'](https://soylentnews.org/article.pl?sid=22/06/21/0021202&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-16, 00:26:00](https://soylentnews.org/article.pl?sid=22/06/15/0242256&from=rss) - [New Processing Technique Could Make Potatoes Healthier](https://soylentnews.org/article.pl?sid=22/06/15/0242256&from=rss)
 * [2022-06-15, 21:43:00](https://soylentnews.org/article.pl?sid=22/06/15/0155256&from=rss) - [China's Lunar Lander Finds Evidence of Native Water on Moon](https://soylentnews.org/article.pl?sid=22/06/15/0155256&from=rss)
 * [2022-06-15, 18:59:00](https://soylentnews.org/article.pl?sid=22/06/15/0142213&from=rss) - [Apple vs. Feds: Is iPhone Privacy a Basic Human Right?](https://soylentnews.org/article.pl?sid=22/06/15/0142213&from=rss)
-* [2022-06-15, 16:15:00](https://soylentnews.org/article.pl?sid=22/06/15/0133235&from=rss) - [“Downthem” DDoS-for-Hire Boss Gets 2 Years in Prison](https://soylentnews.org/article.pl?sid=22/06/15/0133235&from=rss)
 
 ## [Archives](archives/index.md)
 
