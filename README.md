@@ -4,6 +4,7 @@
 * [2022-06-22, 12:20:00](https://soylentnews.org/article.pl?sid=22/06/22/1214221&from=rss) - [The Open Secret of Google Search](https://soylentnews.org/article.pl?sid=22/06/22/1214221&from=rss)
 * [2022-06-22, 10:54:00](https://soylentnews.org/article.pl?sid=22/06/21/1446229&from=rss) - [NASA Finally Succeeds With its Artemis 1 Wet Launch Test](https://soylentnews.org/article.pl?sid=22/06/21/1446229&from=rss)
 * [2022-06-22, 08:09:00](https://soylentnews.org/article.pl?sid=22/06/21/1440242&from=rss) - [Google Says It's Time for Longtime Small Business Users to Pay Up](https://soylentnews.org/article.pl?sid=22/06/21/1440242&from=rss)
+* [2022-06-22, 05:25:00](https://soylentnews.org/article.pl?sid=22/06/22/086255&from=rss) - [Wreck of Historic Royal Ship Discovered Off the English Coast](https://soylentnews.org/article.pl?sid=22/06/22/086255&from=rss)
 * [2022-06-22, 02:42:00](https://soylentnews.org/article.pl?sid=22/06/21/1433259&from=rss) - [Could Nuclear Desalination Plants Beat Water Scarcity?](https://soylentnews.org/article.pl?sid=22/06/21/1433259&from=rss)
 * [2022-06-21, 23:53:00](https://soylentnews.org/article.pl?sid=22/06/21/1157234&from=rss) - [Blood Pressure E-tattoo Promises Continuous, Mobile Monitoring](https://soylentnews.org/article.pl?sid=22/06/21/1157234&from=rss)
 * [2022-06-21, 21:11:00](https://soylentnews.org/article.pl?sid=22/06/21/0021202&from=rss) - [Internet Explorer shutdown to cause Japan headaches 'for months'](https://soylentnews.org/article.pl?sid=22/06/21/0021202&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-16, 11:37:00](https://soylentnews.org/article.pl?sid=22/06/15/1458246&from=rss) - [Double-Layered Catalyst Generates More Hydrogen](https://soylentnews.org/article.pl?sid=22/06/15/1458246&from=rss)
 * [2022-06-16, 08:51:00](https://soylentnews.org/article.pl?sid=22/06/15/1453258&from=rss) - [Microsoft Has Ended Internet Explorer Support in Windows 10](https://soylentnews.org/article.pl?sid=22/06/15/1453258&from=rss)
 * [2022-06-16, 06:03:00](https://soylentnews.org/article.pl?sid=22/06/15/1446255&from=rss) - [50 Terrible Coding Tips for a C++ Developer](https://soylentnews.org/article.pl?sid=22/06/15/1446255&from=rss)
-* [2022-06-16, 03:14:00](https://soylentnews.org/article.pl?sid=22/06/15/0257253&from=rss) - [Demo Mission to Test New ‘Space Tug’ Continues to Flounder](https://soylentnews.org/article.pl?sid=22/06/15/0257253&from=rss)
 
 ## [Archives](archives/index.md)
 
