@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 20:08:00](https://soylentnews.org/article.pl?sid=22/06/23/0127247&from=rss) - [Mysterious 'Blue Blobs' Reveal a New Kind of Star System](https://soylentnews.org/article.pl?sid=22/06/23/0127247&from=rss)
 * [2022-06-23, 17:26:00](https://soylentnews.org/article.pl?sid=22/06/23/0126234&from=rss) - [Study Shows Electric Vehicles Could be Charged on the Go Via Peer-to-Peer System](https://soylentnews.org/article.pl?sid=22/06/23/0126234&from=rss)
 * [2022-06-23, 14:41:00](https://soylentnews.org/article.pl?sid=22/06/22/1857257&from=rss) - [Scientists Unveil Bionic Robo-Fish to Remove Microplastics From Seas](https://soylentnews.org/article.pl?sid=22/06/22/1857257&from=rss)
 * [2022-06-23, 11:52:00](https://soylentnews.org/article.pl?sid=22/06/22/1843202&from=rss) - [AMD Publishes Source Code for FidelityFX Super Resolution 2.0](https://soylentnews.org/article.pl?sid=22/06/22/1843202&from=rss)
