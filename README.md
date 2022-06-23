@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-23, 14:41:00](https://soylentnews.org/article.pl?sid=22/06/22/1857257&from=rss) - [Scientists Unveil Bionic Robo-Fish to Remove Microplastics From Seas](https://soylentnews.org/article.pl?sid=22/06/22/1857257&from=rss)
 * [2022-06-23, 11:52:00](https://soylentnews.org/article.pl?sid=22/06/22/1843202&from=rss) - [AMD Publishes Source Code for FidelityFX Super Resolution 2.0](https://soylentnews.org/article.pl?sid=22/06/22/1843202&from=rss)
 * [2022-06-23, 09:09:00](https://soylentnews.org/article.pl?sid=22/06/22/1840230&from=rss) - [US Supreme Court Rejects Bayer’s Bid to End Roundup Lawsuits](https://soylentnews.org/article.pl?sid=22/06/22/1840230&from=rss)
 * [2022-06-23, 06:25:00](https://soylentnews.org/article.pl?sid=22/06/22/1837239&from=rss) - [NASA's Chandra Catches Pulsar in X-Ray Speed Trap](https://soylentnews.org/article.pl?sid=22/06/22/1837239&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-17, 12:22:00](https://soylentnews.org/article.pl?sid=22/06/16/154252&from=rss) - [Browser Security - Browser-Language Fingerprinting and Total Cookie Protection](https://soylentnews.org/article.pl?sid=22/06/16/154252&from=rss)
 * [2022-06-17, 09:35:00](https://soylentnews.org/article.pl?sid=22/06/16/1446245&from=rss) - [Americans Really Can't Stand Their Internet Service Providers](https://soylentnews.org/article.pl?sid=22/06/16/1446245&from=rss)
 * [2022-06-17, 06:42:00](https://soylentnews.org/article.pl?sid=22/06/16/1443214&from=rss) - [Europe's First Exascale Supercomputer to Unlock a Quintillion Ops](https://soylentnews.org/article.pl?sid=22/06/16/1443214&from=rss)
-* [2022-06-17, 03:58:00](https://soylentnews.org/article.pl?sid=22/06/16/1116246&from=rss) - [Black Death Likely Originated In Central Asia](https://soylentnews.org/article.pl?sid=22/06/16/1116246&from=rss)
 
 ## [Archives](archives/index.md)
 
