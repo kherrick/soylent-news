@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-23, 06:25:00](https://soylentnews.org/article.pl?sid=22/06/22/1837239&from=rss) - [NASA's Chandra Catches Pulsar in X-Ray Speed Trap](https://soylentnews.org/article.pl?sid=22/06/22/1837239&from=rss)
 * [2022-06-23, 03:42:00](https://soylentnews.org/article.pl?sid=22/06/22/1829209&from=rss) - [PCI Express 7.0 Finalized: 128 GT/s in 2025](https://soylentnews.org/article.pl?sid=22/06/22/1829209&from=rss)
 * [2022-06-23, 00:51:00](https://soylentnews.org/article.pl?sid=22/06/22/1417231&from=rss) - [Micro-Device Could Pick Up Early Signs of Heart Attack or Stroke](https://soylentnews.org/article.pl?sid=22/06/22/1417231&from=rss)
 * [2022-06-22, 22:06:00](https://soylentnews.org/article.pl?sid=22/06/22/1157225&from=rss) - [NASA Attempt to Boost International Space Station in Orbit Cuts Off Unexpectedly](https://soylentnews.org/article.pl?sid=22/06/22/1157225&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-17, 03:58:00](https://soylentnews.org/article.pl?sid=22/06/16/1116246&from=rss) - [Black Death Likely Originated In Central Asia](https://soylentnews.org/article.pl?sid=22/06/16/1116246&from=rss)
 * [2022-06-17, 01:14:00](https://soylentnews.org/article.pl?sid=22/06/16/1053220&from=rss) - [Cause of Leaky SpaceX Cargo Vehicle Sourced to Faulty Inlet Joint](https://soylentnews.org/article.pl?sid=22/06/16/1053220&from=rss)
 * [2022-06-16, 22:31:00](https://soylentnews.org/article.pl?sid=22/06/16/1030237&from=rss) - [TSMC's Arizona Fab Construction Emerges at Breakneck Speed](https://soylentnews.org/article.pl?sid=22/06/16/1030237&from=rss)
-* [2022-06-16, 19:49:00](https://soylentnews.org/article.pl?sid=22/06/16/0120212&from=rss) - [Happy the Elephant is Not a Person, Says Court in Key US Animal Rights Case](https://soylentnews.org/article.pl?sid=22/06/16/0120212&from=rss)
 
 ## [Archives](archives/index.md)
 
