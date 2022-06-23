@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-23, 00:51:00](https://soylentnews.org/article.pl?sid=22/06/22/1417231&from=rss) - [Micro-Device Could Pick Up Early Signs of Heart Attack or Stroke](https://soylentnews.org/article.pl?sid=22/06/22/1417231&from=rss)
 * [2022-06-22, 22:06:00](https://soylentnews.org/article.pl?sid=22/06/22/1157225&from=rss) - [NASA Attempt to Boost International Space Station in Orbit Cuts Off Unexpectedly](https://soylentnews.org/article.pl?sid=22/06/22/1157225&from=rss)
 * [2022-06-22, 19:19:00](https://soylentnews.org/article.pl?sid=22/06/22/0510258&from=rss) - [Hidden Anti-Cryptography Provisions in Internet Anti-Trust Bills](https://soylentnews.org/article.pl?sid=22/06/22/0510258&from=rss)
 * [2022-06-22, 16:33:00](https://soylentnews.org/article.pl?sid=22/06/22/0451216&from=rss) - [Testing the Use of Human Urine as a Natural Fertilizer for Crops](https://soylentnews.org/article.pl?sid=22/06/22/0451216&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-16, 22:31:00](https://soylentnews.org/article.pl?sid=22/06/16/1030237&from=rss) - [TSMC's Arizona Fab Construction Emerges at Breakneck Speed](https://soylentnews.org/article.pl?sid=22/06/16/1030237&from=rss)
 * [2022-06-16, 19:49:00](https://soylentnews.org/article.pl?sid=22/06/16/0120212&from=rss) - [Happy the Elephant is Not a Person, Says Court in Key US Animal Rights Case](https://soylentnews.org/article.pl?sid=22/06/16/0120212&from=rss)
 * [2022-06-16, 17:02:00](https://soylentnews.org/article.pl?sid=22/06/15/155216&from=rss) - [A Toxic Chemical Used in Hair Products for Black Women Fuels Breast Cancer, Study Finds](https://soylentnews.org/article.pl?sid=22/06/15/155216&from=rss)
-* [2022-06-16, 14:20:00](https://soylentnews.org/article.pl?sid=22/06/15/150258&from=rss) - [Astronomers May Have Detected a ‘Dark’ Free-Floating Black Hole](https://soylentnews.org/article.pl?sid=22/06/15/150258&from=rss)
 
 ## [Archives](archives/index.md)
 
