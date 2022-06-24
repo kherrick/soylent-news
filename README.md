@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-24, 01:35:00](https://soylentnews.org/article.pl?sid=22/06/23/1144223&from=rss) - [Privacy-focused Brave Search Grew by 5,000% in a Year](https://soylentnews.org/article.pl?sid=22/06/23/1144223&from=rss)
 * [2022-06-23, 22:52:00](https://soylentnews.org/article.pl?sid=22/06/23/0357244&from=rss) - [A Celebrated AI Has Learned a New Trick: How to Do Chemistry](https://soylentnews.org/article.pl?sid=22/06/23/0357244&from=rss)
 * [2022-06-23, 20:08:00](https://soylentnews.org/article.pl?sid=22/06/23/0127247&from=rss) - [Mysterious 'Blue Blobs' Reveal a New Kind of Star System](https://soylentnews.org/article.pl?sid=22/06/23/0127247&from=rss)
 * [2022-06-23, 17:26:00](https://soylentnews.org/article.pl?sid=22/06/23/0126234&from=rss) - [Study Shows Electric Vehicles Could be Charged on the Go Via Peer-to-Peer System](https://soylentnews.org/article.pl?sid=22/06/23/0126234&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-17, 23:23:00](https://soylentnews.org/article.pl?sid=22/06/17/1157205&from=rss) - [Plastic Processors for Less Than a Penny Apiece](https://soylentnews.org/article.pl?sid=22/06/17/1157205&from=rss)
 * [2022-06-17, 20:41:00](https://soylentnews.org/article.pl?sid=22/06/17/0243240&from=rss) - [Hanging Out With Bats to Discover the Secrets of Their Biology](https://soylentnews.org/article.pl?sid=22/06/17/0243240&from=rss)
 * [2022-06-17, 17:57:00](https://soylentnews.org/article.pl?sid=22/06/17/0228209&from=rss) - [Discovery of the Most Luminous Quasar of the Last 9 Gyr](https://soylentnews.org/article.pl?sid=22/06/17/0228209&from=rss)
-* [2022-06-17, 15:08:00](https://soylentnews.org/article.pl?sid=22/06/16/1511205&from=rss) - [French 4G Antenna Suspected of Disturbing Cows Will be Shut Down](https://soylentnews.org/article.pl?sid=22/06/16/1511205&from=rss)
 
 ## [Archives](archives/index.md)
 
