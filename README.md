@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-24, 07:05:00](https://soylentnews.org/article.pl?sid=22/06/23/1232235&from=rss) - [NASA, SpaceX to Test Satellite Crash-prevention Strategies](https://soylentnews.org/article.pl?sid=22/06/23/1232235&from=rss)
 * [2022-06-24, 04:18:00](https://soylentnews.org/article.pl?sid=22/06/23/1229256&from=rss) - [Poliovirus May be Spreading in London; Virus Detected in Sewage for Months](https://soylentnews.org/article.pl?sid=22/06/23/1229256&from=rss)
 * [2022-06-24, 01:35:00](https://soylentnews.org/article.pl?sid=22/06/23/1144223&from=rss) - [Privacy-focused Brave Search Grew by 5,000% in a Year](https://soylentnews.org/article.pl?sid=22/06/23/1144223&from=rss)
 * [2022-06-23, 22:52:00](https://soylentnews.org/article.pl?sid=22/06/23/0357244&from=rss) - [A Celebrated AI Has Learned a New Trick: How to Do Chemistry](https://soylentnews.org/article.pl?sid=22/06/23/0357244&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-18, 08:53:00](https://soylentnews.org/article.pl?sid=22/06/17/1818219&from=rss) - [China Launches 'Fujian,' its Most Advanced Aircraft Carrier](https://soylentnews.org/article.pl?sid=22/06/17/1818219&from=rss)
 * [2022-06-18, 04:07:00](https://soylentnews.org/article.pl?sid=22/06/17/1334238&from=rss) - [Inspired by Palm Trees, Scientists Develop Hurricane-Resilient Wind Turbines](https://soylentnews.org/article.pl?sid=22/06/17/1334238&from=rss)
 * [2022-06-17, 23:23:00](https://soylentnews.org/article.pl?sid=22/06/17/1157205&from=rss) - [Plastic Processors for Less Than a Penny Apiece](https://soylentnews.org/article.pl?sid=22/06/17/1157205&from=rss)
-* [2022-06-17, 20:41:00](https://soylentnews.org/article.pl?sid=22/06/17/0243240&from=rss) - [Hanging Out With Bats to Discover the Secrets of Their Biology](https://soylentnews.org/article.pl?sid=22/06/17/0243240&from=rss)
 
 ## [Archives](archives/index.md)
 
