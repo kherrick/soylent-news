@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-24, 16:23:00](https://soylentnews.org/article.pl?sid=22/06/23/141239&from=rss) - [More AMD GPUs Are Selling Under MSRP in Europe as Mining Tanks](https://soylentnews.org/article.pl?sid=22/06/23/141239&from=rss)
 * [2022-06-24, 13:38:00](https://soylentnews.org/politics/article.pl?sid=22/06/23/1242219&from=rss) - [The World’s Biggest Surveillance Company You’ve Never Heard of](https://soylentnews.org/politics/article.pl?sid=22/06/23/1242219&from=rss)
 * [2022-06-24, 10:54:00](https://soylentnews.org/article.pl?sid=22/06/23/1236225&from=rss) - [When the World of Nanotechnology and Microbreweries Meet](https://soylentnews.org/article.pl?sid=22/06/23/1236225&from=rss)
 * [2022-06-24, 07:05:00](https://soylentnews.org/article.pl?sid=22/06/23/1232235&from=rss) - [NASA, SpaceX to Test Satellite Crash-prevention Strategies](https://soylentnews.org/article.pl?sid=22/06/23/1232235&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-18, 23:11:00](https://soylentnews.org/article.pl?sid=22/06/17/1832206&from=rss) - [Are We Born With a Moral Compass?](https://soylentnews.org/article.pl?sid=22/06/17/1832206&from=rss)
 * [2022-06-18, 18:27:00](https://soylentnews.org/article.pl?sid=22/06/17/1830229&from=rss) - [Floppotron 3.0](https://soylentnews.org/article.pl?sid=22/06/17/1830229&from=rss)
 * [2022-06-18, 13:41:00](https://soylentnews.org/article.pl?sid=22/06/17/1822211&from=rss) - [Europe Cracks Down on Data Cap Exemptions in Update to Net Neutrality Rules](https://soylentnews.org/article.pl?sid=22/06/17/1822211&from=rss)
-* [2022-06-18, 08:53:00](https://soylentnews.org/article.pl?sid=22/06/17/1818219&from=rss) - [China Launches 'Fujian,' its Most Advanced Aircraft Carrier](https://soylentnews.org/article.pl?sid=22/06/17/1818219&from=rss)
 
 ## [Archives](archives/index.md)
 
