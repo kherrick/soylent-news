@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 05:25:00](https://soylentnews.org/article.pl?sid=22/06/24/0127250&from=rss) - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://soylentnews.org/article.pl?sid=22/06/24/0127250&from=rss)
 * [2022-06-25, 00:39:00](https://soylentnews.org/article.pl?sid=22/06/24/017209&from=rss) - [Starlink, Dish, and the Fight Over the 12 GHz Band](https://soylentnews.org/article.pl?sid=22/06/24/017209&from=rss)

@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-25, 05:25:00](https://soylentnews.org/article.pl?sid=22/06/24/0127250&from=rss) - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://soylentnews.org/article.pl?sid=22/06/24/0127250&from=rss)
 * [2022-06-25, 00:39:00](https://soylentnews.org/article.pl?sid=22/06/24/017209&from=rss) - [Starlink, Dish, and the Fight Over the 12 GHz Band](https://soylentnews.org/article.pl?sid=22/06/24/017209&from=rss)
 * [2022-06-24, 21:54:00](https://soylentnews.org/article.pl?sid=22/06/24/0051202&from=rss) - [South Korea Launches First Successful Homegrown Rocket, Starting 'New Era' for Space Program](https://soylentnews.org/article.pl?sid=22/06/24/0051202&from=rss)
 * [2022-06-24, 19:09:00](https://soylentnews.org/article.pl?sid=22/06/24/0018243&from=rss) - [Used Beer Yeast Could be Simple Solution to Heavy Metal Contamination in Water](https://soylentnews.org/article.pl?sid=22/06/24/0018243&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-19, 18:08:00](https://soylentnews.org/article.pl?sid=22/06/18/0421231&from=rss) - [Tight Budgeters Beware: Skip the Coffee Before Shopping](https://soylentnews.org/article.pl?sid=22/06/18/0421231&from=rss)
 * [2022-06-19, 13:23:00](https://soylentnews.org/article.pl?sid=22/06/18/0113244&from=rss) - [Why Sounds and Smells Are as Vital to Cities as the Sights](https://soylentnews.org/article.pl?sid=22/06/18/0113244&from=rss)
 * [2022-06-19, 08:41:00](https://soylentnews.org/article.pl?sid=22/06/18/011245&from=rss) - [Massive DDoS Attack Delivered By Tiny Botnet](https://soylentnews.org/article.pl?sid=22/06/18/011245&from=rss)
-* [2022-06-19, 03:57:00](https://soylentnews.org/article.pl?sid=22/06/18/0017258&from=rss) - [Researchers find: Why do cats lick and chew catnip?](https://soylentnews.org/article.pl?sid=22/06/18/0017258&from=rss)
 
 ## [Archives](archives/index.md)
 
