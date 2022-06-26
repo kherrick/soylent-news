@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-26, 14:39:00](https://soylentnews.org/article.pl?sid=22/06/26/0032216&from=rss) - [Microsoft's Complicated Dance With Open Source](https://soylentnews.org/article.pl?sid=22/06/26/0032216&from=rss)
 * [2022-06-26, 09:55:00](https://soylentnews.org/article.pl?sid=22/06/26/0030253&from=rss) - [The Power and Pitfalls of AI for U.S. Intelligence](https://soylentnews.org/article.pl?sid=22/06/26/0030253&from=rss)
 * [2022-06-26, 05:09:00](https://soylentnews.org/article.pl?sid=22/06/24/1754212&from=rss) - [Fix the Hog: Harley, Westinghouse Ordered to Fix Warranties](https://soylentnews.org/article.pl?sid=22/06/24/1754212&from=rss)
 * [2022-06-26, 00:22:00](https://soylentnews.org/article.pl?sid=22/06/24/1751206&from=rss) - [Wild Solar Weather is Causing Satellites to Plummet From Orbit. It's Only Going to Get Worse.](https://soylentnews.org/article.pl?sid=22/06/24/1751206&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-20, 15:24:00](https://soylentnews.org/article.pl?sid=22/06/19/1520254&from=rss) - [NASA Satellite Finds Cosmic Neighborhood Just 33 Light-Years Away](https://soylentnews.org/article.pl?sid=22/06/19/1520254&from=rss)
 * [2022-06-20, 12:41:00](https://soylentnews.org/article.pl?sid=22/06/19/1454229&from=rss) - [TSMC Reveals 2nm Node: 30% More Performance by 2025](https://soylentnews.org/article.pl?sid=22/06/19/1454229&from=rss)
 * [2022-06-20, 09:55:00](https://soylentnews.org/article.pl?sid=22/06/19/1448227&from=rss) - [Tesla Autopilot - 273 Crashes in the Last Year - NHTSA](https://soylentnews.org/article.pl?sid=22/06/19/1448227&from=rss)
-* [2022-06-20, 07:13:00](https://soylentnews.org/article.pl?sid=22/06/19/1440252&from=rss) - [Atomically Thin Semiconductors for Nanophotonics](https://soylentnews.org/article.pl?sid=22/06/19/1440252&from=rss)
 
 ## [Archives](archives/index.md)
 
