@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-26, 19:22:00](https://soylentnews.org/article.pl?sid=22/06/26/013239&from=rss) - [Star Pose: Astronaut Demos Microgravity Yoga on International Space Station](https://soylentnews.org/article.pl?sid=22/06/26/013239&from=rss)
 * [2022-06-26, 14:39:00](https://soylentnews.org/article.pl?sid=22/06/26/0032216&from=rss) - [Microsoft's Complicated Dance With Open Source](https://soylentnews.org/article.pl?sid=22/06/26/0032216&from=rss)
 * [2022-06-26, 09:55:00](https://soylentnews.org/article.pl?sid=22/06/26/0030253&from=rss) - [The Power and Pitfalls of AI for U.S. Intelligence](https://soylentnews.org/article.pl?sid=22/06/26/0030253&from=rss)
 * [2022-06-26, 05:09:00](https://soylentnews.org/article.pl?sid=22/06/24/1754212&from=rss) - [Fix the Hog: Harley, Westinghouse Ordered to Fix Warranties](https://soylentnews.org/article.pl?sid=22/06/24/1754212&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-20, 18:08:00](https://soylentnews.org/article.pl?sid=22/06/19/1948251&from=rss) - [Facebook is Receiving Sensitive Medical Information From Hospital Websites – the Markup](https://soylentnews.org/article.pl?sid=22/06/19/1948251&from=rss)
 * [2022-06-20, 15:24:00](https://soylentnews.org/article.pl?sid=22/06/19/1520254&from=rss) - [NASA Satellite Finds Cosmic Neighborhood Just 33 Light-Years Away](https://soylentnews.org/article.pl?sid=22/06/19/1520254&from=rss)
 * [2022-06-20, 12:41:00](https://soylentnews.org/article.pl?sid=22/06/19/1454229&from=rss) - [TSMC Reveals 2nm Node: 30% More Performance by 2025](https://soylentnews.org/article.pl?sid=22/06/19/1454229&from=rss)
-* [2022-06-20, 09:55:00](https://soylentnews.org/article.pl?sid=22/06/19/1448227&from=rss) - [Tesla Autopilot - 273 Crashes in the Last Year - NHTSA](https://soylentnews.org/article.pl?sid=22/06/19/1448227&from=rss)
 
 ## [Archives](archives/index.md)
 
