@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-26, 00:22:00](https://soylentnews.org/article.pl?sid=22/06/24/1751206&from=rss) - [Wild Solar Weather is Causing Satellites to Plummet From Orbit. It's Only Going to Get Worse.](https://soylentnews.org/article.pl?sid=22/06/24/1751206&from=rss)
 * [2022-06-25, 19:39:00](https://soylentnews.org/article.pl?sid=22/06/25/1720200&from=rss) - [Advice Needed: Best Simple Website Platform.](https://soylentnews.org/article.pl?sid=22/06/25/1720200&from=rss)
 * [2022-06-25, 14:53:00](https://soylentnews.org/article.pl?sid=22/06/24/1747217&from=rss) - [Graphical Desktop System X Window Turns 38](https://soylentnews.org/article.pl?sid=22/06/24/1747217&from=rss)
 * [2022-06-25, 10:11:00](https://soylentnews.org/article.pl?sid=22/06/24/1740257&from=rss) - [Artificial Photosynthesis Can Produce Food Without Sunshine](https://soylentnews.org/article.pl?sid=22/06/24/1740257&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-20, 07:13:00](https://soylentnews.org/article.pl?sid=22/06/19/1440252&from=rss) - [Atomically Thin Semiconductors for Nanophotonics](https://soylentnews.org/article.pl?sid=22/06/19/1440252&from=rss)
 * [2022-06-20, 04:27:00](https://soylentnews.org/article.pl?sid=22/06/19/1429235&from=rss) - [Julian Assange's Extradition to the US Approved by UK Home Secretary](https://soylentnews.org/article.pl?sid=22/06/19/1429235&from=rss)
 * [2022-06-20, 01:39:00](https://soylentnews.org/article.pl?sid=22/06/19/1427231&from=rss) - [Marseille Panopticon](https://soylentnews.org/article.pl?sid=22/06/19/1427231&from=rss)
-* [2022-06-19, 22:45:00](https://soylentnews.org/article.pl?sid=22/06/19/1427201&from=rss) - [SpaceX Launches Three Rockets in 36 Hours](https://soylentnews.org/article.pl?sid=22/06/19/1427201&from=rss)
 
 ## [Archives](archives/index.md)
 
