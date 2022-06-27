@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-27, 08:21:00](https://soylentnews.org/article.pl?sid=22/06/26/1633215&from=rss) - [Using a Locust's Brain and Antennae to Detect Mouth Cancer](https://soylentnews.org/article.pl?sid=22/06/26/1633215&from=rss)
 * [2022-06-27, 05:35:00](https://soylentnews.org/article.pl?sid=22/06/26/1613215&from=rss) - [PyPi Python Packages Caught Sending Stolen AWS Keys to Unsecured Sites](https://soylentnews.org/article.pl?sid=22/06/26/1613215&from=rss)
 * [2022-06-27, 02:51:00](https://soylentnews.org/article.pl?sid=22/06/26/022259&from=rss) - [Largest Bacterium Ever Found is Surprisingly Complex](https://soylentnews.org/article.pl?sid=22/06/26/022259&from=rss)
 * [2022-06-27, 00:04:00](https://soylentnews.org/article.pl?sid=22/06/26/0148220&from=rss) - [The Rise and Postponement of the Psyche Mission](https://soylentnews.org/article.pl?sid=22/06/26/0148220&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-21, 05:10:00](https://soylentnews.org/article.pl?sid=22/06/20/1347257&from=rss) - [Can Farms Produce to the Max and Still Reduce Greenhouse Gas Emissions?](https://soylentnews.org/article.pl?sid=22/06/20/1347257&from=rss)
 * [2022-06-21, 02:26:00](https://soylentnews.org/article.pl?sid=22/06/20/1345257&from=rss) - [Reseachers Training ‘Hero Rats’ to Locate Earthquake Survivors](https://soylentnews.org/article.pl?sid=22/06/20/1345257&from=rss)
 * [2022-06-20, 23:40:00](https://soylentnews.org/article.pl?sid=22/06/20/1344220&from=rss) - [NASA's Next Mars Copter to Have Rotors Tested in Japan](https://soylentnews.org/article.pl?sid=22/06/20/1344220&from=rss)
-* [2022-06-20, 20:56:00](https://soylentnews.org/article.pl?sid=22/06/20/1341226&from=rss) - [Norepinephrine: How the Brain Responds to Surprising Events](https://soylentnews.org/article.pl?sid=22/06/20/1341226&from=rss)
 
 ## [Archives](archives/index.md)
 
