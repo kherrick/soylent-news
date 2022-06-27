@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-27, 13:48:00](https://soylentnews.org/article.pl?sid=22/06/26/1649224&from=rss) - [Tapping the Ocean as a Source of Natural Products](https://soylentnews.org/article.pl?sid=22/06/26/1649224&from=rss)
 * [2022-06-27, 11:09:00](https://soylentnews.org/article.pl?sid=22/06/26/1642210&from=rss) - [A Massive Sunspot That Could Unleash Significant Solar Flares is Pointed Right at Us](https://soylentnews.org/article.pl?sid=22/06/26/1642210&from=rss)
 * [2022-06-27, 08:21:00](https://soylentnews.org/article.pl?sid=22/06/26/1633215&from=rss) - [Using a Locust's Brain and Antennae to Detect Mouth Cancer](https://soylentnews.org/article.pl?sid=22/06/26/1633215&from=rss)
 * [2022-06-27, 05:35:00](https://soylentnews.org/article.pl?sid=22/06/26/1613215&from=rss) - [PyPi Python Packages Caught Sending Stolen AWS Keys to Unsecured Sites](https://soylentnews.org/article.pl?sid=22/06/26/1613215&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-21, 10:43:00](https://soylentnews.org/article.pl?sid=22/06/20/1523229&from=rss) - [Amazon Will Pilot Drone Delivery in California This Year](https://soylentnews.org/article.pl?sid=22/06/20/1523229&from=rss)
 * [2022-06-21, 07:57:00](https://soylentnews.org/article.pl?sid=22/06/20/1417233&from=rss) - [Google's Ad Business Could Finally Crack Open](https://soylentnews.org/article.pl?sid=22/06/20/1417233&from=rss)
 * [2022-06-21, 05:10:00](https://soylentnews.org/article.pl?sid=22/06/20/1347257&from=rss) - [Can Farms Produce to the Max and Still Reduce Greenhouse Gas Emissions?](https://soylentnews.org/article.pl?sid=22/06/20/1347257&from=rss)
-* [2022-06-21, 02:26:00](https://soylentnews.org/article.pl?sid=22/06/20/1345257&from=rss) - [Reseachers Training ‘Hero Rats’ to Locate Earthquake Survivors](https://soylentnews.org/article.pl?sid=22/06/20/1345257&from=rss)
 
 ## [Archives](archives/index.md)
 
