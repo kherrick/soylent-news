@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-27, 02:51:00](https://soylentnews.org/article.pl?sid=22/06/26/022259&from=rss) - [Largest Bacterium Ever Found is Surprisingly Complex](https://soylentnews.org/article.pl?sid=22/06/26/022259&from=rss)
 * [2022-06-27, 00:04:00](https://soylentnews.org/article.pl?sid=22/06/26/0148220&from=rss) - [The Rise and Postponement of the Psyche Mission](https://soylentnews.org/article.pl?sid=22/06/26/0148220&from=rss)
 * [2022-06-26, 19:22:00](https://soylentnews.org/article.pl?sid=22/06/26/013239&from=rss) - [Star Pose: Astronaut Demos Microgravity Yoga on International Space Station](https://soylentnews.org/article.pl?sid=22/06/26/013239&from=rss)
 * [2022-06-26, 14:39:00](https://soylentnews.org/article.pl?sid=22/06/26/0032216&from=rss) - [Microsoft's Complicated Dance With Open Source](https://soylentnews.org/article.pl?sid=22/06/26/0032216&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-20, 23:40:00](https://soylentnews.org/article.pl?sid=22/06/20/1344220&from=rss) - [NASA's Next Mars Copter to Have Rotors Tested in Japan](https://soylentnews.org/article.pl?sid=22/06/20/1344220&from=rss)
 * [2022-06-20, 20:56:00](https://soylentnews.org/article.pl?sid=22/06/20/1341226&from=rss) - [Norepinephrine: How the Brain Responds to Surprising Events](https://soylentnews.org/article.pl?sid=22/06/20/1341226&from=rss)
 * [2022-06-20, 18:08:00](https://soylentnews.org/article.pl?sid=22/06/19/1948251&from=rss) - [Facebook is Receiving Sensitive Medical Information From Hospital Websites – the Markup](https://soylentnews.org/article.pl?sid=22/06/19/1948251&from=rss)
-* [2022-06-20, 15:24:00](https://soylentnews.org/article.pl?sid=22/06/19/1520254&from=rss) - [NASA Satellite Finds Cosmic Neighborhood Just 33 Light-Years Away](https://soylentnews.org/article.pl?sid=22/06/19/1520254&from=rss)
 
 ## [Archives](archives/index.md)
 
