@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-27, 19:19:00](https://soylentnews.org/article.pl?sid=22/06/26/2340240&from=rss) - [Instagram is Testing Out a Trial in Which It Scans Users' Faces for Proof They are Over 18 Years Old](https://soylentnews.org/article.pl?sid=22/06/26/2340240&from=rss)
 * [2022-06-27, 16:33:00](https://soylentnews.org/article.pl?sid=22/06/26/1714229&from=rss) - ['Deepest Shipwreck': US WWII Ship Found Off Philippines](https://soylentnews.org/article.pl?sid=22/06/26/1714229&from=rss)
 * [2022-06-27, 13:48:00](https://soylentnews.org/article.pl?sid=22/06/26/1649224&from=rss) - [Tapping the Ocean as a Source of Natural Products](https://soylentnews.org/article.pl?sid=22/06/26/1649224&from=rss)
 * [2022-06-27, 11:09:00](https://soylentnews.org/article.pl?sid=22/06/26/1642210&from=rss) - [A Massive Sunspot That Could Unleash Significant Solar Flares is Pointed Right at Us](https://soylentnews.org/article.pl?sid=22/06/26/1642210&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-21, 16:09:00](https://soylentnews.org/article.pl?sid=22/06/21/000213&from=rss) - [New Understanding of Earth’s Architecture: Updated Maps of Tectonic Plates](https://soylentnews.org/article.pl?sid=22/06/21/000213&from=rss)
 * [2022-06-21, 13:31:00](https://soylentnews.org/article.pl?sid=22/06/20/1526233&from=rss) - [Now China Wants to Censor Online Comments](https://soylentnews.org/article.pl?sid=22/06/20/1526233&from=rss)
 * [2022-06-21, 10:43:00](https://soylentnews.org/article.pl?sid=22/06/20/1523229&from=rss) - [Amazon Will Pilot Drone Delivery in California This Year](https://soylentnews.org/article.pl?sid=22/06/20/1523229&from=rss)
-* [2022-06-21, 07:57:00](https://soylentnews.org/article.pl?sid=22/06/20/1417233&from=rss) - [Google's Ad Business Could Finally Crack Open](https://soylentnews.org/article.pl?sid=22/06/20/1417233&from=rss)
 
 ## [Archives](archives/index.md)
 
