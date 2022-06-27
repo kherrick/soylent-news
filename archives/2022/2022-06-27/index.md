@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-06-27](index.md)
+
+* [2022-06-27, 00:04:00](https://soylentnews.org/article.pl?sid=22/06/26/0148220&from=rss) - [The Rise and Postponement of the Psyche Mission](https://soylentnews.org/article.pl?sid=22/06/26/0148220&from=rss)
