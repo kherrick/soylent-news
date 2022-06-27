@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 22:02:00](https://soylentnews.org/article.pl?sid=22/06/27/0042253&from=rss) - [The Origins of Our Blood May Not be What We Thought](https://soylentnews.org/article.pl?sid=22/06/27/0042253&from=rss)
 * [2022-06-27, 19:19:00](https://soylentnews.org/article.pl?sid=22/06/26/2340240&from=rss) - [Instagram is Testing Out a Trial in Which It Scans Users' Faces for Proof They are Over 18 Years Old](https://soylentnews.org/article.pl?sid=22/06/26/2340240&from=rss)
 * [2022-06-27, 16:33:00](https://soylentnews.org/article.pl?sid=22/06/26/1714229&from=rss) - ['Deepest Shipwreck': US WWII Ship Found Off Philippines](https://soylentnews.org/article.pl?sid=22/06/26/1714229&from=rss)
 * [2022-06-27, 13:48:00](https://soylentnews.org/article.pl?sid=22/06/26/1649224&from=rss) - [Tapping the Ocean as a Source of Natural Products](https://soylentnews.org/article.pl?sid=22/06/26/1649224&from=rss)
