@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 20:08:00](https://soylentnews.org/article.pl?sid=22/06/28/1142250&from=rss) - [Third and Fourth Robotic Arms Feel Like a Part of the User’s Own Body](https://soylentnews.org/article.pl?sid=22/06/28/1142250&from=rss)
 * [2022-06-28, 17:21:00](https://soylentnews.org/article.pl?sid=22/06/27/1759232&from=rss) - [4-Billion-Year-Old Crystals Offer Clues to When Plate Tectonics Began](https://soylentnews.org/article.pl?sid=22/06/27/1759232&from=rss)
 * [2022-06-28, 14:36:00](https://soylentnews.org/article.pl?sid=22/06/27/1536252&from=rss) - [Developmental Dyslexia Essential to Human Adaptive Success](https://soylentnews.org/article.pl?sid=22/06/27/1536252&from=rss)
 * [2022-06-28, 11:52:00](https://soylentnews.org/article.pl?sid=22/06/27/1534251&from=rss) - [NASA Makes History With First Rocket Launch From Commercial Spaceport in Australia](https://soylentnews.org/article.pl?sid=22/06/27/1534251&from=rss)
