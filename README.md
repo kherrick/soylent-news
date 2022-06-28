@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-28, 00:47:00](https://soylentnews.org/article.pl?sid=22/06/27/0047210&from=rss) - [G7 Aims to Raise $600 Billion to Counter China's Belt and Road](https://soylentnews.org/article.pl?sid=22/06/27/0047210&from=rss)
 * [2022-06-27, 22:02:00](https://soylentnews.org/article.pl?sid=22/06/27/0042253&from=rss) - [The Origins of Our Blood May Not be What We Thought](https://soylentnews.org/article.pl?sid=22/06/27/0042253&from=rss)
 * [2022-06-27, 19:19:00](https://soylentnews.org/article.pl?sid=22/06/26/2340240&from=rss) - [Instagram is Testing Out a Trial in Which It Scans Users' Faces for Proof They are Over 18 Years Old](https://soylentnews.org/article.pl?sid=22/06/26/2340240&from=rss)
 * [2022-06-27, 16:33:00](https://soylentnews.org/article.pl?sid=22/06/26/1714229&from=rss) - ['Deepest Shipwreck': US WWII Ship Found Off Philippines](https://soylentnews.org/article.pl?sid=22/06/26/1714229&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-21, 21:11:00](https://soylentnews.org/article.pl?sid=22/06/21/0021202&from=rss) - [Internet Explorer shutdown to cause Japan headaches 'for months'](https://soylentnews.org/article.pl?sid=22/06/21/0021202&from=rss)
 * [2022-06-21, 18:48:00](https://soylentnews.org/article.pl?sid=22/06/21/007233&from=rss) - [Atmospheric Samples Covering Pollution Particles Analyzed Using Neutrons for the First Time](https://soylentnews.org/article.pl?sid=22/06/21/007233&from=rss)
 * [2022-06-21, 16:09:00](https://soylentnews.org/article.pl?sid=22/06/21/000213&from=rss) - [New Understanding of Earth’s Architecture: Updated Maps of Tectonic Plates](https://soylentnews.org/article.pl?sid=22/06/21/000213&from=rss)
-* [2022-06-21, 13:31:00](https://soylentnews.org/article.pl?sid=22/06/20/1526233&from=rss) - [Now China Wants to Censor Online Comments](https://soylentnews.org/article.pl?sid=22/06/20/1526233&from=rss)
 
 ## [Archives](archives/index.md)
 
