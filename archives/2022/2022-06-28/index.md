@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 17:21:00](https://soylentnews.org/article.pl?sid=22/06/27/1759232&from=rss) - [4-Billion-Year-Old Crystals Offer Clues to When Plate Tectonics Began](https://soylentnews.org/article.pl?sid=22/06/27/1759232&from=rss)
 * [2022-06-28, 14:36:00](https://soylentnews.org/article.pl?sid=22/06/27/1536252&from=rss) - [Developmental Dyslexia Essential to Human Adaptive Success](https://soylentnews.org/article.pl?sid=22/06/27/1536252&from=rss)
 * [2022-06-28, 11:52:00](https://soylentnews.org/article.pl?sid=22/06/27/1534251&from=rss) - [NASA Makes History With First Rocket Launch From Commercial Spaceport in Australia](https://soylentnews.org/article.pl?sid=22/06/27/1534251&from=rss)
 * [2022-06-28, 09:04:00](https://soylentnews.org/article.pl?sid=22/06/27/1529235&from=rss) - [Prostate Cancer Hijacks Tumor Cells’ Circadian Rhythm to Evade Hormone Therapy](https://soylentnews.org/article.pl?sid=22/06/27/1529235&from=rss)
