@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-28, 14:36:00](https://soylentnews.org/article.pl?sid=22/06/27/1536252&from=rss) - [Developmental Dyslexia Essential to Human Adaptive Success](https://soylentnews.org/article.pl?sid=22/06/27/1536252&from=rss)
 * [2022-06-28, 11:52:00](https://soylentnews.org/article.pl?sid=22/06/27/1534251&from=rss) - [NASA Makes History With First Rocket Launch From Commercial Spaceport in Australia](https://soylentnews.org/article.pl?sid=22/06/27/1534251&from=rss)
 * [2022-06-28, 09:04:00](https://soylentnews.org/article.pl?sid=22/06/27/1529235&from=rss) - [Prostate Cancer Hijacks Tumor Cells’ Circadian Rhythm to Evade Hormone Therapy](https://soylentnews.org/article.pl?sid=22/06/27/1529235&from=rss)
 * [2022-06-28, 06:18:00](https://soylentnews.org/article.pl?sid=22/06/27/1525203&from=rss) - [Remote Working Vs Back to the Office: Benefits are Clear, but There is Trouble Ahead for Some](https://soylentnews.org/article.pl?sid=22/06/27/1525203&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-22, 10:54:00](https://soylentnews.org/article.pl?sid=22/06/21/1446229&from=rss) - [NASA Finally Succeeds With its Artemis 1 Wet Launch Test](https://soylentnews.org/article.pl?sid=22/06/21/1446229&from=rss)
 * [2022-06-22, 08:09:00](https://soylentnews.org/article.pl?sid=22/06/21/1440242&from=rss) - [Google Says It's Time for Longtime Small Business Users to Pay Up](https://soylentnews.org/article.pl?sid=22/06/21/1440242&from=rss)
 * [2022-06-22, 05:25:00](https://soylentnews.org/article.pl?sid=22/06/22/086255&from=rss) - [Wreck of Historic Royal Ship Discovered Off the English Coast](https://soylentnews.org/article.pl?sid=22/06/22/086255&from=rss)
-* [2022-06-22, 02:42:00](https://soylentnews.org/article.pl?sid=22/06/21/1433259&from=rss) - [Could Nuclear Desalination Plants Beat Water Scarcity?](https://soylentnews.org/article.pl?sid=22/06/21/1433259&from=rss)
 
 ## [Archives](archives/index.md)
 
