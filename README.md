@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-28, 09:04:00](https://soylentnews.org/article.pl?sid=22/06/27/1529235&from=rss) - [Prostate Cancer Hijacks Tumor Cells’ Circadian Rhythm to Evade Hormone Therapy](https://soylentnews.org/article.pl?sid=22/06/27/1529235&from=rss)
 * [2022-06-28, 06:18:00](https://soylentnews.org/article.pl?sid=22/06/27/1525203&from=rss) - [Remote Working Vs Back to the Office: Benefits are Clear, but There is Trouble Ahead for Some](https://soylentnews.org/article.pl?sid=22/06/27/1525203&from=rss)
 * [2022-06-28, 03:33:00](https://soylentnews.org/article.pl?sid=22/06/27/017217&from=rss) - [Single Brain Scan Can Diagnose Alzheimer’s Disease Quickly and Accurately](https://soylentnews.org/article.pl?sid=22/06/27/017217&from=rss)
 * [2022-06-28, 00:47:00](https://soylentnews.org/article.pl?sid=22/06/27/0047210&from=rss) - [G7 Aims to Raise $600 Billion to Counter China's Belt and Road](https://soylentnews.org/article.pl?sid=22/06/27/0047210&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-22, 05:25:00](https://soylentnews.org/article.pl?sid=22/06/22/086255&from=rss) - [Wreck of Historic Royal Ship Discovered Off the English Coast](https://soylentnews.org/article.pl?sid=22/06/22/086255&from=rss)
 * [2022-06-22, 02:42:00](https://soylentnews.org/article.pl?sid=22/06/21/1433259&from=rss) - [Could Nuclear Desalination Plants Beat Water Scarcity?](https://soylentnews.org/article.pl?sid=22/06/21/1433259&from=rss)
 * [2022-06-21, 23:53:00](https://soylentnews.org/article.pl?sid=22/06/21/1157234&from=rss) - [Blood Pressure E-tattoo Promises Continuous, Mobile Monitoring](https://soylentnews.org/article.pl?sid=22/06/21/1157234&from=rss)
-* [2022-06-21, 21:11:00](https://soylentnews.org/article.pl?sid=22/06/21/0021202&from=rss) - [Internet Explorer shutdown to cause Japan headaches 'for months'](https://soylentnews.org/article.pl?sid=22/06/21/0021202&from=rss)
 
 ## [Archives](archives/index.md)
 
