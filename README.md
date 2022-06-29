@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-29, 07:17:00](https://soylentnews.org/article.pl?sid=22/06/28/1528221&from=rss) - [What Sea Cucumbers Can Teach Us About Self-defense](https://soylentnews.org/article.pl?sid=22/06/28/1528221&from=rss)
 * [2022-06-29, 04:24:00](https://soylentnews.org/article.pl?sid=22/06/28/1525249&from=rss) - [“Atari Was Very, Very Hard” Nolan Bushnell on Atari, 50 Years Later](https://soylentnews.org/article.pl?sid=22/06/28/1525249&from=rss)
 * [2022-06-29, 01:41:00](https://soylentnews.org/article.pl?sid=22/06/28/1329244&from=rss) - [Drone-Dropping Rifle With Two-Mile Range](https://soylentnews.org/article.pl?sid=22/06/28/1329244&from=rss)
 * [2022-06-28, 22:54:00](https://soylentnews.org/article.pl?sid=22/06/28/1155220&from=rss) - [We Need Smarter Cities, Not “Smart Cities”](https://soylentnews.org/article.pl?sid=22/06/28/1155220&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-23, 00:51:00](https://soylentnews.org/article.pl?sid=22/06/22/1417231&from=rss) - [Micro-Device Could Pick Up Early Signs of Heart Attack or Stroke](https://soylentnews.org/article.pl?sid=22/06/22/1417231&from=rss)
 * [2022-06-22, 22:06:00](https://soylentnews.org/article.pl?sid=22/06/22/1157225&from=rss) - [NASA Attempt to Boost International Space Station in Orbit Cuts Off Unexpectedly](https://soylentnews.org/article.pl?sid=22/06/22/1157225&from=rss)
 * [2022-06-22, 19:19:00](https://soylentnews.org/article.pl?sid=22/06/22/0510258&from=rss) - [Hidden Anti-Cryptography Provisions in Internet Anti-Trust Bills](https://soylentnews.org/article.pl?sid=22/06/22/0510258&from=rss)
-* [2022-06-22, 16:33:00](https://soylentnews.org/article.pl?sid=22/06/22/0451216&from=rss) - [Testing the Use of Human Urine as a Natural Fertilizer for Crops](https://soylentnews.org/article.pl?sid=22/06/22/0451216&from=rss)
 
 ## [Archives](archives/index.md)
 
