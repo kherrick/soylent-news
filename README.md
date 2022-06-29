@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-29, 18:18:00](https://soylentnews.org/article.pl?sid=22/06/29/020210&from=rss) - [Ancient Microbes May Help Us Find Extraterrestrial Life Forms](https://soylentnews.org/article.pl?sid=22/06/29/020210&from=rss)
 * [2022-06-29, 15:33:00](https://soylentnews.org/article.pl?sid=22/06/29/0112233&from=rss) - [Facebook is Bombarding Cancer Patients With Ads for Unproven Treatments](https://soylentnews.org/article.pl?sid=22/06/29/0112233&from=rss)
 * [2022-06-29, 12:48:00](https://soylentnews.org/article.pl?sid=22/06/28/1544251&from=rss) - [Mystery Rocket Crashes Into Moon but No Country Will Take Credit](https://soylentnews.org/article.pl?sid=22/06/28/1544251&from=rss)
 * [2022-06-29, 10:02:00](https://soylentnews.org/article.pl?sid=22/06/28/1534229&from=rss) - [Study: Slowing Down Automation May Have Economic Benefits](https://soylentnews.org/article.pl?sid=22/06/28/1534229&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-23, 11:52:00](https://soylentnews.org/article.pl?sid=22/06/22/1843202&from=rss) - [AMD Publishes Source Code for FidelityFX Super Resolution 2.0](https://soylentnews.org/article.pl?sid=22/06/22/1843202&from=rss)
 * [2022-06-23, 09:09:00](https://soylentnews.org/article.pl?sid=22/06/22/1840230&from=rss) - [US Supreme Court Rejects Bayer’s Bid to End Roundup Lawsuits](https://soylentnews.org/article.pl?sid=22/06/22/1840230&from=rss)
 * [2022-06-23, 06:25:00](https://soylentnews.org/article.pl?sid=22/06/22/1837239&from=rss) - [NASA's Chandra Catches Pulsar in X-Ray Speed Trap](https://soylentnews.org/article.pl?sid=22/06/22/1837239&from=rss)
-* [2022-06-23, 03:42:00](https://soylentnews.org/article.pl?sid=22/06/22/1829209&from=rss) - [PCI Express 7.0 Finalized: 128 GT/s in 2025](https://soylentnews.org/article.pl?sid=22/06/22/1829209&from=rss)
 
 ## [Archives](archives/index.md)
 
