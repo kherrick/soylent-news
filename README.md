@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-29, 01:41:00](https://soylentnews.org/article.pl?sid=22/06/28/1329244&from=rss) - [Drone-Dropping Rifle With Two-Mile Range](https://soylentnews.org/article.pl?sid=22/06/28/1329244&from=rss)
 * [2022-06-28, 22:54:00](https://soylentnews.org/article.pl?sid=22/06/28/1155220&from=rss) - [We Need Smarter Cities, Not “Smart Cities”](https://soylentnews.org/article.pl?sid=22/06/28/1155220&from=rss)
 * [2022-06-28, 20:08:00](https://soylentnews.org/article.pl?sid=22/06/28/1142250&from=rss) - [Third and Fourth Robotic Arms Feel Like a Part of the User’s Own Body](https://soylentnews.org/article.pl?sid=22/06/28/1142250&from=rss)
 * [2022-06-28, 17:21:00](https://soylentnews.org/article.pl?sid=22/06/27/1759232&from=rss) - [4-Billion-Year-Old Crystals Offer Clues to When Plate Tectonics Began](https://soylentnews.org/article.pl?sid=22/06/27/1759232&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-22, 19:19:00](https://soylentnews.org/article.pl?sid=22/06/22/0510258&from=rss) - [Hidden Anti-Cryptography Provisions in Internet Anti-Trust Bills](https://soylentnews.org/article.pl?sid=22/06/22/0510258&from=rss)
 * [2022-06-22, 16:33:00](https://soylentnews.org/article.pl?sid=22/06/22/0451216&from=rss) - [Testing the Use of Human Urine as a Natural Fertilizer for Crops](https://soylentnews.org/article.pl?sid=22/06/22/0451216&from=rss)
 * [2022-06-22, 13:46:00](https://soylentnews.org/article.pl?sid=22/06/21/151218&from=rss) - [Science Coverage of Climate Change Can Change Minds—Briefly](https://soylentnews.org/article.pl?sid=22/06/21/151218&from=rss)
-* [2022-06-22, 12:20:00](https://soylentnews.org/article.pl?sid=22/06/22/1214221&from=rss) - [The Open Secret of Google Search](https://soylentnews.org/article.pl?sid=22/06/22/1214221&from=rss)
 
 ## [Archives](archives/index.md)
 
