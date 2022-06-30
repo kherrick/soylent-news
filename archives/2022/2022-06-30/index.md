@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
+* [2022-06-30, 13:35:00](https://soylentnews.org/article.pl?sid=22/06/29/1617213&from=rss) - [FBI Warning: Crooks are Using Deepfakes to Apply for Remote Tech Jobs](https://soylentnews.org/article.pl?sid=22/06/29/1617213&from=rss)
 * [2022-06-30, 10:52:00](https://soylentnews.org/article.pl?sid=22/06/29/1613259&from=rss) - [Sea Corals Found to be a Source of an Elusive “Anti-Cancer” Compound](https://soylentnews.org/article.pl?sid=22/06/29/1613259&from=rss)
 * [2022-06-30, 08:06:00](https://soylentnews.org/article.pl?sid=22/06/29/167232&from=rss) - [Not Even Your ‘Smart’ Jacuzzi Is Safe From The Internet Of Broken Things ](https://soylentnews.org/article.pl?sid=22/06/29/167232&from=rss)
 * [2022-06-30, 05:20:00](https://soylentnews.org/article.pl?sid=22/06/29/163236&from=rss) - [First Circuit Court of Appeals Upholds Eight Months of Warrantless 24/7 Video Surveillance](https://soylentnews.org/article.pl?sid=22/06/29/163236&from=rss)
