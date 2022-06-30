@@ -1,7 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2022-06-30, 05:20:00](https://soylentnews.org/article.pl?sid=22/06/29/163236&from=rss) - [First Circuit Court of Appeals Upholds Eight Months of Warrantless 24/7 Video Surveillance](https://soylentnews.org/article.pl?sid=22/06/29/163236&from=rss)
-* [2022-06-30, 05:18:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
+* [2022-06-30, 05:18:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
 * [2022-06-30, 02:36:00](https://soylentnews.org/article.pl?sid=22/06/29/1159223&from=rss) - [Pig Heart Transplant Failure: Doctors Detail Everything That Went Wrong](https://soylentnews.org/article.pl?sid=22/06/29/1159223&from=rss)
 * [2022-06-29, 23:48:00](https://soylentnews.org/article.pl?sid=22/06/29/0228255&from=rss) - [Hacking Gets Dangerously Real: 8 Cybersecurity Predictions to Watch Out for](https://soylentnews.org/article.pl?sid=22/06/29/0228255&from=rss)
 * [2022-06-29, 21:01:00](https://soylentnews.org/article.pl?sid=22/06/29/027248&from=rss) - [Arm Announces \"Immortalis\" Mobile GPU With Raytracing Acceleration](https://soylentnews.org/article.pl?sid=22/06/29/027248&from=rss)
