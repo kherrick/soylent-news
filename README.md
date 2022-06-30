@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-30, 08:06:00](https://soylentnews.org/article.pl?sid=22/06/29/167232&from=rss) - [Not Even Your ‘Smart’ Jacuzzi Is Safe From The Internet Of Broken Things ](https://soylentnews.org/article.pl?sid=22/06/29/167232&from=rss)
 * [2022-06-30, 05:20:00](https://soylentnews.org/article.pl?sid=22/06/29/163236&from=rss) - [First Circuit Court of Appeals Upholds Eight Months of Warrantless 24/7 Video Surveillance](https://soylentnews.org/article.pl?sid=22/06/29/163236&from=rss)
 * [2022-06-30, 05:18:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
 * [2022-06-30, 02:36:00](https://soylentnews.org/article.pl?sid=22/06/29/1159223&from=rss) - [Pig Heart Transplant Failure: Doctors Detail Everything That Went Wrong](https://soylentnews.org/article.pl?sid=22/06/29/1159223&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-24, 04:18:00](https://soylentnews.org/article.pl?sid=22/06/23/1229256&from=rss) - [Poliovirus May be Spreading in London; Virus Detected in Sewage for Months](https://soylentnews.org/article.pl?sid=22/06/23/1229256&from=rss)
 * [2022-06-24, 01:35:00](https://soylentnews.org/article.pl?sid=22/06/23/1144223&from=rss) - [Privacy-focused Brave Search Grew by 5,000% in a Year](https://soylentnews.org/article.pl?sid=22/06/23/1144223&from=rss)
 * [2022-06-23, 22:52:00](https://soylentnews.org/article.pl?sid=22/06/23/0357244&from=rss) - [A Celebrated AI Has Learned a New Trick: How to Do Chemistry](https://soylentnews.org/article.pl?sid=22/06/23/0357244&from=rss)
-* [2022-06-23, 20:08:00](https://soylentnews.org/article.pl?sid=22/06/23/0127247&from=rss) - [Mysterious 'Blue Blobs' Reveal a New Kind of Star System](https://soylentnews.org/article.pl?sid=22/06/23/0127247&from=rss)
 
 ## [Archives](archives/index.md)
 
