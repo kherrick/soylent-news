@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-30, 16:18:00](https://soylentnews.org/article.pl?sid=22/06/30/1112225&from=rss) - [Crypto Hedge Fund Three Arrows Capital Plunges Into Liquidation](https://soylentnews.org/article.pl?sid=22/06/30/1112225&from=rss)
 * [2022-06-30, 13:35:00](https://soylentnews.org/article.pl?sid=22/06/29/1617213&from=rss) - [FBI Warning: Crooks are Using Deepfakes to Apply for Remote Tech Jobs](https://soylentnews.org/article.pl?sid=22/06/29/1617213&from=rss)
 * [2022-06-30, 10:52:00](https://soylentnews.org/article.pl?sid=22/06/29/1613259&from=rss) - [Sea Corals Found to be a Source of an Elusive “Anti-Cancer” Compound](https://soylentnews.org/article.pl?sid=22/06/29/1613259&from=rss)
 * [2022-06-30, 08:06:00](https://soylentnews.org/article.pl?sid=22/06/29/167232&from=rss) - [Not Even Your ‘Smart’ Jacuzzi Is Safe From The Internet Of Broken Things ](https://soylentnews.org/article.pl?sid=22/06/29/167232&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-24, 13:38:00](https://soylentnews.org/politics/article.pl?sid=22/06/23/1242219&from=rss) - [The World’s Biggest Surveillance Company You’ve Never Heard of](https://soylentnews.org/politics/article.pl?sid=22/06/23/1242219&from=rss)
 * [2022-06-24, 10:54:00](https://soylentnews.org/article.pl?sid=22/06/23/1236225&from=rss) - [When the World of Nanotechnology and Microbreweries Meet](https://soylentnews.org/article.pl?sid=22/06/23/1236225&from=rss)
 * [2022-06-24, 07:05:00](https://soylentnews.org/article.pl?sid=22/06/23/1232235&from=rss) - [NASA, SpaceX to Test Satellite Crash-prevention Strategies](https://soylentnews.org/article.pl?sid=22/06/23/1232235&from=rss)
-* [2022-06-24, 04:18:00](https://soylentnews.org/article.pl?sid=22/06/23/1229256&from=rss) - [Poliovirus May be Spreading in London; Virus Detected in Sewage for Months](https://soylentnews.org/article.pl?sid=22/06/23/1229256&from=rss)
 
 ## [Archives](archives/index.md)
 
