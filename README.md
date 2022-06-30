@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-30, 21:51:00](https://soylentnews.org/article.pl?sid=22/06/30/1152224&from=rss) - [Proposed Bill to Protect Reproductive Health Information](https://soylentnews.org/article.pl?sid=22/06/30/1152224&from=rss)
 * [2022-06-30, 19:05:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
 * [2022-06-30, 19:04:00](https://soylentnews.org/article.pl?sid=22/06/30/1134246&from=rss) - [RansomHouse Extortion Group Targets AMD](https://soylentnews.org/article.pl?sid=22/06/30/1134246&from=rss)
 * [2022-06-30, 16:18:00](https://soylentnews.org/article.pl?sid=22/06/30/1112225&from=rss) - [Crypto Hedge Fund Three Arrows Capital Plunges Into Liquidation](https://soylentnews.org/article.pl?sid=22/06/30/1112225&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-24, 19:09:00](https://soylentnews.org/article.pl?sid=22/06/24/0018243&from=rss) - [Used Beer Yeast Could be Simple Solution to Heavy Metal Contamination in Water](https://soylentnews.org/article.pl?sid=22/06/24/0018243&from=rss)
 * [2022-06-24, 16:23:00](https://soylentnews.org/article.pl?sid=22/06/23/141239&from=rss) - [More AMD GPUs Are Selling Under MSRP in Europe as Mining Tanks](https://soylentnews.org/article.pl?sid=22/06/23/141239&from=rss)
 * [2022-06-24, 13:38:00](https://soylentnews.org/politics/article.pl?sid=22/06/23/1242219&from=rss) - [The World’s Biggest Surveillance Company You’ve Never Heard of](https://soylentnews.org/politics/article.pl?sid=22/06/23/1242219&from=rss)
-* [2022-06-24, 10:54:00](https://soylentnews.org/article.pl?sid=22/06/23/1236225&from=rss) - [When the World of Nanotechnology and Microbreweries Meet](https://soylentnews.org/article.pl?sid=22/06/23/1236225&from=rss)
 
 ## [Archives](archives/index.md)
 
