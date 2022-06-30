@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-06-30, 05:20:00](https://soylentnews.org/article.pl?sid=22/06/29/163236&from=rss) - [First Circuit Court of Appeals Upholds Eight Months of Warrantless 24/7 Video Surveillance](https://soylentnews.org/article.pl?sid=22/06/29/163236&from=rss)
 * [2022-06-30, 02:36:00](https://soylentnews.org/article.pl?sid=22/06/29/1159223&from=rss) - [Pig Heart Transplant Failure: Doctors Detail Everything That Went Wrong](https://soylentnews.org/article.pl?sid=22/06/29/1159223&from=rss)
 * [2022-06-29, 23:48:00](https://soylentnews.org/article.pl?sid=22/06/29/0228255&from=rss) - [Hacking Gets Dangerously Real: 8 Cybersecurity Predictions to Watch Out for](https://soylentnews.org/article.pl?sid=22/06/29/0228255&from=rss)
 * [2022-06-29, 21:01:00](https://soylentnews.org/article.pl?sid=22/06/29/027248&from=rss) - [Arm Announces \"Immortalis\" Mobile GPU With Raytracing Acceleration](https://soylentnews.org/article.pl?sid=22/06/29/027248&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-23, 22:52:00](https://soylentnews.org/article.pl?sid=22/06/23/0357244&from=rss) - [A Celebrated AI Has Learned a New Trick: How to Do Chemistry](https://soylentnews.org/article.pl?sid=22/06/23/0357244&from=rss)
 * [2022-06-23, 20:08:00](https://soylentnews.org/article.pl?sid=22/06/23/0127247&from=rss) - [Mysterious 'Blue Blobs' Reveal a New Kind of Star System](https://soylentnews.org/article.pl?sid=22/06/23/0127247&from=rss)
 * [2022-06-23, 17:26:00](https://soylentnews.org/article.pl?sid=22/06/23/0126234&from=rss) - [Study Shows Electric Vehicles Could be Charged on the Go Via Peer-to-Peer System](https://soylentnews.org/article.pl?sid=22/06/23/0126234&from=rss)
-* [2022-06-23, 14:41:00](https://soylentnews.org/article.pl?sid=22/06/22/1857257&from=rss) - [Scientists Unveil Bionic Robo-Fish to Remove Microplastics From Seas](https://soylentnews.org/article.pl?sid=22/06/22/1857257&from=rss)
 
 ## [Archives](archives/index.md)
 
