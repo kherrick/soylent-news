@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-01, 19:49:00](https://soylentnews.org/article.pl?sid=22/07/01/0312230&from=rss) - [EU Countries Approve Climate Laws, 2035 Fossil Fuel Car Ban](https://soylentnews.org/article.pl?sid=22/07/01/0312230&from=rss)
 * [2022-07-01, 17:03:00](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss) - [New Single-Mode Semiconductor Laser Delivers Power With Scalability](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss)
 * [2022-07-01, 14:21:00](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss) - [A Brief History of Zork or 'Eaten by a Grue' ](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss)
 * [2022-07-01, 14:20:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY  - SEE NEW INFORMATION ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-26, 05:09:00](https://soylentnews.org/article.pl?sid=22/06/24/1754212&from=rss) - [Fix the Hog: Harley, Westinghouse Ordered to Fix Warranties](https://soylentnews.org/article.pl?sid=22/06/24/1754212&from=rss)
 * [2022-06-26, 00:22:00](https://soylentnews.org/article.pl?sid=22/06/24/1751206&from=rss) - [Wild Solar Weather is Causing Satellites to Plummet From Orbit. It's Only Going to Get Worse.](https://soylentnews.org/article.pl?sid=22/06/24/1751206&from=rss)
 * [2022-06-25, 19:39:00](https://soylentnews.org/article.pl?sid=22/06/25/1720200&from=rss) - [Advice Needed: Best Simple Website Platform.](https://soylentnews.org/article.pl?sid=22/06/25/1720200&from=rss)
-* [2022-06-25, 14:53:00](https://soylentnews.org/article.pl?sid=22/06/24/1747217&from=rss) - [Graphical Desktop System X Window Turns 38](https://soylentnews.org/article.pl?sid=22/06/24/1747217&from=rss)
 
 ## [Archives](archives/index.md)
 

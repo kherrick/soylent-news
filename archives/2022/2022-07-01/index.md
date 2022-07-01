@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 19:49:00](https://soylentnews.org/article.pl?sid=22/07/01/0312230&from=rss) - [EU Countries Approve Climate Laws, 2035 Fossil Fuel Car Ban](https://soylentnews.org/article.pl?sid=22/07/01/0312230&from=rss)
 * [2022-07-01, 17:03:00](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss) - [New Single-mode Semiconductor Laser Delivers Power With Scalability](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss)
 * [2022-07-01, 14:21:00](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss) - [A Brief History of Zork or 'Eaten by a Grue' [*AC Friendly*]](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss)
 * [2022-07-01, 14:20:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY  - SEE NEW INFORMATION ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
