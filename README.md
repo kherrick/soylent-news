@@ -1,7 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2022-07-01, 17:03:00](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss) - [New Single-mode Semiconductor Laser Delivers Power With Scalability](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss)
-* [2022-07-01, 14:21:00](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss) - [A Brief History of Zork or 'Eaten by a Grue' [*AC Friendly*]](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss)
+* [2022-07-01, 14:21:00](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss) - [A Brief History of Zork or 'Eaten by a Grue' ](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss)
 * [2022-07-01, 14:20:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY  - SEE NEW INFORMATION ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
 * [2022-07-01, 11:34:00](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss) - [NASA Scientists Say Images From the Webb Telescope Nearly Brought Them to Tears](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss)
 * [2022-07-01, 08:48:00](https://soylentnews.org/article.pl?sid=22/06/30/1422205&from=rss) - [Patchable and Preventable Security Issues Lead Causes of Q1 Attacks](https://soylentnews.org/article.pl?sid=22/06/30/1422205&from=rss)
