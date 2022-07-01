@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-01, 14:21:00](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss) - [A Brief History of Zork or 'Eaten by a Grue' [*AC Friendly*]](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss)
 * [2022-07-01, 11:34:00](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss) - [NASA Scientists Say Images From the Webb Telescope Nearly Brought Them to Tears](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss)
 * [2022-07-01, 08:48:00](https://soylentnews.org/article.pl?sid=22/06/30/1422205&from=rss) - [Patchable and Preventable Security Issues Lead Causes of Q1 Attacks](https://soylentnews.org/article.pl?sid=22/06/30/1422205&from=rss)
 * [2022-07-01, 06:06:00](https://soylentnews.org/article.pl?sid=22/06/30/1413241&from=rss) - [New Chip for Robots Conveys 'Sense of Touch' to Human Operators](https://soylentnews.org/article.pl?sid=22/06/30/1413241&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-25, 19:39:00](https://soylentnews.org/article.pl?sid=22/06/25/1720200&from=rss) - [Advice Needed: Best Simple Website Platform.](https://soylentnews.org/article.pl?sid=22/06/25/1720200&from=rss)
 * [2022-06-25, 14:53:00](https://soylentnews.org/article.pl?sid=22/06/24/1747217&from=rss) - [Graphical Desktop System X Window Turns 38](https://soylentnews.org/article.pl?sid=22/06/24/1747217&from=rss)
 * [2022-06-25, 10:11:00](https://soylentnews.org/article.pl?sid=22/06/24/1740257&from=rss) - [Artificial Photosynthesis Can Produce Food Without Sunshine](https://soylentnews.org/article.pl?sid=22/06/24/1740257&from=rss)
-* [2022-06-25, 05:25:00](https://soylentnews.org/article.pl?sid=22/06/24/0127250&from=rss) - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://soylentnews.org/article.pl?sid=22/06/24/0127250&from=rss)
 
 ## [Archives](archives/index.md)
 
