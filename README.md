@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-01, 17:03:00](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss) - [New Single-mode Semiconductor Laser Delivers Power With Scalability](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss)
 * [2022-07-01, 14:21:00](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss) - [A Brief History of Zork or 'Eaten by a Grue' [*AC Friendly*]](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss)
 * [2022-07-01, 14:20:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY  - SEE NEW INFORMATION ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
 * [2022-07-01, 11:34:00](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss) - [NASA Scientists Say Images From the Webb Telescope Nearly Brought Them to Tears](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-26, 00:22:00](https://soylentnews.org/article.pl?sid=22/06/24/1751206&from=rss) - [Wild Solar Weather is Causing Satellites to Plummet From Orbit. It's Only Going to Get Worse.](https://soylentnews.org/article.pl?sid=22/06/24/1751206&from=rss)
 * [2022-06-25, 19:39:00](https://soylentnews.org/article.pl?sid=22/06/25/1720200&from=rss) - [Advice Needed: Best Simple Website Platform.](https://soylentnews.org/article.pl?sid=22/06/25/1720200&from=rss)
 * [2022-06-25, 14:53:00](https://soylentnews.org/article.pl?sid=22/06/24/1747217&from=rss) - [Graphical Desktop System X Window Turns 38](https://soylentnews.org/article.pl?sid=22/06/24/1747217&from=rss)
-* [2022-06-25, 10:11:00](https://soylentnews.org/article.pl?sid=22/06/24/1740257&from=rss) - [Artificial Photosynthesis Can Produce Food Without Sunshine](https://soylentnews.org/article.pl?sid=22/06/24/1740257&from=rss)
 
 ## [Archives](archives/index.md)
 
