@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-01, 03:21:00](https://soylentnews.org/article.pl?sid=22/06/30/1214250&from=rss) - [Rocket Lab Sees Payoff From CAPSTONE Launch](https://soylentnews.org/article.pl?sid=22/06/30/1214250&from=rss)
 * [2022-07-01, 00:34:00](https://soylentnews.org/article.pl?sid=22/06/30/1156231&from=rss) - [Raspberry Pi Pico Microcontroller Gets Wireless Version](https://soylentnews.org/article.pl?sid=22/06/30/1156231&from=rss)
 * [2022-06-30, 21:51:00](https://soylentnews.org/article.pl?sid=22/06/30/1152224&from=rss) - [Proposed Bill to Protect Reproductive Health Information](https://soylentnews.org/article.pl?sid=22/06/30/1152224&from=rss)
 * [2022-06-30, 19:05:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-25, 00:39:00](https://soylentnews.org/article.pl?sid=22/06/24/017209&from=rss) - [Starlink, Dish, and the Fight Over the 12 GHz Band](https://soylentnews.org/article.pl?sid=22/06/24/017209&from=rss)
 * [2022-06-24, 21:54:00](https://soylentnews.org/article.pl?sid=22/06/24/0051202&from=rss) - [South Korea Launches First Successful Homegrown Rocket, Starting 'New Era' for Space Program](https://soylentnews.org/article.pl?sid=22/06/24/0051202&from=rss)
 * [2022-06-24, 19:09:00](https://soylentnews.org/article.pl?sid=22/06/24/0018243&from=rss) - [Used Beer Yeast Could be Simple Solution to Heavy Metal Contamination in Water](https://soylentnews.org/article.pl?sid=22/06/24/0018243&from=rss)
-* [2022-06-24, 16:23:00](https://soylentnews.org/article.pl?sid=22/06/23/141239&from=rss) - [More AMD GPUs Are Selling Under MSRP in Europe as Mining Tanks](https://soylentnews.org/article.pl?sid=22/06/23/141239&from=rss)
 
 ## [Archives](archives/index.md)
 
