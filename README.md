@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-01, 08:48:00](https://soylentnews.org/article.pl?sid=22/06/30/1422205&from=rss) - [Patchable and Preventable Security Issues Lead Causes of Q1 Attacks](https://soylentnews.org/article.pl?sid=22/06/30/1422205&from=rss)
 * [2022-07-01, 06:06:00](https://soylentnews.org/article.pl?sid=22/06/30/1413241&from=rss) - [New Chip for Robots Conveys 'Sense of Touch' to Human Operators](https://soylentnews.org/article.pl?sid=22/06/30/1413241&from=rss)
 * [2022-07-01, 03:21:00](https://soylentnews.org/article.pl?sid=22/06/30/1214250&from=rss) - [Rocket Lab Sees Payoff From CAPSTONE Launch](https://soylentnews.org/article.pl?sid=22/06/30/1214250&from=rss)
 * [2022-07-01, 00:34:00](https://soylentnews.org/article.pl?sid=22/06/30/1156231&from=rss) - [Raspberry Pi Pico Microcontroller Gets Wireless Version](https://soylentnews.org/article.pl?sid=22/06/30/1156231&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-25, 10:11:00](https://soylentnews.org/article.pl?sid=22/06/24/1740257&from=rss) - [Artificial Photosynthesis Can Produce Food Without Sunshine](https://soylentnews.org/article.pl?sid=22/06/24/1740257&from=rss)
 * [2022-06-25, 05:25:00](https://soylentnews.org/article.pl?sid=22/06/24/0127250&from=rss) - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://soylentnews.org/article.pl?sid=22/06/24/0127250&from=rss)
 * [2022-06-25, 00:39:00](https://soylentnews.org/article.pl?sid=22/06/24/017209&from=rss) - [Starlink, Dish, and the Fight Over the 12 GHz Band](https://soylentnews.org/article.pl?sid=22/06/24/017209&from=rss)
-* [2022-06-24, 21:54:00](https://soylentnews.org/article.pl?sid=22/06/24/0051202&from=rss) - [South Korea Launches First Successful Homegrown Rocket, Starting 'New Era' for Space Program](https://soylentnews.org/article.pl?sid=22/06/24/0051202&from=rss)
 
 ## [Archives](archives/index.md)
 
