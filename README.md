@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-02, 03:08:00](https://soylentnews.org/article.pl?sid=22/07/01/1320202&from=rss) - [Uber Reports Fewer Sexual Assaults but Greater Rate of Deaths During Rides ](https://soylentnews.org/article.pl?sid=22/07/01/1320202&from=rss)
 * [2022-07-01, 19:49:00](https://soylentnews.org/article.pl?sid=22/07/01/0312230&from=rss) - [EU Countries Approve Climate Laws, 2035 Fossil Fuel Car Ban](https://soylentnews.org/article.pl?sid=22/07/01/0312230&from=rss)
 * [2022-07-01, 17:03:00](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss) - [New Single-Mode Semiconductor Laser Delivers Power With Scalability](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss)
 * [2022-07-01, 14:21:00](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss) - [A Brief History of Zork or 'Eaten by a Grue' ](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-26, 09:55:00](https://soylentnews.org/article.pl?sid=22/06/26/0030253&from=rss) - [The Power and Pitfalls of AI for U.S. Intelligence](https://soylentnews.org/article.pl?sid=22/06/26/0030253&from=rss)
 * [2022-06-26, 05:09:00](https://soylentnews.org/article.pl?sid=22/06/24/1754212&from=rss) - [Fix the Hog: Harley, Westinghouse Ordered to Fix Warranties](https://soylentnews.org/article.pl?sid=22/06/24/1754212&from=rss)
 * [2022-06-26, 00:22:00](https://soylentnews.org/article.pl?sid=22/06/24/1751206&from=rss) - [Wild Solar Weather is Causing Satellites to Plummet From Orbit. It's Only Going to Get Worse.](https://soylentnews.org/article.pl?sid=22/06/24/1751206&from=rss)
-* [2022-06-25, 19:39:00](https://soylentnews.org/article.pl?sid=22/06/25/1720200&from=rss) - [Advice Needed: Best Simple Website Platform.](https://soylentnews.org/article.pl?sid=22/06/25/1720200&from=rss)
 
 ## [Archives](archives/index.md)
 
