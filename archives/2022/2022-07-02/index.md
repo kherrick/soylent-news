@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
+* [2022-07-02, 18:22:00](https://soylentnews.org/article.pl?sid=22/07/01/1424220&from=rss) - [Ukraine Targeted by Almost 800 Cyberattacks Since the War Started](https://soylentnews.org/article.pl?sid=22/07/01/1424220&from=rss)
 * [2022-07-02, 13:35:00](https://soylentnews.org/article.pl?sid=22/07/01/1357239&from=rss) - [Some Viruses Make You Smell Tastier to Mosquitoes](https://soylentnews.org/article.pl?sid=22/07/01/1357239&from=rss)
 * [2022-07-02, 09:51:00](https://soylentnews.org/article.pl?sid=22/07/02/0859248&from=rss) - [‘Urgent’ Action Needed in Europe Over Monkeypox Spread [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/02/0859248&from=rss)
 * [2022-07-02, 09:50:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY  - SEE NEW INFORMATION ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
