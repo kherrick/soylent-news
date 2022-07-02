@@ -1,11 +1,12 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-02, 09:51:00](https://soylentnews.org/article.pl?sid=22/07/02/0859248&from=rss) - [‘Urgent’ Action Needed in Europe Over Monkeypox Spread [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/02/0859248&from=rss)
+* [2022-07-02, 09:50:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY  - SEE NEW INFORMATION ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
 * [2022-07-02, 08:53:00](https://soylentnews.org/article.pl?sid=22/07/01/1319254&from=rss) - [NASA Working on Robots to Search Other Worlds for Underwater Aliens](https://soylentnews.org/article.pl?sid=22/07/01/1319254&from=rss)
 * [2022-07-02, 03:08:00](https://soylentnews.org/article.pl?sid=22/07/01/1320202&from=rss) - [Uber Reports Fewer Sexual Assaults but Greater Rate of Deaths During Rides ](https://soylentnews.org/article.pl?sid=22/07/01/1320202&from=rss)
 * [2022-07-01, 19:49:00](https://soylentnews.org/article.pl?sid=22/07/01/0312230&from=rss) - [EU Countries Approve Climate Laws, 2035 Fossil Fuel Car Ban](https://soylentnews.org/article.pl?sid=22/07/01/0312230&from=rss)
 * [2022-07-01, 17:03:00](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss) - [New Single-Mode Semiconductor Laser Delivers Power With Scalability](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss)
 * [2022-07-01, 14:21:00](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss) - [A Brief History of Zork or 'Eaten by a Grue' ](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss)
-* [2022-07-01, 14:20:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY  - SEE NEW INFORMATION ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
 * [2022-07-01, 11:34:00](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss) - [NASA Scientists Say Images From the Webb Telescope Nearly Brought Them to Tears](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss)
 * [2022-07-01, 08:48:00](https://soylentnews.org/article.pl?sid=22/06/30/1422205&from=rss) - [Patchable and Preventable Security Issues Lead Causes of Q1 Attacks](https://soylentnews.org/article.pl?sid=22/06/30/1422205&from=rss)
 * [2022-07-01, 06:06:00](https://soylentnews.org/article.pl?sid=22/06/30/1413241&from=rss) - [New Chip for Robots Conveys 'Sense of Touch' to Human Operators](https://soylentnews.org/article.pl?sid=22/06/30/1413241&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-26, 19:22:00](https://soylentnews.org/article.pl?sid=22/06/26/013239&from=rss) - [Star Pose: Astronaut Demos Microgravity Yoga on International Space Station](https://soylentnews.org/article.pl?sid=22/06/26/013239&from=rss)
 * [2022-06-26, 14:39:00](https://soylentnews.org/article.pl?sid=22/06/26/0032216&from=rss) - [Microsoft's Complicated Dance With Open Source](https://soylentnews.org/article.pl?sid=22/06/26/0032216&from=rss)
 * [2022-06-26, 09:55:00](https://soylentnews.org/article.pl?sid=22/06/26/0030253&from=rss) - [The Power and Pitfalls of AI for U.S. Intelligence](https://soylentnews.org/article.pl?sid=22/06/26/0030253&from=rss)
-* [2022-06-26, 05:09:00](https://soylentnews.org/article.pl?sid=22/06/24/1754212&from=rss) - [Fix the Hog: Harley, Westinghouse Ordered to Fix Warranties](https://soylentnews.org/article.pl?sid=22/06/24/1754212&from=rss)
 
 ## [Archives](archives/index.md)
 
