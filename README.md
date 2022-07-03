@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-03, 08:24:00](https://soylentnews.org/article.pl?sid=22/07/01/2215254&from=rss) - [Toxicity in the Open-Source Community Varies From Other Internet Forums](https://soylentnews.org/article.pl?sid=22/07/01/2215254&from=rss)
 * [2022-07-03, 03:52:00](https://soylentnews.org/article.pl?sid=22/07/01/2040236&from=rss) - [Millennials About to Overtake Boomers as the Largest Generation](https://soylentnews.org/article.pl?sid=22/07/01/2040236&from=rss)
 * [2022-07-02, 23:07:00](https://soylentnews.org/article.pl?sid=22/07/01/1428224&from=rss) - [FCC Greenlights Starlink Service on Moving Cars, Boats, and Planes ](https://soylentnews.org/article.pl?sid=22/07/01/1428224&from=rss)
 * [2022-07-02, 18:22:00](https://soylentnews.org/article.pl?sid=22/07/01/1424220&from=rss) - [Ukraine Targeted by Almost 800 Cyberattacks Since the War Started](https://soylentnews.org/article.pl?sid=22/07/01/1424220&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-27, 11:09:00](https://soylentnews.org/article.pl?sid=22/06/26/1642210&from=rss) - [A Massive Sunspot That Could Unleash Significant Solar Flares is Pointed Right at Us](https://soylentnews.org/article.pl?sid=22/06/26/1642210&from=rss)
 * [2022-06-27, 08:21:00](https://soylentnews.org/article.pl?sid=22/06/26/1633215&from=rss) - [Using a Locust's Brain and Antennae to Detect Mouth Cancer](https://soylentnews.org/article.pl?sid=22/06/26/1633215&from=rss)
 * [2022-06-27, 05:35:00](https://soylentnews.org/article.pl?sid=22/06/26/1613215&from=rss) - [PyPi Python Packages Caught Sending Stolen AWS Keys to Unsecured Sites](https://soylentnews.org/article.pl?sid=22/06/26/1613215&from=rss)
-* [2022-06-27, 02:51:00](https://soylentnews.org/article.pl?sid=22/06/26/022259&from=rss) - [Largest Bacterium Ever Found is Surprisingly Complex](https://soylentnews.org/article.pl?sid=22/06/26/022259&from=rss)
 
 ## [Archives](archives/index.md)
 
