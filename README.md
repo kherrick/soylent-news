@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-03, 22:11:00](https://soylentnews.org/article.pl?sid=22/07/01/2310224&from=rss) - [Humans Hear Much Better Underwater Than Previously Thought – at Times Better Than Seals](https://soylentnews.org/article.pl?sid=22/07/01/2310224&from=rss)
 * [2022-07-03, 17:33:00](https://soylentnews.org/article.pl?sid=22/07/01/2242216&from=rss) - [Climate Damage Caused by Growing Space Tourism Needs Urgent Mitigation [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/01/2242216&from=rss)
 * [2022-07-03, 15:30:00](https://soylentnews.org/meta/article.pl?sid=22/07/03/0917210&from=rss) - [Anonymous Coward Access to the Front Page [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/03/0917210&from=rss)
 * [2022-07-03, 13:00:00](https://soylentnews.org/article.pl?sid=22/07/02/0253257&from=rss) - [Birds Warned of Food Shortages by Neighbor Birds Change Physiology and Behavior to Prepare](https://soylentnews.org/article.pl?sid=22/07/02/0253257&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-27, 22:02:00](https://soylentnews.org/article.pl?sid=22/06/27/0042253&from=rss) - [The Origins of Our Blood May Not be What We Thought](https://soylentnews.org/article.pl?sid=22/06/27/0042253&from=rss)
 * [2022-06-27, 19:19:00](https://soylentnews.org/article.pl?sid=22/06/26/2340240&from=rss) - [Instagram is Testing Out a Trial in Which It Scans Users' Faces for Proof They are Over 18 Years Old](https://soylentnews.org/article.pl?sid=22/06/26/2340240&from=rss)
 * [2022-06-27, 16:33:00](https://soylentnews.org/article.pl?sid=22/06/26/1714229&from=rss) - ['Deepest Shipwreck': US WWII Ship Found Off Philippines](https://soylentnews.org/article.pl?sid=22/06/26/1714229&from=rss)
-* [2022-06-27, 13:48:00](https://soylentnews.org/article.pl?sid=22/06/26/1649224&from=rss) - [Tapping the Ocean as a Source of Natural Products](https://soylentnews.org/article.pl?sid=22/06/26/1649224&from=rss)
 
 ## [Archives](archives/index.md)
 
