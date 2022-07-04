@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-04](index.md)
+
+* [2022-07-04, 02:54:00](https://soylentnews.org/article.pl?sid=22/07/02/0928217&from=rss) - [Road Injuries Are Killing Young People, and It's Hardly Slowing Down](https://soylentnews.org/article.pl?sid=22/07/02/0928217&from=rss)
