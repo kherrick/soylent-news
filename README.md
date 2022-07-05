@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-05, 06:33:00](https://soylentnews.org/article.pl?sid=22/07/03/1434205&from=rss) - [Interviews on 25 Years Since the Filming of \"Contact\" [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/03/1434205&from=rss)
 * [2022-07-05, 03:51:00](https://soylentnews.org/article.pl?sid=22/07/03/1432205&from=rss) - [Turning Phones on Silent May Increase Phone Checking [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/03/1432205&from=rss)
 * [2022-07-05, 01:01:00](https://soylentnews.org/article.pl?sid=22/07/02/2036247&from=rss) - [Japanese Space Hamster Returns [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/02/2036247&from=rss)
 * [2022-07-04, 22:16:00](https://soylentnews.org/politics/article.pl?sid=22/07/02/0949259&from=rss) - [U.S. May Lose Silicon Wafer Factory If Congress Can't Fund CHIPS Act [* AC Friendly *]](https://soylentnews.org/politics/article.pl?sid=22/07/02/0949259&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-28, 20:08:00](https://soylentnews.org/article.pl?sid=22/06/28/1142250&from=rss) - [Third and Fourth Robotic Arms Feel Like a Part of the User’s Own Body](https://soylentnews.org/article.pl?sid=22/06/28/1142250&from=rss)
 * [2022-06-28, 17:21:00](https://soylentnews.org/article.pl?sid=22/06/27/1759232&from=rss) - [4-Billion-Year-Old Crystals Offer Clues to When Plate Tectonics Began](https://soylentnews.org/article.pl?sid=22/06/27/1759232&from=rss)
 * [2022-06-28, 14:36:00](https://soylentnews.org/article.pl?sid=22/06/27/1536252&from=rss) - [Developmental Dyslexia Essential to Human Adaptive Success](https://soylentnews.org/article.pl?sid=22/06/27/1536252&from=rss)
-* [2022-06-28, 11:52:00](https://soylentnews.org/article.pl?sid=22/06/27/1534251&from=rss) - [NASA Makes History With First Rocket Launch From Commercial Spaceport in Australia](https://soylentnews.org/article.pl?sid=22/06/27/1534251&from=rss)
 
 ## [Archives](archives/index.md)
 
