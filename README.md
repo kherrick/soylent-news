@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-05, 20:14:00](https://soylentnews.org/article.pl?sid=22/07/05/0527204&from=rss) - [Amazon Cancels or Delays Plans for at Least 16 Warehouses This Year [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/05/0527204&from=rss)
 * [2022-07-05, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss) - [Machine Learning Goes With the Flow](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss)
 * [2022-07-05, 14:51:00](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss) - [YouTube Removes Criticism of Dangerous Fractal Wood Burning Instructions but Leaves Lethal Tips [AC]](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss)
 * [2022-07-05, 12:09:00](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss) - [Give Up GitHub: The Time Has Come!](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-29, 10:02:00](https://soylentnews.org/article.pl?sid=22/06/28/1534229&from=rss) - [Study: Slowing Down Automation May Have Economic Benefits](https://soylentnews.org/article.pl?sid=22/06/28/1534229&from=rss)
 * [2022-06-29, 07:17:00](https://soylentnews.org/article.pl?sid=22/06/28/1528221&from=rss) - [What Sea Cucumbers Can Teach Us About Self-defense](https://soylentnews.org/article.pl?sid=22/06/28/1528221&from=rss)
 * [2022-06-29, 04:24:00](https://soylentnews.org/article.pl?sid=22/06/28/1525249&from=rss) - [“Atari Was Very, Very Hard” Nolan Bushnell on Atari, 50 Years Later](https://soylentnews.org/article.pl?sid=22/06/28/1525249&from=rss)
-* [2022-06-29, 01:41:00](https://soylentnews.org/article.pl?sid=22/06/28/1329244&from=rss) - [Drone-Dropping Rifle With Two-Mile Range](https://soylentnews.org/article.pl?sid=22/06/28/1329244&from=rss)
 
 ## [Archives](archives/index.md)
 
