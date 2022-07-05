@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss) - [Machine Learning Goes With the Flow](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss)
 * [2022-07-05, 14:51:00](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss) - [YouTube Removes Criticism of Dangerous Fractal Wood Burning Instructions but Leaves Lethal Tips [AC]](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss)
 * [2022-07-05, 12:09:00](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss) - [Give Up GitHub: The Time Has Come!](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss)
 * [2022-07-05, 09:25:00](https://soylentnews.org/article.pl?sid=22/07/03/1438233&from=rss) - [Board Game Developed by Scientists for Inspiring Students to Consider STEM Careers [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/03/1438233&from=rss)
