@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 23:01:00](https://soylentnews.org/article.pl?sid=22/07/05/0532228&from=rss) - [Perseverance Mars Rover Wind Sensor Damaged by Pebbles, but Still Operational](https://soylentnews.org/article.pl?sid=22/07/05/0532228&from=rss)
 * [2022-07-05, 20:14:00](https://soylentnews.org/article.pl?sid=22/07/05/0527204&from=rss) - [Amazon Cancels or Delays Plans for at Least 16 Warehouses This Year [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/05/0527204&from=rss)
 * [2022-07-05, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss) - [Machine Learning Goes With the Flow](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss)
 * [2022-07-05, 14:51:00](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss) - [YouTube Removes Criticism of Dangerous Fractal Wood Burning Instructions but Leaves Lethal Tips [AC]](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss)
