@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-05, 14:51:00](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss) - [YouTube Removes Criticism of Dangerous Fractal Wood Burning Instructions but Leaves Lethal Tips [AC]](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss)
 * [2022-07-05, 12:09:00](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss) - [Give Up GitHub: The Time Has Come!](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss)
 * [2022-07-05, 09:25:00](https://soylentnews.org/article.pl?sid=22/07/03/1438233&from=rss) - [Board Game Developed by Scientists for Inspiring Students to Consider STEM Careers [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/03/1438233&from=rss)
 * [2022-07-05, 06:33:00](https://soylentnews.org/article.pl?sid=22/07/03/1434205&from=rss) - [Interviews on 25 Years Since the Filming of \"Contact\" [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/03/1434205&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-29, 04:24:00](https://soylentnews.org/article.pl?sid=22/06/28/1525249&from=rss) - [“Atari Was Very, Very Hard” Nolan Bushnell on Atari, 50 Years Later](https://soylentnews.org/article.pl?sid=22/06/28/1525249&from=rss)
 * [2022-06-29, 01:41:00](https://soylentnews.org/article.pl?sid=22/06/28/1329244&from=rss) - [Drone-Dropping Rifle With Two-Mile Range](https://soylentnews.org/article.pl?sid=22/06/28/1329244&from=rss)
 * [2022-06-28, 22:54:00](https://soylentnews.org/article.pl?sid=22/06/28/1155220&from=rss) - [We Need Smarter Cities, Not “Smart Cities”](https://soylentnews.org/article.pl?sid=22/06/28/1155220&from=rss)
-* [2022-06-28, 20:08:00](https://soylentnews.org/article.pl?sid=22/06/28/1142250&from=rss) - [Third and Fourth Robotic Arms Feel Like a Part of the User’s Own Body](https://soylentnews.org/article.pl?sid=22/06/28/1142250&from=rss)
 
 ## [Archives](archives/index.md)
 
