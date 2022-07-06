@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-06, 01:49:00](https://soylentnews.org/article.pl?sid=22/07/05/1251246&from=rss) - [Ransomware as a Service (RaaS?)](https://soylentnews.org/article.pl?sid=22/07/05/1251246&from=rss)
 * [2022-07-05, 23:01:00](https://soylentnews.org/article.pl?sid=22/07/05/0532228&from=rss) - [Perseverance Mars Rover Wind Sensor Damaged by Pebbles, but Still Operational](https://soylentnews.org/article.pl?sid=22/07/05/0532228&from=rss)
 * [2022-07-05, 20:14:00](https://soylentnews.org/article.pl?sid=22/07/05/0527204&from=rss) - [Amazon Cancels or Delays Plans for at Least 16 Warehouses This Year [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/05/0527204&from=rss)
 * [2022-07-05, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss) - [Machine Learning Goes With the Flow](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-29, 15:33:00](https://soylentnews.org/article.pl?sid=22/06/29/0112233&from=rss) - [Facebook is Bombarding Cancer Patients With Ads for Unproven Treatments](https://soylentnews.org/article.pl?sid=22/06/29/0112233&from=rss)
 * [2022-06-29, 12:48:00](https://soylentnews.org/article.pl?sid=22/06/28/1544251&from=rss) - [Mystery Rocket Crashes Into Moon but No Country Will Take Credit](https://soylentnews.org/article.pl?sid=22/06/28/1544251&from=rss)
 * [2022-06-29, 10:02:00](https://soylentnews.org/article.pl?sid=22/06/28/1534229&from=rss) - [Study: Slowing Down Automation May Have Economic Benefits](https://soylentnews.org/article.pl?sid=22/06/28/1534229&from=rss)
-* [2022-06-29, 07:17:00](https://soylentnews.org/article.pl?sid=22/06/28/1528221&from=rss) - [What Sea Cucumbers Can Teach Us About Self-defense](https://soylentnews.org/article.pl?sid=22/06/28/1528221&from=rss)
 
 ## [Archives](archives/index.md)
 
