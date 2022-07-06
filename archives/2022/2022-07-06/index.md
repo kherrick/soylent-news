@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 18:25:00](https://soylentnews.org/article.pl?sid=22/07/05/2228208&from=rss) - [Smart Contact Lens Prototype Puts a Micro LED Display on Top of the Eye](https://soylentnews.org/article.pl?sid=22/07/05/2228208&from=rss)
 * [2022-07-06, 15:41:00](https://soylentnews.org/article.pl?sid=22/07/05/2218207&from=rss) - [Finnish Researchers Install First Working 'Sand Battery'; Stores Energy as Heat for Months](https://soylentnews.org/article.pl?sid=22/07/05/2218207&from=rss)
 * [2022-07-06, 12:52:00](https://soylentnews.org/article.pl?sid=22/07/05/2154203&from=rss) - [8,000 Kilometers per Second: Star with the Shortest Orbital Period Around Black Hole Discovered](https://soylentnews.org/article.pl?sid=22/07/05/2154203&from=rss)
 * [2022-07-06, 10:05:00](https://soylentnews.org/article.pl?sid=22/07/05/1531238&from=rss) - [Help NASA Scientists Find Clouds on Mars](https://soylentnews.org/article.pl?sid=22/07/05/1531238&from=rss)
