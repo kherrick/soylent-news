@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-07, 08:11:00](https://soylentnews.org/article.pl?sid=22/07/06/1442256&from=rss) - [UK Decides AI Still Cannot Patent Inventions](https://soylentnews.org/article.pl?sid=22/07/06/1442256&from=rss)
 * [2022-07-07, 05:25:00](https://soylentnews.org/article.pl?sid=22/07/06/1440218&from=rss) - [Apps and Advertisers Are Coming for Your Lock Screen, and It's Going to be Exhausting [*ACFriendly*]](https://soylentnews.org/article.pl?sid=22/07/06/1440218&from=rss)
 * [2022-07-07, 02:41:00](https://soylentnews.org/article.pl?sid=22/07/06/1142249&from=rss) - [CERN's LHCb Discovers Three New Exotic Particles](https://soylentnews.org/article.pl?sid=22/07/06/1142249&from=rss)
 * [2022-07-06, 23:53:00](https://soylentnews.org/article.pl?sid=22/07/06/1131228&from=rss) - [Major Crypto Hedge Fund Three Arrows Capital Files for Bankruptcy and Fires 25% of Workforce](https://soylentnews.org/article.pl?sid=22/07/06/1131228&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-30, 21:51:00](https://soylentnews.org/article.pl?sid=22/06/30/1152224&from=rss) - [Proposed Bill to Protect Reproductive Health Information](https://soylentnews.org/article.pl?sid=22/06/30/1152224&from=rss)
 * [2022-06-30, 19:04:00](https://soylentnews.org/article.pl?sid=22/06/30/1134246&from=rss) - [RansomHouse Extortion Group Targets AMD](https://soylentnews.org/article.pl?sid=22/06/30/1134246&from=rss)
 * [2022-06-30, 16:18:00](https://soylentnews.org/article.pl?sid=22/06/30/1112225&from=rss) - [Crypto Hedge Fund Three Arrows Capital Plunges Into Liquidation](https://soylentnews.org/article.pl?sid=22/06/30/1112225&from=rss)
-* [2022-06-30, 13:35:00](https://soylentnews.org/article.pl?sid=22/06/29/1617213&from=rss) - [FBI Warning: Crooks are Using Deepfakes to Apply for Remote Tech Jobs](https://soylentnews.org/article.pl?sid=22/06/29/1617213&from=rss)
 
 ## [Archives](archives/index.md)
 
