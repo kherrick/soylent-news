@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-07](index.md)
+
+* [2022-07-07, 02:41:00](https://soylentnews.org/article.pl?sid=22/07/06/1142249&from=rss) - [CERN's LHCb Discovers Three New Exotic Particles](https://soylentnews.org/article.pl?sid=22/07/06/1142249&from=rss)

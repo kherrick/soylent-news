@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-07, 02:41:00](https://soylentnews.org/article.pl?sid=22/07/06/1142249&from=rss) - [CERN's LHCb Discovers Three New Exotic Particles](https://soylentnews.org/article.pl?sid=22/07/06/1142249&from=rss)
 * [2022-07-06, 23:53:00](https://soylentnews.org/article.pl?sid=22/07/06/1131228&from=rss) - [Major Crypto Hedge Fund Three Arrows Capital Files for Bankruptcy and Fires 25% of Workforce](https://soylentnews.org/article.pl?sid=22/07/06/1131228&from=rss)
 * [2022-07-06, 21:11:00](https://soylentnews.org/article.pl?sid=22/07/06/113224&from=rss) - [NASA Loses Contact With Just-Launched Spacecraft Headed Toward Moon](https://soylentnews.org/article.pl?sid=22/07/06/113224&from=rss)
 * [2022-07-06, 18:25:00](https://soylentnews.org/article.pl?sid=22/07/05/2228208&from=rss) - [Smart Contact Lens Prototype Puts a Micro LED Display on Top of the Eye](https://soylentnews.org/article.pl?sid=22/07/05/2228208&from=rss)
@@ -49,7 +50,6 @@
 * [2022-06-30, 16:18:00](https://soylentnews.org/article.pl?sid=22/06/30/1112225&from=rss) - [Crypto Hedge Fund Three Arrows Capital Plunges Into Liquidation](https://soylentnews.org/article.pl?sid=22/06/30/1112225&from=rss)
 * [2022-06-30, 13:35:00](https://soylentnews.org/article.pl?sid=22/06/29/1617213&from=rss) - [FBI Warning: Crooks are Using Deepfakes to Apply for Remote Tech Jobs](https://soylentnews.org/article.pl?sid=22/06/29/1617213&from=rss)
 * [2022-06-30, 10:52:00](https://soylentnews.org/article.pl?sid=22/06/29/1613259&from=rss) - [Sea Corals Found to be a Source of an Elusive “Anti-Cancer” Compound](https://soylentnews.org/article.pl?sid=22/06/29/1613259&from=rss)
-* [2022-06-30, 08:06:00](https://soylentnews.org/article.pl?sid=22/06/29/167232&from=rss) - [Not Even Your ‘Smart’ Jacuzzi Is Safe From The Internet Of Broken Things ](https://soylentnews.org/article.pl?sid=22/06/29/167232&from=rss)
 
 ## [Archives](archives/index.md)
 
