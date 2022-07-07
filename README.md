@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-07, 21:53:00](https://soylentnews.org/article.pl?sid=22/07/07/0340207&from=rss) - [Why Are There So Many Programming Languages?](https://soylentnews.org/article.pl?sid=22/07/07/0340207&from=rss)
 * [2022-07-07, 19:09:00](https://soylentnews.org/article.pl?sid=22/07/07/0327257&from=rss) - [The Cryptopocalypse is Nigh! NIST Rolls Out New Encryption Standards to Prepare [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/07/0327257&from=rss)
 * [2022-07-07, 18:33:00](https://soylentnews.org/article.pl?sid=22/07/07/1830225&from=rss) - [NASA Restores Contact With CAPSTONE Spacecraft – Prepares for Trajectory Correction Maneuver [* AC F](https://soylentnews.org/article.pl?sid=22/07/07/1830225&from=rss)
 * [2022-07-07, 16:22:00](https://soylentnews.org/article.pl?sid=22/07/06/151241&from=rss) - [BlackCat Ransomware Switched from Go to Rust](https://soylentnews.org/article.pl?sid=22/07/06/151241&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-01, 14:21:00](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss) - [A Brief History of Zork or 'Eaten by a Grue' ](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss)
 * [2022-07-01, 11:34:00](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss) - [NASA Scientists Say Images From the Webb Telescope Nearly Brought Them to Tears](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss)
 * [2022-07-01, 08:48:00](https://soylentnews.org/article.pl?sid=22/06/30/1422205&from=rss) - [Patchable and Preventable Security Issues Lead Causes of Q1 Attacks](https://soylentnews.org/article.pl?sid=22/06/30/1422205&from=rss)
-* [2022-07-01, 06:06:00](https://soylentnews.org/article.pl?sid=22/06/30/1413241&from=rss) - [New Chip for Robots Conveys 'Sense of Touch' to Human Operators](https://soylentnews.org/article.pl?sid=22/06/30/1413241&from=rss)
 
 ## [Archives](archives/index.md)
 

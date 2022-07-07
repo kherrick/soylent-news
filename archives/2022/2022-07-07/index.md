@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 21:53:00](https://soylentnews.org/article.pl?sid=22/07/07/0340207&from=rss) - [Why Are There So Many Programming Languages?](https://soylentnews.org/article.pl?sid=22/07/07/0340207&from=rss)
 * [2022-07-07, 19:09:00](https://soylentnews.org/article.pl?sid=22/07/07/0327257&from=rss) - [The Cryptopocalypse is Nigh! NIST Rolls Out New Encryption Standards to Prepare [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/07/0327257&from=rss)
 * [2022-07-07, 18:33:00](https://soylentnews.org/article.pl?sid=22/07/07/1830225&from=rss) - [NASA Restores Contact With CAPSTONE Spacecraft – Prepares for Trajectory Correction Maneuver [* AC F](https://soylentnews.org/article.pl?sid=22/07/07/1830225&from=rss)
 * [2022-07-07, 16:22:00](https://soylentnews.org/article.pl?sid=22/07/06/151241&from=rss) - [BlackCat Ransomware Switched from Go to Rust](https://soylentnews.org/article.pl?sid=22/07/06/151241&from=rss)
