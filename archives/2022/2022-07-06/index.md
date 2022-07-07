@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 23:53:00](https://soylentnews.org/article.pl?sid=22/07/06/1131228&from=rss) - [Major Crypto Hedge Fund Three Arrows Capital Files for Bankruptcy and Fires 25% of Workforce](https://soylentnews.org/article.pl?sid=22/07/06/1131228&from=rss)
 * [2022-07-06, 21:11:00](https://soylentnews.org/article.pl?sid=22/07/06/113224&from=rss) - [NASA Loses Contact With Just-Launched Spacecraft Headed Toward Moon](https://soylentnews.org/article.pl?sid=22/07/06/113224&from=rss)
 * [2022-07-06, 18:25:00](https://soylentnews.org/article.pl?sid=22/07/05/2228208&from=rss) - [Smart Contact Lens Prototype Puts a Micro LED Display on Top of the Eye](https://soylentnews.org/article.pl?sid=22/07/05/2228208&from=rss)
 * [2022-07-06, 15:41:00](https://soylentnews.org/article.pl?sid=22/07/05/2218207&from=rss) - [Finnish Researchers Install First Working 'Sand Battery'; Stores Energy as Heat for Months](https://soylentnews.org/article.pl?sid=22/07/05/2218207&from=rss)
