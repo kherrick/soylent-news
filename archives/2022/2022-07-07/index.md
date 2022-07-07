@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 18:33:00](https://soylentnews.org/article.pl?sid=22/07/07/1830225&from=rss) - [NASA Restores Contact With CAPSTONE Spacecraft – Prepares for Trajectory Correction Maneuver [* AC F](https://soylentnews.org/article.pl?sid=22/07/07/1830225&from=rss)
 * [2022-07-07, 16:22:00](https://soylentnews.org/article.pl?sid=22/07/06/151241&from=rss) - [BlackCat Ransomware Switched from Go to Rust](https://soylentnews.org/article.pl?sid=22/07/06/151241&from=rss)
 * [2022-07-07, 13:37:00](https://soylentnews.org/article.pl?sid=22/07/06/1458246&from=rss) - [A Gentler, More Precise Laser Cutting Technique](https://soylentnews.org/article.pl?sid=22/07/06/1458246&from=rss)
 * [2022-07-07, 10:51:00](https://soylentnews.org/article.pl?sid=22/07/06/1453256&from=rss) - [Ice Age Wolf DNA Reveals Dogs Trace Ancestry to Two Separate Wolf Populations [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/06/1453256&from=rss)
