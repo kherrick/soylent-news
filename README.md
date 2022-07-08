@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-08, 19:47:00](https://soylentnews.org/article.pl?sid=22/07/07/1738236&from=rss) - [How Consumer DNA Testing is Changing the Landscape of Egg and Sperm Donation](https://soylentnews.org/article.pl?sid=22/07/07/1738236&from=rss)
 * [2022-07-08, 17:05:00](https://soylentnews.org/article.pl?sid=22/07/07/1736224&from=rss) - [Japan to Start Jailing People for Online Insults](https://soylentnews.org/article.pl?sid=22/07/07/1736224&from=rss)
 * [2022-07-08, 14:22:00](https://soylentnews.org/article.pl?sid=22/07/07/1732259&from=rss) - [YouTube Flags Horror Video as “for Kids,” Won't Let Creator Change Rating](https://soylentnews.org/article.pl?sid=22/07/07/1732259&from=rss)
 * [2022-07-08, 11:34:00](https://soylentnews.org/article.pl?sid=22/07/07/1731232&from=rss) - [Dinosaurs Took Over Amid Ice, Not Warmth, Says a New Study of Ancient Mass Extinction](https://soylentnews.org/article.pl?sid=22/07/07/1731232&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-02, 23:07:00](https://soylentnews.org/article.pl?sid=22/07/01/1428224&from=rss) - [FCC Greenlights Starlink Service on Moving Cars, Boats, and Planes ](https://soylentnews.org/article.pl?sid=22/07/01/1428224&from=rss)
 * [2022-07-02, 18:22:00](https://soylentnews.org/article.pl?sid=22/07/01/1424220&from=rss) - [Ukraine Targeted by Almost 800 Cyberattacks Since the War Started](https://soylentnews.org/article.pl?sid=22/07/01/1424220&from=rss)
 * [2022-07-02, 13:35:00](https://soylentnews.org/article.pl?sid=22/07/01/1357239&from=rss) - [Some Viruses Make You Smell Tastier to Mosquitoes](https://soylentnews.org/article.pl?sid=22/07/01/1357239&from=rss)
-* [2022-07-02, 09:51:00](https://soylentnews.org/article.pl?sid=22/07/02/0859248&from=rss) - [‘Urgent’ Action Needed in Europe Over Monkeypox Spread [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/02/0859248&from=rss)
 
 ## [Archives](archives/index.md)
 
