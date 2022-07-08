@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-08, 03:21:00](https://soylentnews.org/article.pl?sid=22/07/07/1210242&from=rss) - ['We Are Killing People': How Technology Has Made Your Car 'a Candy Store of Distraction'](https://soylentnews.org/article.pl?sid=22/07/07/1210242&from=rss)
 * [2022-07-08, 00:36:00](https://soylentnews.org/article.pl?sid=22/07/07/046234&from=rss) - [Found: the 'Holy Grail of Catalysis' [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/07/046234&from=rss)
 * [2022-07-07, 21:53:00](https://soylentnews.org/article.pl?sid=22/07/07/0340207&from=rss) - [Why Are There So Many Programming Languages?](https://soylentnews.org/article.pl?sid=22/07/07/0340207&from=rss)
 * [2022-07-07, 19:09:00](https://soylentnews.org/article.pl?sid=22/07/07/0327257&from=rss) - [The Cryptopocalypse is Nigh! NIST Rolls Out New Encryption Standards to Prepare [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/07/0327257&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-01, 19:49:00](https://soylentnews.org/article.pl?sid=22/07/01/0312230&from=rss) - [EU Countries Approve Climate Laws, 2035 Fossil Fuel Car Ban](https://soylentnews.org/article.pl?sid=22/07/01/0312230&from=rss)
 * [2022-07-01, 17:03:00](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss) - [New Single-Mode Semiconductor Laser Delivers Power With Scalability](https://soylentnews.org/article.pl?sid=22/06/30/1528229&from=rss)
 * [2022-07-01, 14:21:00](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss) - [A Brief History of Zork or 'Eaten by a Grue' ](https://soylentnews.org/article.pl?sid=22/06/30/152208&from=rss)
-* [2022-07-01, 11:34:00](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss) - [NASA Scientists Say Images From the Webb Telescope Nearly Brought Them to Tears](https://soylentnews.org/article.pl?sid=22/06/30/1455248&from=rss)
 
 ## [Archives](archives/index.md)
 
