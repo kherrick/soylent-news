@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-08, 14:22:00](https://soylentnews.org/article.pl?sid=22/07/07/1732259&from=rss) - [YouTube Flags Horror Video as “for Kids,” Won't Let Creator Change Rating](https://soylentnews.org/article.pl?sid=22/07/07/1732259&from=rss)
 * [2022-07-08, 11:34:00](https://soylentnews.org/article.pl?sid=22/07/07/1731232&from=rss) - [Dinosaurs Took Over Amid Ice, Not Warmth, Says a New Study of Ancient Mass Extinction](https://soylentnews.org/article.pl?sid=22/07/07/1731232&from=rss)
 * [2022-07-08, 08:47:00](https://soylentnews.org/article.pl?sid=22/07/07/1548223&from=rss) - [Systemd Creator Lands At Microsoft ](https://soylentnews.org/article.pl?sid=22/07/07/1548223&from=rss)
 * [2022-07-08, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/07/1223247&from=rss) - [Motorless Sailplane for Exploring Mars Soars Like Albatross](https://soylentnews.org/article.pl?sid=22/07/07/1223247&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-02, 13:35:00](https://soylentnews.org/article.pl?sid=22/07/01/1357239&from=rss) - [Some Viruses Make You Smell Tastier to Mosquitoes](https://soylentnews.org/article.pl?sid=22/07/01/1357239&from=rss)
 * [2022-07-02, 09:51:00](https://soylentnews.org/article.pl?sid=22/07/02/0859248&from=rss) - [‘Urgent’ Action Needed in Europe Over Monkeypox Spread [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/02/0859248&from=rss)
 * [2022-07-02, 09:50:00](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss) - [*** ANTI SPAM MEASURES IN PLACE - LOGGED IN USERS ONLY  - SEE NEW INFORMATION ***](https://soylentnews.org/article.pl?sid=22/06/30/0517233&from=rss)
-* [2022-07-02, 08:53:00](https://soylentnews.org/article.pl?sid=22/07/01/1319254&from=rss) - [NASA Working on Robots to Search Other Worlds for Underwater Aliens](https://soylentnews.org/article.pl?sid=22/07/01/1319254&from=rss)
 
 ## [Archives](archives/index.md)
 
