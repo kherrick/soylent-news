@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 22:36:00](https://soylentnews.org/article.pl?sid=22/07/08/0136227&from=rss) - [New Research Finally Proves That Coffee is Safe During Pregnancy](https://soylentnews.org/article.pl?sid=22/07/08/0136227&from=rss)
 * [2022-07-08, 19:47:00](https://soylentnews.org/article.pl?sid=22/07/07/1738236&from=rss) - [How Consumer DNA Testing is Changing the Landscape of Egg and Sperm Donation](https://soylentnews.org/article.pl?sid=22/07/07/1738236&from=rss)
 * [2022-07-08, 17:05:00](https://soylentnews.org/article.pl?sid=22/07/07/1736224&from=rss) - [Japan to Start Jailing People for Online Insults](https://soylentnews.org/article.pl?sid=22/07/07/1736224&from=rss)
 * [2022-07-08, 14:22:00](https://soylentnews.org/article.pl?sid=22/07/07/1732259&from=rss) - [YouTube Flags Horror Video as “for Kids,” Won't Let Creator Change Rating](https://soylentnews.org/article.pl?sid=22/07/07/1732259&from=rss)
