@@ -1,11 +1,11 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2022-07-08, 11:34:00](https://soylentnews.org/article.pl?sid=22/07/07/1731232&from=rss) - [Dinosaurs Took Over Amid Ice, Not Warmth, Says a New Study of Ancient Mass Extinction](https://soylentnews.org/article.pl?sid=22/07/07/1731232&from=rss)
-* [2022-07-08, 08:47:00](https://soylentnews.org/article.pl?sid=22/07/07/1548223&from=rss) - [Systemd Creator Lands At Microsoft [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/07/1548223&from=rss)
+* [2022-07-08, 08:47:00](https://soylentnews.org/article.pl?sid=22/07/07/1548223&from=rss) - [Systemd Creator Lands At Microsoft ](https://soylentnews.org/article.pl?sid=22/07/07/1548223&from=rss)
 * [2022-07-08, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/07/1223247&from=rss) - [Motorless Sailplane for Exploring Mars Soars Like Albatross](https://soylentnews.org/article.pl?sid=22/07/07/1223247&from=rss)
 * [2022-07-08, 04:55:00](https://soylentnews.org/breakingnews/article.pl?sid=22/07/08/0452219&from=rss) - [Former Japanese Prime Minister Shinzo Abe Shot](https://soylentnews.org/breakingnews/article.pl?sid=22/07/08/0452219&from=rss)
 * [2022-07-08, 03:21:00](https://soylentnews.org/article.pl?sid=22/07/07/1210242&from=rss) - ['We Are Killing People': How Technology Has Made Your Car 'a Candy Store of Distraction'](https://soylentnews.org/article.pl?sid=22/07/07/1210242&from=rss)
-* [2022-07-08, 00:36:00](https://soylentnews.org/article.pl?sid=22/07/07/046234&from=rss) - [Found: the 'Holy Grail of Catalysis' [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/07/046234&from=rss)
+* [2022-07-08, 00:36:00](https://soylentnews.org/article.pl?sid=22/07/07/046234&from=rss) - [Found: the 'Holy Grail of Catalysis' ](https://soylentnews.org/article.pl?sid=22/07/07/046234&from=rss)
 * [2022-07-07, 21:53:00](https://soylentnews.org/article.pl?sid=22/07/07/0340207&from=rss) - [Why Are There So Many Programming Languages?](https://soylentnews.org/article.pl?sid=22/07/07/0340207&from=rss)
 * [2022-07-07, 19:09:00](https://soylentnews.org/article.pl?sid=22/07/07/0327257&from=rss) - [The Cryptopocalypse is Nigh! NIST Rolls Out New Encryption Standards to Prepare [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/07/0327257&from=rss)
 * [2022-07-07, 18:33:00](https://soylentnews.org/article.pl?sid=22/07/07/1830225&from=rss) - [NASA Restores Contact With CAPSTONE Spacecraft – Prepares for Trajectory Correction Maneuver [* AC F](https://soylentnews.org/article.pl?sid=22/07/07/1830225&from=rss)
