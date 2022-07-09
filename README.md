@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-09, 22:25:00](https://soylentnews.org/article.pl?sid=22/07/08/187219&from=rss) - [Algorithm Predicts Crime a Week in Advance, but Reveals Bias in Police Response](https://soylentnews.org/article.pl?sid=22/07/08/187219&from=rss)
 * [2022-07-09, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/08/1758236&from=rss) - [Alder Lake-Powered Linux Laptop Arrives With 14 Hours of Battery Life](https://soylentnews.org/article.pl?sid=22/07/08/1758236&from=rss)
 * [2022-07-09, 15:53:00](https://soylentnews.org/article.pl?sid=22/07/08/1754255&from=rss) - ['Yu-Gi-Oh!' Manga Creator Kazuki Takahashi Found Dead at Sea](https://soylentnews.org/article.pl?sid=22/07/08/1754255&from=rss)
 * [2022-07-09, 10:00:00](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss) - [The BIG Discussion [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-04, 02:54:00](https://soylentnews.org/article.pl?sid=22/07/02/0928217&from=rss) - [Road Injuries Are Killing Young People, and It's Hardly Slowing Down](https://soylentnews.org/article.pl?sid=22/07/02/0928217&from=rss)
 * [2022-07-03, 22:11:00](https://soylentnews.org/article.pl?sid=22/07/01/2310224&from=rss) - [Humans Hear Much Better Underwater Than Previously Thought – at Times Better Than Seals](https://soylentnews.org/article.pl?sid=22/07/01/2310224&from=rss)
 * [2022-07-03, 17:33:00](https://soylentnews.org/article.pl?sid=22/07/01/2242216&from=rss) - [Climate Damage Caused by Growing Space Tourism Needs Urgent Mitigation [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/01/2242216&from=rss)
-* [2022-07-03, 15:30:00](https://soylentnews.org/meta/article.pl?sid=22/07/03/0917210&from=rss) - [Anonymous Coward Access to the Front Page [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/03/0917210&from=rss)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 22:25:00](https://soylentnews.org/article.pl?sid=22/07/08/187219&from=rss) - [Algorithm Predicts Crime a Week in Advance, but Reveals Bias in Police Response](https://soylentnews.org/article.pl?sid=22/07/08/187219&from=rss)
 * [2022-07-09, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/08/1758236&from=rss) - [Alder Lake-Powered Linux Laptop Arrives With 14 Hours of Battery Life](https://soylentnews.org/article.pl?sid=22/07/08/1758236&from=rss)
 * [2022-07-09, 15:53:00](https://soylentnews.org/article.pl?sid=22/07/08/1754255&from=rss) - ['Yu-Gi-Oh!' Manga Creator Kazuki Takahashi Found Dead at Sea](https://soylentnews.org/article.pl?sid=22/07/08/1754255&from=rss)
 * [2022-07-09, 10:00:00](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss) - [The BIG Discussion [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss)
