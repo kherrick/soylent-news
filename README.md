@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-09, 10:00:00](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss) - [The BIG Discussion [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss)
 * [2022-07-09, 08:03:00](https://soylentnews.org/article.pl?sid=22/07/08/1742246&from=rss) - [Accused of ‘Unfair’ Practices, Apple Faces App Store Court Battle in UK](https://soylentnews.org/article.pl?sid=22/07/08/1742246&from=rss)
 * [2022-07-09, 03:17:00](https://soylentnews.org/article.pl?sid=22/07/08/022204&from=rss) - [Making It More Difficult to Shill Recommender Systems](https://soylentnews.org/article.pl?sid=22/07/08/022204&from=rss)
 * [2022-07-08, 22:36:00](https://soylentnews.org/article.pl?sid=22/07/08/0136227&from=rss) - [New Research Finally Proves That Coffee is Safe During Pregnancy](https://soylentnews.org/article.pl?sid=22/07/08/0136227&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-03, 15:30:00](https://soylentnews.org/meta/article.pl?sid=22/07/03/0917210&from=rss) - [Anonymous Coward Access to the Front Page [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/03/0917210&from=rss)
 * [2022-07-03, 13:00:00](https://soylentnews.org/article.pl?sid=22/07/02/0253257&from=rss) - [Birds Warned of Food Shortages by Neighbor Birds Change Physiology and Behavior to Prepare](https://soylentnews.org/article.pl?sid=22/07/02/0253257&from=rss)
 * [2022-07-03, 08:24:00](https://soylentnews.org/article.pl?sid=22/07/01/2215254&from=rss) - [Toxicity in the Open-Source Community Varies From Other Internet Forums](https://soylentnews.org/article.pl?sid=22/07/01/2215254&from=rss)
-* [2022-07-03, 03:52:00](https://soylentnews.org/article.pl?sid=22/07/01/2040236&from=rss) - [Millennials About to Overtake Boomers as the Largest Generation](https://soylentnews.org/article.pl?sid=22/07/01/2040236&from=rss)
 
 ## [Archives](archives/index.md)
 
