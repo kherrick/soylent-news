@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-09, 15:53:00](https://soylentnews.org/article.pl?sid=22/07/08/1754255&from=rss) - ['Yu-Gi-Oh!' Manga Creator Kazuki Takahashi Found Dead at Sea](https://soylentnews.org/article.pl?sid=22/07/08/1754255&from=rss)
 * [2022-07-09, 10:00:00](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss) - [The BIG Discussion [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss)
 * [2022-07-09, 08:03:00](https://soylentnews.org/article.pl?sid=22/07/08/1742246&from=rss) - [Accused of ‘Unfair’ Practices, Apple Faces App Store Court Battle in UK](https://soylentnews.org/article.pl?sid=22/07/08/1742246&from=rss)
 * [2022-07-09, 03:17:00](https://soylentnews.org/article.pl?sid=22/07/08/022204&from=rss) - [Making It More Difficult to Shill Recommender Systems](https://soylentnews.org/article.pl?sid=22/07/08/022204&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-03, 17:33:00](https://soylentnews.org/article.pl?sid=22/07/01/2242216&from=rss) - [Climate Damage Caused by Growing Space Tourism Needs Urgent Mitigation [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/01/2242216&from=rss)
 * [2022-07-03, 15:30:00](https://soylentnews.org/meta/article.pl?sid=22/07/03/0917210&from=rss) - [Anonymous Coward Access to the Front Page [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/03/0917210&from=rss)
 * [2022-07-03, 13:00:00](https://soylentnews.org/article.pl?sid=22/07/02/0253257&from=rss) - [Birds Warned of Food Shortages by Neighbor Birds Change Physiology and Behavior to Prepare](https://soylentnews.org/article.pl?sid=22/07/02/0253257&from=rss)
-* [2022-07-03, 08:24:00](https://soylentnews.org/article.pl?sid=22/07/01/2215254&from=rss) - [Toxicity in the Open-Source Community Varies From Other Internet Forums](https://soylentnews.org/article.pl?sid=22/07/01/2215254&from=rss)
 
 ## [Archives](archives/index.md)
 
