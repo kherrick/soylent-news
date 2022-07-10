@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-10, 22:00:00](https://soylentnews.org/article.pl?sid=22/07/10/0331226&from=rss) - [Why Are Automakers Starting to Drop AM Radio in New Cars?](https://soylentnews.org/article.pl?sid=22/07/10/0331226&from=rss)
 * [2022-07-10, 17:17:00](https://soylentnews.org/article.pl?sid=22/07/10/027259&from=rss) - [International Space Station Has New Way to Dispose of Trash](https://soylentnews.org/article.pl?sid=22/07/10/027259&from=rss)
 * [2022-07-10, 12:32:00](https://soylentnews.org/article.pl?sid=22/07/10/0223240&from=rss) - [Volkswagen Starts Building the First of Six Battery Gigafactories](https://soylentnews.org/article.pl?sid=22/07/10/0223240&from=rss)
 * [2022-07-10, 07:50:00](https://soylentnews.org/article.pl?sid=22/07/09/0428252&from=rss) - [Hip Flexors Get Weak When We Sit Too Much](https://soylentnews.org/article.pl?sid=22/07/09/0428252&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-05, 01:01:00](https://soylentnews.org/article.pl?sid=22/07/02/2036247&from=rss) - [Japanese Space Hamster Returns [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/02/2036247&from=rss)
 * [2022-07-04, 22:16:00](https://soylentnews.org/politics/article.pl?sid=22/07/02/0949259&from=rss) - [U.S. May Lose Silicon Wafer Factory If Congress Can't Fund CHIPS Act [* AC Friendly *]](https://soylentnews.org/politics/article.pl?sid=22/07/02/0949259&from=rss)
 * [2022-07-04, 17:26:00](https://soylentnews.org/article.pl?sid=22/07/02/0938243&from=rss) - [The Hawk Has Landed: Braking Mid-Air to Prioritize Safety Over Energy or Speed [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/02/0938243&from=rss)
-* [2022-07-04, 12:32:00](https://soylentnews.org/article.pl?sid=22/07/02/0934226&from=rss) - [A Ceramic Aerogel Made With Nanocrystals and Embedded in a Matrix for Use in Insulation Applications](https://soylentnews.org/article.pl?sid=22/07/02/0934226&from=rss)
 
 ## [Archives](archives/index.md)
 
