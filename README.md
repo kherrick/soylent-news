@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-10, 07:50:00](https://soylentnews.org/article.pl?sid=22/07/09/0428252&from=rss) - [Hip Flexors Get Weak When We Sit Too Much](https://soylentnews.org/article.pl?sid=22/07/09/0428252&from=rss)
 * [2022-07-10, 03:07:00](https://soylentnews.org/article.pl?sid=22/07/10/032228&from=rss) - [Elon Musk Pulls Deal to Buy Twitter](https://soylentnews.org/article.pl?sid=22/07/10/032228&from=rss)
 * [2022-07-09, 22:25:00](https://soylentnews.org/article.pl?sid=22/07/08/187219&from=rss) - [Algorithm Predicts Crime a Week in Advance, but Reveals Bias in Police Response](https://soylentnews.org/article.pl?sid=22/07/08/187219&from=rss)
 * [2022-07-09, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/08/1758236&from=rss) - [Alder Lake-Powered Linux Laptop Arrives With 14 Hours of Battery Life](https://soylentnews.org/article.pl?sid=22/07/08/1758236&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-04, 12:32:00](https://soylentnews.org/article.pl?sid=22/07/02/0934226&from=rss) - [A Ceramic Aerogel Made With Nanocrystals and Embedded in a Matrix for Use in Insulation Applications](https://soylentnews.org/article.pl?sid=22/07/02/0934226&from=rss)
 * [2022-07-04, 07:39:00](https://soylentnews.org/article.pl?sid=22/07/02/0931229&from=rss) - [Yes, Boeing’s Starliner Spacecraft Really Could Fly Astronauts This Year [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/02/0931229&from=rss)
 * [2022-07-04, 02:54:00](https://soylentnews.org/article.pl?sid=22/07/02/0928217&from=rss) - [Road Injuries Are Killing Young People, and It's Hardly Slowing Down](https://soylentnews.org/article.pl?sid=22/07/02/0928217&from=rss)
-* [2022-07-03, 22:11:00](https://soylentnews.org/article.pl?sid=22/07/01/2310224&from=rss) - [Humans Hear Much Better Underwater Than Previously Thought – at Times Better Than Seals](https://soylentnews.org/article.pl?sid=22/07/01/2310224&from=rss)
 
 ## [Archives](archives/index.md)
 
