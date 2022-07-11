@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-11, 18:25:00](https://soylentnews.org/article.pl?sid=22/07/10/2313210&from=rss) - [Why Business is Booming for Military AI Startups](https://soylentnews.org/article.pl?sid=22/07/10/2313210&from=rss)
 * [2022-07-11, 15:39:00](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss) - [Dark Matter: Search for the Invisible Begins in an Old Gold Mine](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss)
 * [2022-07-11, 12:55:00](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss) - [Work From Home is Now (Almost) a Legal Right in Netherlands](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss)
 * [2022-07-11, 10:12:00](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss) - [Shapeshifting Microrobots Can Brush and Floss Teeth](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-05, 20:14:00](https://soylentnews.org/article.pl?sid=22/07/05/0527204&from=rss) - [Amazon Cancels or Delays Plans for at Least 16 Warehouses This Year](https://soylentnews.org/article.pl?sid=22/07/05/0527204&from=rss)
 * [2022-07-05, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss) - [Machine Learning Goes With the Flow](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss)
 * [2022-07-05, 14:51:00](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss) - [YouTube Removes Criticism of Dangerous Fractal Wood Burning Instructions but Leaves Lethal Tips](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss)
-* [2022-07-05, 12:09:00](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss) - [Give Up GitHub: The Time Has Come!](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss)
 
 ## [Archives](archives/index.md)
 
