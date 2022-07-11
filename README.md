@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-11, 10:12:00](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss) - [Shapeshifting Microrobots Can Brush and Floss Teeth](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss)
 * [2022-07-11, 07:27:00](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss) - [Why Walking on Legos Hurts More Than Walking on Fire or Ice](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss)
 * [2022-07-11, 06:32:00](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss) - [The BIG Discussion [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss)
 * [2022-07-11, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/10/151239&from=rss) - [Bees' 'Waggle Dance' May Revolutionize How Robots Talk to Each Other in Disaster Zones](https://soylentnews.org/article.pl?sid=22/07/10/151239&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-05, 12:09:00](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss) - [Give Up GitHub: The Time Has Come!](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss)
 * [2022-07-05, 09:25:00](https://soylentnews.org/article.pl?sid=22/07/03/1438233&from=rss) - [Board Game Developed by Scientists for Inspiring Students to Consider STEM Careers](https://soylentnews.org/article.pl?sid=22/07/03/1438233&from=rss)
 * [2022-07-05, 06:33:00](https://soylentnews.org/article.pl?sid=22/07/03/1434205&from=rss) - [Interviews on 25 Years Since the Filming of \"Contact\" ](https://soylentnews.org/article.pl?sid=22/07/03/1434205&from=rss)
-* [2022-07-05, 03:51:00](https://soylentnews.org/article.pl?sid=22/07/03/1432205&from=rss) - [Turning Phones on Silent May Increase Phone Checking](https://soylentnews.org/article.pl?sid=22/07/03/1432205&from=rss)
 
 ## [Archives](archives/index.md)
 
