@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-11, 21:35:00](https://soylentnews.org/article.pl?sid=22/07/11/1956202&from=rss) - [President Biden Reveals James Webb Space Telescope Image Soon, More to Come](https://soylentnews.org/article.pl?sid=22/07/11/1956202&from=rss)
 * [2022-07-11, 21:12:00](https://soylentnews.org/article.pl?sid=22/07/11/0254243&from=rss) - [A Newfound Dinosaur Had Tiny Arms Before T. Rex Made Them Cool](https://soylentnews.org/article.pl?sid=22/07/11/0254243&from=rss)
 * [2022-07-11, 18:25:00](https://soylentnews.org/article.pl?sid=22/07/10/2313210&from=rss) - [Why Business is Booming for Military AI Startups](https://soylentnews.org/article.pl?sid=22/07/10/2313210&from=rss)
 * [2022-07-11, 15:39:00](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss) - [Dark Matter: Search for the Invisible Begins in an Old Gold Mine](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-06, 01:49:00](https://soylentnews.org/article.pl?sid=22/07/05/1251246&from=rss) - [Ransomware as a Service (RaaS?)](https://soylentnews.org/article.pl?sid=22/07/05/1251246&from=rss)
 * [2022-07-05, 23:01:00](https://soylentnews.org/article.pl?sid=22/07/05/0532228&from=rss) - [Perseverance Mars Rover Wind Sensor Damaged by Pebbles, but Still Operational](https://soylentnews.org/article.pl?sid=22/07/05/0532228&from=rss)
 * [2022-07-05, 20:14:00](https://soylentnews.org/article.pl?sid=22/07/05/0527204&from=rss) - [Amazon Cancels or Delays Plans for at Least 16 Warehouses This Year](https://soylentnews.org/article.pl?sid=22/07/05/0527204&from=rss)
-* [2022-07-05, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss) - [Machine Learning Goes With the Flow](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss)
 
 ## [Archives](archives/index.md)
 
