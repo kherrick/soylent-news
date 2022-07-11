@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-11, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/10/151239&from=rss) - [Bees' 'Waggle Dance' May Revolutionize How Robots Talk to Each Other in Disaster Zones](https://soylentnews.org/article.pl?sid=22/07/10/151239&from=rss)
 * [2022-07-11, 00:43:00](https://soylentnews.org/article.pl?sid=22/07/10/1435216&from=rss) - [AMD Ryzen PRO 6860Z Powered Lenovo Z13 Notebook With Microsoft Pluton Co-Processor Can't Boot Linux](https://soylentnews.org/article.pl?sid=22/07/10/1435216&from=rss)
 * [2022-07-10, 22:00:00](https://soylentnews.org/article.pl?sid=22/07/10/0331226&from=rss) - [Why Are Automakers Starting to Drop AM Radio in New Cars?](https://soylentnews.org/article.pl?sid=22/07/10/0331226&from=rss)
 * [2022-07-10, 17:17:00](https://soylentnews.org/article.pl?sid=22/07/10/027259&from=rss) - [International Space Station Has New Way to Dispose of Trash](https://soylentnews.org/article.pl?sid=22/07/10/027259&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-05, 06:33:00](https://soylentnews.org/article.pl?sid=22/07/03/1434205&from=rss) - [Interviews on 25 Years Since the Filming of \"Contact\" ](https://soylentnews.org/article.pl?sid=22/07/03/1434205&from=rss)
 * [2022-07-05, 03:51:00](https://soylentnews.org/article.pl?sid=22/07/03/1432205&from=rss) - [Turning Phones on Silent May Increase Phone Checking](https://soylentnews.org/article.pl?sid=22/07/03/1432205&from=rss)
 * [2022-07-05, 01:01:00](https://soylentnews.org/article.pl?sid=22/07/02/2036247&from=rss) - [Japanese Space Hamster Returns [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/02/2036247&from=rss)
-* [2022-07-04, 22:16:00](https://soylentnews.org/politics/article.pl?sid=22/07/02/0949259&from=rss) - [U.S. May Lose Silicon Wafer Factory If Congress Can't Fund CHIPS Act [* AC Friendly *]](https://soylentnews.org/politics/article.pl?sid=22/07/02/0949259&from=rss)
 
 ## [Archives](archives/index.md)
 
