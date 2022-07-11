@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 15:39:00](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss) - [Dark Matter: Search for the Invisible Begins in an Old Gold Mine](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss)
 * [2022-07-11, 12:55:00](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss) - [Work From Home is Now (Almost) a Legal Right in Netherlands](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss)
 * [2022-07-11, 10:12:00](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss) - [Shapeshifting Microrobots Can Brush and Floss Teeth](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss)
 * [2022-07-11, 07:27:00](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss) - [Why Walking on Legos Hurts More Than Walking on Fire or Ice](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss)

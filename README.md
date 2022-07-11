@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-11, 15:39:00](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss) - [Dark Matter: Search for the Invisible Begins in an Old Gold Mine](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss)
 * [2022-07-11, 12:55:00](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss) - [Work From Home is Now (Almost) a Legal Right in Netherlands](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss)
 * [2022-07-11, 10:12:00](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss) - [Shapeshifting Microrobots Can Brush and Floss Teeth](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss)
 * [2022-07-11, 07:27:00](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss) - [Why Walking on Legos Hurts More Than Walking on Fire or Ice](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-05, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss) - [Machine Learning Goes With the Flow](https://soylentnews.org/article.pl?sid=22/07/04/1646230&from=rss)
 * [2022-07-05, 14:51:00](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss) - [YouTube Removes Criticism of Dangerous Fractal Wood Burning Instructions but Leaves Lethal Tips](https://soylentnews.org/article.pl?sid=22/07/03/1456241&from=rss)
 * [2022-07-05, 12:09:00](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss) - [Give Up GitHub: The Time Has Come!](https://soylentnews.org/article.pl?sid=22/07/03/1449204&from=rss)
-* [2022-07-05, 09:25:00](https://soylentnews.org/article.pl?sid=22/07/03/1438233&from=rss) - [Board Game Developed by Scientists for Inspiring Students to Consider STEM Careers](https://soylentnews.org/article.pl?sid=22/07/03/1438233&from=rss)
 
 ## [Archives](archives/index.md)
 
