@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 21:12:00](https://soylentnews.org/article.pl?sid=22/07/11/0254243&from=rss) - [A Newfound Dinosaur Had Tiny Arms Before T. Rex Made Them Cool](https://soylentnews.org/article.pl?sid=22/07/11/0254243&from=rss)
 * [2022-07-11, 18:25:00](https://soylentnews.org/article.pl?sid=22/07/10/2313210&from=rss) - [Why Business is Booming for Military AI Startups](https://soylentnews.org/article.pl?sid=22/07/10/2313210&from=rss)
 * [2022-07-11, 15:39:00](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss) - [Dark Matter: Search for the Invisible Begins in an Old Gold Mine](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss)
 * [2022-07-11, 12:55:00](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss) - [Work From Home is Now (Almost) a Legal Right in Netherlands](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss)
