@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 21:56:00](https://soylentnews.org/article.pl?sid=22/07/11/1740235&from=rss) - [Sydney Rubbish Trucks and Buses Detecting Potholes Before They Form](https://soylentnews.org/article.pl?sid=22/07/11/1740235&from=rss)
 * [2022-07-12, 19:08:00](https://soylentnews.org/article.pl?sid=22/07/11/1448233&from=rss) - [Smaller Than a Flea – the Smallest Remote-Controlled Walking Robot Ever](https://soylentnews.org/article.pl?sid=22/07/11/1448233&from=rss)
 * [2022-07-12, 16:23:00](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss) - [Low-code Development Becoming Business Skill ‘Table Stakes’ [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss)
 * [2022-07-12, 13:38:00](https://soylentnews.org/article.pl?sid=22/07/11/1330219&from=rss) - [Akamai Linode Now Offers Kali Linux Instances](https://soylentnews.org/article.pl?sid=22/07/11/1330219&from=rss)
