@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-12, 16:23:00](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss) - [Low-code Development Becoming Business Skill ‘Table Stakes’ [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss)
 * [2022-07-12, 13:38:00](https://soylentnews.org/article.pl?sid=22/07/11/1330219&from=rss) - [Akamai Linode Now Offers Kali Linux Instances](https://soylentnews.org/article.pl?sid=22/07/11/1330219&from=rss)
 * [2022-07-12, 10:53:00](https://soylentnews.org/article.pl?sid=22/07/11/1318250&from=rss) - [Up to 90% of Governmental Websites Include Cookies of Third-Party Trackers](https://soylentnews.org/article.pl?sid=22/07/11/1318250&from=rss)
 * [2022-07-12, 08:08:00](https://soylentnews.org/article.pl?sid=22/07/11/1252235&from=rss) - [New Research Reveals How Nuclear War Would Affect Earth Today [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/11/1252235&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-06, 21:11:00](https://soylentnews.org/article.pl?sid=22/07/06/113224&from=rss) - [NASA Loses Contact With Just-Launched Spacecraft Headed Toward Moon](https://soylentnews.org/article.pl?sid=22/07/06/113224&from=rss)
 * [2022-07-06, 18:25:00](https://soylentnews.org/article.pl?sid=22/07/05/2228208&from=rss) - [Smart Contact Lens Prototype Puts a Micro LED Display on Top of the Eye](https://soylentnews.org/article.pl?sid=22/07/05/2228208&from=rss)
 * [2022-07-06, 15:41:00](https://soylentnews.org/article.pl?sid=22/07/05/2218207&from=rss) - [Finnish Researchers Install First Working 'Sand Battery'; Stores Energy as Heat for Months](https://soylentnews.org/article.pl?sid=22/07/05/2218207&from=rss)
-* [2022-07-06, 12:52:00](https://soylentnews.org/article.pl?sid=22/07/05/2154203&from=rss) - [8,000 Kilometers per Second: Star with the Shortest Orbital Period Around Black Hole Discovered](https://soylentnews.org/article.pl?sid=22/07/05/2154203&from=rss)
 
 ## [Archives](archives/index.md)
 
