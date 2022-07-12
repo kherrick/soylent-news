@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2022-07-12, 16:23:00](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss) - [Low-code Development Becoming Business Skill ‘Table Stakes’ [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss)
+* [2022-07-12, 16:23:00](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss) - [Low-Code Development Becoming Business Skill ‘Table Stakes’ [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss)
 * [2022-07-12, 13:38:00](https://soylentnews.org/article.pl?sid=22/07/11/1330219&from=rss) - [Akamai Linode Now Offers Kali Linux Instances](https://soylentnews.org/article.pl?sid=22/07/11/1330219&from=rss)
 * [2022-07-12, 10:53:00](https://soylentnews.org/article.pl?sid=22/07/11/1318250&from=rss) - [Up to 90% of Governmental Websites Include Cookies of Third-Party Trackers](https://soylentnews.org/article.pl?sid=22/07/11/1318250&from=rss)
 * [2022-07-12, 08:08:00](https://soylentnews.org/article.pl?sid=22/07/11/1252235&from=rss) - [New Research Reveals How Nuclear War Would Affect Earth Today [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/11/1252235&from=rss)
