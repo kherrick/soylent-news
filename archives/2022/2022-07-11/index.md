@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 23:59:00](https://soylentnews.org/article.pl?sid=22/07/11/0310231&from=rss) - [Use Your Nightly Shower to Get Better Sleep](https://soylentnews.org/article.pl?sid=22/07/11/0310231&from=rss)
 * [2022-07-11, 21:35:00](https://soylentnews.org/article.pl?sid=22/07/11/1956202&from=rss) - [President Biden Reveals James Webb Space Telescope Image Soon, More to Come](https://soylentnews.org/article.pl?sid=22/07/11/1956202&from=rss)
 * [2022-07-11, 21:12:00](https://soylentnews.org/article.pl?sid=22/07/11/0254243&from=rss) - [A Newfound Dinosaur Had Tiny Arms Before T. Rex Made Them Cool](https://soylentnews.org/article.pl?sid=22/07/11/0254243&from=rss)
 * [2022-07-11, 18:25:00](https://soylentnews.org/article.pl?sid=22/07/10/2313210&from=rss) - [Why Business is Booming for Military AI Startups](https://soylentnews.org/article.pl?sid=22/07/10/2313210&from=rss)
