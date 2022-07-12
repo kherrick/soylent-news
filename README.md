@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-12, 05:25:00](https://soylentnews.org/article.pl?sid=22/07/11/1152249&from=rss) - [Russian Debian-Derivative Linux Vendor Plans IPO](https://soylentnews.org/article.pl?sid=22/07/11/1152249&from=rss)
 * [2022-07-12, 02:42:00](https://soylentnews.org/article.pl?sid=22/07/11/0326228&from=rss) - [Porsche-Backed E-Fuels Maker to Build $1B Australian Plant](https://soylentnews.org/article.pl?sid=22/07/11/0326228&from=rss)
 * [2022-07-11, 23:59:00](https://soylentnews.org/article.pl?sid=22/07/11/0310231&from=rss) - [Use Your Nightly Shower to Get Better Sleep](https://soylentnews.org/article.pl?sid=22/07/11/0310231&from=rss)
 * [2022-07-11, 21:35:00](https://soylentnews.org/article.pl?sid=22/07/11/1956202&from=rss) - [President Biden Reveals James Webb Space Telescope Image, More to Come](https://soylentnews.org/article.pl?sid=22/07/11/1956202&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-06, 10:05:00](https://soylentnews.org/article.pl?sid=22/07/05/1531238&from=rss) - [Help NASA Scientists Find Clouds on Mars](https://soylentnews.org/article.pl?sid=22/07/05/1531238&from=rss)
 * [2022-07-06, 07:20:00](https://soylentnews.org/article.pl?sid=22/07/05/1529210&from=rss) - [Never-Before-Seen Crystals Found in Perfectly Preserved Meteorite Dust](https://soylentnews.org/article.pl?sid=22/07/05/1529210&from=rss)
 * [2022-07-06, 04:34:00](https://soylentnews.org/article.pl?sid=22/07/05/132207&from=rss) - [California Sets Nation's Toughest Plastics Reduction Rules](https://soylentnews.org/article.pl?sid=22/07/05/132207&from=rss)
-* [2022-07-06, 01:49:00](https://soylentnews.org/article.pl?sid=22/07/05/1251246&from=rss) - [Ransomware as a Service (RaaS?)](https://soylentnews.org/article.pl?sid=22/07/05/1251246&from=rss)
 
 ## [Archives](archives/index.md)
 
