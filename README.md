@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-13, 08:54:00](https://soylentnews.org/article.pl?sid=22/07/12/1256226&from=rss) - [Microsoft Rolls Back Blocking Office VBA Macros by Default [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/12/1256226&from=rss)
 * [2022-07-13, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/12/1245251&from=rss) - [UK NHS Trials Using Drones to Deliver Chemotherapy Drugs](https://soylentnews.org/article.pl?sid=22/07/12/1245251&from=rss)
 * [2022-07-13, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/12/004213&from=rss) - [Researchers Have Found a Way to “Turn Off” Peanut Allergies [* AC  Friendly *]](https://soylentnews.org/article.pl?sid=22/07/12/004213&from=rss)
 * [2022-07-13, 00:40:00](https://soylentnews.org/article.pl?sid=22/07/11/2315259&from=rss) - [North Carolina Wants to Spend $50K to Trash Free Public EV Chargers](https://soylentnews.org/article.pl?sid=22/07/11/2315259&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-07, 13:37:00](https://soylentnews.org/article.pl?sid=22/07/06/1458246&from=rss) - [A Gentler, More Precise Laser Cutting Technique](https://soylentnews.org/article.pl?sid=22/07/06/1458246&from=rss)
 * [2022-07-07, 10:51:00](https://soylentnews.org/article.pl?sid=22/07/06/1453256&from=rss) - [Ice Age Wolf DNA Reveals Dogs Trace Ancestry to Two Separate Wolf Populations](https://soylentnews.org/article.pl?sid=22/07/06/1453256&from=rss)
 * [2022-07-07, 08:11:00](https://soylentnews.org/article.pl?sid=22/07/06/1442256&from=rss) - [UK Decides AI Still Cannot Patent Inventions](https://soylentnews.org/article.pl?sid=22/07/06/1442256&from=rss)
-* [2022-07-07, 05:25:00](https://soylentnews.org/article.pl?sid=22/07/06/1440218&from=rss) - [Apps and Advertisers Are Coming for Your Lock Screen, and It's Going to be Exhausting ](https://soylentnews.org/article.pl?sid=22/07/06/1440218&from=rss)
 
 ## [Archives](archives/index.md)
 
