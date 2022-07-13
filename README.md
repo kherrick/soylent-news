@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-13, 19:56:00](https://soylentnews.org/article.pl?sid=22/07/12/1817232&from=rss) - [Uber Lobbied Politicians, Broke Laws in Global Push  [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/12/1817232&from=rss)
 * [2022-07-13, 17:13:00](https://soylentnews.org/article.pl?sid=22/07/12/1813246&from=rss) - [Fentanyl Has Been Shown to Cause Autism-Like Behavior in a Harvard-Funded Study](https://soylentnews.org/article.pl?sid=22/07/12/1813246&from=rss)
 * [2022-07-13, 14:29:00](https://soylentnews.org/article.pl?sid=22/07/12/182223&from=rss) - [Responsible Stewardship of the UEFI Secure Boot Ecosystem](https://soylentnews.org/article.pl?sid=22/07/12/182223&from=rss)
 * [2022-07-13, 11:38:00](https://soylentnews.org/article.pl?sid=22/07/12/1759229&from=rss) - [Proof That Mendel Discovered the Laws of Inheritance Decades Ahead of His Time ](https://soylentnews.org/article.pl?sid=22/07/12/1759229&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-07, 21:53:00](https://soylentnews.org/article.pl?sid=22/07/07/0340207&from=rss) - [Why Are There So Many Programming Languages?](https://soylentnews.org/article.pl?sid=22/07/07/0340207&from=rss)
 * [2022-07-07, 19:09:00](https://soylentnews.org/article.pl?sid=22/07/07/0327257&from=rss) - [The Cryptopocalypse is Nigh! NIST Rolls Out New Encryption Standards to Prepare](https://soylentnews.org/article.pl?sid=22/07/07/0327257&from=rss)
 * [2022-07-07, 18:33:00](https://soylentnews.org/article.pl?sid=22/07/07/1830225&from=rss) - [NASA Restores Contact With CAPSTONE Spacecraft – Prepares for Trajectory Correction Maneuver ](https://soylentnews.org/article.pl?sid=22/07/07/1830225&from=rss)
-* [2022-07-07, 16:22:00](https://soylentnews.org/article.pl?sid=22/07/06/151241&from=rss) - [BlackCat Ransomware Switched from Go to Rust](https://soylentnews.org/article.pl?sid=22/07/06/151241&from=rss)
 
 ## [Archives](archives/index.md)
 
