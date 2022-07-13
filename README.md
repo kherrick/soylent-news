@@ -1,6 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2022-07-13, 08:54:00](https://soylentnews.org/article.pl?sid=22/07/12/1256226&from=rss) - [Microsoft Rolls Back Blocking Office VBA Macros by Default [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/12/1256226&from=rss)
+* [2022-07-13, 06:32:00](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss) - [The BIG Discussion [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss)
 * [2022-07-13, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/12/1245251&from=rss) - [UK NHS Trials Using Drones to Deliver Chemotherapy Drugs](https://soylentnews.org/article.pl?sid=22/07/12/1245251&from=rss)
 * [2022-07-13, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/12/004213&from=rss) - [Researchers Have Found a Way to “Turn Off” Peanut Allergies [* AC  Friendly *]](https://soylentnews.org/article.pl?sid=22/07/12/004213&from=rss)
 * [2022-07-13, 00:40:00](https://soylentnews.org/article.pl?sid=22/07/11/2315259&from=rss) - [North Carolina Wants to Spend $50K to Trash Free Public EV Chargers](https://soylentnews.org/article.pl?sid=22/07/11/2315259&from=rss)
@@ -20,7 +21,6 @@
 * [2022-07-11, 12:55:00](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss) - [Work From Home is Now (Almost) a Legal Right in Netherlands](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss)
 * [2022-07-11, 10:12:00](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss) - [Shapeshifting Microrobots Can Brush and Floss Teeth](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss)
 * [2022-07-11, 07:27:00](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss) - [Why Walking on Legos Hurts More Than Walking on Fire or Ice](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss)
-* [2022-07-11, 06:32:00](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss) - [The BIG Discussion [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss)
 * [2022-07-11, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/10/151239&from=rss) - [Bees' 'Waggle Dance' May Revolutionize How Robots Talk to Each Other in Disaster Zones](https://soylentnews.org/article.pl?sid=22/07/10/151239&from=rss)
 * [2022-07-11, 00:43:00](https://soylentnews.org/article.pl?sid=22/07/10/1435216&from=rss) - [AMD Ryzen PRO 6860Z Powered Lenovo Z13 Notebook With Microsoft Pluton Co-Processor Can't Boot Linux](https://soylentnews.org/article.pl?sid=22/07/10/1435216&from=rss)
 * [2022-07-10, 22:00:00](https://soylentnews.org/article.pl?sid=22/07/10/0331226&from=rss) - [Why Are Automakers Starting to Drop AM Radio in New Cars?](https://soylentnews.org/article.pl?sid=22/07/10/0331226&from=rss)
