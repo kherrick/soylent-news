@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 11:38:00](https://soylentnews.org/article.pl?sid=22/07/12/1759229&from=rss) - [Proof That Mendel Discovered the Laws of Inheritance Decades Ahead of His Time ](https://soylentnews.org/article.pl?sid=22/07/12/1759229&from=rss)
 * [2022-07-13, 08:54:00](https://soylentnews.org/article.pl?sid=22/07/12/1256226&from=rss) - [Microsoft Rolls Back Blocking Office VBA Macros by Default [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/12/1256226&from=rss)
 * [2022-07-13, 06:32:00](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss) - [The BIG Discussion [* AC Friendly *]](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss)
 * [2022-07-13, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/12/1245251&from=rss) - [UK NHS Trials Using Drones to Deliver Chemotherapy Drugs](https://soylentnews.org/article.pl?sid=22/07/12/1245251&from=rss)
