@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-14, 06:35:00](https://soylentnews.org/article.pl?sid=22/07/14/0634232&from=rss) - [Tails Linux Version 5.2 Is Released [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/14/0634232&from=rss)
 * [2022-07-14, 05:55:00](https://soylentnews.org/article.pl?sid=22/07/13/1557255&from=rss) - [Scientists Cloned Mice from Freeze-Dried Skin Cells, Opening the Door to Biopreservation [* AC *]](https://soylentnews.org/article.pl?sid=22/07/13/1557255&from=rss)
 * [2022-07-14, 03:13:00](https://soylentnews.org/article.pl?sid=22/07/13/1213259&from=rss) - [SpaceX Starts Testing its Super Heavy Booster, and It’s “Not Good”](https://soylentnews.org/article.pl?sid=22/07/13/1213259&from=rss)
 * [2022-07-14, 00:25:00](https://soylentnews.org/article.pl?sid=22/07/13/1154228&from=rss) - [Pakistan's First 500MW Floating Solar Power Plant to be Installed at Keenjhar](https://soylentnews.org/article.pl?sid=22/07/13/1154228&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-08, 08:47:00](https://soylentnews.org/article.pl?sid=22/07/07/1548223&from=rss) - [Systemd Creator Lands At Microsoft ](https://soylentnews.org/article.pl?sid=22/07/07/1548223&from=rss)
 * [2022-07-08, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/07/1223247&from=rss) - [Motorless Sailplane for Exploring Mars Soars Like Albatross](https://soylentnews.org/article.pl?sid=22/07/07/1223247&from=rss)
 * [2022-07-08, 04:55:00](https://soylentnews.org/breakingnews/article.pl?sid=22/07/08/0452219&from=rss) - [Former Japanese Prime Minister Shinzo Abe Shot](https://soylentnews.org/breakingnews/article.pl?sid=22/07/08/0452219&from=rss)
-* [2022-07-08, 03:21:00](https://soylentnews.org/article.pl?sid=22/07/07/1210242&from=rss) - ['We Are Killing People': How Technology Has Made Your Car 'a Candy Store of Distraction'](https://soylentnews.org/article.pl?sid=22/07/07/1210242&from=rss)
 
 ## [Archives](archives/index.md)
 
