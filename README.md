@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-14, 14:12:00](https://soylentnews.org/article.pl?sid=22/07/13/1611208&from=rss) - [New Working Speculative Execution Attack Sends Intel and AMD Scrambling [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/13/1611208&from=rss)
 * [2022-07-14, 11:24:00](https://soylentnews.org/article.pl?sid=22/07/13/165235&from=rss) - [Carnival-Ride Nausea All Part of Aging](https://soylentnews.org/article.pl?sid=22/07/13/165235&from=rss)
 * [2022-07-14, 08:42:00](https://soylentnews.org/article.pl?sid=22/07/13/162246&from=rss) - [Microsoft: Phishing Bypassed MFA in Attacks Against 10,000 Orgs](https://soylentnews.org/article.pl?sid=22/07/13/162246&from=rss)
 * [2022-07-14, 06:35:00](https://soylentnews.org/article.pl?sid=22/07/14/0634232&from=rss) - [Tails Linux Version 5.2 Is Released [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/14/0634232&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-08, 17:05:00](https://soylentnews.org/article.pl?sid=22/07/07/1736224&from=rss) - [Japan to Start Jailing People for Online Insults](https://soylentnews.org/article.pl?sid=22/07/07/1736224&from=rss)
 * [2022-07-08, 14:22:00](https://soylentnews.org/article.pl?sid=22/07/07/1732259&from=rss) - [YouTube Flags Horror Video as “for Kids,” Won't Let Creator Change Rating](https://soylentnews.org/article.pl?sid=22/07/07/1732259&from=rss)
 * [2022-07-08, 11:34:00](https://soylentnews.org/article.pl?sid=22/07/07/1731232&from=rss) - [Dinosaurs Took Over Amid Ice, Not Warmth, Says a New Study of Ancient Mass Extinction](https://soylentnews.org/article.pl?sid=22/07/07/1731232&from=rss)
-* [2022-07-08, 08:47:00](https://soylentnews.org/article.pl?sid=22/07/07/1548223&from=rss) - [Systemd Creator Lands At Microsoft ](https://soylentnews.org/article.pl?sid=22/07/07/1548223&from=rss)
 
 ## [Archives](archives/index.md)
 

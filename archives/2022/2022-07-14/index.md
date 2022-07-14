@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 14:12:00](https://soylentnews.org/article.pl?sid=22/07/13/1611208&from=rss) - [New Working Speculative Execution Attack Sends Intel and AMD Scrambling [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/13/1611208&from=rss)
 * [2022-07-14, 11:24:00](https://soylentnews.org/article.pl?sid=22/07/13/165235&from=rss) - [Carnival-Ride Nausea All Part of Aging](https://soylentnews.org/article.pl?sid=22/07/13/165235&from=rss)
 * [2022-07-14, 08:42:00](https://soylentnews.org/article.pl?sid=22/07/13/162246&from=rss) - [Microsoft: Phishing Bypassed MFA in Attacks Against 10,000 Orgs](https://soylentnews.org/article.pl?sid=22/07/13/162246&from=rss)
 * [2022-07-14, 06:35:00](https://soylentnews.org/article.pl?sid=22/07/14/0634232&from=rss) - [Tails Linux Version 5.2 Is Released [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/14/0634232&from=rss)
