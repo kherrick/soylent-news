@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-15, 20:20:00](https://soylentnews.org/article.pl?sid=22/07/15/017219&from=rss) - [Arizona Makes It Illegal for Bystanders to Record Cops at Close Range](https://soylentnews.org/article.pl?sid=22/07/15/017219&from=rss)
 * [2022-07-15, 17:37:00](https://soylentnews.org/article.pl?sid=22/07/15/010236&from=rss) - [Richard Branson Won the Space Tourism Battle, but His Company Lost the War](https://soylentnews.org/article.pl?sid=22/07/15/010236&from=rss)
 * [2022-07-15, 14:51:00](https://soylentnews.org/article.pl?sid=22/07/14/1733250&from=rss) - [China’s Surveillance State Hits Rare Resistance From its Own Subjects](https://soylentnews.org/article.pl?sid=22/07/14/1733250&from=rss)
 * [2022-07-15, 12:04:00](https://soylentnews.org/article.pl?sid=22/07/14/1729249&from=rss) - [CrowPi L Raspberry Pi Laptop Review: a Lean Mean STEM Learning Machine ](https://soylentnews.org/article.pl?sid=22/07/14/1729249&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-10, 17:17:00](https://soylentnews.org/article.pl?sid=22/07/10/027259&from=rss) - [International Space Station Has New Way to Dispose of Trash](https://soylentnews.org/article.pl?sid=22/07/10/027259&from=rss)
 * [2022-07-10, 12:32:00](https://soylentnews.org/article.pl?sid=22/07/10/0223240&from=rss) - [Volkswagen Starts Building the First of Six Battery Gigafactories](https://soylentnews.org/article.pl?sid=22/07/10/0223240&from=rss)
 * [2022-07-10, 07:50:00](https://soylentnews.org/article.pl?sid=22/07/09/0428252&from=rss) - [Hip Flexors Get Weak When We Sit Too Much](https://soylentnews.org/article.pl?sid=22/07/09/0428252&from=rss)
-* [2022-07-10, 03:07:00](https://soylentnews.org/article.pl?sid=22/07/10/032228&from=rss) - [Elon Musk Pulls Deal to Buy Twitter](https://soylentnews.org/article.pl?sid=22/07/10/032228&from=rss)
 
 ## [Archives](archives/index.md)
 
