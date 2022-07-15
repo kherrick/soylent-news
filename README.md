@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-15, 03:53:00](https://soylentnews.org/article.pl?sid=22/07/14/1258245&from=rss) - [MPs Call for Ban on Chinese Surveillance Camera Technology](https://soylentnews.org/article.pl?sid=22/07/14/1258245&from=rss)
 * [2022-07-15, 01:05:00](https://soylentnews.org/article.pl?sid=22/07/14/1247245&from=rss) - [Researchers Zero in on the Source of Fast Radio Bursts](https://soylentnews.org/article.pl?sid=22/07/14/1247245&from=rss)
 * [2022-07-14, 22:23:00](https://soylentnews.org/article.pl?sid=22/07/14/1222203&from=rss) - [Apple's New Lockdown Mode for iPhone Fights Hacking](https://soylentnews.org/article.pl?sid=22/07/14/1222203&from=rss)
 * [2022-07-14, 19:41:00](https://soylentnews.org/article.pl?sid=22/07/14/124202&from=rss) - [Hollywood Won't Budge for Chinese Censors Anymore. Here's What Changed](https://soylentnews.org/article.pl?sid=22/07/14/124202&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-09, 15:53:00](https://soylentnews.org/article.pl?sid=22/07/08/1754255&from=rss) - ['Yu-Gi-Oh!' Manga Creator Kazuki Takahashi Found Dead at Sea](https://soylentnews.org/article.pl?sid=22/07/08/1754255&from=rss)
 * [2022-07-09, 08:03:00](https://soylentnews.org/article.pl?sid=22/07/08/1742246&from=rss) - [Accused of ‘Unfair’ Practices, Apple Faces App Store Court Battle in UK](https://soylentnews.org/article.pl?sid=22/07/08/1742246&from=rss)
 * [2022-07-09, 03:17:00](https://soylentnews.org/article.pl?sid=22/07/08/022204&from=rss) - [Making It More Difficult to Shill Recommender Systems](https://soylentnews.org/article.pl?sid=22/07/08/022204&from=rss)
-* [2022-07-08, 22:36:00](https://soylentnews.org/article.pl?sid=22/07/08/0136227&from=rss) - [New Research Finally Proves That Coffee is Safe During Pregnancy](https://soylentnews.org/article.pl?sid=22/07/08/0136227&from=rss)
 
 ## [Archives](archives/index.md)
 
