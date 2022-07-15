@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-15, 12:04:00](https://soylentnews.org/article.pl?sid=22/07/14/1729249&from=rss) - [CrowPi L Raspberry Pi Laptop Review: a Lean Mean STEM Learning Machine ](https://soylentnews.org/article.pl?sid=22/07/14/1729249&from=rss)
 * [2022-07-15, 09:24:00](https://soylentnews.org/article.pl?sid=22/07/14/1726209&from=rss) - [Atomically-smooth Gold Crystals Help to Compress Light for Nanophotonic Applications](https://soylentnews.org/article.pl?sid=22/07/14/1726209&from=rss)
 * [2022-07-15, 06:36:00](https://soylentnews.org/article.pl?sid=22/07/14/1716240&from=rss) - [Uncontrolled Rocket Descents Pose a 10% Risk of Killing One or More People Over the Next 10 Years](https://soylentnews.org/article.pl?sid=22/07/14/1716240&from=rss)
 * [2022-07-15, 03:53:00](https://soylentnews.org/article.pl?sid=22/07/14/1258245&from=rss) - [MPs Call for Ban on Chinese Surveillance Camera Technology](https://soylentnews.org/article.pl?sid=22/07/14/1258245&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-10, 03:07:00](https://soylentnews.org/article.pl?sid=22/07/10/032228&from=rss) - [Elon Musk Pulls Deal to Buy Twitter](https://soylentnews.org/article.pl?sid=22/07/10/032228&from=rss)
 * [2022-07-09, 22:25:00](https://soylentnews.org/article.pl?sid=22/07/08/187219&from=rss) - [Algorithm Predicts Crime a Week in Advance, but Reveals Bias in Police Response](https://soylentnews.org/article.pl?sid=22/07/08/187219&from=rss)
 * [2022-07-09, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/08/1758236&from=rss) - [Alder Lake-Powered Linux Laptop Arrives With 14 Hours of Battery Life](https://soylentnews.org/article.pl?sid=22/07/08/1758236&from=rss)
-* [2022-07-09, 15:53:00](https://soylentnews.org/article.pl?sid=22/07/08/1754255&from=rss) - ['Yu-Gi-Oh!' Manga Creator Kazuki Takahashi Found Dead at Sea](https://soylentnews.org/article.pl?sid=22/07/08/1754255&from=rss)
 
 ## [Archives](archives/index.md)
 
