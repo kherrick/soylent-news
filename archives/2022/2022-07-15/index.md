@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 14:51:00](https://soylentnews.org/article.pl?sid=22/07/14/1733250&from=rss) - [China’s Surveillance State Hits Rare Resistance From its Own Subjects](https://soylentnews.org/article.pl?sid=22/07/14/1733250&from=rss)
 * [2022-07-15, 12:04:00](https://soylentnews.org/article.pl?sid=22/07/14/1729249&from=rss) - [CrowPi L Raspberry Pi Laptop Review: a Lean Mean STEM Learning Machine ](https://soylentnews.org/article.pl?sid=22/07/14/1729249&from=rss)
 * [2022-07-15, 09:24:00](https://soylentnews.org/article.pl?sid=22/07/14/1726209&from=rss) - [Atomically-smooth Gold Crystals Help to Compress Light for Nanophotonic Applications](https://soylentnews.org/article.pl?sid=22/07/14/1726209&from=rss)
 * [2022-07-15, 06:36:00](https://soylentnews.org/article.pl?sid=22/07/14/1716240&from=rss) - [Uncontrolled Rocket Descents Pose a 10% Risk of Killing One or More People Over the Next 10 Years](https://soylentnews.org/article.pl?sid=22/07/14/1716240&from=rss)
