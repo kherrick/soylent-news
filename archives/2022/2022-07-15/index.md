@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 23:03:00](https://soylentnews.org/article.pl?sid=22/07/15/0123206&from=rss) - [UN Projects World Population Will Reach 8 Billion on Nov. 15](https://soylentnews.org/article.pl?sid=22/07/15/0123206&from=rss)
 * [2022-07-15, 20:20:00](https://soylentnews.org/article.pl?sid=22/07/15/017219&from=rss) - [Arizona Makes It Illegal for Bystanders to Record Cops at Close Range](https://soylentnews.org/article.pl?sid=22/07/15/017219&from=rss)
 * [2022-07-15, 17:37:00](https://soylentnews.org/article.pl?sid=22/07/15/010236&from=rss) - [Richard Branson Won the Space Tourism Battle, but His Company Lost the War](https://soylentnews.org/article.pl?sid=22/07/15/010236&from=rss)
 * [2022-07-15, 14:51:00](https://soylentnews.org/article.pl?sid=22/07/14/1733250&from=rss) - [China’s Surveillance State Hits Rare Resistance From its Own Subjects](https://soylentnews.org/article.pl?sid=22/07/14/1733250&from=rss)
