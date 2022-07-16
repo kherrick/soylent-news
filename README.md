@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-16, 13:13:00](https://soylentnews.org/article.pl?sid=22/07/15/1241237&from=rss) - [EA pulls a “reverse Ubisoft,” makes some old BioWare DLC free](https://soylentnews.org/article.pl?sid=22/07/15/1241237&from=rss)
 * [2022-07-16, 08:28:00](https://soylentnews.org/article.pl?sid=22/07/15/1236221&from=rss) - [New York City is Drowning in Packages](https://soylentnews.org/article.pl?sid=22/07/15/1236221&from=rss)
 * [2022-07-16, 03:47:00](https://soylentnews.org/article.pl?sid=22/07/15/1154243&from=rss) - [California's Trees Are Dying, and Might Not be Coming Back](https://soylentnews.org/article.pl?sid=22/07/15/1154243&from=rss)
 * [2022-07-15, 23:03:00](https://soylentnews.org/article.pl?sid=22/07/15/0123206&from=rss) - [UN Projects World Population Will Reach 8 Billion on Nov. 15](https://soylentnews.org/article.pl?sid=22/07/15/0123206&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-11, 07:27:00](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss) - [Why Walking on Legos Hurts More Than Walking on Fire or Ice](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss)
 * [2022-07-11, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/10/151239&from=rss) - [Bees' 'Waggle Dance' May Revolutionize How Robots Talk to Each Other in Disaster Zones](https://soylentnews.org/article.pl?sid=22/07/10/151239&from=rss)
 * [2022-07-11, 00:43:00](https://soylentnews.org/article.pl?sid=22/07/10/1435216&from=rss) - [AMD Ryzen PRO 6860Z Powered Lenovo Z13 Notebook With Microsoft Pluton Co-Processor Can't Boot Linux](https://soylentnews.org/article.pl?sid=22/07/10/1435216&from=rss)
-* [2022-07-10, 22:00:00](https://soylentnews.org/article.pl?sid=22/07/10/0331226&from=rss) - [Why Are Automakers Starting to Drop AM Radio in New Cars?](https://soylentnews.org/article.pl?sid=22/07/10/0331226&from=rss)
 
 ## [Archives](archives/index.md)
 
