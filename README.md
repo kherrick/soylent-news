@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-16, 03:47:00](https://soylentnews.org/article.pl?sid=22/07/15/1154243&from=rss) - [California's Trees Are Dying, and Might Not be Coming Back](https://soylentnews.org/article.pl?sid=22/07/15/1154243&from=rss)
 * [2022-07-15, 23:03:00](https://soylentnews.org/article.pl?sid=22/07/15/0123206&from=rss) - [UN Projects World Population Will Reach 8 Billion on Nov. 15](https://soylentnews.org/article.pl?sid=22/07/15/0123206&from=rss)
 * [2022-07-15, 20:20:00](https://soylentnews.org/article.pl?sid=22/07/15/017219&from=rss) - [Arizona Makes It Illegal for Bystanders to Record Cops at Close Range](https://soylentnews.org/article.pl?sid=22/07/15/017219&from=rss)
 * [2022-07-15, 17:37:00](https://soylentnews.org/article.pl?sid=22/07/15/010236&from=rss) - [Richard Branson Won the Space Tourism Battle, but His Company Lost the War](https://soylentnews.org/article.pl?sid=22/07/15/010236&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-11, 00:43:00](https://soylentnews.org/article.pl?sid=22/07/10/1435216&from=rss) - [AMD Ryzen PRO 6860Z Powered Lenovo Z13 Notebook With Microsoft Pluton Co-Processor Can't Boot Linux](https://soylentnews.org/article.pl?sid=22/07/10/1435216&from=rss)
 * [2022-07-10, 22:00:00](https://soylentnews.org/article.pl?sid=22/07/10/0331226&from=rss) - [Why Are Automakers Starting to Drop AM Radio in New Cars?](https://soylentnews.org/article.pl?sid=22/07/10/0331226&from=rss)
 * [2022-07-10, 17:17:00](https://soylentnews.org/article.pl?sid=22/07/10/027259&from=rss) - [International Space Station Has New Way to Dispose of Trash](https://soylentnews.org/article.pl?sid=22/07/10/027259&from=rss)
-* [2022-07-10, 12:32:00](https://soylentnews.org/article.pl?sid=22/07/10/0223240&from=rss) - [Volkswagen Starts Building the First of Six Battery Gigafactories](https://soylentnews.org/article.pl?sid=22/07/10/0223240&from=rss)
 
 ## [Archives](archives/index.md)
 
