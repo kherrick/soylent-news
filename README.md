@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-16, 22:37:00](https://soylentnews.org/article.pl?sid=22/07/15/1318211&from=rss) - [Former Bosses of Fukushima Operator Ordered to Pay $97 Billion Damages](https://soylentnews.org/article.pl?sid=22/07/15/1318211&from=rss)
 * [2022-07-16, 17:53:00](https://soylentnews.org/article.pl?sid=22/07/15/1315202&from=rss) - [Even DOOM Can Now Run DOOM!](https://soylentnews.org/article.pl?sid=22/07/15/1315202&from=rss)
 * [2022-07-16, 13:13:00](https://soylentnews.org/article.pl?sid=22/07/15/1241237&from=rss) - [EA pulls a “reverse Ubisoft,” makes some old BioWare DLC free](https://soylentnews.org/article.pl?sid=22/07/15/1241237&from=rss)
 * [2022-07-16, 08:28:00](https://soylentnews.org/article.pl?sid=22/07/15/1236221&from=rss) - [New York City is Drowning in Packages](https://soylentnews.org/article.pl?sid=22/07/15/1236221&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-11, 12:55:00](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss) - [Work From Home is Now (Almost) a Legal Right in Netherlands](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss)
 * [2022-07-11, 10:12:00](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss) - [Shapeshifting Microrobots Can Brush and Floss Teeth](https://soylentnews.org/article.pl?sid=22/07/10/1452251&from=rss)
 * [2022-07-11, 07:27:00](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss) - [Why Walking on Legos Hurts More Than Walking on Fire or Ice](https://soylentnews.org/article.pl?sid=22/07/10/1451231&from=rss)
-* [2022-07-11, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/10/151239&from=rss) - [Bees' 'Waggle Dance' May Revolutionize How Robots Talk to Each Other in Disaster Zones](https://soylentnews.org/article.pl?sid=22/07/10/151239&from=rss)
 
 ## [Archives](archives/index.md)
 
