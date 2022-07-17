@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-17](index.md)
+
+* [2022-07-17, 03:17:00](https://soylentnews.org/article.pl?sid=22/07/16/0242226&from=rss) - [Burn Pictures On A CD-R, No Special Drive Needed](https://soylentnews.org/article.pl?sid=22/07/16/0242226&from=rss)
