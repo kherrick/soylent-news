@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-17, 12:44:00](https://soylentnews.org/article.pl?sid=22/07/16/1341220&from=rss) - [Airbus A380 Completes Flight Powered by Cooking Oil](https://soylentnews.org/article.pl?sid=22/07/16/1341220&from=rss)
 * [2022-07-17, 08:01:00](https://soylentnews.org/article.pl?sid=22/07/16/1323229&from=rss) - [TikTok is Full of Shady Secret Advertisements](https://soylentnews.org/article.pl?sid=22/07/16/1323229&from=rss)
 * [2022-07-17, 03:17:00](https://soylentnews.org/article.pl?sid=22/07/16/0242226&from=rss) - [Burn Pictures On A CD-R, No Special Drive Needed](https://soylentnews.org/article.pl?sid=22/07/16/0242226&from=rss)
 * [2022-07-16, 22:37:00](https://soylentnews.org/article.pl?sid=22/07/15/1318211&from=rss) - [Former Bosses of Fukushima Operator Ordered to Pay $97 Billion Damages](https://soylentnews.org/article.pl?sid=22/07/15/1318211&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-11, 21:12:00](https://soylentnews.org/article.pl?sid=22/07/11/0254243&from=rss) - [A Newfound Dinosaur Had Tiny Arms Before T. Rex Made Them Cool](https://soylentnews.org/article.pl?sid=22/07/11/0254243&from=rss)
 * [2022-07-11, 18:25:00](https://soylentnews.org/article.pl?sid=22/07/10/2313210&from=rss) - [Why Business is Booming for Military AI Startups](https://soylentnews.org/article.pl?sid=22/07/10/2313210&from=rss)
 * [2022-07-11, 15:39:00](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss) - [Dark Matter: Search for the Invisible Begins in an Old Gold Mine](https://soylentnews.org/article.pl?sid=22/07/10/1520247&from=rss)
-* [2022-07-11, 12:55:00](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss) - [Work From Home is Now (Almost) a Legal Right in Netherlands](https://soylentnews.org/article.pl?sid=22/07/10/1456234&from=rss)
 
 ## [Archives](archives/index.md)
 
