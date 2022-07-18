@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-18, 00:58:00](https://soylentnews.org/article.pl?sid=22/07/17/0434206&from=rss) - [Two-dimensional Ionic Liquids to Effectively Capture Carbon Dioxide](https://soylentnews.org/article.pl?sid=22/07/17/0434206&from=rss)
 * [2022-07-17, 22:14:00](https://soylentnews.org/article.pl?sid=22/07/16/1631224&from=rss) - [FCC Creates Incentive Program To Close Digital Divide On Tribal Lands](https://soylentnews.org/article.pl?sid=22/07/16/1631224&from=rss)
 * [2022-07-17, 17:25:00](https://soylentnews.org/article.pl?sid=22/07/16/1626256&from=rss) - [Ex-CIA Employee Convicted of Leaking 'Vault 7' Secrets to Wikileaks](https://soylentnews.org/article.pl?sid=22/07/16/1626256&from=rss)
 * [2022-07-17, 12:44:00](https://soylentnews.org/article.pl?sid=22/07/16/1341220&from=rss) - [Airbus A380 Completes Flight Powered by Cooking Oil](https://soylentnews.org/article.pl?sid=22/07/16/1341220&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-12, 02:42:00](https://soylentnews.org/article.pl?sid=22/07/11/0326228&from=rss) - [Porsche-Backed E-Fuels Maker to Build $1B Australian Plant](https://soylentnews.org/article.pl?sid=22/07/11/0326228&from=rss)
 * [2022-07-11, 23:59:00](https://soylentnews.org/article.pl?sid=22/07/11/0310231&from=rss) - [Use Your Nightly Shower to Get Better Sleep](https://soylentnews.org/article.pl?sid=22/07/11/0310231&from=rss)
 * [2022-07-11, 21:35:00](https://soylentnews.org/article.pl?sid=22/07/11/1956202&from=rss) - [President Biden Reveals James Webb Space Telescope Image, More to Come](https://soylentnews.org/article.pl?sid=22/07/11/1956202&from=rss)
-* [2022-07-11, 21:12:00](https://soylentnews.org/article.pl?sid=22/07/11/0254243&from=rss) - [A Newfound Dinosaur Had Tiny Arms Before T. Rex Made Them Cool](https://soylentnews.org/article.pl?sid=22/07/11/0254243&from=rss)
 
 ## [Archives](archives/index.md)
 
