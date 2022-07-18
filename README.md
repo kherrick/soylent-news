@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-18, 20:22:00](https://soylentnews.org/article.pl?sid=22/07/17/1453237&from=rss) - [San Francisco Reaches $58m Opioid Settlement With Teva, Allergan](https://soylentnews.org/article.pl?sid=22/07/17/1453237&from=rss)
 * [2022-07-18, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/17/1447242&from=rss) - [The Role of TV Ad Content in Viewers’ Zapping Behavior](https://soylentnews.org/article.pl?sid=22/07/17/1447242&from=rss)
 * [2022-07-18, 14:44:00](https://soylentnews.org/politics/article.pl?sid=22/07/17/1443218&from=rss) - [The US Military Wants To Understand The Most Important Software On Earth](https://soylentnews.org/politics/article.pl?sid=22/07/17/1443218&from=rss)
 * [2022-07-18, 12:01:00](https://soylentnews.org/article.pl?sid=22/07/17/1440234&from=rss) - [Bacteria In Donor Organs Complicate Immune Response After Transplantation](https://soylentnews.org/article.pl?sid=22/07/17/1440234&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-12, 21:56:00](https://soylentnews.org/article.pl?sid=22/07/11/1740235&from=rss) - [Sydney Rubbish Trucks and Buses Detecting Potholes Before They Form](https://soylentnews.org/article.pl?sid=22/07/11/1740235&from=rss)
 * [2022-07-12, 19:08:00](https://soylentnews.org/article.pl?sid=22/07/11/1448233&from=rss) - [Smaller Than a Flea – the Smallest Remote-Controlled Walking Robot Ever](https://soylentnews.org/article.pl?sid=22/07/11/1448233&from=rss)
 * [2022-07-12, 16:23:00](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss) - [Low-Code Development Becoming Business Skill ‘Table Stakes’ [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss)
-* [2022-07-12, 13:38:00](https://soylentnews.org/article.pl?sid=22/07/11/1330219&from=rss) - [Akamai Linode Now Offers Kali Linux Instances](https://soylentnews.org/article.pl?sid=22/07/11/1330219&from=rss)
 
 ## [Archives](archives/index.md)
 
