@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-18, 09:19:00](https://soylentnews.org/article.pl?sid=22/07/17/1437254&from=rss) - [DNA From Ancient Population in Southern China Suggests Native Americans' East Asian Roots](https://soylentnews.org/article.pl?sid=22/07/17/1437254&from=rss)
 * [2022-07-18, 06:31:00](https://soylentnews.org/article.pl?sid=22/07/17/1432222&from=rss) - [MIT Professor Wins European Inventor Award For Liquid Metal Batteries](https://soylentnews.org/article.pl?sid=22/07/17/1432222&from=rss)
 * [2022-07-18, 03:48:00](https://soylentnews.org/article.pl?sid=22/07/17/1428244&from=rss) - [Friends Enjoy Being Reached Out to More Than We Think](https://soylentnews.org/article.pl?sid=22/07/17/1428244&from=rss)
 * [2022-07-18, 00:58:00](https://soylentnews.org/article.pl?sid=22/07/17/0434206&from=rss) - [Two-dimensional Ionic Liquids to Effectively Capture Carbon Dioxide](https://soylentnews.org/article.pl?sid=22/07/17/0434206&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-12, 10:53:00](https://soylentnews.org/article.pl?sid=22/07/11/1318250&from=rss) - [Up to 90% of Governmental Websites Include Cookies of Third-Party Trackers](https://soylentnews.org/article.pl?sid=22/07/11/1318250&from=rss)
 * [2022-07-12, 08:08:00](https://soylentnews.org/article.pl?sid=22/07/11/1252235&from=rss) - [New Research Reveals How Nuclear War Would Affect Earth Today [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/11/1252235&from=rss)
 * [2022-07-12, 05:25:00](https://soylentnews.org/article.pl?sid=22/07/11/1152249&from=rss) - [Russian Debian-Derivative Linux Vendor Plans IPO](https://soylentnews.org/article.pl?sid=22/07/11/1152249&from=rss)
-* [2022-07-12, 02:42:00](https://soylentnews.org/article.pl?sid=22/07/11/0326228&from=rss) - [Porsche-Backed E-Fuels Maker to Build $1B Australian Plant](https://soylentnews.org/article.pl?sid=22/07/11/0326228&from=rss)
 
 ## [Archives](archives/index.md)
 
