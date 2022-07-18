@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 23:08:00](https://soylentnews.org/article.pl?sid=22/07/17/2243258&from=rss) - [Loss Of Male Sex Chromosome Leads To Earlier Death For Men](https://soylentnews.org/article.pl?sid=22/07/17/2243258&from=rss)
 * [2022-07-18, 20:22:00](https://soylentnews.org/article.pl?sid=22/07/17/1453237&from=rss) - [San Francisco Reaches $58m Opioid Settlement With Teva, Allergan](https://soylentnews.org/article.pl?sid=22/07/17/1453237&from=rss)
 * [2022-07-18, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/17/1447242&from=rss) - [The Role of TV Ad Content in Viewers’ Zapping Behavior](https://soylentnews.org/article.pl?sid=22/07/17/1447242&from=rss)
 * [2022-07-18, 14:44:00](https://soylentnews.org/politics/article.pl?sid=22/07/17/1443218&from=rss) - [The US Military Wants To Understand The Most Important Software On Earth](https://soylentnews.org/politics/article.pl?sid=22/07/17/1443218&from=rss)
