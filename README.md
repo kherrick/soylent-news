@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-18, 14:44:00](https://soylentnews.org/politics/article.pl?sid=22/07/17/1443218&from=rss) - [The US Military Wants To Understand The Most Important Software On Earth](https://soylentnews.org/politics/article.pl?sid=22/07/17/1443218&from=rss)
 * [2022-07-18, 12:01:00](https://soylentnews.org/article.pl?sid=22/07/17/1440234&from=rss) - [Bacteria In Donor Organs Complicate Immune Response After Transplantation](https://soylentnews.org/article.pl?sid=22/07/17/1440234&from=rss)
 * [2022-07-18, 09:19:00](https://soylentnews.org/article.pl?sid=22/07/17/1437254&from=rss) - [DNA From Ancient Population in Southern China Suggests Native Americans' East Asian Roots](https://soylentnews.org/article.pl?sid=22/07/17/1437254&from=rss)
 * [2022-07-18, 06:31:00](https://soylentnews.org/article.pl?sid=22/07/17/1432222&from=rss) - [MIT Professor Wins European Inventor Award For Liquid Metal Batteries](https://soylentnews.org/article.pl?sid=22/07/17/1432222&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-12, 16:23:00](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss) - [Low-Code Development Becoming Business Skill ‘Table Stakes’ [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/11/1435213&from=rss)
 * [2022-07-12, 13:38:00](https://soylentnews.org/article.pl?sid=22/07/11/1330219&from=rss) - [Akamai Linode Now Offers Kali Linux Instances](https://soylentnews.org/article.pl?sid=22/07/11/1330219&from=rss)
 * [2022-07-12, 10:53:00](https://soylentnews.org/article.pl?sid=22/07/11/1318250&from=rss) - [Up to 90% of Governmental Websites Include Cookies of Third-Party Trackers](https://soylentnews.org/article.pl?sid=22/07/11/1318250&from=rss)
-* [2022-07-12, 08:08:00](https://soylentnews.org/article.pl?sid=22/07/11/1252235&from=rss) - [New Research Reveals How Nuclear War Would Affect Earth Today [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/11/1252235&from=rss)
 
 ## [Archives](archives/index.md)
 
