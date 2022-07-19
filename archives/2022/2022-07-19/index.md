@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 18:34:00](https://soylentnews.org/article.pl?sid=22/07/18/1755255&from=rss) - [Air Pollution Caused 2,780 Deaths, Illnesses, And IQ Loss In Children In Massachusetts In 2019](https://soylentnews.org/article.pl?sid=22/07/18/1755255&from=rss)
 * [2022-07-19, 15:51:00](https://soylentnews.org/article.pl?sid=22/07/18/1752224&from=rss) - [SWARM Dodges Collision During Climb to Escape Sun’s Wrath](https://soylentnews.org/article.pl?sid=22/07/18/1752224&from=rss)
 * [2022-07-19, 11:10:00](https://soylentnews.org/article.pl?sid=22/07/18/1138214&from=rss) - [Woodpeckers Don't Have Built-in Shock Absorbers to Protect Their Brain](https://soylentnews.org/article.pl?sid=22/07/18/1138214&from=rss)
 * [2022-07-19, 08:22:00](https://soylentnews.org/article.pl?sid=22/07/18/019238&from=rss) - [Study Predicts Growth in UK Wine Production Due to Climate Change](https://soylentnews.org/article.pl?sid=22/07/18/019238&from=rss)
