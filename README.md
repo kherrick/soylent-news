@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-19, 05:37:00](https://soylentnews.org/article.pl?sid=22/07/18/010249&from=rss) - [Can You Outrun a Poor Diet?](https://soylentnews.org/article.pl?sid=22/07/18/010249&from=rss)
 * [2022-07-19, 02:52:00](https://soylentnews.org/article.pl?sid=22/07/18/0058206&from=rss) - [Human-Like Robots May be Perceived as Having Mental States](https://soylentnews.org/article.pl?sid=22/07/18/0058206&from=rss)
 * [2022-07-18, 23:08:00](https://soylentnews.org/article.pl?sid=22/07/17/2243258&from=rss) - [Loss Of Male Sex Chromosome Leads To Earlier Death For Men](https://soylentnews.org/article.pl?sid=22/07/17/2243258&from=rss)
 * [2022-07-18, 20:22:00](https://soylentnews.org/article.pl?sid=22/07/17/1453237&from=rss) - [San Francisco Reaches $58m Opioid Settlement With Teva, Allergan](https://soylentnews.org/article.pl?sid=22/07/17/1453237&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-13, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/12/1245251&from=rss) - [UK NHS Trials Using Drones to Deliver Chemotherapy Drugs](https://soylentnews.org/article.pl?sid=22/07/12/1245251&from=rss)
 * [2022-07-13, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/12/004213&from=rss) - [Researchers Have Found a Way to “Turn Off” Peanut Allergies [* AC  Friendly *]](https://soylentnews.org/article.pl?sid=22/07/12/004213&from=rss)
 * [2022-07-13, 00:40:00](https://soylentnews.org/article.pl?sid=22/07/11/2315259&from=rss) - [North Carolina Wants to Spend $50K to Trash Free Public EV Chargers](https://soylentnews.org/article.pl?sid=22/07/11/2315259&from=rss)
-* [2022-07-12, 21:56:00](https://soylentnews.org/article.pl?sid=22/07/11/1740235&from=rss) - [Sydney Rubbish Trucks and Buses Detecting Potholes Before They Form](https://soylentnews.org/article.pl?sid=22/07/11/1740235&from=rss)
 
 ## [Archives](archives/index.md)
 
