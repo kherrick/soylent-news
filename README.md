@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-19, 11:10:00](https://soylentnews.org/article.pl?sid=22/07/18/1138214&from=rss) - [Woodpeckers Don't Have Built-in Shock Absorbers to Protect Their Brain](https://soylentnews.org/article.pl?sid=22/07/18/1138214&from=rss)
 * [2022-07-19, 08:22:00](https://soylentnews.org/article.pl?sid=22/07/18/019238&from=rss) - [Study Predicts Growth in UK Wine Production Due to Climate Change](https://soylentnews.org/article.pl?sid=22/07/18/019238&from=rss)
 * [2022-07-19, 05:37:00](https://soylentnews.org/article.pl?sid=22/07/18/010249&from=rss) - [Can You Outrun a Poor Diet?](https://soylentnews.org/article.pl?sid=22/07/18/010249&from=rss)
 * [2022-07-19, 02:52:00](https://soylentnews.org/article.pl?sid=22/07/18/0058206&from=rss) - [Human-Like Robots May be Perceived as Having Mental States](https://soylentnews.org/article.pl?sid=22/07/18/0058206&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-13, 08:54:00](https://soylentnews.org/article.pl?sid=22/07/12/1256226&from=rss) - [Microsoft Rolls Back Blocking Office VBA Macros by Default [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/12/1256226&from=rss)
 * [2022-07-13, 06:32:00](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss) - [The BIG Discussion](https://soylentnews.org/meta/article.pl?sid=22/07/09/0547216&from=rss)
 * [2022-07-13, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/12/1245251&from=rss) - [UK NHS Trials Using Drones to Deliver Chemotherapy Drugs](https://soylentnews.org/article.pl?sid=22/07/12/1245251&from=rss)
-* [2022-07-13, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/12/004213&from=rss) - [Researchers Have Found a Way to “Turn Off” Peanut Allergies [* AC  Friendly *]](https://soylentnews.org/article.pl?sid=22/07/12/004213&from=rss)
 
 ## [Archives](archives/index.md)
 
