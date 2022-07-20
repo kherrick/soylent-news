@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-20, 11:00:00](https://soylentnews.org/article.pl?sid=22/07/19/0246256&from=rss) - [One-Hit Wonder: How Awards, Recognition Decrease Inventors’ Creativity](https://soylentnews.org/article.pl?sid=22/07/19/0246256&from=rss)
 * [2022-07-20, 08:15:00](https://soylentnews.org/article.pl?sid=22/07/19/0240255&from=rss) - [Space Bubbles to Deflect Solar Radiation](https://soylentnews.org/article.pl?sid=22/07/19/0240255&from=rss)
 * [2022-07-20, 05:33:00](https://soylentnews.org/article.pl?sid=22/07/19/0223233&from=rss) - [Zombie Fly Fungus Lures Healthy Male Flies to Mate With Female Corpses](https://soylentnews.org/article.pl?sid=22/07/19/0223233&from=rss)
 * [2022-07-20, 02:45:00](https://soylentnews.org/article.pl?sid=22/07/19/027203&from=rss) - [A Chinese Wikipedia Editor Spent Years Writing Fake Russian Medieval History](https://soylentnews.org/article.pl?sid=22/07/19/027203&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-14, 05:55:00](https://soylentnews.org/article.pl?sid=22/07/13/1557255&from=rss) - [Scientists Cloned Mice from Freeze-Dried Skin Cells, Opening the Door to Biopreservation](https://soylentnews.org/article.pl?sid=22/07/13/1557255&from=rss)
 * [2022-07-14, 03:13:00](https://soylentnews.org/article.pl?sid=22/07/13/1213259&from=rss) - [SpaceX Starts Testing its Super Heavy Booster, and It’s “Not Good”](https://soylentnews.org/article.pl?sid=22/07/13/1213259&from=rss)
 * [2022-07-14, 00:25:00](https://soylentnews.org/article.pl?sid=22/07/13/1154228&from=rss) - [Pakistan's First 500MW Floating Solar Power Plant to be Installed at Keenjhar](https://soylentnews.org/article.pl?sid=22/07/13/1154228&from=rss)
-* [2022-07-13, 22:42:00](https://soylentnews.org/article.pl?sid=22/07/13/1035200&from=rss) - [Video Game Players Show Enhanced Brain Activity, Decision-Making Skill](https://soylentnews.org/article.pl?sid=22/07/13/1035200&from=rss)
 
 ## [Archives](archives/index.md)
 
