@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-20](index.md)
 
+* [2022-07-20, 13:46:00](https://soylentnews.org/article.pl?sid=22/07/19/0254233&from=rss) - [This is Why the Pistol Shrimp is Immune to its Own Powerful Shock Waves](https://soylentnews.org/article.pl?sid=22/07/19/0254233&from=rss)
 * [2022-07-20, 11:00:00](https://soylentnews.org/article.pl?sid=22/07/19/0246256&from=rss) - [One-Hit Wonder: How Awards, Recognition Decrease Inventors’ Creativity](https://soylentnews.org/article.pl?sid=22/07/19/0246256&from=rss)
 * [2022-07-20, 08:15:00](https://soylentnews.org/article.pl?sid=22/07/19/0240255&from=rss) - [Space Bubbles to Deflect Solar Radiation](https://soylentnews.org/article.pl?sid=22/07/19/0240255&from=rss)
 * [2022-07-20, 05:33:00](https://soylentnews.org/article.pl?sid=22/07/19/0223233&from=rss) - [Zombie Fly Fungus Lures Healthy Male Flies to Mate With Female Corpses](https://soylentnews.org/article.pl?sid=22/07/19/0223233&from=rss)
