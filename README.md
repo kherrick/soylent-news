@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-20, 16:25:00](https://soylentnews.org/article.pl?sid=22/07/19/1547230&from=rss) - [Mars Spaghetti: NASA's Perseverance Rover Spots a Strange Tangle](https://soylentnews.org/article.pl?sid=22/07/19/1547230&from=rss)
 * [2022-07-20, 13:46:00](https://soylentnews.org/article.pl?sid=22/07/19/0254233&from=rss) - [This is Why the Pistol Shrimp is Immune to its Own Powerful Shock Waves](https://soylentnews.org/article.pl?sid=22/07/19/0254233&from=rss)
 * [2022-07-20, 11:00:00](https://soylentnews.org/article.pl?sid=22/07/19/0246256&from=rss) - [One-Hit Wonder: How Awards, Recognition Decrease Inventors’ Creativity](https://soylentnews.org/article.pl?sid=22/07/19/0246256&from=rss)
 * [2022-07-20, 08:15:00](https://soylentnews.org/article.pl?sid=22/07/19/0240255&from=rss) - [Space Bubbles to Deflect Solar Radiation](https://soylentnews.org/article.pl?sid=22/07/19/0240255&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-14, 08:42:00](https://soylentnews.org/article.pl?sid=22/07/13/162246&from=rss) - [Microsoft: Phishing Bypassed MFA in Attacks Against 10,000 Orgs](https://soylentnews.org/article.pl?sid=22/07/13/162246&from=rss)
 * [2022-07-14, 06:35:00](https://soylentnews.org/article.pl?sid=22/07/14/0634232&from=rss) - [Tails Linux Version 5.2 Is Released](https://soylentnews.org/article.pl?sid=22/07/14/0634232&from=rss)
 * [2022-07-14, 05:55:00](https://soylentnews.org/article.pl?sid=22/07/13/1557255&from=rss) - [Scientists Cloned Mice from Freeze-Dried Skin Cells, Opening the Door to Biopreservation](https://soylentnews.org/article.pl?sid=22/07/13/1557255&from=rss)
-* [2022-07-14, 03:13:00](https://soylentnews.org/article.pl?sid=22/07/13/1213259&from=rss) - [SpaceX Starts Testing its Super Heavy Booster, and It’s “Not Good”](https://soylentnews.org/article.pl?sid=22/07/13/1213259&from=rss)
 
 ## [Archives](archives/index.md)
 
