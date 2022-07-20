@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-20, 02:45:00](https://soylentnews.org/article.pl?sid=22/07/19/027203&from=rss) - [A Chinese Wikipedia Editor Spent Years Writing Fake Russian Medieval History](https://soylentnews.org/article.pl?sid=22/07/19/027203&from=rss)
 * [2022-07-19, 23:58:00](https://soylentnews.org/article.pl?sid=22/07/18/186202&from=rss) - [Inflation Pushes Some Workers To New Jobs — And Some Regrets](https://soylentnews.org/article.pl?sid=22/07/18/186202&from=rss)
 * [2022-07-19, 21:19:00](https://soylentnews.org/article.pl?sid=22/07/18/181219&from=rss) - [Chemists Just Rearranged Atomic Bonds in a Single Molecule for the First Time](https://soylentnews.org/article.pl?sid=22/07/18/181219&from=rss)
 * [2022-07-19, 18:34:00](https://soylentnews.org/article.pl?sid=22/07/18/1755255&from=rss) - [Air Pollution Caused 2,780 Deaths, Illnesses, And IQ Loss In Children In Massachusetts In 2019](https://soylentnews.org/article.pl?sid=22/07/18/1755255&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-13, 22:42:00](https://soylentnews.org/article.pl?sid=22/07/13/1035200&from=rss) - [Video Game Players Show Enhanced Brain Activity, Decision-Making Skill](https://soylentnews.org/article.pl?sid=22/07/13/1035200&from=rss)
 * [2022-07-13, 19:56:00](https://soylentnews.org/article.pl?sid=22/07/12/1817232&from=rss) - [Uber Lobbied Politicians, Broke Laws in Global Push  [* AC Friendly *]](https://soylentnews.org/article.pl?sid=22/07/12/1817232&from=rss)
 * [2022-07-13, 17:13:00](https://soylentnews.org/article.pl?sid=22/07/12/1813246&from=rss) - [Fentanyl Has Been Shown to Cause Autism-Like Behavior in a Harvard-Funded Study](https://soylentnews.org/article.pl?sid=22/07/12/1813246&from=rss)
-* [2022-07-13, 14:29:00](https://soylentnews.org/article.pl?sid=22/07/12/182223&from=rss) - [Responsible Stewardship of the UEFI Secure Boot Ecosystem](https://soylentnews.org/article.pl?sid=22/07/12/182223&from=rss)
 
 ## [Archives](archives/index.md)
 
