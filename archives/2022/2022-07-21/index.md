@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-21](index.md)
 
+* [2022-07-21, 14:24:00](https://soylentnews.org/politics/article.pl?sid=22/07/20/1445255&from=rss) - [Russia’s Gazprom Says Cannot Guarantee Gas Supply To EU Buyers](https://soylentnews.org/politics/article.pl?sid=22/07/20/1445255&from=rss)
 * [2022-07-21, 11:38:00](https://soylentnews.org/article.pl?sid=22/07/20/1439238&from=rss) - [New Internal Documents may Escalate Antitrust Case Against Google, Amazon](https://soylentnews.org/article.pl?sid=22/07/20/1439238&from=rss)
 * [2022-07-21, 08:58:00](https://soylentnews.org/article.pl?sid=22/07/20/1134210&from=rss) - [Ai Helps the Powerful but Harms the Vulnerable, Mozilla Warns](https://soylentnews.org/article.pl?sid=22/07/20/1134210&from=rss)
 * [2022-07-21, 06:16:00](https://soylentnews.org/article.pl?sid=22/07/20/1124252&from=rss) - [Scientists Discover Blueprint For Life Forms On Mars](https://soylentnews.org/article.pl?sid=22/07/20/1124252&from=rss)
