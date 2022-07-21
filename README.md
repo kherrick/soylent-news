@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-21, 03:33:00](https://soylentnews.org/article.pl?sid=22/07/20/0529246&from=rss) - [Amazon Promises Fairer Seller Program to Avoid EU Fines](https://soylentnews.org/article.pl?sid=22/07/20/0529246&from=rss)
 * [2022-07-21, 00:44:00](https://soylentnews.org/article.pl?sid=22/07/20/0232216&from=rss) - [How a Potentially Deadly Gas Could Help Fight Inflammation](https://soylentnews.org/article.pl?sid=22/07/20/0232216&from=rss)
 * [2022-07-20, 21:56:00](https://soylentnews.org/article.pl?sid=22/07/19/1553247&from=rss) - [The US Spends $200 Billion Each Year On Cancer Care – We Might Not Be Getting Our Money’s Worth](https://soylentnews.org/article.pl?sid=22/07/19/1553247&from=rss)
 * [2022-07-20, 19:09:00](https://soylentnews.org/article.pl?sid=22/07/19/1549252&from=rss) - [Music-Making and the Flow of Aerosols](https://soylentnews.org/article.pl?sid=22/07/19/1549252&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-14, 19:41:00](https://soylentnews.org/article.pl?sid=22/07/14/124202&from=rss) - [Hollywood Won't Budge for Chinese Censors Anymore. Here's What Changed](https://soylentnews.org/article.pl?sid=22/07/14/124202&from=rss)
 * [2022-07-14, 16:56:00](https://soylentnews.org/article.pl?sid=22/07/13/2337225&from=rss) - [Re-analysis of a fossil finds it’s from the earliest vertebrate branch](https://soylentnews.org/article.pl?sid=22/07/13/2337225&from=rss)
 * [2022-07-14, 14:12:00](https://soylentnews.org/article.pl?sid=22/07/13/1611208&from=rss) - [New Working Speculative Execution Attack Sends Intel and AMD Scrambling](https://soylentnews.org/article.pl?sid=22/07/13/1611208&from=rss)
-* [2022-07-14, 11:24:00](https://soylentnews.org/article.pl?sid=22/07/13/165235&from=rss) - [Carnival-Ride Nausea All Part of Aging](https://soylentnews.org/article.pl?sid=22/07/13/165235&from=rss)
 
 ## [Archives](archives/index.md)
 
