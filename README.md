@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-21, 11:38:00](https://soylentnews.org/article.pl?sid=22/07/20/1439238&from=rss) - [New Internal Documents may Escalate Antitrust Case Against Google, Amazon](https://soylentnews.org/article.pl?sid=22/07/20/1439238&from=rss)
 * [2022-07-21, 08:58:00](https://soylentnews.org/article.pl?sid=22/07/20/1134210&from=rss) - [Ai Helps the Powerful but Harms the Vulnerable, Mozilla Warns](https://soylentnews.org/article.pl?sid=22/07/20/1134210&from=rss)
 * [2022-07-21, 06:16:00](https://soylentnews.org/article.pl?sid=22/07/20/1124252&from=rss) - [Scientists Discover Blueprint For Life Forms On Mars](https://soylentnews.org/article.pl?sid=22/07/20/1124252&from=rss)
 * [2022-07-21, 03:33:00](https://soylentnews.org/article.pl?sid=22/07/20/0529246&from=rss) - [Amazon Promises Fairer Seller Program to Avoid EU Fines](https://soylentnews.org/article.pl?sid=22/07/20/0529246&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-15, 03:53:00](https://soylentnews.org/article.pl?sid=22/07/14/1258245&from=rss) - [MPs Call for Ban on Chinese Surveillance Camera Technology](https://soylentnews.org/article.pl?sid=22/07/14/1258245&from=rss)
 * [2022-07-15, 01:05:00](https://soylentnews.org/article.pl?sid=22/07/14/1247245&from=rss) - [Researchers Zero in on the Source of Fast Radio Bursts](https://soylentnews.org/article.pl?sid=22/07/14/1247245&from=rss)
 * [2022-07-14, 22:23:00](https://soylentnews.org/article.pl?sid=22/07/14/1222203&from=rss) - [Apple's New Lockdown Mode for iPhone Fights Hacking](https://soylentnews.org/article.pl?sid=22/07/14/1222203&from=rss)
-* [2022-07-14, 19:41:00](https://soylentnews.org/article.pl?sid=22/07/14/124202&from=rss) - [Hollywood Won't Budge for Chinese Censors Anymore. Here's What Changed](https://soylentnews.org/article.pl?sid=22/07/14/124202&from=rss)
 
 ## [Archives](archives/index.md)
 
