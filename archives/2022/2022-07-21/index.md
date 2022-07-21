@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-21](index.md)
 
+* [2022-07-21, 19:57:00](https://soylentnews.org/article.pl?sid=22/07/20/151245&from=rss) - [MIT Engineers Find a Way to Save Energy and Make Water Boil More Efficiently](https://soylentnews.org/article.pl?sid=22/07/20/151245&from=rss)
 * [2022-07-21, 17:11:00](https://soylentnews.org/article.pl?sid=22/07/20/1452252&from=rss) - [X-Rays Reveal Hidden Van Gogh Self-Portrait](https://soylentnews.org/article.pl?sid=22/07/20/1452252&from=rss)
 * [2022-07-21, 14:24:00](https://soylentnews.org/politics/article.pl?sid=22/07/20/1445255&from=rss) - [Russia’s Gazprom Says Cannot Guarantee Gas Supply To EU Buyers](https://soylentnews.org/politics/article.pl?sid=22/07/20/1445255&from=rss)
 * [2022-07-21, 11:38:00](https://soylentnews.org/article.pl?sid=22/07/20/1439238&from=rss) - [New Internal Documents may Escalate Antitrust Case Against Google, Amazon](https://soylentnews.org/article.pl?sid=22/07/20/1439238&from=rss)
