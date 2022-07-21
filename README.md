@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-21, 17:11:00](https://soylentnews.org/article.pl?sid=22/07/20/1452252&from=rss) - [X-Rays Reveal Hidden Van Gogh Self-Portrait](https://soylentnews.org/article.pl?sid=22/07/20/1452252&from=rss)
 * [2022-07-21, 14:24:00](https://soylentnews.org/politics/article.pl?sid=22/07/20/1445255&from=rss) - [Russia’s Gazprom Says Cannot Guarantee Gas Supply To EU Buyers](https://soylentnews.org/politics/article.pl?sid=22/07/20/1445255&from=rss)
 * [2022-07-21, 11:38:00](https://soylentnews.org/article.pl?sid=22/07/20/1439238&from=rss) - [New Internal Documents may Escalate Antitrust Case Against Google, Amazon](https://soylentnews.org/article.pl?sid=22/07/20/1439238&from=rss)
 * [2022-07-21, 08:58:00](https://soylentnews.org/article.pl?sid=22/07/20/1134210&from=rss) - [Ai Helps the Powerful but Harms the Vulnerable, Mozilla Warns](https://soylentnews.org/article.pl?sid=22/07/20/1134210&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-15, 09:24:00](https://soylentnews.org/article.pl?sid=22/07/14/1726209&from=rss) - [Atomically-Smooth Gold Crystals Help to Compress Light for Nanophotonic Applications](https://soylentnews.org/article.pl?sid=22/07/14/1726209&from=rss)
 * [2022-07-15, 06:36:00](https://soylentnews.org/article.pl?sid=22/07/14/1716240&from=rss) - [Uncontrolled Rocket Descents Pose a 10% Risk of Killing One or More People Over the Next 10 Years](https://soylentnews.org/article.pl?sid=22/07/14/1716240&from=rss)
 * [2022-07-15, 03:53:00](https://soylentnews.org/article.pl?sid=22/07/14/1258245&from=rss) - [MPs Call for Ban on Chinese Surveillance Camera Technology](https://soylentnews.org/article.pl?sid=22/07/14/1258245&from=rss)
-* [2022-07-15, 01:05:00](https://soylentnews.org/article.pl?sid=22/07/14/1247245&from=rss) - [Researchers Zero in on the Source of Fast Radio Bursts](https://soylentnews.org/article.pl?sid=22/07/14/1247245&from=rss)
 
 ## [Archives](archives/index.md)
 
