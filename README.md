@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-22, 04:19:00](https://soylentnews.org/article.pl?sid=22/07/21/1214239&from=rss) - [New Luna Ransomware Encrypts Windows, Linux, And Esxi Systems](https://soylentnews.org/article.pl?sid=22/07/21/1214239&from=rss)
 * [2022-07-22, 01:32:00](https://soylentnews.org/article.pl?sid=22/07/21/0041249&from=rss) - [Two Companies You've Never Heard of Could be the First to Reach Mars](https://soylentnews.org/article.pl?sid=22/07/21/0041249&from=rss)
 * [2022-07-21, 22:45:00](https://soylentnews.org/article.pl?sid=22/07/20/1837225&from=rss) - [Netflix Loses 970,000 Subscribers, Says Ads and New Fees Are Key to Recovery](https://soylentnews.org/article.pl?sid=22/07/20/1837225&from=rss)
 * [2022-07-21, 19:57:00](https://soylentnews.org/article.pl?sid=22/07/20/151245&from=rss) - [MIT Engineers Find a Way to Save Energy and Make Water Boil More Efficiently](https://soylentnews.org/article.pl?sid=22/07/20/151245&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-15, 20:20:00](https://soylentnews.org/article.pl?sid=22/07/15/017219&from=rss) - [Arizona Makes It Illegal for Bystanders to Record Cops at Close Range](https://soylentnews.org/article.pl?sid=22/07/15/017219&from=rss)
 * [2022-07-15, 17:37:00](https://soylentnews.org/article.pl?sid=22/07/15/010236&from=rss) - [Richard Branson Won the Space Tourism Battle, but His Company Lost the War](https://soylentnews.org/article.pl?sid=22/07/15/010236&from=rss)
 * [2022-07-15, 14:51:00](https://soylentnews.org/article.pl?sid=22/07/14/1733250&from=rss) - [China’s Surveillance State Hits Rare Resistance From its Own Subjects](https://soylentnews.org/article.pl?sid=22/07/14/1733250&from=rss)
-* [2022-07-15, 12:04:00](https://soylentnews.org/article.pl?sid=22/07/14/1729249&from=rss) - [CrowPi L Raspberry Pi Laptop Review: a Lean Mean STEM Learning Machine ](https://soylentnews.org/article.pl?sid=22/07/14/1729249&from=rss)
 
 ## [Archives](archives/index.md)
 
