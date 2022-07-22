@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-22, 09:49:00](https://soylentnews.org/article.pl?sid=22/07/21/1832229&from=rss) - [Record-Breaking Voyager Spacecraft Begin to Power Down](https://soylentnews.org/article.pl?sid=22/07/21/1832229&from=rss)
 * [2022-07-22, 07:07:00](https://soylentnews.org/article.pl?sid=22/07/21/1223219&from=rss) - [Unique Sword Casts New Light on Viking Voyages Across the North Sea](https://soylentnews.org/article.pl?sid=22/07/21/1223219&from=rss)
 * [2022-07-22, 04:19:00](https://soylentnews.org/article.pl?sid=22/07/21/1214239&from=rss) - [New Luna Ransomware Encrypts Windows, Linux, And Esxi Systems](https://soylentnews.org/article.pl?sid=22/07/21/1214239&from=rss)
 * [2022-07-22, 01:32:00](https://soylentnews.org/article.pl?sid=22/07/21/0041249&from=rss) - [Two Companies You've Never Heard of Could be the First to Reach Mars](https://soylentnews.org/article.pl?sid=22/07/21/0041249&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-16, 03:47:00](https://soylentnews.org/article.pl?sid=22/07/15/1154243&from=rss) - [California's Trees Are Dying, and Might Not be Coming Back](https://soylentnews.org/article.pl?sid=22/07/15/1154243&from=rss)
 * [2022-07-15, 23:03:00](https://soylentnews.org/article.pl?sid=22/07/15/0123206&from=rss) - [UN Projects World Population Will Reach 8 Billion on Nov. 15](https://soylentnews.org/article.pl?sid=22/07/15/0123206&from=rss)
 * [2022-07-15, 20:20:00](https://soylentnews.org/article.pl?sid=22/07/15/017219&from=rss) - [Arizona Makes It Illegal for Bystanders to Record Cops at Close Range](https://soylentnews.org/article.pl?sid=22/07/15/017219&from=rss)
-* [2022-07-15, 17:37:00](https://soylentnews.org/article.pl?sid=22/07/15/010236&from=rss) - [Richard Branson Won the Space Tourism Battle, but His Company Lost the War](https://soylentnews.org/article.pl?sid=22/07/15/010236&from=rss)
 
 ## [Archives](archives/index.md)
 
