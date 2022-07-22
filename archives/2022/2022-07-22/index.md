@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-22](index.md)
+
+* [2022-07-22, 01:32:00](https://soylentnews.org/article.pl?sid=22/07/21/0041249&from=rss) - [Two Companies You've Never Heard of Could be the First to Reach Mars](https://soylentnews.org/article.pl?sid=22/07/21/0041249&from=rss)
