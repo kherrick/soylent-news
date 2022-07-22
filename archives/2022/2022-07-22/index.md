@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-22](index.md)
 
+* [2022-07-22, 20:57:00](https://soylentnews.org/article.pl?sid=22/07/22/1146202&from=rss) - [100 Million-Year-Old Footprints Of World's Biggest Dinosaur Species Found At Restaurant In China](https://soylentnews.org/article.pl?sid=22/07/22/1146202&from=rss)
 * [2022-07-22, 18:10:00](https://soylentnews.org/article.pl?sid=22/07/21/1841252&from=rss) - [Nikon is Reportedly Halting DSLR Camera Development - Nikon Says Maybe Not](https://soylentnews.org/article.pl?sid=22/07/21/1841252&from=rss)
 * [2022-07-22, 15:26:00](https://soylentnews.org/article.pl?sid=22/07/21/1837256&from=rss) - [Google Engineers Lift The Lid On Carbon - A Hopeful Successor To C++](https://soylentnews.org/article.pl?sid=22/07/21/1837256&from=rss)
 * [2022-07-22, 12:34:00](https://soylentnews.org/article.pl?sid=22/07/21/1834242&from=rss) - [Professional Athletes Perform Better Against Former Clubs](https://soylentnews.org/article.pl?sid=22/07/21/1834242&from=rss)
