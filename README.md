@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-22, 23:43:00](https://soylentnews.org/article.pl?sid=22/07/22/1159220&from=rss) - [DeepMind AI Learns Simple Physics Like a Baby](https://soylentnews.org/article.pl?sid=22/07/22/1159220&from=rss)
 * [2022-07-22, 20:57:00](https://soylentnews.org/article.pl?sid=22/07/22/1146202&from=rss) - [100 Million-Year-Old Footprints Of World's Biggest Dinosaur Species Found At Restaurant In China](https://soylentnews.org/article.pl?sid=22/07/22/1146202&from=rss)
 * [2022-07-22, 18:10:00](https://soylentnews.org/article.pl?sid=22/07/21/1841252&from=rss) - [Nikon is Reportedly Halting DSLR Camera Development - Nikon Says Maybe Not](https://soylentnews.org/article.pl?sid=22/07/21/1841252&from=rss)
 * [2022-07-22, 15:26:00](https://soylentnews.org/article.pl?sid=22/07/21/1837256&from=rss) - [Google Engineers Lift The Lid On Carbon - A Hopeful Successor To C++](https://soylentnews.org/article.pl?sid=22/07/21/1837256&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-17, 03:17:00](https://soylentnews.org/article.pl?sid=22/07/16/0242226&from=rss) - [Burn Pictures On A CD-R, No Special Drive Needed](https://soylentnews.org/article.pl?sid=22/07/16/0242226&from=rss)
 * [2022-07-16, 22:37:00](https://soylentnews.org/article.pl?sid=22/07/15/1318211&from=rss) - [Former Bosses of Fukushima Operator Ordered to Pay $97 Billion Damages](https://soylentnews.org/article.pl?sid=22/07/15/1318211&from=rss)
 * [2022-07-16, 17:53:00](https://soylentnews.org/article.pl?sid=22/07/15/1315202&from=rss) - [Even DOOM Can Now Run DOOM!](https://soylentnews.org/article.pl?sid=22/07/15/1315202&from=rss)
-* [2022-07-16, 13:13:00](https://soylentnews.org/article.pl?sid=22/07/15/1241237&from=rss) - [EA Pulls a “Reverse Ubisoft,” Makes Some Old BioWare DLC Free](https://soylentnews.org/article.pl?sid=22/07/15/1241237&from=rss)
 
 ## [Archives](archives/index.md)
 
