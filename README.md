@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-23, 23:23:00](https://soylentnews.org/article.pl?sid=22/07/23/0032238&from=rss) - [Two Decades of Alzheimers Research May be Based on Deliberate Fraud](https://soylentnews.org/article.pl?sid=22/07/23/0032238&from=rss)
 * [2022-07-23, 18:41:00](https://soylentnews.org/article.pl?sid=22/07/22/1726259&from=rss) - [Why Meetings Don't Work Anymore](https://soylentnews.org/article.pl?sid=22/07/22/1726259&from=rss)
 * [2022-07-23, 13:56:00](https://soylentnews.org/article.pl?sid=22/07/22/1717234&from=rss) - [Shift Workers ‘Can't All Adjust to a Night Shift’](https://soylentnews.org/article.pl?sid=22/07/22/1717234&from=rss)
 * [2022-07-23, 09:13:00](https://soylentnews.org/article.pl?sid=22/07/22/1715249&from=rss) - [Strange New Phase of Matter Created in Quantum Computer Acts Like It Has Two Time Dimensions](https://soylentnews.org/article.pl?sid=22/07/22/1715249&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-18, 00:58:00](https://soylentnews.org/article.pl?sid=22/07/17/0434206&from=rss) - [Two-dimensional Ionic Liquids to Effectively Capture Carbon Dioxide](https://soylentnews.org/article.pl?sid=22/07/17/0434206&from=rss)
 * [2022-07-17, 22:14:00](https://soylentnews.org/article.pl?sid=22/07/16/1631224&from=rss) - [FCC Creates Incentive Program To Close Digital Divide On Tribal Lands](https://soylentnews.org/article.pl?sid=22/07/16/1631224&from=rss)
 * [2022-07-17, 17:25:00](https://soylentnews.org/article.pl?sid=22/07/16/1626256&from=rss) - [Ex-CIA Employee Convicted of Leaking 'Vault 7' Secrets to Wikileaks](https://soylentnews.org/article.pl?sid=22/07/16/1626256&from=rss)
-* [2022-07-17, 12:44:00](https://soylentnews.org/article.pl?sid=22/07/16/1341220&from=rss) - [Airbus A380 Completes Flight Powered by Cooking Oil](https://soylentnews.org/article.pl?sid=22/07/16/1341220&from=rss)
 
 ## [Archives](archives/index.md)
 
