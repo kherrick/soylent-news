@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-24, 23:05:00](https://soylentnews.org/article.pl?sid=22/07/23/1546216&from=rss) - [Two Senators Propose Ban On Data Caps, Blasting ISPs For “Predatory” Limits](https://soylentnews.org/article.pl?sid=22/07/23/1546216&from=rss)
 * [2022-07-24, 18:20:00](https://soylentnews.org/article.pl?sid=22/07/23/1542248&from=rss) - [Craft Coffee is Everywhere!  Research Explains How We Got There](https://soylentnews.org/article.pl?sid=22/07/23/1542248&from=rss)
 * [2022-07-24, 13:35:00](https://soylentnews.org/article.pl?sid=22/07/23/1518221&from=rss) - [Give Me Some Space](https://soylentnews.org/article.pl?sid=22/07/23/1518221&from=rss)
 * [2022-07-24, 08:43:00](https://soylentnews.org/article.pl?sid=22/07/23/1539221&from=rss) - [An An, World’s Oldest Male Panda In Captivity, Dies At 35](https://soylentnews.org/article.pl?sid=22/07/23/1539221&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-18, 14:44:00](https://soylentnews.org/politics/article.pl?sid=22/07/17/1443218&from=rss) - [The US Military Wants To Understand The Most Important Software On Earth](https://soylentnews.org/politics/article.pl?sid=22/07/17/1443218&from=rss)
 * [2022-07-18, 12:01:00](https://soylentnews.org/article.pl?sid=22/07/17/1440234&from=rss) - [Bacteria In Donor Organs Complicate Immune Response After Transplantation](https://soylentnews.org/article.pl?sid=22/07/17/1440234&from=rss)
 * [2022-07-18, 09:19:00](https://soylentnews.org/article.pl?sid=22/07/17/1437254&from=rss) - [DNA From Ancient Population in Southern China Suggests Native Americans' East Asian Roots](https://soylentnews.org/article.pl?sid=22/07/17/1437254&from=rss)
-* [2022-07-18, 06:31:00](https://soylentnews.org/article.pl?sid=22/07/17/1432222&from=rss) - [MIT Professor Wins European Inventor Award For Liquid Metal Batteries](https://soylentnews.org/article.pl?sid=22/07/17/1432222&from=rss)
 
 ## [Archives](archives/index.md)
 
