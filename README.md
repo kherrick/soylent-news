@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-24, 13:35:00](https://soylentnews.org/article.pl?sid=22/07/23/1518221&from=rss) - [Give Me Some Space](https://soylentnews.org/article.pl?sid=22/07/23/1518221&from=rss)
 * [2022-07-24, 08:43:00](https://soylentnews.org/article.pl?sid=22/07/23/1539221&from=rss) - [An An, World’s Oldest Male Panda In Captivity, Dies At 35](https://soylentnews.org/article.pl?sid=22/07/23/1539221&from=rss)
 * [2022-07-24, 04:01:00](https://soylentnews.org/article.pl?sid=22/07/23/1340214&from=rss) - [FCC Orders Phone Carriers to Block Scammers Behind 8 Billion Robocalls](https://soylentnews.org/article.pl?sid=22/07/23/1340214&from=rss)
 * [2022-07-23, 23:23:00](https://soylentnews.org/article.pl?sid=22/07/23/0032238&from=rss) - [Two Decades of Alzheimers Research May be Based on Deliberate Fraud](https://soylentnews.org/article.pl?sid=22/07/23/0032238&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-18, 09:19:00](https://soylentnews.org/article.pl?sid=22/07/17/1437254&from=rss) - [DNA From Ancient Population in Southern China Suggests Native Americans' East Asian Roots](https://soylentnews.org/article.pl?sid=22/07/17/1437254&from=rss)
 * [2022-07-18, 06:31:00](https://soylentnews.org/article.pl?sid=22/07/17/1432222&from=rss) - [MIT Professor Wins European Inventor Award For Liquid Metal Batteries](https://soylentnews.org/article.pl?sid=22/07/17/1432222&from=rss)
 * [2022-07-18, 03:48:00](https://soylentnews.org/article.pl?sid=22/07/17/1428244&from=rss) - [Friends Enjoy Being Reached Out to More Than We Think](https://soylentnews.org/article.pl?sid=22/07/17/1428244&from=rss)
-* [2022-07-18, 00:58:00](https://soylentnews.org/article.pl?sid=22/07/17/0434206&from=rss) - [Two-dimensional Ionic Liquids to Effectively Capture Carbon Dioxide](https://soylentnews.org/article.pl?sid=22/07/17/0434206&from=rss)
 
 ## [Archives](archives/index.md)
 
