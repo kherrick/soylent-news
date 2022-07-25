@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-25, 21:11:00](https://soylentnews.org/article.pl?sid=22/07/24/1654202&from=rss) - [You Can See Where The Webb Telescope Took A Direct Hit From A Micrometeorite On One Of Its Mirrors](https://soylentnews.org/article.pl?sid=22/07/24/1654202&from=rss)
 * [2022-07-25, 18:23:00](https://soylentnews.org/article.pl?sid=22/07/24/1634226&from=rss) - [Halos and Dark Matter: A Recipe for Discovery](https://soylentnews.org/article.pl?sid=22/07/24/1634226&from=rss)
 * [2022-07-25, 15:41:00](https://soylentnews.org/article.pl?sid=22/07/24/1627219&from=rss) - [Why US Roads Became so Dangerous and What to do About It](https://soylentnews.org/article.pl?sid=22/07/24/1627219&from=rss)
 * [2022-07-25, 12:53:00](https://soylentnews.org/article.pl?sid=22/07/24/1620249&from=rss) - [WHO Declares Monkeypox A Global Emergency Amid Surge In Cases](https://soylentnews.org/article.pl?sid=22/07/24/1620249&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-19, 15:51:00](https://soylentnews.org/article.pl?sid=22/07/18/1752224&from=rss) - [SWARM Dodges Collision During Climb to Escape Sun’s Wrath](https://soylentnews.org/article.pl?sid=22/07/18/1752224&from=rss)
 * [2022-07-19, 11:10:00](https://soylentnews.org/article.pl?sid=22/07/18/1138214&from=rss) - [Woodpeckers Don't Have Built-in Shock Absorbers to Protect Their Brain](https://soylentnews.org/article.pl?sid=22/07/18/1138214&from=rss)
 * [2022-07-19, 08:22:00](https://soylentnews.org/article.pl?sid=22/07/18/019238&from=rss) - [Study Predicts Growth in UK Wine Production Due to Climate Change](https://soylentnews.org/article.pl?sid=22/07/18/019238&from=rss)
-* [2022-07-19, 05:37:00](https://soylentnews.org/article.pl?sid=22/07/18/010249&from=rss) - [Can You Outrun a Poor Diet?](https://soylentnews.org/article.pl?sid=22/07/18/010249&from=rss)
 
 ## [Archives](archives/index.md)
 
