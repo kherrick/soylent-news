@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-25, 15:41:00](https://soylentnews.org/article.pl?sid=22/07/24/1627219&from=rss) - [Why US Roads Became So Dangerous And What To Do About It](https://soylentnews.org/article.pl?sid=22/07/24/1627219&from=rss)
 * [2022-07-25, 12:53:00](https://soylentnews.org/article.pl?sid=22/07/24/1620249&from=rss) - [WHO Declares Monkeypox A Global Emergency Amid Surge In Cases](https://soylentnews.org/article.pl?sid=22/07/24/1620249&from=rss)
 * [2022-07-25, 10:05:00](https://soylentnews.org/article.pl?sid=22/07/24/1439232&from=rss) - [Hardcoded Password in Confluence App Has Been Leaked on Twitter](https://soylentnews.org/article.pl?sid=22/07/24/1439232&from=rss)
 * [2022-07-25, 07:18:00](https://soylentnews.org/article.pl?sid=22/07/24/1413245&from=rss) - [Okay, Google: To Protect Women, Collect Less Data About Everyone](https://soylentnews.org/article.pl?sid=22/07/24/1413245&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-19, 08:22:00](https://soylentnews.org/article.pl?sid=22/07/18/019238&from=rss) - [Study Predicts Growth in UK Wine Production Due to Climate Change](https://soylentnews.org/article.pl?sid=22/07/18/019238&from=rss)
 * [2022-07-19, 05:37:00](https://soylentnews.org/article.pl?sid=22/07/18/010249&from=rss) - [Can You Outrun a Poor Diet?](https://soylentnews.org/article.pl?sid=22/07/18/010249&from=rss)
 * [2022-07-19, 02:52:00](https://soylentnews.org/article.pl?sid=22/07/18/0058206&from=rss) - [Human-Like Robots May be Perceived as Having Mental States](https://soylentnews.org/article.pl?sid=22/07/18/0058206&from=rss)
-* [2022-07-18, 23:08:00](https://soylentnews.org/article.pl?sid=22/07/17/2243258&from=rss) - [Loss Of Male Sex Chromosome Leads To Earlier Death For Men](https://soylentnews.org/article.pl?sid=22/07/17/2243258&from=rss)
 
 ## [Archives](archives/index.md)
 

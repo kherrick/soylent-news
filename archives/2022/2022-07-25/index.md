@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-25](index.md)
 
+* [2022-07-25, 15:41:00](https://soylentnews.org/article.pl?sid=22/07/24/1627219&from=rss) - [Why US Roads Became So Dangerous And What To Do About It](https://soylentnews.org/article.pl?sid=22/07/24/1627219&from=rss)
 * [2022-07-25, 12:53:00](https://soylentnews.org/article.pl?sid=22/07/24/1620249&from=rss) - [WHO Declares Monkeypox A Global Emergency Amid Surge In Cases](https://soylentnews.org/article.pl?sid=22/07/24/1620249&from=rss)
 * [2022-07-25, 10:05:00](https://soylentnews.org/article.pl?sid=22/07/24/1439232&from=rss) - [Hardcoded Password in Confluence App Has Been Leaked on Twitter](https://soylentnews.org/article.pl?sid=22/07/24/1439232&from=rss)
 * [2022-07-25, 07:18:00](https://soylentnews.org/article.pl?sid=22/07/24/1413245&from=rss) - [Okay, Google: To Protect Women, Collect Less Data About Everyone](https://soylentnews.org/article.pl?sid=22/07/24/1413245&from=rss)
