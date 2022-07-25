@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-25, 04:32:00](https://soylentnews.org/article.pl?sid=22/07/24/1339227&from=rss) - [Google Fires Researcher Who Claimed LaMDA AI Was Sentient](https://soylentnews.org/article.pl?sid=22/07/24/1339227&from=rss)
 * [2022-07-25, 01:46:00](https://soylentnews.org/article.pl?sid=22/07/23/1553246&from=rss) - [How to Turn Throwaway Cardboard Into a DIY Arcade Game](https://soylentnews.org/article.pl?sid=22/07/23/1553246&from=rss)
 * [2022-07-24, 23:05:00](https://soylentnews.org/article.pl?sid=22/07/23/1546216&from=rss) - [Two Senators Propose Ban On Data Caps, Blasting ISPs For “Predatory” Limits](https://soylentnews.org/article.pl?sid=22/07/23/1546216&from=rss)
 * [2022-07-24, 18:20:00](https://soylentnews.org/article.pl?sid=22/07/23/1542248&from=rss) - [Craft Coffee is Everywhere!  Research Explains How We Got There](https://soylentnews.org/article.pl?sid=22/07/23/1542248&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-18, 20:22:00](https://soylentnews.org/article.pl?sid=22/07/17/1453237&from=rss) - [San Francisco Reaches $58m Opioid Settlement With Teva, Allergan](https://soylentnews.org/article.pl?sid=22/07/17/1453237&from=rss)
 * [2022-07-18, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/17/1447242&from=rss) - [The Role of TV Ad Content in Viewers’ Zapping Behavior](https://soylentnews.org/article.pl?sid=22/07/17/1447242&from=rss)
 * [2022-07-18, 14:44:00](https://soylentnews.org/politics/article.pl?sid=22/07/17/1443218&from=rss) - [The US Military Wants To Understand The Most Important Software On Earth](https://soylentnews.org/politics/article.pl?sid=22/07/17/1443218&from=rss)
-* [2022-07-18, 12:01:00](https://soylentnews.org/article.pl?sid=22/07/17/1440234&from=rss) - [Bacteria In Donor Organs Complicate Immune Response After Transplantation](https://soylentnews.org/article.pl?sid=22/07/17/1440234&from=rss)
 
 ## [Archives](archives/index.md)
 
