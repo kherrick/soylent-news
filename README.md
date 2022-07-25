@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-25, 10:05:00](https://soylentnews.org/article.pl?sid=22/07/24/1439232&from=rss) - [Hardcoded Password in Confluence App Has Been Leaked on Twitter](https://soylentnews.org/article.pl?sid=22/07/24/1439232&from=rss)
 * [2022-07-25, 07:18:00](https://soylentnews.org/article.pl?sid=22/07/24/1413245&from=rss) - [Okay, Google: To Protect Women, Collect Less Data About Everyone](https://soylentnews.org/article.pl?sid=22/07/24/1413245&from=rss)
 * [2022-07-25, 04:32:00](https://soylentnews.org/article.pl?sid=22/07/24/1339227&from=rss) - [Google Fires Researcher Who Claimed LaMDA AI Was Sentient](https://soylentnews.org/article.pl?sid=22/07/24/1339227&from=rss)
 * [2022-07-25, 01:46:00](https://soylentnews.org/article.pl?sid=22/07/23/1553246&from=rss) - [How to Turn Throwaway Cardboard Into a DIY Arcade Game](https://soylentnews.org/article.pl?sid=22/07/23/1553246&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-19, 02:52:00](https://soylentnews.org/article.pl?sid=22/07/18/0058206&from=rss) - [Human-Like Robots May be Perceived as Having Mental States](https://soylentnews.org/article.pl?sid=22/07/18/0058206&from=rss)
 * [2022-07-18, 23:08:00](https://soylentnews.org/article.pl?sid=22/07/17/2243258&from=rss) - [Loss Of Male Sex Chromosome Leads To Earlier Death For Men](https://soylentnews.org/article.pl?sid=22/07/17/2243258&from=rss)
 * [2022-07-18, 20:22:00](https://soylentnews.org/article.pl?sid=22/07/17/1453237&from=rss) - [San Francisco Reaches $58m Opioid Settlement With Teva, Allergan](https://soylentnews.org/article.pl?sid=22/07/17/1453237&from=rss)
-* [2022-07-18, 17:36:00](https://soylentnews.org/article.pl?sid=22/07/17/1447242&from=rss) - [The Role of TV Ad Content in Viewers’ Zapping Behavior](https://soylentnews.org/article.pl?sid=22/07/17/1447242&from=rss)
 
 ## [Archives](archives/index.md)
 
