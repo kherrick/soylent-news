@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-26, 21:51:00](https://soylentnews.org/article.pl?sid=22/07/25/2356248&from=rss) - [Zero-Day Used to Infect Chrome Users Could Pose Threat to Edge and Safari Users](https://soylentnews.org/article.pl?sid=22/07/25/2356248&from=rss)
 * [2022-07-26, 19:12:00](https://soylentnews.org/article.pl?sid=22/07/25/1734232&from=rss) - [Electric Mercedes That Can Go 747 Miles on a Single Charge](https://soylentnews.org/article.pl?sid=22/07/25/1734232&from=rss)
 * [2022-07-26, 16:24:00](https://soylentnews.org/article.pl?sid=22/07/25/1727249&from=rss) - [Nuclear Power Plants are Struggling to Stay Cool](https://soylentnews.org/article.pl?sid=22/07/25/1727249&from=rss)
 * [2022-07-26, 14:45:00](https://soylentnews.org/meta/article.pl?sid=22/07/26/0853222&from=rss) - [Change of Policy - Anonymous Coward Posting on the Main Page](https://soylentnews.org/meta/article.pl?sid=22/07/26/0853222&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-20, 19:09:00](https://soylentnews.org/article.pl?sid=22/07/19/1549252&from=rss) - [Music-Making and the Flow of Aerosols](https://soylentnews.org/article.pl?sid=22/07/19/1549252&from=rss)
 * [2022-07-20, 16:25:00](https://soylentnews.org/article.pl?sid=22/07/19/1547230&from=rss) - [Mars Spaghetti: NASA's Perseverance Rover Spots a Strange Tangle](https://soylentnews.org/article.pl?sid=22/07/19/1547230&from=rss)
 * [2022-07-20, 13:46:00](https://soylentnews.org/article.pl?sid=22/07/19/0254233&from=rss) - [This is Why the Pistol Shrimp is Immune to its Own Powerful Shock Waves](https://soylentnews.org/article.pl?sid=22/07/19/0254233&from=rss)
-* [2022-07-20, 11:00:00](https://soylentnews.org/article.pl?sid=22/07/19/0246256&from=rss) - [One-Hit Wonder: How Awards, Recognition Decrease Inventors’ Creativity](https://soylentnews.org/article.pl?sid=22/07/19/0246256&from=rss)
 
 ## [Archives](archives/index.md)
 
