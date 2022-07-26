@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-26](index.md)
 
+* [2022-07-26, 19:12:00](https://soylentnews.org/article.pl?sid=22/07/25/1734232&from=rss) - [Electric Mercedes That Can Go 747 Miles on a Single Charge](https://soylentnews.org/article.pl?sid=22/07/25/1734232&from=rss)
 * [2022-07-26, 16:24:00](https://soylentnews.org/article.pl?sid=22/07/25/1727249&from=rss) - [Nuclear Power Plants are Struggling to Stay Cool](https://soylentnews.org/article.pl?sid=22/07/25/1727249&from=rss)
 * [2022-07-26, 14:45:00](https://soylentnews.org/meta/article.pl?sid=22/07/26/0853222&from=rss) - [Change of Policy - Anonymous Coward Posting on the Main Page](https://soylentnews.org/meta/article.pl?sid=22/07/26/0853222&from=rss)
 * [2022-07-26, 13:42:00](https://soylentnews.org/article.pl?sid=22/07/26/043207&from=rss) - [U.S. Launches Environmental Study for Thirty Meter Telescope on Mauna Kea](https://soylentnews.org/article.pl?sid=22/07/26/043207&from=rss)
