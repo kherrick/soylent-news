@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-26, 05:25:00](https://soylentnews.org/article.pl?sid=22/07/25/0055242&from=rss) - [After Public Outcry, Google Will Reinstate Play Store App Permissions List](https://soylentnews.org/article.pl?sid=22/07/25/0055242&from=rss)
 * [2022-07-26, 02:42:00](https://soylentnews.org/article.pl?sid=22/07/24/1941230&from=rss) - [FCC Chair Tries to Find Out How Carriers Use Phone Geolocation Data](https://soylentnews.org/article.pl?sid=22/07/24/1941230&from=rss)
 * [2022-07-25, 23:59:00](https://soylentnews.org/article.pl?sid=22/07/24/1726207&from=rss) - [The Great British Lift-Off](https://soylentnews.org/article.pl?sid=22/07/24/1726207&from=rss)
 * [2022-07-25, 21:11:00](https://soylentnews.org/article.pl?sid=22/07/24/1654202&from=rss) - [You Can See Where The Webb Telescope Took A Direct Hit From A Micrometeorite On One Of Its Mirrors](https://soylentnews.org/article.pl?sid=22/07/24/1654202&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-19, 23:58:00](https://soylentnews.org/article.pl?sid=22/07/18/186202&from=rss) - [Inflation Pushes Some Workers To New Jobs — And Some Regrets](https://soylentnews.org/article.pl?sid=22/07/18/186202&from=rss)
 * [2022-07-19, 21:19:00](https://soylentnews.org/article.pl?sid=22/07/18/181219&from=rss) - [Chemists Just Rearranged Atomic Bonds in a Single Molecule for the First Time](https://soylentnews.org/article.pl?sid=22/07/18/181219&from=rss)
 * [2022-07-19, 18:34:00](https://soylentnews.org/article.pl?sid=22/07/18/1755255&from=rss) - [Air Pollution Caused 2,780 Deaths, Illnesses, And IQ Loss In Children In Massachusetts In 2019](https://soylentnews.org/article.pl?sid=22/07/18/1755255&from=rss)
-* [2022-07-19, 15:51:00](https://soylentnews.org/article.pl?sid=22/07/18/1752224&from=rss) - [SWARM Dodges Collision During Climb to Escape Sun’s Wrath](https://soylentnews.org/article.pl?sid=22/07/18/1752224&from=rss)
 
 ## [Archives](archives/index.md)
 
