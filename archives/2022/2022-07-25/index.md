@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-25](index.md)
 
+* [2022-07-25, 23:59:00](https://soylentnews.org/article.pl?sid=22/07/24/1726207&from=rss) - [The Great British Lift-Off](https://soylentnews.org/article.pl?sid=22/07/24/1726207&from=rss)
 * [2022-07-25, 21:11:00](https://soylentnews.org/article.pl?sid=22/07/24/1654202&from=rss) - [You Can See Where The Webb Telescope Took A Direct Hit From A Micrometeorite On One Of Its Mirrors](https://soylentnews.org/article.pl?sid=22/07/24/1654202&from=rss)
 * [2022-07-25, 18:23:00](https://soylentnews.org/article.pl?sid=22/07/24/1634226&from=rss) - [Halos and Dark Matter: A Recipe for Discovery](https://soylentnews.org/article.pl?sid=22/07/24/1634226&from=rss)
 * [2022-07-25, 15:41:00](https://soylentnews.org/article.pl?sid=22/07/24/1627219&from=rss) - [Why US Roads Became So Dangerous And What To Do About It](https://soylentnews.org/article.pl?sid=22/07/24/1627219&from=rss)
