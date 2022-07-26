@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-26, 14:45:00](https://soylentnews.org/meta/article.pl?sid=22/07/26/0853222&from=rss) - [Change of Policy - Anonymous Coward Posting on the Main Page](https://soylentnews.org/meta/article.pl?sid=22/07/26/0853222&from=rss)
 * [2022-07-26, 13:42:00](https://soylentnews.org/article.pl?sid=22/07/26/043207&from=rss) - [U.S. Launches Environmental Study for Thirty Meter Telescope on Mauna Kea](https://soylentnews.org/article.pl?sid=22/07/26/043207&from=rss)
 * [2022-07-26, 10:53:00](https://soylentnews.org/article.pl?sid=22/07/25/1713239&from=rss) - [AMD Establishes New CPU Design Center in NY](https://soylentnews.org/article.pl?sid=22/07/25/1713239&from=rss)
 * [2022-07-26, 08:12:00](https://soylentnews.org/article.pl?sid=22/07/25/1710216&from=rss) - [1st Polio Case Reported in US in Nearly a Decade Detected in New York State](https://soylentnews.org/article.pl?sid=22/07/25/1710216&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-20, 11:00:00](https://soylentnews.org/article.pl?sid=22/07/19/0246256&from=rss) - [One-Hit Wonder: How Awards, Recognition Decrease Inventors’ Creativity](https://soylentnews.org/article.pl?sid=22/07/19/0246256&from=rss)
 * [2022-07-20, 08:15:00](https://soylentnews.org/article.pl?sid=22/07/19/0240255&from=rss) - [Space Bubbles to Deflect Solar Radiation](https://soylentnews.org/article.pl?sid=22/07/19/0240255&from=rss)
 * [2022-07-20, 05:33:00](https://soylentnews.org/article.pl?sid=22/07/19/0223233&from=rss) - [Zombie Fly Fungus Lures Healthy Male Flies to Mate With Female Corpses](https://soylentnews.org/article.pl?sid=22/07/19/0223233&from=rss)
-* [2022-07-20, 02:45:00](https://soylentnews.org/article.pl?sid=22/07/19/027203&from=rss) - [A Chinese Wikipedia Editor Spent Years Writing Fake Russian Medieval History](https://soylentnews.org/article.pl?sid=22/07/19/027203&from=rss)
 
 ## [Archives](archives/index.md)
 
