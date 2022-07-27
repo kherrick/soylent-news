@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-27, 08:50:00](https://soylentnews.org/politics/article.pl?sid=22/07/26/1746232&from=rss) - [Russia Done With the International Space Station After 2024](https://soylentnews.org/politics/article.pl?sid=22/07/26/1746232&from=rss)
 * [2022-07-27, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/26/1543244&from=rss) - [50kW Solar Tower Produces Jet Fuel in the Field](https://soylentnews.org/article.pl?sid=22/07/26/1543244&from=rss)
 * [2022-07-27, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/26/1221237&from=rss) - [Martin Shkreli Launches Blockchain-based Drug Discovery Platform](https://soylentnews.org/article.pl?sid=22/07/26/1221237&from=rss)
 * [2022-07-27, 00:36:00](https://soylentnews.org/article.pl?sid=22/07/26/1157258&from=rss) - [Slow Broadband? FCC Wants To Boost Internet Speeds From 'Harmful' Minimums ](https://soylentnews.org/article.pl?sid=22/07/26/1157258&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-21, 06:16:00](https://soylentnews.org/article.pl?sid=22/07/20/1124252&from=rss) - [Scientists Discover Blueprint For Life Forms On Mars](https://soylentnews.org/article.pl?sid=22/07/20/1124252&from=rss)
 * [2022-07-21, 03:33:00](https://soylentnews.org/article.pl?sid=22/07/20/0529246&from=rss) - [Amazon Promises Fairer Seller Program to Avoid EU Fines](https://soylentnews.org/article.pl?sid=22/07/20/0529246&from=rss)
 * [2022-07-21, 00:44:00](https://soylentnews.org/article.pl?sid=22/07/20/0232216&from=rss) - [How a Potentially Deadly Gas Could Help Fight Inflammation](https://soylentnews.org/article.pl?sid=22/07/20/0232216&from=rss)
-* [2022-07-20, 21:56:00](https://soylentnews.org/article.pl?sid=22/07/19/1553247&from=rss) - [The US Spends $200 Billion Each Year On Cancer Care – We Might Not Be Getting Our Money’s Worth](https://soylentnews.org/article.pl?sid=22/07/19/1553247&from=rss)
 
 ## [Archives](archives/index.md)
 
