@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-27, 17:09:00](https://soylentnews.org/article.pl?sid=22/07/26/1811246&from=rss) - [Russia is Quietly Ramping Up its Internet Censorship Machine](https://soylentnews.org/article.pl?sid=22/07/26/1811246&from=rss)
 * [2022-07-27, 14:26:00](https://soylentnews.org/article.pl?sid=22/07/26/187216&from=rss) - [What Harry Potter Can (and Can't) Teach Us About Economics](https://soylentnews.org/article.pl?sid=22/07/26/187216&from=rss)
 * [2022-07-27, 11:41:00](https://soylentnews.org/article.pl?sid=22/07/26/1755206&from=rss) - [Why One Critical Second Can Wreak Havoc On The Internet ](https://soylentnews.org/article.pl?sid=22/07/26/1755206&from=rss)
 * [2022-07-27, 08:50:00](https://soylentnews.org/politics/article.pl?sid=22/07/26/1746232&from=rss) - [Russia Done With the International Space Station After 2024](https://soylentnews.org/politics/article.pl?sid=22/07/26/1746232&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-21, 14:24:00](https://soylentnews.org/politics/article.pl?sid=22/07/20/1445255&from=rss) - [Russia’s Gazprom Says Cannot Guarantee Gas Supply To EU Buyers](https://soylentnews.org/politics/article.pl?sid=22/07/20/1445255&from=rss)
 * [2022-07-21, 11:38:00](https://soylentnews.org/article.pl?sid=22/07/20/1439238&from=rss) - [New Internal Documents may Escalate Antitrust Case Against Google, Amazon](https://soylentnews.org/article.pl?sid=22/07/20/1439238&from=rss)
 * [2022-07-21, 08:58:00](https://soylentnews.org/article.pl?sid=22/07/20/1134210&from=rss) - [Ai Helps the Powerful but Harms the Vulnerable, Mozilla Warns](https://soylentnews.org/article.pl?sid=22/07/20/1134210&from=rss)
-* [2022-07-21, 06:16:00](https://soylentnews.org/article.pl?sid=22/07/20/1124252&from=rss) - [Scientists Discover Blueprint For Life Forms On Mars](https://soylentnews.org/article.pl?sid=22/07/20/1124252&from=rss)
 
 ## [Archives](archives/index.md)
 
