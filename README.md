@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-28, 06:56:00](https://soylentnews.org/article.pl?sid=22/07/27/1258222&from=rss) - [As These Bacteria Eat, They Generate a Strange Molecule That Can be Used to Make Jet Fuel](https://soylentnews.org/article.pl?sid=22/07/27/1258222&from=rss)
 * [2022-07-28, 04:10:00](https://soylentnews.org/article.pl?sid=22/07/27/0253256&from=rss) - [New Hypothesis Emerges to Explain Mysterious Hepatitis Cases in Kids](https://soylentnews.org/article.pl?sid=22/07/27/0253256&from=rss)
 * [2022-07-28, 01:25:00](https://soylentnews.org/article.pl?sid=22/07/27/0150208&from=rss) - [Thaw and Redraw: Melting Glacier Moves Italian-Swiss Border](https://soylentnews.org/article.pl?sid=22/07/27/0150208&from=rss)
 * [2022-07-27, 22:41:00](https://soylentnews.org/article.pl?sid=22/07/27/0126216&from=rss) - [Google Glass (Slight Return)](https://soylentnews.org/article.pl?sid=22/07/27/0126216&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-22, 04:19:00](https://soylentnews.org/article.pl?sid=22/07/21/1214239&from=rss) - [New Luna Ransomware Encrypts Windows, Linux, And Esxi Systems](https://soylentnews.org/article.pl?sid=22/07/21/1214239&from=rss)
 * [2022-07-22, 01:32:00](https://soylentnews.org/article.pl?sid=22/07/21/0041249&from=rss) - [Two Companies You've Never Heard of Could be the First to Reach Mars](https://soylentnews.org/article.pl?sid=22/07/21/0041249&from=rss)
 * [2022-07-21, 22:45:00](https://soylentnews.org/article.pl?sid=22/07/20/1837225&from=rss) - [Netflix Loses 970,000 Subscribers, Says Ads and New Fees Are Key to Recovery](https://soylentnews.org/article.pl?sid=22/07/20/1837225&from=rss)
-* [2022-07-21, 19:57:00](https://soylentnews.org/article.pl?sid=22/07/20/151245&from=rss) - [MIT Engineers Find a Way to Save Energy and Make Water Boil More Efficiently](https://soylentnews.org/article.pl?sid=22/07/20/151245&from=rss)
 
 ## [Archives](archives/index.md)
 
