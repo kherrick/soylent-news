@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-28](index.md)
 
+* [2022-07-28, 20:52:00](https://soylentnews.org/article.pl?sid=22/07/28/0211255&from=rss) - [Life Helps Make Almost Half of All Minerals on Earth](https://soylentnews.org/article.pl?sid=22/07/28/0211255&from=rss)
 * [2022-07-28, 18:04:00](https://soylentnews.org/article.pl?sid=22/07/27/1517218&from=rss) - [Upgrading Cell Towers Could Save Enough Energy To Power Entire Cities](https://soylentnews.org/article.pl?sid=22/07/27/1517218&from=rss)
 * [2022-07-28, 15:20:00](https://soylentnews.org/article.pl?sid=22/07/27/1511222&from=rss) - [Russians Reportedly Building a Satellite-Blinding Laser – an Expert Explains the Technology](https://soylentnews.org/article.pl?sid=22/07/27/1511222&from=rss)
 * [2022-07-28, 12:35:00](https://soylentnews.org/article.pl?sid=22/07/27/159231&from=rss) - [Does the Sun Rotate?](https://soylentnews.org/article.pl?sid=22/07/27/159231&from=rss)
