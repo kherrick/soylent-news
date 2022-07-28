@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-28](index.md)
 
+* [2022-07-28, 15:20:00](https://soylentnews.org/article.pl?sid=22/07/27/1511222&from=rss) - [Russians Reportedly Building a Satellite-Blinding Laser – an Expert Explains the Technology](https://soylentnews.org/article.pl?sid=22/07/27/1511222&from=rss)
 * [2022-07-28, 12:35:00](https://soylentnews.org/article.pl?sid=22/07/27/159231&from=rss) - [Does the Sun Rotate?](https://soylentnews.org/article.pl?sid=22/07/27/159231&from=rss)
 * [2022-07-28, 09:49:00](https://soylentnews.org/article.pl?sid=22/07/27/150249&from=rss) - [Micron's 232-Layer NAND Paves Way for 200TB SSDs](https://soylentnews.org/article.pl?sid=22/07/27/150249&from=rss)
 * [2022-07-28, 06:56:00](https://soylentnews.org/article.pl?sid=22/07/27/1258222&from=rss) - [As These Bacteria Eat, They Generate a Strange Molecule That Can be Used to Make Jet Fuel](https://soylentnews.org/article.pl?sid=22/07/27/1258222&from=rss)
