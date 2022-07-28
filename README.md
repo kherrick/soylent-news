@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-28, 23:33:00](https://soylentnews.org/article.pl?sid=22/07/28/0221222&from=rss) - [Early Europeans Could Not Tolerate Milk but Drank It Anyway, Study Finds](https://soylentnews.org/article.pl?sid=22/07/28/0221222&from=rss)
 * [2022-07-28, 20:52:00](https://soylentnews.org/article.pl?sid=22/07/28/0211255&from=rss) - [Life Helps Make Almost Half of All Minerals on Earth](https://soylentnews.org/article.pl?sid=22/07/28/0211255&from=rss)
 * [2022-07-28, 18:04:00](https://soylentnews.org/article.pl?sid=22/07/27/1517218&from=rss) - [Upgrading Cell Towers Could Save Enough Energy To Power Entire Cities](https://soylentnews.org/article.pl?sid=22/07/27/1517218&from=rss)
 * [2022-07-28, 15:20:00](https://soylentnews.org/article.pl?sid=22/07/27/1511222&from=rss) - [Russians Reportedly Building a Satellite-Blinding Laser – an Expert Explains the Technology](https://soylentnews.org/article.pl?sid=22/07/27/1511222&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-22, 20:57:00](https://soylentnews.org/article.pl?sid=22/07/22/1146202&from=rss) - [100 Million-Year-Old Footprints Of World's Biggest Dinosaur Species Found At Restaurant In China](https://soylentnews.org/article.pl?sid=22/07/22/1146202&from=rss)
 * [2022-07-22, 18:10:00](https://soylentnews.org/article.pl?sid=22/07/21/1841252&from=rss) - [Nikon is Reportedly Halting DSLR Camera Development - Nikon Says Maybe Not](https://soylentnews.org/article.pl?sid=22/07/21/1841252&from=rss)
 * [2022-07-22, 15:26:00](https://soylentnews.org/article.pl?sid=22/07/21/1837256&from=rss) - [Google Engineers Lift The Lid On Carbon - A Hopeful Successor To C++](https://soylentnews.org/article.pl?sid=22/07/21/1837256&from=rss)
-* [2022-07-22, 12:34:00](https://soylentnews.org/article.pl?sid=22/07/21/1834242&from=rss) - [Professional Athletes Perform Better Against Former Clubs](https://soylentnews.org/article.pl?sid=22/07/21/1834242&from=rss)
 
 ## [Archives](archives/index.md)
 
