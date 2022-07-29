@@ -145,6 +145,116 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="22/07/28/161247">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=22/07/28/161247&amp;from=rss"
+              >The Story Behind Google’s In-House Desktop Linux</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-07-29 @ 16:12:00</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=22/07/28/161247"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Arthur T Knackerbracket has processed the
+                <a
+                  href="https://www.computerworld.com/article/3668548/the-story-behind-google-s-in-house-desktop-linux.html#tk.rss_all"
+                  >following story</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    In 2018, Google moved its in-house Linux desktop from the
+                    Goobuntu to a new Linux distro, the
+                    <a href="https://www.debian.org/">Debian</a>-based gLinux.
+                    Why? Because, as Google explained, Ubuntu's Long Term
+                    Support (LTS) two-year release "meant that we had to upgrade
+                    every machine in our fleet of over 100,000 devices before
+                    the end-of-life date of the OS."
+                  </p>
+                  <p>
+                    That was a pain. Add in the time-consuming need to fully
+                    customize engineers' PCs, and Google decided that it cost
+                    too much. Besides, the "effort to upgrade our Goobuntu fleet
+                    usually took the better part of a year. With a two-year
+                    support window, there was only one year left until we had to
+                    go through the same process all over again for the next LTS.
+                    This entire process was a huge stress factor for our team,
+                    as we got hundreds of bugs with requests for help for corner
+                    cases."
+                  </p>
+                  <p>
+                    So, when Google had enough of that, it moved to Debian Linux
+                    (though not just vanilla Debian). The company created a
+                    rolling Debian distribution: GLinux Rolling Debian Testing
+                    (Rodete).  The idea is that users and developers are best
+                    served by giving them the latest updates and patches as
+                    they're created and deemed ready for production. Such
+                    distros include
+                    <a href="https://archlinux.org/">Arch Linux</a>,
+                    <a href="https://wiki.debian.org/DebianTesting"
+                      >Debian Testing</a
+                    >, and
+                    <a href="https://get.opensuse.org/tumbleweed/"
+                      >openSUSE Tumbleweed</a
+                    >.
+                  </p>
+                  <p>
+                    For Google, the immediate goal was to get off the two-year
+                    upgrade cycle. As the move to
+                    <a
+                      href="https://practical-tech.com/2018/07/10/continuous-integration-and-delivery-tool-basics/"
+                      >Continuous Integration/Continuous Deployment (CI/CD)</a
+                    >
+                    has shown, these incremental changes work well. They're also
+                    easier to control and rollback if something goes wrong.
+                  </p>
+                  <p>
+                    To make all this work without a lot of blood, sweat, and
+                    tears, Google created a new workflow system, Sieve. 
+                    Whenever Sieve spots a new version of a Debian package, it
+                    starts a new build. These packages are built in package
+                    groups since separate packages often must be upgraded
+                    together. Once the whole group has been built, Google runs a
+                    virtualized test suite to ensure no core components and
+                    developer workflows are broken. Next, each group is tested
+                    separately with a full system installation, boot, and local
+                    test suite run. The package builds complete within minutes,
+                    but testing can take up to an hour.
+                  </p>
+                  <p>
+                    [...] release Sieve's code so we can all start producing
+                    rolling Linux desktop releases. How about it, Google? What
+                    do you say?
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=56197"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="22/07/28/1558249">
           <h3>
             <a
@@ -158,7 +268,7 @@
             <h4>
               <span>2022-07-29 @ 13:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/28/1558249"
@@ -245,7 +355,7 @@
             <h4>
               <span>2022-07-29 @ 10:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/28/1555231"
@@ -348,7 +458,7 @@
             <h4>
               <span>2022-07-29 @ 07:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/28/1254230"
@@ -428,7 +538,7 @@
             <h4>
               <span>2022-07-29 @ 05:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">389</span></span
+                >Points: <span class="points">395</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/28/0247217"
@@ -520,12 +630,12 @@
             <h4>
               <span>2022-07-29 @ 02:20:00</span
               ><span class="points-container"
-                >Points: <span class="points">465</span></span
+                >Points: <span class="points">483</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/28/0238216"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
             <div class="text">
@@ -611,12 +721,12 @@
             <h4>
               <span>2022-07-28 @ 23:33:00</span
               ><span class="points-container"
-                >Points: <span class="points">561</span></span
+                >Points: <span class="points">567</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/28/0221222"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
             <div class="text">
@@ -832,7 +942,7 @@
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/27/1517218"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
             <div class="text">
@@ -906,7 +1016,7 @@
             <h4>
               <span>2022-07-28 @ 15:20:00</span
               ><span class="points-container"
-                >Points: <span class="points">557</span></span
+                >Points: <span class="points">561</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/27/1511222"
@@ -1108,7 +1218,7 @@
             <h4>
               <span>2022-07-28 @ 09:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">460</span></span
+                >Points: <span class="points">461</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/27/150249"
@@ -1193,7 +1303,7 @@
             <h4>
               <span>2022-07-28 @ 06:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">448</span></span
+                >Points: <span class="points">449</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/27/1258222"
@@ -1351,7 +1461,7 @@
             <h4>
               <span>2022-07-28 @ 01:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">339</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/27/0150208"
@@ -1589,7 +1699,7 @@
             <h4>
               <span>2022-07-27 @ 19:57:00</span
               ><span class="points-container"
-                >Points: <span class="points">441</span></span
+                >Points: <span class="points">442</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/27/0027210"
@@ -1857,7 +1967,7 @@
             <h4>
               <span>2022-07-27 @ 11:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">866</span></span
+                >Points: <span class="points">867</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/26/1755206"
@@ -1933,7 +2043,7 @@
             <h4>
               <span>2022-07-27 @ 08:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">631</span></span
+                >Points: <span class="points">633</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/26/1746232"
@@ -2009,7 +2119,7 @@
             <h4>
               <span>2022-07-27 @ 06:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">557</span></span
+                >Points: <span class="points">558</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/26/1543244"
@@ -2163,7 +2273,7 @@
             <h4>
               <span>2022-07-27 @ 00:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">623</span></span
+                >Points: <span class="points">624</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/26/1157258"
@@ -2440,7 +2550,7 @@
             <h4>
               <span>2022-07-26 @ 16:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">647</span></span
+                >Points: <span class="points">648</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/25/1727249"
@@ -2509,7 +2619,7 @@
             <h4>
               <span>2022-07-26 @ 14:45:00</span
               ><span class="points-container"
-                >Points: <span class="points">1305</span></span
+                >Points: <span class="points">1306</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=22/07/26/0853222"
@@ -4721,80 +4831,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=56096"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="22/07/22/1715249">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=22/07/22/1715249&amp;from=rss"
-              >Strange New Phase of Matter Created in Quantum Computer Acts Like
-              It Has Two Time Dimensions</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-07-23 @ 09:13:00</span
-              ><span class="points-container"
-                >Points: <span class="points">833</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=22/07/22/1715249"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-            <div class="text">
-              <blockquote>
-                <div>
-                  <p>
-                    There's a big problem, though: Just as peeking in
-                    Schrödinger's box seals the cat's fate, so does interacting
-                    with a qubit. And that interaction doesn't even have to be
-                    deliberate. "Even if you keep all the atoms under tight
-                    control, they can lose their quantumness by talking to their
-                    environment, heating up or interacting with things in ways
-                    you didn't plan," Dumitrescu says. "In practice,
-                    experimental devices have many sources of error that can
-                    degrade coherence after just a few laser pulses."
-                  </p>
-                  <p>
-                    The challenge, therefore, is to make qubits more robust. To
-                    do that, physicists can use 'symmetries,' essentially
-                    properties that hold up to change. (A snowflake, for
-                    instance, has rotational symmetry because it looks the same
-                    when rotated by 60 degrees.) One method is adding time
-                    symmetry by blasting the atoms with rhythmic laser pulses.
-                    This approach helps, but Dumitrescu and his collaborators
-                    wondered if they could go further. So instead of just one
-                    time symmetry, they aimed to add two by using ordered but
-                    non-repeating laser pulses.
-                  </p>
-                </div>
-              </blockquote>
-              <p>
-                <b>Journal Reference</b>:<br />Dumitrescu, Philipp T., Bohnet,
-                Justin G., Gaebler, John P., <em>et al</em>.
-                <b
-                  >Dynamical topological phase realized in a trapped-ion quantum
-                  simulator</b
-                >, <cite>Nature</cite> (DOI:
-                <a href="https://doi.org/10.1038/s41586-022-04853-4"
-                  >10.1038/s41586-022-04853-4</a
-                >)
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=56104"
                     >Original Submission</a
                   ></small
                 >
