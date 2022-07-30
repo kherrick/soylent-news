@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-30, 00:26:00](https://soylentnews.org/article.pl?sid=22/07/29/0138245&from=rss) - [Reality Doesn’t Exist Until You Measure It, Quantum Parlor Trick Confirms](https://soylentnews.org/article.pl?sid=22/07/29/0138245&from=rss)
 * [2022-07-29, 21:40:00](https://soylentnews.org/article.pl?sid=22/07/28/1612225&from=rss) - [Specific Brain Responses To Traumatic Stress Linked To PTSD Risk](https://soylentnews.org/article.pl?sid=22/07/28/1612225&from=rss)
 * [2022-07-29, 18:53:00](https://soylentnews.org/article.pl?sid=22/07/28/167229&from=rss) - [Saudi Planning Skyscraper That's 75 Miles Wide](https://soylentnews.org/article.pl?sid=22/07/28/167229&from=rss)
 * [2022-07-29, 16:12:00](https://soylentnews.org/article.pl?sid=22/07/28/161247&from=rss) - [The Story Behind Google’s In-House Desktop Linux](https://soylentnews.org/article.pl?sid=22/07/28/161247&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-24, 13:35:00](https://soylentnews.org/article.pl?sid=22/07/23/1518221&from=rss) - [Give Me Some Space](https://soylentnews.org/article.pl?sid=22/07/23/1518221&from=rss)
 * [2022-07-24, 08:43:00](https://soylentnews.org/article.pl?sid=22/07/23/1539221&from=rss) - [An An, World’s Oldest Male Panda In Captivity, Dies At 35](https://soylentnews.org/article.pl?sid=22/07/23/1539221&from=rss)
 * [2022-07-24, 04:01:00](https://soylentnews.org/article.pl?sid=22/07/23/1340214&from=rss) - [FCC Orders Phone Carriers to Block Scammers Behind 8 Billion Robocalls](https://soylentnews.org/article.pl?sid=22/07/23/1340214&from=rss)
-* [2022-07-23, 23:23:00](https://soylentnews.org/article.pl?sid=22/07/23/0032238&from=rss) - [Two Decades of Alzheimers Research May be Based on Deliberate Fraud](https://soylentnews.org/article.pl?sid=22/07/23/0032238&from=rss)
 
 ## [Archives](archives/index.md)
 
