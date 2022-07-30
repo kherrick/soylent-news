@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-30, 14:34:00](https://soylentnews.org/article.pl?sid=22/07/29/0235255&from=rss) - [Japan Office Nap Box](https://soylentnews.org/article.pl?sid=22/07/29/0235255&from=rss)
 * [2022-07-30, 09:49:00](https://soylentnews.org/article.pl?sid=22/07/29/0226212&from=rss) - [Amazon Might Own Your Doctor’s Office After Latest Acquisition](https://soylentnews.org/article.pl?sid=22/07/29/0226212&from=rss)
 * [2022-07-30, 05:05:00](https://soylentnews.org/article.pl?sid=22/07/29/0157246&from=rss) - [Switch To A Circular Economy Could Protect The Environment While Generating More Value](https://soylentnews.org/article.pl?sid=22/07/29/0157246&from=rss)
 * [2022-07-30, 00:26:00](https://soylentnews.org/article.pl?sid=22/07/29/0138245&from=rss) - [Reality Doesn’t Exist Until You Measure It, Quantum Parlor Trick Confirms](https://soylentnews.org/article.pl?sid=22/07/29/0138245&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-25, 01:46:00](https://soylentnews.org/article.pl?sid=22/07/23/1553246&from=rss) - [How to Turn Throwaway Cardboard Into a DIY Arcade Game](https://soylentnews.org/article.pl?sid=22/07/23/1553246&from=rss)
 * [2022-07-24, 23:05:00](https://soylentnews.org/article.pl?sid=22/07/23/1546216&from=rss) - [Two Senators Propose Ban On Data Caps, Blasting ISPs For “Predatory” Limits](https://soylentnews.org/article.pl?sid=22/07/23/1546216&from=rss)
 * [2022-07-24, 18:20:00](https://soylentnews.org/article.pl?sid=22/07/23/1542248&from=rss) - [Craft Coffee is Everywhere!  Research Explains How We Got There](https://soylentnews.org/article.pl?sid=22/07/23/1542248&from=rss)
-* [2022-07-24, 13:35:00](https://soylentnews.org/article.pl?sid=22/07/23/1518221&from=rss) - [Give Me Some Space](https://soylentnews.org/article.pl?sid=22/07/23/1518221&from=rss)
 
 ## [Archives](archives/index.md)
 
