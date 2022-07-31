@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-07-31](index.md)
+
+* [2022-07-31, 00:06:00](https://soylentnews.org/article.pl?sid=22/07/29/1837203&from=rss) - [Inflating Spider Corpse Creates Robotic Claw Game of Nightmares](https://soylentnews.org/article.pl?sid=22/07/29/1837203&from=rss)
