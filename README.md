@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-31, 14:50:00](https://soylentnews.org/article.pl?sid=22/07/30/0938244&from=rss) - [Put Down Devices, Let Your Mind Wander](https://soylentnews.org/article.pl?sid=22/07/30/0938244&from=rss)
 * [2022-07-31, 09:34:00](https://soylentnews.org/article.pl?sid=22/07/30/0134245&from=rss) - [Space Junk Found on Sheep Farm](https://soylentnews.org/article.pl?sid=22/07/30/0134245&from=rss)
 * [2022-07-31, 04:51:00](https://soylentnews.org/article.pl?sid=22/07/29/1842215&from=rss) - [The Crypto Boom Runs on 'Crypto Influencers' Like ‘BitBoy_Crypto,’ an Untrained Atlanta YouTuber](https://soylentnews.org/article.pl?sid=22/07/29/1842215&from=rss)
 * [2022-07-31, 00:06:00](https://soylentnews.org/article.pl?sid=22/07/29/1837203&from=rss) - [Inflating Spider Corpse Creates Robotic Claw Game of Nightmares](https://soylentnews.org/article.pl?sid=22/07/29/1837203&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-25, 15:41:00](https://soylentnews.org/article.pl?sid=22/07/24/1627219&from=rss) - [Why US Roads Became so Dangerous and What to do About It](https://soylentnews.org/article.pl?sid=22/07/24/1627219&from=rss)
 * [2022-07-25, 12:53:00](https://soylentnews.org/article.pl?sid=22/07/24/1620249&from=rss) - [WHO Declares Monkeypox A Global Emergency Amid Surge In Cases](https://soylentnews.org/article.pl?sid=22/07/24/1620249&from=rss)
 * [2022-07-25, 10:05:00](https://soylentnews.org/article.pl?sid=22/07/24/1439232&from=rss) - [Hardcoded Password in Confluence App Has Been Leaked on Twitter](https://soylentnews.org/article.pl?sid=22/07/24/1439232&from=rss)
-* [2022-07-25, 07:18:00](https://soylentnews.org/article.pl?sid=22/07/24/1413245&from=rss) - [Okay, Google: To Protect Women, Collect Less Data About Everyone](https://soylentnews.org/article.pl?sid=22/07/24/1413245&from=rss)
 
 ## [Archives](archives/index.md)
 
