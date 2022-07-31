@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-07-31, 04:51:00](https://soylentnews.org/article.pl?sid=22/07/29/1842215&from=rss) - [The Crypto Boom Runs on 'Crypto Influencers' Like ‘BitBoy_Crypto,’ an Untrained Atlanta YouTuber](https://soylentnews.org/article.pl?sid=22/07/29/1842215&from=rss)
 * [2022-07-31, 00:06:00](https://soylentnews.org/article.pl?sid=22/07/29/1837203&from=rss) - [Inflating Spider Corpse Creates Robotic Claw Game of Nightmares](https://soylentnews.org/article.pl?sid=22/07/29/1837203&from=rss)
 * [2022-07-30, 19:21:00](https://soylentnews.org/article.pl?sid=22/07/29/162251&from=rss) - [DeepMind's Protein-Folding AI Cracks Biology's Biggest Problem](https://soylentnews.org/article.pl?sid=22/07/29/162251&from=rss)
 * [2022-07-30, 14:34:00](https://soylentnews.org/article.pl?sid=22/07/29/0235255&from=rss) - [Japan Office Nap Box](https://soylentnews.org/article.pl?sid=22/07/29/0235255&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-25, 10:05:00](https://soylentnews.org/article.pl?sid=22/07/24/1439232&from=rss) - [Hardcoded Password in Confluence App Has Been Leaked on Twitter](https://soylentnews.org/article.pl?sid=22/07/24/1439232&from=rss)
 * [2022-07-25, 07:18:00](https://soylentnews.org/article.pl?sid=22/07/24/1413245&from=rss) - [Okay, Google: To Protect Women, Collect Less Data About Everyone](https://soylentnews.org/article.pl?sid=22/07/24/1413245&from=rss)
 * [2022-07-25, 04:32:00](https://soylentnews.org/article.pl?sid=22/07/24/1339227&from=rss) - [Google Fires Researcher who Claimed LaMDA AI was Sentient](https://soylentnews.org/article.pl?sid=22/07/24/1339227&from=rss)
-* [2022-07-25, 01:46:00](https://soylentnews.org/article.pl?sid=22/07/23/1553246&from=rss) - [How to Turn Throwaway Cardboard Into a DIY Arcade Game](https://soylentnews.org/article.pl?sid=22/07/23/1553246&from=rss)
 
 ## [Archives](archives/index.md)
 
