@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-08-01, 16:43:00](https://soylentnews.org/article.pl?sid=22/07/31/1744240&from=rss) - [Who Is Collecting Data from Your Car?](https://soylentnews.org/article.pl?sid=22/07/31/1744240&from=rss)
 * [2022-08-01, 13:58:00](https://soylentnews.org/article.pl?sid=22/07/31/1741209&from=rss) - [Max Headroom is Making a Comeback](https://soylentnews.org/article.pl?sid=22/07/31/1741209&from=rss)
 * [2022-08-01, 11:11:00](https://soylentnews.org/article.pl?sid=22/07/31/1353237&from=rss) - [The Low-Cost VR Honeymoon Is Over](https://soylentnews.org/article.pl?sid=22/07/31/1353237&from=rss)
 * [2022-08-01, 08:28:00](https://soylentnews.org/article.pl?sid=22/07/31/1339254&from=rss) - [Some Details Behind the US Ban on Huawei Equipment](https://soylentnews.org/article.pl?sid=22/07/31/1339254&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-26, 13:42:00](https://soylentnews.org/article.pl?sid=22/07/26/043207&from=rss) - [U.S. Launches Environmental Study for Thirty Meter Telescope on Mauna Kea](https://soylentnews.org/article.pl?sid=22/07/26/043207&from=rss)
 * [2022-07-26, 10:53:00](https://soylentnews.org/article.pl?sid=22/07/25/1713239&from=rss) - [AMD Establishes New CPU Design Center in NY](https://soylentnews.org/article.pl?sid=22/07/25/1713239&from=rss)
 * [2022-07-26, 08:12:00](https://soylentnews.org/article.pl?sid=22/07/25/1710216&from=rss) - [1st Polio Case Reported in US in Nearly a Decade Detected in New York State](https://soylentnews.org/article.pl?sid=22/07/25/1710216&from=rss)
-* [2022-07-26, 05:25:00](https://soylentnews.org/article.pl?sid=22/07/25/0055242&from=rss) - [After Public Outcry, Google Will Reinstate Play Store App Permissions List](https://soylentnews.org/article.pl?sid=22/07/25/0055242&from=rss)
 
 ## [Archives](archives/index.md)
 
