@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-08-01, 05:37:00](https://soylentnews.org/article.pl?sid=22/07/31/1757226&from=rss) - [We're Leaving, We're Staying, We're Leaving When  Our Space Station is Ready](https://soylentnews.org/article.pl?sid=22/07/31/1757226&from=rss)
 * [2022-08-01, 02:52:00](https://soylentnews.org/article.pl?sid=22/07/31/1232240&from=rss) - [TSMC to Expand Capacity for Mature and Specialty Nodes by 50%](https://soylentnews.org/article.pl?sid=22/07/31/1232240&from=rss)
 * [2022-08-01, 00:04:00](https://soylentnews.org/article.pl?sid=22/07/31/1216246&from=rss) - [Wifi Used to Track Consumers Through Stores](https://soylentnews.org/article.pl?sid=22/07/31/1216246&from=rss)
 * [2022-07-31, 19:35:00](https://soylentnews.org/article.pl?sid=22/07/30/1333245&from=rss) - [The Burden of Prolonged Smell and Taste Loss in Covid-19](https://soylentnews.org/article.pl?sid=22/07/30/1333245&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-26, 02:42:00](https://soylentnews.org/article.pl?sid=22/07/24/1941230&from=rss) - [FCC Chair Tries to Find Out How Carriers Use Phone Geolocation Data](https://soylentnews.org/article.pl?sid=22/07/24/1941230&from=rss)
 * [2022-07-25, 23:59:00](https://soylentnews.org/article.pl?sid=22/07/24/1726207&from=rss) - [The Great British Lift-Off](https://soylentnews.org/article.pl?sid=22/07/24/1726207&from=rss)
 * [2022-07-25, 21:11:00](https://soylentnews.org/article.pl?sid=22/07/24/1654202&from=rss) - [You Can See Where The Webb Telescope Took A Direct Hit From A Micrometeorite On One Of Its Mirrors](https://soylentnews.org/article.pl?sid=22/07/24/1654202&from=rss)
-* [2022-07-25, 18:23:00](https://soylentnews.org/article.pl?sid=22/07/24/1634226&from=rss) - [Halos and Dark Matter: A Recipe for Discovery](https://soylentnews.org/article.pl?sid=22/07/24/1634226&from=rss)
 
 ## [Archives](archives/index.md)
 
