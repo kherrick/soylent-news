@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-08-01](index.md)
 
+* [2022-08-01, 22:22:00](https://soylentnews.org/article.pl?sid=22/07/31/1756201&from=rss) - [NASA is Sending More Helicopters to Mars to Help Bring Samples Back](https://soylentnews.org/article.pl?sid=22/07/31/1756201&from=rss)
 * [2022-08-01, 19:35:00](https://soylentnews.org/article.pl?sid=22/07/31/1746238&from=rss) - [New Social Media Tools Help Public Assess Viral Posts, Check for Bots](https://soylentnews.org/article.pl?sid=22/07/31/1746238&from=rss)
 * [2022-08-01, 16:43:00](https://soylentnews.org/article.pl?sid=22/07/31/1744240&from=rss) - [Who Is Collecting Data from Your Car?](https://soylentnews.org/article.pl?sid=22/07/31/1744240&from=rss)
 * [2022-08-01, 13:58:00](https://soylentnews.org/article.pl?sid=22/07/31/1741209&from=rss) - [Max Headroom is Making a Comeback](https://soylentnews.org/article.pl?sid=22/07/31/1741209&from=rss)
