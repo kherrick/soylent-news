@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-08-02](index.md)
 
+* [2022-08-02, 12:10:00](https://soylentnews.org/article.pl?sid=22/08/01/1922233&from=rss) - [Earth Records Shortest Day, Putting Clocks (Slightly) Out of Time](https://soylentnews.org/article.pl?sid=22/08/01/1922233&from=rss)
 * [2022-08-02, 09:23:00](https://soylentnews.org/article.pl?sid=22/07/31/1815259&from=rss) - [Tim Hortons Proposes Settlement in Class-Action Suits Over Data-Tracking App](https://soylentnews.org/article.pl?sid=22/07/31/1815259&from=rss)
 * [2022-08-02, 06:37:00](https://soylentnews.org/article.pl?sid=22/07/31/1813248&from=rss) - [Intel's Profit Plunges As We Stop Buying All Those PCs ](https://soylentnews.org/article.pl?sid=22/07/31/1813248&from=rss)
 * [2022-08-02, 03:52:00](https://soylentnews.org/article.pl?sid=22/07/31/189247&from=rss) - [Bacteria Behind Melioidosis, a Deadly Tropical Disease, Found in US for 1st Time](https://soylentnews.org/article.pl?sid=22/07/31/189247&from=rss)
