@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-08-02, 14:54:00](https://soylentnews.org/article.pl?sid=22/08/01/1925246&from=rss) - [Hubble Captures a Diverse Trio of Galactic Objects](https://soylentnews.org/article.pl?sid=22/08/01/1925246&from=rss)
 * [2022-08-02, 12:10:00](https://soylentnews.org/article.pl?sid=22/08/01/1922233&from=rss) - [Earth Records Shortest Day, Putting Clocks (Slightly) Out of Time](https://soylentnews.org/article.pl?sid=22/08/01/1922233&from=rss)
 * [2022-08-02, 09:23:00](https://soylentnews.org/article.pl?sid=22/07/31/1815259&from=rss) - [Tim Hortons Proposes Settlement in Class-Action Suits Over Data-Tracking App](https://soylentnews.org/article.pl?sid=22/07/31/1815259&from=rss)
 * [2022-08-02, 06:37:00](https://soylentnews.org/article.pl?sid=22/07/31/1813248&from=rss) - [Intel's Profit Plunges As We Stop Buying All Those PCs ](https://soylentnews.org/article.pl?sid=22/07/31/1813248&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-27, 08:50:00](https://soylentnews.org/politics/article.pl?sid=22/07/26/1746232&from=rss) - [Russia Done With the International Space Station After 2024](https://soylentnews.org/politics/article.pl?sid=22/07/26/1746232&from=rss)
 * [2022-07-27, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/26/1543244&from=rss) - [50kW Solar Tower Produces Jet Fuel in the Field](https://soylentnews.org/article.pl?sid=22/07/26/1543244&from=rss)
 * [2022-07-27, 03:23:00](https://soylentnews.org/article.pl?sid=22/07/26/1221237&from=rss) - [Martin Shkreli Launches Blockchain-Based Drug Discovery Platform](https://soylentnews.org/article.pl?sid=22/07/26/1221237&from=rss)
-* [2022-07-27, 00:36:00](https://soylentnews.org/article.pl?sid=22/07/26/1157258&from=rss) - [Slow Broadband? FCC Wants To Boost Internet Speeds From 'Harmful' Minimums ](https://soylentnews.org/article.pl?sid=22/07/26/1157258&from=rss)
 
 ## [Archives](archives/index.md)
 
