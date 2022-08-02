@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-08-02, 03:52:00](https://soylentnews.org/article.pl?sid=22/07/31/189247&from=rss) - [Bacteria Behind Melioidosis, a Deadly Tropical Disease, Found in US for 1st Time](https://soylentnews.org/article.pl?sid=22/07/31/189247&from=rss)
 * [2022-08-02, 01:07:00](https://soylentnews.org/article.pl?sid=22/07/31/130245&from=rss) - [Why Fedora Decided To Give CC0 Licensed Code The Boot](https://soylentnews.org/article.pl?sid=22/07/31/130245&from=rss)
 * [2022-08-01, 22:22:00](https://soylentnews.org/article.pl?sid=22/07/31/1756201&from=rss) - [NASA is Sending More Helicopters to Mars to Help Bring Samples Back](https://soylentnews.org/article.pl?sid=22/07/31/1756201&from=rss)
 * [2022-08-01, 19:35:00](https://soylentnews.org/article.pl?sid=22/07/31/1746238&from=rss) - [New Social Media Tools Help Public Assess Viral Posts, Check for Bots](https://soylentnews.org/article.pl?sid=22/07/31/1746238&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-26, 21:51:00](https://soylentnews.org/article.pl?sid=22/07/25/2356248&from=rss) - [Zero-Day Used to Infect Chrome Users Could Pose Threat to Edge and Safari Users](https://soylentnews.org/article.pl?sid=22/07/25/2356248&from=rss)
 * [2022-07-26, 19:12:00](https://soylentnews.org/article.pl?sid=22/07/25/1734232&from=rss) - [Electric Mercedes That Can Go 747 Miles on a Single Charge](https://soylentnews.org/article.pl?sid=22/07/25/1734232&from=rss)
 * [2022-07-26, 16:24:00](https://soylentnews.org/article.pl?sid=22/07/25/1727249&from=rss) - [Nuclear Power Plants are Struggling to Stay Cool](https://soylentnews.org/article.pl?sid=22/07/25/1727249&from=rss)
-* [2022-07-26, 14:45:00](https://soylentnews.org/meta/article.pl?sid=22/07/26/0853222&from=rss) - [Change of Policy - Anonymous Coward Posting on the Main Page](https://soylentnews.org/meta/article.pl?sid=22/07/26/0853222&from=rss)
 
 ## [Archives](archives/index.md)
 
