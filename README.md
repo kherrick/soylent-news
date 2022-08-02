@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-08-02, 20:20:00](https://soylentnews.org/article.pl?sid=22/08/02/0210209&from=rss) - [Researchers Successfully Execute Experiment To Support U.S. Stockpile Modernization Efforts](https://soylentnews.org/article.pl?sid=22/08/02/0210209&from=rss)
 * [2022-08-02, 17:37:00](https://soylentnews.org/article.pl?sid=22/08/02/0156218&from=rss) - [Nichelle Nichols, Uhura in ‘Star Trek,’ Dies at 89](https://soylentnews.org/article.pl?sid=22/08/02/0156218&from=rss)
 * [2022-08-02, 14:54:00](https://soylentnews.org/article.pl?sid=22/08/01/1925246&from=rss) - [Hubble Captures a Diverse Trio of Galactic Objects](https://soylentnews.org/article.pl?sid=22/08/01/1925246&from=rss)
 * [2022-08-02, 12:10:00](https://soylentnews.org/article.pl?sid=22/08/01/1922233&from=rss) - [Earth Records Shortest Day, Putting Clocks (Slightly) Out of Time](https://soylentnews.org/article.pl?sid=22/08/01/1922233&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-27, 14:26:00](https://soylentnews.org/article.pl?sid=22/07/26/187216&from=rss) - [What Harry Potter Can (and Can't) Teach Us About Economics](https://soylentnews.org/article.pl?sid=22/07/26/187216&from=rss)
 * [2022-07-27, 11:41:00](https://soylentnews.org/article.pl?sid=22/07/26/1755206&from=rss) - [Why One Critical Second Can Wreak Havoc On The Internet ](https://soylentnews.org/article.pl?sid=22/07/26/1755206&from=rss)
 * [2022-07-27, 08:50:00](https://soylentnews.org/politics/article.pl?sid=22/07/26/1746232&from=rss) - [Russia Done With the International Space Station After 2024](https://soylentnews.org/politics/article.pl?sid=22/07/26/1746232&from=rss)
-* [2022-07-27, 06:06:00](https://soylentnews.org/article.pl?sid=22/07/26/1543244&from=rss) - [50kW Solar Tower Produces Jet Fuel in the Field](https://soylentnews.org/article.pl?sid=22/07/26/1543244&from=rss)
 
 ## [Archives](archives/index.md)
 
