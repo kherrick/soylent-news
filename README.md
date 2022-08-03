@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2022-08-03, 04:44:00](https://soylentnews.org/article.pl?sid=22/08/02/1033250&from=rss) - [US Regulators Certify First Small Nuclear Reactor Design](https://soylentnews.org/article.pl?sid=22/08/02/1033250&from=rss)
 * [2022-08-03, 01:55:00](https://soylentnews.org/article.pl?sid=22/08/02/0259212&from=rss) - [MIT Engineers Develop Stickers That Can See Inside the Body](https://soylentnews.org/article.pl?sid=22/08/02/0259212&from=rss)
 * [2022-08-02, 23:08:00](https://soylentnews.org/article.pl?sid=22/08/02/0223231&from=rss) - [Zeta Ophiuchi: Spectacular Shock Wave From Rejected Star Hurtling Through Space](https://soylentnews.org/article.pl?sid=22/08/02/0223231&from=rss)
 * [2022-08-02, 20:20:00](https://soylentnews.org/article.pl?sid=22/08/02/0210209&from=rss) - [Researchers Successfully Execute Experiment To Support U.S. Stockpile Modernization Efforts](https://soylentnews.org/article.pl?sid=22/08/02/0210209&from=rss)
@@ -49,7 +50,6 @@
 * [2022-07-27, 22:41:00](https://soylentnews.org/article.pl?sid=22/07/27/0126216&from=rss) - [Google Glass (Slight Return)](https://soylentnews.org/article.pl?sid=22/07/27/0126216&from=rss)
 * [2022-07-27, 19:57:00](https://soylentnews.org/article.pl?sid=22/07/27/0027210&from=rss) - [Climate, Conflict, Collapse: How Drought Destabilized The Last Major Precolonial Mayan City](https://soylentnews.org/article.pl?sid=22/07/27/0027210&from=rss)
 * [2022-07-27, 17:09:00](https://soylentnews.org/article.pl?sid=22/07/26/1811246&from=rss) - [Russia is Quietly Ramping Up its Internet Censorship Machine](https://soylentnews.org/article.pl?sid=22/07/26/1811246&from=rss)
-* [2022-07-27, 14:26:00](https://soylentnews.org/article.pl?sid=22/07/26/187216&from=rss) - [What Harry Potter Can (and Can't) Teach Us About Economics](https://soylentnews.org/article.pl?sid=22/07/26/187216&from=rss)
 
 ## [Archives](archives/index.md)
 
