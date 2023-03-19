@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-19, 00:19:00](https://soylentnews.org/article.pl?sid=23/03/18/0414226&from=rss) - [Humans (Mostly) Love Trash Robots](https://soylentnews.org/article.pl?sid=23/03/18/0414226&from=rss)
 * [2023-03-18, 19:37:00](https://soylentnews.org/article.pl?sid=23/03/16/198235&from=rss) - [Asus Announces RISC-V Tinker Board Raspberry Pi Rival](https://soylentnews.org/article.pl?sid=23/03/16/198235&from=rss)
 * [2023-03-18, 14:54:00](https://soylentnews.org/article.pl?sid=23/03/16/195216&from=rss) - [Maternal Deaths in the U.S. Keep Climbing](https://soylentnews.org/article.pl?sid=23/03/16/195216&from=rss)
 * [2023-03-18, 10:12:00](https://soylentnews.org/article.pl?sid=23/03/16/192242&from=rss) - [National Academies: We Can’t Define “Race,” So Stop Using It in Science](https://soylentnews.org/article.pl?sid=23/03/16/192242&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-13, 05:07:00](https://soylentnews.org/article.pl?sid=23/03/12/0559228&from=rss) - [ISS Swerves to Avoid Collision With Earth-Imaging Satellite](https://soylentnews.org/article.pl?sid=23/03/12/0559228&from=rss)
 * [2023-03-13, 02:18:00](https://soylentnews.org/article.pl?sid=23/03/12/0540220&from=rss) - [The Time Russians Really Did Target Americans With Microwaves](https://soylentnews.org/article.pl?sid=23/03/12/0540220&from=rss)
 * [2023-03-12, 21:34:00](https://soylentnews.org/article.pl?sid=23/03/12/0530250&from=rss) - [NASA Ready for Artemis II](https://soylentnews.org/article.pl?sid=23/03/12/0530250&from=rss)
-* [2023-03-12, 16:50:00](https://soylentnews.org/article.pl?sid=23/03/12/0449209&from=rss) - [DuckDuckGo's New Wikipedia Summary Bot: “We Fully Expect It to Make Mistakes”](https://soylentnews.org/article.pl?sid=23/03/12/0449209&from=rss)
 
 ## [Archives](archives/index.md)
 
