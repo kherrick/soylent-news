@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-19, 19:24:00](https://soylentnews.org/article.pl?sid=23/03/19/0356248&from=rss) - [Globalization is Over, According to TSMC Founder](https://soylentnews.org/article.pl?sid=23/03/19/0356248&from=rss)
 * [2023-03-19, 14:41:00](https://soylentnews.org/article.pl?sid=23/03/18/1326252&from=rss) - [Intel's Xeon W9-3495X Can Draw 1,900W of Power](https://soylentnews.org/article.pl?sid=23/03/18/1326252&from=rss)
 * [2023-03-19, 09:54:00](https://soylentnews.org/article.pl?sid=23/03/18/0428202&from=rss) - [Sony’s Using Lasers to Help Low-vision Users Take Pictures](https://soylentnews.org/article.pl?sid=23/03/18/0428202&from=rss)
 * [2023-03-19, 05:07:00](https://soylentnews.org/article.pl?sid=23/03/18/0418231&from=rss) - [20 years later, Second Life is launching on mobile](https://soylentnews.org/article.pl?sid=23/03/18/0418231&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-13, 16:04:00](https://soylentnews.org/article.pl?sid=23/03/12/0729211&from=rss) - [Why Do Some Modern Computers Still Have Serial Ports?](https://soylentnews.org/article.pl?sid=23/03/12/0729211&from=rss)
 * [2023-03-13, 13:19:00](https://soylentnews.org/article.pl?sid=23/03/12/0720228&from=rss) - [Denmark is Storing CO2 in Abandoned North Sea Oil Fields](https://soylentnews.org/article.pl?sid=23/03/12/0720228&from=rss)
 * [2023-03-13, 10:39:00](https://soylentnews.org/article.pl?sid=23/03/12/0714246&from=rss) - [Raising the Bar for Software Security: GitHub 2FA Begins March 13](https://soylentnews.org/article.pl?sid=23/03/12/0714246&from=rss)
-* [2023-03-13, 07:52:00](https://soylentnews.org/article.pl?sid=23/03/12/076209&from=rss) - [When Should Data Scientists Try a New Technique?](https://soylentnews.org/article.pl?sid=23/03/12/076209&from=rss)
 
 ## [Archives](archives/index.md)
 
