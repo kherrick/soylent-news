@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-20, 19:24:00](https://soylentnews.org/article.pl?sid=23/03/19/1329204&from=rss) - [How Much Fuel is Left in This 20-year-old Mars Orbiter?](https://soylentnews.org/article.pl?sid=23/03/19/1329204&from=rss)
 * [2023-03-20, 16:39:00](https://soylentnews.org/article.pl?sid=23/03/19/1326248&from=rss) - [American Machine Tools Supporting Russian War Machine](https://soylentnews.org/article.pl?sid=23/03/19/1326248&from=rss)
 * [2023-03-20, 13:54:00](https://soylentnews.org/article.pl?sid=23/03/19/1321256&from=rss) - [The Universal Sound of Swearing Across Languages](https://soylentnews.org/article.pl?sid=23/03/19/1321256&from=rss)
 * [2023-03-20, 11:13:00](https://soylentnews.org/article.pl?sid=23/03/19/1319233&from=rss) - [PCIe for Hackers: The Diffpair Prelude](https://soylentnews.org/article.pl?sid=23/03/19/1319233&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-14, 14:12:00](https://soylentnews.org/article.pl?sid=23/03/13/157232&from=rss) - [SSD Reliability is Only Slightly Better Than HDD, Backblaze Says](https://soylentnews.org/article.pl?sid=23/03/13/157232&from=rss)
 * [2023-03-14, 11:26:00](https://soylentnews.org/article.pl?sid=23/03/13/1457218&from=rss) - [How We Navigate Through Crowds](https://soylentnews.org/article.pl?sid=23/03/13/1457218&from=rss)
 * [2023-03-14, 08:42:00](https://soylentnews.org/article.pl?sid=23/03/13/1354245&from=rss) - [Wildfire Smoke Eroded Ozone Layer by 10 Percent in 2020](https://soylentnews.org/article.pl?sid=23/03/13/1354245&from=rss)
-* [2023-03-14, 05:54:00](https://soylentnews.org/article.pl?sid=23/03/13/1347221&from=rss) - [British Chipmaker Issues Warning About Inventory Glut](https://soylentnews.org/article.pl?sid=23/03/13/1347221&from=rss)
 
 ## [Archives](archives/index.md)
 
