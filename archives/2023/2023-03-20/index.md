@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 22:11:00](https://soylentnews.org/article.pl?sid=23/03/19/1332243&from=rss) - [John Deere, Surrender Your Source Code, Demands SFC](https://soylentnews.org/article.pl?sid=23/03/19/1332243&from=rss)
 * [2023-03-20, 19:24:00](https://soylentnews.org/article.pl?sid=23/03/19/1329204&from=rss) - [How Much Fuel is Left in This 20-year-old Mars Orbiter?](https://soylentnews.org/article.pl?sid=23/03/19/1329204&from=rss)
 * [2023-03-20, 16:39:00](https://soylentnews.org/article.pl?sid=23/03/19/1326248&from=rss) - [American Machine Tools Supporting Russian War Machine](https://soylentnews.org/article.pl?sid=23/03/19/1326248&from=rss)
 * [2023-03-20, 13:54:00](https://soylentnews.org/article.pl?sid=23/03/19/1321256&from=rss) - [The Universal Sound of Swearing Across Languages](https://soylentnews.org/article.pl?sid=23/03/19/1321256&from=rss)
