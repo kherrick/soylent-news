@@ -145,6 +145,99 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/03/19/1319233">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/03/19/1319233&amp;from=rss"
+              >PCIe for Hackers: The Diffpair Prelude</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-03-20 @ 11:13:00</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/03/19/1319233"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~owl/">owl</a> writes:</p>
+              <p>
+                <a
+                  href="https://hackaday.com/2023/03/14/pcie-for-hackers-the-diffpair-prelude/"
+                  >https://hackaday.com/2023/03/14/pcie-for-hackers-the-diffpair-prelude/</a
+                >
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    PCIe, also known as PCI-Express, is a highly powerful
+                    interface. So let's see what it takes to hack on something
+                    that powerful. PCIe is be a bit intimidating at first,
+                    however it is reasonably simple to start building PCIe
+                    stuff, and the interface is quite resilient for
+                    hobbyist-level technology. There will come a time when we
+                    want to use a PCIe chip in our designs, or perhaps, make use
+                    of the PCIe connection available on a certain Compute
+                    Module, and it's good to make sure that we're ready for
+                    that.
+                  </p>
+                  <p>
+                    PCIe is everywhere now. Every modern computer has a bunch of
+                    PCIe devices performing crucial functions, and even iPhones
+                    use PCIe internally to connect the CPU with the flash and
+                    WiFi chips. You can get all kinds of PCIe devices: Ethernet
+                    controllers, high-throughput WiFi cards, graphics, and all
+                    the cheap NVMe drives that gladly provide you with heaps of
+                    storage when connected over PCIe. If you're hacking on a
+                    laptop or a single-board computer and you'd like to add a
+                    PCIe device, you can get some PCIe from one of the
+                    PCIe-carrying sockets, or just tap into an existing PCIe
+                    link if there's no socket to connect to. It's been two
+                    decades since we've started getting PCIe devices – now, PCIe
+                    is on its 5.0 revision, and it's clear that it's here to
+                    stay.
+                  </p>
+                  <p>
+                    PCIe is a point-to-point bus that connect two devices
+                    together – as opposed to PCI, an older bus, that could
+                    connect a chain of devices on your mainboard. One side of a
+                    PCIe link is a device, and another is a host. For instance,
+                    in a laptop, your CPU will have multiple PCIe ports – some
+                    used to connect the GPU, some used to connect a WiFi card,
+                    some used for Ethernet, and some used for a NVMe drive.
+                  </p>
+                  <p>
+                    Each PCIe link consists of at least three differential pairs
+                    – one is a 100 MHz clock, REFCLK, that is (almost) always
+                    required for a link, and two pairs that form a PCIe lane –
+                    one for transmit and another for receive. This is an x link
+                    – you can also have 2x, 4x, 8x and 16x links, with four,
+                    eight sixteen and thirty-two differential pairs
+                    respectively, plus, again, REFCLK. The wider the link, the
+                    higher its throughput!
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=58977"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/03/19/1318240">
           <h3>
             <a
@@ -347,7 +440,7 @@
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/19/1227208"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -4706,90 +4799,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=58905"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/03/12/1442221">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/03/12/1442221&amp;from=rss"
-              >VW Says Sorry for Child Carjacking Fiasco, Makes Safety Service
-              Free</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-03-13 @ 21:35:00</span
-              ><span class="points-container"
-                >Points: <span class="points">945</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/03/12/1442221"
-                  >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~Freeman/">Freeman</a> writes:</p>
-              <p>
-                Last month,
-                <a
-                  href="https://arstechnica.com/tech-policy/2023/02/vw-wouldnt-help-locate-car-with-abducted-child-because-gps-subscription-expired/"
-                  >Volkswagen garnered plenty of bad publicity</a
-                >
-                when it emerged that the company's connected car service refused
-                to help track a stolen car—with a 2-year-old child still on
-                board—until someone paid to reactivate the service. Now, the
-                automaker says it's very sorry this happened, and it's making
-                its connected vehicle emergency service free to most model-year
-                2020-2023 Volkswagens.<br />[...]<br />Most MY2020 or newer VWs
-                are able to use connected services, apart from MY2020 Passats.
-              </p>
-              <p>
-                Some additional
-                <a
-                  href="https://chicago.suntimes.com/news/2023/2/24/23614215/tracking-service-stolen-volkswagen-toddler-inside-carjacking-lake-county"
-                  >story details</a
-                >
-                for the click-averse:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    As Lake County deputies desperately tried to find a stolen
-                    Volkswagen with a toddler still inside, they reached out to
-                    Car-Net, a service that lets VW owners track their vehicles.
-                  </p>
-                  <p>
-                    But the Car-Net trial period had ended, and a representative
-                    wanted $150 to restart the service and locate the SUV.
-                  </p>
-                  <p>
-                    The detective pleaded, explaining the "extremely exigent
-                    circumstance," but the representative didn't budge, saying
-                    it was company policy, sheriff's office Deputy Chief
-                    Christopher Covelli said Friday.
-                  </p>
-                  <p>
-                    "The detective had to work out getting a credit card number
-                    and then call the representative back to pay the $150 and at
-                    that time the representative provided the GPS location of
-                    the vehicle," Covelli said.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=58864"
                     >Original Submission</a
                   ></small
                 >
