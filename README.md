@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-20, 05:39:00](https://soylentnews.org/article.pl?sid=23/03/19/138259&from=rss) - [Humanoid Robots are Coming](https://soylentnews.org/article.pl?sid=23/03/19/138259&from=rss)
 * [2023-03-20, 02:56:00](https://soylentnews.org/article.pl?sid=23/03/19/1227208&from=rss) - [Can ChatGPT Write Better SQL Than a Data Analyst?](https://soylentnews.org/article.pl?sid=23/03/19/1227208&from=rss)
 * [2023-03-20, 00:07:00](https://soylentnews.org/article.pl?sid=23/03/19/1220241&from=rss) - [How a Beam of Pellets Could Blast a Probe Into Deep Space](https://soylentnews.org/article.pl?sid=23/03/19/1220241&from=rss)
 * [2023-03-19, 19:24:00](https://soylentnews.org/article.pl?sid=23/03/19/0356248&from=rss) - [Globalization is Over, According to TSMC Founder](https://soylentnews.org/article.pl?sid=23/03/19/0356248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-14, 00:16:00](https://soylentnews.org/article.pl?sid=23/03/13/0428238&from=rss) - [Scientists Call for a Global Treaty to Address Space Junk](https://soylentnews.org/article.pl?sid=23/03/13/0428238&from=rss)
 * [2023-03-13, 21:35:00](https://soylentnews.org/article.pl?sid=23/03/12/1442221&from=rss) - [VW Says Sorry for Child Carjacking Fiasco, Makes Safety Service Free](https://soylentnews.org/article.pl?sid=23/03/12/1442221&from=rss)
 * [2023-03-13, 18:53:00](https://soylentnews.org/article.pl?sid=23/03/12/0734203&from=rss) - [The Key to Healthier Employees Could be a Quieter – or Louder – Office Space](https://soylentnews.org/article.pl?sid=23/03/12/0734203&from=rss)
-* [2023-03-13, 16:04:00](https://soylentnews.org/article.pl?sid=23/03/12/0729211&from=rss) - [Why Do Some Modern Computers Still Have Serial Ports?](https://soylentnews.org/article.pl?sid=23/03/12/0729211&from=rss)
 
 ## [Archives](archives/index.md)
 
