@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-20, 11:13:00](https://soylentnews.org/article.pl?sid=23/03/19/1319233&from=rss) - [PCIe for Hackers: The Diffpair Prelude](https://soylentnews.org/article.pl?sid=23/03/19/1319233&from=rss)
 * [2023-03-20, 08:26:00](https://soylentnews.org/article.pl?sid=23/03/19/1318240&from=rss) - [Deepfakes, Synthetic Media: How Digital Propaganda Undermines Trust](https://soylentnews.org/article.pl?sid=23/03/19/1318240&from=rss)
 * [2023-03-20, 05:39:00](https://soylentnews.org/article.pl?sid=23/03/19/138259&from=rss) - [Humanoid Robots are Coming](https://soylentnews.org/article.pl?sid=23/03/19/138259&from=rss)
 * [2023-03-20, 02:56:00](https://soylentnews.org/article.pl?sid=23/03/19/1227208&from=rss) - [Can ChatGPT Write Better SQL Than a Data Analyst?](https://soylentnews.org/article.pl?sid=23/03/19/1227208&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-14, 05:54:00](https://soylentnews.org/article.pl?sid=23/03/13/1347221&from=rss) - [British Chipmaker Issues Warning About Inventory Glut](https://soylentnews.org/article.pl?sid=23/03/13/1347221&from=rss)
 * [2023-03-14, 03:06:00](https://soylentnews.org/article.pl?sid=23/03/13/1339223&from=rss) - [C++ is Still 100 Times Faster Than a Compiled Version of Python](https://soylentnews.org/article.pl?sid=23/03/13/1339223&from=rss)
 * [2023-03-14, 00:16:00](https://soylentnews.org/article.pl?sid=23/03/13/0428238&from=rss) - [Scientists Call for a Global Treaty to Address Space Junk](https://soylentnews.org/article.pl?sid=23/03/13/0428238&from=rss)
-* [2023-03-13, 21:35:00](https://soylentnews.org/article.pl?sid=23/03/12/1442221&from=rss) - [VW Says Sorry for Child Carjacking Fiasco, Makes Safety Service Free](https://soylentnews.org/article.pl?sid=23/03/12/1442221&from=rss)
 
 ## [Archives](archives/index.md)
 
