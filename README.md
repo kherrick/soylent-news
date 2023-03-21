@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-21, 20:13:00](https://soylentnews.org/article.pl?sid=23/03/21/0314245&from=rss) - [Trial of 2016 Twitter Troll to Test Limits of Online Speech](https://soylentnews.org/article.pl?sid=23/03/21/0314245&from=rss)
 * [2023-03-21, 17:22:00](https://soylentnews.org/article.pl?sid=23/03/20/129238&from=rss) - [NASA's Commercial Partner to Visit the Far Side of the Moon](https://soylentnews.org/article.pl?sid=23/03/20/129238&from=rss)
 * [2023-03-21, 14:36:00](https://soylentnews.org/article.pl?sid=23/03/20/1147212&from=rss) - [Low-Cost Device Can Measure Air Pollution Anywhere](https://soylentnews.org/article.pl?sid=23/03/20/1147212&from=rss)
 * [2023-03-21, 11:51:00](https://soylentnews.org/article.pl?sid=23/03/20/1151255&from=rss) - [Why Sleeper Trains are Being Revived Across Europe](https://soylentnews.org/article.pl?sid=23/03/20/1151255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-15, 14:54:00](https://soylentnews.org/article.pl?sid=23/03/14/1635200&from=rss) - [TikTok Now Offers a Feed Dedicated to Science and Tech](https://soylentnews.org/article.pl?sid=23/03/14/1635200&from=rss)
 * [2023-03-15, 12:04:00](https://soylentnews.org/article.pl?sid=23/03/14/1631249&from=rss) - [First Demonstration of Universal Control of Encoded Spin Qubits](https://soylentnews.org/article.pl?sid=23/03/14/1631249&from=rss)
 * [2023-03-15, 09:23:00](https://soylentnews.org/article.pl?sid=23/03/14/1255200&from=rss) - [Scientists Create the Most Complex Map Yet of an Insect Brain's 'Wiring'](https://soylentnews.org/article.pl?sid=23/03/14/1255200&from=rss)
-* [2023-03-15, 06:37:00](https://soylentnews.org/article.pl?sid=23/03/14/1249225&from=rss) - [Are Embedded Systems Overengineered?](https://soylentnews.org/article.pl?sid=23/03/14/1249225&from=rss)
 
 ## [Archives](archives/index.md)
 
