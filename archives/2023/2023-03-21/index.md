@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 14:36:00](https://soylentnews.org/article.pl?sid=23/03/20/1147212&from=rss) - [Low-Cost Device Can Measure Air Pollution Anywhere](https://soylentnews.org/article.pl?sid=23/03/20/1147212&from=rss)
 * [2023-03-21, 11:51:00](https://soylentnews.org/article.pl?sid=23/03/20/1151255&from=rss) - [Why Sleeper Trains are Being Revived Across Europe](https://soylentnews.org/article.pl?sid=23/03/20/1151255&from=rss)
 * [2023-03-21, 09:06:00](https://soylentnews.org/article.pl?sid=23/03/20/1156208&from=rss) - [Frostbite Orckings: Music AI is Here for Good](https://soylentnews.org/article.pl?sid=23/03/20/1156208&from=rss)
 * [2023-03-21, 06:24:00](https://soylentnews.org/article.pl?sid=23/03/20/1145213&from=rss) - [AMD Allegedly Testing Hybrid Processor With Zen 4 and 4c Cores](https://soylentnews.org/article.pl?sid=23/03/20/1145213&from=rss)
