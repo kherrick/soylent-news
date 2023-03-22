@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-22, 04:24:00](https://soylentnews.org/article.pl?sid=23/03/21/1745240&from=rss) - [What Do Early Earth's Core Formation and Drip Coffee Have in Common?](https://soylentnews.org/article.pl?sid=23/03/21/1745240&from=rss)
 * [2023-03-22, 01:39:00](https://soylentnews.org/article.pl?sid=23/03/21/0333233&from=rss) - [Zipline Unveils Quiet Drone Delivery Platform, Expands Operations](https://soylentnews.org/article.pl?sid=23/03/21/0333233&from=rss)
 * [2023-03-21, 22:55:00](https://soylentnews.org/article.pl?sid=23/03/21/0327238&from=rss) - [Google Won’t Honor Medical Leave During its Layoffs, Outraging Employees](https://soylentnews.org/article.pl?sid=23/03/21/0327238&from=rss)
 * [2023-03-21, 20:13:00](https://soylentnews.org/article.pl?sid=23/03/21/0314245&from=rss) - [Trial of 2016 Twitter Troll to Test Limits of Online Speech](https://soylentnews.org/article.pl?sid=23/03/21/0314245&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-15, 23:08:00](https://soylentnews.org/article.pl?sid=23/03/14/1649227&from=rss) - [Meta is Laying Off 10,000 More Employees](https://soylentnews.org/article.pl?sid=23/03/14/1649227&from=rss)
 * [2023-03-15, 20:27:00](https://soylentnews.org/article.pl?sid=23/03/14/1647225&from=rss) - [Europe is Bracing for (Another) Devastating Drought](https://soylentnews.org/article.pl?sid=23/03/14/1647225&from=rss)
 * [2023-03-15, 17:40:00](https://soylentnews.org/article.pl?sid=23/03/14/1642215&from=rss) - [Cloud Computing is Driving a New Gig Economy in Tech](https://soylentnews.org/article.pl?sid=23/03/14/1642215&from=rss)
-* [2023-03-15, 14:54:00](https://soylentnews.org/article.pl?sid=23/03/14/1635200&from=rss) - [TikTok Now Offers a Feed Dedicated to Science and Tech](https://soylentnews.org/article.pl?sid=23/03/14/1635200&from=rss)
 
 ## [Archives](archives/index.md)
 
