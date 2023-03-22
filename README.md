@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-22, 07:09:00](https://soylentnews.org/article.pl?sid=23/03/21/1749259&from=rss) - [Amazon Has Cut 27 Thousand Jobs as Tech Crisis Also Worsens Down Under](https://soylentnews.org/article.pl?sid=23/03/21/1749259&from=rss)
 * [2023-03-22, 04:24:00](https://soylentnews.org/article.pl?sid=23/03/21/1745240&from=rss) - [What Do Early Earth's Core Formation and Drip Coffee Have in Common?](https://soylentnews.org/article.pl?sid=23/03/21/1745240&from=rss)
 * [2023-03-22, 01:39:00](https://soylentnews.org/article.pl?sid=23/03/21/0333233&from=rss) - [Zipline Unveils Quiet Drone Delivery Platform, Expands Operations](https://soylentnews.org/article.pl?sid=23/03/21/0333233&from=rss)
 * [2023-03-21, 22:55:00](https://soylentnews.org/article.pl?sid=23/03/21/0327238&from=rss) - [Google Won’t Honor Medical Leave During its Layoffs, Outraging Employees](https://soylentnews.org/article.pl?sid=23/03/21/0327238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-16, 01:51:00](https://soylentnews.org/article.pl?sid=23/03/15/034209&from=rss) - [US Court Rules Uber and Lyft Workers are Contractors](https://soylentnews.org/article.pl?sid=23/03/15/034209&from=rss)
 * [2023-03-15, 23:08:00](https://soylentnews.org/article.pl?sid=23/03/14/1649227&from=rss) - [Meta is Laying Off 10,000 More Employees](https://soylentnews.org/article.pl?sid=23/03/14/1649227&from=rss)
 * [2023-03-15, 20:27:00](https://soylentnews.org/article.pl?sid=23/03/14/1647225&from=rss) - [Europe is Bracing for (Another) Devastating Drought](https://soylentnews.org/article.pl?sid=23/03/14/1647225&from=rss)
-* [2023-03-15, 17:40:00](https://soylentnews.org/article.pl?sid=23/03/14/1642215&from=rss) - [Cloud Computing is Driving a New Gig Economy in Tech](https://soylentnews.org/article.pl?sid=23/03/14/1642215&from=rss)
 
 ## [Archives](archives/index.md)
 
