@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 23:23:00](https://soylentnews.org/article.pl?sid=23/03/23/0345242&from=rss) - [Use of Meta Tracking Tools Found to Breach EU Rules on Data Transfers](https://soylentnews.org/article.pl?sid=23/03/23/0345242&from=rss)
 * [2023-03-23, 20:38:00](https://soylentnews.org/article.pl?sid=23/03/23/0049258&from=rss) - [Microsoft Begs You Not to Ditch Edge on Google's Own Chrome Download Page](https://soylentnews.org/article.pl?sid=23/03/23/0049258&from=rss)
 * [2023-03-23, 17:52:00](https://soylentnews.org/article.pl?sid=23/03/22/1834204&from=rss) - [Exposure to Perfluoroalkyl Substances and Women's Fertility Outcome](https://soylentnews.org/article.pl?sid=23/03/22/1834204&from=rss)
 * [2023-03-23, 15:03:00](https://soylentnews.org/article.pl?sid=23/03/22/1817245&from=rss) - [Feds Arrest Alleged BreachForums Owner and the Forum Closes - for Now](https://soylentnews.org/article.pl?sid=23/03/22/1817245&from=rss)
