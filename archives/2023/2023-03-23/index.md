@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-03-23](index.md)
+
+* [2023-03-23, 01:19:00](https://soylentnews.org/article.pl?sid=23/03/22/1234227&from=rss) - [Insect Farming is Booming, but is It Cruel?](https://soylentnews.org/article.pl?sid=23/03/22/1234227&from=rss)

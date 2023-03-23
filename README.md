@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-23, 01:19:00](https://soylentnews.org/article.pl?sid=23/03/22/1234227&from=rss) - [Insect Farming is Booming, but is It Cruel?](https://soylentnews.org/article.pl?sid=23/03/22/1234227&from=rss)
 * [2023-03-22, 23:37:00](https://soylentnews.org/article.pl?sid=23/03/22/025208&from=rss) - [Nvidia tweaks flagship H100 chip for export to China as H800](https://soylentnews.org/article.pl?sid=23/03/22/025208&from=rss)
 * [2023-03-22, 20:52:00](https://soylentnews.org/article.pl?sid=23/03/22/0156244&from=rss) - [Student Satellite Demos Drag Sail to De-orbit Old Hardware](https://soylentnews.org/article.pl?sid=23/03/22/0156244&from=rss)
 * [2023-03-22, 18:12:00](https://soylentnews.org/article.pl?sid=23/03/22/0145259&from=rss) - [Internet Archive Faces Uphill Battle in Lawsuit Over its Free Digital Library](https://soylentnews.org/article.pl?sid=23/03/22/0145259&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-16, 21:10:00](https://soylentnews.org/article.pl?sid=23/03/15/1627245&from=rss) - [EPA Sets Limits on Some “Forever Chemicals” as Low as They Can Go](https://soylentnews.org/article.pl?sid=23/03/15/1627245&from=rss)
 * [2023-03-16, 18:24:00](https://soylentnews.org/article.pl?sid=23/03/15/1624256&from=rss) - [You Can Now Run a GPT-3-Level AI Model on Your Laptop, Phone, and Raspberry Pi](https://soylentnews.org/article.pl?sid=23/03/15/1624256&from=rss)
 * [2023-03-16, 15:34:00](https://soylentnews.org/article.pl?sid=23/03/15/1621217&from=rss) - [Violence Was Widespread in Early Farming Society](https://soylentnews.org/article.pl?sid=23/03/15/1621217&from=rss)
-* [2023-03-16, 12:53:00](https://soylentnews.org/article.pl?sid=23/03/15/1620254&from=rss) - [US Government Opens $2.5 Billion in Funding for Community EV Chargers](https://soylentnews.org/article.pl?sid=23/03/15/1620254&from=rss)
 
 ## [Archives](archives/index.md)
 
