@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 04:09:00](https://soylentnews.org/article.pl?sid=23/03/22/1241229&from=rss) - [Kazakhstan’s Seizure of Russian Space Assets Threatens the Soyuz-5 Rocket](https://soylentnews.org/article.pl?sid=23/03/22/1241229&from=rss)
 * [2023-03-23, 01:19:00](https://soylentnews.org/article.pl?sid=23/03/22/1234227&from=rss) - [Insect Farming is Booming, but is It Cruel?](https://soylentnews.org/article.pl?sid=23/03/22/1234227&from=rss)
