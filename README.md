@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-23, 20:38:00](https://soylentnews.org/article.pl?sid=23/03/23/0049258&from=rss) - [Microsoft Begs You Not to Ditch Edge on Google's Own Chrome Download Page](https://soylentnews.org/article.pl?sid=23/03/23/0049258&from=rss)
 * [2023-03-23, 17:52:00](https://soylentnews.org/article.pl?sid=23/03/22/1834204&from=rss) - [Exposure to Perfluoroalkyl Substances and Women's Fertility Outcome](https://soylentnews.org/article.pl?sid=23/03/22/1834204&from=rss)
 * [2023-03-23, 15:03:00](https://soylentnews.org/article.pl?sid=23/03/22/1817245&from=rss) - [Feds Arrest Alleged BreachForums Owner and the Forum Closes - for Now](https://soylentnews.org/article.pl?sid=23/03/22/1817245&from=rss)
 * [2023-03-23, 12:17:00](https://soylentnews.org/article.pl?sid=23/03/22/189234&from=rss) - [Rare Cosmic Event Will See 5 Planets Align in The Sky. Here's How to Watch.](https://soylentnews.org/article.pl?sid=23/03/22/189234&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-17, 16:29:00](https://soylentnews.org/article.pl?sid=23/03/16/1850250&from=rss) - [Baidu Shares Fall After Ernie AI Chatbot Demo Disappoints](https://soylentnews.org/article.pl?sid=23/03/16/1850250&from=rss)
 * [2023-03-17, 13:40:00](https://soylentnews.org/article.pl?sid=23/03/16/1212237&from=rss) - [A Moon-forming Cataclysm Could Have Also Triggered Earth’s Plate Tectonics](https://soylentnews.org/article.pl?sid=23/03/16/1212237&from=rss)
 * [2023-03-17, 10:54:00](https://soylentnews.org/article.pl?sid=23/03/16/1125216&from=rss) - [Tiny Data Center Makes for a Comfortable Swim](https://soylentnews.org/article.pl?sid=23/03/16/1125216&from=rss)
-* [2023-03-17, 08:07:00](https://soylentnews.org/article.pl?sid=23/03/16/041210&from=rss) - [Qualcomm Tries to Kick Holes in EU €242 Million Decision](https://soylentnews.org/article.pl?sid=23/03/16/041210&from=rss)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 20:38:00](https://soylentnews.org/article.pl?sid=23/03/23/0049258&from=rss) - [Microsoft Begs You Not to Ditch Edge on Google's Own Chrome Download Page](https://soylentnews.org/article.pl?sid=23/03/23/0049258&from=rss)
 * [2023-03-23, 17:52:00](https://soylentnews.org/article.pl?sid=23/03/22/1834204&from=rss) - [Exposure to Perfluoroalkyl Substances and Women's Fertility Outcome](https://soylentnews.org/article.pl?sid=23/03/22/1834204&from=rss)
 * [2023-03-23, 15:03:00](https://soylentnews.org/article.pl?sid=23/03/22/1817245&from=rss) - [Feds Arrest Alleged BreachForums Owner and the Forum Closes - for Now](https://soylentnews.org/article.pl?sid=23/03/22/1817245&from=rss)
 * [2023-03-23, 12:17:00](https://soylentnews.org/article.pl?sid=23/03/22/189234&from=rss) - [Rare Cosmic Event Will See 5 Planets Align in The Sky. Here's How to Watch.](https://soylentnews.org/article.pl?sid=23/03/22/189234&from=rss)
