@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-24, 18:33:00](https://soylentnews.org/article.pl?sid=23/03/23/1253250&from=rss) - [Reverse-Engineering the Multiplication Algorithm in the Intel 8086 Processor](https://soylentnews.org/article.pl?sid=23/03/23/1253250&from=rss)
 * [2023-03-24, 15:47:00](https://soylentnews.org/article.pl?sid=23/03/23/1251216&from=rss) - [Latitude Hack Worsens With Services Taken Offline](https://soylentnews.org/article.pl?sid=23/03/23/1251216&from=rss)
 * [2023-03-24, 13:01:00](https://soylentnews.org/article.pl?sid=23/03/23/1242229&from=rss) - [Fourier Transformations Reveal How AI Learns Complex Physics](https://soylentnews.org/article.pl?sid=23/03/23/1242229&from=rss)
 * [2023-03-24, 10:17:00](https://soylentnews.org/article.pl?sid=23/03/23/1239200&from=rss) - ['Time Reflections' Finally Observed by Physicists After Decades of Searching](https://soylentnews.org/article.pl?sid=23/03/23/1239200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-19, 00:19:00](https://soylentnews.org/article.pl?sid=23/03/18/0414226&from=rss) - [Humans (Mostly) Love Trash Robots](https://soylentnews.org/article.pl?sid=23/03/18/0414226&from=rss)
 * [2023-03-18, 19:37:00](https://soylentnews.org/article.pl?sid=23/03/16/198235&from=rss) - [Asus Announces RISC-V Tinker Board Raspberry Pi Rival](https://soylentnews.org/article.pl?sid=23/03/16/198235&from=rss)
 * [2023-03-18, 14:54:00](https://soylentnews.org/article.pl?sid=23/03/16/195216&from=rss) - [Maternal Deaths in the U.S. Keep Climbing](https://soylentnews.org/article.pl?sid=23/03/16/195216&from=rss)
-* [2023-03-18, 10:12:00](https://soylentnews.org/article.pl?sid=23/03/16/192242&from=rss) - [National Academies: We Can’t Define “Race,” So Stop Using It in Science](https://soylentnews.org/article.pl?sid=23/03/16/192242&from=rss)
 
 ## [Archives](archives/index.md)
 
