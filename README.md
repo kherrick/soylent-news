@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-24, 07:35:00](https://soylentnews.org/article.pl?sid=23/03/23/1236215&from=rss) - [Russian Coders Blocked From Contributing to FOSS Tools](https://soylentnews.org/article.pl?sid=23/03/23/1236215&from=rss)
 * [2023-03-24, 04:51:00](https://soylentnews.org/article.pl?sid=23/03/23/046210&from=rss) - [Dinosaur Bone Study Reveals That Not All Giants Grew Alike](https://soylentnews.org/article.pl?sid=23/03/23/046210&from=rss)
 * [2023-03-24, 02:08:00](https://soylentnews.org/article.pl?sid=23/03/23/0352236&from=rss) - [This Tiny Chip is Being Used to Develop a Tooth-mounted Sensor That Can Read Your Spit](https://soylentnews.org/article.pl?sid=23/03/23/0352236&from=rss)
 * [2023-03-23, 23:23:00](https://soylentnews.org/article.pl?sid=23/03/23/0345242&from=rss) - [Use of Meta Tracking Tools Found to Breach EU Rules on Data Transfers](https://soylentnews.org/article.pl?sid=23/03/23/0345242&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-18, 05:27:00](https://soylentnews.org/politics/article.pl?sid=23/03/16/1858238&from=rss) - [The White House Might be Running Out of Time to Bring Back Net Neutrality](https://soylentnews.org/politics/article.pl?sid=23/03/16/1858238&from=rss)
 * [2023-03-18, 00:44:00](https://soylentnews.org/article.pl?sid=23/03/16/1855243&from=rss) - [Getting to Zettascale Without Needing Multiple Nuclear Power Plants](https://soylentnews.org/article.pl?sid=23/03/16/1855243&from=rss)
 * [2023-03-17, 21:52:00](https://soylentnews.org/article.pl?sid=23/03/16/1853242&from=rss) - [In Wild Hacking Spree, Hackers Accessed Federal Law Enforcement Database](https://soylentnews.org/article.pl?sid=23/03/16/1853242&from=rss)
-* [2023-03-17, 19:11:00](https://soylentnews.org/article.pl?sid=23/03/16/1852214&from=rss) - [Precise Solar Observations Fed Millions in Ancient Mexico](https://soylentnews.org/article.pl?sid=23/03/16/1852214&from=rss)
 
 ## [Archives](archives/index.md)
 
