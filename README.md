@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-24, 02:08:00](https://soylentnews.org/article.pl?sid=23/03/23/0352236&from=rss) - [This Tiny Chip is Being Used to Develop a Tooth-mounted Sensor That Can Read Your Spit](https://soylentnews.org/article.pl?sid=23/03/23/0352236&from=rss)
 * [2023-03-23, 23:23:00](https://soylentnews.org/article.pl?sid=23/03/23/0345242&from=rss) - [Use of Meta Tracking Tools Found to Breach EU Rules on Data Transfers](https://soylentnews.org/article.pl?sid=23/03/23/0345242&from=rss)
 * [2023-03-23, 20:38:00](https://soylentnews.org/article.pl?sid=23/03/23/0049258&from=rss) - [Microsoft Begs You Not to Ditch Edge on Google's Own Chrome Download Page](https://soylentnews.org/article.pl?sid=23/03/23/0049258&from=rss)
 * [2023-03-23, 17:52:00](https://soylentnews.org/article.pl?sid=23/03/22/1834204&from=rss) - [Exposure to Perfluoroalkyl Substances and Women's Fertility Outcome](https://soylentnews.org/article.pl?sid=23/03/22/1834204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-17, 21:52:00](https://soylentnews.org/article.pl?sid=23/03/16/1853242&from=rss) - [In Wild Hacking Spree, Hackers Accessed Federal Law Enforcement Database](https://soylentnews.org/article.pl?sid=23/03/16/1853242&from=rss)
 * [2023-03-17, 19:11:00](https://soylentnews.org/article.pl?sid=23/03/16/1852214&from=rss) - [Precise Solar Observations Fed Millions in Ancient Mexico](https://soylentnews.org/article.pl?sid=23/03/16/1852214&from=rss)
 * [2023-03-17, 16:29:00](https://soylentnews.org/article.pl?sid=23/03/16/1850250&from=rss) - [Baidu Shares Fall After Ernie AI Chatbot Demo Disappoints](https://soylentnews.org/article.pl?sid=23/03/16/1850250&from=rss)
-* [2023-03-17, 13:40:00](https://soylentnews.org/article.pl?sid=23/03/16/1212237&from=rss) - [A Moon-forming Cataclysm Could Have Also Triggered Earth’s Plate Tectonics](https://soylentnews.org/article.pl?sid=23/03/16/1212237&from=rss)
 
 ## [Archives](archives/index.md)
 
