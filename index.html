@@ -145,6 +145,79 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/03/23/1253250">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/03/23/1253250&amp;from=rss"
+              >Reverse-Engineering the Multiplication Algorithm in the Intel
+              8086 Processor</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-03-24 @ 18:33:00</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/03/23/1253250"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~owl/">owl</a> writes:</p>
+              <p>
+                <a
+                  href="http://www.righto.com/2023/03/8086-multiplication-microcode.html"
+                  >http://www.righto.com/2023/03/8086-multiplication-microcode.html</a
+                >
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    While programmers today take multiplication for granted,
+                    most microprocessors in the 1970s could only add and
+                    subtract — multiplication required a slow and tedious loop
+                    implemented in assembly code.1 One of the nice features of
+                    the Intel 8086 processor (1978) was that it provided machine
+                    instructions for multiplication,2 able to multiply 8-bit or
+                    16-bit numbers with a single instruction. Internally, the
+                    8086 still performed a loop, but the loop was implemented in
+                    microcode: faster and transparent to the programmer. Even
+                    so, multiplication was a slow operation, about 24 to 30
+                    times slower than addition.
+                  </p>
+                  <p>
+                    In this blog post, I explain the multiplication process
+                    inside the 8086, analyze the microcode that it used, and
+                    discuss the hardware circuitry that helped it out.3 My
+                    analysis is based on reverse-engineering the 8086 from die
+                    photos. The die photo below shows the chip under a
+                    microscope. I've labeled the key functional blocks; the ones
+                    that are important to this post are darker. At the left, the
+                    ALU (Arithmetic/Logic Unit) performs the arithmetic
+                    operations at the heart of multiplication: addition and
+                    shifts. Multiplication also uses a few other hardware
+                    features: the X register, the F1 flag, and a loop counter.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=58978"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/03/23/1251216">
           <h3>
             <a
@@ -4630,114 +4703,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=58973"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/03/16/192242">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/03/16/192242&amp;from=rss"
-              >National Academies: We Can’t Define “Race,” So Stop Using It in
-              Science</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-03-18 @ 10:12:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1988</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/03/16/192242"
-                  >Comments</a
-                ><span class="descendants">: 107</span></span
-              >
-            </h4>
-            <div class="text">
-              <blockquote>
-                <div>
-                  <p>
-                    Yet in countless ways, scientists have done just that. In
-                    some cases, the reasons for this have been well-meaning
-                    ones, as with the priority to diversify the populations
-                    involved in medical studies. In other cases, scientists have
-                    carelessly allowed social views of race to influence
-                    research that could otherwise have had a solid empirical
-                    foundation. Finally, true believers in racial essentialism
-                    have always twisted scientific results to support their
-                    views.
-                  </p>
-                  <p>
-                    The NIH, as the largest funder of biomedical research on the
-                    planet, has been forced to navigate our growing
-                    understanding of genetics while trying to diversify both the
-                    researchers it funds and the participants who volunteer to
-                    be part of these studies. NIH thus commissioned the National
-                    Academies to generate this report, presumably in the hope it
-                    would provide evidence-based guidelines on how to manage the
-                    sometimes competing pressures.
-                  </p>
-                  <p>
-                    The resulting report makes clear why racial thinking needs
-                    to go. A summary of the mismatch between <em>race</em> and
-                    <em>science</em> offers welcome clarity on the problem:
-                  </p>
-                  <blockquote>
-                    <div>
-                      <p>
-                        In humans, race is a socially constructed designation, a
-                        misleading and harmful surrogate for population genetic
-                        differences, and has a long history of being incorrectly
-                        identified as the major genetic reason for phenotypic
-                        differences between groups. Rather, human genetic
-                        variation is the result of many forces—historical,
-                        social, biological—and no single variable fully
-                        represents this complexity. The structure of genetic
-                        variation results from repeated human population mixing
-                        and movements across time, yet the misconception that
-                        human beings can be naturally divided into biologically
-                        distinguishable races has been extremely resilient and
-                        has become embedded in scientific research, medical
-                        practice and technologies, and formal education.
-                      </p>
-                    </div>
-                  </blockquote>
-                  <p>
-                    The results of racial thinking are problematic in a variety
-                    of ways. Historically, we've treated race as conveying some
-                    essential properties, and thinking of populations in terms
-                    of race tends to evoke that essentialist perspective—even
-                    though it's clear that any population has a complicated
-                    mixture of genetic, social, and environmental exposures.
-                    Essentialist thinking also tends to undermine recognition of
-                    the important role played by those environmental and social
-                    factors in shaping the population.
-                  </p>
-                  <p>
-                    The report also notes that science's racial baggage leads to
-                    sloppy thinking. Scientists will often write in broad racial
-                    terms when they're working with far more specific
-                    populations, and they'll mention racial groups even when
-                    it's not clear that the information is even relevant to
-                    their results. These tendencies have grown increasingly
-                    untenable as we've gotten far better at directly measuring
-                    the things that race was meant to be a proxy for, such as
-                    genetic distance between individuals.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=58976"
                     >Original Submission</a
                   ></small
                 >
