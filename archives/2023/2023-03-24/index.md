@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 15:47:00](https://soylentnews.org/article.pl?sid=23/03/23/1251216&from=rss) - [Latitude Hack Worsens With Services Taken Offline](https://soylentnews.org/article.pl?sid=23/03/23/1251216&from=rss)
 * [2023-03-24, 13:01:00](https://soylentnews.org/article.pl?sid=23/03/23/1242229&from=rss) - [Fourier Transformations Reveal How AI Learns Complex Physics](https://soylentnews.org/article.pl?sid=23/03/23/1242229&from=rss)
 * [2023-03-24, 10:17:00](https://soylentnews.org/article.pl?sid=23/03/23/1239200&from=rss) - ['Time Reflections' Finally Observed by Physicists After Decades of Searching](https://soylentnews.org/article.pl?sid=23/03/23/1239200&from=rss)
 * [2023-03-24, 07:35:00](https://soylentnews.org/article.pl?sid=23/03/23/1236215&from=rss) - [Russian Coders Blocked From Contributing to FOSS Tools](https://soylentnews.org/article.pl?sid=23/03/23/1236215&from=rss)
