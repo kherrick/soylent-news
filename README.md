@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-24, 21:23:00](https://soylentnews.org/article.pl?sid=23/03/24/0319202&from=rss) - [Metal-Detecting Drone Could Autonomously Find Landmines](https://soylentnews.org/article.pl?sid=23/03/24/0319202&from=rss)
 * [2023-03-24, 18:33:00](https://soylentnews.org/article.pl?sid=23/03/23/1253250&from=rss) - [Reverse-Engineering the Multiplication Algorithm in the Intel 8086 Processor](https://soylentnews.org/article.pl?sid=23/03/23/1253250&from=rss)
 * [2023-03-24, 15:47:00](https://soylentnews.org/article.pl?sid=23/03/23/1251216&from=rss) - [Latitude Hack Worsens With Services Taken Offline](https://soylentnews.org/article.pl?sid=23/03/23/1251216&from=rss)
 * [2023-03-24, 13:01:00](https://soylentnews.org/article.pl?sid=23/03/23/1242229&from=rss) - [Fourier Transformations Reveal How AI Learns Complex Physics](https://soylentnews.org/article.pl?sid=23/03/23/1242229&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-19, 05:07:00](https://soylentnews.org/article.pl?sid=23/03/18/0418231&from=rss) - [20 years later, Second Life is launching on mobile](https://soylentnews.org/article.pl?sid=23/03/18/0418231&from=rss)
 * [2023-03-19, 00:19:00](https://soylentnews.org/article.pl?sid=23/03/18/0414226&from=rss) - [Humans (Mostly) Love Trash Robots](https://soylentnews.org/article.pl?sid=23/03/18/0414226&from=rss)
 * [2023-03-18, 19:37:00](https://soylentnews.org/article.pl?sid=23/03/16/198235&from=rss) - [Asus Announces RISC-V Tinker Board Raspberry Pi Rival](https://soylentnews.org/article.pl?sid=23/03/16/198235&from=rss)
-* [2023-03-18, 14:54:00](https://soylentnews.org/article.pl?sid=23/03/16/195216&from=rss) - [Maternal Deaths in the U.S. Keep Climbing](https://soylentnews.org/article.pl?sid=23/03/16/195216&from=rss)
 
 ## [Archives](archives/index.md)
 
