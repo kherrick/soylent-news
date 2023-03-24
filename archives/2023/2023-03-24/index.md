@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 10:17:00](https://soylentnews.org/article.pl?sid=23/03/23/1239200&from=rss) - ['Time Reflections' Finally Observed by Physicists After Decades of Searching](https://soylentnews.org/article.pl?sid=23/03/23/1239200&from=rss)
 * [2023-03-24, 07:35:00](https://soylentnews.org/article.pl?sid=23/03/23/1236215&from=rss) - [Russian Coders Blocked From Contributing to FOSS Tools](https://soylentnews.org/article.pl?sid=23/03/23/1236215&from=rss)
 * [2023-03-24, 04:51:00](https://soylentnews.org/article.pl?sid=23/03/23/046210&from=rss) - [Dinosaur Bone Study Reveals That Not All Giants Grew Alike](https://soylentnews.org/article.pl?sid=23/03/23/046210&from=rss)
 * [2023-03-24, 02:08:00](https://soylentnews.org/article.pl?sid=23/03/23/0352236&from=rss) - [This Tiny Chip is Being Used to Develop a Tooth-mounted Sensor That Can Read Your Spit](https://soylentnews.org/article.pl?sid=23/03/23/0352236&from=rss)
