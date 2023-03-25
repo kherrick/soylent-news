@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-25, 19:06:00](https://soylentnews.org/article.pl?sid=23/03/24/1242257&from=rss) - [Benefits of Big City Life – Only for the Elite](https://soylentnews.org/article.pl?sid=23/03/24/1242257&from=rss)
 * [2023-03-25, 14:20:00](https://soylentnews.org/article.pl?sid=23/03/24/1137247&from=rss) - [Moderna CEO Brazenly Defends 400% COVID Shot Price Hike, Downplays NIH's Role](https://soylentnews.org/article.pl?sid=23/03/24/1137247&from=rss)
 * [2023-03-25, 11:03:00](https://soylentnews.org/article.pl?sid=23/03/25/1052212&from=rss) - [In Memoriam: Gordon Moore, 1929 - 2023](https://soylentnews.org/article.pl?sid=23/03/25/1052212&from=rss)
 * [2023-03-25, 09:35:00](https://soylentnews.org/article.pl?sid=23/03/24/1129204&from=rss) - [Habitual Daily Intake of a Sweet and Fatty Snack Modulates Reward Processing in Humans](https://soylentnews.org/article.pl?sid=23/03/24/1129204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-20, 05:39:00](https://soylentnews.org/article.pl?sid=23/03/19/138259&from=rss) - [Humanoid Robots are Coming](https://soylentnews.org/article.pl?sid=23/03/19/138259&from=rss)
 * [2023-03-20, 02:56:00](https://soylentnews.org/article.pl?sid=23/03/19/1227208&from=rss) - [Can ChatGPT Write Better SQL Than a Data Analyst?](https://soylentnews.org/article.pl?sid=23/03/19/1227208&from=rss)
 * [2023-03-20, 00:07:00](https://soylentnews.org/article.pl?sid=23/03/19/1220241&from=rss) - [How a Beam of Pellets Could Blast a Probe Into Deep Space](https://soylentnews.org/article.pl?sid=23/03/19/1220241&from=rss)
-* [2023-03-19, 19:24:00](https://soylentnews.org/article.pl?sid=23/03/19/0356248&from=rss) - [Globalization is Over, According to TSMC Founder](https://soylentnews.org/article.pl?sid=23/03/19/0356248&from=rss)
 
 ## [Archives](archives/index.md)
 
