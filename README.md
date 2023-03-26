@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-26, 14:03:00](https://soylentnews.org/article.pl?sid=23/03/25/1620200&from=rss) - [Mathematicians Have Finally Discovered an Elusive ‘Einstein’ Tile](https://soylentnews.org/article.pl?sid=23/03/25/1620200&from=rss)
 * [2023-03-26, 09:18:00](https://soylentnews.org/article.pl?sid=23/03/25/160226&from=rss) - [Non-Disparagement Clauses Are Retroactively Voided, NLRB’s Top Cop Clarifies](https://soylentnews.org/article.pl?sid=23/03/25/160226&from=rss)
 * [2023-03-26, 04:36:00](https://soylentnews.org/article.pl?sid=23/03/25/1555236&from=rss) - [Earth is Running Out of Places for Stargazers' Dark Deeds](https://soylentnews.org/article.pl?sid=23/03/25/1555236&from=rss)
 * [2023-03-25, 23:48:00](https://soylentnews.org/article.pl?sid=23/03/25/1541255&from=rss) - [Windows 11, Tesla, Ubuntu, and macOS hacked at Pwn2Own 2023](https://soylentnews.org/article.pl?sid=23/03/25/1541255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-20, 16:39:00](https://soylentnews.org/article.pl?sid=23/03/19/1326248&from=rss) - [American Machine Tools Supporting Russian War Machine](https://soylentnews.org/article.pl?sid=23/03/19/1326248&from=rss)
 * [2023-03-20, 13:54:00](https://soylentnews.org/article.pl?sid=23/03/19/1321256&from=rss) - [The Universal Sound of Swearing Across Languages](https://soylentnews.org/article.pl?sid=23/03/19/1321256&from=rss)
 * [2023-03-20, 11:13:00](https://soylentnews.org/article.pl?sid=23/03/19/1319233&from=rss) - [PCIe for Hackers: The Diffpair Prelude](https://soylentnews.org/article.pl?sid=23/03/19/1319233&from=rss)
-* [2023-03-20, 08:26:00](https://soylentnews.org/article.pl?sid=23/03/19/1318240&from=rss) - [Deepfakes, Synthetic Media: How Digital Propaganda Undermines Trust](https://soylentnews.org/article.pl?sid=23/03/19/1318240&from=rss)
 
 ## [Archives](archives/index.md)
 
