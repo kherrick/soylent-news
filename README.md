@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-27, 02:13:00](https://soylentnews.org/article.pl?sid=23/03/25/1634209&from=rss) - [Journalist Plugs in Unknown USB Drive Mailed to Him—It Exploded in His Face](https://soylentnews.org/article.pl?sid=23/03/25/1634209&from=rss)
 * [2023-03-26, 23:30:00](https://soylentnews.org/article.pl?sid=23/03/25/1631216&from=rss) - [Exploring the Features of Music That People Fall Asleep to](https://soylentnews.org/article.pl?sid=23/03/25/1631216&from=rss)
 * [2023-03-26, 18:43:00](https://soylentnews.org/article.pl?sid=23/03/25/1629237&from=rss) - [Newly-Revealed Coronavirus Data Has Reignited a Debate Over the Virus's Origins](https://soylentnews.org/article.pl?sid=23/03/25/1629237&from=rss)
 * [2023-03-26, 14:03:00](https://soylentnews.org/article.pl?sid=23/03/25/1620200&from=rss) - [Mathematicians Have Finally Discovered an Elusive ‘Einstein’ Tile](https://soylentnews.org/article.pl?sid=23/03/25/1620200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-21, 00:58:00](https://soylentnews.org/article.pl?sid=23/03/19/1516249&from=rss) - [Seattle Commute Survey Reveals Big Shift in When and How Workers are Traveling Into City](https://soylentnews.org/article.pl?sid=23/03/19/1516249&from=rss)
 * [2023-03-20, 22:11:00](https://soylentnews.org/article.pl?sid=23/03/19/1332243&from=rss) - [John Deere, Surrender Your Source Code, Demands SFC](https://soylentnews.org/article.pl?sid=23/03/19/1332243&from=rss)
 * [2023-03-20, 19:24:00](https://soylentnews.org/article.pl?sid=23/03/19/1329204&from=rss) - [How Much Fuel is Left in This 20-year-old Mars Orbiter?](https://soylentnews.org/article.pl?sid=23/03/19/1329204&from=rss)
-* [2023-03-20, 16:39:00](https://soylentnews.org/article.pl?sid=23/03/19/1326248&from=rss) - [American Machine Tools Supporting Russian War Machine](https://soylentnews.org/article.pl?sid=23/03/19/1326248&from=rss)
 
 ## [Archives](archives/index.md)
 
