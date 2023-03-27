@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-27, 13:04:00",
+      "https://soylentnews.org/article.pl?sid=23/03/25/1845235&from=rss"
+    ],
+    [
+      "Performance Evaluation of C, Julia, Kokkos and Python/Numba in Exascale High Performance Computing",
+      "https://soylentnews.org/article.pl?sid=23/03/25/1845235&from=rss"
+    ]
+  ],
+  [
+    [
       "2023-03-27, 10:27:00",
       "https://soylentnews.org/article.pl?sid=23/03/25/1840246&from=rss"
     ],
@@ -487,16 +497,6 @@
     [
       "AMD Allegedly Testing Hybrid Processor With Zen 4 and 4c Cores",
       "https://soylentnews.org/article.pl?sid=23/03/20/1145213&from=rss"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 03:41:00",
-      "https://soylentnews.org/article.pl?sid=23/03/20/1056207&from=rss"
-    ],
-    [
-      "Humans Don't Hibernate, but We Still Need More Winter Sleep",
-      "https://soylentnews.org/article.pl?sid=23/03/20/1056207&from=rss"
     ]
   ]
 ]
