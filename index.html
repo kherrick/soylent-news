@@ -145,6 +145,123 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/03/25/1845235">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/03/25/1845235&amp;from=rss"
+              >Performance Evaluation of C, Julia, Kokkos and Python/Numba in
+              Exascale High Performance Computing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-03-27 @ 13:04:00</span
+              ><span class="points-container"
+                >Points: <span class="points">87</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/03/25/1845235"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                <a href="//soylentnews.org/~guest+reader/">guest reader</a>
+                writes:
+              </p>
+              <p>
+                <a href="https://arxiv.org/abs/2303.06195"
+                  >Julia and Kokkos perform comparably with C/OpenMP on CPUs,
+                  while Julia implementations are competitive with CUDA and HIP
+                  on GPUs:</a
+                >
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    High-level dynamic languages such as Python, Julia, and R
+                    have been at the forefront of artificial
+                    intelligence/machine learning (AI/ML), data analysis, and
+                    interactive computing workflows in the last decade.
+                    Traditional high-performance computing (HPC) frameworks that
+                    power the underlying low-level computations for performance
+                    and scalability are written in compiled languages: C, C++,
+                    and Fortran.
+                  </p>
+                  <p>
+                    [...] We analyze single node scalability on two systems
+                    hosted at the Oak Ridge Leadership Computing Facility
+                    (OLCF)1—<a
+                      href="https://www.olcf.ornl.gov/olcf-resources/compute-systems/wombat/"
+                      >Wombat</a
+                    >, which uses Arm Ampere Neoverse CPUs and 2 NVIDIA A100
+                    GPUs, and
+                    <a
+                      href="https://docs.olcf.ornl.gov/systems/crusher_quick_start_guide.html"
+                    ></a
+                    >Crusher, which is equipped with AMD EPYC 7A53 CPUs and 8
+                    MI250X GPUs and serves as a test bed for
+                    <a href="https://www.top500.org/system/180047/">Frontier</a
+                    >, the first exascale system on the
+                    <a href="https://www.top500.org/">TOP500</a> list.
+                  </p>
+                  <p>
+                    [...] We run hand-rolled general matrix multiplication
+                    (GEMM) code for dense matrices using Julia, Python/Numba and
+                    Kokkos implementations and compare the performance with C
+                    for multithreaded CPU (OpenMP) and single GPU (CUDA/HIP)
+                    systems. GEMM is an important kernel in the Basic Linear
+                    Algebra Subprograms (BLAS) used across several deep learning
+                    AI frameworks, for which modern GPU architectures have been
+                    heavily optimized via tensor cores.
+                  </p>
+                  <p>
+                    [...] For CPUs, Julia performance was comparable to C/OpenMP
+                    combined with LLVM-based ArmClang and AMDClang vendor
+                    compilers. For the AMD GPUs, Julia AMDGPU.jl performance was
+                    comparable to HIP. Nevertheless, there is still a
+                    performance gap on NVIDIA A100 GPUs for single-precision
+                    floating point cases.
+                  </p>
+                  <p>
+                    [...] We observe that Python/Numba implementations still
+                    lack the support needed to reach comparable CPU and GPU
+                    performance on these systems, and AMD GPU support is
+                    deprecated.
+                  </p>
+                </div>
+              </blockquote>
+              <p>
+                <b>Pre-print article:</b><br />William F. Godoy and Pedro
+                Valero-Lara and T. Elise Dettling and Christian Trefftz and Ian
+                Jorquera and Thomas Sheehy and Ross G. Miller and Marc
+                Gonzalez-Tallada and Jeffrey S. Vetter and Valentin Churavy,
+                <b
+                  >Evaluating performance and portability of high-level
+                  programming models: Julia, Python/Numba, and Kokkos on
+                  exascale nodes</b
+                >, Accepted at the 28th HIPS workshop, held in conjunction with
+                IPDPS 2023, 2023, 2303.06195,
+                <a href="https://doi.org/10.48550/arXiv.2303.06195"
+                  >https://doi.org/10.48550/arXiv.2303.06195</a
+                >
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59061"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/03/25/1840246">
           <h3>
             <a
@@ -157,7 +274,7 @@
             <h4>
               <span>2023-03-27 @ 10:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/25/1840246"
@@ -219,7 +336,7 @@
             <h4>
               <span>2023-03-27 @ 07:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/25/1830205"
@@ -314,7 +431,7 @@
             <h4>
               <span>2023-03-27 @ 04:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">345</span></span
+                >Points: <span class="points">365</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/25/1637225"
@@ -430,7 +547,7 @@
             <h4>
               <span>2023-03-27 @ 02:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">530</span></span
+                >Points: <span class="points">552</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/25/1634209"
@@ -527,7 +644,7 @@
             <h4>
               <span>2023-03-26 @ 23:30:00</span
               ><span class="points-container"
-                >Points: <span class="points">489</span></span
+                >Points: <span class="points">496</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/25/1631216"
@@ -629,7 +746,7 @@
             <h4>
               <span>2023-03-26 @ 18:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">872</span></span
+                >Points: <span class="points">883</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/25/1629237"
@@ -698,7 +815,7 @@
             <h4>
               <span>2023-03-26 @ 14:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">822</span></span
+                >Points: <span class="points">832</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/25/1620200"
@@ -766,7 +883,7 @@
             <h4>
               <span>2023-03-26 @ 09:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">841</span></span
+                >Points: <span class="points">844</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/25/160226"
@@ -851,7 +968,7 @@
             <h4>
               <span>2023-03-26 @ 04:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">917</span></span
+                >Points: <span class="points">923</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/25/1555236"
@@ -1094,7 +1211,7 @@
             <h4>
               <span>2023-03-25 @ 19:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">1055</span></span
+                >Points: <span class="points">1061</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/24/1242257"
@@ -1171,7 +1288,7 @@
             <h4>
               <span>2023-03-25 @ 14:20:00</span
               ><span class="points-container"
-                >Points: <span class="points">1114</span></span
+                >Points: <span class="points">1116</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/24/1137247"
@@ -1240,7 +1357,7 @@
             <h4>
               <span>2023-03-25 @ 11:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">708</span></span
+                >Points: <span class="points">710</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/25/1052212"
@@ -1349,7 +1466,7 @@
             <h4>
               <span>2023-03-25 @ 09:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">661</span></span
+                >Points: <span class="points">663</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/24/1129204"
@@ -1546,7 +1663,7 @@
             <h4>
               <span>2023-03-25 @ 00:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">780</span></span
+                >Points: <span class="points">781</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/24/0325220"
@@ -2249,7 +2366,7 @@
             <h4>
               <span>2023-03-24 @ 02:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">552</span></span
+                >Points: <span class="points">553</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/23/0352236"
@@ -2923,7 +3040,7 @@
             <h4>
               <span>2023-03-23 @ 06:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">674</span></span
+                >Points: <span class="points">675</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/03/22/183225"
@@ -4620,120 +4737,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=58989"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/03/20/1056207">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/03/20/1056207&amp;from=rss"
-              >Humans Don't Hibernate, but We Still Need More Winter Sleep</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-03-21 @ 03:41:00</span
-              ><span class="points-container"
-                >Points: <span class="points">755</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/03/20/1056207"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~hubie/">hubie</a> writes:</p>
-              <p>
-                <a
-                  href="https://blog.frontiersin.org/2023/02/17/humans-dont-hibernate-but-we-still-need-more-winter-sleep/"
-                  >Although seasonality in animal sleep is well known, we've
-                  assumed humans are different</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Whether we're night owls or morning larks, our body clocks
-                    are set by the sun. Theoretically, changing day length and
-                    light exposure over the course of the year could affect the
-                    duration and quality of our sleep. But figuring out how this
-                    applies in practice is difficult. Although studies where
-                    people assess their own sleep have suggested an increase in
-                    sleep duration during winter, objective measures are needed
-                    to determine how exactly the seasons affect sleep.
-                    Scientists studying sleep difficulties have now published
-                    data in
-                    <em
-                      ><a
-                        href="https://www.frontiersin.org/articles/10.3389/fnins.2023.1105233/full?utm_source=fweb&amp;utm_medium=nblog&amp;utm_campaign=ba-sci-fnins-more-REM-sleep-winter"
-                        >Frontiers in Neuroscience</a
-                      ></em
-                    >
-                    that shows that, even in an urban population experiencing
-                    disrupted sleep, humans experience longer REM sleep in
-                    winter than summer and less deep sleep in autumn.
-                  </p>
-                  <p>
-                    "Possibly one of the most precious achievements in human
-                    evolution is an almost invisibility of seasonality on the
-                    behavioral level," said Dr Dieter Kunz, corresponding author
-                    of the study, based at the Clinic of Sleep &amp;
-                    Chronomedicine at the St Hedwig Hospital, Berlin. "In our
-                    study we show that human sleep architecture varies
-                    substantially across seasons in an adult population living
-                    in an urban environment."
-                  </p>
-                  <p>
-                    [...] Even though the patients were based in an urban
-                    environment with low natural light exposure and high light
-                    pollution, which should affect any seasonality regulated by
-                    light, the scientists found subtle but striking changes
-                    across the seasons. Although total sleep time appeared to be
-                    about an hour longer in the winter than the summer, this
-                    result was not statistically significant. However, REM sleep
-                    was 30 minutes longer in the winter than in summer. REM
-                    sleep is known to be directly linked to the circadian clock,
-                    which is affected by changing light. Although the team
-                    acknowledged that these results would need to be validated
-                    in a population which experiences no sleep difficulties, the
-                    seasonal changes may be even greater in a healthy
-                    population.
-                  </p>
-                  <p>
-                    [...] "Seasonality is ubiquitous in any living being on this
-                    planet," said Kunz. "Even though we still perform unchanged,
-                    over the winter human physiology is down-regulated, with a
-                    sensation of 'running-on-empty' in February or March. In
-                    general, societies need to adjust sleep habits including
-                    length and timing to season, or adjust school and working
-                    schedules to seasonal sleep needs."
-                  </p>
-                </div>
-              </blockquote>
-              <p>
-                <b>Journal Reference:</b><br />Aileen Seidler, Katy Sarah
-                Weihrich, Frederik Bes, <em>et al.</em>,
-                <b
-                  >Seasonality of human sleep: Polysomnographic data of a
-                  neuropsychiatric sleep clinic</b
-                >, <em>Front. Neurosci</em>., <b>17</b>, 2023. DOI:
-                <a href="https://doi.org/10.3389/fnins.2023.1105233"
-                  >https://doi.org/10.3389/fnins.2023.1105233</a
-                >
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=58997"
                     >Original Submission</a
                   ></small
                 >
