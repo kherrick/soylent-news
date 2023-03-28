@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-28, 19:15:00](https://soylentnews.org/article.pl?sid=23/03/27/1557219&from=rss) - [Microplastics are Messing With the Microbiomes of Seabirds](https://soylentnews.org/article.pl?sid=23/03/27/1557219&from=rss)
 * [2023-03-28, 16:31:00](https://soylentnews.org/article.pl?sid=23/03/27/1552243&from=rss) - [GitHub Publishes RSA SSH Host Keys by Mistake, Issues Update](https://soylentnews.org/article.pl?sid=23/03/27/1552243&from=rss)
 * [2023-03-28, 13:47:00](https://soylentnews.org/article.pl?sid=23/03/27/1549206&from=rss) - [New Technique 'About 80% Effective' at Producing Babies of Desired Sex, Study Suggests](https://soylentnews.org/article.pl?sid=23/03/27/1549206&from=rss)
 * [2023-03-28, 11:02:00](https://soylentnews.org/article.pl?sid=23/03/27/1546204&from=rss) - [Microsoft to Fix Windows 11 ‘aCropalypse’ Privacy Failure](https://soylentnews.org/article.pl?sid=23/03/27/1546204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-22, 18:12:00](https://soylentnews.org/article.pl?sid=23/03/22/0145259&from=rss) - [Internet Archive Faces Uphill Battle in Lawsuit Over its Free Digital Library](https://soylentnews.org/article.pl?sid=23/03/22/0145259&from=rss)
 * [2023-03-22, 15:28:00](https://soylentnews.org/article.pl?sid=23/03/21/1819246&from=rss) - [NASA's AIM Mission Comes to an End After Nearly 16 Years](https://soylentnews.org/article.pl?sid=23/03/21/1819246&from=rss)
 * [2023-03-22, 12:37:00](https://soylentnews.org/article.pl?sid=23/03/21/1817201&from=rss) - [\"cURL\", the URL Code That Can, Marks 25 Years of Transfers](https://soylentnews.org/article.pl?sid=23/03/21/1817201&from=rss)
-* [2023-03-22, 09:53:00](https://soylentnews.org/article.pl?sid=23/03/21/1754246&from=rss) - [Metallica is Selling So Many Vinyl Records It Bought its Own Factory](https://soylentnews.org/article.pl?sid=23/03/21/1754246&from=rss)
 
 ## [Archives](archives/index.md)
 
