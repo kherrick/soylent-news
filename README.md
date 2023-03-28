@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-28, 08:19:00](https://soylentnews.org/article.pl?sid=23/03/27/1540224&from=rss) - [Researchers Develop Soft Robot That Shifts From Land to Sea With Ease](https://soylentnews.org/article.pl?sid=23/03/27/1540224&from=rss)
 * [2023-03-28, 05:35:00](https://soylentnews.org/article.pl?sid=23/03/27/0453250&from=rss) - [Microsoft Research Paper Claims Sparks of Artificial Intelligence in GPT-4](https://soylentnews.org/article.pl?sid=23/03/27/0453250&from=rss)
 * [2023-03-28, 02:44:00](https://soylentnews.org/article.pl?sid=23/03/27/0442212&from=rss) - [A Federal Judge Has Ruled Against the Internet Archive in a Lawsuit Brought by Four Book Publishers](https://soylentnews.org/article.pl?sid=23/03/27/0442212&from=rss)
 * [2023-03-28, 00:01:00](https://soylentnews.org/article.pl?sid=23/03/27/031215&from=rss) - [YouTube Channel Linus Tech Tips Terminated After It Was Hacked to Show Crypto-Scam Videos](https://soylentnews.org/article.pl?sid=23/03/27/031215&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-22, 07:09:00](https://soylentnews.org/article.pl?sid=23/03/21/1749259&from=rss) - [Amazon Has Cut 27 Thousand Jobs as Tech Crisis Also Worsens Down Under](https://soylentnews.org/article.pl?sid=23/03/21/1749259&from=rss)
 * [2023-03-22, 04:24:00](https://soylentnews.org/article.pl?sid=23/03/21/1745240&from=rss) - [What Do Early Earth's Core Formation and Drip Coffee Have in Common?](https://soylentnews.org/article.pl?sid=23/03/21/1745240&from=rss)
 * [2023-03-22, 01:39:00](https://soylentnews.org/article.pl?sid=23/03/21/0333233&from=rss) - [Zipline Unveils Quiet Drone Delivery Platform, Expands Operations](https://soylentnews.org/article.pl?sid=23/03/21/0333233&from=rss)
-* [2023-03-21, 22:55:00](https://soylentnews.org/article.pl?sid=23/03/21/0327238&from=rss) - [Google Won’t Honor Medical Leave During its Layoffs, Outraging Employees](https://soylentnews.org/article.pl?sid=23/03/21/0327238&from=rss)
 
 ## [Archives](archives/index.md)
 
