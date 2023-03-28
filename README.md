@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-28, 02:44:00](https://soylentnews.org/article.pl?sid=23/03/27/0442212&from=rss) - [A Federal Judge Has Ruled Against the Internet Archive in a Lawsuit Brought by Four Book Publishers](https://soylentnews.org/article.pl?sid=23/03/27/0442212&from=rss)
 * [2023-03-28, 00:01:00](https://soylentnews.org/article.pl?sid=23/03/27/031215&from=rss) - [YouTube Channel Linus Tech Tips Terminated After It Was Hacked to Show Crypto-Scam Videos](https://soylentnews.org/article.pl?sid=23/03/27/031215&from=rss)
 * [2023-03-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/03/27/0237226&from=rss) - [Very Few Consumers Want Subscriptions in Their Cars, Survey Shows](https://soylentnews.org/article.pl?sid=23/03/27/0237226&from=rss)
 * [2023-03-27, 18:33:00](https://soylentnews.org/article.pl?sid=23/03/26/1234240&from=rss) - [RISC-Y Business: Arm Wants to Charge Dramatically More for Chip Licenses](https://soylentnews.org/article.pl?sid=23/03/26/1234240&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-22, 01:39:00](https://soylentnews.org/article.pl?sid=23/03/21/0333233&from=rss) - [Zipline Unveils Quiet Drone Delivery Platform, Expands Operations](https://soylentnews.org/article.pl?sid=23/03/21/0333233&from=rss)
 * [2023-03-21, 22:55:00](https://soylentnews.org/article.pl?sid=23/03/21/0327238&from=rss) - [Google Won’t Honor Medical Leave During its Layoffs, Outraging Employees](https://soylentnews.org/article.pl?sid=23/03/21/0327238&from=rss)
 * [2023-03-21, 20:13:00](https://soylentnews.org/article.pl?sid=23/03/21/0314245&from=rss) - [Trial of 2016 Twitter Troll to Test Limits of Online Speech](https://soylentnews.org/article.pl?sid=23/03/21/0314245&from=rss)
-* [2023-03-21, 17:22:00](https://soylentnews.org/article.pl?sid=23/03/20/129238&from=rss) - [NASA's Commercial Partner to Visit the Far Side of the Moon](https://soylentnews.org/article.pl?sid=23/03/20/129238&from=rss)
 
 ## [Archives](archives/index.md)
 
