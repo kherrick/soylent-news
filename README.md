@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-29, 17:10:00](https://soylentnews.org/article.pl?sid=23/03/28/1521229&from=rss) - [NY Officials Detect Polio Again, Warn of Possible Summer Wave](https://soylentnews.org/article.pl?sid=23/03/28/1521229&from=rss)
 * [2023-03-29, 14:23:00](https://soylentnews.org/article.pl?sid=23/03/28/1518226&from=rss) - [Neurotech’s Battles Impact Our Brains’ Future](https://soylentnews.org/article.pl?sid=23/03/28/1518226&from=rss)
 * [2023-03-29, 11:39:00](https://soylentnews.org/article.pl?sid=23/03/28/1512236&from=rss) - [More ChatGPT / Bing News](https://soylentnews.org/article.pl?sid=23/03/28/1512236&from=rss)
 * [2023-03-29, 08:53:00](https://soylentnews.org/article.pl?sid=23/03/28/1511238&from=rss) - [Valve is Ending Steam Support for Windows 7, 8, and 8.1](https://soylentnews.org/article.pl?sid=23/03/28/1511238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-23, 15:03:00](https://soylentnews.org/article.pl?sid=23/03/22/1817245&from=rss) - [Feds Arrest Alleged BreachForums Owner and the Forum Closes - for Now](https://soylentnews.org/article.pl?sid=23/03/22/1817245&from=rss)
 * [2023-03-23, 12:17:00](https://soylentnews.org/article.pl?sid=23/03/22/189234&from=rss) - [Rare Cosmic Event Will See 5 Planets Align in The Sky. Here's How to Watch.](https://soylentnews.org/article.pl?sid=23/03/22/189234&from=rss)
 * [2023-03-23, 09:35:00](https://soylentnews.org/article.pl?sid=23/03/22/185237&from=rss) - [Feral Hogs Are the Invasive Menace You've Never Thought About](https://soylentnews.org/article.pl?sid=23/03/22/185237&from=rss)
-* [2023-03-23, 06:52:00](https://soylentnews.org/article.pl?sid=23/03/22/183225&from=rss) - [Collected Samples from the Asteroid Ryugu Contain RNA Component](https://soylentnews.org/article.pl?sid=23/03/22/183225&from=rss)
 
 ## [Archives](archives/index.md)
 
