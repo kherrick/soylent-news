@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-29, 03:22:00](https://soylentnews.org/article.pl?sid=23/03/28/153226&from=rss) - [U.S. Rolls Out Strict Rules for Commercial Spyware Use, Amidst Rash of Hacks](https://soylentnews.org/article.pl?sid=23/03/28/153226&from=rss)
 * [2023-03-29, 00:41:00](https://soylentnews.org/article.pl?sid=23/03/28/0236236&from=rss) - [ChatGPT Gets “Eyes and Ears” With Plugins That Can Interface AI With the World](https://soylentnews.org/article.pl?sid=23/03/28/0236236&from=rss)
 * [2023-03-28, 22:01:00](https://soylentnews.org/article.pl?sid=23/03/28/0229208&from=rss) - [How Brains Synchronize During Cooperative Tasks](https://soylentnews.org/article.pl?sid=23/03/28/0229208&from=rss)
 * [2023-03-28, 19:15:00](https://soylentnews.org/article.pl?sid=23/03/27/1557219&from=rss) - [Microplastics are Messing With the Microbiomes of Seabirds](https://soylentnews.org/article.pl?sid=23/03/27/1557219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-23, 01:19:00](https://soylentnews.org/article.pl?sid=23/03/22/1234227&from=rss) - [Insect Farming is Booming, but is It Cruel?](https://soylentnews.org/article.pl?sid=23/03/22/1234227&from=rss)
 * [2023-03-22, 23:37:00](https://soylentnews.org/article.pl?sid=23/03/22/025208&from=rss) - [Nvidia tweaks flagship H100 chip for export to China as H800](https://soylentnews.org/article.pl?sid=23/03/22/025208&from=rss)
 * [2023-03-22, 20:52:00](https://soylentnews.org/article.pl?sid=23/03/22/0156244&from=rss) - [Student Satellite Demos Drag Sail to De-orbit Old Hardware](https://soylentnews.org/article.pl?sid=23/03/22/0156244&from=rss)
-* [2023-03-22, 18:12:00](https://soylentnews.org/article.pl?sid=23/03/22/0145259&from=rss) - [Internet Archive Faces Uphill Battle in Lawsuit Over its Free Digital Library](https://soylentnews.org/article.pl?sid=23/03/22/0145259&from=rss)
 
 ## [Archives](archives/index.md)
 
