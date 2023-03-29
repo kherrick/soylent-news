@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 19:57:00](https://soylentnews.org/article.pl?sid=23/03/29/0225238&from=rss) - [TikTok Trackers Embedded in U.S. State-government Websites, Review Finds](https://soylentnews.org/article.pl?sid=23/03/29/0225238&from=rss)
 * [2023-03-29, 17:10:00](https://soylentnews.org/article.pl?sid=23/03/28/1521229&from=rss) - [NY Officials Detect Polio Again, Warn of Possible Summer Wave](https://soylentnews.org/article.pl?sid=23/03/28/1521229&from=rss)
 * [2023-03-29, 14:23:00](https://soylentnews.org/article.pl?sid=23/03/28/1518226&from=rss) - [Neurotech’s Battles Impact Our Brains’ Future](https://soylentnews.org/article.pl?sid=23/03/28/1518226&from=rss)
 * [2023-03-29, 11:39:00](https://soylentnews.org/article.pl?sid=23/03/28/1512236&from=rss) - [More ChatGPT / Bing News](https://soylentnews.org/article.pl?sid=23/03/28/1512236&from=rss)
