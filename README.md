@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-30, 04:17:00](https://soylentnews.org/article.pl?sid=23/03/29/1811240&from=rss) - [Disney Reportedly Scraps its Metaverse Unit](https://soylentnews.org/article.pl?sid=23/03/29/1811240&from=rss)
 * [2023-03-30, 01:32:00](https://soylentnews.org/article.pl?sid=23/03/29/1155211&from=rss) - [Artificial Intelligence 'Godfather' on AI Possibly Wiping Out Humanity: ‘It's Not Inconceivable’](https://soylentnews.org/article.pl?sid=23/03/29/1155211&from=rss)
 * [2023-03-29, 22:45:00](https://soylentnews.org/article.pl?sid=23/03/29/1142236&from=rss) - [Webb Telescope Confirms Nearby Rocky Planet Has No Significant Atmosphere](https://soylentnews.org/article.pl?sid=23/03/29/1142236&from=rss)
 * [2023-03-29, 19:57:00](https://soylentnews.org/article.pl?sid=23/03/29/0225238&from=rss) - [TikTok Trackers Embedded in U.S. State-government Websites, Review Finds](https://soylentnews.org/article.pl?sid=23/03/29/0225238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-24, 02:08:00](https://soylentnews.org/article.pl?sid=23/03/23/0352236&from=rss) - [This Tiny Chip is Being Used to Develop a Tooth-mounted Sensor That Can Read Your Spit](https://soylentnews.org/article.pl?sid=23/03/23/0352236&from=rss)
 * [2023-03-23, 23:23:00](https://soylentnews.org/article.pl?sid=23/03/23/0345242&from=rss) - [Use of Meta Tracking Tools Found to Breach EU Rules on Data Transfers](https://soylentnews.org/article.pl?sid=23/03/23/0345242&from=rss)
 * [2023-03-23, 20:38:00](https://soylentnews.org/article.pl?sid=23/03/23/0049258&from=rss) - [Microsoft Begs You Not to Ditch Edge on Google's Own Chrome Download Page](https://soylentnews.org/article.pl?sid=23/03/23/0049258&from=rss)
-* [2023-03-23, 17:52:00](https://soylentnews.org/article.pl?sid=23/03/22/1834204&from=rss) - [Exposure to Perfluoroalkyl Substances and Women's Fertility Outcome](https://soylentnews.org/article.pl?sid=23/03/22/1834204&from=rss)
 
 ## [Archives](archives/index.md)
 
