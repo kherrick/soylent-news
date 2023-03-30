@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-30, 20:41:00](https://soylentnews.org/article.pl?sid=23/03/30/1747245&from=rss) - [Newly Declassified Government Report Suggests Havana Syndrome Might be Caused by an Energy Weapon](https://soylentnews.org/article.pl?sid=23/03/30/1747245&from=rss)
 * [2023-03-30, 18:00:00](https://soylentnews.org/article.pl?sid=23/03/29/1834237&from=rss) - [DRAM Got Cheaper and Prices Will Continue to Fall](https://soylentnews.org/article.pl?sid=23/03/29/1834237&from=rss)
 * [2023-03-30, 15:14:00](https://soylentnews.org/article.pl?sid=23/03/29/1829258&from=rss) - [The Security Vulnerabilities of Message Interoperability](https://soylentnews.org/article.pl?sid=23/03/29/1829258&from=rss)
 * [2023-03-30, 12:27:00](https://soylentnews.org/article.pl?sid=23/03/29/1826214&from=rss) - [Seattle-Area County Plans ‘World Leading’ Sustainable Aviation Fuel R&D Center](https://soylentnews.org/article.pl?sid=23/03/29/1826214&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-24, 18:33:00](https://soylentnews.org/article.pl?sid=23/03/23/1253250&from=rss) - [Reverse-Engineering the Multiplication Algorithm in the Intel 8086 Processor](https://soylentnews.org/article.pl?sid=23/03/23/1253250&from=rss)
 * [2023-03-24, 15:47:00](https://soylentnews.org/article.pl?sid=23/03/23/1251216&from=rss) - [Latitude Hack Worsens With Services Taken Offline](https://soylentnews.org/article.pl?sid=23/03/23/1251216&from=rss)
 * [2023-03-24, 13:01:00](https://soylentnews.org/article.pl?sid=23/03/23/1242229&from=rss) - [Fourier Transformations Reveal How AI Learns Complex Physics](https://soylentnews.org/article.pl?sid=23/03/23/1242229&from=rss)
-* [2023-03-24, 10:17:00](https://soylentnews.org/article.pl?sid=23/03/23/1239200&from=rss) - ['Time Reflections' Finally Observed by Physicists After Decades of Searching](https://soylentnews.org/article.pl?sid=23/03/23/1239200&from=rss)
 
 ## [Archives](archives/index.md)
 
