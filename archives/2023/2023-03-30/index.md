@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 23:21:00](https://soylentnews.org/article.pl?sid=23/03/30/1751236&from=rss) - [TSMC May Not Expand in US If Double Taxation Rule Continues](https://soylentnews.org/article.pl?sid=23/03/30/1751236&from=rss)
 * [2023-03-30, 20:41:00](https://soylentnews.org/article.pl?sid=23/03/30/1747245&from=rss) - [Newly Declassified Government Report Suggests Havana Syndrome Might be Caused by an Energy Weapon](https://soylentnews.org/article.pl?sid=23/03/30/1747245&from=rss)
 * [2023-03-30, 18:00:00](https://soylentnews.org/article.pl?sid=23/03/29/1834237&from=rss) - [DRAM Got Cheaper and Prices Will Continue to Fall](https://soylentnews.org/article.pl?sid=23/03/29/1834237&from=rss)
 * [2023-03-30, 15:14:00](https://soylentnews.org/article.pl?sid=23/03/29/1829258&from=rss) - [The Security Vulnerabilities of Message Interoperability](https://soylentnews.org/article.pl?sid=23/03/29/1829258&from=rss)
