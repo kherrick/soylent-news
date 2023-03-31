@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-31, 10:23:00](https://soylentnews.org/article.pl?sid=23/03/30/1817206&from=rss) - [Scientists Just Learned Something New About How Aspirin Works](https://soylentnews.org/article.pl?sid=23/03/30/1817206&from=rss)
 * [2023-03-31, 07:35:00](https://soylentnews.org/article.pl?sid=23/03/30/189257&from=rss) - [If You Dislike Choosing Captcha Images From a List Owl Have Good News for You](https://soylentnews.org/article.pl?sid=23/03/30/189257&from=rss)
 * [2023-03-31, 04:48:00](https://soylentnews.org/article.pl?sid=23/03/30/180234&from=rss) - [Stop Blaming the End User for Security Risk](https://soylentnews.org/article.pl?sid=23/03/30/180234&from=rss)
 * [2023-03-31, 02:03:00](https://soylentnews.org/article.pl?sid=23/03/30/1755249&from=rss) - [Twitter Obtains Subpoena Forcing GitHub to Unmask Source-Code Leaker](https://soylentnews.org/article.pl?sid=23/03/30/1755249&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-25, 11:03:00](https://soylentnews.org/article.pl?sid=23/03/25/1052212&from=rss) - [In Memoriam: Gordon Moore, 1929 - 2023](https://soylentnews.org/article.pl?sid=23/03/25/1052212&from=rss)
 * [2023-03-25, 09:35:00](https://soylentnews.org/article.pl?sid=23/03/24/1129204&from=rss) - [Habitual Daily Intake of a Sweet and Fatty Snack Modulates Reward Processing in Humans](https://soylentnews.org/article.pl?sid=23/03/24/1129204&from=rss)
 * [2023-03-25, 04:49:00](https://soylentnews.org/article.pl?sid=23/03/24/1120218&from=rss) - [Ford Will Lose $3 Billion on Electric Vehicles in 2023, It Says](https://soylentnews.org/article.pl?sid=23/03/24/1120218&from=rss)
-* [2023-03-25, 00:03:00](https://soylentnews.org/article.pl?sid=23/03/24/0325220&from=rss) - [Ethical AI art generation? Adobe Firefly may be the answer.](https://soylentnews.org/article.pl?sid=23/03/24/0325220&from=rss)
 
 ## [Archives](archives/index.md)
 
