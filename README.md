@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-31, 02:03:00](https://soylentnews.org/article.pl?sid=23/03/30/1755249&from=rss) - [Twitter Obtains Subpoena Forcing GitHub to Unmask Source-Code Leaker](https://soylentnews.org/article.pl?sid=23/03/30/1755249&from=rss)
 * [2023-03-30, 23:21:00](https://soylentnews.org/article.pl?sid=23/03/30/1751236&from=rss) - [TSMC May Not Expand in US If Double Taxation Rule Continues](https://soylentnews.org/article.pl?sid=23/03/30/1751236&from=rss)
 * [2023-03-30, 20:41:00](https://soylentnews.org/article.pl?sid=23/03/30/1747245&from=rss) - [Newly Declassified Government Report Suggests Havana Syndrome Might be Caused by an Energy Weapon](https://soylentnews.org/article.pl?sid=23/03/30/1747245&from=rss)
 * [2023-03-30, 18:00:00](https://soylentnews.org/article.pl?sid=23/03/29/1834237&from=rss) - [DRAM Got Cheaper and Prices Will Continue to Fall](https://soylentnews.org/article.pl?sid=23/03/29/1834237&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-25, 00:03:00](https://soylentnews.org/article.pl?sid=23/03/24/0325220&from=rss) - [Ethical AI art generation? Adobe Firefly may be the answer.](https://soylentnews.org/article.pl?sid=23/03/24/0325220&from=rss)
 * [2023-03-24, 21:23:00](https://soylentnews.org/article.pl?sid=23/03/24/0319202&from=rss) - [Metal-Detecting Drone Could Autonomously Find Landmines](https://soylentnews.org/article.pl?sid=23/03/24/0319202&from=rss)
 * [2023-03-24, 18:33:00](https://soylentnews.org/article.pl?sid=23/03/23/1253250&from=rss) - [Reverse-Engineering the Multiplication Algorithm in the Intel 8086 Processor](https://soylentnews.org/article.pl?sid=23/03/23/1253250&from=rss)
-* [2023-03-24, 15:47:00](https://soylentnews.org/article.pl?sid=23/03/23/1251216&from=rss) - [Latitude Hack Worsens With Services Taken Offline](https://soylentnews.org/article.pl?sid=23/03/23/1251216&from=rss)
 
 ## [Archives](archives/index.md)
 
