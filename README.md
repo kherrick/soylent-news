@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-03-31, 18:37:00](https://soylentnews.org/article.pl?sid=23/03/31/0235245&from=rss) - [Italy Moves to Ban Lab-grown Meat to Protect Food Heritage](https://soylentnews.org/article.pl?sid=23/03/31/0235245&from=rss)
 * [2023-03-31, 15:51:00](https://soylentnews.org/article.pl?sid=23/03/31/0227244&from=rss) - [Bent Light in Deep Space Reveals One of the Biggest Black Holes Ever Detected](https://soylentnews.org/article.pl?sid=23/03/31/0227244&from=rss)
 * [2023-03-31, 13:04:00](https://soylentnews.org/article.pl?sid=23/03/30/1822228&from=rss) - [Netflix Might Bring its Games to TVs in Effort to Get People to Actually Play Them](https://soylentnews.org/article.pl?sid=23/03/30/1822228&from=rss)
 * [2023-03-31, 10:23:00](https://soylentnews.org/article.pl?sid=23/03/30/1817206&from=rss) - [Scientists Just Learned Something New About How Aspirin Works](https://soylentnews.org/article.pl?sid=23/03/30/1817206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-25, 23:48:00](https://soylentnews.org/article.pl?sid=23/03/25/1541255&from=rss) - [Windows 11, Tesla, Ubuntu, and macOS hacked at Pwn2Own 2023](https://soylentnews.org/article.pl?sid=23/03/25/1541255&from=rss)
 * [2023-03-25, 19:06:00](https://soylentnews.org/article.pl?sid=23/03/24/1242257&from=rss) - [Benefits of Big City Life – Only for the Elite](https://soylentnews.org/article.pl?sid=23/03/24/1242257&from=rss)
 * [2023-03-25, 14:20:00](https://soylentnews.org/article.pl?sid=23/03/24/1137247&from=rss) - [Moderna CEO Brazenly Defends 400% COVID Shot Price Hike, Downplays NIH's Role](https://soylentnews.org/article.pl?sid=23/03/24/1137247&from=rss)
-* [2023-03-25, 11:03:00](https://soylentnews.org/article.pl?sid=23/03/25/1052212&from=rss) - [In Memoriam: Gordon Moore, 1929 - 2023](https://soylentnews.org/article.pl?sid=23/03/25/1052212&from=rss)
 
 ## [Archives](archives/index.md)
 
