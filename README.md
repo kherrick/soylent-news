@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-01, 00:10:00](https://soylentnews.org/article.pl?sid=23/03/31/034202&from=rss) - [These Angry Dutch Farmers Really Hate Microsoft](https://soylentnews.org/article.pl?sid=23/03/31/034202&from=rss)
 * [2023-03-31, 21:23:00](https://soylentnews.org/article.pl?sid=23/03/31/0249228&from=rss) - [For Europe, This Upcoming German Rocket Can't Arrive Soon Enough](https://soylentnews.org/article.pl?sid=23/03/31/0249228&from=rss)
 * [2023-03-31, 18:37:00](https://soylentnews.org/article.pl?sid=23/03/31/0235245&from=rss) - [Italy Moves to Ban Lab-grown Meat to Protect Food Heritage](https://soylentnews.org/article.pl?sid=23/03/31/0235245&from=rss)
 * [2023-03-31, 15:51:00](https://soylentnews.org/article.pl?sid=23/03/31/0227244&from=rss) - [Bent Light in Deep Space Reveals One of the Biggest Black Holes Ever Detected](https://soylentnews.org/article.pl?sid=23/03/31/0227244&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-26, 09:18:00](https://soylentnews.org/article.pl?sid=23/03/25/160226&from=rss) - [Non-Disparagement Clauses Are Retroactively Voided, NLRB’s Top Cop Clarifies](https://soylentnews.org/article.pl?sid=23/03/25/160226&from=rss)
 * [2023-03-26, 04:36:00](https://soylentnews.org/article.pl?sid=23/03/25/1555236&from=rss) - [Earth is Running Out of Places for Stargazers' Dark Deeds](https://soylentnews.org/article.pl?sid=23/03/25/1555236&from=rss)
 * [2023-03-25, 23:48:00](https://soylentnews.org/article.pl?sid=23/03/25/1541255&from=rss) - [Windows 11, Tesla, Ubuntu, and macOS hacked at Pwn2Own 2023](https://soylentnews.org/article.pl?sid=23/03/25/1541255&from=rss)
-* [2023-03-25, 19:06:00](https://soylentnews.org/article.pl?sid=23/03/24/1242257&from=rss) - [Benefits of Big City Life – Only for the Elite](https://soylentnews.org/article.pl?sid=23/03/24/1242257&from=rss)
 
 ## [Archives](archives/index.md)
 
