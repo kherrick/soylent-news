@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-01, 09:34:00](https://soylentnews.org/article.pl?sid=23/03/31/0329258&from=rss) - [AI Image Generator Midjourney Stops Free Trials but Says Influx of New Users to Blame](https://soylentnews.org/article.pl?sid=23/03/31/0329258&from=rss)
 * [2023-04-01, 04:52:00](https://soylentnews.org/article.pl?sid=23/03/31/0313256&from=rss) - [Silence Gets You Nowhere in a Data Breach](https://soylentnews.org/article.pl?sid=23/03/31/0313256&from=rss)
 * [2023-04-01, 00:10:00](https://soylentnews.org/article.pl?sid=23/03/31/034202&from=rss) - [These Angry Dutch Farmers Really Hate Microsoft](https://soylentnews.org/article.pl?sid=23/03/31/034202&from=rss)
 * [2023-03-31, 21:23:00](https://soylentnews.org/article.pl?sid=23/03/31/0249228&from=rss) - [For Europe, This Upcoming German Rocket Can't Arrive Soon Enough](https://soylentnews.org/article.pl?sid=23/03/31/0249228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-26, 18:43:00](https://soylentnews.org/article.pl?sid=23/03/25/1629237&from=rss) - [Newly-Revealed Coronavirus Data Has Reignited a Debate Over the Virus's Origins](https://soylentnews.org/article.pl?sid=23/03/25/1629237&from=rss)
 * [2023-03-26, 14:03:00](https://soylentnews.org/article.pl?sid=23/03/25/1620200&from=rss) - [Mathematicians Have Finally Discovered an Elusive ‘Einstein’ Tile](https://soylentnews.org/article.pl?sid=23/03/25/1620200&from=rss)
 * [2023-03-26, 09:18:00](https://soylentnews.org/article.pl?sid=23/03/25/160226&from=rss) - [Non-Disparagement Clauses Are Retroactively Voided, NLRB’s Top Cop Clarifies](https://soylentnews.org/article.pl?sid=23/03/25/160226&from=rss)
-* [2023-03-26, 04:36:00](https://soylentnews.org/article.pl?sid=23/03/25/1555236&from=rss) - [Earth is Running Out of Places for Stargazers' Dark Deeds](https://soylentnews.org/article.pl?sid=23/03/25/1555236&from=rss)
 
 ## [Archives](archives/index.md)
 
