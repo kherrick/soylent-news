@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-01, 23:46:00](https://soylentnews.org/article.pl?sid=23/03/31/1717241&from=rss) - [How a Major Toy Company Kept (Keeps) 4chan Online](https://soylentnews.org/article.pl?sid=23/03/31/1717241&from=rss)
 * [2023-04-01, 19:04:00](https://soylentnews.org/politics/article.pl?sid=23/03/31/1645259&from=rss) - [New Essence of Chinese Culture Rule Book Dumps Mao, Others](https://soylentnews.org/politics/article.pl?sid=23/03/31/1645259&from=rss)
 * [2023-04-01, 14:21:00](https://soylentnews.org/article.pl?sid=23/03/31/1643206&from=rss) - [Judge Finds Google Destroyed Evidence and Repeatedly Gave False Info to Court](https://soylentnews.org/article.pl?sid=23/03/31/1643206&from=rss)
 * [2023-04-01, 09:34:00](https://soylentnews.org/article.pl?sid=23/03/31/0329258&from=rss) - [AI Image Generator Midjourney Stops Free Trials but Says Influx of New Users to Blame](https://soylentnews.org/article.pl?sid=23/03/31/0329258&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-27, 04:56:00](https://soylentnews.org/article.pl?sid=23/03/25/1637225&from=rss) - [Critical Infrastructure Gear is Full of Flaws, but Hey, at Least It's Certified](https://soylentnews.org/article.pl?sid=23/03/25/1637225&from=rss)
 * [2023-03-27, 02:13:00](https://soylentnews.org/article.pl?sid=23/03/25/1634209&from=rss) - [Journalist Plugs in Unknown USB Drive Mailed to Him—It Exploded in His Face](https://soylentnews.org/article.pl?sid=23/03/25/1634209&from=rss)
 * [2023-03-26, 23:30:00](https://soylentnews.org/article.pl?sid=23/03/25/1631216&from=rss) - [Exploring the Features of Music That People Fall Asleep to](https://soylentnews.org/article.pl?sid=23/03/25/1631216&from=rss)
-* [2023-03-26, 18:43:00](https://soylentnews.org/article.pl?sid=23/03/25/1629237&from=rss) - [Newly-Revealed Coronavirus Data Has Reignited a Debate Over the Virus's Origins](https://soylentnews.org/article.pl?sid=23/03/25/1629237&from=rss)
 
 ## [Archives](archives/index.md)
 
