@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-02, 18:38:00](https://soylentnews.org/article.pl?sid=23/04/01/0942206&from=rss) - [Hackers Exploit WordPress Plugin Flaw That Gives Full Control of Millions of Sites](https://soylentnews.org/article.pl?sid=23/04/01/0942206&from=rss)
 * [2023-04-02, 13:57:00](https://soylentnews.org/article.pl?sid=23/04/01/0348226&from=rss) - [Southern California Linux Expo 20x (SCaLE 20X) Are Now Online](https://soylentnews.org/article.pl?sid=23/04/01/0348226&from=rss)
 * [2023-04-02, 09:13:00](https://soylentnews.org/article.pl?sid=23/04/01/0345252&from=rss) - [Lockheed Martin Plans to Build Lunar Satellite Network](https://soylentnews.org/article.pl?sid=23/04/01/0345252&from=rss)
 * [2023-04-02, 04:33:00](https://soylentnews.org/article.pl?sid=23/04/01/0327215&from=rss) - [Elemental Music: Interactive Periodic Table Turns He, Fe, Ca Into Do, Re, Mi](https://soylentnews.org/article.pl?sid=23/04/01/0327215&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-27, 15:51:00](https://soylentnews.org/article.pl?sid=23/03/25/1851201&from=rss) - [Amazon is About to Go Head to Head With SpaceX in a Battle for Satellite Internet Dominance](https://soylentnews.org/article.pl?sid=23/03/25/1851201&from=rss)
 * [2023-03-27, 13:04:00](https://soylentnews.org/article.pl?sid=23/03/25/1845235&from=rss) - [Performance Evaluation of C, Julia, Kokkos and Python/Numba in Exascale High Performance Computing](https://soylentnews.org/article.pl?sid=23/03/25/1845235&from=rss)
 * [2023-03-27, 10:27:00](https://soylentnews.org/article.pl?sid=23/03/25/1840246&from=rss) - [Barred From US Tech, Huawei Builds EDA Platform of its Own](https://soylentnews.org/article.pl?sid=23/03/25/1840246&from=rss)
-* [2023-03-27, 07:39:00](https://soylentnews.org/article.pl?sid=23/03/25/1830205&from=rss) - [Blue Origin Pins Last Summer's NS-23 Rocket Failure on a Faulty Engine Nozzle](https://soylentnews.org/article.pl?sid=23/03/25/1830205&from=rss)
 
 ## [Archives](archives/index.md)
 
