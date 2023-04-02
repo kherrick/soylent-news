@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-02, 09:13:00](https://soylentnews.org/article.pl?sid=23/04/01/0345252&from=rss) - [Lockheed Martin Plans to Build Lunar Satellite Network](https://soylentnews.org/article.pl?sid=23/04/01/0345252&from=rss)
 * [2023-04-02, 04:33:00](https://soylentnews.org/article.pl?sid=23/04/01/0327215&from=rss) - [Elemental Music: Interactive Periodic Table Turns He, Fe, Ca Into Do, Re, Mi](https://soylentnews.org/article.pl?sid=23/04/01/0327215&from=rss)
 * [2023-04-01, 23:46:00](https://soylentnews.org/article.pl?sid=23/03/31/1717241&from=rss) - [How a Major Toy Company Kept (Keeps) 4chan Online](https://soylentnews.org/article.pl?sid=23/03/31/1717241&from=rss)
 * [2023-04-01, 19:04:00](https://soylentnews.org/politics/article.pl?sid=23/03/31/1645259&from=rss) - [New Essence of Chinese Culture Rule Book Dumps Mao, Others](https://soylentnews.org/politics/article.pl?sid=23/03/31/1645259&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-27, 10:27:00](https://soylentnews.org/article.pl?sid=23/03/25/1840246&from=rss) - [Barred From US Tech, Huawei Builds EDA Platform of its Own](https://soylentnews.org/article.pl?sid=23/03/25/1840246&from=rss)
 * [2023-03-27, 07:39:00](https://soylentnews.org/article.pl?sid=23/03/25/1830205&from=rss) - [Blue Origin Pins Last Summer's NS-23 Rocket Failure on a Faulty Engine Nozzle](https://soylentnews.org/article.pl?sid=23/03/25/1830205&from=rss)
 * [2023-03-27, 04:56:00](https://soylentnews.org/article.pl?sid=23/03/25/1637225&from=rss) - [Critical Infrastructure Gear is Full of Flaws, but Hey, at Least It's Certified](https://soylentnews.org/article.pl?sid=23/03/25/1637225&from=rss)
-* [2023-03-27, 02:13:00](https://soylentnews.org/article.pl?sid=23/03/25/1634209&from=rss) - [Journalist Plugs in Unknown USB Drive Mailed to Him—It Exploded in His Face](https://soylentnews.org/article.pl?sid=23/03/25/1634209&from=rss)
 
 ## [Archives](archives/index.md)
 
