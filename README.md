@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-03, 10:34:00](https://soylentnews.org/article.pl?sid=23/04/02/1335216&from=rss) - [Catch-23: The New C Standard Sets the World on Fire](https://soylentnews.org/article.pl?sid=23/04/02/1335216&from=rss)
 * [2023-04-03, 07:49:00](https://soylentnews.org/article.pl?sid=23/04/02/1312201&from=rss) - [Why Sharing Ebooks is Good for People – and Good for Publishers](https://soylentnews.org/article.pl?sid=23/04/02/1312201&from=rss)
 * [2023-04-03, 05:01:00](https://soylentnews.org/article.pl?sid=23/04/02/133238&from=rss) - [Twitter Open Sources its Recommendation Algorithm](https://soylentnews.org/article.pl?sid=23/04/02/133238&from=rss)
 * [2023-04-03, 02:12:00](https://soylentnews.org/article.pl?sid=23/04/02/1259218&from=rss) - [With AI, Astronomers Dig Up the Stars That Birthed the Milky Way](https://soylentnews.org/article.pl?sid=23/04/02/1259218&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-28, 05:35:00](https://soylentnews.org/article.pl?sid=23/03/27/0453250&from=rss) - [Microsoft Research Paper Claims Sparks of Artificial Intelligence in GPT-4](https://soylentnews.org/article.pl?sid=23/03/27/0453250&from=rss)
 * [2023-03-28, 02:44:00](https://soylentnews.org/article.pl?sid=23/03/27/0442212&from=rss) - [A Federal Judge Has Ruled Against the Internet Archive in a Lawsuit Brought by Four Book Publishers](https://soylentnews.org/article.pl?sid=23/03/27/0442212&from=rss)
 * [2023-03-28, 00:01:00](https://soylentnews.org/article.pl?sid=23/03/27/031215&from=rss) - [YouTube Channel Linus Tech Tips Terminated After It Was Hacked to Show Crypto-Scam Videos](https://soylentnews.org/article.pl?sid=23/03/27/031215&from=rss)
-* [2023-03-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/03/27/0237226&from=rss) - [Very Few Consumers Want Subscriptions in Their Cars, Survey Shows](https://soylentnews.org/article.pl?sid=23/03/27/0237226&from=rss)
 
 ## [Archives](archives/index.md)
 
