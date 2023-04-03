@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-03, 18:56:00](https://soylentnews.org/article.pl?sid=23/04/02/1347225&from=rss) - [Amazon's Smart Speakers Collecting Kids Data May Lead to Government Lawsuit](https://soylentnews.org/article.pl?sid=23/04/02/1347225&from=rss)
 * [2023-04-03, 16:10:00](https://soylentnews.org/article.pl?sid=23/04/02/1341253&from=rss) - [Fearing “Loss of Control,” AI Critics Call for 6-Month Pause in AI Development](https://soylentnews.org/article.pl?sid=23/04/02/1341253&from=rss)
 * [2023-04-03, 13:26:00](https://soylentnews.org/article.pl?sid=23/04/02/1338205&from=rss) - [Do Trees Really ‘Talk’ to Each Other Through Underground Fungal Networks?](https://soylentnews.org/article.pl?sid=23/04/02/1338205&from=rss)
 * [2023-04-03, 10:34:00](https://soylentnews.org/article.pl?sid=23/04/02/1335216&from=rss) - [Catch-23: The New C Standard Sets the World on Fire](https://soylentnews.org/article.pl?sid=23/04/02/1335216&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-28, 13:47:00](https://soylentnews.org/article.pl?sid=23/03/27/1549206&from=rss) - [New Technique 'About 80% Effective' at Producing Babies of Desired Sex, Study Suggests](https://soylentnews.org/article.pl?sid=23/03/27/1549206&from=rss)
 * [2023-03-28, 11:02:00](https://soylentnews.org/article.pl?sid=23/03/27/1546204&from=rss) - [Microsoft to Fix Windows 11 ‘aCropalypse’ Privacy Failure](https://soylentnews.org/article.pl?sid=23/03/27/1546204&from=rss)
 * [2023-03-28, 08:19:00](https://soylentnews.org/article.pl?sid=23/03/27/1540224&from=rss) - [Researchers Develop Soft Robot That Shifts From Land to Sea With Ease](https://soylentnews.org/article.pl?sid=23/03/27/1540224&from=rss)
-* [2023-03-28, 05:35:00](https://soylentnews.org/article.pl?sid=23/03/27/0453250&from=rss) - [Microsoft Research Paper Claims Sparks of Artificial Intelligence in GPT-4](https://soylentnews.org/article.pl?sid=23/03/27/0453250&from=rss)
 
 ## [Archives](archives/index.md)
 
