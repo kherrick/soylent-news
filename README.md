@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-03, 05:01:00](https://soylentnews.org/article.pl?sid=23/04/02/133238&from=rss) - [Twitter Open Sources its Recommendation Algorithm](https://soylentnews.org/article.pl?sid=23/04/02/133238&from=rss)
 * [2023-04-03, 02:12:00](https://soylentnews.org/article.pl?sid=23/04/02/1259218&from=rss) - [With AI, Astronomers Dig Up the Stars That Birthed the Milky Way](https://soylentnews.org/article.pl?sid=23/04/02/1259218&from=rss)
 * [2023-04-02, 23:23:00](https://soylentnews.org/article.pl?sid=23/04/01/0946216&from=rss) - [Multi-Die Systems Define the Future of Semiconductors](https://soylentnews.org/article.pl?sid=23/04/01/0946216&from=rss)
 * [2023-04-02, 18:38:00](https://soylentnews.org/article.pl?sid=23/04/01/0942206&from=rss) - [Hackers Exploit WordPress Plugin Flaw That Gives Full Control of Millions of Sites](https://soylentnews.org/article.pl?sid=23/04/01/0942206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-28, 00:01:00](https://soylentnews.org/article.pl?sid=23/03/27/031215&from=rss) - [YouTube Channel Linus Tech Tips Terminated After It Was Hacked to Show Crypto-Scam Videos](https://soylentnews.org/article.pl?sid=23/03/27/031215&from=rss)
 * [2023-03-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/03/27/0237226&from=rss) - [Very Few Consumers Want Subscriptions in Their Cars, Survey Shows](https://soylentnews.org/article.pl?sid=23/03/27/0237226&from=rss)
 * [2023-03-27, 18:33:00](https://soylentnews.org/article.pl?sid=23/03/26/1234240&from=rss) - [RISC-Y Business: Arm Wants to Charge Dramatically More for Chip Licenses](https://soylentnews.org/article.pl?sid=23/03/26/1234240&from=rss)
-* [2023-03-27, 15:51:00](https://soylentnews.org/article.pl?sid=23/03/25/1851201&from=rss) - [Amazon is About to Go Head to Head With SpaceX in a Battle for Satellite Internet Dominance](https://soylentnews.org/article.pl?sid=23/03/25/1851201&from=rss)
 
 ## [Archives](archives/index.md)
 
