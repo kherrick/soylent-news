@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 16:10:00](https://soylentnews.org/article.pl?sid=23/04/02/1341253&from=rss) - [Fearing “Loss of Control,” AI Critics Call for 6-Month Pause in AI Development](https://soylentnews.org/article.pl?sid=23/04/02/1341253&from=rss)
 * [2023-04-03, 13:26:00](https://soylentnews.org/article.pl?sid=23/04/02/1338205&from=rss) - [Do Trees Really ‘Talk’ to Each Other Through Underground Fungal Networks?](https://soylentnews.org/article.pl?sid=23/04/02/1338205&from=rss)
 * [2023-04-03, 10:34:00](https://soylentnews.org/article.pl?sid=23/04/02/1335216&from=rss) - [Catch-23: The New C Standard Sets the World on Fire](https://soylentnews.org/article.pl?sid=23/04/02/1335216&from=rss)
 * [2023-04-03, 07:49:00](https://soylentnews.org/article.pl?sid=23/04/02/1312201&from=rss) - [Why Sharing Ebooks is Good for People – and Good for Publishers](https://soylentnews.org/article.pl?sid=23/04/02/1312201&from=rss)
