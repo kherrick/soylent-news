@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 21:39:00](https://soylentnews.org/article.pl?sid=23/04/02/1349251&from=rss) - [The 'Insanely Broad' RESTRICT Act Could Ban VPNs in the USA](https://soylentnews.org/article.pl?sid=23/04/02/1349251&from=rss)
 * [2023-04-03, 18:56:00](https://soylentnews.org/article.pl?sid=23/04/02/1347225&from=rss) - [Amazon's Smart Speakers Collecting Kids Data May Lead to Government Lawsuit](https://soylentnews.org/article.pl?sid=23/04/02/1347225&from=rss)
 * [2023-04-03, 16:10:00](https://soylentnews.org/article.pl?sid=23/04/02/1341253&from=rss) - [Fearing “Loss of Control,” AI Critics Call for 6-Month Pause in AI Development](https://soylentnews.org/article.pl?sid=23/04/02/1341253&from=rss)
 * [2023-04-03, 13:26:00](https://soylentnews.org/article.pl?sid=23/04/02/1338205&from=rss) - [Do Trees Really ‘Talk’ to Each Other Through Underground Fungal Networks?](https://soylentnews.org/article.pl?sid=23/04/02/1338205&from=rss)
