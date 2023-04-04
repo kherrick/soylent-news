@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 14:13:00](https://soylentnews.org/article.pl?sid=23/04/03/1812221&from=rss) - [New Chipset Could Finally Make It Easier to Build Budget Ryzen 7000 PCs](https://soylentnews.org/article.pl?sid=23/04/03/1812221&from=rss)
 * [2023-04-04, 11:28:00](https://soylentnews.org/article.pl?sid=23/04/03/188231&from=rss) - [Are Your Strawberries Bland? Pesticides Could be to Blame](https://soylentnews.org/article.pl?sid=23/04/03/188231&from=rss)
 * [2023-04-04, 08:45:00](https://soylentnews.org/article.pl?sid=23/04/03/186218&from=rss) - [Stable Diffusion Copyright Lawsuits Could be a Legal Earthquake for AI](https://soylentnews.org/article.pl?sid=23/04/03/186218&from=rss)
 * [2023-04-04, 06:01:00](https://soylentnews.org/article.pl?sid=23/04/03/1250217&from=rss) - [Microsoft Close to Settling EC Antitrust Cloud Complaints](https://soylentnews.org/article.pl?sid=23/04/03/1250217&from=rss)

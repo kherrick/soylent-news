@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-04, 14:13:00](https://soylentnews.org/article.pl?sid=23/04/03/1812221&from=rss) - [New Chipset Could Finally Make It Easier to Build Budget Ryzen 7000 PCs](https://soylentnews.org/article.pl?sid=23/04/03/1812221&from=rss)
 * [2023-04-04, 11:28:00](https://soylentnews.org/article.pl?sid=23/04/03/188231&from=rss) - [Are Your Strawberries Bland? Pesticides Could be to Blame](https://soylentnews.org/article.pl?sid=23/04/03/188231&from=rss)
 * [2023-04-04, 08:45:00](https://soylentnews.org/article.pl?sid=23/04/03/186218&from=rss) - [Stable Diffusion Copyright Lawsuits Could be a Legal Earthquake for AI](https://soylentnews.org/article.pl?sid=23/04/03/186218&from=rss)
 * [2023-04-04, 06:01:00](https://soylentnews.org/article.pl?sid=23/04/03/1250217&from=rss) - [Microsoft Close to Settling EC Antitrust Cloud Complaints](https://soylentnews.org/article.pl?sid=23/04/03/1250217&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-29, 08:53:00](https://soylentnews.org/article.pl?sid=23/03/28/1511238&from=rss) - [Valve is Ending Steam Support for Windows 7, 8, and 8.1](https://soylentnews.org/article.pl?sid=23/03/28/1511238&from=rss)
 * [2023-03-29, 06:12:00](https://soylentnews.org/article.pl?sid=23/03/28/158221&from=rss) - [Cultured Meat Firm Resurrects Woolly Mammoth in Lab-grown Meatball](https://soylentnews.org/article.pl?sid=23/03/28/158221&from=rss)
 * [2023-03-29, 03:22:00](https://soylentnews.org/article.pl?sid=23/03/28/153226&from=rss) - [U.S. Rolls Out Strict Rules for Commercial Spyware Use, Amidst Rash of Hacks](https://soylentnews.org/article.pl?sid=23/03/28/153226&from=rss)
-* [2023-03-29, 00:41:00](https://soylentnews.org/article.pl?sid=23/03/28/0236236&from=rss) - [ChatGPT Gets “Eyes and Ears” With Plugins That Can Interface AI With the World](https://soylentnews.org/article.pl?sid=23/03/28/0236236&from=rss)
 
 ## [Archives](archives/index.md)
 
