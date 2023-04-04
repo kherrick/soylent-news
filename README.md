@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-04, 19:36:00](https://soylentnews.org/article.pl?sid=23/04/03/1817235&from=rss) - [BuzzFeed is Quietly Publishing Whole AI-Generated Articles, Not Just Quizzes](https://soylentnews.org/article.pl?sid=23/04/03/1817235&from=rss)
 * [2023-04-04, 16:54:00](https://soylentnews.org/article.pl?sid=23/04/03/1814251&from=rss) - [FTC Chair Refused Musk's Meeting Request, Told Him to Stop Delaying Investigation](https://soylentnews.org/article.pl?sid=23/04/03/1814251&from=rss)
 * [2023-04-04, 14:13:00](https://soylentnews.org/article.pl?sid=23/04/03/1812221&from=rss) - [New Chipset Could Finally Make It Easier to Build Budget Ryzen 7000 PCs](https://soylentnews.org/article.pl?sid=23/04/03/1812221&from=rss)
 * [2023-04-04, 11:28:00](https://soylentnews.org/article.pl?sid=23/04/03/188231&from=rss) - [Are Your Strawberries Bland? Pesticides Could be to Blame](https://soylentnews.org/article.pl?sid=23/04/03/188231&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-29, 14:23:00](https://soylentnews.org/article.pl?sid=23/03/28/1518226&from=rss) - [Neurotech’s Battles Impact Our Brains’ Future](https://soylentnews.org/article.pl?sid=23/03/28/1518226&from=rss)
 * [2023-03-29, 11:39:00](https://soylentnews.org/article.pl?sid=23/03/28/1512236&from=rss) - [More ChatGPT / Bing News](https://soylentnews.org/article.pl?sid=23/03/28/1512236&from=rss)
 * [2023-03-29, 08:53:00](https://soylentnews.org/article.pl?sid=23/03/28/1511238&from=rss) - [Valve is Ending Steam Support for Windows 7, 8, and 8.1](https://soylentnews.org/article.pl?sid=23/03/28/1511238&from=rss)
-* [2023-03-29, 06:12:00](https://soylentnews.org/article.pl?sid=23/03/28/158221&from=rss) - [Cultured Meat Firm Resurrects Woolly Mammoth in Lab-grown Meatball](https://soylentnews.org/article.pl?sid=23/03/28/158221&from=rss)
 
 ## [Archives](archives/index.md)
 
