@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-05, 19:42:00](https://soylentnews.org/article.pl?sid=23/04/04/163233&from=rss) - [Using Running to Escape Everyday Stress May Lead to Exercise Dependence Instead of Mental Wellbeing](https://soylentnews.org/article.pl?sid=23/04/04/163233&from=rss)
 * [2023-04-05, 16:58:00](https://soylentnews.org/article.pl?sid=23/04/04/161218&from=rss) - [How Russia Killed its Tech Industry](https://soylentnews.org/article.pl?sid=23/04/04/161218&from=rss)
 * [2023-04-05, 14:12:00](https://soylentnews.org/article.pl?sid=23/04/04/0533240&from=rss) - [German Police Raid DDoS-Friendly Host ‘FlyHosting’](https://soylentnews.org/article.pl?sid=23/04/04/0533240&from=rss)
 * [2023-04-05, 11:22:00](https://soylentnews.org/article.pl?sid=23/04/04/0523233&from=rss) - [Mullvad VPN And The Tor Project Collaborate On A Web Browser](https://soylentnews.org/article.pl?sid=23/04/04/0523233&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-30, 12:27:00](https://soylentnews.org/article.pl?sid=23/03/29/1826214&from=rss) - [Seattle-Area County Plans ‘World Leading’ Sustainable Aviation Fuel R&D Center](https://soylentnews.org/article.pl?sid=23/03/29/1826214&from=rss)
 * [2023-03-30, 09:44:00](https://soylentnews.org/article.pl?sid=23/03/29/1822253&from=rss) - [Liquid Salts Bring Push-Button Lenses Into Focus](https://soylentnews.org/article.pl?sid=23/03/29/1822253&from=rss)
 * [2023-03-30, 07:02:00](https://soylentnews.org/article.pl?sid=23/03/29/1813227&from=rss) - [Nokia Plans to Put 4G Internet on the Moon This Year](https://soylentnews.org/article.pl?sid=23/03/29/1813227&from=rss)
-* [2023-03-30, 04:17:00](https://soylentnews.org/article.pl?sid=23/03/29/1811240&from=rss) - [Disney Reportedly Scraps its Metaverse Unit](https://soylentnews.org/article.pl?sid=23/03/29/1811240&from=rss)
 
 ## [Archives](archives/index.md)
 
