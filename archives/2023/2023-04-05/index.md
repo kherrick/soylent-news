@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 16:58:00](https://soylentnews.org/article.pl?sid=23/04/04/161218&from=rss) - [How Russia Killed its Tech Industry](https://soylentnews.org/article.pl?sid=23/04/04/161218&from=rss)
 * [2023-04-05, 14:12:00](https://soylentnews.org/article.pl?sid=23/04/04/0533240&from=rss) - [German Police Raid DDoS-Friendly Host ‘FlyHosting’](https://soylentnews.org/article.pl?sid=23/04/04/0533240&from=rss)
 * [2023-04-05, 11:22:00](https://soylentnews.org/article.pl?sid=23/04/04/0523233&from=rss) - [Mullvad VPN And The Tor Project Collaborate On A Web Browser](https://soylentnews.org/article.pl?sid=23/04/04/0523233&from=rss)
 * [2023-04-05, 06:35:00](https://soylentnews.org/article.pl?sid=23/04/04/0416243&from=rss) - [Seattle Becomes First U.S. City to Permanently Require Sick Leave for Delivery and App-based Workers](https://soylentnews.org/article.pl?sid=23/04/04/0416243&from=rss)
