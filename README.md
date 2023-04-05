@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-05, 03:52:00](https://soylentnews.org/article.pl?sid=23/04/04/047231&from=rss) - [Ads Are Coming for the Bing AI Chatbot, as They Come for All Microsoft Products](https://soylentnews.org/article.pl?sid=23/04/04/047231&from=rss)
 * [2023-04-05, 01:06:00](https://soylentnews.org/article.pl?sid=23/04/04/044222&from=rss) - [Scientists Capture Deepest-Ever Footage of a Fish](https://soylentnews.org/article.pl?sid=23/04/04/044222&from=rss)
 * [2023-04-04, 22:21:00](https://soylentnews.org/article.pl?sid=23/04/04/0354209&from=rss) - [Firefox Will Support Windows 7/8 Until at Least 2024](https://soylentnews.org/article.pl?sid=23/04/04/0354209&from=rss)
 * [2023-04-04, 19:36:00](https://soylentnews.org/article.pl?sid=23/04/03/1817235&from=rss) - [BuzzFeed is Quietly Publishing Whole AI-Generated Articles, Not Just Quizzes](https://soylentnews.org/article.pl?sid=23/04/03/1817235&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-29, 22:45:00](https://soylentnews.org/article.pl?sid=23/03/29/1142236&from=rss) - [Webb Telescope Confirms Nearby Rocky Planet Has No Significant Atmosphere](https://soylentnews.org/article.pl?sid=23/03/29/1142236&from=rss)
 * [2023-03-29, 19:57:00](https://soylentnews.org/article.pl?sid=23/03/29/0225238&from=rss) - [TikTok Trackers Embedded in U.S. State-government Websites, Review Finds](https://soylentnews.org/article.pl?sid=23/03/29/0225238&from=rss)
 * [2023-03-29, 17:10:00](https://soylentnews.org/article.pl?sid=23/03/28/1521229&from=rss) - [NY Officials Detect Polio Again, Warn of Possible Summer Wave](https://soylentnews.org/article.pl?sid=23/03/28/1521229&from=rss)
-* [2023-03-29, 14:23:00](https://soylentnews.org/article.pl?sid=23/03/28/1518226&from=rss) - [Neurotech’s Battles Impact Our Brains’ Future](https://soylentnews.org/article.pl?sid=23/03/28/1518226&from=rss)
 
 ## [Archives](archives/index.md)
 
