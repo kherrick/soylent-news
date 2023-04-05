@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-05, 11:22:00](https://soylentnews.org/article.pl?sid=23/04/04/0523233&from=rss) - [Mullvad VPN And The Tor Project Collaborate On A Web Browser](https://soylentnews.org/article.pl?sid=23/04/04/0523233&from=rss)
 * [2023-04-05, 06:35:00](https://soylentnews.org/article.pl?sid=23/04/04/0416243&from=rss) - [Seattle Becomes First U.S. City to Permanently Require Sick Leave for Delivery and App-based Workers](https://soylentnews.org/article.pl?sid=23/04/04/0416243&from=rss)
 * [2023-04-05, 03:52:00](https://soylentnews.org/article.pl?sid=23/04/04/047231&from=rss) - [Ads Are Coming for the Bing AI Chatbot, as They Come for All Microsoft Products](https://soylentnews.org/article.pl?sid=23/04/04/047231&from=rss)
 * [2023-04-05, 01:06:00](https://soylentnews.org/article.pl?sid=23/04/04/044222&from=rss) - [Scientists Capture Deepest-Ever Footage of a Fish](https://soylentnews.org/article.pl?sid=23/04/04/044222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-30, 04:17:00](https://soylentnews.org/article.pl?sid=23/03/29/1811240&from=rss) - [Disney Reportedly Scraps its Metaverse Unit](https://soylentnews.org/article.pl?sid=23/03/29/1811240&from=rss)
 * [2023-03-30, 01:32:00](https://soylentnews.org/article.pl?sid=23/03/29/1155211&from=rss) - [Artificial Intelligence 'Godfather' on AI Possibly Wiping Out Humanity: ‘It's Not Inconceivable’](https://soylentnews.org/article.pl?sid=23/03/29/1155211&from=rss)
 * [2023-03-29, 22:45:00](https://soylentnews.org/article.pl?sid=23/03/29/1142236&from=rss) - [Webb Telescope Confirms Nearby Rocky Planet Has No Significant Atmosphere](https://soylentnews.org/article.pl?sid=23/03/29/1142236&from=rss)
-* [2023-03-29, 19:57:00](https://soylentnews.org/article.pl?sid=23/03/29/0225238&from=rss) - [TikTok Trackers Embedded in U.S. State-government Websites, Review Finds](https://soylentnews.org/article.pl?sid=23/03/29/0225238&from=rss)
 
 ## [Archives](archives/index.md)
 
