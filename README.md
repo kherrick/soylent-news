@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-06, 20:32:00](https://soylentnews.org/article.pl?sid=23/04/05/0913247&from=rss) - [Repeating Radio Signal Leads Astronomers to an Earth-size Exoplanet](https://soylentnews.org/article.pl?sid=23/04/05/0913247&from=rss)
 * [2023-04-06, 17:43:00](https://soylentnews.org/article.pl?sid=23/04/05/0911259&from=rss) - [Maker of Eye Drops Linked to Deadly Outbreak Flunks FDA Inspection](https://soylentnews.org/article.pl?sid=23/04/05/0911259&from=rss)
 * [2023-04-06, 15:02:00](https://soylentnews.org/article.pl?sid=23/04/05/099203&from=rss) - [Kioxia Demos 7-Bits-Per-Cell Flash Memory](https://soylentnews.org/article.pl?sid=23/04/05/099203&from=rss)
 * [2023-04-06, 12:16:00](https://soylentnews.org/article.pl?sid=23/04/05/097235&from=rss) - [Modern Origami Method Creates Glass Shapes by Folding](https://soylentnews.org/article.pl?sid=23/04/05/097235&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-31, 13:04:00](https://soylentnews.org/article.pl?sid=23/03/30/1822228&from=rss) - [Netflix Might Bring its Games to TVs in Effort to Get People to Actually Play Them](https://soylentnews.org/article.pl?sid=23/03/30/1822228&from=rss)
 * [2023-03-31, 10:23:00](https://soylentnews.org/article.pl?sid=23/03/30/1817206&from=rss) - [Scientists Just Learned Something New About How Aspirin Works](https://soylentnews.org/article.pl?sid=23/03/30/1817206&from=rss)
 * [2023-03-31, 07:35:00](https://soylentnews.org/article.pl?sid=23/03/30/189257&from=rss) - [If You Dislike Choosing Captcha Images From a List Owl Have Good News for You](https://soylentnews.org/article.pl?sid=23/03/30/189257&from=rss)
-* [2023-03-31, 04:48:00](https://soylentnews.org/article.pl?sid=23/03/30/180234&from=rss) - [Stop Blaming the End User for Security Risk](https://soylentnews.org/article.pl?sid=23/03/30/180234&from=rss)
 
 ## [Archives](archives/index.md)
 

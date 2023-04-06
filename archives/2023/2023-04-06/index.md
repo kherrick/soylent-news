@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 20:32:00](https://soylentnews.org/article.pl?sid=23/04/05/0913247&from=rss) - [Repeating Radio Signal Leads Astronomers to an Earth-size Exoplanet](https://soylentnews.org/article.pl?sid=23/04/05/0913247&from=rss)
 * [2023-04-06, 17:43:00](https://soylentnews.org/article.pl?sid=23/04/05/0911259&from=rss) - [Maker of Eye Drops Linked to Deadly Outbreak Flunks FDA Inspection](https://soylentnews.org/article.pl?sid=23/04/05/0911259&from=rss)
 * [2023-04-06, 15:02:00](https://soylentnews.org/article.pl?sid=23/04/05/099203&from=rss) - [Kioxia Demos 7-Bits-Per-Cell Flash Memory](https://soylentnews.org/article.pl?sid=23/04/05/099203&from=rss)
 * [2023-04-06, 12:16:00](https://soylentnews.org/article.pl?sid=23/04/05/097235&from=rss) - [Modern Origami Method Creates Glass Shapes by Folding](https://soylentnews.org/article.pl?sid=23/04/05/097235&from=rss)
