@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-06, 03:59:00](https://soylentnews.org/article.pl?sid=23/04/05/042243&from=rss) - [Parisians Say Au Revoir to Shared E-scooters](https://soylentnews.org/article.pl?sid=23/04/05/042243&from=rss)
 * [2023-04-06, 01:10:00](https://soylentnews.org/article.pl?sid=23/04/05/0349227&from=rss) - [More Than Half of US Employees Don't Use All Their Vacation Time, Partly Due to Remote Work](https://soylentnews.org/article.pl?sid=23/04/05/0349227&from=rss)
 * [2023-04-05, 22:26:00](https://soylentnews.org/article.pl?sid=23/04/04/167258&from=rss) - [Star64 is a New RISC-V, Single-Board Computer for Developers and Hobbyists](https://soylentnews.org/article.pl?sid=23/04/04/167258&from=rss)
 * [2023-04-05, 19:42:00](https://soylentnews.org/article.pl?sid=23/04/04/163233&from=rss) - [Using Running to Escape Everyday Stress May Lead to Exercise Dependence Instead of Mental Wellbeing](https://soylentnews.org/article.pl?sid=23/04/04/163233&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-30, 20:41:00](https://soylentnews.org/article.pl?sid=23/03/30/1747245&from=rss) - [Newly Declassified Government Report Suggests Havana Syndrome Might be Caused by an Energy Weapon](https://soylentnews.org/article.pl?sid=23/03/30/1747245&from=rss)
 * [2023-03-30, 18:00:00](https://soylentnews.org/article.pl?sid=23/03/29/1834237&from=rss) - [DRAM Got Cheaper and Prices Will Continue to Fall](https://soylentnews.org/article.pl?sid=23/03/29/1834237&from=rss)
 * [2023-03-30, 15:14:00](https://soylentnews.org/article.pl?sid=23/03/29/1829258&from=rss) - [The Security Vulnerabilities of Message Interoperability](https://soylentnews.org/article.pl?sid=23/03/29/1829258&from=rss)
-* [2023-03-30, 12:27:00](https://soylentnews.org/article.pl?sid=23/03/29/1826214&from=rss) - [Seattle-Area County Plans ‘World Leading’ Sustainable Aviation Fuel R&D Center](https://soylentnews.org/article.pl?sid=23/03/29/1826214&from=rss)
 
 ## [Archives](archives/index.md)
 
