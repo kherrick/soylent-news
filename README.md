@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-06, 09:33:00](https://soylentnews.org/article.pl?sid=23/04/05/0444204&from=rss) - [Meta (Facebook, Instagram) Switching to \"Legitimate Interest\" for Ads](https://soylentnews.org/article.pl?sid=23/04/05/0444204&from=rss)
 * [2023-04-06, 06:46:00](https://soylentnews.org/article.pl?sid=23/04/05/0410225&from=rss) - [Germany Sours on Microsoft Again, Launches Antitrust Review](https://soylentnews.org/article.pl?sid=23/04/05/0410225&from=rss)
 * [2023-04-06, 03:59:00](https://soylentnews.org/article.pl?sid=23/04/05/042243&from=rss) - [Parisians Say Au Revoir to Shared E-scooters](https://soylentnews.org/article.pl?sid=23/04/05/042243&from=rss)
 * [2023-04-06, 01:10:00](https://soylentnews.org/article.pl?sid=23/04/05/0349227&from=rss) - [More Than Half of US Employees Don't Use All Their Vacation Time, Partly Due to Remote Work](https://soylentnews.org/article.pl?sid=23/04/05/0349227&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-31, 02:03:00](https://soylentnews.org/article.pl?sid=23/03/30/1755249&from=rss) - [Twitter Obtains Subpoena Forcing GitHub to Unmask Source-Code Leaker](https://soylentnews.org/article.pl?sid=23/03/30/1755249&from=rss)
 * [2023-03-30, 23:21:00](https://soylentnews.org/article.pl?sid=23/03/30/1751236&from=rss) - [TSMC May Not Expand in US If Double Taxation Rule Continues](https://soylentnews.org/article.pl?sid=23/03/30/1751236&from=rss)
 * [2023-03-30, 20:41:00](https://soylentnews.org/article.pl?sid=23/03/30/1747245&from=rss) - [Newly Declassified Government Report Suggests Havana Syndrome Might be Caused by an Energy Weapon](https://soylentnews.org/article.pl?sid=23/03/30/1747245&from=rss)
-* [2023-03-30, 18:00:00](https://soylentnews.org/article.pl?sid=23/03/29/1834237&from=rss) - [DRAM Got Cheaper and Prices Will Continue to Fall](https://soylentnews.org/article.pl?sid=23/03/29/1834237&from=rss)
 
 ## [Archives](archives/index.md)
 
