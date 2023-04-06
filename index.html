@@ -145,6 +145,67 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/04/05/0950238">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/04/05/0950238&amp;from=rss"
+              >The Microcode and Hardware in the 8086 Processor That Perform
+              String Operations</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-06 @ 23:19:00</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/04/05/0950238"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    I'll also explain the memory read and write
+                    micro-operations. A memory operation uses two internal
+                    registers: IND (Indirect) holds the memory address, while
+                    OPR (Operand) holds the word that is read or written. A
+                    typical memory micro-instruction for a read is R DS,BL. This
+                    causes the Bus Interface Unit to compute the memory address
+                    by adding the Data Segment (DS) to the IND register and then
+                    perform the read. The Bus Interface Unit determines if the
+                    instruction is performing a byte operation or a word
+                    operation and reads a byte or word as appropriate, going
+                    through the necessary bus cycles. The BL option3 causes the
+                    Bus Interface Unit to update the IND register as
+                    appropriate,3 incrementing or decrementing it by 1 or 2
+                    depending on the Direction Flag and the size of the access
+                    (byte or word). All of this complexity happens in the
+                    hardware of the Bus Interface Unit and is invisible to the
+                    microcode. The tradeoff is that this simplifies the
+                    microcode but makes the chip's hardware considerably more
+                    complicated.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59189"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/04/05/0913247">
           <h3>
             <a
@@ -1851,7 +1912,7 @@
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/03/1814251"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
             <div class="text">
@@ -4765,91 +4826,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59121"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/03/30/189257">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/03/30/189257&amp;from=rss"
-              >If You Dislike Choosing Captcha Images From a List Owl Have Good
-              News for You</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-03-31 @ 07:35:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1260</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/03/30/189257"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>An Anonymous Coward writes:</p>
-              <p>
-                <a href="https://www.hcaptcha.com/">gCaptcha</a> is the leading
-                rival for quality captcha services against Google's renowned and
-                universally despised recaptcha. When
-                <a
-                  href="https://www.itechpost.com/articles/109576/20220315/google-announces-significant-price-increases-cloud-s-services.htm"
-                  >Google increased the price for recaptcha</a
-                >
-                competing services took off taking what Google started from to
-                improve the experience significantly.
-                <a
-                  href="https://www.wired.com/story/smiling-dogs-horses-made-of-clouds-captcha-has-gone-too-far/"
-                  >Some experiences with smiling dogs and cloudy horses</a
-                >
-                were deemed to take this too far but these experiments showed
-                that there are improvements to be made in the captcha game.
-              </p>
-              <p>
-                With hackers out to
-                <a
-                  href="https://github.com/QIN2DIM/hcaptcha-challenger/issues/471"
-                  >solve any captcha programmatically</a
-                >
-                captcha services need to stay one step ahead. The slider method
-                was found to be easily bypassed. Rotating puzzle pieces is
-                harder to solve but involves more user interaction and has
-                moving parts in the code that can break.
-              </p>
-              <p>
-                Recently hCaptcha has introduce a test that challenges the user
-                to click on the center of an owl's head. This is an improvement
-                over selecting a type of ball from a grid of 9 or going through
-                the excruciating experience Google inflicts on users. There must
-                be a better way to prove that the person viewing the web page is
-                a human and not a bot. How about it, Soylentils? What's your
-                best idea for a captcha system given the state of the systems we
-                have today?
-              </p>
-              <p>
-                [<em
-                  >Ed's Comment: Bonus points if you can suggest a system that
-                  does not rely on graphics (not everyone uses the latest
-                  browsers or even anything more than a simple line of text) to
-                  access some sites - our own included. We have the need for a
-                  robust captcha system for people creating accounts in order to
-                  reduce the number of fake accounts being created by a bot.</em
-                >]
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59125"
                     >Original Submission</a
                   ></small
                 >
