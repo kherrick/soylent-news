@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-06, 15:02:00](https://soylentnews.org/article.pl?sid=23/04/05/099203&from=rss) - [Kioxia Demos 7-Bits-Per-Cell Flash Memory](https://soylentnews.org/article.pl?sid=23/04/05/099203&from=rss)
 * [2023-04-06, 12:16:00](https://soylentnews.org/article.pl?sid=23/04/05/097235&from=rss) - [Modern Origami Method Creates Glass Shapes by Folding](https://soylentnews.org/article.pl?sid=23/04/05/097235&from=rss)
 * [2023-04-06, 09:33:00](https://soylentnews.org/article.pl?sid=23/04/05/0444204&from=rss) - [Meta (Facebook, Instagram) Switching to \"Legitimate Interest\" for Ads](https://soylentnews.org/article.pl?sid=23/04/05/0444204&from=rss)
 * [2023-04-06, 06:46:00](https://soylentnews.org/article.pl?sid=23/04/05/0410225&from=rss) - [Germany Sours on Microsoft Again, Launches Antitrust Review](https://soylentnews.org/article.pl?sid=23/04/05/0410225&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-31, 07:35:00](https://soylentnews.org/article.pl?sid=23/03/30/189257&from=rss) - [If You Dislike Choosing Captcha Images From a List Owl Have Good News for You](https://soylentnews.org/article.pl?sid=23/03/30/189257&from=rss)
 * [2023-03-31, 04:48:00](https://soylentnews.org/article.pl?sid=23/03/30/180234&from=rss) - [Stop Blaming the End User for Security Risk](https://soylentnews.org/article.pl?sid=23/03/30/180234&from=rss)
 * [2023-03-31, 02:03:00](https://soylentnews.org/article.pl?sid=23/03/30/1755249&from=rss) - [Twitter Obtains Subpoena Forcing GitHub to Unmask Source-Code Leaker](https://soylentnews.org/article.pl?sid=23/03/30/1755249&from=rss)
-* [2023-03-30, 23:21:00](https://soylentnews.org/article.pl?sid=23/03/30/1751236&from=rss) - [TSMC May Not Expand in US If Double Taxation Rule Continues](https://soylentnews.org/article.pl?sid=23/03/30/1751236&from=rss)
 
 ## [Archives](archives/index.md)
 
