@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-07, 23:18:00](https://soylentnews.org/article.pl?sid=23/04/06/1749229&from=rss) - [Venus Has Almost 50 Times as Many Volcanoes as Previously Thought](https://soylentnews.org/article.pl?sid=23/04/06/1749229&from=rss)
 * [2023-04-07, 20:35:00](https://soylentnews.org/article.pl?sid=23/04/06/1746204&from=rss) - [How Pink Floyd Inspired Research Into Medieval Monks and Volcanology](https://soylentnews.org/article.pl?sid=23/04/06/1746204&from=rss)
 * [2023-04-07, 17:51:00](https://soylentnews.org/article.pl?sid=23/04/06/1743227&from=rss) - [The Dangerous Weak Link in the US Food Chain](https://soylentnews.org/article.pl?sid=23/04/06/1743227&from=rss)
 * [2023-04-07, 13:13:00](https://soylentnews.org/article.pl?sid=23/04/06/1637227&from=rss) - [These Deep-Sea “Potatoes” Could be the Future of Mining for Renewable Energy](https://soylentnews.org/article.pl?sid=23/04/06/1637227&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-01, 23:46:00](https://soylentnews.org/article.pl?sid=23/03/31/1717241&from=rss) - [How a Major Toy Company Kept (Keeps) 4chan Online](https://soylentnews.org/article.pl?sid=23/03/31/1717241&from=rss)
 * [2023-04-01, 19:04:00](https://soylentnews.org/politics/article.pl?sid=23/03/31/1645259&from=rss) - [New Essence of Chinese Culture Rule Book Dumps Mao, Others](https://soylentnews.org/politics/article.pl?sid=23/03/31/1645259&from=rss)
 * [2023-04-01, 14:21:00](https://soylentnews.org/article.pl?sid=23/03/31/1643206&from=rss) - [Judge Finds Google Destroyed Evidence and Repeatedly Gave False Info to Court](https://soylentnews.org/article.pl?sid=23/03/31/1643206&from=rss)
-* [2023-04-01, 09:34:00](https://soylentnews.org/article.pl?sid=23/03/31/0329258&from=rss) - [AI Image Generator Midjourney Stops Free Trials but Says Influx of New Users to Blame](https://soylentnews.org/article.pl?sid=23/03/31/0329258&from=rss)
 
 ## [Archives](archives/index.md)
 
