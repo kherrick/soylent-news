@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-07, 04:52:00](https://soylentnews.org/article.pl?sid=23/04/06/1215234&from=rss) - [Virgin Orbit Files for Bankruptcy](https://soylentnews.org/article.pl?sid=23/04/06/1215234&from=rss)
 * [2023-04-07, 02:08:00](https://soylentnews.org/article.pl?sid=23/04/06/129213&from=rss) - [Accessing Computers With ChatGPT for Fun and Profit](https://soylentnews.org/article.pl?sid=23/04/06/129213&from=rss)
 * [2023-04-06, 23:19:00](https://soylentnews.org/article.pl?sid=23/04/05/0950238&from=rss) - [The Microcode and Hardware in the 8086 Processor That Perform String Operations](https://soylentnews.org/article.pl?sid=23/04/05/0950238&from=rss)
 * [2023-04-06, 20:32:00](https://soylentnews.org/article.pl?sid=23/04/05/0913247&from=rss) - [Repeating Radio Signal Leads Astronomers to an Earth-size Exoplanet](https://soylentnews.org/article.pl?sid=23/04/05/0913247&from=rss)
@@ -49,7 +50,6 @@
 * [2023-03-31, 21:23:00](https://soylentnews.org/article.pl?sid=23/03/31/0249228&from=rss) - [For Europe, This Upcoming German Rocket Can't Arrive Soon Enough](https://soylentnews.org/article.pl?sid=23/03/31/0249228&from=rss)
 * [2023-03-31, 18:37:00](https://soylentnews.org/article.pl?sid=23/03/31/0235245&from=rss) - [Italy Moves to Ban Lab-grown Meat to Protect Food Heritage](https://soylentnews.org/article.pl?sid=23/03/31/0235245&from=rss)
 * [2023-03-31, 15:51:00](https://soylentnews.org/article.pl?sid=23/03/31/0227244&from=rss) - [Bent Light in Deep Space Reveals One of the Biggest Black Holes Ever Detected](https://soylentnews.org/article.pl?sid=23/03/31/0227244&from=rss)
-* [2023-03-31, 13:04:00](https://soylentnews.org/article.pl?sid=23/03/30/1822228&from=rss) - [Netflix Might Bring its Games to TVs in Effort to Get People to Actually Play Them](https://soylentnews.org/article.pl?sid=23/03/30/1822228&from=rss)
 
 ## [Archives](archives/index.md)
 
