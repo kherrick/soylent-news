@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 20:35:00](https://soylentnews.org/article.pl?sid=23/04/06/1746204&from=rss) - [How Pink Floyd Inspired Research Into Medieval Monks and Volcanology](https://soylentnews.org/article.pl?sid=23/04/06/1746204&from=rss)
 * [2023-04-07, 17:51:00](https://soylentnews.org/article.pl?sid=23/04/06/1743227&from=rss) - [The Dangerous Weak Link in the US Food Chain](https://soylentnews.org/article.pl?sid=23/04/06/1743227&from=rss)
 * [2023-04-07, 13:13:00](https://soylentnews.org/article.pl?sid=23/04/06/1637227&from=rss) - [These Deep-Sea “Potatoes” Could be the Future of Mining for Renewable Energy](https://soylentnews.org/article.pl?sid=23/04/06/1637227&from=rss)
 * [2023-04-07, 10:28:00](https://soylentnews.org/article.pl?sid=23/04/06/1243217&from=rss) - [China's Space Pioneer Becomes First Private Chinese Company to Reach Orbit](https://soylentnews.org/article.pl?sid=23/04/06/1243217&from=rss)
