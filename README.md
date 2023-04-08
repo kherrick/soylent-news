@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-08, 16:08:00](https://soylentnews.org/article.pl?sid=23/04/07/1350259&from=rss) - [Round-Up: ChatGPT, Bard, etc - We Did Ask What Could Go Wrong, Didn't We?](https://soylentnews.org/article.pl?sid=23/04/07/1350259&from=rss)
 * [2023-04-08, 11:33:00](https://soylentnews.org/article.pl?sid=23/04/07/0344224&from=rss) - [How to Update Copyright: Nigeria Shows the Way for Africa – and the World](https://soylentnews.org/article.pl?sid=23/04/07/0344224&from=rss)
 * [2023-04-08, 06:45:00](https://soylentnews.org/article.pl?sid=23/04/07/0338248&from=rss) - [The Promises—and Perils—of Ocean Desalination](https://soylentnews.org/article.pl?sid=23/04/07/0338248&from=rss)
 * [2023-04-08, 02:03:00](https://soylentnews.org/article.pl?sid=23/04/06/1752234&from=rss) - [Hair Analysis Reveals Europe’s Oldest Physical Evidence of Drug Use](https://soylentnews.org/article.pl?sid=23/04/06/1752234&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-02, 18:38:00](https://soylentnews.org/article.pl?sid=23/04/01/0942206&from=rss) - [Hackers Exploit WordPress Plugin Flaw That Gives Full Control of Millions of Sites](https://soylentnews.org/article.pl?sid=23/04/01/0942206&from=rss)
 * [2023-04-02, 13:57:00](https://soylentnews.org/article.pl?sid=23/04/01/0348226&from=rss) - [Southern California Linux Expo 20x (SCaLE 20X) Are Now Online](https://soylentnews.org/article.pl?sid=23/04/01/0348226&from=rss)
 * [2023-04-02, 09:13:00](https://soylentnews.org/article.pl?sid=23/04/01/0345252&from=rss) - [Lockheed Martin Plans to Build Lunar Satellite Network](https://soylentnews.org/article.pl?sid=23/04/01/0345252&from=rss)
-* [2023-04-02, 04:33:00](https://soylentnews.org/article.pl?sid=23/04/01/0327215&from=rss) - [Elemental Music: Interactive Periodic Table Turns He, Fe, Ca Into Do, Re, Mi](https://soylentnews.org/article.pl?sid=23/04/01/0327215&from=rss)
 
 ## [Archives](archives/index.md)
 
