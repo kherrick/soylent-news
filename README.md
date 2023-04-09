@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-09, 01:42:00](https://soylentnews.org/article.pl?sid=23/04/07/1410210&from=rss) - [We Can Use Stem Cells to Make Embryos. How Far Should We Go?](https://soylentnews.org/article.pl?sid=23/04/07/1410210&from=rss)
 * [2023-04-08, 20:53:00](https://soylentnews.org/article.pl?sid=23/04/07/1355223&from=rss) - [Leak Reveals AMD's 'Strix Point' APUs With 16 CPU Cores and 3 GHz+ IGPU](https://soylentnews.org/article.pl?sid=23/04/07/1355223&from=rss)
 * [2023-04-08, 16:08:00](https://soylentnews.org/article.pl?sid=23/04/07/1350259&from=rss) - [Round-Up: ChatGPT, Bard, etc - We Did Ask What Could Go Wrong, Didn't We?](https://soylentnews.org/article.pl?sid=23/04/07/1350259&from=rss)
 * [2023-04-08, 11:33:00](https://soylentnews.org/article.pl?sid=23/04/07/0344224&from=rss) - [How to Update Copyright: Nigeria Shows the Way for Africa – and the World](https://soylentnews.org/article.pl?sid=23/04/07/0344224&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-03, 02:12:00](https://soylentnews.org/article.pl?sid=23/04/02/1259218&from=rss) - [With AI, Astronomers Dig Up the Stars That Birthed the Milky Way](https://soylentnews.org/article.pl?sid=23/04/02/1259218&from=rss)
 * [2023-04-02, 23:23:00](https://soylentnews.org/article.pl?sid=23/04/01/0946216&from=rss) - [Multi-Die Systems Define the Future of Semiconductors](https://soylentnews.org/article.pl?sid=23/04/01/0946216&from=rss)
 * [2023-04-02, 18:38:00](https://soylentnews.org/article.pl?sid=23/04/01/0942206&from=rss) - [Hackers Exploit WordPress Plugin Flaw That Gives Full Control of Millions of Sites](https://soylentnews.org/article.pl?sid=23/04/01/0942206&from=rss)
-* [2023-04-02, 13:57:00](https://soylentnews.org/article.pl?sid=23/04/01/0348226&from=rss) - [Southern California Linux Expo 20x (SCaLE 20X) Are Now Online](https://soylentnews.org/article.pl?sid=23/04/01/0348226&from=rss)
 
 ## [Archives](archives/index.md)
 
