@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-09, 20:33:00](https://soylentnews.org/article.pl?sid=23/04/09/0435232&from=rss) - [Thieves Can Steal Modern Cars by Tapping Into a Headlight Wire](https://soylentnews.org/article.pl?sid=23/04/09/0435232&from=rss)
 * [2023-04-09, 15:50:00](https://soylentnews.org/article.pl?sid=23/04/09/0424222&from=rss) - [Physicists Recreate Classic 'Double-Slit' Experiment Using Time Instead of Space](https://soylentnews.org/article.pl?sid=23/04/09/0424222&from=rss)
 * [2023-04-09, 11:05:00](https://soylentnews.org/article.pl?sid=23/04/08/1735257&from=rss) - [Samsung to Cut Memory Chip Output](https://soylentnews.org/article.pl?sid=23/04/08/1735257&from=rss)
 * [2023-04-09, 06:23:00](https://soylentnews.org/article.pl?sid=23/04/07/1420241&from=rss) - [Somebody Wants to Copyright a Rhythm – Get Ready for the Dembow Tax If They Succeed](https://soylentnews.org/article.pl?sid=23/04/07/1420241&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-03, 13:26:00](https://soylentnews.org/article.pl?sid=23/04/02/1338205&from=rss) - [Do Trees Really ‘Talk’ to Each Other Through Underground Fungal Networks?](https://soylentnews.org/article.pl?sid=23/04/02/1338205&from=rss)
 * [2023-04-03, 10:34:00](https://soylentnews.org/article.pl?sid=23/04/02/1335216&from=rss) - [Catch-23: The New C Standard Sets the World on Fire](https://soylentnews.org/article.pl?sid=23/04/02/1335216&from=rss)
 * [2023-04-03, 07:49:00](https://soylentnews.org/article.pl?sid=23/04/02/1312201&from=rss) - [Why Sharing Ebooks is Good for People – and Good for Publishers](https://soylentnews.org/article.pl?sid=23/04/02/1312201&from=rss)
-* [2023-04-03, 05:01:00](https://soylentnews.org/article.pl?sid=23/04/02/133238&from=rss) - [Twitter Open Sources its Recommendation Algorithm](https://soylentnews.org/article.pl?sid=23/04/02/133238&from=rss)
 
 ## [Archives](archives/index.md)
 
