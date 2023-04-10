@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-10, 23:20:00](https://soylentnews.org/article.pl?sid=23/04/10/0416228&from=rss) - [Twitter Shut Off its Free API and It's Breaking a Lot of Apps](https://soylentnews.org/article.pl?sid=23/04/10/0416228&from=rss)
 * [2023-04-10, 20:34:00](https://soylentnews.org/article.pl?sid=23/04/09/1356259&from=rss) - [Animal Mutation Rates Reveal Traits That Speed Evolution](https://soylentnews.org/article.pl?sid=23/04/09/1356259&from=rss)
 * [2023-04-10, 17:49:00](https://soylentnews.org/article.pl?sid=23/04/09/1350247&from=rss) - [New AI Model Can “Cut Out” Any Object Within an Image—and Meta is Sharing the Code](https://soylentnews.org/article.pl?sid=23/04/09/1350247&from=rss)
 * [2023-04-10, 15:07:00](https://soylentnews.org/article.pl?sid=23/04/09/1348213&from=rss) - [Palantir's Plan to Decipher the Mysteries of Long Covid](https://soylentnews.org/article.pl?sid=23/04/09/1348213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-04, 14:13:00](https://soylentnews.org/article.pl?sid=23/04/03/1812221&from=rss) - [New Chipset Could Finally Make It Easier to Build Budget Ryzen 7000 PCs](https://soylentnews.org/article.pl?sid=23/04/03/1812221&from=rss)
 * [2023-04-04, 11:28:00](https://soylentnews.org/article.pl?sid=23/04/03/188231&from=rss) - [Are Your Strawberries Bland? Pesticides Could be to Blame](https://soylentnews.org/article.pl?sid=23/04/03/188231&from=rss)
 * [2023-04-04, 08:45:00](https://soylentnews.org/article.pl?sid=23/04/03/186218&from=rss) - [Stable Diffusion Copyright Lawsuits Could be a Legal Earthquake for AI](https://soylentnews.org/article.pl?sid=23/04/03/186218&from=rss)
-* [2023-04-04, 06:01:00](https://soylentnews.org/article.pl?sid=23/04/03/1250217&from=rss) - [Microsoft Close to Settling EC Antitrust Cloud Complaints](https://soylentnews.org/article.pl?sid=23/04/03/1250217&from=rss)
 
 ## [Archives](archives/index.md)
 

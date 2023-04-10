@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 23:20:00](https://soylentnews.org/article.pl?sid=23/04/10/0416228&from=rss) - [Twitter Shut Off its Free API and It's Breaking a Lot of Apps](https://soylentnews.org/article.pl?sid=23/04/10/0416228&from=rss)
 * [2023-04-10, 20:34:00](https://soylentnews.org/article.pl?sid=23/04/09/1356259&from=rss) - [Animal Mutation Rates Reveal Traits That Speed Evolution](https://soylentnews.org/article.pl?sid=23/04/09/1356259&from=rss)
 * [2023-04-10, 17:49:00](https://soylentnews.org/article.pl?sid=23/04/09/1350247&from=rss) - [New AI Model Can “Cut Out” Any Object Within an Image—and Meta is Sharing the Code](https://soylentnews.org/article.pl?sid=23/04/09/1350247&from=rss)
 * [2023-04-10, 15:07:00](https://soylentnews.org/article.pl?sid=23/04/09/1348213&from=rss) - [Palantir's Plan to Decipher the Mysteries of Long Covid](https://soylentnews.org/article.pl?sid=23/04/09/1348213&from=rss)
