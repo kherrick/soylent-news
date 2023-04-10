@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-10, 09:35:00](https://soylentnews.org/article.pl?sid=23/04/09/1337203&from=rss) - [NASA's TEMPO Mission Could Bring You Hyper-Local Pollution Alerts](https://soylentnews.org/article.pl?sid=23/04/09/1337203&from=rss)
 * [2023-04-10, 06:50:00](https://soylentnews.org/article.pl?sid=23/04/09/1329205&from=rss) - [In the War on Bacteria, It’s Time to Call in the Phages](https://soylentnews.org/article.pl?sid=23/04/09/1329205&from=rss)
 * [2023-04-10, 04:04:00](https://soylentnews.org/article.pl?sid=23/04/09/136228&from=rss) - [Australia Takes First Steps Towards Banning TikTok](https://soylentnews.org/article.pl?sid=23/04/09/136228&from=rss)
 * [2023-04-10, 01:23:00](https://soylentnews.org/article.pl?sid=23/04/09/1256255&from=rss) - [More Patient Data Exposed Through Tracking Pixels](https://soylentnews.org/article.pl?sid=23/04/09/1256255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-04, 00:29:00](https://soylentnews.org/article.pl?sid=23/04/03/1140252&from=rss) - [Google Assistant Might be Doomed: Division “Reorganizes” to Focus on Bard](https://soylentnews.org/article.pl?sid=23/04/03/1140252&from=rss)
 * [2023-04-03, 21:39:00](https://soylentnews.org/article.pl?sid=23/04/02/1349251&from=rss) - [The 'Insanely Broad' RESTRICT Act Could Ban VPNs in the USA](https://soylentnews.org/article.pl?sid=23/04/02/1349251&from=rss)
 * [2023-04-03, 18:56:00](https://soylentnews.org/article.pl?sid=23/04/02/1347225&from=rss) - [Amazon's Smart Speakers Collecting Kids Data May Lead to Government Lawsuit](https://soylentnews.org/article.pl?sid=23/04/02/1347225&from=rss)
-* [2023-04-03, 16:10:00](https://soylentnews.org/article.pl?sid=23/04/02/1341253&from=rss) - [Fearing “Loss of Control,” AI Critics Call for 6-Month Pause in AI Development](https://soylentnews.org/article.pl?sid=23/04/02/1341253&from=rss)
 
 ## [Archives](archives/index.md)
 
