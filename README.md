@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-10, 17:49:00](https://soylentnews.org/article.pl?sid=23/04/09/1350247&from=rss) - [New AI Model Can “Cut Out” Any Object Within an Image—and Meta is Sharing the Code](https://soylentnews.org/article.pl?sid=23/04/09/1350247&from=rss)
 * [2023-04-10, 15:07:00](https://soylentnews.org/article.pl?sid=23/04/09/1348213&from=rss) - [Palantir's Plan to Decipher the Mysteries of Long Covid](https://soylentnews.org/article.pl?sid=23/04/09/1348213&from=rss)
 * [2023-04-10, 12:22:00](https://soylentnews.org/article.pl?sid=23/04/09/1345215&from=rss) - [How Intel Scaled Down the 8086 Processor and Reverse-Engineering the Division Microcode](https://soylentnews.org/article.pl?sid=23/04/09/1345215&from=rss)
 * [2023-04-10, 09:35:00](https://soylentnews.org/article.pl?sid=23/04/09/1337203&from=rss) - [NASA's TEMPO Mission Could Bring You Hyper-Local Pollution Alerts](https://soylentnews.org/article.pl?sid=23/04/09/1337203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-04, 08:45:00](https://soylentnews.org/article.pl?sid=23/04/03/186218&from=rss) - [Stable Diffusion Copyright Lawsuits Could be a Legal Earthquake for AI](https://soylentnews.org/article.pl?sid=23/04/03/186218&from=rss)
 * [2023-04-04, 06:01:00](https://soylentnews.org/article.pl?sid=23/04/03/1250217&from=rss) - [Microsoft Close to Settling EC Antitrust Cloud Complaints](https://soylentnews.org/article.pl?sid=23/04/03/1250217&from=rss)
 * [2023-04-04, 03:17:00](https://soylentnews.org/article.pl?sid=23/04/03/1157213&from=rss) - [NASA's Massive Rocket Transporter is Officially a Record-Breaking Big Boy](https://soylentnews.org/article.pl?sid=23/04/03/1157213&from=rss)
-* [2023-04-04, 00:29:00](https://soylentnews.org/article.pl?sid=23/04/03/1140252&from=rss) - [Google Assistant Might be Doomed: Division “Reorganizes” to Focus on Bard](https://soylentnews.org/article.pl?sid=23/04/03/1140252&from=rss)
 
 ## [Archives](archives/index.md)
 
