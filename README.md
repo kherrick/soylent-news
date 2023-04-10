@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-10, 04:04:00](https://soylentnews.org/article.pl?sid=23/04/09/136228&from=rss) - [Australia Takes First Steps Towards Banning TikTok](https://soylentnews.org/article.pl?sid=23/04/09/136228&from=rss)
 * [2023-04-10, 01:23:00](https://soylentnews.org/article.pl?sid=23/04/09/1256255&from=rss) - [More Patient Data Exposed Through Tracking Pixels](https://soylentnews.org/article.pl?sid=23/04/09/1256255&from=rss)
 * [2023-04-09, 20:33:00](https://soylentnews.org/article.pl?sid=23/04/09/0435232&from=rss) - [Thieves Can Steal Modern Cars by Tapping Into a Headlight Wire](https://soylentnews.org/article.pl?sid=23/04/09/0435232&from=rss)
 * [2023-04-09, 15:50:00](https://soylentnews.org/article.pl?sid=23/04/09/0424222&from=rss) - [Physicists Recreate Classic 'Double-Slit' Experiment Using Time Instead of Space](https://soylentnews.org/article.pl?sid=23/04/09/0424222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-03, 18:56:00](https://soylentnews.org/article.pl?sid=23/04/02/1347225&from=rss) - [Amazon's Smart Speakers Collecting Kids Data May Lead to Government Lawsuit](https://soylentnews.org/article.pl?sid=23/04/02/1347225&from=rss)
 * [2023-04-03, 16:10:00](https://soylentnews.org/article.pl?sid=23/04/02/1341253&from=rss) - [Fearing “Loss of Control,” AI Critics Call for 6-Month Pause in AI Development](https://soylentnews.org/article.pl?sid=23/04/02/1341253&from=rss)
 * [2023-04-03, 13:26:00](https://soylentnews.org/article.pl?sid=23/04/02/1338205&from=rss) - [Do Trees Really ‘Talk’ to Each Other Through Underground Fungal Networks?](https://soylentnews.org/article.pl?sid=23/04/02/1338205&from=rss)
-* [2023-04-03, 10:34:00](https://soylentnews.org/article.pl?sid=23/04/02/1335216&from=rss) - [Catch-23: The New C Standard Sets the World on Fire](https://soylentnews.org/article.pl?sid=23/04/02/1335216&from=rss)
 
 ## [Archives](archives/index.md)
 
