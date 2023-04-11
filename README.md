@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-11, 20:39:00](https://soylentnews.org/article.pl?sid=23/04/11/0253259&from=rss) - [Satellite Imagery Reveals ‘Hidden’ Tornado Tracks](https://soylentnews.org/article.pl?sid=23/04/11/0253259&from=rss)
 * [2023-04-11, 17:57:00](https://soylentnews.org/article.pl?sid=23/04/10/1153232&from=rss) - [Drivers in Europe Net Big Data Rights Win Against Uber and Ola](https://soylentnews.org/article.pl?sid=23/04/10/1153232&from=rss)
 * [2023-04-11, 15:12:00](https://soylentnews.org/article.pl?sid=23/04/10/1145233&from=rss) - [Combined Review and Tutorial Around the RUT-240](https://soylentnews.org/article.pl?sid=23/04/10/1145233&from=rss)
 * [2023-04-11, 12:23:00](https://soylentnews.org/article.pl?sid=23/04/10/1136204&from=rss) - [Now We Know How a Solar Storm Took Out a Fleet of Starlinks](https://soylentnews.org/article.pl?sid=23/04/10/1136204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-05, 11:22:00](https://soylentnews.org/article.pl?sid=23/04/04/0523233&from=rss) - [Mullvad VPN And The Tor Project Collaborate On A Web Browser](https://soylentnews.org/article.pl?sid=23/04/04/0523233&from=rss)
 * [2023-04-05, 06:35:00](https://soylentnews.org/article.pl?sid=23/04/04/0416243&from=rss) - [Seattle Becomes First U.S. City to Permanently Require Sick Leave for Delivery and App-based Workers](https://soylentnews.org/article.pl?sid=23/04/04/0416243&from=rss)
 * [2023-04-05, 03:52:00](https://soylentnews.org/article.pl?sid=23/04/04/047231&from=rss) - [Ads Are Coming for the Bing AI Chatbot, as They Come for All Microsoft Products](https://soylentnews.org/article.pl?sid=23/04/04/047231&from=rss)
-* [2023-04-05, 01:06:00](https://soylentnews.org/article.pl?sid=23/04/04/044222&from=rss) - [Scientists Capture Deepest-Ever Footage of a Fish](https://soylentnews.org/article.pl?sid=23/04/04/044222&from=rss)
 
 ## [Archives](archives/index.md)
 
