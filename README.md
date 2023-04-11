@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-11, 09:34:00](https://soylentnews.org/article.pl?sid=23/04/10/1131207&from=rss) - [No NGO Has Been Allowed to See Julian Assange Since Four Years Ago](https://soylentnews.org/article.pl?sid=23/04/10/1131207&from=rss)
 * [2023-04-11, 06:48:00](https://soylentnews.org/article.pl?sid=23/04/10/0710207&from=rss) - [Inside the Bitter Campus Privacy Battle Over Smart Building Sensors](https://soylentnews.org/article.pl?sid=23/04/10/0710207&from=rss)
 * [2023-04-11, 02:05:00](https://soylentnews.org/article.pl?sid=23/04/10/0443235&from=rss) - [Scientists Create an Eco-friendly Paint That Mimics Nature](https://soylentnews.org/article.pl?sid=23/04/10/0443235&from=rss)
 * [2023-04-10, 23:20:00](https://soylentnews.org/article.pl?sid=23/04/10/0416228&from=rss) - [Twitter Shut Off its Free API and It's Breaking a Lot of Apps](https://soylentnews.org/article.pl?sid=23/04/10/0416228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-04, 22:21:00](https://soylentnews.org/article.pl?sid=23/04/04/0354209&from=rss) - [Firefox Will Support Windows 7/8 Until at Least 2024](https://soylentnews.org/article.pl?sid=23/04/04/0354209&from=rss)
 * [2023-04-04, 19:36:00](https://soylentnews.org/article.pl?sid=23/04/03/1817235&from=rss) - [BuzzFeed is Quietly Publishing Whole AI-Generated Articles, Not Just Quizzes](https://soylentnews.org/article.pl?sid=23/04/03/1817235&from=rss)
 * [2023-04-04, 16:54:00](https://soylentnews.org/article.pl?sid=23/04/03/1814251&from=rss) - [FTC Chair Refused Musk's Meeting Request, Told Him to Stop Delaying Investigation](https://soylentnews.org/article.pl?sid=23/04/03/1814251&from=rss)
-* [2023-04-04, 14:13:00](https://soylentnews.org/article.pl?sid=23/04/03/1812221&from=rss) - [New Chipset Could Finally Make It Easier to Build Budget Ryzen 7000 PCs](https://soylentnews.org/article.pl?sid=23/04/03/1812221&from=rss)
 
 ## [Archives](archives/index.md)
 
