@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 17:57:00](https://soylentnews.org/article.pl?sid=23/04/10/1153232&from=rss) - [Drivers in Europe Net Big Data Rights Win Against Uber and Ola](https://soylentnews.org/article.pl?sid=23/04/10/1153232&from=rss)
 * [2023-04-11, 15:12:00](https://soylentnews.org/article.pl?sid=23/04/10/1145233&from=rss) - [Combined Review and Tutorial Around the RUT-240](https://soylentnews.org/article.pl?sid=23/04/10/1145233&from=rss)
 * [2023-04-11, 12:23:00](https://soylentnews.org/article.pl?sid=23/04/10/1136204&from=rss) - [Now We Know How a Solar Storm Took Out a Fleet of Starlinks](https://soylentnews.org/article.pl?sid=23/04/10/1136204&from=rss)
 * [2023-04-11, 09:34:00](https://soylentnews.org/article.pl?sid=23/04/10/1131207&from=rss) - [No NGO Has Been Allowed to See Julian Assange Since Four Years Ago](https://soylentnews.org/article.pl?sid=23/04/10/1131207&from=rss)
