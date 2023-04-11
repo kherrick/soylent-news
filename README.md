@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-11, 15:12:00](https://soylentnews.org/article.pl?sid=23/04/10/1145233&from=rss) - [Combined Review and Tutorial Around the RUT-240](https://soylentnews.org/article.pl?sid=23/04/10/1145233&from=rss)
 * [2023-04-11, 12:23:00](https://soylentnews.org/article.pl?sid=23/04/10/1136204&from=rss) - [Now We Know How a Solar Storm Took Out a Fleet of Starlinks](https://soylentnews.org/article.pl?sid=23/04/10/1136204&from=rss)
 * [2023-04-11, 09:34:00](https://soylentnews.org/article.pl?sid=23/04/10/1131207&from=rss) - [No NGO Has Been Allowed to See Julian Assange Since Four Years Ago](https://soylentnews.org/article.pl?sid=23/04/10/1131207&from=rss)
 * [2023-04-11, 06:48:00](https://soylentnews.org/article.pl?sid=23/04/10/0710207&from=rss) - [Inside the Bitter Campus Privacy Battle Over Smart Building Sensors](https://soylentnews.org/article.pl?sid=23/04/10/0710207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-05, 03:52:00](https://soylentnews.org/article.pl?sid=23/04/04/047231&from=rss) - [Ads Are Coming for the Bing AI Chatbot, as They Come for All Microsoft Products](https://soylentnews.org/article.pl?sid=23/04/04/047231&from=rss)
 * [2023-04-05, 01:06:00](https://soylentnews.org/article.pl?sid=23/04/04/044222&from=rss) - [Scientists Capture Deepest-Ever Footage of a Fish](https://soylentnews.org/article.pl?sid=23/04/04/044222&from=rss)
 * [2023-04-04, 22:21:00](https://soylentnews.org/article.pl?sid=23/04/04/0354209&from=rss) - [Firefox Will Support Windows 7/8 Until at Least 2024](https://soylentnews.org/article.pl?sid=23/04/04/0354209&from=rss)
-* [2023-04-04, 19:36:00](https://soylentnews.org/article.pl?sid=23/04/03/1817235&from=rss) - [BuzzFeed is Quietly Publishing Whole AI-Generated Articles, Not Just Quizzes](https://soylentnews.org/article.pl?sid=23/04/03/1817235&from=rss)
 
 ## [Archives](archives/index.md)
 
