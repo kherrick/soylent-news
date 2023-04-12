@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-12, 21:27:00](https://soylentnews.org/article.pl?sid=23/04/12/024246&from=rss) - [A Stream of Cold Gas is Unexpectedly Feeding the Far-off Anthill Galaxy](https://soylentnews.org/article.pl?sid=23/04/12/024246&from=rss)
 * [2023-04-12, 18:43:00](https://soylentnews.org/article.pl?sid=23/04/11/137200&from=rss) - [Raspberry Pi Launches Online Code Editor to Help Kids Learn](https://soylentnews.org/article.pl?sid=23/04/11/137200&from=rss)
 * [2023-04-12, 16:01:00](https://soylentnews.org/article.pl?sid=23/04/11/131213&from=rss) - [Florida Officials Deleted Data, Stats From Dubious COVID Analysis: Report](https://soylentnews.org/article.pl?sid=23/04/11/131213&from=rss)
 * [2023-04-12, 13:17:00](https://soylentnews.org/article.pl?sid=23/04/11/1257251&from=rss) - [What Flight 50 Means for the Ingenuity Mars Helicopter](https://soylentnews.org/article.pl?sid=23/04/11/1257251&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-06, 12:16:00](https://soylentnews.org/article.pl?sid=23/04/05/097235&from=rss) - [Modern Origami Method Creates Glass Shapes by Folding](https://soylentnews.org/article.pl?sid=23/04/05/097235&from=rss)
 * [2023-04-06, 09:33:00](https://soylentnews.org/article.pl?sid=23/04/05/0444204&from=rss) - [Meta (Facebook, Instagram) Switching to \"Legitimate Interest\" for Ads](https://soylentnews.org/article.pl?sid=23/04/05/0444204&from=rss)
 * [2023-04-06, 06:46:00](https://soylentnews.org/article.pl?sid=23/04/05/0410225&from=rss) - [Germany Sours on Microsoft Again, Launches Antitrust Review](https://soylentnews.org/article.pl?sid=23/04/05/0410225&from=rss)
-* [2023-04-06, 03:59:00](https://soylentnews.org/article.pl?sid=23/04/05/042243&from=rss) - [Parisians Say Au Revoir to Shared E-scooters](https://soylentnews.org/article.pl?sid=23/04/05/042243&from=rss)
 
 ## [Archives](archives/index.md)
 
