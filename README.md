@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-13, 08:27:00](https://soylentnews.org/article.pl?sid=23/04/12/0318229&from=rss) - [3CX Knew its App Was Flagged as Malicious but Took No Action for 7 Days](https://soylentnews.org/article.pl?sid=23/04/12/0318229&from=rss)
 * [2023-04-13, 05:45:00](https://soylentnews.org/article.pl?sid=23/04/12/0312255&from=rss) - [Open Source is Fueling the Future of Nuclear Physics](https://soylentnews.org/article.pl?sid=23/04/12/0312255&from=rss)
 * [2023-04-13, 02:58:00](https://soylentnews.org/article.pl?sid=23/04/12/0230206&from=rss) - [The Hottest New Climate Technology is Bricks](https://soylentnews.org/article.pl?sid=23/04/12/0230206&from=rss)
 * [2023-04-13, 00:14:00](https://soylentnews.org/article.pl?sid=23/04/12/0212246&from=rss) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://soylentnews.org/article.pl?sid=23/04/12/0212246&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-06, 23:19:00](https://soylentnews.org/article.pl?sid=23/04/05/0950238&from=rss) - [The Microcode and Hardware in the 8086 Processor That Perform String Operations](https://soylentnews.org/article.pl?sid=23/04/05/0950238&from=rss)
 * [2023-04-06, 20:32:00](https://soylentnews.org/article.pl?sid=23/04/05/0913247&from=rss) - [Repeating Radio Signal Leads Astronomers to an Earth-size Exoplanet](https://soylentnews.org/article.pl?sid=23/04/05/0913247&from=rss)
 * [2023-04-06, 17:43:00](https://soylentnews.org/article.pl?sid=23/04/05/0911259&from=rss) - [Maker of Eye Drops Linked to Deadly Outbreak Flunks FDA Inspection](https://soylentnews.org/article.pl?sid=23/04/05/0911259&from=rss)
-* [2023-04-06, 15:02:00](https://soylentnews.org/article.pl?sid=23/04/05/099203&from=rss) - [Kioxia Demos 7-Bits-Per-Cell Flash Memory](https://soylentnews.org/article.pl?sid=23/04/05/099203&from=rss)
 
 ## [Archives](archives/index.md)
 
