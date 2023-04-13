@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-13, 02:58:00](https://soylentnews.org/article.pl?sid=23/04/12/0230206&from=rss) - [The Hottest New Climate Technology is Bricks](https://soylentnews.org/article.pl?sid=23/04/12/0230206&from=rss)
 * [2023-04-13, 00:14:00](https://soylentnews.org/article.pl?sid=23/04/12/0212246&from=rss) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://soylentnews.org/article.pl?sid=23/04/12/0212246&from=rss)
 * [2023-04-12, 21:27:00](https://soylentnews.org/article.pl?sid=23/04/12/024246&from=rss) - [A Stream of Cold Gas is Unexpectedly Feeding the Far-off Anthill Galaxy](https://soylentnews.org/article.pl?sid=23/04/12/024246&from=rss)
 * [2023-04-12, 18:43:00](https://soylentnews.org/article.pl?sid=23/04/11/137200&from=rss) - [Raspberry Pi Launches Online Code Editor to Help Kids Learn](https://soylentnews.org/article.pl?sid=23/04/11/137200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-06, 17:43:00](https://soylentnews.org/article.pl?sid=23/04/05/0911259&from=rss) - [Maker of Eye Drops Linked to Deadly Outbreak Flunks FDA Inspection](https://soylentnews.org/article.pl?sid=23/04/05/0911259&from=rss)
 * [2023-04-06, 15:02:00](https://soylentnews.org/article.pl?sid=23/04/05/099203&from=rss) - [Kioxia Demos 7-Bits-Per-Cell Flash Memory](https://soylentnews.org/article.pl?sid=23/04/05/099203&from=rss)
 * [2023-04-06, 12:16:00](https://soylentnews.org/article.pl?sid=23/04/05/097235&from=rss) - [Modern Origami Method Creates Glass Shapes by Folding](https://soylentnews.org/article.pl?sid=23/04/05/097235&from=rss)
-* [2023-04-06, 09:33:00](https://soylentnews.org/article.pl?sid=23/04/05/0444204&from=rss) - [Meta (Facebook, Instagram) Switching to \"Legitimate Interest\" for Ads](https://soylentnews.org/article.pl?sid=23/04/05/0444204&from=rss)
 
 ## [Archives](archives/index.md)
 
