@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-13, 22:06:00](https://soylentnews.org/article.pl?sid=23/04/12/184253&from=rss) - [Swiss Health Authorities - Natural Immunity is the Best Defense Against COVID](https://soylentnews.org/article.pl?sid=23/04/12/184253&from=rss)
 * [2023-04-13, 19:21:00](https://soylentnews.org/article.pl?sid=23/04/12/181242&from=rss) - [MSI Confirms Cyberattack, Advises Caution With Firmware](https://soylentnews.org/article.pl?sid=23/04/12/181242&from=rss)
 * [2023-04-13, 16:39:00](https://soylentnews.org/article.pl?sid=23/04/12/1759259&from=rss) - [Mistaken Fossil Rewrites History of Indian Subcontinent for Second Time](https://soylentnews.org/article.pl?sid=23/04/12/1759259&from=rss)
 * [2023-04-13, 13:57:00](https://soylentnews.org/article.pl?sid=23/04/12/1758204&from=rss) - [Intel Foundry Services Partners With Arm to Manufacture Next-Generation Mobile Chips](https://soylentnews.org/article.pl?sid=23/04/12/1758204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-07, 13:13:00](https://soylentnews.org/article.pl?sid=23/04/06/1637227&from=rss) - [These Deep-Sea “Potatoes” Could be the Future of Mining for Renewable Energy](https://soylentnews.org/article.pl?sid=23/04/06/1637227&from=rss)
 * [2023-04-07, 10:28:00](https://soylentnews.org/article.pl?sid=23/04/06/1243217&from=rss) - [China's Space Pioneer Becomes First Private Chinese Company to Reach Orbit](https://soylentnews.org/article.pl?sid=23/04/06/1243217&from=rss)
 * [2023-04-07, 07:38:00](https://soylentnews.org/article.pl?sid=23/04/06/1234246&from=rss) - [A Universal Password. Unencrypted User Data and Commands. What Could Go Wrong?](https://soylentnews.org/article.pl?sid=23/04/06/1234246&from=rss)
-* [2023-04-07, 04:52:00](https://soylentnews.org/article.pl?sid=23/04/06/1215234&from=rss) - [Virgin Orbit Files for Bankruptcy](https://soylentnews.org/article.pl?sid=23/04/06/1215234&from=rss)
 
 ## [Archives](archives/index.md)
 
