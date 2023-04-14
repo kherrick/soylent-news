@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 22:53:00](https://soylentnews.org/article.pl?sid=23/04/13/1547228&from=rss) - [Massachusetts Lawmakers File Bill to Create 4-Day Workweek Pilot](https://soylentnews.org/article.pl?sid=23/04/13/1547228&from=rss)
 * [2023-04-14, 20:12:00](https://soylentnews.org/article.pl?sid=23/04/13/1543203&from=rss) - [Study Finds Only One Type of Consumer Dictates Price](https://soylentnews.org/article.pl?sid=23/04/13/1543203&from=rss)
 * [2023-04-14, 17:27:00](https://soylentnews.org/article.pl?sid=23/04/13/1541213&from=rss) - [Elon Musk Admits He Only Bought Twitter Because He Thought He'd be Forced to](https://soylentnews.org/article.pl?sid=23/04/13/1541213&from=rss)
 * [2023-04-14, 14:42:00](https://soylentnews.org/article.pl?sid=23/04/13/1535210&from=rss) - [French Court Smacks Remote Learning Software Company for Pervasive Surveillance of Students](https://soylentnews.org/article.pl?sid=23/04/13/1535210&from=rss)
