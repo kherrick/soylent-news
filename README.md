@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-14, 14:42:00](https://soylentnews.org/article.pl?sid=23/04/13/1535210&from=rss) - [French Court Smacks Remote Learning Software Company for Pervasive Surveillance of Students](https://soylentnews.org/article.pl?sid=23/04/13/1535210&from=rss)
 * [2023-04-14, 11:54:00](https://soylentnews.org/article.pl?sid=23/04/13/1529227&from=rss) - [Meet PassGAN, the Supposedly “Terrifying” AI Password Cracker That's Mostly Hype](https://soylentnews.org/article.pl?sid=23/04/13/1529227&from=rss)
 * [2023-04-14, 09:11:00](https://soylentnews.org/article.pl?sid=23/04/13/1241259&from=rss) - [How AI is Helping Historians Better Understand Our Past](https://soylentnews.org/article.pl?sid=23/04/13/1241259&from=rss)
 * [2023-04-14, 06:24:00](https://soylentnews.org/article.pl?sid=23/04/13/1156208&from=rss) - [A Parasite is Killing Sea Otters. Is Cat Poop to Blame?](https://soylentnews.org/article.pl?sid=23/04/13/1156208&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-08, 11:33:00](https://soylentnews.org/article.pl?sid=23/04/07/0344224&from=rss) - [How to Update Copyright: Nigeria Shows the Way for Africa – and the World](https://soylentnews.org/article.pl?sid=23/04/07/0344224&from=rss)
 * [2023-04-08, 06:45:00](https://soylentnews.org/article.pl?sid=23/04/07/0338248&from=rss) - [The Promises—and Perils—of Ocean Desalination](https://soylentnews.org/article.pl?sid=23/04/07/0338248&from=rss)
 * [2023-04-08, 02:03:00](https://soylentnews.org/article.pl?sid=23/04/06/1752234&from=rss) - [Hair Analysis Reveals Europe’s Oldest Physical Evidence of Drug Use](https://soylentnews.org/article.pl?sid=23/04/06/1752234&from=rss)
-* [2023-04-07, 23:18:00](https://soylentnews.org/article.pl?sid=23/04/06/1749229&from=rss) - [Venus Has Almost 50 Times as Many Volcanoes as Previously Thought](https://soylentnews.org/article.pl?sid=23/04/06/1749229&from=rss)
 
 ## [Archives](archives/index.md)
 
