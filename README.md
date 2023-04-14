@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-14, 06:24:00](https://soylentnews.org/article.pl?sid=23/04/13/1156208&from=rss) - [A Parasite is Killing Sea Otters. Is Cat Poop to Blame?](https://soylentnews.org/article.pl?sid=23/04/13/1156208&from=rss)
 * [2023-04-14, 03:38:00](https://soylentnews.org/article.pl?sid=23/04/13/1119238&from=rss) - [Developer Creates “Self-healing” Programs That Fix Themselves Thanks to AI](https://soylentnews.org/article.pl?sid=23/04/13/1119238&from=rss)
 * [2023-04-14, 00:53:00](https://soylentnews.org/article.pl?sid=23/04/13/1055221&from=rss) - [Get Ready: SpaceX Starship's First Launch is for Real](https://soylentnews.org/article.pl?sid=23/04/13/1055221&from=rss)
 * [2023-04-13, 22:06:00](https://soylentnews.org/article.pl?sid=23/04/12/184253&from=rss) - [Swiss Health Authorities - Natural Immunity is the Best Defense Against COVID](https://soylentnews.org/article.pl?sid=23/04/12/184253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-07, 23:18:00](https://soylentnews.org/article.pl?sid=23/04/06/1749229&from=rss) - [Venus Has Almost 50 Times as Many Volcanoes as Previously Thought](https://soylentnews.org/article.pl?sid=23/04/06/1749229&from=rss)
 * [2023-04-07, 20:35:00](https://soylentnews.org/article.pl?sid=23/04/06/1746204&from=rss) - [How Pink Floyd Inspired Research Into Medieval Monks and Volcanology](https://soylentnews.org/article.pl?sid=23/04/06/1746204&from=rss)
 * [2023-04-07, 17:51:00](https://soylentnews.org/article.pl?sid=23/04/06/1743227&from=rss) - [The Dangerous Weak Link in the US Food Chain](https://soylentnews.org/article.pl?sid=23/04/06/1743227&from=rss)
-* [2023-04-07, 13:13:00](https://soylentnews.org/article.pl?sid=23/04/06/1637227&from=rss) - [These Deep-Sea “Potatoes” Could be the Future of Mining for Renewable Energy](https://soylentnews.org/article.pl?sid=23/04/06/1637227&from=rss)
 
 ## [Archives](archives/index.md)
 
