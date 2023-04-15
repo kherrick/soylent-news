@@ -145,6 +145,78 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/04/14/1618212">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/04/14/1618212&amp;from=rss"
+              >Linux Kernel Logic Allowed Spectre Attack on Major Cloud</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-15 @ 22:32:00</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/04/14/1618212"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    It's timing, however, that animates Spectre. Spectre v2 –
+                    the variant implicated in this particular vulnerability –
+                    relies on timing side-channels to measure the misprediction
+                    rates of indirect branch prediction in order to infer the
+                    contents of protected memory. That's far from optimal in a
+                    cloud environment with shared hardware.
+                  </p>
+                  <p>
+                    [...] The bug hunters who identified the issue found that
+                    Linux userspace processes to defend against Spectre v2
+                    didn't work on VMs of "at least one major cloud provider."
+                  </p>
+                  <p>
+                    As the disclosure describes it, under basic IBRS (Indirect
+                    Branch Restricted Speculation, the
+                    <a
+                      href="https://elixir.bootlin.com/linux/v6.2/source/arch/x86/kernel/cpu/bugs.c#L1196"
+                      >6.2 kernel had logic</a
+                    >
+                    that opted out of STIBP (Single Thread Indirect Branch
+                    Predictors), a defense against the sharing of branch
+                    prediction between logical processors on a core.
+                  </p>
+                  <p>
+                    "The IBRS bit implicitly protects against cross-thread
+                    branch target injection," the bug report explains. "However,
+                    with legacy IBRS, the IBRS bit was cleared on returning to
+                    userspace, due to performance reasons, which disabled the
+                    implicit STIBP and left userspace threads vulnerable to
+                    cross-thread branch target injection against which STIBP
+                    protects."
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59296"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/04/14/1610220">
           <h3>
             <a
@@ -4573,98 +4645,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59187"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/04/08/1735257">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/04/08/1735257&amp;from=rss"
-              >Samsung to Cut Memory Chip Output</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-09 @ 11:05:00</span
-              ><span class="points-container"
-                >Points: <span class="points">880</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/04/08/1735257"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~RamiK/">RamiK</a> writes:</p>
-              <p>
-                <a
-                  href="https://www.bloomberg.com/news/articles/2023-04-06/samsung-posts-worst-profit-since-2009-after-chip-downturn"
-                  >Bloomberg reports:</a
-                >
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Samsung Electronics Co. said it's cutting memory chip
-                    production after reporting its slimmest profit since the
-                    2009 financial crisis, a significant step toward ending a
-                    supply glut that had cratered prices across the industry.
-                  </p>
-                  <p>
-                    [...] Operating profit at the world's largest maker of
-                    memory chips plunged more than 95% to 600 billion won ($450
-                    million) for the three months ended March, missing the
-                    average analyst estimate of 1.4 trillion won. Sales fell 19%
-                    to 63 trillion won.
-                  </p>
-                  <p>
-                    [...] South Korea's largest company had resisted pulling
-                    back despite the downturn, in part to grab market share from
-                    rivals SK Hynix Inc. and Micron Technology Inc., which have
-                    been forced to cut output.
-                  </p>
-                  <p>
-                    [...] Samsung's shares rose as much as 4.7% in the highest
-                    intraday jump in three months. Hynix shares surged as much
-                    as 6.7%. [...] The company had warned that earnings would
-                    fall in the first quarter on slowing sales. But memory
-                    prices tumbled more than anticipated because of sluggish
-                    demand for a wide range of electronics from smartphones to
-                    PCs, as consumers and companies navigated recession risks.
-                    Despite its post-Covid re-opening, China's market has also
-                    not bounced back as quickly as some anticipated. Samsung is
-                    estimated to have lost about $3 billion in its memory chip
-                    division.
-                  </p>
-                  <p>
-                    [...] Prices of DRAM - a type of memory used to process data
-                    - are expected to fall in the current quarter by around 10%,
-                    according to Yuanta's Baik. That follows a roughly 20% slide
-                    in the previous three months and a more than 30% drop in the
-                    fourth quarter of last year. [...] Inventory at Samsung had
-                    swelled to 52.2 trillion won at the end of last year after
-                    the company maintained production despite a collapse in
-                    demand. The existing high inventory will take time to
-                    digest, said TrendForce Senior Vice President Avril Wu.
-                    "Slower-than-expected demand in the second half of 2023 will
-                    prolong the time required for inventory to get back to
-                    normal levels."
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59227"
                     >Original Submission</a
                   ></small
                 >
