@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-15, 03:36:00](https://soylentnews.org/article.pl?sid=23/04/14/029250&from=rss) - [Deep Space Missions Must Recreate Exact Earth-Like Conditions to Survive, Scientists Argue](https://soylentnews.org/article.pl?sid=23/04/14/029250&from=rss)
 * [2023-04-14, 22:53:00](https://soylentnews.org/article.pl?sid=23/04/13/1547228&from=rss) - [Massachusetts Lawmakers File Bill to Create 4-Day Workweek Pilot](https://soylentnews.org/article.pl?sid=23/04/13/1547228&from=rss)
 * [2023-04-14, 20:12:00](https://soylentnews.org/article.pl?sid=23/04/13/1543203&from=rss) - [Study Finds Only One Type of Consumer Dictates Price](https://soylentnews.org/article.pl?sid=23/04/13/1543203&from=rss)
 * [2023-04-14, 17:27:00](https://soylentnews.org/article.pl?sid=23/04/13/1541213&from=rss) - [Elon Musk Admits He Only Bought Twitter Because He Thought He'd be Forced to](https://soylentnews.org/article.pl?sid=23/04/13/1541213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-09, 06:23:00](https://soylentnews.org/article.pl?sid=23/04/07/1420241&from=rss) - [Somebody Wants to Copyright a Rhythm – Get Ready for the Dembow Tax If They Succeed](https://soylentnews.org/article.pl?sid=23/04/07/1420241&from=rss)
 * [2023-04-09, 01:42:00](https://soylentnews.org/article.pl?sid=23/04/07/1410210&from=rss) - [We Can Use Stem Cells to Make Embryos. How Far Should We Go?](https://soylentnews.org/article.pl?sid=23/04/07/1410210&from=rss)
 * [2023-04-08, 20:53:00](https://soylentnews.org/article.pl?sid=23/04/07/1355223&from=rss) - [Leak Reveals AMD's 'Strix Point' APUs With 16 CPU Cores and 3 GHz+ IGPU](https://soylentnews.org/article.pl?sid=23/04/07/1355223&from=rss)
-* [2023-04-08, 16:08:00](https://soylentnews.org/article.pl?sid=23/04/07/1350259&from=rss) - [Round-Up: ChatGPT, Bard, etc - We Did Ask What Could Go Wrong, Didn't We?](https://soylentnews.org/article.pl?sid=23/04/07/1350259&from=rss)
 
 ## [Archives](archives/index.md)
 
