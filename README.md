@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-16, 03:13:00](https://soylentnews.org/article.pl?sid=23/04/15/0148217&from=rss) - [New Model for How Earth's Oceans Formed](https://soylentnews.org/article.pl?sid=23/04/15/0148217&from=rss)
 * [2023-04-15, 22:32:00](https://soylentnews.org/article.pl?sid=23/04/14/1618212&from=rss) - [Linux Kernel Logic Allowed Spectre Attack on Major Cloud](https://soylentnews.org/article.pl?sid=23/04/14/1618212&from=rss)
 * [2023-04-15, 17:48:00](https://soylentnews.org/article.pl?sid=23/04/14/1610220&from=rss) - [ EU Parliament’s Research Service Confirms: Chat Control Violates Fundamental Rights ](https://soylentnews.org/article.pl?sid=23/04/14/1610220&from=rss)
 * [2023-04-15, 13:02:00](https://soylentnews.org/article.pl?sid=23/04/14/166251&from=rss) - [Kodi TV Discloses Data Breach After Forum Database for Sale Online](https://soylentnews.org/article.pl?sid=23/04/14/166251&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-10, 04:04:00](https://soylentnews.org/article.pl?sid=23/04/09/136228&from=rss) - [Australia Takes First Steps Towards Banning TikTok](https://soylentnews.org/article.pl?sid=23/04/09/136228&from=rss)
 * [2023-04-10, 01:23:00](https://soylentnews.org/article.pl?sid=23/04/09/1256255&from=rss) - [More Patient Data Exposed Through Tracking Pixels](https://soylentnews.org/article.pl?sid=23/04/09/1256255&from=rss)
 * [2023-04-09, 20:33:00](https://soylentnews.org/article.pl?sid=23/04/09/0435232&from=rss) - [Thieves Can Steal Modern Cars by Tapping Into a Headlight Wire](https://soylentnews.org/article.pl?sid=23/04/09/0435232&from=rss)
-* [2023-04-09, 15:50:00](https://soylentnews.org/article.pl?sid=23/04/09/0424222&from=rss) - [Physicists Recreate Classic 'Double-Slit' Experiment Using Time Instead of Space](https://soylentnews.org/article.pl?sid=23/04/09/0424222&from=rss)
 
 ## [Archives](archives/index.md)
 
