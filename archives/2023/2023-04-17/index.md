@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-04-17](index.md)
+
+* [2023-04-17, 01:07:00](https://soylentnews.org/article.pl?sid=23/04/15/1853212&from=rss) - [Human Rights Groups Raise Alarm Over UN Cybercrime Treaty](https://soylentnews.org/article.pl?sid=23/04/15/1853212&from=rss)
