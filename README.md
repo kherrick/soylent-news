@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-17, 06:34:00](https://soylentnews.org/article.pl?sid=23/04/15/1929222&from=rss) - [NovoNutrients Wants to Turn CO2 Into Protein](https://soylentnews.org/article.pl?sid=23/04/15/1929222&from=rss)
 * [2023-04-17, 03:49:00](https://soylentnews.org/article.pl?sid=23/04/15/1920236&from=rss) - [Colorado is the First US State to Pass a Right-to-repair Law for Farmers](https://soylentnews.org/article.pl?sid=23/04/15/1920236&from=rss)
 * [2023-04-17, 01:07:00](https://soylentnews.org/article.pl?sid=23/04/15/1853212&from=rss) - [Human Rights Groups Raise Alarm Over UN Cybercrime Treaty](https://soylentnews.org/article.pl?sid=23/04/15/1853212&from=rss)
 * [2023-04-16, 22:22:00](https://soylentnews.org/article.pl?sid=23/04/15/1843225&from=rss) - [The 8086 Processor's Microcode Pipeline From Die Analysis](https://soylentnews.org/article.pl?sid=23/04/15/1843225&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-10, 23:20:00](https://soylentnews.org/article.pl?sid=23/04/10/0416228&from=rss) - [Twitter Shut Off its Free API and It's Breaking a Lot of Apps](https://soylentnews.org/article.pl?sid=23/04/10/0416228&from=rss)
 * [2023-04-10, 20:34:00](https://soylentnews.org/article.pl?sid=23/04/09/1356259&from=rss) - [Animal Mutation Rates Reveal Traits That Speed Evolution](https://soylentnews.org/article.pl?sid=23/04/09/1356259&from=rss)
 * [2023-04-10, 17:49:00](https://soylentnews.org/article.pl?sid=23/04/09/1350247&from=rss) - [New AI Model Can “Cut Out” Any Object Within an Image—and Meta is Sharing the Code](https://soylentnews.org/article.pl?sid=23/04/09/1350247&from=rss)
-* [2023-04-10, 15:07:00](https://soylentnews.org/article.pl?sid=23/04/09/1348213&from=rss) - [Palantir's Plan to Decipher the Mysteries of Long Covid](https://soylentnews.org/article.pl?sid=23/04/09/1348213&from=rss)
 
 ## [Archives](archives/index.md)
 
