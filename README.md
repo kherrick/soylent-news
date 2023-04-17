@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-17, 14:12:00](https://soylentnews.org/article.pl?sid=23/04/16/1854209&from=rss) - [MEPs Raise Concerns Over Draft EU-US Data Transfer Deal](https://soylentnews.org/article.pl?sid=23/04/16/1854209&from=rss)
 * [2023-04-17, 12:15:00](https://soylentnews.org/article.pl?sid=23/04/17/1212242&from=rss) - [SpaceX's First Orbital Test Flight of Starship Imminent [Scrubbed]](https://soylentnews.org/article.pl?sid=23/04/17/1212242&from=rss)
 * [2023-04-17, 09:21:00](https://soylentnews.org/article.pl?sid=23/04/16/133210&from=rss) - [Improve Security by Adopting Aviation's 'Just Culture'](https://soylentnews.org/article.pl?sid=23/04/16/133210&from=rss)
 * [2023-04-17, 06:34:00](https://soylentnews.org/article.pl?sid=23/04/15/1929222&from=rss) - [NovoNutrients Wants to Turn CO2 Into Protein](https://soylentnews.org/article.pl?sid=23/04/15/1929222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-11, 09:34:00](https://soylentnews.org/article.pl?sid=23/04/10/1131207&from=rss) - [No NGO Has Been Allowed to See Julian Assange Since Four Years Ago](https://soylentnews.org/article.pl?sid=23/04/10/1131207&from=rss)
 * [2023-04-11, 06:48:00](https://soylentnews.org/article.pl?sid=23/04/10/0710207&from=rss) - [Inside the Bitter Campus Privacy Battle Over Smart Building Sensors](https://soylentnews.org/article.pl?sid=23/04/10/0710207&from=rss)
 * [2023-04-11, 02:05:00](https://soylentnews.org/article.pl?sid=23/04/10/0443235&from=rss) - [Scientists Create an Eco-friendly Paint That Mimics Nature](https://soylentnews.org/article.pl?sid=23/04/10/0443235&from=rss)
-* [2023-04-10, 23:20:00](https://soylentnews.org/article.pl?sid=23/04/10/0416228&from=rss) - [Twitter Shut Off its Free API and It's Breaking a Lot of Apps](https://soylentnews.org/article.pl?sid=23/04/10/0416228&from=rss)
 
 ## [Archives](archives/index.md)
 
