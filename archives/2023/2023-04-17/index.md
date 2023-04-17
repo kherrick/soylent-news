@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 19:39:00](https://soylentnews.org/article.pl?sid=23/04/17/0251205&from=rss) - [NASA/JPL Snake Robot for Subsurface Planatery Exploration](https://soylentnews.org/article.pl?sid=23/04/17/0251205&from=rss)
 * [2023-04-17, 16:57:00](https://soylentnews.org/article.pl?sid=23/04/16/191203&from=rss) - [Million-year-old Viruses Help Fight Cancer, Say Scientists](https://soylentnews.org/article.pl?sid=23/04/16/191203&from=rss)
 * [2023-04-17, 14:12:00](https://soylentnews.org/article.pl?sid=23/04/16/1854209&from=rss) - [MEPs Raise Concerns Over Draft EU-US Data Transfer Deal](https://soylentnews.org/article.pl?sid=23/04/16/1854209&from=rss)
 * [2023-04-17, 12:15:00](https://soylentnews.org/article.pl?sid=23/04/17/1212242&from=rss) - [SpaceX's First Orbital Test Flight of Starship Imminent](https://soylentnews.org/article.pl?sid=23/04/17/1212242&from=rss)

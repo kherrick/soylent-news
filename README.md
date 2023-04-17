@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-17, 19:39:00](https://soylentnews.org/article.pl?sid=23/04/17/0251205&from=rss) - [NASA/JPL Snake Robot for Subsurface Planatery Exploration](https://soylentnews.org/article.pl?sid=23/04/17/0251205&from=rss)
 * [2023-04-17, 16:57:00](https://soylentnews.org/article.pl?sid=23/04/16/191203&from=rss) - [Million-year-old Viruses Help Fight Cancer, Say Scientists](https://soylentnews.org/article.pl?sid=23/04/16/191203&from=rss)
 * [2023-04-17, 14:12:00](https://soylentnews.org/article.pl?sid=23/04/16/1854209&from=rss) - [MEPs Raise Concerns Over Draft EU-US Data Transfer Deal](https://soylentnews.org/article.pl?sid=23/04/16/1854209&from=rss)
 * [2023-04-17, 12:15:00](https://soylentnews.org/article.pl?sid=23/04/17/1212242&from=rss) - [SpaceX's First Orbital Test Flight of Starship Imminent [Scrubbed]](https://soylentnews.org/article.pl?sid=23/04/17/1212242&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-11, 15:12:00](https://soylentnews.org/article.pl?sid=23/04/10/1145233&from=rss) - [Combined Review and Tutorial Around the RUT-240](https://soylentnews.org/article.pl?sid=23/04/10/1145233&from=rss)
 * [2023-04-11, 12:23:00](https://soylentnews.org/article.pl?sid=23/04/10/1136204&from=rss) - [Now We Know How a Solar Storm Took Out a Fleet of Starlinks](https://soylentnews.org/article.pl?sid=23/04/10/1136204&from=rss)
 * [2023-04-11, 09:34:00](https://soylentnews.org/article.pl?sid=23/04/10/1131207&from=rss) - [No NGO Has Been Allowed to See Julian Assange Since Four Years Ago](https://soylentnews.org/article.pl?sid=23/04/10/1131207&from=rss)
-* [2023-04-11, 06:48:00](https://soylentnews.org/article.pl?sid=23/04/10/0710207&from=rss) - [Inside the Bitter Campus Privacy Battle Over Smart Building Sensors](https://soylentnews.org/article.pl?sid=23/04/10/0710207&from=rss)
 
 ## [Archives](archives/index.md)
 
