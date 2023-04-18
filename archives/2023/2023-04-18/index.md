@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 20:33:00](https://soylentnews.org/article.pl?sid=23/04/18/048203&from=rss) - [Russian T-90 Tank From Ukraine Mysteriously Appears At U.S. Truck Stop](https://soylentnews.org/article.pl?sid=23/04/18/048203&from=rss)
 * [2023-04-18, 17:48:00](https://soylentnews.org/article.pl?sid=23/04/18/043250&from=rss) - [The AI Doomers’ Playbook](https://soylentnews.org/article.pl?sid=23/04/18/043250&from=rss)
 * [2023-04-18, 14:59:00](https://soylentnews.org/article.pl?sid=23/04/17/1730206&from=rss) - [Stopping Storms From Creating Dangerous Urban Geysers](https://soylentnews.org/article.pl?sid=23/04/17/1730206&from=rss)
 * [2023-04-18, 12:15:00](https://soylentnews.org/article.pl?sid=23/04/17/1712240&from=rss) - [Curiosity Mars Rover Gets its Latest Interplanetary Software Patch](https://soylentnews.org/article.pl?sid=23/04/17/1712240&from=rss)
