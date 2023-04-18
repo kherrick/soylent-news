@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-18, 12:15:00](https://soylentnews.org/article.pl?sid=23/04/17/1712240&from=rss) - [Curiosity Mars Rover Gets its Latest Interplanetary Software Patch](https://soylentnews.org/article.pl?sid=23/04/17/1712240&from=rss)
 * [2023-04-18, 09:28:00](https://soylentnews.org/article.pl?sid=23/04/17/1628205&from=rss) - [German Artist Refuses Award After His AI Image Wins Prestigious Photography Prize](https://soylentnews.org/article.pl?sid=23/04/17/1628205&from=rss)
 * [2023-04-18, 06:43:00](https://soylentnews.org/article.pl?sid=23/04/17/1613247&from=rss) - [Offensive Cyber Company QuaDream Shutting Down Amidst Spyware Accusations](https://soylentnews.org/article.pl?sid=23/04/17/1613247&from=rss)
 * [2023-04-18, 03:57:00](https://soylentnews.org/article.pl?sid=23/04/17/169211&from=rss) - [Detecting Stress in the Office From How People Type and Click](https://soylentnews.org/article.pl?sid=23/04/17/169211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-12, 07:43:00](https://soylentnews.org/article.pl?sid=23/04/11/1215204&from=rss) - [China's Loongson Unveils 32-Core CPU, Reportedly 4X Faster Than Arm Chip](https://soylentnews.org/article.pl?sid=23/04/11/1215204&from=rss)
 * [2023-04-12, 04:57:00](https://soylentnews.org/article.pl?sid=23/04/11/0352225&from=rss) - [Ethereum’s Shanghai Update Opens a Rift in Crypto](https://soylentnews.org/article.pl?sid=23/04/11/0352225&from=rss)
 * [2023-04-12, 02:10:00](https://soylentnews.org/article.pl?sid=23/04/11/0334257&from=rss) - [What to Know About the JUICE Mission to Jupiter and its Frozen Moons](https://soylentnews.org/article.pl?sid=23/04/11/0334257&from=rss)
-* [2023-04-11, 23:24:00](https://soylentnews.org/article.pl?sid=23/04/11/0312256&from=rss) - [Tesla Employees Reportedly Shared Videos Captured by Cameras on Customers' Cars](https://soylentnews.org/article.pl?sid=23/04/11/0312256&from=rss)
 
 ## [Archives](archives/index.md)
 
