@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-18, 01:12:00](https://soylentnews.org/article.pl?sid=23/04/17/1059203&from=rss) - [Is Your Smart Car Spying on You](https://soylentnews.org/article.pl?sid=23/04/17/1059203&from=rss)
 * [2023-04-17, 22:26:00](https://soylentnews.org/article.pl?sid=23/04/17/0433246&from=rss) - [Germany and Intel Both Want More From Planned Mega-fab](https://soylentnews.org/article.pl?sid=23/04/17/0433246&from=rss)
 * [2023-04-17, 19:39:00](https://soylentnews.org/article.pl?sid=23/04/17/0251205&from=rss) - [NASA/JPL Snake Robot for Subsurface Planatery Exploration](https://soylentnews.org/article.pl?sid=23/04/17/0251205&from=rss)
 * [2023-04-17, 16:57:00](https://soylentnews.org/article.pl?sid=23/04/16/191203&from=rss) - [Million-year-old Viruses Help Fight Cancer, Say Scientists](https://soylentnews.org/article.pl?sid=23/04/16/191203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-11, 20:39:00](https://soylentnews.org/article.pl?sid=23/04/11/0253259&from=rss) - [Satellite Imagery Reveals ‘Hidden’ Tornado Tracks](https://soylentnews.org/article.pl?sid=23/04/11/0253259&from=rss)
 * [2023-04-11, 17:57:00](https://soylentnews.org/article.pl?sid=23/04/10/1153232&from=rss) - [Drivers in Europe Net Big Data Rights Win Against Uber and Ola](https://soylentnews.org/article.pl?sid=23/04/10/1153232&from=rss)
 * [2023-04-11, 15:12:00](https://soylentnews.org/article.pl?sid=23/04/10/1145233&from=rss) - [Combined Review and Tutorial Around the RUT-240](https://soylentnews.org/article.pl?sid=23/04/10/1145233&from=rss)
-* [2023-04-11, 12:23:00](https://soylentnews.org/article.pl?sid=23/04/10/1136204&from=rss) - [Now We Know How a Solar Storm Took Out a Fleet of Starlinks](https://soylentnews.org/article.pl?sid=23/04/10/1136204&from=rss)
 
 ## [Archives](archives/index.md)
 
