@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 03:57:00](https://soylentnews.org/article.pl?sid=23/04/17/169211&from=rss) - [Detecting Stress in the Office From How People Type and Click](https://soylentnews.org/article.pl?sid=23/04/17/169211&from=rss)
 * [2023-04-18, 01:12:00](https://soylentnews.org/article.pl?sid=23/04/17/1059203&from=rss) - [Is Your Smart Car Spying on You](https://soylentnews.org/article.pl?sid=23/04/17/1059203&from=rss)
