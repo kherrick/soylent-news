@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-19, 12:56:00](https://soylentnews.org/article.pl?sid=23/04/18/1820220&from=rss) - [Database Company MariaDB Makes Cuts to Headcount but Has Financial Concerns](https://soylentnews.org/article.pl?sid=23/04/18/1820220&from=rss)
 * [2023-04-19, 10:13:00](https://soylentnews.org/article.pl?sid=23/04/18/1811244&from=rss) - [SpaceX Starship Launch Countdown to Thursday](https://soylentnews.org/article.pl?sid=23/04/18/1811244&from=rss)
 * [2023-04-19, 07:32:00](https://soylentnews.org/article.pl?sid=23/04/18/187234&from=rss) - [Upgrade Your LUKS Key Derivation Function](https://soylentnews.org/article.pl?sid=23/04/18/187234&from=rss)
 * [2023-04-19, 04:44:00](https://soylentnews.org/article.pl?sid=23/04/18/1755244&from=rss) - [Open Source Bodies Say to EU that Cyber Resilience Act Could Have 'Chilling Effect' on Software](https://soylentnews.org/article.pl?sid=23/04/18/1755244&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-13, 08:27:00](https://soylentnews.org/article.pl?sid=23/04/12/0318229&from=rss) - [3CX Knew its App Was Flagged as Malicious but Took No Action for 7 Days](https://soylentnews.org/article.pl?sid=23/04/12/0318229&from=rss)
 * [2023-04-13, 05:45:00](https://soylentnews.org/article.pl?sid=23/04/12/0312255&from=rss) - [Open Source is Fueling the Future of Nuclear Physics](https://soylentnews.org/article.pl?sid=23/04/12/0312255&from=rss)
 * [2023-04-13, 02:58:00](https://soylentnews.org/article.pl?sid=23/04/12/0230206&from=rss) - [The Hottest New Climate Technology is Bricks](https://soylentnews.org/article.pl?sid=23/04/12/0230206&from=rss)
-* [2023-04-13, 00:14:00](https://soylentnews.org/article.pl?sid=23/04/12/0212246&from=rss) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://soylentnews.org/article.pl?sid=23/04/12/0212246&from=rss)
 
 ## [Archives](archives/index.md)
 
