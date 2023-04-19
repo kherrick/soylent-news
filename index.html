@@ -145,6 +145,119 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/04/18/187234">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/04/18/187234&amp;from=rss"
+              >Upgrade Your LUKS Key Derivation Function</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-19 @ 07:32:00</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/04/18/187234"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    (things are actually slightly more complicated than this -
+                    your password is used to generate a key that is then used to
+                    encrypt and decrypt the <em>actual</em> encryption key. This
+                    is necessary in order to allow you to change your password
+                    without having to re-encrypt the entire drive - instead you
+                    simply re-encrypt the encryption key with the new
+                    password-derived key. This also allows you to have multiple
+                    passwords or unlock mechanisms per drive)
+                  </p>
+                  <p>
+                    Good KDFs reduce this risk by being what's technically
+                    referred to as "expensive". Rather than performing one
+                    simple calculation to turn a password into a key, they
+                    perform a <em>lot</em> of calculations. The number of
+                    calculations performed is generally configurable, in order
+                    to let you trade off between the amount of security (the
+                    number of calculations you'll force an attacker to perform
+                    when attempting to generate a key from a potential password)
+                    and performance (the amount of time you're willing to wait
+                    for your laptop to generate the key after you type in your
+                    password so it can actually boot). But, obviously, this
+                    tradeoff changes over time - defaults that made sense 10
+                    years ago are not necessarily good defaults now. If you set
+                    up your encrypted partition some time ago, the number of
+                    calculations required may no longer be considered up to
+                    scratch.
+                  </p>
+                  <p>
+                    And, well, some of these assumptions are kind of bad in the
+                    first place! Just making things computationally expensive
+                    doesn't help a lot if your adversary has the ability to test
+                    a large number of passwords in parallel. GPUs are extremely
+                    good at performing the sort of calculations that KDFs
+                    generally use, so an attacker can "just" get a whole pile of
+                    GPUs and throw them at the problem. KDFs that are
+                    computationally expensive don't do a great deal to protect
+                    against this. However, there's another axis of expense that
+                    can be considered - memory. If the KDF algorithm requires a
+                    significant amount of RAM, the degree to which it can be
+                    performed in parallel on a GPU is massively reduced. A
+                    Geforce 4090 may have 16,384 execution units, but if each
+                    password attempt requires 1GB of RAM and the card only has
+                    24GB on board, the attacker is restricted to running 24
+                    attempts in parallel.
+                  </p>
+                  <p>
+                    So, in these days of attackers with access to a pile of
+                    GPUs, a purely computationally expensive KDF is just not a
+                    good choice. And, unfortunately, the subject of this story
+                    was almost certainly using one of those. Ubuntu 18.04 used
+                    the LUKS1 header format, and the only KDF supported in this
+                    format is
+                    <a href="https://en.wikipedia.org/wiki/PBKDF2">PBKDF2</a>.
+                    This is not a memory expensive KDF, and so is vulnerable to
+                    GPU-based attacks. But even so, systems using the LUKS2
+                    header format used to default to
+                    <a href="https://en.wikipedia.org/wiki/Argon2">argon2i</a>,
+                    again not a memory expensive KDF. New versions default to
+                    argon2id, which is. You want to be using argon2id.
+                  </p>
+                  <p>
+                    What makes this worse is that distributions generally don't
+                    update this in any way. If you installed your system and it
+                    gave you pbkdf2 as your KDF, you're probably still using
+                    pbkdf2 even if you've upgraded to a system that would use
+                    argon2id on a fresh install. Thankfully, this can all be
+                    fixed-up in place. But note that if anything goes wrong here
+                    you could lose access to all your encrypted data, so before
+                    doing anything make sure it's all backed up (and figure out
+                    how to keep said backup secure so you don't just have your
+                    data seized that way).
+                  </p>
+                </div>
+              </blockquote>
+              <p>The full instructions are in the linked source.</p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59334"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/04/18/1755244">
           <h3>
             <a
@@ -4601,70 +4714,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59204"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/04/11/137200">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/04/11/137200&amp;from=rss"
-              >Raspberry Pi Launches Online Code Editor to Help Kids Learn</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-12 @ 18:43:00</span
-              ><span class="points-container"
-                >Points: <span class="points">800</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/04/11/137200"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-            <div class="text">
-              <blockquote>
-                <div>
-                  <p>
-                    The Raspberry Pi Code editor isn't the only online Python
-                    editor around by any stretch of the imagination as you can
-                    also use a service such as
-                    <a href="https://trinket.io/">Trinket.io</a>, which will let
-                    you write Python code in one pane while previewing it in
-                    another. However, what's interesting about Raspberry Pi's
-                    tool is that the organization has a few Python tutorials
-                    that are designed to be used with it.
-                  </p>
-                  <p>
-                    The Raspberry Pi Foundation already had a nice set of Python
-                    tutorials on its site, but it has adapted some of them to
-                    open sample code directly in the online editor. For example,
-                    when I tried the
-                    <a
-                      href="https://projects.raspberrypi.org/en/projects/hello-world-editor/1"
-                      >"Say hello" lesson</a
-                    >, the first link on the page opens the working set of code
-                    in the editor in a new tab in my browser. When I revisited
-                    the page and clicked the link a few minutes later, it took
-                    me back to the same code I had edited before, because it
-                    saved the lesson as a project that was associated with my
-                    account.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59242"
                     >Original Submission</a
                   ></small
                 >
