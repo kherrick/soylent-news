@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-19, 07:32:00](https://soylentnews.org/article.pl?sid=23/04/18/187234&from=rss) - [Upgrade Your LUKS Key Derivation Function](https://soylentnews.org/article.pl?sid=23/04/18/187234&from=rss)
 * [2023-04-19, 04:44:00](https://soylentnews.org/article.pl?sid=23/04/18/1755244&from=rss) - [Open Source Bodies Say to EU that Cyber Resilience Act Could Have 'Chilling Effect' on Software](https://soylentnews.org/article.pl?sid=23/04/18/1755244&from=rss)
 * [2023-04-19, 02:01:00](https://soylentnews.org/article.pl?sid=23/04/18/0455245&from=rss) - [Parler's New Owner Immediately Took the Social Network Offline](https://soylentnews.org/article.pl?sid=23/04/18/0455245&from=rss)
 * [2023-04-18, 23:19:00](https://soylentnews.org/article.pl?sid=23/04/18/0437222&from=rss) - [The Great Salt Lake is Shrinking. What Can We Do to Stop It?](https://soylentnews.org/article.pl?sid=23/04/18/0437222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-13, 02:58:00](https://soylentnews.org/article.pl?sid=23/04/12/0230206&from=rss) - [The Hottest New Climate Technology is Bricks](https://soylentnews.org/article.pl?sid=23/04/12/0230206&from=rss)
 * [2023-04-13, 00:14:00](https://soylentnews.org/article.pl?sid=23/04/12/0212246&from=rss) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://soylentnews.org/article.pl?sid=23/04/12/0212246&from=rss)
 * [2023-04-12, 21:27:00](https://soylentnews.org/article.pl?sid=23/04/12/024246&from=rss) - [A Stream of Cold Gas is Unexpectedly Feeding the Far-off Anthill Galaxy](https://soylentnews.org/article.pl?sid=23/04/12/024246&from=rss)
-* [2023-04-12, 18:43:00](https://soylentnews.org/article.pl?sid=23/04/11/137200&from=rss) - [Raspberry Pi Launches Online Code Editor to Help Kids Learn](https://soylentnews.org/article.pl?sid=23/04/11/137200&from=rss)
 
 ## [Archives](archives/index.md)
 
