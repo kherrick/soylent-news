@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-19, 04:44:00](https://soylentnews.org/article.pl?sid=23/04/18/1755244&from=rss) - [Open Source Bodies Say to EU that Cyber Resilience Act Could Have 'Chilling Effect' on Software](https://soylentnews.org/article.pl?sid=23/04/18/1755244&from=rss)
 * [2023-04-19, 02:01:00](https://soylentnews.org/article.pl?sid=23/04/18/0455245&from=rss) - [Parler's New Owner Immediately Took the Social Network Offline](https://soylentnews.org/article.pl?sid=23/04/18/0455245&from=rss)
 * [2023-04-18, 23:19:00](https://soylentnews.org/article.pl?sid=23/04/18/0437222&from=rss) - [The Great Salt Lake is Shrinking. What Can We Do to Stop It?](https://soylentnews.org/article.pl?sid=23/04/18/0437222&from=rss)
 * [2023-04-18, 20:33:00](https://soylentnews.org/article.pl?sid=23/04/18/048203&from=rss) - [Russian T-90 Tank From Ukraine Mysteriously Appears At U.S. Truck Stop](https://soylentnews.org/article.pl?sid=23/04/18/048203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-13, 00:14:00](https://soylentnews.org/article.pl?sid=23/04/12/0212246&from=rss) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://soylentnews.org/article.pl?sid=23/04/12/0212246&from=rss)
 * [2023-04-12, 21:27:00](https://soylentnews.org/article.pl?sid=23/04/12/024246&from=rss) - [A Stream of Cold Gas is Unexpectedly Feeding the Far-off Anthill Galaxy](https://soylentnews.org/article.pl?sid=23/04/12/024246&from=rss)
 * [2023-04-12, 18:43:00](https://soylentnews.org/article.pl?sid=23/04/11/137200&from=rss) - [Raspberry Pi Launches Online Code Editor to Help Kids Learn](https://soylentnews.org/article.pl?sid=23/04/11/137200&from=rss)
-* [2023-04-12, 16:01:00](https://soylentnews.org/article.pl?sid=23/04/11/131213&from=rss) - [Florida Officials Deleted Data, Stats From Dubious COVID Analysis: Report](https://soylentnews.org/article.pl?sid=23/04/11/131213&from=rss)
 
 ## [Archives](archives/index.md)
 
