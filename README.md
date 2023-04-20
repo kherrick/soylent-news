@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-20, 05:24:00](https://soylentnews.org/article.pl?sid=23/04/19/0256226&from=rss) - [GS1 Proposes Sunrise 2027 for 2D Barcodes on Products](https://soylentnews.org/article.pl?sid=23/04/19/0256226&from=rss)
 * [2023-04-20, 02:39:00](https://soylentnews.org/article.pl?sid=23/04/19/0248220&from=rss) - [Whisper Aero Wants to Make Aviation, and the Rest of the World, Quieter](https://soylentnews.org/article.pl?sid=23/04/19/0248220&from=rss)
 * [2023-04-19, 23:52:00](https://soylentnews.org/article.pl?sid=23/04/19/0237232&from=rss) - [Recycled Core Routers Exposed Sensitive Corporate Network Info](https://soylentnews.org/article.pl?sid=23/04/19/0237232&from=rss)
 * [2023-04-19, 21:09:00](https://soylentnews.org/article.pl?sid=23/04/19/0222202&from=rss) - [An Old NASA Spacecraft Will Crash to Earth on Wednesday](https://soylentnews.org/article.pl?sid=23/04/19/0222202&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-14, 00:53:00](https://soylentnews.org/article.pl?sid=23/04/13/1055221&from=rss) - [Get Ready: SpaceX Starship's First Launch is for Real](https://soylentnews.org/article.pl?sid=23/04/13/1055221&from=rss)
 * [2023-04-13, 22:06:00](https://soylentnews.org/article.pl?sid=23/04/12/184253&from=rss) - [Swiss Health Authorities - Natural Immunity is the Best Defense Against COVID (in Switzerland)](https://soylentnews.org/article.pl?sid=23/04/12/184253&from=rss)
 * [2023-04-13, 19:21:00](https://soylentnews.org/article.pl?sid=23/04/12/181242&from=rss) - [MSI Confirms Cyberattack, Advises Caution With Firmware](https://soylentnews.org/article.pl?sid=23/04/12/181242&from=rss)
-* [2023-04-13, 16:39:00](https://soylentnews.org/article.pl?sid=23/04/12/1759259&from=rss) - [Mistaken Fossil Rewrites History of Indian Subcontinent for Second Time](https://soylentnews.org/article.pl?sid=23/04/12/1759259&from=rss)
 
 ## [Archives](archives/index.md)
 
