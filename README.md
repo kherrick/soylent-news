@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-20, 16:28:00](https://soylentnews.org/article.pl?sid=23/04/19/1833214&from=rss) - [Inside the Secret List of Websites That Make AI Like ChatGPT Sound Smart](https://soylentnews.org/article.pl?sid=23/04/19/1833214&from=rss)
 * [2023-04-20, 13:43:00](https://soylentnews.org/article.pl?sid=23/04/19/1824223&from=rss) - [Building Telescopes on the Moon Could Transform Astronomy](https://soylentnews.org/article.pl?sid=23/04/19/1824223&from=rss)
 * [2023-04-20, 10:56:00](https://soylentnews.org/article.pl?sid=23/04/19/1818232&from=rss) - [Netflix Will Block Password Sharing Before July 2023](https://soylentnews.org/article.pl?sid=23/04/19/1818232&from=rss)
 * [2023-04-20, 08:13:00](https://soylentnews.org/article.pl?sid=23/04/19/1814235&from=rss) - [Europe Will Invest €43 Billion to Make its Own Microchips](https://soylentnews.org/article.pl?sid=23/04/19/1814235&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-14, 11:54:00](https://soylentnews.org/article.pl?sid=23/04/13/1529227&from=rss) - [Meet PassGAN, the Supposedly “Terrifying” AI Password Cracker That's Mostly Hype](https://soylentnews.org/article.pl?sid=23/04/13/1529227&from=rss)
 * [2023-04-14, 09:11:00](https://soylentnews.org/article.pl?sid=23/04/13/1241259&from=rss) - [How AI is Helping Historians Better Understand Our Past](https://soylentnews.org/article.pl?sid=23/04/13/1241259&from=rss)
 * [2023-04-14, 06:24:00](https://soylentnews.org/article.pl?sid=23/04/13/1156208&from=rss) - [A Parasite is Killing Sea Otters. Is Cat Poop to Blame?](https://soylentnews.org/article.pl?sid=23/04/13/1156208&from=rss)
-* [2023-04-14, 03:38:00](https://soylentnews.org/article.pl?sid=23/04/13/1119238&from=rss) - [Developer Creates “Self-healing” Programs That Fix Themselves Thanks to AI](https://soylentnews.org/article.pl?sid=23/04/13/1119238&from=rss)
 
 ## [Archives](archives/index.md)
 
