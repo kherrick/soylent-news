@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-20, 10:56:00](https://soylentnews.org/article.pl?sid=23/04/19/1818232&from=rss) - [Netflix Will Block Password Sharing Before July 2023](https://soylentnews.org/article.pl?sid=23/04/19/1818232&from=rss)
 * [2023-04-20, 08:13:00](https://soylentnews.org/article.pl?sid=23/04/19/1814235&from=rss) - [Europe Will Invest €43 Billion to Make its Own Microchips](https://soylentnews.org/article.pl?sid=23/04/19/1814235&from=rss)
 * [2023-04-20, 05:24:00](https://soylentnews.org/article.pl?sid=23/04/19/0256226&from=rss) - [GS1 Proposes Sunrise 2027 for 2D Barcodes on Products](https://soylentnews.org/article.pl?sid=23/04/19/0256226&from=rss)
 * [2023-04-20, 02:39:00](https://soylentnews.org/article.pl?sid=23/04/19/0248220&from=rss) - [Whisper Aero Wants to Make Aviation, and the Rest of the World, Quieter](https://soylentnews.org/article.pl?sid=23/04/19/0248220&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-14, 06:24:00](https://soylentnews.org/article.pl?sid=23/04/13/1156208&from=rss) - [A Parasite is Killing Sea Otters. Is Cat Poop to Blame?](https://soylentnews.org/article.pl?sid=23/04/13/1156208&from=rss)
 * [2023-04-14, 03:38:00](https://soylentnews.org/article.pl?sid=23/04/13/1119238&from=rss) - [Developer Creates “Self-healing” Programs That Fix Themselves Thanks to AI](https://soylentnews.org/article.pl?sid=23/04/13/1119238&from=rss)
 * [2023-04-14, 00:53:00](https://soylentnews.org/article.pl?sid=23/04/13/1055221&from=rss) - [Get Ready: SpaceX Starship's First Launch is for Real](https://soylentnews.org/article.pl?sid=23/04/13/1055221&from=rss)
-* [2023-04-13, 22:06:00](https://soylentnews.org/article.pl?sid=23/04/12/184253&from=rss) - [Swiss Health Authorities - Natural Immunity is the Best Defense Against COVID (in Switzerland)](https://soylentnews.org/article.pl?sid=23/04/12/184253&from=rss)
 
 ## [Archives](archives/index.md)
 
