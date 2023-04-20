@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 13:43:00](https://soylentnews.org/article.pl?sid=23/04/19/1824223&from=rss) - [Building Telescopes on the Moon Could Transform Astronomy](https://soylentnews.org/article.pl?sid=23/04/19/1824223&from=rss)
 * [2023-04-20, 10:56:00](https://soylentnews.org/article.pl?sid=23/04/19/1818232&from=rss) - [Netflix Will Block Password Sharing Before July 2023](https://soylentnews.org/article.pl?sid=23/04/19/1818232&from=rss)
 * [2023-04-20, 08:13:00](https://soylentnews.org/article.pl?sid=23/04/19/1814235&from=rss) - [Europe Will Invest €43 Billion to Make its Own Microchips](https://soylentnews.org/article.pl?sid=23/04/19/1814235&from=rss)
 * [2023-04-20, 05:24:00](https://soylentnews.org/article.pl?sid=23/04/19/0256226&from=rss) - [GS1 Proposes Sunrise 2027 for 2D Barcodes on Products](https://soylentnews.org/article.pl?sid=23/04/19/0256226&from=rss)
