@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-19, 23:52:00](https://soylentnews.org/article.pl?sid=23/04/19/0237232&from=rss) - [Recycled Core Routers Exposed Sensitive Corporate Network Info](https://soylentnews.org/article.pl?sid=23/04/19/0237232&from=rss)
 * [2023-04-19, 21:09:00](https://soylentnews.org/article.pl?sid=23/04/19/0222202&from=rss) - [An Old NASA Spacecraft Will Crash to Earth on Wednesday](https://soylentnews.org/article.pl?sid=23/04/19/0222202&from=rss)
 * [2023-04-19, 18:26:00](https://soylentnews.org/article.pl?sid=23/04/19/028216&from=rss) - [+45. If only most of us were so lucky. ](https://soylentnews.org/article.pl?sid=23/04/19/028216&from=rss)
 * [2023-04-19, 15:43:00](https://soylentnews.org/article.pl?sid=23/04/18/1828213&from=rss) - [For Cybercriminal Mischief, It’s Dark Web Vs Deep Web](https://soylentnews.org/article.pl?sid=23/04/18/1828213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-13, 19:21:00](https://soylentnews.org/article.pl?sid=23/04/12/181242&from=rss) - [MSI Confirms Cyberattack, Advises Caution With Firmware](https://soylentnews.org/article.pl?sid=23/04/12/181242&from=rss)
 * [2023-04-13, 16:39:00](https://soylentnews.org/article.pl?sid=23/04/12/1759259&from=rss) - [Mistaken Fossil Rewrites History of Indian Subcontinent for Second Time](https://soylentnews.org/article.pl?sid=23/04/12/1759259&from=rss)
 * [2023-04-13, 13:57:00](https://soylentnews.org/article.pl?sid=23/04/12/1758204&from=rss) - [Intel Foundry Services Partners With Arm to Manufacture Next-Generation Mobile Chips](https://soylentnews.org/article.pl?sid=23/04/12/1758204&from=rss)
-* [2023-04-13, 11:13:00](https://soylentnews.org/article.pl?sid=23/04/12/1756209&from=rss) - [Bad News: Copyright Industry Attacks on the Internet’s Plumbing are Increasing – and Succeeding](https://soylentnews.org/article.pl?sid=23/04/12/1756209&from=rss)
 
 ## [Archives](archives/index.md)
 
