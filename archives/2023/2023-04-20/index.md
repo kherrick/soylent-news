@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 19:14:00](https://soylentnews.org/article.pl?sid=23/04/19/1835231&from=rss) - [Tech Employees Say They Were Being Paid to Do Nothing All Day](https://soylentnews.org/article.pl?sid=23/04/19/1835231&from=rss)
 * [2023-04-20, 16:28:00](https://soylentnews.org/article.pl?sid=23/04/19/1833214&from=rss) - [Inside the Secret List of Websites That Make AI Like ChatGPT Sound Smart](https://soylentnews.org/article.pl?sid=23/04/19/1833214&from=rss)
 * [2023-04-20, 13:43:00](https://soylentnews.org/article.pl?sid=23/04/19/1824223&from=rss) - [Building Telescopes on the Moon Could Transform Astronomy](https://soylentnews.org/article.pl?sid=23/04/19/1824223&from=rss)
 * [2023-04-20, 10:56:00](https://soylentnews.org/article.pl?sid=23/04/19/1818232&from=rss) - [Netflix Will Block Password Sharing Before July 2023](https://soylentnews.org/article.pl?sid=23/04/19/1818232&from=rss)
