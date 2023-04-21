@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 20:07:00](https://soylentnews.org/article.pl?sid=23/04/20/1548201&from=rss) - [Dairy Foods Helped Ancient Tibetans Thrive in One of Earth's Most Inhospitable Environments](https://soylentnews.org/article.pl?sid=23/04/20/1548201&from=rss)
 * [2023-04-21, 17:23:00](https://soylentnews.org/article.pl?sid=23/04/20/1546252&from=rss) - [Europe, World: Heating and Breaching](https://soylentnews.org/article.pl?sid=23/04/20/1546252&from=rss)
 * [2023-04-21, 14:39:00](https://soylentnews.org/article.pl?sid=23/04/20/1543244&from=rss) - [Cosmic Antimatter Hints at Origins of Huge Bubbles in Our Galaxy's Center](https://soylentnews.org/article.pl?sid=23/04/20/1543244&from=rss)
 * [2023-04-21, 11:51:00](https://soylentnews.org/article.pl?sid=23/04/20/1533247&from=rss) - [Seagate Hit With $300 Million Fine for Shipping 7.4 Million HDDs to Huawei](https://soylentnews.org/article.pl?sid=23/04/20/1533247&from=rss)
