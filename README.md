@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-21, 00:48:00](https://soylentnews.org/article.pl?sid=23/04/20/0247234&from=rss) - [3D-Printed Rocket Didn't Reach Orbit, but Relativity Space is Already Building its Successor](https://soylentnews.org/article.pl?sid=23/04/20/0247234&from=rss)
 * [2023-04-20, 22:03:00](https://soylentnews.org/article.pl?sid=23/04/20/0138200&from=rss) - [Hearing Loss May Become Reversible.](https://soylentnews.org/article.pl?sid=23/04/20/0138200&from=rss)
 * [2023-04-20, 19:14:00](https://soylentnews.org/article.pl?sid=23/04/19/1835231&from=rss) - [Tech Employees Say They Were Being Paid to Do Nothing All Day](https://soylentnews.org/article.pl?sid=23/04/19/1835231&from=rss)
 * [2023-04-20, 16:28:00](https://soylentnews.org/article.pl?sid=23/04/19/1833214&from=rss) - [Inside the Secret List of Websites That Make AI Like ChatGPT Sound Smart](https://soylentnews.org/article.pl?sid=23/04/19/1833214&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-14, 20:12:00](https://soylentnews.org/article.pl?sid=23/04/13/1543203&from=rss) - [Study Finds Only One Type of Consumer Dictates Price](https://soylentnews.org/article.pl?sid=23/04/13/1543203&from=rss)
 * [2023-04-14, 17:27:00](https://soylentnews.org/article.pl?sid=23/04/13/1541213&from=rss) - [Elon Musk Admits He Only Bought Twitter Because He Thought He'd be Forced to](https://soylentnews.org/article.pl?sid=23/04/13/1541213&from=rss)
 * [2023-04-14, 14:42:00](https://soylentnews.org/article.pl?sid=23/04/13/1535210&from=rss) - [French Court Smacks Remote Learning Software Company for Pervasive Surveillance of Students](https://soylentnews.org/article.pl?sid=23/04/13/1535210&from=rss)
-* [2023-04-14, 11:54:00](https://soylentnews.org/article.pl?sid=23/04/13/1529227&from=rss) - [Meet PassGAN, the Supposedly “Terrifying” AI Password Cracker That's Mostly Hype](https://soylentnews.org/article.pl?sid=23/04/13/1529227&from=rss)
 
 ## [Archives](archives/index.md)
 
