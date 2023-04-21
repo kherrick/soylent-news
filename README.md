@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-21, 22:49:00](https://soylentnews.org/article.pl?sid=23/04/21/021207&from=rss) - [A Prehistoric Method for Tailoring Clothes May be Written in Bone](https://soylentnews.org/article.pl?sid=23/04/21/021207&from=rss)
 * [2023-04-21, 20:07:00](https://soylentnews.org/article.pl?sid=23/04/20/1548201&from=rss) - [Dairy Foods Helped Ancient Tibetans Thrive in One of Earth's Most Inhospitable Environments](https://soylentnews.org/article.pl?sid=23/04/20/1548201&from=rss)
 * [2023-04-21, 17:23:00](https://soylentnews.org/article.pl?sid=23/04/20/1546252&from=rss) - [Europe, World: Heating and Breaching](https://soylentnews.org/article.pl?sid=23/04/20/1546252&from=rss)
 * [2023-04-21, 14:39:00](https://soylentnews.org/article.pl?sid=23/04/20/1543244&from=rss) - [Cosmic Antimatter Hints at Origins of Huge Bubbles in Our Galaxy's Center](https://soylentnews.org/article.pl?sid=23/04/20/1543244&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-16, 07:57:00](https://soylentnews.org/article.pl?sid=23/04/15/136215&from=rss) - [Writers and Publishers Face an Existential Threat From AI: Time to Embrace the True Fans Model](https://soylentnews.org/article.pl?sid=23/04/15/136215&from=rss)
 * [2023-04-16, 03:13:00](https://soylentnews.org/article.pl?sid=23/04/15/0148217&from=rss) - [New Model for How Earth's Oceans Formed](https://soylentnews.org/article.pl?sid=23/04/15/0148217&from=rss)
 * [2023-04-15, 22:32:00](https://soylentnews.org/article.pl?sid=23/04/14/1618212&from=rss) - [Linux Kernel Logic Allowed Spectre Attack on Major Cloud](https://soylentnews.org/article.pl?sid=23/04/14/1618212&from=rss)
-* [2023-04-15, 17:48:00](https://soylentnews.org/article.pl?sid=23/04/14/1610220&from=rss) - [ EU Parliament’s Research Service Confirms: Chat Control Violates Fundamental Rights ](https://soylentnews.org/article.pl?sid=23/04/14/1610220&from=rss)
 
 ## [Archives](archives/index.md)
 
