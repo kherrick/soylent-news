@@ -145,6 +145,151 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/04/20/1528201">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/04/20/1528201&amp;from=rss"
+              >This New Technology Could Blow Away GPT-4 and Everything Like
+              It</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-21 @ 09:06:00</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/04/20/1528201"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    [...] The paper's contributing authors include luminaries of
+                    the AI world, such as Yoshua Bengio, MILA's scientific
+                    director, who is a recipient of a 2019 Turing Award,
+                    computing's equivalent of the Nobel Prize. Bengio is widely
+                    credited with developing the attention mechanism long before
+                    Vaswani and team adapted it for the Transformer.
+                  </p>
+                  <p>
+                    Also among the authors is Stanford University computer
+                    science associate professor Christopher Ré, who has helped
+                    in recent years to advance the notion of AI as
+                    <a
+                      href="https://www.zdnet.com/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/"
+                      >"software 2.0"</a
+                    >.
+                  </p>
+                  <p>
+                    To find a sub-quadratic alternative to attention, Poli and
+                    team set about studying how the attention mechanism is doing
+                    what it does, to see if that work could be done more
+                    efficiently.
+                  </p>
+                  <p>
+                    A recent practice in AI science, known as mechanistic
+                    interpretability, is yielding insights about what is going
+                    on deep inside a neural network, inside the computational
+                    "circuits" of attention. You can think of it as taking apart
+                    software the way you would take apart a clock or a PC to see
+                    its parts and figure out how it operates.
+                  </p>
+                  <p>
+                    One work cited by Poli and team is a set of experiments by
+                    researcher Nelson Elhage of AI startup
+                    <a href="https://www.anthropic.com/">Anthropic</a>. Those
+                    experiments take apart the Transformer programs
+                    <a
+                      href="https://transformer-circuits.pub/2021/framework/index.html"
+                      >to see what attention is doing</a
+                    >.
+                  </p>
+                  <p>
+                    In essence, what Elhage and team found is that attention
+                    functions at its most basic level by very simple computer
+                    operations, such as copying a word from recent input and
+                    pasting it into the output.
+                  </p>
+                  <p>
+                    For example, if one starts to type into a large language
+                    model program such as ChatGPT a sentence from Harry Potter
+                    and the Sorcerer's Stone, such as "Mr. Dursley was the
+                    director of a firm called Grunnings...", just typing
+                    "D-u-r-s", the start of the name, might be enough to prompt
+                    the program to complete the name "Dursley" because it has
+                    seen the name in a prior sentence of Sorcerer's Stone. The
+                    system is able to copy from memory the record of the
+                    characters "l-e-y" to autocomplete the sentence.
+                  </p>
+                  <p>
+                    However, the attention operation runs into the quadratic
+                    complexity problem as the amount of words grows and grows.
+                    More words require more of what are known as "weights" or
+                    parameters, to run the attention operation.
+                  </p>
+                  <p>
+                    As the authors write: "The Transformer block is a powerful
+                    tool for sequence modeling, but it is not without its
+                    limitations. One of the most notable is the computational
+                    cost, which grows rapidly as the length of the input
+                    sequence increases."
+                  </p>
+                  <p>
+                    While the technical details of ChatGPT and GPT-4 haven't
+                    been disclosed by OpenAI, it is believed they may have a
+                    trillion or more such parameters. Running these parameters
+                    requires more GPU chips from Nvidia, thus driving up the
+                    compute cost.
+                  </p>
+                  <p>
+                    To reduce that quadratic compute cost, Poli and team replace
+                    the attention operation with what's called a "convolution",
+                    which is one of the oldest operations in AI programs,
+                    refined back in the 1980s. A convolution is just a filter
+                    that can pick out items in data, be it the pixels in a
+                    digital photo or the words in a sentence.
+                  </p>
+                  <p>
+                    Poli and team do a kind of mash-up: they take work done by
+                    Stanford researcher Daniel Y. Fu and team to
+                    <a href="https://openreview.net/pdf?id=COZDy0WYGg"
+                      >apply convolutional filters to sequences of words</a
+                    >, and they combine that with work by scholar David Romero
+                    and colleagues at the Vrije Universiteit Amsterdam that
+                    <a href="https://arxiv.org/pdf/2110.08059.pdf"
+                      >lets the program change filter size on the fly</a
+                    >. That ability to flexibly adapt cuts down on the number of
+                    costly parameters, or, weights, the program needs to have.
+                  </p>
+                  <p>
+                    The result of the mash-up is that a convolution can be
+                    applied to an unlimited amount of text without requiring
+                    more and more parameters in order to copy more and more
+                    data. It's an "attention-free" approach, as the authors put
+                    it.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59361"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/04/20/0326244">
           <h3>
             <a
@@ -158,7 +303,7 @@
             <h4>
               <span>2023-04-21 @ 06:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/20/0326244"
@@ -247,7 +392,7 @@
             <h4>
               <span>2023-04-21 @ 03:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">213</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/20/036228"
@@ -359,7 +504,7 @@
             <h4>
               <span>2023-04-21 @ 00:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">251</span></span
+                >Points: <span class="points">260</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/20/0247234"
@@ -436,7 +581,7 @@
             <h4>
               <span>2023-04-20 @ 22:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">458</span></span
+                >Points: <span class="points">479</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/20/0138200"
@@ -520,7 +665,7 @@
             <h4>
               <span>2023-04-20 @ 19:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">1012</span></span
+                >Points: <span class="points">1028</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/19/1835231"
@@ -583,7 +728,7 @@
             <h4>
               <span>2023-04-20 @ 16:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">554</span></span
+                >Points: <span class="points">559</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/19/1833214"
@@ -708,7 +853,7 @@
             <h4>
               <span>2023-04-20 @ 13:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">512</span></span
+                >Points: <span class="points">518</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/19/1824223"
@@ -791,7 +936,7 @@
             <h4>
               <span>2023-04-20 @ 10:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">711</span></span
+                >Points: <span class="points">713</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/19/1818232"
@@ -885,7 +1030,7 @@
             <h4>
               <span>2023-04-20 @ 08:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">522</span></span
+                >Points: <span class="points">523</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/19/1814235"
@@ -993,7 +1138,7 @@
             <h4>
               <span>2023-04-20 @ 05:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">587</span></span
+                >Points: <span class="points">588</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/19/0256226"
@@ -1069,7 +1214,7 @@
             <h4>
               <span>2023-04-20 @ 02:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">606</span></span
+                >Points: <span class="points">607</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/19/0248220"
@@ -1146,7 +1291,7 @@
             <h4>
               <span>2023-04-19 @ 23:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">615</span></span
+                >Points: <span class="points">616</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/19/0237232"
@@ -1226,7 +1371,7 @@
             <h4>
               <span>2023-04-19 @ 21:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">588</span></span
+                >Points: <span class="points">589</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/19/0222202"
@@ -1324,7 +1469,7 @@
             <h4>
               <span>2023-04-19 @ 18:26:00</span
               ><span class="points-container"
-                >Points: <span class="points">614</span></span
+                >Points: <span class="points">615</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/19/028216"
@@ -1414,7 +1559,7 @@
             <h4>
               <span>2023-04-19 @ 15:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">650</span></span
+                >Points: <span class="points">652</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/18/1828213"
@@ -1506,7 +1651,7 @@
             <h4>
               <span>2023-04-19 @ 12:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">720</span></span
+                >Points: <span class="points">722</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/18/1820220"
@@ -1586,7 +1731,7 @@
             <h4>
               <span>2023-04-19 @ 10:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">768</span></span
+                >Points: <span class="points">769</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/18/1811244"
@@ -1693,7 +1838,7 @@
             <h4>
               <span>2023-04-19 @ 07:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">842</span></span
+                >Points: <span class="points">843</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/18/187234"
@@ -1807,7 +1952,7 @@
             <h4>
               <span>2023-04-19 @ 04:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">583</span></span
+                >Points: <span class="points">584</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/18/1755244"
@@ -1926,7 +2071,7 @@
             <h4>
               <span>2023-04-19 @ 02:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">718</span></span
+                >Points: <span class="points">719</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/18/0455245"
@@ -2049,7 +2194,7 @@
             <h4>
               <span>2023-04-18 @ 23:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">706</span></span
+                >Points: <span class="points">707</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/18/0437222"
@@ -2118,7 +2263,7 @@
             <h4>
               <span>2023-04-18 @ 20:33:00</span
               ><span class="points-container"
-                >Points: <span class="points">1436</span></span
+                >Points: <span class="points">1437</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/18/048203"
@@ -2178,7 +2323,7 @@
             <h4>
               <span>2023-04-18 @ 17:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">1095</span></span
+                >Points: <span class="points">1096</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/18/043250"
@@ -2307,7 +2452,7 @@
             <h4>
               <span>2023-04-18 @ 14:59:00</span
               ><span class="points-container"
-                >Points: <span class="points">608</span></span
+                >Points: <span class="points">609</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/17/1730206"
@@ -2381,7 +2526,7 @@
             <h4>
               <span>2023-04-18 @ 12:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">516</span></span
+                >Points: <span class="points">517</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/17/1712240"
@@ -2441,7 +2586,7 @@
             <h4>
               <span>2023-04-18 @ 09:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">857</span></span
+                >Points: <span class="points">858</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/17/1628205"
@@ -2551,7 +2696,7 @@
             <h4>
               <span>2023-04-18 @ 06:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">511</span></span
+                >Points: <span class="points">512</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/17/1613247"
@@ -2645,7 +2790,7 @@
             <h4>
               <span>2023-04-18 @ 03:57:00</span
               ><span class="points-container"
-                >Points: <span class="points">680</span></span
+                >Points: <span class="points">681</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/17/169211"
@@ -2749,7 +2894,7 @@
             <h4>
               <span>2023-04-18 @ 01:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">1223</span></span
+                >Points: <span class="points">1224</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/17/1059203"
@@ -2816,7 +2961,7 @@
             <h4>
               <span>2023-04-17 @ 22:26:00</span
               ><span class="points-container"
-                >Points: <span class="points">505</span></span
+                >Points: <span class="points">506</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/17/0433246"
@@ -3219,7 +3364,7 @@
             <h4>
               <span>2023-04-17 @ 09:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">943</span></span
+                >Points: <span class="points">945</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/04/16/133210"
@@ -4570,86 +4715,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59280"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/04/13/1543203">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/04/13/1543203&amp;from=rss"
-              >Study Finds Only One Type of Consumer Dictates Price</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-14 @ 20:12:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1299</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/04/13/1543203"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-            <div class="text">
-              <blockquote>
-                <div>
-                  <p>
-                    [...] "Through our research and our models, we contrast
-                    three varieties of retailers, relevant when consumers are
-                    initially uncertain as to which is the best fit," says
-                    Bar-Isaac. "The first is a retailer that offers more choice
-                    through a deeper selection. The second is the retailer that
-                    offers less choice, or a more shallow selection.
-                    Alternatively, an online channel may provide little
-                    opportunity to assess fit, even if there is a deep
-                    selection."
-                  </p>
-                  <p>
-                    The researchers found that the first type of retailers,
-                    those with deeper selections, tend to hold to higher prices
-                    because they know that once a consumer enters the store,
-                    they will likely find the best fit and make a purchase.
-                  </p>
-                  <p>
-                    This means that the one consumer most likely to actually
-                    influence price is the not-so-choosy consumer who starts off
-                    by visiting a shallow store and expect that they will make a
-                    purchase once they get there, as long as they can find a
-                    sufficient fit. If they don't find an acceptable fit, they
-                    will move on.
-                  </p>
-                  <p>
-                    "This group of consumers is the only one in the economy that
-                    compares prices," adds Bar-Isaac. "The size of this group is
-                    large enough that it plays a key role in price
-                    determination."
-                  </p>
-                  <p>
-                    [...] "Still, most consumers are not as likely to search
-                    more than one store to look for the perfect match and a
-                    lower price," says Bar-Isaac. "This helps ensure that stores
-                    we have dubbed 'shallow' are more likely to sell a higher
-                    volume of a given product at a more competitive price, while
-                    stores we've dubbed 'deep' are more likely to sell their
-                    products at a higher price, oftentimes to more selective
-                    consumers."
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59271"
                     >Original Submission</a
                   ></small
                 >
