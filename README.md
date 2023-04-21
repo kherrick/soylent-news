@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-21, 11:51:00](https://soylentnews.org/article.pl?sid=23/04/20/1533247&from=rss) - [Seagate Hit With $300 Million Fine for Shipping 7.4 Million HDDs to Huawei](https://soylentnews.org/article.pl?sid=23/04/20/1533247&from=rss)
 * [2023-04-21, 09:06:00](https://soylentnews.org/article.pl?sid=23/04/20/1528201&from=rss) - [This New Technology Could Blow Away GPT-4 and Everything Like It](https://soylentnews.org/article.pl?sid=23/04/20/1528201&from=rss)
 * [2023-04-21, 06:22:00](https://soylentnews.org/article.pl?sid=23/04/20/0326244&from=rss) - [The EPA is Being Sued for Approving Cancer-Causing Plastic-Based Fuels](https://soylentnews.org/article.pl?sid=23/04/20/0326244&from=rss)
 * [2023-04-21, 03:34:00](https://soylentnews.org/article.pl?sid=23/04/20/036228&from=rss) - [Tencent Cloud Says It's Mass Producing Custom Video Chips](https://soylentnews.org/article.pl?sid=23/04/20/036228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-15, 13:02:00](https://soylentnews.org/article.pl?sid=23/04/14/166251&from=rss) - [Kodi TV Discloses Data Breach After Forum Database for Sale Online](https://soylentnews.org/article.pl?sid=23/04/14/166251&from=rss)
 * [2023-04-15, 08:18:00](https://soylentnews.org/article.pl?sid=23/04/14/0442242&from=rss) - [Arkansas Just Passed an Age-verification Social Media Law With Some Confusing Exemptions](https://soylentnews.org/article.pl?sid=23/04/14/0442242&from=rss)
 * [2023-04-15, 03:36:00](https://soylentnews.org/article.pl?sid=23/04/14/029250&from=rss) - [Deep Space Missions Must Recreate Exact Earth-Like Conditions to Survive, Scientists Argue](https://soylentnews.org/article.pl?sid=23/04/14/029250&from=rss)
-* [2023-04-14, 22:53:00](https://soylentnews.org/article.pl?sid=23/04/13/1547228&from=rss) - [Massachusetts Lawmakers File Bill to Create 4-Day Workweek Pilot](https://soylentnews.org/article.pl?sid=23/04/13/1547228&from=rss)
 
 ## [Archives](archives/index.md)
 
