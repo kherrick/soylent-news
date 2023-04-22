@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-22, 20:34:00](https://soylentnews.org/article.pl?sid=23/04/21/1724225&from=rss) - [Your Fork Could Someday be Made of Sugar, Wood Powders and Degrade on-Demand](https://soylentnews.org/article.pl?sid=23/04/21/1724225&from=rss)
 * [2023-04-22, 15:49:00](https://soylentnews.org/article.pl?sid=23/04/21/0242255&from=rss) - [Archaeologists Unearth a Fanciful Ancient Winery Near Rome](https://soylentnews.org/article.pl?sid=23/04/21/0242255&from=rss)
 * [2023-04-22, 11:04:00](https://soylentnews.org/article.pl?sid=23/04/21/0229252&from=rss) - [AI Poised to Transform Video Compression Landscape](https://soylentnews.org/article.pl?sid=23/04/21/0229252&from=rss)
 * [2023-04-22, 06:16:00](https://soylentnews.org/article.pl?sid=23/04/21/0218200&from=rss) - [Kodiak Robotics Will Haul Freight Autonomously for Tyson Foods](https://soylentnews.org/article.pl?sid=23/04/21/0218200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-17, 03:49:00](https://soylentnews.org/article.pl?sid=23/04/15/1920236&from=rss) - [Colorado is the First US State to Pass a Right-to-repair Law for Farmers](https://soylentnews.org/article.pl?sid=23/04/15/1920236&from=rss)
 * [2023-04-17, 01:07:00](https://soylentnews.org/article.pl?sid=23/04/15/1853212&from=rss) - [Human Rights Groups Raise Alarm Over UN Cybercrime Treaty](https://soylentnews.org/article.pl?sid=23/04/15/1853212&from=rss)
 * [2023-04-16, 22:22:00](https://soylentnews.org/article.pl?sid=23/04/15/1843225&from=rss) - [The 8086 Processor's Microcode Pipeline From Die Analysis](https://soylentnews.org/article.pl?sid=23/04/15/1843225&from=rss)
-* [2023-04-16, 17:29:00](https://soylentnews.org/article.pl?sid=23/04/15/1840216&from=rss) - [A Computer Generated Swatting Service Is Causing Havoc Across America](https://soylentnews.org/article.pl?sid=23/04/15/1840216&from=rss)
 
 ## [Archives](archives/index.md)
 
