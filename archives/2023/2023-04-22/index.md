@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-04-22](index.md)
+
+* [2023-04-22, 01:37:00](https://soylentnews.org/article.pl?sid=23/04/21/029250&from=rss) - [How to Create Your Own Auto-GPT AI Agent](https://soylentnews.org/article.pl?sid=23/04/21/029250&from=rss)
