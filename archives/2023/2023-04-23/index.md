@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 06:11:00](https://soylentnews.org/article.pl?sid=23/04/21/1731255&from=rss) - [Proton Expands its Private Tech Ecosystem With a Password Manager](https://soylentnews.org/article.pl?sid=23/04/21/1731255&from=rss)
 * [2023-04-23, 01:24:00](https://soylentnews.org/article.pl?sid=23/04/21/1727201&from=rss) - [Detailed Notes on Working With OpenBSD on a ThinkPad X270](https://soylentnews.org/article.pl?sid=23/04/21/1727201&from=rss)

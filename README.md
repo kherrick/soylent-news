@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-23, 06:11:00](https://soylentnews.org/article.pl?sid=23/04/21/1731255&from=rss) - [Proton Expands its Private Tech Ecosystem With a Password Manager](https://soylentnews.org/article.pl?sid=23/04/21/1731255&from=rss)
 * [2023-04-23, 01:24:00](https://soylentnews.org/article.pl?sid=23/04/21/1727201&from=rss) - [Detailed Notes on Working With OpenBSD on a ThinkPad X270](https://soylentnews.org/article.pl?sid=23/04/21/1727201&from=rss)
 * [2023-04-22, 20:34:00](https://soylentnews.org/article.pl?sid=23/04/21/1724225&from=rss) - [Your Fork Could Someday be Made of Sugar, Wood Powders and Degrade on-Demand](https://soylentnews.org/article.pl?sid=23/04/21/1724225&from=rss)
 * [2023-04-22, 15:49:00](https://soylentnews.org/article.pl?sid=23/04/21/0242255&from=rss) - [Archaeologists Unearth a Fanciful Ancient Winery Near Rome](https://soylentnews.org/article.pl?sid=23/04/21/0242255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-17, 09:21:00](https://soylentnews.org/article.pl?sid=23/04/16/133210&from=rss) - [Improve Security by Adopting Aviation's 'Just Culture'](https://soylentnews.org/article.pl?sid=23/04/16/133210&from=rss)
 * [2023-04-17, 06:34:00](https://soylentnews.org/article.pl?sid=23/04/15/1929222&from=rss) - [NovoNutrients Wants to Turn CO2 Into Protein](https://soylentnews.org/article.pl?sid=23/04/15/1929222&from=rss)
 * [2023-04-17, 03:49:00](https://soylentnews.org/article.pl?sid=23/04/15/1920236&from=rss) - [Colorado is the First US State to Pass a Right-to-repair Law for Farmers](https://soylentnews.org/article.pl?sid=23/04/15/1920236&from=rss)
-* [2023-04-17, 01:07:00](https://soylentnews.org/article.pl?sid=23/04/15/1853212&from=rss) - [Human Rights Groups Raise Alarm Over UN Cybercrime Treaty](https://soylentnews.org/article.pl?sid=23/04/15/1853212&from=rss)
 
 ## [Archives](archives/index.md)
 
