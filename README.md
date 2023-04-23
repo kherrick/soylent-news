@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-23, 15:43:00](https://soylentnews.org/article.pl?sid=23/04/21/1744258&from=rss) - [New Map of the Universe's Cosmic Growth Supports Einstein's Theory of Gravity](https://soylentnews.org/article.pl?sid=23/04/21/1744258&from=rss)
 * [2023-04-23, 10:57:00](https://soylentnews.org/article.pl?sid=23/04/21/1743200&from=rss) - [AI Weapons Among Non-State Actors May be Impossible to Stop](https://soylentnews.org/article.pl?sid=23/04/21/1743200&from=rss)
 * [2023-04-23, 06:11:00](https://soylentnews.org/article.pl?sid=23/04/21/1731255&from=rss) - [Proton Expands its Private Tech Ecosystem With a Password Manager](https://soylentnews.org/article.pl?sid=23/04/21/1731255&from=rss)
 * [2023-04-23, 01:24:00](https://soylentnews.org/article.pl?sid=23/04/21/1727201&from=rss) - [Detailed Notes on Working With OpenBSD on a ThinkPad X270](https://soylentnews.org/article.pl?sid=23/04/21/1727201&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-17, 14:12:00](https://soylentnews.org/article.pl?sid=23/04/16/1854209&from=rss) - [MEPs Raise Concerns Over Draft EU-US Data Transfer Deal](https://soylentnews.org/article.pl?sid=23/04/16/1854209&from=rss)
 * [2023-04-17, 12:15:00](https://soylentnews.org/article.pl?sid=23/04/17/1212242&from=rss) - [SpaceX's First Orbital Test Flight of Starship Imminent [Scrubbed]](https://soylentnews.org/article.pl?sid=23/04/17/1212242&from=rss)
 * [2023-04-17, 09:21:00](https://soylentnews.org/article.pl?sid=23/04/16/133210&from=rss) - [Improve Security by Adopting Aviation's 'Just Culture'](https://soylentnews.org/article.pl?sid=23/04/16/133210&from=rss)
-* [2023-04-17, 06:34:00](https://soylentnews.org/article.pl?sid=23/04/15/1929222&from=rss) - [NovoNutrients Wants to Turn CO2 Into Protein](https://soylentnews.org/article.pl?sid=23/04/15/1929222&from=rss)
 
 ## [Archives](archives/index.md)
 
