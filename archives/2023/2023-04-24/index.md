@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 23:15:00](https://soylentnews.org/article.pl?sid=23/04/24/041220&from=rss) - [The Classic Map of How the Human Brain Manages Movement Gets an Update](https://soylentnews.org/article.pl?sid=23/04/24/041220&from=rss)
 * [2023-04-24, 20:34:00](https://soylentnews.org/article.pl?sid=23/04/23/1445244&from=rss) - [Your Baby's Gut is Crawling With Unknown Viruses](https://soylentnews.org/article.pl?sid=23/04/23/1445244&from=rss)
 * [2023-04-24, 17:50:00](https://soylentnews.org/article.pl?sid=23/04/23/1443209&from=rss) - [The SpaceX Starship Explosion Was Deliberate](https://soylentnews.org/article.pl?sid=23/04/23/1443209&from=rss)
 * [2023-04-24, 15:05:00](https://soylentnews.org/article.pl?sid=23/04/23/1434204&from=rss) - [Users Report Ryzen 7000X3D Chips Burning Out, Killing Motherboards](https://soylentnews.org/article.pl?sid=23/04/23/1434204&from=rss)
