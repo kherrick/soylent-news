@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-24, 06:49:00](https://soylentnews.org/article.pl?sid=23/04/23/143222&from=rss) - [Red Alert: ICANN and Verisign Proposal Would Allow Any Government in the World to Seize Domain Names](https://soylentnews.org/article.pl?sid=23/04/23/143222&from=rss)
 * [2023-04-24, 04:01:00](https://soylentnews.org/article.pl?sid=23/04/23/1351241&from=rss) - [NASA and Japan Team Up for Unprecedented Martian Moon Mission](https://soylentnews.org/article.pl?sid=23/04/23/1351241&from=rss)
 * [2023-04-24, 01:15:00](https://soylentnews.org/article.pl?sid=23/04/23/1330254&from=rss) - [The Farthest-away Pictures of Earth Ever Taken](https://soylentnews.org/article.pl?sid=23/04/23/1330254&from=rss)
 * [2023-04-23, 20:27:00](https://soylentnews.org/article.pl?sid=23/04/23/1311203&from=rss) - [End of an Era: the Last Two Print Computer Magazines Just Pressed Their Last Issues](https://soylentnews.org/article.pl?sid=23/04/23/1311203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-18, 01:12:00](https://soylentnews.org/article.pl?sid=23/04/17/1059203&from=rss) - [Is Your Smart Car Spying on You](https://soylentnews.org/article.pl?sid=23/04/17/1059203&from=rss)
 * [2023-04-17, 22:26:00](https://soylentnews.org/article.pl?sid=23/04/17/0433246&from=rss) - [Germany and Intel Both Want More From Planned Mega-fab](https://soylentnews.org/article.pl?sid=23/04/17/0433246&from=rss)
 * [2023-04-17, 19:39:00](https://soylentnews.org/article.pl?sid=23/04/17/0251205&from=rss) - [NASA/JPL Snake Robot for Subsurface Planetary Exploration](https://soylentnews.org/article.pl?sid=23/04/17/0251205&from=rss)
-* [2023-04-17, 16:57:00](https://soylentnews.org/article.pl?sid=23/04/16/191203&from=rss) - [Million-year-old Viruses Help Fight Cancer, Say Scientists](https://soylentnews.org/article.pl?sid=23/04/16/191203&from=rss)
 
 ## [Archives](archives/index.md)
 
