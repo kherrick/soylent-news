@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-24, 15:05:00](https://soylentnews.org/article.pl?sid=23/04/23/1434204&from=rss) - [Users Report Ryzen 7000X3D Chips Burning Out, Killing Motherboards](https://soylentnews.org/article.pl?sid=23/04/23/1434204&from=rss)
 * [2023-04-24, 12:21:00](https://soylentnews.org/article.pl?sid=23/04/23/1427245&from=rss) - [Physicists Create the Fattest Schrödinger's Cat Ever](https://soylentnews.org/article.pl?sid=23/04/23/1427245&from=rss)
 * [2023-04-24, 09:34:00](https://soylentnews.org/article.pl?sid=23/04/23/1416234&from=rss) - [Weird SARS-CoV-2 Outbreak in Mink Suggests Hidden Source of Virus in the Wild](https://soylentnews.org/article.pl?sid=23/04/23/1416234&from=rss)
 * [2023-04-24, 06:49:00](https://soylentnews.org/article.pl?sid=23/04/23/143222&from=rss) - [Red Alert: ICANN and Verisign Proposal Would Allow Any Government in the World to Seize Domain Names](https://soylentnews.org/article.pl?sid=23/04/23/143222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-18, 09:28:00](https://soylentnews.org/article.pl?sid=23/04/17/1628205&from=rss) - [German Artist Refuses Award After His AI Image Wins Prestigious Photography Prize](https://soylentnews.org/article.pl?sid=23/04/17/1628205&from=rss)
 * [2023-04-18, 06:43:00](https://soylentnews.org/article.pl?sid=23/04/17/1613247&from=rss) - [Offensive Cyber Company QuaDream Shutting Down Amidst Spyware Accusations](https://soylentnews.org/article.pl?sid=23/04/17/1613247&from=rss)
 * [2023-04-18, 03:57:00](https://soylentnews.org/article.pl?sid=23/04/17/169211&from=rss) - [Detecting Stress in the Office From How People Type and Click](https://soylentnews.org/article.pl?sid=23/04/17/169211&from=rss)
-* [2023-04-18, 01:12:00](https://soylentnews.org/article.pl?sid=23/04/17/1059203&from=rss) - [Is Your Smart Car Spying on You](https://soylentnews.org/article.pl?sid=23/04/17/1059203&from=rss)
 
 ## [Archives](archives/index.md)
 
