@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-24, 20:34:00](https://soylentnews.org/article.pl?sid=23/04/23/1445244&from=rss) - [Your Baby's Gut is Crawling With Unknown Viruses](https://soylentnews.org/article.pl?sid=23/04/23/1445244&from=rss)
 * [2023-04-24, 17:50:00](https://soylentnews.org/article.pl?sid=23/04/23/1443209&from=rss) - [The SpaceX Starship Explosion Was Deliberate](https://soylentnews.org/article.pl?sid=23/04/23/1443209&from=rss)
 * [2023-04-24, 15:05:00](https://soylentnews.org/article.pl?sid=23/04/23/1434204&from=rss) - [Users Report Ryzen 7000X3D Chips Burning Out, Killing Motherboards](https://soylentnews.org/article.pl?sid=23/04/23/1434204&from=rss)
 * [2023-04-24, 12:21:00](https://soylentnews.org/article.pl?sid=23/04/23/1427245&from=rss) - [Physicists Create the Fattest Schrödinger's Cat Ever](https://soylentnews.org/article.pl?sid=23/04/23/1427245&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-18, 14:59:00](https://soylentnews.org/article.pl?sid=23/04/17/1730206&from=rss) - [Stopping Storms From Creating Dangerous Urban Geysers](https://soylentnews.org/article.pl?sid=23/04/17/1730206&from=rss)
 * [2023-04-18, 12:15:00](https://soylentnews.org/article.pl?sid=23/04/17/1712240&from=rss) - [Curiosity Mars Rover Gets its Latest Interplanetary Software Patch](https://soylentnews.org/article.pl?sid=23/04/17/1712240&from=rss)
 * [2023-04-18, 09:28:00](https://soylentnews.org/article.pl?sid=23/04/17/1628205&from=rss) - [German Artist Refuses Award After His AI Image Wins Prestigious Photography Prize](https://soylentnews.org/article.pl?sid=23/04/17/1628205&from=rss)
-* [2023-04-18, 06:43:00](https://soylentnews.org/article.pl?sid=23/04/17/1613247&from=rss) - [Offensive Cyber Company QuaDream Shutting Down Amidst Spyware Accusations](https://soylentnews.org/article.pl?sid=23/04/17/1613247&from=rss)
 
 ## [Archives](archives/index.md)
 
