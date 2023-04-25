@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-25, 15:47:00](https://soylentnews.org/article.pl?sid=23/04/24/1748251&from=rss) - [A Vegan Leather Made of Dormant Fungi Can Repair Itself](https://soylentnews.org/article.pl?sid=23/04/24/1748251&from=rss)
 * [2023-04-25, 13:38:00](https://soylentnews.org/article.pl?sid=23/04/25/1335240&from=rss) - [TODAY: Watch Ispace Attempt to Land on the Moon for the First Time](https://soylentnews.org/article.pl?sid=23/04/25/1335240&from=rss)
 * [2023-04-25, 13:02:00](https://soylentnews.org/article.pl?sid=23/04/24/1743232&from=rss) - [Universal Flu Candidate Vaccine Appears to be Safe and Promising in Small-Scale Trial](https://soylentnews.org/article.pl?sid=23/04/24/1743232&from=rss)
 * [2023-04-25, 10:15:00](https://soylentnews.org/article.pl?sid=23/04/24/1740211&from=rss) - [Linux 6.3 Debuts After ‘Nice, Controlled Release Cycle’](https://soylentnews.org/article.pl?sid=23/04/24/1740211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-19, 12:56:00](https://soylentnews.org/article.pl?sid=23/04/18/1820220&from=rss) - [Database Company MariaDB Makes Cuts to Headcount but Has Financial Concerns](https://soylentnews.org/article.pl?sid=23/04/18/1820220&from=rss)
 * [2023-04-19, 10:13:00](https://soylentnews.org/article.pl?sid=23/04/18/1811244&from=rss) - [SpaceX Starship Launch Countdown to Thursday](https://soylentnews.org/article.pl?sid=23/04/18/1811244&from=rss)
 * [2023-04-19, 07:32:00](https://soylentnews.org/article.pl?sid=23/04/18/187234&from=rss) - [Upgrade Your LUKS Key Derivation Function](https://soylentnews.org/article.pl?sid=23/04/18/187234&from=rss)
-* [2023-04-19, 04:44:00](https://soylentnews.org/article.pl?sid=23/04/18/1755244&from=rss) - [Open Source Bodies Say to EU that Cyber Resilience Act Could Have 'Chilling Effect' on Software](https://soylentnews.org/article.pl?sid=23/04/18/1755244&from=rss)
 
 ## [Archives](archives/index.md)
 
