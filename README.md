@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-25, 13:02:00](https://soylentnews.org/article.pl?sid=23/04/24/1743232&from=rss) - [Universal Flu Candidate Vaccine Appears to be Safe and Promising in Small-Scale Trial](https://soylentnews.org/article.pl?sid=23/04/24/1743232&from=rss)
 * [2023-04-25, 10:15:00](https://soylentnews.org/article.pl?sid=23/04/24/1740211&from=rss) - [Linux 6.3 Debuts After ‘Nice, Controlled Release Cycle’](https://soylentnews.org/article.pl?sid=23/04/24/1740211&from=rss)
 * [2023-04-25, 07:28:00](https://soylentnews.org/article.pl?sid=23/04/24/1736254&from=rss) - [Rats! Rodents Seem to Make the Same Logical Errors Humans Do](https://soylentnews.org/article.pl?sid=23/04/24/1736254&from=rss)
 * [2023-04-25, 04:43:00](https://soylentnews.org/article.pl?sid=23/04/24/1235219&from=rss) - [BuzzFeed News is Shutting Down](https://soylentnews.org/article.pl?sid=23/04/24/1235219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-19, 07:32:00](https://soylentnews.org/article.pl?sid=23/04/18/187234&from=rss) - [Upgrade Your LUKS Key Derivation Function](https://soylentnews.org/article.pl?sid=23/04/18/187234&from=rss)
 * [2023-04-19, 04:44:00](https://soylentnews.org/article.pl?sid=23/04/18/1755244&from=rss) - [Open Source Bodies Say to EU that Cyber Resilience Act Could Have 'Chilling Effect' on Software](https://soylentnews.org/article.pl?sid=23/04/18/1755244&from=rss)
 * [2023-04-19, 02:01:00](https://soylentnews.org/article.pl?sid=23/04/18/0455245&from=rss) - [Parler's New Owner Immediately Took the Social Network Offline](https://soylentnews.org/article.pl?sid=23/04/18/0455245&from=rss)
-* [2023-04-18, 23:19:00](https://soylentnews.org/article.pl?sid=23/04/18/0437222&from=rss) - [The Great Salt Lake is Shrinking. What Can We Do to Stop It?](https://soylentnews.org/article.pl?sid=23/04/18/0437222&from=rss)
 
 ## [Archives](archives/index.md)
 
