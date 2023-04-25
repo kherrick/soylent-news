@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 21:13:00](https://soylentnews.org/article.pl?sid=23/04/25/0130211&from=rss) - [Linux Foundation Launches New Organization to Maintain TLA+](https://soylentnews.org/article.pl?sid=23/04/25/0130211&from=rss)
 * [2023-04-25, 18:31:00](https://soylentnews.org/article.pl?sid=23/04/24/1750254&from=rss) - [Simulating a Secure Future](https://soylentnews.org/article.pl?sid=23/04/24/1750254&from=rss)
 * [2023-04-25, 15:47:00](https://soylentnews.org/article.pl?sid=23/04/24/1748251&from=rss) - [A Vegan Leather Made of Dormant Fungi Can Repair Itself](https://soylentnews.org/article.pl?sid=23/04/24/1748251&from=rss)
 * [2023-04-25, 13:38:00](https://soylentnews.org/article.pl?sid=23/04/25/1335240&from=rss) - [TODAY: Watch Ispace Attempt to Land on the Moon for the First Time](https://soylentnews.org/article.pl?sid=23/04/25/1335240&from=rss)

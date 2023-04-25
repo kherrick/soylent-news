@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-25, 21:13:00](https://soylentnews.org/article.pl?sid=23/04/25/0130211&from=rss) - [Linux Foundation Launches New Organization to Maintain TLA+](https://soylentnews.org/article.pl?sid=23/04/25/0130211&from=rss)
 * [2023-04-25, 18:31:00](https://soylentnews.org/article.pl?sid=23/04/24/1750254&from=rss) - [Simulating a Secure Future](https://soylentnews.org/article.pl?sid=23/04/24/1750254&from=rss)
 * [2023-04-25, 15:47:00](https://soylentnews.org/article.pl?sid=23/04/24/1748251&from=rss) - [A Vegan Leather Made of Dormant Fungi Can Repair Itself](https://soylentnews.org/article.pl?sid=23/04/24/1748251&from=rss)
 * [2023-04-25, 13:38:00](https://soylentnews.org/article.pl?sid=23/04/25/1335240&from=rss) - [TODAY: Watch Ispace Attempt to Land on the Moon for the First Time](https://soylentnews.org/article.pl?sid=23/04/25/1335240&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-19, 18:26:00](https://soylentnews.org/article.pl?sid=23/04/19/028216&from=rss) - [+45. If only most of us were so lucky. ](https://soylentnews.org/article.pl?sid=23/04/19/028216&from=rss)
 * [2023-04-19, 15:43:00](https://soylentnews.org/article.pl?sid=23/04/18/1828213&from=rss) - [For Cybercriminal Mischief, It’s Dark Web Vs Deep Web](https://soylentnews.org/article.pl?sid=23/04/18/1828213&from=rss)
 * [2023-04-19, 12:56:00](https://soylentnews.org/article.pl?sid=23/04/18/1820220&from=rss) - [Database Company MariaDB Makes Cuts to Headcount but Has Financial Concerns](https://soylentnews.org/article.pl?sid=23/04/18/1820220&from=rss)
-* [2023-04-19, 10:13:00](https://soylentnews.org/article.pl?sid=23/04/18/1811244&from=rss) - [SpaceX Starship Launch Countdown to Thursday](https://soylentnews.org/article.pl?sid=23/04/18/1811244&from=rss)
 
 ## [Archives](archives/index.md)
 
