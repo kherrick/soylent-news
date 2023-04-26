@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-26, 11:02:00](https://soylentnews.org/article.pl?sid=23/04/25/1338208&from=rss) - [Bad Medical News Causes Patients to Choose Brand Name Drugs Over Generics, Costing Billions](https://soylentnews.org/article.pl?sid=23/04/25/1338208&from=rss)
 * [2023-04-26, 08:16:00](https://soylentnews.org/article.pl?sid=23/04/25/1332213&from=rss) - [AMD Ryzen 7000 Burning Out: Root Cause Identified, EXPO and SoC Voltages to Blame](https://soylentnews.org/article.pl?sid=23/04/25/1332213&from=rss)
 * [2023-04-26, 05:32:00](https://soylentnews.org/article.pl?sid=23/04/25/0236224&from=rss) - [The FDA Would Like to Remind You Not to Put Amniotic Fluid in Your Eyes](https://soylentnews.org/article.pl?sid=23/04/25/0236224&from=rss)
 * [2023-04-26, 02:45:00](https://soylentnews.org/article.pl?sid=23/04/25/0158205&from=rss) - [This NASA Telescope Has Discovered 329 New Exoplanets in Just Five Years](https://soylentnews.org/article.pl?sid=23/04/25/0158205&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-20, 08:13:00](https://soylentnews.org/article.pl?sid=23/04/19/1814235&from=rss) - [Europe Will Invest €43 Billion to Make its Own Microchips](https://soylentnews.org/article.pl?sid=23/04/19/1814235&from=rss)
 * [2023-04-20, 05:24:00](https://soylentnews.org/article.pl?sid=23/04/19/0256226&from=rss) - [GS1 Proposes Sunrise 2027 for 2D Barcodes on Products](https://soylentnews.org/article.pl?sid=23/04/19/0256226&from=rss)
 * [2023-04-20, 02:39:00](https://soylentnews.org/article.pl?sid=23/04/19/0248220&from=rss) - [Whisper Aero Wants to Make Aviation, and the Rest of the World, Quieter](https://soylentnews.org/article.pl?sid=23/04/19/0248220&from=rss)
-* [2023-04-19, 23:52:00](https://soylentnews.org/article.pl?sid=23/04/19/0237232&from=rss) - [Recycled Core Routers Exposed Sensitive Corporate Network Info](https://soylentnews.org/article.pl?sid=23/04/19/0237232&from=rss)
 
 ## [Archives](archives/index.md)
 
