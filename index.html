@@ -145,6 +145,102 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/04/25/1332213">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/04/25/1332213&amp;from=rss"
+              >AMD Ryzen 7000 Burning Out: Root Cause Identified, EXPO and SoC
+              Voltages to Blame</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-26 @ 08:16:00</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/04/25/1332213"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    The chip continues to receive excessive current through the
+                    motherboard socket during this death spiral of sorts, thus
+                    leading to the visible damage we can see in the socket to
+                    the vCore pins and the bulging on the chip's LGA pads.
+                    However, less visible damage also extends to the CPU SoC,
+                    CPU_VDDCR_SOC, and CPU VDD MISC rails/pins — they just don't
+                    pull enough current to leave visible scorching like we see
+                    with the vCore pins.
+                  </p>
+                  <p>
+                    We do know that 1.25V is the recommended safe SoC voltage
+                    limit, and we're told that 1.4V and beyond definitely
+                    increases the <em>likelihood</em> of the condition
+                    occurring. To be clear, running beyond 1.4V doesn't ensure
+                    that your chip will burn out, but your odds will increase.
+                    Conversely, 1.35V appears to be "safe." Proceed at your own
+                    risk, though.
+                  </p>
+                  <p>
+                    Our sources say that AMD is working on a fix that includes a
+                    voltage cap or lock in the firmware/SMU, which should
+                    prevent EXPO memory profiles and simple BIOS manipulations
+                    from exceeding an as-yet-undefined limit. We're also told
+                    that AMD can't completely prevent SoC voltage manipulations
+                    because the amount fed to the chip is dictated by the VRMs,
+                    leaving a means for crafty motherboard vendors to allow
+                    voltage changes despite AMD's lock (this would not be the
+                    first time motherboard vendors have circumvented limits to
+                    offer rare functionalities).
+                  </p>
+                  <p>
+                    A few motherboard vendors, like ASUS and MSI, have already
+                    issued new BIOSes to correct some of the issues. However, we
+                    have confirmed that failures have also occurred on Biostar,
+                    ASRock, and Gigabyte boards, so all vendors are impacted to
+                    some degree.
+                  </p>
+                  <p>
+                    As with all forms of overclocking, any damage from using an
+                    EXPO overclocking profile is not covered by your warranty,
+                    but given the situation, we don't think that AMD or the
+                    motherboard vendors would use the lack of warrantied EXPO
+                    support to invalidate warranties.
+                  </p>
+                  <p>
+                    The advertised performance you get from an EXPO profile is
+                    also not guaranteed by the chipmaker. It's also noteworthy
+                    that AMD's purportedly planned SoC voltage cap could lead to
+                    lower stable memory overclocking frequencies. However, we
+                    don't think that will matter too much to most Ryzen 7000
+                    owners, as the sweet spot DDR5-6000 should work just fine
+                    within the proposed limits. However, extreme overclockers
+                    and those pushing the very bleeding edge of performance
+                    could end up with lower overclocking limits. Time will tell.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59412"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/04/25/0236224">
           <h3>
             <a
@@ -4477,104 +4573,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59323"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/04/19/0222202">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/04/19/0222202&amp;from=rss"
-              >An Old NASA Spacecraft Will Crash to Earth on Wednesday</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-19 @ 21:09:00</span
-              ><span class="points-container"
-                >Points: <span class="points">761</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/04/19/0222202"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
-              <p>
-                <a
-                  href="https://www.digitaltrends.com/space/nasa-rhessi-spacecraft-will-crash-to-earth/"
-                  >An old NASA spacecraft will crash to Earth on Wednesday</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    A retired NASA spacecraft will reenter Earth's atmosphere on
-                    Wednesday, with some parts of the vehicle expected to crash
-                    to the planet's surface.
-                  </p>
-                  <p>
-                    While most of the Reuven Ramaty High Energy Solar
-                    Spectroscopic Imager (RHESSI) spacecraft is expected to burn
-                    up as it enters the atmosphere at high speed, some parts of
-                    the 660-pound (300-kilogram) machine are likely to survive
-                    the descent.
-                  </p>
-                  <p>
-                    The good news is that
-                    <a
-                      href="https://www.nasa.gov/feature/nasa-retired-solar-energy-imager-spacecraft-to-reenter-atmosphere"
-                      >NASA says</a
-                    >
-                    that the risk of harm coming to folks on terra firma is low
-                    at "approximately 1 in 2,467." Still, for anyone wishing to
-                    don a hard hat just in case, RHESSI is expected to reenter
-                    the atmosphere at about 9:30 p.m. ET on Wednesday, April 19,
-                    though the forecast comes with an uncertainty of plus/minus
-                    16 hours.
-                  </p>
-                  <p>
-                    [...] RHESSI entered service in 2002 and, until its
-                    retirement in 2018, it observed solar flares and coronal
-                    mass ejections from its low-Earth orbit. Its work enabled
-                    scientists to learn more about the underlying physics of how
-                    these powerful bursts of energy occur.
-                  </p>
-                  <p>
-                    The spacecraft's activities included imaging the high-energy
-                    electrons that carry a large part of the energy released in
-                    solar flares. Using its imaging spectrometer, RHESSI became
-                    the first-ever mission to record gamma-ray images and
-                    high-energy X-ray images of solar flares.
-                  </p>
-                  <p>
-                    [...] The mission also helped to improve measurements of the
-                    sun's shape, and demonstrated that terrestrial gamma ray
-                    flashes — described by NASA as "bursts of gamma rays emitted
-                    from high in Earth's atmosphere" and which occur above some
-                    thunderstorms — happen more frequently than first thought.
-                  </p>
-                  <p>
-                    NASA said it retired RHESSI in 2018 after maintaining
-                    communications with it became difficult. After retaining its
-                    low-Earth orbit for the last five years, the spacecraft is
-                    about to meet a fiery end.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59331"
                     >Original Submission</a
                   ></small
                 >
