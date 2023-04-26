@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 20:23:00](https://soylentnews.org/article.pl?sid=23/04/25/1354253&from=rss) - [The Intel 8086 Processor's Registers: From Chip to Transistors](https://soylentnews.org/article.pl?sid=23/04/25/1354253&from=rss)
 * [2023-04-26, 17:39:00](https://soylentnews.org/article.pl?sid=23/04/25/1351258&from=rss) - [Balloon-borne Telescope Returns First Photos in Search for Dark Matter](https://soylentnews.org/article.pl?sid=23/04/25/1351258&from=rss)
 * [2023-04-26, 13:53:00](https://soylentnews.org/article.pl?sid=23/04/25/1345232&from=rss) - [Ultrasound Reveals Trees’ Drought-survival Secrets](https://soylentnews.org/article.pl?sid=23/04/25/1345232&from=rss)
 * [2023-04-26, 11:02:00](https://soylentnews.org/article.pl?sid=23/04/25/1338208&from=rss) - [Bad Medical News Causes Patients to Choose Brand Name Drugs Over Generics, Costing Billions](https://soylentnews.org/article.pl?sid=23/04/25/1338208&from=rss)
