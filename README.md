@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-27, 04:39:00](https://soylentnews.org/article.pl?sid=23/04/26/0237227&from=rss) - [Yet Again, the Copyright Industry Demands to be Shielded From Technological Progress](https://soylentnews.org/article.pl?sid=23/04/26/0237227&from=rss)
 * [2023-04-27, 01:52:00](https://soylentnews.org/article.pl?sid=23/04/26/024213&from=rss) - [IBM Starts Renting Cloudy Bare Metal Linux Almost-Mainframes](https://soylentnews.org/article.pl?sid=23/04/26/024213&from=rss)
 * [2023-04-26, 23:08:00](https://soylentnews.org/article.pl?sid=23/04/26/0151208&from=rss) - [Biofriendly Transient Devices Emerge](https://soylentnews.org/article.pl?sid=23/04/26/0151208&from=rss)
 * [2023-04-26, 20:23:00](https://soylentnews.org/article.pl?sid=23/04/25/1354253&from=rss) - [The Intel 8086 Processor's Registers: From Chip to Transistors](https://soylentnews.org/article.pl?sid=23/04/25/1354253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-21, 00:48:00](https://soylentnews.org/article.pl?sid=23/04/20/0247234&from=rss) - [3D-Printed Rocket Didn't Reach Orbit, but Relativity Space is Already Building its Successor](https://soylentnews.org/article.pl?sid=23/04/20/0247234&from=rss)
 * [2023-04-20, 22:03:00](https://soylentnews.org/article.pl?sid=23/04/20/0138200&from=rss) - [Hearing Loss May Become Reversible.](https://soylentnews.org/article.pl?sid=23/04/20/0138200&from=rss)
 * [2023-04-20, 19:14:00](https://soylentnews.org/article.pl?sid=23/04/19/1835231&from=rss) - [Tech Employees Say They Were Being Paid to Do Nothing All Day](https://soylentnews.org/article.pl?sid=23/04/19/1835231&from=rss)
-* [2023-04-20, 16:28:00](https://soylentnews.org/article.pl?sid=23/04/19/1833214&from=rss) - [Inside the Secret List of Websites That Make AI Like ChatGPT Sound Smart](https://soylentnews.org/article.pl?sid=23/04/19/1833214&from=rss)
 
 ## [Archives](archives/index.md)
 
