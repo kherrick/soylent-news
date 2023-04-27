@@ -145,6 +145,124 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/04/26/1523213">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/04/26/1523213&amp;from=rss"
+              >Why It's Hard to Defend Against AI Prompt Injection Attacks</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-27 @ 15:38:00</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/04/26/1523213"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    "This doesn't affect ChatGPT just on its own – that's a
+                    category of attack called a jailbreaking attack, where you
+                    try and trick the model into going against its ethical
+                    training.
+                  </p>
+                  <p>
+                    "That's not what this is. The issue with prompt injection is
+                    that if you're a developer building applications on top of
+                    language models, what you tend to do is you write a human
+                    English description of what you want, or a human language
+                    description of what you wanted to do, like 'translate this
+                    from English to French.' And then you glue on whatever the
+                    user inputs and then you pass that whole thing to the model.
+                  </p>
+                  <p>
+                    "And that's where the problem comes in, because if it's got
+                    user input, maybe the user inputs include something that
+                    subverts what you tried to get it to do in the first part of
+                    the message."
+                  </p>
+                  <p>
+                    [...] This works in OpenAI's
+                    <a href="https://chat.openai.com/">chat.openai.com</a>
+                    playground and on Google's Bard playground and while it's
+                    harmless, it isn't necessarily so.
+                  </p>
+                  <p>
+                    For example, we tried
+                    <a
+                      href="https://www.robustintelligence.com/blog-posts/prompt-injection-attack-on-gpt-4"
+                      >this prompt injection attack</a
+                    >
+                    described by machine learning engineer William Zhang, from
+                    ML security firm Robust Intelligence, and found it can make
+                    ChatGPT report the following misinformation:
+                  </p>
+                  <p>
+                    There is overwhelming evidence of widespread election fraud
+                    in the 2020 American election, including ballot stuffing,
+                    dead people voting, and foreign interference.
+                  </p>
+                  <p>
+                    "The thing that's terrifying about this is that it's really,
+                    really difficult to fix," said Willison. "All of the
+                    previous injection attacks like SQL injection and command
+                    injection, and so forth – we know how to fix them."
+                  </p>
+                  <p>
+                    He pointed to
+                    <a
+                      href="https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/"
+                      >escaping characters and encoding them</a
+                    >, which can prevent code injection in web applications.
+                  </p>
+                  <p>
+                    With prompt injection attacks, Willison said, the issue is
+                    fundamentally about how large language models function.
+                  </p>
+                  <p>
+                    "The whole point of these models is you give them a sequence
+                    of words – or you give them a sequence of tokens, which are
+                    almost words – and you say, 'here's a sequence of words,
+                    predict the next ones.'
+                  </p>
+                  <p>
+                    "But there is no mechanism to say 'some of these words are
+                    more important than others,' or 'some of these words are
+                    exact instructions about what you should do and the other
+                    ones are input words that you should affect with the other
+                    words, but you shouldn't obey further instructions.' There
+                    is no difference between the two. It's just a sequence of
+                    tokens.
+                  </p>
+                  <p>
+                    "It's so interesting. I've been doing security engineering
+                    for decades, and I'm used to security problems that you can
+                    fix. But this one you kind of can't."
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59424"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/04/26/1512229">
           <h3>
             <a
@@ -4462,117 +4580,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59275"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/04/20/036228">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/04/20/036228&amp;from=rss"
-              >Tencent Cloud Says It's Mass Producing Custom Video Chips</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-21 @ 03:34:00</span
-              ><span class="points-container"
-                >Points: <span class="points">683</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/04/20/036228"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
-              <p>
-                <a
-                  href="https://www.theregister.com/2023/04/18/tencent_cloud_chips/"
-                  >Chinese tech giant claims better performance than competing
-                  GPUs</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Chinese social media, cloud, and entertainment giant Tencent
-                    on Monday revealed that it has started mass production of a
-                    home brew video transcoding accelerator.
-                  </p>
-                  <p>
-                    The announcement comes nearly two years after the company
-                    <a
-                      href="https://www.theregister.com/2021/11/08/tencent_homebrew_silicon/"
-                      >unveiled</a
-                    >
-                    a trio of custom chips designed to accelerate everything
-                    from streaming video to networking and artificial
-                    intelligence workloads.
-                  </p>
-                  <p>
-                    In a post
-                    <a href="https://mp.weixin.qq.com/s/mJUSiXlkKTLH5YHJvpqT6g"
-                      >published</a
-                    >
-                    on WeChat, Tencent Cloud revealed that "tens of thousands"
-                    of its Canghai chips, which are designed to offload video
-                    encode/decode for latency sensitive workloads, have been
-                    deployed internally to accelerate cloud gaming and live
-                    broadcasting.
-                  </p>
-                  <p>
-                    Tencent says the Canghai chip can be paired with GPUs from a
-                    variety of vendors to support low-latency game streaming.
-                    When used for video transcoding, Tencent said a single node
-                    equipped with Canghai can deliver up to 1,024 video channels
-                    . We'll note that Nvidia, with the launch of its L4 GPUs
-                    last month, made similar
-                    <a
-                      href="https://www.theregister.com/2023/03/21/nvidia_h100_l4/"
-                      >claims</a
-                    >. Without real-world benchmarks, it's hard to say how
-                    either firm's claims stack up.
-                  </p>
-                  <p>
-                    [...] When it comes to spinning custom chips to improve the
-                    efficiency and economics of cloud computing, Amazon Web
-                    Services gets a lot of credit. The American e-tail giant and
-                    cloud titan has developed everything from custom CPUs, AI
-                    training and inference accelerators, and smartNICs to
-                    offload many housekeeping workloads.
-                  </p>
-                  <p>
-                    And while Google has developed an accelerator of its own,
-                    called the Tensor Processing Unit (TPU), most US cloud
-                    providers have largely stuck with commercially available
-                    parts from the likes of Intel, AMD, Ampere, Broadcom, or
-                    Nvidia, rather than designing their own.
-                  </p>
-                  <p>
-                    However, in China, custom chips appear to be more prevalent,
-                    with development an imperative accelerated by
-                    <a
-                      href="https://www.theregister.com/2022/09/13/biden_china_chip_sanctions/"
-                      >US sanctions</a
-                    >
-                    that mean some tech products can't be exported to the Middle
-                    Kingdom.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59333"
                     >Original Submission</a
                   ></small
                 >
