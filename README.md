@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-27, 12:53:00](https://soylentnews.org/article.pl?sid=23/04/26/1512229&from=rss) - [Even Worms Get the Munchies](https://soylentnews.org/article.pl?sid=23/04/26/1512229&from=rss)
 * [2023-04-27, 10:09:00](https://soylentnews.org/article.pl?sid=23/04/26/1510210&from=rss) - [Bosch to Acquire TSI Semiconductors for $1.5B to Boost US Chip Production](https://soylentnews.org/article.pl?sid=23/04/26/1510210&from=rss)
 * [2023-04-27, 07:26:00](https://soylentnews.org/article.pl?sid=23/04/26/0245235&from=rss) - [China Joins US and Europe in Musing on 3D-printed Moon Bases](https://soylentnews.org/article.pl?sid=23/04/26/0245235&from=rss)
 * [2023-04-27, 04:39:00](https://soylentnews.org/article.pl?sid=23/04/26/0237227&from=rss) - [Yet Again, the Copyright Industry Demands to be Shielded From Technological Progress](https://soylentnews.org/article.pl?sid=23/04/26/0237227&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-21, 09:06:00](https://soylentnews.org/article.pl?sid=23/04/20/1528201&from=rss) - [This New Technology Could Blow Away GPT-4 and Everything Like It](https://soylentnews.org/article.pl?sid=23/04/20/1528201&from=rss)
 * [2023-04-21, 06:22:00](https://soylentnews.org/article.pl?sid=23/04/20/0326244&from=rss) - [The EPA is Being Sued for Approving Cancer-Causing Plastic-Based Fuels](https://soylentnews.org/article.pl?sid=23/04/20/0326244&from=rss)
 * [2023-04-21, 03:34:00](https://soylentnews.org/article.pl?sid=23/04/20/036228&from=rss) - [Tencent Cloud Says It's Mass Producing Custom Video Chips](https://soylentnews.org/article.pl?sid=23/04/20/036228&from=rss)
-* [2023-04-21, 00:48:00](https://soylentnews.org/article.pl?sid=23/04/20/0247234&from=rss) - [3D-Printed Rocket Didn't Reach Orbit, but Relativity Space is Already Building its Successor](https://soylentnews.org/article.pl?sid=23/04/20/0247234&from=rss)
 
 ## [Archives](archives/index.md)
 
