@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 23:58:00](https://soylentnews.org/article.pl?sid=23/04/27/0155231&from=rss) - [The First Babies Conceived With a Sperm-injecting Robot Have Been Born](https://soylentnews.org/article.pl?sid=23/04/27/0155231&from=rss)
 * [2023-04-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/04/26/1529200&from=rss) - ['Urgent' Need for Cyber Defense in Space](https://soylentnews.org/article.pl?sid=23/04/26/1529200&from=rss)
 * [2023-04-27, 18:23:00](https://soylentnews.org/article.pl?sid=23/04/26/1515215&from=rss) - [Waabi Sets Up Advisory Board-of Experienced Truck Drivers](https://soylentnews.org/article.pl?sid=23/04/26/1515215&from=rss)
 * [2023-04-27, 15:38:00](https://soylentnews.org/article.pl?sid=23/04/26/1523213&from=rss) - [Why It's Hard to Defend Against AI Prompt Injection Attacks](https://soylentnews.org/article.pl?sid=23/04/26/1523213&from=rss)

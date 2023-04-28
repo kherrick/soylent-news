@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-27, 23:58:00](https://soylentnews.org/article.pl?sid=23/04/27/0155231&from=rss) - [The First Babies Conceived With a Sperm-injecting Robot Have Been Born](https://soylentnews.org/article.pl?sid=23/04/27/0155231&from=rss)
 * [2023-04-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/04/26/1529200&from=rss) - ['Urgent' Need for Cyber Defense in Space](https://soylentnews.org/article.pl?sid=23/04/26/1529200&from=rss)
 * [2023-04-27, 18:23:00](https://soylentnews.org/article.pl?sid=23/04/26/1515215&from=rss) - [Waabi Sets Up Advisory Board-of Experienced Truck Drivers](https://soylentnews.org/article.pl?sid=23/04/26/1515215&from=rss)
 * [2023-04-27, 15:38:00](https://soylentnews.org/article.pl?sid=23/04/26/1523213&from=rss) - [Why It's Hard to Defend Against AI Prompt Injection Attacks](https://soylentnews.org/article.pl?sid=23/04/26/1523213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-21, 20:07:00](https://soylentnews.org/article.pl?sid=23/04/20/1548201&from=rss) - [Dairy Foods Helped Ancient Tibetans Thrive in One of Earth's Most Inhospitable Environments](https://soylentnews.org/article.pl?sid=23/04/20/1548201&from=rss)
 * [2023-04-21, 17:23:00](https://soylentnews.org/article.pl?sid=23/04/20/1546252&from=rss) - [Europe, World: Heating and Breaching](https://soylentnews.org/article.pl?sid=23/04/20/1546252&from=rss)
 * [2023-04-21, 14:39:00](https://soylentnews.org/article.pl?sid=23/04/20/1543244&from=rss) - [Cosmic Antimatter Hints at Origins of Huge Bubbles in Our Galaxy's Center](https://soylentnews.org/article.pl?sid=23/04/20/1543244&from=rss)
-* [2023-04-21, 11:51:00](https://soylentnews.org/article.pl?sid=23/04/20/1533247&from=rss) - [Seagate Hit With $300 Million Fine for Shipping 7.4 Million HDDs to Huawei](https://soylentnews.org/article.pl?sid=23/04/20/1533247&from=rss)
 
 ## [Archives](archives/index.md)
 
