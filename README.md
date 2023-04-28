@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-28, 05:37:00](https://soylentnews.org/article.pl?sid=23/04/27/0219238&from=rss) - [Google's New 2FA Isn't End-to-End Encrypted, Tests Show](https://soylentnews.org/article.pl?sid=23/04/27/0219238&from=rss)
 * [2023-04-28, 02:49:00](https://soylentnews.org/article.pl?sid=23/04/27/0210249&from=rss) - [Discord Starts Testing ChatGPT-Powered Clyde Chatbot and Other AI Features](https://soylentnews.org/article.pl?sid=23/04/27/0210249&from=rss)
 * [2023-04-27, 23:58:00](https://soylentnews.org/article.pl?sid=23/04/27/0155231&from=rss) - [The First Babies Conceived With a Sperm-injecting Robot Have Been Born](https://soylentnews.org/article.pl?sid=23/04/27/0155231&from=rss)
 * [2023-04-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/04/26/1529200&from=rss) - ['Urgent' Need for Cyber Defense in Space](https://soylentnews.org/article.pl?sid=23/04/26/1529200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-22, 01:37:00](https://soylentnews.org/article.pl?sid=23/04/21/029250&from=rss) - [How to Create Your Own Auto-GPT AI Agent](https://soylentnews.org/article.pl?sid=23/04/21/029250&from=rss)
 * [2023-04-21, 22:49:00](https://soylentnews.org/article.pl?sid=23/04/21/021207&from=rss) - [A Prehistoric Method for Tailoring Clothes May be Written in Bone](https://soylentnews.org/article.pl?sid=23/04/21/021207&from=rss)
 * [2023-04-21, 20:07:00](https://soylentnews.org/article.pl?sid=23/04/20/1548201&from=rss) - [Dairy Foods Helped Ancient Tibetans Thrive in One of Earth's Most Inhospitable Environments](https://soylentnews.org/article.pl?sid=23/04/20/1548201&from=rss)
-* [2023-04-21, 17:23:00](https://soylentnews.org/article.pl?sid=23/04/20/1546252&from=rss) - [Europe, World: Heating and Breaching](https://soylentnews.org/article.pl?sid=23/04/20/1546252&from=rss)
 
 ## [Archives](archives/index.md)
 
