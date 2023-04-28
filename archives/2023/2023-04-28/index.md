@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-04-28](index.md)
+
+* [2023-04-28, 02:49:00](https://soylentnews.org/article.pl?sid=23/04/27/0210249&from=rss) - [Discord Starts Testing ChatGPT-Powered Clyde Chatbot and Other AI Features](https://soylentnews.org/article.pl?sid=23/04/27/0210249&from=rss)
