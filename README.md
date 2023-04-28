@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-28, 16:39:00](https://soylentnews.org/article.pl?sid=23/04/27/1511232&from=rss) - [Scientists Think They've Finally Figured Out How a Maya Calendar Works](https://soylentnews.org/article.pl?sid=23/04/27/1511232&from=rss)
 * [2023-04-28, 13:52:00](https://soylentnews.org/article.pl?sid=23/04/27/158230&from=rss) - [File Not Found](https://soylentnews.org/article.pl?sid=23/04/27/158230&from=rss)
 * [2023-04-28, 11:09:00](https://soylentnews.org/article.pl?sid=23/04/27/1431238&from=rss) - [UK Government Blocks Microsoft's Proposed Activision Purchase](https://soylentnews.org/article.pl?sid=23/04/27/1431238&from=rss)
 * [2023-04-28, 08:25:00](https://soylentnews.org/article.pl?sid=23/04/27/0229246&from=rss) - [Mysterious Near-Earth Asteroid Phaethon Just Got Even Weirder](https://soylentnews.org/article.pl?sid=23/04/27/0229246&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-22, 20:34:00](https://soylentnews.org/article.pl?sid=23/04/21/1724225&from=rss) - [Your Fork Could Someday be Made of Sugar, Wood Powders and Degrade on-Demand](https://soylentnews.org/article.pl?sid=23/04/21/1724225&from=rss)
 * [2023-04-22, 15:49:00](https://soylentnews.org/article.pl?sid=23/04/21/0242255&from=rss) - [Archaeologists Unearth a Fanciful Ancient Winery Near Rome](https://soylentnews.org/article.pl?sid=23/04/21/0242255&from=rss)
 * [2023-04-22, 11:04:00](https://soylentnews.org/article.pl?sid=23/04/21/0229252&from=rss) - [AI Poised to Transform Video Compression Landscape](https://soylentnews.org/article.pl?sid=23/04/21/0229252&from=rss)
-* [2023-04-22, 06:16:00](https://soylentnews.org/article.pl?sid=23/04/21/0218200&from=rss) - [Kodiak Robotics Will Haul Freight Autonomously for Tyson Foods](https://soylentnews.org/article.pl?sid=23/04/21/0218200&from=rss)
 
 ## [Archives](archives/index.md)
 

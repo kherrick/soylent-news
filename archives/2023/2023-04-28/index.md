@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 16:39:00](https://soylentnews.org/article.pl?sid=23/04/27/1511232&from=rss) - [Scientists Think They've Finally Figured Out How a Maya Calendar Works](https://soylentnews.org/article.pl?sid=23/04/27/1511232&from=rss)
 * [2023-04-28, 13:52:00](https://soylentnews.org/article.pl?sid=23/04/27/158230&from=rss) - [File Not Found](https://soylentnews.org/article.pl?sid=23/04/27/158230&from=rss)
 * [2023-04-28, 11:09:00](https://soylentnews.org/article.pl?sid=23/04/27/1431238&from=rss) - [UK Government Blocks Microsoft's Proposed Activision Purchase](https://soylentnews.org/article.pl?sid=23/04/27/1431238&from=rss)
 * [2023-04-28, 08:25:00](https://soylentnews.org/article.pl?sid=23/04/27/0229246&from=rss) - [Mysterious Near-Earth Asteroid Phaethon Just Got Even Weirder](https://soylentnews.org/article.pl?sid=23/04/27/0229246&from=rss)
