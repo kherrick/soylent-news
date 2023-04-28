@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-28, 22:11:00](https://soylentnews.org/article.pl?sid=23/04/27/1524239&from=rss) - [Tesla's Carbon Footprint is Finally Coming Into Focus, and It's Bigger Than They Admitted](https://soylentnews.org/article.pl?sid=23/04/27/1524239&from=rss)
 * [2023-04-28, 19:23:00](https://soylentnews.org/politics/article.pl?sid=23/04/27/1518207&from=rss) - [Brace Yourself for the 2024 Deepfake Election](https://soylentnews.org/politics/article.pl?sid=23/04/27/1518207&from=rss)
 * [2023-04-28, 16:39:00](https://soylentnews.org/article.pl?sid=23/04/27/1511232&from=rss) - [Scientists Think They've Finally Figured Out How a Maya Calendar Works](https://soylentnews.org/article.pl?sid=23/04/27/1511232&from=rss)
 * [2023-04-28, 13:52:00](https://soylentnews.org/article.pl?sid=23/04/27/158230&from=rss) - [File Not Found](https://soylentnews.org/article.pl?sid=23/04/27/158230&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-23, 06:11:00](https://soylentnews.org/article.pl?sid=23/04/21/1731255&from=rss) - [Proton Expands its Private Tech Ecosystem With a Password Manager](https://soylentnews.org/article.pl?sid=23/04/21/1731255&from=rss)
 * [2023-04-23, 01:24:00](https://soylentnews.org/article.pl?sid=23/04/21/1727201&from=rss) - [Detailed Notes on Working With OpenBSD on a ThinkPad X270](https://soylentnews.org/article.pl?sid=23/04/21/1727201&from=rss)
 * [2023-04-22, 20:34:00](https://soylentnews.org/article.pl?sid=23/04/21/1724225&from=rss) - [Your Fork Could Someday be Made of Sugar, Wood Powders and Degrade on-Demand](https://soylentnews.org/article.pl?sid=23/04/21/1724225&from=rss)
-* [2023-04-22, 15:49:00](https://soylentnews.org/article.pl?sid=23/04/21/0242255&from=rss) - [Archaeologists Unearth a Fanciful Ancient Winery Near Rome](https://soylentnews.org/article.pl?sid=23/04/21/0242255&from=rss)
 
 ## [Archives](archives/index.md)
 

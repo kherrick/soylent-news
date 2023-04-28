@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 22:11:00](https://soylentnews.org/article.pl?sid=23/04/27/1524239&from=rss) - [Tesla's Carbon Footprint is Finally Coming Into Focus, and It's Bigger Than They Admitted](https://soylentnews.org/article.pl?sid=23/04/27/1524239&from=rss)
 * [2023-04-28, 19:23:00](https://soylentnews.org/politics/article.pl?sid=23/04/27/1518207&from=rss) - [Brace Yourself for the 2024 Deepfake Election](https://soylentnews.org/politics/article.pl?sid=23/04/27/1518207&from=rss)
 * [2023-04-28, 16:39:00](https://soylentnews.org/article.pl?sid=23/04/27/1511232&from=rss) - [Scientists Think They've Finally Figured Out How a Maya Calendar Works](https://soylentnews.org/article.pl?sid=23/04/27/1511232&from=rss)
 * [2023-04-28, 13:52:00](https://soylentnews.org/article.pl?sid=23/04/27/158230&from=rss) - [File Not Found](https://soylentnews.org/article.pl?sid=23/04/27/158230&from=rss)
