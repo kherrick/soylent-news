@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-29, 19:43:00](https://soylentnews.org/article.pl?sid=23/04/28/1812254&from=rss) - [Just 15 Minutes of Solitude can do Wonders for Your Mood and Your Mind](https://soylentnews.org/article.pl?sid=23/04/28/1812254&from=rss)
 * [2023-04-29, 15:02:00](https://soylentnews.org/article.pl?sid=23/04/28/126207&from=rss) - [This Elephant Peels Bananas, but Only Slightly Ripe Ones](https://soylentnews.org/article.pl?sid=23/04/28/126207&from=rss)
 * [2023-04-29, 10:18:00](https://soylentnews.org/article.pl?sid=23/04/28/120239&from=rss) - [Sports Direct Owner Defends Live Face-recognition Camera Use](https://soylentnews.org/article.pl?sid=23/04/28/120239&from=rss)
 * [2023-04-29, 05:37:00](https://soylentnews.org/article.pl?sid=23/04/28/1148247&from=rss) - [Tetris’ Creators Reveal the Game's Greatest Unsolved Mysteries](https://soylentnews.org/article.pl?sid=23/04/28/1148247&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-24, 04:01:00](https://soylentnews.org/article.pl?sid=23/04/23/1351241&from=rss) - [NASA and Japan Team Up for Unprecedented Martian Moon Mission](https://soylentnews.org/article.pl?sid=23/04/23/1351241&from=rss)
 * [2023-04-24, 01:15:00](https://soylentnews.org/article.pl?sid=23/04/23/1330254&from=rss) - [The Farthest-away Pictures of Earth Ever Taken](https://soylentnews.org/article.pl?sid=23/04/23/1330254&from=rss)
 * [2023-04-23, 20:27:00](https://soylentnews.org/article.pl?sid=23/04/23/1311203&from=rss) - [End of an Era: the Last Two Print Computer Magazines Just Pressed Their Last Issues](https://soylentnews.org/article.pl?sid=23/04/23/1311203&from=rss)
-* [2023-04-23, 15:43:00](https://soylentnews.org/article.pl?sid=23/04/21/1744258&from=rss) - [New Map of the Universe's Cosmic Growth Supports Einstein's Theory of Gravity](https://soylentnews.org/article.pl?sid=23/04/21/1744258&from=rss)
 
 ## [Archives](archives/index.md)
 
