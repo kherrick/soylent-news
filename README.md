@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-29, 15:02:00](https://soylentnews.org/article.pl?sid=23/04/28/126207&from=rss) - [This Elephant Peels Bananas, but Only Slightly Ripe Ones](https://soylentnews.org/article.pl?sid=23/04/28/126207&from=rss)
 * [2023-04-29, 10:18:00](https://soylentnews.org/article.pl?sid=23/04/28/120239&from=rss) - [Sports Direct Owner Defends Live Face-recognition Camera Use](https://soylentnews.org/article.pl?sid=23/04/28/120239&from=rss)
 * [2023-04-29, 05:37:00](https://soylentnews.org/article.pl?sid=23/04/28/1148247&from=rss) - [Tetris’ Creators Reveal the Game's Greatest Unsolved Mysteries](https://soylentnews.org/article.pl?sid=23/04/28/1148247&from=rss)
 * [2023-04-29, 00:54:00](https://soylentnews.org/article.pl?sid=23/04/28/1144214&from=rss) - [Inmates are Using VR to Learn Real-world Skills](https://soylentnews.org/article.pl?sid=23/04/28/1144214&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-24, 01:15:00](https://soylentnews.org/article.pl?sid=23/04/23/1330254&from=rss) - [The Farthest-away Pictures of Earth Ever Taken](https://soylentnews.org/article.pl?sid=23/04/23/1330254&from=rss)
 * [2023-04-23, 20:27:00](https://soylentnews.org/article.pl?sid=23/04/23/1311203&from=rss) - [End of an Era: the Last Two Print Computer Magazines Just Pressed Their Last Issues](https://soylentnews.org/article.pl?sid=23/04/23/1311203&from=rss)
 * [2023-04-23, 15:43:00](https://soylentnews.org/article.pl?sid=23/04/21/1744258&from=rss) - [New Map of the Universe's Cosmic Growth Supports Einstein's Theory of Gravity](https://soylentnews.org/article.pl?sid=23/04/21/1744258&from=rss)
-* [2023-04-23, 10:57:00](https://soylentnews.org/article.pl?sid=23/04/21/1743200&from=rss) - [AI Weapons Among Non-State Actors May be Impossible to Stop](https://soylentnews.org/article.pl?sid=23/04/21/1743200&from=rss)
 
 ## [Archives](archives/index.md)
 
