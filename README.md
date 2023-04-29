@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-29, 05:37:00](https://soylentnews.org/article.pl?sid=23/04/28/1148247&from=rss) - [Tetris’ Creators Reveal the Game's Greatest Unsolved Mysteries](https://soylentnews.org/article.pl?sid=23/04/28/1148247&from=rss)
 * [2023-04-29, 00:54:00](https://soylentnews.org/article.pl?sid=23/04/28/1144214&from=rss) - [Inmates are Using VR to Learn Real-world Skills](https://soylentnews.org/article.pl?sid=23/04/28/1144214&from=rss)
 * [2023-04-28, 22:11:00](https://soylentnews.org/article.pl?sid=23/04/27/1524239&from=rss) - [Tesla's Carbon Footprint is Finally Coming Into Focus, and It's Bigger Than They Admitted](https://soylentnews.org/article.pl?sid=23/04/27/1524239&from=rss)
 * [2023-04-28, 19:23:00](https://soylentnews.org/politics/article.pl?sid=23/04/27/1518207&from=rss) - [Brace Yourself for the 2024 Deepfake Election](https://soylentnews.org/politics/article.pl?sid=23/04/27/1518207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-23, 15:43:00](https://soylentnews.org/article.pl?sid=23/04/21/1744258&from=rss) - [New Map of the Universe's Cosmic Growth Supports Einstein's Theory of Gravity](https://soylentnews.org/article.pl?sid=23/04/21/1744258&from=rss)
 * [2023-04-23, 10:57:00](https://soylentnews.org/article.pl?sid=23/04/21/1743200&from=rss) - [AI Weapons Among Non-State Actors May be Impossible to Stop](https://soylentnews.org/article.pl?sid=23/04/21/1743200&from=rss)
 * [2023-04-23, 06:11:00](https://soylentnews.org/article.pl?sid=23/04/21/1731255&from=rss) - [Proton Expands its Private Tech Ecosystem With a Password Manager](https://soylentnews.org/article.pl?sid=23/04/21/1731255&from=rss)
-* [2023-04-23, 01:24:00](https://soylentnews.org/article.pl?sid=23/04/21/1727201&from=rss) - [Detailed Notes on Working With OpenBSD on a ThinkPad X270](https://soylentnews.org/article.pl?sid=23/04/21/1727201&from=rss)
 
 ## [Archives](archives/index.md)
 
