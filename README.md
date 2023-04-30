@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-04-30, 17:43:00](https://soylentnews.org/article.pl?sid=23/04/29/0934214&from=rss) - [Microsoft Adopts Rust to Boost Windows Security and Performance](https://soylentnews.org/article.pl?sid=23/04/29/0934214&from=rss)
 * [2023-04-30, 12:54:00](https://soylentnews.org/article.pl?sid=23/04/29/0924227&from=rss) - [Reluctant Russia Promises to Keep Working on ISS Until 2028](https://soylentnews.org/article.pl?sid=23/04/29/0924227&from=rss)
 * [2023-04-30, 08:13:00](https://soylentnews.org/article.pl?sid=23/04/29/0918250&from=rss) - [New Stellar Danger to Planets Identified by NASA's Chandra Program](https://soylentnews.org/article.pl?sid=23/04/29/0918250&from=rss)
 * [2023-04-30, 01:28:00](https://soylentnews.org/article.pl?sid=23/04/29/0911237&from=rss) - [This Active Camouflage Technology Could Change the Future of Warfare](https://soylentnews.org/article.pl?sid=23/04/29/0911237&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-24, 15:05:00](https://soylentnews.org/article.pl?sid=23/04/23/1434204&from=rss) - [Users Report Ryzen 7000X3D Chips Burning Out, Killing Motherboards](https://soylentnews.org/article.pl?sid=23/04/23/1434204&from=rss)
 * [2023-04-24, 12:21:00](https://soylentnews.org/article.pl?sid=23/04/23/1427245&from=rss) - [Physicists Create the Fattest Schrödinger's Cat Ever](https://soylentnews.org/article.pl?sid=23/04/23/1427245&from=rss)
 * [2023-04-24, 09:34:00](https://soylentnews.org/article.pl?sid=23/04/23/1416234&from=rss) - [Weird SARS-CoV-2 Outbreak in Mink Suggests Hidden Source of Virus in the Wild](https://soylentnews.org/article.pl?sid=23/04/23/1416234&from=rss)
-* [2023-04-24, 06:49:00](https://soylentnews.org/article.pl?sid=23/04/23/143222&from=rss) - [Red Alert: ICANN and Verisign Proposal Would Allow Any Government in the World to Seize Domain Names](https://soylentnews.org/article.pl?sid=23/04/23/143222&from=rss)
 
 ## [Archives](archives/index.md)
 
