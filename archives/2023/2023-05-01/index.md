@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 22:06:00](https://soylentnews.org/article.pl?sid=23/04/30/149203&from=rss) - [China Space Agency Confirms Their Mars Rover is Inoperable](https://soylentnews.org/article.pl?sid=23/04/30/149203&from=rss)
 * [2023-05-01, 17:22:00](https://soylentnews.org/article.pl?sid=23/04/30/143251&from=rss) - [What Kind of Mind Does ChatGPT Have?](https://soylentnews.org/article.pl?sid=23/04/30/143251&from=rss)
 * [2023-05-01, 12:38:00](https://soylentnews.org/article.pl?sid=23/04/30/1359258&from=rss) - [What the US Needs for Future Nuclear Power Tech to Get Off the Ground](https://soylentnews.org/article.pl?sid=23/04/30/1359258&from=rss)
 * [2023-05-01, 07:53:00](https://soylentnews.org/article.pl?sid=23/04/30/1356230&from=rss) - [Black Holes Resolve Paradoxes by Destroying Quantum States](https://soylentnews.org/article.pl?sid=23/04/30/1356230&from=rss)
