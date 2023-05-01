@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2023-05-01, 03:09:00](https://soylentnews.org/article.pl?sid=23/04/30/1350242&from=rss) - [FOSS Projects Have Until 26 June to Provide Supply Chain Feeback to Whitehouse](https://soylentnews.org/article.pl?sid=23/04/30/1350242&from=rss)
+* [2023-05-01, 03:09:00](https://soylentnews.org/article.pl?sid=23/04/30/1350242&from=rss) - [FOSS Projects Have Until 26 June to Provide Supply Chain Feedback to White House](https://soylentnews.org/article.pl?sid=23/04/30/1350242&from=rss)
 * [2023-05-01, 00:01:00](https://soylentnews.org/article.pl?sid=23/04/30/1348227&from=rss) - [International Workers' Day, May Day Holiday, Labour Day, La Fête du Muguet etc](https://soylentnews.org/article.pl?sid=23/04/30/1348227&from=rss)
 * [2023-04-30, 22:26:00](https://soylentnews.org/article.pl?sid=23/04/29/0939218&from=rss) - [Europe’s Major New Interplanetary Spacecraft Has a Slight Problem](https://soylentnews.org/article.pl?sid=23/04/29/0939218&from=rss)
 * [2023-04-30, 17:43:00](https://soylentnews.org/article.pl?sid=23/04/29/0934214&from=rss) - [Microsoft Adopts Rust to Boost Windows Security and Performance](https://soylentnews.org/article.pl?sid=23/04/29/0934214&from=rss)
