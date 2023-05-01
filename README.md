@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-01, 12:38:00](https://soylentnews.org/article.pl?sid=23/04/30/1359258&from=rss) - [What the US Needs for Future Nuclear Power Tech to Get Off the Ground](https://soylentnews.org/article.pl?sid=23/04/30/1359258&from=rss)
 * [2023-05-01, 07:53:00](https://soylentnews.org/article.pl?sid=23/04/30/1356230&from=rss) - [Black Holes Resolve Paradoxes by Destroying Quantum States](https://soylentnews.org/article.pl?sid=23/04/30/1356230&from=rss)
 * [2023-05-01, 03:09:00](https://soylentnews.org/article.pl?sid=23/04/30/1350242&from=rss) - [FOSS Projects Have Until 26 June to Provide Supply Chain Feedback to White House](https://soylentnews.org/article.pl?sid=23/04/30/1350242&from=rss)
 * [2023-05-01, 00:01:00](https://soylentnews.org/article.pl?sid=23/04/30/1348227&from=rss) - [International Workers' Day, May Day Holiday, Labour Day, La Fête du Muguet etc](https://soylentnews.org/article.pl?sid=23/04/30/1348227&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-25, 04:43:00](https://soylentnews.org/article.pl?sid=23/04/24/1235219&from=rss) - [BuzzFeed News is Shutting Down](https://soylentnews.org/article.pl?sid=23/04/24/1235219&from=rss)
 * [2023-04-25, 01:56:00](https://soylentnews.org/article.pl?sid=23/04/24/045216&from=rss) - [Autonomous Cars Confused by San Francisco's Fog](https://soylentnews.org/article.pl?sid=23/04/24/045216&from=rss)
 * [2023-04-24, 23:15:00](https://soylentnews.org/article.pl?sid=23/04/24/041220&from=rss) - [The Classic Map of How the Human Brain Manages Movement Gets an Update](https://soylentnews.org/article.pl?sid=23/04/24/041220&from=rss)
-* [2023-04-24, 20:34:00](https://soylentnews.org/article.pl?sid=23/04/23/1445244&from=rss) - [Your Baby's Gut is Crawling With Unknown Viruses](https://soylentnews.org/article.pl?sid=23/04/23/1445244&from=rss)
 
 ## [Archives](archives/index.md)
 
