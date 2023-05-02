@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 22:12:00](https://soylentnews.org/article.pl?sid=23/05/01/1545222&from=rss) - [The World's First Wood Transistor](https://soylentnews.org/article.pl?sid=23/05/01/1545222&from=rss)
 * [2023-05-02, 19:26:00](https://soylentnews.org/article.pl?sid=23/05/01/1539225&from=rss) - [Wikipedia Will Not Perform Online Safety Bill Age Checks](https://soylentnews.org/article.pl?sid=23/05/01/1539225&from=rss)
 * [2023-05-02, 16:43:00](https://soylentnews.org/article.pl?sid=23/05/01/1244238&from=rss) - [Confronting Your Fears in Virtual Reality Therapy](https://soylentnews.org/article.pl?sid=23/05/01/1244238&from=rss)
 * [2023-05-02, 13:57:00](https://soylentnews.org/article.pl?sid=23/05/01/1240211&from=rss) - [Meta Says About 10% of its Global Ad Revenue at Risk From EU Data Flows Order](https://soylentnews.org/article.pl?sid=23/05/01/1240211&from=rss)
