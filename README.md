@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-02, 08:21:00](https://soylentnews.org/article.pl?sid=23/05/01/1228212&from=rss) - [Are Qualcomm Chips Snooping on You? No, Not Quite](https://soylentnews.org/article.pl?sid=23/05/01/1228212&from=rss)
 * [2023-05-02, 05:36:00](https://soylentnews.org/article.pl?sid=23/05/01/035234&from=rss) - [Despite Being Profitable, Dropbox Cuts 500 Jobs as it Considers AI's Future Effect](https://soylentnews.org/article.pl?sid=23/05/01/035234&from=rss)
 * [2023-05-02, 02:51:00](https://soylentnews.org/article.pl?sid=23/05/01/033214&from=rss) - [Want Better Kimchi? Make It Like the Ancients Did](https://soylentnews.org/article.pl?sid=23/05/01/033214&from=rss)
 * [2023-05-01, 22:06:00](https://soylentnews.org/article.pl?sid=23/04/30/149203&from=rss) - [China Space Agency Confirms Their Mars Rover is Inoperable](https://soylentnews.org/article.pl?sid=23/04/30/149203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-25, 15:47:00](https://soylentnews.org/article.pl?sid=23/04/24/1748251&from=rss) - [A Vegan Leather Made of Dormant Fungi Can Repair Itself](https://soylentnews.org/article.pl?sid=23/04/24/1748251&from=rss)
 * [2023-04-25, 13:38:00](https://soylentnews.org/article.pl?sid=23/04/25/1335240&from=rss) - [TODAY: Watch Ispace Attempt to Land on the Moon for the First Time](https://soylentnews.org/article.pl?sid=23/04/25/1335240&from=rss)
 * [2023-04-25, 13:02:00](https://soylentnews.org/article.pl?sid=23/04/24/1743232&from=rss) - [Universal Flu Candidate Vaccine Appears to be Safe and Promising in Small-Scale Trial](https://soylentnews.org/article.pl?sid=23/04/24/1743232&from=rss)
-* [2023-04-25, 10:15:00](https://soylentnews.org/article.pl?sid=23/04/24/1740211&from=rss) - [Linux 6.3 Debuts After ‘Nice, Controlled Release Cycle’](https://soylentnews.org/article.pl?sid=23/04/24/1740211&from=rss)
 
 ## [Archives](archives/index.md)
 
