@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-02, 02:51:00](https://soylentnews.org/article.pl?sid=23/05/01/033214&from=rss) - [Want Better Kimchi? Make It Like the Ancients Did](https://soylentnews.org/article.pl?sid=23/05/01/033214&from=rss)
 * [2023-05-01, 22:06:00](https://soylentnews.org/article.pl?sid=23/04/30/149203&from=rss) - [China Space Agency Confirms Their Mars Rover is Inoperable](https://soylentnews.org/article.pl?sid=23/04/30/149203&from=rss)
 * [2023-05-01, 17:22:00](https://soylentnews.org/article.pl?sid=23/04/30/143251&from=rss) - [What Kind of Mind Does ChatGPT Have?](https://soylentnews.org/article.pl?sid=23/04/30/143251&from=rss)
 * [2023-05-01, 12:38:00](https://soylentnews.org/article.pl?sid=23/04/30/1359258&from=rss) - [What the US Needs for Future Nuclear Power Tech to Get Off the Ground](https://soylentnews.org/article.pl?sid=23/04/30/1359258&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-25, 13:02:00](https://soylentnews.org/article.pl?sid=23/04/24/1743232&from=rss) - [Universal Flu Candidate Vaccine Appears to be Safe and Promising in Small-Scale Trial](https://soylentnews.org/article.pl?sid=23/04/24/1743232&from=rss)
 * [2023-04-25, 10:15:00](https://soylentnews.org/article.pl?sid=23/04/24/1740211&from=rss) - [Linux 6.3 Debuts After ‘Nice, Controlled Release Cycle’](https://soylentnews.org/article.pl?sid=23/04/24/1740211&from=rss)
 * [2023-04-25, 07:28:00](https://soylentnews.org/article.pl?sid=23/04/24/1736254&from=rss) - [Rats! Rodents Seem to Make the Same Logical Errors Humans Do](https://soylentnews.org/article.pl?sid=23/04/24/1736254&from=rss)
-* [2023-04-25, 04:43:00](https://soylentnews.org/article.pl?sid=23/04/24/1235219&from=rss) - [BuzzFeed News is Shutting Down](https://soylentnews.org/article.pl?sid=23/04/24/1235219&from=rss)
 
 ## [Archives](archives/index.md)
 
