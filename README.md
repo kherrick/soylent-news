@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-02, 16:43:00](https://soylentnews.org/article.pl?sid=23/05/01/1244238&from=rss) - [Confronting Your Fears in Virtual Reality Therapy](https://soylentnews.org/article.pl?sid=23/05/01/1244238&from=rss)
 * [2023-05-02, 13:57:00](https://soylentnews.org/article.pl?sid=23/05/01/1240211&from=rss) - [Meta Says About 10% of its Global Ad Revenue at Risk From EU Data Flows Order](https://soylentnews.org/article.pl?sid=23/05/01/1240211&from=rss)
 * [2023-05-02, 11:12:00](https://soylentnews.org/article.pl?sid=23/05/01/1234211&from=rss) - [NASA Scientists Extract Oxygen From Simulated Moon Dirt](https://soylentnews.org/article.pl?sid=23/05/01/1234211&from=rss)
 * [2023-05-02, 08:21:00](https://soylentnews.org/article.pl?sid=23/05/01/1228212&from=rss) - [Are Qualcomm Chips Snooping on You? No, Not Quite](https://soylentnews.org/article.pl?sid=23/05/01/1228212&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-26, 00:02:00](https://soylentnews.org/article.pl?sid=23/04/25/0146254&from=rss) - [No Need to Recycle, These Disposable Coffee Cups are Made of Dirt](https://soylentnews.org/article.pl?sid=23/04/25/0146254&from=rss)
 * [2023-04-25, 21:13:00](https://soylentnews.org/article.pl?sid=23/04/25/0130211&from=rss) - [Linux Foundation Launches New Organization to Maintain TLA+](https://soylentnews.org/article.pl?sid=23/04/25/0130211&from=rss)
 * [2023-04-25, 18:31:00](https://soylentnews.org/article.pl?sid=23/04/24/1750254&from=rss) - [Simulating a Secure Future](https://soylentnews.org/article.pl?sid=23/04/24/1750254&from=rss)
-* [2023-04-25, 15:47:00](https://soylentnews.org/article.pl?sid=23/04/24/1748251&from=rss) - [A Vegan Leather Made of Dormant Fungi Can Repair Itself](https://soylentnews.org/article.pl?sid=23/04/24/1748251&from=rss)
 
 ## [Archives](archives/index.md)
 

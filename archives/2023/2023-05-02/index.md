@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 16:43:00](https://soylentnews.org/article.pl?sid=23/05/01/1244238&from=rss) - [Confronting Your Fears in Virtual Reality Therapy](https://soylentnews.org/article.pl?sid=23/05/01/1244238&from=rss)
 * [2023-05-02, 13:57:00](https://soylentnews.org/article.pl?sid=23/05/01/1240211&from=rss) - [Meta Says About 10% of its Global Ad Revenue at Risk From EU Data Flows Order](https://soylentnews.org/article.pl?sid=23/05/01/1240211&from=rss)
 * [2023-05-02, 11:12:00](https://soylentnews.org/article.pl?sid=23/05/01/1234211&from=rss) - [NASA Scientists Extract Oxygen From Simulated Moon Dirt](https://soylentnews.org/article.pl?sid=23/05/01/1234211&from=rss)
 * [2023-05-02, 08:21:00](https://soylentnews.org/article.pl?sid=23/05/01/1228212&from=rss) - [Are Qualcomm Chips Snooping on You? No, Not Quite](https://soylentnews.org/article.pl?sid=23/05/01/1228212&from=rss)
