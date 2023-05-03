@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-03, 00:49:00](https://soylentnews.org/article.pl?sid=23/05/01/1550232&from=rss) - [The Kingdom of Bhutan Has Been Quietly Mining Bitcoin for Years](https://soylentnews.org/article.pl?sid=23/05/01/1550232&from=rss)
 * [2023-05-02, 22:12:00](https://soylentnews.org/article.pl?sid=23/05/01/1545222&from=rss) - [The World's First Wood Transistor](https://soylentnews.org/article.pl?sid=23/05/01/1545222&from=rss)
 * [2023-05-02, 19:26:00](https://soylentnews.org/article.pl?sid=23/05/01/1539225&from=rss) - [Wikipedia Will Not Perform Online Safety Bill Age Checks](https://soylentnews.org/article.pl?sid=23/05/01/1539225&from=rss)
 * [2023-05-02, 16:43:00](https://soylentnews.org/article.pl?sid=23/05/01/1244238&from=rss) - [Confronting Your Fears in Virtual Reality Therapy](https://soylentnews.org/article.pl?sid=23/05/01/1244238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-26, 08:16:00](https://soylentnews.org/article.pl?sid=23/04/25/1332213&from=rss) - [AMD Ryzen 7000 Burning Out: Root Cause Identified, EXPO and SoC Voltages to Blame](https://soylentnews.org/article.pl?sid=23/04/25/1332213&from=rss)
 * [2023-04-26, 05:32:00](https://soylentnews.org/article.pl?sid=23/04/25/0236224&from=rss) - [The FDA Would Like to Remind You Not to Put Amniotic Fluid in Your Eyes](https://soylentnews.org/article.pl?sid=23/04/25/0236224&from=rss)
 * [2023-04-26, 02:45:00](https://soylentnews.org/article.pl?sid=23/04/25/0158205&from=rss) - [This NASA Telescope Has Discovered 329 New Exoplanets in Just Five Years](https://soylentnews.org/article.pl?sid=23/04/25/0158205&from=rss)
-* [2023-04-26, 00:02:00](https://soylentnews.org/article.pl?sid=23/04/25/0146254&from=rss) - [No Need to Recycle, These Disposable Coffee Cups are Made of Dirt](https://soylentnews.org/article.pl?sid=23/04/25/0146254&from=rss)
 
 ## [Archives](archives/index.md)
 
