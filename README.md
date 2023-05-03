@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-03, 14:42:00](https://soylentnews.org/article.pl?sid=23/05/02/179251&from=rss) - [Cops Raid Swedish VPN Provider Only to Find Out There's No 'There' There](https://soylentnews.org/article.pl?sid=23/05/02/179251&from=rss)
 * [2023-05-03, 11:52:00](https://soylentnews.org/article.pl?sid=23/05/02/1228236&from=rss) - [Python 3.12: Faster, Leaner, More Future-proof](https://soylentnews.org/article.pl?sid=23/05/02/1228236&from=rss)
 * [2023-05-03, 09:04:00](https://soylentnews.org/article.pl?sid=23/05/02/1218210&from=rss) - [As Europeans Strike First to Rein in AI, the US Follows](https://soylentnews.org/article.pl?sid=23/05/02/1218210&from=rss)
 * [2023-05-03, 06:20:00](https://soylentnews.org/article.pl?sid=23/05/01/163224&from=rss) - [SpaceX's Starship Didn't Immediately Respond to a Self-Destruct Command](https://soylentnews.org/article.pl?sid=23/05/01/163224&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-26, 23:08:00](https://soylentnews.org/article.pl?sid=23/04/26/0151208&from=rss) - [Biofriendly Transient Devices Emerge](https://soylentnews.org/article.pl?sid=23/04/26/0151208&from=rss)
 * [2023-04-26, 20:23:00](https://soylentnews.org/article.pl?sid=23/04/25/1354253&from=rss) - [The Intel 8086 Processor's Registers: From Chip to Transistors](https://soylentnews.org/article.pl?sid=23/04/25/1354253&from=rss)
 * [2023-04-26, 17:39:00](https://soylentnews.org/article.pl?sid=23/04/25/1351258&from=rss) - [Balloon-borne Telescope Returns First Photos in Search for Dark Matter](https://soylentnews.org/article.pl?sid=23/04/25/1351258&from=rss)
-* [2023-04-26, 13:53:00](https://soylentnews.org/article.pl?sid=23/04/25/1345232&from=rss) - [Ultrasound Reveals Trees’ Drought-survival Secrets](https://soylentnews.org/article.pl?sid=23/04/25/1345232&from=rss)
 
 ## [Archives](archives/index.md)
 
