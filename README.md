@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-03, 20:11:00](https://soylentnews.org/article.pl?sid=23/05/02/1726206&from=rss) - [Pornhub Protests Utah Age Verification Law by Blocking the State's Access](https://soylentnews.org/article.pl?sid=23/05/02/1726206&from=rss)
 * [2023-05-03, 17:27:00](https://soylentnews.org/article.pl?sid=23/05/02/1720244&from=rss) - [the Godfather of AI Leaves Google Amid Ethical Concerns](https://soylentnews.org/article.pl?sid=23/05/02/1720244&from=rss)
 * [2023-05-03, 14:42:00](https://soylentnews.org/article.pl?sid=23/05/02/179251&from=rss) - [Cops Raid Swedish VPN Provider Only to Find Out There's No 'There' There](https://soylentnews.org/article.pl?sid=23/05/02/179251&from=rss)
 * [2023-05-03, 11:52:00](https://soylentnews.org/article.pl?sid=23/05/02/1228236&from=rss) - [Python 3.12: Faster, Leaner, More Future-proof](https://soylentnews.org/article.pl?sid=23/05/02/1228236&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-27, 04:39:00](https://soylentnews.org/article.pl?sid=23/04/26/0237227&from=rss) - [Yet Again, the Copyright Industry Demands to be Shielded From Technological Progress](https://soylentnews.org/article.pl?sid=23/04/26/0237227&from=rss)
 * [2023-04-27, 01:52:00](https://soylentnews.org/article.pl?sid=23/04/26/024213&from=rss) - [IBM Starts Renting Cloudy Bare Metal Linux Almost-Mainframes](https://soylentnews.org/article.pl?sid=23/04/26/024213&from=rss)
 * [2023-04-26, 23:08:00](https://soylentnews.org/article.pl?sid=23/04/26/0151208&from=rss) - [Biofriendly Transient Devices Emerge](https://soylentnews.org/article.pl?sid=23/04/26/0151208&from=rss)
-* [2023-04-26, 20:23:00](https://soylentnews.org/article.pl?sid=23/04/25/1354253&from=rss) - [The Intel 8086 Processor's Registers: From Chip to Transistors](https://soylentnews.org/article.pl?sid=23/04/25/1354253&from=rss)
 
 ## [Archives](archives/index.md)
 

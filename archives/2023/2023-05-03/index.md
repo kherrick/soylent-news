@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 20:11:00](https://soylentnews.org/article.pl?sid=23/05/02/1726206&from=rss) - [Pornhub Protests Utah Age Verification Law by Blocking the State's Access](https://soylentnews.org/article.pl?sid=23/05/02/1726206&from=rss)
 * [2023-05-03, 17:27:00](https://soylentnews.org/article.pl?sid=23/05/02/1720244&from=rss) - [the Godfather of AI Leaves Google Amid Ethical Concerns](https://soylentnews.org/article.pl?sid=23/05/02/1720244&from=rss)
 * [2023-05-03, 14:42:00](https://soylentnews.org/article.pl?sid=23/05/02/179251&from=rss) - [Cops Raid Swedish VPN Provider Only to Find Out There's No 'There' There](https://soylentnews.org/article.pl?sid=23/05/02/179251&from=rss)
 * [2023-05-03, 11:52:00](https://soylentnews.org/article.pl?sid=23/05/02/1228236&from=rss) - [Python 3.12: Faster, Leaner, More Future-proof](https://soylentnews.org/article.pl?sid=23/05/02/1228236&from=rss)
