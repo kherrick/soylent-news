@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 23:37:00](https://soylentnews.org/article.pl?sid=23/05/04/1111224&from=rss) - [Universe-mapping Euclid Satellite Arrives in US](https://soylentnews.org/article.pl?sid=23/05/04/1111224&from=rss)
 * [2023-05-04, 20:54:00](https://soylentnews.org/article.pl?sid=23/05/03/1824257&from=rss) - [A Bug Fix in the 8086 Microprocessor, Revealed in the Die's Silicon](https://soylentnews.org/article.pl?sid=23/05/03/1824257&from=rss)
 * [2023-05-04, 18:11:00](https://soylentnews.org/article.pl?sid=23/05/03/1823205&from=rss) - [TSMC News - US and Europe](https://soylentnews.org/article.pl?sid=23/05/03/1823205&from=rss)
 * [2023-05-04, 15:23:00](https://soylentnews.org/article.pl?sid=23/05/03/1817212&from=rss) - [Netflix Loses a Million Subscribers in Spain After Greedy Password Sharing Crackdown](https://soylentnews.org/article.pl?sid=23/05/03/1817212&from=rss)
