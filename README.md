@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-04, 20:54:00](https://soylentnews.org/article.pl?sid=23/05/03/1824257&from=rss) - [A Bug Fix in the 8086 Microprocessor, Revealed in the Die's Silicon](https://soylentnews.org/article.pl?sid=23/05/03/1824257&from=rss)
 * [2023-05-04, 18:11:00](https://soylentnews.org/article.pl?sid=23/05/03/1823205&from=rss) - [TSMC News - US and Europe](https://soylentnews.org/article.pl?sid=23/05/03/1823205&from=rss)
 * [2023-05-04, 15:23:00](https://soylentnews.org/article.pl?sid=23/05/03/1817212&from=rss) - [Netflix Loses a Million Subscribers in Spain After Greedy Password Sharing Crackdown](https://soylentnews.org/article.pl?sid=23/05/03/1817212&from=rss)
 * [2023-05-04, 12:37:00](https://soylentnews.org/article.pl?sid=23/05/03/1811228&from=rss) - [SpaceX Completes First Fully Expendable Falcon Heavy Mission](https://soylentnews.org/article.pl?sid=23/05/03/1811228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-28, 05:37:00](https://soylentnews.org/article.pl?sid=23/04/27/0219238&from=rss) - [Google's New 2FA Isn't End-to-End Encrypted, Tests Show](https://soylentnews.org/article.pl?sid=23/04/27/0219238&from=rss)
 * [2023-04-28, 02:49:00](https://soylentnews.org/article.pl?sid=23/04/27/0210249&from=rss) - [Discord Starts Testing ChatGPT-Powered Clyde Chatbot and Other AI Features](https://soylentnews.org/article.pl?sid=23/04/27/0210249&from=rss)
 * [2023-04-27, 23:58:00](https://soylentnews.org/article.pl?sid=23/04/27/0155231&from=rss) - [The First Babies Conceived With a Sperm-injecting Robot Have Been Born](https://soylentnews.org/article.pl?sid=23/04/27/0155231&from=rss)
-* [2023-04-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/04/26/1529200&from=rss) - ['Urgent' Need for Cyber Defense in Space](https://soylentnews.org/article.pl?sid=23/04/26/1529200&from=rss)
 
 ## [Archives](archives/index.md)
 
