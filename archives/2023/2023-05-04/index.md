@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-05-04](index.md)
+
+* [2023-05-04, 01:41:00](https://soylentnews.org/article.pl?sid=23/05/03/0317249&from=rss) - [Brain Scans Can Translate a Person’s Thoughts Into Words](https://soylentnews.org/article.pl?sid=23/05/03/0317249&from=rss)

@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-04, 01:41:00](https://soylentnews.org/article.pl?sid=23/05/03/0317249&from=rss) - [Brain Scans Can Translate a Person’s Thoughts Into Words](https://soylentnews.org/article.pl?sid=23/05/03/0317249&from=rss)
 * [2023-05-03, 22:58:00](https://soylentnews.org/article.pl?sid=23/05/02/1742254&from=rss) - [CERN Celebrates 30th Anniversary of the World Wide Web](https://soylentnews.org/article.pl?sid=23/05/02/1742254&from=rss)
 * [2023-05-03, 20:11:00](https://soylentnews.org/article.pl?sid=23/05/02/1726206&from=rss) - [Pornhub Protests Utah Age Verification Law by Blocking the State's Access](https://soylentnews.org/article.pl?sid=23/05/02/1726206&from=rss)
 * [2023-05-03, 17:27:00](https://soylentnews.org/article.pl?sid=23/05/02/1720244&from=rss) - [the Godfather of AI Leaves Google Amid Ethical Concerns](https://soylentnews.org/article.pl?sid=23/05/02/1720244&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-27, 10:09:00](https://soylentnews.org/article.pl?sid=23/04/26/1510210&from=rss) - [Bosch to Acquire TSI Semiconductors for $1.5B to Boost US Chip Production](https://soylentnews.org/article.pl?sid=23/04/26/1510210&from=rss)
 * [2023-04-27, 07:26:00](https://soylentnews.org/article.pl?sid=23/04/26/0245235&from=rss) - [China Joins US and Europe in Musing on 3D-printed Moon Bases](https://soylentnews.org/article.pl?sid=23/04/26/0245235&from=rss)
 * [2023-04-27, 04:39:00](https://soylentnews.org/article.pl?sid=23/04/26/0237227&from=rss) - [Yet Again, the Copyright Industry Demands to be Shielded From Technological Progress](https://soylentnews.org/article.pl?sid=23/04/26/0237227&from=rss)
-* [2023-04-27, 01:52:00](https://soylentnews.org/article.pl?sid=23/04/26/024213&from=rss) - [IBM Starts Renting Cloudy Bare Metal Linux Almost-Mainframes](https://soylentnews.org/article.pl?sid=23/04/26/024213&from=rss)
 
 ## [Archives](archives/index.md)
 
