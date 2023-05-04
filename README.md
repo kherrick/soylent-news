@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-04, 09:55:00](https://soylentnews.org/article.pl?sid=23/05/03/186208&from=rss) - [T-Mobile Discloses Second Data Breach Since the Start of 2023](https://soylentnews.org/article.pl?sid=23/05/03/186208&from=rss)
 * [2023-05-04, 07:11:00](https://soylentnews.org/article.pl?sid=23/05/03/1227204&from=rss) - [IBM Pauses Hiring to Onboard AI Instead](https://soylentnews.org/article.pl?sid=23/05/03/1227204&from=rss)
 * [2023-05-04, 04:27:00](https://soylentnews.org/article.pl?sid=23/05/03/1114232&from=rss) - [The UK Doesn’t Want Microsoft’s Activision Blizzard Deal, So What Happens Next?](https://soylentnews.org/article.pl?sid=23/05/03/1114232&from=rss)
 * [2023-05-04, 01:41:00](https://soylentnews.org/article.pl?sid=23/05/03/0317249&from=rss) - [Brain Scans Can Translate a Person’s Thoughts Into Words](https://soylentnews.org/article.pl?sid=23/05/03/0317249&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-27, 18:23:00](https://soylentnews.org/article.pl?sid=23/04/26/1515215&from=rss) - [Waabi Sets Up Advisory Board-of Experienced Truck Drivers](https://soylentnews.org/article.pl?sid=23/04/26/1515215&from=rss)
 * [2023-04-27, 15:38:00](https://soylentnews.org/article.pl?sid=23/04/26/1523213&from=rss) - [Why It's Hard to Defend Against AI Prompt Injection Attacks](https://soylentnews.org/article.pl?sid=23/04/26/1523213&from=rss)
 * [2023-04-27, 12:53:00](https://soylentnews.org/article.pl?sid=23/04/26/1512229&from=rss) - [Even Worms Get the Munchies](https://soylentnews.org/article.pl?sid=23/04/26/1512229&from=rss)
-* [2023-04-27, 10:09:00](https://soylentnews.org/article.pl?sid=23/04/26/1510210&from=rss) - [Bosch to Acquire TSI Semiconductors for $1.5B to Boost US Chip Production](https://soylentnews.org/article.pl?sid=23/04/26/1510210&from=rss)
 
 ## [Archives](archives/index.md)
 
