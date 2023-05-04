@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-04, 15:23:00](https://soylentnews.org/article.pl?sid=23/05/03/1817212&from=rss) - [Netflix Loses a Million Subscribers in Spain After Greedy Password Sharing Crackdown](https://soylentnews.org/article.pl?sid=23/05/03/1817212&from=rss)
 * [2023-05-04, 12:37:00](https://soylentnews.org/article.pl?sid=23/05/03/1811228&from=rss) - [SpaceX Completes First Fully Expendable Falcon Heavy Mission](https://soylentnews.org/article.pl?sid=23/05/03/1811228&from=rss)
 * [2023-05-04, 09:55:00](https://soylentnews.org/article.pl?sid=23/05/03/186208&from=rss) - [T-Mobile Discloses Second Data Breach Since the Start of 2023](https://soylentnews.org/article.pl?sid=23/05/03/186208&from=rss)
 * [2023-05-04, 07:11:00](https://soylentnews.org/article.pl?sid=23/05/03/1227204&from=rss) - [IBM Pauses Hiring to Onboard AI Instead](https://soylentnews.org/article.pl?sid=23/05/03/1227204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-27, 23:58:00](https://soylentnews.org/article.pl?sid=23/04/27/0155231&from=rss) - [The First Babies Conceived With a Sperm-injecting Robot Have Been Born](https://soylentnews.org/article.pl?sid=23/04/27/0155231&from=rss)
 * [2023-04-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/04/26/1529200&from=rss) - ['Urgent' Need for Cyber Defense in Space](https://soylentnews.org/article.pl?sid=23/04/26/1529200&from=rss)
 * [2023-04-27, 18:23:00](https://soylentnews.org/article.pl?sid=23/04/26/1515215&from=rss) - [Waabi Sets Up Advisory Board-of Experienced Truck Drivers](https://soylentnews.org/article.pl?sid=23/04/26/1515215&from=rss)
-* [2023-04-27, 15:38:00](https://soylentnews.org/article.pl?sid=23/04/26/1523213&from=rss) - [Why It's Hard to Defend Against AI Prompt Injection Attacks](https://soylentnews.org/article.pl?sid=23/04/26/1523213&from=rss)
 
 ## [Archives](archives/index.md)
 
