@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 18:11:00](https://soylentnews.org/article.pl?sid=23/05/03/1823205&from=rss) - [TSMC News - US and Europe](https://soylentnews.org/article.pl?sid=23/05/03/1823205&from=rss)
 * [2023-05-04, 15:23:00](https://soylentnews.org/article.pl?sid=23/05/03/1817212&from=rss) - [Netflix Loses a Million Subscribers in Spain After Greedy Password Sharing Crackdown](https://soylentnews.org/article.pl?sid=23/05/03/1817212&from=rss)
 * [2023-05-04, 12:37:00](https://soylentnews.org/article.pl?sid=23/05/03/1811228&from=rss) - [SpaceX Completes First Fully Expendable Falcon Heavy Mission](https://soylentnews.org/article.pl?sid=23/05/03/1811228&from=rss)
 * [2023-05-04, 09:55:00](https://soylentnews.org/article.pl?sid=23/05/03/186208&from=rss) - [T-Mobile Discloses Second Data Breach Since the Start of 2023](https://soylentnews.org/article.pl?sid=23/05/03/186208&from=rss)
