@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-06, 14:25:00](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss) - [US Chipmakers Not Happy About Being Locked Out of China](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss)
 * [2023-05-06, 09:38:00](https://soylentnews.org/article.pl?sid=23/05/05/1150236&from=rss) - [CEO Stadler to Plead Guilty Eight Years After VW/Audi Diesel Scandal](https://soylentnews.org/article.pl?sid=23/05/05/1150236&from=rss)
 * [2023-05-06, 05:00:00](https://soylentnews.org/article.pl?sid=23/05/05/0252245&from=rss) - [Google Will Remove Secure Website Indicators in Chrome 117](https://soylentnews.org/article.pl?sid=23/05/05/0252245&from=rss)
 * [2023-05-06, 00:16:00](https://soylentnews.org/article.pl?sid=23/05/05/0138213&from=rss) - [Europe’s Major Satellite Players Line Up to Build Starlink Competitor](https://soylentnews.org/article.pl?sid=23/05/05/0138213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-30, 08:13:00](https://soylentnews.org/article.pl?sid=23/04/29/0918250&from=rss) - [New Stellar Danger to Planets Identified by NASA's Chandra Program](https://soylentnews.org/article.pl?sid=23/04/29/0918250&from=rss)
 * [2023-04-30, 01:28:00](https://soylentnews.org/article.pl?sid=23/04/29/0911237&from=rss) - [This Active Camouflage Technology Could Change the Future of Warfare](https://soylentnews.org/article.pl?sid=23/04/29/0911237&from=rss)
 * [2023-04-29, 19:43:00](https://soylentnews.org/article.pl?sid=23/04/28/1812254&from=rss) - [Just 15 Minutes of Solitude can do Wonders for Your Mood and Your Mind](https://soylentnews.org/article.pl?sid=23/04/28/1812254&from=rss)
-* [2023-04-29, 15:02:00](https://soylentnews.org/article.pl?sid=23/04/28/126207&from=rss) - [This Elephant Peels Bananas, but Only Slightly Ripe Ones](https://soylentnews.org/article.pl?sid=23/04/28/126207&from=rss)
 
 ## [Archives](archives/index.md)
 
