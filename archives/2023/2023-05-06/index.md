@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-05-06](index.md)
+
+* [2023-05-06, 00:16:00](https://soylentnews.org/article.pl?sid=23/05/05/0138213&from=rss) - [Europe’s Major Satellite Players Line Up to Build Starlink Competitor](https://soylentnews.org/article.pl?sid=23/05/05/0138213&from=rss)
