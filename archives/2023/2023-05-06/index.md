@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 19:18:00](https://soylentnews.org/article.pl?sid=23/05/05/1159255&from=rss) - [How Music Can Prevent Cognitive Decline](https://soylentnews.org/article.pl?sid=23/05/05/1159255&from=rss)
 * [2023-05-06, 14:25:00](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss) - [US Chipmakers Not Happy About Being Locked Out of China](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss)
 * [2023-05-06, 09:38:00](https://soylentnews.org/article.pl?sid=23/05/05/1150236&from=rss) - [CEO Stadler to Plead Guilty Eight Years After VW/Audi Diesel Scandal](https://soylentnews.org/article.pl?sid=23/05/05/1150236&from=rss)
 * [2023-05-06, 05:00:00](https://soylentnews.org/article.pl?sid=23/05/05/0252245&from=rss) - [Google Will Remove Secure Website Indicators in Chrome 117](https://soylentnews.org/article.pl?sid=23/05/05/0252245&from=rss)
