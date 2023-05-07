@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-07, 00:01:00](https://soylentnews.org/article.pl?sid=23/05/05/129225&from=rss) - [Ed Sheeran Found ‘Not Guilty’ of Copyright Infringement in “Thinking Out Loud” Court Battle](https://soylentnews.org/article.pl?sid=23/05/05/129225&from=rss)
 * [2023-05-06, 19:18:00](https://soylentnews.org/article.pl?sid=23/05/05/1159255&from=rss) - [How Music Can Prevent Cognitive Decline](https://soylentnews.org/article.pl?sid=23/05/05/1159255&from=rss)
 * [2023-05-06, 14:25:00](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss) - [US Chipmakers Not Happy About Being Locked Out of China](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss)
 * [2023-05-06, 09:38:00](https://soylentnews.org/article.pl?sid=23/05/05/1150236&from=rss) - [CEO Stadler to Plead Guilty Eight Years After VW/Audi Diesel Scandal](https://soylentnews.org/article.pl?sid=23/05/05/1150236&from=rss)
@@ -49,7 +50,6 @@
 * [2023-04-30, 17:43:00](https://soylentnews.org/article.pl?sid=23/04/29/0934214&from=rss) - [Microsoft Adopts Rust to Boost Windows Security and Performance](https://soylentnews.org/article.pl?sid=23/04/29/0934214&from=rss)
 * [2023-04-30, 12:54:00](https://soylentnews.org/article.pl?sid=23/04/29/0924227&from=rss) - [Reluctant Russia Promises to Keep Working on ISS Until 2028](https://soylentnews.org/article.pl?sid=23/04/29/0924227&from=rss)
 * [2023-04-30, 08:13:00](https://soylentnews.org/article.pl?sid=23/04/29/0918250&from=rss) - [New Stellar Danger to Planets Identified by NASA's Chandra Program](https://soylentnews.org/article.pl?sid=23/04/29/0918250&from=rss)
-* [2023-04-30, 01:28:00](https://soylentnews.org/article.pl?sid=23/04/29/0911237&from=rss) - [This Active Camouflage Technology Could Change the Future of Warfare](https://soylentnews.org/article.pl?sid=23/04/29/0911237&from=rss)
 
 ## [Archives](archives/index.md)
 
