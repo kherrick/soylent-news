@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-07, 18:58:00](https://soylentnews.org/article.pl?sid=23/05/06/0722212&from=rss) - [Boring Company Gets Approval to Expand Las Vegas Tunnels to 65-Mile Network](https://soylentnews.org/article.pl?sid=23/05/06/0722212&from=rss)
 * [2023-05-07, 14:13:00](https://soylentnews.org/article.pl?sid=23/05/06/0716200&from=rss) - [Meta's Ad Business Slapped With Interim Measures in France Over Suspected Antitrust Abuse](https://soylentnews.org/article.pl?sid=23/05/06/0716200&from=rss)
 * [2023-05-07, 09:33:00](https://soylentnews.org/article.pl?sid=23/05/06/079245&from=rss) - [A Fiery End? How the ISS Will End its Life in Orbit](https://soylentnews.org/article.pl?sid=23/05/06/079245&from=rss)
 * [2023-05-07, 04:47:00](https://soylentnews.org/article.pl?sid=23/05/06/0659248&from=rss) - [Recent MIT Paper Proposes a New Method to \"Grow\" 2D Transistors on Top of Wafers](https://soylentnews.org/article.pl?sid=23/05/06/0659248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-01, 07:53:00](https://soylentnews.org/article.pl?sid=23/04/30/1356230&from=rss) - [Black Holes Resolve Paradoxes by Destroying Quantum States](https://soylentnews.org/article.pl?sid=23/04/30/1356230&from=rss)
 * [2023-05-01, 03:09:00](https://soylentnews.org/article.pl?sid=23/04/30/1350242&from=rss) - [FOSS Projects Have Until 26 June to Provide Supply Chain Feedback to White House](https://soylentnews.org/article.pl?sid=23/04/30/1350242&from=rss)
 * [2023-05-01, 00:01:00](https://soylentnews.org/article.pl?sid=23/04/30/1348227&from=rss) - [International Workers' Day, May Day Holiday, Labour Day, La Fête du Muguet etc](https://soylentnews.org/article.pl?sid=23/04/30/1348227&from=rss)
-* [2023-04-30, 22:26:00](https://soylentnews.org/article.pl?sid=23/04/29/0939218&from=rss) - [Europe’s Major New Interplanetary Spacecraft Has a Slight Problem](https://soylentnews.org/article.pl?sid=23/04/29/0939218&from=rss)
 
 ## [Archives](archives/index.md)
 
