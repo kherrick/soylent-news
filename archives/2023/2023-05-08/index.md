@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 13:29:00](https://soylentnews.org/article.pl?sid=23/05/07/1720228&from=rss) - [You Can Build This Raspberry Pi-Powered, 4G Linux Phone](https://soylentnews.org/article.pl?sid=23/05/07/1720228&from=rss)
 * [2023-05-08, 10:43:00](https://soylentnews.org/article.pl?sid=23/05/07/1717204&from=rss) - [A ‘Monumental’ Math Proof Solves the Triple Bubble Problem](https://soylentnews.org/article.pl?sid=23/05/07/1717204&from=rss)
 * [2023-05-08, 08:02:00](https://soylentnews.org/article.pl?sid=23/05/07/177233&from=rss) - [Monkeys are Smarter Than We Thought](https://soylentnews.org/article.pl?sid=23/05/07/177233&from=rss)
 * [2023-05-08, 05:14:00](https://soylentnews.org/article.pl?sid=23/05/07/1451221&from=rss) - [Fifty+ ISPs, NGOs and Broadcaster Groups Hit Out at 'Big Telco Bias' Driving Anti-competitive EU Net](https://soylentnews.org/article.pl?sid=23/05/07/1451221&from=rss)
