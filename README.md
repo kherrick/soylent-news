@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-08, 18:56:00](https://soylentnews.org/article.pl?sid=23/05/07/1728228&from=rss) - [Discord’s Username Change is Causing Discord](https://soylentnews.org/article.pl?sid=23/05/07/1728228&from=rss)
 * [2023-05-08, 16:14:00](https://soylentnews.org/article.pl?sid=23/05/07/1723233&from=rss) - [State of Geothermal Energy](https://soylentnews.org/article.pl?sid=23/05/07/1723233&from=rss)
 * [2023-05-08, 13:29:00](https://soylentnews.org/article.pl?sid=23/05/07/1720228&from=rss) - [You Can Build This Raspberry Pi-Powered, 4G Linux Phone](https://soylentnews.org/article.pl?sid=23/05/07/1720228&from=rss)
 * [2023-05-08, 10:43:00](https://soylentnews.org/article.pl?sid=23/05/07/1717204&from=rss) - [A ‘Monumental’ Math Proof Solves the Triple Bubble Problem](https://soylentnews.org/article.pl?sid=23/05/07/1717204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-02, 13:57:00](https://soylentnews.org/article.pl?sid=23/05/01/1240211&from=rss) - [Meta Says About 10% of its Global Ad Revenue at Risk From EU Data Flows Order](https://soylentnews.org/article.pl?sid=23/05/01/1240211&from=rss)
 * [2023-05-02, 11:12:00](https://soylentnews.org/article.pl?sid=23/05/01/1234211&from=rss) - [NASA Scientists Extract Oxygen From Simulated Moon Dirt](https://soylentnews.org/article.pl?sid=23/05/01/1234211&from=rss)
 * [2023-05-02, 08:21:00](https://soylentnews.org/article.pl?sid=23/05/01/1228212&from=rss) - [Are Qualcomm Chips Snooping on You? No, Not Quite](https://soylentnews.org/article.pl?sid=23/05/01/1228212&from=rss)
-* [2023-05-02, 05:36:00](https://soylentnews.org/article.pl?sid=23/05/01/035234&from=rss) - [Despite Being Profitable, Dropbox Cuts 500 Jobs as it Considers AI's Future Effect](https://soylentnews.org/article.pl?sid=23/05/01/035234&from=rss)
 
 ## [Archives](archives/index.md)
 
