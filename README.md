@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-08, 10:43:00](https://soylentnews.org/article.pl?sid=23/05/07/1717204&from=rss) - [A ‘Monumental’ Math Proof Solves the Triple Bubble Problem](https://soylentnews.org/article.pl?sid=23/05/07/1717204&from=rss)
 * [2023-05-08, 08:02:00](https://soylentnews.org/article.pl?sid=23/05/07/177233&from=rss) - [Monkeys are Smarter Than We Thought](https://soylentnews.org/article.pl?sid=23/05/07/177233&from=rss)
 * [2023-05-08, 05:14:00](https://soylentnews.org/article.pl?sid=23/05/07/1451221&from=rss) - [Fifty+ ISPs, NGOs and Broadcaster Groups Hit Out at 'Big Telco Bias' Driving Anti-competitive EU Net](https://soylentnews.org/article.pl?sid=23/05/07/1451221&from=rss)
 * [2023-05-08, 02:25:00](https://soylentnews.org/article.pl?sid=23/05/07/1343224&from=rss) - [You Can Now Run Windows 11 Virtual Machines in GPU Memory](https://soylentnews.org/article.pl?sid=23/05/07/1343224&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-02, 05:36:00](https://soylentnews.org/article.pl?sid=23/05/01/035234&from=rss) - [Despite Being Profitable, Dropbox Cuts 500 Jobs as it Considers AI's Future Effect](https://soylentnews.org/article.pl?sid=23/05/01/035234&from=rss)
 * [2023-05-02, 02:51:00](https://soylentnews.org/article.pl?sid=23/05/01/033214&from=rss) - [Want Better Kimchi? Make It Like the Ancients Did](https://soylentnews.org/article.pl?sid=23/05/01/033214&from=rss)
 * [2023-05-01, 22:06:00](https://soylentnews.org/article.pl?sid=23/04/30/149203&from=rss) - [China Space Agency Confirms Their Mars Rover is Inoperable](https://soylentnews.org/article.pl?sid=23/04/30/149203&from=rss)
-* [2023-05-01, 17:22:00](https://soylentnews.org/article.pl?sid=23/04/30/143251&from=rss) - [What Kind of Mind Does ChatGPT Have?](https://soylentnews.org/article.pl?sid=23/04/30/143251&from=rss)
 
 ## [Archives](archives/index.md)
 
