@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 21:44:00](https://soylentnews.org/article.pl?sid=23/05/08/0147226&from=rss) - [New Analysis Techniques Reveal Possible Oceans on Uranus' Moons](https://soylentnews.org/article.pl?sid=23/05/08/0147226&from=rss)
 * [2023-05-08, 18:56:00](https://soylentnews.org/article.pl?sid=23/05/07/1728228&from=rss) - [Discord’s Username Change is Causing Discord](https://soylentnews.org/article.pl?sid=23/05/07/1728228&from=rss)
 * [2023-05-08, 16:14:00](https://soylentnews.org/article.pl?sid=23/05/07/1723233&from=rss) - [State of Geothermal Energy](https://soylentnews.org/article.pl?sid=23/05/07/1723233&from=rss)
 * [2023-05-08, 13:29:00](https://soylentnews.org/article.pl?sid=23/05/07/1720228&from=rss) - [You Can Build This Raspberry Pi-Powered, 4G Linux Phone](https://soylentnews.org/article.pl?sid=23/05/07/1720228&from=rss)
