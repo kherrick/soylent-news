@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-09, 00:33:00](https://soylentnews.org/article.pl?sid=23/05/08/0157215&from=rss) - [Australia Gets A Privacy Commissioner](https://soylentnews.org/article.pl?sid=23/05/08/0157215&from=rss)
 * [2023-05-08, 21:44:00](https://soylentnews.org/article.pl?sid=23/05/08/0147226&from=rss) - [New Analysis Techniques Reveal Possible Oceans on Uranus' Moons](https://soylentnews.org/article.pl?sid=23/05/08/0147226&from=rss)
 * [2023-05-08, 18:56:00](https://soylentnews.org/article.pl?sid=23/05/07/1728228&from=rss) - [Discord’s Username Change is Causing Discord](https://soylentnews.org/article.pl?sid=23/05/07/1728228&from=rss)
 * [2023-05-08, 16:14:00](https://soylentnews.org/article.pl?sid=23/05/07/1723233&from=rss) - [State of Geothermal Energy](https://soylentnews.org/article.pl?sid=23/05/07/1723233&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-02, 19:26:00](https://soylentnews.org/article.pl?sid=23/05/01/1539225&from=rss) - [Wikipedia Will Not Perform Online Safety Bill Age Checks](https://soylentnews.org/article.pl?sid=23/05/01/1539225&from=rss)
 * [2023-05-02, 16:43:00](https://soylentnews.org/article.pl?sid=23/05/01/1244238&from=rss) - [Confronting Your Fears in Virtual Reality Therapy](https://soylentnews.org/article.pl?sid=23/05/01/1244238&from=rss)
 * [2023-05-02, 13:57:00](https://soylentnews.org/article.pl?sid=23/05/01/1240211&from=rss) - [Meta Says About 10% of its Global Ad Revenue at Risk From EU Data Flows Order](https://soylentnews.org/article.pl?sid=23/05/01/1240211&from=rss)
-* [2023-05-02, 11:12:00](https://soylentnews.org/article.pl?sid=23/05/01/1234211&from=rss) - [NASA Scientists Extract Oxygen From Simulated Moon Dirt](https://soylentnews.org/article.pl?sid=23/05/01/1234211&from=rss)
 
 ## [Archives](archives/index.md)
 
