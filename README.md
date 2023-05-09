@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-09, 19:44:00](https://soylentnews.org/article.pl?sid=23/05/08/1535225&from=rss) - [Tiny Plastic Particles Also Find Their Way Into the Brain](https://soylentnews.org/article.pl?sid=23/05/08/1535225&from=rss)
 * [2023-05-09, 16:58:00](https://soylentnews.org/article.pl?sid=23/05/08/1534201&from=rss) - [Can Ethanol Fuel Ever Live Up to its Hype?](https://soylentnews.org/article.pl?sid=23/05/08/1534201&from=rss)
 * [2023-05-09, 14:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss) - [Samsung to Detail Second-Gen 3nm Node, but Admits It is Behind TSMC](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss)
 * [2023-05-09, 12:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1524252&from=rss) - [Australia: Woman Survives on Wine During Five Days Stranded in Australian Bush](https://soylentnews.org/article.pl?sid=23/05/08/1524252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-03, 17:27:00](https://soylentnews.org/article.pl?sid=23/05/02/1720244&from=rss) - [the Godfather of AI Leaves Google Amid Ethical Concerns](https://soylentnews.org/article.pl?sid=23/05/02/1720244&from=rss)
 * [2023-05-03, 14:42:00](https://soylentnews.org/article.pl?sid=23/05/02/179251&from=rss) - [Cops Raid Swedish VPN Provider Only to Find Out There's No 'There' There](https://soylentnews.org/article.pl?sid=23/05/02/179251&from=rss)
 * [2023-05-03, 11:52:00](https://soylentnews.org/article.pl?sid=23/05/02/1228236&from=rss) - [Python 3.12: Faster, Leaner, More Future-proof](https://soylentnews.org/article.pl?sid=23/05/02/1228236&from=rss)
-* [2023-05-03, 09:04:00](https://soylentnews.org/article.pl?sid=23/05/02/1218210&from=rss) - [As Europeans Strike First to Rein in AI, the US Follows](https://soylentnews.org/article.pl?sid=23/05/02/1218210&from=rss)
 
 ## [Archives](archives/index.md)
 

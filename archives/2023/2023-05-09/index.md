@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 19:44:00](https://soylentnews.org/article.pl?sid=23/05/08/1535225&from=rss) - [Tiny Plastic Particles Also Find Their Way Into the Brain](https://soylentnews.org/article.pl?sid=23/05/08/1535225&from=rss)
 * [2023-05-09, 16:58:00](https://soylentnews.org/article.pl?sid=23/05/08/1534201&from=rss) - [Can Ethanol Fuel Ever Live Up to its Hype?](https://soylentnews.org/article.pl?sid=23/05/08/1534201&from=rss)
 * [2023-05-09, 14:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss) - [Samsung to Detail Second-Gen 3nm Node, but Admits It is Behind TSMC](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss)
 * [2023-05-09, 12:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1524252&from=rss) - [Australia: Woman Survives on Wine During Five Days Stranded in Australian Bush](https://soylentnews.org/article.pl?sid=23/05/08/1524252&from=rss)
