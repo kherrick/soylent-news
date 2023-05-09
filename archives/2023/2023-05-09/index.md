@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 14:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss) - [Samsung to Detail Second-Gen 3nm Node, but Admits It is Behind TSMC](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss)
 * [2023-05-09, 12:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1524252&from=rss) - [Australia: Woman Survives on Wine During Five Days Stranded in Australian Bush](https://soylentnews.org/article.pl?sid=23/05/08/1524252&from=rss)
 * [2023-05-09, 11:33:00](https://soylentnews.org/article.pl?sid=23/05/08/1518239&from=rss) - [Vint Cerf on 3 Mistakes He Made in TCP/IP](https://soylentnews.org/article.pl?sid=23/05/08/1518239&from=rss)
 * [2023-05-09, 08:46:00](https://soylentnews.org/article.pl?sid=23/05/08/1510237&from=rss) - [Is Sex in Space Being Taken Seriously by the Emerging Space Tourism Sector?](https://soylentnews.org/article.pl?sid=23/05/08/1510237&from=rss)

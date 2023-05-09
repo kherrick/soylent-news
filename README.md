@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-09, 14:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss) - [Samsung to Detail Second-Gen 3nm Node, but Admits It is Behind TSMC](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss)
 * [2023-05-09, 12:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1524252&from=rss) - [Australia: Woman Survives on Wine During Five Days Stranded in Australian Bush](https://soylentnews.org/article.pl?sid=23/05/08/1524252&from=rss)
 * [2023-05-09, 11:33:00](https://soylentnews.org/article.pl?sid=23/05/08/1518239&from=rss) - [Vint Cerf on 3 Mistakes He Made in TCP/IP](https://soylentnews.org/article.pl?sid=23/05/08/1518239&from=rss)
 * [2023-05-09, 08:46:00](https://soylentnews.org/article.pl?sid=23/05/08/1510237&from=rss) - [Is Sex in Space Being Taken Seriously by the Emerging Space Tourism Sector?](https://soylentnews.org/article.pl?sid=23/05/08/1510237&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-03, 11:52:00](https://soylentnews.org/article.pl?sid=23/05/02/1228236&from=rss) - [Python 3.12: Faster, Leaner, More Future-proof](https://soylentnews.org/article.pl?sid=23/05/02/1228236&from=rss)
 * [2023-05-03, 09:04:00](https://soylentnews.org/article.pl?sid=23/05/02/1218210&from=rss) - [As Europeans Strike First to Rein in AI, the US Follows](https://soylentnews.org/article.pl?sid=23/05/02/1218210&from=rss)
 * [2023-05-03, 06:20:00](https://soylentnews.org/article.pl?sid=23/05/01/163224&from=rss) - [SpaceX's Starship Didn't Immediately Respond to a Self-Destruct Command](https://soylentnews.org/article.pl?sid=23/05/01/163224&from=rss)
-* [2023-05-03, 03:32:00](https://soylentnews.org/article.pl?sid=23/05/01/1553229&from=rss) - [UK Chip Giant Arm Files for Blockbuster US Share Listing](https://soylentnews.org/article.pl?sid=23/05/01/1553229&from=rss)
 
 ## [Archives](archives/index.md)
 
