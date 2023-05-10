@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 15:07:00](https://soylentnews.org/article.pl?sid=23/05/09/1739243&from=rss) - [U.S. Support for Nuclear Power Soars](https://soylentnews.org/article.pl?sid=23/05/09/1739243&from=rss)
 * [2023-05-10, 12:24:00](https://soylentnews.org/article.pl?sid=23/05/09/1734255&from=rss) - [Older Adults May Achieve Same Cognition as Undergrads](https://soylentnews.org/article.pl?sid=23/05/09/1734255&from=rss)
 * [2023-05-10, 09:38:00](https://soylentnews.org/article.pl?sid=23/05/09/1733213&from=rss) - [\"Too Greedy\": Mass Walkout at Global Science Journal Neuroimage Over \"Unethical\" Elsevier Fees](https://soylentnews.org/article.pl?sid=23/05/09/1733213&from=rss)
 * [2023-05-10, 06:52:00](https://soylentnews.org/article.pl?sid=23/05/09/0223220&from=rss) - [Pinging Locations](https://soylentnews.org/article.pl?sid=23/05/09/0223220&from=rss)
