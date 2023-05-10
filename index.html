@@ -145,6 +145,100 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/05/09/0223220">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/05/09/0223220&amp;from=rss"
+              >Pinging Locations</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-10 @ 06:52:00</span
+              ><span class="points-container"
+                >Points: <span class="points">54</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/05/09/0223220"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    [...] Remember: Speed of light × elapsed time = distance.
+                    Now they have a radius for how far away my server is. By
+                    doing the same test over and over and from a wide range of
+                    sources, all of the distances begin to overlap (triangulate)
+                    in a specific location. At the rate they are scanning, they
+                    have probably located my server to within a 25 mile (40km)
+                    radius.
+                  </p>
+                  <p>
+                    But why stop there? They are using a wide range of sources
+                    and are querying every pingable server. They can use these
+                    known locations to help fine-tune the geolocation for lots
+                    of other subnets. This is how you geolocate every network on
+                    the entire internet.
+                  </p>
+                  <p>
+                    [...] Stopping pings does block this group from doing
+                    geolocation. However, I want ping enabled for my honeypots.
+                    For those systems, I came up with another creative solution:
+                  </p>
+                  <blockquote>
+                    <div>
+                      <p>
+                        <code
+                          >sudo tc qdisc add dev eth0 root netem delay 100ms
+                          50ms 75%</code
+                        >
+                      </p>
+                    </div>
+                  </blockquote>
+                  <p>
+                    (You might need to install niceshaper: sudo apt install
+                    niceshaper.)
+                  </p>
+                  <p>
+                    The "tc" program does traffic control. Usually
+                    administrators use it to throttle the throughput so that one
+                    host doesn't dominate all of the building's bandwidth.
+                    However on my honeypot, I just added in a random delay of
+                    100 +/- 50ms. Suddenly those measured delays and computed
+                    distances are unreliable. Things that should be 1,800 miles
+                    away can now appear to be over 100,000 miles away. (That
+                    computed example of 69,000 miles was due to this random
+                    delay.) This doesn't stop them from pinging my server, but
+                    it does poison their geolocation computations.
+                  </p>
+                  <p>
+                    I haven't yet figured out how to only add delays to ICMP and
+                    ICMPv6 echo-request packets. But this solution is definitely
+                    good enough for now. Nothing stops them from slinging their
+                    echo-request packets all over the internet. However, my
+                    production servers don't respond and my honeypots mess them
+                    up.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59450"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/05/09/0159229">
           <h3>
             <a
@@ -157,7 +251,7 @@
             <h4>
               <span>2023-05-10 @ 04:02:00</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/09/0159229"
@@ -420,7 +514,7 @@
             <h4>
               <span>2023-05-09 @ 19:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">380</span></span
+                >Points: <span class="points">387</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/08/1535225"
@@ -490,7 +584,7 @@
             <h4>
               <span>2023-05-09 @ 16:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">717</span></span
+                >Points: <span class="points">720</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/08/1534201"
@@ -560,7 +654,7 @@
             <h4>
               <span>2023-05-09 @ 14:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">405</span></span
+                >Points: <span class="points">406</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/08/1528204"
@@ -675,7 +769,7 @@
             <h4>
               <span>2023-05-09 @ 12:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">698</span></span
+                >Points: <span class="points">703</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/08/1524252"
@@ -764,7 +858,7 @@
             <h4>
               <span>2023-05-09 @ 11:33:00</span
               ><span class="points-container"
-                >Points: <span class="points">879</span></span
+                >Points: <span class="points">880</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/08/1518239"
@@ -836,7 +930,7 @@
             <h4>
               <span>2023-05-09 @ 08:46:00</span
               ><span class="points-container"
-                >Points: <span class="points">663</span></span
+                >Points: <span class="points">664</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/08/1510237"
@@ -934,7 +1028,7 @@
             <h4>
               <span>2023-05-09 @ 06:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">530</span></span
+                >Points: <span class="points">532</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/08/1137209"
@@ -1316,7 +1410,7 @@
             <h4>
               <span>2023-05-08 @ 18:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">796</span></span
+                >Points: <span class="points">798</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/07/1728228"
@@ -1497,7 +1591,7 @@
             <h4>
               <span>2023-05-08 @ 13:29:00</span
               ><span class="points-container"
-                >Points: <span class="points">933</span></span
+                >Points: <span class="points">935</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/07/1720228"
@@ -1830,7 +1924,7 @@
             <h4>
               <span>2023-05-08 @ 05:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">508</span></span
+                >Points: <span class="points">509</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/07/1451221"
@@ -1923,7 +2017,7 @@
             <h4>
               <span>2023-05-08 @ 02:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">797</span></span
+                >Points: <span class="points">799</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/07/1343224"
@@ -4683,115 +4777,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59487"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/05/02/1726206">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/05/02/1726206&amp;from=rss"
-              >Pornhub Protests Utah Age Verification Law by Blocking the
-              State's Access</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-03 @ 20:11:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1559</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/05/02/1726206"
-                  >Comments</a
-                ><span class="descendants">: 61</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
-              <p>
-                <a
-                  href="https://www.techspot.com/news/98524-pornhub-protests-utah-age-verification-law-blocking-state.html"
-                  >Pornhub protests Utah age verification law by blocking the
-                  state's access</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    MindGeek, the owner of adult platforms such as Pornhub, has
-                    blocked everyone in Utah from accessing its sites in protest
-                    of the state's age verification law that has just come into
-                    effect.
-                  </p>
-                  <p>
-                    Utah has been fighting against online pornography for years.
-                    It called porn a public health crisis in 2016 and previously
-                    proposed that all smartphones and tablets in the state
-                    <a
-                      href="https://www.techspot.com/news/88955-utah-may-introduce-bill-requiring-porn-blocking-filters.html"
-                      >automatically block</a
-                    >
-                    pornography. An age verification law was eventually passed
-                    in March, requiring users visiting adult platforms deemed
-                    "harmful to minors" to verify their age before being allowed
-                    access.
-                    <a
-                      href="https://www.axios.com/2023/05/02/pornhub-utah-block-social-media-age-verification"
-                      >Axios</a
-                    >
-                    writes that any companies that don't comply with the law
-                    will be liable if they're sued over minors accessing their
-                    content.
-                  </p>
-                  <p>
-                    Now that the law has gone into effect, MindGeek has
-                    responded by blocking anyone in Utah who tries to access
-                    Pornhub. Those with Utah IPs will see only a video of adult
-                    performer Cherie DeVille, a member of the Adult Performer
-                    Advocacy Committee, explaining the reason for the block.
-                  </p>
-                  <p>
-                    "As you may know, your elected officials in Utah are
-                    requiring us to verify your age before allowing you access
-                    to our website," DeVille says. "While safety and compliance
-                    are at the forefront of our mission, giving your ID card
-                    every time you want to visit an adult platform is not the
-                    most effective solution for protecting our users, and in
-                    fact, will put children and your privacy at risk."
-                  </p>
-                  <p>
-                    DeVille adds that "mandating age verification without proper
-                    enforcement" drives users to other sites with fewer safety
-                    measures in place.
-                  </p>
-                  <p>
-                    [...] Utah's new laws also
-                    <a
-                      href="https://www.techspot.com/news/98062-utah-social-media-law-require-parental-permission-teens.html"
-                      >extend to social media companies</a
-                    >. From March 1 next year, those under 18 will require a
-                    parent's permission before opening an account on social
-                    media platforms. Companies must also give parents access to
-                    their kids' posts, messages, and responses; are barred "from
-                    using a design or feature that causes a minor to have an
-                    addiction to the company's social media platform;" and must
-                    block under-18s from using social media between 10:30 pm and
-                    6:30 am.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59481"
                     >Original Submission</a
                   ></small
                 >
