@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 23:18:00](https://soylentnews.org/article.pl?sid=23/05/10/0431233&from=rss) - [Why You Shouldn't Use Magnets When Looking for Meteorites](https://soylentnews.org/article.pl?sid=23/05/10/0431233&from=rss)
 * [2023-05-10, 20:36:00](https://soylentnews.org/article.pl?sid=23/05/09/1747244&from=rss) - [Over-the-Counter Hearing Aids Are Attracting Young Users](https://soylentnews.org/article.pl?sid=23/05/09/1747244&from=rss)
 * [2023-05-10, 17:53:00](https://soylentnews.org/article.pl?sid=23/05/09/1745211&from=rss) - [Drivers in France ‘Strongly Advised’ to Avoid Dashboard Cameras](https://soylentnews.org/article.pl?sid=23/05/09/1745211&from=rss)
 * [2023-05-10, 15:07:00](https://soylentnews.org/article.pl?sid=23/05/09/1739243&from=rss) - [U.S. Support for Nuclear Power Soars](https://soylentnews.org/article.pl?sid=23/05/09/1739243&from=rss)
