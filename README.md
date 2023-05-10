@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-10, 20:36:00](https://soylentnews.org/article.pl?sid=23/05/09/1747244&from=rss) - [Over-the-Counter Hearing Aids Are Attracting Young Users](https://soylentnews.org/article.pl?sid=23/05/09/1747244&from=rss)
 * [2023-05-10, 17:53:00](https://soylentnews.org/article.pl?sid=23/05/09/1745211&from=rss) - [Drivers in France ‘Strongly Advised’ to Avoid Dashboard Cameras](https://soylentnews.org/article.pl?sid=23/05/09/1745211&from=rss)
 * [2023-05-10, 15:07:00](https://soylentnews.org/article.pl?sid=23/05/09/1739243&from=rss) - [U.S. Support for Nuclear Power Soars](https://soylentnews.org/article.pl?sid=23/05/09/1739243&from=rss)
 * [2023-05-10, 12:24:00](https://soylentnews.org/article.pl?sid=23/05/09/1734255&from=rss) - [Older Adults May Achieve Same Cognition as Undergrads](https://soylentnews.org/article.pl?sid=23/05/09/1734255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-04, 18:11:00](https://soylentnews.org/article.pl?sid=23/05/03/1823205&from=rss) - [TSMC News - US and Europe](https://soylentnews.org/article.pl?sid=23/05/03/1823205&from=rss)
 * [2023-05-04, 15:23:00](https://soylentnews.org/article.pl?sid=23/05/03/1817212&from=rss) - [Netflix Loses a Million Subscribers in Spain After Greedy Password Sharing Crackdown](https://soylentnews.org/article.pl?sid=23/05/03/1817212&from=rss)
 * [2023-05-04, 12:37:00](https://soylentnews.org/article.pl?sid=23/05/03/1811228&from=rss) - [SpaceX Completes First Fully Expendable Falcon Heavy Mission](https://soylentnews.org/article.pl?sid=23/05/03/1811228&from=rss)
-* [2023-05-04, 09:55:00](https://soylentnews.org/article.pl?sid=23/05/03/186208&from=rss) - [T-Mobile Discloses Second Data Breach Since the Start of 2023](https://soylentnews.org/article.pl?sid=23/05/03/186208&from=rss)
 
 ## [Archives](archives/index.md)
 
