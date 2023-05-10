@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-10, 01:16:00](https://soylentnews.org/article.pl?sid=23/05/09/0149204&from=rss) - [Samsung Bans Use of Generative AI Tools Like ChatGPT After April Internal Data Leak](https://soylentnews.org/article.pl?sid=23/05/09/0149204&from=rss)
 * [2023-05-09, 22:29:00](https://soylentnews.org/article.pl?sid=23/05/09/0131212&from=rss) - [US Marshals' Computer System Remains Out of Commission 10 Weeks After Ransomware Attack](https://soylentnews.org/article.pl?sid=23/05/09/0131212&from=rss)
 * [2023-05-09, 19:44:00](https://soylentnews.org/article.pl?sid=23/05/08/1535225&from=rss) - [Tiny Plastic Particles Also Find Their Way Into the Brain](https://soylentnews.org/article.pl?sid=23/05/08/1535225&from=rss)
 * [2023-05-09, 16:58:00](https://soylentnews.org/article.pl?sid=23/05/08/1534201&from=rss) - [Can Ethanol Fuel Ever Live Up to its Hype?](https://soylentnews.org/article.pl?sid=23/05/08/1534201&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-03, 22:58:00](https://soylentnews.org/article.pl?sid=23/05/02/1742254&from=rss) - [CERN Celebrates 30th Anniversary of the World Wide Web](https://soylentnews.org/article.pl?sid=23/05/02/1742254&from=rss)
 * [2023-05-03, 20:11:00](https://soylentnews.org/article.pl?sid=23/05/02/1726206&from=rss) - [Pornhub Protests Utah Age Verification Law by Blocking the State's Access](https://soylentnews.org/article.pl?sid=23/05/02/1726206&from=rss)
 * [2023-05-03, 17:27:00](https://soylentnews.org/article.pl?sid=23/05/02/1720244&from=rss) - [the Godfather of AI Leaves Google Amid Ethical Concerns](https://soylentnews.org/article.pl?sid=23/05/02/1720244&from=rss)
-* [2023-05-03, 14:42:00](https://soylentnews.org/article.pl?sid=23/05/02/179251&from=rss) - [Cops Raid Swedish VPN Provider Only to Find Out There's No 'There' There](https://soylentnews.org/article.pl?sid=23/05/02/179251&from=rss)
 
 ## [Archives](archives/index.md)
 
