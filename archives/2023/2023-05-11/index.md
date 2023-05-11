@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 18:26:00](https://soylentnews.org/article.pl?sid=23/05/10/1447252&from=rss) - [432-Core Chiplet-Based RISC-V Chip Nearly Ready to Blast Into Space](https://soylentnews.org/article.pl?sid=23/05/10/1447252&from=rss)
 * [2023-05-11, 15:43:00](https://soylentnews.org/article.pl?sid=23/05/10/1444249&from=rss) - [Rare Myocarditis After COVID Shots: Study Rules Out Some Common Culprits](https://soylentnews.org/article.pl?sid=23/05/10/1444249&from=rss)
 * [2023-05-11, 12:57:00](https://soylentnews.org/article.pl?sid=23/05/10/1438206&from=rss) - [SBF Says “Dishonesty and Unfair Dealing” Aren't Fraud, Seeks to Dismiss Charges](https://soylentnews.org/article.pl?sid=23/05/10/1438206&from=rss)
 * [2023-05-11, 10:15:00](https://soylentnews.org/article.pl?sid=23/05/10/1436224&from=rss) - [Australian Lawmakers Press US Envoy for Julian Assange Release](https://soylentnews.org/article.pl?sid=23/05/10/1436224&from=rss)
