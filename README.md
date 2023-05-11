@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-11, 21:08:00](https://soylentnews.org/article.pl?sid=23/05/10/1449256&from=rss) - [Early Crop Plants Were More Easily ‘Tamed’](https://soylentnews.org/article.pl?sid=23/05/10/1449256&from=rss)
 * [2023-05-11, 18:26:00](https://soylentnews.org/article.pl?sid=23/05/10/1447252&from=rss) - [432-Core Chiplet-Based RISC-V Chip Nearly Ready to Blast Into Space](https://soylentnews.org/article.pl?sid=23/05/10/1447252&from=rss)
 * [2023-05-11, 15:43:00](https://soylentnews.org/article.pl?sid=23/05/10/1444249&from=rss) - [Rare Myocarditis After COVID Shots: Study Rules Out Some Common Culprits](https://soylentnews.org/article.pl?sid=23/05/10/1444249&from=rss)
 * [2023-05-11, 12:57:00](https://soylentnews.org/article.pl?sid=23/05/10/1438206&from=rss) - [SBF Says “Dishonesty and Unfair Dealing” Aren't Fraud, Seeks to Dismiss Charges](https://soylentnews.org/article.pl?sid=23/05/10/1438206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-05, 18:49:00](https://soylentnews.org/article.pl?sid=23/05/04/1532217&from=rss) - [Babylon 5 Animated Movie](https://soylentnews.org/article.pl?sid=23/05/04/1532217&from=rss)
 * [2023-05-05, 16:05:00](https://soylentnews.org/article.pl?sid=23/05/04/1527256&from=rss) - [Neural Networks on Photonic Chips: Harnessing Light for Ultra-Fast and Low-Power AI](https://soylentnews.org/article.pl?sid=23/05/04/1527256&from=rss)
 * [2023-05-05, 13:24:00](https://soylentnews.org/article.pl?sid=23/05/04/1524258&from=rss) - [Doctors Have Performed Brain Surgery on a Fetus in One of the First Operations of its Kind](https://soylentnews.org/article.pl?sid=23/05/04/1524258&from=rss)
-* [2023-05-05, 10:41:00](https://soylentnews.org/article.pl?sid=23/05/04/1522225&from=rss) - [Europol Operation Arrests 288 in Massive Dark Web Drug Bust](https://soylentnews.org/article.pl?sid=23/05/04/1522225&from=rss)
 
 ## [Archives](archives/index.md)
 
