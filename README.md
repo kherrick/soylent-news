@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-11, 04:48:00](https://soylentnews.org/article.pl?sid=23/05/10/1151204&from=rss) - [Royal Ransomware Expands to Target Linux, VMware ESXi](https://soylentnews.org/article.pl?sid=23/05/10/1151204&from=rss)
 * [2023-05-11, 02:03:00](https://soylentnews.org/article.pl?sid=23/05/10/0442231&from=rss) - [This Abundant Material Could Unlock Cheaper Batteries for EVs](https://soylentnews.org/article.pl?sid=23/05/10/0442231&from=rss)
 * [2023-05-10, 23:18:00](https://soylentnews.org/article.pl?sid=23/05/10/0431233&from=rss) - [Why You Shouldn't Use Magnets When Looking for Meteorites](https://soylentnews.org/article.pl?sid=23/05/10/0431233&from=rss)
 * [2023-05-10, 20:36:00](https://soylentnews.org/article.pl?sid=23/05/09/1747244&from=rss) - [Over-the-Counter Hearing Aids Are Attracting Young Users](https://soylentnews.org/article.pl?sid=23/05/09/1747244&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-05, 02:22:00](https://soylentnews.org/article.pl?sid=23/05/04/1121244&from=rss) - [Amazon Halo is Dead, and It's a Bigger Deal Than You Think](https://soylentnews.org/article.pl?sid=23/05/04/1121244&from=rss)
 * [2023-05-04, 23:37:00](https://soylentnews.org/article.pl?sid=23/05/04/1111224&from=rss) - [Universe-mapping Euclid Satellite Arrives in US](https://soylentnews.org/article.pl?sid=23/05/04/1111224&from=rss)
 * [2023-05-04, 20:54:00](https://soylentnews.org/article.pl?sid=23/05/03/1824257&from=rss) - [A Bug Fix in the 8086 Microprocessor, Revealed in the Die's Silicon](https://soylentnews.org/article.pl?sid=23/05/03/1824257&from=rss)
-* [2023-05-04, 18:11:00](https://soylentnews.org/article.pl?sid=23/05/03/1823205&from=rss) - [TSMC News - US and Europe](https://soylentnews.org/article.pl?sid=23/05/03/1823205&from=rss)
 
 ## [Archives](archives/index.md)
 
