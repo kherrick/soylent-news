@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-11, 12:57:00](https://soylentnews.org/article.pl?sid=23/05/10/1438206&from=rss) - [SBF Says “Dishonesty and Unfair Dealing” Aren't Fraud, Seeks to Dismiss Charges](https://soylentnews.org/article.pl?sid=23/05/10/1438206&from=rss)
 * [2023-05-11, 10:15:00](https://soylentnews.org/article.pl?sid=23/05/10/1436224&from=rss) - [Australian Lawmakers Press US Envoy for Julian Assange Release](https://soylentnews.org/article.pl?sid=23/05/10/1436224&from=rss)
 * [2023-05-11, 07:33:00](https://soylentnews.org/article.pl?sid=23/05/10/120257&from=rss) - [AI Can Predict Pancreatic Cancer Three Years Ahead of Humans](https://soylentnews.org/article.pl?sid=23/05/10/120257&from=rss)
 * [2023-05-11, 04:48:00](https://soylentnews.org/article.pl?sid=23/05/10/1151204&from=rss) - [Royal Ransomware Expands to Target Linux, VMware ESXi](https://soylentnews.org/article.pl?sid=23/05/10/1151204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-05, 10:41:00](https://soylentnews.org/article.pl?sid=23/05/04/1522225&from=rss) - [Europol Operation Arrests 288 in Massive Dark Web Drug Bust](https://soylentnews.org/article.pl?sid=23/05/04/1522225&from=rss)
 * [2023-05-05, 07:53:00](https://soylentnews.org/article.pl?sid=23/05/04/1155232&from=rss) - [Rover Spots Possible Evidence of Liquid Water on Modern Mars](https://soylentnews.org/article.pl?sid=23/05/04/1155232&from=rss)
 * [2023-05-05, 05:08:00](https://soylentnews.org/article.pl?sid=23/05/04/1135220&from=rss) - [Samsung to Pay Out $303M for Memory Patent Infringement](https://soylentnews.org/article.pl?sid=23/05/04/1135220&from=rss)
-* [2023-05-05, 02:22:00](https://soylentnews.org/article.pl?sid=23/05/04/1121244&from=rss) - [Amazon Halo is Dead, and It's a Bigger Deal Than You Think](https://soylentnews.org/article.pl?sid=23/05/04/1121244&from=rss)
 
 ## [Archives](archives/index.md)
 
