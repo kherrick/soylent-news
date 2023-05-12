@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-12, 13:37:00](https://soylentnews.org/article.pl?sid=23/05/11/1729239&from=rss) - [Leak of MSI UEFI Signing Keys Stokes Fears of “Doomsday” Supply Chain Attack](https://soylentnews.org/article.pl?sid=23/05/11/1729239&from=rss)
 * [2023-05-12, 10:54:00](https://soylentnews.org/article.pl?sid=23/05/11/1725213&from=rss) - [YouTube Now Warns Users That Ad Blockers Aren't Allowed](https://soylentnews.org/article.pl?sid=23/05/11/1725213&from=rss)
 * [2023-05-12, 08:10:00](https://soylentnews.org/article.pl?sid=23/05/11/1721238&from=rss) - [This Japanese Company Believes It Can Catch Up With Chipmakers Like TSMC by 2027](https://soylentnews.org/article.pl?sid=23/05/11/1721238&from=rss)
 * [2023-05-12, 05:26:00](https://soylentnews.org/article.pl?sid=23/05/11/1146218&from=rss) - [Maybe Commercial Fusion Power is Only Five Years Away](https://soylentnews.org/article.pl?sid=23/05/11/1146218&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-06, 19:18:00](https://soylentnews.org/article.pl?sid=23/05/05/1159255&from=rss) - [How Music Can Prevent Cognitive Decline](https://soylentnews.org/article.pl?sid=23/05/05/1159255&from=rss)
 * [2023-05-06, 14:25:00](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss) - [US Chipmakers Not Happy About Being Locked Out of China](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss)
 * [2023-05-06, 09:38:00](https://soylentnews.org/article.pl?sid=23/05/05/1150236&from=rss) - [CEO Stadler to Plead Guilty Eight Years After VW/Audi Diesel Scandal](https://soylentnews.org/article.pl?sid=23/05/05/1150236&from=rss)
-* [2023-05-06, 05:00:00](https://soylentnews.org/article.pl?sid=23/05/05/0252245&from=rss) - [Google Will Remove Secure Website Indicators in Chrome 117](https://soylentnews.org/article.pl?sid=23/05/05/0252245&from=rss)
 
 ## [Archives](archives/index.md)
 
