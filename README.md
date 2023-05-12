@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-12, 05:26:00](https://soylentnews.org/article.pl?sid=23/05/11/1146218&from=rss) - [Maybe Commercial Fusion Power is Only Five Years Away](https://soylentnews.org/article.pl?sid=23/05/11/1146218&from=rss)
 * [2023-05-12, 02:39:00](https://soylentnews.org/article.pl?sid=23/05/11/1134254&from=rss) - [How Pythagoras Turned Math Into a Tool for Understanding Reality](https://soylentnews.org/article.pl?sid=23/05/11/1134254&from=rss)
 * [2023-05-11, 23:54:00](https://soylentnews.org/article.pl?sid=23/05/11/0235257&from=rss) - [Textbooks Giant Pearson Takes Legal Action Over Use of its Content to Train AI](https://soylentnews.org/article.pl?sid=23/05/11/0235257&from=rss)
 * [2023-05-11, 21:08:00](https://soylentnews.org/article.pl?sid=23/05/10/1449256&from=rss) - [Early Crop Plants Were More Easily ‘Tamed’](https://soylentnews.org/article.pl?sid=23/05/10/1449256&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-06, 05:00:00](https://soylentnews.org/article.pl?sid=23/05/05/0252245&from=rss) - [Google Will Remove Secure Website Indicators in Chrome 117](https://soylentnews.org/article.pl?sid=23/05/05/0252245&from=rss)
 * [2023-05-06, 00:16:00](https://soylentnews.org/article.pl?sid=23/05/05/0138213&from=rss) - [Europe’s Major Satellite Players Line Up to Build Starlink Competitor](https://soylentnews.org/article.pl?sid=23/05/05/0138213&from=rss)
 * [2023-05-05, 21:33:00](https://soylentnews.org/article.pl?sid=23/05/04/1534209&from=rss) - [NIST Releases Draft Post-Quantum Encryption Document](https://soylentnews.org/article.pl?sid=23/05/04/1534209&from=rss)
-* [2023-05-05, 18:49:00](https://soylentnews.org/article.pl?sid=23/05/04/1532217&from=rss) - [Babylon 5 Animated Movie](https://soylentnews.org/article.pl?sid=23/05/04/1532217&from=rss)
 
 ## [Archives](archives/index.md)
 
