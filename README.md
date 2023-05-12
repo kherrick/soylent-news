@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-12, 10:54:00](https://soylentnews.org/article.pl?sid=23/05/11/1725213&from=rss) - [YouTube Now Warns Users That Ad Blockers Aren't Allowed](https://soylentnews.org/article.pl?sid=23/05/11/1725213&from=rss)
 * [2023-05-12, 08:10:00](https://soylentnews.org/article.pl?sid=23/05/11/1721238&from=rss) - [This Japanese Company Believes It Can Catch Up With Chipmakers Like TSMC by 2027](https://soylentnews.org/article.pl?sid=23/05/11/1721238&from=rss)
 * [2023-05-12, 05:26:00](https://soylentnews.org/article.pl?sid=23/05/11/1146218&from=rss) - [Maybe Commercial Fusion Power is Only Five Years Away](https://soylentnews.org/article.pl?sid=23/05/11/1146218&from=rss)
 * [2023-05-12, 02:39:00](https://soylentnews.org/article.pl?sid=23/05/11/1134254&from=rss) - [How Pythagoras Turned Math Into a Tool for Understanding Reality](https://soylentnews.org/article.pl?sid=23/05/11/1134254&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-06, 14:25:00](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss) - [US Chipmakers Not Happy About Being Locked Out of China](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss)
 * [2023-05-06, 09:38:00](https://soylentnews.org/article.pl?sid=23/05/05/1150236&from=rss) - [CEO Stadler to Plead Guilty Eight Years After VW/Audi Diesel Scandal](https://soylentnews.org/article.pl?sid=23/05/05/1150236&from=rss)
 * [2023-05-06, 05:00:00](https://soylentnews.org/article.pl?sid=23/05/05/0252245&from=rss) - [Google Will Remove Secure Website Indicators in Chrome 117](https://soylentnews.org/article.pl?sid=23/05/05/0252245&from=rss)
-* [2023-05-06, 00:16:00](https://soylentnews.org/article.pl?sid=23/05/05/0138213&from=rss) - [Europe’s Major Satellite Players Line Up to Build Starlink Competitor](https://soylentnews.org/article.pl?sid=23/05/05/0138213&from=rss)
 
 ## [Archives](archives/index.md)
 
