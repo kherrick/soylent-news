@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-12, 19:08:00](https://soylentnews.org/article.pl?sid=23/05/11/1742219&from=rss) - [Physicists Create Elusive Particles That Remember Their Pasts](https://soylentnews.org/article.pl?sid=23/05/11/1742219&from=rss)
 * [2023-05-12, 16:22:00](https://soylentnews.org/article.pl?sid=23/05/11/1735236&from=rss) - [How the US Dismantled a Malware Network Used by Russian Spies to Steal Government Secrets](https://soylentnews.org/article.pl?sid=23/05/11/1735236&from=rss)
 * [2023-05-12, 13:37:00](https://soylentnews.org/article.pl?sid=23/05/11/1729239&from=rss) - [Leak of MSI UEFI Signing Keys Stokes Fears of “Doomsday” Supply Chain Attack](https://soylentnews.org/article.pl?sid=23/05/11/1729239&from=rss)
 * [2023-05-12, 10:54:00](https://soylentnews.org/article.pl?sid=23/05/11/1725213&from=rss) - [YouTube Now Warns Users That Ad Blockers Aren't Allowed](https://soylentnews.org/article.pl?sid=23/05/11/1725213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-07, 04:47:00](https://soylentnews.org/article.pl?sid=23/05/06/0659248&from=rss) - [Recent MIT Paper Proposes a New Method to \"Grow\" 2D Transistors on Top of Wafers](https://soylentnews.org/article.pl?sid=23/05/06/0659248&from=rss)
 * [2023-05-07, 00:01:00](https://soylentnews.org/article.pl?sid=23/05/05/129225&from=rss) - [Ed Sheeran Found ‘Not Guilty’ of Copyright Infringement in “Thinking Out Loud” Court Battle](https://soylentnews.org/article.pl?sid=23/05/05/129225&from=rss)
 * [2023-05-06, 19:18:00](https://soylentnews.org/article.pl?sid=23/05/05/1159255&from=rss) - [How Music Can Prevent Cognitive Decline](https://soylentnews.org/article.pl?sid=23/05/05/1159255&from=rss)
-* [2023-05-06, 14:25:00](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss) - [US Chipmakers Not Happy About Being Locked Out of China](https://soylentnews.org/article.pl?sid=23/05/05/1158218&from=rss)
 
 ## [Archives](archives/index.md)
 
