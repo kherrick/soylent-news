@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-14, 01:12:00](https://soylentnews.org/article.pl?sid=23/05/12/1244227&from=rss) - [Inside the 8086 Processor, Tiny Charge Pumps Create a Negative Voltage](https://soylentnews.org/article.pl?sid=23/05/12/1244227&from=rss)
 * [2023-05-13, 20:28:00](https://soylentnews.org/article.pl?sid=23/05/12/1239247&from=rss) - [China's Spaceplane Conducted Multiple Maneuvers With a Mystery Object in Orbit](https://soylentnews.org/article.pl?sid=23/05/12/1239247&from=rss)
 * [2023-05-13, 15:43:00](https://soylentnews.org/article.pl?sid=23/05/12/1234208&from=rss) - [Ajay Bhatt and the Universal Serial Bus](https://soylentnews.org/article.pl?sid=23/05/12/1234208&from=rss)
 * [2023-05-13, 11:02:00](https://soylentnews.org/article.pl?sid=23/05/12/0426253&from=rss) - [Possible Meteorite Crashes Through Roof of New Jersey Home](https://soylentnews.org/article.pl?sid=23/05/12/0426253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-08, 08:02:00](https://soylentnews.org/article.pl?sid=23/05/07/177233&from=rss) - [Monkeys are Smarter Than We Thought](https://soylentnews.org/article.pl?sid=23/05/07/177233&from=rss)
 * [2023-05-08, 05:14:00](https://soylentnews.org/article.pl?sid=23/05/07/1451221&from=rss) - [Fifty+ ISPs, NGOs and Broadcaster Groups Hit Out at 'Big Telco Bias' Driving Anti-competitive EU Net](https://soylentnews.org/article.pl?sid=23/05/07/1451221&from=rss)
 * [2023-05-08, 02:25:00](https://soylentnews.org/article.pl?sid=23/05/07/1343224&from=rss) - [You Can Now Run Windows 11 Virtual Machines in GPU Memory](https://soylentnews.org/article.pl?sid=23/05/07/1343224&from=rss)
-* [2023-05-07, 23:40:00](https://soylentnews.org/article.pl?sid=23/05/07/1327229&from=rss) - [Caught in the Act: Astronomers Spot Star Swallowing a Planet for First Time](https://soylentnews.org/article.pl?sid=23/05/07/1327229&from=rss)
 
 ## [Archives](archives/index.md)
 
