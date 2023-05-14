@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-14, 20:04:00](https://soylentnews.org/article.pl?sid=23/05/14/1239205&from=rss) - [Two Startups Trying to Save NASA's Hubble Telescope for Free](https://soylentnews.org/article.pl?sid=23/05/14/1239205&from=rss)
 * [2023-05-14, 15:21:00](https://soylentnews.org/article.pl?sid=23/05/14/1232238&from=rss) - [Microsoft Will Take Nearly a Year to Finish Patching New 0-Day Secure Boot Bug](https://soylentnews.org/article.pl?sid=23/05/14/1232238&from=rss)
 * [2023-05-14, 10:39:00](https://soylentnews.org/article.pl?sid=23/05/12/1253235&from=rss) - [Opinion: Most People Are Terrible at Matching Faces to Photos, Making Polling Checks Unreliable](https://soylentnews.org/article.pl?sid=23/05/12/1253235&from=rss)
 * [2023-05-14, 05:57:00](https://soylentnews.org/article.pl?sid=23/05/12/1247243&from=rss) - [Elon Musk Says He's Found a New CEO for Twitter, a Woman Who Will Start in 6 Weeks](https://soylentnews.org/article.pl?sid=23/05/12/1247243&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-08, 18:56:00](https://soylentnews.org/article.pl?sid=23/05/07/1728228&from=rss) - [Discord’s Username Change is Causing Discord](https://soylentnews.org/article.pl?sid=23/05/07/1728228&from=rss)
 * [2023-05-08, 16:14:00](https://soylentnews.org/article.pl?sid=23/05/07/1723233&from=rss) - [State of Geothermal Energy](https://soylentnews.org/article.pl?sid=23/05/07/1723233&from=rss)
 * [2023-05-08, 13:29:00](https://soylentnews.org/article.pl?sid=23/05/07/1720228&from=rss) - [You Can Build This Raspberry Pi-Powered, 4G Linux Phone](https://soylentnews.org/article.pl?sid=23/05/07/1720228&from=rss)
-* [2023-05-08, 10:43:00](https://soylentnews.org/article.pl?sid=23/05/07/1717204&from=rss) - [A ‘Monumental’ Math Proof Solves the Triple Bubble Problem](https://soylentnews.org/article.pl?sid=23/05/07/1717204&from=rss)
 
 ## [Archives](archives/index.md)
 
