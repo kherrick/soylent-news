@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-15, 03:36:00](https://soylentnews.org/article.pl?sid=23/05/14/137230&from=rss) - [Ex-Ubiquiti Engineer Behind “Breathtaking” Data Theft Gets 6-Year Prison Term](https://soylentnews.org/article.pl?sid=23/05/14/137230&from=rss)
 * [2023-05-15, 00:50:00](https://soylentnews.org/article.pl?sid=23/05/14/1245246&from=rss) - [Science Explains Why Shouting Into the Wind Seems Futile](https://soylentnews.org/article.pl?sid=23/05/14/1245246&from=rss)
 * [2023-05-14, 20:04:00](https://soylentnews.org/article.pl?sid=23/05/14/1239205&from=rss) - [Two Startups Trying to Save NASA's Hubble Telescope for Free](https://soylentnews.org/article.pl?sid=23/05/14/1239205&from=rss)
 * [2023-05-14, 15:21:00](https://soylentnews.org/article.pl?sid=23/05/14/1232238&from=rss) - [Microsoft Will Take Nearly a Year to Finish Patching New 0-Day Secure Boot Bug](https://soylentnews.org/article.pl?sid=23/05/14/1232238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-09, 00:33:00](https://soylentnews.org/article.pl?sid=23/05/08/0157215&from=rss) - [Australia Gets A Privacy Commissioner](https://soylentnews.org/article.pl?sid=23/05/08/0157215&from=rss)
 * [2023-05-08, 21:44:00](https://soylentnews.org/article.pl?sid=23/05/08/0147226&from=rss) - [New Analysis Techniques Reveal Possible Oceans on Uranus' Moons](https://soylentnews.org/article.pl?sid=23/05/08/0147226&from=rss)
 * [2023-05-08, 18:56:00](https://soylentnews.org/article.pl?sid=23/05/07/1728228&from=rss) - [Discord’s Username Change is Causing Discord](https://soylentnews.org/article.pl?sid=23/05/07/1728228&from=rss)
-* [2023-05-08, 16:14:00](https://soylentnews.org/article.pl?sid=23/05/07/1723233&from=rss) - [State of Geothermal Energy](https://soylentnews.org/article.pl?sid=23/05/07/1723233&from=rss)
 
 ## [Archives](archives/index.md)
 
