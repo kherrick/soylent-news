@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-15, 14:47:00](https://soylentnews.org/article.pl?sid=23/05/14/1358240&from=rss) - [Goodbye to Roblox on Linux With Their New Anti-Cheat and Wine Blocking](https://soylentnews.org/article.pl?sid=23/05/14/1358240&from=rss)
 * [2023-05-15, 11:59:00](https://soylentnews.org/article.pl?sid=23/05/14/1341213&from=rss) - [Infamous Pharma Company Founded by Shkreli Files for Bankruptcy, Blames Shkreli](https://soylentnews.org/article.pl?sid=23/05/14/1341213&from=rss)
 * [2023-05-15, 09:13:00](https://soylentnews.org/article.pl?sid=23/05/14/1337242&from=rss) - [This European Satellite Giant is Coming for Starlink](https://soylentnews.org/article.pl?sid=23/05/14/1337242&from=rss)
 * [2023-05-15, 06:22:00](https://soylentnews.org/article.pl?sid=23/05/14/1325206&from=rss) - [Chinese Authorities Arrest ChatGPT User for Generating Fake News](https://soylentnews.org/article.pl?sid=23/05/14/1325206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-09, 11:33:00](https://soylentnews.org/article.pl?sid=23/05/08/1518239&from=rss) - [Vint Cerf on 3 Mistakes He Made in TCP/IP](https://soylentnews.org/article.pl?sid=23/05/08/1518239&from=rss)
 * [2023-05-09, 08:46:00](https://soylentnews.org/article.pl?sid=23/05/08/1510237&from=rss) - [Is Sex in Space Being Taken Seriously by the Emerging Space Tourism Sector?](https://soylentnews.org/article.pl?sid=23/05/08/1510237&from=rss)
 * [2023-05-09, 06:01:00](https://soylentnews.org/article.pl?sid=23/05/08/1137209&from=rss) - [Nvidia Says It Can Prevent Chatbots From Hallucinating](https://soylentnews.org/article.pl?sid=23/05/08/1137209&from=rss)
-* [2023-05-09, 03:16:00](https://soylentnews.org/article.pl?sid=23/05/08/0328216&from=rss) - [5G Networks are Performing Worse. What's Going On?](https://soylentnews.org/article.pl?sid=23/05/08/0328216&from=rss)
 
 ## [Archives](archives/index.md)
 
