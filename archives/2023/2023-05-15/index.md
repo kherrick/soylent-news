@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 23:04:00](https://soylentnews.org/article.pl?sid=23/05/14/1636202&from=rss) - [Samsung Will Cut DDR4 Memory Production to Endure Harsh Market Conditions](https://soylentnews.org/article.pl?sid=23/05/14/1636202&from=rss)
 * [2023-05-15, 20:19:00](https://soylentnews.org/article.pl?sid=23/05/14/1630243&from=rss) - [“Meaningful Harm” From AI Necessary Before Regulation, says Microsoft Exec](https://soylentnews.org/article.pl?sid=23/05/14/1630243&from=rss)
 * [2023-05-15, 17:32:00](https://soylentnews.org/article.pl?sid=23/05/14/1627230&from=rss) - [NASA Scientists Reveal Unsettling New Melting Source on Greenland](https://soylentnews.org/article.pl?sid=23/05/14/1627230&from=rss)
 * [2023-05-15, 14:47:00](https://soylentnews.org/article.pl?sid=23/05/14/1358240&from=rss) - [Goodbye to Roblox on Linux With Their New Anti-Cheat and Wine Blocking](https://soylentnews.org/article.pl?sid=23/05/14/1358240&from=rss)
