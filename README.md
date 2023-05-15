@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-15, 20:19:00](https://soylentnews.org/article.pl?sid=23/05/14/1630243&from=rss) - [“Meaningful Harm” From AI Necessary Before Regulation, says Microsoft Exec](https://soylentnews.org/article.pl?sid=23/05/14/1630243&from=rss)
 * [2023-05-15, 17:32:00](https://soylentnews.org/article.pl?sid=23/05/14/1627230&from=rss) - [NASA Scientists Reveal Unsettling New Melting Source on Greenland](https://soylentnews.org/article.pl?sid=23/05/14/1627230&from=rss)
 * [2023-05-15, 14:47:00](https://soylentnews.org/article.pl?sid=23/05/14/1358240&from=rss) - [Goodbye to Roblox on Linux With Their New Anti-Cheat and Wine Blocking](https://soylentnews.org/article.pl?sid=23/05/14/1358240&from=rss)
 * [2023-05-15, 11:59:00](https://soylentnews.org/article.pl?sid=23/05/14/1341213&from=rss) - [Infamous Pharma Company Founded by Shkreli Files for Bankruptcy, Blames Shkreli](https://soylentnews.org/article.pl?sid=23/05/14/1341213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-09, 14:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss) - [Samsung to Detail Second-Gen 3nm Node, but Admits It is Behind TSMC](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss)
 * [2023-05-09, 12:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1524252&from=rss) - [Australia: Woman Survives on Wine During Five Days Stranded in Australian Bush](https://soylentnews.org/article.pl?sid=23/05/08/1524252&from=rss)
 * [2023-05-09, 11:33:00](https://soylentnews.org/article.pl?sid=23/05/08/1518239&from=rss) - [Vint Cerf on 3 Mistakes He Made in TCP/IP](https://soylentnews.org/article.pl?sid=23/05/08/1518239&from=rss)
-* [2023-05-09, 08:46:00](https://soylentnews.org/article.pl?sid=23/05/08/1510237&from=rss) - [Is Sex in Space Being Taken Seriously by the Emerging Space Tourism Sector?](https://soylentnews.org/article.pl?sid=23/05/08/1510237&from=rss)
 
 ## [Archives](archives/index.md)
 
