@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-15, 09:13:00](https://soylentnews.org/article.pl?sid=23/05/14/1337242&from=rss) - [This European Satellite Giant is Coming for Starlink](https://soylentnews.org/article.pl?sid=23/05/14/1337242&from=rss)
 * [2023-05-15, 06:22:00](https://soylentnews.org/article.pl?sid=23/05/14/1325206&from=rss) - [Chinese Authorities Arrest ChatGPT User for Generating Fake News](https://soylentnews.org/article.pl?sid=23/05/14/1325206&from=rss)
 * [2023-05-15, 03:36:00](https://soylentnews.org/article.pl?sid=23/05/14/137230&from=rss) - [Ex-Ubiquiti Engineer Behind “Breathtaking” Data Theft Gets 6-Year Prison Term](https://soylentnews.org/article.pl?sid=23/05/14/137230&from=rss)
 * [2023-05-15, 00:50:00](https://soylentnews.org/article.pl?sid=23/05/14/1245246&from=rss) - [Science Explains Why Shouting Into the Wind Seems Futile](https://soylentnews.org/article.pl?sid=23/05/14/1245246&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-09, 06:01:00](https://soylentnews.org/article.pl?sid=23/05/08/1137209&from=rss) - [Nvidia Says It Can Prevent Chatbots From Hallucinating](https://soylentnews.org/article.pl?sid=23/05/08/1137209&from=rss)
 * [2023-05-09, 03:16:00](https://soylentnews.org/article.pl?sid=23/05/08/0328216&from=rss) - [5G Networks are Performing Worse. What's Going On?](https://soylentnews.org/article.pl?sid=23/05/08/0328216&from=rss)
 * [2023-05-09, 00:33:00](https://soylentnews.org/article.pl?sid=23/05/08/0157215&from=rss) - [Australia Gets A Privacy Commissioner](https://soylentnews.org/article.pl?sid=23/05/08/0157215&from=rss)
-* [2023-05-08, 21:44:00](https://soylentnews.org/article.pl?sid=23/05/08/0147226&from=rss) - [New Analysis Techniques Reveal Possible Oceans on Uranus' Moons](https://soylentnews.org/article.pl?sid=23/05/08/0147226&from=rss)
 
 ## [Archives](archives/index.md)
 
