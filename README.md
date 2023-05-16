@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-16, 09:59:00](https://soylentnews.org/article.pl?sid=23/05/15/055251&from=rss) - [300,000-year-old Snapshot: Oldest Human Footprints From Germany Found](https://soylentnews.org/article.pl?sid=23/05/15/055251&from=rss)
 * [2023-05-16, 07:11:00](https://soylentnews.org/article.pl?sid=23/05/15/0452203&from=rss) - [Mediterranean Diet's Cellular Effects Revealed](https://soylentnews.org/article.pl?sid=23/05/15/0452203&from=rss)
 * [2023-05-16, 04:33:00](https://soylentnews.org/article.pl?sid=23/05/15/0448241&from=rss) - [Fighting Cancer With Light, and a Drug That Self-assembles Into Nanoparticles](https://soylentnews.org/article.pl?sid=23/05/15/0448241&from=rss)
 * [2023-05-16, 01:50:00](https://soylentnews.org/article.pl?sid=23/05/15/0442242&from=rss) - [Meteorologists Targeted in Climate Misinfo Surge](https://soylentnews.org/article.pl?sid=23/05/15/0442242&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-10, 04:02:00](https://soylentnews.org/article.pl?sid=23/05/09/0159229&from=rss) - [Scientists Image Atom Just as It Photosynthesizes](https://soylentnews.org/article.pl?sid=23/05/09/0159229&from=rss)
 * [2023-05-10, 01:16:00](https://soylentnews.org/article.pl?sid=23/05/09/0149204&from=rss) - [Samsung Bans Use of Generative AI Tools Like ChatGPT After April Internal Data Leak](https://soylentnews.org/article.pl?sid=23/05/09/0149204&from=rss)
 * [2023-05-09, 22:29:00](https://soylentnews.org/article.pl?sid=23/05/09/0131212&from=rss) - [US Marshals' Computer System Remains Out of Commission 10 Weeks After Ransomware Attack](https://soylentnews.org/article.pl?sid=23/05/09/0131212&from=rss)
-* [2023-05-09, 19:44:00](https://soylentnews.org/article.pl?sid=23/05/08/1535225&from=rss) - [Tiny Plastic Particles Also Find Their Way Into the Brain](https://soylentnews.org/article.pl?sid=23/05/08/1535225&from=rss)
 
 ## [Archives](archives/index.md)
 
