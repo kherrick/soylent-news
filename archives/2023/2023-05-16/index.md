@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 12:40:00](https://soylentnews.org/article.pl?sid=23/05/15/0514205&from=rss) - [San Francisco Airport Will Monitor Plane Waste for COVID-19 Variants](https://soylentnews.org/article.pl?sid=23/05/15/0514205&from=rss)
 * [2023-05-16, 09:59:00](https://soylentnews.org/article.pl?sid=23/05/15/055251&from=rss) - [300,000-year-old Snapshot: Oldest Human Footprints From Germany Found](https://soylentnews.org/article.pl?sid=23/05/15/055251&from=rss)
 * [2023-05-16, 07:11:00](https://soylentnews.org/article.pl?sid=23/05/15/0452203&from=rss) - [Mediterranean Diet's Cellular Effects Revealed](https://soylentnews.org/article.pl?sid=23/05/15/0452203&from=rss)
 * [2023-05-16, 04:33:00](https://soylentnews.org/article.pl?sid=23/05/15/0448241&from=rss) - [Fighting Cancer With Light, and a Drug That Self-assembles Into Nanoparticles](https://soylentnews.org/article.pl?sid=23/05/15/0448241&from=rss)
