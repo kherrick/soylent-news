@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-16, 04:33:00](https://soylentnews.org/article.pl?sid=23/05/15/0448241&from=rss) - [Fighting Cancer With Light, and a Drug That Self-assembles Into Nanoparticles](https://soylentnews.org/article.pl?sid=23/05/15/0448241&from=rss)
 * [2023-05-16, 01:50:00](https://soylentnews.org/article.pl?sid=23/05/15/0442242&from=rss) - [Meteorologists Targeted in Climate Misinfo Surge](https://soylentnews.org/article.pl?sid=23/05/15/0442242&from=rss)
 * [2023-05-15, 23:04:00](https://soylentnews.org/article.pl?sid=23/05/14/1636202&from=rss) - [Samsung Will Cut DDR4 Memory Production to Endure Harsh Market Conditions](https://soylentnews.org/article.pl?sid=23/05/14/1636202&from=rss)
 * [2023-05-15, 20:19:00](https://soylentnews.org/article.pl?sid=23/05/14/1630243&from=rss) - [“Meaningful Harm” From AI Necessary Before Regulation, says Microsoft Exec](https://soylentnews.org/article.pl?sid=23/05/14/1630243&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-09, 22:29:00](https://soylentnews.org/article.pl?sid=23/05/09/0131212&from=rss) - [US Marshals' Computer System Remains Out of Commission 10 Weeks After Ransomware Attack](https://soylentnews.org/article.pl?sid=23/05/09/0131212&from=rss)
 * [2023-05-09, 19:44:00](https://soylentnews.org/article.pl?sid=23/05/08/1535225&from=rss) - [Tiny Plastic Particles Also Find Their Way Into the Brain](https://soylentnews.org/article.pl?sid=23/05/08/1535225&from=rss)
 * [2023-05-09, 16:58:00](https://soylentnews.org/article.pl?sid=23/05/08/1534201&from=rss) - [Can Ethanol Fuel Ever Live Up to its Hype?](https://soylentnews.org/article.pl?sid=23/05/08/1534201&from=rss)
-* [2023-05-09, 14:14:00](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss) - [Samsung to Detail Second-Gen 3nm Node, but Admits It is Behind TSMC](https://soylentnews.org/article.pl?sid=23/05/08/1528204&from=rss)
 
 ## [Archives](archives/index.md)
 
