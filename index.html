@@ -145,6 +145,81 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/05/16/0134217">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/05/16/0134217&amp;from=rss"
+              >US Fishing Policy is Boosting Fish Populations, Not Constraining
+              Most Fisheries</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-16 @ 20:51:00</span
+              ><span class="points-container"
+                >Points: <span class="points">64</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/05/16/0134217"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    [...] In a second study, Frank and Oremus look at a separate
+                    criticism of the policy: that it is not doing enough to
+                    rebuild fish populations or that fish populations would have
+                    rebounded on their own without the policy. They discover the
+                    opposite to be true. Fish subject to the policy saw their
+                    size increase to be 52.2% larger than those comparable fish
+                    in the European Union, where similar fishing policies were
+                    not yet in effect.
+                  </p>
+                  <p>
+                    Comparing U.S. fish populations that were depleted before
+                    the rebuilding policy went into effect to U.S. fish
+                    populations that were depleted after the policy went into
+                    effect, Frank and Oremus find that in the absence of policy
+                    the declining fish populations continued to decline by about
+                    45%. But when the policy took effect, it took five to 10
+                    years for the fish population to double in size—recovering
+                    to be about 98% greater in size than when it was first
+                    threatened.
+                  </p>
+                  <p>
+                    [...] "We hope these studies provide useful evidence for
+                    policymakers that science-based management of biological
+                    resources actually works," Oremus says.
+                  </p>
+                </div>
+              </blockquote>
+              <p>
+                <b>Journal Reference</b>:<br />Kimberly L. Oremus , Eyal G.
+                Frank, Jesse Jian Adelman, <em>et al.</em>,
+                <b>Underfished or unwanted?</b>, <em>Science</em>, <b>380</b>,
+                2023. DOI:
+                <a href="https://doi.org/10.1126/science.adf5595"
+                  >10.1126/science.adf5595</a
+                >
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59602"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/05/15/1420208">
           <h3>
             <a
@@ -822,7 +897,7 @@
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/14/1630243"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
             <div class="text">
@@ -1021,7 +1096,7 @@
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/14/1358240"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
             <div class="text">
@@ -1911,7 +1986,7 @@
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/12/1247243"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
             <div class="text">
@@ -4755,100 +4830,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59555"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/05/09/0223220">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/05/09/0223220&amp;from=rss"
-              >Pinging Locations</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-10 @ 06:52:00</span
-              ><span class="points-container"
-                >Points: <span class="points">960</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/05/09/0223220"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-            <div class="text">
-              <blockquote>
-                <div>
-                  <p>
-                    [...] Remember: Speed of light × elapsed time = distance.
-                    Now they have a radius for how far away my server is. By
-                    doing the same test over and over and from a wide range of
-                    sources, all of the distances begin to overlap (triangulate)
-                    in a specific location. At the rate they are scanning, they
-                    have probably located my server to within a 25 mile (40km)
-                    radius.
-                  </p>
-                  <p>
-                    But why stop there? They are using a wide range of sources
-                    and are querying every pingable server. They can use these
-                    known locations to help fine-tune the geolocation for lots
-                    of other subnets. This is how you geolocate every network on
-                    the entire internet.
-                  </p>
-                  <p>
-                    [...] Stopping pings does block this group from doing
-                    geolocation. However, I want ping enabled for my honeypots.
-                    For those systems, I came up with another creative solution:
-                  </p>
-                  <blockquote>
-                    <div>
-                      <p>
-                        <code
-                          >sudo tc qdisc add dev eth0 root netem delay 100ms
-                          50ms 75%</code
-                        >
-                      </p>
-                    </div>
-                  </blockquote>
-                  <p>
-                    (You might need to install niceshaper: sudo apt install
-                    niceshaper.)
-                  </p>
-                  <p>
-                    The "tc" program does traffic control. Usually
-                    administrators use it to throttle the throughput so that one
-                    host doesn't dominate all of the building's bandwidth.
-                    However on my honeypot, I just added in a random delay of
-                    100 +/- 50ms. Suddenly those measured delays and computed
-                    distances are unreliable. Things that should be 1,800 miles
-                    away can now appear to be over 100,000 miles away. (That
-                    computed example of 69,000 miles was due to this random
-                    delay.) This doesn't stop them from pinging my server, but
-                    it does poison their geolocation computations.
-                  </p>
-                  <p>
-                    I haven't yet figured out how to only add delays to ICMP and
-                    ICMPv6 echo-request packets. But this solution is definitely
-                    good enough for now. Nothing stops them from slinging their
-                    echo-request packets all over the internet. However, my
-                    production servers don't respond and my honeypots mess them
-                    up.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59450"
                     >Original Submission</a
                   ></small
                 >
