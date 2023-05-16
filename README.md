@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-16, 18:09:00](https://soylentnews.org/article.pl?sid=23/05/15/1420208&from=rss) - [OpenAI Peeks into the “Black Box” of Neural Networks with New Research](https://soylentnews.org/article.pl?sid=23/05/15/1420208&from=rss)
 * [2023-05-16, 15:23:00](https://soylentnews.org/article.pl?sid=23/05/15/1413216&from=rss) - [One in Four Internet Users Are Overwhelmed by the Clutter in Their Browser](https://soylentnews.org/article.pl?sid=23/05/15/1413216&from=rss)
 * [2023-05-16, 12:40:00](https://soylentnews.org/article.pl?sid=23/05/15/0514205&from=rss) - [San Francisco Airport Will Monitor Plane Waste for COVID-19 Variants](https://soylentnews.org/article.pl?sid=23/05/15/0514205&from=rss)
 * [2023-05-16, 09:59:00](https://soylentnews.org/article.pl?sid=23/05/15/055251&from=rss) - [300,000-year-old Snapshot: Oldest Human Footprints From Germany Found](https://soylentnews.org/article.pl?sid=23/05/15/055251&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-10, 12:24:00](https://soylentnews.org/article.pl?sid=23/05/09/1734255&from=rss) - [Older Adults May Achieve Same Cognition as Undergrads](https://soylentnews.org/article.pl?sid=23/05/09/1734255&from=rss)
 * [2023-05-10, 09:38:00](https://soylentnews.org/article.pl?sid=23/05/09/1733213&from=rss) - [\"Too Greedy\": Mass Walkout at Global Science Journal Neuroimage Over \"Unethical\" Elsevier Fees](https://soylentnews.org/article.pl?sid=23/05/09/1733213&from=rss)
 * [2023-05-10, 06:52:00](https://soylentnews.org/article.pl?sid=23/05/09/0223220&from=rss) - [Pinging Locations](https://soylentnews.org/article.pl?sid=23/05/09/0223220&from=rss)
-* [2023-05-10, 04:02:00](https://soylentnews.org/article.pl?sid=23/05/09/0159229&from=rss) - [Scientists Image Atom Just as It Photosynthesizes](https://soylentnews.org/article.pl?sid=23/05/09/0159229&from=rss)
 
 ## [Archives](archives/index.md)
 
