@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 20:51:00](https://soylentnews.org/article.pl?sid=23/05/16/0134217&from=rss) - [US Fishing Policy is Boosting Fish Populations, Not Constraining Most Fisheries](https://soylentnews.org/article.pl?sid=23/05/16/0134217&from=rss)
 * [2023-05-16, 18:09:00](https://soylentnews.org/article.pl?sid=23/05/15/1420208&from=rss) - [OpenAI Peeks into the “Black Box” of Neural Networks with New Research](https://soylentnews.org/article.pl?sid=23/05/15/1420208&from=rss)
 * [2023-05-16, 15:23:00](https://soylentnews.org/article.pl?sid=23/05/15/1413216&from=rss) - [One in Four Internet Users Are Overwhelmed by the Clutter in Their Browser](https://soylentnews.org/article.pl?sid=23/05/15/1413216&from=rss)
 * [2023-05-16, 12:40:00](https://soylentnews.org/article.pl?sid=23/05/15/0514205&from=rss) - [San Francisco Airport Will Monitor Plane Waste for COVID-19 Variants](https://soylentnews.org/article.pl?sid=23/05/15/0514205&from=rss)
