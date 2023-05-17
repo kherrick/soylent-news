@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 13:22:00](https://soylentnews.org/article.pl?sid=23/05/16/1524216&from=rss) - [Drug-Resistant Ringworm Reported in US for First Time; Community Spread Likely](https://soylentnews.org/article.pl?sid=23/05/16/1524216&from=rss)
 * [2023-05-17, 10:35:00](https://soylentnews.org/article.pl?sid=23/05/16/0321229&from=rss) - [Lead Vocal Tracks in Popular Music Go Quiet ](https://soylentnews.org/article.pl?sid=23/05/16/0321229&from=rss)
 * [2023-05-17, 07:54:00](https://soylentnews.org/article.pl?sid=23/05/16/0257219&from=rss) - [Tesla Lithium Refinery in Texas is a First for a U.S. Automaker](https://soylentnews.org/article.pl?sid=23/05/16/0257219&from=rss)
 * [2023-05-17, 05:07:00](https://soylentnews.org/article.pl?sid=23/05/16/0246227&from=rss) - [Eben Upton Interview on Raspberry Pi Availability Update and Painful Decisions](https://soylentnews.org/article.pl?sid=23/05/16/0246227&from=rss)
