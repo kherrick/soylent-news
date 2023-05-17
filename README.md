@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-17, 21:40:00](https://soylentnews.org/article.pl?sid=23/05/17/037210&from=rss) - [Microsoft is Scanning the Inside of Password-protected Zip Files for Malware](https://soylentnews.org/article.pl?sid=23/05/17/037210&from=rss)
 * [2023-05-17, 18:54:00](https://soylentnews.org/article.pl?sid=23/05/16/1536253&from=rss) - [Cosmic Rays Reveal Hidden Ancient Burial Chamber Underneath Naples](https://soylentnews.org/article.pl?sid=23/05/16/1536253&from=rss)
 * [2023-05-17, 16:06:00](https://soylentnews.org/article.pl?sid=23/05/16/1527202&from=rss) - [New Findings Indicate Gene-Edited Rice Might Survive in Martian Soil](https://soylentnews.org/article.pl?sid=23/05/16/1527202&from=rss)
 * [2023-05-17, 13:22:00](https://soylentnews.org/article.pl?sid=23/05/16/1524216&from=rss) - [Drug-Resistant Ringworm Reported in US for First Time; Community Spread Likely](https://soylentnews.org/article.pl?sid=23/05/16/1524216&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-11, 15:43:00](https://soylentnews.org/article.pl?sid=23/05/10/1444249&from=rss) - [Rare Myocarditis After COVID Shots: Study Rules Out Some Common Culprits](https://soylentnews.org/article.pl?sid=23/05/10/1444249&from=rss)
 * [2023-05-11, 12:57:00](https://soylentnews.org/article.pl?sid=23/05/10/1438206&from=rss) - [SBF Says “Dishonesty and Unfair Dealing” Aren't Fraud, Seeks to Dismiss Charges](https://soylentnews.org/article.pl?sid=23/05/10/1438206&from=rss)
 * [2023-05-11, 10:15:00](https://soylentnews.org/article.pl?sid=23/05/10/1436224&from=rss) - [Australian Lawmakers Press US Envoy for Julian Assange Release](https://soylentnews.org/article.pl?sid=23/05/10/1436224&from=rss)
-* [2023-05-11, 07:33:00](https://soylentnews.org/article.pl?sid=23/05/10/120257&from=rss) - [AI Can Predict Pancreatic Cancer Three Years Ahead of Humans](https://soylentnews.org/article.pl?sid=23/05/10/120257&from=rss)
 
 ## [Archives](archives/index.md)
 
