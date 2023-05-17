@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-17, 16:06:00](https://soylentnews.org/article.pl?sid=23/05/16/1527202&from=rss) - [New Findings Indicate Gene-Edited Rice Might Survive in Martian Soil](https://soylentnews.org/article.pl?sid=23/05/16/1527202&from=rss)
 * [2023-05-17, 13:22:00](https://soylentnews.org/article.pl?sid=23/05/16/1524216&from=rss) - [Drug-Resistant Ringworm Reported in US for First Time; Community Spread Likely](https://soylentnews.org/article.pl?sid=23/05/16/1524216&from=rss)
 * [2023-05-17, 10:35:00](https://soylentnews.org/article.pl?sid=23/05/16/0321229&from=rss) - [Lead Vocal Tracks in Popular Music Go Quiet ](https://soylentnews.org/article.pl?sid=23/05/16/0321229&from=rss)
 * [2023-05-17, 07:54:00](https://soylentnews.org/article.pl?sid=23/05/16/0257219&from=rss) - [Tesla Lithium Refinery in Texas is a First for a U.S. Automaker](https://soylentnews.org/article.pl?sid=23/05/16/0257219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-11, 10:15:00](https://soylentnews.org/article.pl?sid=23/05/10/1436224&from=rss) - [Australian Lawmakers Press US Envoy for Julian Assange Release](https://soylentnews.org/article.pl?sid=23/05/10/1436224&from=rss)
 * [2023-05-11, 07:33:00](https://soylentnews.org/article.pl?sid=23/05/10/120257&from=rss) - [AI Can Predict Pancreatic Cancer Three Years Ahead of Humans](https://soylentnews.org/article.pl?sid=23/05/10/120257&from=rss)
 * [2023-05-11, 04:48:00](https://soylentnews.org/article.pl?sid=23/05/10/1151204&from=rss) - [Royal Ransomware Expands to Target Linux, VMware ESXi](https://soylentnews.org/article.pl?sid=23/05/10/1151204&from=rss)
-* [2023-05-11, 02:03:00](https://soylentnews.org/article.pl?sid=23/05/10/0442231&from=rss) - [This Abundant Material Could Unlock Cheaper Batteries for EVs](https://soylentnews.org/article.pl?sid=23/05/10/0442231&from=rss)
 
 ## [Archives](archives/index.md)
 
