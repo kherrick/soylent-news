@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 18:54:00](https://soylentnews.org/article.pl?sid=23/05/16/1536253&from=rss) - [Cosmic Rays Reveal Hidden Ancient Burial Chamber Underneath Naples](https://soylentnews.org/article.pl?sid=23/05/16/1536253&from=rss)
 * [2023-05-17, 16:06:00](https://soylentnews.org/article.pl?sid=23/05/16/1527202&from=rss) - [New Findings Indicate Gene-Edited Rice Might Survive in Martian Soil](https://soylentnews.org/article.pl?sid=23/05/16/1527202&from=rss)
 * [2023-05-17, 13:22:00](https://soylentnews.org/article.pl?sid=23/05/16/1524216&from=rss) - [Drug-Resistant Ringworm Reported in US for First Time; Community Spread Likely](https://soylentnews.org/article.pl?sid=23/05/16/1524216&from=rss)
 * [2023-05-17, 10:35:00](https://soylentnews.org/article.pl?sid=23/05/16/0321229&from=rss) - [Lead Vocal Tracks in Popular Music Go Quiet ](https://soylentnews.org/article.pl?sid=23/05/16/0321229&from=rss)
