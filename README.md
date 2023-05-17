@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-17, 07:54:00](https://soylentnews.org/article.pl?sid=23/05/16/0257219&from=rss) - [Tesla Lithium Refinery in Texas is a First for a U.S. Automaker](https://soylentnews.org/article.pl?sid=23/05/16/0257219&from=rss)
 * [2023-05-17, 05:07:00](https://soylentnews.org/article.pl?sid=23/05/16/0246227&from=rss) - [Eben Upton Interview on Raspberry Pi Availability Update and Painful Decisions](https://soylentnews.org/article.pl?sid=23/05/16/0246227&from=rss)
 * [2023-05-17, 02:19:00](https://soylentnews.org/article.pl?sid=23/05/16/021241&from=rss) - [The New Human Pangenome Could Help Unveil the Biology of Everyone](https://soylentnews.org/article.pl?sid=23/05/16/021241&from=rss)
 * [2023-05-16, 23:33:00](https://soylentnews.org/article.pl?sid=23/05/16/0147238&from=rss) - [Open Source and Linux Skills are Still in Demand in a Dark Economy](https://soylentnews.org/article.pl?sid=23/05/16/0147238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-11, 02:03:00](https://soylentnews.org/article.pl?sid=23/05/10/0442231&from=rss) - [This Abundant Material Could Unlock Cheaper Batteries for EVs](https://soylentnews.org/article.pl?sid=23/05/10/0442231&from=rss)
 * [2023-05-10, 23:18:00](https://soylentnews.org/article.pl?sid=23/05/10/0431233&from=rss) - [Why You Shouldn't Use Magnets When Looking for Meteorites](https://soylentnews.org/article.pl?sid=23/05/10/0431233&from=rss)
 * [2023-05-10, 20:36:00](https://soylentnews.org/article.pl?sid=23/05/09/1747244&from=rss) - [Over-the-Counter Hearing Aids Are Attracting Young Users](https://soylentnews.org/article.pl?sid=23/05/09/1747244&from=rss)
-* [2023-05-10, 17:53:00](https://soylentnews.org/article.pl?sid=23/05/09/1745211&from=rss) - [Drivers in France ‘Strongly Advised’ to Avoid Dashboard Cameras](https://soylentnews.org/article.pl?sid=23/05/09/1745211&from=rss)
 
 ## [Archives](archives/index.md)
 
