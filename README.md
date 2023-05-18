@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-18, 14:17:00](https://soylentnews.org/article.pl?sid=23/05/18/0141255&from=rss) - [China's Phone Giant Oppo Disbands Chip Design Unit as Shipment Slumps](https://soylentnews.org/article.pl?sid=23/05/18/0141255&from=rss)
 * [2023-05-18, 11:29:00](https://soylentnews.org/article.pl?sid=23/05/18/0131249&from=rss) - [Google to Start Deleting Inactive Mail Accounts for Security Reasons](https://soylentnews.org/article.pl?sid=23/05/18/0131249&from=rss)
 * [2023-05-18, 08:41:00](https://soylentnews.org/article.pl?sid=23/05/18/0126202&from=rss) - [Possible Non-Drug Cure for Depression](https://soylentnews.org/article.pl?sid=23/05/18/0126202&from=rss)
 * [2023-05-18, 05:56:00](https://soylentnews.org/article.pl?sid=23/05/18/0047237&from=rss) - [Vice Media Files for Bankruptcy](https://soylentnews.org/article.pl?sid=23/05/18/0047237&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-12, 08:10:00](https://soylentnews.org/article.pl?sid=23/05/11/1721238&from=rss) - [This Japanese Company Believes It Can Catch Up With Chipmakers Like TSMC by 2027](https://soylentnews.org/article.pl?sid=23/05/11/1721238&from=rss)
 * [2023-05-12, 05:26:00](https://soylentnews.org/article.pl?sid=23/05/11/1146218&from=rss) - [Maybe Commercial Fusion Power is Only Five Years Away](https://soylentnews.org/article.pl?sid=23/05/11/1146218&from=rss)
 * [2023-05-12, 02:39:00](https://soylentnews.org/article.pl?sid=23/05/11/1134254&from=rss) - [How Pythagoras Turned Math Into a Tool for Understanding Reality](https://soylentnews.org/article.pl?sid=23/05/11/1134254&from=rss)
-* [2023-05-11, 23:54:00](https://soylentnews.org/article.pl?sid=23/05/11/0235257&from=rss) - [Textbooks Giant Pearson Takes Legal Action Over Use of its Content to Train AI](https://soylentnews.org/article.pl?sid=23/05/11/0235257&from=rss)
 
 ## [Archives](archives/index.md)
 
