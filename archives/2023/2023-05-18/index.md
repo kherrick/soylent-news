@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 22:34:00](https://soylentnews.org/article.pl?sid=23/05/18/031243&from=rss) - [Hammerhead Sharks Found to Hold Their Breath on Deep Water Hunts to Stay Warm](https://soylentnews.org/article.pl?sid=23/05/18/031243&from=rss)
 * [2023-05-18, 19:48:00](https://soylentnews.org/article.pl?sid=23/05/18/0214209&from=rss) - [New Animal Family Tree Raises Questions About the Origin of Nervous Systems](https://soylentnews.org/article.pl?sid=23/05/18/0214209&from=rss)
 * [2023-05-18, 17:03:00](https://soylentnews.org/article.pl?sid=23/05/18/027209&from=rss) - [EU Commission Asks EU Council Lawyers If Compelled Client-Side Scanning is Legal, Gets Told It Isn’t](https://soylentnews.org/article.pl?sid=23/05/18/027209&from=rss)
 * [2023-05-18, 14:17:00](https://soylentnews.org/article.pl?sid=23/05/18/0141255&from=rss) - [China's Phone Giant Oppo Disbands Chip Design Unit as Shipment Slumps](https://soylentnews.org/article.pl?sid=23/05/18/0141255&from=rss)
