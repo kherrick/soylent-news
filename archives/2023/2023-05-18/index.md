@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 17:03:00](https://soylentnews.org/article.pl?sid=23/05/18/027209&from=rss) - [EU Commission Asks EU Council Lawyers If Compelled Client-Side Scanning is Legal, Gets Told It Isn’t](https://soylentnews.org/article.pl?sid=23/05/18/027209&from=rss)
 * [2023-05-18, 14:17:00](https://soylentnews.org/article.pl?sid=23/05/18/0141255&from=rss) - [China's Phone Giant Oppo Disbands Chip Design Unit as Shipment Slumps](https://soylentnews.org/article.pl?sid=23/05/18/0141255&from=rss)
 * [2023-05-18, 11:29:00](https://soylentnews.org/article.pl?sid=23/05/18/0131249&from=rss) - [Google to Start Deleting Inactive Mail Accounts for Security Reasons](https://soylentnews.org/article.pl?sid=23/05/18/0131249&from=rss)
 * [2023-05-18, 08:41:00](https://soylentnews.org/article.pl?sid=23/05/18/0126202&from=rss) - [Possible Non-Drug Cure for Depression](https://soylentnews.org/article.pl?sid=23/05/18/0126202&from=rss)
