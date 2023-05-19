@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-19, 15:13:00](https://soylentnews.org/article.pl?sid=23/05/18/1517214&from=rss) - [What is Bio-Oil, and Why Does Big Tech Think It Can Fight Climate Change?](https://soylentnews.org/article.pl?sid=23/05/18/1517214&from=rss)
 * [2023-05-19, 12:23:00](https://soylentnews.org/article.pl?sid=23/05/18/1510257&from=rss) - [The Group Decode ROM: The 8086 Processor's First Step of Instruction Decoding](https://soylentnews.org/article.pl?sid=23/05/18/1510257&from=rss)
 * [2023-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=23/05/18/1512247&from=rss) - [Reviving Office Chatter](https://soylentnews.org/article.pl?sid=23/05/18/1512247&from=rss)
 * [2023-05-19, 06:53:00](https://soylentnews.org/article.pl?sid=23/05/18/0315209&from=rss) - [Chinese Chip Industry to Focus on Perfecting Mature Nodes](https://soylentnews.org/article.pl?sid=23/05/18/0315209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-13, 15:43:00](https://soylentnews.org/article.pl?sid=23/05/12/1234208&from=rss) - [Ajay Bhatt and the Universal Serial Bus](https://soylentnews.org/article.pl?sid=23/05/12/1234208&from=rss)
 * [2023-05-13, 11:02:00](https://soylentnews.org/article.pl?sid=23/05/12/0426253&from=rss) - [Possible Meteorite Crashes Through Roof of New Jersey Home](https://soylentnews.org/article.pl?sid=23/05/12/0426253&from=rss)
 * [2023-05-13, 06:22:00](https://soylentnews.org/article.pl?sid=23/05/12/0416258&from=rss) - [Images From NASA's Perseverance May Show Record of Wild Martian River](https://soylentnews.org/article.pl?sid=23/05/12/0416258&from=rss)
-* [2023-05-13, 01:35:00](https://soylentnews.org/article.pl?sid=23/05/12/042223&from=rss) - [First UK Baby With DNA From Three People Born After New IVF Procedure](https://soylentnews.org/article.pl?sid=23/05/12/042223&from=rss)
 
 ## [Archives](archives/index.md)
 
