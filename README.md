@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-19, 01:22:00](https://soylentnews.org/article.pl?sid=23/05/18/035256&from=rss) - [Bill Gates Opposes Elon Musk’s Call to Pause New A.I. Research](https://soylentnews.org/article.pl?sid=23/05/18/035256&from=rss)
 * [2023-05-18, 22:34:00](https://soylentnews.org/article.pl?sid=23/05/18/031243&from=rss) - [Hammerhead Sharks Found to Hold Their Breath on Deep Water Hunts to Stay Warm](https://soylentnews.org/article.pl?sid=23/05/18/031243&from=rss)
 * [2023-05-18, 19:48:00](https://soylentnews.org/article.pl?sid=23/05/18/0214209&from=rss) - [New Animal Family Tree Raises Questions About the Origin of Nervous Systems](https://soylentnews.org/article.pl?sid=23/05/18/0214209&from=rss)
 * [2023-05-18, 17:03:00](https://soylentnews.org/article.pl?sid=23/05/18/027209&from=rss) - [EU Commission Asks EU Council Lawyers If Compelled Client-Side Scanning is Legal, Gets Told It Isn’t](https://soylentnews.org/article.pl?sid=23/05/18/027209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-12, 19:08:00](https://soylentnews.org/article.pl?sid=23/05/11/1742219&from=rss) - [Physicists Create Elusive Particles That Remember Their Pasts](https://soylentnews.org/article.pl?sid=23/05/11/1742219&from=rss)
 * [2023-05-12, 16:22:00](https://soylentnews.org/article.pl?sid=23/05/11/1735236&from=rss) - [How the US Dismantled a Malware Network Used by Russian Spies to Steal Government Secrets](https://soylentnews.org/article.pl?sid=23/05/11/1735236&from=rss)
 * [2023-05-12, 13:37:00](https://soylentnews.org/article.pl?sid=23/05/11/1729239&from=rss) - [Leak of MSI UEFI Signing Keys Stokes Fears of “Doomsday” Supply Chain Attack](https://soylentnews.org/article.pl?sid=23/05/11/1729239&from=rss)
-* [2023-05-12, 10:54:00](https://soylentnews.org/article.pl?sid=23/05/11/1725213&from=rss) - [YouTube Now Warns Users That Ad Blockers Aren't Allowed](https://soylentnews.org/article.pl?sid=23/05/11/1725213&from=rss)
 
 ## [Archives](archives/index.md)
 
