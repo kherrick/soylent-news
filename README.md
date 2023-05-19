@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-19, 23:24:00](https://soylentnews.org/article.pl?sid=23/05/18/1523208&from=rss) - [Malware Turns Home Routers Into Proxies for Chinese State-Sponsored Hackers](https://soylentnews.org/article.pl?sid=23/05/18/1523208&from=rss)
 * [2023-05-19, 20:40:00](https://soylentnews.org/article.pl?sid=23/05/18/1521215&from=rss) - [What Makes “Junk Food” Junk?](https://soylentnews.org/article.pl?sid=23/05/18/1521215&from=rss)
 * [2023-05-19, 17:58:00](https://soylentnews.org/article.pl?sid=23/05/18/1520206&from=rss) - [Google's New Registered Domains Include .Zip and .Mov for a More \"Exciting\" and Insecure Internet](https://soylentnews.org/article.pl?sid=23/05/18/1520206&from=rss)
 * [2023-05-19, 15:13:00](https://soylentnews.org/article.pl?sid=23/05/18/1517214&from=rss) - [What is Bio-Oil, and Why Does Big Tech Think It Can Fight Climate Change?](https://soylentnews.org/article.pl?sid=23/05/18/1517214&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-14, 05:57:00](https://soylentnews.org/article.pl?sid=23/05/12/1247243&from=rss) - [Elon Musk Says He's Found a New CEO for Twitter, a Woman Who Will Start in 6 Weeks](https://soylentnews.org/article.pl?sid=23/05/12/1247243&from=rss)
 * [2023-05-14, 01:12:00](https://soylentnews.org/article.pl?sid=23/05/12/1244227&from=rss) - [Inside the 8086 Processor, Tiny Charge Pumps Create a Negative Voltage](https://soylentnews.org/article.pl?sid=23/05/12/1244227&from=rss)
 * [2023-05-13, 20:28:00](https://soylentnews.org/article.pl?sid=23/05/12/1239247&from=rss) - [China's Spaceplane Conducted Multiple Maneuvers With a Mystery Object in Orbit](https://soylentnews.org/article.pl?sid=23/05/12/1239247&from=rss)
-* [2023-05-13, 15:43:00](https://soylentnews.org/article.pl?sid=23/05/12/1234208&from=rss) - [Ajay Bhatt and the Universal Serial Bus](https://soylentnews.org/article.pl?sid=23/05/12/1234208&from=rss)
 
 ## [Archives](archives/index.md)
 
