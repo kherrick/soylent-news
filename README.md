@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-20, 04:10:00](https://soylentnews.org/article.pl?sid=23/05/19/0641219&from=rss) - [Astronomers Solve the 60-Year Mystery of Quasars – the Most Powerful Objects in the Universe](https://soylentnews.org/article.pl?sid=23/05/19/0641219&from=rss)
 * [2023-05-19, 23:24:00](https://soylentnews.org/article.pl?sid=23/05/18/1523208&from=rss) - [Malware Turns Home Routers Into Proxies for Chinese State-Sponsored Hackers](https://soylentnews.org/article.pl?sid=23/05/18/1523208&from=rss)
 * [2023-05-19, 20:40:00](https://soylentnews.org/article.pl?sid=23/05/18/1521215&from=rss) - [What Makes “Junk Food” Junk?](https://soylentnews.org/article.pl?sid=23/05/18/1521215&from=rss)
 * [2023-05-19, 17:58:00](https://soylentnews.org/article.pl?sid=23/05/18/1520206&from=rss) - [Google's New Registered Domains Include .Zip and .Mov for a More \"Exciting\" and Insecure Internet](https://soylentnews.org/article.pl?sid=23/05/18/1520206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-14, 10:39:00](https://soylentnews.org/article.pl?sid=23/05/12/1253235&from=rss) - [Opinion: Most People Are Terrible at Matching Faces to Photos, Making Polling Checks Unreliable](https://soylentnews.org/article.pl?sid=23/05/12/1253235&from=rss)
 * [2023-05-14, 05:57:00](https://soylentnews.org/article.pl?sid=23/05/12/1247243&from=rss) - [Elon Musk Says He's Found a New CEO for Twitter, a Woman Who Will Start in 6 Weeks](https://soylentnews.org/article.pl?sid=23/05/12/1247243&from=rss)
 * [2023-05-14, 01:12:00](https://soylentnews.org/article.pl?sid=23/05/12/1244227&from=rss) - [Inside the 8086 Processor, Tiny Charge Pumps Create a Negative Voltage](https://soylentnews.org/article.pl?sid=23/05/12/1244227&from=rss)
-* [2023-05-13, 20:28:00](https://soylentnews.org/article.pl?sid=23/05/12/1239247&from=rss) - [China's Spaceplane Conducted Multiple Maneuvers With a Mystery Object in Orbit](https://soylentnews.org/article.pl?sid=23/05/12/1239247&from=rss)
 
 ## [Archives](archives/index.md)
 
