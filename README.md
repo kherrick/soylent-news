@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-21, 13:19:00](https://soylentnews.org/article.pl?sid=23/05/20/1451235&from=rss) - [Dark Web ChatGPT Unleashed: Meet DarkBERT](https://soylentnews.org/article.pl?sid=23/05/20/1451235&from=rss)
 * [2023-05-21, 08:37:00](https://soylentnews.org/article.pl?sid=23/05/20/1449204&from=rss) - [Study Finds 90% of Australian Teachers Can't Afford to Live Where They Teach](https://soylentnews.org/article.pl?sid=23/05/20/1449204&from=rss)
 * [2023-05-21, 03:54:00](https://soylentnews.org/article.pl?sid=23/05/20/1441251&from=rss) - [First Full-sized 3D Scan of the Wreck of the Titanic](https://soylentnews.org/article.pl?sid=23/05/20/1441251&from=rss)
 * [2023-05-20, 23:13:00](https://soylentnews.org/article.pl?sid=23/05/19/0716217&from=rss) - [Obstetricians More Emotionally Stable Than Most](https://soylentnews.org/article.pl?sid=23/05/19/0716217&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-15, 11:59:00](https://soylentnews.org/article.pl?sid=23/05/14/1341213&from=rss) - [Infamous Pharma Company Founded by Shkreli Files for Bankruptcy, Blames Shkreli](https://soylentnews.org/article.pl?sid=23/05/14/1341213&from=rss)
 * [2023-05-15, 09:13:00](https://soylentnews.org/article.pl?sid=23/05/14/1337242&from=rss) - [This European Satellite Giant is Coming for Starlink](https://soylentnews.org/article.pl?sid=23/05/14/1337242&from=rss)
 * [2023-05-15, 06:22:00](https://soylentnews.org/article.pl?sid=23/05/14/1325206&from=rss) - [Chinese Authorities Arrest ChatGPT User for Generating Fake News](https://soylentnews.org/article.pl?sid=23/05/14/1325206&from=rss)
-* [2023-05-15, 03:36:00](https://soylentnews.org/article.pl?sid=23/05/14/137230&from=rss) - [Ex-Ubiquiti Engineer Behind “Breathtaking” Data Theft Gets 6-Year Prison Term](https://soylentnews.org/article.pl?sid=23/05/14/137230&from=rss)
 
 ## [Archives](archives/index.md)
 
