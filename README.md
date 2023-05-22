@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-22, 11:56:00](https://soylentnews.org/article.pl?sid=23/05/21/0747246&from=rss) - [It's Over: Intel Publishes \"x86-S\" Specification, for 64-Bit Only x86 Architecture](https://soylentnews.org/article.pl?sid=23/05/21/0747246&from=rss)
 * [2023-05-22, 09:13:00](https://soylentnews.org/article.pl?sid=23/05/21/0439224&from=rss) - [A Turning Point for U.S. AI Policy: Senate Explores Solutions](https://soylentnews.org/article.pl?sid=23/05/21/0439224&from=rss)
 * [2023-05-22, 06:25:00](https://soylentnews.org/article.pl?sid=23/05/21/0430219&from=rss) - [The UK’s Secretive Web Surveillance Program is Ramping Up](https://soylentnews.org/article.pl?sid=23/05/21/0430219&from=rss)
 * [2023-05-22, 03:38:00](https://soylentnews.org/article.pl?sid=23/05/20/150246&from=rss) - [California Pot Industry Facing 'Extinction Event'](https://soylentnews.org/article.pl?sid=23/05/20/150246&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-16, 04:33:00](https://soylentnews.org/article.pl?sid=23/05/15/0448241&from=rss) - [Fighting Cancer With Light, and a Drug That Self-assembles Into Nanoparticles](https://soylentnews.org/article.pl?sid=23/05/15/0448241&from=rss)
 * [2023-05-16, 01:50:00](https://soylentnews.org/article.pl?sid=23/05/15/0442242&from=rss) - [Meteorologists Targeted in Climate Misinfo Surge](https://soylentnews.org/article.pl?sid=23/05/15/0442242&from=rss)
 * [2023-05-15, 23:04:00](https://soylentnews.org/article.pl?sid=23/05/14/1636202&from=rss) - [Samsung Will Cut DDR4 Memory Production to Endure Harsh Market Conditions](https://soylentnews.org/article.pl?sid=23/05/14/1636202&from=rss)
-* [2023-05-15, 20:19:00](https://soylentnews.org/article.pl?sid=23/05/14/1630243&from=rss) - [“Meaningful Harm” From AI Necessary Before Regulation, says Microsoft Exec](https://soylentnews.org/article.pl?sid=23/05/14/1630243&from=rss)
 
 ## [Archives](archives/index.md)
 
