@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 16:27:00](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss) - [The Future](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss)
 * [2023-05-22, 16:00:00](https://soylentnews.org/meta/article.pl?sid=23/05/20/0343254&from=rss) - [SoylentNews Site Shutdown](https://soylentnews.org/meta/article.pl?sid=23/05/20/0343254&from=rss)
 * [2023-05-22, 14:39:00](https://soylentnews.org/article.pl?sid=23/05/21/0750218&from=rss) - [Scientists Finally Confirm What's Inside the Moon](https://soylentnews.org/article.pl?sid=23/05/21/0750218&from=rss)
 * [2023-05-22, 11:56:00](https://soylentnews.org/article.pl?sid=23/05/21/0747246&from=rss) - [It's Over: Intel Publishes \"x86-S\" Specification, for 64-Bit Only x86 Architecture](https://soylentnews.org/article.pl?sid=23/05/21/0747246&from=rss)

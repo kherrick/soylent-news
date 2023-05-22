@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-22, 16:27:00](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss) - [The Future](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss)
 * [2023-05-22, 16:00:00](https://soylentnews.org/meta/article.pl?sid=23/05/20/0343254&from=rss) - [SoylentNews Site Shutdown](https://soylentnews.org/meta/article.pl?sid=23/05/20/0343254&from=rss)
 * [2023-05-22, 14:39:00](https://soylentnews.org/article.pl?sid=23/05/21/0750218&from=rss) - [Scientists Finally Confirm What's Inside the Moon](https://soylentnews.org/article.pl?sid=23/05/21/0750218&from=rss)
 * [2023-05-22, 11:56:00](https://soylentnews.org/article.pl?sid=23/05/21/0747246&from=rss) - [It's Over: Intel Publishes \"x86-S\" Specification, for 64-Bit Only x86 Architecture](https://soylentnews.org/article.pl?sid=23/05/21/0747246&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-16, 12:40:00](https://soylentnews.org/article.pl?sid=23/05/15/0514205&from=rss) - [San Francisco Airport Will Monitor Plane Waste for COVID-19 Variants](https://soylentnews.org/article.pl?sid=23/05/15/0514205&from=rss)
 * [2023-05-16, 09:59:00](https://soylentnews.org/article.pl?sid=23/05/15/055251&from=rss) - [300,000-year-old Snapshot: Oldest Human Footprints From Germany Found](https://soylentnews.org/article.pl?sid=23/05/15/055251&from=rss)
 * [2023-05-16, 07:11:00](https://soylentnews.org/article.pl?sid=23/05/15/0452203&from=rss) - [Mediterranean Diet's Cellular Effects Revealed](https://soylentnews.org/article.pl?sid=23/05/15/0452203&from=rss)
-* [2023-05-16, 04:33:00](https://soylentnews.org/article.pl?sid=23/05/15/0448241&from=rss) - [Fighting Cancer With Light, and a Drug That Self-assembles Into Nanoparticles](https://soylentnews.org/article.pl?sid=23/05/15/0448241&from=rss)
 
 ## [Archives](archives/index.md)
 
