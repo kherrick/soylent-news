@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-22, 23:01:00](https://soylentnews.org/article.pl?sid=23/05/21/0758255&from=rss) - [Google Pixel Smartphones Will Add Bard AI Widget: Report](https://soylentnews.org/article.pl?sid=23/05/21/0758255&from=rss)
 * [2023-05-22, 20:16:00](https://soylentnews.org/article.pl?sid=23/05/21/0757208&from=rss) - [NASA's Lucy Spacecraft Adjusts Course for Asteroid Flyby in November](https://soylentnews.org/article.pl?sid=23/05/21/0757208&from=rss)
 * [2023-05-22, 17:31:00](https://soylentnews.org/article.pl?sid=23/05/21/0754223&from=rss) - [Patterns in Register Map Design](https://soylentnews.org/article.pl?sid=23/05/21/0754223&from=rss)
 * [2023-05-22, 16:27:00](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss) - [The Future](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-16, 20:51:00](https://soylentnews.org/article.pl?sid=23/05/16/0134217&from=rss) - [US Fishing Policy is Boosting Fish Populations, Not Constraining Most Fisheries](https://soylentnews.org/article.pl?sid=23/05/16/0134217&from=rss)
 * [2023-05-16, 18:09:00](https://soylentnews.org/article.pl?sid=23/05/15/1420208&from=rss) - [OpenAI Peeks into the “Black Box” of Neural Networks with New Research](https://soylentnews.org/article.pl?sid=23/05/15/1420208&from=rss)
 * [2023-05-16, 15:23:00](https://soylentnews.org/article.pl?sid=23/05/15/1413216&from=rss) - [One in Four Internet Users Are Overwhelmed by the Clutter in Their Browser](https://soylentnews.org/article.pl?sid=23/05/15/1413216&from=rss)
-* [2023-05-16, 12:40:00](https://soylentnews.org/article.pl?sid=23/05/15/0514205&from=rss) - [San Francisco Airport Will Monitor Plane Waste for COVID-19 Variants](https://soylentnews.org/article.pl?sid=23/05/15/0514205&from=rss)
 
 ## [Archives](archives/index.md)
 

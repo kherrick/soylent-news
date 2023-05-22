@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 23:01:00](https://soylentnews.org/article.pl?sid=23/05/21/0758255&from=rss) - [Google Pixel Smartphones Will Add Bard AI Widget: Report](https://soylentnews.org/article.pl?sid=23/05/21/0758255&from=rss)
 * [2023-05-22, 20:16:00](https://soylentnews.org/article.pl?sid=23/05/21/0757208&from=rss) - [NASA's Lucy Spacecraft Adjusts Course for Asteroid Flyby in November](https://soylentnews.org/article.pl?sid=23/05/21/0757208&from=rss)
 * [2023-05-22, 17:31:00](https://soylentnews.org/article.pl?sid=23/05/21/0754223&from=rss) - [Patterns in Register Map Design](https://soylentnews.org/article.pl?sid=23/05/21/0754223&from=rss)
 * [2023-05-22, 16:27:00](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss) - [The Future](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss)
