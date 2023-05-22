@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 17:31:00](https://soylentnews.org/article.pl?sid=23/05/21/0754223&from=rss) - [Patterns in Register Map Design](https://soylentnews.org/article.pl?sid=23/05/21/0754223&from=rss)
 * [2023-05-22, 16:27:00](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss) - [The Future](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss)
 * [2023-05-22, 16:00:00](https://soylentnews.org/meta/article.pl?sid=23/05/20/0343254&from=rss) - [SoylentNews Site Shutdown](https://soylentnews.org/meta/article.pl?sid=23/05/20/0343254&from=rss)
 * [2023-05-22, 14:39:00](https://soylentnews.org/article.pl?sid=23/05/21/0750218&from=rss) - [Scientists Finally Confirm What's Inside the Moon](https://soylentnews.org/article.pl?sid=23/05/21/0750218&from=rss)
