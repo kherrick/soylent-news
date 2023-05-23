@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-23, 04:36:00](https://soylentnews.org/article.pl?sid=23/05/22/1318224&from=rss) - [When Employees Leave Their Jobs, Coworkers Call It Quits](https://soylentnews.org/article.pl?sid=23/05/22/1318224&from=rss)
 * [2023-05-23, 01:43:00](https://soylentnews.org/article.pl?sid=23/05/22/0357215&from=rss) - [Plastic Pervasive in Food Supply, Says New Study](https://soylentnews.org/article.pl?sid=23/05/22/0357215&from=rss)
 * [2023-05-22, 23:01:00](https://soylentnews.org/article.pl?sid=23/05/21/0758255&from=rss) - [Google Pixel Smartphones Will Add Bard AI Widget: Report](https://soylentnews.org/article.pl?sid=23/05/21/0758255&from=rss)
 * [2023-05-22, 20:16:00](https://soylentnews.org/article.pl?sid=23/05/21/0757208&from=rss) - [NASA's Lucy Spacecraft Adjusts Course for Asteroid Flyby in November](https://soylentnews.org/article.pl?sid=23/05/21/0757208&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-17, 02:19:00](https://soylentnews.org/article.pl?sid=23/05/16/021241&from=rss) - [The New Human Pangenome Could Help Unveil the Biology of Everyone](https://soylentnews.org/article.pl?sid=23/05/16/021241&from=rss)
 * [2023-05-16, 23:33:00](https://soylentnews.org/article.pl?sid=23/05/16/0147238&from=rss) - [Open Source and Linux Skills are Still in Demand in a Dark Economy](https://soylentnews.org/article.pl?sid=23/05/16/0147238&from=rss)
 * [2023-05-16, 20:51:00](https://soylentnews.org/article.pl?sid=23/05/16/0134217&from=rss) - [US Fishing Policy is Boosting Fish Populations, Not Constraining Most Fisheries](https://soylentnews.org/article.pl?sid=23/05/16/0134217&from=rss)
-* [2023-05-16, 18:09:00](https://soylentnews.org/article.pl?sid=23/05/15/1420208&from=rss) - [OpenAI Peeks into the “Black Box” of Neural Networks with New Research](https://soylentnews.org/article.pl?sid=23/05/15/1420208&from=rss)
 
 ## [Archives](archives/index.md)
 
