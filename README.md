@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-23, 10:04:00](https://soylentnews.org/article.pl?sid=23/05/22/1326258&from=rss) - [New Study Reveals Possible Future Health Impacts Related to Climate Mitigation](https://soylentnews.org/article.pl?sid=23/05/22/1326258&from=rss)
 * [2023-05-23, 07:20:00](https://soylentnews.org/article.pl?sid=23/05/22/1321212&from=rss) - [China Fails Micron's Products in Security Review, Bars Some Purchases](https://soylentnews.org/article.pl?sid=23/05/22/1321212&from=rss)
 * [2023-05-23, 04:36:00](https://soylentnews.org/article.pl?sid=23/05/22/1318224&from=rss) - [When Employees Leave Their Jobs, Coworkers Call It Quits](https://soylentnews.org/article.pl?sid=23/05/22/1318224&from=rss)
 * [2023-05-23, 01:43:00](https://soylentnews.org/article.pl?sid=23/05/22/0357215&from=rss) - [Plastic Pervasive in Food Supply, Says New Study](https://soylentnews.org/article.pl?sid=23/05/22/0357215&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-17, 07:54:00](https://soylentnews.org/article.pl?sid=23/05/16/0257219&from=rss) - [Tesla Lithium Refinery in Texas is a First for a U.S. Automaker](https://soylentnews.org/article.pl?sid=23/05/16/0257219&from=rss)
 * [2023-05-17, 05:07:00](https://soylentnews.org/article.pl?sid=23/05/16/0246227&from=rss) - [Eben Upton Interview on Raspberry Pi Availability Update and Painful Decisions](https://soylentnews.org/article.pl?sid=23/05/16/0246227&from=rss)
 * [2023-05-17, 02:19:00](https://soylentnews.org/article.pl?sid=23/05/16/021241&from=rss) - [The New Human Pangenome Could Help Unveil the Biology of Everyone](https://soylentnews.org/article.pl?sid=23/05/16/021241&from=rss)
-* [2023-05-16, 23:33:00](https://soylentnews.org/article.pl?sid=23/05/16/0147238&from=rss) - [Open Source and Linux Skills are Still in Demand in a Dark Economy](https://soylentnews.org/article.pl?sid=23/05/16/0147238&from=rss)
 
 ## [Archives](archives/index.md)
 
