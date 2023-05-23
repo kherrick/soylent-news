@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-23, 23:43:00](https://soylentnews.org/article.pl?sid=23/05/22/1355248&from=rss) - [ChatGPT Vulnerable to Prompt Injection Via YouTube Transcripts](https://soylentnews.org/article.pl?sid=23/05/22/1355248&from=rss)
 * [2023-05-23, 21:03:00](https://soylentnews.org/article.pl?sid=23/05/22/1345251&from=rss) - [UK Announces $1.2B Chip Strategy, Faces Criticism Over Funding Size](https://soylentnews.org/article.pl?sid=23/05/22/1345251&from=rss)
 * [2023-05-23, 18:18:00](https://soylentnews.org/article.pl?sid=23/05/22/1339210&from=rss) - [Long-Unknown Origins of Lager Beer Uncovered](https://soylentnews.org/article.pl?sid=23/05/22/1339210&from=rss)
 * [2023-05-23, 15:35:00](https://soylentnews.org/article.pl?sid=23/05/22/1336223&from=rss) - [Are You a Mosquito Magnet? It Might be for One Unpleasant Reason](https://soylentnews.org/article.pl?sid=23/05/22/1336223&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-17, 21:40:00](https://soylentnews.org/article.pl?sid=23/05/17/037210&from=rss) - [Microsoft is Scanning the Inside of Password-protected Zip Files for Malware](https://soylentnews.org/article.pl?sid=23/05/17/037210&from=rss)
 * [2023-05-17, 18:54:00](https://soylentnews.org/article.pl?sid=23/05/16/1536253&from=rss) - [Cosmic Rays Reveal Hidden Ancient Burial Chamber Underneath Naples](https://soylentnews.org/article.pl?sid=23/05/16/1536253&from=rss)
 * [2023-05-17, 16:06:00](https://soylentnews.org/article.pl?sid=23/05/16/1527202&from=rss) - [New Findings Indicate Gene-Edited Rice Might Survive in Martian Soil](https://soylentnews.org/article.pl?sid=23/05/16/1527202&from=rss)
-* [2023-05-17, 13:22:00](https://soylentnews.org/article.pl?sid=23/05/16/1524216&from=rss) - [Drug-Resistant Ringworm Reported in US for First Time; Community Spread Likely](https://soylentnews.org/article.pl?sid=23/05/16/1524216&from=rss)
 
 ## [Archives](archives/index.md)
 
