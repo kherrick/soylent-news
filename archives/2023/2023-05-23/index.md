@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 18:18:00](https://soylentnews.org/article.pl?sid=23/05/22/1339210&from=rss) - [Long-Unknown Origins of Lager Beer Uncovered](https://soylentnews.org/article.pl?sid=23/05/22/1339210&from=rss)
 * [2023-05-23, 15:35:00](https://soylentnews.org/article.pl?sid=23/05/22/1336223&from=rss) - [Are You a Mosquito Magnet? It Might be for One Unpleasant Reason](https://soylentnews.org/article.pl?sid=23/05/22/1336223&from=rss)
 * [2023-05-23, 12:49:00](https://soylentnews.org/article.pl?sid=23/05/22/1330226&from=rss) - [How Solid Air Can Spur Sustainable Development](https://soylentnews.org/article.pl?sid=23/05/22/1330226&from=rss)
 * [2023-05-23, 10:04:00](https://soylentnews.org/article.pl?sid=23/05/22/1326258&from=rss) - [New Study Reveals Possible Future Health Impacts Related to Climate Mitigation](https://soylentnews.org/article.pl?sid=23/05/22/1326258&from=rss)
