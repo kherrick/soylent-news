@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-24, 16:19:00](https://soylentnews.org/article.pl?sid=23/05/23/1831213&from=rss) - [Phones' Facial Recog Tech 'Fooled' by Low-Res 2D Photo](https://soylentnews.org/article.pl?sid=23/05/23/1831213&from=rss)
 * [2023-05-24, 13:33:00](https://soylentnews.org/article.pl?sid=23/05/23/1824238&from=rss) - [Miura 1, the First Spanish Suborbital Rocket, is Ready for Launch](https://soylentnews.org/article.pl?sid=23/05/23/1824238&from=rss)
 * [2023-05-24, 10:47:00](https://soylentnews.org/article.pl?sid=23/05/23/1819230&from=rss) - [Congress Wants AM Radio in All New Cars—Trade Groups Say That's a Mistake](https://soylentnews.org/article.pl?sid=23/05/23/1819230&from=rss)
 * [2023-05-24, 08:02:00](https://soylentnews.org/article.pl?sid=23/05/23/1813227&from=rss) - [Shutterstock Picks Up Giphy for $53 Million After UK Blocks Meta’s Acquisition](https://soylentnews.org/article.pl?sid=23/05/23/1813227&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-18, 14:17:00](https://soylentnews.org/article.pl?sid=23/05/18/0141255&from=rss) - [China's Phone Giant Oppo Disbands Chip Design Unit as Shipment Slumps](https://soylentnews.org/article.pl?sid=23/05/18/0141255&from=rss)
 * [2023-05-18, 11:29:00](https://soylentnews.org/article.pl?sid=23/05/18/0131249&from=rss) - [Google to Start Deleting Inactive Mail Accounts for Security Reasons](https://soylentnews.org/article.pl?sid=23/05/18/0131249&from=rss)
 * [2023-05-18, 08:41:00](https://soylentnews.org/article.pl?sid=23/05/18/0126202&from=rss) - [Possible Non-Drug Cure for Depression](https://soylentnews.org/article.pl?sid=23/05/18/0126202&from=rss)
-* [2023-05-18, 05:56:00](https://soylentnews.org/article.pl?sid=23/05/18/0047237&from=rss) - [Vice Media Files for Bankruptcy](https://soylentnews.org/article.pl?sid=23/05/18/0047237&from=rss)
 
 ## [Archives](archives/index.md)
 
