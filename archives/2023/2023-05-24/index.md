@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 19:05:00](https://soylentnews.org/article.pl?sid=23/05/23/1834207&from=rss) - [It Took 48 Hours, but the Mystery of the Mass Asus Router Outage is Solved](https://soylentnews.org/article.pl?sid=23/05/23/1834207&from=rss)
 * [2023-05-24, 16:19:00](https://soylentnews.org/article.pl?sid=23/05/23/1831213&from=rss) - [Phones' Facial Recog Tech 'Fooled' by Low-Res 2D Photo](https://soylentnews.org/article.pl?sid=23/05/23/1831213&from=rss)
 * [2023-05-24, 13:33:00](https://soylentnews.org/article.pl?sid=23/05/23/1824238&from=rss) - [Miura 1, the First Spanish Suborbital Rocket, is Ready for Launch](https://soylentnews.org/article.pl?sid=23/05/23/1824238&from=rss)
 * [2023-05-24, 10:47:00](https://soylentnews.org/article.pl?sid=23/05/23/1819230&from=rss) - [Congress Wants AM Radio in All New Cars—Trade Groups Say That's a Mistake](https://soylentnews.org/article.pl?sid=23/05/23/1819230&from=rss)

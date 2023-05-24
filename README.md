@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-24, 19:05:00](https://soylentnews.org/article.pl?sid=23/05/23/1834207&from=rss) - [It Took 48 Hours, but the Mystery of the Mass Asus Router Outage is Solved](https://soylentnews.org/article.pl?sid=23/05/23/1834207&from=rss)
 * [2023-05-24, 16:19:00](https://soylentnews.org/article.pl?sid=23/05/23/1831213&from=rss) - [Phones' Facial Recog Tech 'Fooled' by Low-Res 2D Photo](https://soylentnews.org/article.pl?sid=23/05/23/1831213&from=rss)
 * [2023-05-24, 13:33:00](https://soylentnews.org/article.pl?sid=23/05/23/1824238&from=rss) - [Miura 1, the First Spanish Suborbital Rocket, is Ready for Launch](https://soylentnews.org/article.pl?sid=23/05/23/1824238&from=rss)
 * [2023-05-24, 10:47:00](https://soylentnews.org/article.pl?sid=23/05/23/1819230&from=rss) - [Congress Wants AM Radio in All New Cars—Trade Groups Say That's a Mistake](https://soylentnews.org/article.pl?sid=23/05/23/1819230&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-18, 17:03:00](https://soylentnews.org/article.pl?sid=23/05/18/027209&from=rss) - [EU Commission Asks EU Council Lawyers If Compelled Client-Side Scanning is Legal, Gets Told It Isn’t](https://soylentnews.org/article.pl?sid=23/05/18/027209&from=rss)
 * [2023-05-18, 14:17:00](https://soylentnews.org/article.pl?sid=23/05/18/0141255&from=rss) - [China's Phone Giant Oppo Disbands Chip Design Unit as Shipment Slumps](https://soylentnews.org/article.pl?sid=23/05/18/0141255&from=rss)
 * [2023-05-18, 11:29:00](https://soylentnews.org/article.pl?sid=23/05/18/0131249&from=rss) - [Google to Start Deleting Inactive Mail Accounts for Security Reasons](https://soylentnews.org/article.pl?sid=23/05/18/0131249&from=rss)
-* [2023-05-18, 08:41:00](https://soylentnews.org/article.pl?sid=23/05/18/0126202&from=rss) - [Possible Non-Drug Cure for Depression](https://soylentnews.org/article.pl?sid=23/05/18/0126202&from=rss)
 
 ## [Archives](archives/index.md)
 
