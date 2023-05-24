@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-24, 08:02:00](https://soylentnews.org/article.pl?sid=23/05/23/1813227&from=rss) - [Shutterstock Picks Up Giphy for $53 Million After UK Blocks Meta’s Acquisition](https://soylentnews.org/article.pl?sid=23/05/23/1813227&from=rss)
 * [2023-05-24, 05:16:00](https://soylentnews.org/article.pl?sid=23/05/23/187206&from=rss) - [Weird AliExpress Laptop With Intel 8088 CPU Will Take You Back to the MS-DOS Era](https://soylentnews.org/article.pl?sid=23/05/23/187206&from=rss)
 * [2023-05-24, 02:31:00](https://soylentnews.org/article.pl?sid=23/05/23/1753215&from=rss) - [Raspberry Pi Supply No Longer Dry](https://soylentnews.org/article.pl?sid=23/05/23/1753215&from=rss)
 * [2023-05-23, 23:43:00](https://soylentnews.org/article.pl?sid=23/05/22/1355248&from=rss) - [ChatGPT Vulnerable to Prompt Injection Via YouTube Transcripts](https://soylentnews.org/article.pl?sid=23/05/22/1355248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-18, 05:56:00](https://soylentnews.org/article.pl?sid=23/05/18/0047237&from=rss) - [Vice Media Files for Bankruptcy](https://soylentnews.org/article.pl?sid=23/05/18/0047237&from=rss)
 * [2023-05-18, 03:07:00](https://soylentnews.org/article.pl?sid=23/05/17/0418216&from=rss) - [The AI race heats up: Google announces PaLM 2, its answer to GPT-4](https://soylentnews.org/article.pl?sid=23/05/17/0418216&from=rss)
 * [2023-05-18, 00:25:00](https://soylentnews.org/article.pl?sid=23/05/17/0359242&from=rss) - [Scientists Discover Microbes That Can Digest Plastics at Low Temperatures](https://soylentnews.org/article.pl?sid=23/05/17/0359242&from=rss)
-* [2023-05-17, 21:40:00](https://soylentnews.org/article.pl?sid=23/05/17/037210&from=rss) - [Microsoft is Scanning the Inside of Password-protected Zip Files for Malware](https://soylentnews.org/article.pl?sid=23/05/17/037210&from=rss)
 
 ## [Archives](archives/index.md)
 
