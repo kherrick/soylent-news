@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 08:54:00](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss) - [Memristors Were Going to Replace RAM and SSDs. What Happened?](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss)
 * [2023-05-25, 06:11:00](https://soylentnews.org/article.pl?sid=23/05/24/1122239&from=rss) - [Netflix’s Password Crackdown Has Started in the U.S.](https://soylentnews.org/article.pl?sid=23/05/24/1122239&from=rss)
 * [2023-05-25, 05:20:00](https://soylentnews.org/article.pl?sid=23/05/25/0526215&from=rss) - [RIP - Tina Turner](https://soylentnews.org/article.pl?sid=23/05/25/0526215&from=rss)
 * [2023-05-25, 03:26:00](https://soylentnews.org/article.pl?sid=23/05/24/1117230&from=rss) - [EU's Next Food Fight: Regulating Gene-Edited Crops](https://soylentnews.org/article.pl?sid=23/05/24/1117230&from=rss)
