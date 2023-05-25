@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-25, 06:11:00](https://soylentnews.org/article.pl?sid=23/05/24/1122239&from=rss) - [Netflix’s Password Crackdown Has Started in the U.S.](https://soylentnews.org/article.pl?sid=23/05/24/1122239&from=rss)
 * [2023-05-25, 05:20:00](https://soylentnews.org/article.pl?sid=23/05/25/0526215&from=rss) - [RIP - Tina Turner](https://soylentnews.org/article.pl?sid=23/05/25/0526215&from=rss)
 * [2023-05-25, 03:26:00](https://soylentnews.org/article.pl?sid=23/05/24/1117230&from=rss) - [EU's Next Food Fight: Regulating Gene-Edited Crops](https://soylentnews.org/article.pl?sid=23/05/24/1117230&from=rss)
 * [2023-05-25, 00:39:00](https://soylentnews.org/article.pl?sid=23/05/24/1021200&from=rss) - [Meta Hit With Record-Breaking $1.3 Billion Fine Over Facebook Data Transfers](https://soylentnews.org/article.pl?sid=23/05/24/1021200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-19, 06:53:00](https://soylentnews.org/article.pl?sid=23/05/18/0315209&from=rss) - [Chinese Chip Industry to Focus on Perfecting Mature Nodes](https://soylentnews.org/article.pl?sid=23/05/18/0315209&from=rss)
 * [2023-05-19, 04:08:00](https://soylentnews.org/article.pl?sid=23/05/18/039230&from=rss) - [Anthropic's Claude AI Can Now Digest an Entire Book Like the Great Gatsby in Seconds](https://soylentnews.org/article.pl?sid=23/05/18/039230&from=rss)
 * [2023-05-19, 01:22:00](https://soylentnews.org/article.pl?sid=23/05/18/035256&from=rss) - [Bill Gates Opposes Elon Musk’s Call to Pause New A.I. Research](https://soylentnews.org/article.pl?sid=23/05/18/035256&from=rss)
-* [2023-05-18, 22:34:00](https://soylentnews.org/article.pl?sid=23/05/18/031243&from=rss) - [Hammerhead Sharks Found to Hold Their Breath on Deep Water Hunts to Stay Warm](https://soylentnews.org/article.pl?sid=23/05/18/031243&from=rss)
 
 ## [Archives](archives/index.md)
 
