@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-25, 19:56:00](https://soylentnews.org/article.pl?sid=23/05/24/1857215&from=rss) - [As U.S. Launch Sites Reach Capacity, Sea Platforms Could Ease the Pressure](https://soylentnews.org/article.pl?sid=23/05/24/1857215&from=rss)
 * [2023-05-25, 17:10:00](https://soylentnews.org/article.pl?sid=23/05/24/1852239&from=rss) - [This Is Why I Teach My Law Students How to Hack](https://soylentnews.org/article.pl?sid=23/05/24/1852239&from=rss)
 * [2023-05-25, 14:26:00](https://soylentnews.org/article.pl?sid=23/05/24/1846234&from=rss) - [Raspberry Pi Helps Research Team Monitor Glaciers in Peru](https://soylentnews.org/article.pl?sid=23/05/24/1846234&from=rss)
 * [2023-05-25, 11:42:00](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss) - [Failed Antibiotic Could be a Game-changing Weed Killer for Farmers](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-19, 20:40:00](https://soylentnews.org/article.pl?sid=23/05/18/1521215&from=rss) - [What Makes “Junk Food” Junk?](https://soylentnews.org/article.pl?sid=23/05/18/1521215&from=rss)
 * [2023-05-19, 17:58:00](https://soylentnews.org/article.pl?sid=23/05/18/1520206&from=rss) - [Google's New Registered Domains Include .Zip and .Mov for a More \"Exciting\" and Insecure Internet](https://soylentnews.org/article.pl?sid=23/05/18/1520206&from=rss)
 * [2023-05-19, 15:13:00](https://soylentnews.org/article.pl?sid=23/05/18/1517214&from=rss) - [What is Bio-Oil, and Why Does Big Tech Think It Can Fight Climate Change?](https://soylentnews.org/article.pl?sid=23/05/18/1517214&from=rss)
-* [2023-05-19, 12:23:00](https://soylentnews.org/article.pl?sid=23/05/18/1510257&from=rss) - [The Group Decode ROM: The 8086 Processor's First Step of Instruction Decoding](https://soylentnews.org/article.pl?sid=23/05/18/1510257&from=rss)
 
 ## [Archives](archives/index.md)
 
