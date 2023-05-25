@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-25, 11:42:00](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss) - [Failed Antibiotic Could be a Game-changing Weed Killer for Farmers](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss)
 * [2023-05-25, 08:54:00](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss) - [Memristors Were Going to Replace RAM and SSDs. What Happened?](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss)
 * [2023-05-25, 06:11:00](https://soylentnews.org/article.pl?sid=23/05/24/1122239&from=rss) - [Netflix’s Password Crackdown Has Started in the U.S.](https://soylentnews.org/article.pl?sid=23/05/24/1122239&from=rss)
 * [2023-05-25, 05:20:00](https://soylentnews.org/article.pl?sid=23/05/25/0526215&from=rss) - [RIP - Tina Turner](https://soylentnews.org/article.pl?sid=23/05/25/0526215&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-19, 12:23:00](https://soylentnews.org/article.pl?sid=23/05/18/1510257&from=rss) - [The Group Decode ROM: The 8086 Processor's First Step of Instruction Decoding](https://soylentnews.org/article.pl?sid=23/05/18/1510257&from=rss)
 * [2023-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=23/05/18/1512247&from=rss) - [Reviving Office Chatter](https://soylentnews.org/article.pl?sid=23/05/18/1512247&from=rss)
 * [2023-05-19, 06:53:00](https://soylentnews.org/article.pl?sid=23/05/18/0315209&from=rss) - [Chinese Chip Industry to Focus on Perfecting Mature Nodes](https://soylentnews.org/article.pl?sid=23/05/18/0315209&from=rss)
-* [2023-05-19, 04:08:00](https://soylentnews.org/article.pl?sid=23/05/18/039230&from=rss) - [Anthropic's Claude AI Can Now Digest an Entire Book Like the Great Gatsby in Seconds](https://soylentnews.org/article.pl?sid=23/05/18/039230&from=rss)
 
 ## [Archives](archives/index.md)
 
