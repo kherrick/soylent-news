@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-25, 14:26:00](https://soylentnews.org/article.pl?sid=23/05/24/1846234&from=rss) - [Raspberry Pi Helps Research Team Monitor Glaciers in Peru](https://soylentnews.org/article.pl?sid=23/05/24/1846234&from=rss)
 * [2023-05-25, 11:42:00](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss) - [Failed Antibiotic Could be a Game-changing Weed Killer for Farmers](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss)
 * [2023-05-25, 08:54:00](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss) - [Memristors Were Going to Replace RAM and SSDs. What Happened?](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss)
 * [2023-05-25, 06:11:00](https://soylentnews.org/article.pl?sid=23/05/24/1122239&from=rss) - [Netflix’s Password Crackdown Has Started in the U.S.](https://soylentnews.org/article.pl?sid=23/05/24/1122239&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-19, 15:13:00](https://soylentnews.org/article.pl?sid=23/05/18/1517214&from=rss) - [What is Bio-Oil, and Why Does Big Tech Think It Can Fight Climate Change?](https://soylentnews.org/article.pl?sid=23/05/18/1517214&from=rss)
 * [2023-05-19, 12:23:00](https://soylentnews.org/article.pl?sid=23/05/18/1510257&from=rss) - [The Group Decode ROM: The 8086 Processor's First Step of Instruction Decoding](https://soylentnews.org/article.pl?sid=23/05/18/1510257&from=rss)
 * [2023-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=23/05/18/1512247&from=rss) - [Reviving Office Chatter](https://soylentnews.org/article.pl?sid=23/05/18/1512247&from=rss)
-* [2023-05-19, 06:53:00](https://soylentnews.org/article.pl?sid=23/05/18/0315209&from=rss) - [Chinese Chip Industry to Focus on Perfecting Mature Nodes](https://soylentnews.org/article.pl?sid=23/05/18/0315209&from=rss)
 
 ## [Archives](archives/index.md)
 
