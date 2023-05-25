@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 22:41:00](https://soylentnews.org/article.pl?sid=23/05/24/190200&from=rss) - [Former Google CEO Says AI Poses an 'Existential Risk' That Puts Lives in Danger](https://soylentnews.org/article.pl?sid=23/05/24/190200&from=rss)
 * [2023-05-25, 19:56:00](https://soylentnews.org/article.pl?sid=23/05/24/1857215&from=rss) - [As U.S. Launch Sites Reach Capacity, Sea Platforms Could Ease the Pressure](https://soylentnews.org/article.pl?sid=23/05/24/1857215&from=rss)
 * [2023-05-25, 17:10:00](https://soylentnews.org/article.pl?sid=23/05/24/1852239&from=rss) - [This Is Why I Teach My Law Students How to Hack](https://soylentnews.org/article.pl?sid=23/05/24/1852239&from=rss)
 * [2023-05-25, 14:26:00](https://soylentnews.org/article.pl?sid=23/05/24/1846234&from=rss) - [Raspberry Pi Helps Research Team Monitor Glaciers in Peru](https://soylentnews.org/article.pl?sid=23/05/24/1846234&from=rss)
