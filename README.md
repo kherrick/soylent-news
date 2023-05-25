@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-25, 03:26:00](https://soylentnews.org/article.pl?sid=23/05/24/1117230&from=rss) - [EU's Next Food Fight: Regulating Gene-Edited Crops](https://soylentnews.org/article.pl?sid=23/05/24/1117230&from=rss)
 * [2023-05-25, 00:39:00](https://soylentnews.org/article.pl?sid=23/05/24/1021200&from=rss) - [Meta Hit With Record-Breaking $1.3 Billion Fine Over Facebook Data Transfers](https://soylentnews.org/article.pl?sid=23/05/24/1021200&from=rss)
 * [2023-05-24, 21:51:00](https://soylentnews.org/article.pl?sid=23/05/23/1915241&from=rss) - [Aspiring Photographer's $3K Camera Accidentally Donated to Goodwill and Sold for $70](https://soylentnews.org/article.pl?sid=23/05/23/1915241&from=rss)
 * [2023-05-24, 19:05:00](https://soylentnews.org/article.pl?sid=23/05/23/1834207&from=rss) - [It Took 48 Hours, but the Mystery of the Mass Asus Router Outage is Solved](https://soylentnews.org/article.pl?sid=23/05/23/1834207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-19, 01:22:00](https://soylentnews.org/article.pl?sid=23/05/18/035256&from=rss) - [Bill Gates Opposes Elon Musk’s Call to Pause New A.I. Research](https://soylentnews.org/article.pl?sid=23/05/18/035256&from=rss)
 * [2023-05-18, 22:34:00](https://soylentnews.org/article.pl?sid=23/05/18/031243&from=rss) - [Hammerhead Sharks Found to Hold Their Breath on Deep Water Hunts to Stay Warm](https://soylentnews.org/article.pl?sid=23/05/18/031243&from=rss)
 * [2023-05-18, 19:48:00](https://soylentnews.org/article.pl?sid=23/05/18/0214209&from=rss) - [New Animal Family Tree Raises Questions About the Origin of Nervous Systems](https://soylentnews.org/article.pl?sid=23/05/18/0214209&from=rss)
-* [2023-05-18, 17:03:00](https://soylentnews.org/article.pl?sid=23/05/18/027209&from=rss) - [EU Commission Asks EU Council Lawyers If Compelled Client-Side Scanning is Legal, Gets Told It Isn’t](https://soylentnews.org/article.pl?sid=23/05/18/027209&from=rss)
 
 ## [Archives](archives/index.md)
 
