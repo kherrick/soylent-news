@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 17:10:00](https://soylentnews.org/article.pl?sid=23/05/24/1852239&from=rss) - [This Is Why I Teach My Law Students How to Hack](https://soylentnews.org/article.pl?sid=23/05/24/1852239&from=rss)
 * [2023-05-25, 14:26:00](https://soylentnews.org/article.pl?sid=23/05/24/1846234&from=rss) - [Raspberry Pi Helps Research Team Monitor Glaciers in Peru](https://soylentnews.org/article.pl?sid=23/05/24/1846234&from=rss)
 * [2023-05-25, 11:42:00](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss) - [Failed Antibiotic Could be a Game-changing Weed Killer for Farmers](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss)
 * [2023-05-25, 08:54:00](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss) - [Memristors Were Going to Replace RAM and SSDs. What Happened?](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss)
