@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 06:56:00](https://soylentnews.org/article.pl?sid=23/05/25/0448251&from=rss) - [Jupiter’s Lightning Bolts Contort the Same Way as Earth’s](https://soylentnews.org/article.pl?sid=23/05/25/0448251&from=rss)
 * [2023-05-26, 04:10:00](https://soylentnews.org/article.pl?sid=23/05/25/0441200&from=rss) - [Virgin Orbit to Cease Operations, Sell Assets of Richard Branson's Satellite Launcher](https://soylentnews.org/article.pl?sid=23/05/25/0441200&from=rss)
 * [2023-05-26, 01:23:00](https://soylentnews.org/article.pl?sid=23/05/25/0436227&from=rss) - [Early Warning Systems Send Disaster Deaths Plunging: UN](https://soylentnews.org/article.pl?sid=23/05/25/0436227&from=rss)
