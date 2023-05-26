@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 17:57:00](https://soylentnews.org/article.pl?sid=23/05/25/183214&from=rss) - [Windows to Finally Support 30 Year Old Archive Format](https://soylentnews.org/article.pl?sid=23/05/25/183214&from=rss)
 * [2023-05-26, 15:13:00](https://soylentnews.org/article.pl?sid=23/05/25/1759251&from=rss) - [Scientists Working to Generate Electricity From Thin Air Make Breakthrough](https://soylentnews.org/article.pl?sid=23/05/25/1759251&from=rss)
 * [2023-05-26, 12:28:00](https://soylentnews.org/article.pl?sid=23/05/25/1755205&from=rss) - [ChatGPT-maker Warns It Might Leave EU Over Planned AI Law](https://soylentnews.org/article.pl?sid=23/05/25/1755205&from=rss)
 * [2023-05-26, 09:43:00](https://soylentnews.org/article.pl?sid=23/05/25/0457247&from=rss) - [Discover the Blood Type Mosquitoes Like Best](https://soylentnews.org/article.pl?sid=23/05/25/0457247&from=rss)

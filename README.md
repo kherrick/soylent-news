@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-26, 17:57:00](https://soylentnews.org/article.pl?sid=23/05/25/183214&from=rss) - [Windows to Finally Support 30 Year Old Archive Format](https://soylentnews.org/article.pl?sid=23/05/25/183214&from=rss)
 * [2023-05-26, 15:13:00](https://soylentnews.org/article.pl?sid=23/05/25/1759251&from=rss) - [Scientists Working to Generate Electricity From Thin Air Make Breakthrough](https://soylentnews.org/article.pl?sid=23/05/25/1759251&from=rss)
 * [2023-05-26, 12:28:00](https://soylentnews.org/article.pl?sid=23/05/25/1755205&from=rss) - [ChatGPT-maker Warns It Might Leave EU Over Planned AI Law](https://soylentnews.org/article.pl?sid=23/05/25/1755205&from=rss)
 * [2023-05-26, 09:43:00](https://soylentnews.org/article.pl?sid=23/05/25/0457247&from=rss) - [Discover the Blood Type Mosquitoes Like Best](https://soylentnews.org/article.pl?sid=23/05/25/0457247&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-21, 08:37:00](https://soylentnews.org/article.pl?sid=23/05/20/1449204&from=rss) - [Study Finds 90% of Australian Teachers Can't Afford to Live Where They Teach](https://soylentnews.org/article.pl?sid=23/05/20/1449204&from=rss)
 * [2023-05-21, 03:54:00](https://soylentnews.org/article.pl?sid=23/05/20/1441251&from=rss) - [First Full-sized 3D Scan of the Wreck of the Titanic](https://soylentnews.org/article.pl?sid=23/05/20/1441251&from=rss)
 * [2023-05-20, 23:13:00](https://soylentnews.org/article.pl?sid=23/05/19/0716217&from=rss) - [Obstetricians More Emotionally Stable Than Most](https://soylentnews.org/article.pl?sid=23/05/19/0716217&from=rss)
-* [2023-05-20, 18:26:00](https://soylentnews.org/article.pl?sid=23/05/19/0712244&from=rss) - [Intel Shows New Stacked CFET Transistor Design at ITF World](https://soylentnews.org/article.pl?sid=23/05/19/0712244&from=rss)
 
 ## [Archives](archives/index.md)
 
