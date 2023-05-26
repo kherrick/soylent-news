@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 23:28:00](https://soylentnews.org/article.pl?sid=23/05/25/1820206&from=rss) - [AI is Changing How Americans Find Jobs, Get Promoted and Succeed at Work](https://soylentnews.org/article.pl?sid=23/05/25/1820206&from=rss)
 * [2023-05-26, 20:42:00](https://soylentnews.org/article.pl?sid=23/05/25/1813215&from=rss) - [New York City is Sinking. It’s Far From Alone](https://soylentnews.org/article.pl?sid=23/05/25/1813215&from=rss)
 * [2023-05-26, 17:57:00](https://soylentnews.org/article.pl?sid=23/05/25/183214&from=rss) - [Windows to Finally Support 30 Year Old Archive Format](https://soylentnews.org/article.pl?sid=23/05/25/183214&from=rss)
 * [2023-05-26, 15:13:00](https://soylentnews.org/article.pl?sid=23/05/25/1759251&from=rss) - [Scientists Working to Generate Electricity From Thin Air Make Breakthrough](https://soylentnews.org/article.pl?sid=23/05/25/1759251&from=rss)
