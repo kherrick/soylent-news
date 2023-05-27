@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/05/26/1536208&from=rss) - [Hell Pizza Launches Buy Now, Pay Much, Much Later Payment Scheme](https://soylentnews.org/article.pl?sid=23/05/26/1536208&from=rss)
 * [2023-05-27, 16:24:00](https://soylentnews.org/article.pl?sid=23/05/26/1522245&from=rss) - [NASA Caught Private Moon Lander Crash Site on Camera](https://soylentnews.org/article.pl?sid=23/05/26/1522245&from=rss)
 * [2023-05-27, 11:43:00](https://soylentnews.org/article.pl?sid=23/05/26/1518252&from=rss) - [At High School Debates, Debate Is No Longer Allowed](https://soylentnews.org/article.pl?sid=23/05/26/1518252&from=rss)
 * [2023-05-27, 06:59:00](https://soylentnews.org/article.pl?sid=23/05/26/022204&from=rss) - [Microsoft Launches an AI Tool to Take the Pain Out of Building Websites](https://soylentnews.org/article.pl?sid=23/05/26/022204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-22, 14:39:00](https://soylentnews.org/article.pl?sid=23/05/21/0750218&from=rss) - [Scientists Finally Confirm What's Inside the Moon](https://soylentnews.org/article.pl?sid=23/05/21/0750218&from=rss)
 * [2023-05-22, 11:56:00](https://soylentnews.org/article.pl?sid=23/05/21/0747246&from=rss) - [It's Over: Intel Publishes \"x86-S\" Specification, for 64-Bit Only x86 Architecture](https://soylentnews.org/article.pl?sid=23/05/21/0747246&from=rss)
 * [2023-05-22, 09:13:00](https://soylentnews.org/article.pl?sid=23/05/21/0439224&from=rss) - [A Turning Point for U.S. AI Policy: Senate Explores Solutions](https://soylentnews.org/article.pl?sid=23/05/21/0439224&from=rss)
-* [2023-05-22, 06:25:00](https://soylentnews.org/article.pl?sid=23/05/21/0430219&from=rss) - [The UK’s Secretive Web Surveillance Program is Ramping Up](https://soylentnews.org/article.pl?sid=23/05/21/0430219&from=rss)
 
 ## [Archives](archives/index.md)
 
