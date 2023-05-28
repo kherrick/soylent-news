@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-28, 06:41:00](https://soylentnews.org/article.pl?sid=23/05/26/1556215&from=rss) - [Teens in Australia Talk About How to Fix School Sex Education](https://soylentnews.org/article.pl?sid=23/05/26/1556215&from=rss)
 * [2023-05-28, 01:53:00](https://soylentnews.org/article.pl?sid=23/05/26/1545255&from=rss) - [Hibernation Artificially Triggered in Potential Space Travel Breakthrough](https://soylentnews.org/article.pl?sid=23/05/26/1545255&from=rss)
 * [2023-05-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/05/26/1536208&from=rss) - [Hell Pizza Launches Buy Now, Pay Much, Much Later Payment Scheme](https://soylentnews.org/article.pl?sid=23/05/26/1536208&from=rss)
 * [2023-05-27, 16:24:00](https://soylentnews.org/article.pl?sid=23/05/26/1522245&from=rss) - [NASA Caught Private Moon Lander Crash Site on Camera](https://soylentnews.org/article.pl?sid=23/05/26/1522245&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-22, 16:27:00](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss) - [The Future](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss)
 * [2023-05-22, 16:00:00](https://soylentnews.org/meta/article.pl?sid=23/05/20/0343254&from=rss) - [SoylentNews Site Shutdown](https://soylentnews.org/meta/article.pl?sid=23/05/20/0343254&from=rss)
 * [2023-05-22, 14:39:00](https://soylentnews.org/article.pl?sid=23/05/21/0750218&from=rss) - [Scientists Finally Confirm What's Inside the Moon](https://soylentnews.org/article.pl?sid=23/05/21/0750218&from=rss)
-* [2023-05-22, 11:56:00](https://soylentnews.org/article.pl?sid=23/05/21/0747246&from=rss) - [It's Over: Intel Publishes \"x86-S\" Specification, for 64-Bit Only x86 Architecture](https://soylentnews.org/article.pl?sid=23/05/21/0747246&from=rss)
 
 ## [Archives](archives/index.md)
 
