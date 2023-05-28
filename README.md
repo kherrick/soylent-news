@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-28, 16:10:00](https://soylentnews.org/article.pl?sid=23/05/27/1752206&from=rss) - [NASA's Mega Moon Rocket is $6 Billion Over Budget, Claims Scathing New Report](https://soylentnews.org/article.pl?sid=23/05/27/1752206&from=rss)
 * [2023-05-28, 11:23:00](https://soylentnews.org/article.pl?sid=23/05/27/1747220&from=rss) - [US Govt Under Fire for Promoting Sales of Spyware](https://soylentnews.org/article.pl?sid=23/05/27/1747220&from=rss)
 * [2023-05-28, 06:41:00](https://soylentnews.org/article.pl?sid=23/05/26/1556215&from=rss) - [Teens in Australia Talk About How to Fix School Sex Education](https://soylentnews.org/article.pl?sid=23/05/26/1556215&from=rss)
 * [2023-05-28, 01:53:00](https://soylentnews.org/article.pl?sid=23/05/26/1545255&from=rss) - [Hibernation Artificially Triggered in Potential Space Travel Breakthrough](https://soylentnews.org/article.pl?sid=23/05/26/1545255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-22, 20:16:00](https://soylentnews.org/article.pl?sid=23/05/21/0757208&from=rss) - [NASA's Lucy Spacecraft Adjusts Course for Asteroid Flyby in November](https://soylentnews.org/article.pl?sid=23/05/21/0757208&from=rss)
 * [2023-05-22, 17:31:00](https://soylentnews.org/article.pl?sid=23/05/21/0754223&from=rss) - [Patterns in Register Map Design](https://soylentnews.org/article.pl?sid=23/05/21/0754223&from=rss)
 * [2023-05-22, 16:27:00](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss) - [The Future](https://soylentnews.org/meta/article.pl?sid=23/05/22/1151231&from=rss)
-* [2023-05-22, 16:00:00](https://soylentnews.org/meta/article.pl?sid=23/05/20/0343254&from=rss) - [SoylentNews Site Shutdown](https://soylentnews.org/meta/article.pl?sid=23/05/20/0343254&from=rss)
 
 ## [Archives](archives/index.md)
 
