@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-29, 04:33:00](https://soylentnews.org/article.pl?sid=23/05/28/0945253&from=rss) - [The Strange Story of the Teens Behind the Mirai Botnet](https://soylentnews.org/article.pl?sid=23/05/28/0945253&from=rss)
 * [2023-05-29, 01:42:00](https://soylentnews.org/article.pl?sid=23/05/27/1914254&from=rss) - [The Dangers of a Superintelligent AI is Fiction](https://soylentnews.org/article.pl?sid=23/05/27/1914254&from=rss)
 * [2023-05-28, 20:56:00](https://soylentnews.org/article.pl?sid=23/05/27/1758232&from=rss) - [Since When Did My SSD Need Water Cooling?](https://soylentnews.org/article.pl?sid=23/05/27/1758232&from=rss)
 * [2023-05-28, 16:10:00](https://soylentnews.org/article.pl?sid=23/05/27/1752206&from=rss) - [NASA's Mega Moon Rocket is $6 Billion Over Budget, Claims Scathing New Report](https://soylentnews.org/article.pl?sid=23/05/27/1752206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-23, 04:36:00](https://soylentnews.org/article.pl?sid=23/05/22/1318224&from=rss) - [When Employees Leave Their Jobs, Coworkers Call It Quits](https://soylentnews.org/article.pl?sid=23/05/22/1318224&from=rss)
 * [2023-05-23, 01:43:00](https://soylentnews.org/article.pl?sid=23/05/22/0357215&from=rss) - [Plastic Pervasive in Food Supply, Says New Study](https://soylentnews.org/article.pl?sid=23/05/22/0357215&from=rss)
 * [2023-05-22, 23:01:00](https://soylentnews.org/article.pl?sid=23/05/21/0758255&from=rss) - [Google Pixel Smartphones Will Add Bard AI Widget: Report](https://soylentnews.org/article.pl?sid=23/05/21/0758255&from=rss)
-* [2023-05-22, 20:16:00](https://soylentnews.org/article.pl?sid=23/05/21/0757208&from=rss) - [NASA's Lucy Spacecraft Adjusts Course for Asteroid Flyby in November](https://soylentnews.org/article.pl?sid=23/05/21/0757208&from=rss)
 
 ## [Archives](archives/index.md)
 
