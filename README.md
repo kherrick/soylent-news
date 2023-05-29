@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-29, 10:03:00](https://soylentnews.org/article.pl?sid=23/05/28/107200&from=rss) - [Here’s What a Lab-grown Burger Tastes Like](https://soylentnews.org/article.pl?sid=23/05/28/107200&from=rss)
 * [2023-05-29, 07:21:00](https://soylentnews.org/article.pl?sid=23/05/28/0954209&from=rss) - [Phishing Domains Tanked After Meta Sued Freenom](https://soylentnews.org/article.pl?sid=23/05/28/0954209&from=rss)
 * [2023-05-29, 04:33:00](https://soylentnews.org/article.pl?sid=23/05/28/0945253&from=rss) - [The Strange Story of the Teens Behind the Mirai Botnet](https://soylentnews.org/article.pl?sid=23/05/28/0945253&from=rss)
 * [2023-05-29, 01:42:00](https://soylentnews.org/article.pl?sid=23/05/27/1914254&from=rss) - [The Dangers of a Superintelligent AI is Fiction](https://soylentnews.org/article.pl?sid=23/05/27/1914254&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-23, 10:04:00](https://soylentnews.org/article.pl?sid=23/05/22/1326258&from=rss) - [New Study Reveals Possible Future Health Impacts Related to Climate Mitigation](https://soylentnews.org/article.pl?sid=23/05/22/1326258&from=rss)
 * [2023-05-23, 07:20:00](https://soylentnews.org/article.pl?sid=23/05/22/1321212&from=rss) - [China Fails Micron's Products in Security Review, Bars Some Purchases](https://soylentnews.org/article.pl?sid=23/05/22/1321212&from=rss)
 * [2023-05-23, 04:36:00](https://soylentnews.org/article.pl?sid=23/05/22/1318224&from=rss) - [When Employees Leave Their Jobs, Coworkers Call It Quits](https://soylentnews.org/article.pl?sid=23/05/22/1318224&from=rss)
-* [2023-05-23, 01:43:00](https://soylentnews.org/article.pl?sid=23/05/22/0357215&from=rss) - [Plastic Pervasive in Food Supply, Says New Study](https://soylentnews.org/article.pl?sid=23/05/22/0357215&from=rss)
 
 ## [Archives](archives/index.md)
 
