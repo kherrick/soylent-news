@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-29, 15:25:00](https://soylentnews.org/article.pl?sid=23/05/28/1134208&from=rss) - [Microsoft’s Azure Linux Distro is Now Generally Available](https://soylentnews.org/article.pl?sid=23/05/28/1134208&from=rss)
 * [2023-05-29, 12:47:00](https://soylentnews.org/article.pl?sid=23/05/28/1128217&from=rss) - [TSMC: We Have Working CFET Transistors in the Lab, but They Are Generations Away](https://soylentnews.org/article.pl?sid=23/05/28/1128217&from=rss)
 * [2023-05-29, 10:03:00](https://soylentnews.org/article.pl?sid=23/05/28/107200&from=rss) - [Here’s What a Lab-grown Burger Tastes Like](https://soylentnews.org/article.pl?sid=23/05/28/107200&from=rss)
 * [2023-05-29, 07:21:00](https://soylentnews.org/article.pl?sid=23/05/28/0954209&from=rss) - [Phishing Domains Tanked After Meta Sued Freenom](https://soylentnews.org/article.pl?sid=23/05/28/0954209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-23, 15:35:00](https://soylentnews.org/article.pl?sid=23/05/22/1336223&from=rss) - [Are You a Mosquito Magnet? It Might be for One Unpleasant Reason](https://soylentnews.org/article.pl?sid=23/05/22/1336223&from=rss)
 * [2023-05-23, 12:49:00](https://soylentnews.org/article.pl?sid=23/05/22/1330226&from=rss) - [How Solid Air Can Spur Sustainable Development](https://soylentnews.org/article.pl?sid=23/05/22/1330226&from=rss)
 * [2023-05-23, 10:04:00](https://soylentnews.org/article.pl?sid=23/05/22/1326258&from=rss) - [New Study Reveals Possible Future Health Impacts Related to Climate Mitigation](https://soylentnews.org/article.pl?sid=23/05/22/1326258&from=rss)
-* [2023-05-23, 07:20:00](https://soylentnews.org/article.pl?sid=23/05/22/1321212&from=rss) - [China Fails Micron's Products in Security Review, Bars Some Purchases](https://soylentnews.org/article.pl?sid=23/05/22/1321212&from=rss)
 
 ## [Archives](archives/index.md)
 
