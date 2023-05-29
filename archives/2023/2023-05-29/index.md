@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-05-29](index.md)
+
+* [2023-05-29, 01:42:00](https://soylentnews.org/article.pl?sid=23/05/27/1914254&from=rss) - [The Dangers of a Superintelligent AI is Fiction](https://soylentnews.org/article.pl?sid=23/05/27/1914254&from=rss)
