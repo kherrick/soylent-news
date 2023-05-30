@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 23:37:00](https://soylentnews.org/article.pl?sid=23/05/29/1858233&from=rss) - [Japan Will try to Beam Solar Power from Space by 2025](https://soylentnews.org/article.pl?sid=23/05/29/1858233&from=rss)
 * [2023-05-30, 21:52:00](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss) - [Leaked Tesla Documents Hint at Cybertruck Problems](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss)
 * [2023-05-30, 18:53:00](https://soylentnews.org/article.pl?sid=23/05/29/1846226&from=rss) - [Multinational Man Hunt Underway for a 'Living Off the Land' Hacker Named Volt Typhooon](https://soylentnews.org/article.pl?sid=23/05/29/1846226&from=rss)
 * [2023-05-30, 16:04:00](https://soylentnews.org/article.pl?sid=23/05/29/1841233&from=rss) - [MediaTek Says its Snapdragon 8 Gen 3 Rival will be a Beast](https://soylentnews.org/article.pl?sid=23/05/29/1841233&from=rss)

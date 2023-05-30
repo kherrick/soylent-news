@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-30, 23:37:00](https://soylentnews.org/article.pl?sid=23/05/29/1858233&from=rss) - [Japan Will try to Beam Solar Power from Space by 2025](https://soylentnews.org/article.pl?sid=23/05/29/1858233&from=rss)
 * [2023-05-30, 21:52:00](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss) - [Leaked Tesla Documents Hint at Cybertruck Problems](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss)
 * [2023-05-30, 18:53:00](https://soylentnews.org/article.pl?sid=23/05/29/1846226&from=rss) - [Multinational Man Hunt Underway for a 'Living Off the Land' Hacker Named Volt Typhoon](https://soylentnews.org/article.pl?sid=23/05/29/1846226&from=rss)
 * [2023-05-30, 16:04:00](https://soylentnews.org/article.pl?sid=23/05/29/1841233&from=rss) - [MediaTek Says its Snapdragon 8 Gen 3 Rival will be a Beast](https://soylentnews.org/article.pl?sid=23/05/29/1841233&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-25, 00:39:00](https://soylentnews.org/article.pl?sid=23/05/24/1021200&from=rss) - [Meta Hit With Record-Breaking $1.3 Billion Fine Over Facebook Data Transfers](https://soylentnews.org/article.pl?sid=23/05/24/1021200&from=rss)
 * [2023-05-24, 21:51:00](https://soylentnews.org/article.pl?sid=23/05/23/1915241&from=rss) - [Aspiring Photographer's $3K Camera Accidentally Donated to Goodwill and Sold for $70](https://soylentnews.org/article.pl?sid=23/05/23/1915241&from=rss)
 * [2023-05-24, 19:05:00](https://soylentnews.org/article.pl?sid=23/05/23/1834207&from=rss) - [It Took 48 Hours, but the Mystery of the Mass Asus Router Outage is Solved](https://soylentnews.org/article.pl?sid=23/05/23/1834207&from=rss)
-* [2023-05-24, 16:19:00](https://soylentnews.org/article.pl?sid=23/05/23/1831213&from=rss) - [Phones' Facial Recog Tech 'Fooled' by Low-Res 2D Photo](https://soylentnews.org/article.pl?sid=23/05/23/1831213&from=rss)
 
 ## [Archives](archives/index.md)
 
