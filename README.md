@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-30, 21:52:00](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss) - [Leaked Tesla Documents Hint at Cybertruck Problems](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss)
 * [2023-05-30, 18:53:00](https://soylentnews.org/article.pl?sid=23/05/29/1846226&from=rss) - [Multinational Man Hunt Underway for a 'Living Off the Land' Hacker Named Volt Typhoon](https://soylentnews.org/article.pl?sid=23/05/29/1846226&from=rss)
 * [2023-05-30, 16:04:00](https://soylentnews.org/article.pl?sid=23/05/29/1841233&from=rss) - [MediaTek Says its Snapdragon 8 Gen 3 Rival will be a Beast](https://soylentnews.org/article.pl?sid=23/05/29/1841233&from=rss)
 * [2023-05-30, 13:19:00](https://soylentnews.org/politics/article.pl?sid=23/05/29/1836253&from=rss) - [China Appeals to Japan to Halt Export Restrictions as Chip War Escalates](https://soylentnews.org/politics/article.pl?sid=23/05/29/1836253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-24, 21:51:00](https://soylentnews.org/article.pl?sid=23/05/23/1915241&from=rss) - [Aspiring Photographer's $3K Camera Accidentally Donated to Goodwill and Sold for $70](https://soylentnews.org/article.pl?sid=23/05/23/1915241&from=rss)
 * [2023-05-24, 19:05:00](https://soylentnews.org/article.pl?sid=23/05/23/1834207&from=rss) - [It Took 48 Hours, but the Mystery of the Mass Asus Router Outage is Solved](https://soylentnews.org/article.pl?sid=23/05/23/1834207&from=rss)
 * [2023-05-24, 16:19:00](https://soylentnews.org/article.pl?sid=23/05/23/1831213&from=rss) - [Phones' Facial Recog Tech 'Fooled' by Low-Res 2D Photo](https://soylentnews.org/article.pl?sid=23/05/23/1831213&from=rss)
-* [2023-05-24, 13:33:00](https://soylentnews.org/article.pl?sid=23/05/23/1824238&from=rss) - [Miura 1, the First Spanish Suborbital Rocket, is Ready for Launch](https://soylentnews.org/article.pl?sid=23/05/23/1824238&from=rss)
 
 ## [Archives](archives/index.md)
 
