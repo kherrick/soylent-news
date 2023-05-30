@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-30, 02:21:00](https://soylentnews.org/article.pl?sid=23/05/29/163219&from=rss) - [China Plans to Land Astronauts on Moon Before 2030, Expand Space Station, Bring on Foreign Partners](https://soylentnews.org/article.pl?sid=23/05/29/163219&from=rss)
 * [2023-05-29, 23:32:00](https://soylentnews.org/article.pl?sid=23/05/28/126227&from=rss) - [US Police are Selling Seized Phones with Personal Data still on them](https://soylentnews.org/article.pl?sid=23/05/28/126227&from=rss)
 * [2023-05-29, 20:49:00](https://soylentnews.org/article.pl?sid=23/05/28/1143221&from=rss) - [Coastal Ecosystems Can Take Up or Emit Greenhouse Gases. but Globally, They're a Vital Sink](https://soylentnews.org/article.pl?sid=23/05/28/1143221&from=rss)
 * [2023-05-29, 18:06:00](https://soylentnews.org/article.pl?sid=23/05/28/1137208&from=rss) - [Researchers Uncover Russia-linked Malware That Could Immobilize Electric Grids](https://soylentnews.org/article.pl?sid=23/05/28/1137208&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-24, 02:31:00](https://soylentnews.org/article.pl?sid=23/05/23/1753215&from=rss) - [Raspberry Pi Supply No Longer Dry](https://soylentnews.org/article.pl?sid=23/05/23/1753215&from=rss)
 * [2023-05-23, 23:43:00](https://soylentnews.org/article.pl?sid=23/05/22/1355248&from=rss) - [ChatGPT Vulnerable to Prompt Injection Via YouTube Transcripts](https://soylentnews.org/article.pl?sid=23/05/22/1355248&from=rss)
 * [2023-05-23, 21:03:00](https://soylentnews.org/article.pl?sid=23/05/22/1345251&from=rss) - [UK Announces $1.2B Chip Strategy, Faces Criticism Over Funding Size](https://soylentnews.org/article.pl?sid=23/05/22/1345251&from=rss)
-* [2023-05-23, 18:18:00](https://soylentnews.org/article.pl?sid=23/05/22/1339210&from=rss) - [Long-Unknown Origins of Lager Beer Uncovered](https://soylentnews.org/article.pl?sid=23/05/22/1339210&from=rss)
 
 ## [Archives](archives/index.md)
 
