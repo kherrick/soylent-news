@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 13:19:00](https://soylentnews.org/politics/article.pl?sid=23/05/29/1836253&from=rss) - [China Appeals to Japan to Halt Export Restrictions as Chip War Escalates](https://soylentnews.org/politics/article.pl?sid=23/05/29/1836253&from=rss)
 * [2023-05-30, 10:31:00](https://soylentnews.org/article.pl?sid=23/05/29/1833212&from=rss) - [Mozilla Apologizes for Unskippable VPN Ads Shown in Firefox](https://soylentnews.org/article.pl?sid=23/05/29/1833212&from=rss)
 * [2023-05-30, 07:51:00](https://soylentnews.org/article.pl?sid=23/05/29/1616234&from=rss) - [Significant Presence of Cesium-Rich Microparticles in an Abandoned School Near Fukushima Nuke Site](https://soylentnews.org/article.pl?sid=23/05/29/1616234&from=rss)
 * [2023-05-30, 05:07:00](https://soylentnews.org/article.pl?sid=23/05/29/1610217&from=rss) - [Intel to Add AI Engine to All 14th-gen Meteor Lake SoCs](https://soylentnews.org/article.pl?sid=23/05/29/1610217&from=rss)

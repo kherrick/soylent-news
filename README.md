@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-30, 13:19:00](https://soylentnews.org/politics/article.pl?sid=23/05/29/1836253&from=rss) - [China Appeals to Japan to Halt Export Restrictions as Chip War Escalates](https://soylentnews.org/politics/article.pl?sid=23/05/29/1836253&from=rss)
 * [2023-05-30, 10:31:00](https://soylentnews.org/article.pl?sid=23/05/29/1833212&from=rss) - [Mozilla Apologizes for Unskippable VPN Ads Shown in Firefox](https://soylentnews.org/article.pl?sid=23/05/29/1833212&from=rss)
 * [2023-05-30, 07:51:00](https://soylentnews.org/article.pl?sid=23/05/29/1616234&from=rss) - [Significant Presence of Cesium-Rich Microparticles in an Abandoned School Near Fukushima Nuke Site](https://soylentnews.org/article.pl?sid=23/05/29/1616234&from=rss)
 * [2023-05-30, 05:07:00](https://soylentnews.org/article.pl?sid=23/05/29/1610217&from=rss) - [Intel to Add AI Engine to All 14th-gen Meteor Lake SoCs](https://soylentnews.org/article.pl?sid=23/05/29/1610217&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-24, 13:33:00](https://soylentnews.org/article.pl?sid=23/05/23/1824238&from=rss) - [Miura 1, the First Spanish Suborbital Rocket, is Ready for Launch](https://soylentnews.org/article.pl?sid=23/05/23/1824238&from=rss)
 * [2023-05-24, 10:47:00](https://soylentnews.org/article.pl?sid=23/05/23/1819230&from=rss) - [Congress Wants AM Radio in All New Cars—Trade Groups Say That's a Mistake](https://soylentnews.org/article.pl?sid=23/05/23/1819230&from=rss)
 * [2023-05-24, 08:02:00](https://soylentnews.org/article.pl?sid=23/05/23/1813227&from=rss) - [Shutterstock Picks Up Giphy for $53 Million After UK Blocks Meta’s Acquisition](https://soylentnews.org/article.pl?sid=23/05/23/1813227&from=rss)
-* [2023-05-24, 05:16:00](https://soylentnews.org/article.pl?sid=23/05/23/187206&from=rss) - [Weird AliExpress Laptop With Intel 8088 CPU Will Take You Back to the MS-DOS Era](https://soylentnews.org/article.pl?sid=23/05/23/187206&from=rss)
 
 ## [Archives](archives/index.md)
 
