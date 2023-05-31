@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-31, 16:08:00](https://soylentnews.org/article.pl?sid=23/05/30/1741229&from=rss) - [Understanding How Couples Integrate Finances](https://soylentnews.org/article.pl?sid=23/05/30/1741229&from=rss)
 * [2023-05-31, 13:23:00](https://soylentnews.org/article.pl?sid=23/05/30/1734256&from=rss) - [Nvidia is Now a $1 Trillion Company Thanks to the AI Boom](https://soylentnews.org/article.pl?sid=23/05/30/1734256&from=rss)
 * [2023-05-31, 10:39:00](https://soylentnews.org/politics/article.pl?sid=23/05/30/1732228&from=rss) - [On Tech, the EU Doesn't Speak for Europe](https://soylentnews.org/politics/article.pl?sid=23/05/30/1732228&from=rss)
 * [2023-05-31, 07:53:00](https://soylentnews.org/article.pl?sid=23/05/30/1727243&from=rss) - [Mars Helicopter Went Silent for Six Sols, Risked Rover](https://soylentnews.org/article.pl?sid=23/05/30/1727243&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-25, 17:10:00](https://soylentnews.org/article.pl?sid=23/05/24/1852239&from=rss) - [This Is Why I Teach My Law Students How to Hack](https://soylentnews.org/article.pl?sid=23/05/24/1852239&from=rss)
 * [2023-05-25, 14:26:00](https://soylentnews.org/article.pl?sid=23/05/24/1846234&from=rss) - [Raspberry Pi Helps Research Team Monitor Glaciers in Peru](https://soylentnews.org/article.pl?sid=23/05/24/1846234&from=rss)
 * [2023-05-25, 11:42:00](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss) - [Failed Antibiotic Could be a Game-changing Weed Killer for Farmers](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss)
-* [2023-05-25, 08:54:00](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss) - [Memristors Were Going to Replace RAM and SSDs. What Happened?](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss)
 
 ## [Archives](archives/index.md)
 
