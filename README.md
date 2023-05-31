@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-31, 05:05:00](https://soylentnews.org/article.pl?sid=23/05/30/0438219&from=rss) - [Researchers Discover Brute-Force Attack that can Bypass Android Phone Fingerprint Locks](https://soylentnews.org/article.pl?sid=23/05/30/0438219&from=rss)
 * [2023-05-31, 02:24:00](https://soylentnews.org/article.pl?sid=23/05/30/0432221&from=rss) - [M.U.L.E. 40th Anniversary Special Posted on 2023/05/23 by Goethe](https://soylentnews.org/article.pl?sid=23/05/30/0432221&from=rss)
 * [2023-05-30, 23:37:00](https://soylentnews.org/article.pl?sid=23/05/29/1858233&from=rss) - [Japan Will try to Beam Solar Power from Space by 2025](https://soylentnews.org/article.pl?sid=23/05/29/1858233&from=rss)
 * [2023-05-30, 21:52:00](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss) - [Leaked Tesla Documents Hint at Cybertruck Problems](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-25, 05:20:00](https://soylentnews.org/article.pl?sid=23/05/25/0526215&from=rss) - [RIP - Tina Turner](https://soylentnews.org/article.pl?sid=23/05/25/0526215&from=rss)
 * [2023-05-25, 03:26:00](https://soylentnews.org/article.pl?sid=23/05/24/1117230&from=rss) - [EU's Next Food Fight: Regulating Gene-Edited Crops](https://soylentnews.org/article.pl?sid=23/05/24/1117230&from=rss)
 * [2023-05-25, 00:39:00](https://soylentnews.org/article.pl?sid=23/05/24/1021200&from=rss) - [Meta Hit With Record-Breaking $1.3 Billion Fine Over Facebook Data Transfers](https://soylentnews.org/article.pl?sid=23/05/24/1021200&from=rss)
-* [2023-05-24, 21:51:00](https://soylentnews.org/article.pl?sid=23/05/23/1915241&from=rss) - [Aspiring Photographer's $3K Camera Accidentally Donated to Goodwill and Sold for $70](https://soylentnews.org/article.pl?sid=23/05/23/1915241&from=rss)
 
 ## [Archives](archives/index.md)
 
