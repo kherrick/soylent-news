@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 21:37:00](https://soylentnews.org/article.pl?sid=23/05/30/1752236&from=rss) - [CERN Spots Strange Higgs Boson Decay Behavior](https://soylentnews.org/article.pl?sid=23/05/30/1752236&from=rss)
 * [2023-05-31, 19:15:00](https://soylentnews.org/meta/article.pl?sid=23/05/31/1934210&from=rss) - [SoylentNews IRC Back Up](https://soylentnews.org/meta/article.pl?sid=23/05/31/1934210&from=rss)
 * [2023-05-31, 18:53:00](https://soylentnews.org/article.pl?sid=23/05/30/1745242&from=rss) - [Qualcomm Imagines Snapdragon Devices Sharing Workloads](https://soylentnews.org/article.pl?sid=23/05/30/1745242&from=rss)
 * [2023-05-31, 18:15:00](https://soylentnews.org/meta/article.pl?sid=23/05/31/1810201&from=rss) - [Intentionally Blank](https://soylentnews.org/meta/article.pl?sid=23/05/31/1810201&from=rss)
