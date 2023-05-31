@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-05-31, 10:39:00](https://soylentnews.org/politics/article.pl?sid=23/05/30/1732228&from=rss) - [On Tech, the EU Doesn't Speak for Europe](https://soylentnews.org/politics/article.pl?sid=23/05/30/1732228&from=rss)
 * [2023-05-31, 07:53:00](https://soylentnews.org/article.pl?sid=23/05/30/1727243&from=rss) - [Mars Helicopter Went Silent for Six Sols, Risked Rover](https://soylentnews.org/article.pl?sid=23/05/30/1727243&from=rss)
 * [2023-05-31, 07:25:00](https://soylentnews.org/meta/article.pl?sid=23/05/31/0724216&from=rss) - [Difficulties - to Put It Mildly](https://soylentnews.org/meta/article.pl?sid=23/05/31/0724216&from=rss)
 * [2023-05-31, 05:05:00](https://soylentnews.org/article.pl?sid=23/05/30/0438219&from=rss) - [Researchers Discover Brute-Force Attack that can Bypass Android Phone Fingerprint Locks](https://soylentnews.org/article.pl?sid=23/05/30/0438219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-25, 11:42:00](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss) - [Failed Antibiotic Could be a Game-changing Weed Killer for Farmers](https://soylentnews.org/article.pl?sid=23/05/24/1844233&from=rss)
 * [2023-05-25, 08:54:00](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss) - [Memristors Were Going to Replace RAM and SSDs. What Happened?](https://soylentnews.org/article.pl?sid=23/05/24/1841214&from=rss)
 * [2023-05-25, 06:11:00](https://soylentnews.org/article.pl?sid=23/05/24/1122239&from=rss) - [Netflix’s Password Crackdown Has Started in the U.S.](https://soylentnews.org/article.pl?sid=23/05/24/1122239&from=rss)
-* [2023-05-25, 05:20:00](https://soylentnews.org/article.pl?sid=23/05/25/0526215&from=rss) - [RIP - Tina Turner](https://soylentnews.org/article.pl?sid=23/05/25/0526215&from=rss)
 
 ## [Archives](archives/index.md)
 
