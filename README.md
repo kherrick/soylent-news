@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-01, 00:25:00](https://soylentnews.org/article.pl?sid=23/05/31/1746248&from=rss) - [NZ: Airline Asks Passengers to Step on the Scale Ahead of Boarding in Weight Survey](https://soylentnews.org/article.pl?sid=23/05/31/1746248&from=rss)
 * [2023-05-31, 21:37:00](https://soylentnews.org/article.pl?sid=23/05/30/1752236&from=rss) - [CERN Spots Strange Higgs Boson Decay Behavior](https://soylentnews.org/article.pl?sid=23/05/30/1752236&from=rss)
 * [2023-05-31, 19:15:00](https://soylentnews.org/meta/article.pl?sid=23/05/31/1934210&from=rss) - [SoylentNews IRC Back Up](https://soylentnews.org/meta/article.pl?sid=23/05/31/1934210&from=rss)
 * [2023-05-31, 18:53:00](https://soylentnews.org/article.pl?sid=23/05/30/1745242&from=rss) - [Qualcomm Imagines Snapdragon Devices Sharing Workloads](https://soylentnews.org/article.pl?sid=23/05/30/1745242&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-26, 06:56:00](https://soylentnews.org/article.pl?sid=23/05/25/0448251&from=rss) - [Jupiter’s Lightning Bolts Contort the Same Way as Earth’s](https://soylentnews.org/article.pl?sid=23/05/25/0448251&from=rss)
 * [2023-05-26, 04:10:00](https://soylentnews.org/article.pl?sid=23/05/25/0441200&from=rss) - [Virgin Orbit to Cease Operations, Sell Assets of Richard Branson's Satellite Launcher](https://soylentnews.org/article.pl?sid=23/05/25/0441200&from=rss)
 * [2023-05-26, 01:23:00](https://soylentnews.org/article.pl?sid=23/05/25/0436227&from=rss) - [Early Warning Systems Send Disaster Deaths Plunging: UN](https://soylentnews.org/article.pl?sid=23/05/25/0436227&from=rss)
-* [2023-05-25, 22:41:00](https://soylentnews.org/article.pl?sid=23/05/24/190200&from=rss) - [Former Google CEO Says AI Poses an 'Existential Risk' That Puts Lives in Danger](https://soylentnews.org/article.pl?sid=23/05/24/190200&from=rss)
 
 ## [Archives](archives/index.md)
 
