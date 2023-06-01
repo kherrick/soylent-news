@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-01, 05:55:00](https://soylentnews.org/article.pl?sid=23/05/31/1759240&from=rss) - [Earth's Energy Budget is Not in Balance. Should We be Concerned?](https://soylentnews.org/article.pl?sid=23/05/31/1759240&from=rss)
 * [2023-06-01, 03:11:00](https://soylentnews.org/article.pl?sid=23/05/31/1752206&from=rss) - [US to Require All New Vehicles to Have Robust Automatic Emergency Braking](https://soylentnews.org/article.pl?sid=23/05/31/1752206&from=rss)
 * [2023-06-01, 00:25:00](https://soylentnews.org/article.pl?sid=23/05/31/1746248&from=rss) - [NZ: Airline Asks Passengers to Step on the Scale Ahead of Boarding in Weight Survey](https://soylentnews.org/article.pl?sid=23/05/31/1746248&from=rss)
 * [2023-05-31, 21:37:00](https://soylentnews.org/article.pl?sid=23/05/30/1752236&from=rss) - [CERN Spots Strange Higgs Boson Decay Behavior](https://soylentnews.org/article.pl?sid=23/05/30/1752236&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-26, 12:28:00](https://soylentnews.org/article.pl?sid=23/05/25/1755205&from=rss) - [ChatGPT-maker Warns It Might Leave EU Over Planned AI Law](https://soylentnews.org/article.pl?sid=23/05/25/1755205&from=rss)
 * [2023-05-26, 09:43:00](https://soylentnews.org/article.pl?sid=23/05/25/0457247&from=rss) - [Discover the Blood Type Mosquitoes Like Best](https://soylentnews.org/article.pl?sid=23/05/25/0457247&from=rss)
 * [2023-05-26, 06:56:00](https://soylentnews.org/article.pl?sid=23/05/25/0448251&from=rss) - [Jupiter’s Lightning Bolts Contort the Same Way as Earth’s](https://soylentnews.org/article.pl?sid=23/05/25/0448251&from=rss)
-* [2023-05-26, 04:10:00](https://soylentnews.org/article.pl?sid=23/05/25/0441200&from=rss) - [Virgin Orbit to Cease Operations, Sell Assets of Richard Branson's Satellite Launcher](https://soylentnews.org/article.pl?sid=23/05/25/0441200&from=rss)
 
 ## [Archives](archives/index.md)
 
