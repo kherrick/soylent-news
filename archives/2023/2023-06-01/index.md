@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 22:34:00](https://soylentnews.org/article.pl?sid=23/06/01/0150240&from=rss) - [AI Update - Deepfake Smiles used in Indian Protests](https://soylentnews.org/article.pl?sid=23/06/01/0150240&from=rss)
 * [2023-06-01, 19:45:00](https://soylentnews.org/article.pl?sid=23/06/01/0142200&from=rss) - [Uber Eats Set to Deploy 2,000 More Delivery Robots Into the Wild](https://soylentnews.org/article.pl?sid=23/06/01/0142200&from=rss)
 * [2023-06-01, 16:59:00](https://soylentnews.org/article.pl?sid=23/06/01/0131221&from=rss) - [Modern CPUs Have a Backstage Cast](https://soylentnews.org/article.pl?sid=23/06/01/0131221&from=rss)
 * [2023-06-01, 14:10:00](https://soylentnews.org/article.pl?sid=23/06/01/0126225&from=rss) - ['Keep It Simple Stupid'? Not If You're Asking for Help](https://soylentnews.org/article.pl?sid=23/06/01/0126225&from=rss)
