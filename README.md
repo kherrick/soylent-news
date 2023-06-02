@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-02, 12:27:00](https://soylentnews.org/article.pl?sid=23/06/01/1453230&from=rss) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://soylentnews.org/article.pl?sid=23/06/01/1453230&from=rss)
 * [2023-06-02, 09:42:00](https://soylentnews.org/article.pl?sid=23/06/01/1446209&from=rss) - ['How Do We Know What We Don't Know?': Scientists Completely Define the Process of Methylation](https://soylentnews.org/article.pl?sid=23/06/01/1446209&from=rss)
 * [2023-06-02, 06:53:00](https://soylentnews.org/article.pl?sid=23/06/01/1322211&from=rss) - [Google Nixes ‘Downloader’ App From Store After DMCA Says its Browser Can Get to Piracy Sites](https://soylentnews.org/article.pl?sid=23/06/01/1322211&from=rss)
 * [2023-06-02, 04:07:00](https://soylentnews.org/article.pl?sid=23/06/01/1259248&from=rss) - [The World is Finally Spending More on Solar Than Oil Production](https://soylentnews.org/article.pl?sid=23/06/01/1259248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-28, 01:53:00](https://soylentnews.org/article.pl?sid=23/05/26/1545255&from=rss) - [Hibernation Artificially Triggered in Potential Space Travel Breakthrough](https://soylentnews.org/article.pl?sid=23/05/26/1545255&from=rss)
 * [2023-05-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/05/26/1536208&from=rss) - [Hell Pizza Launches Buy Now, Pay Much, Much Later Payment Scheme](https://soylentnews.org/article.pl?sid=23/05/26/1536208&from=rss)
 * [2023-05-27, 16:24:00](https://soylentnews.org/article.pl?sid=23/05/26/1522245&from=rss) - [NASA Caught Private Moon Lander Crash Site on Camera](https://soylentnews.org/article.pl?sid=23/05/26/1522245&from=rss)
-* [2023-05-27, 11:43:00](https://soylentnews.org/article.pl?sid=23/05/26/1518252&from=rss) - [At High School Debates, Debate Is No Longer Allowed](https://soylentnews.org/article.pl?sid=23/05/26/1518252&from=rss)
 
 ## [Archives](archives/index.md)
 
