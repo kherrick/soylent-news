@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 23:27:00](https://soylentnews.org/article.pl?sid=23/06/02/1248251&from=rss) - [The “Death of Self-driving Cars” Has Been Greatly Exaggerated](https://soylentnews.org/article.pl?sid=23/06/02/1248251&from=rss)
 * [2023-06-02, 20:42:00](https://soylentnews.org/article.pl?sid=23/06/01/157224&from=rss) - [AI: War Crimes Evidence Erased by Social Media Platforms](https://soylentnews.org/article.pl?sid=23/06/01/157224&from=rss)
 * [2023-06-02, 17:52:00](https://soylentnews.org/article.pl?sid=23/06/01/152219&from=rss) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://soylentnews.org/article.pl?sid=23/06/01/152219&from=rss)
 * [2023-06-02, 15:11:00](https://soylentnews.org/article.pl?sid=23/06/01/1459255&from=rss) - [Linux Foundation and Friends Back RISC-V Software Ecosystem](https://soylentnews.org/article.pl?sid=23/06/01/1459255&from=rss)
