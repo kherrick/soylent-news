@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 20:42:00](https://soylentnews.org/article.pl?sid=23/06/01/157224&from=rss) - [AI: War Crimes Evidence Erased by Social Media Platforms](https://soylentnews.org/article.pl?sid=23/06/01/157224&from=rss)
 * [2023-06-02, 17:52:00](https://soylentnews.org/article.pl?sid=23/06/01/152219&from=rss) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://soylentnews.org/article.pl?sid=23/06/01/152219&from=rss)
 * [2023-06-02, 15:11:00](https://soylentnews.org/article.pl?sid=23/06/01/1459255&from=rss) - [Linux Foundation and Friends Back RISC-V Software Ecosystem](https://soylentnews.org/article.pl?sid=23/06/01/1459255&from=rss)
 * [2023-06-02, 12:27:00](https://soylentnews.org/article.pl?sid=23/06/01/1453230&from=rss) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://soylentnews.org/article.pl?sid=23/06/01/1453230&from=rss)
