@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-02, 17:52:00](https://soylentnews.org/article.pl?sid=23/06/01/152219&from=rss) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://soylentnews.org/article.pl?sid=23/06/01/152219&from=rss)
 * [2023-06-02, 15:11:00](https://soylentnews.org/article.pl?sid=23/06/01/1459255&from=rss) - [Linux Foundation and Friends Back RISC-V Software Ecosystem](https://soylentnews.org/article.pl?sid=23/06/01/1459255&from=rss)
 * [2023-06-02, 12:27:00](https://soylentnews.org/article.pl?sid=23/06/01/1453230&from=rss) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://soylentnews.org/article.pl?sid=23/06/01/1453230&from=rss)
 * [2023-06-02, 09:42:00](https://soylentnews.org/article.pl?sid=23/06/01/1446209&from=rss) - ['How Do We Know What We Don't Know?': Scientists Completely Define the Process of Methylation](https://soylentnews.org/article.pl?sid=23/06/01/1446209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-28, 11:23:00](https://soylentnews.org/article.pl?sid=23/05/27/1747220&from=rss) - [US Govt Under Fire for Promoting Sales of Spyware](https://soylentnews.org/article.pl?sid=23/05/27/1747220&from=rss)
 * [2023-05-28, 06:41:00](https://soylentnews.org/article.pl?sid=23/05/26/1556215&from=rss) - [Teens in Australia Talk About How to Fix School Sex Education](https://soylentnews.org/article.pl?sid=23/05/26/1556215&from=rss)
 * [2023-05-28, 01:53:00](https://soylentnews.org/article.pl?sid=23/05/26/1545255&from=rss) - [Hibernation Artificially Triggered in Potential Space Travel Breakthrough](https://soylentnews.org/article.pl?sid=23/05/26/1545255&from=rss)
-* [2023-05-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/05/26/1536208&from=rss) - [Hell Pizza Launches Buy Now, Pay Much, Much Later Payment Scheme](https://soylentnews.org/article.pl?sid=23/05/26/1536208&from=rss)
 
 ## [Archives](archives/index.md)
 
