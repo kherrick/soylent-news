@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-02, 09:42:00](https://soylentnews.org/article.pl?sid=23/06/01/1446209&from=rss) - ['How Do We Know What We Don't Know?': Scientists Completely Define the Process of Methylation](https://soylentnews.org/article.pl?sid=23/06/01/1446209&from=rss)
 * [2023-06-02, 06:53:00](https://soylentnews.org/article.pl?sid=23/06/01/1322211&from=rss) - [Google Nixes ‘Downloader’ App From Store After DMCA Says its Browser Can Get to Piracy Sites](https://soylentnews.org/article.pl?sid=23/06/01/1322211&from=rss)
 * [2023-06-02, 04:07:00](https://soylentnews.org/article.pl?sid=23/06/01/1259248&from=rss) - [The World is Finally Spending More on Solar Than Oil Production](https://soylentnews.org/article.pl?sid=23/06/01/1259248&from=rss)
 * [2023-06-02, 01:21:00](https://soylentnews.org/article.pl?sid=23/06/01/1248252&from=rss) - [Biodegradable Plastic in Clothing Doesn't Break Down Nearly as Quickly as Hoped](https://soylentnews.org/article.pl?sid=23/06/01/1248252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-27, 21:14:00](https://soylentnews.org/article.pl?sid=23/05/26/1536208&from=rss) - [Hell Pizza Launches Buy Now, Pay Much, Much Later Payment Scheme](https://soylentnews.org/article.pl?sid=23/05/26/1536208&from=rss)
 * [2023-05-27, 16:24:00](https://soylentnews.org/article.pl?sid=23/05/26/1522245&from=rss) - [NASA Caught Private Moon Lander Crash Site on Camera](https://soylentnews.org/article.pl?sid=23/05/26/1522245&from=rss)
 * [2023-05-27, 11:43:00](https://soylentnews.org/article.pl?sid=23/05/26/1518252&from=rss) - [At High School Debates, Debate Is No Longer Allowed](https://soylentnews.org/article.pl?sid=23/05/26/1518252&from=rss)
-* [2023-05-27, 06:59:00](https://soylentnews.org/article.pl?sid=23/05/26/022204&from=rss) - [Microsoft Launches an AI Tool to Take the Pain Out of Building Websites](https://soylentnews.org/article.pl?sid=23/05/26/022204&from=rss)
 
 ## [Archives](archives/index.md)
 
