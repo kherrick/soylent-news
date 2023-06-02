@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-02, 01:21:00](https://soylentnews.org/article.pl?sid=23/06/01/1248252&from=rss) - [Biodegradable Plastic in Clothing Doesn't Break Down Nearly as Quickly as Hoped](https://soylentnews.org/article.pl?sid=23/06/01/1248252&from=rss)
 * [2023-06-01, 22:34:00](https://soylentnews.org/article.pl?sid=23/06/01/0150240&from=rss) - [AI Update - Deepfake Smiles used in Indian Protests](https://soylentnews.org/article.pl?sid=23/06/01/0150240&from=rss)
 * [2023-06-01, 19:45:00](https://soylentnews.org/article.pl?sid=23/06/01/0142200&from=rss) - [Uber Eats Set to Deploy 2,000 More Delivery Robots Into the Wild](https://soylentnews.org/article.pl?sid=23/06/01/0142200&from=rss)
 * [2023-06-01, 16:59:00](https://soylentnews.org/article.pl?sid=23/06/01/0131221&from=rss) - [Modern CPUs Have a Backstage Cast](https://soylentnews.org/article.pl?sid=23/06/01/0131221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-27, 06:59:00](https://soylentnews.org/article.pl?sid=23/05/26/022204&from=rss) - [Microsoft Launches an AI Tool to Take the Pain Out of Building Websites](https://soylentnews.org/article.pl?sid=23/05/26/022204&from=rss)
 * [2023-05-27, 04:00:00](https://soylentnews.org/meta/article.pl?sid=23/05/26/2114210&from=rss) - [SoylentNews Shutdown Status - A Show of Faith](https://soylentnews.org/meta/article.pl?sid=23/05/26/2114210&from=rss)
 * [2023-05-27, 02:11:00](https://soylentnews.org/article.pl?sid=23/05/26/0154227&from=rss) - [Saturn's Rings May be No More Than 400 Million Years Old](https://soylentnews.org/article.pl?sid=23/05/26/0154227&from=rss)
-* [2023-05-26, 23:28:00](https://soylentnews.org/article.pl?sid=23/05/25/1820206&from=rss) - [AI is Changing How Americans Find Jobs, Get Promoted and Succeed at Work](https://soylentnews.org/article.pl?sid=23/05/25/1820206&from=rss)
 
 ## [Archives](archives/index.md)
 
