@@ -145,6 +145,249 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/06/02/1454214">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/06/02/1454214&amp;from=rss"
+              >What are Chiplets and Why They are So Important for the Future of
+              Processors</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-06-03 @ 18:23:00</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/06/02/1454214"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    [...] Unfortunately, while logic circuits continue to shrink
+                    with every major step forward in process node technology,
+                    analog circuits have barely changed and SRAM is starting to
+                    reach a limit too.
+                  </p>
+                  <p>
+                    While logic still forms the largest portion of the die, the
+                    amount of SRAM in today's CPUs and GPUs has significantly
+                    grown in recent years. For example, AMD's Vega 20 chip used
+                    in its
+                    <a
+                      href="https://www.techspot.com/review/1789-amd-radeon-vii/"
+                      >Radeon VII</a
+                    >
+                    graphics card has a combined total of 5 MB of L1 and L2
+                    cache. Just two GPU generations later, the
+                    <a
+                      href="https://www.techspot.com/article/2151-nvidia-ampere-vs-amd-rdna2/"
+                      >Navi 21</a
+                    >
+                    has over 130 MB of assorted cache – a remarkable 25 times
+                    more than Vega 20.
+                  </p>
+                  <p>
+                    We can expect these levels to continue to increase as new
+                    generations of processors are developed, but with memory not
+                    scaling down as well as the logic, it will become
+                    increasingly less cost-effective to manufacture all of the
+                    circuitry on the same process node.
+                  </p>
+                  <p>
+                    In an ideal world, one would design a die where analog
+                    sections are fabricated on the largest and cheapest node,
+                    SRAM parts on a much smaller one, and logic reserved for the
+                    absolute cutting-edge technology. Unfortunately, this is not
+                    practically achievable. However, there exists an alternative
+                    approach.
+                  </p>
+                  <p>
+                    Back in 1995, Intel launched a successor to its original P5
+                    processor, the Pentium II. What set it apart from the usual
+                    fare at that time, was that beneath the plastic shield sat a
+                    circuit board housing two chips: the main chip, containing
+                    all the processing logic and analog systems, and one or two
+                    separate SRAM modules serving as Level 2 cache.
+                  </p>
+                  <p>
+                    Intel manufactured the primary chip, but the cache was
+                    sourced from other firms. This would become fairly standard
+                    for desktop PCs in the mid-to-late 1990s, until
+                    semiconductor fabrication techniques improved to the point
+                    where logic, memory, and analog could all be integrated into
+                    the same die.
+                  </p>
+                  <p>
+                    While Intel continued to dabble with multiple chips in the
+                    same package, it largely stuck with the so-called
+                    <em>monolithic</em> approach for processors – i.e., one chip
+                    for everything. For most processors, there was no need for
+                    more than one die, as manufacturing techniques were
+                    proficient (and affordable) enough to keep it
+                    straightforward.
+                  </p>
+                  <p>
+                    [...] For a technology vendor, using heterogeneous
+                    integration for a niche product is one thing, but employing
+                    it for the majority of their portfolio is another. This is
+                    precisely what AMD did with its range of processors. In
+                    2017, the semiconductor giant
+                    <a
+                      href="https://www.techspot.com/review/1345-amd-ryzen-7-1800x-1700x/"
+                      >released its Zen architecture</a
+                    >
+                    in the form of the single-die Ryzen desktop CPU. Several
+                    months later, two multi-chip product lines, Threadripper and
+                    EPYC, debuted, with the latter boasting up to four dies.
+                  </p>
+                  <p>
+                    With the launch of Zen 2 two years later, AMD fully embraced
+                    HI, MCM, SiP – call it what you will. They shifted the
+                    majority of the analog systems out of the processor and
+                    placed them into a separate die. These were manufactured on
+                    a simpler, cheaper process node, while a more advanced one
+                    was used for the remaining logic and cache.
+                  </p>
+                  <p>
+                    And so, <em>chiplets</em> became the buzzword of choice.
+                  </p>
+                  <p>
+                    [...] But if this design choice is so advantageous, why
+                    isn't Intel doing it? Why aren't we seeing it being used in
+                    other processors, like GPUs?
+                  </p>
+                  <p>
+                    To address the first question, Intel is indeed adopting the
+                    full chiplet route, and it's on track to do so with its next
+                    consumer CPU architecture, called
+                    <a
+                      href="https://www.techspot.com/news/95724-intel-wants-achieve-1-trillion-transistors-package-2030.html"
+                      >Meteor Lake</a
+                    >. Naturally, Intel's approach is somewhat unique, so let's
+                    explore how it differs from AMD's approach.
+                  </p>
+                  <p>
+                    Using the term <em>tiles</em> instead of chiplets, this
+                    generation of processors will split the previously
+                    monolithic design into four separate chips:
+                  </p>
+                  <p>
+                    High-speed, low-latency connections are present between the
+                    SOC and the other three tiles, and all of them are connected
+                    to another die, known as an <em>interposer</em>. This
+                    interposer delivers power to each chip and contains the
+                    traces between them. The interposer and four tiles are then
+                    mounted onto an additional board to allow the whole assembly
+                    to be packaged.
+                  </p>
+                  <p>
+                    Unlike Intel, AMD does not use any special mounting die but
+                    has its own unique connection system, known as
+                    <a
+                      href="https://www.amd.com/en/technologies/infinity-architecture"
+                      >Infinity Fabric</a
+                    >, to handle chiplet data transactions. Power delivery runs
+                    through a fairly standard package, and AMD also uses fewer
+                    chiplets. So why is Intel's design as such?
+                  </p>
+                  <p>
+                    One challenge with AMD's approach is that it's not very
+                    suitable for the ultra-mobile, low-power sector. This is why
+                    AMD still uses monolithic CPUs for that segment. Intel's
+                    design allows them to mix and match different tiles to fit a
+                    specific need. For example, budget models for affordable
+                    laptops can use much smaller tiles everywhere, while AMD
+                    only has one size chiplet for each purpose.
+                  </p>
+                  <p>
+                    The downside to Intel's system is that it's complex and
+                    expensive to produce, although it's too early to predict how
+                    this will affect retail prices. Both CPU firms, however, are
+                    fully committed to the chiplet concept. Once every part of
+                    the manufacturing chain is engineered around it, costs
+                    should decrease.
+                  </p>
+                  <p>
+                    [...] To continue enhancing chip performance, engineers
+                    essentially have two avenues – add more logic, with the
+                    necessary memory to support it, and increase internal clock
+                    speeds. Regarding the latter, the average CPU hasn't
+                    significantly altered in this aspect for years.
+                    <a
+                      href="https://www.techspot.com/news/52862-amd-first-to-reach-5ghz-with-fx-9590-processor.html"
+                      >AMD's FX-9590</a
+                    >
+                    processor, from 2013, could reach 5 GHz in certain
+                    workloads, while the highest clock speed in its current
+                    models is 5.7 GHz (with the
+                    <a
+                      href="https://www.techspot.com/review/2535-amd-ryzen-7950x/"
+                      >Ryzen 9 7950X</a
+                    >).
+                  </p>
+                  <p>
+                    Intel recently launched the
+                    <a
+                      href="https://www.techspot.com/review/2607-intel-core-i9-13900ks/"
+                      >Core i9-13900KS</a
+                    >, capable of reaching 6 GHz under the right conditions, but
+                    most of its models have clock speeds similar to AMD's.
+                  </p>
+                  <p>
+                    However, what <em>has</em> changed is the amount of
+                    circuitry and SRAM. The aforementioned FX-9590 had 8 cores
+                    (and 8 threads) and 8 MB of L3 cache, whereas the 7950X3D
+                    boasts 16 cores, 32 threads, and 128 MB of L3 cache. Intel's
+                    CPUs have similarly expanded in terms of cores and SRAM.
+                  </p>
+                  <p>
+                    Nvidia's first unified shader GPU,
+                    <a
+                      href="https://www.techspot.com/review/32-msi-geforce-8800gtx/"
+                      >the G80</a
+                    >
+                    from 2006, consisted of 681 million transistors, 128 cores,
+                    and 96 kB of L2 cache in a chip measuring 484 mm2 in area.
+                    Fast forward to 2022, when
+                    <a
+                      href="https://www.techspot.com/article/2570-gpu-architectures-nvidia-intel-amd/"
+                      >the AD102</a
+                    >
+                    was launched, and it now comprises 76.3 billion transistors,
+                    18,432 cores, and 98,304 kB of L2 cache within 608 mm2 of
+                    die area.
+                  </p>
+                  <p>
+                    [...] Decades in the future, the average PC might be home to
+                    CPUs and GPUs the size of your hand, but peel off the heat
+                    spreader and you'll find a host of tiny chips – not three or
+                    four, but dozens of them, all ingeniously tiled and stacked
+                    together.
+                  </p>
+                  <p>The dominance of the chiplet has only just begun.</p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59858"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/06/02/154218">
           <h3>
             <a
@@ -158,7 +401,7 @@
             <h4>
               <span>2023-06-03 @ 13:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">274</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/02/154218"
@@ -277,7 +520,7 @@
             <h4>
               <span>2023-06-03 @ 08:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">425</span></span
+                >Points: <span class="points">433</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/02/1441256"
@@ -394,7 +637,7 @@
             <h4>
               <span>2023-06-03 @ 04:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">606</span></span
+                >Points: <span class="points">616</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/02/1250224"
@@ -464,7 +707,7 @@
             <h4>
               <span>2023-06-02 @ 23:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">603</span></span
+                >Points: <span class="points">609</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/02/1248251"
@@ -598,7 +841,7 @@
             <h4>
               <span>2023-06-02 @ 20:42:00</span
               ><span class="points-container"
-                >Points: <span class="points">787</span></span
+                >Points: <span class="points">791</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/01/157224"
@@ -697,7 +940,7 @@
             <h4>
               <span>2023-06-02 @ 17:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">658</span></span
+                >Points: <span class="points">663</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/01/152219"
@@ -783,7 +1026,7 @@
             <h4>
               <span>2023-06-02 @ 15:11:00</span
               ><span class="points-container"
-                >Points: <span class="points">656</span></span
+                >Points: <span class="points">657</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/01/1459255"
@@ -863,7 +1106,7 @@
             <h4>
               <span>2023-06-02 @ 12:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">871</span></span
+                >Points: <span class="points">872</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/01/1453230"
@@ -1047,7 +1290,7 @@
             <h4>
               <span>2023-06-02 @ 06:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">782</span></span
+                >Points: <span class="points">783</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/01/1322211"
@@ -1180,7 +1423,7 @@
             <h4>
               <span>2023-06-02 @ 01:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">543</span></span
+                >Points: <span class="points">544</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/01/1248252"
@@ -1426,7 +1669,7 @@
             <h4>
               <span>2023-06-01 @ 16:59:00</span
               ><span class="points-container"
-                >Points: <span class="points">937</span></span
+                >Points: <span class="points">938</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/01/0131221"
@@ -1768,7 +2011,7 @@
             <h4>
               <span>2023-06-01 @ 05:55:00</span
               ><span class="points-container"
-                >Points: <span class="points">1093</span></span
+                >Points: <span class="points">1095</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/31/1759240"
@@ -2209,7 +2452,7 @@
             <h4>
               <span>2023-05-31 @ 18:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">1378</span></span
+                >Points: <span class="points">1384</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/31/1810201"
@@ -2698,7 +2941,7 @@
             <h4>
               <span>2023-05-31 @ 05:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">509</span></span
+                >Points: <span class="points">510</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/05/30/0438219"
@@ -4260,154 +4503,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59738"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/05/27/1914254">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/05/27/1914254&amp;from=rss"
-              >The Dangers of a Superintelligent AI is Fiction</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-29 @ 01:42:00</span
-              ><span class="points-container"
-                >Points: <span class="points">814</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/05/27/1914254"
-                  >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~fliptop/">fliptop</a> writes:</p>
-              <p>
-                Speaking of the existential threat of AI is science fiction, and
-                bad science fiction for that matter because it is not based on
-                anything we know about science, logic, and
-                <a
-                  href="https://cacm.acm.org/blogs/blog-cacm/273207-how-did-scientists-succumb-to-aunt-edna-the-dangers-of-a-superintelligent-ai-is-fiction/fulltext"
-                  >nothing that we even know about ourselves</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Despite their apparent success, LLMs are not (really)
-                    'models of language' but are statistical models of the
-                    regularities found in linguistic communication. Models and
-                    theories should explain a phenomenon (e.g., F = ma) but LLMs
-                    are not explainable because explainability requires
-                    structured semantics and reversible compositionality that
-                    these models do not admit (see
-                    <a
-                      href="https://cacm.acm.org/blogs/blog-cacm/264604-new-research-vindicates-fodor-and-pylyshyn-no-explainable-ai-without-structured-semantics/fulltext"
-                      >Saba, 2023</a
-                    >
-                    for more details). In fact, and due to the subsymbolic
-                    nature of LLMs, whatever 'knowledge' these models acquire
-                    about language will always be buried in billions of
-                    microfeatures (weights), none of which is meaningful on its
-                    own. In addition to the lack of explainability, LLMs will
-                    always generate biased and toxic language since they are
-                    susceptible to the biases and toxicity in their training
-                    data (<a
-                      href="https://dl.acm.org/doi/10.1145/3442188.3445922"
-                      >Bender et. al., 2021</a
-                    >). Moreover, and due to their statistical nature, these
-                    systems will never be trusted to decide on the
-                    "truthfulness" of the content they generate (<a
-                      href="https://arxiv.org/abs/2302.03494"
-                      >Borji, 2023</a
-                    >) – LLMs ingest text and they cannot decide which fragments
-                    of text are true and which are not. Note that none of these
-                    problematic issues are a function of scale but are
-                    paradigmatic issues that are a byproduct of the architecture
-                    of deep neural networks (DNNs) and their training
-                    procedures. Finally, and contrary to some misguided
-                    narrative, these LLMs do not have human-level understanding
-                    of language (for lack of space we do not discuss here the
-                    limitations of LLMs regarding their linguistic competence,
-                    but see
-                    <a
-                      href="https://medium.com/ontologik/a-serious-chat-with-chatgpt-99e7de8d68c2"
-                      >this</a
-                    >
-                    for some examples of problems related to intentionality and
-                    commonsense reasoning that these models will always have
-                    problems with). Our focus here is on the now popular theme
-                    of how dangerous these systems are to humanity.
-                  </p>
-                </div>
-              </blockquote>
-              <p>
-                The article goes on to provide a statistical argument as to why
-                we are many, many years away from AI being an existential
-                threat, ending with:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    So enjoy the news about "the potential danger of AI". But
-                    watch and read this news like you're watching a really funny
-                    sitcom. Make a nice drink (or a nice cup of tea), listen and
-                    smile. And then please, sleep well, because all is OK, no
-                    matter what some self-appointed god fathers say. They might
-                    know about LLMs, but they apparently never heard of BDIs.
-                  </p>
-                </div>
-              </blockquote>
-              <p>
-                The author's conclusion seems to be that although AI may pose a
-                threat to certain professions, it doesn't endanger the existence
-                of humanity.
-              </p>
-              <p><b>Related:</b></p>
-              <ul>
-                <li>
-                  <a
-                    href="https://soylentnews.org/article.pl?sid=23/05/24/190200"
-                    >Former Google CEO Says AI Poses an 'Existential Risk' That
-                    Puts Lives in Danger</a
-                  >
-                </li>
-                <li>
-                  <a
-                    href="https://soylentnews.org/article.pl?sid=23/04/15/136215"
-                    >Writers and Publishers Face an Existential Threat From AI:
-                    Time to Embrace the True Fans Model</a
-                  >
-                </li>
-                <li>
-                  <a
-                    href="https://soylentnews.org/article.pl?sid=23/03/29/1155211"
-                    >Artificial Intelligence 'Godfather' on AI Possibly Wiping
-                    Out Humanity: 'It's Not Inconceivable'</a
-                  >
-                </li>
-                <li>
-                  <a
-                    href="https://soylentnews.org/article.pl?sid=23/02/10/0433205"
-                    >Erasing Authors, Google and Bing's AI Bots Endanger Open
-                    Web</a
-                  >
-                </li>
-              </ul>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=59779"
                     >Original Submission</a
                   ></small
                 >
