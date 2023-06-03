@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-03, 04:09:00](https://soylentnews.org/article.pl?sid=23/06/02/1250224&from=rss) - [US Military AI Drone Killed its Operator During Simulation - or Didn't](https://soylentnews.org/article.pl?sid=23/06/02/1250224&from=rss)
 * [2023-06-02, 23:27:00](https://soylentnews.org/article.pl?sid=23/06/02/1248251&from=rss) - [The “Death of Self-driving Cars” Has Been Greatly Exaggerated](https://soylentnews.org/article.pl?sid=23/06/02/1248251&from=rss)
 * [2023-06-02, 20:42:00](https://soylentnews.org/article.pl?sid=23/06/01/157224&from=rss) - [AI: War Crimes Evidence Erased by Social Media Platforms](https://soylentnews.org/article.pl?sid=23/06/01/157224&from=rss)
 * [2023-06-02, 17:52:00](https://soylentnews.org/article.pl?sid=23/06/01/152219&from=rss) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://soylentnews.org/article.pl?sid=23/06/01/152219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-29, 01:42:00](https://soylentnews.org/article.pl?sid=23/05/27/1914254&from=rss) - [The Dangers of a Superintelligent AI is Fiction](https://soylentnews.org/article.pl?sid=23/05/27/1914254&from=rss)
 * [2023-05-28, 20:56:00](https://soylentnews.org/article.pl?sid=23/05/27/1758232&from=rss) - [Since When Did My SSD Need Water Cooling?](https://soylentnews.org/article.pl?sid=23/05/27/1758232&from=rss)
 * [2023-05-28, 16:10:00](https://soylentnews.org/article.pl?sid=23/05/27/1752206&from=rss) - [NASA's Mega Moon Rocket is $6 Billion Over Budget, Claims Scathing New Report](https://soylentnews.org/article.pl?sid=23/05/27/1752206&from=rss)
-* [2023-05-28, 11:23:00](https://soylentnews.org/article.pl?sid=23/05/27/1747220&from=rss) - [US Govt Under Fire for Promoting Sales of Spyware](https://soylentnews.org/article.pl?sid=23/05/27/1747220&from=rss)
 
 ## [Archives](archives/index.md)
 
