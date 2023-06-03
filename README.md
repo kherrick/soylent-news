@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-03, 13:36:00](https://soylentnews.org/article.pl?sid=23/06/02/154218&from=rss) - [Boeing Starliner's First Crewed ISS Flight Delayed Due to Technical Issues](https://soylentnews.org/article.pl?sid=23/06/02/154218&from=rss)
 * [2023-06-03, 08:54:00](https://soylentnews.org/article.pl?sid=23/06/02/1441256&from=rss) - [Arizona Limits Building as Groundwater Dries Up](https://soylentnews.org/article.pl?sid=23/06/02/1441256&from=rss)
 * [2023-06-03, 04:09:00](https://soylentnews.org/article.pl?sid=23/06/02/1250224&from=rss) - [US Military AI Drone Killed its Operator During Simulation - or Didn't](https://soylentnews.org/article.pl?sid=23/06/02/1250224&from=rss)
 * [2023-06-02, 23:27:00](https://soylentnews.org/article.pl?sid=23/06/02/1248251&from=rss) - [The “Death of Self-driving Cars” Has Been Greatly Exaggerated](https://soylentnews.org/article.pl?sid=23/06/02/1248251&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-29, 07:21:00](https://soylentnews.org/article.pl?sid=23/05/28/0954209&from=rss) - [Phishing Domains Tanked After Meta Sued Freenom](https://soylentnews.org/article.pl?sid=23/05/28/0954209&from=rss)
 * [2023-05-29, 04:33:00](https://soylentnews.org/article.pl?sid=23/05/28/0945253&from=rss) - [The Strange Story of the Teens Behind the Mirai Botnet](https://soylentnews.org/article.pl?sid=23/05/28/0945253&from=rss)
 * [2023-05-29, 01:42:00](https://soylentnews.org/article.pl?sid=23/05/27/1914254&from=rss) - [The Dangers of a Superintelligent AI is Fiction](https://soylentnews.org/article.pl?sid=23/05/27/1914254&from=rss)
-* [2023-05-28, 20:56:00](https://soylentnews.org/article.pl?sid=23/05/27/1758232&from=rss) - [Since When Did My SSD Need Water Cooling?](https://soylentnews.org/article.pl?sid=23/05/27/1758232&from=rss)
 
 ## [Archives](archives/index.md)
 
