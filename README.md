@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-04, 13:12:00](https://soylentnews.org/article.pl?sid=23/06/04/0113214&from=rss) - [NASA Experts Looked at UFO Sightings, Found Little](https://soylentnews.org/article.pl?sid=23/06/04/0113214&from=rss)
 * [2023-06-04, 08:29:00](https://soylentnews.org/article.pl?sid=23/06/03/1412254&from=rss) - [Ukraine War Blurs Lines Between Cyber-Crims and State Hacks](https://soylentnews.org/article.pl?sid=23/06/03/1412254&from=rss)
 * [2023-06-04, 03:52:00](https://soylentnews.org/article.pl?sid=23/06/03/146258&from=rss) - [The Hat Came Back, No Mirror Required](https://soylentnews.org/article.pl?sid=23/06/03/146258&from=rss)
 * [2023-06-03, 23:12:00](https://soylentnews.org/article.pl?sid=23/06/02/1510231&from=rss) - [Space Tractor Beams May Not be the Stuff of Sci-Fi for Long](https://soylentnews.org/article.pl?sid=23/06/02/1510231&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-29, 20:49:00](https://soylentnews.org/article.pl?sid=23/05/28/1143221&from=rss) - [Coastal Ecosystems Can Take Up or Emit Greenhouse Gases. but Globally, They're a Vital Sink](https://soylentnews.org/article.pl?sid=23/05/28/1143221&from=rss)
 * [2023-05-29, 18:06:00](https://soylentnews.org/article.pl?sid=23/05/28/1137208&from=rss) - [Researchers Uncover Russia-linked Malware That Could Immobilize Electric Grids](https://soylentnews.org/article.pl?sid=23/05/28/1137208&from=rss)
 * [2023-05-29, 15:25:00](https://soylentnews.org/article.pl?sid=23/05/28/1134208&from=rss) - [Microsoft’s Azure Linux Distro is Now Generally Available](https://soylentnews.org/article.pl?sid=23/05/28/1134208&from=rss)
-* [2023-05-29, 12:47:00](https://soylentnews.org/article.pl?sid=23/05/28/1128217&from=rss) - [TSMC: We Have Working CFET Transistors in the Lab, but They Are Generations Away](https://soylentnews.org/article.pl?sid=23/05/28/1128217&from=rss)
 
 ## [Archives](archives/index.md)
 
