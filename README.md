@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-05, 18:03:00](https://soylentnews.org/article.pl?sid=23/06/04/2155253&from=rss) - [Comet C/2023 A3 Could be the Next Great Comet](https://soylentnews.org/article.pl?sid=23/06/04/2155253&from=rss)
 * [2023-06-05, 15:16:00](https://soylentnews.org/article.pl?sid=23/06/04/1457242&from=rss) - [Woodpecker Helps Managers Promote New Life in Burned Forests](https://soylentnews.org/article.pl?sid=23/06/04/1457242&from=rss)
 * [2023-06-05, 13:00:00](https://soylentnews.org/meta/article.pl?sid=23/06/04/226212&from=rss) - [SoylentNews PBC Will Formally Continue Operations + Site Overhaul Status](https://soylentnews.org/meta/article.pl?sid=23/06/04/226212&from=rss)
 * [2023-06-05, 12:31:00](https://soylentnews.org/article.pl?sid=23/06/04/1455241&from=rss) - [A Few Amazon Workers Protest the Return to Office Mandates and Company's Climate Impact](https://soylentnews.org/article.pl?sid=23/06/04/1455241&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-30, 23:37:00](https://soylentnews.org/article.pl?sid=23/05/29/1858233&from=rss) - [Japan Will try to Beam Solar Power from Space by 2025](https://soylentnews.org/article.pl?sid=23/05/29/1858233&from=rss)
 * [2023-05-30, 21:52:00](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss) - [Leaked Tesla Documents Hint at Cybertruck Problems](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss)
 * [2023-05-30, 18:53:00](https://soylentnews.org/article.pl?sid=23/05/29/1846226&from=rss) - [Multinational Man Hunt Underway for a 'Living Off the Land' Hacker Named Volt Typhoon](https://soylentnews.org/article.pl?sid=23/05/29/1846226&from=rss)
-* [2023-05-30, 16:04:00](https://soylentnews.org/article.pl?sid=23/05/29/1841233&from=rss) - [MediaTek Says its Snapdragon 8 Gen 3 Rival will be a Beast](https://soylentnews.org/article.pl?sid=23/05/29/1841233&from=rss)
 
 ## [Archives](archives/index.md)
 
