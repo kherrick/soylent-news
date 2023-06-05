@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-05, 01:31:00](https://soylentnews.org/article.pl?sid=23/06/04/0227249&from=rss) - [Cunningly Camouflaged Cable Routed Around WAN Budget](https://soylentnews.org/article.pl?sid=23/06/04/0227249&from=rss)
 * [2023-06-04, 22:44:00](https://soylentnews.org/article.pl?sid=23/06/04/0218247&from=rss) - [JWST Scans an Ultra-Hot Jupiter's Atmosphere](https://soylentnews.org/article.pl?sid=23/06/04/0218247&from=rss)
 * [2023-06-04, 17:58:00](https://soylentnews.org/article.pl?sid=23/06/04/0150255&from=rss) - [Woman Walking on California Beach Finds Ancient Mastodon Tooth](https://soylentnews.org/article.pl?sid=23/06/04/0150255&from=rss)
 * [2023-06-04, 13:12:00](https://soylentnews.org/article.pl?sid=23/06/04/0113214&from=rss) - [NASA Experts Looked at UFO Sightings, Found Little](https://soylentnews.org/article.pl?sid=23/06/04/0113214&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-30, 05:07:00](https://soylentnews.org/article.pl?sid=23/05/29/1610217&from=rss) - [Intel to Add AI Engine to All 14th-gen Meteor Lake SoCs](https://soylentnews.org/article.pl?sid=23/05/29/1610217&from=rss)
 * [2023-05-30, 02:21:00](https://soylentnews.org/article.pl?sid=23/05/29/163219&from=rss) - [China Plans to Land Astronauts on Moon Before 2030, Expand Space Station, Bring on Foreign Partners](https://soylentnews.org/article.pl?sid=23/05/29/163219&from=rss)
 * [2023-05-29, 23:32:00](https://soylentnews.org/article.pl?sid=23/05/28/126227&from=rss) - [US Police are Selling Seized Phones with Personal Data still on them](https://soylentnews.org/article.pl?sid=23/05/28/126227&from=rss)
-* [2023-05-29, 20:49:00](https://soylentnews.org/article.pl?sid=23/05/28/1143221&from=rss) - [Coastal Ecosystems Can Take Up or Emit Greenhouse Gases. but Globally, They're a Vital Sink](https://soylentnews.org/article.pl?sid=23/05/28/1143221&from=rss)
 
 ## [Archives](archives/index.md)
 
