@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-05, 23:01:00](https://soylentnews.org/article.pl?sid=23/06/05/0043248&from=rss) - [Measurements of a Radioactive Decay Nudge a Nuclear Clock Closer to Reality](https://soylentnews.org/article.pl?sid=23/06/05/0043248&from=rss)
 * [2023-06-05, 20:19:00](https://soylentnews.org/article.pl?sid=23/06/04/220218&from=rss) - [Raspberry Pi Keeps Re-Enactment Photography Authentic](https://soylentnews.org/article.pl?sid=23/06/04/220218&from=rss)
 * [2023-06-05, 18:03:00](https://soylentnews.org/article.pl?sid=23/06/04/2155253&from=rss) - [Comet C/2023 A3 Could be the Next Great Comet](https://soylentnews.org/article.pl?sid=23/06/04/2155253&from=rss)
 * [2023-06-05, 15:16:00](https://soylentnews.org/article.pl?sid=23/06/04/1457242&from=rss) - [Woodpecker Helps Managers Promote New Life in Burned Forests](https://soylentnews.org/article.pl?sid=23/06/04/1457242&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-31, 05:05:00](https://soylentnews.org/article.pl?sid=23/05/30/0438219&from=rss) - [Researchers Discover Brute-Force Attack that can Bypass Android Phone Fingerprint Locks](https://soylentnews.org/article.pl?sid=23/05/30/0438219&from=rss)
 * [2023-05-31, 02:24:00](https://soylentnews.org/article.pl?sid=23/05/30/0432221&from=rss) - [M.U.L.E. 40th Anniversary Special Posted on 2023/05/23 by Goethe](https://soylentnews.org/article.pl?sid=23/05/30/0432221&from=rss)
 * [2023-05-30, 23:37:00](https://soylentnews.org/article.pl?sid=23/05/29/1858233&from=rss) - [Japan Will try to Beam Solar Power from Space by 2025](https://soylentnews.org/article.pl?sid=23/05/29/1858233&from=rss)
-* [2023-05-30, 21:52:00](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss) - [Leaked Tesla Documents Hint at Cybertruck Problems](https://soylentnews.org/article.pl?sid=23/05/29/1855220&from=rss)
 
 ## [Archives](archives/index.md)
 
