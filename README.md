@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-05, 07:03:00](https://soylentnews.org/article.pl?sid=23/06/04/1444212&from=rss) - [Can ET Detect Us?](https://soylentnews.org/article.pl?sid=23/06/04/1444212&from=rss)
 * [2023-06-05, 04:15:00](https://soylentnews.org/article.pl?sid=23/06/04/1443209&from=rss) - [Apple II Desktop 1.3 Alpha 7 Released – Looking Good for 46 Years!](https://soylentnews.org/article.pl?sid=23/06/04/1443209&from=rss)
 * [2023-06-05, 01:31:00](https://soylentnews.org/article.pl?sid=23/06/04/0227249&from=rss) - [Cunningly Camouflaged Cable Routed Around WAN Budget](https://soylentnews.org/article.pl?sid=23/06/04/0227249&from=rss)
 * [2023-06-04, 22:44:00](https://soylentnews.org/article.pl?sid=23/06/04/0218247&from=rss) - [JWST Scans an Ultra-Hot Jupiter's Atmosphere](https://soylentnews.org/article.pl?sid=23/06/04/0218247&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-30, 10:31:00](https://soylentnews.org/article.pl?sid=23/05/29/1833212&from=rss) - [Mozilla Apologizes for Unskippable VPN Ads Shown in Firefox](https://soylentnews.org/article.pl?sid=23/05/29/1833212&from=rss)
 * [2023-05-30, 07:51:00](https://soylentnews.org/article.pl?sid=23/05/29/1616234&from=rss) - [Significant Presence of Cesium-Rich Microparticles in an Abandoned School Near Fukushima Nuke Site](https://soylentnews.org/article.pl?sid=23/05/29/1616234&from=rss)
 * [2023-05-30, 05:07:00](https://soylentnews.org/article.pl?sid=23/05/29/1610217&from=rss) - [Intel to Add AI Engine to All 14th-gen Meteor Lake SoCs](https://soylentnews.org/article.pl?sid=23/05/29/1610217&from=rss)
-* [2023-05-30, 02:21:00](https://soylentnews.org/article.pl?sid=23/05/29/163219&from=rss) - [China Plans to Land Astronauts on Moon Before 2030, Expand Space Station, Bring on Foreign Partners](https://soylentnews.org/article.pl?sid=23/05/29/163219&from=rss)
 
 ## [Archives](archives/index.md)
 
