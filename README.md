@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-06, 12:09:00](https://soylentnews.org/article.pl?sid=23/06/06/0121205&from=rss) - [Apple Reveals Augmented-Reality Headset Vision Pro](https://soylentnews.org/article.pl?sid=23/06/06/0121205&from=rss)
 * [2023-06-06, 07:19:00](https://soylentnews.org/article.pl?sid=23/06/05/1959227&from=rss) - [Inhaled Ethanol May Treat Respiratory Infections and Stop Pandemics](https://soylentnews.org/article.pl?sid=23/06/05/1959227&from=rss)
 * [2023-06-06, 04:33:00](https://soylentnews.org/article.pl?sid=23/06/05/1334258&from=rss) - [How a Friendship is Changing Lives for Thousands of Blind People](https://soylentnews.org/article.pl?sid=23/06/05/1334258&from=rss)
 * [2023-06-06, 01:47:00](https://soylentnews.org/article.pl?sid=23/06/05/0229225&from=rss) - [TeamGroup Goes Big on SSD Cooling, Demos 120mm AIO Liquid Cooler for M.2 Drives](https://soylentnews.org/article.pl?sid=23/06/05/0229225&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-31, 13:23:00](https://soylentnews.org/article.pl?sid=23/05/30/1734256&from=rss) - [Nvidia is Now a $1 Trillion Company Thanks to the AI Boom](https://soylentnews.org/article.pl?sid=23/05/30/1734256&from=rss)
 * [2023-05-31, 10:39:00](https://soylentnews.org/politics/article.pl?sid=23/05/30/1732228&from=rss) - [On Tech, the EU Doesn't Speak for Europe](https://soylentnews.org/politics/article.pl?sid=23/05/30/1732228&from=rss)
 * [2023-05-31, 07:53:00](https://soylentnews.org/article.pl?sid=23/05/30/1727243&from=rss) - [Mars Helicopter Went Silent for Six Sols, Risked Rover](https://soylentnews.org/article.pl?sid=23/05/30/1727243&from=rss)
-* [2023-05-31, 07:25:00](https://soylentnews.org/meta/article.pl?sid=23/05/31/0724216&from=rss) - [IRC Difficulties  RESOLVED ***](https://soylentnews.org/meta/article.pl?sid=23/05/31/0724216&from=rss)
 
 ## [Archives](archives/index.md)
 
