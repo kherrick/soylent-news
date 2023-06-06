@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-06, 07:19:00](https://soylentnews.org/article.pl?sid=23/06/05/1959227&from=rss) - [Inhaled Ethanol May Treat Respiratory Infections and Stop Pandemics](https://soylentnews.org/article.pl?sid=23/06/05/1959227&from=rss)
 * [2023-06-06, 04:33:00](https://soylentnews.org/article.pl?sid=23/06/05/1334258&from=rss) - [How a Friendship is Changing Lives for Thousands of Blind People](https://soylentnews.org/article.pl?sid=23/06/05/1334258&from=rss)
 * [2023-06-06, 01:47:00](https://soylentnews.org/article.pl?sid=23/06/05/0229225&from=rss) - [TeamGroup Goes Big on SSD Cooling, Demos 120mm AIO Liquid Cooler for M.2 Drives](https://soylentnews.org/article.pl?sid=23/06/05/0229225&from=rss)
 * [2023-06-05, 23:01:00](https://soylentnews.org/article.pl?sid=23/06/05/0043248&from=rss) - [Measurements of a Radioactive Decay Nudge a Nuclear Clock Closer to Reality](https://soylentnews.org/article.pl?sid=23/06/05/0043248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-31, 10:39:00](https://soylentnews.org/politics/article.pl?sid=23/05/30/1732228&from=rss) - [On Tech, the EU Doesn't Speak for Europe](https://soylentnews.org/politics/article.pl?sid=23/05/30/1732228&from=rss)
 * [2023-05-31, 07:53:00](https://soylentnews.org/article.pl?sid=23/05/30/1727243&from=rss) - [Mars Helicopter Went Silent for Six Sols, Risked Rover](https://soylentnews.org/article.pl?sid=23/05/30/1727243&from=rss)
 * [2023-05-31, 07:25:00](https://soylentnews.org/meta/article.pl?sid=23/05/31/0724216&from=rss) - [IRC Difficulties  RESOLVED ***](https://soylentnews.org/meta/article.pl?sid=23/05/31/0724216&from=rss)
-* [2023-05-31, 05:05:00](https://soylentnews.org/article.pl?sid=23/05/30/0438219&from=rss) - [Researchers Discover Brute-Force Attack that can Bypass Android Phone Fingerprint Locks](https://soylentnews.org/article.pl?sid=23/05/30/0438219&from=rss)
 
 ## [Archives](archives/index.md)
 
