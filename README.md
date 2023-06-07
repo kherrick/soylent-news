@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-07, 21:02:00](https://soylentnews.org/article.pl?sid=23/06/06/032241&from=rss) - [Too Much Water Can Make Whiskies Taste the Same](https://soylentnews.org/article.pl?sid=23/06/06/032241&from=rss)
 * [2023-06-07, 16:22:00](https://soylentnews.org/article.pl?sid=23/06/06/0236250&from=rss) - [A Stormy, Active Sun May Have Kickstarted Life on Earth](https://soylentnews.org/article.pl?sid=23/06/06/0236250&from=rss)
 * [2023-06-07, 14:30:00](https://soylentnews.org/article.pl?sid=23/06/07/0159241&from=rss) - [New York's Skyscrapers are Causing it to Sink – What Can be Done About it?](https://soylentnews.org/article.pl?sid=23/06/07/0159241&from=rss)
 * [2023-06-07, 11:40:00](https://soylentnews.org/article.pl?sid=23/06/06/0227220&from=rss) - [A Conductive Self-healing Hydrogel to Create Flexible Sensors](https://soylentnews.org/article.pl?sid=23/06/06/0227220&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-01, 05:55:00](https://soylentnews.org/article.pl?sid=23/05/31/1759240&from=rss) - [Earth's Energy Budget is Not in Balance. Should We be Concerned?](https://soylentnews.org/article.pl?sid=23/05/31/1759240&from=rss)
 * [2023-06-01, 03:11:00](https://soylentnews.org/article.pl?sid=23/05/31/1752206&from=rss) - [US to Require All New Vehicles to Have Robust Automatic Emergency Braking](https://soylentnews.org/article.pl?sid=23/05/31/1752206&from=rss)
 * [2023-06-01, 00:25:00](https://soylentnews.org/article.pl?sid=23/05/31/1746248&from=rss) - [NZ: Airline Asks Passengers to Step on the Scale Ahead of Boarding in Weight Survey](https://soylentnews.org/article.pl?sid=23/05/31/1746248&from=rss)
-* [2023-05-31, 21:37:00](https://soylentnews.org/article.pl?sid=23/05/30/1752236&from=rss) - [CERN Spots Strange Higgs Boson Decay Behavior](https://soylentnews.org/article.pl?sid=23/05/30/1752236&from=rss)
 
 ## [Archives](archives/index.md)
 
