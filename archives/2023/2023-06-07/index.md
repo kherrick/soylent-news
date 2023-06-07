@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-07](index.md)
+
+* [2023-06-07, 02:26:00](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss) - [Turns Out It *Is* Possible to Build a BEV \"Guzzler\"](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss)

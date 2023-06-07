@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-07, 02:26:00](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss) - [Turns Out It *Is* Possible to Build a BEV \"Guzzler\"](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss)
 * [2023-06-06, 21:42:00](https://soylentnews.org/article.pl?sid=23/06/06/0134234&from=rss) - [Newly Discovered Stone Tools Drag Dawn of Greek Archaeology Back by a Quarter-million Years](https://soylentnews.org/article.pl?sid=23/06/06/0134234&from=rss)
 * [2023-06-06, 16:56:00](https://soylentnews.org/article.pl?sid=23/06/06/0128203&from=rss) - [Elon Musk's Twitter Loses Second Trust and Safety Chief](https://soylentnews.org/article.pl?sid=23/06/06/0128203&from=rss)
 * [2023-06-06, 12:09:00](https://soylentnews.org/article.pl?sid=23/06/06/0121205&from=rss) - [Apple Reveals Augmented-Reality Headset Vision Pro](https://soylentnews.org/article.pl?sid=23/06/06/0121205&from=rss)
@@ -49,7 +50,6 @@
 * [2023-05-31, 18:53:00](https://soylentnews.org/article.pl?sid=23/05/30/1745242&from=rss) - [Qualcomm Imagines Snapdragon Devices Sharing Workloads](https://soylentnews.org/article.pl?sid=23/05/30/1745242&from=rss)
 * [2023-05-31, 18:15:00](https://soylentnews.org/meta/article.pl?sid=23/05/31/1810201&from=rss) - [Intentionally Blank](https://soylentnews.org/meta/article.pl?sid=23/05/31/1810201&from=rss)
 * [2023-05-31, 16:08:00](https://soylentnews.org/article.pl?sid=23/05/30/1741229&from=rss) - [Understanding How Couples Integrate Finances](https://soylentnews.org/article.pl?sid=23/05/30/1741229&from=rss)
-* [2023-05-31, 13:23:00](https://soylentnews.org/article.pl?sid=23/05/30/1734256&from=rss) - [Nvidia is Now a $1 Trillion Company Thanks to the AI Boom](https://soylentnews.org/article.pl?sid=23/05/30/1734256&from=rss)
 
 ## [Archives](archives/index.md)
 
