@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-07, 14:30:00](https://soylentnews.org/article.pl?sid=23/06/07/0159241&from=rss) - [New York's Skyscrapers are Causing it to Sink – What Can be Done About it?](https://soylentnews.org/article.pl?sid=23/06/07/0159241&from=rss)
 * [2023-06-07, 11:40:00](https://soylentnews.org/article.pl?sid=23/06/06/0227220&from=rss) - [A Conductive Self-healing Hydrogel to Create Flexible Sensors](https://soylentnews.org/article.pl?sid=23/06/06/0227220&from=rss)
 * [2023-06-07, 07:00:00](https://soylentnews.org/article.pl?sid=23/06/06/0211202&from=rss) - [Multi-cancer Blood Test Shows Real Promise in NHS Study](https://soylentnews.org/article.pl?sid=23/06/06/0211202&from=rss)
 * [2023-06-07, 02:26:00](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss) - [Turns Out It *Is* Possible to Build a BEV \"Guzzler\"](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-01, 00:25:00](https://soylentnews.org/article.pl?sid=23/05/31/1746248&from=rss) - [NZ: Airline Asks Passengers to Step on the Scale Ahead of Boarding in Weight Survey](https://soylentnews.org/article.pl?sid=23/05/31/1746248&from=rss)
 * [2023-05-31, 21:37:00](https://soylentnews.org/article.pl?sid=23/05/30/1752236&from=rss) - [CERN Spots Strange Higgs Boson Decay Behavior](https://soylentnews.org/article.pl?sid=23/05/30/1752236&from=rss)
 * [2023-05-31, 19:15:00](https://soylentnews.org/meta/article.pl?sid=23/05/31/1934210&from=rss) - [SoylentNews IRC Back Up](https://soylentnews.org/meta/article.pl?sid=23/05/31/1934210&from=rss)
-* [2023-05-31, 18:53:00](https://soylentnews.org/article.pl?sid=23/05/30/1745242&from=rss) - [Qualcomm Imagines Snapdragon Devices Sharing Workloads](https://soylentnews.org/article.pl?sid=23/05/30/1745242&from=rss)
 
 ## [Archives](archives/index.md)
 
