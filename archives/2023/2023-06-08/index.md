@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 22:09:00](https://soylentnews.org/article.pl?sid=23/06/08/0022237&from=rss) - [Snowden Ten Years Later - Schneier on Security](https://soylentnews.org/article.pl?sid=23/06/08/0022237&from=rss)
 * [2023-06-08, 19:15:00](https://soylentnews.org/article.pl?sid=23/06/07/1510232&from=rss) - [ Preparing for the Incoming Computer Shopper Tsunami](https://soylentnews.org/article.pl?sid=23/06/07/1510232&from=rss)
 * [2023-06-08, 14:56:00](https://soylentnews.org/article.pl?sid=23/06/07/1238244&from=rss) - [Keyboard warriors](https://soylentnews.org/article.pl?sid=23/06/07/1238244&from=rss)
 * [2023-06-08, 10:12:00](https://soylentnews.org/article.pl?sid=23/06/07/0031217&from=rss) - ['Ducking Hell' to Disappear from Apple Autocorrect](https://soylentnews.org/article.pl?sid=23/06/07/0031217&from=rss)
