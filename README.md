@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-08, 10:12:00](https://soylentnews.org/article.pl?sid=23/06/07/0031217&from=rss) - ['Ducking Hell' to Disappear from Apple Autocorrect](https://soylentnews.org/article.pl?sid=23/06/07/0031217&from=rss)
 * [2023-06-08, 06:14:00](https://soylentnews.org/article.pl?sid=23/06/06/1436247&from=rss) - [Criminalization of Computer Literacy in France ](https://soylentnews.org/article.pl?sid=23/06/06/1436247&from=rss)
 * [2023-06-08, 01:33:00](https://soylentnews.org/article.pl?sid=23/06/06/0346259&from=rss) - [Team Develops Nanoparticles to Deliver Brain Cancer Treatment](https://soylentnews.org/article.pl?sid=23/06/06/0346259&from=rss)
 * [2023-06-07, 21:02:00](https://soylentnews.org/article.pl?sid=23/06/06/032241&from=rss) - [Too Much Water Can Make Whiskies Taste the Same](https://soylentnews.org/article.pl?sid=23/06/06/032241&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-01, 14:10:00](https://soylentnews.org/article.pl?sid=23/06/01/0126225&from=rss) - ['Keep It Simple Stupid'? Not If You're Asking for Help](https://soylentnews.org/article.pl?sid=23/06/01/0126225&from=rss)
 * [2023-06-01, 11:28:00](https://soylentnews.org/article.pl?sid=23/06/01/0117206&from=rss) - [New Methods Will Allow for Better Tests of Einstein's General Theory of Relativity Using LIGO Data](https://soylentnews.org/article.pl?sid=23/06/01/0117206&from=rss)
 * [2023-06-01, 08:42:00](https://soylentnews.org/article.pl?sid=23/05/31/1854252&from=rss) - [Google Settles Location Tracking Lawsuit for $39.9M](https://soylentnews.org/article.pl?sid=23/05/31/1854252&from=rss)
-* [2023-06-01, 05:55:00](https://soylentnews.org/article.pl?sid=23/05/31/1759240&from=rss) - [Earth's Energy Budget is Not in Balance. Should We be Concerned?](https://soylentnews.org/article.pl?sid=23/05/31/1759240&from=rss)
 
 ## [Archives](archives/index.md)
 
