@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-08, 01:33:00](https://soylentnews.org/article.pl?sid=23/06/06/0346259&from=rss) - [Team Develops Nanoparticles to Deliver Brain Cancer Treatment](https://soylentnews.org/article.pl?sid=23/06/06/0346259&from=rss)
 * [2023-06-07, 21:02:00](https://soylentnews.org/article.pl?sid=23/06/06/032241&from=rss) - [Too Much Water Can Make Whiskies Taste the Same](https://soylentnews.org/article.pl?sid=23/06/06/032241&from=rss)
 * [2023-06-07, 16:22:00](https://soylentnews.org/article.pl?sid=23/06/06/0236250&from=rss) - [A Stormy, Active Sun May Have Kickstarted Life on Earth](https://soylentnews.org/article.pl?sid=23/06/06/0236250&from=rss)
 * [2023-06-07, 14:30:00](https://soylentnews.org/article.pl?sid=23/06/07/0159241&from=rss) - [New York's Skyscrapers are Causing it to Sink – What Can be Done About it?](https://soylentnews.org/article.pl?sid=23/06/07/0159241&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-01, 08:42:00](https://soylentnews.org/article.pl?sid=23/05/31/1854252&from=rss) - [Google Settles Location Tracking Lawsuit for $39.9M](https://soylentnews.org/article.pl?sid=23/05/31/1854252&from=rss)
 * [2023-06-01, 05:55:00](https://soylentnews.org/article.pl?sid=23/05/31/1759240&from=rss) - [Earth's Energy Budget is Not in Balance. Should We be Concerned?](https://soylentnews.org/article.pl?sid=23/05/31/1759240&from=rss)
 * [2023-06-01, 03:11:00](https://soylentnews.org/article.pl?sid=23/05/31/1752206&from=rss) - [US to Require All New Vehicles to Have Robust Automatic Emergency Braking](https://soylentnews.org/article.pl?sid=23/05/31/1752206&from=rss)
-* [2023-06-01, 00:25:00](https://soylentnews.org/article.pl?sid=23/05/31/1746248&from=rss) - [NZ: Airline Asks Passengers to Step on the Scale Ahead of Boarding in Weight Survey](https://soylentnews.org/article.pl?sid=23/05/31/1746248&from=rss)
 
 ## [Archives](archives/index.md)
 
