@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-08, 19:15:00](https://soylentnews.org/article.pl?sid=23/06/07/1510232&from=rss) - [ Preparing for the Incoming Computer Shopper Tsunami](https://soylentnews.org/article.pl?sid=23/06/07/1510232&from=rss)
 * [2023-06-08, 14:56:00](https://soylentnews.org/article.pl?sid=23/06/07/1238244&from=rss) - [Keyboard warriors](https://soylentnews.org/article.pl?sid=23/06/07/1238244&from=rss)
 * [2023-06-08, 10:12:00](https://soylentnews.org/article.pl?sid=23/06/07/0031217&from=rss) - ['Ducking Hell' to Disappear from Apple Autocorrect](https://soylentnews.org/article.pl?sid=23/06/07/0031217&from=rss)
 * [2023-06-08, 06:14:00](https://soylentnews.org/article.pl?sid=23/06/06/1436247&from=rss) - [Criminalization of Computer Literacy in France ](https://soylentnews.org/article.pl?sid=23/06/06/1436247&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-01, 19:45:00](https://soylentnews.org/article.pl?sid=23/06/01/0142200&from=rss) - [Uber Eats Set to Deploy 2,000 More Delivery Robots Into the Wild](https://soylentnews.org/article.pl?sid=23/06/01/0142200&from=rss)
 * [2023-06-01, 16:59:00](https://soylentnews.org/article.pl?sid=23/06/01/0131221&from=rss) - [Modern CPUs Have a Backstage Cast](https://soylentnews.org/article.pl?sid=23/06/01/0131221&from=rss)
 * [2023-06-01, 14:10:00](https://soylentnews.org/article.pl?sid=23/06/01/0126225&from=rss) - ['Keep It Simple Stupid'? Not If You're Asking for Help](https://soylentnews.org/article.pl?sid=23/06/01/0126225&from=rss)
-* [2023-06-01, 11:28:00](https://soylentnews.org/article.pl?sid=23/06/01/0117206&from=rss) - [New Methods Will Allow for Better Tests of Einstein's General Theory of Relativity Using LIGO Data](https://soylentnews.org/article.pl?sid=23/06/01/0117206&from=rss)
 
 ## [Archives](archives/index.md)
 
