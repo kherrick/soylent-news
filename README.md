@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-09, 00:45:00](https://soylentnews.org/article.pl?sid=23/06/08/013229&from=rss) - [Stinging Tree Injects Promise of Pain Relief](https://soylentnews.org/article.pl?sid=23/06/08/013229&from=rss)
 * [2023-06-08, 22:09:00](https://soylentnews.org/article.pl?sid=23/06/08/0022237&from=rss) - [Snowden Ten Years Later - Schneier on Security](https://soylentnews.org/article.pl?sid=23/06/08/0022237&from=rss)
 * [2023-06-08, 19:15:00](https://soylentnews.org/article.pl?sid=23/06/07/1510232&from=rss) - [ Preparing for the Incoming Computer Shopper Tsunami](https://soylentnews.org/article.pl?sid=23/06/07/1510232&from=rss)
 * [2023-06-08, 14:56:00](https://soylentnews.org/article.pl?sid=23/06/07/1238244&from=rss) - [Keyboard warriors](https://soylentnews.org/article.pl?sid=23/06/07/1238244&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-02, 01:21:00](https://soylentnews.org/article.pl?sid=23/06/01/1248252&from=rss) - [Biodegradable Plastic in Clothing Doesn't Break Down Nearly as Quickly as Hoped](https://soylentnews.org/article.pl?sid=23/06/01/1248252&from=rss)
 * [2023-06-01, 22:34:00](https://soylentnews.org/article.pl?sid=23/06/01/0150240&from=rss) - [AI Update - Deepfake Smiles used in Indian Protests](https://soylentnews.org/article.pl?sid=23/06/01/0150240&from=rss)
 * [2023-06-01, 19:45:00](https://soylentnews.org/article.pl?sid=23/06/01/0142200&from=rss) - [Uber Eats Set to Deploy 2,000 More Delivery Robots Into the Wild](https://soylentnews.org/article.pl?sid=23/06/01/0142200&from=rss)
-* [2023-06-01, 16:59:00](https://soylentnews.org/article.pl?sid=23/06/01/0131221&from=rss) - [Modern CPUs Have a Backstage Cast](https://soylentnews.org/article.pl?sid=23/06/01/0131221&from=rss)
 
 ## [Archives](archives/index.md)
 
