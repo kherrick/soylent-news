@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-09, 19:48:00](https://soylentnews.org/article.pl?sid=23/06/09/013254&from=rss) - [The Other Side of the Story: How Evolution Impacts the Environment](https://soylentnews.org/article.pl?sid=23/06/09/013254&from=rss)
 * [2023-06-09, 15:03:00](https://soylentnews.org/article.pl?sid=23/06/09/0014225&from=rss) - [Google \"We Have No Moat, and Neither Does OpenAI\"](https://soylentnews.org/article.pl?sid=23/06/09/0014225&from=rss)
 * [2023-06-09, 10:13:00](https://soylentnews.org/article.pl?sid=23/06/08/1514241&from=rss) - [Self-Healing Code is the Future of Software Development](https://soylentnews.org/article.pl?sid=23/06/08/1514241&from=rss)
 * [2023-06-09, 05:33:00](https://soylentnews.org/article.pl?sid=23/06/08/1235256&from=rss) - [A Look At Statistics - Through Baseball](https://soylentnews.org/article.pl?sid=23/06/08/1235256&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-02, 12:27:00](https://soylentnews.org/article.pl?sid=23/06/01/1453230&from=rss) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://soylentnews.org/article.pl?sid=23/06/01/1453230&from=rss)
 * [2023-06-02, 09:42:00](https://soylentnews.org/article.pl?sid=23/06/01/1446209&from=rss) - ['How Do We Know What We Don't Know?': Scientists Completely Define the Process of Methylation](https://soylentnews.org/article.pl?sid=23/06/01/1446209&from=rss)
 * [2023-06-02, 06:53:00](https://soylentnews.org/article.pl?sid=23/06/01/1322211&from=rss) - [Google Nixes ‘Downloader’ App From Store After DMCA Says its Browser Can Get to Piracy Sites](https://soylentnews.org/article.pl?sid=23/06/01/1322211&from=rss)
-* [2023-06-02, 04:07:00](https://soylentnews.org/article.pl?sid=23/06/01/1259248&from=rss) - [The World is Finally Spending More on Solar Than Oil Production](https://soylentnews.org/article.pl?sid=23/06/01/1259248&from=rss)
 
 ## [Archives](archives/index.md)
 
