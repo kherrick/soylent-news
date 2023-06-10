@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-10, 12:51:00](https://soylentnews.org/article.pl?sid=23/06/10/1325221&from=rss) - [I Tip My Hat to Martyb - a Heartfelt 'Congratulations'](https://soylentnews.org/article.pl?sid=23/06/10/1325221&from=rss)
 * [2023-06-10, 10:00:00](https://soylentnews.org/article.pl?sid=23/06/09/1239240&from=rss) - [AI Threats: Can the Matrix and Other Sci-Fi Films Teach Us Anything?](https://soylentnews.org/article.pl?sid=23/06/09/1239240&from=rss)
 * [2023-06-10, 05:15:00](https://soylentnews.org/article.pl?sid=23/06/09/0552214&from=rss) - [Used Coffee Pods Can be Recycled to Produce Filaments for 3D Printing](https://soylentnews.org/article.pl?sid=23/06/09/0552214&from=rss)
 * [2023-06-10, 00:31:00](https://soylentnews.org/article.pl?sid=23/06/09/0117256&from=rss) - [This Electric Cruise Ship Will Use Three Giant Retractable Solar Panels to Power It at Sea](https://soylentnews.org/article.pl?sid=23/06/09/0117256&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-02, 23:27:00](https://soylentnews.org/article.pl?sid=23/06/02/1248251&from=rss) - [The “Death of Self-driving Cars” Has Been Greatly Exaggerated](https://soylentnews.org/article.pl?sid=23/06/02/1248251&from=rss)
 * [2023-06-02, 20:42:00](https://soylentnews.org/article.pl?sid=23/06/01/157224&from=rss) - [AI: War Crimes Evidence Erased by Social Media Platforms](https://soylentnews.org/article.pl?sid=23/06/01/157224&from=rss)
 * [2023-06-02, 17:52:00](https://soylentnews.org/article.pl?sid=23/06/01/152219&from=rss) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://soylentnews.org/article.pl?sid=23/06/01/152219&from=rss)
-* [2023-06-02, 15:11:00](https://soylentnews.org/article.pl?sid=23/06/01/1459255&from=rss) - [Linux Foundation and Friends Back RISC-V Software Ecosystem](https://soylentnews.org/article.pl?sid=23/06/01/1459255&from=rss)
 
 ## [Archives](archives/index.md)
 
