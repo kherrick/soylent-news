@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-10, 19:26:00](https://soylentnews.org/article.pl?sid=23/06/09/1928254&from=rss) - [US Patent Office Proposes Rule to Make it Much Harder to Kill Bad Patents](https://soylentnews.org/article.pl?sid=23/06/09/1928254&from=rss)
 * [2023-06-10, 14:43:00](https://soylentnews.org/article.pl?sid=23/06/09/1916252&from=rss) - [California Hospital Staff Call for Halt of Surgeries Over Bizarre Particles](https://soylentnews.org/article.pl?sid=23/06/09/1916252&from=rss)
 * [2023-06-10, 12:51:00](https://soylentnews.org/article.pl?sid=23/06/10/1325221&from=rss) - [I Tip My Hat to Martyb - a Heartfelt 'Congratulations'](https://soylentnews.org/article.pl?sid=23/06/10/1325221&from=rss)
 * [2023-06-10, 10:00:00](https://soylentnews.org/article.pl?sid=23/06/09/1239240&from=rss) - [AI Threats: Can the Matrix and Other Sci-Fi Films Teach Us Anything?](https://soylentnews.org/article.pl?sid=23/06/09/1239240&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-03, 08:54:00](https://soylentnews.org/article.pl?sid=23/06/02/1441256&from=rss) - [Arizona Limits Building as Groundwater Dries Up](https://soylentnews.org/article.pl?sid=23/06/02/1441256&from=rss)
 * [2023-06-03, 04:09:00](https://soylentnews.org/article.pl?sid=23/06/02/1250224&from=rss) - [US Military AI Drone Killed its Operator During Simulation - or Didn't](https://soylentnews.org/article.pl?sid=23/06/02/1250224&from=rss)
 * [2023-06-02, 23:27:00](https://soylentnews.org/article.pl?sid=23/06/02/1248251&from=rss) - [The “Death of Self-driving Cars” Has Been Greatly Exaggerated](https://soylentnews.org/article.pl?sid=23/06/02/1248251&from=rss)
-* [2023-06-02, 20:42:00](https://soylentnews.org/article.pl?sid=23/06/01/157224&from=rss) - [AI: War Crimes Evidence Erased by Social Media Platforms](https://soylentnews.org/article.pl?sid=23/06/01/157224&from=rss)
 
 ## [Archives](archives/index.md)
 

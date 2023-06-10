@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 19:26:00](https://soylentnews.org/article.pl?sid=23/06/09/1928254&from=rss) - [US Patent Office Proposes Rule to Make it Much Harder to Kill Bad Patents](https://soylentnews.org/article.pl?sid=23/06/09/1928254&from=rss)
 * [2023-06-10, 14:43:00](https://soylentnews.org/article.pl?sid=23/06/09/1916252&from=rss) - [California Hospital Staff Call for Halt of Surgeries Over Bizarre Particles](https://soylentnews.org/article.pl?sid=23/06/09/1916252&from=rss)
 * [2023-06-10, 12:51:00](https://soylentnews.org/article.pl?sid=23/06/10/1325221&from=rss) - [I Tip My Hat to Martyb - a Heartfelt 'Congratulations'](https://soylentnews.org/article.pl?sid=23/06/10/1325221&from=rss)
 * [2023-06-10, 10:00:00](https://soylentnews.org/article.pl?sid=23/06/09/1239240&from=rss) - [AI Threats: Can the Matrix and Other Sci-Fi Films Teach Us Anything?](https://soylentnews.org/article.pl?sid=23/06/09/1239240&from=rss)
