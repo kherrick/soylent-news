@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-11](index.md)
+
+* [2023-06-11, 00:11:00](https://soylentnews.org/article.pl?sid=23/06/09/1937210&from=rss) - [Why Do Champagne Bubbles Rise the Way They Do?](https://soylentnews.org/article.pl?sid=23/06/09/1937210&from=rss)
