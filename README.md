@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-11, 05:00:00](https://soylentnews.org/article.pl?sid=23/06/10/0053235&from=rss) - [Google DeepMind’s Game-Playing AI Just Found Another Way to Make Code Faster](https://soylentnews.org/article.pl?sid=23/06/10/0053235&from=rss)
 * [2023-06-11, 00:11:00](https://soylentnews.org/article.pl?sid=23/06/09/1937210&from=rss) - [Why Do Champagne Bubbles Rise the Way They Do?](https://soylentnews.org/article.pl?sid=23/06/09/1937210&from=rss)
 * [2023-06-10, 19:26:00](https://soylentnews.org/article.pl?sid=23/06/09/1928254&from=rss) - [US Patent Office Proposes Rule to Make it Much Harder to Kill Bad Patents](https://soylentnews.org/article.pl?sid=23/06/09/1928254&from=rss)
 * [2023-06-10, 14:43:00](https://soylentnews.org/article.pl?sid=23/06/09/1916252&from=rss) - [California Hospital Staff Call for Halt of Surgeries Over Bizarre Particles](https://soylentnews.org/article.pl?sid=23/06/09/1916252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-03, 18:23:00](https://soylentnews.org/article.pl?sid=23/06/02/1454214&from=rss) - [What are Chiplets and Why They are So Important for the Future of Processors](https://soylentnews.org/article.pl?sid=23/06/02/1454214&from=rss)
 * [2023-06-03, 13:36:00](https://soylentnews.org/article.pl?sid=23/06/02/154218&from=rss) - [Boeing Starliner's First Crewed ISS Flight Delayed Due to Technical Issues](https://soylentnews.org/article.pl?sid=23/06/02/154218&from=rss)
 * [2023-06-03, 08:54:00](https://soylentnews.org/article.pl?sid=23/06/02/1441256&from=rss) - [Arizona Limits Building as Groundwater Dries Up](https://soylentnews.org/article.pl?sid=23/06/02/1441256&from=rss)
-* [2023-06-03, 04:09:00](https://soylentnews.org/article.pl?sid=23/06/02/1250224&from=rss) - [US Military AI Drone Killed its Operator During Simulation - or Didn't](https://soylentnews.org/article.pl?sid=23/06/02/1250224&from=rss)
 
 ## [Archives](archives/index.md)
 
