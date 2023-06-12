@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-12, 20:50:00](https://soylentnews.org/article.pl?sid=23/06/12/0038218&from=rss) - [Jiu Jitsu Club Helps Advance Forensic Research into Fiber Transfer During Assaults](https://soylentnews.org/article.pl?sid=23/06/12/0038218&from=rss)
 * [2023-06-12, 16:05:00](https://soylentnews.org/article.pl?sid=23/06/11/1612201&from=rss) - [The Illusion of Moral Decline](https://soylentnews.org/article.pl?sid=23/06/11/1612201&from=rss)
 * [2023-06-12, 11:20:00](https://soylentnews.org/article.pl?sid=23/06/11/1555237&from=rss) - [Boeing Hit With Lawsuit Over Alleged “Theft” of SLS Rocket Tools](https://soylentnews.org/article.pl?sid=23/06/11/1555237&from=rss)
 * [2023-06-12, 06:34:00](https://soylentnews.org/article.pl?sid=23/06/11/1535257&from=rss) - [Here's What Happens When You Send a NASCAR Stock Car to Le Mans](https://soylentnews.org/article.pl?sid=23/06/11/1535257&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-05, 07:03:00](https://soylentnews.org/article.pl?sid=23/06/04/1444212&from=rss) - [Can ET Detect Us?](https://soylentnews.org/article.pl?sid=23/06/04/1444212&from=rss)
 * [2023-06-05, 04:15:00](https://soylentnews.org/article.pl?sid=23/06/04/1443209&from=rss) - [Apple II Desktop 1.3 Alpha 7 Released – Looking Good for 46 Years!](https://soylentnews.org/article.pl?sid=23/06/04/1443209&from=rss)
 * [2023-06-05, 01:31:00](https://soylentnews.org/article.pl?sid=23/06/04/0227249&from=rss) - [Cunningly Camouflaged Cable Routed Around WAN Budget](https://soylentnews.org/article.pl?sid=23/06/04/0227249&from=rss)
-* [2023-06-04, 22:44:00](https://soylentnews.org/article.pl?sid=23/06/04/0218247&from=rss) - [JWST Scans an Ultra-Hot Jupiter's Atmosphere](https://soylentnews.org/article.pl?sid=23/06/04/0218247&from=rss)
 
 ## [Archives](archives/index.md)
 
