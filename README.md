@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-12, 01:44:00](https://soylentnews.org/article.pl?sid=23/06/11/1049200&from=rss) - [Barracuda Urges Replacing — Not Patching — its Email Security Gateways](https://soylentnews.org/article.pl?sid=23/06/11/1049200&from=rss)
 * [2023-06-11, 22:56:00](https://soylentnews.org/article.pl?sid=23/06/11/0438209&from=rss) - [Critical Schrödinger Cat Code: Quantum Computing Breakthrough for Better Qubits](https://soylentnews.org/article.pl?sid=23/06/11/0438209&from=rss)
 * [2023-06-11, 18:46:00](https://soylentnews.org/article.pl?sid=23/06/10/2318211&from=rss) - [I Just Bought the Only Physical Encyclopedia Still in Print, and I Regret Nothing](https://soylentnews.org/article.pl?sid=23/06/10/2318211&from=rss)
 * [2023-06-11, 14:01:00](https://soylentnews.org/article.pl?sid=23/06/10/083230&from=rss) - [Breaking into the Church of Math](https://soylentnews.org/article.pl?sid=23/06/10/083230&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-04, 17:58:00](https://soylentnews.org/article.pl?sid=23/06/04/0150255&from=rss) - [Woman Walking on California Beach Finds Ancient Mastodon Tooth](https://soylentnews.org/article.pl?sid=23/06/04/0150255&from=rss)
 * [2023-06-04, 13:12:00](https://soylentnews.org/article.pl?sid=23/06/04/0113214&from=rss) - [NASA Experts Looked at UFO Sightings, Found Little](https://soylentnews.org/article.pl?sid=23/06/04/0113214&from=rss)
 * [2023-06-04, 08:29:00](https://soylentnews.org/article.pl?sid=23/06/03/1412254&from=rss) - [Ukraine War Blurs Lines Between Cyber-Crims and State Hacks](https://soylentnews.org/article.pl?sid=23/06/03/1412254&from=rss)
-* [2023-06-04, 03:52:00](https://soylentnews.org/article.pl?sid=23/06/03/146258&from=rss) - [The Hat Came Back, No Mirror Required](https://soylentnews.org/article.pl?sid=23/06/03/146258&from=rss)
 
 ## [Archives](archives/index.md)
 
