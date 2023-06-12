@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-12, 11:20:00](https://soylentnews.org/article.pl?sid=23/06/11/1555237&from=rss) - [Boeing Hit With Lawsuit Over Alleged “Theft” of SLS Rocket Tools](https://soylentnews.org/article.pl?sid=23/06/11/1555237&from=rss)
 * [2023-06-12, 06:34:00](https://soylentnews.org/article.pl?sid=23/06/11/1535257&from=rss) - [Here's What Happens When You Send a NASCAR Stock Car to Le Mans](https://soylentnews.org/article.pl?sid=23/06/11/1535257&from=rss)
 * [2023-06-12, 01:44:00](https://soylentnews.org/article.pl?sid=23/06/11/1049200&from=rss) - [Barracuda Urges Replacing — Not Patching — its Email Security Gateways](https://soylentnews.org/article.pl?sid=23/06/11/1049200&from=rss)
 * [2023-06-11, 22:56:00](https://soylentnews.org/article.pl?sid=23/06/11/0438209&from=rss) - [Critical Schrödinger Cat Code: Quantum Computing Breakthrough for Better Qubits](https://soylentnews.org/article.pl?sid=23/06/11/0438209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-05, 01:31:00](https://soylentnews.org/article.pl?sid=23/06/04/0227249&from=rss) - [Cunningly Camouflaged Cable Routed Around WAN Budget](https://soylentnews.org/article.pl?sid=23/06/04/0227249&from=rss)
 * [2023-06-04, 22:44:00](https://soylentnews.org/article.pl?sid=23/06/04/0218247&from=rss) - [JWST Scans an Ultra-Hot Jupiter's Atmosphere](https://soylentnews.org/article.pl?sid=23/06/04/0218247&from=rss)
 * [2023-06-04, 17:58:00](https://soylentnews.org/article.pl?sid=23/06/04/0150255&from=rss) - [Woman Walking on California Beach Finds Ancient Mastodon Tooth](https://soylentnews.org/article.pl?sid=23/06/04/0150255&from=rss)
-* [2023-06-04, 13:12:00](https://soylentnews.org/article.pl?sid=23/06/04/0113214&from=rss) - [NASA Experts Looked at UFO Sightings, Found Little](https://soylentnews.org/article.pl?sid=23/06/04/0113214&from=rss)
 
 ## [Archives](archives/index.md)
 
