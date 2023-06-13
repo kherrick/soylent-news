@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-13, 06:13:00](https://soylentnews.org/article.pl?sid=23/06/12/0454220&from=rss) - [Apple Has a Proton-Like Game Porting Toolkit for Getting Windows Games on Mac](https://soylentnews.org/article.pl?sid=23/06/12/0454220&from=rss)
 * [2023-06-13, 01:34:00](https://soylentnews.org/article.pl?sid=23/06/12/0452216&from=rss) - [Reddit Rollup: IPO Dreams and Developer Discontent](https://soylentnews.org/article.pl?sid=23/06/12/0452216&from=rss)
 * [2023-06-12, 20:50:00](https://soylentnews.org/article.pl?sid=23/06/12/0038218&from=rss) - [Jiu Jitsu Club Helps Advance Forensic Research into Fiber Transfer During Assaults](https://soylentnews.org/article.pl?sid=23/06/12/0038218&from=rss)
 * [2023-06-12, 16:05:00](https://soylentnews.org/article.pl?sid=23/06/11/1612201&from=rss) - [The Illusion of Moral Decline](https://soylentnews.org/article.pl?sid=23/06/11/1612201&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-05, 12:31:00](https://soylentnews.org/article.pl?sid=23/06/04/1455241&from=rss) - [A Few Amazon Workers Protest the Return to Office Mandates and Company's Climate Impact](https://soylentnews.org/article.pl?sid=23/06/04/1455241&from=rss)
 * [2023-06-05, 09:48:00](https://soylentnews.org/article.pl?sid=23/06/04/1449245&from=rss) - [Blue's News – One of the Oldest Gaming Websites in the World is Still Going Strong!](https://soylentnews.org/article.pl?sid=23/06/04/1449245&from=rss)
 * [2023-06-05, 07:03:00](https://soylentnews.org/article.pl?sid=23/06/04/1444212&from=rss) - [Can ET Detect Us?](https://soylentnews.org/article.pl?sid=23/06/04/1444212&from=rss)
-* [2023-06-05, 04:15:00](https://soylentnews.org/article.pl?sid=23/06/04/1443209&from=rss) - [Apple II Desktop 1.3 Alpha 7 Released – Looking Good for 46 Years!](https://soylentnews.org/article.pl?sid=23/06/04/1443209&from=rss)
 
 ## [Archives](archives/index.md)
 
