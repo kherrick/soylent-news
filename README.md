@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-13, 20:37:00](https://soylentnews.org/article.pl?sid=23/06/12/2148245&from=rss) - [Research Shows How Hackers Can Target Smart Meters to Destabilize Electricity Grid](https://soylentnews.org/article.pl?sid=23/06/12/2148245&from=rss)
 * [2023-06-13, 15:53:00](https://soylentnews.org/article.pl?sid=23/06/12/1234226&from=rss) - [How Painted Bricks Could Have Contributed to the Recent Iowa Building Collapse](https://soylentnews.org/article.pl?sid=23/06/12/1234226&from=rss)
 * [2023-06-13, 11:03:00](https://soylentnews.org/article.pl?sid=23/06/12/1111251&from=rss) - [Man's WW2 Codebook Unearths St Erth's 'Best-Kept Secret'](https://soylentnews.org/article.pl?sid=23/06/12/1111251&from=rss)
 * [2023-06-13, 06:13:00](https://soylentnews.org/article.pl?sid=23/06/12/0454220&from=rss) - [Apple Has a Proton-Like Game Porting Toolkit for Getting Windows Games on Mac](https://soylentnews.org/article.pl?sid=23/06/12/0454220&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-05, 18:03:00](https://soylentnews.org/article.pl?sid=23/06/04/2155253&from=rss) - [Comet C/2023 A3 Could be the Next Great Comet](https://soylentnews.org/article.pl?sid=23/06/04/2155253&from=rss)
 * [2023-06-05, 15:16:00](https://soylentnews.org/article.pl?sid=23/06/04/1457242&from=rss) - [Woodpecker Helps Managers Promote New Life in Burned Forests](https://soylentnews.org/article.pl?sid=23/06/04/1457242&from=rss)
 * [2023-06-05, 13:00:00](https://soylentnews.org/meta/article.pl?sid=23/06/04/226212&from=rss) - [SoylentNews PBC Will Formally Continue Operations + Site Overhaul Status](https://soylentnews.org/meta/article.pl?sid=23/06/04/226212&from=rss)
-* [2023-06-05, 12:31:00](https://soylentnews.org/article.pl?sid=23/06/04/1455241&from=rss) - [A Few Amazon Workers Protest the Return to Office Mandates and Company's Climate Impact](https://soylentnews.org/article.pl?sid=23/06/04/1455241&from=rss)
 
 ## [Archives](archives/index.md)
 
