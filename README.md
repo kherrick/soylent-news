@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-14, 06:10:00](https://soylentnews.org/article.pl?sid=23/06/13/041254&from=rss) - [Wild Mammals Roamed Further During the COVID-19 Lockdown](https://soylentnews.org/article.pl?sid=23/06/13/041254&from=rss)
 * [2023-06-14, 01:23:00](https://soylentnews.org/article.pl?sid=23/06/13/0355206&from=rss) - [NASA Says There May be Life on the Moon After All](https://soylentnews.org/article.pl?sid=23/06/13/0355206&from=rss)
 * [2023-06-13, 20:37:00](https://soylentnews.org/article.pl?sid=23/06/12/2148245&from=rss) - [Research Shows How Hackers Can Target Smart Meters to Destabilize Electricity Grid](https://soylentnews.org/article.pl?sid=23/06/12/2148245&from=rss)
 * [2023-06-13, 15:53:00](https://soylentnews.org/article.pl?sid=23/06/12/1234226&from=rss) - [How Painted Bricks Could Have Contributed to the Recent Iowa Building Collapse](https://soylentnews.org/article.pl?sid=23/06/12/1234226&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-05, 23:01:00](https://soylentnews.org/article.pl?sid=23/06/05/0043248&from=rss) - [Measurements of a Radioactive Decay Nudge a Nuclear Clock Closer to Reality](https://soylentnews.org/article.pl?sid=23/06/05/0043248&from=rss)
 * [2023-06-05, 20:19:00](https://soylentnews.org/article.pl?sid=23/06/04/220218&from=rss) - [Raspberry Pi Keeps Re-Enactment Photography Authentic](https://soylentnews.org/article.pl?sid=23/06/04/220218&from=rss)
 * [2023-06-05, 18:03:00](https://soylentnews.org/article.pl?sid=23/06/04/2155253&from=rss) - [Comet C/2023 A3 Could be the Next Great Comet](https://soylentnews.org/article.pl?sid=23/06/04/2155253&from=rss)
-* [2023-06-05, 15:16:00](https://soylentnews.org/article.pl?sid=23/06/04/1457242&from=rss) - [Woodpecker Helps Managers Promote New Life in Burned Forests](https://soylentnews.org/article.pl?sid=23/06/04/1457242&from=rss)
 
 ## [Archives](archives/index.md)
 
