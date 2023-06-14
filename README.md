@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-14, 20:18:00](https://soylentnews.org/article.pl?sid=23/06/13/1949254&from=rss) - [US Moves to Block Microsoft's Activision Takeover](https://soylentnews.org/article.pl?sid=23/06/13/1949254&from=rss)
 * [2023-06-14, 15:31:00](https://soylentnews.org/article.pl?sid=23/06/13/1651206&from=rss) - [Big Leap for Hard Drive Capacities: 32 TB HAMR Drives Due Soon, 40TB on Horizon](https://soylentnews.org/article.pl?sid=23/06/13/1651206&from=rss)
 * [2023-06-14, 10:49:00](https://soylentnews.org/article.pl?sid=23/06/13/0830245&from=rss) - [You May be Guilting Yourself Short in Salary Negotiations](https://soylentnews.org/article.pl?sid=23/06/13/0830245&from=rss)
 * [2023-06-14, 09:05:00](https://soylentnews.org/meta/article.pl?sid=23/06/14/090216&from=rss) - [Site Update - Progress IS Being Made](https://soylentnews.org/meta/article.pl?sid=23/06/14/090216&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-06, 12:09:00](https://soylentnews.org/article.pl?sid=23/06/06/0121205&from=rss) - [Apple Reveals Augmented-Reality Headset Vision Pro](https://soylentnews.org/article.pl?sid=23/06/06/0121205&from=rss)
 * [2023-06-06, 07:19:00](https://soylentnews.org/article.pl?sid=23/06/05/1959227&from=rss) - [Inhaled Ethanol May Treat Respiratory Infections and Stop Pandemics](https://soylentnews.org/article.pl?sid=23/06/05/1959227&from=rss)
 * [2023-06-06, 04:33:00](https://soylentnews.org/article.pl?sid=23/06/05/1334258&from=rss) - [How a Friendship is Changing Lives for Thousands of Blind People](https://soylentnews.org/article.pl?sid=23/06/05/1334258&from=rss)
-* [2023-06-06, 01:47:00](https://soylentnews.org/article.pl?sid=23/06/05/0229225&from=rss) - [TeamGroup Goes Big on SSD Cooling, Demos 120mm AIO Liquid Cooler for M.2 Drives](https://soylentnews.org/article.pl?sid=23/06/05/0229225&from=rss)
 
 ## [Archives](archives/index.md)
 
