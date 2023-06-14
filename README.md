@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-14, 09:05:00](https://soylentnews.org/meta/article.pl?sid=23/06/14/090216&from=rss) - [Site Update - Progress IS Being Made](https://soylentnews.org/meta/article.pl?sid=23/06/14/090216&from=rss)
 * [2023-06-14, 06:10:00](https://soylentnews.org/article.pl?sid=23/06/13/041254&from=rss) - [Wild Mammals Roamed Further During the COVID-19 Lockdown](https://soylentnews.org/article.pl?sid=23/06/13/041254&from=rss)
 * [2023-06-14, 01:23:00](https://soylentnews.org/article.pl?sid=23/06/13/0355206&from=rss) - [NASA Says There May be Life on the Moon After All](https://soylentnews.org/article.pl?sid=23/06/13/0355206&from=rss)
 * [2023-06-13, 20:37:00](https://soylentnews.org/article.pl?sid=23/06/12/2148245&from=rss) - [Research Shows How Hackers Can Target Smart Meters to Destabilize Electricity Grid](https://soylentnews.org/article.pl?sid=23/06/12/2148245&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-06, 01:47:00](https://soylentnews.org/article.pl?sid=23/06/05/0229225&from=rss) - [TeamGroup Goes Big on SSD Cooling, Demos 120mm AIO Liquid Cooler for M.2 Drives](https://soylentnews.org/article.pl?sid=23/06/05/0229225&from=rss)
 * [2023-06-05, 23:01:00](https://soylentnews.org/article.pl?sid=23/06/05/0043248&from=rss) - [Measurements of a Radioactive Decay Nudge a Nuclear Clock Closer to Reality](https://soylentnews.org/article.pl?sid=23/06/05/0043248&from=rss)
 * [2023-06-05, 20:19:00](https://soylentnews.org/article.pl?sid=23/06/04/220218&from=rss) - [Raspberry Pi Keeps Re-Enactment Photography Authentic](https://soylentnews.org/article.pl?sid=23/06/04/220218&from=rss)
-* [2023-06-05, 18:03:00](https://soylentnews.org/article.pl?sid=23/06/04/2155253&from=rss) - [Comet C/2023 A3 Could be the Next Great Comet](https://soylentnews.org/article.pl?sid=23/06/04/2155253&from=rss)
 
 ## [Archives](archives/index.md)
 
