@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-15, 10:20:00](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss) - [Hackers Can Steal Cryptographic Keys by Video-recording Power LEDs 60 Feet Away](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss)
 * [2023-06-15, 05:42:00](https://soylentnews.org/article.pl?sid=23/06/13/1953209&from=rss) - [Why Are There So Few Insects in the Ocean?](https://soylentnews.org/article.pl?sid=23/06/13/1953209&from=rss)
 * [2023-06-15, 01:06:00](https://soylentnews.org/article.pl?sid=23/06/13/1947233&from=rss) - [AMD Announces 128-Core Bergamo CPUs, and 96-Core Genoa-X With Over 1 GB of L3 Cache](https://soylentnews.org/article.pl?sid=23/06/13/1947233&from=rss)
 * [2023-06-14, 20:18:00](https://soylentnews.org/article.pl?sid=23/06/13/1949254&from=rss) - [US Moves to Block Microsoft's Activision Takeover](https://soylentnews.org/article.pl?sid=23/06/13/1949254&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-07, 02:26:00](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss) - [Turns Out It *Is* Possible to Build a BEV \"Guzzler\"](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss)
 * [2023-06-06, 21:42:00](https://soylentnews.org/article.pl?sid=23/06/06/0134234&from=rss) - [Newly Discovered Stone Tools Drag Dawn of Greek Archaeology Back by a Quarter-million Years](https://soylentnews.org/article.pl?sid=23/06/06/0134234&from=rss)
 * [2023-06-06, 16:56:00](https://soylentnews.org/article.pl?sid=23/06/06/0128203&from=rss) - [Elon Musk's Twitter Loses Second Trust and Safety Chief](https://soylentnews.org/article.pl?sid=23/06/06/0128203&from=rss)
-* [2023-06-06, 12:09:00](https://soylentnews.org/article.pl?sid=23/06/06/0121205&from=rss) - [Apple Reveals Augmented-Reality Headset Vision Pro](https://soylentnews.org/article.pl?sid=23/06/06/0121205&from=rss)
 
 ## [Archives](archives/index.md)
 
