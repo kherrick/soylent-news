@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 19:41:00](https://soylentnews.org/article.pl?sid=23/06/14/176228&from=rss) - [Shell Recharge Security Lapse Exposed EV Drivers' Data](https://soylentnews.org/article.pl?sid=23/06/14/176228&from=rss)
 * [2023-06-15, 15:00:00](https://soylentnews.org/article.pl?sid=23/06/14/034256&from=rss) - [Autonomous Waymo car runs over dog in San Francisco](https://soylentnews.org/article.pl?sid=23/06/14/034256&from=rss)
 * [2023-06-15, 10:20:00](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss) - [Hackers Can Steal Cryptographic Keys by Video-recording Power LEDs 60 Feet Away](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss)
 * [2023-06-15, 05:42:00](https://soylentnews.org/article.pl?sid=23/06/13/1953209&from=rss) - [Why Are There So Few Insects in the Ocean?](https://soylentnews.org/article.pl?sid=23/06/13/1953209&from=rss)

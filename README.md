@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-15, 19:41:00](https://soylentnews.org/article.pl?sid=23/06/14/176228&from=rss) - [Shell Recharge Security Lapse Exposed EV Drivers' Data](https://soylentnews.org/article.pl?sid=23/06/14/176228&from=rss)
 * [2023-06-15, 15:00:00](https://soylentnews.org/article.pl?sid=23/06/14/034256&from=rss) - [Autonomous Waymo car runs over dog in San Francisco](https://soylentnews.org/article.pl?sid=23/06/14/034256&from=rss)
 * [2023-06-15, 10:20:00](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss) - [Hackers Can Steal Cryptographic Keys by Video-recording Power LEDs 60 Feet Away](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss)
 * [2023-06-15, 05:42:00](https://soylentnews.org/article.pl?sid=23/06/13/1953209&from=rss) - [Why Are There So Few Insects in the Ocean?](https://soylentnews.org/article.pl?sid=23/06/13/1953209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-07, 11:40:00](https://soylentnews.org/article.pl?sid=23/06/06/0227220&from=rss) - [A Conductive Self-healing Hydrogel to Create Flexible Sensors](https://soylentnews.org/article.pl?sid=23/06/06/0227220&from=rss)
 * [2023-06-07, 07:00:00](https://soylentnews.org/article.pl?sid=23/06/06/0211202&from=rss) - [Multi-cancer Blood Test Shows Real Promise in NHS Study](https://soylentnews.org/article.pl?sid=23/06/06/0211202&from=rss)
 * [2023-06-07, 02:26:00](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss) - [Turns Out It *Is* Possible to Build a BEV \"Guzzler\"](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss)
-* [2023-06-06, 21:42:00](https://soylentnews.org/article.pl?sid=23/06/06/0134234&from=rss) - [Newly Discovered Stone Tools Drag Dawn of Greek Archaeology Back by a Quarter-million Years](https://soylentnews.org/article.pl?sid=23/06/06/0134234&from=rss)
 
 ## [Archives](archives/index.md)
 
