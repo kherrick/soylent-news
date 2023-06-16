@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-16, 00:11:00](https://soylentnews.org/article.pl?sid=23/06/15/0032258&from=rss) - [Comcast Complains to FCC That Listing All of its Monthly Fees is Too Hard](https://soylentnews.org/article.pl?sid=23/06/15/0032258&from=rss)
 * [2023-06-15, 19:41:00](https://soylentnews.org/article.pl?sid=23/06/14/176228&from=rss) - [Shell Recharge Security Lapse Exposed EV Drivers' Data](https://soylentnews.org/article.pl?sid=23/06/14/176228&from=rss)
 * [2023-06-15, 15:00:00](https://soylentnews.org/article.pl?sid=23/06/14/034256&from=rss) - [Autonomous Waymo car runs over dog in San Francisco](https://soylentnews.org/article.pl?sid=23/06/14/034256&from=rss)
 * [2023-06-15, 10:20:00](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss) - [Hackers Can Steal Cryptographic Keys by Video-recording Power LEDs 60 Feet Away](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-07, 14:30:00](https://soylentnews.org/article.pl?sid=23/06/07/0159241&from=rss) - [New York's Skyscrapers are Causing it to Sink – What Can be Done About it?](https://soylentnews.org/article.pl?sid=23/06/07/0159241&from=rss)
 * [2023-06-07, 11:40:00](https://soylentnews.org/article.pl?sid=23/06/06/0227220&from=rss) - [A Conductive Self-healing Hydrogel to Create Flexible Sensors](https://soylentnews.org/article.pl?sid=23/06/06/0227220&from=rss)
 * [2023-06-07, 07:00:00](https://soylentnews.org/article.pl?sid=23/06/06/0211202&from=rss) - [Multi-cancer Blood Test Shows Real Promise in NHS Study](https://soylentnews.org/article.pl?sid=23/06/06/0211202&from=rss)
-* [2023-06-07, 02:26:00](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss) - [Turns Out It *Is* Possible to Build a BEV \"Guzzler\"](https://soylentnews.org/article.pl?sid=23/06/06/0138214&from=rss)
 
 ## [Archives](archives/index.md)
 
