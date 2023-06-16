@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-16, 14:15:00](https://soylentnews.org/article.pl?sid=23/06/15/1226254&from=rss) - [Former ByteDance Exec Says China Can Access TikTok User Data, Even When It's Stored on US Soil](https://soylentnews.org/article.pl?sid=23/06/15/1226254&from=rss)
 * [2023-06-16, 09:33:00](https://soylentnews.org/article.pl?sid=23/06/15/1219205&from=rss) - [NASA to Voyage to 'Golden Asteroid' Worth $10,000 Quadrillion This Fall](https://soylentnews.org/article.pl?sid=23/06/15/1219205&from=rss)
 * [2023-06-16, 04:46:00](https://soylentnews.org/article.pl?sid=23/06/15/0221237&from=rss) - [Elon Musk’s Starship Won’t Save Astronomy from Satellites Cluttering the Sky](https://soylentnews.org/article.pl?sid=23/06/15/0221237&from=rss)
 * [2023-06-16, 00:11:00](https://soylentnews.org/article.pl?sid=23/06/15/0032258&from=rss) - [Comcast Complains to FCC That Listing All of its Monthly Fees is Too Hard](https://soylentnews.org/article.pl?sid=23/06/15/0032258&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-08, 01:33:00](https://soylentnews.org/article.pl?sid=23/06/06/0346259&from=rss) - [Team Develops Nanoparticles to Deliver Brain Cancer Treatment](https://soylentnews.org/article.pl?sid=23/06/06/0346259&from=rss)
 * [2023-06-07, 21:02:00](https://soylentnews.org/article.pl?sid=23/06/06/032241&from=rss) - [Too Much Water Can Make Whiskies Taste the Same](https://soylentnews.org/article.pl?sid=23/06/06/032241&from=rss)
 * [2023-06-07, 16:22:00](https://soylentnews.org/article.pl?sid=23/06/06/0236250&from=rss) - [A Stormy, Active Sun May Have Kickstarted Life on Earth](https://soylentnews.org/article.pl?sid=23/06/06/0236250&from=rss)
-* [2023-06-07, 14:30:00](https://soylentnews.org/article.pl?sid=23/06/07/0159241&from=rss) - [New York's Skyscrapers are Causing it to Sink – What Can be Done About it?](https://soylentnews.org/article.pl?sid=23/06/07/0159241&from=rss)
 
 ## [Archives](archives/index.md)
 
