@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 23:49:00](https://soylentnews.org/article.pl?sid=23/06/15/1510225&from=rss) - [Google Risks Forced Breakup of Ad Business as EU Alleges Shocking Misconduct](https://soylentnews.org/article.pl?sid=23/06/15/1510225&from=rss)
 * [2023-06-16, 18:58:00](https://soylentnews.org/article.pl?sid=23/06/15/1456251&from=rss) - [College Student Solves Seemingly Paradoxical Math Problem ](https://soylentnews.org/article.pl?sid=23/06/15/1456251&from=rss)
 * [2023-06-16, 14:15:00](https://soylentnews.org/article.pl?sid=23/06/15/1226254&from=rss) - [Former ByteDance Exec Says China Can Access TikTok User Data, Even When It's Stored on US Soil](https://soylentnews.org/article.pl?sid=23/06/15/1226254&from=rss)
 * [2023-06-16, 09:33:00](https://soylentnews.org/article.pl?sid=23/06/15/1219205&from=rss) - [NASA to Voyage to 'Golden Asteroid' Worth $10,000 Quadrillion This Fall](https://soylentnews.org/article.pl?sid=23/06/15/1219205&from=rss)
