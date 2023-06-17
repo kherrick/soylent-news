@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-17, 23:31:00](https://soylentnews.org/article.pl?sid=23/06/17/0357244&from=rss) - [How and Why NASA Gives a Name to Every Spot It Studies on Mars](https://soylentnews.org/article.pl?sid=23/06/17/0357244&from=rss)
 * [2023-06-17, 18:42:00](https://soylentnews.org/article.pl?sid=23/06/16/2220209&from=rss) - [We've Pumped So Much Groundwater That We've Nudged the Earth's Spin, Says New Study](https://soylentnews.org/article.pl?sid=23/06/16/2220209&from=rss)
 * [2023-06-17, 14:00:00](https://soylentnews.org/article.pl?sid=23/06/16/168233&from=rss) - [U.S. Spy Agencies Buy Vast Quantities of Americans' Personal Data, U.S. Says](https://soylentnews.org/article.pl?sid=23/06/16/168233&from=rss)
 * [2023-06-17, 09:18:00](https://soylentnews.org/article.pl?sid=23/06/16/1529229&from=rss) - [Another 16-pin RTX 4090 Power Adapter Has Melted, but From the PSU Side This Time](https://soylentnews.org/article.pl?sid=23/06/16/1529229&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-09, 05:33:00](https://soylentnews.org/article.pl?sid=23/06/08/1235256&from=rss) - [A Look At Statistics - Through Baseball](https://soylentnews.org/article.pl?sid=23/06/08/1235256&from=rss)
 * [2023-06-09, 00:45:00](https://soylentnews.org/article.pl?sid=23/06/08/013229&from=rss) - [Stinging Tree Injects Promise of Pain Relief](https://soylentnews.org/article.pl?sid=23/06/08/013229&from=rss)
 * [2023-06-08, 22:09:00](https://soylentnews.org/article.pl?sid=23/06/08/0022237&from=rss) - [Snowden Ten Years Later - Schneier on Security](https://soylentnews.org/article.pl?sid=23/06/08/0022237&from=rss)
-* [2023-06-08, 19:15:00](https://soylentnews.org/article.pl?sid=23/06/07/1510232&from=rss) - [ Preparing for the Incoming Computer Shopper Tsunami](https://soylentnews.org/article.pl?sid=23/06/07/1510232&from=rss)
 
 ## [Archives](archives/index.md)
 
