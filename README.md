@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-17, 09:18:00](https://soylentnews.org/article.pl?sid=23/06/16/1529229&from=rss) - [Another 16-pin RTX 4090 Power Adapter Has Melted, but From the PSU Side This Time](https://soylentnews.org/article.pl?sid=23/06/16/1529229&from=rss)
 * [2023-06-17, 04:34:00](https://soylentnews.org/article.pl?sid=23/06/16/0542221&from=rss) - [Russia-Backed Hackers Unleash New USB-Based Malware on Ukraine's Military](https://soylentnews.org/article.pl?sid=23/06/16/0542221&from=rss)
 * [2023-06-16, 23:49:00](https://soylentnews.org/article.pl?sid=23/06/15/1510225&from=rss) - [Google Risks Forced Breakup of Ad Business as EU Alleges Shocking Misconduct](https://soylentnews.org/article.pl?sid=23/06/15/1510225&from=rss)
 * [2023-06-16, 18:58:00](https://soylentnews.org/article.pl?sid=23/06/15/1456251&from=rss) - [College Student Solves Seemingly Paradoxical Math Problem ](https://soylentnews.org/article.pl?sid=23/06/15/1456251&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-08, 19:15:00](https://soylentnews.org/article.pl?sid=23/06/07/1510232&from=rss) - [ Preparing for the Incoming Computer Shopper Tsunami](https://soylentnews.org/article.pl?sid=23/06/07/1510232&from=rss)
 * [2023-06-08, 14:56:00](https://soylentnews.org/article.pl?sid=23/06/07/1238244&from=rss) - [Keyboard warriors](https://soylentnews.org/article.pl?sid=23/06/07/1238244&from=rss)
 * [2023-06-08, 10:12:00](https://soylentnews.org/article.pl?sid=23/06/07/0031217&from=rss) - ['Ducking Hell' to Disappear from Apple Autocorrect](https://soylentnews.org/article.pl?sid=23/06/07/0031217&from=rss)
-* [2023-06-08, 06:14:00](https://soylentnews.org/article.pl?sid=23/06/06/1436247&from=rss) - [Criminalization of Computer Literacy in France ](https://soylentnews.org/article.pl?sid=23/06/06/1436247&from=rss)
 
 ## [Archives](archives/index.md)
 
