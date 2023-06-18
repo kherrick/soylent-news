@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-18, 09:05:00](https://soylentnews.org/article.pl?sid=23/06/17/0416219&from=rss) - [Paul McCartney: AI Has Enabled a “Final” Beatles Song](https://soylentnews.org/article.pl?sid=23/06/17/0416219&from=rss)
 * [2023-06-18, 04:19:00](https://soylentnews.org/article.pl?sid=23/06/17/0411226&from=rss) - [Video Ads Are Coming to Uber, So I'm Switching to a Competitor](https://soylentnews.org/article.pl?sid=23/06/17/0411226&from=rss)
 * [2023-06-17, 23:31:00](https://soylentnews.org/article.pl?sid=23/06/17/0357244&from=rss) - [How and Why NASA Gives a Name to Every Spot It Studies on Mars](https://soylentnews.org/article.pl?sid=23/06/17/0357244&from=rss)
 * [2023-06-17, 18:42:00](https://soylentnews.org/article.pl?sid=23/06/16/2220209&from=rss) - [We've Pumped So Much Groundwater That We've Nudged the Earth's Spin, Says New Study](https://soylentnews.org/article.pl?sid=23/06/16/2220209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-09, 15:03:00](https://soylentnews.org/article.pl?sid=23/06/09/0014225&from=rss) - [Google \"We Have No Moat, and Neither Does OpenAI\"](https://soylentnews.org/article.pl?sid=23/06/09/0014225&from=rss)
 * [2023-06-09, 10:13:00](https://soylentnews.org/article.pl?sid=23/06/08/1514241&from=rss) - [Self-Healing Code is the Future of Software Development](https://soylentnews.org/article.pl?sid=23/06/08/1514241&from=rss)
 * [2023-06-09, 05:33:00](https://soylentnews.org/article.pl?sid=23/06/08/1235256&from=rss) - [A Look At Statistics - Through Baseball](https://soylentnews.org/article.pl?sid=23/06/08/1235256&from=rss)
-* [2023-06-09, 00:45:00](https://soylentnews.org/article.pl?sid=23/06/08/013229&from=rss) - [Stinging Tree Injects Promise of Pain Relief](https://soylentnews.org/article.pl?sid=23/06/08/013229&from=rss)
 
 ## [Archives](archives/index.md)
 
