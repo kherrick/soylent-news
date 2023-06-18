@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-18, 23:18:00](https://soylentnews.org/article.pl?sid=23/06/17/1351221&from=rss) - [New Linux and 24 Year Old Portable Hardware:  No Problem](https://soylentnews.org/article.pl?sid=23/06/17/1351221&from=rss)
 * [2023-06-18, 18:35:00](https://soylentnews.org/article.pl?sid=23/06/17/0749245&from=rss) - [Megaupload Duo Plead Guilty in NZ to Avoid US Extradition](https://soylentnews.org/article.pl?sid=23/06/17/0749245&from=rss)
 * [2023-06-18, 13:44:00](https://soylentnews.org/article.pl?sid=23/06/17/0646216&from=rss) - [EU Votes to Bring Back Replaceable Phone Batteries](https://soylentnews.org/article.pl?sid=23/06/17/0646216&from=rss)
 * [2023-06-18, 09:05:00](https://soylentnews.org/article.pl?sid=23/06/17/0416219&from=rss) - [Paul McCartney: AI Has Enabled a “Final” Beatles Song](https://soylentnews.org/article.pl?sid=23/06/17/0416219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-10, 05:15:00](https://soylentnews.org/article.pl?sid=23/06/09/0552214&from=rss) - [Used Coffee Pods Can be Recycled to Produce Filaments for 3D Printing](https://soylentnews.org/article.pl?sid=23/06/09/0552214&from=rss)
 * [2023-06-10, 00:31:00](https://soylentnews.org/article.pl?sid=23/06/09/0117256&from=rss) - [This Electric Cruise Ship Will Use Three Giant Retractable Solar Panels to Power It at Sea](https://soylentnews.org/article.pl?sid=23/06/09/0117256&from=rss)
 * [2023-06-09, 19:48:00](https://soylentnews.org/article.pl?sid=23/06/09/013254&from=rss) - [The Other Side of the Story: How Evolution Impacts the Environment](https://soylentnews.org/article.pl?sid=23/06/09/013254&from=rss)
-* [2023-06-09, 15:03:00](https://soylentnews.org/article.pl?sid=23/06/09/0014225&from=rss) - [Google \"We Have No Moat, and Neither Does OpenAI\"](https://soylentnews.org/article.pl?sid=23/06/09/0014225&from=rss)
 
 ## [Archives](archives/index.md)
 
