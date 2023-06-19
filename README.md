@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-19, 22:43:00](https://soylentnews.org/article.pl?sid=23/06/19/0715256&from=rss) - [IBM Says It's Made a Big Breakthrough in Quantum Computing](https://soylentnews.org/article.pl?sid=23/06/19/0715256&from=rss)
 * [2023-06-19, 17:59:00](https://soylentnews.org/article.pl?sid=23/06/18/2026235&from=rss) - [The Legend of \"x86 CPUs Decode Instructions Into RISC Form Internally\"](https://soylentnews.org/article.pl?sid=23/06/18/2026235&from=rss)
 * [2023-06-19, 13:24:00](https://soylentnews.org/article.pl?sid=23/06/18/1725211&from=rss) - [Why Good Weather Isn't a Good Thing for Stock Markets](https://soylentnews.org/article.pl?sid=23/06/18/1725211&from=rss)
 * [2023-06-19, 08:40:00](https://soylentnews.org/article.pl?sid=23/06/17/1840209&from=rss) - [iPhone Maker Foxconn to Switch to Cars as US-China Ties Sour](https://soylentnews.org/article.pl?sid=23/06/17/1840209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-11, 00:11:00](https://soylentnews.org/article.pl?sid=23/06/09/1937210&from=rss) - [Why Do Champagne Bubbles Rise the Way They Do?](https://soylentnews.org/article.pl?sid=23/06/09/1937210&from=rss)
 * [2023-06-10, 19:26:00](https://soylentnews.org/article.pl?sid=23/06/09/1928254&from=rss) - [US Patent Office Proposes Rule to Make it Much Harder to Kill Bad Patents](https://soylentnews.org/article.pl?sid=23/06/09/1928254&from=rss)
 * [2023-06-10, 14:43:00](https://soylentnews.org/article.pl?sid=23/06/09/1916252&from=rss) - [California Hospital Staff Call for Halt of Surgeries Over Bizarre Particles](https://soylentnews.org/article.pl?sid=23/06/09/1916252&from=rss)
-* [2023-06-10, 12:51:00](https://soylentnews.org/article.pl?sid=23/06/10/1325221&from=rss) - [I Tip My Hat to Martyb - a Heartfelt 'Congratulations'](https://soylentnews.org/article.pl?sid=23/06/10/1325221&from=rss)
 
 ## [Archives](archives/index.md)
 
