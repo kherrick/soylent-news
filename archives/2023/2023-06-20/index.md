@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 22:30:00](https://soylentnews.org/article.pl?sid=23/06/20/0144204&from=rss) - [The Four Freedoms and The One Obligation of Free Software](https://soylentnews.org/article.pl?sid=23/06/20/0144204&from=rss)
 * [2023-06-20, 17:42:00](https://soylentnews.org/article.pl?sid=23/06/20/0135214&from=rss) - [Physicists Split Bits of Sound Using Quantum Mechanics](https://soylentnews.org/article.pl?sid=23/06/20/0135214&from=rss)
 * [2023-06-20, 12:59:00](https://soylentnews.org/article.pl?sid=23/06/20/0123240&from=rss) - [Today's AI is Artificial Artificial Artificial Intelligence](https://soylentnews.org/article.pl?sid=23/06/20/0123240&from=rss)
 * [2023-06-20, 08:14:00](https://soylentnews.org/article.pl?sid=23/06/19/185201&from=rss) - [MSI Launches Power Supply With Yellow Connectors to Prevent 16-Pin Connector Meltdowns](https://soylentnews.org/article.pl?sid=23/06/19/185201&from=rss)
