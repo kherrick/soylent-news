@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-20, 05:51:00](https://soylentnews.org/article.pl?sid=23/06/20/0158238&from=rss) - [Search and Rescue Operation Underway for Submarine Visiting the Titanic Wreck](https://soylentnews.org/article.pl?sid=23/06/20/0158238&from=rss)
 * [2023-06-20, 03:28:00](https://soylentnews.org/article.pl?sid=23/06/19/169217&from=rss) - [Is the US Trying to Kill Crypto-Currency?](https://soylentnews.org/article.pl?sid=23/06/19/169217&from=rss)
 * [2023-06-19, 22:43:00](https://soylentnews.org/article.pl?sid=23/06/19/0715256&from=rss) - [IBM Says It's Made a Big Breakthrough in Quantum Computing](https://soylentnews.org/article.pl?sid=23/06/19/0715256&from=rss)
 * [2023-06-19, 17:59:00](https://soylentnews.org/article.pl?sid=23/06/18/2026235&from=rss) - [The Legend of \"x86 CPUs Decode Instructions Into RISC Form Internally\"](https://soylentnews.org/article.pl?sid=23/06/18/2026235&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-11, 09:17:00](https://soylentnews.org/article.pl?sid=23/06/10/0130251&from=rss) - [A Telescope Happened to be Pointing at the Brightest Supernova Yet Observed](https://soylentnews.org/article.pl?sid=23/06/10/0130251&from=rss)
 * [2023-06-11, 05:00:00](https://soylentnews.org/article.pl?sid=23/06/10/0053235&from=rss) - [Google DeepMind’s Game-Playing AI Just Found Another Way to Make Code Faster](https://soylentnews.org/article.pl?sid=23/06/10/0053235&from=rss)
 * [2023-06-11, 00:11:00](https://soylentnews.org/article.pl?sid=23/06/09/1937210&from=rss) - [Why Do Champagne Bubbles Rise the Way They Do?](https://soylentnews.org/article.pl?sid=23/06/09/1937210&from=rss)
-* [2023-06-10, 19:26:00](https://soylentnews.org/article.pl?sid=23/06/09/1928254&from=rss) - [US Patent Office Proposes Rule to Make it Much Harder to Kill Bad Patents](https://soylentnews.org/article.pl?sid=23/06/09/1928254&from=rss)
 
 ## [Archives](archives/index.md)
 
