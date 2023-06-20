@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-20, 17:42:00](https://soylentnews.org/article.pl?sid=23/06/20/0135214&from=rss) - [Physicists Split Bits of Sound Using Quantum Mechanics](https://soylentnews.org/article.pl?sid=23/06/20/0135214&from=rss)
 * [2023-06-20, 12:59:00](https://soylentnews.org/article.pl?sid=23/06/20/0123240&from=rss) - [Today's AI is Artificial Artificial Artificial Intelligence](https://soylentnews.org/article.pl?sid=23/06/20/0123240&from=rss)
 * [2023-06-20, 08:14:00](https://soylentnews.org/article.pl?sid=23/06/19/185201&from=rss) - [MSI Launches Power Supply With Yellow Connectors to Prevent 16-Pin Connector Meltdowns](https://soylentnews.org/article.pl?sid=23/06/19/185201&from=rss)
 * [2023-06-20, 05:51:00](https://soylentnews.org/article.pl?sid=23/06/20/0158238&from=rss) - [Search and Rescue Operation Underway for Submarine Visiting the Titanic Wreck](https://soylentnews.org/article.pl?sid=23/06/20/0158238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-11, 22:56:00](https://soylentnews.org/article.pl?sid=23/06/11/0438209&from=rss) - [Critical Schrödinger Cat Code: Quantum Computing Breakthrough for Better Qubits](https://soylentnews.org/article.pl?sid=23/06/11/0438209&from=rss)
 * [2023-06-11, 18:46:00](https://soylentnews.org/article.pl?sid=23/06/10/2318211&from=rss) - [I Just Bought the Only Physical Encyclopedia Still in Print, and I Regret Nothing](https://soylentnews.org/article.pl?sid=23/06/10/2318211&from=rss)
 * [2023-06-11, 14:01:00](https://soylentnews.org/article.pl?sid=23/06/10/083230&from=rss) - [Breaking into the Church of Math](https://soylentnews.org/article.pl?sid=23/06/10/083230&from=rss)
-* [2023-06-11, 09:17:00](https://soylentnews.org/article.pl?sid=23/06/10/0130251&from=rss) - [A Telescope Happened to be Pointing at the Brightest Supernova Yet Observed](https://soylentnews.org/article.pl?sid=23/06/10/0130251&from=rss)
 
 ## [Archives](archives/index.md)
 
