@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-21, 15:38:00](https://soylentnews.org/article.pl?sid=23/06/21/1255222&from=rss) - [US Sanctions Ignite Booming Black Market for Nvidia AI Chips in China](https://soylentnews.org/article.pl?sid=23/06/21/1255222&from=rss)
 * [2023-06-21, 12:50:00](https://soylentnews.org/article.pl?sid=23/06/20/2239243&from=rss) - [Ongoing Reddit Woes:  Blackout Explained, Threatened Hacker Leak, Creative Continuing Protests](https://soylentnews.org/article.pl?sid=23/06/20/2239243&from=rss)
 * [2023-06-21, 08:04:00](https://soylentnews.org/article.pl?sid=23/06/20/1621244&from=rss) - [Research Shows Mobile Phone Users Do Not Understand What Data They Might be Sharing](https://soylentnews.org/article.pl?sid=23/06/20/1621244&from=rss)
 * [2023-06-21, 03:15:00](https://soylentnews.org/article.pl?sid=23/06/20/0547250&from=rss) - [The Number of Farms in the World is Declining](https://soylentnews.org/article.pl?sid=23/06/20/0547250&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-12, 20:50:00](https://soylentnews.org/article.pl?sid=23/06/12/0038218&from=rss) - [Jiu Jitsu Club Helps Advance Forensic Research into Fiber Transfer During Assaults](https://soylentnews.org/article.pl?sid=23/06/12/0038218&from=rss)
 * [2023-06-12, 16:05:00](https://soylentnews.org/article.pl?sid=23/06/11/1612201&from=rss) - [The Illusion of Moral Decline](https://soylentnews.org/article.pl?sid=23/06/11/1612201&from=rss)
 * [2023-06-12, 11:20:00](https://soylentnews.org/article.pl?sid=23/06/11/1555237&from=rss) - [Boeing Hit With Lawsuit Over Alleged “Theft” of SLS Rocket Tools](https://soylentnews.org/article.pl?sid=23/06/11/1555237&from=rss)
-* [2023-06-12, 06:34:00](https://soylentnews.org/article.pl?sid=23/06/11/1535257&from=rss) - [Here's What Happens When You Send a NASCAR Stock Car to Le Mans](https://soylentnews.org/article.pl?sid=23/06/11/1535257&from=rss)
 
 ## [Archives](archives/index.md)
 
