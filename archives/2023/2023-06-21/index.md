@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 08:04:00](https://soylentnews.org/article.pl?sid=23/06/20/1621244&from=rss) - [Research Shows Mobile Phone Users Do Not Understand What Data They Might be Sharing](https://soylentnews.org/article.pl?sid=23/06/20/1621244&from=rss)
 * [2023-06-21, 03:15:00](https://soylentnews.org/article.pl?sid=23/06/20/0547250&from=rss) - [The Number of Farms in the World is Declining](https://soylentnews.org/article.pl?sid=23/06/20/0547250&from=rss)

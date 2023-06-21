@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-21, 08:04:00](https://soylentnews.org/article.pl?sid=23/06/20/1621244&from=rss) - [Research Shows Mobile Phone Users Do Not Understand What Data They Might be Sharing](https://soylentnews.org/article.pl?sid=23/06/20/1621244&from=rss)
 * [2023-06-21, 03:15:00](https://soylentnews.org/article.pl?sid=23/06/20/0547250&from=rss) - [The Number of Farms in the World is Declining](https://soylentnews.org/article.pl?sid=23/06/20/0547250&from=rss)
 * [2023-06-20, 22:30:00](https://soylentnews.org/article.pl?sid=23/06/20/0144204&from=rss) - [The Four Freedoms and The One Obligation of Free Software](https://soylentnews.org/article.pl?sid=23/06/20/0144204&from=rss)
 * [2023-06-20, 17:42:00](https://soylentnews.org/article.pl?sid=23/06/20/0135214&from=rss) - [Physicists Split Bits of Sound Using Quantum Mechanics](https://soylentnews.org/article.pl?sid=23/06/20/0135214&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-12, 11:20:00](https://soylentnews.org/article.pl?sid=23/06/11/1555237&from=rss) - [Boeing Hit With Lawsuit Over Alleged “Theft” of SLS Rocket Tools](https://soylentnews.org/article.pl?sid=23/06/11/1555237&from=rss)
 * [2023-06-12, 06:34:00](https://soylentnews.org/article.pl?sid=23/06/11/1535257&from=rss) - [Here's What Happens When You Send a NASCAR Stock Car to Le Mans](https://soylentnews.org/article.pl?sid=23/06/11/1535257&from=rss)
 * [2023-06-12, 01:44:00](https://soylentnews.org/article.pl?sid=23/06/11/1049200&from=rss) - [Barracuda Urges Replacing — Not Patching — its Email Security Gateways](https://soylentnews.org/article.pl?sid=23/06/11/1049200&from=rss)
-* [2023-06-11, 22:56:00](https://soylentnews.org/article.pl?sid=23/06/11/0438209&from=rss) - [Critical Schrödinger Cat Code: Quantum Computing Breakthrough for Better Qubits](https://soylentnews.org/article.pl?sid=23/06/11/0438209&from=rss)
 
 ## [Archives](archives/index.md)
 
