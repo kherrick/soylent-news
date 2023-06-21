@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-21](index.md)
+
+* [2023-06-21, 03:15:00](https://soylentnews.org/article.pl?sid=23/06/20/0547250&from=rss) - [The Number of Farms in the World is Declining](https://soylentnews.org/article.pl?sid=23/06/20/0547250&from=rss)
