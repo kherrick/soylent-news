@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-21, 22:21:00](https://soylentnews.org/article.pl?sid=23/06/21/0335227&from=rss) - [Open-Source Autonomous Driving Data Set Released](https://soylentnews.org/article.pl?sid=23/06/21/0335227&from=rss)
 * [2023-06-21, 17:36:00](https://soylentnews.org/article.pl?sid=23/06/20/231236&from=rss) - [Taurine Makes Mice Live Longer](https://soylentnews.org/article.pl?sid=23/06/20/231236&from=rss)
 * [2023-06-21, 15:38:00](https://soylentnews.org/article.pl?sid=23/06/21/1255222&from=rss) - [US Sanctions Ignite Booming Black Market for Nvidia AI Chips in China](https://soylentnews.org/article.pl?sid=23/06/21/1255222&from=rss)
 * [2023-06-21, 15:28:00](https://soylentnews.org/meta/article.pl?sid=23/06/21/1510252&from=rss) - [Updates From SoylentNews PBC](https://soylentnews.org/meta/article.pl?sid=23/06/21/1510252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-13, 11:03:00](https://soylentnews.org/article.pl?sid=23/06/12/1111251&from=rss) - [Man's WW2 Codebook Unearths St Erth's 'Best-Kept Secret'](https://soylentnews.org/article.pl?sid=23/06/12/1111251&from=rss)
 * [2023-06-13, 06:13:00](https://soylentnews.org/article.pl?sid=23/06/12/0454220&from=rss) - [Apple Has a Proton-Like Game Porting Toolkit for Getting Windows Games on Mac](https://soylentnews.org/article.pl?sid=23/06/12/0454220&from=rss)
 * [2023-06-13, 01:34:00](https://soylentnews.org/article.pl?sid=23/06/12/0452216&from=rss) - [Reddit Rollup: IPO Dreams and Developer Discontent](https://soylentnews.org/article.pl?sid=23/06/12/0452216&from=rss)
-* [2023-06-12, 20:50:00](https://soylentnews.org/article.pl?sid=23/06/12/0038218&from=rss) - [Jiu Jitsu Club Helps Advance Forensic Research into Fiber Transfer During Assaults](https://soylentnews.org/article.pl?sid=23/06/12/0038218&from=rss)
 
 ## [Archives](archives/index.md)
 
