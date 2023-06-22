@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-22, 12:38:00](https://soylentnews.org/article.pl?sid=23/06/22/0047212&from=rss) - [Micro Center to Launch New Stores in Miami and Charlotte Next Year](https://soylentnews.org/article.pl?sid=23/06/22/0047212&from=rss)
 * [2023-06-22, 07:52:00](https://soylentnews.org/article.pl?sid=23/06/21/1224244&from=rss) - [Music Publishers Sue Twitter for $250 Million Over Copyright Infringement Claims](https://soylentnews.org/article.pl?sid=23/06/21/1224244&from=rss)
 * [2023-06-22, 03:07:00](https://soylentnews.org/article.pl?sid=23/06/21/1219235&from=rss) - [Semiconductor Lasers Hit Steel-Slicing Levels](https://soylentnews.org/article.pl?sid=23/06/21/1219235&from=rss)
 * [2023-06-21, 22:21:00](https://soylentnews.org/article.pl?sid=23/06/21/0335227&from=rss) - [Open-Source Autonomous Driving Data Set Released](https://soylentnews.org/article.pl?sid=23/06/21/0335227&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-14, 01:23:00](https://soylentnews.org/article.pl?sid=23/06/13/0355206&from=rss) - [NASA Says There May be Life on the Moon After All](https://soylentnews.org/article.pl?sid=23/06/13/0355206&from=rss)
 * [2023-06-13, 20:37:00](https://soylentnews.org/article.pl?sid=23/06/12/2148245&from=rss) - [Research Shows How Hackers Can Target Smart Meters to Destabilize Electricity Grid](https://soylentnews.org/article.pl?sid=23/06/12/2148245&from=rss)
 * [2023-06-13, 15:53:00](https://soylentnews.org/article.pl?sid=23/06/12/1234226&from=rss) - [How Painted Bricks Could Have Contributed to the Recent Iowa Building Collapse](https://soylentnews.org/article.pl?sid=23/06/12/1234226&from=rss)
-* [2023-06-13, 11:03:00](https://soylentnews.org/article.pl?sid=23/06/12/1111251&from=rss) - [Man's WW2 Codebook Unearths St Erth's 'Best-Kept Secret'](https://soylentnews.org/article.pl?sid=23/06/12/1111251&from=rss)
 
 ## [Archives](archives/index.md)
 
