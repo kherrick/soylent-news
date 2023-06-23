@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-23, 21:44:00](https://soylentnews.org/article.pl?sid=23/06/23/0228209&from=rss) - [Five Big Takeaways From Europe’s AI Act](https://soylentnews.org/article.pl?sid=23/06/23/0228209&from=rss)
 * [2023-06-23, 17:01:00](https://soylentnews.org/article.pl?sid=23/06/23/0213229&from=rss) - [Intel to Start Shipping a Quantum Processor](https://soylentnews.org/article.pl?sid=23/06/23/0213229&from=rss)
 * [2023-06-23, 12:13:00](https://soylentnews.org/article.pl?sid=23/06/22/1754214&from=rss) - [ASUS Urges Customers to Patch Critical Router Vulnerabilities](https://soylentnews.org/article.pl?sid=23/06/22/1754214&from=rss)
 * [2023-06-23, 07:28:00](https://soylentnews.org/article.pl?sid=23/06/22/1525250&from=rss) - [Book Review: Lost Moon](https://soylentnews.org/article.pl?sid=23/06/22/1525250&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-15, 10:20:00](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss) - [Hackers Can Steal Cryptographic Keys by Video-recording Power LEDs 60 Feet Away](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss)
 * [2023-06-15, 05:42:00](https://soylentnews.org/article.pl?sid=23/06/13/1953209&from=rss) - [Why Are There So Few Insects in the Ocean?](https://soylentnews.org/article.pl?sid=23/06/13/1953209&from=rss)
 * [2023-06-15, 01:06:00](https://soylentnews.org/article.pl?sid=23/06/13/1947233&from=rss) - [AMD Announces 128-Core Bergamo CPUs, and 96-Core Genoa-X With Over 1 GB of L3 Cache](https://soylentnews.org/article.pl?sid=23/06/13/1947233&from=rss)
-* [2023-06-14, 20:18:00](https://soylentnews.org/article.pl?sid=23/06/13/1949254&from=rss) - [US Moves to Block Microsoft's Activision Takeover](https://soylentnews.org/article.pl?sid=23/06/13/1949254&from=rss)
 
 ## [Archives](archives/index.md)
 
