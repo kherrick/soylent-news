@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-24, 21:30:00](https://soylentnews.org/article.pl?sid=23/06/23/1639207&from=rss) - [LexisNexis is Selling Your Personal Data to ICE So It Can Try to Predict Crimes](https://soylentnews.org/article.pl?sid=23/06/23/1639207&from=rss)
 * [2023-06-24, 16:46:00](https://soylentnews.org/article.pl?sid=23/06/23/1618254&from=rss) - [MIT Engineers Develop a Metal-Free Electrode](https://soylentnews.org/article.pl?sid=23/06/23/1618254&from=rss)
 * [2023-06-24, 12:06:00](https://soylentnews.org/article.pl?sid=23/06/23/063200&from=rss) - [Don't Call It Panic Buying If It's Rational](https://soylentnews.org/article.pl?sid=23/06/23/063200&from=rss)
 * [2023-06-24, 07:17:00](https://soylentnews.org/article.pl?sid=23/06/23/0558213&from=rss) - [The Science of Attraction: Why Do We Fall for Certain People?](https://soylentnews.org/article.pl?sid=23/06/23/0558213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-16, 09:33:00](https://soylentnews.org/article.pl?sid=23/06/15/1219205&from=rss) - [NASA to Voyage to 'Golden Asteroid' Worth $10,000 Quadrillion This Fall](https://soylentnews.org/article.pl?sid=23/06/15/1219205&from=rss)
 * [2023-06-16, 04:46:00](https://soylentnews.org/article.pl?sid=23/06/15/0221237&from=rss) - [Elon Musk’s Starship Won’t Save Astronomy from Satellites Cluttering the Sky](https://soylentnews.org/article.pl?sid=23/06/15/0221237&from=rss)
 * [2023-06-16, 00:11:00](https://soylentnews.org/article.pl?sid=23/06/15/0032258&from=rss) - [Comcast Complains to FCC That Listing All of its Monthly Fees is Too Hard](https://soylentnews.org/article.pl?sid=23/06/15/0032258&from=rss)
-* [2023-06-15, 19:41:00](https://soylentnews.org/article.pl?sid=23/06/14/176228&from=rss) - [Shell Recharge Security Lapse Exposed EV Drivers' Data](https://soylentnews.org/article.pl?sid=23/06/14/176228&from=rss)
 
 ## [Archives](archives/index.md)
 
