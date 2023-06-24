@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-24](index.md)
+
+* [2023-06-24, 02:30:00](https://soylentnews.org/article.pl?sid=23/06/23/0234257&from=rss) - [Orcas Rock a Fishing Yacht 4800km From Gibraltar](https://soylentnews.org/article.pl?sid=23/06/23/0234257&from=rss)
