@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-24, 12:06:00](https://soylentnews.org/article.pl?sid=23/06/23/063200&from=rss) - [Don't Call It Panic Buying If It's Rational](https://soylentnews.org/article.pl?sid=23/06/23/063200&from=rss)
 * [2023-06-24, 07:17:00](https://soylentnews.org/article.pl?sid=23/06/23/0558213&from=rss) - [The Science of Attraction: Why Do We Fall for Certain People?](https://soylentnews.org/article.pl?sid=23/06/23/0558213&from=rss)
 * [2023-06-24, 02:30:00](https://soylentnews.org/article.pl?sid=23/06/23/0234257&from=rss) - [Orcas Rock a Fishing Yacht 4800km From Gibraltar](https://soylentnews.org/article.pl?sid=23/06/23/0234257&from=rss)
 * [2023-06-23, 21:44:00](https://soylentnews.org/article.pl?sid=23/06/23/0228209&from=rss) - [Five Big Takeaways From Europe’s AI Act](https://soylentnews.org/article.pl?sid=23/06/23/0228209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-16, 00:11:00](https://soylentnews.org/article.pl?sid=23/06/15/0032258&from=rss) - [Comcast Complains to FCC That Listing All of its Monthly Fees is Too Hard](https://soylentnews.org/article.pl?sid=23/06/15/0032258&from=rss)
 * [2023-06-15, 19:41:00](https://soylentnews.org/article.pl?sid=23/06/14/176228&from=rss) - [Shell Recharge Security Lapse Exposed EV Drivers' Data](https://soylentnews.org/article.pl?sid=23/06/14/176228&from=rss)
 * [2023-06-15, 15:00:00](https://soylentnews.org/article.pl?sid=23/06/14/034256&from=rss) - [Autonomous Waymo car runs over dog in San Francisco](https://soylentnews.org/article.pl?sid=23/06/14/034256&from=rss)
-* [2023-06-15, 10:20:00](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss) - [Hackers Can Steal Cryptographic Keys by Video-recording Power LEDs 60 Feet Away](https://soylentnews.org/article.pl?sid=23/06/14/0256238&from=rss)
 
 ## [Archives](archives/index.md)
 
