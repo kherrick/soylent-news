@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-25, 11:43:00](https://soylentnews.org/article.pl?sid=23/06/24/0430234&from=rss) - [Camera Review Site DPReview Finds a Buyer, Avoids Shutdown by Amazon](https://soylentnews.org/article.pl?sid=23/06/24/0430234&from=rss)
 * [2023-06-25, 06:57:00](https://soylentnews.org/article.pl?sid=23/06/24/0426223&from=rss) - [A Comprehensive Analysis of the GPL Issues With the Red Hat Enterprise Linux (RHEL) Business Model](https://soylentnews.org/article.pl?sid=23/06/24/0426223&from=rss)
 * [2023-06-25, 02:13:00](https://soylentnews.org/article.pl?sid=23/06/24/0254248&from=rss) - [Billionaires' Brawl: Tech Titans Opt for the Ring](https://soylentnews.org/article.pl?sid=23/06/24/0254248&from=rss)
 * [2023-06-24, 21:30:00](https://soylentnews.org/article.pl?sid=23/06/23/1639207&from=rss) - [LexisNexis is Selling Your Personal Data to ICE So It Can Try to Predict Crimes](https://soylentnews.org/article.pl?sid=23/06/23/1639207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-16, 23:49:00](https://soylentnews.org/article.pl?sid=23/06/15/1510225&from=rss) - [Google Risks Forced Breakup of Ad Business as EU Alleges Shocking Misconduct](https://soylentnews.org/article.pl?sid=23/06/15/1510225&from=rss)
 * [2023-06-16, 18:58:00](https://soylentnews.org/article.pl?sid=23/06/15/1456251&from=rss) - [College Student Solves Seemingly Paradoxical Math Problem ](https://soylentnews.org/article.pl?sid=23/06/15/1456251&from=rss)
 * [2023-06-16, 14:15:00](https://soylentnews.org/article.pl?sid=23/06/15/1226254&from=rss) - [Former ByteDance Exec Says China Can Access TikTok User Data, Even When It's Stored on US Soil](https://soylentnews.org/article.pl?sid=23/06/15/1226254&from=rss)
-* [2023-06-16, 09:33:00](https://soylentnews.org/article.pl?sid=23/06/15/1219205&from=rss) - [NASA to Voyage to 'Golden Asteroid' Worth $10,000 Quadrillion This Fall](https://soylentnews.org/article.pl?sid=23/06/15/1219205&from=rss)
 
 ## [Archives](archives/index.md)
 
