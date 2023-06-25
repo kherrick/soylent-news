@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-25, 21:13:00](https://soylentnews.org/article.pl?sid=23/06/24/0441219&from=rss) - [Liquid Metal Could Turn Everyday Things Like Paper Into Smart Objects](https://soylentnews.org/article.pl?sid=23/06/24/0441219&from=rss)
 * [2023-06-25, 16:28:00](https://soylentnews.org/article.pl?sid=23/06/24/0433209&from=rss) - [Video Chess Disassembled and Commented](https://soylentnews.org/article.pl?sid=23/06/24/0433209&from=rss)
 * [2023-06-25, 11:43:00](https://soylentnews.org/article.pl?sid=23/06/24/0430234&from=rss) - [Camera Review Site DPReview Finds a Buyer, Avoids Shutdown by Amazon](https://soylentnews.org/article.pl?sid=23/06/24/0430234&from=rss)
 * [2023-06-25, 06:57:00](https://soylentnews.org/article.pl?sid=23/06/24/0426223&from=rss) - [A Comprehensive Analysis of the GPL Issues With the Red Hat Enterprise Linux (RHEL) Business Model](https://soylentnews.org/article.pl?sid=23/06/24/0426223&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-17, 09:18:00](https://soylentnews.org/article.pl?sid=23/06/16/1529229&from=rss) - [Another 16-pin RTX 4090 Power Adapter Has Melted, but From the PSU Side This Time](https://soylentnews.org/article.pl?sid=23/06/16/1529229&from=rss)
 * [2023-06-17, 04:34:00](https://soylentnews.org/article.pl?sid=23/06/16/0542221&from=rss) - [Russia-Backed Hackers Unleash New USB-Based Malware on Ukraine's Military](https://soylentnews.org/article.pl?sid=23/06/16/0542221&from=rss)
 * [2023-06-16, 23:49:00](https://soylentnews.org/article.pl?sid=23/06/15/1510225&from=rss) - [Google Risks Forced Breakup of Ad Business as EU Alleges Shocking Misconduct](https://soylentnews.org/article.pl?sid=23/06/15/1510225&from=rss)
-* [2023-06-16, 18:58:00](https://soylentnews.org/article.pl?sid=23/06/15/1456251&from=rss) - [College Student Solves Seemingly Paradoxical Math Problem ](https://soylentnews.org/article.pl?sid=23/06/15/1456251&from=rss)
 
 ## [Archives](archives/index.md)
 
