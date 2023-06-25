@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 06:57:00](https://soylentnews.org/article.pl?sid=23/06/24/0426223&from=rss) - [A Comprehensive Analysis of the GPL Issues With the Red Hat Enterprise Linux (RHEL) Business Model](https://soylentnews.org/article.pl?sid=23/06/24/0426223&from=rss)
 * [2023-06-25, 02:13:00](https://soylentnews.org/article.pl?sid=23/06/24/0254248&from=rss) - [Billionaires' Brawl: Tech Titans Opt for the Ring](https://soylentnews.org/article.pl?sid=23/06/24/0254248&from=rss)
