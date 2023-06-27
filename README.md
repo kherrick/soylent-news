@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-27, 05:23:00](https://soylentnews.org/article.pl?sid=23/06/26/1149235&from=rss) - [Ford Motor Company is Planning a Big EV Future](https://soylentnews.org/article.pl?sid=23/06/26/1149235&from=rss)
 * [2023-06-27, 00:41:00](https://soylentnews.org/article.pl?sid=23/06/26/0444201&from=rss) - [Butterfly Tree of Life Reveals an Origin in North America](https://soylentnews.org/article.pl?sid=23/06/26/0444201&from=rss)
 * [2023-06-26, 19:55:00](https://soylentnews.org/article.pl?sid=23/06/25/2328254&from=rss) - [Meta Says its New Speech-generating AI Tool is Too Dangerous to Release](https://soylentnews.org/article.pl?sid=23/06/25/2328254&from=rss)
 * [2023-06-26, 15:13:00](https://soylentnews.org/article.pl?sid=23/06/25/1912241&from=rss) - [Writing With AI Help Can Shift Your Opinions](https://soylentnews.org/article.pl?sid=23/06/25/1912241&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-18, 18:35:00](https://soylentnews.org/article.pl?sid=23/06/17/0749245&from=rss) - [Megaupload Duo Plead Guilty in NZ to Avoid US Extradition](https://soylentnews.org/article.pl?sid=23/06/17/0749245&from=rss)
 * [2023-06-18, 13:44:00](https://soylentnews.org/article.pl?sid=23/06/17/0646216&from=rss) - [EU Votes to Bring Back Replaceable Phone Batteries](https://soylentnews.org/article.pl?sid=23/06/17/0646216&from=rss)
 * [2023-06-18, 09:05:00](https://soylentnews.org/article.pl?sid=23/06/17/0416219&from=rss) - [Paul McCartney: AI Has Enabled a “Final” Beatles Song](https://soylentnews.org/article.pl?sid=23/06/17/0416219&from=rss)
-* [2023-06-18, 04:19:00](https://soylentnews.org/article.pl?sid=23/06/17/0411226&from=rss) - [Video Ads Are Coming to Uber, So I'm Switching to a Competitor](https://soylentnews.org/article.pl?sid=23/06/17/0411226&from=rss)
 
 ## [Archives](archives/index.md)
 
