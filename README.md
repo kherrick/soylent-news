@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-28, 05:20:00](https://soylentnews.org/article.pl?sid=23/06/27/1210252&from=rss) - [RIP to My Pixel Fold: Dead After Four Days](https://soylentnews.org/article.pl?sid=23/06/27/1210252&from=rss)
 * [2023-06-28, 00:35:00](https://soylentnews.org/article.pl?sid=23/06/27/0427215&from=rss) - [How to Kill a Decentralised Network (Such as the Fediverse)](https://soylentnews.org/article.pl?sid=23/06/27/0427215&from=rss)
 * [2023-06-27, 19:48:00](https://soylentnews.org/article.pl?sid=23/06/27/0414235&from=rss) - [Extending Earth's Internet to Mars With Orbital Data Servers](https://soylentnews.org/article.pl?sid=23/06/27/0414235&from=rss)
 * [2023-06-27, 15:01:00](https://soylentnews.org/article.pl?sid=23/06/26/122207&from=rss) - [Australia Gives Twitter Legal Notice to Clean Up Online Hate Content](https://soylentnews.org/article.pl?sid=23/06/26/122207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-19, 17:59:00](https://soylentnews.org/article.pl?sid=23/06/18/2026235&from=rss) - [The Legend of \"x86 CPUs Decode Instructions Into RISC Form Internally\"](https://soylentnews.org/article.pl?sid=23/06/18/2026235&from=rss)
 * [2023-06-19, 13:24:00](https://soylentnews.org/article.pl?sid=23/06/18/1725211&from=rss) - [Why Good Weather Isn't a Good Thing for Stock Markets](https://soylentnews.org/article.pl?sid=23/06/18/1725211&from=rss)
 * [2023-06-19, 08:40:00](https://soylentnews.org/article.pl?sid=23/06/17/1840209&from=rss) - [iPhone Maker Foxconn to Switch to Cars as US-China Ties Sour](https://soylentnews.org/article.pl?sid=23/06/17/1840209&from=rss)
-* [2023-06-19, 04:04:00](https://soylentnews.org/article.pl?sid=23/06/17/1750235&from=rss) - [Misconceptions Put Women Off STEM Subjects](https://soylentnews.org/article.pl?sid=23/06/17/1750235&from=rss)
 
 ## [Archives](archives/index.md)
 
