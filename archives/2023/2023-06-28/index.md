@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-28](index.md)
+
+* [2023-06-28, 00:35:00](https://soylentnews.org/article.pl?sid=23/06/27/0427215&from=rss) - [How to Kill a Decentralised Network (Such as the Fediverse)](https://soylentnews.org/article.pl?sid=23/06/27/0427215&from=rss)
