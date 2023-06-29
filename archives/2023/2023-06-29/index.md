@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-29](index.md)
+
+* [2023-06-29, 00:20:00](https://soylentnews.org/article.pl?sid=23/06/28/0158237&from=rss) - [James Webb Space Telescope Detects Methyl Cation (Carbon Compound) in Protoplanetary Disk](https://soylentnews.org/article.pl?sid=23/06/28/0158237&from=rss)

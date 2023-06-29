@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-29, 00:20:00](https://soylentnews.org/article.pl?sid=23/06/28/0158237&from=rss) - [James Webb Space Telescope Detects Methyl Cation (Carbon Compound) in Protoplanetary Disk](https://soylentnews.org/article.pl?sid=23/06/28/0158237&from=rss)
 * [2023-06-28, 19:35:00](https://soylentnews.org/article.pl?sid=23/06/27/1349241&from=rss) - [Jail Terms in UK for Sharing or Creating Explicit Images Without Consent](https://soylentnews.org/article.pl?sid=23/06/27/1349241&from=rss)
 * [2023-06-28, 14:45:00](https://soylentnews.org/article.pl?sid=23/06/27/1212208&from=rss) - [MFM Reader](https://soylentnews.org/article.pl?sid=23/06/27/1212208&from=rss)
 * [2023-06-28, 10:01:00](https://soylentnews.org/article.pl?sid=23/06/27/1342205&from=rss) - [Legalese Vs \"Plain English\"](https://soylentnews.org/article.pl?sid=23/06/27/1342205&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-20, 08:14:00](https://soylentnews.org/article.pl?sid=23/06/19/185201&from=rss) - [MSI Launches Power Supply With Yellow Connectors to Prevent 16-Pin Connector Meltdowns](https://soylentnews.org/article.pl?sid=23/06/19/185201&from=rss)
 * [2023-06-20, 05:51:00](https://soylentnews.org/article.pl?sid=23/06/20/0158238&from=rss) - [Search and Rescue Operation Underway for Submarine Visiting the Titanic Wreck](https://soylentnews.org/article.pl?sid=23/06/20/0158238&from=rss)
 * [2023-06-20, 03:28:00](https://soylentnews.org/article.pl?sid=23/06/19/169217&from=rss) - [Is the US Trying to Kill Crypto-Currency?](https://soylentnews.org/article.pl?sid=23/06/19/169217&from=rss)
-* [2023-06-19, 22:43:00](https://soylentnews.org/article.pl?sid=23/06/19/0715256&from=rss) - [IBM Says It's Made a Big Breakthrough in Quantum Computing](https://soylentnews.org/article.pl?sid=23/06/19/0715256&from=rss)
 
 ## [Archives](archives/index.md)
 
