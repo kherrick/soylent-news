@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-30](index.md)
+
+* [2023-06-30, 00:03:00](https://soylentnews.org/article.pl?sid=23/06/29/0135250&from=rss) - [Lithuania's Capital Vilnius to Get 'Europe's Largest Tech Campus,' Costing €100M](https://soylentnews.org/article.pl?sid=23/06/29/0135250&from=rss)

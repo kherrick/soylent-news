@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-06-30, 00:03:00](https://soylentnews.org/article.pl?sid=23/06/29/0135250&from=rss) - [Lithuania's Capital Vilnius to Get 'Europe's Largest Tech Campus,' Costing €100M](https://soylentnews.org/article.pl?sid=23/06/29/0135250&from=rss)
 * [2023-06-29, 19:17:00](https://soylentnews.org/article.pl?sid=23/06/29/0122203&from=rss) - [3-Year Probe Into Encrypted Phones Led to Seizure of Hundreds of Tons of Drugs](https://soylentnews.org/article.pl?sid=23/06/29/0122203&from=rss)
 * [2023-06-29, 14:29:00](https://soylentnews.org/article.pl?sid=23/06/28/1741236&from=rss) - [The Surprisingly Popular World of Online Trainspotting](https://soylentnews.org/article.pl?sid=23/06/28/1741236&from=rss)
 * [2023-06-29, 09:44:00](https://soylentnews.org/article.pl?sid=23/06/28/026215&from=rss) - [AI Helps Show how the Brain’s Fluids Flow](https://soylentnews.org/article.pl?sid=23/06/28/026215&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-21, 08:04:00](https://soylentnews.org/article.pl?sid=23/06/20/1621244&from=rss) - [Research Shows Mobile Phone Users Do Not Understand What Data They Might be Sharing](https://soylentnews.org/article.pl?sid=23/06/20/1621244&from=rss)
 * [2023-06-21, 03:15:00](https://soylentnews.org/article.pl?sid=23/06/20/0547250&from=rss) - [The Number of Farms in the World is Declining](https://soylentnews.org/article.pl?sid=23/06/20/0547250&from=rss)
 * [2023-06-20, 22:30:00](https://soylentnews.org/article.pl?sid=23/06/20/0144204&from=rss) - [The Four Freedoms and The One Obligation of Free Software](https://soylentnews.org/article.pl?sid=23/06/20/0144204&from=rss)
-* [2023-06-20, 17:42:00](https://soylentnews.org/article.pl?sid=23/06/20/0135214&from=rss) - [Physicists Split Bits of Sound Using Quantum Mechanics](https://soylentnews.org/article.pl?sid=23/06/20/0135214&from=rss)
 
 ## [Archives](archives/index.md)
 
