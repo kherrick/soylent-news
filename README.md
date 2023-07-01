@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-01, 04:49:00](https://soylentnews.org/article.pl?sid=23/06/30/0140257&from=rss) - [FTC Prepares “the Big One,” a Major Lawsuit Targeting Amazon's Core Business](https://soylentnews.org/article.pl?sid=23/06/30/0140257&from=rss)
 * [2023-06-30, 23:56:00](https://soylentnews.org/article.pl?sid=23/06/30/0134215&from=rss) - [The Chip Patterning Machines That Will Shape Computing’s Next Act](https://soylentnews.org/article.pl?sid=23/06/30/0134215&from=rss)
 * [2023-06-30, 19:08:00](https://soylentnews.org/article.pl?sid=23/06/30/0015233&from=rss) - [Decades-long Bet on Consciousness Ends](https://soylentnews.org/article.pl?sid=23/06/30/0015233&from=rss)
 * [2023-06-30, 14:18:00](https://soylentnews.org/article.pl?sid=23/06/29/2129241&from=rss) - [Getting Outdoors Reduces Smartphone Use—But Only If You Go Wild](https://soylentnews.org/article.pl?sid=23/06/29/2129241&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-22, 03:07:00](https://soylentnews.org/article.pl?sid=23/06/21/1219235&from=rss) - [Semiconductor Lasers Hit Steel-Slicing Levels](https://soylentnews.org/article.pl?sid=23/06/21/1219235&from=rss)
 * [2023-06-21, 22:21:00](https://soylentnews.org/article.pl?sid=23/06/21/0335227&from=rss) - [Open-Source Autonomous Driving Data Set Released](https://soylentnews.org/article.pl?sid=23/06/21/0335227&from=rss)
 * [2023-06-21, 17:36:00](https://soylentnews.org/article.pl?sid=23/06/20/231236&from=rss) - [Taurine Makes Mice Live Longer](https://soylentnews.org/article.pl?sid=23/06/20/231236&from=rss)
-* [2023-06-21, 15:38:00](https://soylentnews.org/article.pl?sid=23/06/21/1255222&from=rss) - [US Sanctions Ignite Booming Black Market for Nvidia AI Chips in China](https://soylentnews.org/article.pl?sid=23/06/21/1255222&from=rss)
 
 ## [Archives](archives/index.md)
 
