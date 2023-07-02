@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 22:00:00](https://soylentnews.org/article.pl?sid=23/07/01/1441206&from=rss) - [NASA's Mars Helicopter 'Phones Home' After No Contact for 63 Days](https://soylentnews.org/article.pl?sid=23/07/01/1441206&from=rss)
 * [2023-07-02, 17:17:00](https://soylentnews.org/article.pl?sid=23/07/01/1440205&from=rss) - [What's a Park Worth to the Economy?](https://soylentnews.org/article.pl?sid=23/07/01/1440205&from=rss)
 * [2023-07-02, 12:32:00](https://soylentnews.org/article.pl?sid=23/07/01/0346222&from=rss) - [Drone Deployed to Fight Mosquitoes in Southern California](https://soylentnews.org/article.pl?sid=23/07/01/0346222&from=rss)
 * [2023-07-02, 07:51:00](https://soylentnews.org/article.pl?sid=23/07/01/0252227&from=rss) - [Virgin Galactic's First Commercial Spaceflight is a Success](https://soylentnews.org/article.pl?sid=23/07/01/0252227&from=rss)
