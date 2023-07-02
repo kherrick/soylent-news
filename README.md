@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-02, 03:03:00](https://soylentnews.org/article.pl?sid=23/07/01/0244250&from=rss) - [It's Summer [in the Northern Hemisphere] and That Means Disturbing Swim Advisories. Here's Our Top 5](https://soylentnews.org/article.pl?sid=23/07/01/0244250&from=rss)
 * [2023-07-01, 22:20:00](https://soylentnews.org/article.pl?sid=23/06/30/0614243&from=rss) - [Developer Claims Steam is Rejecting Games With AI-Generated Artwork](https://soylentnews.org/article.pl?sid=23/06/30/0614243&from=rss)
 * [2023-07-01, 17:35:00](https://soylentnews.org/article.pl?sid=23/06/30/0216233&from=rss) - [Worldwide survey kills the myth of ‘Man the Hunter’](https://soylentnews.org/article.pl?sid=23/06/30/0216233&from=rss)
 * [2023-07-01, 13:00:00](https://soylentnews.org/article.pl?sid=23/06/30/0211240&from=rss) - [YouTube Scammer Who Stole Millions in Song Royalties Sentenced to 5 Years](https://soylentnews.org/article.pl?sid=23/06/30/0211240&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-23, 02:45:00](https://soylentnews.org/article.pl?sid=23/06/22/0227226&from=rss) - [New Database Offers Insight Into Consequences of Language Loss](https://soylentnews.org/article.pl?sid=23/06/22/0227226&from=rss)
 * [2023-06-22, 22:08:00](https://soylentnews.org/article.pl?sid=23/06/22/019202&from=rss) - [ChatGPT Is Coming to 900,000 Mercedes Vehicles](https://soylentnews.org/article.pl?sid=23/06/22/019202&from=rss)
 * [2023-06-22, 17:21:00](https://soylentnews.org/article.pl?sid=23/06/22/016247&from=rss) - [Scientists Discover Lithium Replacement That May Revolutionize EV Batteries](https://soylentnews.org/article.pl?sid=23/06/22/016247&from=rss)
-* [2023-06-22, 12:38:00](https://soylentnews.org/article.pl?sid=23/06/22/0047212&from=rss) - [Micro Center to Launch New Stores in Miami and Charlotte Next Year](https://soylentnews.org/article.pl?sid=23/06/22/0047212&from=rss)
 
 ## [Archives](archives/index.md)
 
