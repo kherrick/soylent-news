@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-02, 12:32:00](https://soylentnews.org/article.pl?sid=23/07/01/0346222&from=rss) - [Drone Deployed to Fight Mosquitoes in Southern California](https://soylentnews.org/article.pl?sid=23/07/01/0346222&from=rss)
 * [2023-07-02, 07:51:00](https://soylentnews.org/article.pl?sid=23/07/01/0252227&from=rss) - [Virgin Galactic's First Commercial Spaceflight is a Success](https://soylentnews.org/article.pl?sid=23/07/01/0252227&from=rss)
 * [2023-07-02, 03:03:00](https://soylentnews.org/article.pl?sid=23/07/01/0244250&from=rss) - [It's Summer [in the Northern Hemisphere] and That Means Disturbing Swim Advisories. Here's Our Top 5](https://soylentnews.org/article.pl?sid=23/07/01/0244250&from=rss)
 * [2023-07-01, 22:20:00](https://soylentnews.org/article.pl?sid=23/06/30/0614243&from=rss) - [Developer Claims Steam is Rejecting Games With AI-Generated Artwork](https://soylentnews.org/article.pl?sid=23/06/30/0614243&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-23, 07:28:00](https://soylentnews.org/article.pl?sid=23/06/22/1525250&from=rss) - [Book Review: Lost Moon](https://soylentnews.org/article.pl?sid=23/06/22/1525250&from=rss)
 * [2023-06-23, 03:46:00](https://soylentnews.org/article.pl?sid=23/06/23/0348219&from=rss) - [Five Men on Missing Titanic Sub Confirmed Dead After Debris Reveals ‘Catastrophic Implosion’ ](https://soylentnews.org/article.pl?sid=23/06/23/0348219&from=rss)
 * [2023-06-23, 02:45:00](https://soylentnews.org/article.pl?sid=23/06/22/0227226&from=rss) - [New Database Offers Insight Into Consequences of Language Loss](https://soylentnews.org/article.pl?sid=23/06/22/0227226&from=rss)
-* [2023-06-22, 22:08:00](https://soylentnews.org/article.pl?sid=23/06/22/019202&from=rss) - [ChatGPT Is Coming to 900,000 Mercedes Vehicles](https://soylentnews.org/article.pl?sid=23/06/22/019202&from=rss)
 
 ## [Archives](archives/index.md)
 
