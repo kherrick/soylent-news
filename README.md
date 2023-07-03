@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-03, 02:49:00](https://soylentnews.org/article.pl?sid=23/07/02/1451236&from=rss) - [Potential Genetic Markers of Multiple Sclerosis Severity](https://soylentnews.org/article.pl?sid=23/07/02/1451236&from=rss)
 * [2023-07-02, 22:00:00](https://soylentnews.org/article.pl?sid=23/07/01/1441206&from=rss) - [NASA's Mars Helicopter 'Phones Home' After No Contact for 63 Days](https://soylentnews.org/article.pl?sid=23/07/01/1441206&from=rss)
 * [2023-07-02, 17:17:00](https://soylentnews.org/article.pl?sid=23/07/01/1440205&from=rss) - [What's a Park Worth to the Economy?](https://soylentnews.org/article.pl?sid=23/07/01/1440205&from=rss)
 * [2023-07-02, 12:32:00](https://soylentnews.org/article.pl?sid=23/07/01/0346222&from=rss) - [Drone Deployed to Fight Mosquitoes in Southern California](https://soylentnews.org/article.pl?sid=23/07/01/0346222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-23, 21:44:00](https://soylentnews.org/article.pl?sid=23/06/23/0228209&from=rss) - [Five Big Takeaways From Europe’s AI Act](https://soylentnews.org/article.pl?sid=23/06/23/0228209&from=rss)
 * [2023-06-23, 17:01:00](https://soylentnews.org/article.pl?sid=23/06/23/0213229&from=rss) - [Intel to Start Shipping a Quantum Processor](https://soylentnews.org/article.pl?sid=23/06/23/0213229&from=rss)
 * [2023-06-23, 12:13:00](https://soylentnews.org/article.pl?sid=23/06/22/1754214&from=rss) - [ASUS Urges Customers to Patch Critical Router Vulnerabilities](https://soylentnews.org/article.pl?sid=23/06/22/1754214&from=rss)
-* [2023-06-23, 07:28:00](https://soylentnews.org/article.pl?sid=23/06/22/1525250&from=rss) - [Book Review: Lost Moon](https://soylentnews.org/article.pl?sid=23/06/22/1525250&from=rss)
 
 ## [Archives](archives/index.md)
 
