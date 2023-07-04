@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-04, 02:38:00](https://soylentnews.org/article.pl?sid=23/07/03/0318228&from=rss) - [Janitor Heard 'Annoying Alarms' and Turned Off Freezer, Ruining 20 Years of School Research](https://soylentnews.org/article.pl?sid=23/07/03/0318228&from=rss)
 * [2023-07-03, 21:52:00](https://soylentnews.org/article.pl?sid=23/07/02/156215&from=rss) - [Rocky Strikes Back at Red Hat](https://soylentnews.org/article.pl?sid=23/07/02/156215&from=rss)
 * [2023-07-03, 17:06:00](https://soylentnews.org/article.pl?sid=23/07/02/151245&from=rss) - [Apple Opposes UK Online Safety Bill's 'Spy Clause'](https://soylentnews.org/article.pl?sid=23/07/02/151245&from=rss)
 * [2023-07-03, 12:19:00](https://soylentnews.org/article.pl?sid=23/07/02/1457220&from=rss) - [Iran Admits its Quantum Computer Had Zero Quantum in It](https://soylentnews.org/article.pl?sid=23/07/02/1457220&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-24, 21:30:00](https://soylentnews.org/article.pl?sid=23/06/23/1639207&from=rss) - [LexisNexis is Selling Your Personal Data to ICE So It Can Try to Predict Crimes](https://soylentnews.org/article.pl?sid=23/06/23/1639207&from=rss)
 * [2023-06-24, 16:46:00](https://soylentnews.org/article.pl?sid=23/06/23/1618254&from=rss) - [MIT Engineers Develop a Metal-Free Electrode](https://soylentnews.org/article.pl?sid=23/06/23/1618254&from=rss)
 * [2023-06-24, 12:06:00](https://soylentnews.org/article.pl?sid=23/06/23/063200&from=rss) - [Don't Call It Panic Buying If It's Rational](https://soylentnews.org/article.pl?sid=23/06/23/063200&from=rss)
-* [2023-06-24, 07:17:00](https://soylentnews.org/article.pl?sid=23/06/23/0558213&from=rss) - [The Science of Attraction: Why Do We Fall for Certain People?](https://soylentnews.org/article.pl?sid=23/06/23/0558213&from=rss)
 
 ## [Archives](archives/index.md)
 
