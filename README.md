@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-04, 16:51:00](https://soylentnews.org/article.pl?sid=23/07/03/1432242&from=rss) - [YouTube Threatens to Cut Off Ad Blocker Users After Just Three Ad-Less Vids](https://soylentnews.org/article.pl?sid=23/07/03/1432242&from=rss)
 * [2023-07-04, 12:04:00](https://soylentnews.org/article.pl?sid=23/07/03/1430209&from=rss) - [Interstellar Alloy Recovered From Pacific Floor?](https://soylentnews.org/article.pl?sid=23/07/03/1430209&from=rss)
 * [2023-07-04, 07:17:00](https://soylentnews.org/article.pl?sid=23/07/03/0949229&from=rss) - [France's Proposal for Browser-Based Website Blocking](https://soylentnews.org/article.pl?sid=23/07/03/0949229&from=rss)
 * [2023-07-04, 02:38:00](https://soylentnews.org/article.pl?sid=23/07/03/0318228&from=rss) - [Janitor Heard 'Annoying Alarms' and Turned Off Freezer, Ruining 20 Years of School Research](https://soylentnews.org/article.pl?sid=23/07/03/0318228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-25, 11:43:00](https://soylentnews.org/article.pl?sid=23/06/24/0430234&from=rss) - [Camera Review Site DPReview Finds a Buyer, Avoids Shutdown by Amazon](https://soylentnews.org/article.pl?sid=23/06/24/0430234&from=rss)
 * [2023-06-25, 06:57:00](https://soylentnews.org/article.pl?sid=23/06/24/0426223&from=rss) - [A Comprehensive Analysis of the GPL Issues With the Red Hat Enterprise Linux (RHEL) Business Model](https://soylentnews.org/article.pl?sid=23/06/24/0426223&from=rss)
 * [2023-06-25, 02:13:00](https://soylentnews.org/article.pl?sid=23/06/24/0254248&from=rss) - [Billionaires' Brawl: Tech Titans Opt for the Ring](https://soylentnews.org/article.pl?sid=23/06/24/0254248&from=rss)
-* [2023-06-24, 21:30:00](https://soylentnews.org/article.pl?sid=23/06/23/1639207&from=rss) - [LexisNexis is Selling Your Personal Data to ICE So It Can Try to Predict Crimes](https://soylentnews.org/article.pl?sid=23/06/23/1639207&from=rss)
 
 ## [Archives](archives/index.md)
 
