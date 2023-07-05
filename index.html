@@ -145,6 +145,70 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/07/04/1054200">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/meta/article.pl?sid=23/07/04/1054200&amp;from=rss"
+              >SoylentNews and TLS Connectivity Issues - Community Feedback
+              Needed.</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-05 @ 02:23:00</span
+              ><span class="points-container"
+                >Points: <span class="points">75</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/07/04/1054200"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                So, I know its been a bit quiet here, but we're working through
+                getting through the last few items relating to cutting over to
+                newer infrastructure. As such, its been working through the bug
+                list, and there's one issue I want to get some feedback on.
+              </p>
+              <p>
+                Back in November when the infrastructure was upgraded to Ubuntu
+                22.04, a few users with older devices stopped being able to
+                connect to SoylentNews. This confused me, since we've been using
+                the same NGINX SSL termination setup that has been in use since
+                at least 2016. Well, I finally found the root cause, and as it
+                turns out,
+                <a href="https://ubuntu.com/server/docs/openssl"
+                  >Canonical bumped up the minimum OpenSSL security level</a
+                >, which disabled several ciphers, and broke devices not
+                supporting TLS 1.2 or later.
+              </p>
+              <p>
+                By testing the site with the SSL Labs site checker, it appears
+                anything older than Android 4.0, or iOS 5 is broken. This mostly
+                seems to be devices that are over a decade old at this point,
+                and won't be able to browse the vast majority of sites on the
+                Internet as is. We discussed this internally a bit, and I'm of
+                the opinion that its not worth re-enabling the older ciphers to
+                allow these devices to reconnect, especially since we're working
+                to modernize the stack, and get it as up to date as we can get
+                it. I also believe we had very few users who were actually
+                affected by this, however, as the editors did get a few emails
+                about SN breaking after the site upgrade, I wanted to poll the
+                community, and make sure this is not a more widespread issue
+                than initially believed.
+              </p>
+              <p>
+                Ultimately, this is going to be part of a broader discussion on
+                what we will and won't support on SoylentNews going forward, and
+                this seems as good of place as any to get the ball rolling.
+              </p>
+              <p>~ NCommander</p>
+            </div>
+          </section>
+        </section>
         <section id="23/07/04/0417257">
           <h3>
             <a
@@ -157,7 +221,7 @@
             <h4>
               <span>2023-07-04 @ 21:37:00</span
               ><span class="points-container"
-                >Points: <span class="points">236</span></span
+                >Points: <span class="points">244</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/04/0417257"
@@ -251,7 +315,7 @@
             <h4>
               <span>2023-07-04 @ 16:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">916</span></span
+                >Points: <span class="points">928</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/03/1432242"
@@ -324,7 +388,7 @@
             <h4>
               <span>2023-07-04 @ 12:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">697</span></span
+                >Points: <span class="points">706</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/03/1430209"
@@ -414,7 +478,7 @@
             <h4>
               <span>2023-07-04 @ 07:17:00</span
               ><span class="points-container"
-                >Points: <span class="points">916</span></span
+                >Points: <span class="points">924</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/03/0949229"
@@ -483,7 +547,7 @@
             <h4>
               <span>2023-07-04 @ 02:38:00</span
               ><span class="points-container"
-                >Points: <span class="points">1157</span></span
+                >Points: <span class="points">1160</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/03/0318228"
@@ -583,7 +647,7 @@
             <h4>
               <span>2023-07-03 @ 21:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">993</span></span
+                >Points: <span class="points">994</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/02/156215"
@@ -738,12 +802,12 @@
             <h4>
               <span>2023-07-03 @ 12:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">873</span></span
+                >Points: <span class="points">878</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/02/1457220"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
             <div class="text">
@@ -1012,7 +1076,7 @@
             <h4>
               <span>2023-07-02 @ 22:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">898</span></span
+                >Points: <span class="points">899</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/01/1441206"
@@ -1089,12 +1153,12 @@
             <h4>
               <span>2023-07-02 @ 17:17:00</span
               ><span class="points-container"
-                >Points: <span class="points">1076</span></span
+                >Points: <span class="points">1077</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/01/1440205"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
             <div class="text">
@@ -2202,7 +2266,7 @@
             <h4>
               <span>2023-06-30 @ 09:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">1268</span></span
+                >Points: <span class="points">1269</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/06/29/2044218"
@@ -4558,86 +4622,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60060"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/06/24/0426223">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/06/24/0426223&amp;from=rss"
-              >A Comprehensive Analysis of the GPL Issues With the Red Hat
-              Enterprise Linux (RHEL) Business Model</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-06-25 @ 06:57:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1801</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/06/24/0426223"
-                  >Comments</a
-                ><span class="descendants">: 59</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~owl/">owl</a> writes:</p>
-              <p>
-                <a
-                  href="https://sfconservancy.org/blog/2023/jun/23/rhel-gpl-analysis/"
-                  >https://sfconservancy.org/blog/2023/jun/23/rhel-gpl-analysis/</a
-                >
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    This article was originally published primarily as a
-                    response to IBM's Red Hat's change to no longer publish
-                    complete, corresponding source (CCS) for RHEL and the prior
-                    discontinuation of CentOS Linux (which are related events,
-                    as described below). We hope that this will serve as a
-                    comprehensive document that discusses the history of Red
-                    Hat's RHEL business model, the related source code
-                    provisioning, and the GPL compliance issues with RHEL.
-                  </p>
-                  <p>
-                    For approximately twenty years, Red Hat (now a fully owned
-                    subsidiary of IBM) has experimented with building a business
-                    model for operating system deployment and distribution that
-                    looks, feels, and acts like a proprietary one, but
-                    nonetheless complies with the GPL and other standard
-                    copyleft terms. Software rights activists, including SFC,
-                    have spent decades talking to Red Hat and its attorneys
-                    about how the Red Hat Enterprise Linux (RHEL) business model
-                    courts disaster and is actively unfriendly to
-                    community-oriented Free and Open Source Software (FOSS).
-                    These pleadings, discussions, and encouragements have, as
-                    far as we can tell, been heard and seriously listened to by
-                    key members of Red Hat's legal and OSPO departments, and
-                    even by key C-level executives, but they have ultimately
-                    been rejected and ignored — sometimes even with a "fine,
-                    then sue us for GPL violations" attitude. Activists have
-                    found this discussion frustrating, but kept the nature and
-                    tenure of these discussions as an "open secret" until now
-                    because we all had hoped that Red Hat's behavior would
-                    improve. Recent events show that the behavior has simply
-                    gotten worse, and is likely to get even worse.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60089"
                     >Original Submission</a
                   ></small
                 >
