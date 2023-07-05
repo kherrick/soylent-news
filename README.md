@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-05, 07:10:00](https://soylentnews.org/article.pl?sid=23/07/04/1522250&from=rss) - [ECMAScript 2023 Spec for JavaScript Finalized](https://soylentnews.org/article.pl?sid=23/07/04/1522250&from=rss)
 * [2023-07-05, 02:23:00](https://soylentnews.org/meta/article.pl?sid=23/07/04/1054200&from=rss) - [SoylentNews and TLS Connectivity Issues - Community Feedback Needed.](https://soylentnews.org/meta/article.pl?sid=23/07/04/1054200&from=rss)
 * [2023-07-04, 21:37:00](https://soylentnews.org/article.pl?sid=23/07/04/0417257&from=rss) - [How Online Art Viewing Can Impact Our Well-Being](https://soylentnews.org/article.pl?sid=23/07/04/0417257&from=rss)
 * [2023-07-04, 16:51:00](https://soylentnews.org/article.pl?sid=23/07/03/1432242&from=rss) - [YouTube Threatens to Cut Off Ad Blocker Users After Just Three Ad-Less Vids](https://soylentnews.org/article.pl?sid=23/07/03/1432242&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-26, 01:02:00](https://soylentnews.org/article.pl?sid=23/06/25/1243232&from=rss) - [AI-Generated Secret Invasion Intro Angers Marvel Artists and Fans Alike](https://soylentnews.org/article.pl?sid=23/06/25/1243232&from=rss)
 * [2023-06-25, 21:13:00](https://soylentnews.org/article.pl?sid=23/06/24/0441219&from=rss) - [Liquid Metal Could Turn Everyday Things Like Paper Into Smart Objects](https://soylentnews.org/article.pl?sid=23/06/24/0441219&from=rss)
 * [2023-06-25, 16:28:00](https://soylentnews.org/article.pl?sid=23/06/24/0433209&from=rss) - [Video Chess Disassembled and Commented](https://soylentnews.org/article.pl?sid=23/06/24/0433209&from=rss)
-* [2023-06-25, 11:43:00](https://soylentnews.org/article.pl?sid=23/06/24/0430234&from=rss) - [Camera Review Site DPReview Finds a Buyer, Avoids Shutdown by Amazon](https://soylentnews.org/article.pl?sid=23/06/24/0430234&from=rss)
 
 ## [Archives](archives/index.md)
 
