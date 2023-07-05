@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 21:28:00](https://soylentnews.org/article.pl?sid=23/07/04/181203&from=rss) - [First Flying Car Approved by FAA, Now Available for Preorder](https://soylentnews.org/article.pl?sid=23/07/04/181203&from=rss)
 * [2023-07-05, 16:41:00](https://soylentnews.org/article.pl?sid=23/07/04/1555211&from=rss) - [On Paper, OLED Displays Can Last for 100 Years - If It Wasn't for One Color](https://soylentnews.org/article.pl?sid=23/07/04/1555211&from=rss)
 * [2023-07-05, 11:54:00](https://soylentnews.org/article.pl?sid=23/07/04/1524215&from=rss) - [Cash or Card? Consumers Pay Strategically to Forget Guilty Purchases](https://soylentnews.org/article.pl?sid=23/07/04/1524215&from=rss)
 * [2023-07-05, 07:10:00](https://soylentnews.org/article.pl?sid=23/07/04/1522250&from=rss) - [ECMAScript 2023 Spec for JavaScript Finalized](https://soylentnews.org/article.pl?sid=23/07/04/1522250&from=rss)
