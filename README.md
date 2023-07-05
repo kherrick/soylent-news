@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-05, 16:41:00](https://soylentnews.org/article.pl?sid=23/07/04/1555211&from=rss) - [On Paper, OLED Displays Can Last for 100 Years - If It Wasn't for One Color](https://soylentnews.org/article.pl?sid=23/07/04/1555211&from=rss)
 * [2023-07-05, 11:54:00](https://soylentnews.org/article.pl?sid=23/07/04/1524215&from=rss) - [Cash or Card? Consumers Pay Strategically to Forget Guilty Purchases](https://soylentnews.org/article.pl?sid=23/07/04/1524215&from=rss)
 * [2023-07-05, 07:10:00](https://soylentnews.org/article.pl?sid=23/07/04/1522250&from=rss) - [ECMAScript 2023 Spec for JavaScript Finalized](https://soylentnews.org/article.pl?sid=23/07/04/1522250&from=rss)
 * [2023-07-05, 02:23:00](https://soylentnews.org/meta/article.pl?sid=23/07/04/1054200&from=rss) - [SoylentNews and TLS Connectivity Issues - Community Feedback Needed.](https://soylentnews.org/meta/article.pl?sid=23/07/04/1054200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-26, 10:29:00](https://soylentnews.org/article.pl?sid=23/06/25/1910204&from=rss) - [Megaupload Fugitive Arrested By Armed Police 11 Years After The Raid](https://soylentnews.org/article.pl?sid=23/06/25/1910204&from=rss)
 * [2023-06-26, 05:45:00](https://soylentnews.org/article.pl?sid=23/06/25/1245259&from=rss) - [FTC: Xbox-Exclusive Starfield is “Powerful Evidence” Against Activision Deal](https://soylentnews.org/article.pl?sid=23/06/25/1245259&from=rss)
 * [2023-06-26, 01:02:00](https://soylentnews.org/article.pl?sid=23/06/25/1243232&from=rss) - [AI-Generated Secret Invasion Intro Angers Marvel Artists and Fans Alike](https://soylentnews.org/article.pl?sid=23/06/25/1243232&from=rss)
-* [2023-06-25, 21:13:00](https://soylentnews.org/article.pl?sid=23/06/24/0441219&from=rss) - [Liquid Metal Could Turn Everyday Things Like Paper Into Smart Objects](https://soylentnews.org/article.pl?sid=23/06/24/0441219&from=rss)
 
 ## [Archives](archives/index.md)
 
