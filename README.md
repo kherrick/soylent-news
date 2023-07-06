@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-06, 11:37:00](https://soylentnews.org/article.pl?sid=23/07/05/0434244&from=rss) - [Sun Breaks Out With Record Number of Sunspots, Sparking Solar Storm Concerns](https://soylentnews.org/article.pl?sid=23/07/05/0434244&from=rss)
 * [2023-07-06, 06:57:00](https://soylentnews.org/article.pl?sid=23/07/05/0419238&from=rss) - [India Signing the Artemis Accords is a Historic Win for Space Exploration](https://soylentnews.org/article.pl?sid=23/07/05/0419238&from=rss)
 * [2023-07-06, 02:13:00](https://soylentnews.org/article.pl?sid=23/07/04/1925202&from=rss) - [VMware, Other Tech Giants Announce Push for Confidential Computing Standards](https://soylentnews.org/article.pl?sid=23/07/04/1925202&from=rss)
 * [2023-07-05, 21:28:00](https://soylentnews.org/article.pl?sid=23/07/04/181203&from=rss) - [First Flying Car Approved by FAA, Now Available for Preorder](https://soylentnews.org/article.pl?sid=23/07/04/181203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-27, 05:23:00](https://soylentnews.org/article.pl?sid=23/06/26/1149235&from=rss) - [Ford Motor Company is Planning a Big EV Future](https://soylentnews.org/article.pl?sid=23/06/26/1149235&from=rss)
 * [2023-06-27, 00:41:00](https://soylentnews.org/article.pl?sid=23/06/26/0444201&from=rss) - [Butterfly Tree of Life Reveals an Origin in North America](https://soylentnews.org/article.pl?sid=23/06/26/0444201&from=rss)
 * [2023-06-26, 19:55:00](https://soylentnews.org/article.pl?sid=23/06/25/2328254&from=rss) - [Meta Says its New Speech-generating AI Tool is Too Dangerous to Release](https://soylentnews.org/article.pl?sid=23/06/25/2328254&from=rss)
-* [2023-06-26, 15:13:00](https://soylentnews.org/article.pl?sid=23/06/25/1912241&from=rss) - [Writing With AI Help Can Shift Your Opinions](https://soylentnews.org/article.pl?sid=23/06/25/1912241&from=rss)
 
 ## [Archives](archives/index.md)
 
