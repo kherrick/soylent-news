@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-07, 11:16:00](https://soylentnews.org/article.pl?sid=23/07/06/077209&from=rss) - [Repair Adventure: A Single White LED Causing Stuck Keys on a RN988 Keyboard](https://soylentnews.org/article.pl?sid=23/07/06/077209&from=rss)
 * [2023-07-07, 06:32:00](https://soylentnews.org/article.pl?sid=23/07/06/0225249&from=rss) - [Why Netherlands Wants to Ban Mobile Phones in Classrooms](https://soylentnews.org/article.pl?sid=23/07/06/0225249&from=rss)
 * [2023-07-07, 01:44:00](https://soylentnews.org/article.pl?sid=23/07/05/1622235&from=rss) - [Green Hills Software Founder Takes on Tesla Full Self-Driving...and Unsafe Software Everywhere](https://soylentnews.org/article.pl?sid=23/07/05/1622235&from=rss)
 * [2023-07-06, 21:01:00](https://soylentnews.org/article.pl?sid=23/07/05/168229&from=rss) - [Google Says It'll Scrape Everything You Post Online for AI](https://soylentnews.org/article.pl?sid=23/07/05/168229&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-28, 05:20:00](https://soylentnews.org/article.pl?sid=23/06/27/1210252&from=rss) - [RIP to My Pixel Fold: Dead After Four Days](https://soylentnews.org/article.pl?sid=23/06/27/1210252&from=rss)
 * [2023-06-28, 00:35:00](https://soylentnews.org/article.pl?sid=23/06/27/0427215&from=rss) - [How to Kill a Decentralised Network (Such as the Fediverse)](https://soylentnews.org/article.pl?sid=23/06/27/0427215&from=rss)
 * [2023-06-27, 19:48:00](https://soylentnews.org/article.pl?sid=23/06/27/0414235&from=rss) - [Extending Earth's Internet to Mars With Orbital Data Servers](https://soylentnews.org/article.pl?sid=23/06/27/0414235&from=rss)
-* [2023-06-27, 15:01:00](https://soylentnews.org/article.pl?sid=23/06/26/122207&from=rss) - [Australia Gives Twitter Legal Notice to Clean Up Online Hate Content](https://soylentnews.org/article.pl?sid=23/06/26/122207&from=rss)
 
 ## [Archives](archives/index.md)
 
