@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-07, 01:44:00](https://soylentnews.org/article.pl?sid=23/07/05/1622235&from=rss) - [Green Hills Software Founder Takes on Tesla Full Self-Driving...and Unsafe Software Everywhere](https://soylentnews.org/article.pl?sid=23/07/05/1622235&from=rss)
 * [2023-07-06, 21:01:00](https://soylentnews.org/article.pl?sid=23/07/05/168229&from=rss) - [Google Says It'll Scrape Everything You Post Online for AI](https://soylentnews.org/article.pl?sid=23/07/05/168229&from=rss)
 * [2023-07-06, 16:17:00](https://soylentnews.org/article.pl?sid=23/07/05/0848230&from=rss) - [Rangers Build 12-Tonne Mountain Out of Wildlife Traps](https://soylentnews.org/article.pl?sid=23/07/05/0848230&from=rss)
 * [2023-07-06, 11:37:00](https://soylentnews.org/article.pl?sid=23/07/05/0434244&from=rss) - [Sun Breaks Out With Record Number of Sunspots, Sparking Solar Storm Concerns](https://soylentnews.org/article.pl?sid=23/07/05/0434244&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-27, 19:48:00](https://soylentnews.org/article.pl?sid=23/06/27/0414235&from=rss) - [Extending Earth's Internet to Mars With Orbital Data Servers](https://soylentnews.org/article.pl?sid=23/06/27/0414235&from=rss)
 * [2023-06-27, 15:01:00](https://soylentnews.org/article.pl?sid=23/06/26/122207&from=rss) - [Australia Gives Twitter Legal Notice to Clean Up Online Hate Content](https://soylentnews.org/article.pl?sid=23/06/26/122207&from=rss)
 * [2023-06-27, 10:14:00](https://soylentnews.org/article.pl?sid=23/06/26/1156211&from=rss) - [Microsoft Says It Will Build a Quantum Supercomputer Within Ten Years](https://soylentnews.org/article.pl?sid=23/06/26/1156211&from=rss)
-* [2023-06-27, 05:23:00](https://soylentnews.org/article.pl?sid=23/06/26/1149235&from=rss) - [Ford Motor Company is Planning a Big EV Future](https://soylentnews.org/article.pl?sid=23/06/26/1149235&from=rss)
 
 ## [Archives](archives/index.md)
 
