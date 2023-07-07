@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-07, 20:50:00](https://soylentnews.org/article.pl?sid=23/07/07/0214245&from=rss) - [Scientists Intrigued by Glacier Bleeding Red Fluid](https://soylentnews.org/article.pl?sid=23/07/07/0214245&from=rss)
 * [2023-07-07, 16:03:00](https://soylentnews.org/article.pl?sid=23/07/06/0710236&from=rss) - [Earth's Jet Streams Look as Chaotic as a Van Gogh Right Now, and That's a Big Problem](https://soylentnews.org/article.pl?sid=23/07/06/0710236&from=rss)
 * [2023-07-07, 11:16:00](https://soylentnews.org/article.pl?sid=23/07/06/077209&from=rss) - [Repair Adventure: A Single White LED Causing Stuck Keys on a RN988 Keyboard](https://soylentnews.org/article.pl?sid=23/07/06/077209&from=rss)
 * [2023-07-07, 06:32:00](https://soylentnews.org/article.pl?sid=23/07/06/0225249&from=rss) - [Why Netherlands Wants to Ban Mobile Phones in Classrooms](https://soylentnews.org/article.pl?sid=23/07/06/0225249&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-28, 14:45:00](https://soylentnews.org/article.pl?sid=23/06/27/1212208&from=rss) - [MFM Reader](https://soylentnews.org/article.pl?sid=23/06/27/1212208&from=rss)
 * [2023-06-28, 10:01:00](https://soylentnews.org/article.pl?sid=23/06/27/1342205&from=rss) - [Legalese Vs \"Plain English\"](https://soylentnews.org/article.pl?sid=23/06/27/1342205&from=rss)
 * [2023-06-28, 05:20:00](https://soylentnews.org/article.pl?sid=23/06/27/1210252&from=rss) - [RIP to My Pixel Fold: Dead After Four Days](https://soylentnews.org/article.pl?sid=23/06/27/1210252&from=rss)
-* [2023-06-28, 00:35:00](https://soylentnews.org/article.pl?sid=23/06/27/0427215&from=rss) - [How to Kill a Decentralised Network (Such as the Fediverse)](https://soylentnews.org/article.pl?sid=23/06/27/0427215&from=rss)
 
 ## [Archives](archives/index.md)
 
