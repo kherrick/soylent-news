@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-08, 20:33:00](https://soylentnews.org/article.pl?sid=23/07/07/1244211&from=rss) - [Elliptic Curves Yield (Some of) Their Secrets](https://soylentnews.org/article.pl?sid=23/07/07/1244211&from=rss)
 * [2023-07-08, 15:41:00](https://soylentnews.org/article.pl?sid=23/07/07/1241245&from=rss) - [Our Brain Prefers Positive Vocal Sounds That Come From Our Left](https://soylentnews.org/article.pl?sid=23/07/07/1241245&from=rss)
 * [2023-07-08, 11:03:00](https://soylentnews.org/article.pl?sid=23/07/07/0444256&from=rss) - [Upcoming Android Smartphone to Include 24 GB of RAM](https://soylentnews.org/article.pl?sid=23/07/07/0444256&from=rss)
 * [2023-07-08, 06:20:00](https://soylentnews.org/article.pl?sid=23/07/07/0230222&from=rss) - [The Pervasive Background Hum of Merging Supermassive Black Holes](https://soylentnews.org/article.pl?sid=23/07/07/0230222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-29, 14:29:00](https://soylentnews.org/article.pl?sid=23/06/28/1741236&from=rss) - [The Surprisingly Popular World of Online Trainspotting](https://soylentnews.org/article.pl?sid=23/06/28/1741236&from=rss)
 * [2023-06-29, 09:44:00](https://soylentnews.org/article.pl?sid=23/06/28/026215&from=rss) - [AI Helps Show how the Brain’s Fluids Flow](https://soylentnews.org/article.pl?sid=23/06/28/026215&from=rss)
 * [2023-06-29, 05:01:00](https://soylentnews.org/article.pl?sid=23/06/28/022210&from=rss) - [Person Who Made the Windows 3.1 Port of Wordle is Back With a ChatGPT Client](https://soylentnews.org/article.pl?sid=23/06/28/022210&from=rss)
-* [2023-06-29, 00:20:00](https://soylentnews.org/article.pl?sid=23/06/28/0158237&from=rss) - [James Webb Space Telescope Detects Methyl Cation (Carbon Compound) in Protoplanetary Disk](https://soylentnews.org/article.pl?sid=23/06/28/0158237&from=rss)
 
 ## [Archives](archives/index.md)
 
