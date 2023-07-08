@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-08, 06:20:00](https://soylentnews.org/article.pl?sid=23/07/07/0230222&from=rss) - [The Pervasive Background Hum of Merging Supermassive Black Holes](https://soylentnews.org/article.pl?sid=23/07/07/0230222&from=rss)
 * [2023-07-08, 01:37:00](https://soylentnews.org/article.pl?sid=23/07/07/0218224&from=rss) - [Publishers and Advertisers Push Back at FTC’s ‘Click-to-Cancel’ Proposal](https://soylentnews.org/article.pl?sid=23/07/07/0218224&from=rss)
 * [2023-07-07, 20:50:00](https://soylentnews.org/article.pl?sid=23/07/07/0214245&from=rss) - [Scientists Intrigued by Glacier Bleeding Red Fluid](https://soylentnews.org/article.pl?sid=23/07/07/0214245&from=rss)
 * [2023-07-07, 16:03:00](https://soylentnews.org/article.pl?sid=23/07/06/0710236&from=rss) - [Earth's Jet Streams Look as Chaotic as a Van Gogh Right Now, and That's a Big Problem](https://soylentnews.org/article.pl?sid=23/07/06/0710236&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-29, 00:20:00](https://soylentnews.org/article.pl?sid=23/06/28/0158237&from=rss) - [James Webb Space Telescope Detects Methyl Cation (Carbon Compound) in Protoplanetary Disk](https://soylentnews.org/article.pl?sid=23/06/28/0158237&from=rss)
 * [2023-06-28, 19:35:00](https://soylentnews.org/article.pl?sid=23/06/27/1349241&from=rss) - [Jail Terms in UK for Sharing or Creating Explicit Images Without Consent](https://soylentnews.org/article.pl?sid=23/06/27/1349241&from=rss)
 * [2023-06-28, 14:45:00](https://soylentnews.org/article.pl?sid=23/06/27/1212208&from=rss) - [MFM Reader](https://soylentnews.org/article.pl?sid=23/06/27/1212208&from=rss)
-* [2023-06-28, 10:01:00](https://soylentnews.org/article.pl?sid=23/06/27/1342205&from=rss) - [Legalese Vs \"Plain English\"](https://soylentnews.org/article.pl?sid=23/06/27/1342205&from=rss)
 
 ## [Archives](archives/index.md)
 
