@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2023-07-09, 20:16:00](https://soylentnews.org/article.pl?sid=23/07/09/1128234&from=rss) - [Reverse-engineering the 8086 Processor's Address and Data Pin Circuits ](https://soylentnews.org/article.pl?sid=23/07/09/1128234&from=rss)
+* [2023-07-09, 20:16:00](https://soylentnews.org/article.pl?sid=23/07/09/1128234&from=rss) - [Reverse-Engineering the 8086 Processor's Address and Data Pin Circuits](https://soylentnews.org/article.pl?sid=23/07/09/1128234&from=rss)
 * [2023-07-09, 15:36:00](https://soylentnews.org/article.pl?sid=23/07/08/1328250&from=rss) - [Uber, DoorDash and Grubhub Sue New York City Over $18 Minimum-wage Law](https://soylentnews.org/article.pl?sid=23/07/08/1328250&from=rss)
 * [2023-07-09, 10:51:00](https://soylentnews.org/article.pl?sid=23/07/08/1323208&from=rss) - [Chinese Customs Bust Smuggler With 420 SSDs Strapped to His Body](https://soylentnews.org/article.pl?sid=23/07/08/1323208&from=rss)
 * [2023-07-09, 06:06:00](https://soylentnews.org/article.pl?sid=23/07/08/0647206&from=rss) - [Key Predictors of Bitcoin Returns Unveiled](https://soylentnews.org/article.pl?sid=23/07/08/0647206&from=rss)
