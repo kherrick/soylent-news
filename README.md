@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-09, 01:14:00](https://soylentnews.org/article.pl?sid=23/07/08/0625229&from=rss) - [Lessons From PL/I: A Most Ambitious Programming Language](https://soylentnews.org/article.pl?sid=23/07/08/0625229&from=rss)
 * [2023-07-08, 20:33:00](https://soylentnews.org/article.pl?sid=23/07/07/1244211&from=rss) - [Elliptic Curves Yield (Some of) Their Secrets](https://soylentnews.org/article.pl?sid=23/07/07/1244211&from=rss)
 * [2023-07-08, 15:41:00](https://soylentnews.org/article.pl?sid=23/07/07/1241245&from=rss) - [Our Brain Prefers Positive Vocal Sounds That Come From Our Left](https://soylentnews.org/article.pl?sid=23/07/07/1241245&from=rss)
 * [2023-07-08, 11:03:00](https://soylentnews.org/article.pl?sid=23/07/07/0444256&from=rss) - [Upcoming Android Smartphone to Include 24 GB of RAM](https://soylentnews.org/article.pl?sid=23/07/07/0444256&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-29, 19:17:00](https://soylentnews.org/article.pl?sid=23/06/29/0122203&from=rss) - [3-Year Probe Into Encrypted Phones Led to Seizure of Hundreds of Tons of Drugs](https://soylentnews.org/article.pl?sid=23/06/29/0122203&from=rss)
 * [2023-06-29, 14:29:00](https://soylentnews.org/article.pl?sid=23/06/28/1741236&from=rss) - [The Surprisingly Popular World of Online Trainspotting](https://soylentnews.org/article.pl?sid=23/06/28/1741236&from=rss)
 * [2023-06-29, 09:44:00](https://soylentnews.org/article.pl?sid=23/06/28/026215&from=rss) - [AI Helps Show how the Brain’s Fluids Flow](https://soylentnews.org/article.pl?sid=23/06/28/026215&from=rss)
-* [2023-06-29, 05:01:00](https://soylentnews.org/article.pl?sid=23/06/28/022210&from=rss) - [Person Who Made the Windows 3.1 Port of Wordle is Back With a ChatGPT Client](https://soylentnews.org/article.pl?sid=23/06/28/022210&from=rss)
 
 ## [Archives](archives/index.md)
 
