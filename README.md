@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-09, 10:51:00](https://soylentnews.org/article.pl?sid=23/07/08/1323208&from=rss) - [Chinese Customs Bust Smuggler With 420 SSDs Strapped to His Body](https://soylentnews.org/article.pl?sid=23/07/08/1323208&from=rss)
 * [2023-07-09, 06:06:00](https://soylentnews.org/article.pl?sid=23/07/08/0647206&from=rss) - [Key Predictors of Bitcoin Returns Unveiled](https://soylentnews.org/article.pl?sid=23/07/08/0647206&from=rss)
 * [2023-07-09, 01:14:00](https://soylentnews.org/article.pl?sid=23/07/08/0625229&from=rss) - [Lessons From PL/I: A Most Ambitious Programming Language](https://soylentnews.org/article.pl?sid=23/07/08/0625229&from=rss)
 * [2023-07-08, 20:33:00](https://soylentnews.org/article.pl?sid=23/07/07/1244211&from=rss) - [Elliptic Curves Yield (Some of) Their Secrets](https://soylentnews.org/article.pl?sid=23/07/07/1244211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-30, 04:49:00](https://soylentnews.org/article.pl?sid=23/06/29/0445219&from=rss) - [What We See Seems Like What We Have Just Seen](https://soylentnews.org/article.pl?sid=23/06/29/0445219&from=rss)
 * [2023-06-30, 00:03:00](https://soylentnews.org/article.pl?sid=23/06/29/0135250&from=rss) - [Lithuania's Capital Vilnius to Get 'Europe's Largest Tech Campus,' Costing €100M](https://soylentnews.org/article.pl?sid=23/06/29/0135250&from=rss)
 * [2023-06-29, 19:17:00](https://soylentnews.org/article.pl?sid=23/06/29/0122203&from=rss) - [3-Year Probe Into Encrypted Phones Led to Seizure of Hundreds of Tons of Drugs](https://soylentnews.org/article.pl?sid=23/06/29/0122203&from=rss)
-* [2023-06-29, 14:29:00](https://soylentnews.org/article.pl?sid=23/06/28/1741236&from=rss) - [The Surprisingly Popular World of Online Trainspotting](https://soylentnews.org/article.pl?sid=23/06/28/1741236&from=rss)
 
 ## [Archives](archives/index.md)
 
