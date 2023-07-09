@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-09, 20:16:00](https://soylentnews.org/article.pl?sid=23/07/09/1128234&from=rss) - [Reverse-engineering the 8086 Processor's Address and Data Pin Circuits ](https://soylentnews.org/article.pl?sid=23/07/09/1128234&from=rss)
 * [2023-07-09, 15:36:00](https://soylentnews.org/article.pl?sid=23/07/08/1328250&from=rss) - [Uber, DoorDash and Grubhub Sue New York City Over $18 Minimum-wage Law](https://soylentnews.org/article.pl?sid=23/07/08/1328250&from=rss)
 * [2023-07-09, 10:51:00](https://soylentnews.org/article.pl?sid=23/07/08/1323208&from=rss) - [Chinese Customs Bust Smuggler With 420 SSDs Strapped to His Body](https://soylentnews.org/article.pl?sid=23/07/08/1323208&from=rss)
 * [2023-07-09, 06:06:00](https://soylentnews.org/article.pl?sid=23/07/08/0647206&from=rss) - [Key Predictors of Bitcoin Returns Unveiled](https://soylentnews.org/article.pl?sid=23/07/08/0647206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-30, 14:18:00](https://soylentnews.org/article.pl?sid=23/06/29/2129241&from=rss) - [Getting Outdoors Reduces Smartphone Use—But Only If You Go Wild](https://soylentnews.org/article.pl?sid=23/06/29/2129241&from=rss)
 * [2023-06-30, 09:35:00](https://soylentnews.org/article.pl?sid=23/06/29/2044218&from=rss) - [Masnick's Impossibility Theorem: Content Moderation at Scale is Impossible to Do Well](https://soylentnews.org/article.pl?sid=23/06/29/2044218&from=rss)
 * [2023-06-30, 04:49:00](https://soylentnews.org/article.pl?sid=23/06/29/0445219&from=rss) - [What We See Seems Like What We Have Just Seen](https://soylentnews.org/article.pl?sid=23/06/29/0445219&from=rss)
-* [2023-06-30, 00:03:00](https://soylentnews.org/article.pl?sid=23/06/29/0135250&from=rss) - [Lithuania's Capital Vilnius to Get 'Europe's Largest Tech Campus,' Costing €100M](https://soylentnews.org/article.pl?sid=23/06/29/0135250&from=rss)
 
 ## [Archives](archives/index.md)
 
