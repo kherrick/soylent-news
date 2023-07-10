@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-10, 23:42:00](https://soylentnews.org/article.pl?sid=23/07/10/0359259&from=rss) - [GCC Adopts A Code of Conduct](https://soylentnews.org/article.pl?sid=23/07/10/0359259&from=rss)
 * [2023-07-10, 18:57:00](https://soylentnews.org/article.pl?sid=23/07/09/2230210&from=rss) - [Wildfires in Canada Have Broken Records for Area Burned, Evacuations and Cost](https://soylentnews.org/article.pl?sid=23/07/09/2230210&from=rss)
 * [2023-07-10, 14:09:00](https://soylentnews.org/article.pl?sid=23/07/09/1543226&from=rss) - [NHTSA Reminds Tesla to Cough Up Data for Autopilot Probe](https://soylentnews.org/article.pl?sid=23/07/09/1543226&from=rss)
 * [2023-07-10, 09:25:00](https://soylentnews.org/article.pl?sid=23/07/09/1447222&from=rss) - [India's Space Agency Set to Launch Lunar Lander, Rover](https://soylentnews.org/article.pl?sid=23/07/09/1447222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-01, 17:35:00](https://soylentnews.org/article.pl?sid=23/06/30/0216233&from=rss) - [Worldwide survey kills the myth of ‘Man the Hunter’](https://soylentnews.org/article.pl?sid=23/06/30/0216233&from=rss)
 * [2023-07-01, 13:00:00](https://soylentnews.org/article.pl?sid=23/06/30/0211240&from=rss) - [YouTube Scammer Who Stole Millions in Song Royalties Sentenced to 5 Years](https://soylentnews.org/article.pl?sid=23/06/30/0211240&from=rss)
 * [2023-07-01, 09:21:00](https://soylentnews.org/article.pl?sid=23/06/30/025239&from=rss) - [First Neutrino Image of Milky Way Galaxy Captured](https://soylentnews.org/article.pl?sid=23/06/30/025239&from=rss)
-* [2023-07-01, 04:49:00](https://soylentnews.org/article.pl?sid=23/06/30/0140257&from=rss) - [FTC Prepares “the Big One,” a Major Lawsuit Targeting Amazon's Core Business](https://soylentnews.org/article.pl?sid=23/06/30/0140257&from=rss)
 
 ## [Archives](archives/index.md)
 
