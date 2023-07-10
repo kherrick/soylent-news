@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-10, 04:44:00](https://soylentnews.org/article.pl?sid=23/07/09/1441225&from=rss) - [Magic The Gathering One Ring Card Found But No Buyer](https://soylentnews.org/article.pl?sid=23/07/09/1441225&from=rss)
 * [2023-07-10, 01:01:00](https://soylentnews.org/article.pl?sid=23/07/09/1423231&from=rss) - [Almost Half of U.S. Tap Water is Contaminated With 'Forever Chemicals'](https://soylentnews.org/article.pl?sid=23/07/09/1423231&from=rss)
 * [2023-07-09, 20:16:00](https://soylentnews.org/article.pl?sid=23/07/09/1128234&from=rss) - [Reverse-Engineering the 8086 Processor's Address and Data Pin Circuits](https://soylentnews.org/article.pl?sid=23/07/09/1128234&from=rss)
 * [2023-07-09, 15:36:00](https://soylentnews.org/article.pl?sid=23/07/08/1328250&from=rss) - [Uber, DoorDash and Grubhub Sue New York City Over $18 Minimum-Wage Law](https://soylentnews.org/article.pl?sid=23/07/08/1328250&from=rss)
@@ -49,7 +50,6 @@
 * [2023-06-30, 23:56:00](https://soylentnews.org/article.pl?sid=23/06/30/0134215&from=rss) - [The Chip Patterning Machines That Will Shape Computing’s Next Act](https://soylentnews.org/article.pl?sid=23/06/30/0134215&from=rss)
 * [2023-06-30, 19:08:00](https://soylentnews.org/article.pl?sid=23/06/30/0015233&from=rss) - [Decades-long Bet on Consciousness Ends](https://soylentnews.org/article.pl?sid=23/06/30/0015233&from=rss)
 * [2023-06-30, 14:18:00](https://soylentnews.org/article.pl?sid=23/06/29/2129241&from=rss) - [Getting Outdoors Reduces Smartphone Use—But Only If You Go Wild](https://soylentnews.org/article.pl?sid=23/06/29/2129241&from=rss)
-* [2023-06-30, 09:35:00](https://soylentnews.org/article.pl?sid=23/06/29/2044218&from=rss) - [Masnick's Impossibility Theorem: Content Moderation at Scale is Impossible to Do Well](https://soylentnews.org/article.pl?sid=23/06/29/2044218&from=rss)
 
 ## [Archives](archives/index.md)
 
