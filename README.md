@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-10, 14:09:00](https://soylentnews.org/article.pl?sid=23/07/09/1543226&from=rss) - [NHTSA Reminds Tesla to Cough Up Data for Autopilot Probe](https://soylentnews.org/article.pl?sid=23/07/09/1543226&from=rss)
 * [2023-07-10, 09:25:00](https://soylentnews.org/article.pl?sid=23/07/09/1447222&from=rss) - [India's Space Agency Set to Launch Lunar Lander, Rover](https://soylentnews.org/article.pl?sid=23/07/09/1447222&from=rss)
 * [2023-07-10, 04:44:00](https://soylentnews.org/article.pl?sid=23/07/09/1441225&from=rss) - [Magic The Gathering One Ring Card Found But No Buyer](https://soylentnews.org/article.pl?sid=23/07/09/1441225&from=rss)
 * [2023-07-10, 01:01:00](https://soylentnews.org/article.pl?sid=23/07/09/1423231&from=rss) - [Almost Half of U.S. Tap Water is Contaminated With 'Forever Chemicals'](https://soylentnews.org/article.pl?sid=23/07/09/1423231&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-01, 09:21:00](https://soylentnews.org/article.pl?sid=23/06/30/025239&from=rss) - [First Neutrino Image of Milky Way Galaxy Captured](https://soylentnews.org/article.pl?sid=23/06/30/025239&from=rss)
 * [2023-07-01, 04:49:00](https://soylentnews.org/article.pl?sid=23/06/30/0140257&from=rss) - [FTC Prepares “the Big One,” a Major Lawsuit Targeting Amazon's Core Business](https://soylentnews.org/article.pl?sid=23/06/30/0140257&from=rss)
 * [2023-06-30, 23:56:00](https://soylentnews.org/article.pl?sid=23/06/30/0134215&from=rss) - [The Chip Patterning Machines That Will Shape Computing’s Next Act](https://soylentnews.org/article.pl?sid=23/06/30/0134215&from=rss)
-* [2023-06-30, 19:08:00](https://soylentnews.org/article.pl?sid=23/06/30/0015233&from=rss) - [Decades-long Bet on Consciousness Ends](https://soylentnews.org/article.pl?sid=23/06/30/0015233&from=rss)
 
 ## [Archives](archives/index.md)
 
