@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-11, 13:59:00](https://soylentnews.org/article.pl?sid=23/07/11/025203&from=rss) - [The Microplastic Crisis is Getting Exponentially Worse](https://soylentnews.org/article.pl?sid=23/07/11/025203&from=rss)
 * [2023-07-11, 09:14:00](https://soylentnews.org/article.pl?sid=23/07/10/1433209&from=rss) - [Genolve Adds Generative AI Art to its Online Design Platform](https://soylentnews.org/article.pl?sid=23/07/10/1433209&from=rss)
 * [2023-07-11, 04:33:00](https://soylentnews.org/article.pl?sid=23/07/10/0654241&from=rss) - [Emoji Contractual Obligations](https://soylentnews.org/article.pl?sid=23/07/10/0654241&from=rss)
 * [2023-07-10, 23:42:00](https://soylentnews.org/article.pl?sid=23/07/10/0359259&from=rss) - [GCC Adopts A Code of Conduct](https://soylentnews.org/article.pl?sid=23/07/10/0359259&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-02, 07:51:00](https://soylentnews.org/article.pl?sid=23/07/01/0252227&from=rss) - [Virgin Galactic's First Commercial Spaceflight is a Success](https://soylentnews.org/article.pl?sid=23/07/01/0252227&from=rss)
 * [2023-07-02, 03:03:00](https://soylentnews.org/article.pl?sid=23/07/01/0244250&from=rss) - [It's Summer [in the Northern Hemisphere] and That Means Disturbing Swim Advisories. Here's Our Top 5](https://soylentnews.org/article.pl?sid=23/07/01/0244250&from=rss)
 * [2023-07-01, 22:20:00](https://soylentnews.org/article.pl?sid=23/06/30/0614243&from=rss) - [Developer Claims Steam is Rejecting Games With AI-Generated Artwork](https://soylentnews.org/article.pl?sid=23/06/30/0614243&from=rss)
-* [2023-07-01, 17:35:00](https://soylentnews.org/article.pl?sid=23/06/30/0216233&from=rss) - [Worldwide survey kills the myth of ‘Man the Hunter’](https://soylentnews.org/article.pl?sid=23/06/30/0216233&from=rss)
 
 ## [Archives](archives/index.md)
 
