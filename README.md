@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-12, 09:02:00](https://soylentnews.org/article.pl?sid=23/07/11/1716247&from=rss) - [Sarah Silverman Sues OpenAI, Meta for Being \"Industrial-Strength Plagiarists\"](https://soylentnews.org/article.pl?sid=23/07/11/1716247&from=rss)
 * [2023-07-12, 04:15:00](https://soylentnews.org/article.pl?sid=23/07/11/1613228&from=rss) - [Chip Wars:  China Strikes Back](https://soylentnews.org/article.pl?sid=23/07/11/1613228&from=rss)
 * [2023-07-11, 23:29:00](https://soylentnews.org/article.pl?sid=23/07/11/1520259&from=rss) - [Linus Torvalds Calls for Calm as Bcachefs Misses Linux 6.5](https://soylentnews.org/article.pl?sid=23/07/11/1520259&from=rss)
 * [2023-07-11, 18:40:00](https://soylentnews.org/article.pl?sid=23/07/11/0215231&from=rss) - [Meta's Threads Skips EU, but Will Come to the UK](https://soylentnews.org/article.pl?sid=23/07/11/0215231&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-03, 02:49:00](https://soylentnews.org/article.pl?sid=23/07/02/1451236&from=rss) - [Potential Genetic Markers of Multiple Sclerosis Severity](https://soylentnews.org/article.pl?sid=23/07/02/1451236&from=rss)
 * [2023-07-02, 22:00:00](https://soylentnews.org/article.pl?sid=23/07/01/1441206&from=rss) - [NASA's Mars Helicopter 'Phones Home' After No Contact for 63 Days](https://soylentnews.org/article.pl?sid=23/07/01/1441206&from=rss)
 * [2023-07-02, 17:17:00](https://soylentnews.org/article.pl?sid=23/07/01/1440205&from=rss) - [What's a Park Worth to the Economy?](https://soylentnews.org/article.pl?sid=23/07/01/1440205&from=rss)
-* [2023-07-02, 12:32:00](https://soylentnews.org/article.pl?sid=23/07/01/0346222&from=rss) - [Drone Deployed to Fight Mosquitoes in Southern California](https://soylentnews.org/article.pl?sid=23/07/01/0346222&from=rss)
 
 ## [Archives](archives/index.md)
 
