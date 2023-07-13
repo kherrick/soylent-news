@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-13, 04:00:00](https://soylentnews.org/article.pl?sid=23/07/12/0252239&from=rss) - [The Hidden Benefits of Large Science Projects](https://soylentnews.org/article.pl?sid=23/07/12/0252239&from=rss)
 * [2023-07-12, 23:12:00](https://soylentnews.org/article.pl?sid=23/07/12/0034236&from=rss) - [Study Shows How Accounting Practices Distort Economic Reality](https://soylentnews.org/article.pl?sid=23/07/12/0034236&from=rss)
 * [2023-07-12, 18:31:00](https://soylentnews.org/article.pl?sid=23/07/11/2045211&from=rss) - [OpenAI Launches GPT-4 API for Everyone](https://soylentnews.org/article.pl?sid=23/07/11/2045211&from=rss)
 * [2023-07-12, 13:46:00](https://soylentnews.org/article.pl?sid=23/07/11/1739223&from=rss) - [Researchers Discover Safe, Easy, and Affordable Way to Store and Retrieve Hydrogen](https://soylentnews.org/article.pl?sid=23/07/11/1739223&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-03, 21:52:00](https://soylentnews.org/article.pl?sid=23/07/02/156215&from=rss) - [Rocky Strikes Back at Red Hat](https://soylentnews.org/article.pl?sid=23/07/02/156215&from=rss)
 * [2023-07-03, 17:06:00](https://soylentnews.org/article.pl?sid=23/07/02/151245&from=rss) - [Apple Opposes UK Online Safety Bill's 'Spy Clause'](https://soylentnews.org/article.pl?sid=23/07/02/151245&from=rss)
 * [2023-07-03, 12:19:00](https://soylentnews.org/article.pl?sid=23/07/02/1457220&from=rss) - [Iran Admits its Quantum Computer Had Zero Quantum in It](https://soylentnews.org/article.pl?sid=23/07/02/1457220&from=rss)
-* [2023-07-03, 07:32:00](https://soylentnews.org/article.pl?sid=23/07/02/1454213&from=rss) - [The Complex History of the Intel i960 RISC Processor](https://soylentnews.org/article.pl?sid=23/07/02/1454213&from=rss)
 
 ## [Archives](archives/index.md)
 

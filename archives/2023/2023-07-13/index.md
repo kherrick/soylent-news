@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-13](index.md)
+
+* [2023-07-13, 04:00:00](https://soylentnews.org/article.pl?sid=23/07/12/0252239&from=rss) - [The Hidden Benefits of Large Science Projects](https://soylentnews.org/article.pl?sid=23/07/12/0252239&from=rss)
