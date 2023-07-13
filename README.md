@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-13, 13:24:00](https://soylentnews.org/article.pl?sid=23/07/12/036203&from=rss) - [Not All Printing Services Protect Privacy](https://soylentnews.org/article.pl?sid=23/07/12/036203&from=rss)
 * [2023-07-13, 08:39:00](https://soylentnews.org/article.pl?sid=23/07/12/0256258&from=rss) - [The Laws of Physics Used to be Different, Which May Explain Why You Exist](https://soylentnews.org/article.pl?sid=23/07/12/0256258&from=rss)
 * [2023-07-13, 04:00:00](https://soylentnews.org/article.pl?sid=23/07/12/0252239&from=rss) - [The Hidden Benefits of Large Science Projects](https://soylentnews.org/article.pl?sid=23/07/12/0252239&from=rss)
 * [2023-07-12, 23:12:00](https://soylentnews.org/article.pl?sid=23/07/12/0034236&from=rss) - [Study Shows How Accounting Practices Distort Economic Reality](https://soylentnews.org/article.pl?sid=23/07/12/0034236&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-04, 07:17:00](https://soylentnews.org/article.pl?sid=23/07/03/0949229&from=rss) - [France's Proposal for Browser-Based Website Blocking](https://soylentnews.org/article.pl?sid=23/07/03/0949229&from=rss)
 * [2023-07-04, 02:38:00](https://soylentnews.org/article.pl?sid=23/07/03/0318228&from=rss) - [Janitor Heard 'Annoying Alarms' and Turned Off Freezer, Ruining 20 Years of School Research](https://soylentnews.org/article.pl?sid=23/07/03/0318228&from=rss)
 * [2023-07-03, 21:52:00](https://soylentnews.org/article.pl?sid=23/07/02/156215&from=rss) - [Rocky Strikes Back at Red Hat](https://soylentnews.org/article.pl?sid=23/07/02/156215&from=rss)
-* [2023-07-03, 17:06:00](https://soylentnews.org/article.pl?sid=23/07/02/151245&from=rss) - [Apple Opposes UK Online Safety Bill's 'Spy Clause'](https://soylentnews.org/article.pl?sid=23/07/02/151245&from=rss)
 
 ## [Archives](archives/index.md)
 
