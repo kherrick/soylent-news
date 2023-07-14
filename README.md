@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-14, 07:28:00](https://soylentnews.org/article.pl?sid=23/07/13/0454242&from=rss) - [Shortening the Let's Encrypt Chain of Trust](https://soylentnews.org/article.pl?sid=23/07/13/0454242&from=rss)
 * [2023-07-14, 03:44:00](https://soylentnews.org/article.pl?sid=23/07/13/044210&from=rss) - [MIT Physicists Generate the First Snapshots of Fermion Pairs](https://soylentnews.org/article.pl?sid=23/07/13/044210&from=rss)
 * [2023-07-13, 22:59:00](https://soylentnews.org/article.pl?sid=23/07/13/0132242&from=rss) - [The US is Destroying the World's Last Known Chemical Weapons Stockpile](https://soylentnews.org/article.pl?sid=23/07/13/0132242&from=rss)
 * [2023-07-13, 18:14:00](https://soylentnews.org/article.pl?sid=23/07/13/0032258&from=rss) - [Japan Schedules August Launch for 'Moon Sniper' Lander](https://soylentnews.org/article.pl?sid=23/07/13/0032258&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-05, 02:23:00](https://soylentnews.org/meta/article.pl?sid=23/07/04/1054200&from=rss) - [SoylentNews and TLS Connectivity Issues - Community Feedback Needed.](https://soylentnews.org/meta/article.pl?sid=23/07/04/1054200&from=rss)
 * [2023-07-04, 21:37:00](https://soylentnews.org/article.pl?sid=23/07/04/0417257&from=rss) - [How Online Art Viewing Can Impact Our Well-Being](https://soylentnews.org/article.pl?sid=23/07/04/0417257&from=rss)
 * [2023-07-04, 16:51:00](https://soylentnews.org/article.pl?sid=23/07/03/1432242&from=rss) - [YouTube Threatens to Cut Off Ad Blocker Users After Just Three Ad-Less Vids](https://soylentnews.org/article.pl?sid=23/07/03/1432242&from=rss)
-* [2023-07-04, 12:04:00](https://soylentnews.org/article.pl?sid=23/07/03/1430209&from=rss) - [Interstellar Alloy Recovered From Pacific Floor?](https://soylentnews.org/article.pl?sid=23/07/03/1430209&from=rss)
 
 ## [Archives](archives/index.md)
 
