@@ -145,6 +145,110 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/07/13/0454242">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/07/13/0454242&amp;from=rss"
+              >Shortening the Let's Encrypt Chain of Trust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-14 @ 07:28:00</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/07/13/0454242"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~fab23/">fab23</a> writes:</p>
+              <p>
+                <a
+                  href="https://letsencrypt.org/2023/07/10/cross-sign-expiration.html"
+                  >Shortening the Let's Encrypt Chain of Trust</a
+                >
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    When Let's Encrypt first launched, we needed to ensure that
+                    our certificates were widely trusted. To that end, we
+                    arranged to have our intermediate certificates
+                    <a
+                      href="https://letsencrypt.org/2015/10/19/lets-encrypt-is-trusted.html"
+                      >cross-signed by IdenTrust's DST Root CA X3</a
+                    >. This meant that all certificates issued by those
+                    intermediates would be trusted, even while our own ISRG Root
+                    X1 wasn't yet. During subsequent years, our Root X1 became
+                    <a
+                      href="https://letsencrypt.org/docs/certificate-compatibility/"
+                      >widely trusted</a
+                    >
+                    on its own.
+                  </p>
+                  <p>
+                    Come late 2021, our cross-signed intermediates and DST Root
+                    CA X3 itself were expiring. And while all up-to-date
+                    browsers at that time trusted our root,
+                    <a
+                      href="https://letsencrypt.org/2020/11/06/own-two-feet.html"
+                      >over a third of Android devices</a
+                    >
+                    were still running old versions of the OS which would
+                    suddenly stop trusting websites using our certificates. That
+                    breakage would have been too widespread, so we arranged for
+                    a new cross-sign – this time
+                    <a
+                      href="https://letsencrypt.org/2020/12/21/extending-android-compatibility.html"
+                      >directly onto our root</a
+                    >
+                    rather than our intermediates – which would outlive DST Root
+                    CA X3 itself. This stopgap allowed those old Android devices
+                    to continue trusting our certificates for three more years.
+                  </p>
+                  <p>
+                    On September 30th, 2024, that cross-sign too will expire.
+                  </p>
+                  <p>
+                    In the last three years, the percentage of Android devices
+                    which trust our ISRG Root X1 has risen from 66% to 93.9%.
+                    That percentage will increase further over the next year,
+                    especially as Android releases version 14, which has the
+                    ability to
+                    <a
+                      href="https://www.xda-developers.com/android-14-root-certificates-updatable"
+                      >update its trust store without a full OS update</a
+                    >. In addition, dropping the cross-sign will reduce the
+                    number of certificate bytes sent in a TLS handshake by over
+                    40%. Finally, it will significantly reduce our operating
+                    costs, allowing us to focus our funding on continuing to
+                    improve your privacy and security.
+                  </p>
+                  <p>
+                    For these reasons, we will not be getting a new cross-sign
+                    to extend compatibility any further.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60244"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/07/13/044210">
           <h3>
             <a
@@ -157,7 +261,7 @@
             <h4>
               <span>2023-07-14 @ 03:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/13/044210"
@@ -253,12 +357,12 @@
             <h4>
               <span>2023-07-13 @ 22:59:00</span
               ><span class="points-container"
-                >Points: <span class="points">413</span></span
+                >Points: <span class="points">425</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/13/0132242"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -369,7 +473,7 @@
             <h4>
               <span>2023-07-13 @ 18:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">393</span></span
+                >Points: <span class="points">400</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/13/0032258"
@@ -446,7 +550,7 @@
             <h4>
               <span>2023-07-13 @ 13:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">709</span></span
+                >Points: <span class="points">715</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/12/036203"
@@ -526,7 +630,7 @@
             <h4>
               <span>2023-07-13 @ 08:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">949</span></span
+                >Points: <span class="points">955</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/12/0256258"
@@ -595,7 +699,7 @@
             <h4>
               <span>2023-07-13 @ 04:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">826</span></span
+                >Points: <span class="points">827</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/12/0252239"
@@ -690,7 +794,7 @@
             <h4>
               <span>2023-07-12 @ 23:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">993</span></span
+                >Points: <span class="points">995</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/12/0034236"
@@ -968,7 +1072,7 @@
             <h4>
               <span>2023-07-12 @ 09:02:00</span
               ><span class="points-container"
-                >Points: <span class="points">1356</span></span
+                >Points: <span class="points">1357</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/11/1716247"
@@ -1068,7 +1172,7 @@
             <h4>
               <span>2023-07-12 @ 04:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">837</span></span
+                >Points: <span class="points">838</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/07/11/1613228"
@@ -4743,96 +4847,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60147"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/07/03/1430209">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/07/03/1430209&amp;from=rss"
-              >Interstellar Alloy Recovered From Pacific Floor?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-04 @ 12:04:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1082</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/07/03/1430209"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                <a href="//soylentnews.org/~JoeMerchant/">JoeMerchant</a>
-                writes:
-              </p>
-              <p>
-                <a
-                  href="https://earthsky.org/space/interstellar-meteor-papua-new-guinea-2014-u-s-space-command/"
-                  >https://earthsky.org/space/interstellar-meteor-papua-new-guinea-2014-u-s-space-command/</a
-                >
-              </p>
-              <p>
-                In 2019, two researchers from Harvard University – Amir Siraj
-                and Avi Loeb, both of whom had published on 'Oumuamua and Comet
-                Borisov earlier – also wrote a study of this meteor, suggesting
-                its interstellar origins. If true, then this meteor – which
-                predates both 'Oumuamua and Comet Borisov by a few years – would
-                be the first known interstellar object.
-              </p>
-              <p>
-                <a
-                  href="https://www.hindustantimes.com/world-news/harvard-scientist-avi-loeb-claims-collected-remains-of-extraterrestrial-technology-from-bottom-of-the-pacific-101688188241635.html"
-                  >https://www.hindustantimes.com/world-news/harvard-scientist-avi-loeb-claims-collected-remains-of-extraterrestrial-technology-from-bottom-of-the-pacific-101688188241635.html</a
-                >
-              </p>
-              <p>
-                Deep-sea explorers found 50 spherules–molten droplets, about
-                half a millimetre in diameter.
-              </p>
-              <p>
-                Loeb's team collected 35 milligrams of this promising material
-                by dragging a large magnetic sled across the surface of the
-                ocean. The astrophysicist believes that the spherules are most
-                likely made from a steel-titanium alloy
-              </p>
-              <p>
-                "The spherules were found primarily along the most likely path
-                of IM1 and not in control regions far from it," read his blog.
-                "In the coming weeks, we will analyze their elemental and
-                isotopic composition and report our data in a paper submitted to
-                a peer-reviewed journal."
-              </p>
-              <p>
-                <a
-                  href="https://avi-loeb.medium.com/summary-of-the-successful-interstellar-expedition-61ff4467070d"
-                  >https://avi-loeb.medium.com/summary-of-the-successful-interstellar-expedition-61ff4467070d</a
-                >
-              </p>
-              <p>
-                These sub-millimeter-sized spheres, which appear under a
-                microscope as beautiful metallic marbles, were concentrated
-                along the expected path of IM1 — about 85 kilometers off the
-                coast of Manus Island in Papua New Guinea.
-              </p>
-              <p>-------</p>
-              <p>It's just un-spectacular enough to be believable.</p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60155"
                     >Original Submission</a
                   ></small
                 >
