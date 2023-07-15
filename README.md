@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-15, 11:53:00](https://soylentnews.org/article.pl?sid=23/07/14/0635244&from=rss) - [A New Bill Would Force Tech Companies to Report Their Users for Drugs](https://soylentnews.org/article.pl?sid=23/07/14/0635244&from=rss)
 * [2023-07-15, 07:10:00](https://soylentnews.org/article.pl?sid=23/07/14/0232224&from=rss) - [No More NUC: Intel’s Weirdly Named Mini PCs Seem to be Going Away](https://soylentnews.org/article.pl?sid=23/07/14/0232224&from=rss)
 * [2023-07-15, 02:26:00](https://soylentnews.org/article.pl?sid=23/07/13/2031207&from=rss) - [Reinventing Cosmology: UOttawa Research Puts Age of Universe at 26.7 — Not 13.7 — Billion Years](https://soylentnews.org/article.pl?sid=23/07/13/2031207&from=rss)
 * [2023-07-14, 21:41:00](https://soylentnews.org/article.pl?sid=23/07/13/1557216&from=rss) - [Perovskite-Modified LEDs Reveal Rot in Spoiled Food Before It is Visible](https://soylentnews.org/article.pl?sid=23/07/13/1557216&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-06, 06:57:00](https://soylentnews.org/article.pl?sid=23/07/05/0419238&from=rss) - [India Signing the Artemis Accords is a Historic Win for Space Exploration](https://soylentnews.org/article.pl?sid=23/07/05/0419238&from=rss)
 * [2023-07-06, 02:13:00](https://soylentnews.org/article.pl?sid=23/07/04/1925202&from=rss) - [VMware, Other Tech Giants Announce Push for Confidential Computing Standards](https://soylentnews.org/article.pl?sid=23/07/04/1925202&from=rss)
 * [2023-07-05, 21:28:00](https://soylentnews.org/article.pl?sid=23/07/04/181203&from=rss) - [First Flying Car Approved by FAA, Now Available for Preorder](https://soylentnews.org/article.pl?sid=23/07/04/181203&from=rss)
-* [2023-07-05, 16:41:00](https://soylentnews.org/article.pl?sid=23/07/04/1555211&from=rss) - [On Paper, OLED Displays Can Last for 100 Years - If It Wasn't for One Color](https://soylentnews.org/article.pl?sid=23/07/04/1555211&from=rss)
 
 ## [Archives](archives/index.md)
 
