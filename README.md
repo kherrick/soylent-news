@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-15, 02:26:00](https://soylentnews.org/article.pl?sid=23/07/13/2031207&from=rss) - [Reinventing Cosmology: UOttawa Research Puts Age of Universe at 26.7 — Not 13.7 — Billion Years](https://soylentnews.org/article.pl?sid=23/07/13/2031207&from=rss)
 * [2023-07-14, 21:41:00](https://soylentnews.org/article.pl?sid=23/07/13/1557216&from=rss) - [Perovskite-Modified LEDs Reveal Rot in Spoiled Food Before It is Visible](https://soylentnews.org/article.pl?sid=23/07/13/1557216&from=rss)
 * [2023-07-14, 17:01:00](https://soylentnews.org/article.pl?sid=23/07/13/053255&from=rss) - [Viewers Actually ‘Binge-Watch’ TV With a Lot of Self-Control](https://soylentnews.org/article.pl?sid=23/07/13/053255&from=rss)
 * [2023-07-14, 12:13:00](https://soylentnews.org/article.pl?sid=23/07/13/0459252&from=rss) - [Hacking Legislation Using Line-Item Vetos](https://soylentnews.org/article.pl?sid=23/07/13/0459252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-05, 21:28:00](https://soylentnews.org/article.pl?sid=23/07/04/181203&from=rss) - [First Flying Car Approved by FAA, Now Available for Preorder](https://soylentnews.org/article.pl?sid=23/07/04/181203&from=rss)
 * [2023-07-05, 16:41:00](https://soylentnews.org/article.pl?sid=23/07/04/1555211&from=rss) - [On Paper, OLED Displays Can Last for 100 Years - If It Wasn't for One Color](https://soylentnews.org/article.pl?sid=23/07/04/1555211&from=rss)
 * [2023-07-05, 11:54:00](https://soylentnews.org/article.pl?sid=23/07/04/1524215&from=rss) - [Cash or Card? Consumers Pay Strategically to Forget Guilty Purchases](https://soylentnews.org/article.pl?sid=23/07/04/1524215&from=rss)
-* [2023-07-05, 07:10:00](https://soylentnews.org/article.pl?sid=23/07/04/1522250&from=rss) - [ECMAScript 2023 Spec for JavaScript Finalized](https://soylentnews.org/article.pl?sid=23/07/04/1522250&from=rss)
 
 ## [Archives](archives/index.md)
 
