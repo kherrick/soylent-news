@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-16, 06:57:00](https://soylentnews.org/article.pl?sid=23/07/15/1658202&from=rss) - [U.S. Senators Propose Legislation to Declassify UFO Documents and Exercise Eminent Domain Over Craft](https://soylentnews.org/article.pl?sid=23/07/15/1658202&from=rss)
 * [2023-07-16, 02:09:00](https://soylentnews.org/article.pl?sid=23/07/15/0248253&from=rss) - [Clingy Virgin Media Won't Let Us Go, Customers Complain](https://soylentnews.org/article.pl?sid=23/07/15/0248253&from=rss)
 * [2023-07-15, 21:25:00](https://soylentnews.org/article.pl?sid=23/07/15/0221251&from=rss) - [NASA Decides Not to Launch Two Already-built Asteroid Probes](https://soylentnews.org/article.pl?sid=23/07/15/0221251&from=rss)
 * [2023-07-15, 16:38:00](https://soylentnews.org/article.pl?sid=23/07/15/029253&from=rss) - [Linux Could be 3% of Global Desktops. What Happened to Windows?](https://soylentnews.org/article.pl?sid=23/07/15/029253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-07, 01:44:00](https://soylentnews.org/article.pl?sid=23/07/05/1622235&from=rss) - [Green Hills Software Founder Takes on Tesla Full Self-Driving...and Unsafe Software Everywhere](https://soylentnews.org/article.pl?sid=23/07/05/1622235&from=rss)
 * [2023-07-06, 21:01:00](https://soylentnews.org/article.pl?sid=23/07/05/168229&from=rss) - [Google Says It'll Scrape Everything You Post Online for AI](https://soylentnews.org/article.pl?sid=23/07/05/168229&from=rss)
 * [2023-07-06, 16:17:00](https://soylentnews.org/article.pl?sid=23/07/05/0848230&from=rss) - [Rangers Build 12-Tonne Mountain Out of Wildlife Traps](https://soylentnews.org/article.pl?sid=23/07/05/0848230&from=rss)
-* [2023-07-06, 11:37:00](https://soylentnews.org/article.pl?sid=23/07/05/0434244&from=rss) - [Sun Breaks Out With Record Number of Sunspots, Sparking Solar Storm Concerns](https://soylentnews.org/article.pl?sid=23/07/05/0434244&from=rss)
 
 ## [Archives](archives/index.md)
 
