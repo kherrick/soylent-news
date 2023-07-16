@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-16, 16:26:00](https://soylentnews.org/article.pl?sid=23/07/15/2210234&from=rss) - [Open Source Hardware Companies Going Proprietary](https://soylentnews.org/article.pl?sid=23/07/15/2210234&from=rss)
 * [2023-07-16, 11:37:00](https://soylentnews.org/article.pl?sid=23/07/15/1659211&from=rss) - [Communities Should Reconsider Walking Away From Curbside Recycling](https://soylentnews.org/article.pl?sid=23/07/15/1659211&from=rss)
 * [2023-07-16, 06:57:00](https://soylentnews.org/article.pl?sid=23/07/15/1658202&from=rss) - [U.S. Senators Propose Legislation to Declassify UFO Documents and Exercise Eminent Domain Over Craft](https://soylentnews.org/article.pl?sid=23/07/15/1658202&from=rss)
 * [2023-07-16, 02:09:00](https://soylentnews.org/article.pl?sid=23/07/15/0248253&from=rss) - [Clingy Virgin Media Won't Let Us Go, Customers Complain](https://soylentnews.org/article.pl?sid=23/07/15/0248253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-07, 11:16:00](https://soylentnews.org/article.pl?sid=23/07/06/077209&from=rss) - [Repair Adventure: A Single White LED Causing Stuck Keys on a RN988 Keyboard](https://soylentnews.org/article.pl?sid=23/07/06/077209&from=rss)
 * [2023-07-07, 06:32:00](https://soylentnews.org/article.pl?sid=23/07/06/0225249&from=rss) - [Why Netherlands Wants to Ban Mobile Phones in Classrooms](https://soylentnews.org/article.pl?sid=23/07/06/0225249&from=rss)
 * [2023-07-07, 01:44:00](https://soylentnews.org/article.pl?sid=23/07/05/1622235&from=rss) - [Green Hills Software Founder Takes on Tesla Full Self-Driving...and Unsafe Software Everywhere](https://soylentnews.org/article.pl?sid=23/07/05/1622235&from=rss)
-* [2023-07-06, 21:01:00](https://soylentnews.org/article.pl?sid=23/07/05/168229&from=rss) - [Google Says It'll Scrape Everything You Post Online for AI](https://soylentnews.org/article.pl?sid=23/07/05/168229&from=rss)
 
 ## [Archives](archives/index.md)
 
