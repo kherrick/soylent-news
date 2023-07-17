@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-17, 01:52:00](https://soylentnews.org/article.pl?sid=23/07/16/0114200&from=rss) - [French Police Will Be Able to Spy on People through Their Cell Phones](https://soylentnews.org/article.pl?sid=23/07/16/0114200&from=rss)
 * [2023-07-16, 21:11:00](https://soylentnews.org/article.pl?sid=23/07/16/018206&from=rss) - [Wayland May Soon Overtake X11 in Linux GUIs](https://soylentnews.org/article.pl?sid=23/07/16/018206&from=rss)
 * [2023-07-16, 16:26:00](https://soylentnews.org/article.pl?sid=23/07/15/2210234&from=rss) - [Open Source Hardware Companies Going Proprietary](https://soylentnews.org/article.pl?sid=23/07/15/2210234&from=rss)
 * [2023-07-16, 11:37:00](https://soylentnews.org/article.pl?sid=23/07/15/1659211&from=rss) - [Communities Should Reconsider Walking Away From Curbside Recycling](https://soylentnews.org/article.pl?sid=23/07/15/1659211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-07, 20:50:00](https://soylentnews.org/article.pl?sid=23/07/07/0214245&from=rss) - [Scientists Intrigued by Glacier Bleeding Red Fluid](https://soylentnews.org/article.pl?sid=23/07/07/0214245&from=rss)
 * [2023-07-07, 16:03:00](https://soylentnews.org/article.pl?sid=23/07/06/0710236&from=rss) - [Earth's Jet Streams Look as Chaotic as a Van Gogh Right Now, and That's a Big Problem](https://soylentnews.org/article.pl?sid=23/07/06/0710236&from=rss)
 * [2023-07-07, 11:16:00](https://soylentnews.org/article.pl?sid=23/07/06/077209&from=rss) - [Repair Adventure: A Single White LED Causing Stuck Keys on a RN988 Keyboard](https://soylentnews.org/article.pl?sid=23/07/06/077209&from=rss)
-* [2023-07-07, 06:32:00](https://soylentnews.org/article.pl?sid=23/07/06/0225249&from=rss) - [Why Netherlands Wants to Ban Mobile Phones in Classrooms](https://soylentnews.org/article.pl?sid=23/07/06/0225249&from=rss)
 
 ## [Archives](archives/index.md)
 
