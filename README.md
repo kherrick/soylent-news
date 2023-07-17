@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-17, 11:22:00](https://soylentnews.org/article.pl?sid=23/07/16/0437241&from=rss) - [Blind Trust in Enhancement Technologies Encourages Risk-Taking Even If the Tech is a Sham](https://soylentnews.org/article.pl?sid=23/07/16/0437241&from=rss)
 * [2023-07-17, 06:34:00](https://soylentnews.org/article.pl?sid=23/07/16/0435228&from=rss) - [Nvidia is Quietly Upgrading GeForce RTX 4090 Cards With a Safer Power Connector](https://soylentnews.org/article.pl?sid=23/07/16/0435228&from=rss)
 * [2023-07-17, 01:52:00](https://soylentnews.org/article.pl?sid=23/07/16/0114200&from=rss) - [French Police Will Be Able to Spy on People through Their Cell Phones](https://soylentnews.org/article.pl?sid=23/07/16/0114200&from=rss)
 * [2023-07-16, 21:11:00](https://soylentnews.org/article.pl?sid=23/07/16/018206&from=rss) - [Wayland May Soon Overtake X11 in Linux GUIs](https://soylentnews.org/article.pl?sid=23/07/16/018206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-08, 06:20:00](https://soylentnews.org/article.pl?sid=23/07/07/0230222&from=rss) - [The Pervasive Background Hum of Merging Supermassive Black Holes](https://soylentnews.org/article.pl?sid=23/07/07/0230222&from=rss)
 * [2023-07-08, 01:37:00](https://soylentnews.org/article.pl?sid=23/07/07/0218224&from=rss) - [Publishers and Advertisers Push Back at FTC’s ‘Click-to-Cancel’ Proposal](https://soylentnews.org/article.pl?sid=23/07/07/0218224&from=rss)
 * [2023-07-07, 20:50:00](https://soylentnews.org/article.pl?sid=23/07/07/0214245&from=rss) - [Scientists Intrigued by Glacier Bleeding Red Fluid](https://soylentnews.org/article.pl?sid=23/07/07/0214245&from=rss)
-* [2023-07-07, 16:03:00](https://soylentnews.org/article.pl?sid=23/07/06/0710236&from=rss) - [Earth's Jet Streams Look as Chaotic as a Van Gogh Right Now, and That's a Big Problem](https://soylentnews.org/article.pl?sid=23/07/06/0710236&from=rss)
 
 ## [Archives](archives/index.md)
 
