@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-18, 15:44:00](https://soylentnews.org/article.pl?sid=23/07/18/0225248&from=rss) - [A Novel Biosensor for Detecting Neurogenerative Disease Proteins](https://soylentnews.org/article.pl?sid=23/07/18/0225248&from=rss)
 * [2023-07-18, 10:59:00](https://soylentnews.org/article.pl?sid=23/07/18/0210247&from=rss) - [Ohio Bans Doctor After Botched Surgeries on TikTok Threaten Patients’ Lives](https://soylentnews.org/article.pl?sid=23/07/18/0210247&from=rss)
 * [2023-07-18, 06:17:00](https://soylentnews.org/article.pl?sid=23/07/17/1630249&from=rss) - [Human Powered Air Compressor and Energy Storage System](https://soylentnews.org/article.pl?sid=23/07/17/1630249&from=rss)
 * [2023-07-18, 01:40:00](https://soylentnews.org/article.pl?sid=23/07/17/1630248&from=rss) - [Fran Drescher: \"We Are All Going to be in Jeopardy of Being Replaced by Machines\"](https://soylentnews.org/article.pl?sid=23/07/17/1630248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-09, 10:51:00](https://soylentnews.org/article.pl?sid=23/07/08/1323208&from=rss) - [Chinese Customs Bust Smuggler With 420 SSDs Strapped to His Body](https://soylentnews.org/article.pl?sid=23/07/08/1323208&from=rss)
 * [2023-07-09, 06:06:00](https://soylentnews.org/article.pl?sid=23/07/08/0647206&from=rss) - [Key Predictors of Bitcoin Returns Unveiled](https://soylentnews.org/article.pl?sid=23/07/08/0647206&from=rss)
 * [2023-07-09, 01:14:00](https://soylentnews.org/article.pl?sid=23/07/08/0625229&from=rss) - [Lessons From PL/I: A Most Ambitious Programming Language](https://soylentnews.org/article.pl?sid=23/07/08/0625229&from=rss)
-* [2023-07-08, 20:33:00](https://soylentnews.org/article.pl?sid=23/07/07/1244211&from=rss) - [Elliptic Curves Yield (Some of) Their Secrets](https://soylentnews.org/article.pl?sid=23/07/07/1244211&from=rss)
 
 ## [Archives](archives/index.md)
 
