@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-18, 06:17:00](https://soylentnews.org/article.pl?sid=23/07/17/1630249&from=rss) - [Human Powered Air Compressor and Energy Storage System](https://soylentnews.org/article.pl?sid=23/07/17/1630249&from=rss)
 * [2023-07-18, 01:40:00](https://soylentnews.org/article.pl?sid=23/07/17/1630248&from=rss) - [Fran Drescher: \"We Are All Going to be in Jeopardy of Being Replaced by Machines\"](https://soylentnews.org/article.pl?sid=23/07/17/1630248&from=rss)
 * [2023-07-17, 20:54:00](https://soylentnews.org/article.pl?sid=23/07/17/1555251&from=rss) - [Twitter Traffic is Down - Along with Advertising Revenue](https://soylentnews.org/article.pl?sid=23/07/17/1555251&from=rss)
 * [2023-07-17, 16:10:00](https://soylentnews.org/article.pl?sid=23/07/17/1527207&from=rss) - [A Deep Underground Lab Could Hold Key to Habitability on Mars](https://soylentnews.org/article.pl?sid=23/07/17/1527207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-09, 01:14:00](https://soylentnews.org/article.pl?sid=23/07/08/0625229&from=rss) - [Lessons From PL/I: A Most Ambitious Programming Language](https://soylentnews.org/article.pl?sid=23/07/08/0625229&from=rss)
 * [2023-07-08, 20:33:00](https://soylentnews.org/article.pl?sid=23/07/07/1244211&from=rss) - [Elliptic Curves Yield (Some of) Their Secrets](https://soylentnews.org/article.pl?sid=23/07/07/1244211&from=rss)
 * [2023-07-08, 15:41:00](https://soylentnews.org/article.pl?sid=23/07/07/1241245&from=rss) - [Our Brain Prefers Positive Vocal Sounds That Come From Our Left](https://soylentnews.org/article.pl?sid=23/07/07/1241245&from=rss)
-* [2023-07-08, 11:03:00](https://soylentnews.org/article.pl?sid=23/07/07/0444256&from=rss) - [Upcoming Android Smartphone to Include 24 GB of RAM](https://soylentnews.org/article.pl?sid=23/07/07/0444256&from=rss)
 
 ## [Archives](archives/index.md)
 
