@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-19, 10:45:00](https://soylentnews.org/article.pl?sid=23/07/18/0523232&from=rss) - [EU-US Data Privacy Framework to Face Serious Legal Challenges, Experts Say](https://soylentnews.org/article.pl?sid=23/07/18/0523232&from=rss)
 * [2023-07-19, 05:59:00](https://soylentnews.org/article.pl?sid=23/07/18/0241221&from=rss) - [Hackers Exploit Gaping Windows Loophole to Give Their Malware Kernel Access](https://soylentnews.org/article.pl?sid=23/07/18/0241221&from=rss)
 * [2023-07-19, 01:11:00](https://soylentnews.org/article.pl?sid=23/07/18/0233243&from=rss) - [Why AI detectors think the US Constitution was written by AI](https://soylentnews.org/article.pl?sid=23/07/18/0233243&from=rss)
 * [2023-07-18, 20:31:00](https://soylentnews.org/article.pl?sid=23/07/18/0233200&from=rss) - [The Senate Just Applied the Brakes to NASA's Mars Sample Return Program](https://soylentnews.org/article.pl?sid=23/07/18/0233200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-10, 04:44:00](https://soylentnews.org/article.pl?sid=23/07/09/1441225&from=rss) - [Magic The Gathering One Ring Card Found But No Buyer](https://soylentnews.org/article.pl?sid=23/07/09/1441225&from=rss)
 * [2023-07-10, 01:01:00](https://soylentnews.org/article.pl?sid=23/07/09/1423231&from=rss) - [Almost Half of U.S. Tap Water is Contaminated With 'Forever Chemicals'](https://soylentnews.org/article.pl?sid=23/07/09/1423231&from=rss)
 * [2023-07-09, 20:16:00](https://soylentnews.org/article.pl?sid=23/07/09/1128234&from=rss) - [Reverse-Engineering the 8086 Processor's Address and Data Pin Circuits](https://soylentnews.org/article.pl?sid=23/07/09/1128234&from=rss)
-* [2023-07-09, 15:36:00](https://soylentnews.org/article.pl?sid=23/07/08/1328250&from=rss) - [Uber, DoorDash and Grubhub Sue New York City Over $18 Minimum-Wage Law](https://soylentnews.org/article.pl?sid=23/07/08/1328250&from=rss)
 
 ## [Archives](archives/index.md)
 
