@@ -145,6 +145,85 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/07/20/0131258">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/07/20/0131258&amp;from=rss"
+              >Undocumented 8086 Instructions, Explained by the Microcode</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-20 @ 20:19:00</span
+              ><span class="points-container"
+                >Points: <span class="points">2</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/07/20/0131258"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~owl/">owl</a> writes:</p>
+              <p>
+                <a
+                  href="https://www.righto.com/2023/07/undocumented-8086-instructions.html"
+                  >https://www.righto.com/2023/07/undocumented-8086-instructions.html</a
+                >
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    What happens if you give the Intel 8086 processor an
+                    instruction that doesn't exist? A modern microprocessor
+                    (80186 and later) will generate an exception, indicating
+                    that an illegal instruction was executed. However, early
+                    microprocessors didn't include the circuitry to detect
+                    illegal instructions, since the chips didn't have
+                    transistors to spare. Instead these processors would do
+                    something, but the results weren't specified.<sup>1</sup>
+                  </p>
+                  <p>
+                    The 8086 has a number of undocumented instructions. Most of
+                    them are simply duplicates of regular instructions, but a
+                    few have unexpected behavior, such as revealing the values
+                    of internal, hidden registers. In the 8086, most
+                    instructions are implemented in microcode, so examining the
+                    8086's microcode can explain why these instructions behave
+                    the way they do.
+                  </p>
+                  <p>
+                    <small
+                      ><sup>1</sup> The 6502 processor, for instance, has
+                      illegal instructions with various effects, including
+                      causing the processor to hang. The article
+                      <a href="https://www.pagetable.com/?p=39"
+                        >How MOS 6502 illegal opcodes really work</a
+                      >
+                      describes in detail how the instruction decoding results
+                      in various illegal opcodes. Some of these opcodes put the
+                      internal bus into a floating state, so the behavior is
+                      electrically unpredictable.</small
+                    >
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60284"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/07/19/1236235">
           <h3>
             <a
@@ -4913,93 +4992,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60225"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/07/10/0359259">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/07/10/0359259&amp;from=rss"
-              >GCC Adopts A Code of Conduct</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-10 @ 23:42:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1650</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/07/10/0359259"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~hubie/">hubie</a> writes:</p>
-              <p>
-                <a href="https://www.phoronix.com/news/GCC-Code-of-Conduct"
-                  >GCC Adopts A Code of Conduct</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    While a few years late compared to many other open-source
-                    projects adopting a Code of Conduct, the GCC Steering
-                    Committee has now adopted a Code of Conduct "CoC" for this
-                    open-source compiler project.
-                  </p>
-                  <p>
-                    Passionate compiler developers and other GCC stakeholders
-                    are encouraged to remind themselves to be civil in their
-                    discussions and follow other recommendations to foster their
-                    community. Jason Merrill of the GCC Steering Committee wrote
-                    in their announcement of this CoC:
-                  </p>
-                  <blockquote>
-                    <div>
-                      <p>
-                        "The vast majority of the time, the GCC community is a
-                        very civil, cooperative space. On the rare occasions
-                        that it isn't, it's helpful to have something to point
-                        to to remind people of our expectations. It's also good
-                        for newcomers to have something to refer to, for both
-                        how they are expected to conduct themselves and how they
-                        can expect to be treated.
-                      </p>
-                      <p>
-                          More importantly, if there is offensive behavior that
-                        isn't corrected immediately, it's important for there to
-                        be a way to report that to the project leadership so
-                        that we can intervene.
-                      </p>
-                      <p>
-                          At this time the CoC is preliminary: the code itself
-                        should be considered active, but the CoC committee (and
-                        so the reporting and response procedures) are not yet in
-                        place."
-                      </p>
-                    </div>
-                  </blockquote>
-                </div>
-              </blockquote>
-              <p>
-                The draft GCC CoC can be viewed
-                <a href="https://gcc.gnu.org/conduct.html">here</a>.
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60222"
                     >Original Submission</a
                   ></small
                 >
