@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-21, 10:36:00](https://soylentnews.org/article.pl?sid=23/07/20/1256203&from=rss) - [Google's New Security Pilot Program Will Ban Employee Internet Access](https://soylentnews.org/article.pl?sid=23/07/20/1256203&from=rss)
 * [2023-07-21, 05:52:00](https://soylentnews.org/article.pl?sid=23/07/20/1253212&from=rss) - [Google Engineers Propose DRM for Webpages](https://soylentnews.org/article.pl?sid=23/07/20/1253212&from=rss)
 * [2023-07-21, 01:06:00](https://soylentnews.org/article.pl?sid=23/07/20/0136258&from=rss) - [Chasing Defamatory Hallucinations, FTC Opens Investigation Into OpenAI](https://soylentnews.org/article.pl?sid=23/07/20/0136258&from=rss)
 * [2023-07-20, 20:19:00](https://soylentnews.org/article.pl?sid=23/07/20/0131258&from=rss) - [Undocumented 8086 Instructions, Explained by the Microcode](https://soylentnews.org/article.pl?sid=23/07/20/0131258&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-12, 04:15:00](https://soylentnews.org/article.pl?sid=23/07/11/1613228&from=rss) - [Chip Wars:  China Strikes Back](https://soylentnews.org/article.pl?sid=23/07/11/1613228&from=rss)
 * [2023-07-11, 23:29:00](https://soylentnews.org/article.pl?sid=23/07/11/1520259&from=rss) - [Linus Torvalds Calls for Calm as Bcachefs Misses Linux 6.5](https://soylentnews.org/article.pl?sid=23/07/11/1520259&from=rss)
 * [2023-07-11, 18:40:00](https://soylentnews.org/article.pl?sid=23/07/11/0215231&from=rss) - [Meta's Threads Skips EU, but Will Come to the UK](https://soylentnews.org/article.pl?sid=23/07/11/0215231&from=rss)
-* [2023-07-11, 13:59:00](https://soylentnews.org/article.pl?sid=23/07/11/025203&from=rss) - [The Microplastic Crisis is Getting Exponentially Worse](https://soylentnews.org/article.pl?sid=23/07/11/025203&from=rss)
 
 ## [Archives](archives/index.md)
 
