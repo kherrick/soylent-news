@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-21, 01:06:00](https://soylentnews.org/article.pl?sid=23/07/20/0136258&from=rss) - [Chasing Defamatory Hallucinations, FTC Opens Investigation Into OpenAI](https://soylentnews.org/article.pl?sid=23/07/20/0136258&from=rss)
 * [2023-07-20, 20:19:00](https://soylentnews.org/article.pl?sid=23/07/20/0131258&from=rss) - [Undocumented 8086 Instructions, Explained by the Microcode](https://soylentnews.org/article.pl?sid=23/07/20/0131258&from=rss)
 * [2023-07-20, 15:21:00](https://soylentnews.org/article.pl?sid=23/07/19/1236235&from=rss) - [It's Sewage, Not Fertilizer Fueling Nitrogen Surge in Florida's Indian River Lagoon](https://soylentnews.org/article.pl?sid=23/07/19/1236235&from=rss)
 * [2023-07-20, 10:34:00](https://soylentnews.org/article.pl?sid=23/07/19/1229202&from=rss) - [Iron Deficiency Goes Unnoticed in Too Many U.S. Female Adolescents](https://soylentnews.org/article.pl?sid=23/07/19/1229202&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-11, 18:40:00](https://soylentnews.org/article.pl?sid=23/07/11/0215231&from=rss) - [Meta's Threads Skips EU, but Will Come to the UK](https://soylentnews.org/article.pl?sid=23/07/11/0215231&from=rss)
 * [2023-07-11, 13:59:00](https://soylentnews.org/article.pl?sid=23/07/11/025203&from=rss) - [The Microplastic Crisis is Getting Exponentially Worse](https://soylentnews.org/article.pl?sid=23/07/11/025203&from=rss)
 * [2023-07-11, 09:14:00](https://soylentnews.org/article.pl?sid=23/07/10/1433209&from=rss) - [Genolve Adds Generative AI Art to its Online Design Platform](https://soylentnews.org/article.pl?sid=23/07/10/1433209&from=rss)
-* [2023-07-11, 04:33:00](https://soylentnews.org/article.pl?sid=23/07/10/0654241&from=rss) - [Emoji Contractual Obligations](https://soylentnews.org/article.pl?sid=23/07/10/0654241&from=rss)
 
 ## [Archives](archives/index.md)
 
