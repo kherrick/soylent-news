@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-22, 00:51:00](https://soylentnews.org/article.pl?sid=23/07/21/0953221&from=rss) - [Stunned Researchers Discover That Metals Can Heal Themselves ‘Without Human Intervention’](https://soylentnews.org/article.pl?sid=23/07/21/0953221&from=rss)
 * [2023-07-21, 20:04:00](https://soylentnews.org/article.pl?sid=23/07/21/0947221&from=rss) - [Rare Magic Item: Cloak of Comfort, Resist Acid, Resist Fire.](https://soylentnews.org/article.pl?sid=23/07/21/0947221&from=rss)
 * [2023-07-21, 15:20:00](https://soylentnews.org/article.pl?sid=23/07/20/1351250&from=rss) - [Opinion:  the Decline of Science at the FDA Has Become Unmanageable](https://soylentnews.org/article.pl?sid=23/07/20/1351250&from=rss)
 * [2023-07-21, 10:36:00](https://soylentnews.org/article.pl?sid=23/07/20/1256203&from=rss) - [Google's New Security Pilot Program Will Ban Employee Internet Access](https://soylentnews.org/article.pl?sid=23/07/20/1256203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-12, 18:31:00](https://soylentnews.org/article.pl?sid=23/07/11/2045211&from=rss) - [OpenAI Launches GPT-4 API for Everyone](https://soylentnews.org/article.pl?sid=23/07/11/2045211&from=rss)
 * [2023-07-12, 13:46:00](https://soylentnews.org/article.pl?sid=23/07/11/1739223&from=rss) - [Researchers Discover Safe, Easy, and Affordable Way to Store and Retrieve Hydrogen](https://soylentnews.org/article.pl?sid=23/07/11/1739223&from=rss)
 * [2023-07-12, 09:02:00](https://soylentnews.org/article.pl?sid=23/07/11/1716247&from=rss) - [Sarah Silverman Sues OpenAI, Meta for Being \"Industrial-Strength Plagiarists\"](https://soylentnews.org/article.pl?sid=23/07/11/1716247&from=rss)
-* [2023-07-12, 04:15:00](https://soylentnews.org/article.pl?sid=23/07/11/1613228&from=rss) - [Chip Wars:  China Strikes Back](https://soylentnews.org/article.pl?sid=23/07/11/1613228&from=rss)
 
 ## [Archives](archives/index.md)
 
