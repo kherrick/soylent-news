@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-22, 19:43:00](https://soylentnews.org/article.pl?sid=23/07/22/0137243&from=rss) - [Aptera Update: Report on Wind Tunnel Calibration of Their CFD](https://soylentnews.org/article.pl?sid=23/07/22/0137243&from=rss)
 * [2023-07-22, 15:02:00](https://soylentnews.org/article.pl?sid=23/07/22/0131246&from=rss) - [Beware of These Bad Proposed Internet Bills](https://soylentnews.org/article.pl?sid=23/07/22/0131246&from=rss)
 * [2023-07-22, 10:19:00](https://soylentnews.org/article.pl?sid=23/07/22/0110257&from=rss) - [Google Demos “Unsettling” Tool to Help Journalists Write the News](https://soylentnews.org/article.pl?sid=23/07/22/0110257&from=rss)
 * [2023-07-22, 05:34:00](https://soylentnews.org/article.pl?sid=23/07/21/0956213&from=rss) - [Avi and Oumuamua: Setting the Record Straight](https://soylentnews.org/article.pl?sid=23/07/21/0956213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-13, 13:24:00](https://soylentnews.org/article.pl?sid=23/07/12/036203&from=rss) - [Not All Printing Services Protect Privacy](https://soylentnews.org/article.pl?sid=23/07/12/036203&from=rss)
 * [2023-07-13, 08:39:00](https://soylentnews.org/article.pl?sid=23/07/12/0256258&from=rss) - [The Laws of Physics Used to be Different, Which May Explain Why You Exist](https://soylentnews.org/article.pl?sid=23/07/12/0256258&from=rss)
 * [2023-07-13, 04:00:00](https://soylentnews.org/article.pl?sid=23/07/12/0252239&from=rss) - [The Hidden Benefits of Large Science Projects](https://soylentnews.org/article.pl?sid=23/07/12/0252239&from=rss)
-* [2023-07-12, 23:12:00](https://soylentnews.org/article.pl?sid=23/07/12/0034236&from=rss) - [Study Shows How Accounting Practices Distort Economic Reality](https://soylentnews.org/article.pl?sid=23/07/12/0034236&from=rss)
 
 ## [Archives](archives/index.md)
 
