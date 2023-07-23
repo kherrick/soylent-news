@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-23, 00:28:00](https://soylentnews.org/article.pl?sid=23/07/22/020258&from=rss) - [No Apologies as Reddit Halfheartedly Tries to Repair Ties With Moderators](https://soylentnews.org/article.pl?sid=23/07/22/020258&from=rss)
 * [2023-07-22, 19:43:00](https://soylentnews.org/article.pl?sid=23/07/22/0137243&from=rss) - [Aptera Update: Report on Wind Tunnel Calibration of Their CFD](https://soylentnews.org/article.pl?sid=23/07/22/0137243&from=rss)
 * [2023-07-22, 15:02:00](https://soylentnews.org/article.pl?sid=23/07/22/0131246&from=rss) - [Beware of These Bad Proposed Internet Bills](https://soylentnews.org/article.pl?sid=23/07/22/0131246&from=rss)
 * [2023-07-22, 10:19:00](https://soylentnews.org/article.pl?sid=23/07/22/0110257&from=rss) - [Google Demos “Unsettling” Tool to Help Journalists Write the News](https://soylentnews.org/article.pl?sid=23/07/22/0110257&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-13, 18:14:00](https://soylentnews.org/article.pl?sid=23/07/13/0032258&from=rss) - [Japan Schedules August Launch for 'Moon Sniper' Lander](https://soylentnews.org/article.pl?sid=23/07/13/0032258&from=rss)
 * [2023-07-13, 13:24:00](https://soylentnews.org/article.pl?sid=23/07/12/036203&from=rss) - [Not All Printing Services Protect Privacy](https://soylentnews.org/article.pl?sid=23/07/12/036203&from=rss)
 * [2023-07-13, 08:39:00](https://soylentnews.org/article.pl?sid=23/07/12/0256258&from=rss) - [The Laws of Physics Used to be Different, Which May Explain Why You Exist](https://soylentnews.org/article.pl?sid=23/07/12/0256258&from=rss)
-* [2023-07-13, 04:00:00](https://soylentnews.org/article.pl?sid=23/07/12/0252239&from=rss) - [The Hidden Benefits of Large Science Projects](https://soylentnews.org/article.pl?sid=23/07/12/0252239&from=rss)
 
 ## [Archives](archives/index.md)
 
