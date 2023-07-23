@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-23, 10:28:00](https://soylentnews.org/article.pl?sid=23/07/22/1254253&from=rss) - [Are We Truly “Inattentionally Blind”? ](https://soylentnews.org/article.pl?sid=23/07/22/1254253&from=rss)
 * [2023-07-23, 05:43:00](https://soylentnews.org/article.pl?sid=23/07/22/0213216&from=rss) - [Seven AI Companies Agree to Safeguards in the US](https://soylentnews.org/article.pl?sid=23/07/22/0213216&from=rss)
 * [2023-07-23, 00:28:00](https://soylentnews.org/article.pl?sid=23/07/22/020258&from=rss) - [No Apologies as Reddit Halfheartedly Tries to Repair Ties With Moderators](https://soylentnews.org/article.pl?sid=23/07/22/020258&from=rss)
 * [2023-07-22, 19:43:00](https://soylentnews.org/article.pl?sid=23/07/22/0137243&from=rss) - [Aptera Update: Report on Wind Tunnel Calibration of Their CFD](https://soylentnews.org/article.pl?sid=23/07/22/0137243&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-14, 03:44:00](https://soylentnews.org/article.pl?sid=23/07/13/044210&from=rss) - [MIT Physicists Generate the First Snapshots of Fermion Pairs](https://soylentnews.org/article.pl?sid=23/07/13/044210&from=rss)
 * [2023-07-13, 22:59:00](https://soylentnews.org/article.pl?sid=23/07/13/0132242&from=rss) - [The US is Destroying the World's Last Known Chemical Weapons Stockpile](https://soylentnews.org/article.pl?sid=23/07/13/0132242&from=rss)
 * [2023-07-13, 18:14:00](https://soylentnews.org/article.pl?sid=23/07/13/0032258&from=rss) - [Japan Schedules August Launch for 'Moon Sniper' Lander](https://soylentnews.org/article.pl?sid=23/07/13/0032258&from=rss)
-* [2023-07-13, 13:24:00](https://soylentnews.org/article.pl?sid=23/07/12/036203&from=rss) - [Not All Printing Services Protect Privacy](https://soylentnews.org/article.pl?sid=23/07/12/036203&from=rss)
 
 ## [Archives](archives/index.md)
 
