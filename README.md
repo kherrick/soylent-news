@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-24, 10:20:00](https://soylentnews.org/article.pl?sid=23/07/23/1233221&from=rss) - [Apple Tries to Explain to U.K. Legislators That You Can’t Add Back Doors to Secure Protocols](https://soylentnews.org/article.pl?sid=23/07/23/1233221&from=rss)
 * [2023-07-24, 05:35:00](https://soylentnews.org/article.pl?sid=23/07/23/0228258&from=rss) - [NASA Slammed Into an Asteroid and Hubble Just Spotted a Spectacular Effect](https://soylentnews.org/article.pl?sid=23/07/23/0228258&from=rss)
 * [2023-07-24, 00:47:00](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss) - [AI in Medicine Needs to be Carefully Deployed to Counter Bias – and Not Entrench It](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss)
 * [2023-07-23, 20:04:00](https://soylentnews.org/article.pl?sid=23/07/23/0126208&from=rss) - [Environmental Discs of Tron Roadside Pickup!](https://soylentnews.org/article.pl?sid=23/07/23/0126208&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-15, 02:26:00](https://soylentnews.org/article.pl?sid=23/07/13/2031207&from=rss) - [Reinventing Cosmology: UOttawa Research Puts Age of Universe at 26.7 — Not 13.7 — Billion Years](https://soylentnews.org/article.pl?sid=23/07/13/2031207&from=rss)
 * [2023-07-14, 21:41:00](https://soylentnews.org/article.pl?sid=23/07/13/1557216&from=rss) - [Perovskite-Modified LEDs Reveal Rot in Spoiled Food Before It is Visible](https://soylentnews.org/article.pl?sid=23/07/13/1557216&from=rss)
 * [2023-07-14, 17:01:00](https://soylentnews.org/article.pl?sid=23/07/13/053255&from=rss) - [Viewers Actually ‘Binge-Watch’ TV With a Lot of Self-Control](https://soylentnews.org/article.pl?sid=23/07/13/053255&from=rss)
-* [2023-07-14, 12:13:00](https://soylentnews.org/article.pl?sid=23/07/13/0459252&from=rss) - [Hacking Legislation Using Line-Item Vetos](https://soylentnews.org/article.pl?sid=23/07/13/0459252&from=rss)
 
 ## [Archives](archives/index.md)
 
