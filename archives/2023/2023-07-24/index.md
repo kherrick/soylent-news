@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-24](index.md)
+
+* [2023-07-24, 00:47:00](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss) - [AI in Medicine Needs to be Carefully Deployed to Counter Bias – and Not Entrench It](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss)

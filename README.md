@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-24, 00:47:00](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss) - [AI in Medicine Needs to be Carefully Deployed to Counter Bias – and Not Entrench It](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss)
 * [2023-07-23, 20:04:00](https://soylentnews.org/article.pl?sid=23/07/23/0126208&from=rss) - [Environmental Discs of Tron Roadside Pickup!](https://soylentnews.org/article.pl?sid=23/07/23/0126208&from=rss)
 * [2023-07-23, 15:18:00](https://soylentnews.org/article.pl?sid=23/07/22/1259258&from=rss) - [TSMC Delays US Chip Fab Opening, Says US Talent is Insufficient](https://soylentnews.org/article.pl?sid=23/07/22/1259258&from=rss)
 * [2023-07-23, 10:28:00](https://soylentnews.org/article.pl?sid=23/07/22/1254253&from=rss) - [Are We Truly “Inattentionally Blind”? ](https://soylentnews.org/article.pl?sid=23/07/22/1254253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-14, 17:01:00](https://soylentnews.org/article.pl?sid=23/07/13/053255&from=rss) - [Viewers Actually ‘Binge-Watch’ TV With a Lot of Self-Control](https://soylentnews.org/article.pl?sid=23/07/13/053255&from=rss)
 * [2023-07-14, 12:13:00](https://soylentnews.org/article.pl?sid=23/07/13/0459252&from=rss) - [Hacking Legislation Using Line-Item Vetos](https://soylentnews.org/article.pl?sid=23/07/13/0459252&from=rss)
 * [2023-07-14, 07:28:00](https://soylentnews.org/article.pl?sid=23/07/13/0454242&from=rss) - [Shortening the Let's Encrypt Chain of Trust](https://soylentnews.org/article.pl?sid=23/07/13/0454242&from=rss)
-* [2023-07-14, 03:44:00](https://soylentnews.org/article.pl?sid=23/07/13/044210&from=rss) - [MIT Physicists Generate the First Snapshots of Fermion Pairs](https://soylentnews.org/article.pl?sid=23/07/13/044210&from=rss)
 
 ## [Archives](archives/index.md)
 
