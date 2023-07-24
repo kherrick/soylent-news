@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-24, 05:35:00](https://soylentnews.org/article.pl?sid=23/07/23/0228258&from=rss) - [NASA Slammed Into an Asteroid and Hubble Just Spotted a Spectacular Effect](https://soylentnews.org/article.pl?sid=23/07/23/0228258&from=rss)
 * [2023-07-24, 00:47:00](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss) - [AI in Medicine Needs to be Carefully Deployed to Counter Bias – and Not Entrench It](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss)
 * [2023-07-23, 20:04:00](https://soylentnews.org/article.pl?sid=23/07/23/0126208&from=rss) - [Environmental Discs of Tron Roadside Pickup!](https://soylentnews.org/article.pl?sid=23/07/23/0126208&from=rss)
 * [2023-07-23, 15:18:00](https://soylentnews.org/article.pl?sid=23/07/22/1259258&from=rss) - [TSMC Delays US Chip Fab Opening, Says US Talent is Insufficient](https://soylentnews.org/article.pl?sid=23/07/22/1259258&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-14, 21:41:00](https://soylentnews.org/article.pl?sid=23/07/13/1557216&from=rss) - [Perovskite-Modified LEDs Reveal Rot in Spoiled Food Before It is Visible](https://soylentnews.org/article.pl?sid=23/07/13/1557216&from=rss)
 * [2023-07-14, 17:01:00](https://soylentnews.org/article.pl?sid=23/07/13/053255&from=rss) - [Viewers Actually ‘Binge-Watch’ TV With a Lot of Self-Control](https://soylentnews.org/article.pl?sid=23/07/13/053255&from=rss)
 * [2023-07-14, 12:13:00](https://soylentnews.org/article.pl?sid=23/07/13/0459252&from=rss) - [Hacking Legislation Using Line-Item Vetos](https://soylentnews.org/article.pl?sid=23/07/13/0459252&from=rss)
-* [2023-07-14, 07:28:00](https://soylentnews.org/article.pl?sid=23/07/13/0454242&from=rss) - [Shortening the Let's Encrypt Chain of Trust](https://soylentnews.org/article.pl?sid=23/07/13/0454242&from=rss)
 
 ## [Archives](archives/index.md)
 
