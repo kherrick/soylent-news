@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-25, 05:20:00](https://soylentnews.org/article.pl?sid=23/07/24/012241&from=rss) - [Greenland Has Greener History Than Previously Thought](https://soylentnews.org/article.pl?sid=23/07/24/012241&from=rss)
 * [2023-07-25, 00:38:00](https://soylentnews.org/article.pl?sid=23/07/24/0051252&from=rss) - [Nations Aim to Ink Deep Sea Mining Rules by 2025](https://soylentnews.org/article.pl?sid=23/07/24/0051252&from=rss)
 * [2023-07-24, 19:51:00](https://soylentnews.org/article.pl?sid=23/07/24/0044245&from=rss) - [Futurama's Return is Equal Parts Nostalgic and Very, Very 2023](https://soylentnews.org/article.pl?sid=23/07/24/0044245&from=rss)
 * [2023-07-24, 15:04:00](https://soylentnews.org/article.pl?sid=23/07/23/2246224&from=rss) - [Sick of Hearing About Record Heat? Scientists Say Those Numbers Paint the Story of a Warming World](https://soylentnews.org/article.pl?sid=23/07/23/2246224&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-15, 21:25:00](https://soylentnews.org/article.pl?sid=23/07/15/0221251&from=rss) - [NASA Decides Not to Launch Two Already-built Asteroid Probes](https://soylentnews.org/article.pl?sid=23/07/15/0221251&from=rss)
 * [2023-07-15, 16:38:00](https://soylentnews.org/article.pl?sid=23/07/15/029253&from=rss) - [Linux Could be 3% of Global Desktops. What Happened to Windows?](https://soylentnews.org/article.pl?sid=23/07/15/029253&from=rss)
 * [2023-07-15, 11:53:00](https://soylentnews.org/article.pl?sid=23/07/14/0635244&from=rss) - [A New Bill Would Force Tech Companies to Report Their Users for Drugs](https://soylentnews.org/article.pl?sid=23/07/14/0635244&from=rss)
-* [2023-07-15, 07:10:00](https://soylentnews.org/article.pl?sid=23/07/14/0232224&from=rss) - [No More NUC: Intel’s Weirdly Named Mini PCs Seem to be Going Away](https://soylentnews.org/article.pl?sid=23/07/14/0232224&from=rss)
 
 ## [Archives](archives/index.md)
 
