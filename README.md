@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-26, 05:03:00](https://soylentnews.org/article.pl?sid=23/07/25/0413216&from=rss) - [AMD Looks Beyond TSMC as It Worries About Supply Chain Risks](https://soylentnews.org/article.pl?sid=23/07/25/0413216&from=rss)
 * [2023-07-26, 00:21:00](https://soylentnews.org/article.pl?sid=23/07/25/0336213&from=rss) - [A Mysterious Interstellar Radio Signal Has Been Blinking Every 22 Minutes for More Than 30 Years](https://soylentnews.org/article.pl?sid=23/07/25/0336213&from=rss)
 * [2023-07-25, 19:37:00](https://soylentnews.org/article.pl?sid=23/07/25/0321220&from=rss) - [A New Hope for Software Security](https://soylentnews.org/article.pl?sid=23/07/25/0321220&from=rss)
 * [2023-07-25, 19:31:00](https://soylentnews.org/meta/article.pl?sid=23/07/25/1933223&from=rss) - [Upcoming SoylentNews PBC Meeting](https://soylentnews.org/meta/article.pl?sid=23/07/25/1933223&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-17, 01:52:00](https://soylentnews.org/article.pl?sid=23/07/16/0114200&from=rss) - [French Police Will Be Able to Spy on People through Their Cell Phones](https://soylentnews.org/article.pl?sid=23/07/16/0114200&from=rss)
 * [2023-07-16, 21:11:00](https://soylentnews.org/article.pl?sid=23/07/16/018206&from=rss) - [Wayland May Soon Overtake X11 in Linux GUIs](https://soylentnews.org/article.pl?sid=23/07/16/018206&from=rss)
 * [2023-07-16, 16:26:00](https://soylentnews.org/article.pl?sid=23/07/15/2210234&from=rss) - [Open Source Hardware Companies Going Proprietary](https://soylentnews.org/article.pl?sid=23/07/15/2210234&from=rss)
-* [2023-07-16, 11:37:00](https://soylentnews.org/article.pl?sid=23/07/15/1659211&from=rss) - [Communities Should Reconsider Walking Away From Curbside Recycling](https://soylentnews.org/article.pl?sid=23/07/15/1659211&from=rss)
 
 ## [Archives](archives/index.md)
 
