@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-26, 19:14:00](https://soylentnews.org/article.pl?sid=23/07/26/0444255&from=rss) - [Ready for Your Eye Scan? Worldcoin Launches—but Not Quite Worldwide](https://soylentnews.org/article.pl?sid=23/07/26/0444255&from=rss)
 * [2023-07-26, 14:30:00](https://soylentnews.org/article.pl?sid=23/07/25/2250225&from=rss) - [Federal Judge Strikes Down Arizona Law Limiting Recording of Police as Unconstitutional](https://soylentnews.org/article.pl?sid=23/07/25/2250225&from=rss)
 * [2023-07-26, 09:44:00](https://soylentnews.org/article.pl?sid=23/07/25/2245215&from=rss) - [This Edible Battery Could Power the World of Diagnostics and Sustainable Energy](https://soylentnews.org/article.pl?sid=23/07/25/2245215&from=rss)
 * [2023-07-26, 05:03:00](https://soylentnews.org/article.pl?sid=23/07/25/0413216&from=rss) - [AMD Looks Beyond TSMC as It Worries About Supply Chain Risks](https://soylentnews.org/article.pl?sid=23/07/25/0413216&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-17, 16:10:00](https://soylentnews.org/article.pl?sid=23/07/17/1527207&from=rss) - [A Deep Underground Lab Could Hold Key to Habitability on Mars](https://soylentnews.org/article.pl?sid=23/07/17/1527207&from=rss)
 * [2023-07-17, 11:22:00](https://soylentnews.org/article.pl?sid=23/07/16/0437241&from=rss) - [Blind Trust in Enhancement Technologies Encourages Risk-Taking Even If the Tech is a Sham](https://soylentnews.org/article.pl?sid=23/07/16/0437241&from=rss)
 * [2023-07-17, 06:34:00](https://soylentnews.org/article.pl?sid=23/07/16/0435228&from=rss) - [Nvidia is Quietly Upgrading GeForce RTX 4090 Cards With a Safer Power Connector](https://soylentnews.org/article.pl?sid=23/07/16/0435228&from=rss)
-* [2023-07-17, 01:52:00](https://soylentnews.org/article.pl?sid=23/07/16/0114200&from=rss) - [French Police Will Be Able to Spy on People through Their Cell Phones](https://soylentnews.org/article.pl?sid=23/07/16/0114200&from=rss)
 
 ## [Archives](archives/index.md)
 
