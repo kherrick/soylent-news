@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-26, 14:30:00](https://soylentnews.org/article.pl?sid=23/07/25/2250225&from=rss) - [Federal Judge Strikes Down Arizona Law Limiting Recording of Police as Unconstitutional](https://soylentnews.org/article.pl?sid=23/07/25/2250225&from=rss)
 * [2023-07-26, 09:44:00](https://soylentnews.org/article.pl?sid=23/07/25/2245215&from=rss) - [This Edible Battery Could Power the World of Diagnostics and Sustainable Energy](https://soylentnews.org/article.pl?sid=23/07/25/2245215&from=rss)
 * [2023-07-26, 05:03:00](https://soylentnews.org/article.pl?sid=23/07/25/0413216&from=rss) - [AMD Looks Beyond TSMC as It Worries About Supply Chain Risks](https://soylentnews.org/article.pl?sid=23/07/25/0413216&from=rss)
 * [2023-07-26, 00:21:00](https://soylentnews.org/article.pl?sid=23/07/25/0336213&from=rss) - [A Mysterious Interstellar Radio Signal Has Been Blinking Every 22 Minutes for More Than 30 Years](https://soylentnews.org/article.pl?sid=23/07/25/0336213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-17, 11:22:00](https://soylentnews.org/article.pl?sid=23/07/16/0437241&from=rss) - [Blind Trust in Enhancement Technologies Encourages Risk-Taking Even If the Tech is a Sham](https://soylentnews.org/article.pl?sid=23/07/16/0437241&from=rss)
 * [2023-07-17, 06:34:00](https://soylentnews.org/article.pl?sid=23/07/16/0435228&from=rss) - [Nvidia is Quietly Upgrading GeForce RTX 4090 Cards With a Safer Power Connector](https://soylentnews.org/article.pl?sid=23/07/16/0435228&from=rss)
 * [2023-07-17, 01:52:00](https://soylentnews.org/article.pl?sid=23/07/16/0114200&from=rss) - [French Police Will Be Able to Spy on People through Their Cell Phones](https://soylentnews.org/article.pl?sid=23/07/16/0114200&from=rss)
-* [2023-07-16, 21:11:00](https://soylentnews.org/article.pl?sid=23/07/16/018206&from=rss) - [Wayland May Soon Overtake X11 in Linux GUIs](https://soylentnews.org/article.pl?sid=23/07/16/018206&from=rss)
 
 ## [Archives](archives/index.md)
 
