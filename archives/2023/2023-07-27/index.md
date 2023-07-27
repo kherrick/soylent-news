@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-27](index.md)
+
+* [2023-07-27, 04:51:00](https://soylentnews.org/article.pl?sid=23/07/26/052253&from=rss) - [Unholy Union: Scientists are Now Trying to Power AI Using Human Brain Cells](https://soylentnews.org/article.pl?sid=23/07/26/052253&from=rss)
