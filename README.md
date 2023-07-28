@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-28, 20:30:00](https://soylentnews.org/meta/article.pl?sid=23/07/28/206214&from=rss) - [SoylentNews PBC Meeting Will Be July 31st @ 1:30pm PDT on SoylentNews IRC](https://soylentnews.org/meta/article.pl?sid=23/07/28/206214&from=rss)
 * [2023-07-28, 18:47:00](https://soylentnews.org/article.pl?sid=23/07/27/2342219&from=rss) - [NASA Power Outage Temporarily Halts Contact With Space Station](https://soylentnews.org/article.pl?sid=23/07/27/2342219&from=rss)
 * [2023-07-28, 14:01:00](https://soylentnews.org/article.pl?sid=23/07/27/2317206&from=rss) - [Teen Wins Scholarship for His Glaucoma-Detection Device](https://soylentnews.org/article.pl?sid=23/07/27/2317206&from=rss)
 * [2023-07-28, 09:17:00](https://soylentnews.org/article.pl?sid=23/07/27/028214&from=rss) - [The IBM Mainframe: How It Runs and Why It Survives](https://soylentnews.org/article.pl?sid=23/07/27/028214&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-19, 20:13:00](https://soylentnews.org/article.pl?sid=23/07/19/0436208&from=rss) - [Intel Rolls Out 16nm Process Technology: a Low-Cost, Low-Power FinFET Node](https://soylentnews.org/article.pl?sid=23/07/19/0436208&from=rss)
 * [2023-07-19, 15:31:00](https://soylentnews.org/article.pl?sid=23/07/18/0526213&from=rss) - [Amputees Feel Warmth in Their Missing Hand](https://soylentnews.org/article.pl?sid=23/07/18/0526213&from=rss)
 * [2023-07-19, 10:45:00](https://soylentnews.org/article.pl?sid=23/07/18/0523232&from=rss) - [EU-US Data Privacy Framework to Face Serious Legal Challenges, Experts Say](https://soylentnews.org/article.pl?sid=23/07/18/0523232&from=rss)
-* [2023-07-19, 05:59:00](https://soylentnews.org/article.pl?sid=23/07/18/0241221&from=rss) - [Hackers Exploit Gaping Windows Loophole to Give Their Malware Kernel Access](https://soylentnews.org/article.pl?sid=23/07/18/0241221&from=rss)
 
 ## [Archives](archives/index.md)
 
