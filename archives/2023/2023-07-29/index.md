@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-29](index.md)
+
+* [2023-07-29, 04:12:00](https://soylentnews.org/article.pl?sid=23/07/28/0324205&from=rss) - [This Month's World's Largest Wind Turbine Goes Operational](https://soylentnews.org/article.pl?sid=23/07/28/0324205&from=rss)

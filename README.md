@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-29, 04:12:00](https://soylentnews.org/article.pl?sid=23/07/28/0324205&from=rss) - [This Month's World's Largest Wind Turbine Goes Operational](https://soylentnews.org/article.pl?sid=23/07/28/0324205&from=rss)
 * [2023-07-28, 23:33:00](https://soylentnews.org/article.pl?sid=23/07/28/035215&from=rss) - [Linux Group Shares First Open Dataset for Google Maps Alternatives](https://soylentnews.org/article.pl?sid=23/07/28/035215&from=rss)
 * [2023-07-28, 20:30:00](https://soylentnews.org/meta/article.pl?sid=23/07/28/206214&from=rss) - [SoylentNews PBC Meeting Will Be July 31st @ 1:30pm PDT on SoylentNews IRC](https://soylentnews.org/meta/article.pl?sid=23/07/28/206214&from=rss)
 * [2023-07-28, 18:47:00](https://soylentnews.org/article.pl?sid=23/07/27/2342219&from=rss) - [NASA Power Outage Temporarily Halts Contact With Space Station](https://soylentnews.org/article.pl?sid=23/07/27/2342219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-20, 05:46:00](https://soylentnews.org/article.pl?sid=23/07/19/1147228&from=rss) - [Uncovering WormGPT: A Cybercriminal’s Arsenal](https://soylentnews.org/article.pl?sid=23/07/19/1147228&from=rss)
 * [2023-07-20, 01:00:00](https://soylentnews.org/article.pl?sid=23/07/19/0443223&from=rss) - [Testing Begins for 12-Kilowatt Solar Electric Thrusters for Moon Mission](https://soylentnews.org/article.pl?sid=23/07/19/0443223&from=rss)
 * [2023-07-19, 20:13:00](https://soylentnews.org/article.pl?sid=23/07/19/0436208&from=rss) - [Intel Rolls Out 16nm Process Technology: a Low-Cost, Low-Power FinFET Node](https://soylentnews.org/article.pl?sid=23/07/19/0436208&from=rss)
-* [2023-07-19, 15:31:00](https://soylentnews.org/article.pl?sid=23/07/18/0526213&from=rss) - [Amputees Feel Warmth in Their Missing Hand](https://soylentnews.org/article.pl?sid=23/07/18/0526213&from=rss)
 
 ## [Archives](archives/index.md)
 
