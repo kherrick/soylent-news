@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-29, 18:28:00](https://soylentnews.org/article.pl?sid=23/07/28/168235&from=rss) - [Australian Court Orders Meta Subsidiaries to Pay $14 Million](https://soylentnews.org/article.pl?sid=23/07/28/168235&from=rss)
 * [2023-07-29, 13:46:00](https://soylentnews.org/article.pl?sid=23/07/28/1517210&from=rss) - [Encryption-Breaking, Password-Leaking Bug In Many AMD Cpus Could Take Months To Fix](https://soylentnews.org/article.pl?sid=23/07/28/1517210&from=rss)
 * [2023-07-29, 08:56:00](https://soylentnews.org/article.pl?sid=23/07/28/0327258&from=rss) - [Unpacking Google's New \"Dangerous\" Web-Environment-Integrity Specification](https://soylentnews.org/article.pl?sid=23/07/28/0327258&from=rss)
 * [2023-07-29, 04:12:00](https://soylentnews.org/article.pl?sid=23/07/28/0324205&from=rss) - [This Month's World's Largest Wind Turbine Goes Operational](https://soylentnews.org/article.pl?sid=23/07/28/0324205&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-20, 20:19:00](https://soylentnews.org/article.pl?sid=23/07/20/0131258&from=rss) - [Undocumented 8086 Instructions, Explained by the Microcode](https://soylentnews.org/article.pl?sid=23/07/20/0131258&from=rss)
 * [2023-07-20, 15:21:00](https://soylentnews.org/article.pl?sid=23/07/19/1236235&from=rss) - [It's Sewage, Not Fertilizer Fueling Nitrogen Surge in Florida's Indian River Lagoon](https://soylentnews.org/article.pl?sid=23/07/19/1236235&from=rss)
 * [2023-07-20, 10:34:00](https://soylentnews.org/article.pl?sid=23/07/19/1229202&from=rss) - [Iron Deficiency Goes Unnoticed in Too Many U.S. Female Adolescents](https://soylentnews.org/article.pl?sid=23/07/19/1229202&from=rss)
-* [2023-07-20, 05:46:00](https://soylentnews.org/article.pl?sid=23/07/19/1147228&from=rss) - [Uncovering WormGPT: A Cybercriminal’s Arsenal](https://soylentnews.org/article.pl?sid=23/07/19/1147228&from=rss)
 
 ## [Archives](archives/index.md)
 
