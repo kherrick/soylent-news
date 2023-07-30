@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-30, 13:26:00](https://soylentnews.org/article.pl?sid=23/07/29/0448245&from=rss) - [A Sailor and His Dog Found After Months Stranded in the Pacific](https://soylentnews.org/article.pl?sid=23/07/29/0448245&from=rss)
 * [2023-07-30, 08:38:00](https://soylentnews.org/article.pl?sid=23/07/29/0443234&from=rss) - [Twitter commandeers @X username from man who had it since 2007](https://soylentnews.org/article.pl?sid=23/07/29/0443234&from=rss)
 * [2023-07-30, 03:53:00](https://soylentnews.org/article.pl?sid=23/07/29/0434236&from=rss) - [Radioactive Fallout From the Trinity Test Impacted 46 U.S. States, Study Finds](https://soylentnews.org/article.pl?sid=23/07/29/0434236&from=rss)
 * [2023-07-29, 23:12:00](https://soylentnews.org/article.pl?sid=23/07/28/1617232&from=rss) - [When Photocopiers Terrified the Publishing World](https://soylentnews.org/article.pl?sid=23/07/28/1617232&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-21, 15:20:00](https://soylentnews.org/article.pl?sid=23/07/20/1351250&from=rss) - [Opinion:  the Decline of Science at the FDA Has Become Unmanageable](https://soylentnews.org/article.pl?sid=23/07/20/1351250&from=rss)
 * [2023-07-21, 10:36:00](https://soylentnews.org/article.pl?sid=23/07/20/1256203&from=rss) - [Google's New Security Pilot Program Will Ban Employee Internet Access](https://soylentnews.org/article.pl?sid=23/07/20/1256203&from=rss)
 * [2023-07-21, 05:52:00](https://soylentnews.org/article.pl?sid=23/07/20/1253212&from=rss) - [Google Engineers Propose DRM for Webpages](https://soylentnews.org/article.pl?sid=23/07/20/1253212&from=rss)
-* [2023-07-21, 01:06:00](https://soylentnews.org/article.pl?sid=23/07/20/0136258&from=rss) - [Chasing Defamatory Hallucinations, FTC Opens Investigation Into OpenAI](https://soylentnews.org/article.pl?sid=23/07/20/0136258&from=rss)
 
 ## [Archives](archives/index.md)
 
