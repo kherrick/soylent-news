@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 22:58:00](https://soylentnews.org/article.pl?sid=23/07/29/1632222&from=rss) - [Ivanti Rushes to Patch Zero-day Used to Breach Norway's Government](https://soylentnews.org/article.pl?sid=23/07/29/1632222&from=rss)
 * [2023-07-30, 18:30:00](https://soylentnews.org/meta/article.pl?sid=23/07/30/1717222&from=rss) - [These Are The Times That Try Mens Souls](https://soylentnews.org/meta/article.pl?sid=23/07/30/1717222&from=rss)
 * [2023-07-30, 18:11:00](https://soylentnews.org/article.pl?sid=23/07/29/1618202&from=rss) - [Weight Loss Drugs: The Science And Side Effects Behind Ozempic And Wegovy](https://soylentnews.org/article.pl?sid=23/07/29/1618202&from=rss)
 * [2023-07-30, 13:26:00](https://soylentnews.org/article.pl?sid=23/07/29/0448245&from=rss) - [A Sailor and His Dog Found After Months Stranded in the Pacific](https://soylentnews.org/article.pl?sid=23/07/29/0448245&from=rss)
