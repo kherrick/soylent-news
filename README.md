@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-30, 18:30:00](https://soylentnews.org/meta/article.pl?sid=23/07/30/1717222&from=rss) - [These Are The Times That Try Mens Souls](https://soylentnews.org/meta/article.pl?sid=23/07/30/1717222&from=rss)
 * [2023-07-30, 18:11:00](https://soylentnews.org/article.pl?sid=23/07/29/1618202&from=rss) - [Weight Loss Drugs: The Science And Side Effects Behind Ozempic And Wegovy](https://soylentnews.org/article.pl?sid=23/07/29/1618202&from=rss)
 * [2023-07-30, 13:26:00](https://soylentnews.org/article.pl?sid=23/07/29/0448245&from=rss) - [A Sailor and His Dog Found After Months Stranded in the Pacific](https://soylentnews.org/article.pl?sid=23/07/29/0448245&from=rss)
 * [2023-07-30, 08:38:00](https://soylentnews.org/article.pl?sid=23/07/29/0443234&from=rss) - [Twitter commandeers @X username from man who had it since 2007](https://soylentnews.org/article.pl?sid=23/07/29/0443234&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-22, 00:51:00](https://soylentnews.org/article.pl?sid=23/07/21/0953221&from=rss) - [Stunned Researchers Discover That Metals Can Heal Themselves ‘Without Human Intervention’](https://soylentnews.org/article.pl?sid=23/07/21/0953221&from=rss)
 * [2023-07-21, 20:04:00](https://soylentnews.org/article.pl?sid=23/07/21/0947221&from=rss) - [Rare Magic Item: Cloak of Comfort, Resist Acid, Resist Fire.](https://soylentnews.org/article.pl?sid=23/07/21/0947221&from=rss)
 * [2023-07-21, 15:20:00](https://soylentnews.org/article.pl?sid=23/07/20/1351250&from=rss) - [Opinion:  the Decline of Science at the FDA Has Become Unmanageable](https://soylentnews.org/article.pl?sid=23/07/20/1351250&from=rss)
-* [2023-07-21, 10:36:00](https://soylentnews.org/article.pl?sid=23/07/20/1256203&from=rss) - [Google's New Security Pilot Program Will Ban Employee Internet Access](https://soylentnews.org/article.pl?sid=23/07/20/1256203&from=rss)
 
 ## [Archives](archives/index.md)
 
