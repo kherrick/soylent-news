@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-07-31, 08:34:00](https://soylentnews.org/article.pl?sid=23/07/30/137218&from=rss) - [What’s Next for the Moon](https://soylentnews.org/article.pl?sid=23/07/30/137218&from=rss)
 * [2023-07-31, 03:45:00](https://soylentnews.org/article.pl?sid=23/07/30/1256255&from=rss) - [Intel Could Increase the Price of its CPUs to Help Pay for Fabs, Restructuring](https://soylentnews.org/article.pl?sid=23/07/30/1256255&from=rss)
 * [2023-07-30, 22:58:00](https://soylentnews.org/article.pl?sid=23/07/29/1632222&from=rss) - [Ivanti Rushes to Patch Zero-day Used to Breach Norway's Government](https://soylentnews.org/article.pl?sid=23/07/29/1632222&from=rss)
 * [2023-07-30, 18:30:00](https://soylentnews.org/meta/article.pl?sid=23/07/30/1717222&from=rss) - [These are the Times that Try Men's Souls](https://soylentnews.org/meta/article.pl?sid=23/07/30/1717222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-22, 15:02:00](https://soylentnews.org/article.pl?sid=23/07/22/0131246&from=rss) - [Beware of These Bad Proposed Internet Bills](https://soylentnews.org/article.pl?sid=23/07/22/0131246&from=rss)
 * [2023-07-22, 10:19:00](https://soylentnews.org/article.pl?sid=23/07/22/0110257&from=rss) - [Google Demos “Unsettling” Tool to Help Journalists Write the News](https://soylentnews.org/article.pl?sid=23/07/22/0110257&from=rss)
 * [2023-07-22, 05:34:00](https://soylentnews.org/article.pl?sid=23/07/21/0956213&from=rss) - [Avi and Oumuamua: Setting the Record Straight](https://soylentnews.org/article.pl?sid=23/07/21/0956213&from=rss)
-* [2023-07-22, 00:51:00](https://soylentnews.org/article.pl?sid=23/07/21/0953221&from=rss) - [Stunned Researchers Discover That Metals Can Heal Themselves ‘Without Human Intervention’](https://soylentnews.org/article.pl?sid=23/07/21/0953221&from=rss)
 
 ## [Archives](archives/index.md)
 
