@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-01, 03:32:00](https://soylentnews.org/article.pl?sid=23/07/30/229234&from=rss) - [Electricity Cheaper Than Diesel for Heavy Goods Vehicles](https://soylentnews.org/article.pl?sid=23/07/30/229234&from=rss)
 * [2023-08-01, 02:15:00](https://soylentnews.org/meta/article.pl?sid=23/08/01/0150211&from=rss) - [Notes for the Community from the July 31, 2023 SoylentNews PBC Meeting](https://soylentnews.org/meta/article.pl?sid=23/08/01/0150211&from=rss)
 * [2023-07-31, 22:46:00](https://soylentnews.org/article.pl?sid=23/07/30/224246&from=rss) - [Researchers Find Deliberate Backdoor in Police Radio Encryption Algorithm](https://soylentnews.org/article.pl?sid=23/07/30/224246&from=rss)
 * [2023-07-31, 18:02:00](https://soylentnews.org/article.pl?sid=23/07/30/2111232&from=rss) - [Robots and Rights: Confucianism Offers Alternative](https://soylentnews.org/article.pl?sid=23/07/30/2111232&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-23, 15:18:00](https://soylentnews.org/article.pl?sid=23/07/22/1259258&from=rss) - [TSMC Delays US Chip Fab Opening, Says US Talent is Insufficient](https://soylentnews.org/article.pl?sid=23/07/22/1259258&from=rss)
 * [2023-07-23, 10:28:00](https://soylentnews.org/article.pl?sid=23/07/22/1254253&from=rss) - [Are We Truly “Inattentionally Blind”? ](https://soylentnews.org/article.pl?sid=23/07/22/1254253&from=rss)
 * [2023-07-23, 05:43:00](https://soylentnews.org/article.pl?sid=23/07/22/0213216&from=rss) - [Seven AI Companies Agree to Safeguards in the US](https://soylentnews.org/article.pl?sid=23/07/22/0213216&from=rss)
-* [2023-07-23, 00:28:00](https://soylentnews.org/article.pl?sid=23/07/22/020258&from=rss) - [No Apologies as Reddit Halfheartedly Tries to Repair Ties With Moderators](https://soylentnews.org/article.pl?sid=23/07/22/020258&from=rss)
 
 ## [Archives](archives/index.md)
 
