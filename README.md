@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-01, 17:45:00](https://soylentnews.org/article.pl?sid=23/07/31/0328234&from=rss) - [Russia Sends Cybersecurity CEO to Jail for 14 Years](https://soylentnews.org/article.pl?sid=23/07/31/0328234&from=rss)
 * [2023-08-01, 13:09:00](https://soylentnews.org/article.pl?sid=23/07/31/0110253&from=rss) - [Stanford President Resigns for \"Unusual Frequency of Manipulation of Research Data\"](https://soylentnews.org/article.pl?sid=23/07/31/0110253&from=rss)
 * [2023-08-01, 08:21:00](https://soylentnews.org/article.pl?sid=23/07/30/2355210&from=rss) - [Rapidus: We Want To Serve TSMC's Customers, But We Won't Be Like TSMC](https://soylentnews.org/article.pl?sid=23/07/30/2355210&from=rss)
 * [2023-08-01, 03:32:00](https://soylentnews.org/article.pl?sid=23/07/30/229234&from=rss) - [Electricity Cheaper Than Diesel for Heavy Goods Vehicles](https://soylentnews.org/article.pl?sid=23/07/30/229234&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-24, 05:35:00](https://soylentnews.org/article.pl?sid=23/07/23/0228258&from=rss) - [NASA Slammed Into an Asteroid and Hubble Just Spotted a Spectacular Effect](https://soylentnews.org/article.pl?sid=23/07/23/0228258&from=rss)
 * [2023-07-24, 00:47:00](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss) - [AI in Medicine Needs to be Carefully Deployed to Counter Bias – and Not Entrench It](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss)
 * [2023-07-23, 20:04:00](https://soylentnews.org/article.pl?sid=23/07/23/0126208&from=rss) - [Environmental Discs of Tron Roadside Pickup!](https://soylentnews.org/article.pl?sid=23/07/23/0126208&from=rss)
-* [2023-07-23, 15:18:00](https://soylentnews.org/article.pl?sid=23/07/22/1259258&from=rss) - [TSMC Delays US Chip Fab Opening, Says US Talent is Insufficient](https://soylentnews.org/article.pl?sid=23/07/22/1259258&from=rss)
 
 ## [Archives](archives/index.md)
 
