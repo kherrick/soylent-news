@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-02, 17:02:00](https://soylentnews.org/article.pl?sid=23/08/01/1043243&from=rss) - [X to Close](https://soylentnews.org/article.pl?sid=23/08/01/1043243&from=rss)
 * [2023-08-02, 12:21:00](https://soylentnews.org/article.pl?sid=23/08/01/015201&from=rss) - [NASA Mistakenly Severs Communication to Voyager 2](https://soylentnews.org/article.pl?sid=23/08/01/015201&from=rss)
 * [2023-08-02, 07:40:00](https://soylentnews.org/article.pl?sid=23/07/31/0352234&from=rss) - [As Twitter Destroys its Brand by Renaming Itself X, Mastodon User Numbers are Again Soaring](https://soylentnews.org/article.pl?sid=23/07/31/0352234&from=rss)
 * [2023-08-02, 03:00:00](https://soylentnews.org/article.pl?sid=23/07/31/0336259&from=rss) - [Opinion: It's Time to Classify Plastics as Persistent, Bioaccumulative and Toxic Pollutants](https://soylentnews.org/article.pl?sid=23/07/31/0336259&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-25, 05:20:00](https://soylentnews.org/article.pl?sid=23/07/24/012241&from=rss) - [Greenland Has Greener History Than Previously Thought](https://soylentnews.org/article.pl?sid=23/07/24/012241&from=rss)
 * [2023-07-25, 00:38:00](https://soylentnews.org/article.pl?sid=23/07/24/0051252&from=rss) - [Nations Aim to Ink Deep Sea Mining Rules by 2025](https://soylentnews.org/article.pl?sid=23/07/24/0051252&from=rss)
 * [2023-07-24, 19:51:00](https://soylentnews.org/article.pl?sid=23/07/24/0044245&from=rss) - [Futurama's Return is Equal Parts Nostalgic and Very, Very 2023](https://soylentnews.org/article.pl?sid=23/07/24/0044245&from=rss)
-* [2023-07-24, 15:04:00](https://soylentnews.org/article.pl?sid=23/07/23/2246224&from=rss) - [Sick of Hearing About Record Heat? Scientists Say Those Numbers Paint the Story of a Warming World](https://soylentnews.org/article.pl?sid=23/07/23/2246224&from=rss)
 
 ## [Archives](archives/index.md)
 
