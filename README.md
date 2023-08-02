@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-02, 03:00:00](https://soylentnews.org/article.pl?sid=23/07/31/0336259&from=rss) - [Opinion: It's Time to Classify Plastics as Persistent, Bioaccumulative and Toxic Pollutants](https://soylentnews.org/article.pl?sid=23/07/31/0336259&from=rss)
 * [2023-08-01, 22:30:00](https://soylentnews.org/article.pl?sid=23/07/31/0331231&from=rss) - [Five Types of Heart Failure Identified Using AI Tools](https://soylentnews.org/article.pl?sid=23/07/31/0331231&from=rss)
 * [2023-08-01, 17:45:00](https://soylentnews.org/article.pl?sid=23/07/31/0328234&from=rss) - [Russia Sends Cybersecurity CEO to Jail for 14 Years](https://soylentnews.org/article.pl?sid=23/07/31/0328234&from=rss)
 * [2023-08-01, 13:09:00](https://soylentnews.org/article.pl?sid=23/07/31/0110253&from=rss) - [Stanford President Resigns for \"Unusual Frequency of Manipulation of Research Data\"](https://soylentnews.org/article.pl?sid=23/07/31/0110253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-24, 15:04:00](https://soylentnews.org/article.pl?sid=23/07/23/2246224&from=rss) - [Sick of Hearing About Record Heat? Scientists Say Those Numbers Paint the Story of a Warming World](https://soylentnews.org/article.pl?sid=23/07/23/2246224&from=rss)
 * [2023-07-24, 10:20:00](https://soylentnews.org/article.pl?sid=23/07/23/1233221&from=rss) - [Apple Tries to Explain to U.K. Legislators That You Can’t Add Back Doors to Secure Protocols](https://soylentnews.org/article.pl?sid=23/07/23/1233221&from=rss)
 * [2023-07-24, 05:35:00](https://soylentnews.org/article.pl?sid=23/07/23/0228258&from=rss) - [NASA Slammed Into an Asteroid and Hubble Just Spotted a Spectacular Effect](https://soylentnews.org/article.pl?sid=23/07/23/0228258&from=rss)
-* [2023-07-24, 00:47:00](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss) - [AI in Medicine Needs to be Carefully Deployed to Counter Bias – and Not Entrench It](https://soylentnews.org/article.pl?sid=23/07/23/0222211&from=rss)
 
 ## [Archives](archives/index.md)
 
