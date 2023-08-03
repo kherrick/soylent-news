@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-03, 21:32:00](https://soylentnews.org/article.pl?sid=23/08/02/2252201&from=rss) - [Tesla’s Secret Team to Suppress Thousands of Driving Range Complaints](https://soylentnews.org/article.pl?sid=23/08/02/2252201&from=rss)
 * [2023-08-03, 16:44:00](https://soylentnews.org/article.pl?sid=23/08/02/2224211&from=rss) - [Researchers Who Claimed Discovery of Room Temperature Superconductor Accused of Falsifying Data](https://soylentnews.org/article.pl?sid=23/08/02/2224211&from=rss)
 * [2023-08-03, 11:59:00](https://soylentnews.org/article.pl?sid=23/08/02/0330224&from=rss) - [Rock/Hard-Place: New BEV Charging Network & Power Grid Strained by Electrification](https://soylentnews.org/article.pl?sid=23/08/02/0330224&from=rss)
 * [2023-08-03, 07:15:00](https://soylentnews.org/article.pl?sid=23/08/02/0326221&from=rss) - [Bringing Back Extinct Molecules to Fight Modern Bacteria](https://soylentnews.org/article.pl?sid=23/08/02/0326221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-26, 05:03:00](https://soylentnews.org/article.pl?sid=23/07/25/0413216&from=rss) - [AMD Looks Beyond TSMC as It Worries About Supply Chain Risks](https://soylentnews.org/article.pl?sid=23/07/25/0413216&from=rss)
 * [2023-07-26, 00:21:00](https://soylentnews.org/article.pl?sid=23/07/25/0336213&from=rss) - [A Mysterious Interstellar Radio Signal Has Been Blinking Every 22 Minutes for More Than 30 Years](https://soylentnews.org/article.pl?sid=23/07/25/0336213&from=rss)
 * [2023-07-25, 19:37:00](https://soylentnews.org/article.pl?sid=23/07/25/0321220&from=rss) - [A New Hope for Software Security](https://soylentnews.org/article.pl?sid=23/07/25/0321220&from=rss)
-* [2023-07-25, 19:31:00](https://soylentnews.org/meta/article.pl?sid=23/07/25/1933223&from=rss) - [Upcoming SoylentNews PBC Meeting](https://soylentnews.org/meta/article.pl?sid=23/07/25/1933223&from=rss)
 
 ## [Archives](archives/index.md)
 
