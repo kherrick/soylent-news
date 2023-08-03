@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-03, 11:59:00](https://soylentnews.org/article.pl?sid=23/08/02/0330224&from=rss) - [Rock/Hard-Place: New BEV Charging Network & Power Grid Strained by Electrification](https://soylentnews.org/article.pl?sid=23/08/02/0330224&from=rss)
 * [2023-08-03, 07:15:00](https://soylentnews.org/article.pl?sid=23/08/02/0326221&from=rss) - [Bringing Back Extinct Molecules to Fight Modern Bacteria](https://soylentnews.org/article.pl?sid=23/08/02/0326221&from=rss)
 * [2023-08-03, 02:32:00](https://soylentnews.org/article.pl?sid=23/08/02/0035247&from=rss) - [NASA Lab Hopes to Find Life's Building Blocks in Asteroid Sample](https://soylentnews.org/article.pl?sid=23/08/02/0035247&from=rss)
 * [2023-08-02, 21:45:00](https://soylentnews.org/article.pl?sid=23/08/01/1055252&from=rss) - [Scientists Propose Webb Telescope Has Detected Stars Powered by Dark Matter](https://soylentnews.org/article.pl?sid=23/08/01/1055252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-25, 19:37:00](https://soylentnews.org/article.pl?sid=23/07/25/0321220&from=rss) - [A New Hope for Software Security](https://soylentnews.org/article.pl?sid=23/07/25/0321220&from=rss)
 * [2023-07-25, 19:31:00](https://soylentnews.org/meta/article.pl?sid=23/07/25/1933223&from=rss) - [Upcoming SoylentNews PBC Meeting](https://soylentnews.org/meta/article.pl?sid=23/07/25/1933223&from=rss)
 * [2023-07-25, 14:46:00](https://soylentnews.org/article.pl?sid=23/07/24/0647241&from=rss) - [Plants Remove Cancer-Causing Toxins From Air](https://soylentnews.org/article.pl?sid=23/07/24/0647241&from=rss)
-* [2023-07-25, 10:07:00](https://soylentnews.org/article.pl?sid=23/07/24/0111211&from=rss) - [Amazon is Asking Some Employees to Move Closer to the Office](https://soylentnews.org/article.pl?sid=23/07/24/0111211&from=rss)
 
 ## [Archives](archives/index.md)
 
