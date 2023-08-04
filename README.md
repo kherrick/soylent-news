@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-04, 06:56:00](https://soylentnews.org/article.pl?sid=23/08/03/2136251&from=rss) - [Reddit Beats Film Industry, Won't Have to Identify Users Who Admitted Torrenting](https://soylentnews.org/article.pl?sid=23/08/03/2136251&from=rss)
 * [2023-08-04, 02:12:00](https://soylentnews.org/article.pl?sid=23/08/03/2033257&from=rss) - [Goodbye to Incandescant Light Bulbs](https://soylentnews.org/article.pl?sid=23/08/03/2033257&from=rss)
 * [2023-08-03, 21:32:00](https://soylentnews.org/article.pl?sid=23/08/02/2252201&from=rss) - [Tesla’s Secret Team to Suppress Thousands of Driving Range Complaints](https://soylentnews.org/article.pl?sid=23/08/02/2252201&from=rss)
 * [2023-08-03, 16:44:00](https://soylentnews.org/article.pl?sid=23/08/02/2224211&from=rss) - [Researchers Who Claimed Discovery of Room Temperature Superconductor Accused of Falsifying Data](https://soylentnews.org/article.pl?sid=23/08/02/2224211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-26, 14:30:00](https://soylentnews.org/article.pl?sid=23/07/25/2250225&from=rss) - [Federal Judge Strikes Down Arizona Law Limiting Recording of Police as Unconstitutional](https://soylentnews.org/article.pl?sid=23/07/25/2250225&from=rss)
 * [2023-07-26, 09:44:00](https://soylentnews.org/article.pl?sid=23/07/25/2245215&from=rss) - [This Edible Battery Could Power the World of Diagnostics and Sustainable Energy](https://soylentnews.org/article.pl?sid=23/07/25/2245215&from=rss)
 * [2023-07-26, 05:03:00](https://soylentnews.org/article.pl?sid=23/07/25/0413216&from=rss) - [AMD Looks Beyond TSMC as It Worries About Supply Chain Risks](https://soylentnews.org/article.pl?sid=23/07/25/0413216&from=rss)
-* [2023-07-26, 00:21:00](https://soylentnews.org/article.pl?sid=23/07/25/0336213&from=rss) - [A Mysterious Interstellar Radio Signal Has Been Blinking Every 22 Minutes for More Than 30 Years](https://soylentnews.org/article.pl?sid=23/07/25/0336213&from=rss)
 
 ## [Archives](archives/index.md)
 
