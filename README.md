@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-05, 01:59:00](https://soylentnews.org/article.pl?sid=23/08/04/0352228&from=rss) - [Humans Evolved to Walk With an Extra Spring in Our Step](https://soylentnews.org/article.pl?sid=23/08/04/0352228&from=rss)
 * [2023-08-04, 21:15:00](https://soylentnews.org/article.pl?sid=23/08/03/229241&from=rss) - [Researchers Figure Out How to Make AI Misbehave, Serve Up Prohibited Content](https://soylentnews.org/article.pl?sid=23/08/03/229241&from=rss)
 * [2023-08-04, 16:29:00](https://soylentnews.org/article.pl?sid=23/08/03/2155246&from=rss) - [AWS to Charge Customers for Public IPv4 Addresses From 2024](https://soylentnews.org/article.pl?sid=23/08/03/2155246&from=rss)
 * [2023-08-04, 11:42:00](https://soylentnews.org/article.pl?sid=23/08/03/2147215&from=rss) - [Egg 'Signatures' Allow Drongos to Identify Cuckoo 'Forgeries' Almost Every Time, Study Finds](https://soylentnews.org/article.pl?sid=23/08/03/2147215&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-27, 09:36:00](https://soylentnews.org/article.pl?sid=23/07/26/208207&from=rss) - [Thousands of Chromebooks Are 'Expiring,' Forcing Schools to Toss Them Out](https://soylentnews.org/article.pl?sid=23/07/26/208207&from=rss)
 * [2023-07-27, 04:51:00](https://soylentnews.org/article.pl?sid=23/07/26/052253&from=rss) - [Unholy Union: Scientists are Now Trying to Power AI Using Human Brain Cells](https://soylentnews.org/article.pl?sid=23/07/26/052253&from=rss)
 * [2023-07-26, 23:59:00](https://soylentnews.org/article.pl?sid=23/07/26/0452230&from=rss) - [Why is Technology Not Making Us More Productive?](https://soylentnews.org/article.pl?sid=23/07/26/0452230&from=rss)
-* [2023-07-26, 19:14:00](https://soylentnews.org/article.pl?sid=23/07/26/0444255&from=rss) - [Ready for Your Eye Scan? Worldcoin Launches—but Not Quite Worldwide](https://soylentnews.org/article.pl?sid=23/07/26/0444255&from=rss)
 
 ## [Archives](archives/index.md)
 
