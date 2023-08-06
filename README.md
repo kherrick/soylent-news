@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-06, 16:01:00](https://soylentnews.org/article.pl?sid=23/08/05/1816217&from=rss) - [The Boring Company Will Dig a 68-Mile Tunnel Network Under Las Vegas](https://soylentnews.org/article.pl?sid=23/08/05/1816217&from=rss)
 * [2023-08-06, 11:16:00](https://soylentnews.org/article.pl?sid=23/08/05/1718249&from=rss) - [A Jargon-Free Explanation of How AI Large Language Models Work](https://soylentnews.org/article.pl?sid=23/08/05/1718249&from=rss)
 * [2023-08-06, 06:32:00](https://soylentnews.org/article.pl?sid=23/08/05/1710244&from=rss) - [The Art of Roman Water Management Revealed](https://soylentnews.org/article.pl?sid=23/08/05/1710244&from=rss)
 * [2023-08-06, 01:47:00](https://soylentnews.org/article.pl?sid=23/08/05/048204&from=rss) - [Remember Free Public WiFi?](https://soylentnews.org/article.pl?sid=23/08/05/048204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-28, 20:30:00](https://soylentnews.org/meta/article.pl?sid=23/07/28/206214&from=rss) - [SoylentNews PBC Meeting Will Be July 31st @ 1:30pm PDT on SoylentNews IRC](https://soylentnews.org/meta/article.pl?sid=23/07/28/206214&from=rss)
 * [2023-07-28, 18:47:00](https://soylentnews.org/article.pl?sid=23/07/27/2342219&from=rss) - [NASA Power Outage Temporarily Halts Contact With Space Station](https://soylentnews.org/article.pl?sid=23/07/27/2342219&from=rss)
 * [2023-07-28, 14:01:00](https://soylentnews.org/article.pl?sid=23/07/27/2317206&from=rss) - [Teen Wins Scholarship for His Glaucoma-Detection Device](https://soylentnews.org/article.pl?sid=23/07/27/2317206&from=rss)
-* [2023-07-28, 09:17:00](https://soylentnews.org/article.pl?sid=23/07/27/028214&from=rss) - [The IBM Mainframe: How It Runs and Why It Survives](https://soylentnews.org/article.pl?sid=23/07/27/028214&from=rss)
 
 ## [Archives](archives/index.md)
 
