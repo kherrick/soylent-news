@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-06, 06:32:00](https://soylentnews.org/article.pl?sid=23/08/05/1710244&from=rss) - [The Art of Roman Water Management Revealed](https://soylentnews.org/article.pl?sid=23/08/05/1710244&from=rss)
 * [2023-08-06, 01:47:00](https://soylentnews.org/article.pl?sid=23/08/05/048204&from=rss) - [Remember Free Public WiFi?](https://soylentnews.org/article.pl?sid=23/08/05/048204&from=rss)
 * [2023-08-05, 21:01:00](https://soylentnews.org/article.pl?sid=23/08/05/0114243&from=rss) - [AWS Is Running A 96-Core, 192-Thread, Custom Xeon Server](https://soylentnews.org/article.pl?sid=23/08/05/0114243&from=rss)
 * [2023-08-05, 16:14:00](https://soylentnews.org/article.pl?sid=23/08/05/010238&from=rss) - [The Ring Nebula Glows Green In A Stunning New JWST Image](https://soylentnews.org/article.pl?sid=23/08/05/010238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-28, 14:01:00](https://soylentnews.org/article.pl?sid=23/07/27/2317206&from=rss) - [Teen Wins Scholarship for His Glaucoma-Detection Device](https://soylentnews.org/article.pl?sid=23/07/27/2317206&from=rss)
 * [2023-07-28, 09:17:00](https://soylentnews.org/article.pl?sid=23/07/27/028214&from=rss) - [The IBM Mainframe: How It Runs and Why It Survives](https://soylentnews.org/article.pl?sid=23/07/27/028214&from=rss)
 * [2023-07-28, 04:36:00](https://soylentnews.org/article.pl?sid=23/07/27/025241&from=rss) - [The First Room-Temperature Ambient-Pressure Superconductor?](https://soylentnews.org/article.pl?sid=23/07/27/025241&from=rss)
-* [2023-07-27, 23:53:00](https://soylentnews.org/article.pl?sid=23/07/27/0154234&from=rss) - [Enshittification Everywhere. Your Car, Your Phone, Your Tractor, Your Computer...](https://soylentnews.org/article.pl?sid=23/07/27/0154234&from=rss)
 
 ## [Archives](archives/index.md)
 
