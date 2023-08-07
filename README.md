@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-07, 11:07:00](https://soylentnews.org/article.pl?sid=23/08/06/1922212&from=rss) - [Bitfinex Hackers Who Stole Billions In Cryptocurrency Plead Guilty](https://soylentnews.org/article.pl?sid=23/08/06/1922212&from=rss)
 * [2023-08-07, 06:21:00](https://soylentnews.org/article.pl?sid=23/08/06/0623211&from=rss) - [Brave Cuts Ties With Bing To Offer Own Image, Video Search](https://soylentnews.org/article.pl?sid=23/08/06/0623211&from=rss)
 * [2023-08-07, 01:33:00](https://soylentnews.org/article.pl?sid=23/08/06/0545207&from=rss) - [Hackers Figured Out How To Unlock Expensive Tesla EV Features Without Paying](https://soylentnews.org/article.pl?sid=23/08/06/0545207&from=rss)
 * [2023-08-06, 20:47:00](https://soylentnews.org/article.pl?sid=23/08/05/2241259&from=rss) - [Tokyo Tests Automated, Simultaneous Translation at Railway Station](https://soylentnews.org/article.pl?sid=23/08/05/2241259&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-29, 13:46:00](https://soylentnews.org/article.pl?sid=23/07/28/1517210&from=rss) - [Encryption-Breaking, Password-Leaking Bug In Many AMD CPUs Could Take Months To Fix](https://soylentnews.org/article.pl?sid=23/07/28/1517210&from=rss)
 * [2023-07-29, 08:56:00](https://soylentnews.org/article.pl?sid=23/07/28/0327258&from=rss) - [Unpacking Google's New \"Dangerous\" Web-Environment-Integrity Specification](https://soylentnews.org/article.pl?sid=23/07/28/0327258&from=rss)
 * [2023-07-29, 04:12:00](https://soylentnews.org/article.pl?sid=23/07/28/0324205&from=rss) - [This Month's World's Largest Wind Turbine Goes Operational](https://soylentnews.org/article.pl?sid=23/07/28/0324205&from=rss)
-* [2023-07-28, 23:33:00](https://soylentnews.org/article.pl?sid=23/07/28/035215&from=rss) - [Linux Group Shares First Open Dataset for Google Maps Alternatives](https://soylentnews.org/article.pl?sid=23/07/28/035215&from=rss)
 
 ## [Archives](archives/index.md)
 
