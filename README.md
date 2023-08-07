@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-07, 20:35:00](https://soylentnews.org/article.pl?sid=23/08/06/2116215&from=rss) - [Remains Found in China May Belong to Third Human Lineage](https://soylentnews.org/article.pl?sid=23/08/06/2116215&from=rss)
 * [2023-08-07, 20:30:00](https://soylentnews.org/meta/article.pl?sid=23/08/07/2013254&from=rss) - [Meeting Announcement:  Governance Committee Meeting on Friday, August 11th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/07/2013254&from=rss)
 * [2023-08-07, 15:52:00](https://soylentnews.org/article.pl?sid=23/08/06/1934248&from=rss) - [AI-powered Brain Implants Restore Touch and Movement to Paralysed Man](https://soylentnews.org/article.pl?sid=23/08/06/1934248&from=rss)
 * [2023-08-07, 11:07:00](https://soylentnews.org/article.pl?sid=23/08/06/1922212&from=rss) - [Bitfinex Hackers Who Stole Billions In Cryptocurrency Plead Guilty](https://soylentnews.org/article.pl?sid=23/08/06/1922212&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-30, 03:53:00](https://soylentnews.org/article.pl?sid=23/07/29/0434236&from=rss) - [Radioactive Fallout From the Trinity Test Impacted 46 U.S. States, Study Finds](https://soylentnews.org/article.pl?sid=23/07/29/0434236&from=rss)
 * [2023-07-29, 23:12:00](https://soylentnews.org/article.pl?sid=23/07/28/1617232&from=rss) - [When Photocopiers Terrified the Publishing World](https://soylentnews.org/article.pl?sid=23/07/28/1617232&from=rss)
 * [2023-07-29, 18:28:00](https://soylentnews.org/article.pl?sid=23/07/28/168235&from=rss) - [Australian Court Orders Meta Subsidiaries to Pay $14 Million](https://soylentnews.org/article.pl?sid=23/07/28/168235&from=rss)
-* [2023-07-29, 13:46:00](https://soylentnews.org/article.pl?sid=23/07/28/1517210&from=rss) - [Encryption-Breaking, Password-Leaking Bug In Many AMD CPUs Could Take Months To Fix](https://soylentnews.org/article.pl?sid=23/07/28/1517210&from=rss)
 
 ## [Archives](archives/index.md)
 
