@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-08, 19:53:00](https://soylentnews.org/article.pl?sid=23/08/07/1619244&from=rss) - [Free Raspberry Pi 4B in Abandoned Scooters](https://soylentnews.org/article.pl?sid=23/08/07/1619244&from=rss)
 * [2023-08-08, 15:07:00](https://soylentnews.org/article.pl?sid=23/08/07/1450253&from=rss) - [An 800-Year-Old Math Trick Could be the Key to Navigating the Moon](https://soylentnews.org/article.pl?sid=23/08/07/1450253&from=rss)
 * [2023-08-08, 10:50:00](https://soylentnews.org/article.pl?sid=23/08/07/1443211&from=rss) - [Musk Calls French News Agency’s Copyright Case Against X \"Bizarre\"](https://soylentnews.org/article.pl?sid=23/08/07/1443211&from=rss)
 * [2023-08-08, 08:12:00](https://soylentnews.org/article.pl?sid=23/08/08/0743204&from=rss) - [Message From the Family of Bram Moolenaar](https://soylentnews.org/article.pl?sid=23/08/08/0743204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-31, 03:45:00](https://soylentnews.org/article.pl?sid=23/07/30/1256255&from=rss) - [Intel Could Increase the Price of its CPUs to Help Pay for Fabs, Restructuring](https://soylentnews.org/article.pl?sid=23/07/30/1256255&from=rss)
 * [2023-07-30, 22:58:00](https://soylentnews.org/article.pl?sid=23/07/29/1632222&from=rss) - [Ivanti Rushes to Patch Zero-day Used to Breach Norway's Government](https://soylentnews.org/article.pl?sid=23/07/29/1632222&from=rss)
 * [2023-07-30, 18:30:00](https://soylentnews.org/meta/article.pl?sid=23/07/30/1717222&from=rss) - [These are the Times that Try Men's Souls](https://soylentnews.org/meta/article.pl?sid=23/07/30/1717222&from=rss)
-* [2023-07-30, 18:11:00](https://soylentnews.org/article.pl?sid=23/07/29/1618202&from=rss) - [Weight Loss Drugs: The Science And Side Effects Behind Ozempic And Wegovy](https://soylentnews.org/article.pl?sid=23/07/29/1618202&from=rss)
 
 ## [Archives](archives/index.md)
 
