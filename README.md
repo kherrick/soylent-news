@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-08, 10:50:00](https://soylentnews.org/article.pl?sid=23/08/07/1443211&from=rss) - [Musk Calls French News Agency’s Copyright Case Against X \"Bizarre\"](https://soylentnews.org/article.pl?sid=23/08/07/1443211&from=rss)
 * [2023-08-08, 08:12:00](https://soylentnews.org/article.pl?sid=23/08/08/0743204&from=rss) - [Message From the Family of Bram Moolenaar](https://soylentnews.org/article.pl?sid=23/08/08/0743204&from=rss)
 * [2023-08-08, 06:04:00](https://soylentnews.org/article.pl?sid=23/08/07/0535257&from=rss) - [Yet Another X - This One's a '57 Chevy](https://soylentnews.org/article.pl?sid=23/08/07/0535257&from=rss)
 * [2023-08-08, 01:18:00](https://soylentnews.org/article.pl?sid=23/08/06/2129236&from=rss) - [The World's Biggest Single-Site Solar Park and What It Can Do](https://soylentnews.org/article.pl?sid=23/08/06/2129236&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-30, 18:30:00](https://soylentnews.org/meta/article.pl?sid=23/07/30/1717222&from=rss) - [These are the Times that Try Men's Souls](https://soylentnews.org/meta/article.pl?sid=23/07/30/1717222&from=rss)
 * [2023-07-30, 18:11:00](https://soylentnews.org/article.pl?sid=23/07/29/1618202&from=rss) - [Weight Loss Drugs: The Science And Side Effects Behind Ozempic And Wegovy](https://soylentnews.org/article.pl?sid=23/07/29/1618202&from=rss)
 * [2023-07-30, 13:26:00](https://soylentnews.org/article.pl?sid=23/07/29/0448245&from=rss) - [A Sailor and His Dog Found After Months Stranded in the Pacific](https://soylentnews.org/article.pl?sid=23/07/29/0448245&from=rss)
-* [2023-07-30, 08:38:00](https://soylentnews.org/article.pl?sid=23/07/29/0443234&from=rss) - [Twitter commandeers @X username from man who had it since 2007](https://soylentnews.org/article.pl?sid=23/07/29/0443234&from=rss)
 
 ## [Archives](archives/index.md)
 
