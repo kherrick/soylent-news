@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-09, 14:52:00](https://soylentnews.org/article.pl?sid=23/08/08/0755216&from=rss) - [NASA Back in Touch With Voyager 2 After 'Interstellar Shout'](https://soylentnews.org/article.pl?sid=23/08/08/0755216&from=rss)
 * [2023-08-09, 10:06:00](https://soylentnews.org/article.pl?sid=23/08/08/0749207&from=rss) - [No Plain Sailing: Modern Pirates Hack Superyachts' Cybersecurity](https://soylentnews.org/article.pl?sid=23/08/08/0749207&from=rss)
 * [2023-08-09, 05:22:00](https://soylentnews.org/article.pl?sid=23/08/08/088226&from=rss) - [The Most Popular Meteor Shower of the Year Peaks Next Week](https://soylentnews.org/article.pl?sid=23/08/08/088226&from=rss)
 * [2023-08-09, 00:37:00](https://soylentnews.org/article.pl?sid=23/08/08/0515202&from=rss) - [STIRred AND SHAKEN](https://soylentnews.org/article.pl?sid=23/08/08/0515202&from=rss)
@@ -49,7 +50,6 @@
 * [2023-07-31, 22:46:00](https://soylentnews.org/article.pl?sid=23/07/30/224246&from=rss) - [Researchers Find Deliberate Backdoor in Police Radio Encryption Algorithm](https://soylentnews.org/article.pl?sid=23/07/30/224246&from=rss)
 * [2023-07-31, 18:02:00](https://soylentnews.org/article.pl?sid=23/07/30/2111232&from=rss) - [Robots and Rights: Confucianism Offers Alternative](https://soylentnews.org/article.pl?sid=23/07/30/2111232&from=rss)
 * [2023-07-31, 13:19:00](https://soylentnews.org/article.pl?sid=23/07/30/1943238&from=rss) - [ESA Awards Contract for Demo of Plane-tracking Satellites](https://soylentnews.org/article.pl?sid=23/07/30/1943238&from=rss)
-* [2023-07-31, 08:34:00](https://soylentnews.org/article.pl?sid=23/07/30/137218&from=rss) - [What’s Next for the Moon](https://soylentnews.org/article.pl?sid=23/07/30/137218&from=rss)
 
 ## [Archives](archives/index.md)
 
