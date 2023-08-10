@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-10, 19:31:00](https://soylentnews.org/article.pl?sid=23/08/09/2246236&from=rss) - [Lab Repeats Nuclear Fusion Feat, With Higher Yield](https://soylentnews.org/article.pl?sid=23/08/09/2246236&from=rss)
 * [2023-08-10, 14:44:00](https://soylentnews.org/article.pl?sid=23/08/09/2234246&from=rss) - [The Biggest Problems With Electric Cars That Still Haven't Been Solved](https://soylentnews.org/article.pl?sid=23/08/09/2234246&from=rss)
 * [2023-08-10, 09:59:00](https://soylentnews.org/article.pl?sid=23/08/09/1030209&from=rss) - [Software-Defined Vehicle Hardware](https://soylentnews.org/article.pl?sid=23/08/09/1030209&from=rss)
 * [2023-08-10, 05:13:00](https://soylentnews.org/article.pl?sid=23/08/09/1026209&from=rss) - [Rogue Planets May Be More Numerous Than Stars in Our Galaxy](https://soylentnews.org/article.pl?sid=23/08/09/1026209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-01, 22:30:00](https://soylentnews.org/article.pl?sid=23/07/31/0331231&from=rss) - [Five Types of Heart Failure Identified Using AI Tools](https://soylentnews.org/article.pl?sid=23/07/31/0331231&from=rss)
 * [2023-08-01, 17:45:00](https://soylentnews.org/article.pl?sid=23/07/31/0328234&from=rss) - [Russia Sends Cybersecurity CEO to Jail for 14 Years](https://soylentnews.org/article.pl?sid=23/07/31/0328234&from=rss)
 * [2023-08-01, 13:09:00](https://soylentnews.org/article.pl?sid=23/07/31/0110253&from=rss) - [Stanford President Resigns for \"Unusual Frequency of Manipulation of Research Data\"](https://soylentnews.org/article.pl?sid=23/07/31/0110253&from=rss)
-* [2023-08-01, 08:21:00](https://soylentnews.org/article.pl?sid=23/07/30/2355210&from=rss) - [Rapidus: We Want To Serve TSMC's Customers, But We Won't Be Like TSMC](https://soylentnews.org/article.pl?sid=23/07/30/2355210&from=rss)
 
 ## [Archives](archives/index.md)
 
