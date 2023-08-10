@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-10, 09:59:00](https://soylentnews.org/article.pl?sid=23/08/09/1030209&from=rss) - [Software-Defined Vehicle Hardware](https://soylentnews.org/article.pl?sid=23/08/09/1030209&from=rss)
 * [2023-08-10, 05:13:00](https://soylentnews.org/article.pl?sid=23/08/09/1026209&from=rss) - [Rogue Planets May Be More Numerous Than Stars in Our Galaxy](https://soylentnews.org/article.pl?sid=23/08/09/1026209&from=rss)
 * [2023-08-10, 00:24:00](https://soylentnews.org/article.pl?sid=23/08/09/0636208&from=rss) - [Sandy Bridge: Setting Intel's Modern Foundation](https://soylentnews.org/article.pl?sid=23/08/09/0636208&from=rss)
 * [2023-08-09, 19:43:00](https://soylentnews.org/article.pl?sid=23/08/09/0445250&from=rss) - [Microsoft Signing Key Stolen by Chinese](https://soylentnews.org/article.pl?sid=23/08/09/0445250&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-01, 13:09:00](https://soylentnews.org/article.pl?sid=23/07/31/0110253&from=rss) - [Stanford President Resigns for \"Unusual Frequency of Manipulation of Research Data\"](https://soylentnews.org/article.pl?sid=23/07/31/0110253&from=rss)
 * [2023-08-01, 08:21:00](https://soylentnews.org/article.pl?sid=23/07/30/2355210&from=rss) - [Rapidus: We Want To Serve TSMC's Customers, But We Won't Be Like TSMC](https://soylentnews.org/article.pl?sid=23/07/30/2355210&from=rss)
 * [2023-08-01, 03:32:00](https://soylentnews.org/article.pl?sid=23/07/30/229234&from=rss) - [Electricity Cheaper Than Diesel for Heavy Goods Vehicles](https://soylentnews.org/article.pl?sid=23/07/30/229234&from=rss)
-* [2023-08-01, 02:15:00](https://soylentnews.org/meta/article.pl?sid=23/08/01/0150211&from=rss) - [Notes for the Community from the July 31, 2023 SoylentNews PBC Meeting](https://soylentnews.org/meta/article.pl?sid=23/08/01/0150211&from=rss)
 
 ## [Archives](archives/index.md)
 
