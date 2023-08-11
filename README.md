@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-11, 05:03:00](https://soylentnews.org/article.pl?sid=23/08/10/194243&from=rss) - [Scientist Unveils a Bold Plan to Turn an Asteroid Into a Space Station](https://soylentnews.org/article.pl?sid=23/08/10/194243&from=rss)
 * [2023-08-11, 00:14:00](https://soylentnews.org/article.pl?sid=23/08/10/191221&from=rss) - [The Helicopter on Mars Just Flew Again After Surviving an Emergency Landing](https://soylentnews.org/article.pl?sid=23/08/10/191221&from=rss)
 * [2023-08-10, 19:31:00](https://soylentnews.org/article.pl?sid=23/08/09/2246236&from=rss) - [Lab Repeats Nuclear Fusion Feat, With Higher Yield](https://soylentnews.org/article.pl?sid=23/08/09/2246236&from=rss)
 * [2023-08-10, 14:44:00](https://soylentnews.org/article.pl?sid=23/08/09/2234246&from=rss) - [The Biggest Problems With Electric Cars That Still Haven't Been Solved](https://soylentnews.org/article.pl?sid=23/08/09/2234246&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-02, 07:40:00](https://soylentnews.org/article.pl?sid=23/07/31/0352234&from=rss) - [As Twitter Destroys its Brand by Renaming Itself X, Mastodon User Numbers are Again Soaring](https://soylentnews.org/article.pl?sid=23/07/31/0352234&from=rss)
 * [2023-08-02, 03:00:00](https://soylentnews.org/article.pl?sid=23/07/31/0336259&from=rss) - [Opinion: It's Time to Classify Plastics as Persistent, Bioaccumulative and Toxic Pollutants](https://soylentnews.org/article.pl?sid=23/07/31/0336259&from=rss)
 * [2023-08-01, 22:30:00](https://soylentnews.org/article.pl?sid=23/07/31/0331231&from=rss) - [Five Types of Heart Failure Identified Using AI Tools](https://soylentnews.org/article.pl?sid=23/07/31/0331231&from=rss)
-* [2023-08-01, 17:45:00](https://soylentnews.org/article.pl?sid=23/07/31/0328234&from=rss) - [Russia Sends Cybersecurity CEO to Jail for 14 Years](https://soylentnews.org/article.pl?sid=23/07/31/0328234&from=rss)
 
 ## [Archives](archives/index.md)
 
