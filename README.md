@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-11, 14:39:00](https://soylentnews.org/article.pl?sid=23/08/10/238235&from=rss) - [NASA to Test Potential 400Mbps Laser Link for Mars](https://soylentnews.org/article.pl?sid=23/08/10/238235&from=rss)
 * [2023-08-11, 09:53:00](https://soylentnews.org/article.pl?sid=23/08/10/1913247&from=rss) - [Using Machine Learning to Detect Keystrokes](https://soylentnews.org/article.pl?sid=23/08/10/1913247&from=rss)
 * [2023-08-11, 05:03:00](https://soylentnews.org/article.pl?sid=23/08/10/194243&from=rss) - [Scientist Unveils a Bold Plan to Turn an Asteroid Into a Space Station](https://soylentnews.org/article.pl?sid=23/08/10/194243&from=rss)
 * [2023-08-11, 00:14:00](https://soylentnews.org/article.pl?sid=23/08/10/191221&from=rss) - [The Helicopter on Mars Just Flew Again After Surviving an Emergency Landing](https://soylentnews.org/article.pl?sid=23/08/10/191221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-02, 17:02:00](https://soylentnews.org/article.pl?sid=23/08/01/1043243&from=rss) - [X to Close](https://soylentnews.org/article.pl?sid=23/08/01/1043243&from=rss)
 * [2023-08-02, 12:21:00](https://soylentnews.org/article.pl?sid=23/08/01/015201&from=rss) - [NASA Mistakenly Severs Communication to Voyager 2](https://soylentnews.org/article.pl?sid=23/08/01/015201&from=rss)
 * [2023-08-02, 07:40:00](https://soylentnews.org/article.pl?sid=23/07/31/0352234&from=rss) - [As Twitter Destroys its Brand by Renaming Itself X, Mastodon User Numbers are Again Soaring](https://soylentnews.org/article.pl?sid=23/07/31/0352234&from=rss)
-* [2023-08-02, 03:00:00](https://soylentnews.org/article.pl?sid=23/07/31/0336259&from=rss) - [Opinion: It's Time to Classify Plastics as Persistent, Bioaccumulative and Toxic Pollutants](https://soylentnews.org/article.pl?sid=23/07/31/0336259&from=rss)
 
 ## [Archives](archives/index.md)
 
