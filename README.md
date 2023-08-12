@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-12, 00:12:00](https://soylentnews.org/article.pl?sid=23/08/11/1044255&from=rss) - [g-2 Releases New Data](https://soylentnews.org/article.pl?sid=23/08/11/1044255&from=rss)
 * [2023-08-11, 19:25:00](https://soylentnews.org/article.pl?sid=23/08/11/0111256&from=rss) - [Scientists Discover The Highest-Energy Light Coming From The Sun](https://soylentnews.org/article.pl?sid=23/08/11/0111256&from=rss)
 * [2023-08-11, 14:39:00](https://soylentnews.org/article.pl?sid=23/08/10/238235&from=rss) - [NASA to Test Potential 400Mbps Laser Link for Mars](https://soylentnews.org/article.pl?sid=23/08/10/238235&from=rss)
 * [2023-08-11, 09:53:00](https://soylentnews.org/article.pl?sid=23/08/10/1913247&from=rss) - [Using Machine Learning to Detect Keystrokes](https://soylentnews.org/article.pl?sid=23/08/10/1913247&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-03, 02:32:00](https://soylentnews.org/article.pl?sid=23/08/02/0035247&from=rss) - [NASA Lab Hopes to Find Life's Building Blocks in Asteroid Sample](https://soylentnews.org/article.pl?sid=23/08/02/0035247&from=rss)
 * [2023-08-02, 21:45:00](https://soylentnews.org/article.pl?sid=23/08/01/1055252&from=rss) - [Scientists Propose Webb Telescope Has Detected Stars Powered by Dark Matter](https://soylentnews.org/article.pl?sid=23/08/01/1055252&from=rss)
 * [2023-08-02, 17:02:00](https://soylentnews.org/article.pl?sid=23/08/01/1043243&from=rss) - [X to Close](https://soylentnews.org/article.pl?sid=23/08/01/1043243&from=rss)
-* [2023-08-02, 12:21:00](https://soylentnews.org/article.pl?sid=23/08/01/015201&from=rss) - [NASA Mistakenly Severs Communication to Voyager 2](https://soylentnews.org/article.pl?sid=23/08/01/015201&from=rss)
 
 ## [Archives](archives/index.md)
 
