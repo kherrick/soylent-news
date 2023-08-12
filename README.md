@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-12, 09:41:00](https://soylentnews.org/article.pl?sid=23/08/11/1051251&from=rss) - [Amazon Won’t Stop Sending Tortured Woman Unwanted Boxes of Shoes](https://soylentnews.org/article.pl?sid=23/08/11/1051251&from=rss)
 * [2023-08-12, 04:56:00](https://soylentnews.org/article.pl?sid=23/08/11/1049207&from=rss) - [Others' Code Sucks for Your Problems](https://soylentnews.org/article.pl?sid=23/08/11/1049207&from=rss)
 * [2023-08-12, 00:12:00](https://soylentnews.org/article.pl?sid=23/08/11/1044255&from=rss) - [g-2 Releases New Data](https://soylentnews.org/article.pl?sid=23/08/11/1044255&from=rss)
 * [2023-08-11, 19:25:00](https://soylentnews.org/article.pl?sid=23/08/11/0111256&from=rss) - [Scientists Discover The Highest-Energy Light Coming From The Sun](https://soylentnews.org/article.pl?sid=23/08/11/0111256&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-03, 11:59:00](https://soylentnews.org/article.pl?sid=23/08/02/0330224&from=rss) - [Rock/Hard-Place: New BEV Charging Network & Power Grid Strained by Electrification](https://soylentnews.org/article.pl?sid=23/08/02/0330224&from=rss)
 * [2023-08-03, 07:15:00](https://soylentnews.org/article.pl?sid=23/08/02/0326221&from=rss) - [Bringing Back Extinct Molecules to Fight Modern Bacteria](https://soylentnews.org/article.pl?sid=23/08/02/0326221&from=rss)
 * [2023-08-03, 02:32:00](https://soylentnews.org/article.pl?sid=23/08/02/0035247&from=rss) - [NASA Lab Hopes to Find Life's Building Blocks in Asteroid Sample](https://soylentnews.org/article.pl?sid=23/08/02/0035247&from=rss)
-* [2023-08-02, 21:45:00](https://soylentnews.org/article.pl?sid=23/08/01/1055252&from=rss) - [Scientists Propose Webb Telescope Has Detected Stars Powered by Dark Matter](https://soylentnews.org/article.pl?sid=23/08/01/1055252&from=rss)
 
 ## [Archives](archives/index.md)
 
