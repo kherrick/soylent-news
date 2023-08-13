@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 04:53:00](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss) - [Regulators Give Green Light to Driverless Taxis in San Francisco](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss)
 * [2023-08-13, 00:04:00](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss) - [‘X Marks the Verb’](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss)

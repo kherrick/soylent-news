@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-13, 04:53:00](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss) - [Regulators Give Green Light to Driverless Taxis in San Francisco](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss)
 * [2023-08-13, 00:04:00](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss) - [‘X Marks the Verb’](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss)
 * [2023-08-12, 19:12:00](https://soylentnews.org/article.pl?sid=23/08/11/1313207&from=rss) - [Getting AAA Games Working in Linux Sometimes Requires Concealing Your GPU](https://soylentnews.org/article.pl?sid=23/08/11/1313207&from=rss)
 * [2023-08-12, 14:25:00](https://soylentnews.org/article.pl?sid=23/08/11/1240223&from=rss) - [India's Defense Services Are Switching to GNU/Linux](https://soylentnews.org/article.pl?sid=23/08/11/1240223&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-04, 06:56:00](https://soylentnews.org/article.pl?sid=23/08/03/2136251&from=rss) - [Reddit Beats Film Industry, Won't Have to Identify Users Who Admitted Torrenting](https://soylentnews.org/article.pl?sid=23/08/03/2136251&from=rss)
 * [2023-08-04, 02:12:00](https://soylentnews.org/article.pl?sid=23/08/03/2033257&from=rss) - [Goodbye to Incandescant Light Bulbs](https://soylentnews.org/article.pl?sid=23/08/03/2033257&from=rss)
 * [2023-08-03, 21:32:00](https://soylentnews.org/article.pl?sid=23/08/02/2252201&from=rss) - [Tesla’s Secret Team to Suppress Thousands of Driving Range Complaints](https://soylentnews.org/article.pl?sid=23/08/02/2252201&from=rss)
-* [2023-08-03, 16:44:00](https://soylentnews.org/article.pl?sid=23/08/02/2224211&from=rss) - [Researchers Who Claimed Discovery of Room Temperature Superconductor Accused of Falsifying Data](https://soylentnews.org/article.pl?sid=23/08/02/2224211&from=rss)
 
 ## [Archives](archives/index.md)
 
