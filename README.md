@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-13, 14:22:00](https://soylentnews.org/article.pl?sid=23/08/12/2310229&from=rss) - [Judge Denies HP's Request To Dismiss Printer Lockdown Suit](https://soylentnews.org/article.pl?sid=23/08/12/2310229&from=rss)
 * [2023-08-13, 09:38:00](https://soylentnews.org/article.pl?sid=23/08/12/2220232&from=rss) - [Two-Thirds of the World's Biodiversity Lives in the Soil](https://soylentnews.org/article.pl?sid=23/08/12/2220232&from=rss)
 * [2023-08-13, 04:53:00](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss) - [Regulators Give Green Light to Driverless Taxis in San Francisco](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss)
 * [2023-08-13, 00:04:00](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss) - [‘X Marks the Verb’](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-04, 16:29:00](https://soylentnews.org/article.pl?sid=23/08/03/2155246&from=rss) - [AWS to Charge Customers for Public IPv4 Addresses From 2024](https://soylentnews.org/article.pl?sid=23/08/03/2155246&from=rss)
 * [2023-08-04, 11:42:00](https://soylentnews.org/article.pl?sid=23/08/03/2147215&from=rss) - [Egg 'Signatures' Allow Drongos to Identify Cuckoo 'Forgeries' Almost Every Time, Study Finds](https://soylentnews.org/article.pl?sid=23/08/03/2147215&from=rss)
 * [2023-08-04, 06:56:00](https://soylentnews.org/article.pl?sid=23/08/03/2136251&from=rss) - [Reddit Beats Film Industry, Won't Have to Identify Users Who Admitted Torrenting](https://soylentnews.org/article.pl?sid=23/08/03/2136251&from=rss)
-* [2023-08-04, 02:12:00](https://soylentnews.org/article.pl?sid=23/08/03/2033257&from=rss) - [Goodbye to Incandescant Light Bulbs](https://soylentnews.org/article.pl?sid=23/08/03/2033257&from=rss)
 
 ## [Archives](archives/index.md)
 
