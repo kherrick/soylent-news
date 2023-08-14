@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-13, 23:54:00](https://soylentnews.org/article.pl?sid=23/08/13/0155248&from=rss) - [Russia Heads Back to the Moon With Luna 25](https://soylentnews.org/article.pl?sid=23/08/13/0155248&from=rss)
 * [2023-08-13, 19:06:00](https://soylentnews.org/article.pl?sid=23/08/12/2316202&from=rss) - [Scientists May be on Brink of Discovering Fifth Force of Nature](https://soylentnews.org/article.pl?sid=23/08/12/2316202&from=rss)
 * [2023-08-13, 14:22:00](https://soylentnews.org/article.pl?sid=23/08/12/2310229&from=rss) - [Judge Denies HP's Request To Dismiss Printer Lockdown Suit](https://soylentnews.org/article.pl?sid=23/08/12/2310229&from=rss)
 * [2023-08-13, 09:38:00](https://soylentnews.org/article.pl?sid=23/08/12/2220232&from=rss) - [Two-Thirds of the World's Biodiversity Lives in the Soil](https://soylentnews.org/article.pl?sid=23/08/12/2220232&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-05, 01:59:00](https://soylentnews.org/article.pl?sid=23/08/04/0352228&from=rss) - [Humans Evolved to Walk With an Extra Spring in Our Step](https://soylentnews.org/article.pl?sid=23/08/04/0352228&from=rss)
 * [2023-08-04, 21:15:00](https://soylentnews.org/article.pl?sid=23/08/03/229241&from=rss) - [Researchers Figure Out How to Make AI Misbehave, Serve Up Prohibited Content](https://soylentnews.org/article.pl?sid=23/08/03/229241&from=rss)
 * [2023-08-04, 16:29:00](https://soylentnews.org/article.pl?sid=23/08/03/2155246&from=rss) - [AWS to Charge Customers for Public IPv4 Addresses From 2024](https://soylentnews.org/article.pl?sid=23/08/03/2155246&from=rss)
-* [2023-08-04, 11:42:00](https://soylentnews.org/article.pl?sid=23/08/03/2147215&from=rss) - [Egg 'Signatures' Allow Drongos to Identify Cuckoo 'Forgeries' Almost Every Time, Study Finds](https://soylentnews.org/article.pl?sid=23/08/03/2147215&from=rss)
 
 ## [Archives](archives/index.md)
 
