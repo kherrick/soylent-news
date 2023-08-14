@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-14, 18:49:00](https://soylentnews.org/article.pl?sid=23/08/13/0438211&from=rss) - [A Close Look at the 8086 Processor's Bus Hold Circuitry](https://soylentnews.org/article.pl?sid=23/08/13/0438211&from=rss)
 * [2023-08-14, 14:04:00](https://soylentnews.org/article.pl?sid=23/08/13/0436247&from=rss) - [How an Unpatched Microsoft Exchange 0-Day Likely Caused One of the UK's Biggest Hacks Ever](https://soylentnews.org/article.pl?sid=23/08/13/0436247&from=rss)
 * [2023-08-14, 09:21:00](https://soylentnews.org/article.pl?sid=23/08/13/0428252&from=rss) - [Researchers Develop Method For Upcycling Plastic Waste Into Soap](https://soylentnews.org/article.pl?sid=23/08/13/0428252&from=rss)
 * [2023-08-14, 04:40:00](https://soylentnews.org/article.pl?sid=23/08/13/025252&from=rss) - [Asus Adds New Model To Raspberry Pi Rival Tinker Family](https://soylentnews.org/article.pl?sid=23/08/13/025252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-05, 21:01:00](https://soylentnews.org/article.pl?sid=23/08/05/0114243&from=rss) - [AWS Is Running A 96-Core, 192-Thread, Custom Xeon Server](https://soylentnews.org/article.pl?sid=23/08/05/0114243&from=rss)
 * [2023-08-05, 16:14:00](https://soylentnews.org/article.pl?sid=23/08/05/010238&from=rss) - [The Ring Nebula Glows Green In A Stunning New JWST Image](https://soylentnews.org/article.pl?sid=23/08/05/010238&from=rss)
 * [2023-08-05, 11:30:00](https://soylentnews.org/article.pl?sid=23/08/05/0050249&from=rss) - [Microsoft Comes Under Blistering Criticism for \"Grossly Irresponsible\" Security](https://soylentnews.org/article.pl?sid=23/08/05/0050249&from=rss)
-* [2023-08-05, 06:44:00](https://soylentnews.org/article.pl?sid=23/08/04/1757246&from=rss) - [Banned Robocallers Receive Record-Breaking $300 Million Fine For Auto-Warranty Scam Enterprise](https://soylentnews.org/article.pl?sid=23/08/04/1757246&from=rss)
 
 ## [Archives](archives/index.md)
 
