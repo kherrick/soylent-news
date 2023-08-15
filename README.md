@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-15, 13:50:00](https://soylentnews.org/article.pl?sid=23/08/14/0257215&from=rss) - [Congress May Block the Public From Tracking Private Jets](https://soylentnews.org/article.pl?sid=23/08/14/0257215&from=rss)
 * [2023-08-15, 09:04:00](https://soylentnews.org/article.pl?sid=23/08/14/0254203&from=rss) - [Water Lilies May be a Surprise Hero in Our Fight Against Fungal Pathogens](https://soylentnews.org/article.pl?sid=23/08/14/0254203&from=rss)
 * [2023-08-15, 04:19:00](https://soylentnews.org/article.pl?sid=23/08/14/0242212&from=rss) - [How Fame-Seeking Teenagers Hacked Some of the World’s Biggest Targets](https://soylentnews.org/article.pl?sid=23/08/14/0242212&from=rss)
 * [2023-08-14, 23:33:00](https://soylentnews.org/article.pl?sid=23/08/14/0238207&from=rss) - [NASA Blames Clogged Lines For Moon Probe's End](https://soylentnews.org/article.pl?sid=23/08/14/0238207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-06, 16:01:00](https://soylentnews.org/article.pl?sid=23/08/05/1816217&from=rss) - [The Boring Company Will Dig a 68-Mile Tunnel Network Under Las Vegas](https://soylentnews.org/article.pl?sid=23/08/05/1816217&from=rss)
 * [2023-08-06, 11:16:00](https://soylentnews.org/article.pl?sid=23/08/05/1718249&from=rss) - [A Jargon-Free Explanation of How AI Large Language Models Work](https://soylentnews.org/article.pl?sid=23/08/05/1718249&from=rss)
 * [2023-08-06, 06:32:00](https://soylentnews.org/article.pl?sid=23/08/05/1710244&from=rss) - [The Art of Roman Water Management Revealed](https://soylentnews.org/article.pl?sid=23/08/05/1710244&from=rss)
-* [2023-08-06, 01:47:00](https://soylentnews.org/article.pl?sid=23/08/05/048204&from=rss) - [Remember Free Public WiFi?](https://soylentnews.org/article.pl?sid=23/08/05/048204&from=rss)
 
 ## [Archives](archives/index.md)
 
