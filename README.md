@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-15, 04:19:00](https://soylentnews.org/article.pl?sid=23/08/14/0242212&from=rss) - [How Fame-Seeking Teenagers Hacked Some of the World’s Biggest Targets](https://soylentnews.org/article.pl?sid=23/08/14/0242212&from=rss)
 * [2023-08-14, 23:33:00](https://soylentnews.org/article.pl?sid=23/08/14/0238207&from=rss) - [NASA Blames Clogged Lines For Moon Probe's End](https://soylentnews.org/article.pl?sid=23/08/14/0238207&from=rss)
 * [2023-08-14, 18:49:00](https://soylentnews.org/article.pl?sid=23/08/13/0438211&from=rss) - [A Close Look at the 8086 Processor's Bus Hold Circuitry](https://soylentnews.org/article.pl?sid=23/08/13/0438211&from=rss)
 * [2023-08-14, 14:04:00](https://soylentnews.org/article.pl?sid=23/08/13/0436247&from=rss) - [How an Unpatched Microsoft Exchange 0-Day Likely Caused One of the UK's Biggest Hacks Ever](https://soylentnews.org/article.pl?sid=23/08/13/0436247&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-06, 06:32:00](https://soylentnews.org/article.pl?sid=23/08/05/1710244&from=rss) - [The Art of Roman Water Management Revealed](https://soylentnews.org/article.pl?sid=23/08/05/1710244&from=rss)
 * [2023-08-06, 01:47:00](https://soylentnews.org/article.pl?sid=23/08/05/048204&from=rss) - [Remember Free Public WiFi?](https://soylentnews.org/article.pl?sid=23/08/05/048204&from=rss)
 * [2023-08-05, 21:01:00](https://soylentnews.org/article.pl?sid=23/08/05/0114243&from=rss) - [AWS Is Running A 96-Core, 192-Thread, Custom Xeon Server](https://soylentnews.org/article.pl?sid=23/08/05/0114243&from=rss)
-* [2023-08-05, 16:14:00](https://soylentnews.org/article.pl?sid=23/08/05/010238&from=rss) - [The Ring Nebula Glows Green In A Stunning New JWST Image](https://soylentnews.org/article.pl?sid=23/08/05/010238&from=rss)
 
 ## [Archives](archives/index.md)
 
