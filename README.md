@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-16, 03:55:00](https://soylentnews.org/meta/article.pl?sid=23/08/15/0126248&from=rss) - [Story Frequency](https://soylentnews.org/meta/article.pl?sid=23/08/15/0126248&from=rss)
 * [2023-08-15, 23:14:00](https://soylentnews.org/article.pl?sid=23/08/14/1332213&from=rss) - [Popular Open Source Project Moq Criticized for Quietly Collecting Data](https://soylentnews.org/article.pl?sid=23/08/14/1332213&from=rss)
 * [2023-08-15, 18:37:00](https://soylentnews.org/article.pl?sid=23/08/14/1319220&from=rss) - [Why NASA Is Psyched About These Weird Martian Mud Patterns](https://soylentnews.org/article.pl?sid=23/08/14/1319220&from=rss)
 * [2023-08-15, 13:50:00](https://soylentnews.org/article.pl?sid=23/08/14/0257215&from=rss) - [Congress May Block the Public From Tracking Private Jets](https://soylentnews.org/article.pl?sid=23/08/14/0257215&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-07, 06:21:00](https://soylentnews.org/article.pl?sid=23/08/06/0623211&from=rss) - [Brave Cuts Ties With Bing To Offer Own Image, Video Search](https://soylentnews.org/article.pl?sid=23/08/06/0623211&from=rss)
 * [2023-08-07, 01:33:00](https://soylentnews.org/article.pl?sid=23/08/06/0545207&from=rss) - [Hackers Figured Out How To Unlock Expensive Tesla EV Features Without Paying](https://soylentnews.org/article.pl?sid=23/08/06/0545207&from=rss)
 * [2023-08-06, 20:47:00](https://soylentnews.org/article.pl?sid=23/08/05/2241259&from=rss) - [Tokyo Tests Automated, Simultaneous Translation at Railway Station](https://soylentnews.org/article.pl?sid=23/08/05/2241259&from=rss)
-* [2023-08-06, 16:01:00](https://soylentnews.org/article.pl?sid=23/08/05/1816217&from=rss) - [The Boring Company Will Dig a 68-Mile Tunnel Network Under Las Vegas](https://soylentnews.org/article.pl?sid=23/08/05/1816217&from=rss)
 
 ## [Archives](archives/index.md)
 
