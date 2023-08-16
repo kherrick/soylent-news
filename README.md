@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-16, 18:10:00](https://soylentnews.org/article.pl?sid=23/08/15/026200&from=rss) - [Great, Climate Change Will Even Make Food Poisoning Worse](https://soylentnews.org/article.pl?sid=23/08/15/026200&from=rss)
 * [2023-08-16, 13:23:00](https://soylentnews.org/article.pl?sid=23/08/15/0148245&from=rss) - [Illinois Just Made It Possible To Sue People For Doxxing Attacks](https://soylentnews.org/article.pl?sid=23/08/15/0148245&from=rss)
 * [2023-08-16, 08:38:00](https://soylentnews.org/article.pl?sid=23/08/15/0140223&from=rss) - [Turns Out Streaming Isn't A Bargain Anymore](https://soylentnews.org/article.pl?sid=23/08/15/0140223&from=rss)
 * [2023-08-16, 03:55:00](https://soylentnews.org/meta/article.pl?sid=23/08/15/0126248&from=rss) - [Story Frequency](https://soylentnews.org/meta/article.pl?sid=23/08/15/0126248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-07, 20:30:00](https://soylentnews.org/meta/article.pl?sid=23/08/07/2013254&from=rss) - [Meeting Announcement:  Governance Committee Meeting on Friday, August 11th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/07/2013254&from=rss)
 * [2023-08-07, 15:52:00](https://soylentnews.org/article.pl?sid=23/08/06/1934248&from=rss) - [AI-powered Brain Implants Restore Touch and Movement to Paralysed Man](https://soylentnews.org/article.pl?sid=23/08/06/1934248&from=rss)
 * [2023-08-07, 11:07:00](https://soylentnews.org/article.pl?sid=23/08/06/1922212&from=rss) - [Bitfinex Hackers Who Stole Billions In Cryptocurrency Plead Guilty](https://soylentnews.org/article.pl?sid=23/08/06/1922212&from=rss)
-* [2023-08-07, 06:21:00](https://soylentnews.org/article.pl?sid=23/08/06/0623211&from=rss) - [Brave Cuts Ties With Bing To Offer Own Image, Video Search](https://soylentnews.org/article.pl?sid=23/08/06/0623211&from=rss)
 
 ## [Archives](archives/index.md)
 
