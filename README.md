@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-17, 13:12:00](https://soylentnews.org/article.pl?sid=23/08/16/1735244&from=rss) - [Another Reason to Stop Looking for Dark Matter](https://soylentnews.org/article.pl?sid=23/08/16/1735244&from=rss)
 * [2023-08-17, 08:24:00](https://soylentnews.org/article.pl?sid=23/08/16/1729257&from=rss) - [ISPs Complain That Listing Every Fee is Too Hard, Urge FCC to Scrap New Rule](https://soylentnews.org/article.pl?sid=23/08/16/1729257&from=rss)
 * [2023-08-17, 03:40:00](https://soylentnews.org/article.pl?sid=23/08/15/1158236&from=rss) - [The Internet Archive Reaches An Agreement With Publishers In Digital Book-Lending Case](https://soylentnews.org/article.pl?sid=23/08/15/1158236&from=rss)
 * [2023-08-16, 22:54:00](https://soylentnews.org/article.pl?sid=23/08/15/0545215&from=rss) - [The Bawdy Bard](https://soylentnews.org/article.pl?sid=23/08/15/0545215&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-08, 08:12:00](https://soylentnews.org/article.pl?sid=23/08/08/0743204&from=rss) - [Message From the Family of Bram Moolenaar](https://soylentnews.org/article.pl?sid=23/08/08/0743204&from=rss)
 * [2023-08-08, 06:04:00](https://soylentnews.org/article.pl?sid=23/08/07/0535257&from=rss) - [Yet Another X - This One's a '57 Chevy](https://soylentnews.org/article.pl?sid=23/08/07/0535257&from=rss)
 * [2023-08-08, 01:18:00](https://soylentnews.org/article.pl?sid=23/08/06/2129236&from=rss) - [The World's Biggest Single-Site Solar Park and What It Can Do](https://soylentnews.org/article.pl?sid=23/08/06/2129236&from=rss)
-* [2023-08-07, 20:35:00](https://soylentnews.org/article.pl?sid=23/08/06/2116215&from=rss) - [Remains Found in China May Belong to Third Human Lineage](https://soylentnews.org/article.pl?sid=23/08/06/2116215&from=rss)
 
 ## [Archives](archives/index.md)
 
