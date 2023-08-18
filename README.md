@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-18, 13:59:00](https://soylentnews.org/article.pl?sid=23/08/17/058233&from=rss) - [Desert Ants Increase the Visibility of Their Nest Entrances in the Absence of Landmarks](https://soylentnews.org/article.pl?sid=23/08/17/058233&from=rss)
 * [2023-08-18, 08:18:00](https://soylentnews.org/article.pl?sid=23/08/17/0420206&from=rss) - [Engine Recall Forces Major Airlines To Ground Planes](https://soylentnews.org/article.pl?sid=23/08/17/0420206&from=rss)
 * [2023-08-18, 03:33:00](https://soylentnews.org/article.pl?sid=23/08/17/0415211&from=rss) - [Surprise Covid Discovery Helps Explain How Coronaviruses Jump Species](https://soylentnews.org/article.pl?sid=23/08/17/0415211&from=rss)
 * [2023-08-17, 22:49:00](https://soylentnews.org/article.pl?sid=23/08/17/0356211&from=rss) - [Men Willing to Pay More for Chocolate Than Women](https://soylentnews.org/article.pl?sid=23/08/17/0356211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-09, 10:06:00](https://soylentnews.org/article.pl?sid=23/08/08/0749207&from=rss) - [No Plain Sailing: Modern Pirates Hack Superyachts' Cybersecurity](https://soylentnews.org/article.pl?sid=23/08/08/0749207&from=rss)
 * [2023-08-09, 05:22:00](https://soylentnews.org/article.pl?sid=23/08/08/088226&from=rss) - [The Most Popular Meteor Shower of the Year Peaks Next Week](https://soylentnews.org/article.pl?sid=23/08/08/088226&from=rss)
 * [2023-08-09, 00:37:00](https://soylentnews.org/article.pl?sid=23/08/08/0515202&from=rss) - [STIRred AND SHAKEN](https://soylentnews.org/article.pl?sid=23/08/08/0515202&from=rss)
-* [2023-08-08, 19:53:00](https://soylentnews.org/article.pl?sid=23/08/07/1619244&from=rss) - [Free Raspberry Pi 4B in Abandoned Scooters](https://soylentnews.org/article.pl?sid=23/08/07/1619244&from=rss)
 
 ## [Archives](archives/index.md)
 
