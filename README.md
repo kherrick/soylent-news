@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-18, 03:33:00](https://soylentnews.org/article.pl?sid=23/08/17/0415211&from=rss) - [Surprise Covid Discovery Helps Explain How Coronaviruses Jump Species](https://soylentnews.org/article.pl?sid=23/08/17/0415211&from=rss)
 * [2023-08-17, 22:49:00](https://soylentnews.org/article.pl?sid=23/08/17/0356211&from=rss) - [Men Willing to Pay More for Chocolate Than Women](https://soylentnews.org/article.pl?sid=23/08/17/0356211&from=rss)
 * [2023-08-17, 18:04:00](https://soylentnews.org/article.pl?sid=23/08/17/0354228&from=rss) - [MS Updating the Office UI (Again)](https://soylentnews.org/article.pl?sid=23/08/17/0354228&from=rss)
 * [2023-08-17, 17:00:00](https://soylentnews.org/meta/article.pl?sid=23/08/17/1533225&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, August 18th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/17/1533225&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-09, 00:37:00](https://soylentnews.org/article.pl?sid=23/08/08/0515202&from=rss) - [STIRred AND SHAKEN](https://soylentnews.org/article.pl?sid=23/08/08/0515202&from=rss)
 * [2023-08-08, 19:53:00](https://soylentnews.org/article.pl?sid=23/08/07/1619244&from=rss) - [Free Raspberry Pi 4B in Abandoned Scooters](https://soylentnews.org/article.pl?sid=23/08/07/1619244&from=rss)
 * [2023-08-08, 15:07:00](https://soylentnews.org/article.pl?sid=23/08/07/1450253&from=rss) - [An 800-Year-Old Math Trick Could be the Key to Navigating the Moon](https://soylentnews.org/article.pl?sid=23/08/07/1450253&from=rss)
-* [2023-08-08, 10:50:00](https://soylentnews.org/article.pl?sid=23/08/07/1443211&from=rss) - [Musk Calls French News Agency’s Copyright Case Against X \"Bizarre\"](https://soylentnews.org/article.pl?sid=23/08/07/1443211&from=rss)
 
 ## [Archives](archives/index.md)
 
