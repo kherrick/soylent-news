@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 23:30:00](https://soylentnews.org/article.pl?sid=23/08/18/041219&from=rss) - [Ongoing Scam Tricks Kids Playing Roblox and Fortnite](https://soylentnews.org/article.pl?sid=23/08/18/041219&from=rss)
 * [2023-08-18, 18:45:00](https://soylentnews.org/article.pl?sid=23/08/17/1439256&from=rss) - [An Iowa School District is Using ChatGPT to Decide Which Books to Ban](https://soylentnews.org/article.pl?sid=23/08/17/1439256&from=rss)
 * [2023-08-18, 13:59:00](https://soylentnews.org/article.pl?sid=23/08/17/058233&from=rss) - [Desert Ants Increase the Visibility of Their Nest Entrances in the Absence of Landmarks](https://soylentnews.org/article.pl?sid=23/08/17/058233&from=rss)
 * [2023-08-18, 08:18:00](https://soylentnews.org/article.pl?sid=23/08/17/0420206&from=rss) - [Engine Recall Forces Major Airlines To Ground Planes](https://soylentnews.org/article.pl?sid=23/08/17/0420206&from=rss)
