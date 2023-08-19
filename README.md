@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-19, 23:23:00](https://soylentnews.org/article.pl?sid=23/08/18/164216&from=rss) - [\"Hairy\" Magnetic Rust Particles Used to Remove Estrogen From Water](https://soylentnews.org/article.pl?sid=23/08/18/164216&from=rss)
 * [2023-08-19, 18:31:00](https://soylentnews.org/article.pl?sid=23/08/18/1539232&from=rss) - [Company That Makes Rent-Setting Software for Landlords Sued for Collusion](https://soylentnews.org/article.pl?sid=23/08/18/1539232&from=rss)
 * [2023-08-19, 13:47:00](https://soylentnews.org/article.pl?sid=23/08/18/0428259&from=rss) - [YouTube Tightens Thumbscrew to Crack Down on Ad-Blockers](https://soylentnews.org/article.pl?sid=23/08/18/0428259&from=rss)
 * [2023-08-19, 09:02:00](https://soylentnews.org/article.pl?sid=23/08/18/0412252&from=rss) - [NASA Installs Laser Communication System on Psyche Asteroid Probe](https://soylentnews.org/article.pl?sid=23/08/18/0412252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-10, 19:31:00](https://soylentnews.org/article.pl?sid=23/08/09/2246236&from=rss) - [Lab Repeats Nuclear Fusion Feat, With Higher Yield](https://soylentnews.org/article.pl?sid=23/08/09/2246236&from=rss)
 * [2023-08-10, 14:44:00](https://soylentnews.org/article.pl?sid=23/08/09/2234246&from=rss) - [The Biggest Problems With Electric Cars That Still Haven't Been Solved](https://soylentnews.org/article.pl?sid=23/08/09/2234246&from=rss)
 * [2023-08-10, 09:59:00](https://soylentnews.org/article.pl?sid=23/08/09/1030209&from=rss) - [Software-Defined Vehicle Hardware](https://soylentnews.org/article.pl?sid=23/08/09/1030209&from=rss)
-* [2023-08-10, 05:13:00](https://soylentnews.org/article.pl?sid=23/08/09/1026209&from=rss) - [Rogue Planets May Be More Numerous Than Stars in Our Galaxy](https://soylentnews.org/article.pl?sid=23/08/09/1026209&from=rss)
 
 ## [Archives](archives/index.md)
 

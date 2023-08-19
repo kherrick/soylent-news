@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 23:23:00](https://soylentnews.org/article.pl?sid=23/08/18/164216&from=rss) - [\"Hairy\" Magnetic Rust Particles Used to Remove Estrogen From Water](https://soylentnews.org/article.pl?sid=23/08/18/164216&from=rss)
 * [2023-08-19, 18:31:00](https://soylentnews.org/article.pl?sid=23/08/18/1539232&from=rss) - [Company That Makes Rent-setting Software for Landlords Sued for Collusion](https://soylentnews.org/article.pl?sid=23/08/18/1539232&from=rss)
 * [2023-08-19, 13:47:00](https://soylentnews.org/article.pl?sid=23/08/18/0428259&from=rss) - [YouTube Tightens Thumbscrew to Crack Down on Ad-Blockers](https://soylentnews.org/article.pl?sid=23/08/18/0428259&from=rss)
 * [2023-08-19, 09:02:00](https://soylentnews.org/article.pl?sid=23/08/18/0412252&from=rss) - [NASA Installs Laser Communication System on Psyche Asteroid Probe](https://soylentnews.org/article.pl?sid=23/08/18/0412252&from=rss)
