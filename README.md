@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-19, 13:47:00](https://soylentnews.org/article.pl?sid=23/08/18/0428259&from=rss) - [YouTube Tightens Thumbscrew to Crack Down on Ad-Blockers](https://soylentnews.org/article.pl?sid=23/08/18/0428259&from=rss)
 * [2023-08-19, 09:02:00](https://soylentnews.org/article.pl?sid=23/08/18/0412252&from=rss) - [NASA Installs Laser Communication System on Psyche Asteroid Probe](https://soylentnews.org/article.pl?sid=23/08/18/0412252&from=rss)
 * [2023-08-19, 04:16:00](https://soylentnews.org/article.pl?sid=23/08/18/048225&from=rss) - [Intel's GPU Drivers Now Collect Telemetry, Including 'How You Use Your Computer'](https://soylentnews.org/article.pl?sid=23/08/18/048225&from=rss)
 * [2023-08-18, 23:30:00](https://soylentnews.org/article.pl?sid=23/08/18/041219&from=rss) - [Ongoing Scam Tricks Kids Playing Roblox and Fortnite](https://soylentnews.org/article.pl?sid=23/08/18/041219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-10, 09:59:00](https://soylentnews.org/article.pl?sid=23/08/09/1030209&from=rss) - [Software-Defined Vehicle Hardware](https://soylentnews.org/article.pl?sid=23/08/09/1030209&from=rss)
 * [2023-08-10, 05:13:00](https://soylentnews.org/article.pl?sid=23/08/09/1026209&from=rss) - [Rogue Planets May Be More Numerous Than Stars in Our Galaxy](https://soylentnews.org/article.pl?sid=23/08/09/1026209&from=rss)
 * [2023-08-10, 00:24:00](https://soylentnews.org/article.pl?sid=23/08/09/0636208&from=rss) - [Sandy Bridge: Setting Intel's Modern Foundation](https://soylentnews.org/article.pl?sid=23/08/09/0636208&from=rss)
-* [2023-08-09, 19:43:00](https://soylentnews.org/article.pl?sid=23/08/09/0445250&from=rss) - [Microsoft Signing Key Stolen by Chinese](https://soylentnews.org/article.pl?sid=23/08/09/0445250&from=rss)
 
 ## [Archives](archives/index.md)
 
