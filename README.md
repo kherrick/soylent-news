@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-20, 13:44:00](https://soylentnews.org/article.pl?sid=23/08/19/237248&from=rss) - [ChatGPT Gets Code Questions Wrong 52% of the Time](https://soylentnews.org/article.pl?sid=23/08/19/237248&from=rss)
 * [2023-08-20, 08:57:00](https://soylentnews.org/article.pl?sid=23/08/19/1439205&from=rss) - [Chemical Found in Common Sweetener Damages DNA](https://soylentnews.org/article.pl?sid=23/08/19/1439205&from=rss)
 * [2023-08-20, 04:12:00](https://soylentnews.org/article.pl?sid=23/08/19/1129240&from=rss) - [Debian, The Grandaddy Of Linux Operating Systems, Turns 30](https://soylentnews.org/article.pl?sid=23/08/19/1129240&from=rss)
 * [2023-08-19, 23:23:00](https://soylentnews.org/article.pl?sid=23/08/18/164216&from=rss) - [\"Hairy\" Magnetic Rust Particles Used to Remove Estrogen From Water](https://soylentnews.org/article.pl?sid=23/08/18/164216&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-11, 09:53:00](https://soylentnews.org/article.pl?sid=23/08/10/1913247&from=rss) - [Using Machine Learning to Detect Keystrokes](https://soylentnews.org/article.pl?sid=23/08/10/1913247&from=rss)
 * [2023-08-11, 05:03:00](https://soylentnews.org/article.pl?sid=23/08/10/194243&from=rss) - [Scientist Unveils a Bold Plan to Turn an Asteroid Into a Space Station](https://soylentnews.org/article.pl?sid=23/08/10/194243&from=rss)
 * [2023-08-11, 00:14:00](https://soylentnews.org/article.pl?sid=23/08/10/191221&from=rss) - [The Helicopter on Mars Just Flew Again After Surviving an Emergency Landing](https://soylentnews.org/article.pl?sid=23/08/10/191221&from=rss)
-* [2023-08-10, 19:31:00](https://soylentnews.org/article.pl?sid=23/08/09/2246236&from=rss) - [Lab Repeats Nuclear Fusion Feat, With Higher Yield](https://soylentnews.org/article.pl?sid=23/08/09/2246236&from=rss)
 
 ## [Archives](archives/index.md)
 
