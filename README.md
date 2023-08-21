@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-21, 22:55:00](https://soylentnews.org/article.pl?sid=23/08/21/1225240&from=rss) - [Research Shows Zinc-air Batteries Could be the Future of Powering Electric Vehicles](https://soylentnews.org/article.pl?sid=23/08/21/1225240&from=rss)
 * [2023-08-21, 18:10:00](https://soylentnews.org/article.pl?sid=23/08/20/0120235&from=rss) - [Teens Hacked Boston Subway Cards to Get Infinite Free Rides - Different Response by MBTA](https://soylentnews.org/article.pl?sid=23/08/20/0120235&from=rss)
 * [2023-08-21, 13:25:00](https://soylentnews.org/article.pl?sid=23/08/20/0156220&from=rss) - [Microsoft Pulls AI-Generated Article Recommending Ottawa Food Bank to Tourists](https://soylentnews.org/article.pl?sid=23/08/20/0156220&from=rss)
 * [2023-08-21, 08:44:00](https://soylentnews.org/article.pl?sid=23/08/20/0150219&from=rss) - [To Battle New Threats, Spy Agencies to Share More Intelligence With Private Sector](https://soylentnews.org/article.pl?sid=23/08/20/0150219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-12, 19:12:00](https://soylentnews.org/article.pl?sid=23/08/11/1313207&from=rss) - [Getting AAA Games Working in Linux Sometimes Requires Concealing Your GPU](https://soylentnews.org/article.pl?sid=23/08/11/1313207&from=rss)
 * [2023-08-12, 14:25:00](https://soylentnews.org/article.pl?sid=23/08/11/1240223&from=rss) - [India's Defense Services Are Switching to GNU/Linux](https://soylentnews.org/article.pl?sid=23/08/11/1240223&from=rss)
 * [2023-08-12, 09:41:00](https://soylentnews.org/article.pl?sid=23/08/11/1051251&from=rss) - [Amazon Won’t Stop Sending Tortured Woman Unwanted Boxes of Shoes](https://soylentnews.org/article.pl?sid=23/08/11/1051251&from=rss)
-* [2023-08-12, 04:56:00](https://soylentnews.org/article.pl?sid=23/08/11/1049207&from=rss) - [Others' Code Sucks for Your Problems](https://soylentnews.org/article.pl?sid=23/08/11/1049207&from=rss)
 
 ## [Archives](archives/index.md)
 
