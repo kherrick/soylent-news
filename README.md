@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-21, 08:44:00](https://soylentnews.org/article.pl?sid=23/08/20/0150219&from=rss) - [To Battle New Threats, Spy Agencies to Share More Intelligence With Private Sector](https://soylentnews.org/article.pl?sid=23/08/20/0150219&from=rss)
 * [2023-08-21, 04:02:00](https://soylentnews.org/article.pl?sid=23/08/20/0138255&from=rss) - [Common Alzheimer's Disease Gene May Have Helped Our Ancestors Have More Kids](https://soylentnews.org/article.pl?sid=23/08/20/0138255&from=rss)
 * [2023-08-20, 23:14:00](https://soylentnews.org/article.pl?sid=23/08/19/2319201&from=rss) - [DARPA Launches Study On Starting A Lunar Economy In 10 Years](https://soylentnews.org/article.pl?sid=23/08/19/2319201&from=rss)
 * [2023-08-20, 18:29:00](https://soylentnews.org/article.pl?sid=23/08/20/1429210&from=rss) - [Russia's Luna-25 Spacecraft Crashes Into Moon](https://soylentnews.org/article.pl?sid=23/08/20/1429210&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-12, 04:56:00](https://soylentnews.org/article.pl?sid=23/08/11/1049207&from=rss) - [Others' Code Sucks for Your Problems](https://soylentnews.org/article.pl?sid=23/08/11/1049207&from=rss)
 * [2023-08-12, 00:12:00](https://soylentnews.org/article.pl?sid=23/08/11/1044255&from=rss) - [g-2 Releases New Data](https://soylentnews.org/article.pl?sid=23/08/11/1044255&from=rss)
 * [2023-08-11, 19:25:00](https://soylentnews.org/article.pl?sid=23/08/11/0111256&from=rss) - [Scientists Discover The Highest-Energy Light Coming From The Sun](https://soylentnews.org/article.pl?sid=23/08/11/0111256&from=rss)
-* [2023-08-11, 14:39:00](https://soylentnews.org/article.pl?sid=23/08/10/238235&from=rss) - [NASA to Test Potential 400Mbps Laser Link for Mars](https://soylentnews.org/article.pl?sid=23/08/10/238235&from=rss)
 
 ## [Archives](archives/index.md)
 
