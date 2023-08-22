@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-22, 13:09:00](https://soylentnews.org/article.pl?sid=23/08/21/1610207&from=rss) - [Eventually Everything Will Evaporate, Not Only Black Holes](https://soylentnews.org/article.pl?sid=23/08/21/1610207&from=rss)
 * [2023-08-22, 08:24:00](https://soylentnews.org/article.pl?sid=23/08/21/1235220&from=rss) - [Oracle, Suse, Others Form Openela Amid Red Hat Changes](https://soylentnews.org/article.pl?sid=23/08/21/1235220&from=rss)
 * [2023-08-22, 03:38:00](https://soylentnews.org/article.pl?sid=23/08/21/1231239&from=rss) - [Intel's Downfall Mitigations Take a Significant Toll on CPU Performance, Early Testing Reveals](https://soylentnews.org/article.pl?sid=23/08/21/1231239&from=rss)
 * [2023-08-21, 22:55:00](https://soylentnews.org/article.pl?sid=23/08/21/1225240&from=rss) - [Research Shows Zinc-air Batteries Could be the Future of Powering Electric Vehicles](https://soylentnews.org/article.pl?sid=23/08/21/1225240&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-13, 09:38:00](https://soylentnews.org/article.pl?sid=23/08/12/2220232&from=rss) - [Two-Thirds of the World's Biodiversity Lives in the Soil](https://soylentnews.org/article.pl?sid=23/08/12/2220232&from=rss)
 * [2023-08-13, 04:53:00](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss) - [Regulators Give Green Light to Driverless Taxis in San Francisco](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss)
 * [2023-08-13, 00:04:00](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss) - [‘X Marks the Verb’](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss)
-* [2023-08-12, 19:12:00](https://soylentnews.org/article.pl?sid=23/08/11/1313207&from=rss) - [Getting AAA Games Working in Linux Sometimes Requires Concealing Your GPU](https://soylentnews.org/article.pl?sid=23/08/11/1313207&from=rss)
 
 ## [Archives](archives/index.md)
 
