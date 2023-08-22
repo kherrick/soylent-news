@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-22, 08:24:00](https://soylentnews.org/article.pl?sid=23/08/21/1235220&from=rss) - [Oracle, Suse, Others Form Openela Amid Red Hat Changes](https://soylentnews.org/article.pl?sid=23/08/21/1235220&from=rss)
 * [2023-08-22, 03:38:00](https://soylentnews.org/article.pl?sid=23/08/21/1231239&from=rss) - [Intel's Downfall Mitigations Take a Significant Toll on CPU Performance, Early Testing Reveals](https://soylentnews.org/article.pl?sid=23/08/21/1231239&from=rss)
 * [2023-08-21, 22:55:00](https://soylentnews.org/article.pl?sid=23/08/21/1225240&from=rss) - [Research Shows Zinc-air Batteries Could be the Future of Powering Electric Vehicles](https://soylentnews.org/article.pl?sid=23/08/21/1225240&from=rss)
 * [2023-08-21, 18:10:00](https://soylentnews.org/article.pl?sid=23/08/20/0120235&from=rss) - [Teens Hacked Boston Subway Cards to Get Infinite Free Rides - Different Response by MBTA](https://soylentnews.org/article.pl?sid=23/08/20/0120235&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-13, 04:53:00](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss) - [Regulators Give Green Light to Driverless Taxis in San Francisco](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss)
 * [2023-08-13, 00:04:00](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss) - [‘X Marks the Verb’](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss)
 * [2023-08-12, 19:12:00](https://soylentnews.org/article.pl?sid=23/08/11/1313207&from=rss) - [Getting AAA Games Working in Linux Sometimes Requires Concealing Your GPU](https://soylentnews.org/article.pl?sid=23/08/11/1313207&from=rss)
-* [2023-08-12, 14:25:00](https://soylentnews.org/article.pl?sid=23/08/11/1240223&from=rss) - [India's Defense Services Are Switching to GNU/Linux](https://soylentnews.org/article.pl?sid=23/08/11/1240223&from=rss)
 
 ## [Archives](archives/index.md)
 
