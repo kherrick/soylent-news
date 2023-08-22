@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-22, 17:51:00](https://soylentnews.org/article.pl?sid=23/08/21/1652219&from=rss) - [Tracing the Roots of the 8086 Instruction Set to the Datapoint 2200 Minicomputer](https://soylentnews.org/article.pl?sid=23/08/21/1652219&from=rss)
 * [2023-08-22, 13:09:00](https://soylentnews.org/article.pl?sid=23/08/21/1610207&from=rss) - [Eventually Everything Will Evaporate, Not Only Black Holes](https://soylentnews.org/article.pl?sid=23/08/21/1610207&from=rss)
 * [2023-08-22, 08:24:00](https://soylentnews.org/article.pl?sid=23/08/21/1235220&from=rss) - [Oracle, Suse, Others Form Openela Amid Red Hat Changes](https://soylentnews.org/article.pl?sid=23/08/21/1235220&from=rss)
 * [2023-08-22, 03:38:00](https://soylentnews.org/article.pl?sid=23/08/21/1231239&from=rss) - [Intel's Downfall Mitigations Take a Significant Toll on CPU Performance, Early Testing Reveals](https://soylentnews.org/article.pl?sid=23/08/21/1231239&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-13, 14:22:00](https://soylentnews.org/article.pl?sid=23/08/12/2310229&from=rss) - [Judge Denies HP's Request To Dismiss Printer Lockdown Suit](https://soylentnews.org/article.pl?sid=23/08/12/2310229&from=rss)
 * [2023-08-13, 09:38:00](https://soylentnews.org/article.pl?sid=23/08/12/2220232&from=rss) - [Two-Thirds of the World's Biodiversity Lives in the Soil](https://soylentnews.org/article.pl?sid=23/08/12/2220232&from=rss)
 * [2023-08-13, 04:53:00](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss) - [Regulators Give Green Light to Driverless Taxis in San Francisco](https://soylentnews.org/article.pl?sid=23/08/12/1933201&from=rss)
-* [2023-08-13, 00:04:00](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss) - [‘X Marks the Verb’](https://soylentnews.org/article.pl?sid=23/08/12/1047236&from=rss)
 
 ## [Archives](archives/index.md)
 
