@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 22:01:00](https://soylentnews.org/article.pl?sid=23/08/22/0220244&from=rss) - [Modders Just Changed GPU Overclocking Forever](https://soylentnews.org/article.pl?sid=23/08/22/0220244&from=rss)
 * [2023-08-23, 17:23:00](https://soylentnews.org/article.pl?sid=23/08/22/0224201&from=rss) - [Can Movie Reviews Predict Box Office Success?](https://soylentnews.org/article.pl?sid=23/08/22/0224201&from=rss)
 * [2023-08-23, 12:51:00](https://soylentnews.org/article.pl?sid=23/08/22/0216251&from=rss) - [Robot Vacuums Make Our Lives Easier, But Do They Deprive Us of Meaningful Experiences?](https://soylentnews.org/article.pl?sid=23/08/22/0216251&from=rss)
 * [2023-08-23, 08:06:00](https://soylentnews.org/article.pl?sid=23/08/22/0211218&from=rss) - [Virginia Data Center Development To Run On Nuclear Power, Hydrogen](https://soylentnews.org/article.pl?sid=23/08/22/0211218&from=rss)

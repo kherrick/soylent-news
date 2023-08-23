@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-23, 22:01:00](https://soylentnews.org/article.pl?sid=23/08/22/0220244&from=rss) - [Modders Just Changed GPU Overclocking Forever](https://soylentnews.org/article.pl?sid=23/08/22/0220244&from=rss)
 * [2023-08-23, 17:23:00](https://soylentnews.org/article.pl?sid=23/08/22/0224201&from=rss) - [Can Movie Reviews Predict Box Office Success?](https://soylentnews.org/article.pl?sid=23/08/22/0224201&from=rss)
 * [2023-08-23, 12:51:00](https://soylentnews.org/article.pl?sid=23/08/22/0216251&from=rss) - [Robot Vacuums Make Our Lives Easier, But Do They Deprive Us of Meaningful Experiences?](https://soylentnews.org/article.pl?sid=23/08/22/0216251&from=rss)
 * [2023-08-23, 08:06:00](https://soylentnews.org/article.pl?sid=23/08/22/0211218&from=rss) - [Virginia Data Center Development To Run On Nuclear Power, Hydrogen](https://soylentnews.org/article.pl?sid=23/08/22/0211218&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-14, 18:49:00](https://soylentnews.org/article.pl?sid=23/08/13/0438211&from=rss) - [A Close Look at the 8086 Processor's Bus Hold Circuitry](https://soylentnews.org/article.pl?sid=23/08/13/0438211&from=rss)
 * [2023-08-14, 14:04:00](https://soylentnews.org/article.pl?sid=23/08/13/0436247&from=rss) - [How an Unpatched Microsoft Exchange 0-Day Likely Caused One of the UK's Biggest Hacks Ever](https://soylentnews.org/article.pl?sid=23/08/13/0436247&from=rss)
 * [2023-08-14, 09:21:00](https://soylentnews.org/article.pl?sid=23/08/13/0428252&from=rss) - [Researchers Develop Method For Upcycling Plastic Waste Into Soap](https://soylentnews.org/article.pl?sid=23/08/13/0428252&from=rss)
-* [2023-08-14, 04:40:00](https://soylentnews.org/article.pl?sid=23/08/13/025252&from=rss) - [Asus Adds New Model To Raspberry Pi Rival Tinker Family](https://soylentnews.org/article.pl?sid=23/08/13/025252&from=rss)
 
 ## [Archives](archives/index.md)
 
