@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 19:00:00](https://soylentnews.org/meta/article.pl?sid=23/08/24/1756216&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, August 25th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/24/1756216&from=rss)
 * [2023-08-24, 17:11:00](https://soylentnews.org/article.pl?sid=23/08/23/1139213&from=rss) - [Anti-Piracy Group Takes Ai Training Dataset 'Books3′ Offline](https://soylentnews.org/article.pl?sid=23/08/23/1139213&from=rss)
 * [2023-08-24, 12:22:00](https://soylentnews.org/article.pl?sid=23/08/22/1331257&from=rss) - [Internet Archive's Legal Woes Mount as Record Labels Sue for $400M](https://soylentnews.org/article.pl?sid=23/08/22/1331257&from=rss)
 * [2023-08-24, 10:21:00](https://soylentnews.org/article.pl?sid=23/08/23/0527226&from=rss) - [RIP: Computer Graphics Pioneer John Warnock Dies At 82](https://soylentnews.org/article.pl?sid=23/08/23/0527226&from=rss)
