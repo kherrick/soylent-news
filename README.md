@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-24, 12:22:00](https://soylentnews.org/article.pl?sid=23/08/22/1331257&from=rss) - [Internet Archive's Legal Woes Mount as Record Labels Sue for $400M](https://soylentnews.org/article.pl?sid=23/08/22/1331257&from=rss)
 * [2023-08-24, 10:21:00](https://soylentnews.org/article.pl?sid=23/08/23/0527226&from=rss) - [RIP: Computer Graphics Pioneer John Warnock Dies At 82](https://soylentnews.org/article.pl?sid=23/08/23/0527226&from=rss)
 * [2023-08-24, 07:34:00](https://soylentnews.org/article.pl?sid=23/08/23/0522237&from=rss) - [Charging Capacitors From Thermal Fluctuations Using Diodes](https://soylentnews.org/article.pl?sid=23/08/23/0522237&from=rss)
 * [2023-08-24, 02:51:00](https://soylentnews.org/article.pl?sid=23/08/24/0051221&from=rss) - [India Makes Historic Landing Near Moon's South Pole](https://soylentnews.org/article.pl?sid=23/08/24/0051221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-15, 13:50:00](https://soylentnews.org/article.pl?sid=23/08/14/0257215&from=rss) - [Congress May Block the Public From Tracking Private Jets](https://soylentnews.org/article.pl?sid=23/08/14/0257215&from=rss)
 * [2023-08-15, 09:04:00](https://soylentnews.org/article.pl?sid=23/08/14/0254203&from=rss) - [Water Lilies May be a Surprise Hero in Our Fight Against Fungal Pathogens](https://soylentnews.org/article.pl?sid=23/08/14/0254203&from=rss)
 * [2023-08-15, 04:19:00](https://soylentnews.org/article.pl?sid=23/08/14/0242212&from=rss) - [How Fame-Seeking Teenagers Hacked Some of the World’s Biggest Targets](https://soylentnews.org/article.pl?sid=23/08/14/0242212&from=rss)
-* [2023-08-14, 23:33:00](https://soylentnews.org/article.pl?sid=23/08/14/0238207&from=rss) - [NASA Blames Clogged Lines For Moon Probe's End](https://soylentnews.org/article.pl?sid=23/08/14/0238207&from=rss)
 
 ## [Archives](archives/index.md)
 
