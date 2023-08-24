@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-24](index.md)
+
+* [2023-08-24, 02:51:00](https://soylentnews.org/article.pl?sid=23/08/24/0051221&from=rss) - [India Makes Historic Landing Near Moon's South Pole](https://soylentnews.org/article.pl?sid=23/08/24/0051221&from=rss)
