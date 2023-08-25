@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-25, 02:36:00](https://soylentnews.org/article.pl?sid=23/08/24/0037245&from=rss) - [The 26 Fundamental Constants in the Universe](https://soylentnews.org/article.pl?sid=23/08/24/0037245&from=rss)
 * [2023-08-24, 21:51:00](https://soylentnews.org/article.pl?sid=23/08/24/0036210&from=rss) - [US Judge: Art Created Solely by Artificial Intelligence Cannot be Copyrighted](https://soylentnews.org/article.pl?sid=23/08/24/0036210&from=rss)
 * [2023-08-24, 19:00:00](https://soylentnews.org/meta/article.pl?sid=23/08/24/1756216&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, August 25th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/24/1756216&from=rss)
 * [2023-08-24, 17:11:00](https://soylentnews.org/article.pl?sid=23/08/23/1139213&from=rss) - [Anti-Piracy Group Takes Ai Training Dataset 'Books3′ Offline](https://soylentnews.org/article.pl?sid=23/08/23/1139213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-16, 08:38:00](https://soylentnews.org/article.pl?sid=23/08/15/0140223&from=rss) - [Turns Out Streaming Isn't A Bargain Anymore](https://soylentnews.org/article.pl?sid=23/08/15/0140223&from=rss)
 * [2023-08-16, 03:55:00](https://soylentnews.org/meta/article.pl?sid=23/08/15/0126248&from=rss) - [Story Frequency](https://soylentnews.org/meta/article.pl?sid=23/08/15/0126248&from=rss)
 * [2023-08-15, 23:14:00](https://soylentnews.org/article.pl?sid=23/08/14/1332213&from=rss) - [Popular Open Source Project Moq Criticized for Quietly Collecting Data](https://soylentnews.org/article.pl?sid=23/08/14/1332213&from=rss)
-* [2023-08-15, 18:37:00](https://soylentnews.org/article.pl?sid=23/08/14/1319220&from=rss) - [Why NASA Is Psyched About These Weird Martian Mud Patterns](https://soylentnews.org/article.pl?sid=23/08/14/1319220&from=rss)
 
 ## [Archives](archives/index.md)
 
