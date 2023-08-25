@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-25, 21:16:00](https://soylentnews.org/article.pl?sid=23/08/24/1515229&from=rss) - [YouTube May Face Billions in Fines if FTC Confirms Child Privacy Violations](https://soylentnews.org/article.pl?sid=23/08/24/1515229&from=rss)
 * [2023-08-25, 16:30:00](https://soylentnews.org/article.pl?sid=23/08/24/043234&from=rss) - [Pre-Inca People Stomped Salutes To Their Thunder God On A Special Dance Floor](https://soylentnews.org/article.pl?sid=23/08/24/043234&from=rss)
 * [2023-08-25, 11:52:00](https://soylentnews.org/article.pl?sid=23/08/24/016236&from=rss) - [Microchips in the Parmigiano and Other Ways Europeans Are Fighting Fake Food](https://soylentnews.org/article.pl?sid=23/08/24/016236&from=rss)
 * [2023-08-25, 07:09:00](https://soylentnews.org/article.pl?sid=23/08/23/1116233&from=rss) - [Ötzi the Iceman Doesn't Look Like Museum Displays, Says New Genomic Study](https://soylentnews.org/article.pl?sid=23/08/23/1116233&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-17, 03:40:00](https://soylentnews.org/article.pl?sid=23/08/15/1158236&from=rss) - [The Internet Archive Reaches An Agreement With Publishers In Digital Book-Lending Case](https://soylentnews.org/article.pl?sid=23/08/15/1158236&from=rss)
 * [2023-08-16, 22:54:00](https://soylentnews.org/article.pl?sid=23/08/15/0545215&from=rss) - [The Bawdy Bard](https://soylentnews.org/article.pl?sid=23/08/15/0545215&from=rss)
 * [2023-08-16, 18:10:00](https://soylentnews.org/article.pl?sid=23/08/15/026200&from=rss) - [Great, Climate Change Will Even Make Food Poisoning Worse](https://soylentnews.org/article.pl?sid=23/08/15/026200&from=rss)
-* [2023-08-16, 13:23:00](https://soylentnews.org/article.pl?sid=23/08/15/0148245&from=rss) - [Illinois Just Made It Possible To Sue People For Doxxing Attacks](https://soylentnews.org/article.pl?sid=23/08/15/0148245&from=rss)
 
 ## [Archives](archives/index.md)
 
