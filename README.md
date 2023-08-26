@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-26, 16:26:00](https://soylentnews.org/article.pl?sid=23/08/25/1047241&from=rss) - [Hell Freezes Over as Apple Supports Right-to-Repair Bill](https://soylentnews.org/article.pl?sid=23/08/25/1047241&from=rss)
 * [2023-08-26, 11:33:00](https://soylentnews.org/article.pl?sid=23/08/25/0347215&from=rss) - [Crypto Botnet on X is Powered by ChatGPT](https://soylentnews.org/article.pl?sid=23/08/25/0347215&from=rss)
 * [2023-08-26, 06:51:00](https://soylentnews.org/article.pl?sid=23/08/25/0337211&from=rss) - [ICANN Warns UN May Sideline Techies From Internet Governance](https://soylentnews.org/article.pl?sid=23/08/25/0337211&from=rss)
 * [2023-08-26, 02:04:00](https://soylentnews.org/article.pl?sid=23/08/25/0329207&from=rss) - [Student Project Shows Sails Can De-Orbit Satellites Quickly](https://soylentnews.org/article.pl?sid=23/08/25/0329207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-17, 18:04:00](https://soylentnews.org/article.pl?sid=23/08/17/0354228&from=rss) - [MS Updating the Office UI (Again)](https://soylentnews.org/article.pl?sid=23/08/17/0354228&from=rss)
 * [2023-08-17, 17:00:00](https://soylentnews.org/meta/article.pl?sid=23/08/17/1533225&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, August 18th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/17/1533225&from=rss)
 * [2023-08-17, 13:12:00](https://soylentnews.org/article.pl?sid=23/08/16/1735244&from=rss) - [Another Reason to Stop Looking for Dark Matter](https://soylentnews.org/article.pl?sid=23/08/16/1735244&from=rss)
-* [2023-08-17, 08:24:00](https://soylentnews.org/article.pl?sid=23/08/16/1729257&from=rss) - [ISPs Complain That Listing Every Fee is Too Hard, Urge FCC to Scrap New Rule](https://soylentnews.org/article.pl?sid=23/08/16/1729257&from=rss)
 
 ## [Archives](archives/index.md)
 
