@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-26, 06:51:00](https://soylentnews.org/article.pl?sid=23/08/25/0337211&from=rss) - [ICANN Warns UN May Sideline Techies From Internet Governance](https://soylentnews.org/article.pl?sid=23/08/25/0337211&from=rss)
 * [2023-08-26, 02:04:00](https://soylentnews.org/article.pl?sid=23/08/25/0329207&from=rss) - [Student Project Shows Sails Can De-Orbit Satellites Quickly](https://soylentnews.org/article.pl?sid=23/08/25/0329207&from=rss)
 * [2023-08-25, 21:16:00](https://soylentnews.org/article.pl?sid=23/08/24/1515229&from=rss) - [YouTube May Face Billions in Fines if FTC Confirms Child Privacy Violations](https://soylentnews.org/article.pl?sid=23/08/24/1515229&from=rss)
 * [2023-08-25, 16:30:00](https://soylentnews.org/article.pl?sid=23/08/24/043234&from=rss) - [Pre-Inca People Stomped Salutes To Their Thunder God On A Special Dance Floor](https://soylentnews.org/article.pl?sid=23/08/24/043234&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-17, 13:12:00](https://soylentnews.org/article.pl?sid=23/08/16/1735244&from=rss) - [Another Reason to Stop Looking for Dark Matter](https://soylentnews.org/article.pl?sid=23/08/16/1735244&from=rss)
 * [2023-08-17, 08:24:00](https://soylentnews.org/article.pl?sid=23/08/16/1729257&from=rss) - [ISPs Complain That Listing Every Fee is Too Hard, Urge FCC to Scrap New Rule](https://soylentnews.org/article.pl?sid=23/08/16/1729257&from=rss)
 * [2023-08-17, 03:40:00](https://soylentnews.org/article.pl?sid=23/08/15/1158236&from=rss) - [The Internet Archive Reaches An Agreement With Publishers In Digital Book-Lending Case](https://soylentnews.org/article.pl?sid=23/08/15/1158236&from=rss)
-* [2023-08-16, 22:54:00](https://soylentnews.org/article.pl?sid=23/08/15/0545215&from=rss) - [The Bawdy Bard](https://soylentnews.org/article.pl?sid=23/08/15/0545215&from=rss)
 
 ## [Archives](archives/index.md)
 
