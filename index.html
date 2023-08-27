@@ -145,6 +145,79 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/08/25/1341222">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/08/25/1341222&amp;from=rss"
+              >Bypassing Bitlocker Using a Cheap Logic Analyzer on a Lenovo
+              Laptop</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-27 @ 06:39:00</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/08/25/1341222"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~owl/">owl</a> writes:</p>
+              <p>
+                <a href="https://www.errno.fr/BypassingBitlocker.html"
+                  >https://www.errno.fr/BypassingBitlocker.html</a
+                >
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Have you ever been told that the company's data on laptops
+                    is protected thanks to BitLocker? Well it turns out that
+                    this depends on BitLocker's configuration...
+                  </p>
+                  <p>
+                    The BitLocker partition is encrypted using the Full Volume
+                    Encryption Key (FVEK). The FVEK itself is encrypted using
+                    the Volume Master Key (VMK) and stored on the disk, next to
+                    the encrypted data. This permits key rotations without
+                    re-encrypting the whole disk.
+                  </p>
+                  <p>
+                    The VMK is stored in the TPM. Thus the disk can only be
+                    decrypted when booted from this computer (there is a
+                    recovery mechanism in Active Directory though).
+                  </p>
+                  <p>
+                    In order to decrypt the disk, the CPU will ask that the TPM
+                    sends the VMK over the SPI bus.
+                  </p>
+                  <p>
+                    The vulnerability should be obvious: at some point in the
+                    boot process, the VMK transits unencrypted between the TPM
+                    and the CPU. This means that it can be captured and used to
+                    decrypt the disk.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60628"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/08/25/1337255">
           <h3>
             <a
@@ -4804,62 +4877,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60553"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/08/17/0354228">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/08/17/0354228&amp;from=rss"
-              >MS Updating the Office UI (Again)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-17 @ 18:04:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1605</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/08/17/0354228"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~looorg/">looorg</a> writes:</p>
-              <p>
-                To improve productivity in the office MS-Office is getting a new
-                UI ... or well it's getting a new default font and some new
-                colours anyway. No more yellow! How this will improve
-                productivity or make people write or calculate or power-point
-                better is probably unclear, it's probably not even the purpose.
-                This seems like change for the sake of change.
-              </p>
-              <p>
-                Unfortunately they are making the default font a non-serif font
-                again, but they are changing the name cause you can't have a
-                font named "Beer Town" as the default font. Bring back Times New
-                Roman!
-              </p>
-              <p>
-                <a
-                  href="https://www.theverge.com/2023/8/14/23831190/microsoft-office-new-default-theme-font-release-date"
-                  >https://www.theverge.com/2023/8/14/23831190/microsoft-office-new-default-theme-font-release-date</a
-                >
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/meta/submit.pl?op=viewsub&amp;subid=60560"
                     >Original Submission</a
                   ></small
                 >
