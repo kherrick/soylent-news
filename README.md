@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-27, 11:24:00](https://soylentnews.org/article.pl?sid=23/08/25/1710229&from=rss) - [Tiktok Draft Agreement With CFIUS Shows Spying Requests](https://soylentnews.org/article.pl?sid=23/08/25/1710229&from=rss)
 * [2023-08-27, 06:39:00](https://soylentnews.org/article.pl?sid=23/08/25/1341222&from=rss) - [Bypassing Bitlocker Using a Cheap Logic Analyzer on a Lenovo Laptop](https://soylentnews.org/article.pl?sid=23/08/25/1341222&from=rss)
 * [2023-08-27, 01:55:00](https://soylentnews.org/article.pl?sid=23/08/25/1337255&from=rss) - [Physicists Use a 350-Year-Old Theorem to Reveal New Properties of Light Waves](https://soylentnews.org/article.pl?sid=23/08/25/1337255&from=rss)
 * [2023-08-26, 21:09:00](https://soylentnews.org/article.pl?sid=23/08/25/1051228&from=rss) - [Chris Hedges' Sermon on The Crucifixion of Julian Assange](https://soylentnews.org/article.pl?sid=23/08/25/1051228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-18, 13:59:00](https://soylentnews.org/article.pl?sid=23/08/17/058233&from=rss) - [Desert Ants Increase the Visibility of Their Nest Entrances in the Absence of Landmarks](https://soylentnews.org/article.pl?sid=23/08/17/058233&from=rss)
 * [2023-08-18, 08:18:00](https://soylentnews.org/article.pl?sid=23/08/17/0420206&from=rss) - [Engine Recall Forces Major Airlines To Ground Planes](https://soylentnews.org/article.pl?sid=23/08/17/0420206&from=rss)
 * [2023-08-18, 03:33:00](https://soylentnews.org/article.pl?sid=23/08/17/0415211&from=rss) - [Surprise Covid Discovery Helps Explain How Coronaviruses Jump Species](https://soylentnews.org/article.pl?sid=23/08/17/0415211&from=rss)
-* [2023-08-17, 22:49:00](https://soylentnews.org/article.pl?sid=23/08/17/0356211&from=rss) - [Men Willing to Pay More for Chocolate Than Women](https://soylentnews.org/article.pl?sid=23/08/17/0356211&from=rss)
 
 ## [Archives](archives/index.md)
 
