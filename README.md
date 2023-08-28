@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-28, 06:22:00](https://soylentnews.org/article.pl?sid=23/08/26/2346250&from=rss) - [The College Board Tells TikTok and Facebook Your SAT Scores](https://soylentnews.org/article.pl?sid=23/08/26/2346250&from=rss)
 * [2023-08-28, 01:34:00](https://soylentnews.org/article.pl?sid=23/08/26/1816207&from=rss) - [Zoom CEO Says Employees Need to be in the Office Because It's Hard to Build Trust Over Zoom](https://soylentnews.org/article.pl?sid=23/08/26/1816207&from=rss)
 * [2023-08-27, 20:47:00](https://soylentnews.org/article.pl?sid=23/08/26/218232&from=rss) - [Oil eating microbes reshape droplets to optimize biodegradation](https://soylentnews.org/article.pl?sid=23/08/26/218232&from=rss)
 * [2023-08-27, 16:03:00](https://soylentnews.org/article.pl?sid=23/08/26/2232234&from=rss) - [WinRAR 0-day That Uses Poisoned JPG and TXT Files Under Exploit Since April](https://soylentnews.org/article.pl?sid=23/08/26/2232234&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-19, 09:02:00](https://soylentnews.org/article.pl?sid=23/08/18/0412252&from=rss) - [NASA Installs Laser Communication System on Psyche Asteroid Probe](https://soylentnews.org/article.pl?sid=23/08/18/0412252&from=rss)
 * [2023-08-19, 04:16:00](https://soylentnews.org/article.pl?sid=23/08/18/048225&from=rss) - [Intel's GPU Drivers Now Collect Telemetry, Including 'How You Use Your Computer'](https://soylentnews.org/article.pl?sid=23/08/18/048225&from=rss)
 * [2023-08-18, 23:30:00](https://soylentnews.org/article.pl?sid=23/08/18/041219&from=rss) - [Ongoing Scam Tricks Kids Playing Roblox and Fortnite](https://soylentnews.org/article.pl?sid=23/08/18/041219&from=rss)
-* [2023-08-18, 18:45:00](https://soylentnews.org/article.pl?sid=23/08/17/1439256&from=rss) - [An Iowa School District is Using ChatGPT to Decide Which Books to Ban](https://soylentnews.org/article.pl?sid=23/08/17/1439256&from=rss)
 
 ## [Archives](archives/index.md)
 
