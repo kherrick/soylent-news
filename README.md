@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-29, 01:16:00](https://soylentnews.org/article.pl?sid=23/08/28/0038218&from=rss) - [BA.2.86 Shows Just How Risky Slacking Off on COVID Monitoring is](https://soylentnews.org/article.pl?sid=23/08/28/0038218&from=rss)
 * [2023-08-28, 20:26:00](https://soylentnews.org/article.pl?sid=23/08/28/0027229&from=rss) - [AI-Powered Brain Implants Help Paralyzed Patients Communicate Faster Than Ever](https://soylentnews.org/article.pl?sid=23/08/28/0027229&from=rss)
 * [2023-08-28, 15:43:00](https://soylentnews.org/article.pl?sid=23/08/27/0713257&from=rss) - [The Strange, Secretive World of North Korean Science Fiction](https://soylentnews.org/article.pl?sid=23/08/27/0713257&from=rss)
 * [2023-08-28, 11:03:00](https://soylentnews.org/article.pl?sid=23/08/27/074253&from=rss) - [Intelligent Brains Take Longer to Solve Difficult Problems](https://soylentnews.org/article.pl?sid=23/08/27/074253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-20, 04:12:00](https://soylentnews.org/article.pl?sid=23/08/19/1129240&from=rss) - [Debian, The Grandaddy Of Linux Operating Systems, Turns 30](https://soylentnews.org/article.pl?sid=23/08/19/1129240&from=rss)
 * [2023-08-19, 23:23:00](https://soylentnews.org/article.pl?sid=23/08/18/164216&from=rss) - [\"Hairy\" Magnetic Rust Particles Used to Remove Estrogen From Water](https://soylentnews.org/article.pl?sid=23/08/18/164216&from=rss)
 * [2023-08-19, 18:31:00](https://soylentnews.org/article.pl?sid=23/08/18/1539232&from=rss) - [Company That Makes Rent-Setting Software for Landlords Sued for Collusion](https://soylentnews.org/article.pl?sid=23/08/18/1539232&from=rss)
-* [2023-08-19, 13:47:00](https://soylentnews.org/article.pl?sid=23/08/18/0428259&from=rss) - [YouTube Tightens Thumbscrew to Crack Down on Ad-Blockers](https://soylentnews.org/article.pl?sid=23/08/18/0428259&from=rss)
 
 ## [Archives](archives/index.md)
 
