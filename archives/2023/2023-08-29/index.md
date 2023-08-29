@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 20:00:00](https://soylentnews.org/article.pl?sid=23/08/29/032240&from=rss) - [Longevity Gene from Naked Mole Rats Extends Lifespan of Mice](https://soylentnews.org/article.pl?sid=23/08/29/032240&from=rss)
 * [2023-08-29, 15:38:00](https://soylentnews.org/article.pl?sid=23/08/28/2314221&from=rss) - [Saving Moths May be Just as Important as Saving the Bees](https://soylentnews.org/article.pl?sid=23/08/28/2314221&from=rss)
 * [2023-08-29, 10:52:00](https://soylentnews.org/article.pl?sid=23/08/28/2311201&from=rss) - [Fukushima Wastewater Release Sparks Wave of Misinformation in China](https://soylentnews.org/article.pl?sid=23/08/28/2311201&from=rss)
 * [2023-08-29, 06:04:00](https://soylentnews.org/article.pl?sid=23/08/28/0046214&from=rss) - [A Space Junk Removal Mission Got Struck by Space Junk](https://soylentnews.org/article.pl?sid=23/08/28/0046214&from=rss)
