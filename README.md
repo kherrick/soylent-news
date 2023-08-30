@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-30, 19:24:00](https://soylentnews.org/article.pl?sid=23/08/30/037254&from=rss) - [Excel Gets Containerized, Cloud-based Python Analytics and Visualization Powers](https://soylentnews.org/article.pl?sid=23/08/30/037254&from=rss)
 * [2023-08-30, 14:40:00](https://soylentnews.org/article.pl?sid=23/08/30/031218&from=rss) - [A Century Online for $38k](https://soylentnews.org/article.pl?sid=23/08/30/031218&from=rss)
 * [2023-08-30, 09:58:00](https://soylentnews.org/article.pl?sid=23/08/29/051216&from=rss) - [Facing Failure After Failure, Microsoft’s Driver-signing Program Fails Yet Again](https://soylentnews.org/article.pl?sid=23/08/29/051216&from=rss)
 * [2023-08-30, 05:15:00](https://soylentnews.org/article.pl?sid=23/08/29/0317225&from=rss) - [Wildlife Officials Say Spacex Launch Left Behind Significant Damage](https://soylentnews.org/article.pl?sid=23/08/29/0317225&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-21, 22:55:00](https://soylentnews.org/article.pl?sid=23/08/21/1225240&from=rss) - [Research Shows Zinc-air Batteries Could be the Future of Powering Electric Vehicles](https://soylentnews.org/article.pl?sid=23/08/21/1225240&from=rss)
 * [2023-08-21, 18:10:00](https://soylentnews.org/article.pl?sid=23/08/20/0120235&from=rss) - [Teens Hacked Boston Subway Cards to Get Infinite Free Rides - Different Response by MBTA](https://soylentnews.org/article.pl?sid=23/08/20/0120235&from=rss)
 * [2023-08-21, 13:25:00](https://soylentnews.org/article.pl?sid=23/08/20/0156220&from=rss) - [Microsoft Pulls AI-Generated Article Recommending Ottawa Food Bank to Tourists](https://soylentnews.org/article.pl?sid=23/08/20/0156220&from=rss)
-* [2023-08-21, 08:44:00](https://soylentnews.org/article.pl?sid=23/08/20/0150219&from=rss) - [To Battle New Threats, Spy Agencies to Share More Intelligence With Private Sector](https://soylentnews.org/article.pl?sid=23/08/20/0150219&from=rss)
 
 ## [Archives](archives/index.md)
 
