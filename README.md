@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-30, 09:58:00](https://soylentnews.org/article.pl?sid=23/08/29/051216&from=rss) - [Facing Failure After Failure, Microsoft’s Driver-signing Program Fails Yet Again](https://soylentnews.org/article.pl?sid=23/08/29/051216&from=rss)
 * [2023-08-30, 05:15:00](https://soylentnews.org/article.pl?sid=23/08/29/0317225&from=rss) - [Wildlife Officials Say Spacex Launch Left Behind Significant Damage](https://soylentnews.org/article.pl?sid=23/08/29/0317225&from=rss)
 * [2023-08-30, 00:39:00](https://soylentnews.org/article.pl?sid=23/08/29/0310214&from=rss) - [Married Men Less Prone to Workplace Burnout](https://soylentnews.org/article.pl?sid=23/08/29/0310214&from=rss)
 * [2023-08-29, 20:00:00](https://soylentnews.org/article.pl?sid=23/08/29/032240&from=rss) - [Longevity Gene from Naked Mole Rats Extends Lifespan of Mice](https://soylentnews.org/article.pl?sid=23/08/29/032240&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-21, 13:25:00](https://soylentnews.org/article.pl?sid=23/08/20/0156220&from=rss) - [Microsoft Pulls AI-Generated Article Recommending Ottawa Food Bank to Tourists](https://soylentnews.org/article.pl?sid=23/08/20/0156220&from=rss)
 * [2023-08-21, 08:44:00](https://soylentnews.org/article.pl?sid=23/08/20/0150219&from=rss) - [To Battle New Threats, Spy Agencies to Share More Intelligence With Private Sector](https://soylentnews.org/article.pl?sid=23/08/20/0150219&from=rss)
 * [2023-08-21, 04:02:00](https://soylentnews.org/article.pl?sid=23/08/20/0138255&from=rss) - [Common Alzheimer's Disease Gene May Have Helped Our Ancestors Have More Kids](https://soylentnews.org/article.pl?sid=23/08/20/0138255&from=rss)
-* [2023-08-20, 23:14:00](https://soylentnews.org/article.pl?sid=23/08/19/2319201&from=rss) - [DARPA Launches Study On Starting A Lunar Economy In 10 Years](https://soylentnews.org/article.pl?sid=23/08/19/2319201&from=rss)
 
 ## [Archives](archives/index.md)
 
