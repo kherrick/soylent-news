@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-31](index.md)
+
+* [2023-08-31, 00:10:00](https://soylentnews.org/article.pl?sid=23/08/30/0311255&from=rss) - [Discovered in the Deep: An Octopus's Garden in the Shade](https://soylentnews.org/article.pl?sid=23/08/30/0311255&from=rss)
