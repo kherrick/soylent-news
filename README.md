@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-08-31, 14:23:00](https://soylentnews.org/article.pl?sid=23/08/31/0152248&from=rss) - [Polish Rail Traffic Interrupted by Intentional Radio Interference](https://soylentnews.org/article.pl?sid=23/08/31/0152248&from=rss)
 * [2023-08-31, 09:38:00](https://soylentnews.org/article.pl?sid=23/08/31/0147229&from=rss) - [Tourists Give Themselves Away by Looking Up, but So Do Most Network Intruders](https://soylentnews.org/article.pl?sid=23/08/31/0147229&from=rss)
 * [2023-08-31, 04:57:00](https://soylentnews.org/article.pl?sid=23/08/30/0321230&from=rss) - [Development Delays Linked To Babies With Excessive Screen Time](https://soylentnews.org/article.pl?sid=23/08/30/0321230&from=rss)
 * [2023-08-31, 00:10:00](https://soylentnews.org/article.pl?sid=23/08/30/0311255&from=rss) - [Discovered in the Deep: An Octopus's Garden in the Shade](https://soylentnews.org/article.pl?sid=23/08/30/0311255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-22, 17:51:00](https://soylentnews.org/article.pl?sid=23/08/21/1652219&from=rss) - [Tracing the Roots of the 8086 Instruction Set to the Datapoint 2200 Minicomputer](https://soylentnews.org/article.pl?sid=23/08/21/1652219&from=rss)
 * [2023-08-22, 13:09:00](https://soylentnews.org/article.pl?sid=23/08/21/1610207&from=rss) - [Eventually Everything Will Evaporate, Not Only Black Holes](https://soylentnews.org/article.pl?sid=23/08/21/1610207&from=rss)
 * [2023-08-22, 08:24:00](https://soylentnews.org/article.pl?sid=23/08/21/1235220&from=rss) - [Oracle, Suse, Others Form Openela Amid Red Hat Changes](https://soylentnews.org/article.pl?sid=23/08/21/1235220&from=rss)
-* [2023-08-22, 03:38:00](https://soylentnews.org/article.pl?sid=23/08/21/1231239&from=rss) - [Intel's Downfall Mitigations Take a Significant Toll on CPU Performance, Early Testing Reveals](https://soylentnews.org/article.pl?sid=23/08/21/1231239&from=rss)
 
 ## [Archives](archives/index.md)
 
