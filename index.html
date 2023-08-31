@@ -145,6 +145,101 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/08/31/0152248">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/08/31/0152248&amp;from=rss"
+              >Polish Rail Traffic Interrupted by Intentional Radio
+              Interference</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-31 @ 14:23:00</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/08/31/0152248"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                My understanding is that ATCS was unencrypted and could be
+                easily monitored in the locations where it was installed. Not
+                all locations had ATCS installed, meaning that some subdivisions
+                might have ATCS while others did not. More recently, companies
+                like BNSF have been
+                <a
+                  href="https://www.trainorders.com/discussion/read.php?1,5285762"
+                  >phasing out ATCS</a
+                >
+                in favor of new systems,
+                <a
+                  href="https://www.trainorders.com/discussion/read.php?1,5619802"
+                  >many of which are encrypted</a
+                >. I believe that ATCS was broadcast at frequencies around 900
+                MHz and was unencrypted, whereas PTC signals are broadcast at
+                much
+                <a
+                  href="https://www.trainorders.com/discussion/read.php?9,5408367"
+                  >lower frequencies around 200 MHz and are encrypted</a
+                >. Although the encryption provides a greater level of security,
+                and presumably systems still are engineered to default to
+                stopping trains if the signaling systems aren't functioning,
+                these changes also make it much more difficult to track the
+                movement of trains for anyone who doesn't have the encryption
+                keys.
+              </p>
+              <p>
+                Perhaps I'm misunderstanding some aspect of the system, but is
+                there anything that would prevent a radio-based signaling system
+                from using public key encryption? For example, a company like
+                BNSF would have a private key for signals from their dispatchers
+                and trains. Any trains operating on one of BNSF's subdivisions,
+                whether BNSF, UP, Amtrak, or any other trains could then use
+                BNSF's public key to decrypt the signals, verify that they were
+                actually sent by the dispatcher, and then act accordingly on the
+                signal. Any trains operating on the subdivision could use their
+                owner's private key to send their location, speed, and any other
+                information. For example, an Amtrak train operating on a BNSF
+                subdivision would use the Amtrak private key to encrypt their
+                data, but anyone with Amtrak's public key, including the BNSF
+                dispatcher, could verify that the data was actually sent by the
+                Amtrak train. This seems like it would make interoperability
+                easier because it wouldn't require sharing the private key with
+                other train operators using BNSF's subdivisions.
+              </p>
+              <p>
+                Public keys could be freely shared with everyone, meaning that
+                the public could also monitor train locations and signals but
+                would not easily be able to spoof the signals. It would be
+                necessary to ensure that the signaling system wouldn't be
+                vulnerable to recording and repeating an earlier encrypted
+                command, but it's not clear that a public key system would be
+                inherently more vulnerable to a repetition attack. I am curious
+                if anyone knows why a system like this isn't implemented on US
+                railroads, which should prevent attacks like what happened in
+                Poland, but without locking out the public from monitoring train
+                signals.
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60654"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/08/31/0147229">
           <h3>
             <a
@@ -158,12 +253,12 @@
             <h4>
               <span>2023-08-31 @ 09:38:00</span
               ><span class="points-container"
-                >Points: <span class="points">338</span></span
+                >Points: <span class="points">354</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/31/0147229"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -240,7 +335,7 @@
             <h4>
               <span>2023-08-31 @ 04:57:00</span
               ><span class="points-container"
-                >Points: <span class="points">424</span></span
+                >Points: <span class="points">434</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/30/0321230"
@@ -319,7 +414,7 @@
             <h4>
               <span>2023-08-31 @ 00:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">419</span></span
+                >Points: <span class="points">424</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/30/0311255"
@@ -384,7 +479,7 @@
             <h4>
               <span>2023-08-30 @ 19:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">695</span></span
+                >Points: <span class="points">701</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/30/037254"
@@ -485,7 +580,7 @@
             <h4>
               <span>2023-08-30 @ 14:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">904</span></span
+                >Points: <span class="points">911</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/30/031218"
@@ -552,7 +647,7 @@
             <h4>
               <span>2023-08-30 @ 09:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">1091</span></span
+                >Points: <span class="points">1098</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/29/051216"
@@ -643,7 +738,7 @@
             <h4>
               <span>2023-08-30 @ 05:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">1181</span></span
+                >Points: <span class="points">1185</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/29/0317225"
@@ -855,7 +950,7 @@
             <h4>
               <span>2023-08-29 @ 20:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">821</span></span
+                >Points: <span class="points">822</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/29/032240"
@@ -1200,7 +1295,7 @@
             <h4>
               <span>2023-08-29 @ 01:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">1625</span></span
+                >Points: <span class="points">1626</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/28/0038218"
@@ -1596,7 +1691,7 @@
             <h4>
               <span>2023-08-28 @ 01:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">1299</span></span
+                >Points: <span class="points">1300</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/26/1816207"
@@ -4438,7 +4533,7 @@
             <h4>
               <span>2023-08-22 @ 13:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">1196</span></span
+                >Points: <span class="points">1197</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/08/21/1610207"
@@ -4648,104 +4743,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60547"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/08/21/1231239">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/08/21/1231239&amp;from=rss"
-              >Intel's Downfall Mitigations Take a Significant Toll on CPU
-              Performance, Early Testing Reveals</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-22 @ 03:38:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1038</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/08/21/1231239"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                <a href="//soylentnews.org/~Arthur+T+Knackerbracket/"
-                  >Arthur T Knackerbracket</a
-                >
-                writes:
-              </p>
-              <p>
-                Arthur T Knackerbracket has processed the
-                <a
-                  href="https://www.techspot.com/news/99759-intel-downfall-mitigations-take-toll-cpu-performance-early.html"
-                  >following story</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    A recently discovered security vulnerability impacting
-                    select Intel CPUs released between 2015 and 2019 has been
-                    patched thanks to a new software-level microcode update.
-                    Unfortunately, early testing has revealed some pretty
-                    significant performance penalties introduced by the
-                    mitigation effort.
-                  </p>
-                  <p>
-                    Rob published a
-                    <a
-                      href="https://www.techspot.com/news/99715-new-downfall-vulnerability-can-steal-passwords-encryption-keys.html"
-                      >comprehensive report</a
-                    >
-                    on Downfall yesterday. For the sake of brevity, I'll simply
-                    direct you to his article should you need to get up to speed
-                    on the vulnerability. Intel also has a list of
-                    <a
-                      href="https://www.intel.com/content/www/us/en/developer/topic-technology/software-security-guidance/processors-affected-consolidated-product-cpu-model.html"
-                      >affected processors</a
-                    >.
-                  </p>
-                  <p>
-                    Michael Larabel from
-                    <a
-                      href="https://www.phoronix.com/review/intel-downfall-benchmarks"
-                      >Phoronix</a
-                    >
-                    has put the microcode update to the test using a variety of
-                    processors including a pair of Xeon Platinum 8380 chips, a
-                    Xeon Gold 6226R, and a Core i7-1165G7 across multiple
-                    workloads in Linux.
-                  </p>
-                  <p>
-                    [...] . It's worth noting that there is an opt-out mechanism
-                    in the microcode that allows users to disable the mitigation
-                    should they deem the performance hit too steep or don't
-                    believe they operate in an environment where they'd be
-                    susceptible to an attack. As Tom's Hardware
-                    <a
-                      href="https://www.tomshardware.com/news/intel-downfall-mitigation-performance-drop-linux"
-                      >notes</a
-                    >, the complexity of the attack could also play into your
-                    decision on whether or not to bypass the mitigation.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=60523"
                     >Original Submission</a
                   ></small
                 >
