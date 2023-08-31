@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 22:30:00](https://soylentnews.org/meta/article.pl?sid=23/08/31/2157249&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, September 1st 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/31/2157249&from=rss)
 * [2023-08-31, 19:05:00](https://soylentnews.org/article.pl?sid=23/08/31/0156226&from=rss) - [AI Goes to College](https://soylentnews.org/article.pl?sid=23/08/31/0156226&from=rss)
 * [2023-08-31, 14:23:00](https://soylentnews.org/article.pl?sid=23/08/31/0152248&from=rss) - [Polish Rail Traffic Interrupted by Intentional Radio Interference](https://soylentnews.org/article.pl?sid=23/08/31/0152248&from=rss)
 * [2023-08-31, 09:38:00](https://soylentnews.org/article.pl?sid=23/08/31/0147229&from=rss) - [Tourists Give Themselves Away by Looking Up, but So Do Most Network Intruders](https://soylentnews.org/article.pl?sid=23/08/31/0147229&from=rss)
