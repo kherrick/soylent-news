@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-01, 13:41:00](https://soylentnews.org/article.pl?sid=23/08/31/0756210&from=rss) - [Gentle Cleansers Kill Viruses as Effectively as Harsh Soaps](https://soylentnews.org/article.pl?sid=23/08/31/0756210&from=rss)
 * [2023-09-01, 09:03:00](https://soylentnews.org/article.pl?sid=23/08/31/0754259&from=rss) - [FCC Says “Too Bad” to ISPs Complaining That Listing Every Fee is Too Hard](https://soylentnews.org/article.pl?sid=23/08/31/0754259&from=rss)
 * [2023-09-01, 04:16:00](https://soylentnews.org/article.pl?sid=23/08/31/0211207&from=rss) - [Samsung Realizes Behaving Ethically is Good for Business](https://soylentnews.org/article.pl?sid=23/08/31/0211207&from=rss)
 * [2023-08-31, 23:49:00](https://soylentnews.org/article.pl?sid=23/08/31/021218&from=rss) - [Non-Gas Giant Has 73 Times Earth's Mass, Bewildering its Discoverers](https://soylentnews.org/article.pl?sid=23/08/31/021218&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-23, 22:01:00](https://soylentnews.org/article.pl?sid=23/08/22/0220244&from=rss) - [Modders Just Changed GPU Overclocking Forever](https://soylentnews.org/article.pl?sid=23/08/22/0220244&from=rss)
 * [2023-08-23, 17:23:00](https://soylentnews.org/article.pl?sid=23/08/22/0224201&from=rss) - [Can Movie Reviews Predict Box Office Success?](https://soylentnews.org/article.pl?sid=23/08/22/0224201&from=rss)
 * [2023-08-23, 12:51:00](https://soylentnews.org/article.pl?sid=23/08/22/0216251&from=rss) - [Robot Vacuums Make Our Lives Easier, But Do They Deprive Us of Meaningful Experiences?](https://soylentnews.org/article.pl?sid=23/08/22/0216251&from=rss)
-* [2023-08-23, 08:06:00](https://soylentnews.org/article.pl?sid=23/08/22/0211218&from=rss) - [Virginia Data Center Development To Run On Nuclear Power, Hydrogen](https://soylentnews.org/article.pl?sid=23/08/22/0211218&from=rss)
 
 ## [Archives](archives/index.md)
 
