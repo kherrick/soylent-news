@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-01, 04:16:00](https://soylentnews.org/article.pl?sid=23/08/31/0211207&from=rss) - [Samsung Realizes Behaving Ethically is Good for Business](https://soylentnews.org/article.pl?sid=23/08/31/0211207&from=rss)
 * [2023-08-31, 23:49:00](https://soylentnews.org/article.pl?sid=23/08/31/021218&from=rss) - [Non-Gas Giant Has 73 Times Earth's Mass, Bewildering its Discoverers](https://soylentnews.org/article.pl?sid=23/08/31/021218&from=rss)
 * [2023-08-31, 22:30:00](https://soylentnews.org/meta/article.pl?sid=23/08/31/2157249&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, September 1st 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/31/2157249&from=rss)
 * [2023-08-31, 19:05:00](https://soylentnews.org/article.pl?sid=23/08/31/0156226&from=rss) - [AI Goes to College](https://soylentnews.org/article.pl?sid=23/08/31/0156226&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-23, 12:51:00](https://soylentnews.org/article.pl?sid=23/08/22/0216251&from=rss) - [Robot Vacuums Make Our Lives Easier, But Do They Deprive Us of Meaningful Experiences?](https://soylentnews.org/article.pl?sid=23/08/22/0216251&from=rss)
 * [2023-08-23, 08:06:00](https://soylentnews.org/article.pl?sid=23/08/22/0211218&from=rss) - [Virginia Data Center Development To Run On Nuclear Power, Hydrogen](https://soylentnews.org/article.pl?sid=23/08/22/0211218&from=rss)
 * [2023-08-23, 03:21:00](https://soylentnews.org/article.pl?sid=23/08/21/2252221&from=rss) - [Report: Potential NYT lawsuit could force OpenAI to wipe ChatGPT and start over](https://soylentnews.org/article.pl?sid=23/08/21/2252221&from=rss)
-* [2023-08-22, 22:36:00](https://soylentnews.org/article.pl?sid=23/08/21/2242219&from=rss) - [Google Announces New Algorithm That Makes FIDO Encryption Safe From Quantum Computers](https://soylentnews.org/article.pl?sid=23/08/21/2242219&from=rss)
 
 ## [Archives](archives/index.md)
 
