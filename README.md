@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-02, 03:53:00](https://soylentnews.org/article.pl?sid=23/08/31/2226237&from=rss) - [Hackers Force Shutdown Of Two Key Astronomical Observatories](https://soylentnews.org/article.pl?sid=23/08/31/2226237&from=rss)
 * [2023-09-01, 23:07:00](https://soylentnews.org/article.pl?sid=23/08/31/2215205&from=rss) - [Biological Clocks of People and Malaria Parasites Tick in Tune](https://soylentnews.org/article.pl?sid=23/08/31/2215205&from=rss)
 * [2023-09-01, 18:21:00](https://soylentnews.org/article.pl?sid=23/08/31/082239&from=rss) - [Hacking the LG Monitor's EDID.Md](https://soylentnews.org/article.pl?sid=23/08/31/082239&from=rss)
 * [2023-09-01, 13:41:00](https://soylentnews.org/article.pl?sid=23/08/31/0756210&from=rss) - [Gentle Cleansers Kill Viruses as Effectively as Harsh Soaps](https://soylentnews.org/article.pl?sid=23/08/31/0756210&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-24, 10:21:00](https://soylentnews.org/article.pl?sid=23/08/23/0527226&from=rss) - [RIP: Computer Graphics Pioneer John Warnock Dies At 82](https://soylentnews.org/article.pl?sid=23/08/23/0527226&from=rss)
 * [2023-08-24, 07:34:00](https://soylentnews.org/article.pl?sid=23/08/23/0522237&from=rss) - [Charging Capacitors From Thermal Fluctuations Using Diodes](https://soylentnews.org/article.pl?sid=23/08/23/0522237&from=rss)
 * [2023-08-24, 02:51:00](https://soylentnews.org/article.pl?sid=23/08/24/0051221&from=rss) - [India Makes Historic Landing Near Moon's South Pole](https://soylentnews.org/article.pl?sid=23/08/24/0051221&from=rss)
-* [2023-08-23, 22:01:00](https://soylentnews.org/article.pl?sid=23/08/22/0220244&from=rss) - [Modders Just Changed GPU Overclocking Forever](https://soylentnews.org/article.pl?sid=23/08/22/0220244&from=rss)
 
 ## [Archives](archives/index.md)
 
