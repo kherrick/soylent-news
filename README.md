@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-02, 22:33:00](https://soylentnews.org/article.pl?sid=23/09/01/2130239&from=rss) - [ Arm Wrestles Assembly Language Guru's Domains away Citing Trademark Issues](https://soylentnews.org/article.pl?sid=23/09/01/2130239&from=rss)
 * [2023-09-02, 17:55:00](https://soylentnews.org/article.pl?sid=23/09/01/2058241&from=rss) - [Which Came First: The Reptile or the Egg?](https://soylentnews.org/article.pl?sid=23/09/01/2058241&from=rss)
 * [2023-09-02, 13:15:00](https://soylentnews.org/article.pl?sid=23/09/01/2052239&from=rss) - [19-Hour Days for a Billion Years of Earth's History](https://soylentnews.org/article.pl?sid=23/09/01/2052239&from=rss)
 * [2023-09-02, 08:35:00](https://soylentnews.org/article.pl?sid=23/09/01/1835255&from=rss) - [Earth Was Created Faster Than We Thought](https://soylentnews.org/article.pl?sid=23/09/01/1835255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-24, 21:51:00](https://soylentnews.org/article.pl?sid=23/08/24/0036210&from=rss) - [US Judge: Art Created Solely by Artificial Intelligence Cannot be Copyrighted](https://soylentnews.org/article.pl?sid=23/08/24/0036210&from=rss)
 * [2023-08-24, 19:00:00](https://soylentnews.org/meta/article.pl?sid=23/08/24/1756216&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, August 25th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/24/1756216&from=rss)
 * [2023-08-24, 17:11:00](https://soylentnews.org/article.pl?sid=23/08/23/1139213&from=rss) - [Anti-Piracy Group Takes Ai Training Dataset 'Books3′ Offline](https://soylentnews.org/article.pl?sid=23/08/23/1139213&from=rss)
-* [2023-08-24, 12:22:00](https://soylentnews.org/article.pl?sid=23/08/22/1331257&from=rss) - [Internet Archive's Legal Woes Mount as Record Labels Sue for $400M](https://soylentnews.org/article.pl?sid=23/08/22/1331257&from=rss)
 
 ## [Archives](archives/index.md)
 
