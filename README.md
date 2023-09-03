@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-03, 17:31:00](https://soylentnews.org/article.pl?sid=23/09/02/2256228&from=rss) - [Webb Telescope Detects Universe’s Most Distant Organic Molecules](https://soylentnews.org/article.pl?sid=23/09/02/2256228&from=rss)
 * [2023-09-03, 12:46:00](https://soylentnews.org/article.pl?sid=23/09/02/2254257&from=rss) - [Metaverse Could Put a Dent in Global Warming](https://soylentnews.org/article.pl?sid=23/09/02/2254257&from=rss)
 * [2023-09-03, 08:01:00](https://soylentnews.org/article.pl?sid=23/09/02/1552215&from=rss) - [Why Did Old Phone Numbers Start With Letters?](https://soylentnews.org/article.pl?sid=23/09/02/1552215&from=rss)
 * [2023-09-03, 03:18:00](https://soylentnews.org/article.pl?sid=23/09/02/0313212&from=rss) - [Nuclear Weapon Tests Have Made Boars Too Radioactive To Eat](https://soylentnews.org/article.pl?sid=23/09/02/0313212&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-25, 16:30:00](https://soylentnews.org/article.pl?sid=23/08/24/043234&from=rss) - [Pre-Inca People Stomped Salutes To Their Thunder God On A Special Dance Floor](https://soylentnews.org/article.pl?sid=23/08/24/043234&from=rss)
 * [2023-08-25, 11:52:00](https://soylentnews.org/article.pl?sid=23/08/24/016236&from=rss) - [Microchips in the Parmigiano and Other Ways Europeans Are Fighting Fake Food](https://soylentnews.org/article.pl?sid=23/08/24/016236&from=rss)
 * [2023-08-25, 07:09:00](https://soylentnews.org/article.pl?sid=23/08/23/1116233&from=rss) - [Ötzi the Iceman Doesn't Look Like Museum Displays, Says New Genomic Study](https://soylentnews.org/article.pl?sid=23/08/23/1116233&from=rss)
-* [2023-08-25, 02:36:00](https://soylentnews.org/article.pl?sid=23/08/24/0037245&from=rss) - [The 26 Fundamental Constants in the Universe](https://soylentnews.org/article.pl?sid=23/08/24/0037245&from=rss)
 
 ## [Archives](archives/index.md)
 
