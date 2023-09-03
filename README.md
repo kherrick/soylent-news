@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-03, 22:18:00](https://soylentnews.org/article.pl?sid=23/09/02/230227&from=rss) - [IBM Promised to Back Off Facial Recognition - Then It Signed a $69.8 Million Contract to Provide It](https://soylentnews.org/article.pl?sid=23/09/02/230227&from=rss)
 * [2023-09-03, 17:31:00](https://soylentnews.org/article.pl?sid=23/09/02/2256228&from=rss) - [Webb Telescope Detects Universe’s Most Distant Organic Molecules](https://soylentnews.org/article.pl?sid=23/09/02/2256228&from=rss)
 * [2023-09-03, 12:46:00](https://soylentnews.org/article.pl?sid=23/09/02/2254257&from=rss) - [Metaverse Could Put a Dent in Global Warming](https://soylentnews.org/article.pl?sid=23/09/02/2254257&from=rss)
 * [2023-09-03, 08:01:00](https://soylentnews.org/article.pl?sid=23/09/02/1552215&from=rss) - [Why Did Old Phone Numbers Start With Letters?](https://soylentnews.org/article.pl?sid=23/09/02/1552215&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-25, 21:16:00](https://soylentnews.org/article.pl?sid=23/08/24/1515229&from=rss) - [YouTube May Face Billions in Fines if FTC Confirms Child Privacy Violations](https://soylentnews.org/article.pl?sid=23/08/24/1515229&from=rss)
 * [2023-08-25, 16:30:00](https://soylentnews.org/article.pl?sid=23/08/24/043234&from=rss) - [Pre-Inca People Stomped Salutes To Their Thunder God On A Special Dance Floor](https://soylentnews.org/article.pl?sid=23/08/24/043234&from=rss)
 * [2023-08-25, 11:52:00](https://soylentnews.org/article.pl?sid=23/08/24/016236&from=rss) - [Microchips in the Parmigiano and Other Ways Europeans Are Fighting Fake Food](https://soylentnews.org/article.pl?sid=23/08/24/016236&from=rss)
-* [2023-08-25, 07:09:00](https://soylentnews.org/article.pl?sid=23/08/23/1116233&from=rss) - [Ötzi the Iceman Doesn't Look Like Museum Displays, Says New Genomic Study](https://soylentnews.org/article.pl?sid=23/08/23/1116233&from=rss)
 
 ## [Archives](archives/index.md)
 
