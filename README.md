@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-05, 07:25:00](https://soylentnews.org/article.pl?sid=23/09/04/1249217&from=rss) - [Live Worm Found in Australian Woman's Brain in World First](https://soylentnews.org/article.pl?sid=23/09/04/1249217&from=rss)
 * [2023-09-05, 02:38:00](https://soylentnews.org/article.pl?sid=23/09/04/1228216&from=rss) - [FBI Hoovering Up DNA at a Pace That Rivals China, Holds 21 Million Samples and Counting](https://soylentnews.org/article.pl?sid=23/09/04/1228216&from=rss)
 * [2023-09-04, 21:56:00](https://soylentnews.org/article.pl?sid=23/09/03/1747223&from=rss) - [Research Challenges Notion That Heavy Drinkers \"Hold Their Liquor\" Better](https://soylentnews.org/article.pl?sid=23/09/03/1747223&from=rss)
 * [2023-09-04, 17:12:00](https://soylentnews.org/article.pl?sid=23/09/03/1745210&from=rss) - [X (Née Twitter) Wants to Collect Your Biometric Data and Employment History](https://soylentnews.org/article.pl?sid=23/09/03/1745210&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-27, 06:39:00](https://soylentnews.org/article.pl?sid=23/08/25/1341222&from=rss) - [Bypassing Bitlocker Using a Cheap Logic Analyzer on a Lenovo Laptop](https://soylentnews.org/article.pl?sid=23/08/25/1341222&from=rss)
 * [2023-08-27, 01:55:00](https://soylentnews.org/article.pl?sid=23/08/25/1337255&from=rss) - [Physicists Use a 350-Year-Old Theorem to Reveal New Properties of Light Waves](https://soylentnews.org/article.pl?sid=23/08/25/1337255&from=rss)
 * [2023-08-26, 21:09:00](https://soylentnews.org/article.pl?sid=23/08/25/1051228&from=rss) - [Chris Hedges' Sermon on The Crucifixion of Julian Assange](https://soylentnews.org/article.pl?sid=23/08/25/1051228&from=rss)
-* [2023-08-26, 16:26:00](https://soylentnews.org/article.pl?sid=23/08/25/1047241&from=rss) - [Hell Freezes Over as Apple Supports Right-to-Repair Bill](https://soylentnews.org/article.pl?sid=23/08/25/1047241&from=rss)
 
 ## [Archives](archives/index.md)
 
