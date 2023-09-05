@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-05, 21:42:00](https://soylentnews.org/article.pl?sid=23/09/04/136220&from=rss) - [U.S. Bans Sales of Nvidia's H100, A100 GPUs to Middle East](https://soylentnews.org/article.pl?sid=23/09/04/136220&from=rss)
 * [2023-09-05, 16:53:00](https://soylentnews.org/article.pl?sid=23/09/04/133234&from=rss) - [Right to Repair's Unlikely New Adversary: Scientologists](https://soylentnews.org/article.pl?sid=23/09/04/133234&from=rss)
 * [2023-09-05, 12:13:00](https://soylentnews.org/article.pl?sid=23/09/04/1258258&from=rss) - [It Costs Just $400 to Build an AI Disinformation Machine](https://soylentnews.org/article.pl?sid=23/09/04/1258258&from=rss)
 * [2023-09-05, 07:25:00](https://soylentnews.org/article.pl?sid=23/09/04/1249217&from=rss) - [Live Worm Found in Australian Woman's Brain in World First](https://soylentnews.org/article.pl?sid=23/09/04/1249217&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-27, 20:47:00](https://soylentnews.org/article.pl?sid=23/08/26/218232&from=rss) - [Oil eating microbes reshape droplets to optimize biodegradation](https://soylentnews.org/article.pl?sid=23/08/26/218232&from=rss)
 * [2023-08-27, 16:03:00](https://soylentnews.org/article.pl?sid=23/08/26/2232234&from=rss) - [WinRAR 0-day That Uses Poisoned JPG and TXT Files Under Exploit Since April](https://soylentnews.org/article.pl?sid=23/08/26/2232234&from=rss)
 * [2023-08-27, 11:24:00](https://soylentnews.org/article.pl?sid=23/08/25/1710229&from=rss) - [Tiktok Draft Agreement With CFIUS Shows Spying Requests](https://soylentnews.org/article.pl?sid=23/08/25/1710229&from=rss)
-* [2023-08-27, 06:39:00](https://soylentnews.org/article.pl?sid=23/08/25/1341222&from=rss) - [Bypassing Bitlocker Using a Cheap Logic Analyzer on a Lenovo Laptop](https://soylentnews.org/article.pl?sid=23/08/25/1341222&from=rss)
 
 ## [Archives](archives/index.md)
 
