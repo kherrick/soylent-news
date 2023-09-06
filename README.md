@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-06, 11:53:00](https://soylentnews.org/article.pl?sid=23/09/05/0130228&from=rss) - [US Spy Satellite Agency Isn't So Silent About New \"Silent Barker\" Mission](https://soylentnews.org/article.pl?sid=23/09/05/0130228&from=rss)
 * [2023-09-06, 07:08:00](https://soylentnews.org/article.pl?sid=23/09/05/0119209&from=rss) - [Large Language Models Aren’t People So Let’s Stop Testing Them as If They Were](https://soylentnews.org/article.pl?sid=23/09/05/0119209&from=rss)
 * [2023-09-06, 02:27:00](https://soylentnews.org/article.pl?sid=23/09/05/0056236&from=rss) - [Call of Duty Using AI to Listen Out for Hate Speech During Online Matches](https://soylentnews.org/article.pl?sid=23/09/05/0056236&from=rss)
 * [2023-09-05, 21:42:00](https://soylentnews.org/article.pl?sid=23/09/04/136220&from=rss) - [U.S. Bans Sales of Nvidia's H100, A100 GPUs to Middle East](https://soylentnews.org/article.pl?sid=23/09/04/136220&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-28, 11:03:00](https://soylentnews.org/article.pl?sid=23/08/27/074253&from=rss) - [Intelligent Brains Take Longer to Solve Difficult Problems](https://soylentnews.org/article.pl?sid=23/08/27/074253&from=rss)
 * [2023-08-28, 06:22:00](https://soylentnews.org/article.pl?sid=23/08/26/2346250&from=rss) - [The College Board Tells TikTok and Facebook Your SAT Scores](https://soylentnews.org/article.pl?sid=23/08/26/2346250&from=rss)
 * [2023-08-28, 01:34:00](https://soylentnews.org/article.pl?sid=23/08/26/1816207&from=rss) - [Zoom CEO Says Employees Need to be in the Office Because It's Hard to Build Trust Over Zoom](https://soylentnews.org/article.pl?sid=23/08/26/1816207&from=rss)
-* [2023-08-27, 20:47:00](https://soylentnews.org/article.pl?sid=23/08/26/218232&from=rss) - [Oil eating microbes reshape droplets to optimize biodegradation](https://soylentnews.org/article.pl?sid=23/08/26/218232&from=rss)
 
 ## [Archives](archives/index.md)
 
