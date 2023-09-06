@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-06, 02:27:00](https://soylentnews.org/article.pl?sid=23/09/05/0056236&from=rss) - [Call of Duty Using AI to Listen Out for Hate Speech During Online Matches](https://soylentnews.org/article.pl?sid=23/09/05/0056236&from=rss)
 * [2023-09-05, 21:42:00](https://soylentnews.org/article.pl?sid=23/09/04/136220&from=rss) - [U.S. Bans Sales of Nvidia's H100, A100 GPUs to Middle East](https://soylentnews.org/article.pl?sid=23/09/04/136220&from=rss)
 * [2023-09-05, 16:53:00](https://soylentnews.org/article.pl?sid=23/09/04/133234&from=rss) - [Right to Repair's Unlikely New Adversary: Scientologists](https://soylentnews.org/article.pl?sid=23/09/04/133234&from=rss)
 * [2023-09-05, 12:13:00](https://soylentnews.org/article.pl?sid=23/09/04/1258258&from=rss) - [It Costs Just $400 to Build an AI Disinformation Machine](https://soylentnews.org/article.pl?sid=23/09/04/1258258&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-28, 01:34:00](https://soylentnews.org/article.pl?sid=23/08/26/1816207&from=rss) - [Zoom CEO Says Employees Need to be in the Office Because It's Hard to Build Trust Over Zoom](https://soylentnews.org/article.pl?sid=23/08/26/1816207&from=rss)
 * [2023-08-27, 20:47:00](https://soylentnews.org/article.pl?sid=23/08/26/218232&from=rss) - [Oil eating microbes reshape droplets to optimize biodegradation](https://soylentnews.org/article.pl?sid=23/08/26/218232&from=rss)
 * [2023-08-27, 16:03:00](https://soylentnews.org/article.pl?sid=23/08/26/2232234&from=rss) - [WinRAR 0-day That Uses Poisoned JPG and TXT Files Under Exploit Since April](https://soylentnews.org/article.pl?sid=23/08/26/2232234&from=rss)
-* [2023-08-27, 11:24:00](https://soylentnews.org/article.pl?sid=23/08/25/1710229&from=rss) - [Tiktok Draft Agreement With CFIUS Shows Spying Requests](https://soylentnews.org/article.pl?sid=23/08/25/1710229&from=rss)
 
 ## [Archives](archives/index.md)
 
