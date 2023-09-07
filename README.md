@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-07, 06:49:00](https://soylentnews.org/article.pl?sid=23/09/06/101202&from=rss) - [“AI Took My Job, Literally”—Gizmodo Fires Spanish Staff Amid Switch to AI Translator](https://soylentnews.org/article.pl?sid=23/09/06/101202&from=rss)
 * [2023-09-07, 02:11:00](https://soylentnews.org/article.pl?sid=23/09/06/0956246&from=rss) - [Study: Microtargeting Works, Just Not the Way People Think](https://soylentnews.org/article.pl?sid=23/09/06/0956246&from=rss)
 * [2023-09-06, 21:24:00](https://soylentnews.org/article.pl?sid=23/09/06/010257&from=rss) - [With BYOD Comes Responsibility — And Many Firms Aren't Delivering](https://soylentnews.org/article.pl?sid=23/09/06/010257&from=rss)
 * [2023-09-06, 16:38:00](https://soylentnews.org/article.pl?sid=23/09/06/0046230&from=rss) - [Earth's Axis Tilt, Not the Orbit, Made the Late Pleistocene Glaciars Retreat](https://soylentnews.org/article.pl?sid=23/09/06/0046230&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-29, 06:04:00](https://soylentnews.org/article.pl?sid=23/08/28/0046214&from=rss) - [A Space Junk Removal Mission Got Struck by Space Junk](https://soylentnews.org/article.pl?sid=23/08/28/0046214&from=rss)
 * [2023-08-29, 01:16:00](https://soylentnews.org/article.pl?sid=23/08/28/0038218&from=rss) - [BA.2.86 Shows Just How Risky Slacking Off on COVID Monitoring is](https://soylentnews.org/article.pl?sid=23/08/28/0038218&from=rss)
 * [2023-08-28, 20:26:00](https://soylentnews.org/article.pl?sid=23/08/28/0027229&from=rss) - [AI-Powered Brain Implants Help Paralyzed Patients Communicate Faster Than Ever](https://soylentnews.org/article.pl?sid=23/08/28/0027229&from=rss)
-* [2023-08-28, 15:43:00](https://soylentnews.org/article.pl?sid=23/08/27/0713257&from=rss) - [The Strange, Secretive World of North Korean Science Fiction](https://soylentnews.org/article.pl?sid=23/08/27/0713257&from=rss)
 
 ## [Archives](archives/index.md)
 
