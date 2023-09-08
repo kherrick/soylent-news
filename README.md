@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-08, 01:53:00](https://soylentnews.org/article.pl?sid=23/09/07/0148242&from=rss) - [Attackers Access Military Data Through Fencing Supplier Via Windows 7](https://soylentnews.org/article.pl?sid=23/09/07/0148242&from=rss)
 * [2023-09-07, 21:07:00](https://soylentnews.org/article.pl?sid=23/09/07/0142223&from=rss) - [Farms That Create Habitat Key to Food Security and Biodiversity](https://soylentnews.org/article.pl?sid=23/09/07/0142223&from=rss)
 * [2023-09-07, 16:19:00](https://soylentnews.org/article.pl?sid=23/09/06/1350221&from=rss) - [Gigabyte Motherboard Firmware Update: Saving Your DDDR5 RAM From Corruption](https://soylentnews.org/article.pl?sid=23/09/06/1350221&from=rss)
 * [2023-09-07, 11:36:00](https://soylentnews.org/article.pl?sid=23/09/06/1057238&from=rss) - [Apple Details Reasons to Abandon CSAM-Scanning Tool, More Controversy Ensues](https://soylentnews.org/article.pl?sid=23/09/06/1057238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-30, 00:39:00](https://soylentnews.org/article.pl?sid=23/08/29/0310214&from=rss) - [Married Men Less Prone to Workplace Burnout](https://soylentnews.org/article.pl?sid=23/08/29/0310214&from=rss)
 * [2023-08-29, 20:00:00](https://soylentnews.org/article.pl?sid=23/08/29/032240&from=rss) - [Longevity Gene from Naked Mole Rats Extends Lifespan of Mice](https://soylentnews.org/article.pl?sid=23/08/29/032240&from=rss)
 * [2023-08-29, 15:38:00](https://soylentnews.org/article.pl?sid=23/08/28/2314221&from=rss) - [Saving Moths May be Just as Important as Saving the Bees](https://soylentnews.org/article.pl?sid=23/08/28/2314221&from=rss)
-* [2023-08-29, 10:52:00](https://soylentnews.org/article.pl?sid=23/08/28/2311201&from=rss) - [Fukushima Wastewater Release Sparks Wave of Misinformation in China](https://soylentnews.org/article.pl?sid=23/08/28/2311201&from=rss)
 
 ## [Archives](archives/index.md)
 
