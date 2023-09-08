@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-08, 21:00:00](https://soylentnews.org/article.pl?sid=23/09/08/0041210&from=rss) - [Layoffs at Jeff Bezos' Blue Origin](https://soylentnews.org/article.pl?sid=23/09/08/0041210&from=rss)
 * [2023-09-08, 16:14:00](https://soylentnews.org/article.pl?sid=23/09/08/0038235&from=rss) - [Future Windows Versions Will Disable TLS 1.0 And TLS 1.1 By Default, Microsoft Confirms](https://soylentnews.org/article.pl?sid=23/09/08/0038235&from=rss)
 * [2023-09-08, 11:27:00](https://soylentnews.org/article.pl?sid=23/09/07/0158223&from=rss) - [Connected Cars Are a “Privacy Nightmare,” Mozilla Foundation Says](https://soylentnews.org/article.pl?sid=23/09/07/0158223&from=rss)
 * [2023-09-08, 06:42:00](https://soylentnews.org/article.pl?sid=23/09/07/0155208&from=rss) - [SAG-AFTRA Fears AI Threatens Video Game Workers](https://soylentnews.org/article.pl?sid=23/09/07/0155208&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-30, 19:24:00](https://soylentnews.org/article.pl?sid=23/08/30/037254&from=rss) - [Excel Gets Containerized, Cloud-based Python Analytics and Visualization Powers](https://soylentnews.org/article.pl?sid=23/08/30/037254&from=rss)
 * [2023-08-30, 14:40:00](https://soylentnews.org/article.pl?sid=23/08/30/031218&from=rss) - [A Century Online for $38k](https://soylentnews.org/article.pl?sid=23/08/30/031218&from=rss)
 * [2023-08-30, 09:58:00](https://soylentnews.org/article.pl?sid=23/08/29/051216&from=rss) - [Facing Failure After Failure, Microsoft’s Driver-signing Program Fails Yet Again](https://soylentnews.org/article.pl?sid=23/08/29/051216&from=rss)
-* [2023-08-30, 05:15:00](https://soylentnews.org/article.pl?sid=23/08/29/0317225&from=rss) - [Wildlife Officials Say Spacex Launch Left Behind Significant Damage](https://soylentnews.org/article.pl?sid=23/08/29/0317225&from=rss)
 
 ## [Archives](archives/index.md)
 
