@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-08, 06:42:00](https://soylentnews.org/article.pl?sid=23/09/07/0155208&from=rss) - [SAG-AFTRA Fears AI Threatens Video Game Workers](https://soylentnews.org/article.pl?sid=23/09/07/0155208&from=rss)
 * [2023-09-08, 01:53:00](https://soylentnews.org/article.pl?sid=23/09/07/0148242&from=rss) - [Attackers Access Military Data Through Fencing Supplier Via Windows 7](https://soylentnews.org/article.pl?sid=23/09/07/0148242&from=rss)
 * [2023-09-07, 21:07:00](https://soylentnews.org/article.pl?sid=23/09/07/0142223&from=rss) - [Farms That Create Habitat Key to Food Security and Biodiversity](https://soylentnews.org/article.pl?sid=23/09/07/0142223&from=rss)
 * [2023-09-07, 16:19:00](https://soylentnews.org/article.pl?sid=23/09/06/1350221&from=rss) - [Gigabyte Motherboard Firmware Update: Saving Your DDR5 RAM From Corruption](https://soylentnews.org/article.pl?sid=23/09/06/1350221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-30, 05:15:00](https://soylentnews.org/article.pl?sid=23/08/29/0317225&from=rss) - [Wildlife Officials Say Spacex Launch Left Behind Significant Damage](https://soylentnews.org/article.pl?sid=23/08/29/0317225&from=rss)
 * [2023-08-30, 00:39:00](https://soylentnews.org/article.pl?sid=23/08/29/0310214&from=rss) - [Married Men Less Prone to Workplace Burnout](https://soylentnews.org/article.pl?sid=23/08/29/0310214&from=rss)
 * [2023-08-29, 20:00:00](https://soylentnews.org/article.pl?sid=23/08/29/032240&from=rss) - [Longevity Gene from Naked Mole Rats Extends Lifespan of Mice](https://soylentnews.org/article.pl?sid=23/08/29/032240&from=rss)
-* [2023-08-29, 15:38:00](https://soylentnews.org/article.pl?sid=23/08/28/2314221&from=rss) - [Saving Moths May be Just as Important as Saving the Bees](https://soylentnews.org/article.pl?sid=23/08/28/2314221&from=rss)
 
 ## [Archives](archives/index.md)
 
