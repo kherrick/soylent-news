@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-10, 01:23:00](https://soylentnews.org/article.pl?sid=23/09/09/0141238&from=rss) - [Californians Are Moving Inland for Cheaper Housing, and Finding Extreme Heat Getting Worse](https://soylentnews.org/article.pl?sid=23/09/09/0141238&from=rss)
 * [2023-09-09, 20:36:00](https://soylentnews.org/article.pl?sid=23/09/09/0127212&from=rss) - [Here be Aliens!](https://soylentnews.org/article.pl?sid=23/09/09/0127212&from=rss)
 * [2023-09-09, 15:52:00](https://soylentnews.org/article.pl?sid=23/09/09/0122258&from=rss) - [NASA Finally Admits What Everyone Already Knows: SLS is Unaffordable, and Starship Update](https://soylentnews.org/article.pl?sid=23/09/09/0122258&from=rss)
 * [2023-09-09, 11:05:00](https://soylentnews.org/article.pl?sid=23/09/09/0118233&from=rss) - [Cryptocurrency Startup Loses Encryption Key for Electronic Wallet](https://soylentnews.org/article.pl?sid=23/09/09/0118233&from=rss)
@@ -49,7 +50,6 @@
 * [2023-08-31, 22:30:00](https://soylentnews.org/meta/article.pl?sid=23/08/31/2157249&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, September 1st 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/31/2157249&from=rss)
 * [2023-08-31, 19:05:00](https://soylentnews.org/article.pl?sid=23/08/31/0156226&from=rss) - [AI Goes to College](https://soylentnews.org/article.pl?sid=23/08/31/0156226&from=rss)
 * [2023-08-31, 14:23:00](https://soylentnews.org/article.pl?sid=23/08/31/0152248&from=rss) - [Polish Rail Traffic Interrupted by Intentional Radio Interference](https://soylentnews.org/article.pl?sid=23/08/31/0152248&from=rss)
-* [2023-08-31, 09:38:00](https://soylentnews.org/article.pl?sid=23/08/31/0147229&from=rss) - [Tourists Give Themselves Away by Looking Up, but So Do Most Network Intruders](https://soylentnews.org/article.pl?sid=23/08/31/0147229&from=rss)
 
 ## [Archives](archives/index.md)
 
