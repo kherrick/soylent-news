@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-10, 12:53:00](https://soylentnews.org/article.pl?sid=23/09/09/0750225&from=rss) - [TSMC: Shortage Of Nvidia's AI GPUs To Persist For 1.5 Years](https://soylentnews.org/article.pl?sid=23/09/09/0750225&from=rss)
 * [2023-09-10, 06:10:00](https://soylentnews.org/article.pl?sid=23/09/09/0742212&from=rss) - [That Essential Morning Coffee May be a Placebo](https://soylentnews.org/article.pl?sid=23/09/09/0742212&from=rss)
 * [2023-09-10, 01:23:00](https://soylentnews.org/article.pl?sid=23/09/09/0141238&from=rss) - [Californians Are Moving Inland for Cheaper Housing, and Finding Extreme Heat Getting Worse](https://soylentnews.org/article.pl?sid=23/09/09/0141238&from=rss)
 * [2023-09-09, 20:36:00](https://soylentnews.org/article.pl?sid=23/09/09/0127212&from=rss) - [Here be Aliens!](https://soylentnews.org/article.pl?sid=23/09/09/0127212&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-01, 04:16:00](https://soylentnews.org/article.pl?sid=23/08/31/0211207&from=rss) - [Samsung Realizes Behaving Ethically is Good for Business](https://soylentnews.org/article.pl?sid=23/08/31/0211207&from=rss)
 * [2023-08-31, 23:49:00](https://soylentnews.org/article.pl?sid=23/08/31/021218&from=rss) - [Non-Gas Giant Has 73 Times Earth's Mass, Bewildering its Discoverers](https://soylentnews.org/article.pl?sid=23/08/31/021218&from=rss)
 * [2023-08-31, 22:30:00](https://soylentnews.org/meta/article.pl?sid=23/08/31/2157249&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, September 1st 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/08/31/2157249&from=rss)
-* [2023-08-31, 19:05:00](https://soylentnews.org/article.pl?sid=23/08/31/0156226&from=rss) - [AI Goes to College](https://soylentnews.org/article.pl?sid=23/08/31/0156226&from=rss)
 
 ## [Archives](archives/index.md)
 
