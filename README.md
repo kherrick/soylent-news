@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-11, 12:38:00](https://soylentnews.org/article.pl?sid=23/09/10/1744214&from=rss) - [Cutting Back on Social Media Reduces Anxiety, Depression, Loneliness](https://soylentnews.org/article.pl?sid=23/09/10/1744214&from=rss)
 * [2023-09-11, 07:52:00](https://soylentnews.org/article.pl?sid=23/09/10/1743212&from=rss) - [Judge Issues Legal Permaban, $500K Judgment Against Serial Destiny 2 Cheater](https://soylentnews.org/article.pl?sid=23/09/10/1743212&from=rss)
 * [2023-09-11, 03:12:00](https://soylentnews.org/article.pl?sid=23/09/10/0316215&from=rss) - [NASA's Asteroid Sample is About to Plunge 63K Miles to Earth](https://soylentnews.org/article.pl?sid=23/09/10/0316215&from=rss)
 * [2023-09-10, 22:27:00](https://soylentnews.org/article.pl?sid=23/09/10/034238&from=rss) - [Powerpoint Creator Dennis Austin Dead at 76](https://soylentnews.org/article.pl?sid=23/09/10/034238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-02, 03:53:00](https://soylentnews.org/article.pl?sid=23/08/31/2226237&from=rss) - [Hackers Force Shutdown Of Two Key Astronomical Observatories](https://soylentnews.org/article.pl?sid=23/08/31/2226237&from=rss)
 * [2023-09-01, 23:07:00](https://soylentnews.org/article.pl?sid=23/08/31/2215205&from=rss) - [Biological Clocks of People and Malaria Parasites Tick in Tune](https://soylentnews.org/article.pl?sid=23/08/31/2215205&from=rss)
 * [2023-09-01, 18:21:00](https://soylentnews.org/article.pl?sid=23/08/31/082239&from=rss) - [Hacking the LG Monitor's EDID.Md](https://soylentnews.org/article.pl?sid=23/08/31/082239&from=rss)
-* [2023-09-01, 13:41:00](https://soylentnews.org/article.pl?sid=23/08/31/0756210&from=rss) - [Gentle Cleansers Kill Viruses as Effectively as Harsh Soaps](https://soylentnews.org/article.pl?sid=23/08/31/0756210&from=rss)
 
 ## [Archives](archives/index.md)
 
