@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-11, 22:01:00](https://soylentnews.org/article.pl?sid=23/09/11/0436232&from=rss) - [Left-over Apollo Tech is Causing Moonquakes on the Lunar Surface](https://soylentnews.org/article.pl?sid=23/09/11/0436232&from=rss)
 * [2023-09-11, 17:21:00](https://soylentnews.org/article.pl?sid=23/09/10/1750220&from=rss) - [Spotify Used to Launder Drug Money?](https://soylentnews.org/article.pl?sid=23/09/10/1750220&from=rss)
 * [2023-09-11, 12:38:00](https://soylentnews.org/article.pl?sid=23/09/10/1744214&from=rss) - [Cutting Back on Social Media Reduces Anxiety, Depression, Loneliness](https://soylentnews.org/article.pl?sid=23/09/10/1744214&from=rss)
 * [2023-09-11, 07:52:00](https://soylentnews.org/article.pl?sid=23/09/10/1743212&from=rss) - [Judge Issues Legal Permaban, $500K Judgment Against Serial Destiny 2 Cheater](https://soylentnews.org/article.pl?sid=23/09/10/1743212&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-02, 13:15:00](https://soylentnews.org/article.pl?sid=23/09/01/2052239&from=rss) - [19-Hour Days for a Billion Years of Earth's History](https://soylentnews.org/article.pl?sid=23/09/01/2052239&from=rss)
 * [2023-09-02, 08:35:00](https://soylentnews.org/article.pl?sid=23/09/01/1835255&from=rss) - [Earth Was Created Faster Than We Thought](https://soylentnews.org/article.pl?sid=23/09/01/1835255&from=rss)
 * [2023-09-02, 03:53:00](https://soylentnews.org/article.pl?sid=23/08/31/2226237&from=rss) - [Hackers Force Shutdown Of Two Key Astronomical Observatories](https://soylentnews.org/article.pl?sid=23/08/31/2226237&from=rss)
-* [2023-09-01, 23:07:00](https://soylentnews.org/article.pl?sid=23/08/31/2215205&from=rss) - [Biological Clocks of People and Malaria Parasites Tick in Tune](https://soylentnews.org/article.pl?sid=23/08/31/2215205&from=rss)
 
 ## [Archives](archives/index.md)
 
