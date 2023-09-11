@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-11, 03:12:00](https://soylentnews.org/article.pl?sid=23/09/10/0316215&from=rss) - [NASA's Asteroid Sample is About to Plunge 63K Miles to Earth](https://soylentnews.org/article.pl?sid=23/09/10/0316215&from=rss)
 * [2023-09-10, 22:27:00](https://soylentnews.org/article.pl?sid=23/09/10/034238&from=rss) - [Powerpoint Creator Dennis Austin Dead at 76](https://soylentnews.org/article.pl?sid=23/09/10/034238&from=rss)
 * [2023-09-10, 17:42:00](https://soylentnews.org/article.pl?sid=23/09/09/0752258&from=rss) - [Machine Learning Helps Researchers Identify Hit Songs With 97% Accuracy](https://soylentnews.org/article.pl?sid=23/09/09/0752258&from=rss)
 * [2023-09-10, 12:53:00](https://soylentnews.org/article.pl?sid=23/09/09/0750225&from=rss) - [TSMC: Shortage Of Nvidia's AI GPUs To Persist For 1.5 Years](https://soylentnews.org/article.pl?sid=23/09/09/0750225&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-01, 18:21:00](https://soylentnews.org/article.pl?sid=23/08/31/082239&from=rss) - [Hacking the LG Monitor's EDID.Md](https://soylentnews.org/article.pl?sid=23/08/31/082239&from=rss)
 * [2023-09-01, 13:41:00](https://soylentnews.org/article.pl?sid=23/08/31/0756210&from=rss) - [Gentle Cleansers Kill Viruses as Effectively as Harsh Soaps](https://soylentnews.org/article.pl?sid=23/08/31/0756210&from=rss)
 * [2023-09-01, 09:03:00](https://soylentnews.org/article.pl?sid=23/08/31/0754259&from=rss) - [FCC Says “Too Bad” to ISPs Complaining That Listing Every Fee is Too Hard](https://soylentnews.org/article.pl?sid=23/08/31/0754259&from=rss)
-* [2023-09-01, 04:16:00](https://soylentnews.org/article.pl?sid=23/08/31/0211207&from=rss) - [Samsung Realizes Behaving Ethically is Good for Business](https://soylentnews.org/article.pl?sid=23/08/31/0211207&from=rss)
 
 ## [Archives](archives/index.md)
 
