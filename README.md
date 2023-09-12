@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-12, 21:43:00](https://soylentnews.org/article.pl?sid=23/09/12/0124206&from=rss) - [Hitting the Books: The Programming Trick That Gave Us DOOM Multiplayer](https://soylentnews.org/article.pl?sid=23/09/12/0124206&from=rss)
 * [2023-09-12, 17:00:00](https://soylentnews.org/article.pl?sid=23/09/12/0121215&from=rss) - [US Rejects AI Copyright for Famous State Fair-Winning Midjourney Art](https://soylentnews.org/article.pl?sid=23/09/12/0121215&from=rss)
 * [2023-09-12, 12:13:00](https://soylentnews.org/article.pl?sid=23/09/12/0116256&from=rss) - [X's and Ads and Moderation](https://soylentnews.org/article.pl?sid=23/09/12/0116256&from=rss)
 * [2023-09-12, 07:31:00](https://soylentnews.org/article.pl?sid=23/09/11/0452224&from=rss) - [OpenAI Admits That AI Writing Detectors Don't Work](https://soylentnews.org/article.pl?sid=23/09/11/0452224&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-03, 12:46:00](https://soylentnews.org/article.pl?sid=23/09/02/2254257&from=rss) - [Metaverse Could Put a Dent in Global Warming](https://soylentnews.org/article.pl?sid=23/09/02/2254257&from=rss)
 * [2023-09-03, 08:01:00](https://soylentnews.org/article.pl?sid=23/09/02/1552215&from=rss) - [Why Did Old Phone Numbers Start With Letters?](https://soylentnews.org/article.pl?sid=23/09/02/1552215&from=rss)
 * [2023-09-03, 03:18:00](https://soylentnews.org/article.pl?sid=23/09/02/0313212&from=rss) - [Nuclear Weapon Tests Have Made Boars Too Radioactive To Eat](https://soylentnews.org/article.pl?sid=23/09/02/0313212&from=rss)
-* [2023-09-02, 22:33:00](https://soylentnews.org/article.pl?sid=23/09/01/2130239&from=rss) - [ ARM Wrestles Assembly Language Guru's Domains away Citing Trademark Issues](https://soylentnews.org/article.pl?sid=23/09/01/2130239&from=rss)
 
 ## [Archives](archives/index.md)
 
