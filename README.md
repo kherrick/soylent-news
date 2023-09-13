@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-13, 12:37:00](https://soylentnews.org/article.pl?sid=23/09/12/1228227&from=rss) - [NCSA Mosaic Launched 30 Years Ago](https://soylentnews.org/article.pl?sid=23/09/12/1228227&from=rss)
 * [2023-09-13, 07:48:00](https://soylentnews.org/article.pl?sid=23/09/12/0150208&from=rss) - [Microsoft Plans To Capture Carbon Using Crushed Limestone](https://soylentnews.org/article.pl?sid=23/09/12/0150208&from=rss)
 * [2023-09-13, 03:03:00](https://soylentnews.org/article.pl?sid=23/09/12/0146222&from=rss) - [Subscriptions Drive Views of Extremist Videos on YouTube](https://soylentnews.org/article.pl?sid=23/09/12/0146222&from=rss)
 * [2023-09-12, 21:43:00](https://soylentnews.org/article.pl?sid=23/09/12/0124206&from=rss) - [Hitting the Books: The Programming Trick That Gave Us DOOM Multiplayer](https://soylentnews.org/article.pl?sid=23/09/12/0124206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-04, 03:01:00](https://soylentnews.org/article.pl?sid=23/09/02/2355223&from=rss) - [India's Moon Mission Uncovers Key Findings At The South Pole](https://soylentnews.org/article.pl?sid=23/09/02/2355223&from=rss)
 * [2023-09-03, 22:18:00](https://soylentnews.org/article.pl?sid=23/09/02/230227&from=rss) - [IBM Promised to Back Off Facial Recognition - Then It Signed a $69.8 Million Contract to Provide It](https://soylentnews.org/article.pl?sid=23/09/02/230227&from=rss)
 * [2023-09-03, 17:31:00](https://soylentnews.org/article.pl?sid=23/09/02/2256228&from=rss) - [Webb Telescope Detects Universe’s Most Distant Organic Molecules](https://soylentnews.org/article.pl?sid=23/09/02/2256228&from=rss)
-* [2023-09-03, 12:46:00](https://soylentnews.org/article.pl?sid=23/09/02/2254257&from=rss) - [Metaverse Could Put a Dent in Global Warming](https://soylentnews.org/article.pl?sid=23/09/02/2254257&from=rss)
 
 ## [Archives](archives/index.md)
 
