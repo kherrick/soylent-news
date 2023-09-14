@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-14, 02:48:00](https://soylentnews.org/article.pl?sid=23/09/13/030256&from=rss) - [Potentially The World's Largest Lithium Deposit Has Been Found In The US](https://soylentnews.org/article.pl?sid=23/09/13/030256&from=rss)
 * [2023-09-13, 22:07:00](https://soylentnews.org/article.pl?sid=23/09/13/0252211&from=rss) - [Webb Telescope Detects Some Molecules Associated With Life in Exoplanet Atmosphere](https://soylentnews.org/article.pl?sid=23/09/13/0252211&from=rss)
 * [2023-09-13, 17:19:00](https://soylentnews.org/article.pl?sid=23/09/12/1230204&from=rss) - [Teen's Death After Eating a Single Chip Highlights Risks of Ultra-Spicy Foods](https://soylentnews.org/article.pl?sid=23/09/12/1230204&from=rss)
 * [2023-09-13, 12:37:00](https://soylentnews.org/article.pl?sid=23/09/12/1228227&from=rss) - [NCSA Mosaic Launched 30 Years Ago](https://soylentnews.org/article.pl?sid=23/09/12/1228227&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-04, 17:12:00](https://soylentnews.org/article.pl?sid=23/09/03/1745210&from=rss) - [X (Née Twitter) Wants to Collect Your Biometric Data and Employment History](https://soylentnews.org/article.pl?sid=23/09/03/1745210&from=rss)
 * [2023-09-04, 12:28:00](https://soylentnews.org/article.pl?sid=23/09/03/1739250&from=rss) - [8.7-Million-Year-Old Skull Suggests We Didn't Evolve in Africa After All](https://soylentnews.org/article.pl?sid=23/09/03/1739250&from=rss)
 * [2023-09-04, 07:47:00](https://soylentnews.org/article.pl?sid=23/09/03/0129210&from=rss) - [Microsoft Is Unbundling Teams From Office In Europe To Address Regulator Concerns](https://soylentnews.org/article.pl?sid=23/09/03/0129210&from=rss)
-* [2023-09-04, 03:01:00](https://soylentnews.org/article.pl?sid=23/09/02/2355223&from=rss) - [India's Moon Mission Uncovers Key Findings At The South Pole](https://soylentnews.org/article.pl?sid=23/09/02/2355223&from=rss)
 
 ## [Archives](archives/index.md)
 

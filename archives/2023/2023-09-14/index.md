@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-09-14](index.md)
+
+* [2023-09-14, 02:48:00](https://soylentnews.org/article.pl?sid=23/09/13/030256&from=rss) - [Potentially The World's Largest Lithium Deposit Has Been Found In The US](https://soylentnews.org/article.pl?sid=23/09/13/030256&from=rss)
