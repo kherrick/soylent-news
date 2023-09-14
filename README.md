@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-14, 12:14:00](https://soylentnews.org/article.pl?sid=23/09/13/0325201&from=rss) - [Autonomous Truck Platoons Are a Bust, but They Work If You Put Them on Rails](https://soylentnews.org/article.pl?sid=23/09/13/0325201&from=rss)
 * [2023-09-14, 07:33:00](https://soylentnews.org/article.pl?sid=23/09/13/034240&from=rss) - [How China Gets Free Intel on Tech Companies’ Vulnerabilities](https://soylentnews.org/article.pl?sid=23/09/13/034240&from=rss)
 * [2023-09-14, 02:48:00](https://soylentnews.org/article.pl?sid=23/09/13/030256&from=rss) - [Potentially The World's Largest Lithium Deposit Has Been Found In The US](https://soylentnews.org/article.pl?sid=23/09/13/030256&from=rss)
 * [2023-09-13, 22:07:00](https://soylentnews.org/article.pl?sid=23/09/13/0252211&from=rss) - [Webb Telescope Detects Some Molecules Associated With Life in Exoplanet Atmosphere](https://soylentnews.org/article.pl?sid=23/09/13/0252211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-05, 02:38:00](https://soylentnews.org/article.pl?sid=23/09/04/1228216&from=rss) - [FBI Hoovering Up DNA at a Pace That Rivals China, Holds 21 Million Samples and Counting](https://soylentnews.org/article.pl?sid=23/09/04/1228216&from=rss)
 * [2023-09-04, 21:56:00](https://soylentnews.org/article.pl?sid=23/09/03/1747223&from=rss) - [Research Challenges Notion That Heavy Drinkers \"Hold Their Liquor\" Better](https://soylentnews.org/article.pl?sid=23/09/03/1747223&from=rss)
 * [2023-09-04, 17:12:00](https://soylentnews.org/article.pl?sid=23/09/03/1745210&from=rss) - [X (Née Twitter) Wants to Collect Your Biometric Data and Employment History](https://soylentnews.org/article.pl?sid=23/09/03/1745210&from=rss)
-* [2023-09-04, 12:28:00](https://soylentnews.org/article.pl?sid=23/09/03/1739250&from=rss) - [8.7-Million-Year-Old Skull Suggests We Didn't Evolve in Africa After All](https://soylentnews.org/article.pl?sid=23/09/03/1739250&from=rss)
 
 ## [Archives](archives/index.md)
 
