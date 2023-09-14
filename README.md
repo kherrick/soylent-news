@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-14, 21:42:00](https://soylentnews.org/article.pl?sid=23/09/13/0347224&from=rss) - [Serious Brain Trauma Starts Well Before Young Athletes Go Pro](https://soylentnews.org/article.pl?sid=23/09/13/0347224&from=rss)
 * [2023-09-14, 16:58:00](https://soylentnews.org/article.pl?sid=23/09/13/0330222&from=rss) - [Flashes Of Light In Venusian Atmosphere May Be Meteors, Not Lightning](https://soylentnews.org/article.pl?sid=23/09/13/0330222&from=rss)
 * [2023-09-14, 12:14:00](https://soylentnews.org/article.pl?sid=23/09/13/0325201&from=rss) - [Autonomous Truck Platoons Are a Bust, but They Work If You Put Them on Rails](https://soylentnews.org/article.pl?sid=23/09/13/0325201&from=rss)
 * [2023-09-14, 07:33:00](https://soylentnews.org/article.pl?sid=23/09/13/034240&from=rss) - [How China Gets Free Intel on Tech Companies’ Vulnerabilities](https://soylentnews.org/article.pl?sid=23/09/13/034240&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-05, 12:13:00](https://soylentnews.org/article.pl?sid=23/09/04/1258258&from=rss) - [It Costs Just $400 to Build an AI Disinformation Machine](https://soylentnews.org/article.pl?sid=23/09/04/1258258&from=rss)
 * [2023-09-05, 07:25:00](https://soylentnews.org/article.pl?sid=23/09/04/1249217&from=rss) - [Live Worm Found in Australian Woman's Brain in World First](https://soylentnews.org/article.pl?sid=23/09/04/1249217&from=rss)
 * [2023-09-05, 02:38:00](https://soylentnews.org/article.pl?sid=23/09/04/1228216&from=rss) - [FBI Hoovering Up DNA at a Pace That Rivals China, Holds 21 Million Samples and Counting](https://soylentnews.org/article.pl?sid=23/09/04/1228216&from=rss)
-* [2023-09-04, 21:56:00](https://soylentnews.org/article.pl?sid=23/09/03/1747223&from=rss) - [Research Challenges Notion That Heavy Drinkers \"Hold Their Liquor\" Better](https://soylentnews.org/article.pl?sid=23/09/03/1747223&from=rss)
 
 ## [Archives](archives/index.md)
 

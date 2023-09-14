@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 21:42:00](https://soylentnews.org/article.pl?sid=23/09/13/0347224&from=rss) - [Serious Brain Trauma Starts Well Before Young Athletes Go Pro](https://soylentnews.org/article.pl?sid=23/09/13/0347224&from=rss)
 * [2023-09-14, 16:58:00](https://soylentnews.org/article.pl?sid=23/09/13/0330222&from=rss) - [Flashes Of Light In Venusian Atmosphere May Be Meteors, Not Lightning](https://soylentnews.org/article.pl?sid=23/09/13/0330222&from=rss)
 * [2023-09-14, 12:14:00](https://soylentnews.org/article.pl?sid=23/09/13/0325201&from=rss) - [Autonomous Truck Platoons Are a Bust, but They Work If You Put Them on Rails](https://soylentnews.org/article.pl?sid=23/09/13/0325201&from=rss)
 * [2023-09-14, 07:33:00](https://soylentnews.org/article.pl?sid=23/09/13/034240&from=rss) - [How China Gets Free Intel on Tech Companies’ Vulnerabilities](https://soylentnews.org/article.pl?sid=23/09/13/034240&from=rss)
