@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-15, 21:29:00](https://soylentnews.org/article.pl?sid=23/09/13/071235&from=rss) - [People in Power Who Are Guilt-Prone Are Less Likely to be Corrupt](https://soylentnews.org/article.pl?sid=23/09/13/071235&from=rss)
 * [2023-09-15, 16:47:00](https://soylentnews.org/article.pl?sid=23/09/13/0656250&from=rss) - [New Water Treatment Approach Helps To Avoid Harmful Chemicals](https://soylentnews.org/article.pl?sid=23/09/13/0656250&from=rss)
 * [2023-09-15, 12:02:00](https://soylentnews.org/article.pl?sid=23/09/13/0651217&from=rss) - [Intel Confirms Thunderbolt 5 Name, 120Gbps Tech Arrives in 2024](https://soylentnews.org/article.pl?sid=23/09/13/0651217&from=rss)
 * [2023-09-15, 07:15:00](https://soylentnews.org/article.pl?sid=23/09/13/0647202&from=rss) - [Was Warfare Responsible for the Fall of Small-Scale Societies?](https://soylentnews.org/article.pl?sid=23/09/13/0647202&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-06, 11:53:00](https://soylentnews.org/article.pl?sid=23/09/05/0130228&from=rss) - [US Spy Satellite Agency Isn't So Silent About New \"Silent Barker\" Mission](https://soylentnews.org/article.pl?sid=23/09/05/0130228&from=rss)
 * [2023-09-06, 07:08:00](https://soylentnews.org/article.pl?sid=23/09/05/0119209&from=rss) - [Large Language Models Aren’t People So Let’s Stop Testing Them as If They Were](https://soylentnews.org/article.pl?sid=23/09/05/0119209&from=rss)
 * [2023-09-06, 02:27:00](https://soylentnews.org/article.pl?sid=23/09/05/0056236&from=rss) - [Call of Duty Using AI to Listen Out for Hate Speech During Online Matches](https://soylentnews.org/article.pl?sid=23/09/05/0056236&from=rss)
-* [2023-09-05, 21:42:00](https://soylentnews.org/article.pl?sid=23/09/04/136220&from=rss) - [U.S. Bans Sales of Nvidia's H100, A100 GPUs to Middle East](https://soylentnews.org/article.pl?sid=23/09/04/136220&from=rss)
 
 ## [Archives](archives/index.md)
 
