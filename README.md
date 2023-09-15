@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-15, 07:15:00](https://soylentnews.org/article.pl?sid=23/09/13/0647202&from=rss) - [Was Warfare Responsible for the Fall of Small-Scale Societies?](https://soylentnews.org/article.pl?sid=23/09/13/0647202&from=rss)
 * [2023-09-15, 02:33:00](https://soylentnews.org/article.pl?sid=23/09/13/0645203&from=rss) - [Apple Chips Made In The US Still Require Assembly In Taiwan, Report Suggests](https://soylentnews.org/article.pl?sid=23/09/13/0645203&from=rss)
 * [2023-09-14, 21:42:00](https://soylentnews.org/article.pl?sid=23/09/13/0347224&from=rss) - [Serious Brain Trauma Starts Well Before Young Athletes Go Pro](https://soylentnews.org/article.pl?sid=23/09/13/0347224&from=rss)
 * [2023-09-14, 16:58:00](https://soylentnews.org/article.pl?sid=23/09/13/0330222&from=rss) - [Flashes Of Light In Venusian Atmosphere May Be Meteors, Not Lightning](https://soylentnews.org/article.pl?sid=23/09/13/0330222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-05, 21:42:00](https://soylentnews.org/article.pl?sid=23/09/04/136220&from=rss) - [U.S. Bans Sales of Nvidia's H100, A100 GPUs to Middle East](https://soylentnews.org/article.pl?sid=23/09/04/136220&from=rss)
 * [2023-09-05, 16:53:00](https://soylentnews.org/article.pl?sid=23/09/04/133234&from=rss) - [Right to Repair's Unlikely New Adversary: Scientologists](https://soylentnews.org/article.pl?sid=23/09/04/133234&from=rss)
 * [2023-09-05, 12:13:00](https://soylentnews.org/article.pl?sid=23/09/04/1258258&from=rss) - [It Costs Just $400 to Build an AI Disinformation Machine](https://soylentnews.org/article.pl?sid=23/09/04/1258258&from=rss)
-* [2023-09-05, 07:25:00](https://soylentnews.org/article.pl?sid=23/09/04/1249217&from=rss) - [Live Worm Found in Australian Woman's Brain in World First](https://soylentnews.org/article.pl?sid=23/09/04/1249217&from=rss)
 
 ## [Archives](archives/index.md)
 
