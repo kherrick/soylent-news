@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-16, 06:57:00](https://soylentnews.org/article.pl?sid=23/09/15/048208&from=rss) - [Scientists May Have A Solution To The International Space Station's Fungus Problem](https://soylentnews.org/article.pl?sid=23/09/15/048208&from=rss)
 * [2023-09-16, 02:14:00](https://soylentnews.org/article.pl?sid=23/09/13/1644258&from=rss) - [Good vs Evil: How the Urge to Win Drives Gaming Decisions](https://soylentnews.org/article.pl?sid=23/09/13/1644258&from=rss)
 * [2023-09-15, 21:29:00](https://soylentnews.org/article.pl?sid=23/09/13/071235&from=rss) - [People in Power Who Are Guilt-Prone Are Less Likely to be Corrupt](https://soylentnews.org/article.pl?sid=23/09/13/071235&from=rss)
 * [2023-09-15, 16:47:00](https://soylentnews.org/article.pl?sid=23/09/13/0656250&from=rss) - [New Water Treatment Approach Helps To Avoid Harmful Chemicals](https://soylentnews.org/article.pl?sid=23/09/13/0656250&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-06, 21:24:00](https://soylentnews.org/article.pl?sid=23/09/06/010257&from=rss) - [With BYOD Comes Responsibility — And Many Firms Aren't Delivering](https://soylentnews.org/article.pl?sid=23/09/06/010257&from=rss)
 * [2023-09-06, 16:38:00](https://soylentnews.org/article.pl?sid=23/09/06/0046230&from=rss) - [Earth's Axis Tilt, Not the Orbit, Made the Late Pleistocene Glaciars Retreat](https://soylentnews.org/article.pl?sid=23/09/06/0046230&from=rss)
 * [2023-09-06, 11:53:00](https://soylentnews.org/article.pl?sid=23/09/05/0130228&from=rss) - [US Spy Satellite Agency Isn't So Silent About New \"Silent Barker\" Mission](https://soylentnews.org/article.pl?sid=23/09/05/0130228&from=rss)
-* [2023-09-06, 07:08:00](https://soylentnews.org/article.pl?sid=23/09/05/0119209&from=rss) - [Large Language Models Aren’t People So Let’s Stop Testing Them as If They Were](https://soylentnews.org/article.pl?sid=23/09/05/0119209&from=rss)
 
 ## [Archives](archives/index.md)
 
