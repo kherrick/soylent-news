@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 20:56:00](https://soylentnews.org/article.pl?sid=23/09/17/1647217&from=rss) - [The Spectacular Downfall of a Common, Useless Cold Medicine](https://soylentnews.org/article.pl?sid=23/09/17/1647217&from=rss)
 * [2023-09-17, 16:13:00](https://soylentnews.org/article.pl?sid=23/09/17/0720239&from=rss) - [Tech Industry Leaders Endorse Regulating Artificial Intelligence at Rare Summit in Washington](https://soylentnews.org/article.pl?sid=23/09/17/0720239&from=rss)
 * [2023-09-17, 11:31:00](https://soylentnews.org/article.pl?sid=23/09/16/0913216&from=rss) - [2023 Ig Nobel Prize Winners Announced](https://soylentnews.org/article.pl?sid=23/09/16/0913216&from=rss)
 * [2023-09-17, 06:49:00](https://soylentnews.org/article.pl?sid=23/09/15/0610206&from=rss) - [Mistranslation of Newton’s First Law Discovered After Nearly 300 Years](https://soylentnews.org/article.pl?sid=23/09/15/0610206&from=rss)
