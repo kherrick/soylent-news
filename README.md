@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-17, 16:13:00](https://soylentnews.org/article.pl?sid=23/09/17/0720239&from=rss) - [Tech Industry Leaders Endorse Regulating Artificial Intelligence at Rare Summit in Washington](https://soylentnews.org/article.pl?sid=23/09/17/0720239&from=rss)
 * [2023-09-17, 11:31:00](https://soylentnews.org/article.pl?sid=23/09/16/0913216&from=rss) - [2023 Ig Nobel Prize Winners Announced](https://soylentnews.org/article.pl?sid=23/09/16/0913216&from=rss)
 * [2023-09-17, 06:49:00](https://soylentnews.org/article.pl?sid=23/09/15/0610206&from=rss) - [Mistranslation of Newton’s First Law Discovered After Nearly 300 Years](https://soylentnews.org/article.pl?sid=23/09/15/0610206&from=rss)
 * [2023-09-17, 02:03:00](https://soylentnews.org/article.pl?sid=23/09/15/065240&from=rss) - [When Does Tackling Health Misinfo Become Govt Censorship?](https://soylentnews.org/article.pl?sid=23/09/15/065240&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-08, 06:42:00](https://soylentnews.org/article.pl?sid=23/09/07/0155208&from=rss) - [SAG-AFTRA Fears AI Threatens Video Game Workers](https://soylentnews.org/article.pl?sid=23/09/07/0155208&from=rss)
 * [2023-09-08, 01:53:00](https://soylentnews.org/article.pl?sid=23/09/07/0148242&from=rss) - [Attackers Access Military Data Through Fencing Supplier Via Windows 7](https://soylentnews.org/article.pl?sid=23/09/07/0148242&from=rss)
 * [2023-09-07, 21:07:00](https://soylentnews.org/article.pl?sid=23/09/07/0142223&from=rss) - [Farms That Create Habitat Key to Food Security and Biodiversity](https://soylentnews.org/article.pl?sid=23/09/07/0142223&from=rss)
-* [2023-09-07, 16:19:00](https://soylentnews.org/article.pl?sid=23/09/06/1350221&from=rss) - [Gigabyte Motherboard Firmware Update: Saving Your DDR5 RAM From Corruption](https://soylentnews.org/article.pl?sid=23/09/06/1350221&from=rss)
 
 ## [Archives](archives/index.md)
 
