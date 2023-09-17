@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-17, 06:49:00](https://soylentnews.org/article.pl?sid=23/09/15/0610206&from=rss) - [Mistranslation of Newton’s First Law Discovered After Nearly 300 Years](https://soylentnews.org/article.pl?sid=23/09/15/0610206&from=rss)
 * [2023-09-17, 02:03:00](https://soylentnews.org/article.pl?sid=23/09/15/065240&from=rss) - [When Does Tackling Health Misinfo Become Govt Censorship?](https://soylentnews.org/article.pl?sid=23/09/15/065240&from=rss)
 * [2023-09-16, 21:17:00](https://soylentnews.org/article.pl?sid=23/09/15/0448238&from=rss) - [Free Download Manager Site Compromised to Distribute Linux Malware to Users for 3+ Years](https://soylentnews.org/article.pl?sid=23/09/15/0448238&from=rss)
 * [2023-09-16, 16:29:00](https://soylentnews.org/article.pl?sid=23/09/15/0422249&from=rss) - [Developer Dis-Unity](https://soylentnews.org/article.pl?sid=23/09/15/0422249&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-07, 21:07:00](https://soylentnews.org/article.pl?sid=23/09/07/0142223&from=rss) - [Farms That Create Habitat Key to Food Security and Biodiversity](https://soylentnews.org/article.pl?sid=23/09/07/0142223&from=rss)
 * [2023-09-07, 16:19:00](https://soylentnews.org/article.pl?sid=23/09/06/1350221&from=rss) - [Gigabyte Motherboard Firmware Update: Saving Your DDR5 RAM From Corruption](https://soylentnews.org/article.pl?sid=23/09/06/1350221&from=rss)
 * [2023-09-07, 11:36:00](https://soylentnews.org/article.pl?sid=23/09/06/1057238&from=rss) - [Apple Details Reasons to Abandon CSAM-Scanning Tool, More Controversy Ensues](https://soylentnews.org/article.pl?sid=23/09/06/1057238&from=rss)
-* [2023-09-07, 06:49:00](https://soylentnews.org/article.pl?sid=23/09/06/101202&from=rss) - [“AI Took My Job, Literally”—Gizmodo Fires Spanish Staff Amid Switch to AI Translator](https://soylentnews.org/article.pl?sid=23/09/06/101202&from=rss)
 
 ## [Archives](archives/index.md)
 
