@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-18, 20:44:00](https://soylentnews.org/article.pl?sid=23/09/17/182253&from=rss) - [Coca-Cola Embraces Controversial AI Image Generator With New “Y3000” Flavor](https://soylentnews.org/article.pl?sid=23/09/17/182253&from=rss)
 * [2023-09-18, 15:59:00](https://soylentnews.org/article.pl?sid=23/09/17/180228&from=rss) - [Scientist Shocks Peers By 'Tailoring' Climate Study](https://soylentnews.org/article.pl?sid=23/09/17/180228&from=rss)
 * [2023-09-18, 11:14:00](https://soylentnews.org/article.pl?sid=23/09/17/1752216&from=rss) - [Cheap LCD Uses USB Serial](https://soylentnews.org/article.pl?sid=23/09/17/1752216&from=rss)
 * [2023-09-18, 06:29:00](https://soylentnews.org/article.pl?sid=23/09/17/1747208&from=rss) - [Probe Reveals Secret Israeli Spyware That Infects Via Ad](https://soylentnews.org/article.pl?sid=23/09/17/1747208&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-09, 11:05:00](https://soylentnews.org/article.pl?sid=23/09/09/0118233&from=rss) - [Cryptocurrency Startup Loses Encryption Key for Electronic Wallet](https://soylentnews.org/article.pl?sid=23/09/09/0118233&from=rss)
 * [2023-09-09, 06:25:00](https://soylentnews.org/article.pl?sid=23/09/08/0047254&from=rss) - [YouTube Under No Obligation to Host Anti-Vaccine Advocate's Videos, Court Says](https://soylentnews.org/article.pl?sid=23/09/08/0047254&from=rss)
 * [2023-09-09, 01:42:00](https://soylentnews.org/article.pl?sid=23/09/08/0044202&from=rss) - [AI-Generated Child Sex Imagery Has Every US Attorney General Calling for Action](https://soylentnews.org/article.pl?sid=23/09/08/0044202&from=rss)
-* [2023-09-08, 21:00:00](https://soylentnews.org/article.pl?sid=23/09/08/0041210&from=rss) - [Layoffs at Jeff Bezos' Blue Origin](https://soylentnews.org/article.pl?sid=23/09/08/0041210&from=rss)
 
 ## [Archives](archives/index.md)
 
