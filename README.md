@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-18, 06:29:00](https://soylentnews.org/article.pl?sid=23/09/17/1747208&from=rss) - [Probe Reveals Secret Israeli Spyware That Infects Via Ad](https://soylentnews.org/article.pl?sid=23/09/17/1747208&from=rss)
 * [2023-09-18, 01:40:00](https://soylentnews.org/article.pl?sid=23/09/17/1657213&from=rss) - [California Sends Country' Strongest Right-To-Repair Bill To Governor's Desk - 7  Years Of Parts](https://soylentnews.org/article.pl?sid=23/09/17/1657213&from=rss)
 * [2023-09-17, 20:56:00](https://soylentnews.org/article.pl?sid=23/09/17/1647217&from=rss) - [The Spectacular Downfall of a Common, Useless Cold Medicine](https://soylentnews.org/article.pl?sid=23/09/17/1647217&from=rss)
 * [2023-09-17, 16:13:00](https://soylentnews.org/article.pl?sid=23/09/17/0720239&from=rss) - [Tech Industry Leaders Endorse Regulating Artificial Intelligence at Rare Summit in Washington](https://soylentnews.org/article.pl?sid=23/09/17/0720239&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-08, 21:00:00](https://soylentnews.org/article.pl?sid=23/09/08/0041210&from=rss) - [Layoffs at Jeff Bezos' Blue Origin](https://soylentnews.org/article.pl?sid=23/09/08/0041210&from=rss)
 * [2023-09-08, 16:14:00](https://soylentnews.org/article.pl?sid=23/09/08/0038235&from=rss) - [Future Windows Versions Will Disable TLS 1.0 And TLS 1.1 By Default, Microsoft Confirms](https://soylentnews.org/article.pl?sid=23/09/08/0038235&from=rss)
 * [2023-09-08, 11:27:00](https://soylentnews.org/article.pl?sid=23/09/07/0158223&from=rss) - [Connected Cars Are a “Privacy Nightmare,” Mozilla Foundation Says](https://soylentnews.org/article.pl?sid=23/09/07/0158223&from=rss)
-* [2023-09-08, 06:42:00](https://soylentnews.org/article.pl?sid=23/09/07/0155208&from=rss) - [SAG-AFTRA Fears AI Threatens Video Game Workers](https://soylentnews.org/article.pl?sid=23/09/07/0155208&from=rss)
 
 ## [Archives](archives/index.md)
 
