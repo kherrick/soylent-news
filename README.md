@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-19, 15:42:00](https://soylentnews.org/article.pl?sid=23/09/18/1815207&from=rss) - [Unity Promises “Changes” to Install Fee Plans as Developer Fallout Continues](https://soylentnews.org/article.pl?sid=23/09/18/1815207&from=rss)
 * [2023-09-19, 11:01:00](https://soylentnews.org/article.pl?sid=23/09/18/1359238&from=rss) - [James Webb Captures the Stunning Outflows from an Infant Star](https://soylentnews.org/article.pl?sid=23/09/18/1359238&from=rss)
 * [2023-09-19, 06:17:00](https://soylentnews.org/article.pl?sid=23/09/18/0140242&from=rss) - [A Phone Call to Helpdesk was Likely all it Took to Hack MGM](https://soylentnews.org/article.pl?sid=23/09/18/0140242&from=rss)
 * [2023-09-19, 01:31:00](https://soylentnews.org/article.pl?sid=23/09/18/0259231&from=rss) - [Exploring the Lunar South Pole: Lessons from Chandrayaan-3](https://soylentnews.org/article.pl?sid=23/09/18/0259231&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-10, 06:10:00](https://soylentnews.org/article.pl?sid=23/09/09/0742212&from=rss) - [That Essential Morning Coffee May be a Placebo](https://soylentnews.org/article.pl?sid=23/09/09/0742212&from=rss)
 * [2023-09-10, 01:23:00](https://soylentnews.org/article.pl?sid=23/09/09/0141238&from=rss) - [Californians Are Moving Inland for Cheaper Housing, and Finding Extreme Heat Getting Worse](https://soylentnews.org/article.pl?sid=23/09/09/0141238&from=rss)
 * [2023-09-09, 20:36:00](https://soylentnews.org/article.pl?sid=23/09/09/0127212&from=rss) - [Here be Aliens!](https://soylentnews.org/article.pl?sid=23/09/09/0127212&from=rss)
-* [2023-09-09, 15:52:00](https://soylentnews.org/article.pl?sid=23/09/09/0122258&from=rss) - [NASA Finally Admits What Everyone Already Knows: SLS is Unaffordable, and Starship Update](https://soylentnews.org/article.pl?sid=23/09/09/0122258&from=rss)
 
 ## [Archives](archives/index.md)
 
