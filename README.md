@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-19, 11:01:00](https://soylentnews.org/article.pl?sid=23/09/18/1359238&from=rss) - [James Webb Captures the Stunning Outflows from an Infant Star](https://soylentnews.org/article.pl?sid=23/09/18/1359238&from=rss)
 * [2023-09-19, 06:17:00](https://soylentnews.org/article.pl?sid=23/09/18/0140242&from=rss) - [A Phone Call to Helpdesk was Likely all it Took to Hack MGM](https://soylentnews.org/article.pl?sid=23/09/18/0140242&from=rss)
 * [2023-09-19, 01:31:00](https://soylentnews.org/article.pl?sid=23/09/18/0259231&from=rss) - [Exploring the Lunar South Pole: Lessons from Chandrayaan-3](https://soylentnews.org/article.pl?sid=23/09/18/0259231&from=rss)
 * [2023-09-18, 20:44:00](https://soylentnews.org/article.pl?sid=23/09/17/182253&from=rss) - [Coca-Cola Embraces Controversial AI Image Generator With New “Y3000” Flavor](https://soylentnews.org/article.pl?sid=23/09/17/182253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-10, 01:23:00](https://soylentnews.org/article.pl?sid=23/09/09/0141238&from=rss) - [Californians Are Moving Inland for Cheaper Housing, and Finding Extreme Heat Getting Worse](https://soylentnews.org/article.pl?sid=23/09/09/0141238&from=rss)
 * [2023-09-09, 20:36:00](https://soylentnews.org/article.pl?sid=23/09/09/0127212&from=rss) - [Here be Aliens!](https://soylentnews.org/article.pl?sid=23/09/09/0127212&from=rss)
 * [2023-09-09, 15:52:00](https://soylentnews.org/article.pl?sid=23/09/09/0122258&from=rss) - [NASA Finally Admits What Everyone Already Knows: SLS is Unaffordable, and Starship Update](https://soylentnews.org/article.pl?sid=23/09/09/0122258&from=rss)
-* [2023-09-09, 11:05:00](https://soylentnews.org/article.pl?sid=23/09/09/0118233&from=rss) - [Cryptocurrency Startup Loses Encryption Key for Electronic Wallet](https://soylentnews.org/article.pl?sid=23/09/09/0118233&from=rss)
 
 ## [Archives](archives/index.md)
 
