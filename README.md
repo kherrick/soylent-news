@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-20, 10:35:00](https://soylentnews.org/article.pl?sid=23/09/19/0348220&from=rss) - [Novel Electrical Therapy Rebuilds Muscles Lost Through Natural Aging](https://soylentnews.org/article.pl?sid=23/09/19/0348220&from=rss)
 * [2023-09-20, 05:48:00](https://soylentnews.org/article.pl?sid=23/09/19/0321242&from=rss) - [Multispectral Imaging Shows Erased Evidence of Ancient Star Catalogue](https://soylentnews.org/article.pl?sid=23/09/19/0321242&from=rss)
 * [2023-09-20, 01:00:00](https://soylentnews.org/article.pl?sid=23/09/19/0145212&from=rss) - [SpaceX Raptor Engine Passes Cold Test for Artemis Moon Mission](https://soylentnews.org/article.pl?sid=23/09/19/0145212&from=rss)
 * [2023-09-19, 22:31:00](https://soylentnews.org/breakingnews/article.pl?sid=23/09/19/1928222&from=rss) - [Congratulations JR!](https://soylentnews.org/breakingnews/article.pl?sid=23/09/19/1928222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-11, 07:52:00](https://soylentnews.org/article.pl?sid=23/09/10/1743212&from=rss) - [Judge Issues Legal Permaban, $500K Judgment Against Serial Destiny 2 Cheater](https://soylentnews.org/article.pl?sid=23/09/10/1743212&from=rss)
 * [2023-09-11, 03:12:00](https://soylentnews.org/article.pl?sid=23/09/10/0316215&from=rss) - [NASA's Asteroid Sample is About to Plunge 63K Miles to Earth](https://soylentnews.org/article.pl?sid=23/09/10/0316215&from=rss)
 * [2023-09-10, 22:27:00](https://soylentnews.org/article.pl?sid=23/09/10/034238&from=rss) - [Powerpoint Creator Dennis Austin Dead at 76](https://soylentnews.org/article.pl?sid=23/09/10/034238&from=rss)
-* [2023-09-10, 17:42:00](https://soylentnews.org/article.pl?sid=23/09/09/0752258&from=rss) - [Machine Learning Helps Researchers Identify Hit Songs With 97% Accuracy](https://soylentnews.org/article.pl?sid=23/09/09/0752258&from=rss)
 
 ## [Archives](archives/index.md)
 
