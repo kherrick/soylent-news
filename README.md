@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-20, 15:03:00](https://soylentnews.org/article.pl?sid=23/09/19/0624244&from=rss) - [CERN Swaps Databases To Tackle Its Petabyte-A-Day Habit](https://soylentnews.org/article.pl?sid=23/09/19/0624244&from=rss)
 * [2023-09-20, 10:35:00](https://soylentnews.org/article.pl?sid=23/09/19/0348220&from=rss) - [Novel Electrical Therapy Rebuilds Muscles Lost Through Natural Aging](https://soylentnews.org/article.pl?sid=23/09/19/0348220&from=rss)
 * [2023-09-20, 05:48:00](https://soylentnews.org/article.pl?sid=23/09/19/0321242&from=rss) - [Multispectral Imaging Shows Erased Evidence of Ancient Star Catalogue](https://soylentnews.org/article.pl?sid=23/09/19/0321242&from=rss)
 * [2023-09-20, 01:00:00](https://soylentnews.org/article.pl?sid=23/09/19/0145212&from=rss) - [SpaceX Raptor Engine Passes Cold Test for Artemis Moon Mission](https://soylentnews.org/article.pl?sid=23/09/19/0145212&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-11, 12:38:00](https://soylentnews.org/article.pl?sid=23/09/10/1744214&from=rss) - [Cutting Back on Social Media Reduces Anxiety, Depression, Loneliness](https://soylentnews.org/article.pl?sid=23/09/10/1744214&from=rss)
 * [2023-09-11, 07:52:00](https://soylentnews.org/article.pl?sid=23/09/10/1743212&from=rss) - [Judge Issues Legal Permaban, $500K Judgment Against Serial Destiny 2 Cheater](https://soylentnews.org/article.pl?sid=23/09/10/1743212&from=rss)
 * [2023-09-11, 03:12:00](https://soylentnews.org/article.pl?sid=23/09/10/0316215&from=rss) - [NASA's Asteroid Sample is About to Plunge 63K Miles to Earth](https://soylentnews.org/article.pl?sid=23/09/10/0316215&from=rss)
-* [2023-09-10, 22:27:00](https://soylentnews.org/article.pl?sid=23/09/10/034238&from=rss) - [Powerpoint Creator Dennis Austin Dead at 76](https://soylentnews.org/article.pl?sid=23/09/10/034238&from=rss)
 
 ## [Archives](archives/index.md)
 
