@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-21, 15:18:00](https://soylentnews.org/article.pl?sid=23/09/19/0616251&from=rss) - [“Most Notorious” Illegal Shadow Library Sued by Textbook Publishers [Updated]](https://soylentnews.org/article.pl?sid=23/09/19/0616251&from=rss)
 * [2023-09-21, 10:20:00](https://soylentnews.org/article.pl?sid=23/09/19/1841244&from=rss) - [A Line at a Time: The Atari 2600, Now with S-Video](https://soylentnews.org/article.pl?sid=23/09/19/1841244&from=rss)
 * [2023-09-21, 05:34:00](https://soylentnews.org/article.pl?sid=23/09/19/1823207&from=rss) - [Trial Finds MDMA Effective For PTSD, On Path To FDA Approval](https://soylentnews.org/article.pl?sid=23/09/19/1823207&from=rss)
 * [2023-09-21, 00:48:00](https://soylentnews.org/article.pl?sid=23/09/19/0629250&from=rss) - [Project X Followup ('57 Chevy EV Conversion)](https://soylentnews.org/article.pl?sid=23/09/19/0629250&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-12, 12:13:00](https://soylentnews.org/article.pl?sid=23/09/12/0116256&from=rss) - [X's and Ads and Moderation](https://soylentnews.org/article.pl?sid=23/09/12/0116256&from=rss)
 * [2023-09-12, 07:31:00](https://soylentnews.org/article.pl?sid=23/09/11/0452224&from=rss) - [OpenAI Admits That AI Writing Detectors Don't Work](https://soylentnews.org/article.pl?sid=23/09/11/0452224&from=rss)
 * [2023-09-12, 02:45:00](https://soylentnews.org/article.pl?sid=23/09/11/0450245&from=rss) - [New Frontier Aerospace Bridges Hypersonic Past And Future](https://soylentnews.org/article.pl?sid=23/09/11/0450245&from=rss)
-* [2023-09-11, 22:01:00](https://soylentnews.org/article.pl?sid=23/09/11/0436232&from=rss) - [Left-over Apollo Tech is Causing Moonquakes on the Lunar Surface](https://soylentnews.org/article.pl?sid=23/09/11/0436232&from=rss)
 
 ## [Archives](archives/index.md)
 
