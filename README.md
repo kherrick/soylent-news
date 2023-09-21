@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-21, 00:48:00](https://soylentnews.org/article.pl?sid=23/09/19/0629250&from=rss) - [Project X Followup ('57 Chevy EV Conversion)](https://soylentnews.org/article.pl?sid=23/09/19/0629250&from=rss)
 * [2023-09-20, 19:49:00](https://soylentnews.org/article.pl?sid=23/09/20/1120220&from=rss) - [Time To Stuff Surveillance Gear In Your Pants](https://soylentnews.org/article.pl?sid=23/09/20/1120220&from=rss)
 * [2023-09-20, 15:03:00](https://soylentnews.org/article.pl?sid=23/09/19/0624244&from=rss) - [CERN Swaps Databases To Tackle Its Petabyte-A-Day Habit](https://soylentnews.org/article.pl?sid=23/09/19/0624244&from=rss)
 * [2023-09-20, 10:35:00](https://soylentnews.org/article.pl?sid=23/09/19/0348220&from=rss) - [Novel Electrical Therapy Rebuilds Muscles Lost Through Natural Aging](https://soylentnews.org/article.pl?sid=23/09/19/0348220&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-11, 22:01:00](https://soylentnews.org/article.pl?sid=23/09/11/0436232&from=rss) - [Left-over Apollo Tech is Causing Moonquakes on the Lunar Surface](https://soylentnews.org/article.pl?sid=23/09/11/0436232&from=rss)
 * [2023-09-11, 17:21:00](https://soylentnews.org/article.pl?sid=23/09/10/1750220&from=rss) - [Spotify Used to Launder Drug Money?](https://soylentnews.org/article.pl?sid=23/09/10/1750220&from=rss)
 * [2023-09-11, 12:38:00](https://soylentnews.org/article.pl?sid=23/09/10/1744214&from=rss) - [Cutting Back on Social Media Reduces Anxiety, Depression, Loneliness](https://soylentnews.org/article.pl?sid=23/09/10/1744214&from=rss)
-* [2023-09-11, 07:52:00](https://soylentnews.org/article.pl?sid=23/09/10/1743212&from=rss) - [Judge Issues Legal Permaban, $500K Judgment Against Serial Destiny 2 Cheater](https://soylentnews.org/article.pl?sid=23/09/10/1743212&from=rss)
 
 ## [Archives](archives/index.md)
 
