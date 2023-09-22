@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-22, 10:16:00](https://soylentnews.org/article.pl?sid=23/09/20/1130245&from=rss) - [Societal Collapse is Underway and Museums Can be Unlikely Heroes, Suggests Expert](https://soylentnews.org/article.pl?sid=23/09/20/1130245&from=rss)
 * [2023-09-22, 05:33:00](https://soylentnews.org/article.pl?sid=23/09/20/1124240&from=rss) - [AMD Launches Epyc 8004-Series 'Siena' CPUs: Up to 64 Zen 4C Cores](https://soylentnews.org/article.pl?sid=23/09/20/1124240&from=rss)
 * [2023-09-22, 00:46:00](https://soylentnews.org/article.pl?sid=23/09/20/023210&from=rss) - [Gene Required for Root Hair Growth, Nitrate Foraging Found in Grasses](https://soylentnews.org/article.pl?sid=23/09/20/023210&from=rss)
 * [2023-09-21, 19:56:00](https://soylentnews.org/article.pl?sid=23/09/19/2137204&from=rss) - [Powerful Nerf Blaster Aims to Fire 100 Darts Per Second](https://soylentnews.org/article.pl?sid=23/09/19/2137204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-13, 12:37:00](https://soylentnews.org/article.pl?sid=23/09/12/1228227&from=rss) - [NCSA Mosaic Launched 30 Years Ago](https://soylentnews.org/article.pl?sid=23/09/12/1228227&from=rss)
 * [2023-09-13, 07:48:00](https://soylentnews.org/article.pl?sid=23/09/12/0150208&from=rss) - [Microsoft Plans To Capture Carbon Using Crushed Limestone](https://soylentnews.org/article.pl?sid=23/09/12/0150208&from=rss)
 * [2023-09-13, 03:03:00](https://soylentnews.org/article.pl?sid=23/09/12/0146222&from=rss) - [Subscriptions Drive Views of Extremist Videos on YouTube](https://soylentnews.org/article.pl?sid=23/09/12/0146222&from=rss)
-* [2023-09-12, 21:43:00](https://soylentnews.org/article.pl?sid=23/09/12/0124206&from=rss) - [Hitting the Books: The Programming Trick That Gave Us DOOM Multiplayer](https://soylentnews.org/article.pl?sid=23/09/12/0124206&from=rss)
 
 ## [Archives](archives/index.md)
 
