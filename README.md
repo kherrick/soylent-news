@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-23, 09:10:00](https://soylentnews.org/article.pl?sid=23/09/22/0623207&from=rss) - [Signal Adds Quantum-resistant Encryption to its E2EE Messaging Protocol](https://soylentnews.org/article.pl?sid=23/09/22/0623207&from=rss)
 * [2023-09-23, 04:25:00](https://soylentnews.org/article.pl?sid=23/09/22/068234&from=rss) - [More Immutable Distribution Fun](https://soylentnews.org/article.pl?sid=23/09/22/068234&from=rss)
 * [2023-09-22, 23:44:00](https://soylentnews.org/article.pl?sid=23/09/22/0238256&from=rss) - [NASA's Parker Probe Flew Through a Massive Solar Eruption and Caught it all on Camera](https://soylentnews.org/article.pl?sid=23/09/22/0238256&from=rss)
 * [2023-09-22, 19:44:00](https://soylentnews.org/article.pl?sid=23/09/20/0917257&from=rss) - [New Categorization of Cells in Human Body Found](https://soylentnews.org/article.pl?sid=23/09/20/0917257&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-14, 12:14:00](https://soylentnews.org/article.pl?sid=23/09/13/0325201&from=rss) - [Autonomous Truck Platoons Are a Bust, but They Work If You Put Them on Rails](https://soylentnews.org/article.pl?sid=23/09/13/0325201&from=rss)
 * [2023-09-14, 07:33:00](https://soylentnews.org/article.pl?sid=23/09/13/034240&from=rss) - [How China Gets Free Intel on Tech Companies’ Vulnerabilities](https://soylentnews.org/article.pl?sid=23/09/13/034240&from=rss)
 * [2023-09-14, 02:48:00](https://soylentnews.org/article.pl?sid=23/09/13/030256&from=rss) - [Potentially The World's Largest Lithium Deposit Has Been Found In The US](https://soylentnews.org/article.pl?sid=23/09/13/030256&from=rss)
-* [2023-09-13, 22:07:00](https://soylentnews.org/article.pl?sid=23/09/13/0252211&from=rss) - [Webb Telescope Detects Some Molecules Associated With Life in Exoplanet Atmosphere](https://soylentnews.org/article.pl?sid=23/09/13/0252211&from=rss)
 
 ## [Archives](archives/index.md)
 
