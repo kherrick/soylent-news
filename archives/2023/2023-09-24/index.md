@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-09-24](index.md)
+
+* [2023-09-24, 04:17:00](https://soylentnews.org/article.pl?sid=23/09/23/1737218&from=rss) - [Yelp Names and Shames Businesses Paying for 5-Star Reviews](https://soylentnews.org/article.pl?sid=23/09/23/1737218&from=rss)
