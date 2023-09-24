@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-24, 09:03:00](https://soylentnews.org/article.pl?sid=23/09/23/1738248&from=rss) - [Sandy Pentland on AI, Future Systems and Regulation](https://soylentnews.org/article.pl?sid=23/09/23/1738248&from=rss)
 * [2023-09-24, 08:36:00](https://soylentnews.org/article.pl?sid=23/09/24/0818209&from=rss) - [Osiris-Rex: NASA Awaits Fiery Return of Asteroid Bennu Samples](https://soylentnews.org/article.pl?sid=23/09/24/0818209&from=rss)
 * [2023-09-24, 04:17:00](https://soylentnews.org/article.pl?sid=23/09/23/1737218&from=rss) - [Yelp Names and Shames Businesses Paying for 5-Star Reviews](https://soylentnews.org/article.pl?sid=23/09/23/1737218&from=rss)
 * [2023-09-23, 23:32:00](https://soylentnews.org/article.pl?sid=23/09/23/0623210&from=rss) - [TSMC and Arizona in Discussions Over Bringing Advanced Chip Packaging Facility to the State](https://soylentnews.org/article.pl?sid=23/09/23/0623210&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-15, 16:47:00](https://soylentnews.org/article.pl?sid=23/09/13/0656250&from=rss) - [New Water Treatment Approach Helps To Avoid Harmful Chemicals](https://soylentnews.org/article.pl?sid=23/09/13/0656250&from=rss)
 * [2023-09-15, 12:02:00](https://soylentnews.org/article.pl?sid=23/09/13/0651217&from=rss) - [Intel Confirms Thunderbolt 5 Name, 120Gbps Tech Arrives in 2024](https://soylentnews.org/article.pl?sid=23/09/13/0651217&from=rss)
 * [2023-09-15, 07:15:00](https://soylentnews.org/article.pl?sid=23/09/13/0647202&from=rss) - [Was Warfare Responsible for the Fall of Small-Scale Societies?](https://soylentnews.org/article.pl?sid=23/09/13/0647202&from=rss)
-* [2023-09-15, 02:33:00](https://soylentnews.org/article.pl?sid=23/09/13/0645203&from=rss) - [Apple Chips Made In The US Still Require Assembly In Taiwan, Report Suggests](https://soylentnews.org/article.pl?sid=23/09/13/0645203&from=rss)
 
 ## [Archives](archives/index.md)
 
