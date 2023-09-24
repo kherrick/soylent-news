@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-24, 18:33:00](https://soylentnews.org/article.pl?sid=23/09/23/1811223&from=rss) - [Online Child Safety Law Blocked After Calif. Argued Face Scans Not That Invasive](https://soylentnews.org/article.pl?sid=23/09/23/1811223&from=rss)
 * [2023-09-24, 13:48:00](https://soylentnews.org/article.pl?sid=23/09/23/189224&from=rss) - [Microsoft AI Team Accidentally Leaks 38TB of Private Company Data](https://soylentnews.org/article.pl?sid=23/09/23/189224&from=rss)
 * [2023-09-24, 09:03:00](https://soylentnews.org/article.pl?sid=23/09/23/1738248&from=rss) - [Sandy Pentland on AI, Future Systems and Regulation](https://soylentnews.org/article.pl?sid=23/09/23/1738248&from=rss)
 * [2023-09-24, 08:36:00](https://soylentnews.org/article.pl?sid=23/09/24/0818209&from=rss) - [Osiris-Rex: NASA Awaits Fiery Return of Asteroid Bennu Samples](https://soylentnews.org/article.pl?sid=23/09/24/0818209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-16, 02:14:00](https://soylentnews.org/article.pl?sid=23/09/13/1644258&from=rss) - [Good vs Evil: How the Urge to Win Drives Gaming Decisions](https://soylentnews.org/article.pl?sid=23/09/13/1644258&from=rss)
 * [2023-09-15, 21:29:00](https://soylentnews.org/article.pl?sid=23/09/13/071235&from=rss) - [People in Power Who Are Guilt-Prone Are Less Likely to be Corrupt](https://soylentnews.org/article.pl?sid=23/09/13/071235&from=rss)
 * [2023-09-15, 16:47:00](https://soylentnews.org/article.pl?sid=23/09/13/0656250&from=rss) - [New Water Treatment Approach Helps To Avoid Harmful Chemicals](https://soylentnews.org/article.pl?sid=23/09/13/0656250&from=rss)
-* [2023-09-15, 12:02:00](https://soylentnews.org/article.pl?sid=23/09/13/0651217&from=rss) - [Intel Confirms Thunderbolt 5 Name, 120Gbps Tech Arrives in 2024](https://soylentnews.org/article.pl?sid=23/09/13/0651217&from=rss)
 
 ## [Archives](archives/index.md)
 
