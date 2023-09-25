@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-25, 03:58:00](https://soylentnews.org/article.pl?sid=23/09/24/1759239&from=rss) - [Americans Do Talk About Peace, Just Not The Same Way People Do In Other Countries](https://soylentnews.org/article.pl?sid=23/09/24/1759239&from=rss)
 * [2023-09-24, 23:14:00](https://soylentnews.org/article.pl?sid=23/09/24/1756201&from=rss) - [Elon is Looking for a Few Good Test Subjects.](https://soylentnews.org/article.pl?sid=23/09/24/1756201&from=rss)
 * [2023-09-24, 18:33:00](https://soylentnews.org/article.pl?sid=23/09/23/1811223&from=rss) - [Online Child Safety Law Blocked After Calif. Argued Face Scans Not That Invasive](https://soylentnews.org/article.pl?sid=23/09/23/1811223&from=rss)
 * [2023-09-24, 13:48:00](https://soylentnews.org/article.pl?sid=23/09/23/189224&from=rss) - [Microsoft AI Team Accidentally Leaks 38TB of Private Company Data](https://soylentnews.org/article.pl?sid=23/09/23/189224&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-16, 11:41:00](https://soylentnews.org/article.pl?sid=23/09/15/0412242&from=rss) - [Palantir Among Tech Firms Taking White House AI Pledge](https://soylentnews.org/article.pl?sid=23/09/15/0412242&from=rss)
 * [2023-09-16, 06:57:00](https://soylentnews.org/article.pl?sid=23/09/15/048208&from=rss) - [Scientists May Have A Solution To The International Space Station's Fungus Problem](https://soylentnews.org/article.pl?sid=23/09/15/048208&from=rss)
 * [2023-09-16, 02:14:00](https://soylentnews.org/article.pl?sid=23/09/13/1644258&from=rss) - [Good vs Evil: How the Urge to Win Drives Gaming Decisions](https://soylentnews.org/article.pl?sid=23/09/13/1644258&from=rss)
-* [2023-09-15, 21:29:00](https://soylentnews.org/article.pl?sid=23/09/13/071235&from=rss) - [People in Power Who Are Guilt-Prone Are Less Likely to be Corrupt](https://soylentnews.org/article.pl?sid=23/09/13/071235&from=rss)
 
 ## [Archives](archives/index.md)
 
