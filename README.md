@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-26, 00:31:00](https://soylentnews.org/article.pl?sid=23/09/25/225232&from=rss) - [Scientists Might Have Found Genetic Trigger for Parkinson's](https://soylentnews.org/article.pl?sid=23/09/25/225232&from=rss)
 * [2023-09-25, 19:47:00](https://soylentnews.org/article.pl?sid=23/09/25/2144214&from=rss) - [Water Fleas May Hold Key To Cleaner Environment And Better Human Health](https://soylentnews.org/article.pl?sid=23/09/25/2144214&from=rss)
 * [2023-09-25, 13:27:00](https://soylentnews.org/article.pl?sid=23/09/25/1048224&from=rss) - [Reverse-Engineering the Classic MK4116 16-Kilobit DRAM Chip](https://soylentnews.org/article.pl?sid=23/09/25/1048224&from=rss)
 * [2023-09-25, 08:43:00](https://soylentnews.org/article.pl?sid=23/09/24/184228&from=rss) - [Diabetes-Treating Implant Produces Oxygen to Support Islet Cells](https://soylentnews.org/article.pl?sid=23/09/24/184228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-17, 06:49:00](https://soylentnews.org/article.pl?sid=23/09/15/0610206&from=rss) - [Mistranslation of Newton’s First Law Discovered After Nearly 300 Years](https://soylentnews.org/article.pl?sid=23/09/15/0610206&from=rss)
 * [2023-09-17, 02:03:00](https://soylentnews.org/politics/article.pl?sid=23/09/15/065240&from=rss) - [When Does Tackling Health Misinfo Become Govt Censorship?](https://soylentnews.org/politics/article.pl?sid=23/09/15/065240&from=rss)
 * [2023-09-16, 21:17:00](https://soylentnews.org/article.pl?sid=23/09/15/0448238&from=rss) - [Free Download Manager Site Compromised to Distribute Linux Malware to Users for 3+ Years](https://soylentnews.org/article.pl?sid=23/09/15/0448238&from=rss)
-* [2023-09-16, 16:29:00](https://soylentnews.org/article.pl?sid=23/09/15/0422249&from=rss) - [Developer Dis-Unity](https://soylentnews.org/article.pl?sid=23/09/15/0422249&from=rss)
 
 ## [Archives](archives/index.md)
 
