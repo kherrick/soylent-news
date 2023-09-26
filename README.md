@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-26, 14:44:00](https://soylentnews.org/article.pl?sid=23/09/26/0525218&from=rss) - [Worm That Jumps From Rats to Slugs to Human Brains Has Invaded Southeast US](https://soylentnews.org/article.pl?sid=23/09/26/0525218&from=rss)
 * [2023-09-26, 10:04:00](https://soylentnews.org/article.pl?sid=23/09/26/0521217&from=rss) - [Lego Abandons Use of Recycled Plastic--No CO2 Savings](https://soylentnews.org/article.pl?sid=23/09/26/0521217&from=rss)
 * [2023-09-26, 06:43:00](https://soylentnews.org/article.pl?sid=23/09/26/0648234&from=rss) - [RIP - David McCallum: NCIS and the Man From U.N.C.L.E. Actor Dies Aged 90](https://soylentnews.org/article.pl?sid=23/09/26/0648234&from=rss)
 * [2023-09-26, 05:15:00](https://soylentnews.org/article.pl?sid=23/09/25/2342233&from=rss) - [Unity Makes Major Changes to Controversial Install-Fee Program](https://soylentnews.org/article.pl?sid=23/09/25/2342233&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-18, 01:40:00](https://soylentnews.org/article.pl?sid=23/09/17/1657213&from=rss) - [California Sends Country' Strongest Right-To-Repair Bill To Governor's Desk - 7  Years Of Parts](https://soylentnews.org/article.pl?sid=23/09/17/1657213&from=rss)
 * [2023-09-17, 20:56:00](https://soylentnews.org/article.pl?sid=23/09/17/1647217&from=rss) - [The Spectacular Downfall of a Common, Useless Cold Medicine](https://soylentnews.org/article.pl?sid=23/09/17/1647217&from=rss)
 * [2023-09-17, 16:13:00](https://soylentnews.org/article.pl?sid=23/09/17/0720239&from=rss) - [Tech Industry Leaders Endorse Regulating Artificial Intelligence at Rare Summit in Washington](https://soylentnews.org/article.pl?sid=23/09/17/0720239&from=rss)
-* [2023-09-17, 11:31:00](https://soylentnews.org/article.pl?sid=23/09/16/0913216&from=rss) - [2023 Ig Nobel Prize Winners Announced](https://soylentnews.org/article.pl?sid=23/09/16/0913216&from=rss)
 
 ## [Archives](archives/index.md)
 
