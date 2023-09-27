@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-27, 05:02:00](https://soylentnews.org/article.pl?sid=23/09/27/046213&from=rss) - [Microsoft is Going Nuclear](https://soylentnews.org/article.pl?sid=23/09/27/046213&from=rss)
 * [2023-09-27, 00:15:00](https://soylentnews.org/article.pl?sid=23/09/26/0534201&from=rss) - [Researchers Coin Neologism for the Anguish of Not Seeing Stars](https://soylentnews.org/article.pl?sid=23/09/26/0534201&from=rss)
 * [2023-09-26, 19:27:00](https://soylentnews.org/article.pl?sid=23/09/26/0528258&from=rss) - [Amazon Adding Ads to Prime Video in 2024 Unless You Pay $2.99 Extra](https://soylentnews.org/article.pl?sid=23/09/26/0528258&from=rss)
 * [2023-09-26, 14:44:00](https://soylentnews.org/article.pl?sid=23/09/26/0525218&from=rss) - [Worm That Jumps From Rats to Slugs to Human Brains Has Invaded Southeast US](https://soylentnews.org/article.pl?sid=23/09/26/0525218&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-18, 15:59:00](https://soylentnews.org/article.pl?sid=23/09/17/180228&from=rss) - [Scientist Shocks Peers By 'Tailoring' Climate Study](https://soylentnews.org/article.pl?sid=23/09/17/180228&from=rss)
 * [2023-09-18, 11:14:00](https://soylentnews.org/article.pl?sid=23/09/17/1752216&from=rss) - [Cheap LCD Uses USB Serial](https://soylentnews.org/article.pl?sid=23/09/17/1752216&from=rss)
 * [2023-09-18, 06:29:00](https://soylentnews.org/article.pl?sid=23/09/17/1747208&from=rss) - [Probe Reveals Secret Israeli Spyware That Infects Via Ad](https://soylentnews.org/article.pl?sid=23/09/17/1747208&from=rss)
-* [2023-09-18, 01:40:00](https://soylentnews.org/article.pl?sid=23/09/17/1657213&from=rss) - [California Sends Country' Strongest Right-To-Repair Bill To Governor's Desk - 7  Years Of Parts](https://soylentnews.org/article.pl?sid=23/09/17/1657213&from=rss)
 
 ## [Archives](archives/index.md)
 
