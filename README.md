@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-27, 19:17:00](https://soylentnews.org/article.pl?sid=23/09/27/0421219&from=rss) - [Unity Dev Group Dissolves After 13 Years Over “Completely Eroded” Company Trust](https://soylentnews.org/article.pl?sid=23/09/27/0421219&from=rss)
 * [2023-09-27, 14:35:00](https://soylentnews.org/article.pl?sid=23/09/27/0416249&from=rss) - [Modular LPDDR Memory Becomes A Reality: Samsung Introduces LPCAMM Memory Modules](https://soylentnews.org/article.pl?sid=23/09/27/0416249&from=rss)
 * [2023-09-27, 09:47:00](https://soylentnews.org/article.pl?sid=23/09/27/0413220&from=rss) - [Scientists Find 'Missing Ingredient' For Pink Diamonds](https://soylentnews.org/article.pl?sid=23/09/27/0413220&from=rss)
 * [2023-09-27, 05:02:00](https://soylentnews.org/article.pl?sid=23/09/27/046213&from=rss) - [Microsoft is Going Nuclear](https://soylentnews.org/article.pl?sid=23/09/27/046213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-19, 06:17:00](https://soylentnews.org/article.pl?sid=23/09/18/0140242&from=rss) - [A Phone Call to Helpdesk was Likely all it Took to Hack MGM](https://soylentnews.org/article.pl?sid=23/09/18/0140242&from=rss)
 * [2023-09-19, 01:31:00](https://soylentnews.org/article.pl?sid=23/09/18/0259231&from=rss) - [Exploring the Lunar South Pole: Lessons from Chandrayaan-3](https://soylentnews.org/article.pl?sid=23/09/18/0259231&from=rss)
 * [2023-09-18, 20:44:00](https://soylentnews.org/article.pl?sid=23/09/17/182253&from=rss) - [Coca-Cola Embraces Controversial AI Image Generator With New “Y3000” Flavor](https://soylentnews.org/article.pl?sid=23/09/17/182253&from=rss)
-* [2023-09-18, 15:59:00](https://soylentnews.org/article.pl?sid=23/09/17/180228&from=rss) - [Scientist Shocks Peers By 'Tailoring' Climate Study](https://soylentnews.org/article.pl?sid=23/09/17/180228&from=rss)
 
 ## [Archives](archives/index.md)
 
