@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-28, 23:42:00](https://soylentnews.org/article.pl?sid=23/09/28/1810205&from=rss) - [Security Researcher Warns of Chilling Effect After Feds Search Phone at Airport](https://soylentnews.org/article.pl?sid=23/09/28/1810205&from=rss)
 * [2023-09-28, 19:02:00](https://soylentnews.org/article.pl?sid=23/09/28/1510239&from=rss) - [Raspberry Pi 5 Announced](https://soylentnews.org/article.pl?sid=23/09/28/1510239&from=rss)
 * [2023-09-28, 14:10:00](https://soylentnews.org/article.pl?sid=23/09/28/0253250&from=rss) - [FTC Files “the Big One,” a Lawsuit Alleging Amazon Illegally Maintains Monopoly](https://soylentnews.org/article.pl?sid=23/09/28/0253250&from=rss)
 * [2023-09-28, 09:25:00](https://soylentnews.org/article.pl?sid=23/09/27/167200&from=rss) - [The History Of Syphilis Is Being Rewritten By A Medieval Skeleton](https://soylentnews.org/article.pl?sid=23/09/27/167200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-20, 05:48:00](https://soylentnews.org/article.pl?sid=23/09/19/0321242&from=rss) - [Multispectral Imaging Shows Erased Evidence of Ancient Star Catalogue](https://soylentnews.org/article.pl?sid=23/09/19/0321242&from=rss)
 * [2023-09-20, 01:00:00](https://soylentnews.org/article.pl?sid=23/09/19/0145212&from=rss) - [SpaceX Raptor Engine Passes Cold Test for Artemis Moon Mission](https://soylentnews.org/article.pl?sid=23/09/19/0145212&from=rss)
 * [2023-09-19, 22:31:00](https://soylentnews.org/breakingnews/article.pl?sid=23/09/19/1928222&from=rss) - [Congratulations JR!](https://soylentnews.org/breakingnews/article.pl?sid=23/09/19/1928222&from=rss)
-* [2023-09-19, 20:27:00](https://soylentnews.org/article.pl?sid=23/09/18/1819216&from=rss) - [The Future of Linux: Exploring Immutable Distributions](https://soylentnews.org/article.pl?sid=23/09/18/1819216&from=rss)
 
 ## [Archives](archives/index.md)
 
