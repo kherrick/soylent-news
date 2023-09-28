@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-28, 09:25:00](https://soylentnews.org/article.pl?sid=23/09/27/167200&from=rss) - [The History Of Syphilis Is Being Rewritten By A Medieval Skeleton](https://soylentnews.org/article.pl?sid=23/09/27/167200&from=rss)
 * [2023-09-28, 04:41:00](https://soylentnews.org/article.pl?sid=23/09/27/162249&from=rss) - [GPUs From All Major Suppliers Are Vulnerable to New Pixel-Stealing Attack](https://soylentnews.org/article.pl?sid=23/09/27/162249&from=rss)
 * [2023-09-28, 00:01:00](https://soylentnews.org/article.pl?sid=23/09/27/1559242&from=rss) - [Oracle Chooses Cybertruck Police Enforcement Vehicle](https://soylentnews.org/article.pl?sid=23/09/27/1559242&from=rss)
 * [2023-09-27, 19:17:00](https://soylentnews.org/article.pl?sid=23/09/27/0421219&from=rss) - [Unity Dev Group Dissolves After 13 Years Over “Completely Eroded” Company Trust](https://soylentnews.org/article.pl?sid=23/09/27/0421219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-19, 20:27:00](https://soylentnews.org/article.pl?sid=23/09/18/1819216&from=rss) - [The Future of Linux: Exploring Immutable Distributions](https://soylentnews.org/article.pl?sid=23/09/18/1819216&from=rss)
 * [2023-09-19, 15:42:00](https://soylentnews.org/article.pl?sid=23/09/18/1815207&from=rss) - [Unity Promises “Changes” to Install Fee Plans as Developer Fallout Continues](https://soylentnews.org/article.pl?sid=23/09/18/1815207&from=rss)
 * [2023-09-19, 11:01:00](https://soylentnews.org/article.pl?sid=23/09/18/1359238&from=rss) - [James Webb Captures the Stunning Outflows from an Infant Star](https://soylentnews.org/article.pl?sid=23/09/18/1359238&from=rss)
-* [2023-09-19, 06:17:00](https://soylentnews.org/article.pl?sid=23/09/18/0140242&from=rss) - [A Phone Call to Helpdesk was Likely all it Took to Hack MGM](https://soylentnews.org/article.pl?sid=23/09/18/0140242&from=rss)
 
 ## [Archives](archives/index.md)
 
