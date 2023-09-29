@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-29, 18:52:00](https://soylentnews.org/article.pl?sid=23/09/29/153232&from=rss) - [ChatGPT Update Enables its AI to “See, Hear, and Speak,“ According to OpenAI](https://soylentnews.org/article.pl?sid=23/09/29/153232&from=rss)
 * [2023-09-29, 17:00:00](https://soylentnews.org/meta/article.pl?sid=23/09/29/1630231&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, September 29th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/09/29/1630231&from=rss)
 * [2023-09-29, 14:07:00](https://soylentnews.org/article.pl?sid=23/09/29/030251&from=rss) - [Antimatter Falls Down, Not Up: First Experimental Evidence](https://soylentnews.org/article.pl?sid=23/09/29/030251&from=rss)
 * [2023-09-29, 09:14:00](https://soylentnews.org/article.pl?sid=23/09/28/1822248&from=rss) - [Amazon Limiting AI Generated Book Sales](https://soylentnews.org/article.pl?sid=23/09/28/1822248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-21, 05:34:00](https://soylentnews.org/article.pl?sid=23/09/19/1823207&from=rss) - [Trial Finds MDMA Effective For PTSD, On Path To FDA Approval](https://soylentnews.org/article.pl?sid=23/09/19/1823207&from=rss)
 * [2023-09-21, 00:48:00](https://soylentnews.org/article.pl?sid=23/09/19/0629250&from=rss) - [Project X Followup ('57 Chevy EV Conversion)](https://soylentnews.org/article.pl?sid=23/09/19/0629250&from=rss)
 * [2023-09-20, 19:49:00](https://soylentnews.org/article.pl?sid=23/09/20/1120220&from=rss) - [Time To Stuff Surveillance Gear In Your Pants](https://soylentnews.org/article.pl?sid=23/09/20/1120220&from=rss)
-* [2023-09-20, 15:03:00](https://soylentnews.org/article.pl?sid=23/09/19/0624244&from=rss) - [CERN Swaps Databases To Tackle Its Petabyte-A-Day Habit](https://soylentnews.org/article.pl?sid=23/09/19/0624244&from=rss)
 
 ## [Archives](archives/index.md)
 
