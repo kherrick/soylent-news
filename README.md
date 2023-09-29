@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-29, 09:14:00](https://soylentnews.org/article.pl?sid=23/09/28/1822248&from=rss) - [Amazon Limiting AI Generated Book Sales](https://soylentnews.org/article.pl?sid=23/09/28/1822248&from=rss)
 * [2023-09-29, 04:28:00](https://soylentnews.org/article.pl?sid=23/09/28/1811251&from=rss) - [Regulators Close Investigation Into Blue Origin's New Shepard Anomaly](https://soylentnews.org/article.pl?sid=23/09/28/1811251&from=rss)
 * [2023-09-28, 23:42:00](https://soylentnews.org/article.pl?sid=23/09/28/1810205&from=rss) - [Security Researcher Warns of Chilling Effect After Feds Search Phone at Airport](https://soylentnews.org/article.pl?sid=23/09/28/1810205&from=rss)
 * [2023-09-28, 19:02:00](https://soylentnews.org/article.pl?sid=23/09/28/1510239&from=rss) - [Raspberry Pi 5 Announced](https://soylentnews.org/article.pl?sid=23/09/28/1510239&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-20, 15:03:00](https://soylentnews.org/article.pl?sid=23/09/19/0624244&from=rss) - [CERN Swaps Databases To Tackle Its Petabyte-A-Day Habit](https://soylentnews.org/article.pl?sid=23/09/19/0624244&from=rss)
 * [2023-09-20, 10:35:00](https://soylentnews.org/article.pl?sid=23/09/19/0348220&from=rss) - [Novel Electrical Therapy Rebuilds Muscles Lost Through Natural Aging](https://soylentnews.org/article.pl?sid=23/09/19/0348220&from=rss)
 * [2023-09-20, 05:48:00](https://soylentnews.org/article.pl?sid=23/09/19/0321242&from=rss) - [Multispectral Imaging Shows Erased Evidence of Ancient Star Catalogue](https://soylentnews.org/article.pl?sid=23/09/19/0321242&from=rss)
-* [2023-09-20, 01:00:00](https://soylentnews.org/article.pl?sid=23/09/19/0145212&from=rss) - [SpaceX Raptor Engine Passes Cold Test for Artemis Moon Mission](https://soylentnews.org/article.pl?sid=23/09/19/0145212&from=rss)
 
 ## [Archives](archives/index.md)
 
