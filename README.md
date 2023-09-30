@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-09-30, 00:38:00](https://soylentnews.org/article.pl?sid=23/09/29/1750215&from=rss) - [Cloudflare Users Exposed to Attacks Launched From Within Cloudflare: Researchers](https://soylentnews.org/article.pl?sid=23/09/29/1750215&from=rss)
 * [2023-09-29, 20:31:00](https://soylentnews.org/article.pl?sid=23/09/29/2029240&from=rss) - [Dianne Feinstein, Longest-Serving Female US Senator in History, Dies at 90](https://soylentnews.org/article.pl?sid=23/09/29/2029240&from=rss)
 * [2023-09-29, 18:52:00](https://soylentnews.org/article.pl?sid=23/09/29/153232&from=rss) - [ChatGPT Update Enables its AI to “See, Hear, and Speak,“ According to OpenAI](https://soylentnews.org/article.pl?sid=23/09/29/153232&from=rss)
 * [2023-09-29, 17:00:00](https://soylentnews.org/meta/article.pl?sid=23/09/29/1630231&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, September 29th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/09/29/1630231&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-21, 15:18:00](https://soylentnews.org/article.pl?sid=23/09/19/0616251&from=rss) - [“Most Notorious” Illegal Shadow Library Sued by Textbook Publishers [Updated]](https://soylentnews.org/article.pl?sid=23/09/19/0616251&from=rss)
 * [2023-09-21, 10:20:00](https://soylentnews.org/article.pl?sid=23/09/19/1841244&from=rss) - [A Line at a Time: The Atari 2600, Now with S-Video](https://soylentnews.org/article.pl?sid=23/09/19/1841244&from=rss)
 * [2023-09-21, 05:34:00](https://soylentnews.org/article.pl?sid=23/09/19/1823207&from=rss) - [Trial Finds MDMA Effective For PTSD, On Path To FDA Approval](https://soylentnews.org/article.pl?sid=23/09/19/1823207&from=rss)
-* [2023-09-21, 00:48:00](https://soylentnews.org/article.pl?sid=23/09/19/0629250&from=rss) - [Project X Followup ('57 Chevy EV Conversion)](https://soylentnews.org/article.pl?sid=23/09/19/0629250&from=rss)
 
 ## [Archives](archives/index.md)
 
