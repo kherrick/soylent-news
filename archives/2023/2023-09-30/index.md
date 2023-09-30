@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 19:27:00](https://soylentnews.org/article.pl?sid=23/09/30/1537242&from=rss) - [The Dairy Industry is Trying to Outlaw Plant-Based “Milk” Labels—Again](https://soylentnews.org/article.pl?sid=23/09/30/1537242&from=rss)
 * [2023-09-30, 14:44:00](https://soylentnews.org/politics/article.pl?sid=23/09/30/0339235&from=rss) - [Impending Government Shutdown Will Disrupt Scientific Research](https://soylentnews.org/politics/article.pl?sid=23/09/30/0339235&from=rss)
 * [2023-09-30, 10:04:00](https://soylentnews.org/article.pl?sid=23/09/30/0320232&from=rss) - [Bing Chat Responses Infiltrated by Ads Pushing Malware](https://soylentnews.org/article.pl?sid=23/09/30/0320232&from=rss)
 * [2023-09-30, 05:16:00](https://soylentnews.org/article.pl?sid=23/09/30/0257227&from=rss) - [Disney’s Password-Sharing Crackdown has Begun](https://soylentnews.org/article.pl?sid=23/09/30/0257227&from=rss)
