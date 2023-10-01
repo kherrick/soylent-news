@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-01, 14:38:00](https://soylentnews.org/article.pl?sid=23/09/30/2133221&from=rss) - [Researchers Discover Two New Species Of Oil-Forming Yeast](https://soylentnews.org/article.pl?sid=23/09/30/2133221&from=rss)
 * [2023-10-01, 09:45:00](https://soylentnews.org/article.pl?sid=23/09/30/1941249&from=rss) - [We Finally Know for Sure What a Trilobite Ate](https://soylentnews.org/article.pl?sid=23/09/30/1941249&from=rss)
 * [2023-10-01, 05:00:00](https://soylentnews.org/article.pl?sid=23/09/30/1857226&from=rss) - [This Robotic Exoskeleton Can Help Runners Sprint Faster](https://soylentnews.org/article.pl?sid=23/09/30/1857226&from=rss)
 * [2023-10-01, 00:19:00](https://soylentnews.org/article.pl?sid=23/09/30/1541245&from=rss) - [Backdoored Firmware Lets China State Hackers Control Routers With “Magic Packets”](https://soylentnews.org/article.pl?sid=23/09/30/1541245&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-22, 23:44:00](https://soylentnews.org/article.pl?sid=23/09/22/0238256&from=rss) - [NASA's Parker Probe Flew Through a Massive Solar Eruption and Caught it all on Camera](https://soylentnews.org/article.pl?sid=23/09/22/0238256&from=rss)
 * [2023-09-22, 19:44:00](https://soylentnews.org/article.pl?sid=23/09/20/0917257&from=rss) - [New Categorization of Cells in Human Body Found](https://soylentnews.org/article.pl?sid=23/09/20/0917257&from=rss)
 * [2023-09-22, 15:01:00](https://soylentnews.org/article.pl?sid=23/09/20/1246249&from=rss) - [The Universe Caught Suppressing Cosmic Structure Growth](https://soylentnews.org/article.pl?sid=23/09/20/1246249&from=rss)
-* [2023-09-22, 10:16:00](https://soylentnews.org/article.pl?sid=23/09/20/1130245&from=rss) - [Societal Collapse is Underway and Museums Can be Unlikely Heroes, Suggests Expert](https://soylentnews.org/article.pl?sid=23/09/20/1130245&from=rss)
 
 ## [Archives](archives/index.md)
 
