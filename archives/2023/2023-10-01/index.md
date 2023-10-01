@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 05:00:00](https://soylentnews.org/article.pl?sid=23/09/30/1857226&from=rss) - [This Robotic Exoskeleton Can Help Runners Sprint Faster](https://soylentnews.org/article.pl?sid=23/09/30/1857226&from=rss)
 * [2023-10-01, 00:19:00](https://soylentnews.org/article.pl?sid=23/09/30/1541245&from=rss) - [Backdoored Firmware Lets China State Hackers Control Routers With “Magic Packets”](https://soylentnews.org/article.pl?sid=23/09/30/1541245&from=rss)
