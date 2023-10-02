@@ -1,7 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2023-10-02, 15:37:00](https://soylentnews.org/article.pl?sid=23/10/02/1540214&from=rss) - [System Problems](https://soylentnews.org/article.pl?sid=23/10/02/1540214&from=rss)
-* [2023-10-02, 14:30:00](https://soylentnews.org/article.pl?sid=23/10/02/150214&from=rss) - [Dooooooom! AI girlfriends are ruining a generation of men.](https://soylentnews.org/article.pl?sid=23/10/02/150214&from=rss)
+* [2023-10-02, 14:30:00](https://soylentnews.org/article.pl?sid=23/10/02/150214&from=rss) - [Dooooooom! AI Girlfriends Are Ruining a Generation of Men.](https://soylentnews.org/article.pl?sid=23/10/02/150214&from=rss)
 * [2023-10-02, 06:59:00](https://soylentnews.org/article.pl?sid=23/10/01/1251233&from=rss) - [Traditional Downtowns Are Dead or Dying in Many US Cities. What's Next for These Zones?](https://soylentnews.org/article.pl?sid=23/10/01/1251233&from=rss)
 * [2023-10-01, 14:38:00](https://soylentnews.org/article.pl?sid=23/09/30/2133221&from=rss) - [Researchers Discover Two New Species Of Oil-Forming Yeast](https://soylentnews.org/article.pl?sid=23/09/30/2133221&from=rss)
 * [2023-10-01, 09:45:00](https://soylentnews.org/article.pl?sid=23/09/30/1941249&from=rss) - [We Finally Know for Sure What a Trilobite Ate](https://soylentnews.org/article.pl?sid=23/09/30/1941249&from=rss)
