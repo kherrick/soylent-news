@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-02, 11:43:00](https://soylentnews.org/article.pl?sid=23/10/01/1721210&from=rss) - [Annular Solar Eclipse October 2023 and Total in April 2024](https://soylentnews.org/article.pl?sid=23/10/01/1721210&from=rss)
 * [2023-10-02, 06:59:00](https://soylentnews.org/article.pl?sid=23/10/01/1251233&from=rss) - [Traditional Downtowns Are Dead or Dying in Many US Cities. What's Next for These Zones?](https://soylentnews.org/article.pl?sid=23/10/01/1251233&from=rss)
 * [2023-10-02, 00:13:00](https://soylentnews.org/article.pl?sid=23/10/01/1027233&from=rss) - [Google lets you Opt out of AI training](https://soylentnews.org/article.pl?sid=23/10/01/1027233&from=rss)
 * [2023-10-01, 19:23:00](https://soylentnews.org/article.pl?sid=23/10/01/1237204&from=rss) - [Someone Tries Out the First Legal Level 3 Automated Driving System in the US](https://soylentnews.org/article.pl?sid=23/10/01/1237204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-23, 18:43:00](https://soylentnews.org/article.pl?sid=23/09/23/0614252&from=rss) - [EU Game Devs Ask Regulators to Look at Unity's “Anti-Competitive” Bundling](https://soylentnews.org/article.pl?sid=23/09/23/0614252&from=rss)
 * [2023-09-23, 13:56:00](https://soylentnews.org/article.pl?sid=23/09/22/0627222&from=rss) - [Archaeologists Find 500-Year-Old Board Game Carved in Ruins of Polish Castle](https://soylentnews.org/article.pl?sid=23/09/22/0627222&from=rss)
 * [2023-09-23, 09:10:00](https://soylentnews.org/article.pl?sid=23/09/22/0623207&from=rss) - [Signal Adds Quantum-resistant Encryption to its E2EE Messaging Protocol](https://soylentnews.org/article.pl?sid=23/09/22/0623207&from=rss)
-* [2023-09-23, 04:25:00](https://soylentnews.org/article.pl?sid=23/09/22/068234&from=rss) - [More Immutable Distribution Fun](https://soylentnews.org/article.pl?sid=23/09/22/068234&from=rss)
 
 ## [Archives](archives/index.md)
 
