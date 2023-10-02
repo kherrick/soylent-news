@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-02, 15:37:00](https://soylentnews.org/article.pl?sid=23/10/02/1540214&from=rss) - [System Problems](https://soylentnews.org/article.pl?sid=23/10/02/1540214&from=rss)
 * [2023-10-02, 14:30:00](https://soylentnews.org/article.pl?sid=23/10/02/150214&from=rss) - [Dooooooom! AI girlfriends are ruining a generation of men.](https://soylentnews.org/article.pl?sid=23/10/02/150214&from=rss)
 * [2023-10-02, 06:59:00](https://soylentnews.org/article.pl?sid=23/10/01/1251233&from=rss) - [Traditional Downtowns Are Dead or Dying in Many US Cities. What's Next for These Zones?](https://soylentnews.org/article.pl?sid=23/10/01/1251233&from=rss)
 * [2023-10-01, 14:38:00](https://soylentnews.org/article.pl?sid=23/09/30/2133221&from=rss) - [Researchers Discover Two New Species Of Oil-Forming Yeast](https://soylentnews.org/article.pl?sid=23/09/30/2133221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-23, 13:56:00](https://soylentnews.org/article.pl?sid=23/09/22/0627222&from=rss) - [Archaeologists Find 500-Year-Old Board Game Carved in Ruins of Polish Castle](https://soylentnews.org/article.pl?sid=23/09/22/0627222&from=rss)
 * [2023-09-23, 09:10:00](https://soylentnews.org/article.pl?sid=23/09/22/0623207&from=rss) - [Signal Adds Quantum-resistant Encryption to its E2EE Messaging Protocol](https://soylentnews.org/article.pl?sid=23/09/22/0623207&from=rss)
 * [2023-09-23, 04:25:00](https://soylentnews.org/article.pl?sid=23/09/22/068234&from=rss) - [More Immutable Distribution Fun](https://soylentnews.org/article.pl?sid=23/09/22/068234&from=rss)
-* [2023-09-22, 23:44:00](https://soylentnews.org/article.pl?sid=23/09/22/0238256&from=rss) - [NASA's Parker Probe Flew Through a Massive Solar Eruption and Caught it all on Camera](https://soylentnews.org/article.pl?sid=23/09/22/0238256&from=rss)
 
 ## [Archives](archives/index.md)
 
