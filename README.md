@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-03, 14:01:00](https://soylentnews.org/article.pl?sid=23/10/02/1818211&from=rss) - [Elon Musk's X Removes General Option to Report Misleading Info About Politics](https://soylentnews.org/article.pl?sid=23/10/02/1818211&from=rss)
 * [2023-10-03, 09:16:00](https://soylentnews.org/article.pl?sid=23/10/02/1737228&from=rss) - [PSA: FEMA And The FCC To Test National Emergency Alert Systems On October 4](https://soylentnews.org/article.pl?sid=23/10/02/1737228&from=rss)
 * [2023-10-03, 04:28:00](https://soylentnews.org/article.pl?sid=23/10/02/1549204&from=rss) - [Nissan to Go All-Electric by 2030 Despite Petrol Ban Delay](https://soylentnews.org/article.pl?sid=23/10/02/1549204&from=rss)
 * [2023-10-02, 23:43:00](https://soylentnews.org/article.pl?sid=23/10/02/1546236&from=rss) - [Annular Solar Eclipse October 2023 and Total in April 2024](https://soylentnews.org/article.pl?sid=23/10/02/1546236&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-24, 09:03:00](https://soylentnews.org/article.pl?sid=23/09/23/1738248&from=rss) - [Sandy Pentland on AI, Future Systems and Regulation](https://soylentnews.org/article.pl?sid=23/09/23/1738248&from=rss)
 * [2023-09-24, 08:36:00](https://soylentnews.org/article.pl?sid=23/09/24/0818209&from=rss) - [Osiris-Rex: NASA Awaits Fiery Return of Asteroid Bennu Samples](https://soylentnews.org/article.pl?sid=23/09/24/0818209&from=rss)
 * [2023-09-24, 04:17:00](https://soylentnews.org/article.pl?sid=23/09/23/1737218&from=rss) - [Yelp Names and Shames Businesses Paying for 5-Star Reviews](https://soylentnews.org/article.pl?sid=23/09/23/1737218&from=rss)
-* [2023-09-23, 23:32:00](https://soylentnews.org/article.pl?sid=23/09/23/0623210&from=rss) - [TSMC and Arizona in Discussions Over Bringing Advanced Chip Packaging Facility to the State](https://soylentnews.org/article.pl?sid=23/09/23/0623210&from=rss)
 
 ## [Archives](archives/index.md)
 
