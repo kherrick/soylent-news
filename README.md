@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-03, 23:28:00](https://soylentnews.org/article.pl?sid=23/10/03/0355208&from=rss) - [How Lockheed Martin Designed the X-59, the World’s Weirdest, Quietest Supersonic Jet](https://soylentnews.org/article.pl?sid=23/10/03/0355208&from=rss)
 * [2023-10-03, 18:48:00](https://soylentnews.org/article.pl?sid=23/10/03/0328252&from=rss) - [Kerbal Space Program 2 Has a Big Pre-Launch Issue: Windows Registry Stuffing](https://soylentnews.org/article.pl?sid=23/10/03/0328252&from=rss)
 * [2023-10-03, 14:01:00](https://soylentnews.org/article.pl?sid=23/10/02/1818211&from=rss) - [Elon Musk's X Removes General Option to Report Misleading Info About Politics](https://soylentnews.org/article.pl?sid=23/10/02/1818211&from=rss)
 * [2023-10-03, 09:16:00](https://soylentnews.org/article.pl?sid=23/10/02/1737228&from=rss) - [PSA: FEMA And The FCC To Test National Emergency Alert Systems On October 4](https://soylentnews.org/article.pl?sid=23/10/02/1737228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-24, 18:33:00](https://soylentnews.org/article.pl?sid=23/09/23/1811223&from=rss) - [Online Child Safety Law Blocked After Calif. Argued Face Scans Not That Invasive](https://soylentnews.org/article.pl?sid=23/09/23/1811223&from=rss)
 * [2023-09-24, 13:48:00](https://soylentnews.org/article.pl?sid=23/09/23/189224&from=rss) - [Microsoft AI Team Accidentally Leaks 38TB of Private Company Data](https://soylentnews.org/article.pl?sid=23/09/23/189224&from=rss)
 * [2023-09-24, 09:03:00](https://soylentnews.org/article.pl?sid=23/09/23/1738248&from=rss) - [Sandy Pentland on AI, Future Systems and Regulation](https://soylentnews.org/article.pl?sid=23/09/23/1738248&from=rss)
-* [2023-09-24, 08:36:00](https://soylentnews.org/article.pl?sid=23/09/24/0818209&from=rss) - [Osiris-Rex: NASA Awaits Fiery Return of Asteroid Bennu Samples](https://soylentnews.org/article.pl?sid=23/09/24/0818209&from=rss)
 
 ## [Archives](archives/index.md)
 
