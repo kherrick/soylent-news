@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-04, 09:03:00](https://soylentnews.org/article.pl?sid=23/10/03/1546205&from=rss) - [Google Lets You Opt Out of AI Training](https://soylentnews.org/article.pl?sid=23/10/03/1546205&from=rss)
 * [2023-10-04, 04:13:00](https://soylentnews.org/article.pl?sid=23/10/03/1542210&from=rss) - [What Math Can Teach Us About Standing Up to Bullies](https://soylentnews.org/article.pl?sid=23/10/03/1542210&from=rss)
 * [2023-10-03, 23:28:00](https://soylentnews.org/article.pl?sid=23/10/03/0355208&from=rss) - [How Lockheed Martin Designed the X-59, the World’s Weirdest, Quietest Supersonic Jet](https://soylentnews.org/article.pl?sid=23/10/03/0355208&from=rss)
 * [2023-10-03, 18:48:00](https://soylentnews.org/article.pl?sid=23/10/03/0328252&from=rss) - [Kerbal Space Program 2 Has a Big Pre-Launch Issue: Windows Registry Stuffing](https://soylentnews.org/article.pl?sid=23/10/03/0328252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-25, 03:58:00](https://soylentnews.org/article.pl?sid=23/09/24/1759239&from=rss) - [Americans Do Talk About Peace, Just Not The Same Way People Do In Other Countries](https://soylentnews.org/article.pl?sid=23/09/24/1759239&from=rss)
 * [2023-09-24, 23:14:00](https://soylentnews.org/article.pl?sid=23/09/24/1756201&from=rss) - [Elon is Looking for a Few Good Test Subjects](https://soylentnews.org/article.pl?sid=23/09/24/1756201&from=rss)
 * [2023-09-24, 18:33:00](https://soylentnews.org/article.pl?sid=23/09/23/1811223&from=rss) - [Online Child Safety Law Blocked After Calif. Argued Face Scans Not That Invasive](https://soylentnews.org/article.pl?sid=23/09/23/1811223&from=rss)
-* [2023-09-24, 13:48:00](https://soylentnews.org/article.pl?sid=23/09/23/189224&from=rss) - [Microsoft AI Team Accidentally Leaks 38TB of Private Company Data](https://soylentnews.org/article.pl?sid=23/09/23/189224&from=rss)
 
 ## [Archives](archives/index.md)
 

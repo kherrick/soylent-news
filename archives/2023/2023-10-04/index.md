@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 09:03:00](https://soylentnews.org/article.pl?sid=23/10/03/1546205&from=rss) - [Google Lets You Opt Out of AI Training](https://soylentnews.org/article.pl?sid=23/10/03/1546205&from=rss)
 * [2023-10-04, 04:13:00](https://soylentnews.org/article.pl?sid=23/10/03/1542210&from=rss) - [What Math Can Teach Us About Standing Up to Bullies](https://soylentnews.org/article.pl?sid=23/10/03/1542210&from=rss)
