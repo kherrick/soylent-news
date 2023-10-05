@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-05, 04:04:00](https://soylentnews.org/article.pl?sid=23/10/04/1956240&from=rss) - [Ask Soylent: Implementing Hybrid Engines in NASCAR](https://soylentnews.org/article.pl?sid=23/10/04/1956240&from=rss)
 * [2023-10-04, 23:17:00](https://soylentnews.org/article.pl?sid=23/10/04/1319227&from=rss) - [Reddit is Removing Ability to Opt Out of Ad Personalization Based on Your Activity on the Platform](https://soylentnews.org/article.pl?sid=23/10/04/1319227&from=rss)
 * [2023-10-04, 18:32:00](https://soylentnews.org/article.pl?sid=23/10/04/1313209&from=rss) - [Microsoft CEO Warns of \"Nightmare\" Future for AI If Google's Search Dominance Continues](https://soylentnews.org/article.pl?sid=23/10/04/1313209&from=rss)
 * [2023-10-04, 13:47:00](https://soylentnews.org/article.pl?sid=23/10/03/1551229&from=rss) - [Linux Distros Need To Take More Responsibility For Security](https://soylentnews.org/article.pl?sid=23/10/03/1551229&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-26, 00:31:00](https://soylentnews.org/article.pl?sid=23/09/25/225232&from=rss) - [Scientists Might Have Found Genetic Trigger for Parkinson's](https://soylentnews.org/article.pl?sid=23/09/25/225232&from=rss)
 * [2023-09-25, 19:47:00](https://soylentnews.org/article.pl?sid=23/09/25/2144214&from=rss) - [Water Fleas May Hold Key To Cleaner Environment And Better Human Health](https://soylentnews.org/article.pl?sid=23/09/25/2144214&from=rss)
 * [2023-09-25, 13:27:00](https://soylentnews.org/article.pl?sid=23/09/25/1048224&from=rss) - [Reverse-Engineering the Classic MK4116 16-Kilobit DRAM Chip](https://soylentnews.org/article.pl?sid=23/09/25/1048224&from=rss)
-* [2023-09-25, 08:43:00](https://soylentnews.org/article.pl?sid=23/09/24/184228&from=rss) - [Diabetes-Treating Implant Produces Oxygen to Support Islet Cells](https://soylentnews.org/article.pl?sid=23/09/24/184228&from=rss)
 
 ## [Archives](archives/index.md)
 
