@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-05, 13:37:00](https://soylentnews.org/article.pl?sid=23/10/05/0229210&from=rss) - [Nuclear Clock Breakthrough Promises Near-Timeless Accuracy](https://soylentnews.org/article.pl?sid=23/10/05/0229210&from=rss)
 * [2023-10-05, 08:49:00](https://soylentnews.org/article.pl?sid=23/10/04/212218&from=rss) - [Anti-Viral Drug Backfires: COVID Drug Linked to Viral Mutations That Spread](https://soylentnews.org/article.pl?sid=23/10/04/212218&from=rss)
 * [2023-10-05, 04:04:00](https://soylentnews.org/article.pl?sid=23/10/04/1956240&from=rss) - [Ask Soylent: Implementing Hybrid Engines in NASCAR](https://soylentnews.org/article.pl?sid=23/10/04/1956240&from=rss)
 * [2023-10-04, 23:17:00](https://soylentnews.org/article.pl?sid=23/10/04/1319227&from=rss) - [Reddit is Removing Ability to Opt Out of Ad Personalization Based on Your Activity on the Platform](https://soylentnews.org/article.pl?sid=23/10/04/1319227&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-26, 06:43:00](https://soylentnews.org/article.pl?sid=23/09/26/0648234&from=rss) - [RIP - David McCallum: NCIS and the Man From U.N.C.L.E. Actor Dies Aged 90](https://soylentnews.org/article.pl?sid=23/09/26/0648234&from=rss)
 * [2023-09-26, 05:15:00](https://soylentnews.org/article.pl?sid=23/09/25/2342233&from=rss) - [Unity Makes Major Changes to Controversial Install-Fee Program](https://soylentnews.org/article.pl?sid=23/09/25/2342233&from=rss)
 * [2023-09-26, 00:31:00](https://soylentnews.org/article.pl?sid=23/09/25/225232&from=rss) - [Scientists Might Have Found Genetic Trigger for Parkinson's](https://soylentnews.org/article.pl?sid=23/09/25/225232&from=rss)
-* [2023-09-25, 19:47:00](https://soylentnews.org/article.pl?sid=23/09/25/2144214&from=rss) - [Water Fleas May Hold Key To Cleaner Environment And Better Human Health](https://soylentnews.org/article.pl?sid=23/09/25/2144214&from=rss)
 
 ## [Archives](archives/index.md)
 
