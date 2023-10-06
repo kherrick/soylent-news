@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-06](index.md)
+
+* [2023-10-06, 03:51:00](https://soylentnews.org/article.pl?sid=23/10/05/0323227&from=rss) - [Humans Increasingly Settling in High-Risk Flood Zones](https://soylentnews.org/article.pl?sid=23/10/05/0323227&from=rss)

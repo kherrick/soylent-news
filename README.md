@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-06, 03:51:00](https://soylentnews.org/article.pl?sid=23/10/05/0323227&from=rss) - [Humans Increasingly Settling in High-Risk Flood Zones](https://soylentnews.org/article.pl?sid=23/10/05/0323227&from=rss)
 * [2023-10-05, 23:03:00](https://soylentnews.org/article.pl?sid=23/10/05/0316210&from=rss) - [Singapore Plans To Scan Your Face Instead Of Your Passport](https://soylentnews.org/article.pl?sid=23/10/05/0316210&from=rss)
 * [2023-10-05, 18:21:00](https://soylentnews.org/article.pl?sid=23/10/05/0231257&from=rss) - [Detroit Man Steals 800 Gallons Using Bluetooth to Hack Gas Pumps at Station](https://soylentnews.org/article.pl?sid=23/10/05/0231257&from=rss)
 * [2023-10-05, 13:37:00](https://soylentnews.org/article.pl?sid=23/10/05/0229210&from=rss) - [Nuclear Clock Breakthrough Promises Near-Timeless Accuracy](https://soylentnews.org/article.pl?sid=23/10/05/0229210&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-26, 19:27:00](https://soylentnews.org/article.pl?sid=23/09/26/0528258&from=rss) - [Amazon Adding Ads to Prime Video in 2024 Unless You Pay $2.99 Extra](https://soylentnews.org/article.pl?sid=23/09/26/0528258&from=rss)
 * [2023-09-26, 14:44:00](https://soylentnews.org/article.pl?sid=23/09/26/0525218&from=rss) - [Worm That Jumps From Rats to Slugs to Human Brains Has Invaded Southeast US](https://soylentnews.org/article.pl?sid=23/09/26/0525218&from=rss)
 * [2023-09-26, 10:04:00](https://soylentnews.org/article.pl?sid=23/09/26/0521217&from=rss) - [Lego Abandons Use of Recycled Plastic--No CO2 Savings](https://soylentnews.org/article.pl?sid=23/09/26/0521217&from=rss)
-* [2023-09-26, 06:43:00](https://soylentnews.org/article.pl?sid=23/09/26/0648234&from=rss) - [RIP - David McCallum: NCIS and the Man From U.N.C.L.E. Actor Dies Aged 90](https://soylentnews.org/article.pl?sid=23/09/26/0648234&from=rss)
 
 ## [Archives](archives/index.md)
 
