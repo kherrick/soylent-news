@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-07, 22:19:00](https://soylentnews.org/article.pl?sid=23/10/06/2311255&from=rss) - [3D Printer Uses Magnets to Break Speed Limits, Print at a Table-Shaking 800 Mm/s](https://soylentnews.org/article.pl?sid=23/10/06/2311255&from=rss)
 * [2023-10-07, 17:37:00](https://soylentnews.org/article.pl?sid=23/10/06/188254&from=rss) - [Fear of Being Exploited is Stagnating Our Progress in Science](https://soylentnews.org/article.pl?sid=23/10/06/188254&from=rss)
 * [2023-10-07, 12:55:00](https://soylentnews.org/article.pl?sid=23/10/06/186240&from=rss) - [4chan Users Manipulate AI Tools to Unleash Torrent of Racist Images](https://soylentnews.org/article.pl?sid=23/10/06/186240&from=rss)
 * [2023-10-07, 12:12:00](https://soylentnews.org/article.pl?sid=23/10/07/1154237&from=rss) - [The Draconid Meteor Shower Peaks This Weekend. Here's How to See It](https://soylentnews.org/article.pl?sid=23/10/07/1154237&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-28, 19:02:00](https://soylentnews.org/article.pl?sid=23/09/28/1510239&from=rss) - [Raspberry Pi 5 Announced](https://soylentnews.org/article.pl?sid=23/09/28/1510239&from=rss)
 * [2023-09-28, 14:10:00](https://soylentnews.org/article.pl?sid=23/09/28/0253250&from=rss) - [FTC Files “the Big One,” a Lawsuit Alleging Amazon Illegally Maintains Monopoly](https://soylentnews.org/article.pl?sid=23/09/28/0253250&from=rss)
 * [2023-09-28, 09:25:00](https://soylentnews.org/article.pl?sid=23/09/27/167200&from=rss) - [The History Of Syphilis Is Being Rewritten By A Medieval Skeleton](https://soylentnews.org/article.pl?sid=23/09/27/167200&from=rss)
-* [2023-09-28, 04:41:00](https://soylentnews.org/article.pl?sid=23/09/27/162249&from=rss) - [GPUs From All Major Suppliers Are Vulnerable to New Pixel-Stealing Attack](https://soylentnews.org/article.pl?sid=23/09/27/162249&from=rss)
 
 ## [Archives](archives/index.md)
 
