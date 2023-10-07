@@ -1,7 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2023-10-07, 03:30:00](https://soylentnews.org/article.pl?sid=23/10/06/1041218&from=rss) - [YouTube's Crackdown on Ad Blockers Intensifies](https://soylentnews.org/article.pl?sid=23/10/06/1041218&from=rss)
-* [2023-10-06, 22:48:00](https://soylentnews.org/article.pl?sid=23/10/05/063232&from=rss) - [Samsung to Fab Risc-V Chips for Tenstorren](https://soylentnews.org/article.pl?sid=23/10/05/063232&from=rss)
+* [2023-10-06, 22:48:00](https://soylentnews.org/article.pl?sid=23/10/05/063232&from=rss) - [Samsung to Fab Risc-V Chips for Tenstorrent](https://soylentnews.org/article.pl?sid=23/10/05/063232&from=rss)
 * [2023-10-06, 18:03:00](https://soylentnews.org/article.pl?sid=23/10/05/0539254&from=rss) - [X.Org Hit by New Security Vulnerabilities - Two Date Back to 1988 With X11R2](https://soylentnews.org/article.pl?sid=23/10/05/0539254&from=rss)
 * [2023-10-06, 13:17:00](https://soylentnews.org/article.pl?sid=23/10/05/0529252&from=rss) - [Intel Spins Off FPGA Biz With Sandra Rivera At The Helm](https://soylentnews.org/article.pl?sid=23/10/05/0529252&from=rss)
 * [2023-10-06, 08:34:00](https://soylentnews.org/article.pl?sid=23/10/05/0525232&from=rss) - [A Prehistoric Cosmic Airburst Preceded the Advent of Agriculture in the Levant](https://soylentnews.org/article.pl?sid=23/10/05/0525232&from=rss)
