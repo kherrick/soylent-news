@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-07, 12:55:00](https://soylentnews.org/article.pl?sid=23/10/06/186240&from=rss) - [4chan Users Manipulate AI Tools to Unleash Torrent of Racist Images](https://soylentnews.org/article.pl?sid=23/10/06/186240&from=rss)
 * [2023-10-07, 12:12:00](https://soylentnews.org/article.pl?sid=23/10/07/1154237&from=rss) - [The Draconid Meteor Shower Peaks This Weekend. Here's How to See It](https://soylentnews.org/article.pl?sid=23/10/07/1154237&from=rss)
 * [2023-10-07, 08:10:00](https://soylentnews.org/article.pl?sid=23/10/06/114223&from=rss) - [Scientists Surprised by Abundance of Material in Asteroid Sample](https://soylentnews.org/article.pl?sid=23/10/06/114223&from=rss)
 * [2023-10-07, 03:30:00](https://soylentnews.org/article.pl?sid=23/10/06/1041218&from=rss) - [YouTube's Crackdown on Ad Blockers Intensifies](https://soylentnews.org/article.pl?sid=23/10/06/1041218&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-28, 09:25:00](https://soylentnews.org/article.pl?sid=23/09/27/167200&from=rss) - [The History Of Syphilis Is Being Rewritten By A Medieval Skeleton](https://soylentnews.org/article.pl?sid=23/09/27/167200&from=rss)
 * [2023-09-28, 04:41:00](https://soylentnews.org/article.pl?sid=23/09/27/162249&from=rss) - [GPUs From All Major Suppliers Are Vulnerable to New Pixel-Stealing Attack](https://soylentnews.org/article.pl?sid=23/09/27/162249&from=rss)
 * [2023-09-28, 00:01:00](https://soylentnews.org/article.pl?sid=23/09/27/1559242&from=rss) - [Oracle Chooses Cybertruck Police Enforcement Vehicle](https://soylentnews.org/article.pl?sid=23/09/27/1559242&from=rss)
-* [2023-09-27, 19:17:00](https://soylentnews.org/article.pl?sid=23/09/27/0421219&from=rss) - [Unity Dev Group Dissolves After 13 Years Over “Completely Eroded” Company Trust](https://soylentnews.org/article.pl?sid=23/09/27/0421219&from=rss)
 
 ## [Archives](archives/index.md)
 
