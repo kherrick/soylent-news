@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-08, 12:37:00](https://soylentnews.org/article.pl?sid=23/10/07/0519229&from=rss) - [Why Some People Are Willing to Believe Conspiracy Theories](https://soylentnews.org/article.pl?sid=23/10/07/0519229&from=rss)
 * [2023-10-08, 07:52:00](https://soylentnews.org/article.pl?sid=23/10/06/2344248&from=rss) - [\"VAR!\" 100 Years Ago Tonight, Edwin Hubble Found a Star That Revealed the Vastness of the Universe](https://soylentnews.org/article.pl?sid=23/10/06/2344248&from=rss)
 * [2023-10-08, 03:03:00](https://soylentnews.org/article.pl?sid=23/10/06/2314252&from=rss) - [We Now Know How Cats Purr—Why They Purr is Still Up for Debate](https://soylentnews.org/article.pl?sid=23/10/06/2314252&from=rss)
 * [2023-10-07, 22:19:00](https://soylentnews.org/article.pl?sid=23/10/06/2311255&from=rss) - [3D Printer Uses Magnets to Break Speed Limits, Print at a Table-Shaking 800 mm/s](https://soylentnews.org/article.pl?sid=23/10/06/2311255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-29, 09:14:00](https://soylentnews.org/article.pl?sid=23/09/28/1822248&from=rss) - [Amazon Limiting AI Generated Book Sales](https://soylentnews.org/article.pl?sid=23/09/28/1822248&from=rss)
 * [2023-09-29, 04:28:00](https://soylentnews.org/article.pl?sid=23/09/28/1811251&from=rss) - [Regulators Close Investigation Into Blue Origin's New Shepard Anomaly](https://soylentnews.org/article.pl?sid=23/09/28/1811251&from=rss)
 * [2023-09-28, 23:42:00](https://soylentnews.org/article.pl?sid=23/09/28/1810205&from=rss) - [Security Researcher Warns of Chilling Effect After Feds Search Phone at Airport](https://soylentnews.org/article.pl?sid=23/09/28/1810205&from=rss)
-* [2023-09-28, 19:02:00](https://soylentnews.org/article.pl?sid=23/09/28/1510239&from=rss) - [Raspberry Pi 5 Announced](https://soylentnews.org/article.pl?sid=23/09/28/1510239&from=rss)
 
 ## [Archives](archives/index.md)
 
