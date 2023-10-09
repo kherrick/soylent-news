@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-09, 00:43:00](https://soylentnews.org/article.pl?sid=23/10/08/1415221&from=rss) - [Long Gone, DEC is Still Powering the World of Computing](https://soylentnews.org/article.pl?sid=23/10/08/1415221&from=rss)
 * [2023-10-08, 22:03:00](https://soylentnews.org/article.pl?sid=23/10/07/0919256&from=rss) - [Oldest Evidence of Human Cannibalism as a Funerary Practice](https://soylentnews.org/article.pl?sid=23/10/07/0919256&from=rss)
 * [2023-10-08, 17:22:00](https://soylentnews.org/article.pl?sid=23/10/07/0521255&from=rss) - [Like Human, Like Dog](https://soylentnews.org/article.pl?sid=23/10/07/0521255&from=rss)
 * [2023-10-08, 12:37:00](https://soylentnews.org/article.pl?sid=23/10/07/0519229&from=rss) - [Why Some People Are Willing to Believe Conspiracy Theories](https://soylentnews.org/article.pl?sid=23/10/07/0519229&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-29, 18:52:00](https://soylentnews.org/article.pl?sid=23/09/29/153232&from=rss) - [ChatGPT Update Enables its AI to “See, Hear, and Speak,“ According to OpenAI](https://soylentnews.org/article.pl?sid=23/09/29/153232&from=rss)
 * [2023-09-29, 17:00:00](https://soylentnews.org/meta/article.pl?sid=23/09/29/1630231&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, September 29th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/09/29/1630231&from=rss)
 * [2023-09-29, 14:07:00](https://soylentnews.org/article.pl?sid=23/09/29/030251&from=rss) - [Antimatter Falls Down, Not Up: First Experimental Evidence](https://soylentnews.org/article.pl?sid=23/09/29/030251&from=rss)
-* [2023-09-29, 09:14:00](https://soylentnews.org/article.pl?sid=23/09/28/1822248&from=rss) - [Amazon Limiting AI Generated Book Sales](https://soylentnews.org/article.pl?sid=23/09/28/1822248&from=rss)
 
 ## [Archives](archives/index.md)
 
