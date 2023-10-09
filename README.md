@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-09, 19:42:00](https://soylentnews.org/article.pl?sid=23/10/08/2234207&from=rss) - [Thousands of Android Devices Come With Unkillable Backdoor Preinstalled](https://soylentnews.org/article.pl?sid=23/10/08/2234207&from=rss)
 * [2023-10-09, 14:59:00](https://soylentnews.org/article.pl?sid=23/10/08/226255&from=rss) - [Tom Hanks Warns Dental Plan Ad Image is AI Fake](https://soylentnews.org/article.pl?sid=23/10/08/226255&from=rss)
 * [2023-10-09, 10:13:00](https://soylentnews.org/article.pl?sid=23/10/08/2155239&from=rss) - [Russia Talks A Big Future In Space While Its Overall Budget Is Quietly Cut](https://soylentnews.org/article.pl?sid=23/10/08/2155239&from=rss)
 * [2023-10-09, 05:27:00](https://soylentnews.org/article.pl?sid=23/10/08/1418224&from=rss) - [Atlas V Rocket Completes On-Target Orbital Delivery for Amazon](https://soylentnews.org/article.pl?sid=23/10/08/1418224&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-30, 10:04:00](https://soylentnews.org/article.pl?sid=23/09/30/0320232&from=rss) - [Bing Chat Responses Infiltrated by Ads Pushing Malware](https://soylentnews.org/article.pl?sid=23/09/30/0320232&from=rss)
 * [2023-09-30, 05:16:00](https://soylentnews.org/article.pl?sid=23/09/30/0257227&from=rss) - [Disney’s Password-Sharing Crackdown has Begun](https://soylentnews.org/article.pl?sid=23/09/30/0257227&from=rss)
 * [2023-09-30, 00:38:00](https://soylentnews.org/article.pl?sid=23/09/29/1750215&from=rss) - [Cloudflare Users Exposed to Attacks Launched From Within Cloudflare: Researchers](https://soylentnews.org/article.pl?sid=23/09/29/1750215&from=rss)
-* [2023-09-29, 20:31:00](https://soylentnews.org/article.pl?sid=23/09/29/2029240&from=rss) - [Dianne Feinstein, Longest-Serving Female US Senator in History, Dies at 90](https://soylentnews.org/article.pl?sid=23/09/29/2029240&from=rss)
 
 ## [Archives](archives/index.md)
 
