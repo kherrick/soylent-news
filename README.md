@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-09, 10:13:00](https://soylentnews.org/article.pl?sid=23/10/08/2155239&from=rss) - [Russia Talks A Big Future In Space While Its Overall Budget Is Quietly Cut](https://soylentnews.org/article.pl?sid=23/10/08/2155239&from=rss)
 * [2023-10-09, 05:27:00](https://soylentnews.org/article.pl?sid=23/10/08/1418224&from=rss) - [Atlas V Rocket Completes On-Target Orbital Delivery for Amazon](https://soylentnews.org/article.pl?sid=23/10/08/1418224&from=rss)
 * [2023-10-09, 00:43:00](https://soylentnews.org/article.pl?sid=23/10/08/1415221&from=rss) - [Long Gone, DEC is Still Powering the World of Computing](https://soylentnews.org/article.pl?sid=23/10/08/1415221&from=rss)
 * [2023-10-08, 22:03:00](https://soylentnews.org/article.pl?sid=23/10/07/0919256&from=rss) - [Oldest Evidence of Human Cannibalism as a Funerary Practice](https://soylentnews.org/article.pl?sid=23/10/07/0919256&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-30, 00:38:00](https://soylentnews.org/article.pl?sid=23/09/29/1750215&from=rss) - [Cloudflare Users Exposed to Attacks Launched From Within Cloudflare: Researchers](https://soylentnews.org/article.pl?sid=23/09/29/1750215&from=rss)
 * [2023-09-29, 20:31:00](https://soylentnews.org/article.pl?sid=23/09/29/2029240&from=rss) - [Dianne Feinstein, Longest-Serving Female US Senator in History, Dies at 90](https://soylentnews.org/article.pl?sid=23/09/29/2029240&from=rss)
 * [2023-09-29, 18:52:00](https://soylentnews.org/article.pl?sid=23/09/29/153232&from=rss) - [ChatGPT Update Enables its AI to “See, Hear, and Speak,“ According to OpenAI](https://soylentnews.org/article.pl?sid=23/09/29/153232&from=rss)
-* [2023-09-29, 17:00:00](https://soylentnews.org/meta/article.pl?sid=23/09/29/1630231&from=rss) - [Meeting Announcement: Governance Committee Meeting on Friday, September 29th 2023 @ 20:30 UTC](https://soylentnews.org/meta/article.pl?sid=23/09/29/1630231&from=rss)
 
 ## [Archives](archives/index.md)
 
