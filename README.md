@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-10, 09:22:00](https://soylentnews.org/article.pl?sid=23/10/09/0242231&from=rss) - [Label Date, Not Phrasing, Drives Consumer Decisions to Toss Food](https://soylentnews.org/article.pl?sid=23/10/09/0242231&from=rss)
 * [2023-10-10, 05:00:00](https://soylentnews.org/article.pl?sid=23/10/09/0254201&from=rss) - [Paleontologists Find First Molecular Evidence of Ginger Pigment Molecules in Fossil Frogs](https://soylentnews.org/article.pl?sid=23/10/09/0254201&from=rss)
 * [2023-10-10, 00:30:00](https://soylentnews.org/article.pl?sid=23/10/08/2314200&from=rss) - [The Age of Promptography](https://soylentnews.org/article.pl?sid=23/10/08/2314200&from=rss)
 * [2023-10-09, 19:42:00](https://soylentnews.org/article.pl?sid=23/10/08/2234207&from=rss) - [Thousands of Android Devices Come With Unkillable Backdoor Preinstalled](https://soylentnews.org/article.pl?sid=23/10/08/2234207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-01, 00:19:00](https://soylentnews.org/article.pl?sid=23/09/30/1541245&from=rss) - [Backdoored Firmware Lets China State Hackers Control Routers With “Magic Packets”](https://soylentnews.org/article.pl?sid=23/09/30/1541245&from=rss)
 * [2023-09-30, 19:27:00](https://soylentnews.org/article.pl?sid=23/09/30/1537242&from=rss) - [The Dairy Industry is Trying to Outlaw Plant-Based “Milk” Labels—Again](https://soylentnews.org/article.pl?sid=23/09/30/1537242&from=rss)
 * [2023-09-30, 14:44:00](https://soylentnews.org/politics/article.pl?sid=23/09/30/0339235&from=rss) - [Impending Government Shutdown Will Disrupt Scientific Research](https://soylentnews.org/politics/article.pl?sid=23/09/30/0339235&from=rss)
-* [2023-09-30, 10:04:00](https://soylentnews.org/article.pl?sid=23/09/30/0320232&from=rss) - [Bing Chat Responses Infiltrated by Ads Pushing Malware](https://soylentnews.org/article.pl?sid=23/09/30/0320232&from=rss)
 
 ## [Archives](archives/index.md)
 
