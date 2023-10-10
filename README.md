@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-10, 05:00:00](https://soylentnews.org/article.pl?sid=23/10/09/0254201&from=rss) - [Paleontologists Find First Molecular Evidence of Ginger Pigment Molecules in Fossil Frogs](https://soylentnews.org/article.pl?sid=23/10/09/0254201&from=rss)
 * [2023-10-10, 00:30:00](https://soylentnews.org/article.pl?sid=23/10/08/2314200&from=rss) - [The Age of Promptography](https://soylentnews.org/article.pl?sid=23/10/08/2314200&from=rss)
 * [2023-10-09, 19:42:00](https://soylentnews.org/article.pl?sid=23/10/08/2234207&from=rss) - [Thousands of Android Devices Come With Unkillable Backdoor Preinstalled](https://soylentnews.org/article.pl?sid=23/10/08/2234207&from=rss)
 * [2023-10-09, 14:59:00](https://soylentnews.org/article.pl?sid=23/10/08/226255&from=rss) - [Tom Hanks Warns Dental Plan Ad Image is AI Fake](https://soylentnews.org/article.pl?sid=23/10/08/226255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-09-30, 19:27:00](https://soylentnews.org/article.pl?sid=23/09/30/1537242&from=rss) - [The Dairy Industry is Trying to Outlaw Plant-Based “Milk” Labels—Again](https://soylentnews.org/article.pl?sid=23/09/30/1537242&from=rss)
 * [2023-09-30, 14:44:00](https://soylentnews.org/politics/article.pl?sid=23/09/30/0339235&from=rss) - [Impending Government Shutdown Will Disrupt Scientific Research](https://soylentnews.org/politics/article.pl?sid=23/09/30/0339235&from=rss)
 * [2023-09-30, 10:04:00](https://soylentnews.org/article.pl?sid=23/09/30/0320232&from=rss) - [Bing Chat Responses Infiltrated by Ads Pushing Malware](https://soylentnews.org/article.pl?sid=23/09/30/0320232&from=rss)
-* [2023-09-30, 05:16:00](https://soylentnews.org/article.pl?sid=23/09/30/0257227&from=rss) - [Disney’s Password-Sharing Crackdown has Begun](https://soylentnews.org/article.pl?sid=23/09/30/0257227&from=rss)
 
 ## [Archives](archives/index.md)
 
