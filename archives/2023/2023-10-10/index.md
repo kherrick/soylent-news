@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 20:55:00](https://soylentnews.org/article.pl?sid=23/10/09/033204&from=rss) - [Dementia is Not the End of Learning](https://soylentnews.org/article.pl?sid=23/10/09/033204&from=rss)
 * [2023-10-10, 16:21:00](https://soylentnews.org/article.pl?sid=23/10/09/0257248&from=rss) - [The Misinformation Susceptibility Test](https://soylentnews.org/article.pl?sid=23/10/09/0257248&from=rss)
 * [2023-10-10, 16:00:00](https://soylentnews.org/meta/article.pl?sid=23/10/10/1510258&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, October 11 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/10/10/1510258&from=rss)
 * [2023-10-10, 13:55:00](https://soylentnews.org/article.pl?sid=23/10/09/0240211&from=rss) - [Meta's AI Stickers Are Already Causing Trouble](https://soylentnews.org/article.pl?sid=23/10/09/0240211&from=rss)

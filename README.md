@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-10, 20:55:00](https://soylentnews.org/article.pl?sid=23/10/09/033204&from=rss) - [Dementia is Not the End of Learning](https://soylentnews.org/article.pl?sid=23/10/09/033204&from=rss)
 * [2023-10-10, 16:21:00](https://soylentnews.org/article.pl?sid=23/10/09/0257248&from=rss) - [The Misinformation Susceptibility Test](https://soylentnews.org/article.pl?sid=23/10/09/0257248&from=rss)
 * [2023-10-10, 16:00:00](https://soylentnews.org/meta/article.pl?sid=23/10/10/1510258&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, October 11 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/10/10/1510258&from=rss)
 * [2023-10-10, 13:55:00](https://soylentnews.org/article.pl?sid=23/10/09/0240211&from=rss) - [Meta's AI Stickers Are Already Causing Trouble](https://soylentnews.org/article.pl?sid=23/10/09/0240211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-02, 06:59:00](https://soylentnews.org/article.pl?sid=23/10/01/1251233&from=rss) - [Traditional Downtowns Are Dead or Dying in Many US Cities. What's Next for These Zones?](https://soylentnews.org/article.pl?sid=23/10/01/1251233&from=rss)
 * [2023-10-01, 14:38:00](https://soylentnews.org/article.pl?sid=23/09/30/2133221&from=rss) - [Researchers Discover Two New Species Of Oil-Forming Yeast](https://soylentnews.org/article.pl?sid=23/09/30/2133221&from=rss)
 * [2023-10-01, 09:45:00](https://soylentnews.org/article.pl?sid=23/09/30/1941249&from=rss) - [We Finally Know for Sure What a Trilobite Ate](https://soylentnews.org/article.pl?sid=23/09/30/1941249&from=rss)
-* [2023-10-01, 05:00:00](https://soylentnews.org/article.pl?sid=23/09/30/1857226&from=rss) - [This Robotic Exoskeleton Can Help Runners Sprint Faster](https://soylentnews.org/article.pl?sid=23/09/30/1857226&from=rss)
 
 ## [Archives](archives/index.md)
 
