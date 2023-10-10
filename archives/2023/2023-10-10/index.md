@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-10](index.md)
+
+* [2023-10-10, 00:30:00](https://soylentnews.org/article.pl?sid=23/10/08/2314200&from=rss) - [The Age of Promptography](https://soylentnews.org/article.pl?sid=23/10/08/2314200&from=rss)
