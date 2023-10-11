@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-11, 11:13:00](https://soylentnews.org/article.pl?sid=23/10/10/1150228&from=rss) - [Musk Can’t Dodge Payments To Ex-Twitter Execs He Fired, Judge Rules](https://soylentnews.org/article.pl?sid=23/10/10/1150228&from=rss)
 * [2023-10-11, 06:25:00](https://soylentnews.org/article.pl?sid=23/10/10/027253&from=rss) - [Men Overran a Job Fair for Women in Tech](https://soylentnews.org/article.pl?sid=23/10/10/027253&from=rss)
 * [2023-10-11, 01:36:00](https://soylentnews.org/article.pl?sid=23/10/10/0158253&from=rss) - [23andMe Says Private User Data is Up for Sale After Being Scraped](https://soylentnews.org/article.pl?sid=23/10/10/0158253&from=rss)
 * [2023-10-10, 20:55:00](https://soylentnews.org/article.pl?sid=23/10/09/033204&from=rss) - [Dementia is Not the End of Learning](https://soylentnews.org/article.pl?sid=23/10/09/033204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-02, 19:02:00](https://soylentnews.org/article.pl?sid=23/10/02/1543239&from=rss) - [Space Force Chief Says Commercial Satellites May Need Defending](https://soylentnews.org/article.pl?sid=23/10/02/1543239&from=rss)
 * [2023-10-02, 15:37:00](https://soylentnews.org/article.pl?sid=23/10/02/1540214&from=rss) - [System Problems](https://soylentnews.org/article.pl?sid=23/10/02/1540214&from=rss)
 * [2023-10-02, 14:30:00](https://soylentnews.org/article.pl?sid=23/10/02/150214&from=rss) - [Dooooooom! AI Girlfriends Are Ruining a Generation of Men.](https://soylentnews.org/article.pl?sid=23/10/02/150214&from=rss)
-* [2023-10-02, 06:59:00](https://soylentnews.org/article.pl?sid=23/10/01/1251233&from=rss) - [Traditional Downtowns Are Dead or Dying in Many US Cities. What's Next for These Zones?](https://soylentnews.org/article.pl?sid=23/10/01/1251233&from=rss)
 
 ## [Archives](archives/index.md)
 
