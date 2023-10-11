@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-11, 20:41:00](https://soylentnews.org/article.pl?sid=23/10/11/0255235&from=rss) - [Atari Releasing 2600 Console Game](https://soylentnews.org/article.pl?sid=23/10/11/0255235&from=rss)
 * [2023-10-11, 15:54:00](https://soylentnews.org/article.pl?sid=23/10/10/1154255&from=rss) - [Quasar 'Clocks' Show Universe Running Five Times Slower Soon After Big Bang](https://soylentnews.org/article.pl?sid=23/10/10/1154255&from=rss)
 * [2023-10-11, 11:13:00](https://soylentnews.org/article.pl?sid=23/10/10/1150228&from=rss) - [Musk Can’t Dodge Payments To Ex-Twitter Execs He Fired, Judge Rules](https://soylentnews.org/article.pl?sid=23/10/10/1150228&from=rss)
 * [2023-10-11, 06:25:00](https://soylentnews.org/article.pl?sid=23/10/10/027253&from=rss) - [Men Overran a Job Fair for Women in Tech](https://soylentnews.org/article.pl?sid=23/10/10/027253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-03, 04:28:00](https://soylentnews.org/article.pl?sid=23/10/02/1549204&from=rss) - [Nissan to Go All-Electric by 2030 Despite Petrol Ban Delay](https://soylentnews.org/article.pl?sid=23/10/02/1549204&from=rss)
 * [2023-10-02, 23:43:00](https://soylentnews.org/article.pl?sid=23/10/02/1546236&from=rss) - [Annular Solar Eclipse October 2023 and Total in April 2024](https://soylentnews.org/article.pl?sid=23/10/02/1546236&from=rss)
 * [2023-10-02, 19:02:00](https://soylentnews.org/article.pl?sid=23/10/02/1543239&from=rss) - [Space Force Chief Says Commercial Satellites May Need Defending](https://soylentnews.org/article.pl?sid=23/10/02/1543239&from=rss)
-* [2023-10-02, 15:37:00](https://soylentnews.org/article.pl?sid=23/10/02/1540214&from=rss) - [System Problems](https://soylentnews.org/article.pl?sid=23/10/02/1540214&from=rss)
 
 ## [Archives](archives/index.md)
 
