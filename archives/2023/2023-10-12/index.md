@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-12](index.md)
+
+* [2023-10-12, 01:26:00](https://soylentnews.org/article.pl?sid=23/10/11/1117239&from=rss) - [Unity CEO John Riccitiello is Retiring, Effective Immediately](https://soylentnews.org/article.pl?sid=23/10/11/1117239&from=rss)
