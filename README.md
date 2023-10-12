@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-12, 20:35:00](https://soylentnews.org/article.pl?sid=23/10/11/1538243&from=rss) - [NASA's Psyche Metal Asteroid Mission Launches This Week](https://soylentnews.org/article.pl?sid=23/10/11/1538243&from=rss)
 * [2023-10-12, 15:47:00](https://soylentnews.org/article.pl?sid=23/10/11/1341219&from=rss) - [Why Are There Six Degrees of Separation in a Social Network?](https://soylentnews.org/article.pl?sid=23/10/11/1341219&from=rss)
 * [2023-10-12, 11:03:00](https://soylentnews.org/article.pl?sid=23/10/11/129231&from=rss) - [AI Beats Human Sleuth at Finding Problematic Images in Research Papers](https://soylentnews.org/article.pl?sid=23/10/11/129231&from=rss)
 * [2023-10-12, 06:13:00](https://soylentnews.org/article.pl?sid=23/10/11/1157217&from=rss) - [Security Risks Of Windows Copilot Are Unknowable](https://soylentnews.org/article.pl?sid=23/10/11/1157217&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-04, 04:13:00](https://soylentnews.org/article.pl?sid=23/10/03/1542210&from=rss) - [What Math Can Teach Us About Standing Up to Bullies](https://soylentnews.org/article.pl?sid=23/10/03/1542210&from=rss)
 * [2023-10-03, 23:28:00](https://soylentnews.org/article.pl?sid=23/10/03/0355208&from=rss) - [How Lockheed Martin Designed the X-59, the World’s Weirdest, Quietest Supersonic Jet](https://soylentnews.org/article.pl?sid=23/10/03/0355208&from=rss)
 * [2023-10-03, 18:48:00](https://soylentnews.org/article.pl?sid=23/10/03/0328252&from=rss) - [Kerbal Space Program 2 Has a Big Pre-Launch Issue: Windows Registry Stuffing](https://soylentnews.org/article.pl?sid=23/10/03/0328252&from=rss)
-* [2023-10-03, 14:01:00](https://soylentnews.org/article.pl?sid=23/10/02/1818211&from=rss) - [Elon Musk's X Removes General Option to Report Misleading Info About Politics](https://soylentnews.org/article.pl?sid=23/10/02/1818211&from=rss)
 
 ## [Archives](archives/index.md)
 
