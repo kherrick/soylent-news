@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-13, 10:50:00](https://soylentnews.org/article.pl?sid=23/10/12/0058239&from=rss) - [Honda Demos Robot Commercial Lawnmower](https://soylentnews.org/article.pl?sid=23/10/12/0058239&from=rss)
 * [2023-10-13, 06:04:00](https://soylentnews.org/article.pl?sid=23/10/11/1543247&from=rss) - [Microsoft Says VBScript Will Be Retired In Future Windows](https://soylentnews.org/article.pl?sid=23/10/11/1543247&from=rss)
 * [2023-10-13, 01:19:00](https://soylentnews.org/article.pl?sid=23/10/11/1540231&from=rss) - [Researchers Find Hidden Micro-Stressors in Routine Driving](https://soylentnews.org/article.pl?sid=23/10/11/1540231&from=rss)
 * [2023-10-12, 20:35:00](https://soylentnews.org/article.pl?sid=23/10/11/1538243&from=rss) - [NASA's Psyche Metal Asteroid Mission Launches This Week](https://soylentnews.org/article.pl?sid=23/10/11/1538243&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-04, 18:32:00](https://soylentnews.org/article.pl?sid=23/10/04/1313209&from=rss) - [Microsoft CEO Warns of \"Nightmare\" Future for AI If Google's Search Dominance Continues](https://soylentnews.org/article.pl?sid=23/10/04/1313209&from=rss)
 * [2023-10-04, 13:47:00](https://soylentnews.org/article.pl?sid=23/10/03/1551229&from=rss) - [Linux Distros Need To Take More Responsibility For Security](https://soylentnews.org/article.pl?sid=23/10/03/1551229&from=rss)
 * [2023-10-04, 09:03:00](https://soylentnews.org/article.pl?sid=23/10/03/1546205&from=rss) - [Google Lets You Opt Out of AI Training](https://soylentnews.org/article.pl?sid=23/10/03/1546205&from=rss)
-* [2023-10-04, 04:13:00](https://soylentnews.org/article.pl?sid=23/10/03/1542210&from=rss) - [What Math Can Teach Us About Standing Up to Bullies](https://soylentnews.org/article.pl?sid=23/10/03/1542210&from=rss)
 
 ## [Archives](archives/index.md)
 
