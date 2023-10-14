@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-14, 05:53:00](https://soylentnews.org/article.pl?sid=23/10/13/0215200&from=rss) - [Utah Sues Tiktok For Getting Children ‘Addicted’ To Its Algorithm](https://soylentnews.org/article.pl?sid=23/10/13/0215200&from=rss)
 * [2023-10-14, 01:06:00](https://soylentnews.org/article.pl?sid=23/10/13/0210208&from=rss) - [Beyond Umami: Scientists Discover a Sixth Basic Taste](https://soylentnews.org/article.pl?sid=23/10/13/0210208&from=rss)
 * [2023-10-13, 20:21:00](https://soylentnews.org/article.pl?sid=23/10/12/073258&from=rss) - [Finance Software Uses Harvested Data to Blackmail Clients](https://soylentnews.org/article.pl?sid=23/10/12/073258&from=rss)
 * [2023-10-13, 15:38:00](https://soylentnews.org/article.pl?sid=23/10/12/070221&from=rss) - [NASA's Deep Space Optical Communications](https://soylentnews.org/article.pl?sid=23/10/12/070221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-05, 13:37:00](https://soylentnews.org/article.pl?sid=23/10/05/0229210&from=rss) - [Nuclear Clock Breakthrough Promises Near-Timeless Accuracy](https://soylentnews.org/article.pl?sid=23/10/05/0229210&from=rss)
 * [2023-10-05, 08:49:00](https://soylentnews.org/article.pl?sid=23/10/04/212218&from=rss) - [Anti-Viral Drug Backfires: COVID Drug Linked to Viral Mutations That Spread](https://soylentnews.org/article.pl?sid=23/10/04/212218&from=rss)
 * [2023-10-05, 04:04:00](https://soylentnews.org/article.pl?sid=23/10/04/1956240&from=rss) - [Ask Soylent: Implementing Hybrid Engines in NASCAR](https://soylentnews.org/article.pl?sid=23/10/04/1956240&from=rss)
-* [2023-10-04, 23:17:00](https://soylentnews.org/article.pl?sid=23/10/04/1319227&from=rss) - [Reddit is Removing Ability to Opt Out of Ad Personalization Based on Your Activity on the Platform](https://soylentnews.org/article.pl?sid=23/10/04/1319227&from=rss)
 
 ## [Archives](archives/index.md)
 
