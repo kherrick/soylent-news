@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-14, 20:08:00](https://soylentnews.org/article.pl?sid=23/10/14/0010203&from=rss) - [\"Building Blocks of Life\" Found in NASA's Bennu Asteroid Sample](https://soylentnews.org/article.pl?sid=23/10/14/0010203&from=rss)
 * [2023-10-14, 15:25:00](https://soylentnews.org/article.pl?sid=23/10/14/006210&from=rss) - [How to Easily Make Your Own Pyramid Salt Crystals](https://soylentnews.org/article.pl?sid=23/10/14/006210&from=rss)
 * [2023-10-14, 10:38:00](https://soylentnews.org/article.pl?sid=23/10/13/0611209&from=rss) - [Illusions Are in the Eye, Not the Mind](https://soylentnews.org/article.pl?sid=23/10/13/0611209&from=rss)
 * [2023-10-14, 05:53:00](https://soylentnews.org/article.pl?sid=23/10/13/0215200&from=rss) - [Utah Sues Tiktok For Getting Children ‘Addicted’ To Its Algorithm](https://soylentnews.org/article.pl?sid=23/10/13/0215200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-06, 03:51:00](https://soylentnews.org/article.pl?sid=23/10/05/0323227&from=rss) - [Humans Increasingly Settling in High-Risk Flood Zones](https://soylentnews.org/article.pl?sid=23/10/05/0323227&from=rss)
 * [2023-10-05, 23:03:00](https://soylentnews.org/article.pl?sid=23/10/05/0316210&from=rss) - [Singapore Plans To Scan Your Face Instead Of Your Passport](https://soylentnews.org/article.pl?sid=23/10/05/0316210&from=rss)
 * [2023-10-05, 18:21:00](https://soylentnews.org/article.pl?sid=23/10/05/0231257&from=rss) - [Detroit Man Steals 800 Gallons Using Bluetooth to Hack Gas Pumps at Station](https://soylentnews.org/article.pl?sid=23/10/05/0231257&from=rss)
-* [2023-10-05, 13:37:00](https://soylentnews.org/article.pl?sid=23/10/05/0229210&from=rss) - [Nuclear Clock Breakthrough Promises Near-Timeless Accuracy](https://soylentnews.org/article.pl?sid=23/10/05/0229210&from=rss)
 
 ## [Archives](archives/index.md)
 
