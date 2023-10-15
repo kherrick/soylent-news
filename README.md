@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-15, 05:38:00](https://soylentnews.org/article.pl?sid=23/10/14/0410235&from=rss) - [AI Energy Demands Could Soon Match The Entire Electricity Consumption Of Ireland](https://soylentnews.org/article.pl?sid=23/10/14/0410235&from=rss)
 * [2023-10-15, 00:52:00](https://soylentnews.org/article.pl?sid=23/10/14/044224&from=rss) - [Microsoft Officially Owns Activision Blizzard, Ending A 21-Month Battle With Regulators](https://soylentnews.org/article.pl?sid=23/10/14/044224&from=rss)
 * [2023-10-14, 20:08:00](https://soylentnews.org/article.pl?sid=23/10/14/0010203&from=rss) - [\"Building Blocks of Life\" Found in NASA's Bennu Asteroid Sample](https://soylentnews.org/article.pl?sid=23/10/14/0010203&from=rss)
 * [2023-10-14, 15:25:00](https://soylentnews.org/article.pl?sid=23/10/14/006210&from=rss) - [How to Easily Make Your Own Pyramid Salt Crystals](https://soylentnews.org/article.pl?sid=23/10/14/006210&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-06, 13:17:00](https://soylentnews.org/article.pl?sid=23/10/05/0529252&from=rss) - [Intel Spins Off FPGA Biz With Sandra Rivera At The Helm](https://soylentnews.org/article.pl?sid=23/10/05/0529252&from=rss)
 * [2023-10-06, 08:34:00](https://soylentnews.org/article.pl?sid=23/10/05/0525232&from=rss) - [A Prehistoric Cosmic Airburst Preceded the Advent of Agriculture in the Levant](https://soylentnews.org/article.pl?sid=23/10/05/0525232&from=rss)
 * [2023-10-06, 03:51:00](https://soylentnews.org/article.pl?sid=23/10/05/0323227&from=rss) - [Humans Increasingly Settling in High-Risk Flood Zones](https://soylentnews.org/article.pl?sid=23/10/05/0323227&from=rss)
-* [2023-10-05, 23:03:00](https://soylentnews.org/article.pl?sid=23/10/05/0316210&from=rss) - [Singapore Plans To Scan Your Face Instead Of Your Passport](https://soylentnews.org/article.pl?sid=23/10/05/0316210&from=rss)
 
 ## [Archives](archives/index.md)
 
