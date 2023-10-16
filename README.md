@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-16, 14:53:00](https://soylentnews.org/article.pl?sid=23/10/15/2115243&from=rss) - [Not Built by Homo Sapiens – Scientists Discover “Extraordinary” 476,000-Year-Old Wooden Structure](https://soylentnews.org/article.pl?sid=23/10/15/2115243&from=rss)
 * [2023-10-16, 10:04:00](https://soylentnews.org/article.pl?sid=23/10/15/212232&from=rss) - [Oops—It Looks Like the Ariane 6 Rocket May Not Offer Europe Any Launch Savings](https://soylentnews.org/article.pl?sid=23/10/15/212232&from=rss)
 * [2023-10-16, 05:17:00](https://soylentnews.org/article.pl?sid=23/10/14/2112203&from=rss) - [Software Patch Fixes Euclid Space Telescope Navigation Bug](https://soylentnews.org/article.pl?sid=23/10/14/2112203&from=rss)
 * [2023-10-16, 00:33:00](https://soylentnews.org/article.pl?sid=23/10/14/217212&from=rss) - [How DDoSers Used The Http/2 Protocol To Deliver Attacks Of Unprecedented Size](https://soylentnews.org/article.pl?sid=23/10/14/217212&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-07, 17:37:00](https://soylentnews.org/article.pl?sid=23/10/06/188254&from=rss) - [Fear of Being Exploited is Stagnating Our Progress in Science](https://soylentnews.org/article.pl?sid=23/10/06/188254&from=rss)
 * [2023-10-07, 12:55:00](https://soylentnews.org/article.pl?sid=23/10/06/186240&from=rss) - [4chan Users Manipulate AI Tools to Unleash Torrent of Racist Images](https://soylentnews.org/article.pl?sid=23/10/06/186240&from=rss)
 * [2023-10-07, 12:12:00](https://soylentnews.org/article.pl?sid=23/10/07/1154237&from=rss) - [The Draconid Meteor Shower Peaks This Weekend. Here's How to See It](https://soylentnews.org/article.pl?sid=23/10/07/1154237&from=rss)
-* [2023-10-07, 08:10:00](https://soylentnews.org/article.pl?sid=23/10/06/114223&from=rss) - [Scientists Surprised by Abundance of Material in Asteroid Sample](https://soylentnews.org/article.pl?sid=23/10/06/114223&from=rss)
 
 ## [Archives](archives/index.md)
 
