@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-16, 05:17:00](https://soylentnews.org/article.pl?sid=23/10/14/2112203&from=rss) - [Software Patch Fixes Euclid Space Telescope Navigation Bug](https://soylentnews.org/article.pl?sid=23/10/14/2112203&from=rss)
 * [2023-10-16, 00:33:00](https://soylentnews.org/article.pl?sid=23/10/14/217212&from=rss) - [How DDoSers Used The Http/2 Protocol To Deliver Attacks Of Unprecedented Size](https://soylentnews.org/article.pl?sid=23/10/14/217212&from=rss)
 * [2023-10-15, 19:47:00](https://soylentnews.org/article.pl?sid=23/10/14/0719201&from=rss) - [Neanderthals Likely Killed and Butchered Cave Lions, Speared Skeleton Suggests](https://soylentnews.org/article.pl?sid=23/10/14/0719201&from=rss)
 * [2023-10-15, 15:03:00](https://soylentnews.org/article.pl?sid=23/10/14/0716219&from=rss) - [TSMC: Ecosystem For 2nm Chip Development Is Nearing Completion](https://soylentnews.org/article.pl?sid=23/10/14/0716219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-07, 12:12:00](https://soylentnews.org/article.pl?sid=23/10/07/1154237&from=rss) - [The Draconid Meteor Shower Peaks This Weekend. Here's How to See It](https://soylentnews.org/article.pl?sid=23/10/07/1154237&from=rss)
 * [2023-10-07, 08:10:00](https://soylentnews.org/article.pl?sid=23/10/06/114223&from=rss) - [Scientists Surprised by Abundance of Material in Asteroid Sample](https://soylentnews.org/article.pl?sid=23/10/06/114223&from=rss)
 * [2023-10-07, 03:30:00](https://soylentnews.org/article.pl?sid=23/10/06/1041218&from=rss) - [YouTube's Crackdown on Ad Blockers Intensifies](https://soylentnews.org/article.pl?sid=23/10/06/1041218&from=rss)
-* [2023-10-06, 22:48:00](https://soylentnews.org/article.pl?sid=23/10/05/063232&from=rss) - [Samsung to Fab Risc-V Chips for Tenstorrent](https://soylentnews.org/article.pl?sid=23/10/05/063232&from=rss)
 
 ## [Archives](archives/index.md)
 
