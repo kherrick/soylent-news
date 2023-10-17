@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-17, 00:22:00](https://soylentnews.org/article.pl?sid=23/10/16/038237&from=rss) - [Qualcomm To Shed Over 1,000 Staff In California](https://soylentnews.org/article.pl?sid=23/10/16/038237&from=rss)
 * [2023-10-16, 19:35:00](https://soylentnews.org/article.pl?sid=23/10/16/0258242&from=rss) - [Disasters Cause $3.8 Tn In Crop Loses Over 30 Years](https://soylentnews.org/article.pl?sid=23/10/16/0258242&from=rss)
 * [2023-10-16, 14:53:00](https://soylentnews.org/article.pl?sid=23/10/15/2115243&from=rss) - [Not Built by Homo Sapiens – Scientists Discover “Extraordinary” 476,000-Year-Old Wooden Structure](https://soylentnews.org/article.pl?sid=23/10/15/2115243&from=rss)
 * [2023-10-16, 10:04:00](https://soylentnews.org/article.pl?sid=23/10/15/212232&from=rss) - [Oops—It Looks Like the Ariane 6 Rocket May Not Offer Europe Any Launch Savings](https://soylentnews.org/article.pl?sid=23/10/15/212232&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-08, 03:03:00](https://soylentnews.org/article.pl?sid=23/10/06/2314252&from=rss) - [We Now Know How Cats Purr—Why They Purr is Still Up for Debate](https://soylentnews.org/article.pl?sid=23/10/06/2314252&from=rss)
 * [2023-10-07, 22:19:00](https://soylentnews.org/article.pl?sid=23/10/06/2311255&from=rss) - [3D Printer Uses Magnets to Break Speed Limits, Print at a Table-Shaking 800 mm/s](https://soylentnews.org/article.pl?sid=23/10/06/2311255&from=rss)
 * [2023-10-07, 17:37:00](https://soylentnews.org/article.pl?sid=23/10/06/188254&from=rss) - [Fear of Being Exploited is Stagnating Our Progress in Science](https://soylentnews.org/article.pl?sid=23/10/06/188254&from=rss)
-* [2023-10-07, 12:55:00](https://soylentnews.org/article.pl?sid=23/10/06/186240&from=rss) - [4chan Users Manipulate AI Tools to Unleash Torrent of Racist Images](https://soylentnews.org/article.pl?sid=23/10/06/186240&from=rss)
 
 ## [Archives](archives/index.md)
 
