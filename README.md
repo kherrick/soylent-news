@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-18, 00:11:00](https://soylentnews.org/article.pl?sid=23/10/17/0313226&from=rss) - [Comcast Resists Call to Stop its Misleading “10G Network” Claims](https://soylentnews.org/article.pl?sid=23/10/17/0313226&from=rss)
 * [2023-10-17, 19:25:00](https://soylentnews.org/article.pl?sid=23/10/16/1830246&from=rss) - [A New Phase of Superionic Ice](https://soylentnews.org/article.pl?sid=23/10/16/1830246&from=rss)
 * [2023-10-17, 14:38:00](https://soylentnews.org/article.pl?sid=23/10/16/1812219&from=rss) - [RTX4090 Has a Meltdown After Proper Installation and Only One Year of Use](https://soylentnews.org/article.pl?sid=23/10/16/1812219&from=rss)
 * [2023-10-17, 09:52:00](https://soylentnews.org/article.pl?sid=23/10/16/189224&from=rss) - [Group Size and Mating Preferences Drive Deeper Male Voices](https://soylentnews.org/article.pl?sid=23/10/16/189224&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-09, 00:43:00](https://soylentnews.org/article.pl?sid=23/10/08/1415221&from=rss) - [Long Gone, DEC is Still Powering the World of Computing](https://soylentnews.org/article.pl?sid=23/10/08/1415221&from=rss)
 * [2023-10-08, 22:03:00](https://soylentnews.org/article.pl?sid=23/10/07/0919256&from=rss) - [Oldest Evidence of Human Cannibalism as a Funerary Practice](https://soylentnews.org/article.pl?sid=23/10/07/0919256&from=rss)
 * [2023-10-08, 17:22:00](https://soylentnews.org/article.pl?sid=23/10/07/0521255&from=rss) - [Like Human, Like Dog](https://soylentnews.org/article.pl?sid=23/10/07/0521255&from=rss)
-* [2023-10-08, 12:37:00](https://soylentnews.org/article.pl?sid=23/10/07/0519229&from=rss) - [Why Some People Are Willing to Believe Conspiracy Theories](https://soylentnews.org/article.pl?sid=23/10/07/0519229&from=rss)
 
 ## [Archives](archives/index.md)
 
