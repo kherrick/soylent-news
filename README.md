@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-18, 09:44:00](https://soylentnews.org/article.pl?sid=23/10/17/0326201&from=rss) - [After ChatGPT Disruption, Stack Overflow Lays Off 28 Percent of Staff](https://soylentnews.org/article.pl?sid=23/10/17/0326201&from=rss)
 * [2023-10-18, 04:56:00](https://soylentnews.org/article.pl?sid=23/10/17/0317250&from=rss) - [GPT Tools Can be Helpful in Certain Situations ](https://soylentnews.org/article.pl?sid=23/10/17/0317250&from=rss)
 * [2023-10-18, 00:11:00](https://soylentnews.org/article.pl?sid=23/10/17/0313226&from=rss) - [Comcast Resists Call to Stop its Misleading “10G Network” Claims](https://soylentnews.org/article.pl?sid=23/10/17/0313226&from=rss)
 * [2023-10-17, 19:25:00](https://soylentnews.org/article.pl?sid=23/10/16/1830246&from=rss) - [A New Phase of Superionic Ice](https://soylentnews.org/article.pl?sid=23/10/16/1830246&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-09, 10:13:00](https://soylentnews.org/article.pl?sid=23/10/08/2155239&from=rss) - [Russia Talks A Big Future In Space While Its Overall Budget Is Quietly Cut](https://soylentnews.org/article.pl?sid=23/10/08/2155239&from=rss)
 * [2023-10-09, 05:27:00](https://soylentnews.org/article.pl?sid=23/10/08/1418224&from=rss) - [Atlas V Rocket Completes On-Target Orbital Delivery for Amazon](https://soylentnews.org/article.pl?sid=23/10/08/1418224&from=rss)
 * [2023-10-09, 00:43:00](https://soylentnews.org/article.pl?sid=23/10/08/1415221&from=rss) - [Long Gone, DEC is Still Powering the World of Computing](https://soylentnews.org/article.pl?sid=23/10/08/1415221&from=rss)
-* [2023-10-08, 22:03:00](https://soylentnews.org/article.pl?sid=23/10/07/0919256&from=rss) - [Oldest Evidence of Human Cannibalism as a Funerary Practice](https://soylentnews.org/article.pl?sid=23/10/07/0919256&from=rss)
 
 ## [Archives](archives/index.md)
 
