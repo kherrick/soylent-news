@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-18, 19:15:00](https://soylentnews.org/article.pl?sid=23/10/17/1356254&from=rss) - [Canada's 84-Year Radio Time Check Has Stopped Because of Accuracy Concerns](https://soylentnews.org/article.pl?sid=23/10/17/1356254&from=rss)
 * [2023-10-18, 16:00:00](https://soylentnews.org/meta/article.pl?sid=23/10/18/1526255&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, October 18 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/10/18/1526255&from=rss)
 * [2023-10-18, 14:29:00](https://soylentnews.org/article.pl?sid=23/10/17/1354218&from=rss) - [You're Not Getting Sleepy: Six Myths and Misconceptions About Hypnosis From an Expert](https://soylentnews.org/article.pl?sid=23/10/17/1354218&from=rss)
 * [2023-10-18, 09:44:00](https://soylentnews.org/article.pl?sid=23/10/17/0326201&from=rss) - [After ChatGPT Disruption, Stack Overflow Lays Off 28 Percent of Staff](https://soylentnews.org/article.pl?sid=23/10/17/0326201&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-10, 00:30:00](https://soylentnews.org/article.pl?sid=23/10/08/2314200&from=rss) - [The Age of Promptography](https://soylentnews.org/article.pl?sid=23/10/08/2314200&from=rss)
 * [2023-10-09, 19:42:00](https://soylentnews.org/article.pl?sid=23/10/08/2234207&from=rss) - [Thousands of Android Devices Come With Unkillable Backdoor Preinstalled](https://soylentnews.org/article.pl?sid=23/10/08/2234207&from=rss)
 * [2023-10-09, 14:59:00](https://soylentnews.org/article.pl?sid=23/10/08/226255&from=rss) - [Tom Hanks Warns Dental Plan Ad Image is AI Fake](https://soylentnews.org/article.pl?sid=23/10/08/226255&from=rss)
-* [2023-10-09, 10:13:00](https://soylentnews.org/article.pl?sid=23/10/08/2155239&from=rss) - [Russia Talks A Big Future In Space While Its Overall Budget Is Quietly Cut](https://soylentnews.org/article.pl?sid=23/10/08/2155239&from=rss)
 
 ## [Archives](archives/index.md)
 
