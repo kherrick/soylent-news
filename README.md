@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-19, 18:38:00](https://soylentnews.org/article.pl?sid=23/10/19/0350258&from=rss) - [Amazing Flyover Reveals What Soaring Across Mars Would Look Like](https://soylentnews.org/article.pl?sid=23/10/19/0350258&from=rss)
 * [2023-10-19, 13:59:00](https://soylentnews.org/article.pl?sid=23/10/17/2227248&from=rss) - [Examining the Silicon Dies of the Intel 386 Processor](https://soylentnews.org/article.pl?sid=23/10/17/2227248&from=rss)
 * [2023-10-19, 09:15:00](https://soylentnews.org/article.pl?sid=23/10/17/225255&from=rss) - [Signatures of the Space Age: Spacecraft Metals Left in the Wake of Humanity's Path to the Stars](https://soylentnews.org/article.pl?sid=23/10/17/225255&from=rss)
 * [2023-10-19, 04:24:00](https://soylentnews.org/article.pl?sid=23/10/17/2154241&from=rss) - [The Sound of Silence? Researchers Prove We Can Hear It](https://soylentnews.org/article.pl?sid=23/10/17/2154241&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-10, 16:21:00](https://soylentnews.org/article.pl?sid=23/10/09/0257248&from=rss) - [The Misinformation Susceptibility Test](https://soylentnews.org/article.pl?sid=23/10/09/0257248&from=rss)
 * [2023-10-10, 16:00:00](https://soylentnews.org/meta/article.pl?sid=23/10/10/1510258&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, October 11 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/10/10/1510258&from=rss)
 * [2023-10-10, 13:55:00](https://soylentnews.org/article.pl?sid=23/10/09/0240211&from=rss) - [Meta's AI Stickers Are Already Causing Trouble](https://soylentnews.org/article.pl?sid=23/10/09/0240211&from=rss)
-* [2023-10-10, 09:22:00](https://soylentnews.org/article.pl?sid=23/10/09/0242231&from=rss) - [Label Date, Not Phrasing, Drives Consumer Decisions to Toss Food](https://soylentnews.org/article.pl?sid=23/10/09/0242231&from=rss)
 
 ## [Archives](archives/index.md)
 
