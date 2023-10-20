@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-20, 18:20:00](https://soylentnews.org/article.pl?sid=23/10/19/1821219&from=rss) - [Google-Hosted Malvertising Leads to Fake Keepass Site That Looks Genuine](https://soylentnews.org/article.pl?sid=23/10/19/1821219&from=rss)
 * [2023-10-20, 13:37:00](https://soylentnews.org/article.pl?sid=23/10/19/1818205&from=rss) - [AMD Announces Threadripper 7000 CPUs, Pro and HEDT Models, Up to 96 Cores](https://soylentnews.org/article.pl?sid=23/10/19/1818205&from=rss)
 * [2023-10-20, 08:50:00](https://soylentnews.org/article.pl?sid=23/10/19/117217&from=rss) - [Study Shows Birds Disperse Eaten Insects' Eggs](https://soylentnews.org/article.pl?sid=23/10/19/117217&from=rss)
 * [2023-10-20, 04:07:00](https://soylentnews.org/article.pl?sid=23/10/19/0359247&from=rss) - [A Simple Streetlight Hack Could Protect Astronomy From Urban Light Pollution](https://soylentnews.org/article.pl?sid=23/10/19/0359247&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-11, 15:54:00](https://soylentnews.org/article.pl?sid=23/10/10/1154255&from=rss) - [Quasar 'Clocks' Show Universe Running Five Times Slower Soon After Big Bang](https://soylentnews.org/article.pl?sid=23/10/10/1154255&from=rss)
 * [2023-10-11, 11:13:00](https://soylentnews.org/article.pl?sid=23/10/10/1150228&from=rss) - [Musk Can’t Dodge Payments To Ex-Twitter Execs He Fired, Judge Rules](https://soylentnews.org/article.pl?sid=23/10/10/1150228&from=rss)
 * [2023-10-11, 06:25:00](https://soylentnews.org/article.pl?sid=23/10/10/027253&from=rss) - [Men Overran a Job Fair for Women in Tech](https://soylentnews.org/article.pl?sid=23/10/10/027253&from=rss)
-* [2023-10-11, 01:36:00](https://soylentnews.org/article.pl?sid=23/10/10/0158253&from=rss) - [23andMe Says Private User Data is Up for Sale After Being Scraped](https://soylentnews.org/article.pl?sid=23/10/10/0158253&from=rss)
 
 ## [Archives](archives/index.md)
 
