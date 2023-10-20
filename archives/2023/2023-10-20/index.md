@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 23:05:00](https://soylentnews.org/article.pl?sid=23/10/20/0346204&from=rss) - [Google, DOJ Still Blocking Public Access to Monopoly Trial Docs, NYT Says](https://soylentnews.org/article.pl?sid=23/10/20/0346204&from=rss)
 * [2023-10-20, 18:20:00](https://soylentnews.org/article.pl?sid=23/10/19/1821219&from=rss) - [Google-Hosted Malvertising Leads to Fake Keepass Site That Looks Genuine](https://soylentnews.org/article.pl?sid=23/10/19/1821219&from=rss)
 * [2023-10-20, 13:37:00](https://soylentnews.org/article.pl?sid=23/10/19/1818205&from=rss) - [AMD Announces Threadripper 7000 CPUs, Pro and Non-Pro Models, Up to 96 Cores](https://soylentnews.org/article.pl?sid=23/10/19/1818205&from=rss)
 * [2023-10-20, 08:50:00](https://soylentnews.org/article.pl?sid=23/10/19/117217&from=rss) - [Study Shows Birds Disperse Eaten Insects' Eggs](https://soylentnews.org/article.pl?sid=23/10/19/117217&from=rss)
