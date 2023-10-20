@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-20, 08:50:00](https://soylentnews.org/article.pl?sid=23/10/19/117217&from=rss) - [Study Shows Birds Disperse Eaten Insects' Eggs](https://soylentnews.org/article.pl?sid=23/10/19/117217&from=rss)
 * [2023-10-20, 04:07:00](https://soylentnews.org/article.pl?sid=23/10/19/0359247&from=rss) - [A Simple Streetlight Hack Could Protect Astronomy From Urban Light Pollution](https://soylentnews.org/article.pl?sid=23/10/19/0359247&from=rss)
 * [2023-10-19, 23:21:00](https://soylentnews.org/article.pl?sid=23/10/19/0353229&from=rss) - [Actively Exploited Cisco 0-Day With Maximum 10 Severity Gives Full Network Control](https://soylentnews.org/article.pl?sid=23/10/19/0353229&from=rss)
 * [2023-10-19, 18:38:00](https://soylentnews.org/article.pl?sid=23/10/19/0350258&from=rss) - [Amazing Flyover Reveals What Soaring Across Mars Would Look Like](https://soylentnews.org/article.pl?sid=23/10/19/0350258&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-11, 06:25:00](https://soylentnews.org/article.pl?sid=23/10/10/027253&from=rss) - [Men Overran a Job Fair for Women in Tech](https://soylentnews.org/article.pl?sid=23/10/10/027253&from=rss)
 * [2023-10-11, 01:36:00](https://soylentnews.org/article.pl?sid=23/10/10/0158253&from=rss) - [23andMe Says Private User Data is Up for Sale After Being Scraped](https://soylentnews.org/article.pl?sid=23/10/10/0158253&from=rss)
 * [2023-10-10, 20:55:00](https://soylentnews.org/article.pl?sid=23/10/09/033204&from=rss) - [Dementia is Not the End of Learning](https://soylentnews.org/article.pl?sid=23/10/09/033204&from=rss)
-* [2023-10-10, 16:21:00](https://soylentnews.org/article.pl?sid=23/10/09/0257248&from=rss) - [The Misinformation Susceptibility Test](https://soylentnews.org/article.pl?sid=23/10/09/0257248&from=rss)
 
 ## [Archives](archives/index.md)
 
