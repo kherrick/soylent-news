@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-21, 18:02:00](https://soylentnews.org/article.pl?sid=23/10/21/0843226&from=rss) - [AI Chatbots Can Infer an Alarming Amount of Info About You From Your Responses](https://soylentnews.org/article.pl?sid=23/10/21/0843226&from=rss)
 * [2023-10-21, 13:17:00](https://soylentnews.org/article.pl?sid=23/10/20/1747240&from=rss) - [Once Again The FCC Votes 3-2 To Reinstitute Title II Net Neutrality Rules](https://soylentnews.org/article.pl?sid=23/10/20/1747240&from=rss)
 * [2023-10-21, 08:35:00](https://soylentnews.org/article.pl?sid=23/10/20/0358255&from=rss) - [Boeing's First Crewed Starliner Flight To Launch April 2024 ](https://soylentnews.org/article.pl?sid=23/10/20/0358255&from=rss)
 * [2023-10-21, 03:49:00](https://soylentnews.org/article.pl?sid=23/10/20/0351254&from=rss) - [Scientist, After Decades of Study, Concludes: We Don't Have Free Will](https://soylentnews.org/article.pl?sid=23/10/20/0351254&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-12, 15:47:00](https://soylentnews.org/article.pl?sid=23/10/11/1341219&from=rss) - [Why Are There Six Degrees of Separation in a Social Network?](https://soylentnews.org/article.pl?sid=23/10/11/1341219&from=rss)
 * [2023-10-12, 11:03:00](https://soylentnews.org/article.pl?sid=23/10/11/129231&from=rss) - [AI Beats Human Sleuth at Finding Problematic Images in Research Papers](https://soylentnews.org/article.pl?sid=23/10/11/129231&from=rss)
 * [2023-10-12, 06:13:00](https://soylentnews.org/article.pl?sid=23/10/11/1157217&from=rss) - [Security Risks Of Windows Copilot Are Unknowable](https://soylentnews.org/article.pl?sid=23/10/11/1157217&from=rss)
-* [2023-10-12, 01:26:00](https://soylentnews.org/article.pl?sid=23/10/11/1117239&from=rss) - [Unity CEO John Riccitiello is Retiring, Effective Immediately](https://soylentnews.org/article.pl?sid=23/10/11/1117239&from=rss)
 
 ## [Archives](archives/index.md)
 
