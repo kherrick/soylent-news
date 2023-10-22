@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-22, 08:21:00](https://soylentnews.org/article.pl?sid=23/10/22/042249&from=rss) - [The New World's Hottest Pepper, Pepper X, is 3 Times Spicier Than its Predecessor](https://soylentnews.org/article.pl?sid=23/10/22/042249&from=rss)
 * [2023-10-22, 03:33:00](https://soylentnews.org/article.pl?sid=23/10/22/0356208&from=rss) - [8Bn-Year-Old Radio Burst Could Help Weigh The Universe](https://soylentnews.org/article.pl?sid=23/10/22/0356208&from=rss)
 * [2023-10-21, 22:48:00](https://soylentnews.org/article.pl?sid=23/10/21/129239&from=rss) - [Two Admit To Bypassing Testing That Keeps Nuclear Plants Safe](https://soylentnews.org/article.pl?sid=23/10/21/129239&from=rss)
 * [2023-10-21, 18:02:00](https://soylentnews.org/article.pl?sid=23/10/21/0843226&from=rss) - [AI Chatbots Can Infer an Alarming Amount of Info About You From Your Responses](https://soylentnews.org/article.pl?sid=23/10/21/0843226&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-13, 06:04:00](https://soylentnews.org/article.pl?sid=23/10/11/1543247&from=rss) - [Microsoft Says VBScript Will Be Retired In Future Windows](https://soylentnews.org/article.pl?sid=23/10/11/1543247&from=rss)
 * [2023-10-13, 01:19:00](https://soylentnews.org/article.pl?sid=23/10/11/1540231&from=rss) - [Researchers Find Hidden Micro-Stressors in Routine Driving](https://soylentnews.org/article.pl?sid=23/10/11/1540231&from=rss)
 * [2023-10-12, 20:35:00](https://soylentnews.org/article.pl?sid=23/10/11/1538243&from=rss) - [NASA's Psyche Metal Asteroid Mission Launches This Week](https://soylentnews.org/article.pl?sid=23/10/11/1538243&from=rss)
-* [2023-10-12, 15:47:00](https://soylentnews.org/article.pl?sid=23/10/11/1341219&from=rss) - [Why Are There Six Degrees of Separation in a Social Network?](https://soylentnews.org/article.pl?sid=23/10/11/1341219&from=rss)
 
 ## [Archives](archives/index.md)
 

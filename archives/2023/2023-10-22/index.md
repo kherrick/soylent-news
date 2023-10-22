@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 08:21:00](https://soylentnews.org/article.pl?sid=23/10/22/042249&from=rss) - [The New World's Hottest Pepper, Pepper X, is 3 Times Spicier Than its Predecessor](https://soylentnews.org/article.pl?sid=23/10/22/042249&from=rss)
 * [2023-10-22, 03:33:00](https://soylentnews.org/article.pl?sid=23/10/22/0356208&from=rss) - [8Bn-Year-Old Radio Burst Could Help Weigh The Universe](https://soylentnews.org/article.pl?sid=23/10/22/0356208&from=rss)
