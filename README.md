@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-22, 17:48:00](https://soylentnews.org/article.pl?sid=23/10/22/0410245&from=rss) - [NASA's Lucy Spacecraft Preparing For Its First Asteroid Flyby](https://soylentnews.org/article.pl?sid=23/10/22/0410245&from=rss)
 * [2023-10-22, 13:04:00](https://soylentnews.org/article.pl?sid=23/10/22/045259&from=rss) - [DoJ Says North Korean It Workers Were Sent Abroad To Help Finance Weapons Programs](https://soylentnews.org/article.pl?sid=23/10/22/045259&from=rss)
 * [2023-10-22, 08:21:00](https://soylentnews.org/article.pl?sid=23/10/22/042249&from=rss) - [The New World's Hottest Pepper, Pepper X, is 3 Times Spicier Than its Predecessor](https://soylentnews.org/article.pl?sid=23/10/22/042249&from=rss)
 * [2023-10-22, 03:33:00](https://soylentnews.org/article.pl?sid=23/10/22/0356208&from=rss) - [8Bn-Year-Old Radio Burst Could Help Weigh The Universe](https://soylentnews.org/article.pl?sid=23/10/22/0356208&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-13, 15:38:00](https://soylentnews.org/article.pl?sid=23/10/12/070221&from=rss) - [NASA's Deep Space Optical Communications](https://soylentnews.org/article.pl?sid=23/10/12/070221&from=rss)
 * [2023-10-13, 10:50:00](https://soylentnews.org/article.pl?sid=23/10/12/0058239&from=rss) - [Honda Demos Robot Commercial Lawnmower](https://soylentnews.org/article.pl?sid=23/10/12/0058239&from=rss)
 * [2023-10-13, 06:04:00](https://soylentnews.org/article.pl?sid=23/10/11/1543247&from=rss) - [Microsoft Says VBScript Will Be Retired In Future Windows](https://soylentnews.org/article.pl?sid=23/10/11/1543247&from=rss)
-* [2023-10-13, 01:19:00](https://soylentnews.org/article.pl?sid=23/10/11/1540231&from=rss) - [Researchers Find Hidden Micro-Stressors in Routine Driving](https://soylentnews.org/article.pl?sid=23/10/11/1540231&from=rss)
 
 ## [Archives](archives/index.md)
 
