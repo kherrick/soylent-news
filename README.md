@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-23, 17:28:00](https://soylentnews.org/article.pl?sid=23/10/23/0049258&from=rss) - [TSMC Claims Technology Supremacy, Compares Their 3Nm Node To Intel's 18A](https://soylentnews.org/article.pl?sid=23/10/23/0049258&from=rss)
 * [2023-10-23, 12:42:00](https://soylentnews.org/article.pl?sid=23/10/23/0039253&from=rss) - [Malicious Notepad++ Google Ads Evade Detection for Months](https://soylentnews.org/article.pl?sid=23/10/23/0039253&from=rss)
 * [2023-10-23, 07:55:00](https://soylentnews.org/article.pl?sid=23/10/22/0436211&from=rss) - [COVID Antiviral Paxlovid to See Price Increase Following 400% Vaccine Hike](https://soylentnews.org/article.pl?sid=23/10/22/0436211&from=rss)
 * [2023-10-23, 03:14:00](https://soylentnews.org/article.pl?sid=23/10/22/0429229&from=rss) - [This Startup Wants to Find Out If Humans Can Have Babies in Space](https://soylentnews.org/article.pl?sid=23/10/22/0429229&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-14, 15:25:00](https://soylentnews.org/article.pl?sid=23/10/14/006210&from=rss) - [How to Easily Make Your Own Pyramid Salt Crystals](https://soylentnews.org/article.pl?sid=23/10/14/006210&from=rss)
 * [2023-10-14, 10:38:00](https://soylentnews.org/article.pl?sid=23/10/13/0611209&from=rss) - [Illusions Are in the Eye, Not the Mind](https://soylentnews.org/article.pl?sid=23/10/13/0611209&from=rss)
 * [2023-10-14, 05:53:00](https://soylentnews.org/article.pl?sid=23/10/13/0215200&from=rss) - [Utah Sues Tiktok For Getting Children ‘Addicted’ To Its Algorithm](https://soylentnews.org/article.pl?sid=23/10/13/0215200&from=rss)
-* [2023-10-14, 01:06:00](https://soylentnews.org/article.pl?sid=23/10/13/0210208&from=rss) - [Beyond Umami: Scientists Discover a Sixth Basic Taste](https://soylentnews.org/article.pl?sid=23/10/13/0210208&from=rss)
 
 ## [Archives](archives/index.md)
 
