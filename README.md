@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-23, 07:55:00](https://soylentnews.org/article.pl?sid=23/10/22/0436211&from=rss) - [COVID Antiviral Paxlovid to See Price Increase Following 400% Vaccine Hike](https://soylentnews.org/article.pl?sid=23/10/22/0436211&from=rss)
 * [2023-10-23, 03:14:00](https://soylentnews.org/article.pl?sid=23/10/22/0429229&from=rss) - [This Startup Wants to Find Out If Humans Can Have Babies in Space](https://soylentnews.org/article.pl?sid=23/10/22/0429229&from=rss)
 * [2023-10-22, 22:33:00](https://soylentnews.org/article.pl?sid=23/10/22/0416203&from=rss) - [Whats the Difference Between a $5 and a $129 USB Cable?](https://soylentnews.org/article.pl?sid=23/10/22/0416203&from=rss)
 * [2023-10-22, 17:48:00](https://soylentnews.org/article.pl?sid=23/10/22/0410245&from=rss) - [NASA's Lucy Spacecraft Preparing For Its First Asteroid Flyby](https://soylentnews.org/article.pl?sid=23/10/22/0410245&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-14, 05:53:00](https://soylentnews.org/article.pl?sid=23/10/13/0215200&from=rss) - [Utah Sues Tiktok For Getting Children ‘Addicted’ To Its Algorithm](https://soylentnews.org/article.pl?sid=23/10/13/0215200&from=rss)
 * [2023-10-14, 01:06:00](https://soylentnews.org/article.pl?sid=23/10/13/0210208&from=rss) - [Beyond Umami: Scientists Discover a Sixth Basic Taste](https://soylentnews.org/article.pl?sid=23/10/13/0210208&from=rss)
 * [2023-10-13, 20:21:00](https://soylentnews.org/article.pl?sid=23/10/12/073258&from=rss) - [Finance Software Uses Harvested Data to Blackmail Clients](https://soylentnews.org/article.pl?sid=23/10/12/073258&from=rss)
-* [2023-10-13, 15:38:00](https://soylentnews.org/article.pl?sid=23/10/12/070221&from=rss) - [NASA's Deep Space Optical Communications](https://soylentnews.org/article.pl?sid=23/10/12/070221&from=rss)
 
 ## [Archives](archives/index.md)
 
