@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 21:38:00](https://soylentnews.org/article.pl?sid=23/10/24/1819213&from=rss) - [Why Brainstorming Doesn't Work](https://soylentnews.org/article.pl?sid=23/10/24/1819213&from=rss)
 * [2023-10-25, 17:30:00](https://soylentnews.org/meta/article.pl?sid=23/10/25/1655248&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, October 25 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/10/25/1655248&from=rss)
 * [2023-10-25, 16:53:00](https://soylentnews.org/article.pl?sid=23/10/24/1817200&from=rss) - [Acoustics Researchers Decompose Sound Accurately Into its Three Basic Components](https://soylentnews.org/article.pl?sid=23/10/24/1817200&from=rss)
 * [2023-10-25, 12:11:00](https://soylentnews.org/article.pl?sid=23/10/24/0322201&from=rss) - [31 New Tech-Hubs Have Been Selected in the USA](https://soylentnews.org/article.pl?sid=23/10/24/0322201&from=rss)
