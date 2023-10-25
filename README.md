@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-25, 16:53:00](https://soylentnews.org/article.pl?sid=23/10/24/1817200&from=rss) - [Acoustics Researchers Decompose Sound Accurately Into its Three Basic Components](https://soylentnews.org/article.pl?sid=23/10/24/1817200&from=rss)
 * [2023-10-25, 12:11:00](https://soylentnews.org/article.pl?sid=23/10/24/0322201&from=rss) - [31 New Tech-Hubs Have Been Selected in the USA](https://soylentnews.org/article.pl?sid=23/10/24/0322201&from=rss)
 * [2023-10-25, 07:25:00](https://soylentnews.org/article.pl?sid=23/10/24/0317208&from=rss) - [Amazon Drivers’ Urine Packaged as Energy Drink, Sold on Amazon](https://soylentnews.org/article.pl?sid=23/10/24/0317208&from=rss)
 * [2023-10-25, 02:37:00](https://soylentnews.org/article.pl?sid=23/10/24/0310220&from=rss) - [In US, Invasive Spotted Lanternflies Are Devastating Crops](https://soylentnews.org/article.pl?sid=23/10/24/0310220&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-16, 14:53:00](https://soylentnews.org/article.pl?sid=23/10/15/2115243&from=rss) - [Not Built by Homo Sapiens – Scientists Discover “Extraordinary” 476,000-Year-Old Wooden Structure](https://soylentnews.org/article.pl?sid=23/10/15/2115243&from=rss)
 * [2023-10-16, 10:04:00](https://soylentnews.org/article.pl?sid=23/10/15/212232&from=rss) - [Oops—It Looks Like the Ariane 6 Rocket May Not Offer Europe Any Launch Savings](https://soylentnews.org/article.pl?sid=23/10/15/212232&from=rss)
 * [2023-10-16, 05:17:00](https://soylentnews.org/article.pl?sid=23/10/14/2112203&from=rss) - [Software Patch Fixes Euclid Space Telescope Navigation Bug](https://soylentnews.org/article.pl?sid=23/10/14/2112203&from=rss)
-* [2023-10-16, 00:33:00](https://soylentnews.org/article.pl?sid=23/10/14/217212&from=rss) - [How DDoSers Used The Http/2 Protocol To Deliver Attacks Of Unprecedented Size](https://soylentnews.org/article.pl?sid=23/10/14/217212&from=rss)
 
 ## [Archives](archives/index.md)
 
