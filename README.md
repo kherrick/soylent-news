@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-26, 02:25:00](https://soylentnews.org/article.pl?sid=23/10/25/0741253&from=rss) - [Testing A Time-Jumping, Multiverse-Killing, Consciousness-Spawning Theory Of Reality](https://soylentnews.org/article.pl?sid=23/10/25/0741253&from=rss)
 * [2023-10-25, 21:38:00](https://soylentnews.org/article.pl?sid=23/10/24/1819213&from=rss) - [Why Brainstorming Doesn't Work](https://soylentnews.org/article.pl?sid=23/10/24/1819213&from=rss)
 * [2023-10-25, 17:30:00](https://soylentnews.org/meta/article.pl?sid=23/10/25/1655248&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, October 25 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/10/25/1655248&from=rss)
 * [2023-10-25, 16:53:00](https://soylentnews.org/article.pl?sid=23/10/24/1817200&from=rss) - [Acoustics Researchers Decompose Sound Accurately Into its Three Basic Components](https://soylentnews.org/article.pl?sid=23/10/24/1817200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-17, 05:11:00](https://soylentnews.org/article.pl?sid=23/10/16/0333247&from=rss) - [2D Transistors, 3D Chips, And More Mad Stuff](https://soylentnews.org/article.pl?sid=23/10/16/0333247&from=rss)
 * [2023-10-17, 00:22:00](https://soylentnews.org/article.pl?sid=23/10/16/038237&from=rss) - [Qualcomm To Shed Over 1,000 Staff In California](https://soylentnews.org/article.pl?sid=23/10/16/038237&from=rss)
 * [2023-10-16, 19:35:00](https://soylentnews.org/article.pl?sid=23/10/16/0258242&from=rss) - [Disasters Cause $3.8 Tn In Crop Losses Over 30 Years](https://soylentnews.org/article.pl?sid=23/10/16/0258242&from=rss)
-* [2023-10-16, 14:53:00](https://soylentnews.org/article.pl?sid=23/10/15/2115243&from=rss) - [Not Built by Homo Sapiens – Scientists Discover “Extraordinary” 476,000-Year-Old Wooden Structure](https://soylentnews.org/article.pl?sid=23/10/15/2115243&from=rss)
 
 ## [Archives](archives/index.md)
 
