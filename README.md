@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-26, 11:55:00](https://soylentnews.org/article.pl?sid=23/10/25/1537226&from=rss) - [NASA Is Struggling To Open Its Asteroid Sample Container](https://soylentnews.org/article.pl?sid=23/10/25/1537226&from=rss)
 * [2023-10-26, 07:12:00](https://soylentnews.org/article.pl?sid=23/10/25/1239252&from=rss) - [A Majority of US States File a Lawsuit Against Meta for \"Harming Youth\"](https://soylentnews.org/article.pl?sid=23/10/25/1239252&from=rss)
 * [2023-10-26, 02:25:00](https://soylentnews.org/article.pl?sid=23/10/25/0741253&from=rss) - [Testing A Time-Jumping, Multiverse-Killing, Consciousness-Spawning Theory Of Reality](https://soylentnews.org/article.pl?sid=23/10/25/0741253&from=rss)
 * [2023-10-25, 21:38:00](https://soylentnews.org/article.pl?sid=23/10/24/1819213&from=rss) - [Why Brainstorming Doesn't Work](https://soylentnews.org/article.pl?sid=23/10/24/1819213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-17, 14:38:00](https://soylentnews.org/article.pl?sid=23/10/16/1812219&from=rss) - [RTX4090 Has a Meltdown After Proper Installation and Only One Year of Use](https://soylentnews.org/article.pl?sid=23/10/16/1812219&from=rss)
 * [2023-10-17, 09:52:00](https://soylentnews.org/article.pl?sid=23/10/16/189224&from=rss) - [Group Size and Mating Preferences Drive Deeper Male Voices](https://soylentnews.org/article.pl?sid=23/10/16/189224&from=rss)
 * [2023-10-17, 05:11:00](https://soylentnews.org/article.pl?sid=23/10/16/0333247&from=rss) - [2D Transistors, 3D Chips, And More Mad Stuff](https://soylentnews.org/article.pl?sid=23/10/16/0333247&from=rss)
-* [2023-10-17, 00:22:00](https://soylentnews.org/article.pl?sid=23/10/16/038237&from=rss) - [Qualcomm To Shed Over 1,000 Staff In California](https://soylentnews.org/article.pl?sid=23/10/16/038237&from=rss)
 
 ## [Archives](archives/index.md)
 
