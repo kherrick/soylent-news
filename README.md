@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-27, 02:10:00](https://soylentnews.org/article.pl?sid=23/10/26/039238&from=rss) - [New Tool Lets Artists Fight AI Image Bots by Hiding Corrupt Data in Plain Sight](https://soylentnews.org/article.pl?sid=23/10/26/039238&from=rss)
 * [2023-10-26, 21:22:00](https://soylentnews.org/article.pl?sid=23/10/26/0253256&from=rss) - [Apple Will Honor California's 'Right To Repair' Rules Nationwide](https://soylentnews.org/article.pl?sid=23/10/26/0253256&from=rss)
 * [2023-10-26, 16:39:00](https://soylentnews.org/article.pl?sid=23/10/25/1541236&from=rss) - [Millions Of Americans Have Cognitive Decline And Don't Know It](https://soylentnews.org/article.pl?sid=23/10/25/1541236&from=rss)
 * [2023-10-26, 11:55:00](https://soylentnews.org/article.pl?sid=23/10/25/1537226&from=rss) - [NASA Is Struggling To Open Its Asteroid Sample Container](https://soylentnews.org/article.pl?sid=23/10/25/1537226&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-18, 04:56:00](https://soylentnews.org/article.pl?sid=23/10/17/0317250&from=rss) - [GPT Tools Can be Helpful in Certain Situations ](https://soylentnews.org/article.pl?sid=23/10/17/0317250&from=rss)
 * [2023-10-18, 00:11:00](https://soylentnews.org/article.pl?sid=23/10/17/0313226&from=rss) - [Comcast Resists Call to Stop its Misleading “10G Network” Claims](https://soylentnews.org/article.pl?sid=23/10/17/0313226&from=rss)
 * [2023-10-17, 19:25:00](https://soylentnews.org/article.pl?sid=23/10/16/1830246&from=rss) - [A New Phase of Superionic Ice](https://soylentnews.org/article.pl?sid=23/10/16/1830246&from=rss)
-* [2023-10-17, 14:38:00](https://soylentnews.org/article.pl?sid=23/10/16/1812219&from=rss) - [RTX4090 Has a Meltdown After Proper Installation and Only One Year of Use](https://soylentnews.org/article.pl?sid=23/10/16/1812219&from=rss)
 
 ## [Archives](archives/index.md)
 
