@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-28, 11:17:00](https://soylentnews.org/article.pl?sid=23/10/27/0553248&from=rss) - [Old-School Problems, Old-School Solutions: We Help Aero-Test a Mustang](https://soylentnews.org/article.pl?sid=23/10/27/0553248&from=rss)
 * [2023-10-28, 06:34:00](https://soylentnews.org/article.pl?sid=23/10/27/0545251&from=rss) - [Why Unity Felt the Need to “Rush Out” its Controversial Install-Fee Program](https://soylentnews.org/article.pl?sid=23/10/27/0545251&from=rss)
 * [2023-10-28, 01:50:00](https://soylentnews.org/article.pl?sid=23/10/27/0333212&from=rss) - [New 3D-Printed Tumor Model Enables Faster, Less Expensive and Less Painful Cancer Treatment](https://soylentnews.org/article.pl?sid=23/10/27/0333212&from=rss)
 * [2023-10-27, 21:05:00](https://soylentnews.org/article.pl?sid=23/10/27/0326243&from=rss) - [UK Workers Support AI But Want Greater Organizational Transparency](https://soylentnews.org/article.pl?sid=23/10/27/0326243&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-19, 09:15:00](https://soylentnews.org/article.pl?sid=23/10/17/225255&from=rss) - [Signatures of the Space Age: Spacecraft Metals Left in the Wake of Humanity's Path to the Stars](https://soylentnews.org/article.pl?sid=23/10/17/225255&from=rss)
 * [2023-10-19, 04:24:00](https://soylentnews.org/article.pl?sid=23/10/17/2154241&from=rss) - [The Sound of Silence? Researchers Prove We Can Hear It](https://soylentnews.org/article.pl?sid=23/10/17/2154241&from=rss)
 * [2023-10-18, 23:55:00](https://soylentnews.org/article.pl?sid=23/10/17/2150230&from=rss) - [Mathematician Warns US Spies May be Weakening Next-gen Encryption](https://soylentnews.org/article.pl?sid=23/10/17/2150230&from=rss)
-* [2023-10-18, 19:15:00](https://soylentnews.org/article.pl?sid=23/10/17/1356254&from=rss) - [Canada's 84-Year Radio Time Check Has Stopped Because of Accuracy Concerns](https://soylentnews.org/article.pl?sid=23/10/17/1356254&from=rss)
 
 ## [Archives](archives/index.md)
 
