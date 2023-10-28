@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-28, 01:50:00](https://soylentnews.org/article.pl?sid=23/10/27/0333212&from=rss) - [New 3D-Printed Tumor Model Enables Faster, Less Expensive and Less Painful Cancer Treatment](https://soylentnews.org/article.pl?sid=23/10/27/0333212&from=rss)
 * [2023-10-27, 21:05:00](https://soylentnews.org/article.pl?sid=23/10/27/0326243&from=rss) - [UK Workers Support AI But Want Greater Organizational Transparency](https://soylentnews.org/article.pl?sid=23/10/27/0326243&from=rss)
 * [2023-10-27, 16:23:00](https://soylentnews.org/article.pl?sid=23/10/27/0259241&from=rss) - [Boeing Can't Make Money With Fixed-Price Contracts](https://soylentnews.org/article.pl?sid=23/10/27/0259241&from=rss)
 * [2023-10-27, 11:42:00](https://soylentnews.org/article.pl?sid=23/10/27/0024227&from=rss) - [California Suspends Cruise Robotaxis After Car Dragged Pedestrian 20 Feet](https://soylentnews.org/article.pl?sid=23/10/27/0024227&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-18, 23:55:00](https://soylentnews.org/article.pl?sid=23/10/17/2150230&from=rss) - [Mathematician Warns US Spies May be Weakening Next-gen Encryption](https://soylentnews.org/article.pl?sid=23/10/17/2150230&from=rss)
 * [2023-10-18, 19:15:00](https://soylentnews.org/article.pl?sid=23/10/17/1356254&from=rss) - [Canada's 84-Year Radio Time Check Has Stopped Because of Accuracy Concerns](https://soylentnews.org/article.pl?sid=23/10/17/1356254&from=rss)
 * [2023-10-18, 16:00:00](https://soylentnews.org/meta/article.pl?sid=23/10/18/1526255&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, October 18 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/10/18/1526255&from=rss)
-* [2023-10-18, 14:29:00](https://soylentnews.org/article.pl?sid=23/10/17/1354218&from=rss) - [You're Not Getting Sleepy: Six Myths and Misconceptions About Hypnosis From an Expert](https://soylentnews.org/article.pl?sid=23/10/17/1354218&from=rss)
 
 ## [Archives](archives/index.md)
 
