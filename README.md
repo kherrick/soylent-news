@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-29, 01:32:00](https://soylentnews.org/article.pl?sid=23/10/27/063202&from=rss) - [Higher Carbon Tax on Luxury Goods, Say Researchers](https://soylentnews.org/article.pl?sid=23/10/27/063202&from=rss)
 * [2023-10-28, 20:45:00](https://soylentnews.org/article.pl?sid=23/10/27/0557234&from=rss) - [The Best We Can Do? The Rise of Bullshit Research](https://soylentnews.org/article.pl?sid=23/10/27/0557234&from=rss)
 * [2023-10-28, 16:01:00](https://soylentnews.org/article.pl?sid=23/10/27/0548251&from=rss) - [The Ocean's Color is Changing as a Consequence of Climate Change](https://soylentnews.org/article.pl?sid=23/10/27/0548251&from=rss)
 * [2023-10-28, 11:17:00](https://soylentnews.org/article.pl?sid=23/10/27/0553248&from=rss) - [Old-School Problems, Old-School Solutions: We Help Aero-Test a Mustang](https://soylentnews.org/article.pl?sid=23/10/27/0553248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-19, 23:21:00](https://soylentnews.org/article.pl?sid=23/10/19/0353229&from=rss) - [Actively Exploited Cisco 0-Day With Maximum 10 Severity Gives Full Network Control](https://soylentnews.org/article.pl?sid=23/10/19/0353229&from=rss)
 * [2023-10-19, 18:38:00](https://soylentnews.org/article.pl?sid=23/10/19/0350258&from=rss) - [Amazing Flyover Reveals What Soaring Across Mars Would Look Like](https://soylentnews.org/article.pl?sid=23/10/19/0350258&from=rss)
 * [2023-10-19, 13:59:00](https://soylentnews.org/article.pl?sid=23/10/17/2227248&from=rss) - [Examining the Silicon Dies of the Intel 386 Processor](https://soylentnews.org/article.pl?sid=23/10/17/2227248&from=rss)
-* [2023-10-19, 09:15:00](https://soylentnews.org/article.pl?sid=23/10/17/225255&from=rss) - [Signatures of the Space Age: Spacecraft Metals Left in the Wake of Humanity's Path to the Stars](https://soylentnews.org/article.pl?sid=23/10/17/225255&from=rss)
 
 ## [Archives](archives/index.md)
 

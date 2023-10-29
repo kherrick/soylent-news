@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-29](index.md)
+
+* [2023-10-29, 01:32:00](https://soylentnews.org/article.pl?sid=23/10/27/063202&from=rss) - [Higher Carbon Tax on Luxury Goods, Say Researchers](https://soylentnews.org/article.pl?sid=23/10/27/063202&from=rss)
