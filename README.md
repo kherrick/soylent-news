@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-29, 10:59:00](https://soylentnews.org/article.pl?sid=23/10/29/0036248&from=rss) - [NASA To Rewrite Mars Sample Return Mission So It Can Happen](https://soylentnews.org/article.pl?sid=23/10/29/0036248&from=rss)
 * [2023-10-29, 06:17:00](https://soylentnews.org/article.pl?sid=23/10/27/069228&from=rss) - [EU Legislators Vote To Slash Use Of Pesticides](https://soylentnews.org/article.pl?sid=23/10/27/069228&from=rss)
 * [2023-10-29, 01:32:00](https://soylentnews.org/article.pl?sid=23/10/27/063202&from=rss) - [Higher Carbon Tax on Luxury Goods, Say Researchers](https://soylentnews.org/article.pl?sid=23/10/27/063202&from=rss)
 * [2023-10-28, 20:45:00](https://soylentnews.org/article.pl?sid=23/10/27/0557234&from=rss) - [The Best We Can Do? The Rise of Bullshit Research](https://soylentnews.org/article.pl?sid=23/10/27/0557234&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-20, 08:50:00](https://soylentnews.org/article.pl?sid=23/10/19/117217&from=rss) - [Study Shows Birds Disperse Eaten Insects' Eggs](https://soylentnews.org/article.pl?sid=23/10/19/117217&from=rss)
 * [2023-10-20, 04:07:00](https://soylentnews.org/article.pl?sid=23/10/19/0359247&from=rss) - [A Simple Streetlight Hack Could Protect Astronomy From Urban Light Pollution](https://soylentnews.org/article.pl?sid=23/10/19/0359247&from=rss)
 * [2023-10-19, 23:21:00](https://soylentnews.org/article.pl?sid=23/10/19/0353229&from=rss) - [Actively Exploited Cisco 0-Day With Maximum 10 Severity Gives Full Network Control](https://soylentnews.org/article.pl?sid=23/10/19/0353229&from=rss)
-* [2023-10-19, 18:38:00](https://soylentnews.org/article.pl?sid=23/10/19/0350258&from=rss) - [Amazing Flyover Reveals What Soaring Across Mars Would Look Like](https://soylentnews.org/article.pl?sid=23/10/19/0350258&from=rss)
 
 ## [Archives](archives/index.md)
 
