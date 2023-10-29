@@ -145,6 +145,107 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/10/29/0156238">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/10/29/0156238&amp;from=rss"
+              >IBM Has Made A New, Highly Efficient AI Processor</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-10-29 @ 20:34:00</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/10/29/0156238"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    [...] . That's what it's not. What actually is NorthPole?
+                    Some of the ideas do carry forward from IBM's earlier
+                    efforts. These include the recognition that a lot of the
+                    energy costs of AI come from the separation between memory
+                    and execution units. Since a key component of neural
+                    networks—the weight of connections between different layers
+                    of "neurons"—is held in memory, any execution on a
+                    traditional processor or GPU burns a lot of energy simply
+                    getting those weights from memory to where they can be used
+                    during execution.
+                  </p>
+                  <p>
+                    So NorthPole, like TrueNorth before it, consists of a large
+                    array (16×16) of computational units, each of which includes
+                    both local memory and code execution capacity. So, all of
+                    the weights of various connections in the neural network can
+                    be stored exactly where they're needed.
+                  </p>
+                  <p>
+                    Executing neural networks on the chip is also a relatively
+                    unusual process. Once the weights and connections of the
+                    neural network are placed in buffers on the chip, execution
+                    simply requires an external controller—typically a CPU—to
+                    upload the data it's meant to operate on (such as an image)
+                    and tell it to start. Everything else runs to completion
+                    without the CPU's involvement, which should also limit the
+                    system-level power consumption.
+                  </p>
+                  <p>
+                    [...] While the tests were run with the NorthPole processor
+                    installed on a PCIe card, IBM told Ars that the chip is
+                    still viewed as a research prototype, and additional work
+                    would be needed to convert it into a commercial product. The
+                    company did not indicate whether it would be pursuing
+                    commercialization, though.
+                  </p>
+                  <p>
+                    One of the potential limitations of the system is that it
+                    can only run neural networks that fit within its hardware.
+                    Put too many nodes in a single layer, and NorthPole cannot
+                    deal with it. But there is the possibility of splitting up
+                    layers and executing segments of them on multiple NorthPole
+                    chips in parallel. The hardware has the capacity to handle
+                    this, but it hasn't been tested as of yet.
+                  </p>
+                  <p>
+                    Perhaps the biggest limitation, however, is that this is
+                    specialized for a single category of AI task. While it's a
+                    commonly used one, the efficiency here comes largely from
+                    designing hardware that's a good match to the type of
+                    execution needed by inference tasks. So, while it's good to
+                    see the effort put into dropping the power demands of some
+                    AI workloads, we're not at the point yet where we can have a
+                    single accelerator that works for all cases.
+                  </p>
+                </div>
+              </blockquote>
+              <p>
+                <em>Science</em>, 2023. DOI:
+                <a href="https://doi.org/10.1126/science.adh1174"
+                  >10.1126/science.adh1174</a
+                >
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61161"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/10/29/0040218">
           <h3>
             <a
@@ -4713,131 +4814,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61028"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/10/19/0359247">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/10/19/0359247&amp;from=rss"
-              >A Simple Streetlight Hack Could Protect Astronomy From Urban
-              Light Pollution</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-10-20 @ 04:07:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2696</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/10/19/0359247"
-                  >Comments</a
-                ><span class="descendants">: 54</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
-              <p>
-                <a
-                  href="https://www.space.com/astronomy-light-pollution-streetlight-hack"
-                  >The spread of light pollution is so fast that it offsets
-                  improvements achieved through advances in telescope
-                  technology</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Light pollution is a
-                    <a
-                      href="https://www.space.com/light-pollution-serious-threat-astronomy-skywatching"
-                      >growing threat to astronomy</a
-                    >, but a new streetlamp technology could restore clear views
-                    of the night sky.
-                  </p>
-                  <p>
-                    Light-emitting diodes (LEDs) consume only about 10% of the
-                    electricity required by traditional incandescent lights and
-                    last up to 25 times longer, so it's no surprise that they
-                    have become commonplace over the past two decades.
-                  </p>
-                  <p>
-                    But there is a downside to LEDs: They're much brighter than
-                    old-fashioned energy-guzzling light bulbs. When an entire
-                    city gets fitted with energy-saving LED lamps, this bright
-                    light scatters through
-                    <a href="https://www.space.com/17683-earth-atmosphere.html"
-                      >Earth's atmosphere</a
-                    >
-                    and makes the sky glow with greater intensity.
-                  </p>
-                  <p>
-                    [...] A study published earlier this year found that
-                    <a
-                      href="https://www.space.com/light-pollution-makes-stars-disappear"
-                      >stars are disappearing from the sky</a
-                    >
-                    at an average rate of 10% per year. This trend affects even
-                    the world's most remote observatories. Germany-based startup
-                    StealthTransit recently tested a solution to this growing
-                    issue.
-                  </p>
-                  <p>
-                    "Unfortunately, this problem haunts almost all observatories
-                    today," Vlad Pashkovsky, StealthTransit's founder and CEO,
-                    told Space.com in an email. "Modern telescopes are highly
-                    sensitive and feel the impact of outdoor lighting of cities
-                    located at the distance of 50 or even 200 kilometers [30 to
-                    120 miles]. This means that virtually every observatory on
-                    <a
-                      href="https://www.space.com/54-earth-history-composition-and-atmosphere.html"
-                      >Earth</a
-                    >
-                    either already needs, or will need in the future 10 years,
-                    protection from the light of large cities."
-                  </p>
-                  <p>
-                    StealthTransit's solution relies on three components: A
-                    simple device that makes LED lights flicker at a very high
-                    frequency that is imperceptible to the human eye, a GPS
-                    receiver, and a specially designed shutter on the
-                    telescope's camera that can blink in sync with the LED
-                    lights. The GPS technology guides the telescope's shutter to
-                    open only during the fleeting moments when the LED lights
-                    are switched off.
-                  </p>
-                  <p>
-                    The experiments, conducted at an observatory in the Caucasus
-                    Mountains in Russia, showed that the technology, dubbed the
-                    DarkSkyProtector, could reduce unwanted sky glow in
-                    astronomical images by 94%.
-                  </p>
-                  <p>
-                    [...] It might sound impractical to refit an entire town
-                    with devices that allow lamps to blink, but Pashkovsky said
-                    that most existing LED lights can operate in the blinking
-                    mode and that new lamps designed specifically with sky
-                    protection in mind would be no costlier than existing LED
-                    technology. The most expensive element of the
-                    DarkSkyProtector system is the telescope shutter, which
-                    needs to be lightweight and agile enough to blink about 150
-                    times per second.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61107"
                     >Original Submission</a
                   ></small
                 >
