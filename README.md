@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-30, 10:48:00](https://soylentnews.org/article.pl?sid=23/10/29/0432250&from=rss) - [Russia Hustles to Fill Impending Void Left by the ISS](https://soylentnews.org/article.pl?sid=23/10/29/0432250&from=rss)
 * [2023-10-30, 06:02:00](https://soylentnews.org/article.pl?sid=23/10/29/0225249&from=rss) - [Sperm's Secret Voltage Switch: Scientists Unlock The Mystery Of Motility](https://soylentnews.org/article.pl?sid=23/10/29/0225249&from=rss)
 * [2023-10-30, 01:15:00](https://soylentnews.org/article.pl?sid=23/10/29/027222&from=rss) - [China and US Chips](https://soylentnews.org/article.pl?sid=23/10/29/027222&from=rss)
 * [2023-10-29, 20:34:00](https://soylentnews.org/article.pl?sid=23/10/29/0156238&from=rss) - [IBM Has Made A New, Highly Efficient AI Processor](https://soylentnews.org/article.pl?sid=23/10/29/0156238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-21, 08:35:00](https://soylentnews.org/article.pl?sid=23/10/20/0358255&from=rss) - [Boeing's First Crewed Starliner Flight To Launch April 2024 ](https://soylentnews.org/article.pl?sid=23/10/20/0358255&from=rss)
 * [2023-10-21, 03:49:00](https://soylentnews.org/article.pl?sid=23/10/20/0351254&from=rss) - [Scientist, After Decades of Study, Concludes: We Don't Have Free Will](https://soylentnews.org/article.pl?sid=23/10/20/0351254&from=rss)
 * [2023-10-20, 23:05:00](https://soylentnews.org/article.pl?sid=23/10/20/0346204&from=rss) - [Google, DOJ Still Blocking Public Access to Monopoly Trial Docs, NYT Says](https://soylentnews.org/article.pl?sid=23/10/20/0346204&from=rss)
-* [2023-10-20, 18:20:00](https://soylentnews.org/article.pl?sid=23/10/19/1821219&from=rss) - [Google-Hosted Malvertising Leads to Fake Keepass Site That Looks Genuine](https://soylentnews.org/article.pl?sid=23/10/19/1821219&from=rss)
 
 ## [Archives](archives/index.md)
 
