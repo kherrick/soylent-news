@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-10-31, 15:27:00](https://soylentnews.org/article.pl?sid=23/10/30/1942241&from=rss) - [Google to Drop Ogg Theora from Chrome Browser](https://soylentnews.org/article.pl?sid=23/10/30/1942241&from=rss)
 * [2023-10-31, 10:41:00](https://soylentnews.org/article.pl?sid=23/10/30/132244&from=rss) - [Good News for the Alien Life Hunt: Buried Oceans May be Common on Icy Exoplanets](https://soylentnews.org/article.pl?sid=23/10/30/132244&from=rss)
 * [2023-10-31, 05:54:00](https://soylentnews.org/article.pl?sid=23/10/30/1031225&from=rss) - [I'm Banned for Life From Advertising on Meta Because I Teach Python](https://soylentnews.org/article.pl?sid=23/10/30/1031225&from=rss)
 * [2023-10-31, 01:04:00](https://soylentnews.org/article.pl?sid=23/10/29/1628232&from=rss) - [Tiny Fish Surprise Scientists in ‘Volunteer's Dilemma’](https://soylentnews.org/article.pl?sid=23/10/29/1628232&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-22, 13:04:00](https://soylentnews.org/article.pl?sid=23/10/22/045259&from=rss) - [DoJ Says North Korean IT Workers Were Sent Abroad To Help Finance Weapons Programs](https://soylentnews.org/article.pl?sid=23/10/22/045259&from=rss)
 * [2023-10-22, 08:21:00](https://soylentnews.org/article.pl?sid=23/10/22/042249&from=rss) - [The New World's Hottest Pepper, Pepper X, is 3 Times Spicier Than its Predecessor](https://soylentnews.org/article.pl?sid=23/10/22/042249&from=rss)
 * [2023-10-22, 03:33:00](https://soylentnews.org/article.pl?sid=23/10/22/0356208&from=rss) - [8Bn-Year-Old Radio Burst Could Help Weigh The Universe](https://soylentnews.org/article.pl?sid=23/10/22/0356208&from=rss)
-* [2023-10-21, 22:48:00](https://soylentnews.org/article.pl?sid=23/10/21/129239&from=rss) - [Two Admit To Bypassing Testing That Keeps Nuclear Plants Safe](https://soylentnews.org/article.pl?sid=23/10/21/129239&from=rss)
 
 ## [Archives](archives/index.md)
 
