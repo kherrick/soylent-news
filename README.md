@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-01, 15:20:00](https://soylentnews.org/article.pl?sid=23/11/01/1040258&from=rss) - [Relish the Halloween Horror of This Purple Fungus That “Mummifies” Spiders](https://soylentnews.org/article.pl?sid=23/11/01/1040258&from=rss)
 * [2023-11-01, 10:35:00](https://soylentnews.org/article.pl?sid=23/10/31/0948253&from=rss) - [Facebook and Instagram Launch Ad-free Subscription Tier in EU](https://soylentnews.org/article.pl?sid=23/10/31/0948253&from=rss)
 * [2023-11-01, 05:46:00](https://soylentnews.org/article.pl?sid=23/10/31/0147204&from=rss) - [Sam Bankman-Fried Testifies, Says He “Skimmed Over” FTX Terms of Service](https://soylentnews.org/article.pl?sid=23/10/31/0147204&from=rss)
 * [2023-11-01, 01:01:00](https://soylentnews.org/article.pl?sid=23/10/31/0142228&from=rss) - [‘Smart Home’ Warning: Major Study Exposes Alarming Security Threats](https://soylentnews.org/article.pl?sid=23/10/31/0142228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-23, 12:42:00](https://soylentnews.org/article.pl?sid=23/10/23/0039253&from=rss) - [Malicious Notepad++ Google Ads Evade Detection for Months](https://soylentnews.org/article.pl?sid=23/10/23/0039253&from=rss)
 * [2023-10-23, 07:55:00](https://soylentnews.org/article.pl?sid=23/10/22/0436211&from=rss) - [COVID Antiviral Paxlovid to See Price Increase Following 400% Vaccine Hike](https://soylentnews.org/article.pl?sid=23/10/22/0436211&from=rss)
 * [2023-10-23, 03:14:00](https://soylentnews.org/article.pl?sid=23/10/22/0429229&from=rss) - [This Startup Wants to Find Out If Humans Can Have Babies in Space](https://soylentnews.org/article.pl?sid=23/10/22/0429229&from=rss)
-* [2023-10-22, 22:33:00](https://soylentnews.org/article.pl?sid=23/10/22/0416203&from=rss) - [Whats the Difference Between a $5 and a $129 USB Cable?](https://soylentnews.org/article.pl?sid=23/10/22/0416203&from=rss)
 
 ## [Archives](archives/index.md)
 
