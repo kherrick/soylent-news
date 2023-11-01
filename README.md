@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-01, 18:45:00](https://soylentnews.org/meta/article.pl?sid=23/11/01/187259&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 1 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/01/187259&from=rss)
 * [2023-11-01, 15:20:00](https://soylentnews.org/article.pl?sid=23/11/01/1040258&from=rss) - [Relish the Halloween Horror of This Purple Fungus That “Mummifies” Spiders](https://soylentnews.org/article.pl?sid=23/11/01/1040258&from=rss)
 * [2023-11-01, 10:35:00](https://soylentnews.org/article.pl?sid=23/10/31/0948253&from=rss) - [Facebook and Instagram Launch Ad-free Subscription Tier in EU](https://soylentnews.org/article.pl?sid=23/10/31/0948253&from=rss)
 * [2023-11-01, 05:46:00](https://soylentnews.org/article.pl?sid=23/10/31/0147204&from=rss) - [Sam Bankman-Fried Testifies, Says He “Skimmed Over” FTX Terms of Service](https://soylentnews.org/article.pl?sid=23/10/31/0147204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-23, 17:28:00](https://soylentnews.org/article.pl?sid=23/10/23/0049258&from=rss) - [TSMC Claims Technology Supremacy, Compares Their 3Nm Node To Intel's 18A](https://soylentnews.org/article.pl?sid=23/10/23/0049258&from=rss)
 * [2023-10-23, 12:42:00](https://soylentnews.org/article.pl?sid=23/10/23/0039253&from=rss) - [Malicious Notepad++ Google Ads Evade Detection for Months](https://soylentnews.org/article.pl?sid=23/10/23/0039253&from=rss)
 * [2023-10-23, 07:55:00](https://soylentnews.org/article.pl?sid=23/10/22/0436211&from=rss) - [COVID Antiviral Paxlovid to See Price Increase Following 400% Vaccine Hike](https://soylentnews.org/article.pl?sid=23/10/22/0436211&from=rss)
-* [2023-10-23, 03:14:00](https://soylentnews.org/article.pl?sid=23/10/22/0429229&from=rss) - [This Startup Wants to Find Out If Humans Can Have Babies in Space](https://soylentnews.org/article.pl?sid=23/10/22/0429229&from=rss)
 
 ## [Archives](archives/index.md)
 
