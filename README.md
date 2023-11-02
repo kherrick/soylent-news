@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-02, 10:11:00](https://soylentnews.org/article.pl?sid=23/10/31/1716229&from=rss) - [Robot Preachers Get Less Respect, Fewer Donations](https://soylentnews.org/article.pl?sid=23/10/31/1716229&from=rss)
 * [2023-11-02, 05:26:00](https://soylentnews.org/article.pl?sid=23/10/31/1443227&from=rss) - [Meta’s AI Research Head Wants Open Source Licensing to Change](https://soylentnews.org/article.pl?sid=23/10/31/1443227&from=rss)
 * [2023-11-02, 00:46:00](https://soylentnews.org/article.pl?sid=23/10/31/1358238&from=rss) - [People Are Speaking With ChatGPT for Hours, Bringing 2013’S Her Closer to Reality](https://soylentnews.org/article.pl?sid=23/10/31/1358238&from=rss)
 * [2023-11-01, 20:03:00](https://soylentnews.org/article.pl?sid=23/10/31/1346206&from=rss) - [Why Computer Security Advice is More Confusing Than It Should be](https://soylentnews.org/article.pl?sid=23/10/31/1346206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-24, 12:27:00](https://soylentnews.org/article.pl?sid=23/10/23/0818212&from=rss) - [Covid-19-Related Jail Decarceration Did Not Affect Crime In California](https://soylentnews.org/article.pl?sid=23/10/23/0818212&from=rss)
 * [2023-10-24, 07:42:00](https://soylentnews.org/article.pl?sid=23/10/23/087226&from=rss) - [Colorado Court Punts On Reverse Keyword Search Warrants](https://soylentnews.org/article.pl?sid=23/10/23/087226&from=rss)
 * [2023-10-24, 02:57:00](https://soylentnews.org/article.pl?sid=23/10/23/081212&from=rss) - [When Flipping Coins, Fair Coins Tend to Land on the Side They Started](https://soylentnews.org/article.pl?sid=23/10/23/081212&from=rss)
-* [2023-10-23, 22:14:00](https://soylentnews.org/article.pl?sid=23/10/23/0056213&from=rss) - [Drought In Brazil's Amazon Reveals Ancient Engravings](https://soylentnews.org/article.pl?sid=23/10/23/0056213&from=rss)
 
 ## [Archives](archives/index.md)
 
