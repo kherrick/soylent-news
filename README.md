@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-03, 14:35:00](https://soylentnews.org/article.pl?sid=23/11/03/0345221&from=rss) - [Sam Bankman-Fried Found Guilty in FTX Crypto Fraud Case](https://soylentnews.org/article.pl?sid=23/11/03/0345221&from=rss)
 * [2023-11-03, 09:52:00](https://soylentnews.org/article.pl?sid=23/11/02/1041232&from=rss) - [FAA Wraps Up Safety Review of SpaceX's Starship](https://soylentnews.org/article.pl?sid=23/11/02/1041232&from=rss)
 * [2023-11-03, 05:07:00](https://soylentnews.org/article.pl?sid=23/11/02/1038231&from=rss) - [Does Relaxing Paywall Access Help or Hurt Digital News Subscriptions?](https://soylentnews.org/article.pl?sid=23/11/02/1038231&from=rss)
 * [2023-11-03, 00:25:00](https://soylentnews.org/article.pl?sid=23/11/02/1036249&from=rss) - [Last Chance to Fix eIDAS: Secret EU Law Threatens Internet Security](https://soylentnews.org/article.pl?sid=23/11/02/1036249&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-25, 16:53:00](https://soylentnews.org/article.pl?sid=23/10/24/1817200&from=rss) - [Acoustics Researchers Decompose Sound Accurately Into its Three Basic Components](https://soylentnews.org/article.pl?sid=23/10/24/1817200&from=rss)
 * [2023-10-25, 12:11:00](https://soylentnews.org/article.pl?sid=23/10/24/0322201&from=rss) - [31 New Tech-Hubs Have Been Selected in the USA](https://soylentnews.org/article.pl?sid=23/10/24/0322201&from=rss)
 * [2023-10-25, 07:25:00](https://soylentnews.org/article.pl?sid=23/10/24/0317208&from=rss) - [Amazon Drivers’ Urine Packaged as Energy Drink, Sold on Amazon](https://soylentnews.org/article.pl?sid=23/10/24/0317208&from=rss)
-* [2023-10-25, 02:37:00](https://soylentnews.org/article.pl?sid=23/10/24/0310220&from=rss) - [In US, Invasive Spotted Lanternflies Are Devastating Crops](https://soylentnews.org/article.pl?sid=23/10/24/0310220&from=rss)
 
 ## [Archives](archives/index.md)
 
