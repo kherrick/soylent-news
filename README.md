@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-03, 05:07:00](https://soylentnews.org/article.pl?sid=23/11/02/1038231&from=rss) - [Does Relaxing Paywall Access Help or Hurt Digital News Subscriptions?](https://soylentnews.org/article.pl?sid=23/11/02/1038231&from=rss)
 * [2023-11-03, 00:25:00](https://soylentnews.org/article.pl?sid=23/11/02/1036249&from=rss) - [Last Chance to Fix eIDAS: Secret EU Law Threatens Internet Security](https://soylentnews.org/article.pl?sid=23/11/02/1036249&from=rss)
 * [2023-11-02, 19:40:00](https://soylentnews.org/article.pl?sid=23/10/31/1111253&from=rss) - [Google Loses Fight to Hide 2021 Money Pit: $26B in Default Contracts](https://soylentnews.org/article.pl?sid=23/10/31/1111253&from=rss)
 * [2023-11-02, 14:52:00](https://soylentnews.org/article.pl?sid=23/11/01/1035211&from=rss) - [Can Humans Reproduce in Space?  Mice Show Promising Sign](https://soylentnews.org/article.pl?sid=23/11/01/1035211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-25, 07:25:00](https://soylentnews.org/article.pl?sid=23/10/24/0317208&from=rss) - [Amazon Drivers’ Urine Packaged as Energy Drink, Sold on Amazon](https://soylentnews.org/article.pl?sid=23/10/24/0317208&from=rss)
 * [2023-10-25, 02:37:00](https://soylentnews.org/article.pl?sid=23/10/24/0310220&from=rss) - [In US, Invasive Spotted Lanternflies Are Devastating Crops](https://soylentnews.org/article.pl?sid=23/10/24/0310220&from=rss)
 * [2023-10-24, 21:58:00](https://soylentnews.org/article.pl?sid=23/10/24/031215&from=rss) - [Amazon Unveils New Drone, UK And Italy Aerial Delivery Plan](https://soylentnews.org/article.pl?sid=23/10/24/031215&from=rss)
-* [2023-10-24, 17:11:00](https://soylentnews.org/article.pl?sid=23/10/23/0822256&from=rss) - [Satellite Security Lags Decades Behind the State of the Art](https://soylentnews.org/article.pl?sid=23/10/23/0822256&from=rss)
 
 ## [Archives](archives/index.md)
 
