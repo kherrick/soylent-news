@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-03, 23:58:00](https://soylentnews.org/article.pl?sid=23/11/03/0455255&from=rss) - [Sending the Shoes Back? How About This Lovely Gift Card?](https://soylentnews.org/article.pl?sid=23/11/03/0455255&from=rss)
 * [2023-11-03, 19:22:00](https://soylentnews.org/article.pl?sid=23/11/03/0347201&from=rss) - [Arm Acquires Minority Stake in Raspberry Pi](https://soylentnews.org/article.pl?sid=23/11/03/0347201&from=rss)
 * [2023-11-03, 16:00:00](https://soylentnews.org/article.pl?sid=23/11/03/1558206&from=rss) - [RIP Apollo Astronaut Thomas K. Mattingly Dies Aged 87](https://soylentnews.org/article.pl?sid=23/11/03/1558206&from=rss)
 * [2023-11-03, 14:35:00](https://soylentnews.org/article.pl?sid=23/11/03/0345221&from=rss) - [Sam Bankman-Fried Found Guilty in FTX Crypto Fraud Case](https://soylentnews.org/article.pl?sid=23/11/03/0345221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-26, 02:25:00](https://soylentnews.org/article.pl?sid=23/10/25/0741253&from=rss) - [Testing A Time-Jumping, Multiverse-Killing, Consciousness-Spawning Theory Of Reality](https://soylentnews.org/article.pl?sid=23/10/25/0741253&from=rss)
 * [2023-10-25, 21:38:00](https://soylentnews.org/article.pl?sid=23/10/24/1819213&from=rss) - [Why Brainstorming Doesn't Work](https://soylentnews.org/article.pl?sid=23/10/24/1819213&from=rss)
 * [2023-10-25, 17:30:00](https://soylentnews.org/meta/article.pl?sid=23/10/25/1655248&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, October 25 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/10/25/1655248&from=rss)
-* [2023-10-25, 16:53:00](https://soylentnews.org/article.pl?sid=23/10/24/1817200&from=rss) - [Acoustics Researchers Decompose Sound Accurately Into its Three Basic Components](https://soylentnews.org/article.pl?sid=23/10/24/1817200&from=rss)
 
 ## [Archives](archives/index.md)
 
