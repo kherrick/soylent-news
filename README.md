@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-04, 08:48:00](https://soylentnews.org/article.pl?sid=23/11/04/029232&from=rss) - [Researchers Decipher the Secrets of Benjamin Franklin's Paper Money](https://soylentnews.org/article.pl?sid=23/11/04/029232&from=rss)
 * [2023-11-04, 04:20:00](https://soylentnews.org/article.pl?sid=23/11/03/053204&from=rss) - [Satisfaction With Online Dating App Depends on What You're Looking for](https://soylentnews.org/article.pl?sid=23/11/03/053204&from=rss)
 * [2023-11-03, 23:58:00](https://soylentnews.org/article.pl?sid=23/11/03/0455255&from=rss) - [Sending the Shoes Back? How About This Lovely Gift Card?](https://soylentnews.org/article.pl?sid=23/11/03/0455255&from=rss)
 * [2023-11-03, 19:22:00](https://soylentnews.org/article.pl?sid=23/11/03/0347201&from=rss) - [Arm Acquires Minority Stake in Raspberry Pi](https://soylentnews.org/article.pl?sid=23/11/03/0347201&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-26, 11:55:00](https://soylentnews.org/article.pl?sid=23/10/25/1537226&from=rss) - [NASA Is Struggling To Open Its Asteroid Sample Container](https://soylentnews.org/article.pl?sid=23/10/25/1537226&from=rss)
 * [2023-10-26, 07:12:00](https://soylentnews.org/article.pl?sid=23/10/25/1239252&from=rss) - [A Majority of US States File a Lawsuit Against Meta for \"Harming Youth\"](https://soylentnews.org/article.pl?sid=23/10/25/1239252&from=rss)
 * [2023-10-26, 02:25:00](https://soylentnews.org/article.pl?sid=23/10/25/0741253&from=rss) - [Testing A Time-Jumping, Multiverse-Killing, Consciousness-Spawning Theory Of Reality](https://soylentnews.org/article.pl?sid=23/10/25/0741253&from=rss)
-* [2023-10-25, 21:38:00](https://soylentnews.org/article.pl?sid=23/10/24/1819213&from=rss) - [Why Brainstorming Doesn't Work](https://soylentnews.org/article.pl?sid=23/10/24/1819213&from=rss)
 
 ## [Archives](archives/index.md)
 
