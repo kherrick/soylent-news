@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 22:32:00](https://soylentnews.org/article.pl?sid=23/11/04/114217&from=rss) - [Disney to Buy Out Hulu From Comcast for About $8.61 Billion](https://soylentnews.org/article.pl?sid=23/11/04/114217&from=rss)
 * [2023-11-05, 17:44:00](https://soylentnews.org/article.pl?sid=23/11/04/1042201&from=rss) - [High Mobile Phone Use May Impact Sperm Count](https://soylentnews.org/article.pl?sid=23/11/04/1042201&from=rss)
 * [2023-11-05, 16:09:00](https://soylentnews.org/meta/article.pl?sid=23/11/05/168231&from=rss) - [Certificates Expiring](https://soylentnews.org/meta/article.pl?sid=23/11/05/168231&from=rss)
 * [2023-11-05, 13:04:00](https://soylentnews.org/article.pl?sid=23/11/04/1056248&from=rss) - [Uber, Lyft Pay $328 Million for “Cheating Drivers” Out of Earnings, NY Says](https://soylentnews.org/article.pl?sid=23/11/04/1056248&from=rss)

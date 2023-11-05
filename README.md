@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-05, 22:32:00](https://soylentnews.org/article.pl?sid=23/11/04/114217&from=rss) - [Disney to Buy Out Hulu From Comcast for About $8.61 Billion](https://soylentnews.org/article.pl?sid=23/11/04/114217&from=rss)
 * [2023-11-05, 17:44:00](https://soylentnews.org/article.pl?sid=23/11/04/1042201&from=rss) - [High Mobile Phone Use May Impact Sperm Count](https://soylentnews.org/article.pl?sid=23/11/04/1042201&from=rss)
 * [2023-11-05, 16:09:00](https://soylentnews.org/meta/article.pl?sid=23/11/05/168231&from=rss) - [Certificates Expiring](https://soylentnews.org/meta/article.pl?sid=23/11/05/168231&from=rss)
 * [2023-11-05, 13:04:00](https://soylentnews.org/article.pl?sid=23/11/04/1056248&from=rss) - [Uber, Lyft Pay $328 Million for “Cheating Drivers” Out of Earnings, NY Says](https://soylentnews.org/article.pl?sid=23/11/04/1056248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-28, 06:34:00](https://soylentnews.org/article.pl?sid=23/10/27/0545251&from=rss) - [Why Unity Felt the Need to “Rush Out” its Controversial Install-Fee Program](https://soylentnews.org/article.pl?sid=23/10/27/0545251&from=rss)
 * [2023-10-28, 01:50:00](https://soylentnews.org/article.pl?sid=23/10/27/0333212&from=rss) - [New 3D-Printed Tumor Model Enables Faster, Less Expensive and Less Painful Cancer Treatment](https://soylentnews.org/article.pl?sid=23/10/27/0333212&from=rss)
 * [2023-10-27, 21:05:00](https://soylentnews.org/article.pl?sid=23/10/27/0326243&from=rss) - [UK Workers Support AI But Want Greater Organizational Transparency](https://soylentnews.org/article.pl?sid=23/10/27/0326243&from=rss)
-* [2023-10-27, 16:23:00](https://soylentnews.org/article.pl?sid=23/10/27/0259241&from=rss) - [Boeing Can't Make Money With Fixed-Price Contracts](https://soylentnews.org/article.pl?sid=23/10/27/0259241&from=rss)
 
 ## [Archives](archives/index.md)
 
