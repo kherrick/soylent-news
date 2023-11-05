@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-05, 03:29:00](https://soylentnews.org/article.pl?sid=23/11/04/0352215&from=rss) - [Microsoft Shamelessly Pumping Internet Full of Garbage AI-Generated \"News\" Articles](https://soylentnews.org/article.pl?sid=23/11/04/0352215&from=rss)
 * [2023-11-04, 22:45:00](https://soylentnews.org/article.pl?sid=23/11/04/0337248&from=rss) - [Light Can Make Water Evaporate Without Heat and Could Enable New Approaches to Desalination](https://soylentnews.org/article.pl?sid=23/11/04/0337248&from=rss)
 * [2023-11-04, 17:59:00](https://soylentnews.org/article.pl?sid=23/11/04/0330232&from=rss) - [Teeny Jumping Spider Found in Woman's Ear After Days of Torturous Racket](https://soylentnews.org/article.pl?sid=23/11/04/0330232&from=rss)
 * [2023-11-04, 13:16:00](https://soylentnews.org/article.pl?sid=23/11/04/0215232&from=rss) - [48 Malicious Npm Packages Found Deploying Reverse Shells on Developer Systems](https://soylentnews.org/article.pl?sid=23/11/04/0215232&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-27, 06:55:00](https://soylentnews.org/article.pl?sid=23/10/26/0318232&from=rss) - [Choosing Ignorance: 40% Shun Consequence Knowledge for Selfish Gains](https://soylentnews.org/article.pl?sid=23/10/26/0318232&from=rss)
 * [2023-10-27, 02:10:00](https://soylentnews.org/article.pl?sid=23/10/26/039238&from=rss) - [New Tool Lets Artists Fight AI Image Bots by Hiding Corrupt Data in Plain Sight](https://soylentnews.org/article.pl?sid=23/10/26/039238&from=rss)
 * [2023-10-26, 21:22:00](https://soylentnews.org/article.pl?sid=23/10/26/0253256&from=rss) - [Apple Will Honor California's 'Right To Repair' Rules Nationwide](https://soylentnews.org/article.pl?sid=23/10/26/0253256&from=rss)
-* [2023-10-26, 16:39:00](https://soylentnews.org/article.pl?sid=23/10/25/1541236&from=rss) - [Millions Of Americans Have Cognitive Decline And Don't Know It](https://soylentnews.org/article.pl?sid=23/10/25/1541236&from=rss)
 
 ## [Archives](archives/index.md)
 
