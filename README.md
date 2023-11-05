@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-05, 13:04:00](https://soylentnews.org/article.pl?sid=23/11/04/1056248&from=rss) - [Uber, Lyft Pay $328 Million for “Cheating Drivers” Out of Earnings, NY Says](https://soylentnews.org/article.pl?sid=23/11/04/1056248&from=rss)
 * [2023-11-05, 08:19:00](https://soylentnews.org/article.pl?sid=23/11/04/0412250&from=rss) - [Experiment Reveals What Would Happen if You Touched a Quantum Superfluid](https://soylentnews.org/article.pl?sid=23/11/04/0412250&from=rss)
 * [2023-11-05, 03:29:00](https://soylentnews.org/article.pl?sid=23/11/04/0352215&from=rss) - [Microsoft Shamelessly Pumping Internet Full of Garbage AI-Generated \"News\" Articles](https://soylentnews.org/article.pl?sid=23/11/04/0352215&from=rss)
 * [2023-11-04, 22:45:00](https://soylentnews.org/article.pl?sid=23/11/04/0337248&from=rss) - [Light Can Make Water Evaporate Without Heat and Could Enable New Approaches to Desalination](https://soylentnews.org/article.pl?sid=23/11/04/0337248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-27, 16:23:00](https://soylentnews.org/article.pl?sid=23/10/27/0259241&from=rss) - [Boeing Can't Make Money With Fixed-Price Contracts](https://soylentnews.org/article.pl?sid=23/10/27/0259241&from=rss)
 * [2023-10-27, 11:42:00](https://soylentnews.org/article.pl?sid=23/10/27/0024227&from=rss) - [California Suspends Cruise Robotaxis After Car Dragged Pedestrian 20 Feet](https://soylentnews.org/article.pl?sid=23/10/27/0024227&from=rss)
 * [2023-10-27, 06:55:00](https://soylentnews.org/article.pl?sid=23/10/26/0318232&from=rss) - [Choosing Ignorance: 40% Shun Consequence Knowledge for Selfish Gains](https://soylentnews.org/article.pl?sid=23/10/26/0318232&from=rss)
-* [2023-10-27, 02:10:00](https://soylentnews.org/article.pl?sid=23/10/26/039238&from=rss) - [New Tool Lets Artists Fight AI Image Bots by Hiding Corrupt Data in Plain Sight](https://soylentnews.org/article.pl?sid=23/10/26/039238&from=rss)
 
 ## [Archives](archives/index.md)
 
