@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-06, 08:03:00](https://soylentnews.org/article.pl?sid=23/11/05/1946234&from=rss) - [Divine Coding](https://soylentnews.org/article.pl?sid=23/11/05/1946234&from=rss)
 * [2023-11-06, 03:23:00](https://soylentnews.org/article.pl?sid=23/11/05/1844240&from=rss) - [Long Presumed to Have No Heads at All, Starfish May be Nothing but](https://soylentnews.org/article.pl?sid=23/11/05/1844240&from=rss)
 * [2023-11-05, 22:32:00](https://soylentnews.org/article.pl?sid=23/11/04/114217&from=rss) - [Disney to Buy Out Hulu From Comcast for About $8.61 Billion](https://soylentnews.org/article.pl?sid=23/11/04/114217&from=rss)
 * [2023-11-05, 17:44:00](https://soylentnews.org/article.pl?sid=23/11/04/1042201&from=rss) - [High Mobile Phone Use May Impact Sperm Count](https://soylentnews.org/article.pl?sid=23/11/04/1042201&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-28, 16:01:00](https://soylentnews.org/article.pl?sid=23/10/27/0548251&from=rss) - [The Ocean's Color is Changing as a Consequence of Climate Change](https://soylentnews.org/article.pl?sid=23/10/27/0548251&from=rss)
 * [2023-10-28, 11:17:00](https://soylentnews.org/article.pl?sid=23/10/27/0553248&from=rss) - [Old-School Problems, Old-School Solutions: We Help Aero-Test a Mustang](https://soylentnews.org/article.pl?sid=23/10/27/0553248&from=rss)
 * [2023-10-28, 06:34:00](https://soylentnews.org/article.pl?sid=23/10/27/0545251&from=rss) - [Why Unity Felt the Need to “Rush Out” its Controversial Install-Fee Program](https://soylentnews.org/article.pl?sid=23/10/27/0545251&from=rss)
-* [2023-10-28, 01:50:00](https://soylentnews.org/article.pl?sid=23/10/27/0333212&from=rss) - [New 3D-Printed Tumor Model Enables Faster, Less Expensive and Less Painful Cancer Treatment](https://soylentnews.org/article.pl?sid=23/10/27/0333212&from=rss)
 
 ## [Archives](archives/index.md)
 
