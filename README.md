@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-07, 17:09:00](https://soylentnews.org/article.pl?sid=23/11/06/1050236&from=rss) - [How Sunflowers 'See' the Sun: Study Describes a Novel Mechanism](https://soylentnews.org/article.pl?sid=23/11/06/1050236&from=rss)
 * [2023-11-07, 12:26:00](https://soylentnews.org/article.pl?sid=23/11/06/1047257&from=rss) - [A Bold New Plan for Preserving Online Privacy and Security](https://soylentnews.org/article.pl?sid=23/11/06/1047257&from=rss)
 * [2023-11-07, 07:46:00](https://soylentnews.org/article.pl?sid=23/11/06/0239235&from=rss) - [Higher Parenting Stress For Dads Working From Home Versus Onsite During Pandemic](https://soylentnews.org/article.pl?sid=23/11/06/0239235&from=rss)
 * [2023-11-07, 03:02:00](https://soylentnews.org/article.pl?sid=23/11/06/0231203&from=rss) - [The Many Faces of Felines](https://soylentnews.org/article.pl?sid=23/11/06/0231203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-30, 01:15:00](https://soylentnews.org/article.pl?sid=23/10/29/027222&from=rss) - [China and US Chips](https://soylentnews.org/article.pl?sid=23/10/29/027222&from=rss)
 * [2023-10-29, 20:34:00](https://soylentnews.org/article.pl?sid=23/10/29/0156238&from=rss) - [IBM Has Made A New, Highly Efficient AI Processor](https://soylentnews.org/article.pl?sid=23/10/29/0156238&from=rss)
 * [2023-10-29, 15:45:00](https://soylentnews.org/article.pl?sid=23/10/29/0040218&from=rss) - [iPhones Have Been Exposing Your Unique MAC Despite Apple's Promises Otherwise](https://soylentnews.org/article.pl?sid=23/10/29/0040218&from=rss)
-* [2023-10-29, 10:59:00](https://soylentnews.org/article.pl?sid=23/10/29/0036248&from=rss) - [NASA To Rewrite Mars Sample Return Mission So It Can Happen](https://soylentnews.org/article.pl?sid=23/10/29/0036248&from=rss)
 
 ## [Archives](archives/index.md)
 
