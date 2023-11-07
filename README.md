@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-07, 03:02:00](https://soylentnews.org/article.pl?sid=23/11/06/0231203&from=rss) - [The Many Faces of Felines](https://soylentnews.org/article.pl?sid=23/11/06/0231203&from=rss)
 * [2023-11-06, 22:21:00](https://soylentnews.org/article.pl?sid=23/11/06/0215240&from=rss) - [Bcachefs Merged Into the Linux 6.7 Kernel](https://soylentnews.org/article.pl?sid=23/11/06/0215240&from=rss)
 * [2023-11-06, 17:34:00](https://soylentnews.org/article.pl?sid=23/11/06/027201&from=rss) - [Major Critic of X Sues After Being Banned From Platform](https://soylentnews.org/article.pl?sid=23/11/06/027201&from=rss)
 * [2023-11-06, 12:51:00](https://soylentnews.org/article.pl?sid=23/11/06/023242&from=rss) - [India's Lunar Landing Made A Mess On The Moon](https://soylentnews.org/article.pl?sid=23/11/06/023242&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-29, 10:59:00](https://soylentnews.org/article.pl?sid=23/10/29/0036248&from=rss) - [NASA To Rewrite Mars Sample Return Mission So It Can Happen](https://soylentnews.org/article.pl?sid=23/10/29/0036248&from=rss)
 * [2023-10-29, 06:17:00](https://soylentnews.org/article.pl?sid=23/10/27/069228&from=rss) - [EU Legislators Vote To Slash Use Of Pesticides](https://soylentnews.org/article.pl?sid=23/10/27/069228&from=rss)
 * [2023-10-29, 01:32:00](https://soylentnews.org/article.pl?sid=23/10/27/063202&from=rss) - [Higher Carbon Tax on Luxury Goods, Say Researchers](https://soylentnews.org/article.pl?sid=23/10/27/063202&from=rss)
-* [2023-10-28, 20:45:00](https://soylentnews.org/article.pl?sid=23/10/27/0557234&from=rss) - [The Best We Can Do? The Rise of Bullshit Research](https://soylentnews.org/article.pl?sid=23/10/27/0557234&from=rss)
 
 ## [Archives](archives/index.md)
 
