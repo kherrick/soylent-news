@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-08, 02:36:00](https://soylentnews.org/article.pl?sid=23/11/07/0446216&from=rss) - [YouTube Ad Blocker Updates](https://soylentnews.org/article.pl?sid=23/11/07/0446216&from=rss)
 * [2023-11-07, 21:51:00](https://soylentnews.org/article.pl?sid=23/11/06/1052244&from=rss) - [AMD Announces Ryzen 5 7545U And Ryzen 3 7440U Mobile Processors With Zen 4C Cores](https://soylentnews.org/article.pl?sid=23/11/06/1052244&from=rss)
 * [2023-11-07, 17:09:00](https://soylentnews.org/article.pl?sid=23/11/06/1050236&from=rss) - [How Sunflowers 'See' the Sun: Study Describes a Novel Mechanism](https://soylentnews.org/article.pl?sid=23/11/06/1050236&from=rss)
 * [2023-11-07, 12:26:00](https://soylentnews.org/article.pl?sid=23/11/06/1047257&from=rss) - [A Bold New Plan for Preserving Online Privacy and Security](https://soylentnews.org/article.pl?sid=23/11/06/1047257&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-30, 10:48:00](https://soylentnews.org/article.pl?sid=23/10/29/0432250&from=rss) - [Russia Hustles to Fill Impending Void Left by the ISS](https://soylentnews.org/article.pl?sid=23/10/29/0432250&from=rss)
 * [2023-10-30, 06:02:00](https://soylentnews.org/article.pl?sid=23/10/29/0225249&from=rss) - [Sperm's Secret Voltage Switch: Scientists Unlock The Mystery Of Motility](https://soylentnews.org/article.pl?sid=23/10/29/0225249&from=rss)
 * [2023-10-30, 01:15:00](https://soylentnews.org/article.pl?sid=23/10/29/027222&from=rss) - [China and US Chips](https://soylentnews.org/article.pl?sid=23/10/29/027222&from=rss)
-* [2023-10-29, 20:34:00](https://soylentnews.org/article.pl?sid=23/10/29/0156238&from=rss) - [IBM Has Made A New, Highly Efficient AI Processor](https://soylentnews.org/article.pl?sid=23/10/29/0156238&from=rss)
 
 ## [Archives](archives/index.md)
 
