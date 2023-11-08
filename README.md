@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-08, 21:35:00](https://soylentnews.org/article.pl?sid=23/11/07/156203&from=rss) - [My 1976 KIM-1 ](https://soylentnews.org/article.pl?sid=23/11/07/156203&from=rss)
 * [2023-11-08, 18:30:00](https://soylentnews.org/meta/article.pl?sid=23/11/08/1756252&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 8, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/08/1756252&from=rss)
 * [2023-11-08, 16:50:00](https://soylentnews.org/article.pl?sid=23/11/07/151209&from=rss) - [Ariane 6 Cost and Delays Bring European Launch Industry to a Breaking Point](https://soylentnews.org/article.pl?sid=23/11/07/151209&from=rss)
 * [2023-11-08, 12:05:00](https://soylentnews.org/article.pl?sid=23/11/07/0546208&from=rss) - [Aussies \"F***ing Tired\" of QR Code Requirements at Restaurants](https://soylentnews.org/article.pl?sid=23/11/07/0546208&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-31, 10:41:00](https://soylentnews.org/article.pl?sid=23/10/30/132244&from=rss) - [Good News for the Alien Life Hunt: Buried Oceans May be Common on Icy Exoplanets](https://soylentnews.org/article.pl?sid=23/10/30/132244&from=rss)
 * [2023-10-31, 05:54:00](https://soylentnews.org/article.pl?sid=23/10/30/1031225&from=rss) - [I'm Banned for Life From Advertising on Meta Because I Teach Python](https://soylentnews.org/article.pl?sid=23/10/30/1031225&from=rss)
 * [2023-10-31, 01:04:00](https://soylentnews.org/article.pl?sid=23/10/29/1628232&from=rss) - [Tiny Fish Surprise Scientists in ‘Volunteer's Dilemma’](https://soylentnews.org/article.pl?sid=23/10/29/1628232&from=rss)
-* [2023-10-30, 20:18:00](https://soylentnews.org/article.pl?sid=23/10/29/0440214&from=rss) - [Google Is Ready To Fill Its AI Searches With Ads](https://soylentnews.org/article.pl?sid=23/10/29/0440214&from=rss)
 
 ## [Archives](archives/index.md)
 
