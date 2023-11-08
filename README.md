@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2023-11-08, 12:05:00](https://soylentnews.org/article.pl?sid=23/11/07/0546208&from=rss) - [Aussies \"F***ing Tired\" of QR Code Requirments at Restaurants](https://soylentnews.org/article.pl?sid=23/11/07/0546208&from=rss)
+* [2023-11-08, 12:05:00](https://soylentnews.org/article.pl?sid=23/11/07/0546208&from=rss) - [Aussies \"F***ing Tired\" of QR Code Requirements at Restaurants](https://soylentnews.org/article.pl?sid=23/11/07/0546208&from=rss)
 * [2023-11-08, 07:16:00](https://soylentnews.org/article.pl?sid=23/11/07/0538221&from=rss) - [Amazon And Meta To Stop Using Third-Party Data From Rivals](https://soylentnews.org/article.pl?sid=23/11/07/0538221&from=rss)
 * [2023-11-08, 02:36:00](https://soylentnews.org/article.pl?sid=23/11/07/0446216&from=rss) - [YouTube Ad Blocker Updates](https://soylentnews.org/article.pl?sid=23/11/07/0446216&from=rss)
 * [2023-11-07, 21:51:00](https://soylentnews.org/article.pl?sid=23/11/06/1052244&from=rss) - [AMD Announces Ryzen 5 7545U And Ryzen 3 7440U Mobile Processors With Zen 4C Cores](https://soylentnews.org/article.pl?sid=23/11/06/1052244&from=rss)
