@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-09, 11:53:00](https://soylentnews.org/article.pl?sid=23/11/08/1159253&from=rss) - [Grok xAI by Musk](https://soylentnews.org/article.pl?sid=23/11/08/1159253&from=rss)
 * [2023-11-09, 07:08:00](https://soylentnews.org/article.pl?sid=23/11/07/1518257&from=rss) - [Playing Catch-Up on Weekends May Not Restore Cardiovascular Cost of Sleep Loss](https://soylentnews.org/article.pl?sid=23/11/07/1518257&from=rss)
 * [2023-11-09, 02:23:00](https://soylentnews.org/article.pl?sid=23/11/07/1516254&from=rss) - [Keropunk Part 5: Mantle Lanterns](https://soylentnews.org/article.pl?sid=23/11/07/1516254&from=rss)
 * [2023-11-08, 21:35:00](https://soylentnews.org/article.pl?sid=23/11/07/156203&from=rss) - [My 1976 KIM-1 ](https://soylentnews.org/article.pl?sid=23/11/07/156203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-01, 01:01:00](https://soylentnews.org/article.pl?sid=23/10/31/0142228&from=rss) - [‘Smart Home’ Warning: Major Study Exposes Alarming Security Threats](https://soylentnews.org/article.pl?sid=23/10/31/0142228&from=rss)
 * [2023-10-31, 20:12:00](https://soylentnews.org/article.pl?sid=23/10/30/1949234&from=rss) - [When ET Calls, Can We be Sure We're Not Being Spoofed?](https://soylentnews.org/article.pl?sid=23/10/30/1949234&from=rss)
 * [2023-10-31, 15:27:00](https://soylentnews.org/article.pl?sid=23/10/30/1942241&from=rss) - [Google to Drop Ogg Theora from Chrome Browser](https://soylentnews.org/article.pl?sid=23/10/30/1942241&from=rss)
-* [2023-10-31, 10:41:00](https://soylentnews.org/article.pl?sid=23/10/30/132244&from=rss) - [Good News for the Alien Life Hunt: Buried Oceans May be Common on Icy Exoplanets](https://soylentnews.org/article.pl?sid=23/10/30/132244&from=rss)
 
 ## [Archives](archives/index.md)
 
