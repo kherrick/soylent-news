@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-09, 07:08:00](https://soylentnews.org/article.pl?sid=23/11/07/1518257&from=rss) - [Playing Catch-Up on Weekends May Not Restore Cardiovascular Cost of Sleep Loss](https://soylentnews.org/article.pl?sid=23/11/07/1518257&from=rss)
 * [2023-11-09, 02:23:00](https://soylentnews.org/article.pl?sid=23/11/07/1516254&from=rss) - [Keropunk Part 5: Mantle Lanterns](https://soylentnews.org/article.pl?sid=23/11/07/1516254&from=rss)
 * [2023-11-08, 21:35:00](https://soylentnews.org/article.pl?sid=23/11/07/156203&from=rss) - [My 1976 KIM-1 ](https://soylentnews.org/article.pl?sid=23/11/07/156203&from=rss)
 * [2023-11-08, 18:30:00](https://soylentnews.org/meta/article.pl?sid=23/11/08/1756252&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 8, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/08/1756252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-10-31, 20:12:00](https://soylentnews.org/article.pl?sid=23/10/30/1949234&from=rss) - [When ET Calls, Can We be Sure We're Not Being Spoofed?](https://soylentnews.org/article.pl?sid=23/10/30/1949234&from=rss)
 * [2023-10-31, 15:27:00](https://soylentnews.org/article.pl?sid=23/10/30/1942241&from=rss) - [Google to Drop Ogg Theora from Chrome Browser](https://soylentnews.org/article.pl?sid=23/10/30/1942241&from=rss)
 * [2023-10-31, 10:41:00](https://soylentnews.org/article.pl?sid=23/10/30/132244&from=rss) - [Good News for the Alien Life Hunt: Buried Oceans May be Common on Icy Exoplanets](https://soylentnews.org/article.pl?sid=23/10/30/132244&from=rss)
-* [2023-10-31, 05:54:00](https://soylentnews.org/article.pl?sid=23/10/30/1031225&from=rss) - [I'm Banned for Life From Advertising on Meta Because I Teach Python](https://soylentnews.org/article.pl?sid=23/10/30/1031225&from=rss)
 
 ## [Archives](archives/index.md)
 
