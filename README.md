@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-10, 06:52:00](https://soylentnews.org/article.pl?sid=23/11/09/0237208&from=rss) - [Nature Retracts Controversial Superconductivity Paper by Embattled Physicist](https://soylentnews.org/article.pl?sid=23/11/09/0237208&from=rss)
 * [2023-11-10, 02:03:00](https://soylentnews.org/article.pl?sid=23/11/09/023259&from=rss) - [Spaf on 35 Years Since the Morris Worm](https://soylentnews.org/article.pl?sid=23/11/09/023259&from=rss)
 * [2023-11-09, 21:22:00](https://soylentnews.org/article.pl?sid=23/11/08/186227&from=rss) - [Study Shows Willow Bark Extract Has Broad-Spectrum Antiviral Effect](https://soylentnews.org/article.pl?sid=23/11/08/186227&from=rss)
 * [2023-11-09, 16:34:00](https://soylentnews.org/article.pl?sid=23/11/08/125237&from=rss) - [Data Broker's “Staggering” Sale of Sensitive Info Exposed in Unsealed FTC Filing](https://soylentnews.org/article.pl?sid=23/11/08/125237&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-01, 18:45:00](https://soylentnews.org/meta/article.pl?sid=23/11/01/187259&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 1 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/01/187259&from=rss)
 * [2023-11-01, 15:20:00](https://soylentnews.org/article.pl?sid=23/11/01/1040258&from=rss) - [Relish the Halloween Horror of This Purple Fungus That “Mummifies” Spiders](https://soylentnews.org/article.pl?sid=23/11/01/1040258&from=rss)
 * [2023-11-01, 10:35:00](https://soylentnews.org/article.pl?sid=23/10/31/0948253&from=rss) - [Facebook and Instagram Launch Ad-free Subscription Tier in EU](https://soylentnews.org/article.pl?sid=23/10/31/0948253&from=rss)
-* [2023-11-01, 05:46:00](https://soylentnews.org/article.pl?sid=23/10/31/0147204&from=rss) - [Sam Bankman-Fried Testifies, Says He “Skimmed Over” FTX Terms of Service](https://soylentnews.org/article.pl?sid=23/10/31/0147204&from=rss)
 
 ## [Archives](archives/index.md)
 
