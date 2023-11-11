@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-11, 06:45:00](https://soylentnews.org/article.pl?sid=23/11/11/0645241&from=rss) - [RIP - Frank Borman, Astronaut Who Led First Orbit of the Moon, Dies at 95](https://soylentnews.org/article.pl?sid=23/11/11/0645241&from=rss)
 * [2023-11-11, 06:18:00](https://soylentnews.org/article.pl?sid=23/11/10/0431245&from=rss) - [Android 14’s Storage Disaster Gets Patched, but Your Data Might be Gone](https://soylentnews.org/article.pl?sid=23/11/10/0431245&from=rss)
 * [2023-11-11, 01:29:00](https://soylentnews.org/article.pl?sid=23/11/10/0213222&from=rss) - [Video Chat Service Omegle Shuts Down Following Years of User Abuse Claims](https://soylentnews.org/article.pl?sid=23/11/10/0213222&from=rss)
 * [2023-11-10, 21:09:00](https://soylentnews.org/article.pl?sid=23/11/09/1350235&from=rss) - [Chamberlain Blocks Smart Garage Door Opener From Working With Smart Homes](https://soylentnews.org/article.pl?sid=23/11/09/1350235&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-02, 19:40:00](https://soylentnews.org/article.pl?sid=23/10/31/1111253&from=rss) - [Google Loses Fight to Hide 2021 Money Pit: $26B in Default Contracts](https://soylentnews.org/article.pl?sid=23/10/31/1111253&from=rss)
 * [2023-11-02, 14:52:00](https://soylentnews.org/article.pl?sid=23/11/01/1035211&from=rss) - [Can Humans Reproduce in Space?  Mice Show Promising Sign](https://soylentnews.org/article.pl?sid=23/11/01/1035211&from=rss)
 * [2023-11-02, 10:11:00](https://soylentnews.org/article.pl?sid=23/10/31/1716229&from=rss) - [Robot Preachers Get Less Respect, Fewer Donations](https://soylentnews.org/article.pl?sid=23/10/31/1716229&from=rss)
-* [2023-11-02, 05:26:00](https://soylentnews.org/article.pl?sid=23/10/31/1443227&from=rss) - [Meta’s AI Research Head Wants Open Source Licensing to Change](https://soylentnews.org/article.pl?sid=23/10/31/1443227&from=rss)
 
 ## [Archives](archives/index.md)
 
