@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-11, 01:29:00](https://soylentnews.org/article.pl?sid=23/11/10/0213222&from=rss) - [Video Chat Service Omegle Shuts Down Following Years of User Abuse Claims](https://soylentnews.org/article.pl?sid=23/11/10/0213222&from=rss)
 * [2023-11-10, 21:09:00](https://soylentnews.org/article.pl?sid=23/11/09/1350235&from=rss) - [Chamberlain Blocks Smart Garage Door Opener From Working With Smart Homes](https://soylentnews.org/article.pl?sid=23/11/09/1350235&from=rss)
 * [2023-11-10, 16:25:00](https://soylentnews.org/article.pl?sid=23/11/09/1347203&from=rss) - [Evidence of Theorized Type of Black Hole Discovered Near Dawn of Time](https://soylentnews.org/article.pl?sid=23/11/09/1347203&from=rss)
 * [2023-11-10, 11:41:00](https://soylentnews.org/article.pl?sid=23/11/09/1343259&from=rss) - [Long Lost Correspondence.](https://soylentnews.org/article.pl?sid=23/11/09/1343259&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-02, 10:11:00](https://soylentnews.org/article.pl?sid=23/10/31/1716229&from=rss) - [Robot Preachers Get Less Respect, Fewer Donations](https://soylentnews.org/article.pl?sid=23/10/31/1716229&from=rss)
 * [2023-11-02, 05:26:00](https://soylentnews.org/article.pl?sid=23/10/31/1443227&from=rss) - [Meta’s AI Research Head Wants Open Source Licensing to Change](https://soylentnews.org/article.pl?sid=23/10/31/1443227&from=rss)
 * [2023-11-02, 00:46:00](https://soylentnews.org/article.pl?sid=23/10/31/1358238&from=rss) - [People Are Speaking With ChatGPT for Hours, Bringing 2013’S Her Closer to Reality](https://soylentnews.org/article.pl?sid=23/10/31/1358238&from=rss)
-* [2023-11-01, 20:03:00](https://soylentnews.org/article.pl?sid=23/10/31/1346206&from=rss) - [Why Computer Security Advice is More Confusing Than It Should be](https://soylentnews.org/article.pl?sid=23/10/31/1346206&from=rss)
 
 ## [Archives](archives/index.md)
 
