@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-12, 15:23:00](https://soylentnews.org/article.pl?sid=23/11/11/0616234&from=rss) - [NuScale, UAMPS Terminate Small Modular Reactor Project in Idaho](https://soylentnews.org/article.pl?sid=23/11/11/0616234&from=rss)
 * [2023-11-12, 10:42:00](https://soylentnews.org/article.pl?sid=23/11/11/0610228&from=rss) - [Debunking the Myth of “Anonymous” Data](https://soylentnews.org/article.pl?sid=23/11/11/0610228&from=rss)
 * [2023-11-12, 05:58:00](https://soylentnews.org/article.pl?sid=23/11/11/0322213&from=rss) - [US Commerce Dept Promises Crackdown On Spyware Exports](https://soylentnews.org/article.pl?sid=23/11/11/0322213&from=rss)
 * [2023-11-12, 01:10:00](https://soylentnews.org/article.pl?sid=23/11/11/022213&from=rss) - ['Super Melanin' Heals Skin Injuries From Sunburn, Chemical Burns](https://soylentnews.org/article.pl?sid=23/11/11/022213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-03, 23:58:00](https://soylentnews.org/article.pl?sid=23/11/03/0455255&from=rss) - [Sending the Shoes Back? How About This Lovely Gift Card?](https://soylentnews.org/article.pl?sid=23/11/03/0455255&from=rss)
 * [2023-11-03, 19:22:00](https://soylentnews.org/article.pl?sid=23/11/03/0347201&from=rss) - [Arm Acquires Minority Stake in Raspberry Pi](https://soylentnews.org/article.pl?sid=23/11/03/0347201&from=rss)
 * [2023-11-03, 16:00:00](https://soylentnews.org/article.pl?sid=23/11/03/1558206&from=rss) - [RIP Apollo Astronaut Thomas K. Mattingly Dies Aged 87](https://soylentnews.org/article.pl?sid=23/11/03/1558206&from=rss)
-* [2023-11-03, 14:35:00](https://soylentnews.org/article.pl?sid=23/11/03/0345221&from=rss) - [Sam Bankman-Fried Found Guilty in FTX Crypto Fraud Case](https://soylentnews.org/article.pl?sid=23/11/03/0345221&from=rss)
 
 ## [Archives](archives/index.md)
 
