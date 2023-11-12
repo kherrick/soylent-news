@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-12, 10:42:00](https://soylentnews.org/article.pl?sid=23/11/11/0610228&from=rss) - [Debunking the Myth of “Anonymous” Data](https://soylentnews.org/article.pl?sid=23/11/11/0610228&from=rss)
 * [2023-11-12, 05:58:00](https://soylentnews.org/article.pl?sid=23/11/11/0322213&from=rss) - [US Commerce Dept Promises Crackdown On Spyware Exports](https://soylentnews.org/article.pl?sid=23/11/11/0322213&from=rss)
 * [2023-11-12, 01:10:00](https://soylentnews.org/article.pl?sid=23/11/11/022213&from=rss) - ['Super Melanin' Heals Skin Injuries From Sunburn, Chemical Burns](https://soylentnews.org/article.pl?sid=23/11/11/022213&from=rss)
 * [2023-11-11, 20:27:00](https://soylentnews.org/article.pl?sid=23/11/10/101225&from=rss) - [X-37B Spaceplane to be Launched Into High Orbit Using Falcon Heavy](https://soylentnews.org/article.pl?sid=23/11/10/101225&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-03, 19:22:00](https://soylentnews.org/article.pl?sid=23/11/03/0347201&from=rss) - [Arm Acquires Minority Stake in Raspberry Pi](https://soylentnews.org/article.pl?sid=23/11/03/0347201&from=rss)
 * [2023-11-03, 16:00:00](https://soylentnews.org/article.pl?sid=23/11/03/1558206&from=rss) - [RIP Apollo Astronaut Thomas K. Mattingly Dies Aged 87](https://soylentnews.org/article.pl?sid=23/11/03/1558206&from=rss)
 * [2023-11-03, 14:35:00](https://soylentnews.org/article.pl?sid=23/11/03/0345221&from=rss) - [Sam Bankman-Fried Found Guilty in FTX Crypto Fraud Case](https://soylentnews.org/article.pl?sid=23/11/03/0345221&from=rss)
-* [2023-11-03, 09:52:00](https://soylentnews.org/article.pl?sid=23/11/02/1041232&from=rss) - [FAA Wraps Up Safety Review of SpaceX's Starship](https://soylentnews.org/article.pl?sid=23/11/02/1041232&from=rss)
 
 ## [Archives](archives/index.md)
 
