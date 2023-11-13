@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-13, 00:45:00](https://soylentnews.org/article.pl?sid=23/11/12/047224&from=rss) - [Massive Swedish Tidal Kite, 1.2MW Dragon 12 Tests Ready for Operation](https://soylentnews.org/article.pl?sid=23/11/12/047224&from=rss)
 * [2023-11-12, 20:04:00](https://soylentnews.org/article.pl?sid=23/11/12/0359222&from=rss) - [What Head Lice Can Tell Us About Human Migration](https://soylentnews.org/article.pl?sid=23/11/12/0359222&from=rss)
 * [2023-11-12, 15:23:00](https://soylentnews.org/article.pl?sid=23/11/11/0616234&from=rss) - [NuScale, UAMPS Terminate Small Modular Reactor Project in Idaho](https://soylentnews.org/article.pl?sid=23/11/11/0616234&from=rss)
 * [2023-11-12, 10:42:00](https://soylentnews.org/article.pl?sid=23/11/11/0610228&from=rss) - [Debunking the Myth of “Anonymous” Data](https://soylentnews.org/article.pl?sid=23/11/11/0610228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-04, 08:48:00](https://soylentnews.org/article.pl?sid=23/11/04/029232&from=rss) - [Researchers Decipher the Secrets of Benjamin Franklin's Paper Money](https://soylentnews.org/article.pl?sid=23/11/04/029232&from=rss)
 * [2023-11-04, 04:20:00](https://soylentnews.org/article.pl?sid=23/11/03/053204&from=rss) - [Satisfaction With Online Dating App Depends on What You're Looking for](https://soylentnews.org/article.pl?sid=23/11/03/053204&from=rss)
 * [2023-11-03, 23:58:00](https://soylentnews.org/article.pl?sid=23/11/03/0455255&from=rss) - [Sending the Shoes Back? How About This Lovely Gift Card?](https://soylentnews.org/article.pl?sid=23/11/03/0455255&from=rss)
-* [2023-11-03, 19:22:00](https://soylentnews.org/article.pl?sid=23/11/03/0347201&from=rss) - [Arm Acquires Minority Stake in Raspberry Pi](https://soylentnews.org/article.pl?sid=23/11/03/0347201&from=rss)
 
 ## [Archives](archives/index.md)
 
