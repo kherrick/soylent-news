@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 19:42:00](https://soylentnews.org/article.pl?sid=23/11/12/144237&from=rss) - [PFAs: How Research Is Uncovering Damaging Effects Of 'Forever Chemicals'](https://soylentnews.org/article.pl?sid=23/11/12/144237&from=rss)
 * [2023-11-13, 14:55:00](https://soylentnews.org/article.pl?sid=23/11/12/1356200&from=rss) - [Many People Feel Their Jobs Are Pointless](https://soylentnews.org/article.pl?sid=23/11/12/1356200&from=rss)
 * [2023-11-13, 10:10:00](https://soylentnews.org/article.pl?sid=23/11/12/0423225&from=rss) - [After Luring Customers With Low Prices, Amazon Stuffs Fire TVs With Ads](https://soylentnews.org/article.pl?sid=23/11/12/0423225&from=rss)
 * [2023-11-13, 05:29:00](https://soylentnews.org/article.pl?sid=23/11/12/049251&from=rss) - [Reverse Engineering the Intel 386 Processor's Register Cell](https://soylentnews.org/article.pl?sid=23/11/12/049251&from=rss)
