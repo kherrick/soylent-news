@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-13, 10:10:00](https://soylentnews.org/article.pl?sid=23/11/12/0423225&from=rss) - [After Luring Customers With Low Prices, Amazon Stuffs Fire TVs With Ads](https://soylentnews.org/article.pl?sid=23/11/12/0423225&from=rss)
 * [2023-11-13, 05:29:00](https://soylentnews.org/article.pl?sid=23/11/12/049251&from=rss) - [Reverse Engineering the Intel 386 Processor's Register Cell](https://soylentnews.org/article.pl?sid=23/11/12/049251&from=rss)
 * [2023-11-13, 00:45:00](https://soylentnews.org/article.pl?sid=23/11/12/047224&from=rss) - [Massive Swedish Tidal Kite, 1.2MW Dragon 12 Tests Ready for Operation](https://soylentnews.org/article.pl?sid=23/11/12/047224&from=rss)
 * [2023-11-12, 20:04:00](https://soylentnews.org/article.pl?sid=23/11/12/0359222&from=rss) - [What Head Lice Can Tell Us About Human Migration](https://soylentnews.org/article.pl?sid=23/11/12/0359222&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-04, 17:59:00](https://soylentnews.org/article.pl?sid=23/11/04/0330232&from=rss) - [Teeny Jumping Spider Found in Woman's Ear After Days of Torturous Racket](https://soylentnews.org/article.pl?sid=23/11/04/0330232&from=rss)
 * [2023-11-04, 13:16:00](https://soylentnews.org/article.pl?sid=23/11/04/0215232&from=rss) - [48 Malicious Npm Packages Found Deploying Reverse Shells on Developer Systems](https://soylentnews.org/article.pl?sid=23/11/04/0215232&from=rss)
 * [2023-11-04, 08:48:00](https://soylentnews.org/article.pl?sid=23/11/04/029232&from=rss) - [Researchers Decipher the Secrets of Benjamin Franklin's Paper Money](https://soylentnews.org/article.pl?sid=23/11/04/029232&from=rss)
-* [2023-11-04, 04:20:00](https://soylentnews.org/article.pl?sid=23/11/03/053204&from=rss) - [Satisfaction With Online Dating App Depends on What You're Looking for](https://soylentnews.org/article.pl?sid=23/11/03/053204&from=rss)
 
 ## [Archives](archives/index.md)
 
