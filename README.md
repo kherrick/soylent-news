@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-14, 00:27:00](https://soylentnews.org/article.pl?sid=23/11/12/2344223&from=rss) - [Editorial: YouTube Users are Justified in Continuing to Block Ads](https://soylentnews.org/article.pl?sid=23/11/12/2344223&from=rss)
 * [2023-11-13, 19:42:00](https://soylentnews.org/article.pl?sid=23/11/12/144237&from=rss) - [PFAs: How Research Is Uncovering Damaging Effects Of 'Forever Chemicals'](https://soylentnews.org/article.pl?sid=23/11/12/144237&from=rss)
 * [2023-11-13, 14:55:00](https://soylentnews.org/article.pl?sid=23/11/12/1356200&from=rss) - [Many People Feel Their Jobs Are Pointless](https://soylentnews.org/article.pl?sid=23/11/12/1356200&from=rss)
 * [2023-11-13, 10:10:00](https://soylentnews.org/article.pl?sid=23/11/12/0423225&from=rss) - [After Luring Customers With Low Prices, Amazon Stuffs Fire TVs With Ads](https://soylentnews.org/article.pl?sid=23/11/12/0423225&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-05, 08:19:00](https://soylentnews.org/article.pl?sid=23/11/04/0412250&from=rss) - [Experiment Reveals What Would Happen if You Touched a Quantum Superfluid](https://soylentnews.org/article.pl?sid=23/11/04/0412250&from=rss)
 * [2023-11-05, 03:29:00](https://soylentnews.org/article.pl?sid=23/11/04/0352215&from=rss) - [Microsoft Shamelessly Pumping Internet Full of Garbage AI-Generated \"News\" Articles](https://soylentnews.org/article.pl?sid=23/11/04/0352215&from=rss)
 * [2023-11-04, 22:45:00](https://soylentnews.org/article.pl?sid=23/11/04/0337248&from=rss) - [Light Can Make Water Evaporate Without Heat and Could Enable New Approaches to Desalination](https://soylentnews.org/article.pl?sid=23/11/04/0337248&from=rss)
-* [2023-11-04, 17:59:00](https://soylentnews.org/article.pl?sid=23/11/04/0330232&from=rss) - [Teeny Jumping Spider Found in Woman's Ear After Days of Torturous Racket](https://soylentnews.org/article.pl?sid=23/11/04/0330232&from=rss)
 
 ## [Archives](archives/index.md)
 
