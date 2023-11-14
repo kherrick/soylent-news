@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-14, 09:57:00](https://soylentnews.org/article.pl?sid=23/11/12/2352254&from=rss) - [Famous 'Man in the Moon' Could be 200 Million Years Older Than We Thought](https://soylentnews.org/article.pl?sid=23/11/12/2352254&from=rss)
 * [2023-11-14, 05:13:00](https://soylentnews.org/article.pl?sid=23/11/12/2351220&from=rss) - [Study Shows Flu Deaths Rise When Pro Sports Teams Move Into Cities](https://soylentnews.org/article.pl?sid=23/11/12/2351220&from=rss)
 * [2023-11-14, 00:27:00](https://soylentnews.org/article.pl?sid=23/11/12/2344223&from=rss) - [Editorial: YouTube Users are Justified in Continuing to Block Ads](https://soylentnews.org/article.pl?sid=23/11/12/2344223&from=rss)
 * [2023-11-13, 19:42:00](https://soylentnews.org/article.pl?sid=23/11/12/144237&from=rss) - [PFAs: How Research Is Uncovering Damaging Effects Of 'Forever Chemicals'](https://soylentnews.org/article.pl?sid=23/11/12/144237&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-05, 16:09:00](https://soylentnews.org/meta/article.pl?sid=23/11/05/168231&from=rss) - [Certificates Expiring](https://soylentnews.org/meta/article.pl?sid=23/11/05/168231&from=rss)
 * [2023-11-05, 13:04:00](https://soylentnews.org/article.pl?sid=23/11/04/1056248&from=rss) - [Uber, Lyft Pay $328 Million for “Cheating Drivers” Out of Earnings, NY Says](https://soylentnews.org/article.pl?sid=23/11/04/1056248&from=rss)
 * [2023-11-05, 08:19:00](https://soylentnews.org/article.pl?sid=23/11/04/0412250&from=rss) - [Experiment Reveals What Would Happen if You Touched a Quantum Superfluid](https://soylentnews.org/article.pl?sid=23/11/04/0412250&from=rss)
-* [2023-11-05, 03:29:00](https://soylentnews.org/article.pl?sid=23/11/04/0352215&from=rss) - [Microsoft Shamelessly Pumping Internet Full of Garbage AI-Generated \"News\" Articles](https://soylentnews.org/article.pl?sid=23/11/04/0352215&from=rss)
 
 ## [Archives](archives/index.md)
 
