@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-15, 00:12:00](https://soylentnews.org/article.pl?sid=23/11/14/0216218&from=rss) - [In a First, Cryptographic Keys Protecting SSH Connections Stolen in New Attack](https://soylentnews.org/article.pl?sid=23/11/14/0216218&from=rss)
 * [2023-11-14, 19:25:00](https://soylentnews.org/article.pl?sid=23/11/13/0956252&from=rss) - [New Insights Into the Origin of the Indo-European Languages](https://soylentnews.org/article.pl?sid=23/11/13/0956252&from=rss)
 * [2023-11-14, 18:00:00](https://soylentnews.org/meta/article.pl?sid=23/11/14/179235&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 15, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/14/179235&from=rss)
 * [2023-11-14, 14:41:00](https://soylentnews.org/article.pl?sid=23/11/13/0954221&from=rss) - [Doctors Complete First Successful Face and Whole-Eye Transplant](https://soylentnews.org/article.pl?sid=23/11/13/0954221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-06, 08:03:00](https://soylentnews.org/article.pl?sid=23/11/05/1946234&from=rss) - [Divine Coding](https://soylentnews.org/article.pl?sid=23/11/05/1946234&from=rss)
 * [2023-11-06, 03:23:00](https://soylentnews.org/article.pl?sid=23/11/05/1844240&from=rss) - [Long Presumed to Have No Heads at All, Starfish May be Nothing but](https://soylentnews.org/article.pl?sid=23/11/05/1844240&from=rss)
 * [2023-11-05, 22:32:00](https://soylentnews.org/article.pl?sid=23/11/04/114217&from=rss) - [Disney to Buy Out Hulu From Comcast for About $8.61 Billion](https://soylentnews.org/article.pl?sid=23/11/04/114217&from=rss)
-* [2023-11-05, 17:44:00](https://soylentnews.org/article.pl?sid=23/11/04/1042201&from=rss) - [High Mobile Phone Use May Impact Sperm Count](https://soylentnews.org/article.pl?sid=23/11/04/1042201&from=rss)
 
 ## [Archives](archives/index.md)
 
