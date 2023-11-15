@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-15, 14:26:00](https://soylentnews.org/article.pl?sid=23/11/14/0229222&from=rss) - [Highly Invasive Backdoor Snuck Into Open Source Packages Targets Developers](https://soylentnews.org/article.pl?sid=23/11/14/0229222&from=rss)
 * [2023-11-15, 09:40:00](https://soylentnews.org/article.pl?sid=23/11/14/0221211&from=rss) - [Gmail to Discontinue Basic HTML View January 2024](https://soylentnews.org/article.pl?sid=23/11/14/0221211&from=rss)
 * [2023-11-15, 04:58:00](https://soylentnews.org/article.pl?sid=23/11/14/0219211&from=rss) - [Amazon Fire Tablets and Other Gear Will Reportedly Switch Away From Android](https://soylentnews.org/article.pl?sid=23/11/14/0219211&from=rss)
 * [2023-11-15, 00:12:00](https://soylentnews.org/article.pl?sid=23/11/14/0216218&from=rss) - [In a First, Cryptographic Keys Protecting SSH Connections Stolen in New Attack](https://soylentnews.org/article.pl?sid=23/11/14/0216218&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-06, 22:21:00](https://soylentnews.org/article.pl?sid=23/11/06/0215240&from=rss) - [Bcachefs Merged Into the Linux 6.7 Kernel](https://soylentnews.org/article.pl?sid=23/11/06/0215240&from=rss)
 * [2023-11-06, 17:34:00](https://soylentnews.org/article.pl?sid=23/11/06/027201&from=rss) - [Major Critic of X Sues After Being Banned From Platform](https://soylentnews.org/article.pl?sid=23/11/06/027201&from=rss)
 * [2023-11-06, 12:51:00](https://soylentnews.org/article.pl?sid=23/11/06/023242&from=rss) - [India's Lunar Landing Made A Mess On The Moon](https://soylentnews.org/article.pl?sid=23/11/06/023242&from=rss)
-* [2023-11-06, 08:03:00](https://soylentnews.org/article.pl?sid=23/11/05/1946234&from=rss) - [Divine Coding](https://soylentnews.org/article.pl?sid=23/11/05/1946234&from=rss)
 
 ## [Archives](archives/index.md)
 
