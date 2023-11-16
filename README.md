@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-16, 23:34:00](https://soylentnews.org/article.pl?sid=23/11/15/152209&from=rss) - [The Missing Americans: Unprecedented US Mortality Far Exceeds Other Wealthy Nations](https://soylentnews.org/article.pl?sid=23/11/15/152209&from=rss)
 * [2023-11-16, 18:48:00](https://soylentnews.org/article.pl?sid=23/11/15/1452208&from=rss) - ['Coyote Vs. Acme': Warner Bros Setting Up Screenings for Streamers of Axed Looney Tunes Film](https://soylentnews.org/article.pl?sid=23/11/15/1452208&from=rss)
 * [2023-11-16, 14:03:00](https://soylentnews.org/article.pl?sid=23/11/15/1444212&from=rss) - [AMD-Powered Frontier Remains Fastest Supercomputer In The World, Intel-Powered Aurora in 2nd Place](https://soylentnews.org/article.pl?sid=23/11/15/1444212&from=rss)
 * [2023-11-16, 09:22:00](https://soylentnews.org/article.pl?sid=23/11/15/047229&from=rss) - [Google Pays an Awful Lot to be Your Default](https://soylentnews.org/article.pl?sid=23/11/15/047229&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-08, 07:16:00](https://soylentnews.org/article.pl?sid=23/11/07/0538221&from=rss) - [Amazon And Meta To Stop Using Third-Party Data From Rivals](https://soylentnews.org/article.pl?sid=23/11/07/0538221&from=rss)
 * [2023-11-08, 02:36:00](https://soylentnews.org/article.pl?sid=23/11/07/0446216&from=rss) - [YouTube Ad Blocker Updates](https://soylentnews.org/article.pl?sid=23/11/07/0446216&from=rss)
 * [2023-11-07, 21:51:00](https://soylentnews.org/article.pl?sid=23/11/06/1052244&from=rss) - [AMD Announces Ryzen 5 7545U And Ryzen 3 7440U Mobile Processors With Zen 4C Cores](https://soylentnews.org/article.pl?sid=23/11/06/1052244&from=rss)
-* [2023-11-07, 17:09:00](https://soylentnews.org/article.pl?sid=23/11/06/1050236&from=rss) - [How Sunflowers 'See' the Sun: Study Describes a Novel Mechanism](https://soylentnews.org/article.pl?sid=23/11/06/1050236&from=rss)
 
 ## [Archives](archives/index.md)
 
