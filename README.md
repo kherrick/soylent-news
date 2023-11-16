@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-16, 14:03:00](https://soylentnews.org/article.pl?sid=23/11/15/1444212&from=rss) - [AMD-Powered Frontier Remains Fastest Supercomputer In The World, Intel-Powered Aurora in 2nd Place](https://soylentnews.org/article.pl?sid=23/11/15/1444212&from=rss)
 * [2023-11-16, 09:22:00](https://soylentnews.org/article.pl?sid=23/11/15/047229&from=rss) - [Google Pays an Awful Lot to be Your Default](https://soylentnews.org/article.pl?sid=23/11/15/047229&from=rss)
 * [2023-11-16, 04:36:00](https://soylentnews.org/article.pl?sid=23/11/15/0350231&from=rss) - [Mummified Baboons Point to the Direction of the Fabled Land of Punt](https://soylentnews.org/article.pl?sid=23/11/15/0350231&from=rss)
 * [2023-11-15, 23:51:00](https://soylentnews.org/article.pl?sid=23/11/15/0334246&from=rss) - [Why Pets Don't Really Bring Humans Happiness Nor Improve Their Well-Being](https://soylentnews.org/article.pl?sid=23/11/15/0334246&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-07, 21:51:00](https://soylentnews.org/article.pl?sid=23/11/06/1052244&from=rss) - [AMD Announces Ryzen 5 7545U And Ryzen 3 7440U Mobile Processors With Zen 4C Cores](https://soylentnews.org/article.pl?sid=23/11/06/1052244&from=rss)
 * [2023-11-07, 17:09:00](https://soylentnews.org/article.pl?sid=23/11/06/1050236&from=rss) - [How Sunflowers 'See' the Sun: Study Describes a Novel Mechanism](https://soylentnews.org/article.pl?sid=23/11/06/1050236&from=rss)
 * [2023-11-07, 12:26:00](https://soylentnews.org/article.pl?sid=23/11/06/1047257&from=rss) - [A Bold New Plan for Preserving Online Privacy and Security](https://soylentnews.org/article.pl?sid=23/11/06/1047257&from=rss)
-* [2023-11-07, 07:46:00](https://soylentnews.org/article.pl?sid=23/11/06/0239235&from=rss) - [Higher Parenting Stress For Dads Working From Home Versus Onsite During Pandemic](https://soylentnews.org/article.pl?sid=23/11/06/0239235&from=rss)
 
 ## [Archives](archives/index.md)
 
