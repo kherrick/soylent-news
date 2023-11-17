@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-17, 13:53:00](https://soylentnews.org/article.pl?sid=23/11/16/0355251&from=rss) - [Chatgpt's New Code Interpreter Has Giant Security Hole, Allows Hackers To Steal Your Data](https://soylentnews.org/article.pl?sid=23/11/16/0355251&from=rss)
 * [2023-11-17, 09:03:00](https://soylentnews.org/article.pl?sid=23/11/16/047249&from=rss) - [SpaceX's Starship Cleared to Fly; Current Launch Date: November 18](https://soylentnews.org/article.pl?sid=23/11/16/047249&from=rss)
 * [2023-11-17, 04:21:00](https://soylentnews.org/article.pl?sid=23/11/16/0343223&from=rss) - [Tool Bag Lost In Space Is Being Tracked By Garbage Watchers](https://soylentnews.org/article.pl?sid=23/11/16/0343223&from=rss)
 * [2023-11-16, 23:34:00](https://soylentnews.org/article.pl?sid=23/11/15/152209&from=rss) - [The Missing Americans: Unprecedented US Mortality Far Exceeds Other Wealthy Nations](https://soylentnews.org/article.pl?sid=23/11/15/152209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-08, 18:30:00](https://soylentnews.org/meta/article.pl?sid=23/11/08/1756252&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 8, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/08/1756252&from=rss)
 * [2023-11-08, 16:50:00](https://soylentnews.org/article.pl?sid=23/11/07/151209&from=rss) - [Ariane 6 Cost and Delays Bring European Launch Industry to a Breaking Point](https://soylentnews.org/article.pl?sid=23/11/07/151209&from=rss)
 * [2023-11-08, 12:05:00](https://soylentnews.org/article.pl?sid=23/11/07/0546208&from=rss) - [Aussies \"F***ing Tired\" of QR Code Requirements at Restaurants](https://soylentnews.org/article.pl?sid=23/11/07/0546208&from=rss)
-* [2023-11-08, 07:16:00](https://soylentnews.org/article.pl?sid=23/11/07/0538221&from=rss) - [Amazon And Meta To Stop Using Third-Party Data From Rivals](https://soylentnews.org/article.pl?sid=23/11/07/0538221&from=rss)
 
 ## [Archives](archives/index.md)
 
