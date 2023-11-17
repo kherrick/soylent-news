@@ -145,6 +145,119 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/11/16/0355251">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/11/16/0355251&amp;from=rss"
+              >Chatgpt's New Code Interpreter Has Giant Security Hole, Allows
+              Hackers To Steal Your Data</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-11-17 @ 13:53:00</span
+              ><span class="points-container"
+                >Points: <span class="points">43</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/11/16/0355251"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Arthur T Knackerbracket has processed the
+                <a
+                  href="https://www.tomshardware.com/news/chatgpt-code-interpreter-security-hole"
+                  >following story</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    ChatGPT's recently-added Code Interpreter makes writing
+                    Python code with AI much more powerful, because it actually
+                    writes the code and then runs it for you in a sandboxed
+                    environment. Unfortunately, this sandboxed environment,
+                    which is also used to handle any spreadsheets you want
+                    ChatGPT to analyze and chart, is wide open to prompt
+                    injection attacks that exfiltrate your data. 
+                  </p>
+                  <p>
+                    Using a ChatGPT Plus account, which is necessary to get the
+                    new features, I was able to reproduce the exploit, which was
+                    <a
+                      href="https://twitter.com/wunderwuzzi23/status/1722986562986639850"
+                      >first reported on Twitter</a
+                    >
+                    by
+                    <a href="https://www.tomshardware.com/tag/security"
+                      >security</a
+                    >
+                    researcher Johann Rehberger. It involves pasting a
+                    third-party URL into the chat window and then watching as
+                    the bot interprets instructions on the web page the same way
+                    it would commands the user entered. 
+                  </p>
+                  <p>
+                    [...] I tried this prompt injection exploit and some
+                    variations on it several times over  a few days. It worked a
+                    lot of the time, but not always. In some chat sessions,
+                    ChatGPT would refuse to load an external web page at all,
+                    but then would do so if I launched a new chat. 
+                  </p>
+                  <p>
+                    In other chat sessions, it would give a message saying that
+                    it's not allowed to transmit data from files this way. And
+                    in yet other sessions, the injection would work, but rather
+                    than transmitting the data directly to
+                    <a href="http://myserver.com/data.php?mydata=[DATA],"
+                      >http://myserver.com/data.php?mydata=[DATA],</a
+                    >
+                    it would provide a hyperlink in its response and I would
+                    need to click that link for the data to transmit.
+                  </p>
+                  <p>
+                    I was also able to use the exploit after I'd uploaded a .csv
+                    file with important data in it to use for data analysis. So
+                    this vulnerability applies not only to code you're testing
+                    but also to spreadsheets you might want ChatGPT to use for
+                    charting or summarization.
+                  </p>
+                  <p>
+                    [...] The problem is that, no matter how far-fetched it
+                    might seem, this is a security hole that shouldn't be there.
+                    ChatGPT should not follow instructions that it finds on a
+                    web page, but it does and has for a long time. We reported
+                    on
+                    <a
+                      href="https://www.tomshardware.com/news/chatgpt-vulnerable-to-youtube-prompt-injection"
+                      >ChatGPT prompt injection</a
+                    >
+                    (via YouTube videos) back in May after Rehberger himself
+                    responsibly disclosed the issue to OpenAI in April. The
+                    ability to upload files and run code in ChatGPT Plus is new
+                    (recently out of beta) but the ability to inject prompts
+                    from a URL, video or a PDF is not.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61421"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/11/16/047249">
           <h3>
             <a
@@ -158,7 +271,7 @@
             <h4>
               <span>2023-11-17 @ 09:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">287</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/16/047249"
@@ -271,7 +384,7 @@
             <h4>
               <span>2023-11-17 @ 04:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">396</span></span
+                >Points: <span class="points">409</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/16/0343223"
@@ -409,7 +522,7 @@
             <h4>
               <span>2023-11-16 @ 23:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">825</span></span
+                >Points: <span class="points">840</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/15/152209"
@@ -488,7 +601,7 @@
             <h4>
               <span>2023-11-16 @ 18:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">738</span></span
+                >Points: <span class="points">751</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/15/1452208"
@@ -552,7 +665,7 @@
             <h4>
               <span>2023-11-16 @ 14:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">752</span></span
+                >Points: <span class="points">760</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/15/1444212"
@@ -669,7 +782,7 @@
             <h4>
               <span>2023-11-16 @ 09:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">1083</span></span
+                >Points: <span class="points">1092</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/15/047229"
@@ -767,7 +880,7 @@
             <h4>
               <span>2023-11-16 @ 04:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">963</span></span
+                >Points: <span class="points">971</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/15/0350231"
@@ -862,7 +975,7 @@
             <h4>
               <span>2023-11-15 @ 23:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">1698</span></span
+                >Points: <span class="points">1716</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/15/0334246"
@@ -1000,7 +1113,7 @@
             <h4>
               <span>2023-11-15 @ 19:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">1287</span></span
+                >Points: <span class="points">1297</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/14/171234"
@@ -1110,7 +1223,7 @@
             <h4>
               <span>2023-11-15 @ 14:26:00</span
               ><span class="points-container"
-                >Points: <span class="points">1557</span></span
+                >Points: <span class="points">1566</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/14/0229222"
@@ -1194,7 +1307,7 @@
             <h4>
               <span>2023-11-15 @ 09:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">1916</span></span
+                >Points: <span class="points">1925</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/14/0221211"
@@ -1259,7 +1372,7 @@
             <h4>
               <span>2023-11-15 @ 04:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">1539</span></span
+                >Points: <span class="points">1549</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/14/0219211"
@@ -1339,7 +1452,7 @@
             <h4>
               <span>2023-11-15 @ 00:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">1651</span></span
+                >Points: <span class="points">1660</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/14/0216218"
@@ -1422,7 +1535,7 @@
             <h4>
               <span>2023-11-14 @ 19:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">1992</span></span
+                >Points: <span class="points">2001</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/13/0956252"
@@ -1498,7 +1611,7 @@
             <h4>
               <span>2023-11-14 @ 18:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">1625</span></span
+                >Points: <span class="points">1634</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/14/179235"
@@ -1547,7 +1660,7 @@
             <h4>
               <span>2023-11-14 @ 14:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">1721</span></span
+                >Points: <span class="points">1729</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/13/0954221"
@@ -1634,12 +1747,12 @@
             <h4>
               <span>2023-11-14 @ 09:57:00</span
               ><span class="points-container"
-                >Points: <span class="points">1742</span></span
+                >Points: <span class="points">1752</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/12/2352254"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
             <div class="text">
@@ -1743,7 +1856,7 @@
             <h4>
               <span>2023-11-14 @ 05:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">2130</span></span
+                >Points: <span class="points">2138</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/12/2351220"
@@ -1866,7 +1979,7 @@
             <h4>
               <span>2023-11-14 @ 00:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">2978</span></span
+                >Points: <span class="points">2987</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/12/2344223"
@@ -1985,7 +2098,7 @@
             <h4>
               <span>2023-11-13 @ 19:42:00</span
               ><span class="points-container"
-                >Points: <span class="points">2234</span></span
+                >Points: <span class="points">2236</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/12/144237"
@@ -2097,7 +2210,7 @@
             <h4>
               <span>2023-11-13 @ 14:55:00</span
               ><span class="points-container"
-                >Points: <span class="points">3025</span></span
+                >Points: <span class="points">3027</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/12/1356200"
@@ -2207,7 +2320,7 @@
             <h4>
               <span>2023-11-13 @ 10:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">2584</span></span
+                >Points: <span class="points">2586</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/12/0423225"
@@ -2288,7 +2401,7 @@
             <h4>
               <span>2023-11-13 @ 05:29:00</span
               ><span class="points-container"
-                >Points: <span class="points">2208</span></span
+                >Points: <span class="points">2210</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/12/049251"
@@ -2349,7 +2462,7 @@
             <h4>
               <span>2023-11-13 @ 00:45:00</span
               ><span class="points-container"
-                >Points: <span class="points">2541</span></span
+                >Points: <span class="points">2543</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/12/047224"
@@ -2448,7 +2561,7 @@
             <h4>
               <span>2023-11-12 @ 20:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">1982</span></span
+                >Points: <span class="points">1984</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/12/0359222"
@@ -2530,7 +2643,7 @@
             <h4>
               <span>2023-11-12 @ 15:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">2316</span></span
+                >Points: <span class="points">2318</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/11/0616234"
@@ -2635,7 +2748,7 @@
             <h4>
               <span>2023-11-12 @ 10:42:00</span
               ><span class="points-container"
-                >Points: <span class="points">2324</span></span
+                >Points: <span class="points">2327</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/11/0610228"
@@ -2741,7 +2854,7 @@
             <h4>
               <span>2023-11-12 @ 05:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">1957</span></span
+                >Points: <span class="points">1959</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/11/0322213"
@@ -2848,7 +2961,7 @@
             <h4>
               <span>2023-11-12 @ 01:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">2212</span></span
+                >Points: <span class="points">2214</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/11/022213"
@@ -2945,7 +3058,7 @@
             <h4>
               <span>2023-11-11 @ 20:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">2205</span></span
+                >Points: <span class="points">2206</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/10/101225"
@@ -3026,7 +3139,7 @@
             <h4>
               <span>2023-11-11 @ 15:42:00</span
               ><span class="points-container"
-                >Points: <span class="points">2175</span></span
+                >Points: <span class="points">2176</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/10/0958236"
@@ -3144,7 +3257,7 @@
             <h4>
               <span>2023-11-11 @ 11:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">2019</span></span
+                >Points: <span class="points">2020</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/10/0421211"
@@ -3231,7 +3344,7 @@
             <h4>
               <span>2023-11-11 @ 06:45:00</span
               ><span class="points-container"
-                >Points: <span class="points">2359</span></span
+                >Points: <span class="points">2360</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/11/0645241"
@@ -3278,7 +3391,7 @@
             <h4>
               <span>2023-11-11 @ 06:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">2167</span></span
+                >Points: <span class="points">2168</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/10/0431245"
@@ -3350,7 +3463,7 @@
             <h4>
               <span>2023-11-11 @ 01:29:00</span
               ><span class="points-container"
-                >Points: <span class="points">2237</span></span
+                >Points: <span class="points">2238</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/10/0213222"
@@ -3435,7 +3548,7 @@
             <h4>
               <span>2023-11-10 @ 21:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">2440</span></span
+                >Points: <span class="points">2441</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/09/1350235"
@@ -3501,7 +3614,7 @@
             <h4>
               <span>2023-11-10 @ 16:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">2061</span></span
+                >Points: <span class="points">2062</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/09/1347203"
@@ -3599,7 +3712,7 @@
             <h4>
               <span>2023-11-10 @ 11:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">2246</span></span
+                >Points: <span class="points">2247</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/09/1343259"
@@ -3689,7 +3802,7 @@
             <h4>
               <span>2023-11-10 @ 06:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">1985</span></span
+                >Points: <span class="points">1986</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/09/0237208"
@@ -3763,7 +3876,7 @@
             <h4>
               <span>2023-11-10 @ 02:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">2137</span></span
+                >Points: <span class="points">2138</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/09/023259"
@@ -3866,7 +3979,7 @@
             <h4>
               <span>2023-11-09 @ 21:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">2489</span></span
+                >Points: <span class="points">2490</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/08/186227"
@@ -3960,7 +4073,7 @@
             <h4>
               <span>2023-11-09 @ 16:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">2354</span></span
+                >Points: <span class="points">2355</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/08/125237"
@@ -4072,7 +4185,7 @@
             <h4>
               <span>2023-11-09 @ 11:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">2663</span></span
+                >Points: <span class="points">2666</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/08/1159253"
@@ -4140,7 +4253,7 @@
             <h4>
               <span>2023-11-09 @ 07:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">2170</span></span
+                >Points: <span class="points">2171</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/07/1518257"
@@ -4208,7 +4321,7 @@
             <h4>
               <span>2023-11-09 @ 02:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">2252</span></span
+                >Points: <span class="points">2254</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/07/1516254"
@@ -4309,7 +4422,7 @@
             <h4>
               <span>2023-11-08 @ 21:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">2425</span></span
+                >Points: <span class="points">2426</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/07/156203"
@@ -4377,7 +4490,7 @@
             <h4>
               <span>2023-11-08 @ 18:30:00</span
               ><span class="points-container"
-                >Points: <span class="points">2223</span></span
+                >Points: <span class="points">2225</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/08/1756252"
@@ -4424,7 +4537,7 @@
             <h4>
               <span>2023-11-08 @ 16:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">2019</span></span
+                >Points: <span class="points">2020</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/07/151209"
@@ -4542,7 +4655,7 @@
             <h4>
               <span>2023-11-08 @ 12:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">3055</span></span
+                >Points: <span class="points">3056</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/11/07/0546208"
@@ -4612,120 +4725,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61322"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/11/07/0538221">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/11/07/0538221&amp;from=rss"
-              >Amazon And Meta To Stop Using Third-Party Data From Rivals</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-11-08 @ 07:16:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2009</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/11/07/0538221"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Arthur T Knackerbracket has processed the
-                <a
-                  href="https://www.theregister.com/2023/11/04/amazon_meta_cma/"
-                  >following story</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Amazon and Meta have agreed to not use data collected from
-                    their marketplaces to unfairly benefit themselves, the UK's
-                    Competition and Markets Authority announced on Friday.
-                  </p>
-                  <p>
-                    The monopoly watchdog launched
-                    <a href="https://www.theregister.com/2022/07/07/cma/"
-                      >separate</a
-                    >
-                    <a
-                      href="https://www.theregister.com/2023/05/26/meta_facebook_marketplace_cma/"
-                      >investigations</a
-                    >
-                    into both internet giants' business practices, and accused
-                    the Big Tech duo of not only gathering up information about
-                    sellers using their respective online souks, they also -
-                    surprise, surprise - exploited that info to get a commercial
-                    advantage.
-                  </p>
-                  <p>
-                    In Amazon's case, the e-commerce giant used vendors' sales
-                    figures to decide which items it should sell, and how much
-                    to price products to get an edge over everyone else. The
-                    internet behemoth also promoted its own products with its
-                    <a
-                      href="https://www.theregister.com/2022/10/20/amazon_uk_buy_box_tribunal/"
-                      >Buy Box</a
-                    >
-                    feature and it further cut into retailers' margins by
-                    charging extra costs if they wanted to use Amazon's Prime
-                    delivery services, the CMA said. 
-                  </p>
-                  <p>
-                    Now Amazon has committed to doing less of that. The CMA
-                    <a
-                      href="https://www.gov.uk/government/news/cma-secures-improvements-in-ways-amazon-and-meta-treat-competitors-benefitting-customers"
-                      >said</a
-                    >
-                    the online souk will be prevented from using third-party
-                    seller data that gives it an unfair commercial advantage,
-                    and will allow rivals to negotiate rates with independent
-                    delivery contractors working on behalf of Amazon. 
-                  </p>
-                  <p>
-                    [...] Meanwhile, similar agreements have been negotiated
-                    between the CMA and Facebook's parent biz Meta too. 
-                  </p>
-                  <p>
-                    The social media mega-corp was accused of exploiting
-                    advertisers hawking wares on Facebook Marketplace, and using
-                    competitors' data to improve its own products or services. 
-                  </p>
-                  <p>
-                    "Going forward, competitors of Facebook Marketplace that
-                    advertise on Meta platforms can 'opt out' of their data
-                    being used to improve Facebook Marketplace. Without these
-                    measures in place, Meta risks having an unfair competitive
-                    advantage that could distort competition," the CMA said.
-                  </p>
-                  <p>
-                    "Having assessed the commitments and the feedback received,
-                    including from sellers, advertisers and customers, we
-                    believe both sets of commitments address the specific
-                    competition concerns we had here in the UK," Ann Pope, the
-                    watchdog's senior director for antitrust enforcement,
-                    concluded.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61316"
                     >Original Submission</a
                   ></small
                 >
