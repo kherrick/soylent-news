@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-17, 09:03:00](https://soylentnews.org/article.pl?sid=23/11/16/047249&from=rss) - [SpaceX's Starship Cleared to Fly; Watch It Live Soon](https://soylentnews.org/article.pl?sid=23/11/16/047249&from=rss)
 * [2023-11-17, 04:21:00](https://soylentnews.org/article.pl?sid=23/11/16/0343223&from=rss) - [Tool Bag Lost In Space Is Being Tracked By Garbage Watchers](https://soylentnews.org/article.pl?sid=23/11/16/0343223&from=rss)
 * [2023-11-16, 23:34:00](https://soylentnews.org/article.pl?sid=23/11/15/152209&from=rss) - [The Missing Americans: Unprecedented US Mortality Far Exceeds Other Wealthy Nations](https://soylentnews.org/article.pl?sid=23/11/15/152209&from=rss)
 * [2023-11-16, 18:48:00](https://soylentnews.org/article.pl?sid=23/11/15/1452208&from=rss) - ['Coyote Vs. Acme': Warner Bros Setting Up Screenings for Streamers of Axed Looney Tunes Film](https://soylentnews.org/article.pl?sid=23/11/15/1452208&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-08, 16:50:00](https://soylentnews.org/article.pl?sid=23/11/07/151209&from=rss) - [Ariane 6 Cost and Delays Bring European Launch Industry to a Breaking Point](https://soylentnews.org/article.pl?sid=23/11/07/151209&from=rss)
 * [2023-11-08, 12:05:00](https://soylentnews.org/article.pl?sid=23/11/07/0546208&from=rss) - [Aussies \"F***ing Tired\" of QR Code Requirements at Restaurants](https://soylentnews.org/article.pl?sid=23/11/07/0546208&from=rss)
 * [2023-11-08, 07:16:00](https://soylentnews.org/article.pl?sid=23/11/07/0538221&from=rss) - [Amazon And Meta To Stop Using Third-Party Data From Rivals](https://soylentnews.org/article.pl?sid=23/11/07/0538221&from=rss)
-* [2023-11-08, 02:36:00](https://soylentnews.org/article.pl?sid=23/11/07/0446216&from=rss) - [YouTube Ad Blocker Updates](https://soylentnews.org/article.pl?sid=23/11/07/0446216&from=rss)
 
 ## [Archives](archives/index.md)
 
