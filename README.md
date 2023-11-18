@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-18, 08:59:00](https://soylentnews.org/article.pl?sid=23/11/17/0420234&from=rss) - [People Think White AI-Generated Faces Are More Real Than Actual Photos, Study Says](https://soylentnews.org/article.pl?sid=23/11/17/0420234&from=rss)
 * [2023-11-18, 04:17:00](https://soylentnews.org/article.pl?sid=23/11/17/0418241&from=rss) - [NASA Can’t Talk to its Mars Robots for Two Weeks Because the Sun is in the Way](https://soylentnews.org/article.pl?sid=23/11/17/0418241&from=rss)
 * [2023-11-17, 23:29:00](https://soylentnews.org/article.pl?sid=23/11/17/0414217&from=rss) - [Developers Can’t Seem to Stop Exposing Credentials in Publicly Accessible Code](https://soylentnews.org/article.pl?sid=23/11/17/0414217&from=rss)
 * [2023-11-17, 18:41:00](https://soylentnews.org/article.pl?sid=23/11/16/122239&from=rss) - [Teens With “Digital Bazookas” Are Winning the Ransomware War, Researcher Laments](https://soylentnews.org/article.pl?sid=23/11/16/122239&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-09, 11:53:00](https://soylentnews.org/article.pl?sid=23/11/08/1159253&from=rss) - [Grok xAI by Musk](https://soylentnews.org/article.pl?sid=23/11/08/1159253&from=rss)
 * [2023-11-09, 07:08:00](https://soylentnews.org/article.pl?sid=23/11/07/1518257&from=rss) - [Playing Catch-Up on Weekends May Not Restore Cardiovascular Cost of Sleep Loss](https://soylentnews.org/article.pl?sid=23/11/07/1518257&from=rss)
 * [2023-11-09, 02:23:00](https://soylentnews.org/article.pl?sid=23/11/07/1516254&from=rss) - [Keropunk Part 5: Mantle Lanterns](https://soylentnews.org/article.pl?sid=23/11/07/1516254&from=rss)
-* [2023-11-08, 21:35:00](https://soylentnews.org/article.pl?sid=23/11/07/156203&from=rss) - [My 1976 KIM-1 ](https://soylentnews.org/article.pl?sid=23/11/07/156203&from=rss)
 
 ## [Archives](archives/index.md)
 
