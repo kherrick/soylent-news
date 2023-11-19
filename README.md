@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-19, 18:24:00](https://soylentnews.org/article.pl?sid=23/11/19/0239247&from=rss) - [Rumor:  AMD to Launch Two New Processors With 8 and 6 Cores, Equipped With 3D V-Cache](https://soylentnews.org/article.pl?sid=23/11/19/0239247&from=rss)
 * [2023-11-19, 13:36:00](https://soylentnews.org/article.pl?sid=23/11/19/0216250&from=rss) - [Capacitor-Based Heat Pumps See Big Boost in Efficiency](https://soylentnews.org/article.pl?sid=23/11/19/0216250&from=rss)
 * [2023-11-19, 08:47:00](https://soylentnews.org/article.pl?sid=23/11/19/011221&from=rss) - [OpenAI CEO Sam Altman Purged, President Brockman Quits, but Maybe They'll All Come Back After All](https://soylentnews.org/article.pl?sid=23/11/19/011221&from=rss)
 * [2023-11-19, 04:01:00](https://soylentnews.org/article.pl?sid=23/11/18/0322223&from=rss) - [Apple Discriminated Against US Citizens in Hiring, DOJ Says](https://soylentnews.org/article.pl?sid=23/11/18/0322223&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-10, 21:09:00](https://soylentnews.org/article.pl?sid=23/11/09/1350235&from=rss) - [Chamberlain Blocks Smart Garage Door Opener From Working With Smart Homes](https://soylentnews.org/article.pl?sid=23/11/09/1350235&from=rss)
 * [2023-11-10, 16:25:00](https://soylentnews.org/article.pl?sid=23/11/09/1347203&from=rss) - [Evidence of Theorized Type of Black Hole Discovered Near Dawn of Time](https://soylentnews.org/article.pl?sid=23/11/09/1347203&from=rss)
 * [2023-11-10, 11:41:00](https://soylentnews.org/article.pl?sid=23/11/09/1343259&from=rss) - [Long Lost Correspondence.](https://soylentnews.org/article.pl?sid=23/11/09/1343259&from=rss)
-* [2023-11-10, 06:52:00](https://soylentnews.org/article.pl?sid=23/11/09/0237208&from=rss) - [Nature Retracts Controversial Superconductivity Paper by Embattled Physicist](https://soylentnews.org/article.pl?sid=23/11/09/0237208&from=rss)
 
 ## [Archives](archives/index.md)
 
