@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-19, 04:01:00](https://soylentnews.org/article.pl?sid=23/11/18/0322223&from=rss) - [Apple Discriminated Against US Citizens in Hiring, DOJ Says](https://soylentnews.org/article.pl?sid=23/11/18/0322223&from=rss)
 * [2023-11-18, 23:15:00](https://soylentnews.org/article.pl?sid=23/11/18/0316251&from=rss) - [How Fast Are Your Hands?  V8 Engine Building Contest](https://soylentnews.org/article.pl?sid=23/11/18/0316251&from=rss)
 * [2023-11-18, 18:31:00](https://soylentnews.org/article.pl?sid=23/11/18/0312248&from=rss) - [For Happy Bones and Joints, Exercise at the Same Time of Day](https://soylentnews.org/article.pl?sid=23/11/18/0312248&from=rss)
 * [2023-11-18, 13:43:00](https://soylentnews.org/article.pl?sid=23/11/17/0424221&from=rss) - [Right-to-Repair Fight Going National as FTC Asked to Lay Down the Law](https://soylentnews.org/article.pl?sid=23/11/17/0424221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-10, 06:52:00](https://soylentnews.org/article.pl?sid=23/11/09/0237208&from=rss) - [Nature Retracts Controversial Superconductivity Paper by Embattled Physicist](https://soylentnews.org/article.pl?sid=23/11/09/0237208&from=rss)
 * [2023-11-10, 02:03:00](https://soylentnews.org/article.pl?sid=23/11/09/023259&from=rss) - [Spaf on 35 Years Since the Morris Worm](https://soylentnews.org/article.pl?sid=23/11/09/023259&from=rss)
 * [2023-11-09, 21:22:00](https://soylentnews.org/article.pl?sid=23/11/08/186227&from=rss) - [Study Shows Willow Bark Extract Has Broad-Spectrum Antiviral Effect](https://soylentnews.org/article.pl?sid=23/11/08/186227&from=rss)
-* [2023-11-09, 16:34:00](https://soylentnews.org/article.pl?sid=23/11/08/125237&from=rss) - [Data Broker's “Staggering” Sale of Sensitive Info Exposed in Unsealed FTC Filing](https://soylentnews.org/article.pl?sid=23/11/08/125237&from=rss)
 
 ## [Archives](archives/index.md)
 
