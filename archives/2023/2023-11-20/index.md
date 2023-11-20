@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 23:02:00](https://soylentnews.org/article.pl?sid=23/11/19/201219&from=rss) - [Why is 56k the Fastest Dialup Modem Speed? ](https://soylentnews.org/article.pl?sid=23/11/19/201219&from=rss)
 * [2023-11-20, 18:17:00](https://soylentnews.org/article.pl?sid=23/11/19/169228&from=rss) - [Americans May Soon Get Warnings About Ultra-Processed Foods: Report](https://soylentnews.org/article.pl?sid=23/11/19/169228&from=rss)
 * [2023-11-20, 13:28:00](https://soylentnews.org/article.pl?sid=23/11/19/0341244&from=rss) - [Russia's Alt OS Adds Support for China's LoongArch CPUs](https://soylentnews.org/article.pl?sid=23/11/19/0341244&from=rss)
 * [2023-11-20, 08:37:00](https://soylentnews.org/article.pl?sid=23/11/19/038252&from=rss) - [Ransomware Gang Files SEC Complaint over Victim’s Undisclosed Breach](https://soylentnews.org/article.pl?sid=23/11/19/038252&from=rss)

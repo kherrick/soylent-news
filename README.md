@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-20, 23:02:00](https://soylentnews.org/article.pl?sid=23/11/19/201219&from=rss) - [Why is 56k the Fastest Dialup Modem Speed? ](https://soylentnews.org/article.pl?sid=23/11/19/201219&from=rss)
 * [2023-11-20, 18:17:00](https://soylentnews.org/article.pl?sid=23/11/19/169228&from=rss) - [Americans May Soon Get Warnings About Ultra-Processed Foods: Report](https://soylentnews.org/article.pl?sid=23/11/19/169228&from=rss)
 * [2023-11-20, 13:28:00](https://soylentnews.org/article.pl?sid=23/11/19/0341244&from=rss) - [Russia's Alt OS Adds Support for China's LoongArch CPUs](https://soylentnews.org/article.pl?sid=23/11/19/0341244&from=rss)
 * [2023-11-20, 08:37:00](https://soylentnews.org/article.pl?sid=23/11/19/038252&from=rss) - [Ransomware Gang Files SEC Complaint over Victim’s Undisclosed Breach](https://soylentnews.org/article.pl?sid=23/11/19/038252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-12, 01:10:00](https://soylentnews.org/article.pl?sid=23/11/11/022213&from=rss) - ['Super Melanin' Heals Skin Injuries From Sunburn, Chemical Burns](https://soylentnews.org/article.pl?sid=23/11/11/022213&from=rss)
 * [2023-11-11, 20:27:00](https://soylentnews.org/article.pl?sid=23/11/10/101225&from=rss) - [X-37B Spaceplane to be Launched Into High Orbit Using Falcon Heavy](https://soylentnews.org/article.pl?sid=23/11/10/101225&from=rss)
 * [2023-11-11, 15:42:00](https://soylentnews.org/article.pl?sid=23/11/10/0958236&from=rss) - [People Expect Others to Mirror Their Own Selfishness, Generosity](https://soylentnews.org/article.pl?sid=23/11/10/0958236&from=rss)
-* [2023-11-11, 11:00:00](https://soylentnews.org/article.pl?sid=23/11/10/0421211&from=rss) - [The Legend of Zelda is Getting a Live-action Film From Nintendo and Sony](https://soylentnews.org/article.pl?sid=23/11/10/0421211&from=rss)
 
 ## [Archives](archives/index.md)
 
