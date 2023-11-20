@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-20, 08:37:00](https://soylentnews.org/article.pl?sid=23/11/19/038252&from=rss) - [Ransomware Gang Files SEC Complaint over Victim’s Undisclosed Breach](https://soylentnews.org/article.pl?sid=23/11/19/038252&from=rss)
 * [2023-11-20, 03:53:00](https://soylentnews.org/article.pl?sid=23/11/19/036203&from=rss) - [From Toy to Tool: DALL-E 3 is a Wake-Up Call for Visual Artists—and the Rest of Us](https://soylentnews.org/article.pl?sid=23/11/19/036203&from=rss)
 * [2023-11-20, 03:39:00](https://soylentnews.org/article.pl?sid=23/11/19/0319225&from=rss) - [The Intel 4004 launched 52 years ago](https://soylentnews.org/article.pl?sid=23/11/19/0319225&from=rss)
 * [2023-11-19, 23:06:00](https://soylentnews.org/article.pl?sid=23/11/19/0247228&from=rss) - [AI Outperforms Conventional Weather Forecasting for the First Time: Google Study](https://soylentnews.org/article.pl?sid=23/11/19/0247228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-11, 11:00:00](https://soylentnews.org/article.pl?sid=23/11/10/0421211&from=rss) - [The Legend of Zelda is Getting a Live-action Film From Nintendo and Sony](https://soylentnews.org/article.pl?sid=23/11/10/0421211&from=rss)
 * [2023-11-11, 06:45:00](https://soylentnews.org/article.pl?sid=23/11/11/0645241&from=rss) - [RIP - Frank Borman, Astronaut Who Led First Orbit of the Moon, Dies at 95](https://soylentnews.org/article.pl?sid=23/11/11/0645241&from=rss)
 * [2023-11-11, 06:18:00](https://soylentnews.org/article.pl?sid=23/11/10/0431245&from=rss) - [Android 14’s Storage Disaster Gets Patched, but Your Data Might be Gone](https://soylentnews.org/article.pl?sid=23/11/10/0431245&from=rss)
-* [2023-11-11, 01:29:00](https://soylentnews.org/article.pl?sid=23/11/10/0213222&from=rss) - [Video Chat Service Omegle Shuts Down Following Years of User Abuse Claims](https://soylentnews.org/article.pl?sid=23/11/10/0213222&from=rss)
 
 ## [Archives](archives/index.md)
 
