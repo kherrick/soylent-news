@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-20, 18:17:00](https://soylentnews.org/article.pl?sid=23/11/19/169228&from=rss) - [Americans May Soon Get Warnings About Ultra-Processed Foods: Report](https://soylentnews.org/article.pl?sid=23/11/19/169228&from=rss)
 * [2023-11-20, 13:28:00](https://soylentnews.org/article.pl?sid=23/11/19/0341244&from=rss) - [Russia's Alt OS Adds Support for China's LoongArch CPUs](https://soylentnews.org/article.pl?sid=23/11/19/0341244&from=rss)
 * [2023-11-20, 08:37:00](https://soylentnews.org/article.pl?sid=23/11/19/038252&from=rss) - [Ransomware Gang Files SEC Complaint over Victim’s Undisclosed Breach](https://soylentnews.org/article.pl?sid=23/11/19/038252&from=rss)
 * [2023-11-20, 03:53:00](https://soylentnews.org/article.pl?sid=23/11/19/036203&from=rss) - [From Toy to Tool: DALL-E 3 is a Wake-Up Call for Visual Artists—and the Rest of Us](https://soylentnews.org/article.pl?sid=23/11/19/036203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-11, 20:27:00](https://soylentnews.org/article.pl?sid=23/11/10/101225&from=rss) - [X-37B Spaceplane to be Launched Into High Orbit Using Falcon Heavy](https://soylentnews.org/article.pl?sid=23/11/10/101225&from=rss)
 * [2023-11-11, 15:42:00](https://soylentnews.org/article.pl?sid=23/11/10/0958236&from=rss) - [People Expect Others to Mirror Their Own Selfishness, Generosity](https://soylentnews.org/article.pl?sid=23/11/10/0958236&from=rss)
 * [2023-11-11, 11:00:00](https://soylentnews.org/article.pl?sid=23/11/10/0421211&from=rss) - [The Legend of Zelda is Getting a Live-action Film From Nintendo and Sony](https://soylentnews.org/article.pl?sid=23/11/10/0421211&from=rss)
-* [2023-11-11, 06:45:00](https://soylentnews.org/article.pl?sid=23/11/11/0645241&from=rss) - [RIP - Frank Borman, Astronaut Who Led First Orbit of the Moon, Dies at 95](https://soylentnews.org/article.pl?sid=23/11/11/0645241&from=rss)
 
 ## [Archives](archives/index.md)
 
