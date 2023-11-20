@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-20, 03:39:00](https://soylentnews.org/article.pl?sid=23/11/19/0319225&from=rss) - [The Intel 4004 launched 52 years ago](https://soylentnews.org/article.pl?sid=23/11/19/0319225&from=rss)
 * [2023-11-19, 23:06:00](https://soylentnews.org/article.pl?sid=23/11/19/0247228&from=rss) - [AI Outperforms Conventional Weather Forecasting for the First Time: Google Study](https://soylentnews.org/article.pl?sid=23/11/19/0247228&from=rss)
 * [2023-11-19, 18:24:00](https://soylentnews.org/article.pl?sid=23/11/19/0239247&from=rss) - [Rumor:  AMD to Launch Two New Processors With 8 and 6 Cores, Equipped With 3D V-Cache](https://soylentnews.org/article.pl?sid=23/11/19/0239247&from=rss)
 * [2023-11-19, 13:36:00](https://soylentnews.org/article.pl?sid=23/11/19/0216250&from=rss) - [Capacitor-Based Heat Pumps See Big Boost in Efficiency](https://soylentnews.org/article.pl?sid=23/11/19/0216250&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-11, 06:18:00](https://soylentnews.org/article.pl?sid=23/11/10/0431245&from=rss) - [Android 14’s Storage Disaster Gets Patched, but Your Data Might be Gone](https://soylentnews.org/article.pl?sid=23/11/10/0431245&from=rss)
 * [2023-11-11, 01:29:00](https://soylentnews.org/article.pl?sid=23/11/10/0213222&from=rss) - [Video Chat Service Omegle Shuts Down Following Years of User Abuse Claims](https://soylentnews.org/article.pl?sid=23/11/10/0213222&from=rss)
 * [2023-11-10, 21:09:00](https://soylentnews.org/article.pl?sid=23/11/09/1350235&from=rss) - [Chamberlain Blocks Smart Garage Door Opener From Working With Smart Homes](https://soylentnews.org/article.pl?sid=23/11/09/1350235&from=rss)
-* [2023-11-10, 16:25:00](https://soylentnews.org/article.pl?sid=23/11/09/1347203&from=rss) - [Evidence of Theorized Type of Black Hole Discovered Near Dawn of Time](https://soylentnews.org/article.pl?sid=23/11/09/1347203&from=rss)
 
 ## [Archives](archives/index.md)
 

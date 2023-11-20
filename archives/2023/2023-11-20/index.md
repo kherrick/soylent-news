@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-20](index.md)
+
+* [2023-11-20, 03:39:00](https://soylentnews.org/article.pl?sid=23/11/19/0319225&from=rss) - [The Intel 4004 launched 52 years ago](https://soylentnews.org/article.pl?sid=23/11/19/0319225&from=rss)
