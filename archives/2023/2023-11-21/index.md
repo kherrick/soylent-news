@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 18:29:00](https://soylentnews.org/article.pl?sid=23/11/21/0126213&from=rss) - [Aardman Studios Is About to Run Out of Lewis Newplast Clay](https://soylentnews.org/article.pl?sid=23/11/21/0126213&from=rss)
 * [2023-11-21, 18:00:00](https://soylentnews.org/meta/article.pl?sid=23/11/17/1722243&from=rss) - [Proposed Soylent Bylaws](https://soylentnews.org/meta/article.pl?sid=23/11/17/1722243&from=rss)
 * [2023-11-21, 13:46:00](https://soylentnews.org/article.pl?sid=23/11/21/0119257&from=rss) - [Youtube Is Reportedly Slowing Down Videos for Firefox Users](https://soylentnews.org/article.pl?sid=23/11/21/0119257&from=rss)
 * [2023-11-21, 08:28:00](https://soylentnews.org/article.pl?sid=23/11/20/0256210&from=rss) - [Huawei Could Say Goodbye to Android Apps for Good Next Year](https://soylentnews.org/article.pl?sid=23/11/20/0256210&from=rss)
