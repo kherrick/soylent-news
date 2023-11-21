@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-21, 13:46:00](https://soylentnews.org/article.pl?sid=23/11/21/0119257&from=rss) - [Youtube Is Reportedly Slowing Down Videos for Firefox Users](https://soylentnews.org/article.pl?sid=23/11/21/0119257&from=rss)
 * [2023-11-21, 08:28:00](https://soylentnews.org/article.pl?sid=23/11/20/0256210&from=rss) - [Huawei Could Say Goodbye to Android Apps for Good Next Year](https://soylentnews.org/article.pl?sid=23/11/20/0256210&from=rss)
 * [2023-11-21, 03:43:00](https://soylentnews.org/article.pl?sid=23/11/19/2027251&from=rss) - [Giant Telescope – 8x the Size of Earth – Reveals Unprecedented View of Colossal Cosmic Jet](https://soylentnews.org/article.pl?sid=23/11/19/2027251&from=rss)
 * [2023-11-20, 23:02:00](https://soylentnews.org/article.pl?sid=23/11/19/201219&from=rss) - [Why is 56k the Fastest Dialup Modem Speed? ](https://soylentnews.org/article.pl?sid=23/11/19/201219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-12, 15:23:00](https://soylentnews.org/article.pl?sid=23/11/11/0616234&from=rss) - [NuScale, UAMPS Terminate Small Modular Reactor Project in Idaho](https://soylentnews.org/article.pl?sid=23/11/11/0616234&from=rss)
 * [2023-11-12, 10:42:00](https://soylentnews.org/article.pl?sid=23/11/11/0610228&from=rss) - [Debunking the Myth of “Anonymous” Data](https://soylentnews.org/article.pl?sid=23/11/11/0610228&from=rss)
 * [2023-11-12, 05:58:00](https://soylentnews.org/article.pl?sid=23/11/11/0322213&from=rss) - [US Commerce Dept Promises Crackdown On Spyware Exports](https://soylentnews.org/article.pl?sid=23/11/11/0322213&from=rss)
-* [2023-11-12, 01:10:00](https://soylentnews.org/article.pl?sid=23/11/11/022213&from=rss) - ['Super Melanin' Heals Skin Injuries From Sunburn, Chemical Burns](https://soylentnews.org/article.pl?sid=23/11/11/022213&from=rss)
 
 ## [Archives](archives/index.md)
 
