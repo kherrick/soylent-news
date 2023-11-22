@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-22, 17:38:00](https://soylentnews.org/article.pl?sid=23/11/22/0232227&from=rss) - [Selling Cars on Amazon? Hyundai Faces Prime Opportunity.](https://soylentnews.org/article.pl?sid=23/11/22/0232227&from=rss)
 * [2023-11-22, 12:43:00](https://soylentnews.org/article.pl?sid=23/11/21/0320229&from=rss) - [Royal Navy Flies Mega Mojave Drone from Aircraft Carrier](https://soylentnews.org/article.pl?sid=23/11/21/0320229&from=rss)
 * [2023-11-22, 07:57:00](https://soylentnews.org/article.pl?sid=23/11/21/0258233&from=rss) - [Fat Burning During Exercise Varies Widely Between Individuals](https://soylentnews.org/article.pl?sid=23/11/21/0258233&from=rss)
 * [2023-11-22, 03:13:00](https://soylentnews.org/article.pl?sid=23/11/21/0249216&from=rss) - [A Controversial US Surveillance Program is up tor Renewal. Critics are Speaking Out.](https://soylentnews.org/article.pl?sid=23/11/21/0249216&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-14, 00:27:00](https://soylentnews.org/article.pl?sid=23/11/12/2344223&from=rss) - [Editorial: YouTube Users are Justified in Continuing to Block Ads](https://soylentnews.org/article.pl?sid=23/11/12/2344223&from=rss)
 * [2023-11-13, 19:42:00](https://soylentnews.org/article.pl?sid=23/11/12/144237&from=rss) - [PFAs: How Research Is Uncovering Damaging Effects Of 'Forever Chemicals'](https://soylentnews.org/article.pl?sid=23/11/12/144237&from=rss)
 * [2023-11-13, 14:55:00](https://soylentnews.org/article.pl?sid=23/11/12/1356200&from=rss) - [Many People Feel Their Jobs Are Pointless](https://soylentnews.org/article.pl?sid=23/11/12/1356200&from=rss)
-* [2023-11-13, 10:10:00](https://soylentnews.org/article.pl?sid=23/11/12/0423225&from=rss) - [After Luring Customers With Low Prices, Amazon Stuffs Fire TVs With Ads](https://soylentnews.org/article.pl?sid=23/11/12/0423225&from=rss)
 
 ## [Archives](archives/index.md)
 
