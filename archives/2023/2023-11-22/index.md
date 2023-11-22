@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 07:57:00](https://soylentnews.org/article.pl?sid=23/11/21/0258233&from=rss) - [Fat Burning During Exercise Varies Widely Between Individuals](https://soylentnews.org/article.pl?sid=23/11/21/0258233&from=rss)
 * [2023-11-22, 03:13:00](https://soylentnews.org/article.pl?sid=23/11/21/0249216&from=rss) - [A Controversial US Surveillance Program is up tor Renewal. Critics are Speaking Out.](https://soylentnews.org/article.pl?sid=23/11/21/0249216&from=rss)
