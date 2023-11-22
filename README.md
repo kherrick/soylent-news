@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-22, 03:13:00](https://soylentnews.org/article.pl?sid=23/11/21/0249216&from=rss) - [A Controversial US Surveillance Program is up tor Renewal. Critics are Speaking Out.](https://soylentnews.org/article.pl?sid=23/11/21/0249216&from=rss)
 * [2023-11-21, 23:32:00](https://soylentnews.org/article.pl?sid=23/11/21/0150238&from=rss) - [High-Power Fiber Lasers Emerge as a Pioneering Technology](https://soylentnews.org/article.pl?sid=23/11/21/0150238&from=rss)
 * [2023-11-21, 18:29:00](https://soylentnews.org/article.pl?sid=23/11/21/0126213&from=rss) - [Aardman Studios Is About to Run Out of Lewis Newplast Clay](https://soylentnews.org/article.pl?sid=23/11/21/0126213&from=rss)
 * [2023-11-21, 18:00:00](https://soylentnews.org/meta/article.pl?sid=23/11/17/1722243&from=rss) - [Proposed Soylent Bylaws](https://soylentnews.org/meta/article.pl?sid=23/11/17/1722243&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-13, 10:10:00](https://soylentnews.org/article.pl?sid=23/11/12/0423225&from=rss) - [After Luring Customers With Low Prices, Amazon Stuffs Fire TVs With Ads](https://soylentnews.org/article.pl?sid=23/11/12/0423225&from=rss)
 * [2023-11-13, 05:29:00](https://soylentnews.org/article.pl?sid=23/11/12/049251&from=rss) - [Reverse Engineering the Intel 386 Processor's Register Cell](https://soylentnews.org/article.pl?sid=23/11/12/049251&from=rss)
 * [2023-11-13, 00:45:00](https://soylentnews.org/article.pl?sid=23/11/12/047224&from=rss) - [Massive Swedish Tidal Kite, 1.2MW Dragon 12 Tests Ready for Operation](https://soylentnews.org/article.pl?sid=23/11/12/047224&from=rss)
-* [2023-11-12, 20:04:00](https://soylentnews.org/article.pl?sid=23/11/12/0359222&from=rss) - [What Head Lice Can Tell Us About Human Migration](https://soylentnews.org/article.pl?sid=23/11/12/0359222&from=rss)
 
 ## [Archives](archives/index.md)
 
