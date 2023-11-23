@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-23, 22:16:00](https://soylentnews.org/article.pl?sid=23/11/22/0410256&from=rss) - [Workers are Less Productive and Make More Typos in the Afternoon – Especially on Fridays](https://soylentnews.org/article.pl?sid=23/11/22/0410256&from=rss)
 * [2023-11-23, 17:30:00](https://soylentnews.org/article.pl?sid=23/11/22/0344203&from=rss) - [Blasts to Clear World War II Munitions Could Contaminate the Ocean](https://soylentnews.org/article.pl?sid=23/11/22/0344203&from=rss)
 * [2023-11-23, 12:45:00](https://soylentnews.org/article.pl?sid=23/11/22/0340229&from=rss) - [Why Emotions Stirred by Music Create Such Powerful Memories](https://soylentnews.org/article.pl?sid=23/11/22/0340229&from=rss)
 * [2023-11-23, 08:00:00](https://soylentnews.org/article.pl?sid=23/11/22/0334206&from=rss) - [North Korea Readies Third Attempt at Spy Satellite Launch](https://soylentnews.org/article.pl?sid=23/11/22/0334206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-15, 00:12:00](https://soylentnews.org/article.pl?sid=23/11/14/0216218&from=rss) - [In a First, Cryptographic Keys Protecting SSH Connections Stolen in New Attack](https://soylentnews.org/article.pl?sid=23/11/14/0216218&from=rss)
 * [2023-11-14, 19:25:00](https://soylentnews.org/article.pl?sid=23/11/13/0956252&from=rss) - [New Insights Into the Origin of the Indo-European Languages](https://soylentnews.org/article.pl?sid=23/11/13/0956252&from=rss)
 * [2023-11-14, 18:00:00](https://soylentnews.org/meta/article.pl?sid=23/11/14/179235&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 15, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/14/179235&from=rss)
-* [2023-11-14, 14:41:00](https://soylentnews.org/article.pl?sid=23/11/13/0954221&from=rss) - [Doctors Complete First Successful Face and Whole-Eye Transplant](https://soylentnews.org/article.pl?sid=23/11/13/0954221&from=rss)
 
 ## [Archives](archives/index.md)
 
