@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-23, 12:45:00](https://soylentnews.org/article.pl?sid=23/11/22/0340229&from=rss) - [Why Emotions Stirred by Music Create Such Powerful Memories](https://soylentnews.org/article.pl?sid=23/11/22/0340229&from=rss)
 * [2023-11-23, 08:00:00](https://soylentnews.org/article.pl?sid=23/11/22/0334206&from=rss) - [North Korea Readies Third Attempt at Spy Satellite Launch](https://soylentnews.org/article.pl?sid=23/11/22/0334206&from=rss)
 * [2023-11-23, 03:05:00](https://soylentnews.org/article.pl?sid=23/11/22/0326213&from=rss) - [Mathematicians Use Machine Learning to Build a Periodic Table of Shapes](https://soylentnews.org/article.pl?sid=23/11/22/0326213&from=rss)
 * [2023-11-22, 22:17:00](https://soylentnews.org/article.pl?sid=23/11/22/0250252&from=rss) - [Commercial Aircraft Navigation Systems Compromised by Spoofing Attacks](https://soylentnews.org/article.pl?sid=23/11/22/0250252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-14, 18:00:00](https://soylentnews.org/meta/article.pl?sid=23/11/14/179235&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 15, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/14/179235&from=rss)
 * [2023-11-14, 14:41:00](https://soylentnews.org/article.pl?sid=23/11/13/0954221&from=rss) - [Doctors Complete First Successful Face and Whole-Eye Transplant](https://soylentnews.org/article.pl?sid=23/11/13/0954221&from=rss)
 * [2023-11-14, 09:57:00](https://soylentnews.org/article.pl?sid=23/11/12/2352254&from=rss) - [Famous 'Man in the Moon' Could be 200 Million Years Older Than We Thought](https://soylentnews.org/article.pl?sid=23/11/12/2352254&from=rss)
-* [2023-11-14, 05:13:00](https://soylentnews.org/article.pl?sid=23/11/12/2351220&from=rss) - [Study Shows Flu Deaths Rise When Pro Sports Teams Move Into Cities](https://soylentnews.org/article.pl?sid=23/11/12/2351220&from=rss)
 
 ## [Archives](archives/index.md)
 
