@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2023-11-23, 03:05:00](https://soylentnews.org/article.pl?sid=23/11/22/0326213&from=rss) - [Mathmeticians Use Machine Learning to Build a Periodic Table of Shapes](https://soylentnews.org/article.pl?sid=23/11/22/0326213&from=rss)
+* [2023-11-23, 03:05:00](https://soylentnews.org/article.pl?sid=23/11/22/0326213&from=rss) - [Mathematicians Use Machine Learning to Build a Periodic Table of Shapes](https://soylentnews.org/article.pl?sid=23/11/22/0326213&from=rss)
 * [2023-11-22, 22:17:00](https://soylentnews.org/article.pl?sid=23/11/22/0250252&from=rss) - [Commercial Aircraft Navigation Systems Compromised by Spoofing Attacks](https://soylentnews.org/article.pl?sid=23/11/22/0250252&from=rss)
 * [2023-11-22, 17:38:00](https://soylentnews.org/article.pl?sid=23/11/22/0232227&from=rss) - [Selling Cars on Amazon? Hyundai Faces Prime Opportunity.](https://soylentnews.org/article.pl?sid=23/11/22/0232227&from=rss)
 * [2023-11-22, 12:43:00](https://soylentnews.org/article.pl?sid=23/11/21/0320229&from=rss) - [Royal Navy Flies Mega Mojave Drone from Aircraft Carrier](https://soylentnews.org/article.pl?sid=23/11/21/0320229&from=rss)
