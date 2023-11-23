@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-23, 03:05:00](https://soylentnews.org/article.pl?sid=23/11/22/0326213&from=rss) - [Mathmeticians Use Machine Learning to Build a Periodic Table of Shapes](https://soylentnews.org/article.pl?sid=23/11/22/0326213&from=rss)
 * [2023-11-22, 22:17:00](https://soylentnews.org/article.pl?sid=23/11/22/0250252&from=rss) - [Commercial Aircraft Navigation Systems Compromised by Spoofing Attacks](https://soylentnews.org/article.pl?sid=23/11/22/0250252&from=rss)
 * [2023-11-22, 17:38:00](https://soylentnews.org/article.pl?sid=23/11/22/0232227&from=rss) - [Selling Cars on Amazon? Hyundai Faces Prime Opportunity.](https://soylentnews.org/article.pl?sid=23/11/22/0232227&from=rss)
 * [2023-11-22, 12:43:00](https://soylentnews.org/article.pl?sid=23/11/21/0320229&from=rss) - [Royal Navy Flies Mega Mojave Drone from Aircraft Carrier](https://soylentnews.org/article.pl?sid=23/11/21/0320229&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-14, 09:57:00](https://soylentnews.org/article.pl?sid=23/11/12/2352254&from=rss) - [Famous 'Man in the Moon' Could be 200 Million Years Older Than We Thought](https://soylentnews.org/article.pl?sid=23/11/12/2352254&from=rss)
 * [2023-11-14, 05:13:00](https://soylentnews.org/article.pl?sid=23/11/12/2351220&from=rss) - [Study Shows Flu Deaths Rise When Pro Sports Teams Move Into Cities](https://soylentnews.org/article.pl?sid=23/11/12/2351220&from=rss)
 * [2023-11-14, 00:27:00](https://soylentnews.org/article.pl?sid=23/11/12/2344223&from=rss) - [Editorial: YouTube Users are Justified in Continuing to Block Ads](https://soylentnews.org/article.pl?sid=23/11/12/2344223&from=rss)
-* [2023-11-13, 19:42:00](https://soylentnews.org/article.pl?sid=23/11/12/144237&from=rss) - [PFAs: How Research Is Uncovering Damaging Effects Of 'Forever Chemicals'](https://soylentnews.org/article.pl?sid=23/11/12/144237&from=rss)
 
 ## [Archives](archives/index.md)
 
