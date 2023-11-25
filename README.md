@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-25, 16:51:00](https://soylentnews.org/article.pl?sid=23/11/22/1951255&from=rss) - [AMD's Fastest Gaming GPU Now Works With Risc-V CPUs, AMD Radeon Rx 7900 Xtx Open Source Linux Driver](https://soylentnews.org/article.pl?sid=23/11/22/1951255&from=rss)
 * [2023-11-25, 12:06:00](https://soylentnews.org/article.pl?sid=23/11/22/1949219&from=rss) - [Charity Scams Get Active Over The Holidays](https://soylentnews.org/article.pl?sid=23/11/22/1949219&from=rss)
 * [2023-11-25, 07:24:00](https://soylentnews.org/article.pl?sid=23/11/22/1945238&from=rss) - [Archaeologists Uncover Europe's Hidden Bronze Age Megastructures](https://soylentnews.org/article.pl?sid=23/11/22/1945238&from=rss)
 * [2023-11-25, 02:40:00](https://soylentnews.org/article.pl?sid=23/11/22/1941255&from=rss) - [Polarized World Threatens Open Internet: ICANN](https://soylentnews.org/article.pl?sid=23/11/22/1941255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-16, 18:48:00](https://soylentnews.org/article.pl?sid=23/11/15/1452208&from=rss) - ['Coyote Vs. Acme': Warner Bros Setting Up Screenings for Streamers of Axed Looney Tunes Film](https://soylentnews.org/article.pl?sid=23/11/15/1452208&from=rss)
 * [2023-11-16, 14:03:00](https://soylentnews.org/article.pl?sid=23/11/15/1444212&from=rss) - [AMD-Powered Frontier Remains Fastest Supercomputer In The World, Intel-Powered Aurora in 2nd Place](https://soylentnews.org/article.pl?sid=23/11/15/1444212&from=rss)
 * [2023-11-16, 09:22:00](https://soylentnews.org/article.pl?sid=23/11/15/047229&from=rss) - [Google Pays an Awful Lot to be Your Default](https://soylentnews.org/article.pl?sid=23/11/15/047229&from=rss)
-* [2023-11-16, 04:36:00](https://soylentnews.org/article.pl?sid=23/11/15/0350231&from=rss) - [Mummified Baboons Point to the Direction of the Fabled Land of Punt](https://soylentnews.org/article.pl?sid=23/11/15/0350231&from=rss)
 
 ## [Archives](archives/index.md)
 
