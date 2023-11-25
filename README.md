@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-25, 02:40:00](https://soylentnews.org/article.pl?sid=23/11/22/1941255&from=rss) - [Polarized World Threatens Open Internet: ICANN](https://soylentnews.org/article.pl?sid=23/11/22/1941255&from=rss)
 * [2023-11-24, 21:54:00](https://soylentnews.org/article.pl?sid=23/11/22/0945259&from=rss) - [Making Sense Of Nvidia's Supernic](https://soylentnews.org/article.pl?sid=23/11/22/0945259&from=rss)
 * [2023-11-24, 17:12:00](https://soylentnews.org/article.pl?sid=23/11/22/0943201&from=rss) - [Study Reveals New Clues About How Whales and Dolphins Came to Use Echolocation](https://soylentnews.org/article.pl?sid=23/11/22/0943201&from=rss)
 * [2023-11-24, 12:29:00](https://soylentnews.org/article.pl?sid=23/11/22/0940226&from=rss) - [China's Oldest Water Pipes Were a Communal Effort](https://soylentnews.org/article.pl?sid=23/11/22/0940226&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-16, 04:36:00](https://soylentnews.org/article.pl?sid=23/11/15/0350231&from=rss) - [Mummified Baboons Point to the Direction of the Fabled Land of Punt](https://soylentnews.org/article.pl?sid=23/11/15/0350231&from=rss)
 * [2023-11-15, 23:51:00](https://soylentnews.org/article.pl?sid=23/11/15/0334246&from=rss) - [Why Pets Don't Really Bring Humans Happiness Nor Improve Their Well-Being](https://soylentnews.org/article.pl?sid=23/11/15/0334246&from=rss)
 * [2023-11-15, 19:10:00](https://soylentnews.org/article.pl?sid=23/11/14/171234&from=rss) - [Baldur's Gate 3 And Alan Wake 2 Lead The 2023 Game Awards Nominees](https://soylentnews.org/article.pl?sid=23/11/14/171234&from=rss)
-* [2023-11-15, 14:26:00](https://soylentnews.org/article.pl?sid=23/11/14/0229222&from=rss) - [Highly Invasive Backdoor Snuck Into Open Source Packages Targets Developers](https://soylentnews.org/article.pl?sid=23/11/14/0229222&from=rss)
 
 ## [Archives](archives/index.md)
 
