@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-26, 07:10:00](https://soylentnews.org/article.pl?sid=23/11/24/1155239&from=rss) - [Hackers’ Delight: a History of MIT Pranks and Hacks](https://soylentnews.org/article.pl?sid=23/11/24/1155239&from=rss)
 * [2023-11-26, 02:20:00](https://soylentnews.org/article.pl?sid=23/11/24/1148257&from=rss) - [Cheap Drugs May be Within Reach Thanks to Copper Chemistry Discovery](https://soylentnews.org/article.pl?sid=23/11/24/1148257&from=rss)
 * [2023-11-25, 21:36:00](https://soylentnews.org/article.pl?sid=23/11/22/1957240&from=rss) - [BEVs are like Concorde](https://soylentnews.org/article.pl?sid=23/11/22/1957240&from=rss)
 * [2023-11-25, 16:51:00](https://soylentnews.org/article.pl?sid=23/11/22/1951255&from=rss) - [AMD's Fastest Gaming GPU Now Works With Risc-V CPUs, AMD Radeon Rx 7900 Xtx Open Source Linux Driver](https://soylentnews.org/article.pl?sid=23/11/22/1951255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-17, 09:03:00](https://soylentnews.org/article.pl?sid=23/11/16/047249&from=rss) - [SpaceX's Starship Cleared to Fly; Current Launch Date: November 18](https://soylentnews.org/article.pl?sid=23/11/16/047249&from=rss)
 * [2023-11-17, 04:21:00](https://soylentnews.org/article.pl?sid=23/11/16/0343223&from=rss) - [Tool Bag Lost In Space Is Being Tracked By Garbage Watchers](https://soylentnews.org/article.pl?sid=23/11/16/0343223&from=rss)
 * [2023-11-16, 23:34:00](https://soylentnews.org/article.pl?sid=23/11/15/152209&from=rss) - [The Missing Americans: Unprecedented US Mortality Far Exceeds Other Wealthy Nations](https://soylentnews.org/article.pl?sid=23/11/15/152209&from=rss)
-* [2023-11-16, 18:48:00](https://soylentnews.org/article.pl?sid=23/11/15/1452208&from=rss) - ['Coyote Vs. Acme': Warner Bros Setting Up Screenings for Streamers of Axed Looney Tunes Film](https://soylentnews.org/article.pl?sid=23/11/15/1452208&from=rss)
 
 ## [Archives](archives/index.md)
 
