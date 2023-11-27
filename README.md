@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-27, 11:31:00](https://soylentnews.org/article.pl?sid=23/11/26/0314207&from=rss) - [EC Rules Adobe's $20B Buy Of Figma Will Kill Competition](https://soylentnews.org/article.pl?sid=23/11/26/0314207&from=rss)
 * [2023-11-27, 06:48:00](https://soylentnews.org/article.pl?sid=23/11/26/0139227&from=rss) - [Sand Mining In Vietnam's Mekong Delta Sinks Homes, Livelihoods](https://soylentnews.org/article.pl?sid=23/11/26/0139227&from=rss)
 * [2023-11-27, 02:02:00](https://soylentnews.org/article.pl?sid=23/11/26/0114258&from=rss) - [NASA Will Launch A Mars Mission On Blue Origin’s First New Glenn Rocket](https://soylentnews.org/article.pl?sid=23/11/26/0114258&from=rss)
 * [2023-11-26, 21:13:00](https://soylentnews.org/article.pl?sid=23/11/24/1212206&from=rss) - [Screensharing Mistake Gets Nvidia Sued Over Alleged Stolen Trade Secrets](https://soylentnews.org/article.pl?sid=23/11/24/1212206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-18, 13:43:00](https://soylentnews.org/article.pl?sid=23/11/17/0424221&from=rss) - [Right-to-Repair Fight Going National as FTC Asked to Lay Down the Law](https://soylentnews.org/article.pl?sid=23/11/17/0424221&from=rss)
 * [2023-11-18, 08:59:00](https://soylentnews.org/article.pl?sid=23/11/17/0420234&from=rss) - [People Think White AI-Generated Faces Are More Real Than Actual Photos, Study Says](https://soylentnews.org/article.pl?sid=23/11/17/0420234&from=rss)
 * [2023-11-18, 04:17:00](https://soylentnews.org/article.pl?sid=23/11/17/0418241&from=rss) - [NASA Can’t Talk to its Mars Robots for Two Weeks Because the Sun is in the Way](https://soylentnews.org/article.pl?sid=23/11/17/0418241&from=rss)
-* [2023-11-17, 23:29:00](https://soylentnews.org/article.pl?sid=23/11/17/0414217&from=rss) - [Developers Can’t Seem to Stop Exposing Credentials in Publicly Accessible Code](https://soylentnews.org/article.pl?sid=23/11/17/0414217&from=rss)
 
 ## [Archives](archives/index.md)
 
