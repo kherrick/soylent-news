@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-28, 21:51:00](https://soylentnews.org/article.pl?sid=23/11/27/1322247&from=rss) - [Telco CEO Quits After Admitting She Needs Rivals' Sims](https://soylentnews.org/article.pl?sid=23/11/27/1322247&from=rss)
 * [2023-11-28, 17:02:00](https://soylentnews.org/article.pl?sid=23/11/27/0223236&from=rss) - [The History Behind Aspirin 81](https://soylentnews.org/article.pl?sid=23/11/27/0223236&from=rss)
 * [2023-11-28, 12:19:00](https://soylentnews.org/article.pl?sid=23/11/27/0215221&from=rss) - [Soot Pollution from Coal-Fired Power Plants is More Deadly than Soot from Other Sources, Study Shows](https://soylentnews.org/article.pl?sid=23/11/27/0215221&from=rss)
 * [2023-11-28, 07:33:00](https://soylentnews.org/article.pl?sid=23/11/27/0154243&from=rss) - [Simple Ballpoint Pen Can Write Custom LEDs](https://soylentnews.org/article.pl?sid=23/11/27/0154243&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-19, 23:06:00](https://soylentnews.org/article.pl?sid=23/11/19/0247228&from=rss) - [AI Outperforms Conventional Weather Forecasting for the First Time: Google Study](https://soylentnews.org/article.pl?sid=23/11/19/0247228&from=rss)
 * [2023-11-19, 18:24:00](https://soylentnews.org/article.pl?sid=23/11/19/0239247&from=rss) - [Rumor:  AMD to Launch Two New Processors With 8 and 6 Cores, Equipped With 3D V-Cache](https://soylentnews.org/article.pl?sid=23/11/19/0239247&from=rss)
 * [2023-11-19, 13:36:00](https://soylentnews.org/article.pl?sid=23/11/19/0216250&from=rss) - [Capacitor-Based Heat Pumps See Big Boost in Efficiency](https://soylentnews.org/article.pl?sid=23/11/19/0216250&from=rss)
-* [2023-11-19, 08:47:00](https://soylentnews.org/article.pl?sid=23/11/19/011221&from=rss) - [OpenAI CEO Sam Altman Purged, President Brockman Quits, but Maybe They'll All Come Back After All](https://soylentnews.org/article.pl?sid=23/11/19/011221&from=rss)
 
 ## [Archives](archives/index.md)
 
