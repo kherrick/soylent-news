@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-29, 12:06:00](https://soylentnews.org/article.pl?sid=23/11/28/1132244&from=rss) - [Nvidia To Become The World's Largest Semiconductor Firm In 2023, According To TSMC Chairman](https://soylentnews.org/article.pl?sid=23/11/28/1132244&from=rss)
 * [2023-11-29, 07:23:00](https://soylentnews.org/article.pl?sid=23/11/28/0215200&from=rss) - [After 151 Years, Popular Science Will No Longer Offer a Magazine](https://soylentnews.org/article.pl?sid=23/11/28/0215200&from=rss)
 * [2023-11-29, 02:39:00](https://soylentnews.org/article.pl?sid=23/11/27/2350211&from=rss) - [Researchers Figure Out How to Bypass the Fingerprint Readers in Most Windows PCs](https://soylentnews.org/article.pl?sid=23/11/27/2350211&from=rss)
 * [2023-11-29, 01:00:00](https://soylentnews.org/meta/article.pl?sid=23/11/29/0015220&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 29, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/29/0015220&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-20, 13:28:00](https://soylentnews.org/article.pl?sid=23/11/19/0341244&from=rss) - [Russia's Alt OS Adds Support for China's LoongArch CPUs](https://soylentnews.org/article.pl?sid=23/11/19/0341244&from=rss)
 * [2023-11-20, 08:37:00](https://soylentnews.org/article.pl?sid=23/11/19/038252&from=rss) - [Ransomware Gang Files SEC Complaint over Victim’s Undisclosed Breach](https://soylentnews.org/article.pl?sid=23/11/19/038252&from=rss)
 * [2023-11-20, 03:53:00](https://soylentnews.org/article.pl?sid=23/11/19/036203&from=rss) - [From Toy to Tool: DALL-E 3 is a Wake-Up Call for Visual Artists—and the Rest of Us](https://soylentnews.org/article.pl?sid=23/11/19/036203&from=rss)
-* [2023-11-20, 03:39:00](https://soylentnews.org/article.pl?sid=23/11/19/0319225&from=rss) - [The Intel 4004 launched 52 years ago](https://soylentnews.org/article.pl?sid=23/11/19/0319225&from=rss)
 
 ## [Archives](archives/index.md)
 
