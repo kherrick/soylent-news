@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-29, 01:00:00](https://soylentnews.org/meta/article.pl?sid=23/11/29/0015220&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 29, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/29/0015220&from=rss)
 * [2023-11-28, 21:51:00](https://soylentnews.org/article.pl?sid=23/11/27/1322247&from=rss) - [Telco CEO Quits After Admitting She Needs Rivals' Sims](https://soylentnews.org/article.pl?sid=23/11/27/1322247&from=rss)
 * [2023-11-28, 17:02:00](https://soylentnews.org/article.pl?sid=23/11/27/0223236&from=rss) - [The History Behind Aspirin 81](https://soylentnews.org/article.pl?sid=23/11/27/0223236&from=rss)
 * [2023-11-28, 12:19:00](https://soylentnews.org/article.pl?sid=23/11/27/0215221&from=rss) - [Soot Pollution from Coal-Fired Power Plants is More Deadly than Soot from Other Sources, Study Shows](https://soylentnews.org/article.pl?sid=23/11/27/0215221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-20, 03:39:00](https://soylentnews.org/article.pl?sid=23/11/19/0319225&from=rss) - [The Intel 4004 launched 52 years ago](https://soylentnews.org/article.pl?sid=23/11/19/0319225&from=rss)
 * [2023-11-19, 23:06:00](https://soylentnews.org/article.pl?sid=23/11/19/0247228&from=rss) - [AI Outperforms Conventional Weather Forecasting for the First Time: Google Study](https://soylentnews.org/article.pl?sid=23/11/19/0247228&from=rss)
 * [2023-11-19, 18:24:00](https://soylentnews.org/article.pl?sid=23/11/19/0239247&from=rss) - [Rumor:  AMD to Launch Two New Processors With 8 and 6 Cores, Equipped With 3D V-Cache](https://soylentnews.org/article.pl?sid=23/11/19/0239247&from=rss)
-* [2023-11-19, 13:36:00](https://soylentnews.org/article.pl?sid=23/11/19/0216250&from=rss) - [Capacitor-Based Heat Pumps See Big Boost in Efficiency](https://soylentnews.org/article.pl?sid=23/11/19/0216250&from=rss)
 
 ## [Archives](archives/index.md)
 
