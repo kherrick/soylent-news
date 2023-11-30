@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-11-30, 06:09:00](https://soylentnews.org/article.pl?sid=23/11/28/1516209&from=rss) - [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://soylentnews.org/article.pl?sid=23/11/28/1516209&from=rss)
 * [2023-11-30, 01:26:00](https://soylentnews.org/article.pl?sid=23/11/28/146258&from=rss) - [How the Meat and Dairy Sector Resists Competition From Alternative Animal Products](https://soylentnews.org/article.pl?sid=23/11/28/146258&from=rss)
 * [2023-11-29, 21:38:00](https://soylentnews.org/article.pl?sid=23/11/28/1249216&from=rss) - [Solar Storms Hit More Locally Than Expected: Current Instrument Network Too Sparse, Says Study](https://soylentnews.org/article.pl?sid=23/11/28/1249216&from=rss)
 * [2023-11-29, 16:54:00](https://soylentnews.org/article.pl?sid=23/11/28/1134254&from=rss) - [The Ars Guide to Time Travel in the Movies](https://soylentnews.org/article.pl?sid=23/11/28/1134254&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-21, 08:28:00](https://soylentnews.org/article.pl?sid=23/11/20/0256210&from=rss) - [Huawei Could Say Goodbye to Android Apps for Good Next Year](https://soylentnews.org/article.pl?sid=23/11/20/0256210&from=rss)
 * [2023-11-21, 03:43:00](https://soylentnews.org/article.pl?sid=23/11/19/2027251&from=rss) - [Giant Telescope – 8x the Size of Earth – Reveals Unprecedented View of Colossal Cosmic Jet](https://soylentnews.org/article.pl?sid=23/11/19/2027251&from=rss)
 * [2023-11-20, 23:02:00](https://soylentnews.org/article.pl?sid=23/11/19/201219&from=rss) - [Why is 56k the Fastest Dialup Modem Speed? ](https://soylentnews.org/article.pl?sid=23/11/19/201219&from=rss)
-* [2023-11-20, 18:17:00](https://soylentnews.org/article.pl?sid=23/11/19/169228&from=rss) - [Americans May Soon Get Warnings About Ultra-Processed Foods: Report](https://soylentnews.org/article.pl?sid=23/11/19/169228&from=rss)
 
 ## [Archives](archives/index.md)
 
