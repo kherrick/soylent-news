@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-01, 11:42:00](https://soylentnews.org/article.pl?sid=23/11/30/0453224&from=rss) - [Tim O'Reilly on Algorithmic Tuning for Exploitation](https://soylentnews.org/article.pl?sid=23/11/30/0453224&from=rss)
 * [2023-12-01, 06:54:00](https://soylentnews.org/article.pl?sid=23/11/30/0439223&from=rss) - [GNOME Gets a Million Bucks from Germany](https://soylentnews.org/article.pl?sid=23/11/30/0439223&from=rss)
 * [2023-12-01, 02:09:00](https://soylentnews.org/article.pl?sid=23/11/30/0433212&from=rss) - [UK Watchdog Threatens Enforcement Action Over Ad Cookies](https://soylentnews.org/article.pl?sid=23/11/30/0433212&from=rss)
 * [2023-11-30, 21:21:00](https://soylentnews.org/article.pl?sid=23/11/30/0341254&from=rss) - [New “Stable Video Diffusion” AI Model Can Animate Any Still Image](https://soylentnews.org/article.pl?sid=23/11/30/0341254&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-22, 07:57:00](https://soylentnews.org/article.pl?sid=23/11/21/0258233&from=rss) - [Fat Burning During Exercise Varies Widely Between Individuals](https://soylentnews.org/article.pl?sid=23/11/21/0258233&from=rss)
 * [2023-11-22, 03:13:00](https://soylentnews.org/article.pl?sid=23/11/21/0249216&from=rss) - [A Controversial US Surveillance Program is up tor Renewal. Critics are Speaking Out.](https://soylentnews.org/article.pl?sid=23/11/21/0249216&from=rss)
 * [2023-11-21, 23:32:00](https://soylentnews.org/article.pl?sid=23/11/21/0150238&from=rss) - [High-Power Fiber Lasers Emerge as a Pioneering Technology](https://soylentnews.org/article.pl?sid=23/11/21/0150238&from=rss)
-* [2023-11-21, 18:29:00](https://soylentnews.org/article.pl?sid=23/11/21/0126213&from=rss) - [Aardman Studios Is About to Run Out of Lewis Newplast Clay](https://soylentnews.org/article.pl?sid=23/11/21/0126213&from=rss)
 
 ## [Archives](archives/index.md)
 
