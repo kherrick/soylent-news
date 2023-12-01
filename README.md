@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-01, 21:12:00](https://soylentnews.org/article.pl?sid=23/12/01/0318259&from=rss) - [Every Bitcoin Payment 'Uses a Swimming Pool of Water'](https://soylentnews.org/article.pl?sid=23/12/01/0318259&from=rss)
 * [2023-12-01, 16:27:00](https://soylentnews.org/article.pl?sid=23/11/30/088238&from=rss) - [Parental Pressures Are Taking the Fun Out of Children's Play](https://soylentnews.org/article.pl?sid=23/11/30/088238&from=rss)
 * [2023-12-01, 11:42:00](https://soylentnews.org/article.pl?sid=23/11/30/0453224&from=rss) - [Tim O'Reilly on Algorithmic Tuning for Exploitation](https://soylentnews.org/article.pl?sid=23/11/30/0453224&from=rss)
 * [2023-12-01, 06:54:00](https://soylentnews.org/article.pl?sid=23/11/30/0439223&from=rss) - [GNOME Gets a Million Euros from Germany](https://soylentnews.org/article.pl?sid=23/11/30/0439223&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-22, 17:38:00](https://soylentnews.org/article.pl?sid=23/11/22/0232227&from=rss) - [Selling Cars on Amazon? Hyundai Faces Prime Opportunity.](https://soylentnews.org/article.pl?sid=23/11/22/0232227&from=rss)
 * [2023-11-22, 12:43:00](https://soylentnews.org/article.pl?sid=23/11/21/0320229&from=rss) - [Royal Navy Flies Mega Mojave Drone from Aircraft Carrier](https://soylentnews.org/article.pl?sid=23/11/21/0320229&from=rss)
 * [2023-11-22, 07:57:00](https://soylentnews.org/article.pl?sid=23/11/21/0258233&from=rss) - [Fat Burning During Exercise Varies Widely Between Individuals](https://soylentnews.org/article.pl?sid=23/11/21/0258233&from=rss)
-* [2023-11-22, 03:13:00](https://soylentnews.org/article.pl?sid=23/11/21/0249216&from=rss) - [A Controversial US Surveillance Program is up tor Renewal. Critics are Speaking Out.](https://soylentnews.org/article.pl?sid=23/11/21/0249216&from=rss)
 
 ## [Archives](archives/index.md)
 
