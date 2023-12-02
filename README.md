@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-02, 16:20:00](https://soylentnews.org/article.pl?sid=23/12/02/032228&from=rss) - [The PC Market Is Finally Growing Again, With 2024 Projected To See An 8% Uptick In Shipments](https://soylentnews.org/article.pl?sid=23/12/02/032228&from=rss)
 * [2023-12-02, 11:32:00](https://soylentnews.org/article.pl?sid=23/12/01/0353228&from=rss) - [Glitching Hubble Puts Science Missions On Hold](https://soylentnews.org/article.pl?sid=23/12/01/0353228&from=rss)
 * [2023-12-02, 06:47:00](https://soylentnews.org/article.pl?sid=23/12/01/0348246&from=rss) - [Hackers Spent 2+ Years Looting Secrets of Chipmaker NXP Before Being Detected](https://soylentnews.org/article.pl?sid=23/12/01/0348246&from=rss)
 * [2023-12-02, 02:01:00](https://soylentnews.org/article.pl?sid=23/12/01/0322203&from=rss) - [Inactive Google Accounts to be Deleted From Friday](https://soylentnews.org/article.pl?sid=23/12/01/0322203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-23, 12:45:00](https://soylentnews.org/article.pl?sid=23/11/22/0340229&from=rss) - [Why Emotions Stirred by Music Create Such Powerful Memories](https://soylentnews.org/article.pl?sid=23/11/22/0340229&from=rss)
 * [2023-11-23, 08:00:00](https://soylentnews.org/article.pl?sid=23/11/22/0334206&from=rss) - [North Korea Readies Third Attempt at Spy Satellite Launch](https://soylentnews.org/article.pl?sid=23/11/22/0334206&from=rss)
 * [2023-11-23, 03:05:00](https://soylentnews.org/article.pl?sid=23/11/22/0326213&from=rss) - [Mathematicians Use Machine Learning to Build a Periodic Table of Shapes](https://soylentnews.org/article.pl?sid=23/11/22/0326213&from=rss)
-* [2023-11-22, 22:17:00](https://soylentnews.org/article.pl?sid=23/11/22/0250252&from=rss) - [Commercial Aircraft Navigation Systems Compromised by Spoofing Attacks](https://soylentnews.org/article.pl?sid=23/11/22/0250252&from=rss)
 
 ## [Archives](archives/index.md)
 
