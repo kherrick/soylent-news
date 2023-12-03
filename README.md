@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-03, 11:19:00](https://soylentnews.org/article.pl?sid=23/12/02/0329249&from=rss) - [Natural Superhero Fungi Boosts Crop Yields by 40%](https://soylentnews.org/article.pl?sid=23/12/02/0329249&from=rss)
 * [2023-12-03, 06:34:00](https://soylentnews.org/article.pl?sid=23/12/02/0326201&from=rss) - [Cross-Contamination Between Tech Giants](https://soylentnews.org/article.pl?sid=23/12/02/0326201&from=rss)
 * [2023-12-03, 01:52:00](https://soylentnews.org/article.pl?sid=23/12/02/0323251&from=rss) - [Nvidia CEO Says the US Will Take 20 Years to Achieve Chipmaking Independence from China and Taiwan](https://soylentnews.org/article.pl?sid=23/12/02/0323251&from=rss)
 * [2023-12-02, 21:05:00](https://soylentnews.org/article.pl?sid=23/12/02/0321207&from=rss) - [Sam Altman Officially Back as OpenAI CEO: “We Didn't Lose a Single Employee”](https://soylentnews.org/article.pl?sid=23/12/02/0321207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-24, 07:45:00](https://soylentnews.org/article.pl?sid=23/11/22/0937216&from=rss) - [Zimbra 0-Day Used to Target International Government Organizations](https://soylentnews.org/article.pl?sid=23/11/22/0937216&from=rss)
 * [2023-11-24, 02:57:00](https://soylentnews.org/article.pl?sid=23/11/22/0935231&from=rss) - [The Mother Of All ‘Shock Diamonds’ Behind Starship](https://soylentnews.org/article.pl?sid=23/11/22/0935231&from=rss)
 * [2023-11-23, 22:16:00](https://soylentnews.org/article.pl?sid=23/11/22/0410256&from=rss) - [Workers are Less Productive and Make More Typos in the Afternoon – Especially on Fridays](https://soylentnews.org/article.pl?sid=23/11/22/0410256&from=rss)
-* [2023-11-23, 17:30:00](https://soylentnews.org/article.pl?sid=23/11/22/0344203&from=rss) - [Blasts to Clear World War II Munitions Could Contaminate the Ocean](https://soylentnews.org/article.pl?sid=23/11/22/0344203&from=rss)
 
 ## [Archives](archives/index.md)
 
