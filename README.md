@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-03, 20:54:00](https://soylentnews.org/article.pl?sid=23/12/02/1436205&from=rss) - [New Dolphin Super Power Discovered](https://soylentnews.org/article.pl?sid=23/12/02/1436205&from=rss)
 * [2023-12-03, 16:08:00](https://soylentnews.org/article.pl?sid=23/12/02/1429233&from=rss) - [South Up, Aotearoa Centred, Equal-Earth Projection Map](https://soylentnews.org/article.pl?sid=23/12/02/1429233&from=rss)
 * [2023-12-03, 11:19:00](https://soylentnews.org/article.pl?sid=23/12/02/0329249&from=rss) - [Natural Superhero Fungi Boosts Crop Yields by 40%](https://soylentnews.org/article.pl?sid=23/12/02/0329249&from=rss)
 * [2023-12-03, 06:34:00](https://soylentnews.org/article.pl?sid=23/12/02/0326201&from=rss) - [Cross-Contamination Between Tech Giants](https://soylentnews.org/article.pl?sid=23/12/02/0326201&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-24, 17:12:00](https://soylentnews.org/article.pl?sid=23/11/22/0943201&from=rss) - [Study Reveals New Clues About How Whales and Dolphins Came to Use Echolocation](https://soylentnews.org/article.pl?sid=23/11/22/0943201&from=rss)
 * [2023-11-24, 12:29:00](https://soylentnews.org/article.pl?sid=23/11/22/0940226&from=rss) - [China's Oldest Water Pipes Were a Communal Effort](https://soylentnews.org/article.pl?sid=23/11/22/0940226&from=rss)
 * [2023-11-24, 07:45:00](https://soylentnews.org/article.pl?sid=23/11/22/0937216&from=rss) - [Zimbra 0-Day Used to Target International Government Organizations](https://soylentnews.org/article.pl?sid=23/11/22/0937216&from=rss)
-* [2023-11-24, 02:57:00](https://soylentnews.org/article.pl?sid=23/11/22/0935231&from=rss) - [The Mother Of All ‘Shock Diamonds’ Behind Starship](https://soylentnews.org/article.pl?sid=23/11/22/0935231&from=rss)
 
 ## [Archives](archives/index.md)
 
