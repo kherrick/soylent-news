@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-04, 08:03:00](https://soylentnews.org/article.pl?sid=23/12/03/0027202&from=rss) - [Research Suggests Sentinel Warning Calls may be Universally Understood Across Continents](https://soylentnews.org/article.pl?sid=23/12/03/0027202&from=rss)
 * [2023-12-04, 03:16:00](https://soylentnews.org/article.pl?sid=23/12/03/0021210&from=rss) - [Chrome's Next Weapon in the War on Ad Blockers: Slower Extension Updates](https://soylentnews.org/article.pl?sid=23/12/03/0021210&from=rss)
 * [2023-12-03, 20:54:00](https://soylentnews.org/article.pl?sid=23/12/02/1436205&from=rss) - [New Dolphin Super Power Discovered](https://soylentnews.org/article.pl?sid=23/12/02/1436205&from=rss)
 * [2023-12-03, 16:08:00](https://soylentnews.org/article.pl?sid=23/12/02/1429233&from=rss) - [South Up, Aotearoa Centred, Equal-Earth Projection Map](https://soylentnews.org/article.pl?sid=23/12/02/1429233&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-25, 02:40:00](https://soylentnews.org/article.pl?sid=23/11/22/1941255&from=rss) - [Polarized World Threatens Open Internet: ICANN](https://soylentnews.org/article.pl?sid=23/11/22/1941255&from=rss)
 * [2023-11-24, 21:54:00](https://soylentnews.org/article.pl?sid=23/11/22/0945259&from=rss) - [Making Sense Of Nvidia's Supernic](https://soylentnews.org/article.pl?sid=23/11/22/0945259&from=rss)
 * [2023-11-24, 17:12:00](https://soylentnews.org/article.pl?sid=23/11/22/0943201&from=rss) - [Study Reveals New Clues About How Whales and Dolphins Came to Use Echolocation](https://soylentnews.org/article.pl?sid=23/11/22/0943201&from=rss)
-* [2023-11-24, 12:29:00](https://soylentnews.org/article.pl?sid=23/11/22/0940226&from=rss) - [China's Oldest Water Pipes Were a Communal Effort](https://soylentnews.org/article.pl?sid=23/11/22/0940226&from=rss)
 
 ## [Archives](archives/index.md)
 
