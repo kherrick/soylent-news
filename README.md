@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-05, 03:02:00](https://soylentnews.org/article.pl?sid=23/12/04/0053246&from=rss) - [Campaigners Prep Legal Challenge Over NHS Deal With Palantir](https://soylentnews.org/article.pl?sid=23/12/04/0053246&from=rss)
 * [2023-12-04, 22:14:00](https://soylentnews.org/article.pl?sid=23/12/03/0419209&from=rss) - [A High School’s Deepfake Porn Scandal is Pushing US Lawmakers Into Action](https://soylentnews.org/article.pl?sid=23/12/03/0419209&from=rss)
 * [2023-12-04, 17:34:00](https://soylentnews.org/article.pl?sid=23/12/03/0331254&from=rss) - [New Research Reveals High Levels Of Consumer Debt Among Majority Of UK Households](https://soylentnews.org/article.pl?sid=23/12/03/0331254&from=rss)
 * [2023-12-04, 12:44:00](https://soylentnews.org/article.pl?sid=23/12/03/0035216&from=rss) - [ Inside the Intel 386 Processor Die: the Clock Circuit ](https://soylentnews.org/article.pl?sid=23/12/03/0035216&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-25, 21:36:00](https://soylentnews.org/article.pl?sid=23/11/22/1957240&from=rss) - [BEVs are like Concorde](https://soylentnews.org/article.pl?sid=23/11/22/1957240&from=rss)
 * [2023-11-25, 16:51:00](https://soylentnews.org/article.pl?sid=23/11/22/1951255&from=rss) - [AMD's Fastest Gaming GPU Now Works With Risc-V CPUs, AMD Radeon Rx 7900 Xtx Open Source Linux Driver](https://soylentnews.org/article.pl?sid=23/11/22/1951255&from=rss)
 * [2023-11-25, 12:06:00](https://soylentnews.org/article.pl?sid=23/11/22/1949219&from=rss) - [Charity Scams Get Active Over The Holidays](https://soylentnews.org/article.pl?sid=23/11/22/1949219&from=rss)
-* [2023-11-25, 07:24:00](https://soylentnews.org/article.pl?sid=23/11/22/1945238&from=rss) - [Archaeologists Uncover Europe's Hidden Bronze Age Megastructures](https://soylentnews.org/article.pl?sid=23/11/22/1945238&from=rss)
 
 ## [Archives](archives/index.md)
 
