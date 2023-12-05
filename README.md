@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-05, 21:22:00](https://soylentnews.org/article.pl?sid=23/12/04/0222203&from=rss) - [Genetic Research Into a 9,000-Year-Old Shaman Burial in Germany](https://soylentnews.org/article.pl?sid=23/12/04/0222203&from=rss)
 * [2023-12-05, 17:00:00](https://soylentnews.org/article.pl?sid=23/12/04/0210226&from=rss) - [Demon Hunting: Physicists Confirm 67-Year-Old Prediction of Massless, Neutral Composite Particle](https://soylentnews.org/article.pl?sid=23/12/04/0210226&from=rss)
 * [2023-12-05, 12:29:00](https://soylentnews.org/article.pl?sid=23/12/04/0118246&from=rss) - [Simple Mobile Tools Has Been Acquired by a Notorious Ads Company](https://soylentnews.org/article.pl?sid=23/12/04/0118246&from=rss)
 * [2023-12-05, 07:46:00](https://soylentnews.org/article.pl?sid=23/12/04/017246&from=rss) - [Diversified Farming Practices Can be Profitable and Boost Biodiversity in Nearly Half of the World](https://soylentnews.org/article.pl?sid=23/12/04/017246&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-26, 16:29:00](https://soylentnews.org/article.pl?sid=23/11/24/126213&from=rss) - [AI Breakthrough That Could Threaten Humanity Might Have Been Key To Sam Altman’s Firing](https://soylentnews.org/article.pl?sid=23/11/24/126213&from=rss)
 * [2023-11-26, 11:47:00](https://soylentnews.org/article.pl?sid=23/11/24/1157253&from=rss) - [NASA Celebrates Plutonium-238 Shipment ](https://soylentnews.org/article.pl?sid=23/11/24/1157253&from=rss)
 * [2023-11-26, 07:10:00](https://soylentnews.org/article.pl?sid=23/11/24/1155239&from=rss) - [Hackers’ Delight: a History of MIT Pranks and Hacks](https://soylentnews.org/article.pl?sid=23/11/24/1155239&from=rss)
-* [2023-11-26, 02:20:00](https://soylentnews.org/article.pl?sid=23/11/24/1148257&from=rss) - [Cheap Drugs May be Within Reach Thanks to Copper Chemistry Discovery](https://soylentnews.org/article.pl?sid=23/11/24/1148257&from=rss)
 
 ## [Archives](archives/index.md)
 
