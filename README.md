@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-06, 06:52:00](https://soylentnews.org/article.pl?sid=23/12/06/0139254&from=rss) - [Vendor Lock-In Is A Good Thing? HP's CFO Thinks So](https://soylentnews.org/article.pl?sid=23/12/06/0139254&from=rss)
 * [2023-12-06, 02:07:00](https://soylentnews.org/article.pl?sid=23/12/04/0618248&from=rss) - [The Flask Mega-Tutorial, 2024 Edition](https://soylentnews.org/article.pl?sid=23/12/04/0618248&from=rss)
 * [2023-12-05, 23:30:00](https://soylentnews.org/meta/article.pl?sid=23/12/05/2251214&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, December 6, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/12/05/2251214&from=rss)
 * [2023-12-05, 21:22:00](https://soylentnews.org/article.pl?sid=23/12/04/0222203&from=rss) - [Genetic Research Into a 9,000-Year-Old Shaman Burial in Germany](https://soylentnews.org/article.pl?sid=23/12/04/0222203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-27, 06:48:00](https://soylentnews.org/article.pl?sid=23/11/26/0139227&from=rss) - [Sand Mining In Vietnam's Mekong Delta Sinks Homes, Livelihoods](https://soylentnews.org/article.pl?sid=23/11/26/0139227&from=rss)
 * [2023-11-27, 02:02:00](https://soylentnews.org/article.pl?sid=23/11/26/0114258&from=rss) - [NASA Will Launch A Mars Mission On Blue Origin’s First New Glenn Rocket](https://soylentnews.org/article.pl?sid=23/11/26/0114258&from=rss)
 * [2023-11-26, 21:13:00](https://soylentnews.org/article.pl?sid=23/11/24/1212206&from=rss) - [Screensharing Mistake Gets Nvidia Sued Over Alleged Stolen Trade Secrets](https://soylentnews.org/article.pl?sid=23/11/24/1212206&from=rss)
-* [2023-11-26, 16:29:00](https://soylentnews.org/article.pl?sid=23/11/24/126213&from=rss) - [AI Breakthrough That Could Threaten Humanity Might Have Been Key To Sam Altman’s Firing](https://soylentnews.org/article.pl?sid=23/11/24/126213&from=rss)
 
 ## [Archives](archives/index.md)
 
