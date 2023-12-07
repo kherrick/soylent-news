@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-07, 05:37:00](https://soylentnews.org/article.pl?sid=23/12/06/0340225&from=rss) - [Why are All the EVs so Expensive?](https://soylentnews.org/article.pl?sid=23/12/06/0340225&from=rss)
 * [2023-12-07, 00:49:00](https://soylentnews.org/article.pl?sid=23/12/06/0331246&from=rss) - [Broadcom's Acquisition of VMware Leads to Massive Layoffs, Return to Work Threats](https://soylentnews.org/article.pl?sid=23/12/06/0331246&from=rss)
 * [2023-12-06, 20:01:00](https://soylentnews.org/article.pl?sid=23/12/06/0322207&from=rss) - [Gmail's AI-Powered Spam Detection is its Biggest Security Upgrade in Years](https://soylentnews.org/article.pl?sid=23/12/06/0322207&from=rss)
 * [2023-12-06, 16:17:00](https://soylentnews.org/article.pl?sid=23/12/06/0318224&from=rss) - [The Internet Enabled Mass Surveillance. A.I. Will Enable Mass Spying](https://soylentnews.org/article.pl?sid=23/12/06/0318224&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-28, 07:33:00](https://soylentnews.org/article.pl?sid=23/11/27/0154243&from=rss) - [Simple Ballpoint Pen Can Write Custom LEDs](https://soylentnews.org/article.pl?sid=23/11/27/0154243&from=rss)
 * [2023-11-28, 02:47:00](https://soylentnews.org/article.pl?sid=23/11/27/0149249&from=rss) - [Line of Drivers Follow Google Maps Deep into Desert](https://soylentnews.org/article.pl?sid=23/11/27/0149249&from=rss)
 * [2023-11-27, 21:04:00](https://soylentnews.org/article.pl?sid=23/11/27/0148210&from=rss) - [Study Reveals How Shipwrecks Are Providing A Refuge For Marine Life](https://soylentnews.org/article.pl?sid=23/11/27/0148210&from=rss)
-* [2023-11-27, 16:20:00](https://soylentnews.org/article.pl?sid=23/11/26/0325244&from=rss) - [Elon Musk And Tesla Ignored Autopilot’s Fatal Flaws, Judge Says Evidence Shows](https://soylentnews.org/article.pl?sid=23/11/26/0325244&from=rss)
 
 ## [Archives](archives/index.md)
 
