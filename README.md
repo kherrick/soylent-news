@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-08, 05:14:00](https://soylentnews.org/article.pl?sid=23/12/07/0626206&from=rss) - [Tesla Whistleblower Casts Doubt on Car Safety](https://soylentnews.org/article.pl?sid=23/12/07/0626206&from=rss)
 * [2023-12-08, 00:29:00](https://soylentnews.org/article.pl?sid=23/12/07/0512225&from=rss) - [23andMe: Profiles of 6.9 Million People Hacked](https://soylentnews.org/article.pl?sid=23/12/07/0512225&from=rss)
 * [2023-12-07, 19:42:00](https://soylentnews.org/article.pl?sid=23/12/06/1634206&from=rss) - [Search vs. Browse is a False Dichotomy](https://soylentnews.org/article.pl?sid=23/12/06/1634206&from=rss)
 * [2023-12-07, 15:05:00](https://soylentnews.org/article.pl?sid=23/12/06/1631242&from=rss) - [Moving Beyond the Trolley Problem - Studying Moral Behavior in Drivers](https://soylentnews.org/article.pl?sid=23/12/06/1631242&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-29, 02:39:00](https://soylentnews.org/article.pl?sid=23/11/27/2350211&from=rss) - [Researchers Figure Out How to Bypass the Fingerprint Readers in Most Windows PCs](https://soylentnews.org/article.pl?sid=23/11/27/2350211&from=rss)
 * [2023-11-29, 01:00:00](https://soylentnews.org/meta/article.pl?sid=23/11/29/0015220&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, November 29, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/11/29/0015220&from=rss)
 * [2023-11-28, 21:51:00](https://soylentnews.org/article.pl?sid=23/11/27/1322247&from=rss) - [Telco CEO Quits After Admitting She Needs Rivals' Sims](https://soylentnews.org/article.pl?sid=23/11/27/1322247&from=rss)
-* [2023-11-28, 17:02:00](https://soylentnews.org/article.pl?sid=23/11/27/0223236&from=rss) - [The History Behind Aspirin 81](https://soylentnews.org/article.pl?sid=23/11/27/0223236&from=rss)
 
 ## [Archives](archives/index.md)
 
