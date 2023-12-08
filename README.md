@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-08, 19:24:00](https://soylentnews.org/article.pl?sid=23/12/07/1645210&from=rss) - [Thinking Back on ‘Turbo Pascal’ as It Turns 40](https://soylentnews.org/article.pl?sid=23/12/07/1645210&from=rss)
 * [2023-12-08, 14:41:00](https://soylentnews.org/article.pl?sid=23/12/07/1412249&from=rss) - [EU Lawmakers Finalize Tough Cyber Security Rules](https://soylentnews.org/article.pl?sid=23/12/07/1412249&from=rss)
 * [2023-12-08, 09:55:00](https://soylentnews.org/article.pl?sid=23/12/07/146246&from=rss) - [Firefox on the Brink?](https://soylentnews.org/article.pl?sid=23/12/07/146246&from=rss)
 * [2023-12-08, 05:14:00](https://soylentnews.org/article.pl?sid=23/12/07/0626206&from=rss) - [Tesla Whistleblower Casts Doubt on Car Safety](https://soylentnews.org/article.pl?sid=23/12/07/0626206&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-29, 16:54:00](https://soylentnews.org/article.pl?sid=23/11/28/1134254&from=rss) - [The Ars Guide to Time Travel in the Movies](https://soylentnews.org/article.pl?sid=23/11/28/1134254&from=rss)
 * [2023-11-29, 12:06:00](https://soylentnews.org/article.pl?sid=23/11/28/1132244&from=rss) - [Nvidia To Become The World's Largest Semiconductor Firm In 2023, According To TSMC Chairman](https://soylentnews.org/article.pl?sid=23/11/28/1132244&from=rss)
 * [2023-11-29, 07:23:00](https://soylentnews.org/article.pl?sid=23/11/28/0215200&from=rss) - [After 151 Years, Popular Science Will No Longer Offer a Magazine](https://soylentnews.org/article.pl?sid=23/11/28/0215200&from=rss)
-* [2023-11-29, 02:39:00](https://soylentnews.org/article.pl?sid=23/11/27/2350211&from=rss) - [Researchers Figure Out How to Bypass the Fingerprint Readers in Most Windows PCs](https://soylentnews.org/article.pl?sid=23/11/27/2350211&from=rss)
 
 ## [Archives](archives/index.md)
 
