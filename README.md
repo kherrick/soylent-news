@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-09, 05:02:00](https://soylentnews.org/article.pl?sid=23/12/07/1649201&from=rss) - [EU Lawmakers Finalize Tough Cyber Security Rules](https://soylentnews.org/article.pl?sid=23/12/07/1649201&from=rss)
 * [2023-12-09, 00:16:00](https://soylentnews.org/article.pl?sid=23/12/07/1647220&from=rss) - [SpaceX Acquires Parachute Supplier](https://soylentnews.org/article.pl?sid=23/12/07/1647220&from=rss)
 * [2023-12-08, 19:24:00](https://soylentnews.org/article.pl?sid=23/12/07/1645210&from=rss) - [Thinking Back on ‘Turbo Pascal’ as It Turns 40](https://soylentnews.org/article.pl?sid=23/12/07/1645210&from=rss)
 * [2023-12-08, 14:41:00](https://soylentnews.org/article.pl?sid=23/12/07/1412249&from=rss) - [EU Lawmakers Finalize Tough Cyber Security Rules](https://soylentnews.org/article.pl?sid=23/12/07/1412249&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-30, 01:26:00](https://soylentnews.org/article.pl?sid=23/11/28/146258&from=rss) - [How the Meat and Dairy Sector Resists Competition From Alternative Animal Products](https://soylentnews.org/article.pl?sid=23/11/28/146258&from=rss)
 * [2023-11-29, 21:38:00](https://soylentnews.org/article.pl?sid=23/11/28/1249216&from=rss) - [Solar Storms Hit More Locally Than Expected: Current Instrument Network Too Sparse, Says Study](https://soylentnews.org/article.pl?sid=23/11/28/1249216&from=rss)
 * [2023-11-29, 16:54:00](https://soylentnews.org/article.pl?sid=23/11/28/1134254&from=rss) - [The Ars Guide to Time Travel in the Movies](https://soylentnews.org/article.pl?sid=23/11/28/1134254&from=rss)
-* [2023-11-29, 12:06:00](https://soylentnews.org/article.pl?sid=23/11/28/1132244&from=rss) - [Nvidia To Become The World's Largest Semiconductor Firm In 2023, According To TSMC Chairman](https://soylentnews.org/article.pl?sid=23/11/28/1132244&from=rss)
 
 ## [Archives](archives/index.md)
 
