@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-09, 19:24:00](https://soylentnews.org/article.pl?sid=23/12/09/0340204&from=rss) - [I Received the New Gene-editing Drug for Sickle Cell Disease. It Changed My Life.](https://soylentnews.org/article.pl?sid=23/12/09/0340204&from=rss)
 * [2023-12-09, 14:39:00](https://soylentnews.org/article.pl?sid=23/12/07/1731257&from=rss) - [‘Do-No-Track’ Privacy Setting Gets Legal Backing in Germany](https://soylentnews.org/article.pl?sid=23/12/07/1731257&from=rss)
 * [2023-12-09, 09:48:00](https://soylentnews.org/article.pl?sid=23/12/07/1729213&from=rss) - [US Regulators Will Now Have Access to Years of Binance Transaction Data](https://soylentnews.org/article.pl?sid=23/12/07/1729213&from=rss)
 * [2023-12-09, 05:02:00](https://soylentnews.org/article.pl?sid=23/12/07/1649201&from=rss) - [EU Lawmakers Finalize Tough Cyber Security Rules](https://soylentnews.org/article.pl?sid=23/12/07/1649201&from=rss)
@@ -49,7 +50,6 @@
 * [2023-11-30, 16:36:00](https://soylentnews.org/article.pl?sid=23/11/30/0337236&from=rss) - [Sitting in Traffic Triggers a Blood Pressure Surge That Lasts 24 Hours](https://soylentnews.org/article.pl?sid=23/11/30/0337236&from=rss)
 * [2023-11-30, 11:54:00](https://soylentnews.org/article.pl?sid=23/11/29/0630202&from=rss) - [Data-Destroying Defect Found In OpenZFS 2.2.0](https://soylentnews.org/article.pl?sid=23/11/29/0630202&from=rss)
 * [2023-11-30, 06:09:00](https://soylentnews.org/article.pl?sid=23/11/28/1516209&from=rss) - [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://soylentnews.org/article.pl?sid=23/11/28/1516209&from=rss)
-* [2023-11-30, 01:26:00](https://soylentnews.org/article.pl?sid=23/11/28/146258&from=rss) - [How the Meat and Dairy Sector Resists Competition From Alternative Animal Products](https://soylentnews.org/article.pl?sid=23/11/28/146258&from=rss)
 
 ## [Archives](archives/index.md)
 
