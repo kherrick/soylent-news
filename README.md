@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-10, 04:50:00](https://soylentnews.org/article.pl?sid=23/12/09/0351211&from=rss) - [Intel, of All Companies, Knocks AMD's CPU Numbering in Now-Deleted Presentation](https://soylentnews.org/article.pl?sid=23/12/09/0351211&from=rss)
 * [2023-12-10, 00:04:00](https://soylentnews.org/article.pl?sid=23/12/09/0347224&from=rss) - [BSOD in Pipeline for All Major Linuxes](https://soylentnews.org/article.pl?sid=23/12/09/0347224&from=rss)
 * [2023-12-09, 19:24:00](https://soylentnews.org/article.pl?sid=23/12/09/0340204&from=rss) - [I Received the New Gene-editing Drug for Sickle Cell Disease. It Changed My Life.](https://soylentnews.org/article.pl?sid=23/12/09/0340204&from=rss)
 * [2023-12-09, 14:39:00](https://soylentnews.org/article.pl?sid=23/12/07/1731257&from=rss) - [‘Do-Not-Track’ Privacy Setting Gets Legal Backing in Germany](https://soylentnews.org/article.pl?sid=23/12/07/1731257&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-01, 02:09:00](https://soylentnews.org/article.pl?sid=23/11/30/0433212&from=rss) - [UK Watchdog Threatens Enforcement Action Over Ad Cookies](https://soylentnews.org/article.pl?sid=23/11/30/0433212&from=rss)
 * [2023-11-30, 21:21:00](https://soylentnews.org/article.pl?sid=23/11/30/0341254&from=rss) - [New “Stable Video Diffusion” AI Model Can Animate Any Still Image](https://soylentnews.org/article.pl?sid=23/11/30/0341254&from=rss)
 * [2023-11-30, 16:36:00](https://soylentnews.org/article.pl?sid=23/11/30/0337236&from=rss) - [Sitting in Traffic Triggers a Blood Pressure Surge That Lasts 24 Hours](https://soylentnews.org/article.pl?sid=23/11/30/0337236&from=rss)
-* [2023-11-30, 11:54:00](https://soylentnews.org/article.pl?sid=23/11/29/0630202&from=rss) - [Data-Destroying Defect Found In OpenZFS 2.2.0](https://soylentnews.org/article.pl?sid=23/11/29/0630202&from=rss)
 
 ## [Archives](archives/index.md)
 
