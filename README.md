@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-10, 19:05:00](https://soylentnews.org/article.pl?sid=23/12/09/1316239&from=rss) - [Tor University Challenge: First Semester Report Card](https://soylentnews.org/article.pl?sid=23/12/09/1316239&from=rss)
 * [2023-12-10, 14:17:00](https://soylentnews.org/article.pl?sid=23/12/09/1314226&from=rss) - [Crossed Wires Led to High Drama as NASA Returned Asteroid Samples to Earth](https://soylentnews.org/article.pl?sid=23/12/09/1314226&from=rss)
 * [2023-12-10, 09:32:00](https://soylentnews.org/article.pl?sid=23/12/09/0413213&from=rss) - [Test Bike Generators in Paris, Rotterdam, and Barcelona](https://soylentnews.org/article.pl?sid=23/12/09/0413213&from=rss)
 * [2023-12-10, 04:50:00](https://soylentnews.org/article.pl?sid=23/12/09/0351211&from=rss) - [Intel, of All Companies, Knocks AMD's CPU Numbering in Now-Deleted Presentation](https://soylentnews.org/article.pl?sid=23/12/09/0351211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-01, 16:27:00](https://soylentnews.org/article.pl?sid=23/11/30/088238&from=rss) - [Parental Pressures Are Taking the Fun Out of Children's Play](https://soylentnews.org/article.pl?sid=23/11/30/088238&from=rss)
 * [2023-12-01, 11:42:00](https://soylentnews.org/article.pl?sid=23/11/30/0453224&from=rss) - [Tim O'Reilly on Algorithmic Tuning for Exploitation](https://soylentnews.org/article.pl?sid=23/11/30/0453224&from=rss)
 * [2023-12-01, 06:54:00](https://soylentnews.org/article.pl?sid=23/11/30/0439223&from=rss) - [GNOME Gets a Million Euros from Germany](https://soylentnews.org/article.pl?sid=23/11/30/0439223&from=rss)
-* [2023-12-01, 02:09:00](https://soylentnews.org/article.pl?sid=23/11/30/0433212&from=rss) - [UK Watchdog Threatens Enforcement Action Over Ad Cookies](https://soylentnews.org/article.pl?sid=23/11/30/0433212&from=rss)
 
 ## [Archives](archives/index.md)
 
