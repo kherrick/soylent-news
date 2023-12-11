@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-11, 09:18:00](https://soylentnews.org/article.pl?sid=23/12/10/039250&from=rss) - [Stealthy Linux Rootkit Found in the Wild After Going Undetected for 2 Years](https://soylentnews.org/article.pl?sid=23/12/10/039250&from=rss)
 * [2023-12-11, 04:29:00](https://soylentnews.org/article.pl?sid=23/12/10/031212&from=rss) - [The Longstanding Mystery of Mars' Moons—and the Mission That Could Solve It](https://soylentnews.org/article.pl?sid=23/12/10/031212&from=rss)
 * [2023-12-10, 23:45:00](https://soylentnews.org/article.pl?sid=23/12/09/1327255&from=rss) - [Fossil-fuel Emissions are Over a Million Times Greater Than Carbon Removal Efforts](https://soylentnews.org/article.pl?sid=23/12/09/1327255&from=rss)
 * [2023-12-10, 19:05:00](https://soylentnews.org/article.pl?sid=23/12/09/1316239&from=rss) - [Tor University Challenge: First Semester Report Card](https://soylentnews.org/article.pl?sid=23/12/09/1316239&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-02, 06:47:00](https://soylentnews.org/article.pl?sid=23/12/01/0348246&from=rss) - [Hackers Spent 2+ Years Looting Secrets of Chipmaker NXP Before Being Detected](https://soylentnews.org/article.pl?sid=23/12/01/0348246&from=rss)
 * [2023-12-02, 02:01:00](https://soylentnews.org/article.pl?sid=23/12/01/0322203&from=rss) - [Inactive Google Accounts to be Deleted From Friday](https://soylentnews.org/article.pl?sid=23/12/01/0322203&from=rss)
 * [2023-12-01, 21:12:00](https://soylentnews.org/article.pl?sid=23/12/01/0318259&from=rss) - [Every Bitcoin Payment 'Uses a Swimming Pool of Water'](https://soylentnews.org/article.pl?sid=23/12/01/0318259&from=rss)
-* [2023-12-01, 16:27:00](https://soylentnews.org/article.pl?sid=23/11/30/088238&from=rss) - [Parental Pressures Are Taking the Fun Out of Children's Play](https://soylentnews.org/article.pl?sid=23/11/30/088238&from=rss)
 
 ## [Archives](archives/index.md)
 
