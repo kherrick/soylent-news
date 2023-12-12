@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-12, 04:23:00](https://soylentnews.org/article.pl?sid=23/12/12/0354232&from=rss) - ['Appetite for Drumsticks': First Prey Found in a Tyrannosaur Stomach](https://soylentnews.org/article.pl?sid=23/12/12/0354232&from=rss)
 * [2023-12-11, 18:52:00](https://soylentnews.org/article.pl?sid=23/12/10/1433235&from=rss) - [Pluralistic: \"If Buying Isn't Owning, Piracy Isn't Stealing\" ](https://soylentnews.org/article.pl?sid=23/12/10/1433235&from=rss)
 * [2023-12-11, 14:05:00](https://soylentnews.org/article.pl?sid=23/12/10/0316228&from=rss) - [Judge Allows Major ‘Right to Repair’ Lawsuit Against John Deere to Move Forward](https://soylentnews.org/article.pl?sid=23/12/10/0316228&from=rss)
 * [2023-12-11, 09:18:00](https://soylentnews.org/article.pl?sid=23/12/10/039250&from=rss) - [Stealthy Linux Rootkit Found in the Wild After Going Undetected for 2 Years](https://soylentnews.org/article.pl?sid=23/12/10/039250&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-02, 21:05:00](https://soylentnews.org/article.pl?sid=23/12/02/0321207&from=rss) - [Sam Altman Officially Back as OpenAI CEO: “We Didn't Lose a Single Employee”](https://soylentnews.org/article.pl?sid=23/12/02/0321207&from=rss)
 * [2023-12-02, 16:20:00](https://soylentnews.org/article.pl?sid=23/12/02/032228&from=rss) - [The PC Market Is Finally Growing Again, With 2024 Projected To See An 8% Uptick In Shipments](https://soylentnews.org/article.pl?sid=23/12/02/032228&from=rss)
 * [2023-12-02, 11:32:00](https://soylentnews.org/article.pl?sid=23/12/01/0353228&from=rss) - [Glitching Hubble Puts Science Missions On Hold](https://soylentnews.org/article.pl?sid=23/12/01/0353228&from=rss)
-* [2023-12-02, 06:47:00](https://soylentnews.org/article.pl?sid=23/12/01/0348246&from=rss) - [Hackers Spent 2+ Years Looting Secrets of Chipmaker NXP Before Being Detected](https://soylentnews.org/article.pl?sid=23/12/01/0348246&from=rss)
 
 ## [Archives](archives/index.md)
 
