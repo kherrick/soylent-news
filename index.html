@@ -145,6 +145,118 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/12/12/056224">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/12/12/056224&amp;from=rss"
+              >Attacks Abuse Microsoft DHCP to Spoof DNS Records and Steal
+              Secrets</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-12 @ 13:50:00</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/12/12/056224"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
+              <p>
+                <a
+                  href="https://www.theregister.com/AMP/2023/12/07/attacks_abuse_microsoft_dhcp/"
+                  >Akamai says it reported the flaws to Microsoft. Redmond
+                  shrugged</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    A series of attacks against Microsoft Active Directory
+                    domains could allow miscreants to spoof DNS records,
+                    compromise Active Directory and steal all the secrets it
+                    stores, according to Akamai security researchers.
+                  </p>
+                  <p>
+                    We're told the attacks - which are usable against servers
+                    running the default configuration of Microsoft Dynamic Host
+                    Configuration Protocol (DHCP) servers - don't require any
+                    credentials.
+                  </p>
+                  <p>
+                    Akamai says it reported the issues to Redmond, which isn't
+                    planning to fix the issue. Microsoft did not respond to
+                    <em>The Register</em>'s inquiries.
+                  </p>
+                  <p>
+                    [...] DHCP is a commonly used network management protocol,
+                    and Microsoft's DHCP server is widely used in corporate
+                    networks. Organizations can create DNS record using a DHCP
+                    feature called DHCP DNS Dynamic Updates.
+                  </p>
+                  <p>
+                    "Whenever a client is given an IP address by the DHCP
+                    server, the latter can contact the DNS server and update the
+                    client's DNS record," Akamai's Ori David explained.
+                  </p>
+                  <p>
+                    When the DHCP server registers or modifies a DNS record on
+                    behalf of its clients, it uses DNS Dynamic Updates — and
+                    therein lies the problem. DHCP DNS Dynamic Updates does not
+                    require any authentication by the DHCP client, and Microsoft
+                    DHCP servers enable DHCP DNS Dynamic Updates by default.
+                  </p>
+                  <p>
+                    "So an attacker can essentially use the DHCP server to
+                    authenticate to the DNS server on behalf of themself," David
+                    said. "This grants the attacker access to the ADIDNS zone
+                    without any credentials."
+                  </p>
+                  <p>
+                    [...] In addition to creating non-existent DNS records,
+                    unauthenticated attackers can also use the DHCP server to
+                    overwrite existing data, including DNS records inside the
+                    ADI zone in instances where the DHCP server is installed on
+                    a domain controller, which David says is the case in 57
+                    percent of the networks Akamai monitors.
+                  </p>
+                  <p>
+                    "All these domains are vulnerable by default," he wrote.
+                    "Although this risk was
+                    <a
+                      href="https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/configure-dns-dynamic-updates-windows-server-2003"
+                      >acknowledged by Microsoft</a
+                    >
+                    in their documentation, we believe that the awareness of
+                    this misconfiguration is not in accordance with its
+                    potential impact."
+                  </p>
+                  <p>
+                    [...] "Use the same DNS credential across all your DHCP
+                    servers instead," is the advice.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61618"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/12/12/0410203">
           <h3>
             <a
@@ -157,7 +269,7 @@
             <h4>
               <span>2023-12-12 @ 09:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/12/0410203"
@@ -280,7 +392,7 @@
             <h4>
               <span>2023-12-12 @ 04:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">345</span></span
+                >Points: <span class="points">352</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/12/0354232"
@@ -373,7 +485,7 @@
             <h4>
               <span>2023-12-11 @ 18:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">1348</span></span
+                >Points: <span class="points">1365</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/10/1433235"
@@ -454,7 +566,7 @@
             <h4>
               <span>2023-12-11 @ 14:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">955</span></span
+                >Points: <span class="points">966</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/10/0316228"
@@ -549,7 +661,7 @@
             <h4>
               <span>2023-12-11 @ 09:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">1160</span></span
+                >Points: <span class="points">1169</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/10/039250"
@@ -638,7 +750,7 @@
             <h4>
               <span>2023-12-11 @ 04:29:00</span
               ><span class="points-container"
-                >Points: <span class="points">945</span></span
+                >Points: <span class="points">951</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/10/031212"
@@ -705,12 +817,12 @@
             <h4>
               <span>2023-12-10 @ 23:45:00</span
               ><span class="points-container"
-                >Points: <span class="points">1499</span></span
+                >Points: <span class="points">1511</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/09/1327255"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
             <div class="text">
@@ -766,7 +878,7 @@
             <h4>
               <span>2023-12-10 @ 19:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">1145</span></span
+                >Points: <span class="points">1151</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/09/1316239"
@@ -881,7 +993,7 @@
             <h4>
               <span>2023-12-10 @ 14:17:00</span
               ><span class="points-container"
-                >Points: <span class="points">1416</span></span
+                >Points: <span class="points">1422</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/09/1314226"
@@ -941,7 +1053,7 @@
             <h4>
               <span>2023-12-10 @ 09:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">1550</span></span
+                >Points: <span class="points">1557</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/09/0413213"
@@ -1029,7 +1141,7 @@
             <h4>
               <span>2023-12-10 @ 04:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">1407</span></span
+                >Points: <span class="points">1413</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/09/0351211"
@@ -1138,7 +1250,7 @@
             <h4>
               <span>2023-12-10 @ 00:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">2304</span></span
+                >Points: <span class="points">2310</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/09/0347224"
@@ -1204,7 +1316,7 @@
             <h4>
               <span>2023-12-09 @ 19:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">1752</span></span
+                >Points: <span class="points">1758</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/09/0340204"
@@ -1270,7 +1382,7 @@
             <h4>
               <span>2023-12-09 @ 14:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">1727</span></span
+                >Points: <span class="points">1733</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/07/1731257"
@@ -1373,7 +1485,7 @@
             <h4>
               <span>2023-12-09 @ 09:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">1817</span></span
+                >Points: <span class="points">1823</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/07/1729213"
@@ -1495,7 +1607,7 @@
             <h4>
               <span>2023-12-09 @ 05:02:00</span
               ><span class="points-container"
-                >Points: <span class="points">1844</span></span
+                >Points: <span class="points">1850</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/07/1649201"
@@ -1625,7 +1737,7 @@
             <h4>
               <span>2023-12-09 @ 00:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">2009</span></span
+                >Points: <span class="points">2015</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/07/1647220"
@@ -1721,7 +1833,7 @@
             <h4>
               <span>2023-12-08 @ 19:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">2604</span></span
+                >Points: <span class="points">2610</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/07/1645210"
@@ -1803,7 +1915,7 @@
             <h4>
               <span>2023-12-08 @ 14:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">2176</span></span
+                >Points: <span class="points">2182</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/07/1412249"
@@ -1909,7 +2021,7 @@
             <h4>
               <span>2023-12-08 @ 09:55:00</span
               ><span class="points-container"
-                >Points: <span class="points">3559</span></span
+                >Points: <span class="points">3561</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/07/146246"
@@ -2706,7 +2818,7 @@
             <h4>
               <span>2023-12-07 @ 00:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">2487</span></span
+                >Points: <span class="points">2488</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/06/0331246"
@@ -4816,105 +4928,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61546"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/12/02/032228">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/12/02/032228&amp;from=rss"
-              >The PC Market Is Finally Growing Again, With 2024 Projected To
-              See An 8% Uptick In Shipments</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-02 @ 16:20:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2283</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/12/02/032228"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Arthur T Knackerbracket has processed the
-                <a
-                  href="https://www.tomshardware.com/desktops/pc-building/the-pc-market-is-finally-growing-again-with-2024-projected-to-see-an-8-uptick-in-shipments"
-                  >following story</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    A report from Canalys forecasts that the nearly
-                    two-year-long decline in PC shipments will finally end in Q4
-                    of this year, flipping to a projected 5% growth. More growth
-                    is also projected to arrive next year, which will supposedly
-                    see 8% higher PC shipments than in 2023. Canalys expects the
-                    surging interest in AI and the arrival of ARM-equipped PCs
-                    to fuel this growth.
-                  </p>
-                  <p>
-                    [...] A key assumption of this forecast is that new AI
-                    software and hardware will re-spark consumer interest in
-                    PCs. Canalys predicts that AI-powered PCs will account for
-                    19% of all PCs shipped in 2024, a figure that includes
-                    <a
-                      href="https://www.tomshardware.com/news/apple-debuts-macbook-pros-with-3nm-m3-pro-and-m3-max-new-24-inch-imac"
-                      >M-series Macs</a
-                    >
-                    and presumably PCs equipped with Ryzen 7000 or some of
-                    Intel's latest CPUs like
-                    <a
-                      href="https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14"
-                      >Meteor Lake</a
-                    >.
-                  </p>
-                  <p>
-                    PCs with ARM chips are also expected to play an important
-                    role in the recovery of the PC market. Although Apple's M
-                    CPUs use the ARM architecture, Canalys pointed out
-                    Qualcomm's
-                    <a
-                      href="https://www.tomshardware.com/news/qualcomm-snapdragon-elite-x-oryon-pc-cpu-specs"
-                      >Snapdragon X Elite CPU</a
-                    >
-                    as the primary driver of growth for ARM-based PCs. The firm
-                    previously predicted ARM chips would grab
-                    <a
-                      href="https://www.tomshardware.com/news/arm-socs-to-grab-30-percent-of-pc-market-by-2026-analyst"
-                      >30% share of the PC market</a
-                    >
-                    by 2026.
-                  </p>
-                  <p>
-                    Of course, the health of the global economy is perhaps the
-                    biggest factor in whether consumers buy PCs. The decline of
-                    shipments in 2022 and 2023 was precipitated largely on
-                    potential buyers being more frugal with their money. The
-                    report only touches on this and merely mentions there is "an
-                    improving macroeconomic environment." Assuming this recovery
-                    of the economy persists into 2024, then it could carry the
-                    PC market along.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61557"
                     >Original Submission</a
                   ></small
                 >
