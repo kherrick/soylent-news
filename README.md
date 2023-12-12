@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-12, 23:17:00](https://soylentnews.org/article.pl?sid=23/12/12/0531226&from=rss) - [Verizon Fell for Fake “Search Warrant,” Gave Victim's Phone Data to Stalker](https://soylentnews.org/article.pl?sid=23/12/12/0531226&from=rss)
 * [2023-12-12, 18:35:00](https://soylentnews.org/article.pl?sid=23/12/12/0523252&from=rss) - [A Superconducting Junction Made From a Single 2D Material Promises to Harness Strange New Physics](https://soylentnews.org/article.pl?sid=23/12/12/0523252&from=rss)
 * [2023-12-12, 13:50:00](https://soylentnews.org/article.pl?sid=23/12/12/056224&from=rss) - [Attacks Abuse Microsoft DHCP to Spoof DNS Records and Steal Secrets](https://soylentnews.org/article.pl?sid=23/12/12/056224&from=rss)
 * [2023-12-12, 09:06:00](https://soylentnews.org/article.pl?sid=23/12/12/0410203&from=rss) - [NASA's Aging Hubble Space Telescope to Come Back Online](https://soylentnews.org/article.pl?sid=23/12/12/0410203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-03, 16:08:00](https://soylentnews.org/article.pl?sid=23/12/02/1429233&from=rss) - [South Up, Aotearoa Centred, Equal-Earth Projection Map](https://soylentnews.org/article.pl?sid=23/12/02/1429233&from=rss)
 * [2023-12-03, 11:19:00](https://soylentnews.org/article.pl?sid=23/12/02/0329249&from=rss) - [Natural Superhero Fungi Boosts Crop Yields by 40%](https://soylentnews.org/article.pl?sid=23/12/02/0329249&from=rss)
 * [2023-12-03, 06:34:00](https://soylentnews.org/article.pl?sid=23/12/02/0326201&from=rss) - [Cross-Contamination Between Tech Giants](https://soylentnews.org/article.pl?sid=23/12/02/0326201&from=rss)
-* [2023-12-03, 01:52:00](https://soylentnews.org/article.pl?sid=23/12/02/0323251&from=rss) - [Nvidia CEO Says the US Will Take 20 Years to Achieve Chipmaking Independence from China and Taiwan](https://soylentnews.org/article.pl?sid=23/12/02/0323251&from=rss)
 
 ## [Archives](archives/index.md)
 
