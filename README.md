@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-12, 13:50:00](https://soylentnews.org/article.pl?sid=23/12/12/056224&from=rss) - [Attacks Abuse Microsoft DHCP to Spoof DNS Records and Steal Secrets](https://soylentnews.org/article.pl?sid=23/12/12/056224&from=rss)
 * [2023-12-12, 09:06:00](https://soylentnews.org/article.pl?sid=23/12/12/0410203&from=rss) - [NASA's Aging Hubble Space Telescope to Come Back Online](https://soylentnews.org/article.pl?sid=23/12/12/0410203&from=rss)
 * [2023-12-12, 04:23:00](https://soylentnews.org/article.pl?sid=23/12/12/0354232&from=rss) - ['Appetite for Drumsticks': First Prey Found in a Tyrannosaur Stomach](https://soylentnews.org/article.pl?sid=23/12/12/0354232&from=rss)
 * [2023-12-11, 18:52:00](https://soylentnews.org/article.pl?sid=23/12/10/1433235&from=rss) - [Pluralistic: \"If Buying Isn't Owning, Piracy Isn't Stealing\" ](https://soylentnews.org/article.pl?sid=23/12/10/1433235&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-03, 06:34:00](https://soylentnews.org/article.pl?sid=23/12/02/0326201&from=rss) - [Cross-Contamination Between Tech Giants](https://soylentnews.org/article.pl?sid=23/12/02/0326201&from=rss)
 * [2023-12-03, 01:52:00](https://soylentnews.org/article.pl?sid=23/12/02/0323251&from=rss) - [Nvidia CEO Says the US Will Take 20 Years to Achieve Chipmaking Independence from China and Taiwan](https://soylentnews.org/article.pl?sid=23/12/02/0323251&from=rss)
 * [2023-12-02, 21:05:00](https://soylentnews.org/article.pl?sid=23/12/02/0321207&from=rss) - [Sam Altman Officially Back as OpenAI CEO: “We Didn't Lose a Single Employee”](https://soylentnews.org/article.pl?sid=23/12/02/0321207&from=rss)
-* [2023-12-02, 16:20:00](https://soylentnews.org/article.pl?sid=23/12/02/032228&from=rss) - [The PC Market Is Finally Growing Again, With 2024 Projected To See An 8% Uptick In Shipments](https://soylentnews.org/article.pl?sid=23/12/02/032228&from=rss)
 
 ## [Archives](archives/index.md)
 
