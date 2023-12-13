@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-13, 01:00:00](https://soylentnews.org/meta/article.pl?sid=23/12/13/0051255&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, December 13, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/12/13/0051255&from=rss)
 * [2023-12-12, 23:17:00](https://soylentnews.org/article.pl?sid=23/12/12/0531226&from=rss) - [Verizon Fell for Fake “Search Warrant,” Gave Victim's Phone Data to Stalker](https://soylentnews.org/article.pl?sid=23/12/12/0531226&from=rss)
 * [2023-12-12, 18:35:00](https://soylentnews.org/article.pl?sid=23/12/12/0523252&from=rss) - [A Superconducting Junction Made From a Single 2D Material Promises to Harness Strange New Physics](https://soylentnews.org/article.pl?sid=23/12/12/0523252&from=rss)
 * [2023-12-12, 13:50:00](https://soylentnews.org/article.pl?sid=23/12/12/056224&from=rss) - [Attacks Abuse Microsoft DHCP to Spoof DNS Records and Steal Secrets](https://soylentnews.org/article.pl?sid=23/12/12/056224&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-03, 20:54:00](https://soylentnews.org/article.pl?sid=23/12/02/1436205&from=rss) - [New Dolphin Super Power Discovered](https://soylentnews.org/article.pl?sid=23/12/02/1436205&from=rss)
 * [2023-12-03, 16:08:00](https://soylentnews.org/article.pl?sid=23/12/02/1429233&from=rss) - [South Up, Aotearoa Centred, Equal-Earth Projection Map](https://soylentnews.org/article.pl?sid=23/12/02/1429233&from=rss)
 * [2023-12-03, 11:19:00](https://soylentnews.org/article.pl?sid=23/12/02/0329249&from=rss) - [Natural Superhero Fungi Boosts Crop Yields by 40%](https://soylentnews.org/article.pl?sid=23/12/02/0329249&from=rss)
-* [2023-12-03, 06:34:00](https://soylentnews.org/article.pl?sid=23/12/02/0326201&from=rss) - [Cross-Contamination Between Tech Giants](https://soylentnews.org/article.pl?sid=23/12/02/0326201&from=rss)
 
 ## [Archives](archives/index.md)
 
