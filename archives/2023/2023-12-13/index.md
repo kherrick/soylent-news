@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 23:08:00](https://soylentnews.org/article.pl?sid=23/12/12/076249&from=rss) - [DNS Provider Quad9 Wins Case in German Court Appealing Against Sony's DNS Censorship](https://soylentnews.org/article.pl?sid=23/12/12/076249&from=rss)
 * [2023-12-13, 18:21:00](https://soylentnews.org/article.pl?sid=23/12/12/0656223&from=rss) - [The Quiet Plan to Make the Internet Feel Faster](https://soylentnews.org/article.pl?sid=23/12/12/0656223&from=rss)
 * [2023-12-13, 13:33:00](https://soylentnews.org/article.pl?sid=23/12/12/0645207&from=rss) - [Eat Your Vegetables to Protect Your Brain](https://soylentnews.org/article.pl?sid=23/12/12/0645207&from=rss)
 * [2023-12-13, 08:49:00](https://soylentnews.org/article.pl?sid=23/12/12/0550222&from=rss) - [A Financial News Site Uses AI to Copy Competitors — Wholesale](https://soylentnews.org/article.pl?sid=23/12/12/0550222&from=rss)
