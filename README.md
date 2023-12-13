@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-13, 18:21:00](https://soylentnews.org/article.pl?sid=23/12/12/0656223&from=rss) - [The Quiet Plan to Make the Internet Feel Faster](https://soylentnews.org/article.pl?sid=23/12/12/0656223&from=rss)
 * [2023-12-13, 13:33:00](https://soylentnews.org/article.pl?sid=23/12/12/0645207&from=rss) - [Eat Your Vegetables to Protect Your Brain](https://soylentnews.org/article.pl?sid=23/12/12/0645207&from=rss)
 * [2023-12-13, 08:49:00](https://soylentnews.org/article.pl?sid=23/12/12/0550222&from=rss) - [A Financial News Site Uses AI to Copy Competitors — Wholesale](https://soylentnews.org/article.pl?sid=23/12/12/0550222&from=rss)
 * [2023-12-13, 04:05:00](https://soylentnews.org/article.pl?sid=23/12/12/0538242&from=rss) - [The EU Has Reached an Historic Regulatory Agreement Over AI Development](https://soylentnews.org/article.pl?sid=23/12/12/0538242&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-04, 17:34:00](https://soylentnews.org/article.pl?sid=23/12/03/0331254&from=rss) - [New Research Reveals High Levels Of Consumer Debt Among Majority Of UK Households](https://soylentnews.org/article.pl?sid=23/12/03/0331254&from=rss)
 * [2023-12-04, 12:44:00](https://soylentnews.org/article.pl?sid=23/12/03/0035216&from=rss) - [ Inside the Intel 386 Processor Die: the Clock Circuit ](https://soylentnews.org/article.pl?sid=23/12/03/0035216&from=rss)
 * [2023-12-04, 08:03:00](https://soylentnews.org/article.pl?sid=23/12/03/0027202&from=rss) - [Research Suggests Sentinel Warning Calls may be Universally Understood Across Continents](https://soylentnews.org/article.pl?sid=23/12/03/0027202&from=rss)
-* [2023-12-04, 03:16:00](https://soylentnews.org/article.pl?sid=23/12/03/0021210&from=rss) - [Chrome's Next Weapon in the War on Ad Blockers: Slower Extension Updates](https://soylentnews.org/article.pl?sid=23/12/03/0021210&from=rss)
 
 ## [Archives](archives/index.md)
 
