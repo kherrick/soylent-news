@@ -1,7 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2023-12-13, 08:49:00](https://soylentnews.org/article.pl?sid=23/12/12/0550222&from=rss) - [A Financial News Site Uses AI to Copy Competitors — Wholesale](https://soylentnews.org/article.pl?sid=23/12/12/0550222&from=rss)
-* [2023-12-13, 04:05:00](https://soylentnews.org/article.pl?sid=23/12/12/0538242&from=rss) - [The EU Has Reached a Historic Regulatory Agreement Over AI Development](https://soylentnews.org/article.pl?sid=23/12/12/0538242&from=rss)
+* [2023-12-13, 04:05:00](https://soylentnews.org/article.pl?sid=23/12/12/0538242&from=rss) - [The EU Has Reached an Historic Regulatory Agreement Over AI Development](https://soylentnews.org/article.pl?sid=23/12/12/0538242&from=rss)
 * [2023-12-13, 01:00:00](https://soylentnews.org/meta/article.pl?sid=23/12/13/0051255&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, December 13, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/12/13/0051255&from=rss)
 * [2023-12-12, 23:17:00](https://soylentnews.org/article.pl?sid=23/12/12/0531226&from=rss) - [Verizon Fell for Fake “Search Warrant,” Gave Victim's Phone Data to Stalker](https://soylentnews.org/article.pl?sid=23/12/12/0531226&from=rss)
 * [2023-12-12, 18:35:00](https://soylentnews.org/article.pl?sid=23/12/12/0523252&from=rss) - [A Superconducting Junction Made From a Single 2D Material Promises to Harness Strange New Physics](https://soylentnews.org/article.pl?sid=23/12/12/0523252&from=rss)
