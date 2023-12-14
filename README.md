@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-14, 13:27:00](https://soylentnews.org/article.pl?sid=23/12/14/0516213&from=rss) - [Advanced Packaging, Software Bolster Amd's 30X25 Goal ](https://soylentnews.org/article.pl?sid=23/12/14/0516213&from=rss)
 * [2023-12-14, 08:46:00](https://soylentnews.org/article.pl?sid=23/12/13/0327219&from=rss) - [What Happens When You Can't be Yourself at Work](https://soylentnews.org/article.pl?sid=23/12/13/0327219&from=rss)
 * [2023-12-14, 03:52:00](https://soylentnews.org/article.pl?sid=23/12/12/0724228&from=rss) - [ULA Chief Says Vulcan Rocket Will Slip to 2024 After Ground System Issues](https://soylentnews.org/article.pl?sid=23/12/12/0724228&from=rss)
 * [2023-12-13, 23:08:00](https://soylentnews.org/article.pl?sid=23/12/12/076249&from=rss) - [DNS Provider Quad9 Wins Case in German Court Appealing Against Sony's DNS Censorship](https://soylentnews.org/article.pl?sid=23/12/12/076249&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-05, 12:29:00](https://soylentnews.org/article.pl?sid=23/12/04/0118246&from=rss) - [Simple Mobile Tools Has Been Acquired by a Notorious Ads Company](https://soylentnews.org/article.pl?sid=23/12/04/0118246&from=rss)
 * [2023-12-05, 07:46:00](https://soylentnews.org/article.pl?sid=23/12/04/017246&from=rss) - [Diversified Farming Practices Can be Profitable and Boost Biodiversity in Nearly Half of the World](https://soylentnews.org/article.pl?sid=23/12/04/017246&from=rss)
 * [2023-12-05, 03:02:00](https://soylentnews.org/article.pl?sid=23/12/04/0053246&from=rss) - [Campaigners Prep Legal Challenge Over NHS Deal With Palantir](https://soylentnews.org/article.pl?sid=23/12/04/0053246&from=rss)
-* [2023-12-04, 22:14:00](https://soylentnews.org/article.pl?sid=23/12/03/0419209&from=rss) - [A High School’s Deepfake Porn Scandal is Pushing US Lawmakers Into Action](https://soylentnews.org/article.pl?sid=23/12/03/0419209&from=rss)
 
 ## [Archives](archives/index.md)
 
