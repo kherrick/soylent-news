@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-14, 03:52:00](https://soylentnews.org/article.pl?sid=23/12/12/0724228&from=rss) - [ULA Chief Says Vulcan Rocket Will Slip to 2024 After Ground System Issues](https://soylentnews.org/article.pl?sid=23/12/12/0724228&from=rss)
 * [2023-12-13, 23:08:00](https://soylentnews.org/article.pl?sid=23/12/12/076249&from=rss) - [DNS Provider Quad9 Wins Case in German Court Appealing Against Sony's DNS Censorship](https://soylentnews.org/article.pl?sid=23/12/12/076249&from=rss)
 * [2023-12-13, 18:21:00](https://soylentnews.org/article.pl?sid=23/12/12/0656223&from=rss) - [The Quiet Plan to Make the Internet Feel Faster](https://soylentnews.org/article.pl?sid=23/12/12/0656223&from=rss)
 * [2023-12-13, 13:33:00](https://soylentnews.org/article.pl?sid=23/12/12/0645207&from=rss) - [Eat Your Vegetables to Protect Your Brain](https://soylentnews.org/article.pl?sid=23/12/12/0645207&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-05, 03:02:00](https://soylentnews.org/article.pl?sid=23/12/04/0053246&from=rss) - [Campaigners Prep Legal Challenge Over NHS Deal With Palantir](https://soylentnews.org/article.pl?sid=23/12/04/0053246&from=rss)
 * [2023-12-04, 22:14:00](https://soylentnews.org/article.pl?sid=23/12/03/0419209&from=rss) - [A High School’s Deepfake Porn Scandal is Pushing US Lawmakers Into Action](https://soylentnews.org/article.pl?sid=23/12/03/0419209&from=rss)
 * [2023-12-04, 17:34:00](https://soylentnews.org/article.pl?sid=23/12/03/0331254&from=rss) - [New Research Reveals High Levels Of Consumer Debt Among Majority Of UK Households](https://soylentnews.org/article.pl?sid=23/12/03/0331254&from=rss)
-* [2023-12-04, 12:44:00](https://soylentnews.org/article.pl?sid=23/12/03/0035216&from=rss) - [ Inside the Intel 386 Processor Die: the Clock Circuit ](https://soylentnews.org/article.pl?sid=23/12/03/0035216&from=rss)
 
 ## [Archives](archives/index.md)
 
