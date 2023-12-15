@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-15, 13:15:00](https://soylentnews.org/article.pl?sid=23/12/14/0549227&from=rss) - [He Blew the Whistle on Amazon. He’s Still Paying the Price](https://soylentnews.org/article.pl?sid=23/12/14/0549227&from=rss)
 * [2023-12-15, 08:27:00](https://soylentnews.org/article.pl?sid=23/12/14/0537256&from=rss) - [Q&A With Co-Creator of the 6502 Processor [2021]](https://soylentnews.org/article.pl?sid=23/12/14/0537256&from=rss)
 * [2023-12-15, 03:42:00](https://soylentnews.org/article.pl?sid=23/12/14/0536226&from=rss) - [A ‘Living Skin’ is Protecting the Great Wall of China From Erosion](https://soylentnews.org/article.pl?sid=23/12/14/0536226&from=rss)
 * [2023-12-14, 22:56:00](https://soylentnews.org/article.pl?sid=23/12/14/0529256&from=rss) - [Apple Has Seemingly Found a Way to Block Android's New Imessage App](https://soylentnews.org/article.pl?sid=23/12/14/0529256&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-06, 06:52:00](https://soylentnews.org/article.pl?sid=23/12/06/0139254&from=rss) - [Vendor Lock-In Is A Good Thing? HP's CFO Thinks So](https://soylentnews.org/article.pl?sid=23/12/06/0139254&from=rss)
 * [2023-12-06, 02:07:00](https://soylentnews.org/article.pl?sid=23/12/04/0618248&from=rss) - [The Flask Mega-Tutorial, 2024 Edition](https://soylentnews.org/article.pl?sid=23/12/04/0618248&from=rss)
 * [2023-12-05, 23:30:00](https://soylentnews.org/meta/article.pl?sid=23/12/05/2251214&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, December 6, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/12/05/2251214&from=rss)
-* [2023-12-05, 21:22:00](https://soylentnews.org/article.pl?sid=23/12/04/0222203&from=rss) - [Genetic Research Into a 9,000-Year-Old Shaman Burial in Germany](https://soylentnews.org/article.pl?sid=23/12/04/0222203&from=rss)
 
 ## [Archives](archives/index.md)
 
