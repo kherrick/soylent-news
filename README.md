@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-15, 03:42:00](https://soylentnews.org/article.pl?sid=23/12/14/0536226&from=rss) - [A ‘Living Skin’ is Protecting the Great Wall of China From Erosion](https://soylentnews.org/article.pl?sid=23/12/14/0536226&from=rss)
 * [2023-12-14, 22:56:00](https://soylentnews.org/article.pl?sid=23/12/14/0529256&from=rss) - [Apple Has Seemingly Found a Way to Block Android's New Imessage App](https://soylentnews.org/article.pl?sid=23/12/14/0529256&from=rss)
 * [2023-12-14, 18:09:00](https://soylentnews.org/article.pl?sid=23/12/14/0522255&from=rss) - [How a Drought Led to the Rise of Skateboarding in 1970s California](https://soylentnews.org/article.pl?sid=23/12/14/0522255&from=rss)
 * [2023-12-14, 13:27:00](https://soylentnews.org/article.pl?sid=23/12/14/0516213&from=rss) - [Advanced Packaging, Software Bolster Amd's 30X25 Goal ](https://soylentnews.org/article.pl?sid=23/12/14/0516213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-05, 23:30:00](https://soylentnews.org/meta/article.pl?sid=23/12/05/2251214&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, December 6, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/12/05/2251214&from=rss)
 * [2023-12-05, 21:22:00](https://soylentnews.org/article.pl?sid=23/12/04/0222203&from=rss) - [Genetic Research Into a 9,000-Year-Old Shaman Burial in Germany](https://soylentnews.org/article.pl?sid=23/12/04/0222203&from=rss)
 * [2023-12-05, 17:00:00](https://soylentnews.org/article.pl?sid=23/12/04/0210226&from=rss) - [Demon Hunting: Physicists Confirm 67-Year-Old Prediction of Massless, Neutral Composite Particle](https://soylentnews.org/article.pl?sid=23/12/04/0210226&from=rss)
-* [2023-12-05, 12:29:00](https://soylentnews.org/article.pl?sid=23/12/04/0118246&from=rss) - [Simple Mobile Tools Has Been Acquired by a Notorious Ads Company](https://soylentnews.org/article.pl?sid=23/12/04/0118246&from=rss)
 
 ## [Archives](archives/index.md)
 

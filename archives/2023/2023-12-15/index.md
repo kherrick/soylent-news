@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-15](index.md)
+
+* [2023-12-15, 03:42:00](https://soylentnews.org/article.pl?sid=23/12/14/0536226&from=rss) - [A ‘Living Skin’ is Protecting the Great Wall of China From Erosion](https://soylentnews.org/article.pl?sid=23/12/14/0536226&from=rss)
