@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-16, 08:14:00](https://soylentnews.org/article.pl?sid=23/12/15/0416219&from=rss) - [Google's Turning Off Third-Party Cookies Entirely in the Second Half of 2024](https://soylentnews.org/article.pl?sid=23/12/15/0416219&from=rss)
 * [2023-12-16, 03:31:00](https://soylentnews.org/article.pl?sid=23/12/15/0416206&from=rss) - [Engineers Work to Fix Voyager 1 Computer ](https://soylentnews.org/article.pl?sid=23/12/15/0416206&from=rss)
 * [2023-12-15, 22:46:00](https://soylentnews.org/article.pl?sid=23/12/15/0349208&from=rss) - [YouTube Throttling Traffic to aarch64' on Arm](https://soylentnews.org/article.pl?sid=23/12/15/0349208&from=rss)
 * [2023-12-15, 18:02:00](https://soylentnews.org/article.pl?sid=23/12/14/0554218&from=rss) - [After Losing Everywhere Else, Elon Musk Asks Scotus to Get SEC Off His Back](https://soylentnews.org/article.pl?sid=23/12/14/0554218&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-07, 00:49:00](https://soylentnews.org/article.pl?sid=23/12/06/0331246&from=rss) - [Broadcom's Acquisition of VMware Leads to Massive Layoffs, Return to Work Threats](https://soylentnews.org/article.pl?sid=23/12/06/0331246&from=rss)
 * [2023-12-06, 20:01:00](https://soylentnews.org/article.pl?sid=23/12/06/0322207&from=rss) - [Gmail's AI-Powered Spam Detection is its Biggest Security Upgrade in Years](https://soylentnews.org/article.pl?sid=23/12/06/0322207&from=rss)
 * [2023-12-06, 16:17:00](https://soylentnews.org/article.pl?sid=23/12/06/0318224&from=rss) - [The Internet Enabled Mass Surveillance. A.I. Will Enable Mass Spying](https://soylentnews.org/article.pl?sid=23/12/06/0318224&from=rss)
-* [2023-12-06, 11:33:00](https://soylentnews.org/article.pl?sid=23/12/06/0214244&from=rss) - [Judge: Amazon “Cannot Claim Shock” That Bathroom Spycams Were Used as Advertised](https://soylentnews.org/article.pl?sid=23/12/06/0214244&from=rss)
 
 ## [Archives](archives/index.md)
 
