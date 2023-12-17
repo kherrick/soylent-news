@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-17, 09:31:00](https://soylentnews.org/article.pl?sid=23/12/16/0333224&from=rss) - [New Ideas Are Out There—We Just Need to Look for Them](https://soylentnews.org/article.pl?sid=23/12/16/0333224&from=rss)
 * [2023-12-17, 04:48:00](https://soylentnews.org/article.pl?sid=23/12/16/0329203&from=rss) - [Dropbox Spooks Users With New AI Features That Send Data to OpenAI When Used](https://soylentnews.org/article.pl?sid=23/12/16/0329203&from=rss)
 * [2023-12-17, 00:03:00](https://soylentnews.org/article.pl?sid=23/12/15/222201&from=rss) - [Celebrated Cryptography Algorithm Gets an Upgrade](https://soylentnews.org/article.pl?sid=23/12/15/222201&from=rss)
 * [2023-12-16, 19:30:00](https://soylentnews.org/article.pl?sid=23/12/15/0451243&from=rss) - [Netflix Finally Reveals Viewing Data Across its Entire Catalog](https://soylentnews.org/article.pl?sid=23/12/15/0451243&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-08, 00:29:00](https://soylentnews.org/article.pl?sid=23/12/07/0512225&from=rss) - [23andMe: Profiles of 6.9 Million People Hacked](https://soylentnews.org/article.pl?sid=23/12/07/0512225&from=rss)
 * [2023-12-07, 19:42:00](https://soylentnews.org/article.pl?sid=23/12/06/1634206&from=rss) - [Search vs. Browse is a False Dichotomy](https://soylentnews.org/article.pl?sid=23/12/06/1634206&from=rss)
 * [2023-12-07, 15:05:00](https://soylentnews.org/article.pl?sid=23/12/06/1631242&from=rss) - [Moving Beyond the Trolley Problem - Studying Moral Behavior in Drivers](https://soylentnews.org/article.pl?sid=23/12/06/1631242&from=rss)
-* [2023-12-07, 10:17:00](https://soylentnews.org/article.pl?sid=23/12/06/0152248&from=rss) - [IBM Releases First-Ever 1,000-qubit Quantum Chip](https://soylentnews.org/article.pl?sid=23/12/06/0152248&from=rss)
 
 ## [Archives](archives/index.md)
 
