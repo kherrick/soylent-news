@@ -6,7 +6,7 @@
 * [2023-12-16, 12:46:00](https://soylentnews.org/article.pl?sid=23/12/15/0445256&from=rss) - [Study Shows it Might Never be Too Late to Live Longer by Dieting ](https://soylentnews.org/article.pl?sid=23/12/15/0445256&from=rss)
 * [2023-12-16, 08:14:00](https://soylentnews.org/article.pl?sid=23/12/15/0416219&from=rss) - [Google's Turning Off Third-Party Cookies Entirely in the Second Half of 2024](https://soylentnews.org/article.pl?sid=23/12/15/0416219&from=rss)
 * [2023-12-16, 03:31:00](https://soylentnews.org/article.pl?sid=23/12/15/0416206&from=rss) - [Engineers Work to Fix Voyager 1 Computer ](https://soylentnews.org/article.pl?sid=23/12/15/0416206&from=rss)
-* [2023-12-15, 22:46:00](https://soylentnews.org/article.pl?sid=23/12/15/0349208&from=rss) - [YouTube Throttling Traffic to aarch64' on Arm](https://soylentnews.org/article.pl?sid=23/12/15/0349208&from=rss)
+* [2023-12-15, 22:46:00](https://soylentnews.org/article.pl?sid=23/12/15/0349208&from=rss) - [YouTube Throttling Traffic to 'aarch64' on Arm](https://soylentnews.org/article.pl?sid=23/12/15/0349208&from=rss)
 * [2023-12-15, 18:02:00](https://soylentnews.org/article.pl?sid=23/12/14/0554218&from=rss) - [After Losing Everywhere Else, Elon Musk Asks Scotus to Get SEC Off His Back](https://soylentnews.org/article.pl?sid=23/12/14/0554218&from=rss)
 * [2023-12-15, 13:15:00](https://soylentnews.org/article.pl?sid=23/12/14/0549227&from=rss) - [He Blew the Whistle on Amazon. He’s Still Paying the Price](https://soylentnews.org/article.pl?sid=23/12/14/0549227&from=rss)
 * [2023-12-15, 08:27:00](https://soylentnews.org/article.pl?sid=23/12/14/0537256&from=rss) - [Q&A With Co-Creator of the 6502 Processor [2021]](https://soylentnews.org/article.pl?sid=23/12/14/0537256&from=rss)
