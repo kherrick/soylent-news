@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-17, 00:03:00](https://soylentnews.org/article.pl?sid=23/12/15/222201&from=rss) - [Celebrated Cryptography Algorithm Gets an Upgrade](https://soylentnews.org/article.pl?sid=23/12/15/222201&from=rss)
 * [2023-12-16, 19:30:00](https://soylentnews.org/article.pl?sid=23/12/15/0451243&from=rss) - [Netflix Finally Reveals Viewing Data Across its Entire Catalog](https://soylentnews.org/article.pl?sid=23/12/15/0451243&from=rss)
 * [2023-12-16, 12:46:00](https://soylentnews.org/article.pl?sid=23/12/15/0445256&from=rss) - [Study Shows it Might Never be Too Late to Live Longer by Dieting ](https://soylentnews.org/article.pl?sid=23/12/15/0445256&from=rss)
 * [2023-12-16, 08:14:00](https://soylentnews.org/article.pl?sid=23/12/15/0416219&from=rss) - [Google's Turning Off Third-Party Cookies Entirely in the Second Half of 2024](https://soylentnews.org/article.pl?sid=23/12/15/0416219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-07, 15:05:00](https://soylentnews.org/article.pl?sid=23/12/06/1631242&from=rss) - [Moving Beyond the Trolley Problem - Studying Moral Behavior in Drivers](https://soylentnews.org/article.pl?sid=23/12/06/1631242&from=rss)
 * [2023-12-07, 10:17:00](https://soylentnews.org/article.pl?sid=23/12/06/0152248&from=rss) - [IBM Releases First-Ever 1,000-qubit Quantum Chip](https://soylentnews.org/article.pl?sid=23/12/06/0152248&from=rss)
 * [2023-12-07, 05:37:00](https://soylentnews.org/article.pl?sid=23/12/06/0340225&from=rss) - [Why are All the EVs so Expensive?](https://soylentnews.org/article.pl?sid=23/12/06/0340225&from=rss)
-* [2023-12-07, 00:49:00](https://soylentnews.org/article.pl?sid=23/12/06/0331246&from=rss) - [Broadcom's Acquisition of VMware Leads to Massive Layoffs, Return to Work Threats](https://soylentnews.org/article.pl?sid=23/12/06/0331246&from=rss)
 
 ## [Archives](archives/index.md)
 
