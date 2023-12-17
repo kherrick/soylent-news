@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-17, 19:07:00](https://soylentnews.org/article.pl?sid=23/12/16/2121235&from=rss) - [Neanderthals May Have Been Morning People](https://soylentnews.org/article.pl?sid=23/12/16/2121235&from=rss)
 * [2023-12-17, 14:18:00](https://soylentnews.org/article.pl?sid=23/12/16/2113226&from=rss) - [Michael Cohen's Lawyer Cited Three Fake Cases in Possible AI-Fueled Screwup](https://soylentnews.org/article.pl?sid=23/12/16/2113226&from=rss)
 * [2023-12-17, 09:31:00](https://soylentnews.org/article.pl?sid=23/12/16/0333224&from=rss) - [New Ideas Are Out There—We Just Need to Look for Them](https://soylentnews.org/article.pl?sid=23/12/16/0333224&from=rss)
 * [2023-12-17, 04:48:00](https://soylentnews.org/article.pl?sid=23/12/16/0329203&from=rss) - [Dropbox Spooks Users With New AI Features That Send Data to OpenAI When Used](https://soylentnews.org/article.pl?sid=23/12/16/0329203&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-08, 09:55:00](https://soylentnews.org/article.pl?sid=23/12/07/146246&from=rss) - [Firefox on the Brink?](https://soylentnews.org/article.pl?sid=23/12/07/146246&from=rss)
 * [2023-12-08, 05:14:00](https://soylentnews.org/article.pl?sid=23/12/07/0626206&from=rss) - [Tesla Whistleblower Casts Doubt on Car Safety](https://soylentnews.org/article.pl?sid=23/12/07/0626206&from=rss)
 * [2023-12-08, 00:29:00](https://soylentnews.org/article.pl?sid=23/12/07/0512225&from=rss) - [23andMe: Profiles of 6.9 Million People Hacked](https://soylentnews.org/article.pl?sid=23/12/07/0512225&from=rss)
-* [2023-12-07, 19:42:00](https://soylentnews.org/article.pl?sid=23/12/06/1634206&from=rss) - [Search vs. Browse is a False Dichotomy](https://soylentnews.org/article.pl?sid=23/12/06/1634206&from=rss)
 
 ## [Archives](archives/index.md)
 
