@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 23:31:00](https://soylentnews.org/article.pl?sid=23/12/17/059208&from=rss) - [How Police Have Undermined the Promise of Body Cameras](https://soylentnews.org/article.pl?sid=23/12/17/059208&from=rss)
 * [2023-12-18, 18:49:00](https://soylentnews.org/article.pl?sid=23/12/17/053257&from=rss) - [Needle-Free Covid Vaccines are (Still) in the Works](https://soylentnews.org/article.pl?sid=23/12/17/053257&from=rss)
 * [2023-12-18, 14:04:00](https://soylentnews.org/article.pl?sid=23/12/17/0455237&from=rss) - [ Mickey, Disney, and the Public Domain: a 95-Year Love Triangle](https://soylentnews.org/article.pl?sid=23/12/17/0455237&from=rss)
 * [2023-12-18, 09:19:00](https://soylentnews.org/article.pl?sid=23/12/17/0420242&from=rss) - [Turing Test on Steroids: Chatbot Arena Crowdsources Ratings for 45 AI Models](https://soylentnews.org/article.pl?sid=23/12/17/0420242&from=rss)
