@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 09:19:00](https://soylentnews.org/article.pl?sid=23/12/17/0420242&from=rss) - [Turing Test on Steroids: Chatbot Arena Crowdsources Ratings for 45 AI Models](https://soylentnews.org/article.pl?sid=23/12/17/0420242&from=rss)
 * [2023-12-18, 04:34:00](https://soylentnews.org/article.pl?sid=23/12/17/0417259&from=rss) - [E-Books are Fast Becoming Tools of Corporate Surveillance](https://soylentnews.org/article.pl?sid=23/12/17/0417259&from=rss)
