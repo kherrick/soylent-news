@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-18, 14:04:00](https://soylentnews.org/article.pl?sid=23/12/17/0455237&from=rss) - [ Mickey, Disney, and the Public Domain: a 95-Year Love Triangle](https://soylentnews.org/article.pl?sid=23/12/17/0455237&from=rss)
 * [2023-12-18, 09:19:00](https://soylentnews.org/article.pl?sid=23/12/17/0420242&from=rss) - [Turing Test on Steroids: Chatbot Arena Crowdsources Ratings for 45 AI Models](https://soylentnews.org/article.pl?sid=23/12/17/0420242&from=rss)
 * [2023-12-18, 04:34:00](https://soylentnews.org/article.pl?sid=23/12/17/0417259&from=rss) - [E-Books are Fast Becoming Tools of Corporate Surveillance](https://soylentnews.org/article.pl?sid=23/12/17/0417259&from=rss)
 * [2023-12-17, 23:48:00](https://soylentnews.org/article.pl?sid=23/12/16/2136228&from=rss) - [Intel Unveils Core Ultra, its First Chips With NPUs for AI Work](https://soylentnews.org/article.pl?sid=23/12/16/2136228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-09, 05:02:00](https://soylentnews.org/article.pl?sid=23/12/07/1649201&from=rss) - [EU Lawmakers Finalize Tough Cyber Security Rules](https://soylentnews.org/article.pl?sid=23/12/07/1649201&from=rss)
 * [2023-12-09, 00:16:00](https://soylentnews.org/article.pl?sid=23/12/07/1647220&from=rss) - [SpaceX Acquires Parachute Supplier](https://soylentnews.org/article.pl?sid=23/12/07/1647220&from=rss)
 * [2023-12-08, 19:24:00](https://soylentnews.org/article.pl?sid=23/12/07/1645210&from=rss) - [Thinking Back on ‘Turbo Pascal’ as It Turns 40](https://soylentnews.org/article.pl?sid=23/12/07/1645210&from=rss)
-* [2023-12-08, 14:41:00](https://soylentnews.org/article.pl?sid=23/12/07/1412249&from=rss) - [EU Lawmakers Finalize Tough Cyber Security Rules](https://soylentnews.org/article.pl?sid=23/12/07/1412249&from=rss)
 
 ## [Archives](archives/index.md)
 
