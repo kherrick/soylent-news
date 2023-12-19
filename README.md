@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-19, 04:19:00](https://soylentnews.org/article.pl?sid=23/12/17/067214&from=rss) - [Research Reveals the Secret Sites Where America's Migrating Songbirds Stop to Rest and Refuel](https://soylentnews.org/article.pl?sid=23/12/17/067214&from=rss)
 * [2023-12-18, 23:31:00](https://soylentnews.org/article.pl?sid=23/12/17/059208&from=rss) - [How Police Have Undermined the Promise of Body Cameras](https://soylentnews.org/article.pl?sid=23/12/17/059208&from=rss)
 * [2023-12-18, 18:49:00](https://soylentnews.org/article.pl?sid=23/12/17/053257&from=rss) - [Needle-Free Covid Vaccines are (Still) in the Works](https://soylentnews.org/article.pl?sid=23/12/17/053257&from=rss)
 * [2023-12-18, 14:04:00](https://soylentnews.org/article.pl?sid=23/12/17/0455237&from=rss) - [ Mickey, Disney, and the Public Domain: a 95-Year Love Triangle](https://soylentnews.org/article.pl?sid=23/12/17/0455237&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-09, 19:24:00](https://soylentnews.org/article.pl?sid=23/12/09/0340204&from=rss) - [I Received the New Gene-editing Drug for Sickle Cell Disease. It Changed My Life.](https://soylentnews.org/article.pl?sid=23/12/09/0340204&from=rss)
 * [2023-12-09, 14:39:00](https://soylentnews.org/article.pl?sid=23/12/07/1731257&from=rss) - [‘Do-Not-Track’ Privacy Setting Gets Legal Backing in Germany](https://soylentnews.org/article.pl?sid=23/12/07/1731257&from=rss)
 * [2023-12-09, 09:48:00](https://soylentnews.org/article.pl?sid=23/12/07/1729213&from=rss) - [US Regulators Will Now Have Access to Years of Binance Transaction Data](https://soylentnews.org/article.pl?sid=23/12/07/1729213&from=rss)
-* [2023-12-09, 05:02:00](https://soylentnews.org/article.pl?sid=23/12/07/1649201&from=rss) - [EU Lawmakers Finalize Tough Cyber Security Rules](https://soylentnews.org/article.pl?sid=23/12/07/1649201&from=rss)
 
 ## [Archives](archives/index.md)
 
