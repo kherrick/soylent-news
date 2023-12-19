@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-19, 20:00:00](https://soylentnews.org/meta/article.pl?sid=23/12/19/1845232&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, December 20, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/12/19/1845232&from=rss)
 * [2023-12-19, 17:11:00](https://soylentnews.org/article.pl?sid=23/12/17/2321249&from=rss) - [Two Interesting XOR Circuits Inside the Intel 386 Processor](https://soylentnews.org/article.pl?sid=23/12/17/2321249&from=rss)
 * [2023-12-19, 12:51:00](https://soylentnews.org/article.pl?sid=23/12/17/2314256&from=rss) - [Putting Truth to the Test](https://soylentnews.org/article.pl?sid=23/12/17/2314256&from=rss)
 * [2023-12-19, 08:33:00](https://soylentnews.org/article.pl?sid=23/12/17/232250&from=rss) - [NASA Donates Ingenuity Mars Helicopter Prototype to Smithsonian](https://soylentnews.org/article.pl?sid=23/12/17/232250&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-10, 14:17:00](https://soylentnews.org/article.pl?sid=23/12/09/1314226&from=rss) - [Crossed Wires Led to High Drama as NASA Returned Asteroid Samples to Earth](https://soylentnews.org/article.pl?sid=23/12/09/1314226&from=rss)
 * [2023-12-10, 09:32:00](https://soylentnews.org/article.pl?sid=23/12/09/0413213&from=rss) - [Test Bike Generators in Paris, Rotterdam, and Barcelona](https://soylentnews.org/article.pl?sid=23/12/09/0413213&from=rss)
 * [2023-12-10, 04:50:00](https://soylentnews.org/article.pl?sid=23/12/09/0351211&from=rss) - [Intel, of All Companies, Knocks AMD's CPU Numbering in Now-Deleted Presentation](https://soylentnews.org/article.pl?sid=23/12/09/0351211&from=rss)
-* [2023-12-10, 00:04:00](https://soylentnews.org/article.pl?sid=23/12/09/0347224&from=rss) - [BSOD in Pipeline for All Major Linuxes](https://soylentnews.org/article.pl?sid=23/12/09/0347224&from=rss)
 
 ## [Archives](archives/index.md)
 
