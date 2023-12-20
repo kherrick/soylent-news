@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-20, 16:37:00](https://soylentnews.org/article.pl?sid=23/12/19/0459244&from=rss) - [Grindavík Volcano Has Begun Erupting](https://soylentnews.org/article.pl?sid=23/12/19/0459244&from=rss)
 * [2023-12-20, 11:51:00](https://soylentnews.org/article.pl?sid=23/12/19/0452250&from=rss) - [Tesla's Trash Won't Get Picked Up as Union Actions in Sweden Escalate](https://soylentnews.org/article.pl?sid=23/12/19/0452250&from=rss)
 * [2023-12-20, 07:03:00](https://soylentnews.org/article.pl?sid=23/12/19/0443259&from=rss) - [Google Groups Ending Support for Usenet in February 2024](https://soylentnews.org/article.pl?sid=23/12/19/0443259&from=rss)
 * [2023-12-20, 02:15:00](https://soylentnews.org/article.pl?sid=23/12/19/0441200&from=rss) - [Managing Open Source Software and Software Bill of Materials](https://soylentnews.org/article.pl?sid=23/12/19/0441200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-11, 14:05:00](https://soylentnews.org/article.pl?sid=23/12/10/0316228&from=rss) - [Judge Allows Major ‘Right to Repair’ Lawsuit Against John Deere to Move Forward](https://soylentnews.org/article.pl?sid=23/12/10/0316228&from=rss)
 * [2023-12-11, 09:18:00](https://soylentnews.org/article.pl?sid=23/12/10/039250&from=rss) - [Stealthy Linux Rootkit Found in the Wild After Going Undetected for 2 Years](https://soylentnews.org/article.pl?sid=23/12/10/039250&from=rss)
 * [2023-12-11, 04:29:00](https://soylentnews.org/article.pl?sid=23/12/10/031212&from=rss) - [The Longstanding Mystery of Mars' Moons—and the Mission That Could Solve It](https://soylentnews.org/article.pl?sid=23/12/10/031212&from=rss)
-* [2023-12-10, 23:45:00](https://soylentnews.org/article.pl?sid=23/12/09/1327255&from=rss) - [Fossil-fuel Emissions are Over a Million Times Greater Than Carbon Removal Efforts](https://soylentnews.org/article.pl?sid=23/12/09/1327255&from=rss)
 
 ## [Archives](archives/index.md)
 
