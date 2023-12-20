@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-20, 11:51:00](https://soylentnews.org/article.pl?sid=23/12/19/0452250&from=rss) - [Tesla's Trash Won't Get Picked Up as Union Actions in Sweden Escalate](https://soylentnews.org/article.pl?sid=23/12/19/0452250&from=rss)
 * [2023-12-20, 07:03:00](https://soylentnews.org/article.pl?sid=23/12/19/0443259&from=rss) - [Google Groups Ending Support for Usenet in February 2024](https://soylentnews.org/article.pl?sid=23/12/19/0443259&from=rss)
 * [2023-12-20, 02:15:00](https://soylentnews.org/article.pl?sid=23/12/19/0441200&from=rss) - [Managing Open Source Software and Software Bill of Materials](https://soylentnews.org/article.pl?sid=23/12/19/0441200&from=rss)
 * [2023-12-19, 21:30:00](https://soylentnews.org/article.pl?sid=23/12/17/2340253&from=rss) - [Elon Musk's X Ad Revenue Reportedly Fell $1.5B This Year Amid Boycotts](https://soylentnews.org/article.pl?sid=23/12/17/2340253&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-11, 09:18:00](https://soylentnews.org/article.pl?sid=23/12/10/039250&from=rss) - [Stealthy Linux Rootkit Found in the Wild After Going Undetected for 2 Years](https://soylentnews.org/article.pl?sid=23/12/10/039250&from=rss)
 * [2023-12-11, 04:29:00](https://soylentnews.org/article.pl?sid=23/12/10/031212&from=rss) - [The Longstanding Mystery of Mars' Moons—and the Mission That Could Solve It](https://soylentnews.org/article.pl?sid=23/12/10/031212&from=rss)
 * [2023-12-10, 23:45:00](https://soylentnews.org/article.pl?sid=23/12/09/1327255&from=rss) - [Fossil-fuel Emissions are Over a Million Times Greater Than Carbon Removal Efforts](https://soylentnews.org/article.pl?sid=23/12/09/1327255&from=rss)
-* [2023-12-10, 19:05:00](https://soylentnews.org/article.pl?sid=23/12/09/1316239&from=rss) - [Tor University Challenge: First Semester Report Card](https://soylentnews.org/article.pl?sid=23/12/09/1316239&from=rss)
 
 ## [Archives](archives/index.md)
 
