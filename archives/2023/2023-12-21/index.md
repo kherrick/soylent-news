@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-21](index.md)
+
+* [2023-12-21, 02:12:00](https://soylentnews.org/article.pl?sid=23/12/20/0334209&from=rss) - [A Chinese EV Squeezed 650 Miles Of Range From Its 150 kWh Battery](https://soylentnews.org/article.pl?sid=23/12/20/0334209&from=rss)
