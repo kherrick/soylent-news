@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-21, 06:56:00](https://soylentnews.org/article.pl?sid=23/12/20/0337233&from=rss) - [Volkswagen is Returning to Physical Buttons Instead of Touch Controls](https://soylentnews.org/article.pl?sid=23/12/20/0337233&from=rss)
 * [2023-12-21, 02:12:00](https://soylentnews.org/article.pl?sid=23/12/20/0334209&from=rss) - [A Chinese EV Squeezed 650 Miles Of Range From Its 150 kWh Battery](https://soylentnews.org/article.pl?sid=23/12/20/0334209&from=rss)
 * [2023-12-20, 21:24:00](https://soylentnews.org/article.pl?sid=23/12/20/0330216&from=rss) - [Ubiquiti Fixes Massive Bug That Allowed Users To View Others' Security Cameras](https://soylentnews.org/article.pl?sid=23/12/20/0330216&from=rss)
 * [2023-12-20, 16:37:00](https://soylentnews.org/article.pl?sid=23/12/19/0459244&from=rss) - [Grindavík Volcano Has Begun Erupting](https://soylentnews.org/article.pl?sid=23/12/19/0459244&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-12, 09:06:00](https://soylentnews.org/article.pl?sid=23/12/12/0410203&from=rss) - [NASA's Aging Hubble Space Telescope to Come Back Online](https://soylentnews.org/article.pl?sid=23/12/12/0410203&from=rss)
 * [2023-12-12, 04:23:00](https://soylentnews.org/article.pl?sid=23/12/12/0354232&from=rss) - ['Appetite for Drumsticks': First Prey Found in a Tyrannosaur Stomach](https://soylentnews.org/article.pl?sid=23/12/12/0354232&from=rss)
 * [2023-12-11, 18:52:00](https://soylentnews.org/article.pl?sid=23/12/10/1433235&from=rss) - [Pluralistic: \"If Buying Isn't Owning, Piracy Isn't Stealing\" ](https://soylentnews.org/article.pl?sid=23/12/10/1433235&from=rss)
-* [2023-12-11, 14:05:00](https://soylentnews.org/article.pl?sid=23/12/10/0316228&from=rss) - [Judge Allows Major ‘Right to Repair’ Lawsuit Against John Deere to Move Forward](https://soylentnews.org/article.pl?sid=23/12/10/0316228&from=rss)
 
 ## [Archives](archives/index.md)
 
