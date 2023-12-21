@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-21, 16:22:00](https://soylentnews.org/article.pl?sid=23/12/20/063225&from=rss) - [Splitting the Web](https://soylentnews.org/article.pl?sid=23/12/20/063225&from=rss)
 * [2023-12-21, 11:38:00](https://soylentnews.org/article.pl?sid=23/12/20/061213&from=rss) - [Mathematicians Crack a Century-Old Problem That's Perfect for Your Next Party](https://soylentnews.org/article.pl?sid=23/12/20/061213&from=rss)
 * [2023-12-21, 06:56:00](https://soylentnews.org/article.pl?sid=23/12/20/0337233&from=rss) - [Volkswagen is Returning to Physical Buttons Instead of Touch Controls](https://soylentnews.org/article.pl?sid=23/12/20/0337233&from=rss)
 * [2023-12-21, 02:12:00](https://soylentnews.org/article.pl?sid=23/12/20/0334209&from=rss) - [A Chinese EV Squeezed 650 Miles Of Range From Its 150 kWh Battery](https://soylentnews.org/article.pl?sid=23/12/20/0334209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-12, 18:35:00](https://soylentnews.org/article.pl?sid=23/12/12/0523252&from=rss) - [A Superconducting Junction Made From a Single 2D Material Promises to Harness Strange New Physics](https://soylentnews.org/article.pl?sid=23/12/12/0523252&from=rss)
 * [2023-12-12, 13:50:00](https://soylentnews.org/article.pl?sid=23/12/12/056224&from=rss) - [Attacks Abuse Microsoft DHCP to Spoof DNS Records and Steal Secrets](https://soylentnews.org/article.pl?sid=23/12/12/056224&from=rss)
 * [2023-12-12, 09:06:00](https://soylentnews.org/article.pl?sid=23/12/12/0410203&from=rss) - [NASA's Aging Hubble Space Telescope to Come Back Online](https://soylentnews.org/article.pl?sid=23/12/12/0410203&from=rss)
-* [2023-12-12, 04:23:00](https://soylentnews.org/article.pl?sid=23/12/12/0354232&from=rss) - ['Appetite for Drumsticks': First Prey Found in a Tyrannosaur Stomach](https://soylentnews.org/article.pl?sid=23/12/12/0354232&from=rss)
 
 ## [Archives](archives/index.md)
 
