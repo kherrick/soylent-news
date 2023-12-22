@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-22, 20:53:00](https://soylentnews.org/article.pl?sid=23/12/22/020211&from=rss) - [Turquoise Lights for Autonomous Cars](https://soylentnews.org/article.pl?sid=23/12/22/020211&from=rss)
 * [2023-12-22, 16:12:00](https://soylentnews.org/article.pl?sid=23/12/21/033253&from=rss) - [Google Moves to End Geofence Warrants, a Surveillance Problem It Largely Created](https://soylentnews.org/article.pl?sid=23/12/21/033253&from=rss)
 * [2023-12-22, 11:25:00](https://soylentnews.org/article.pl?sid=23/12/21/0257238&from=rss) - [Arm And Risc-V: Can There Only Be One?](https://soylentnews.org/article.pl?sid=23/12/21/0257238&from=rss)
 * [2023-12-22, 06:39:00](https://soylentnews.org/article.pl?sid=23/12/21/0253209&from=rss) - [North America's First People May Have Arrived by Sea Ice Highway as Early as 24,000 Years Ago](https://soylentnews.org/article.pl?sid=23/12/21/0253209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-13, 18:21:00](https://soylentnews.org/article.pl?sid=23/12/12/0656223&from=rss) - [The Quiet Plan to Make the Internet Feel Faster](https://soylentnews.org/article.pl?sid=23/12/12/0656223&from=rss)
 * [2023-12-13, 13:33:00](https://soylentnews.org/article.pl?sid=23/12/12/0645207&from=rss) - [Eat Your Vegetables to Protect Your Brain](https://soylentnews.org/article.pl?sid=23/12/12/0645207&from=rss)
 * [2023-12-13, 08:49:00](https://soylentnews.org/article.pl?sid=23/12/12/0550222&from=rss) - [A Financial News Site Uses AI to Copy Competitors — Wholesale](https://soylentnews.org/article.pl?sid=23/12/12/0550222&from=rss)
-* [2023-12-13, 04:05:00](https://soylentnews.org/article.pl?sid=23/12/12/0538242&from=rss) - [The EU Has Reached an Historic Regulatory Agreement Over AI Development](https://soylentnews.org/article.pl?sid=23/12/12/0538242&from=rss)
 
 ## [Archives](archives/index.md)
 
