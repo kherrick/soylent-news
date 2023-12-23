@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-23, 20:41:00](https://soylentnews.org/article.pl?sid=23/12/23/0219201&from=rss) - [U.S. Surgeon General's Advisory: Social Media and Youth Mental Health](https://soylentnews.org/article.pl?sid=23/12/23/0219201&from=rss)
 * [2023-12-23, 15:56:00](https://soylentnews.org/article.pl?sid=23/12/23/028200&from=rss) - [Wasted Wind Power Adds £40 To Household Energy Bills, Says Think Tank ](https://soylentnews.org/article.pl?sid=23/12/23/028200&from=rss)
 * [2023-12-23, 11:13:00](https://soylentnews.org/article.pl?sid=23/12/22/0240208&from=rss) - [AMD Says its Mi300X AI Accelerator is Faster Than Nvidia's H100](https://soylentnews.org/article.pl?sid=23/12/22/0240208&from=rss)
 * [2023-12-23, 06:28:00](https://soylentnews.org/article.pl?sid=23/12/22/0234238&from=rss) - [There Was Some Good Climate News in 2023. Really.](https://soylentnews.org/article.pl?sid=23/12/22/0234238&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-14, 18:09:00](https://soylentnews.org/article.pl?sid=23/12/14/0522255&from=rss) - [How a Drought Led to the Rise of Skateboarding in 1970s California](https://soylentnews.org/article.pl?sid=23/12/14/0522255&from=rss)
 * [2023-12-14, 13:27:00](https://soylentnews.org/article.pl?sid=23/12/14/0516213&from=rss) - [Advanced Packaging, Software Bolster Amd's 30X25 Goal ](https://soylentnews.org/article.pl?sid=23/12/14/0516213&from=rss)
 * [2023-12-14, 08:46:00](https://soylentnews.org/article.pl?sid=23/12/13/0327219&from=rss) - [What Happens When You Can't be Yourself at Work](https://soylentnews.org/article.pl?sid=23/12/13/0327219&from=rss)
-* [2023-12-14, 03:52:00](https://soylentnews.org/article.pl?sid=23/12/12/0724228&from=rss) - [ULA Chief Says Vulcan Rocket Will Slip to 2024 After Ground System Issues](https://soylentnews.org/article.pl?sid=23/12/12/0724228&from=rss)
 
 ## [Archives](archives/index.md)
 
