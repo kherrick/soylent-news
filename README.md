@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-24, 20:31:00](https://soylentnews.org/article.pl?sid=23/12/23/147248&from=rss) - [The Secret Sauce for Taiwan's Chip Superstardom](https://soylentnews.org/article.pl?sid=23/12/23/147248&from=rss)
 * [2023-12-24, 15:43:00](https://soylentnews.org/politics/article.pl?sid=23/12/23/0310253&from=rss) - [China's Tactic of Flooding the Market With Chips Made Using Legacy Nodes is Under Investigation](https://soylentnews.org/politics/article.pl?sid=23/12/23/0310253&from=rss)
 * [2023-12-24, 10:58:00](https://soylentnews.org/article.pl?sid=23/12/23/030245&from=rss) - [Impaired Driving Detection Coming to US](https://soylentnews.org/article.pl?sid=23/12/23/030245&from=rss)
 * [2023-12-24, 06:15:00](https://soylentnews.org/article.pl?sid=23/12/23/0256209&from=rss) - [CVS, Rite Aid, Walgreens Hand Out Medical Records to Cops Without Warrants](https://soylentnews.org/article.pl?sid=23/12/23/0256209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-15, 18:02:00](https://soylentnews.org/article.pl?sid=23/12/14/0554218&from=rss) - [After Losing Everywhere Else, Elon Musk Asks Scotus to Get SEC Off His Back](https://soylentnews.org/article.pl?sid=23/12/14/0554218&from=rss)
 * [2023-12-15, 13:15:00](https://soylentnews.org/article.pl?sid=23/12/14/0549227&from=rss) - [He Blew the Whistle on Amazon. He’s Still Paying the Price](https://soylentnews.org/article.pl?sid=23/12/14/0549227&from=rss)
 * [2023-12-15, 08:27:00](https://soylentnews.org/article.pl?sid=23/12/14/0537256&from=rss) - [Q&A With Co-Creator of the 6502 Processor [2021]](https://soylentnews.org/article.pl?sid=23/12/14/0537256&from=rss)
-* [2023-12-15, 03:42:00](https://soylentnews.org/article.pl?sid=23/12/14/0536226&from=rss) - [A ‘Living Skin’ is Protecting the Great Wall of China From Erosion](https://soylentnews.org/article.pl?sid=23/12/14/0536226&from=rss)
 
 ## [Archives](archives/index.md)
 
