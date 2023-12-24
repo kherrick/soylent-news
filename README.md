@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-24, 06:15:00](https://soylentnews.org/article.pl?sid=23/12/23/0256209&from=rss) - [CVS, Rite Aid, Walgreens Hand Out Medical Records to Cops Without Warrants](https://soylentnews.org/article.pl?sid=23/12/23/0256209&from=rss)
 * [2023-12-24, 01:27:00](https://soylentnews.org/article.pl?sid=23/12/23/0253252&from=rss) - [SSH Protects the World’s Most Sensitive Networks. It Just Got a Lot Weaker](https://soylentnews.org/article.pl?sid=23/12/23/0253252&from=rss)
 * [2023-12-23, 20:41:00](https://soylentnews.org/article.pl?sid=23/12/23/0219201&from=rss) - [U.S. Surgeon General's Advisory: Social Media and Youth Mental Health](https://soylentnews.org/article.pl?sid=23/12/23/0219201&from=rss)
 * [2023-12-23, 15:56:00](https://soylentnews.org/article.pl?sid=23/12/23/028200&from=rss) - [Wasted Wind Power Adds £40 To Household Energy Bills, Says Think Tank ](https://soylentnews.org/article.pl?sid=23/12/23/028200&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-15, 03:42:00](https://soylentnews.org/article.pl?sid=23/12/14/0536226&from=rss) - [A ‘Living Skin’ is Protecting the Great Wall of China From Erosion](https://soylentnews.org/article.pl?sid=23/12/14/0536226&from=rss)
 * [2023-12-14, 22:56:00](https://soylentnews.org/article.pl?sid=23/12/14/0529256&from=rss) - [Apple Has Seemingly Found a Way to Block Android's New Imessage App](https://soylentnews.org/article.pl?sid=23/12/14/0529256&from=rss)
 * [2023-12-14, 18:09:00](https://soylentnews.org/article.pl?sid=23/12/14/0522255&from=rss) - [How a Drought Led to the Rise of Skateboarding in 1970s California](https://soylentnews.org/article.pl?sid=23/12/14/0522255&from=rss)
-* [2023-12-14, 13:27:00](https://soylentnews.org/article.pl?sid=23/12/14/0516213&from=rss) - [Advanced Packaging, Software Bolster Amd's 30X25 Goal ](https://soylentnews.org/article.pl?sid=23/12/14/0516213&from=rss)
 
 ## [Archives](archives/index.md)
 

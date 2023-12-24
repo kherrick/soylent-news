@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 06:15:00](https://soylentnews.org/article.pl?sid=23/12/23/0256209&from=rss) - [CVS, Rite Aid, Walgreens Hand Out Medical Records to Cops Without Warrants](https://soylentnews.org/article.pl?sid=23/12/23/0256209&from=rss)
 * [2023-12-24, 01:27:00](https://soylentnews.org/article.pl?sid=23/12/23/0253252&from=rss) - [SSH Protects the World’s Most Sensitive Networks. It Just Got a Lot Weaker](https://soylentnews.org/article.pl?sid=23/12/23/0253252&from=rss)
