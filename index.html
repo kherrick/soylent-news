@@ -145,6 +145,150 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/12/23/0253252">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/12/23/0253252&amp;from=rss"
+              >SSH Protects the World’s Most Sensitive Networks. It Just Got a
+              Lot Weaker</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-24 @ 01:27:00</span
+              ><span class="points-container"
+                >Points: <span class="points">70</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/12/23/0253252"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    For Terrapin to be viable, the connection it interferes with
+                    also must be secured by either "ChaCha20-Poly1305" or "CBC
+                    with Encrypt-then-MAC," both of which are cipher modes added
+                    to the SSH protocol (in 2013 and 2012, respectively). A scan
+                    performed by the researchers found that 77 percent of SSH
+                    servers exposed to the Internet support at least one of the
+                    vulnerable encryption modes, while 57 percent of them list a
+                    vulnerable encryption mode as the preferred choice.
+                  </p>
+                  <p>
+                    At its core, Terrapin works by altering or corrupting
+                    information transmitted in the SSH data stream during the
+                    handshake—the earliest stage of a connection, when the two
+                    parties negotiate the encryption parameters they will use to
+                    establish a secure connection. The attack targets the BPP,
+                    short for
+                    <a
+                      href="https://www.scribd.com/document/59627915/Ssh-Security"
+                      >Binary Packet Protocol</a
+                    >, which is designed to ensure that adversaries with an
+                    active position can't add or drop messages exchanged during
+                    the handshake. Terrapin relies on prefix truncation, a class
+                    of attack that removes specific messages at the very
+                    beginning of a data stream.
+                  </p>
+                  <p>
+                    [...] The researchers note that they aren't the first people
+                    to describe a prefix truncation attack on a network protocol
+                    by manipulating sequence numbers. In 2015, researcher Cédric
+                    Fournet
+                    <a
+                      href="https://mailarchive.ietf.org/arch/msg/tls/extoO9ETJLnEm3MRDTO23x70DFM"
+                      >envisioned a similar attack</a
+                    >
+                    on a draft of the upcoming version 1.3 of TLS. Fournet's
+                    technique increased sequence numbers by fragmenting messages
+                    rather than injecting them as Terrapin does. (Terrapin
+                    injects an IGNORE message to asymmetrically increase the
+                    sequence number on one side of the communication.) Fournet's
+                    attack was deemed theoretical because the manipulation in
+                    this case was likely to cause TLS handshakes to fail. The
+                    possibility of a successful exploit nonetheless prompted
+                    engineers to follow Fournet's advice to revert back to 1.2's
+                    practice of resetting record-layer sequence numbers to 0
+                    whenever new keys were installed.
+                  </p>
+                  <p>
+                    In response to recommendations provided by the researchers
+                    ahead of the publication of Monday's paper, the developers
+                    of SSH software, including the nearly ubiquitous OpenSSH,
+                    have updated their implementations to support an optional
+                    strict key exchange. It provides for sequence number resets
+                    and also prevents an attacker's capability to inject packets
+                    during the initial unencrypted handshake. For the fix to
+                    take effect, both client and server must support this
+                    backward-compatible change.
+                  </p>
+                  <p>
+                    [...] People who want to know if the SSH client or server
+                    they use is vulnerable to Terrapin can use a
+                    <a href="https://terrapin-attack.com/#scanner"
+                      >custom scanner</a
+                    >
+                    developed by the researchers. It connects to a server or
+                    monitors the incoming client connection to determine whether
+                    one of the vulnerable encryption modes is available and if
+                    the countermeasure requiring a strict key exchange is
+                    supported. The scanner doesn't perform a full-fledged
+                    handshake or carry out the attack.
+                  </p>
+                  <p>
+                    [...] While the risk Terrapin poses varies, it invalidates
+                    proofs published in 2016 that concluded such attacks weren't
+                    possible. The real lesson is that practical evaluations,
+                    like the one provided in Monday's research, are crucial for
+                    revealing previously overlooked flaws in such proofs.
+                  </p>
+                  <p>
+                    "In any case, proofs need to be updated over time to reflect
+                    changes and extensions to the protocol," the researchers
+                    wrote. "Although we suggest backward-compatible
+                    countermeasures to stop our attacks, we note that the
+                    security of the SSH protocol would benefit from a redesign
+                    from scratch, guided by all findings and insights from both
+                    practical and theoretical security analysis, in a similar
+                    manner as was done for TLS 1.3."
+                  </p>
+                </div>
+              </blockquote>
+              <p>
+                Also see:
+                <a
+                  href="https://www.theregister.com/2023/12/20/terrapin_attack_ssh"
+                  >SSH shaken, not stirred by Terrapin vulnerability</a
+                >.
+              </p>
+              <p>
+                The researcher's
+                <a href="https://terrapin-attack.com/">web site</a> and
+                <a href="https://arxiv.org/abs/2312.12422">the paper</a>
+                describing the attack [<a
+                  href="https://terrapin-attack.com/TerrapinAttack.pdf"
+                  >PDF</a
+                >].
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61686"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/12/23/0219201">
           <h3>
             <a
@@ -158,7 +302,7 @@
             <h4>
               <span>2023-12-23 @ 20:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/0219201"
@@ -278,7 +422,7 @@
             <h4>
               <span>2023-12-23 @ 15:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">503</span></span
+                >Points: <span class="points">523</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/028200"
@@ -399,7 +543,7 @@
             <h4>
               <span>2023-12-23 @ 11:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">579</span></span
+                >Points: <span class="points">591</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/22/0240208"
@@ -505,7 +649,7 @@
             <h4>
               <span>2023-12-23 @ 06:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">733</span></span
+                >Points: <span class="points">747</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/22/0234238"
@@ -653,7 +797,7 @@
             <h4>
               <span>2023-12-23 @ 01:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">650</span></span
+                >Points: <span class="points">659</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/22/0213253"
@@ -726,7 +870,7 @@
             <h4>
               <span>2023-12-22 @ 20:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">1031</span></span
+                >Points: <span class="points">1038</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/22/020211"
@@ -851,7 +995,7 @@
             <h4>
               <span>2023-12-22 @ 16:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">1062</span></span
+                >Points: <span class="points">1067</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/21/033253"
@@ -926,7 +1070,7 @@
             <h4>
               <span>2023-12-22 @ 11:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">1232</span></span
+                >Points: <span class="points">1237</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/21/0257238"
@@ -1034,7 +1178,7 @@
             <h4>
               <span>2023-12-22 @ 06:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">1071</span></span
+                >Points: <span class="points">1076</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/21/0253209"
@@ -1101,7 +1245,7 @@
             <h4>
               <span>2023-12-22 @ 01:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">1523</span></span
+                >Points: <span class="points">1528</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/21/0238254"
@@ -1180,7 +1324,7 @@
             <h4>
               <span>2023-12-21 @ 21:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">1852</span></span
+                >Points: <span class="points">1857</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/21/0231219"
@@ -1241,7 +1385,7 @@
             <h4>
               <span>2023-12-21 @ 16:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">2297</span></span
+                >Points: <span class="points">2302</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/20/063225"
@@ -1349,7 +1493,7 @@
             <h4>
               <span>2023-12-21 @ 11:38:00</span
               ><span class="points-container"
-                >Points: <span class="points">1649</span></span
+                >Points: <span class="points">1654</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/20/061213"
@@ -1507,7 +1651,7 @@
             <h4>
               <span>2023-12-21 @ 06:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">1943</span></span
+                >Points: <span class="points">1948</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/20/0337233"
@@ -1606,7 +1750,7 @@
             <h4>
               <span>2023-12-21 @ 02:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">1920</span></span
+                >Points: <span class="points">1926</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/20/0334209"
@@ -1700,7 +1844,7 @@
             <h4>
               <span>2023-12-20 @ 21:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">1780</span></span
+                >Points: <span class="points">1785</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/20/0330216"
@@ -1787,7 +1931,7 @@
             <h4>
               <span>2023-12-20 @ 16:37:00</span
               ><span class="points-container"
-                >Points: <span class="points">2070</span></span
+                >Points: <span class="points">2075</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/19/0459244"
@@ -1862,7 +2006,7 @@
             <h4>
               <span>2023-12-20 @ 11:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">2488</span></span
+                >Points: <span class="points">2493</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/19/0452250"
@@ -1946,7 +2090,7 @@
             <h4>
               <span>2023-12-20 @ 07:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">2398</span></span
+                >Points: <span class="points">2403</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/19/0443259"
@@ -2396,7 +2540,7 @@
             <h4>
               <span>2023-12-19 @ 12:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">2450</span></span
+                >Points: <span class="points">2451</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/17/2314256"
@@ -2680,7 +2824,7 @@
             <h4>
               <span>2023-12-18 @ 23:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">2818</span></span
+                >Points: <span class="points">2819</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/17/059208"
@@ -4353,7 +4497,7 @@
             <h4>
               <span>2023-12-15 @ 13:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">2751</span></span
+                >Points: <span class="points">2752</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/14/0549227"
@@ -4837,106 +4981,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61608"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/12/13/0327219">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/12/13/0327219&amp;from=rss"
-              >What Happens When You Can't be Yourself at Work</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-14 @ 08:46:00</span
-              ><span class="points-container"
-                >Points: <span class="points">3170</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/12/13/0327219"
-                  >Comments</a
-                ><span class="descendants">: 49</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                <a href="//soylentnews.org/~AnonTechie/">AnonTechie</a> writes:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    No matter who you are, feeling threatened in your identity
-                    is bad for your well-being—and your career.
-                  </p>
-                  <p>
-                    Like many other essentials of life, our sense of self is
-                    something we often take for granted, until it's under
-                    threat. When our circumstances appear at odds with who we
-                    feel ourselves to be, we are pitched headlong into a
-                    distressing state that scholars call "identity threat",
-                    which has been the subject of research from fields as
-                    disparate as marketing and political science.
-                  </p>
-                  <p>
-                    But this extensive body of literature—until now—has lacked
-                    something truly fundamental: a rigorous way to measure
-                    identity threat that distinguishes it from related
-                    constructs such as self-esteem and identity suppression.
-                  </p>
-                  <p>
-                    [...] At the same time, Vough stresses that no two
-                    individuals have exactly the same relationship to their
-                    identity. Conditions that might be threatening for one
-                    member of an identity grouping might be taken in stride by
-                    another. Moreover, not all identity groupings are equally
-                    well-understood in their responses to threat, owing to gaps
-                    in the research literature. Vough hopes her identity threat
-                    scale will help scholars fill in those gaps.
-                  </p>
-                  <p>
-                    "There's a fair amount of research about gender-related
-                    threat, especially in the context of STEM, as well as race.
-                    But we need more knowledge about threats based on age,
-                    disability, etc. When we think of diversity, we think of
-                    race and gender, but diversity is so much more than that,"
-                    Vough says.
-                  </p>
-                </div>
-              </blockquote>
-              <p>
-                [Source]:
-                <a
-                  href="https://business.gmu.edu/news/2023-12/what-happens-when-you-cant-be-yourself-work"
-                  >Costello College of Business at George Mason University</a
-                >
-              </p>
-              <p>
-                [Journal Ref.]:
-                <a href="https://psycnet.apa.org/fulltext/2023-93532-001.html"
-                  >Journal of Applied Psychology</a
-                >
-              </p>
-              <p>
-                [Also Covered By]:
-                <a
-                  href="https://phys.org/news/2023-12-what-happens-when-you-cant.html"
-                  >PHYS.ORG</a
-                >
-              </p>
-              <p>How would you deal with such situations ?</p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61627"
                     >Original Submission</a
                   ></small
                 >
