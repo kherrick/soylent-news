@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-25, 10:50:00](https://soylentnews.org/article.pl?sid=23/12/24/0414237&from=rss) - [The Hunter-Gatherer Groups At The Heart Of A Microbiome Gold Rush](https://soylentnews.org/article.pl?sid=23/12/24/0414237&from=rss)
 * [2023-12-25, 06:08:00](https://soylentnews.org/article.pl?sid=23/12/23/1420213&from=rss) - [The Hyperloop Is Dead For Real This Time](https://soylentnews.org/article.pl?sid=23/12/23/1420213&from=rss)
 * [2023-12-25, 01:18:00](https://soylentnews.org/article.pl?sid=23/12/23/1413245&from=rss) - [Americans Have A Snack Problem](https://soylentnews.org/article.pl?sid=23/12/23/1413245&from=rss)
 * [2023-12-24, 20:31:00](https://soylentnews.org/article.pl?sid=23/12/23/147248&from=rss) - [The Secret Sauce for Taiwan's Chip Superstardom](https://soylentnews.org/article.pl?sid=23/12/23/147248&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-16, 08:14:00](https://soylentnews.org/article.pl?sid=23/12/15/0416219&from=rss) - [Google's Turning Off Third-Party Cookies Entirely in the Second Half of 2024](https://soylentnews.org/article.pl?sid=23/12/15/0416219&from=rss)
 * [2023-12-16, 03:31:00](https://soylentnews.org/article.pl?sid=23/12/15/0416206&from=rss) - [Engineers Work to Fix Voyager 1 Computer ](https://soylentnews.org/article.pl?sid=23/12/15/0416206&from=rss)
 * [2023-12-15, 22:46:00](https://soylentnews.org/article.pl?sid=23/12/15/0349208&from=rss) - [YouTube Throttling Traffic to 'aarch64' on Arm](https://soylentnews.org/article.pl?sid=23/12/15/0349208&from=rss)
-* [2023-12-15, 18:02:00](https://soylentnews.org/article.pl?sid=23/12/14/0554218&from=rss) - [After Losing Everywhere Else, Elon Musk Asks Scotus to Get SEC Off His Back](https://soylentnews.org/article.pl?sid=23/12/14/0554218&from=rss)
 
 ## [Archives](archives/index.md)
 
