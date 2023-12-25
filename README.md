@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-25, 20:23:00](https://soylentnews.org/article.pl?sid=23/12/24/0424210&from=rss) - [Federal Judge Hands Free-Speech Victory to Retired Engineer](https://soylentnews.org/article.pl?sid=23/12/24/0424210&from=rss)
 * [2023-12-25, 15:37:00](https://soylentnews.org/article.pl?sid=23/12/24/0421211&from=rss) - [The 50 Greatest Innovations of the Year.](https://soylentnews.org/article.pl?sid=23/12/24/0421211&from=rss)
 * [2023-12-25, 10:50:00](https://soylentnews.org/article.pl?sid=23/12/24/0414237&from=rss) - [The Hunter-Gatherer Groups At The Heart Of A Microbiome Gold Rush](https://soylentnews.org/article.pl?sid=23/12/24/0414237&from=rss)
 * [2023-12-25, 06:08:00](https://soylentnews.org/article.pl?sid=23/12/23/1420213&from=rss) - [The Hyperloop Is Dead For Real This Time](https://soylentnews.org/article.pl?sid=23/12/23/1420213&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-16, 19:30:00](https://soylentnews.org/article.pl?sid=23/12/15/0451243&from=rss) - [Netflix Finally Reveals Viewing Data Across its Entire Catalog](https://soylentnews.org/article.pl?sid=23/12/15/0451243&from=rss)
 * [2023-12-16, 12:46:00](https://soylentnews.org/article.pl?sid=23/12/15/0445256&from=rss) - [Study Shows it Might Never be Too Late to Live Longer by Dieting ](https://soylentnews.org/article.pl?sid=23/12/15/0445256&from=rss)
 * [2023-12-16, 08:14:00](https://soylentnews.org/article.pl?sid=23/12/15/0416219&from=rss) - [Google's Turning Off Third-Party Cookies Entirely in the Second Half of 2024](https://soylentnews.org/article.pl?sid=23/12/15/0416219&from=rss)
-* [2023-12-16, 03:31:00](https://soylentnews.org/article.pl?sid=23/12/15/0416206&from=rss) - [Engineers Work to Fix Voyager 1 Computer ](https://soylentnews.org/article.pl?sid=23/12/15/0416206&from=rss)
 
 ## [Archives](archives/index.md)
 
