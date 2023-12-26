@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-26, 15:23:00](https://soylentnews.org/article.pl?sid=23/12/25/2218201&from=rss) - [Apple Vs. Beeper: DOJ And FTC On Imessage Controversy](https://soylentnews.org/article.pl?sid=23/12/25/2218201&from=rss)
 * [2023-12-26, 10:37:00](https://soylentnews.org/article.pl?sid=23/12/25/1722209&from=rss) - [The Wintel Duopoly Plans to Send 240 Million PCs to the Landfill](https://soylentnews.org/article.pl?sid=23/12/25/1722209&from=rss)
 * [2023-12-26, 05:52:00](https://soylentnews.org/article.pl?sid=23/12/25/1717242&from=rss) - [How Big Is YouTube?](https://soylentnews.org/article.pl?sid=23/12/25/1717242&from=rss)
 * [2023-12-26, 01:07:00](https://soylentnews.org/article.pl?sid=23/12/24/0428239&from=rss) - [SMTP Vulnerability Withheld From Open Source Project, Published Right Before Xmas Break](https://soylentnews.org/article.pl?sid=23/12/24/0428239&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-17, 14:18:00](https://soylentnews.org/article.pl?sid=23/12/16/2113226&from=rss) - [Michael Cohen's Lawyer Cited Three Fake Cases in Possible AI-Fueled Screwup](https://soylentnews.org/article.pl?sid=23/12/16/2113226&from=rss)
 * [2023-12-17, 09:31:00](https://soylentnews.org/article.pl?sid=23/12/16/0333224&from=rss) - [New Ideas Are Out There—We Just Need to Look for Them](https://soylentnews.org/article.pl?sid=23/12/16/0333224&from=rss)
 * [2023-12-17, 04:48:00](https://soylentnews.org/article.pl?sid=23/12/16/0329203&from=rss) - [Dropbox Spooks Users With New AI Features That Send Data to OpenAI When Used](https://soylentnews.org/article.pl?sid=23/12/16/0329203&from=rss)
-* [2023-12-17, 00:03:00](https://soylentnews.org/article.pl?sid=23/12/15/222201&from=rss) - [Celebrated Cryptography Algorithm Gets an Upgrade](https://soylentnews.org/article.pl?sid=23/12/15/222201&from=rss)
 
 ## [Archives](archives/index.md)
 
