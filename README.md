@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-26, 05:52:00](https://soylentnews.org/article.pl?sid=23/12/25/1717242&from=rss) - [How Big Is YouTube?](https://soylentnews.org/article.pl?sid=23/12/25/1717242&from=rss)
 * [2023-12-26, 01:07:00](https://soylentnews.org/article.pl?sid=23/12/24/0428239&from=rss) - [SMTP Vulnerability Withheld From Open Source Project, Published Right Before Xmas Break](https://soylentnews.org/article.pl?sid=23/12/24/0428239&from=rss)
 * [2023-12-25, 20:23:00](https://soylentnews.org/article.pl?sid=23/12/24/0424210&from=rss) - [Federal Judge Hands Free-Speech Victory to Retired Engineer](https://soylentnews.org/article.pl?sid=23/12/24/0424210&from=rss)
 * [2023-12-25, 15:37:00](https://soylentnews.org/article.pl?sid=23/12/24/0421211&from=rss) - [The 50 Greatest Innovations of the Year.](https://soylentnews.org/article.pl?sid=23/12/24/0421211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-17, 04:48:00](https://soylentnews.org/article.pl?sid=23/12/16/0329203&from=rss) - [Dropbox Spooks Users With New AI Features That Send Data to OpenAI When Used](https://soylentnews.org/article.pl?sid=23/12/16/0329203&from=rss)
 * [2023-12-17, 00:03:00](https://soylentnews.org/article.pl?sid=23/12/15/222201&from=rss) - [Celebrated Cryptography Algorithm Gets an Upgrade](https://soylentnews.org/article.pl?sid=23/12/15/222201&from=rss)
 * [2023-12-16, 19:30:00](https://soylentnews.org/article.pl?sid=23/12/15/0451243&from=rss) - [Netflix Finally Reveals Viewing Data Across its Entire Catalog](https://soylentnews.org/article.pl?sid=23/12/15/0451243&from=rss)
-* [2023-12-16, 12:46:00](https://soylentnews.org/article.pl?sid=23/12/15/0445256&from=rss) - [Study Shows it Might Never be Too Late to Live Longer by Dieting ](https://soylentnews.org/article.pl?sid=23/12/15/0445256&from=rss)
 
 ## [Archives](archives/index.md)
 
