@@ -145,6 +145,109 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/12/24/0428239">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/12/24/0428239&amp;from=rss"
+              >SMTP Vulnerability Withheld From Open Source Project, Published
+              Right Before Xmas Break</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-26 @ 01:07:00</span
+              ><span class="points-container"
+                >Points: <span class="points">57</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/12/24/0428239"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                <a href="//soylentnews.org/~coolgopher/">coolgopher</a> writes:
+              </p>
+              <p>
+                From
+                <a href="https://www.postfix.org/smtp-smuggling.html"
+                  >https://www.postfix.org/smtp-smuggling.html</a
+                >
+                :
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Days before a 10+ day holiday break and associated
+                    production change freeze, SEC Consult has published an email
+                    spoofing attack that involves a composition of email
+                    services with specific differences in the way they handle
+                    line endings other than &lt;CR&gt;&lt;LF&gt;.
+                  </p>
+                  <p>
+                    Unfortunately, criticial information provided by the
+                    researcher was not passed on to Postfix maintainers before
+                    publication of the attack, otherwise we would certainly have
+                    convinced SEC Consult to change their time schedule until
+                    after people had a chance to update their Postfix systems.
+                  </p>
+                  <p>
+                    The attack involves a COMPOSITION of two email services with
+                    specific differences in the way they handle line endings
+                    other than &lt;CR&gt;&lt;LF&gt;:
+                  </p>
+                  <p>
+                      - One email service A that does not recognize broken line
+                    endings in SMTP such as in &lt;LF&gt;.&lt;CR&gt;&lt;LF&gt;
+                    in an email message from an authenticated attacker to a
+                    recipient at email service B, and that propagates those
+                    broken line endings verbatim when it forwards that message
+                    to:
+                  </p>
+                  <p>
+                      - One different email service B that does support broken
+                    line endings in SMTP such as in
+                    &lt;LF&gt;.&lt;CR&gt;&lt;LF&gt;. When this is followed by
+                    "smuggled" SMTP MAIL/RCPT/DATA commands and message header
+                    plus body text, email service B is tricked into receiving
+                    two email messages: one message with the content before the
+                    &lt;LF&gt;.&lt;CR&gt;&lt;LF&gt;, and one message with the
+                    "smuggled" header plus body text after the "smuggled" SMTP
+                    commands. All this when email service A sends only one
+                    message.
+                  </p>
+                  <p>
+                    Postfix is an example of email service B. Microsoft's
+                    outlook.com was an example of email service A.
+                  </p>
+                  <p>
+                    The "smuggled" SMTP MAIL/RCPT/DATA commands and header plus
+                    body text can be used to spoof email from any sender whose
+                    domain is hosted at email service A, to any recipient whose
+                    domain is hosted at email service B. Such email will pass
+                    SPF-based DMARC checks at email service B, because the
+                    smuggled message has a sender address that is hosted at
+                    email service A, and because the message was received from
+                    email service A.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61703"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/12/24/0424210">
           <h3>
             <a
@@ -157,7 +260,7 @@
             <h4>
               <span>2023-12-25 @ 20:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">384</span></span
+                >Points: <span class="points">406</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/24/0424210"
@@ -246,7 +349,7 @@
             <h4>
               <span>2023-12-25 @ 15:37:00</span
               ><span class="points-container"
-                >Points: <span class="points">547</span></span
+                >Points: <span class="points">561</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/24/0421211"
@@ -315,7 +418,7 @@
             <h4>
               <span>2023-12-25 @ 10:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">454</span></span
+                >Points: <span class="points">467</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/24/0414237"
@@ -471,7 +574,7 @@
             <h4>
               <span>2023-12-25 @ 06:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">819</span></span
+                >Points: <span class="points">835</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/1420213"
@@ -547,7 +650,7 @@
             <h4>
               <span>2023-12-25 @ 01:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">792</span></span
+                >Points: <span class="points">802</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/1413245"
@@ -663,7 +766,7 @@
             <h4>
               <span>2023-12-24 @ 20:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">933</span></span
+                >Points: <span class="points">944</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/147248"
@@ -794,7 +897,7 @@
             <h4>
               <span>2023-12-24 @ 15:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">1149</span></span
+                >Points: <span class="points">1159</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/0310253"
@@ -884,7 +987,7 @@
             <h4>
               <span>2023-12-24 @ 10:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">1286</span></span
+                >Points: <span class="points">1297</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/030245"
@@ -993,7 +1096,7 @@
             <h4>
               <span>2023-12-24 @ 06:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">1262</span></span
+                >Points: <span class="points">1271</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/0256209"
@@ -1123,7 +1226,7 @@
             <h4>
               <span>2023-12-24 @ 01:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">1597</span></span
+                >Points: <span class="points">1604</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/0253252"
@@ -1267,7 +1370,7 @@
             <h4>
               <span>2023-12-23 @ 20:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">1292</span></span
+                >Points: <span class="points">1301</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/0219201"
@@ -1387,7 +1490,7 @@
             <h4>
               <span>2023-12-23 @ 15:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">1634</span></span
+                >Points: <span class="points">1641</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/23/028200"
@@ -1508,7 +1611,7 @@
             <h4>
               <span>2023-12-23 @ 11:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">1582</span></span
+                >Points: <span class="points">1589</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/22/0240208"
@@ -1614,7 +1717,7 @@
             <h4>
               <span>2023-12-23 @ 06:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">1784</span></span
+                >Points: <span class="points">1792</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/22/0234238"
@@ -1762,7 +1865,7 @@
             <h4>
               <span>2023-12-23 @ 01:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">1593</span></span
+                >Points: <span class="points">1601</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/22/0213253"
@@ -1835,7 +1938,7 @@
             <h4>
               <span>2023-12-22 @ 20:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">1999</span></span
+                >Points: <span class="points">2006</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/22/020211"
@@ -1960,7 +2063,7 @@
             <h4>
               <span>2023-12-22 @ 16:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">2006</span></span
+                >Points: <span class="points">2013</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/21/033253"
@@ -2035,7 +2138,7 @@
             <h4>
               <span>2023-12-22 @ 11:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">2182</span></span
+                >Points: <span class="points">2189</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/21/0257238"
@@ -2143,7 +2246,7 @@
             <h4>
               <span>2023-12-22 @ 06:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">1996</span></span
+                >Points: <span class="points">2003</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/21/0253209"
@@ -2350,7 +2453,7 @@
             <h4>
               <span>2023-12-21 @ 16:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">3089</span></span
+                >Points: <span class="points">3091</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/20/063225"
@@ -3505,7 +3608,7 @@
             <h4>
               <span>2023-12-19 @ 12:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">2498</span></span
+                >Points: <span class="points">2499</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/17/2314256"
@@ -3717,7 +3820,7 @@
             <h4>
               <span>2023-12-19 @ 04:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">2014</span></span
+                >Points: <span class="points">2015</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/17/067214"
@@ -3789,7 +3892,7 @@
             <h4>
               <span>2023-12-18 @ 23:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">2906</span></span
+                >Points: <span class="points">2907</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=23/12/17/059208"
@@ -5071,92 +5174,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61634"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/12/15/0416219">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/12/15/0416219&amp;from=rss"
-              >Google's Turning Off Third-Party Cookies Entirely in the Second
-              Half of 2024</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-16 @ 08:14:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2482</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/12/15/0416219"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Arthur T Knackerbracket has processed the
-                <a
-                  href="https://www.theverge.com/2023/12/14/24000451/google-chrome-tracking-protection-launch-third-party-cookies-ads"
-                  >following story</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Google is about to launch its grand plan to block
-                    third-party cookies in Chrome that many websites use to
-                    track your activity across the web for profit.
-                  </p>
-                  <p>
-                    Starting on January 4th, Google will start testing its new
-                    Tracking Protection feature that will eventually restrict
-                    website access to third-party cookies by default. It will
-                    come to a very small subset of Chrome users at the start,
-                    specifically to one percent of users globally. Afterward,
-                    Google plans to phase out the use of third-party cookies for
-                    all users in the second half of 2024.
-                  </p>
-                  <p>
-                    [...] Google’s approach to cookie-free advertising sounds
-                    helpful to both privacy-focused users and the overall
-                    advertiser business in comparison to other web browsers that
-                    take more stone-walled approaches to block cross-site
-                    tracking. However, Google’s competitors and privacy
-                    advocates aren’t
-                    <a
-                      href="https://www.theverge.com/2021/3/30/22358287/privacy-ads-google-chrome-floc-cookies-cookiepocalypse-finger-printing"
-                      >fully convinced about its cookie-replacing tech</a
-                    >.
-                  </p>
-                  <p>
-                    Meanwhile, regulators like the
-                    <a
-                      href="https://www.theverge.com/2022/2/11/22814204/google-chrome-third-party-cookies-privacy-sandbox-uk-competition-and-markets-authority-regulator"
-                      >UK’s Competition and Markets Authority (CMA) is keeping
-                      an eye on</a
-                    >
-                    Google’s new Tracking Protection to ensure it doesn’t give
-                    the company an unfair advantage in selling its own ads. With
-                    that in mind, Google says it’s hedging that H2 2024 target
-                    for turning the feature on globally in case it needs time to
-                    address “any remaining competition concerns.”
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61649"
                     >Original Submission</a
                   ></small
                 >
