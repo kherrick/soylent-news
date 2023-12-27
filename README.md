@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-27, 00:54:00](https://soylentnews.org/article.pl?sid=23/12/26/1315247&from=rss) - [Risc-V Hardware Ecosystem Gets Strong Industry Support - Qualcomm Joins With Four Other Players](https://soylentnews.org/article.pl?sid=23/12/26/1315247&from=rss)
 * [2023-12-26, 20:07:00](https://soylentnews.org/article.pl?sid=23/12/26/029257&from=rss) - [Drones Attack Commercial Vessels on the Red Sea and Arabian Sea](https://soylentnews.org/article.pl?sid=23/12/26/029257&from=rss)
 * [2023-12-26, 15:23:00](https://soylentnews.org/article.pl?sid=23/12/25/2218201&from=rss) - [Apple Vs. Beeper: DOJ And FTC On Imessage Controversy](https://soylentnews.org/article.pl?sid=23/12/25/2218201&from=rss)
 * [2023-12-26, 10:37:00](https://soylentnews.org/article.pl?sid=23/12/25/1722209&from=rss) - [The Wintel Duopoly Plans to Send 240 Million PCs to the Landfill](https://soylentnews.org/article.pl?sid=23/12/25/1722209&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-17, 23:48:00](https://soylentnews.org/article.pl?sid=23/12/16/2136228&from=rss) - [Intel Unveils Core Ultra, its First Chips With NPUs for AI Work](https://soylentnews.org/article.pl?sid=23/12/16/2136228&from=rss)
 * [2023-12-17, 19:07:00](https://soylentnews.org/article.pl?sid=23/12/16/2121235&from=rss) - [Neanderthals May Have Been Morning People](https://soylentnews.org/article.pl?sid=23/12/16/2121235&from=rss)
 * [2023-12-17, 14:18:00](https://soylentnews.org/article.pl?sid=23/12/16/2113226&from=rss) - [Michael Cohen's Lawyer Cited Three Fake Cases in Possible AI-Fueled Screwup](https://soylentnews.org/article.pl?sid=23/12/16/2113226&from=rss)
-* [2023-12-17, 09:31:00](https://soylentnews.org/article.pl?sid=23/12/16/0333224&from=rss) - [New Ideas Are Out There—We Just Need to Look for Them](https://soylentnews.org/article.pl?sid=23/12/16/0333224&from=rss)
 
 ## [Archives](archives/index.md)
 
