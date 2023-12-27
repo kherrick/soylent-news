@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-27, 10:23:00](https://soylentnews.org/article.pl?sid=23/12/26/1327204&from=rss) - [Firm Predicts It Will Cost $28 Billion To Build A 2Nm Fab And $30,000 Per Wafer](https://soylentnews.org/article.pl?sid=23/12/26/1327204&from=rss)
 * [2023-12-27, 05:37:00](https://soylentnews.org/article.pl?sid=23/12/26/1318231&from=rss) - [Nasa Astronauts Test Spacex's Crucial Moon Elevator](https://soylentnews.org/article.pl?sid=23/12/26/1318231&from=rss)
 * [2023-12-27, 00:54:00](https://soylentnews.org/article.pl?sid=23/12/26/1315247&from=rss) - [Risc-V Hardware Ecosystem Gets Strong Industry Support - Qualcomm Joins With Four Other Players](https://soylentnews.org/article.pl?sid=23/12/26/1315247&from=rss)
 * [2023-12-26, 20:07:00](https://soylentnews.org/article.pl?sid=23/12/26/029257&from=rss) - [Drones Attack Commercial Vessels on the Red Sea and Arabian Sea](https://soylentnews.org/article.pl?sid=23/12/26/029257&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-18, 09:19:00](https://soylentnews.org/article.pl?sid=23/12/17/0420242&from=rss) - [Turing Test on Steroids: Chatbot Arena Crowdsources Ratings for 45 AI Models](https://soylentnews.org/article.pl?sid=23/12/17/0420242&from=rss)
 * [2023-12-18, 04:34:00](https://soylentnews.org/article.pl?sid=23/12/17/0417259&from=rss) - [E-Books are Fast Becoming Tools of Corporate Surveillance](https://soylentnews.org/article.pl?sid=23/12/17/0417259&from=rss)
 * [2023-12-17, 23:48:00](https://soylentnews.org/article.pl?sid=23/12/16/2136228&from=rss) - [Intel Unveils Core Ultra, its First Chips With NPUs for AI Work](https://soylentnews.org/article.pl?sid=23/12/16/2136228&from=rss)
-* [2023-12-17, 19:07:00](https://soylentnews.org/article.pl?sid=23/12/16/2121235&from=rss) - [Neanderthals May Have Been Morning People](https://soylentnews.org/article.pl?sid=23/12/16/2121235&from=rss)
 
 ## [Archives](archives/index.md)
 
