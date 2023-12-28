@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-28, 10:13:00](https://soylentnews.org/article.pl?sid=23/12/27/0336257&from=rss) - [Reindeer Can Chew Their Food and Sleep at the Same Time](https://soylentnews.org/article.pl?sid=23/12/27/0336257&from=rss)
 * [2023-12-28, 05:28:00](https://soylentnews.org/article.pl?sid=23/12/27/0315227&from=rss) - [Porn Viewers in EU May Have to Prove Their Age](https://soylentnews.org/article.pl?sid=23/12/27/0315227&from=rss)
 * [2023-12-28, 00:39:00](https://soylentnews.org/article.pl?sid=23/12/26/2310234&from=rss) - [How Google’s co-founders Have ‘Escaped All Scrutiny’ in Landmark Antitrust Trials](https://soylentnews.org/article.pl?sid=23/12/26/2310234&from=rss)
 * [2023-12-27, 19:51:00](https://soylentnews.org/article.pl?sid=23/12/26/2113219&from=rss) - [Encrypted Email Service Tuta Denies It's a 'Honeypot' for Five Eyes Intelligence](https://soylentnews.org/article.pl?sid=23/12/26/2113219&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-19, 08:33:00](https://soylentnews.org/article.pl?sid=23/12/17/232250&from=rss) - [NASA Donates Ingenuity Mars Helicopter Prototype to Smithsonian](https://soylentnews.org/article.pl?sid=23/12/17/232250&from=rss)
 * [2023-12-19, 04:19:00](https://soylentnews.org/article.pl?sid=23/12/17/067214&from=rss) - [Research Reveals the Secret Sites Where America's Migrating Songbirds Stop to Rest and Refuel](https://soylentnews.org/article.pl?sid=23/12/17/067214&from=rss)
 * [2023-12-18, 23:31:00](https://soylentnews.org/article.pl?sid=23/12/17/059208&from=rss) - [How Police Have Undermined the Promise of Body Cameras](https://soylentnews.org/article.pl?sid=23/12/17/059208&from=rss)
-* [2023-12-18, 18:49:00](https://soylentnews.org/article.pl?sid=23/12/17/053257&from=rss) - [Needle-Free Covid Vaccines are (Still) in the Works](https://soylentnews.org/article.pl?sid=23/12/17/053257&from=rss)
 
 ## [Archives](archives/index.md)
 
