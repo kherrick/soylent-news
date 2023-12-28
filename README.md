@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-28, 00:39:00](https://soylentnews.org/article.pl?sid=23/12/26/2310234&from=rss) - [How Google’s co-founders Have ‘Escaped All Scrutiny’ in Landmark Antitrust Trials](https://soylentnews.org/article.pl?sid=23/12/26/2310234&from=rss)
 * [2023-12-27, 19:51:00](https://soylentnews.org/article.pl?sid=23/12/26/2113219&from=rss) - [Encrypted Email Service Tuta Denies It's a 'Honeypot' for Five Eyes Intelligence](https://soylentnews.org/article.pl?sid=23/12/26/2113219&from=rss)
 * [2023-12-27, 15:06:00](https://soylentnews.org/article.pl?sid=23/12/25/0510216&from=rss) - [US Government May Demand We Stop Considering Potatoes a Vegetable](https://soylentnews.org/article.pl?sid=23/12/25/0510216&from=rss)
 * [2023-12-27, 10:23:00](https://soylentnews.org/article.pl?sid=23/12/26/1327204&from=rss) - [Firm Predicts It Will Cost $28 Billion To Build A 2Nm Fab And $30,000 Per Wafer](https://soylentnews.org/article.pl?sid=23/12/26/1327204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-18, 23:31:00](https://soylentnews.org/article.pl?sid=23/12/17/059208&from=rss) - [How Police Have Undermined the Promise of Body Cameras](https://soylentnews.org/article.pl?sid=23/12/17/059208&from=rss)
 * [2023-12-18, 18:49:00](https://soylentnews.org/article.pl?sid=23/12/17/053257&from=rss) - [Needle-Free Covid Vaccines are (Still) in the Works](https://soylentnews.org/article.pl?sid=23/12/17/053257&from=rss)
 * [2023-12-18, 14:04:00](https://soylentnews.org/article.pl?sid=23/12/17/0455237&from=rss) - [ Mickey, Disney, and the Public Domain: a 95-Year Love Triangle](https://soylentnews.org/article.pl?sid=23/12/17/0455237&from=rss)
-* [2023-12-18, 09:19:00](https://soylentnews.org/article.pl?sid=23/12/17/0420242&from=rss) - [Turing Test on Steroids: Chatbot Arena Crowdsources Ratings for 45 AI Models](https://soylentnews.org/article.pl?sid=23/12/17/0420242&from=rss)
 
 ## [Archives](archives/index.md)
 

@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-28](index.md)
+
+* [2023-12-28, 00:39:00](https://soylentnews.org/article.pl?sid=23/12/26/2310234&from=rss) - [How Google’s co-founders Have ‘Escaped All Scrutiny’ in Landmark Antitrust Trials](https://soylentnews.org/article.pl?sid=23/12/26/2310234&from=rss)
