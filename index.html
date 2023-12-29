@@ -145,6 +145,278 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="23/12/28/1520241">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=23/12/28/1520241&amp;from=rss"
+              >LogoFAIL Firmware Attack Roundup</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-29 @ 05:20:00</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=23/12/28/1520241"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    [...] It is important to note that, despite the hype, to
+                    exploit these vulnerabilities it is necessary to have access
+                    to the system in the first place, and in that access, to
+                    have privileges to write to the EFI partition and UEFI
+                    non-volatile ram (nvram). The keen-eyed reader will realize
+                    that, if you already have that level of access, then it's
+                    not necessarily the LogoFAIL exploit itself that is the
+                    problem, but rather the persistence that it enables for
+                    other malware to abuse. Consider, for example, a ransomware
+                    that persists even system reimaging attempts after an
+                    infrastructure-wide attack. It would cripple recovery
+                    operations.
+                  </p>
+                  <p>
+                    Adding insult to injury, the vulnerabilities exist across
+                    multiple platforms and architectures. It impacts both x86
+                    and ARM-based devices. BIOS vendors like AMI, Phoenix, and
+                    others, create firmware that is affected by LogoFAIL. In
+                    turn, this makes motherboards using that firmware to also be
+                    affected by it – it doesn't matter if server-grade or
+                    consumer-grade hardware, as the same BIOS vendors will
+                    provide software for all of them. Vendors like Intel, Dell,
+                    Supermicro, Acer, and many others are therefore affected.
+                  </p>
+                  <p>
+                    [...] These findings highlight another dimension of software
+                    supply chain risks. Directly targeting hardware adds to the
+                    already complex array of threats affecting software supply
+                    chains, from developer tools to source code repositories.
+                  </p>
+                  <p>
+                    The fact that a given workload is potentially affected by
+                    vulnerabilities all throughout this large dependency and
+                    environment chain is something that we seem to turn a blind
+                    eye to – either through a lack of awareness or an inability
+                    to effectively prevent it – but which doesn't make it any
+                    more secure.
+                  </p>
+                </div>
+              </blockquote>
+              <h4>
+                Just About Every Windows and Linux Device Vulnerable to New
+                LogoFAIL Firmware Attack
+              </h4>
+              <p></p>
+              <p></p>
+              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
+              <p>
+                <a
+                  href="https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/"
+                  >UEFIs booting Windows and Linux devices can be hacked by
+                  malicious logo images</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Hundreds of Windows and Linux computer models from virtually
+                    all hardware makers are vulnerable to a new attack that
+                    executes malicious firmware early in the boot-up sequence, a
+                    feat that allows infections that are nearly impossible to
+                    detect or remove using current defense mechanisms.
+                  </p>
+                  <p>
+                    The attack—dubbed LogoFAIL by the researchers who devised
+                    it—is notable for the relative ease in carrying it out, the
+                    breadth of both consumer- and enterprise-grade models that
+                    are susceptible, and the high level of control it gains over
+                    them. In many cases, LogoFAIL can be remotely executed in
+                    post-exploit situations using techniques that can't be
+                    spotted by traditional endpoint security products. And
+                    because exploits run during the earliest stages of the boot
+                    process, they are able to bypass a host of defenses,
+                    including the industry-wide Secure Boot, Intel's Secure
+                    Boot, and similar protections from other companies that are
+                    devised to prevent so-called bootkit infections.
+                  </p>
+                  <p>Game over for platform security</p>
+                  <p>
+                    LogoFAIL is a constellation of two dozen newly discovered
+                    vulnerabilities that have lurked for years, if not decades,
+                    in Unified Extensible Firmware Interfaces responsible for
+                    booting modern devices that run Windows or Linux. The
+                    vulnerabilities are the product of almost a year's worth of
+                    work by Binarly, a firm that helps customers identify and
+                    secure vulnerable firmware.
+                  </p>
+                  <p>
+                    [...] As its name suggests, LogoFAIL involves logos,
+                    specifically those of the hardware seller that are displayed
+                    on the device screen early in the boot process, while the
+                    UEFI is still running. Image parsers in UEFIs from all three
+                    major IBVs are riddled with roughly a dozen critical
+                    vulnerabilities that have gone unnoticed until now. By
+                    replacing the legitimate logo images with identical-looking
+                    ones that have been specially crafted to exploit these bugs,
+                    LogoFAIL makes it possible to execute malicious code at the
+                    most sensitive stage of the boot process, which is known as
+                    DXE, short for Driver Execution Environment.
+                  </p>
+                  <p>
+                    "Once arbitrary code execution is achieved during the DXE
+                    phase, it's game over for platform security," researchers
+                    from Binarly, the security firm that discovered the
+                    vulnerabilities, wrote in a whitepaper. "From this stage, we
+                    have full control over the memory and the disk of the target
+                    device, thus including the operating system that will be
+                    started."
+                  </p>
+                  <p>
+                    From there, LogoFAIL can deliver a second-stage payload that
+                    drops an executable onto the hard drive before the main OS
+                    has even started.
+                    <a href="https://youtu.be/EufeOPe6eqk"
+                      >The following video</a
+                    >
+                    demonstrates a proof-of-concept exploit created by the
+                    researchers. The infected device—a Gen 2 Lenovo ThinkCentre
+                    M70s running an 11th-Gen Intel Core with a UEFI released in
+                    June—runs standard firmware defenses, including Secure Boot
+                    and Intel Boot Guard.
+                  </p>
+                </div>
+              </blockquote>
+              <h4>
+                Detecting LogoFAIL Vulnerabilities and Exploits at Enterprise
+                Scale
+              </h4>
+              <p></p>
+              <p>
+                <a
+                  href="https://eclypsium.com/blog/detecting-logofail-vulnerabilities-and-exploits-at-enterprise-scale/"
+                  >Detecting LogoFAIL Vulnerabilities and Exploits at Enterprise
+                  Scale - Eclypsium</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    IT security teams are assessing new UEFI vulnerabilities
+                    that affect Windows and Linux systems. The vulnerabilities
+                    are collectively called LogoFAIL because they exist in UEFI
+                    image parsers that display the manufacturer logo when the
+                    system boots up.
+                  </p>
+                  <p>
+                    Affected vendors include UEFI suppliers AMI, Insyde, and
+                    Phoenix and device manufacturers such as Lenovo, Dell, and
+                    HP. Some vendors have already issued advisories, but we
+                    should expect the list to expand as more vendors assess
+                    their exposure.
+                  </p>
+                  <p>
+                    [...] Defenders need to know which systems are affected by
+                    LogoFAIL vulnerabilities and the associated severity. The
+                    CERT Coordination Center at Carnegie Mellon has
+                    <a href="https://kb.cert.org/vuls/id/811862"
+                      >a dynamic list of affected vendors</a
+                    >
+                    and associated security advisories.
+                  </p>
+                  <p>
+                    So far, it is difficult to determine the severity as no
+                    public exploit has been published, and some of the now
+                    public vulnerabilities have been scored differently by the
+                    researchers from Binarly who discovered the LogoFAIL
+                    vulnerabilities, the UEFI firmware vendors (Phoenix
+                    Technologies, Insyde, and AMI), and the National
+                    Vulnerability Database (NVD). The severity and
+                    exploitability of each LogoFAIL vulnerability will likely
+                    depend on how affected firmware vendors and equipment
+                    manufacturers (OEMs) store and process logo images. An
+                    attacker's ability to modify these logo images or paths to
+                    them may depend on malicious software running locally on a
+                    system (with administrative or root-level privileges), by an
+                    attacker remotely accessing the system, or by an attacker
+                    who gained physical access to a target.
+                  </p>
+                  <p>
+                    You should monitor and apply patches as they become
+                    available from each OEM for each product model. As of the
+                    time of this writing, the list of affected products that
+                    have associated CVE identifiers includes the following:
+                  </p>
+                  <p>
+                    Insyde has issued
+                    <a href="https://www.insyde.com/security-pledge/SA-2023053"
+                      >INSYDE-SA-2023053</a
+                    >
+                    and assigned it a CVSS score of 4.4. The associated CVE is
+                    <a href="https://nvd.nist.gov/vuln/detail/CVE-2023-40238"
+                      >CVE-2023-40238</a
+                    >
+                    and has been scored a CVSS 5.5 (Medium) by the NVD. The
+                    aforementioned CVE correlates to Binarly's vulnerability
+                    identifier BRLY-LOGOFAIL-2023-006 with an assigned CVSS of
+                    8.2 (High). The difference in CVSS score appears to result
+                    from differences in perceived potential impact on
+                    confidentiality, integrity, and availability.
+                  </p>
+                  <p>
+                    AMI has issued
+                    <a
+                      href="https://9443417.fs1.hubspotusercontent-na1.net/hubfs/9443417/Security%20Advisories/AMI-SA-2023009.pdf"
+                      >AMI-SA-2023009</a
+                    >
+                    and assigned a score of 7.5 to each of the associated CVEs,
+                    while the NVD has assigned a score of 7.8:
+                  </p>
+                  <ul>
+                    <li>
+                      <a href="https://nvd.nist.gov/vuln/detail/CVE-2023-39538"
+                        >CVE-2023-39538</a
+                      >
+                      – AMI CVSS = 7.5 (High), NVD CVSS = 7.8 (High)
+                    </li>
+                    <li>
+                      <a href="https://nvd.nist.gov/vuln/detail/CVE-2023-39539"
+                        >CVE-2023-39539</a
+                      >
+                      – AMI CVSS = 7.5 (High), NVD CVSS = 7.8 (High)
+                    </li>
+                  </ul>
+                  <p>
+                    The severity rating for the AMI vulnerabilities is higher
+                    than the CVE in Insyde firmware due to stated impact on
+                    confidentiality and integrity.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61725"
+                    >Original Submission #1</a
+                  > 
+                  <a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61726"
+                    >Original Submission #2</a
+                  > 
+                </small>
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="23/12/28/0615255">
           <h3>
             <a
@@ -5281,122 +5553,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61663"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/12/17/2314256">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/12/17/2314256&amp;from=rss"
-              >Putting Truth to the Test</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-19 @ 12:51:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2568</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/12/17/2314256"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~hubie/">hubie</a> writes:</p>
-              <p>
-                <a
-                  href="https://www.bc.edu/content/bc-web/sites/bc-news/articles/2023/summer/the-truth-of-the-matter.html"
-                  >BC psychologists probe the roots of truth judgments in the
-                  'post-truth' era</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Putting truth to the test in the "post-truth" era, Boston
-                    College psychologists conducted experiments that show when
-                    Americans decide whether a claim of fact should qualify as
-                    true or false, they consider the intentions of the
-                    information source, the team reported recently in Nature's
-                    Scientific Reports.
-                  </p>
-                  <p>
-                    That confidence is based on what individuals think the
-                    source is trying to do – in this case either informing or
-                    deceiving their audience.
-                  </p>
-                  <p>
-                    "Even when people know precisely how accurate or inaccurate
-                    a claim of fact is, whether they consider that claim to be
-                    true or false hinges on the intentions they attribute to the
-                    claim's information source," said Professor of Psychology
-                    and Neuroscience Liane Young, an author of the report. "In
-                    other words, the intentions of information sources sway
-                    people's judgments about what information should qualify as
-                    true."
-                  </p>
-                  <p>
-                    Lead author Isaac Handley-Miner, a PhD student and
-                    researcher in Young's Morality Lab, said the so-called
-                    post-truth era has revealed vigorous disagreement over the
-                    truth of claims of fact — even for claims that are easy to
-                    verify.
-                  </p>
-                  <p>
-                    "That disagreement has alarmed our society," said
-                    Handley-Miner. "After all, it's often assumed that the
-                    labels 'true' and 'false' should correspond to the objective
-                    accuracy of a claim. But is objective accuracy actually the
-                    only criterion people consider when deciding what should
-                    qualify as true or false? Or, even when people know how
-                    objectively accurate a given claim of fact is, might they be
-                    sensitive to features of the social context—such as the
-                    intentions of the information source? We set out to test
-                    whether the intentions of information sources affect whether
-                    people consider a claim of fact to be true or false even
-                    when they have access to the ground truth."
-                  </p>
-                  <p>
-                    [...] The findings suggest that, even if people have access
-                    to the same set of facts, they might disagree about the
-                    truth of claims if they attribute discrepant intentions to
-                    information sources.
-                  </p>
-                  <p>
-                    The results demonstrated that people are not merely
-                    sensitive to the objective accuracy of claims of fact when
-                    classifying them as true or false. While this study focused
-                    on the intent of the information source, Young and
-                    Handley-Miner say intent is probably not the only other
-                    feature people use to evaluate truth.
-                  </p>
-                </div>
-              </blockquote>
-              <p>
-                <b>Journal Reference:</b><br />Handley-Miner, I.J., Pope, M.,
-                Atkins, R.K. <em>et al</em>.
-                <b
-                  >The intentions of information sources can affect what
-                  information people think qualifies as true</b
-                >. <em>Sci Rep</em> <b>13</b>, 7718 (2023).
-                <a href="https://doi.org/10.1038/s41598-023-34806-4"
-                  >https://doi.org/10.1038/s41598-023-34806-4</a
-                >
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61664"
                     >Original Submission</a
                   ></small
                 >
