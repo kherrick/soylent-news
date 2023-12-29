@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-29, 15:13:00](https://soylentnews.org/article.pl?sid=23/12/28/2310243&from=rss) - [New York Times Sues Microsoft, ChatGPT Maker OpenAI Over Copyright Infringement](https://soylentnews.org/article.pl?sid=23/12/28/2310243&from=rss)
 * [2023-12-29, 10:05:00](https://soylentnews.org/article.pl?sid=23/12/29/0146258&from=rss) - [Taser Maker Axon Has a Moving Backstory. It's Mostly a Myth](https://soylentnews.org/article.pl?sid=23/12/29/0146258&from=rss)
 * [2023-12-29, 05:20:00](https://soylentnews.org/article.pl?sid=23/12/28/1520241&from=rss) - [LogoFAIL Firmware Attack Roundup](https://soylentnews.org/article.pl?sid=23/12/28/1520241&from=rss)
 * [2023-12-29, 00:33:00](https://soylentnews.org/article.pl?sid=23/12/28/0615255&from=rss) - [December 2023 Security Space Mail (MX) Server Survey](https://soylentnews.org/article.pl?sid=23/12/28/0615255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-20, 07:03:00](https://soylentnews.org/article.pl?sid=23/12/19/0443259&from=rss) - [Google Groups Ending Support for Usenet in February 2024](https://soylentnews.org/article.pl?sid=23/12/19/0443259&from=rss)
 * [2023-12-20, 02:15:00](https://soylentnews.org/article.pl?sid=23/12/19/0441200&from=rss) - [Managing Open Source Software and Software Bill of Materials](https://soylentnews.org/article.pl?sid=23/12/19/0441200&from=rss)
 * [2023-12-19, 21:30:00](https://soylentnews.org/article.pl?sid=23/12/17/2340253&from=rss) - [Elon Musk's X Ad Revenue Reportedly Fell $1.5B This Year Amid Boycotts](https://soylentnews.org/article.pl?sid=23/12/17/2340253&from=rss)
-* [2023-12-19, 20:00:00](https://soylentnews.org/meta/article.pl?sid=23/12/19/1845232&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, December 20, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/12/19/1845232&from=rss)
 
 ## [Archives](archives/index.md)
 
