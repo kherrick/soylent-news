@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-29](index.md)
+
+* [2023-12-29, 00:33:00](https://soylentnews.org/article.pl?sid=23/12/28/0615255&from=rss) - [December 2023 Security Space Mail (MX) Server Survey](https://soylentnews.org/article.pl?sid=23/12/28/0615255&from=rss)

@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-29, 00:33:00](https://soylentnews.org/article.pl?sid=23/12/28/0615255&from=rss) - [December 2023 Security Space Mail (MX) Server Survey](https://soylentnews.org/article.pl?sid=23/12/28/0615255&from=rss)
 * [2023-12-28, 19:46:00](https://soylentnews.org/article.pl?sid=23/12/27/1543244&from=rss) - [Watch Sand Defy Gravity and Flow Uphill Thanks to “Negative Friction”](https://soylentnews.org/article.pl?sid=23/12/27/1543244&from=rss)
 * [2023-12-28, 15:01:00](https://soylentnews.org/article.pl?sid=23/12/27/1534255&from=rss) - [What You Need To Know About Python's 'Dead Batteries'](https://soylentnews.org/article.pl?sid=23/12/27/1534255&from=rss)
 * [2023-12-28, 10:13:00](https://soylentnews.org/article.pl?sid=23/12/27/0336257&from=rss) - [Reindeer Can Chew Their Food and Sleep at the Same Time](https://soylentnews.org/article.pl?sid=23/12/27/0336257&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-19, 20:00:00](https://soylentnews.org/meta/article.pl?sid=23/12/19/1845232&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, December 20, 2023 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=23/12/19/1845232&from=rss)
 * [2023-12-19, 17:11:00](https://soylentnews.org/article.pl?sid=23/12/17/2321249&from=rss) - [Two Interesting XOR Circuits Inside the Intel 386 Processor](https://soylentnews.org/article.pl?sid=23/12/17/2321249&from=rss)
 * [2023-12-19, 12:51:00](https://soylentnews.org/article.pl?sid=23/12/17/2314256&from=rss) - [Putting Truth to the Test](https://soylentnews.org/article.pl?sid=23/12/17/2314256&from=rss)
-* [2023-12-19, 08:33:00](https://soylentnews.org/article.pl?sid=23/12/17/232250&from=rss) - [NASA Donates Ingenuity Mars Helicopter Prototype to Smithsonian](https://soylentnews.org/article.pl?sid=23/12/17/232250&from=rss)
 
 ## [Archives](archives/index.md)
 
