@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-30, 15:05:00](https://soylentnews.org/article.pl?sid=23/12/29/2137227&from=rss) - [Intel CEO Claims 18A Node Will at Least Match TSMC's N2 Performance and Beat It to Market](https://soylentnews.org/article.pl?sid=23/12/29/2137227&from=rss)
 * [2023-12-30, 10:23:00](https://soylentnews.org/article.pl?sid=23/12/29/045209&from=rss) - [Injection of “Smart Insulin” Regulates Blood Glucose Levels for One Week](https://soylentnews.org/article.pl?sid=23/12/29/045209&from=rss)
 * [2023-12-30, 05:36:00](https://soylentnews.org/article.pl?sid=23/12/29/0356234&from=rss) - [Physicists Designed an Experiment to Turn Light Into Matter](https://soylentnews.org/article.pl?sid=23/12/29/0356234&from=rss)
 * [2023-12-30, 00:51:00](https://soylentnews.org/article.pl?sid=23/12/29/0349240&from=rss) - [Postgres Pioneer Promises To Upend The Database Once More](https://soylentnews.org/article.pl?sid=23/12/29/0349240&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-21, 06:56:00](https://soylentnews.org/article.pl?sid=23/12/20/0337233&from=rss) - [Volkswagen is Returning to Physical Buttons Instead of Touch Controls](https://soylentnews.org/article.pl?sid=23/12/20/0337233&from=rss)
 * [2023-12-21, 02:12:00](https://soylentnews.org/article.pl?sid=23/12/20/0334209&from=rss) - [A Chinese EV Squeezed 650 Miles Of Range From Its 150 kWh Battery](https://soylentnews.org/article.pl?sid=23/12/20/0334209&from=rss)
 * [2023-12-20, 21:24:00](https://soylentnews.org/article.pl?sid=23/12/20/0330216&from=rss) - [Ubiquiti Fixes Massive Bug That Allowed Users To View Others' Security Cameras](https://soylentnews.org/article.pl?sid=23/12/20/0330216&from=rss)
-* [2023-12-20, 16:37:00](https://soylentnews.org/article.pl?sid=23/12/19/0459244&from=rss) - [Grindavík Volcano Has Begun Erupting](https://soylentnews.org/article.pl?sid=23/12/19/0459244&from=rss)
 
 ## [Archives](archives/index.md)
 
