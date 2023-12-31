@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 23:00:00](https://soylentnews.org/article.pl?sid=23/12/31/122228&from=rss) - [Happy New Year!](https://soylentnews.org/article.pl?sid=23/12/31/122228&from=rss)
 * [2023-12-31, 19:41:00](https://soylentnews.org/article.pl?sid=23/12/30/1724224&from=rss) - [This Bird is Like a GPS for Honey](https://soylentnews.org/article.pl?sid=23/12/30/1724224&from=rss)
 * [2023-12-31, 14:53:00](https://soylentnews.org/article.pl?sid=23/12/30/0258217&from=rss) - [Fundamental Flaws With Tesla Vehicles and How They Are Covered Up and Pushed on the Consumer](https://soylentnews.org/article.pl?sid=23/12/30/0258217&from=rss)
 * [2023-12-31, 10:08:00](https://soylentnews.org/article.pl?sid=23/12/30/0244212&from=rss) - [What Comes After Open Source? Bruce Perens is Working on It](https://soylentnews.org/article.pl?sid=23/12/30/0244212&from=rss)
