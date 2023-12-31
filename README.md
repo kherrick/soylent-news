@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-31, 14:53:00](https://soylentnews.org/article.pl?sid=23/12/30/0258217&from=rss) - [Fundamental Flaws With Tesla Vehicles and How They Are Covered Up and Pushed on the Consumer](https://soylentnews.org/article.pl?sid=23/12/30/0258217&from=rss)
 * [2023-12-31, 10:08:00](https://soylentnews.org/article.pl?sid=23/12/30/0244212&from=rss) - [What Comes After Open Source? Bruce Perens is Working on It](https://soylentnews.org/article.pl?sid=23/12/30/0244212&from=rss)
 * [2023-12-31, 05:21:00](https://soylentnews.org/article.pl?sid=23/12/30/029252&from=rss) - [AI-created “Virtual Influencers” are Stealing Business From Humans](https://soylentnews.org/article.pl?sid=23/12/30/029252&from=rss)
 * [2023-12-31, 00:36:00](https://soylentnews.org/article.pl?sid=23/12/30/0158235&from=rss) - [German Invasion: Remembering the First Volkswagen Beetle Sold in the U.S](https://soylentnews.org/article.pl?sid=23/12/30/0158235&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-22, 06:39:00](https://soylentnews.org/article.pl?sid=23/12/21/0253209&from=rss) - [North America's First People May Have Arrived by Sea Ice Highway as Early as 24,000 Years Ago](https://soylentnews.org/article.pl?sid=23/12/21/0253209&from=rss)
 * [2023-12-22, 01:54:00](https://soylentnews.org/article.pl?sid=23/12/21/0238254&from=rss) - [Alibaba Shows Off AI That Can ‘Animate Anyone’](https://soylentnews.org/article.pl?sid=23/12/21/0238254&from=rss)
 * [2023-12-21, 21:09:00](https://soylentnews.org/article.pl?sid=23/12/21/0231219&from=rss) - [Advice to Stop School-Mandated Student Digital Surveillance?](https://soylentnews.org/article.pl?sid=23/12/21/0231219&from=rss)
-* [2023-12-21, 16:22:00](https://soylentnews.org/article.pl?sid=23/12/20/063225&from=rss) - [Splitting the Web](https://soylentnews.org/article.pl?sid=23/12/20/063225&from=rss)
 
 ## [Archives](archives/index.md)
 
