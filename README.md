@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2023-12-31, 10:08:00](https://soylentnews.org/article.pl?sid=23/12/30/0244212&from=rss) - [What Comes After Open Source? Bruce Perens is Working on It](https://soylentnews.org/article.pl?sid=23/12/30/0244212&from=rss)
 * [2023-12-31, 05:21:00](https://soylentnews.org/article.pl?sid=23/12/30/029252&from=rss) - [AI-created “Virtual Influencers” are Stealing Business From Humans](https://soylentnews.org/article.pl?sid=23/12/30/029252&from=rss)
 * [2023-12-31, 00:36:00](https://soylentnews.org/article.pl?sid=23/12/30/0158235&from=rss) - [German Invasion: Remembering the First Volkswagen Beetle Sold in the U.S](https://soylentnews.org/article.pl?sid=23/12/30/0158235&from=rss)
 * [2023-12-30, 19:51:00](https://soylentnews.org/article.pl?sid=23/12/29/2153255&from=rss) - [4-Year Campaign Backdoored iPhones Using Possibly the Most Advanced Exploit Ever](https://soylentnews.org/article.pl?sid=23/12/29/2153255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-22, 01:54:00](https://soylentnews.org/article.pl?sid=23/12/21/0238254&from=rss) - [Alibaba Shows Off AI That Can ‘Animate Anyone’](https://soylentnews.org/article.pl?sid=23/12/21/0238254&from=rss)
 * [2023-12-21, 21:09:00](https://soylentnews.org/article.pl?sid=23/12/21/0231219&from=rss) - [Advice to Stop School-Mandated Student Digital Surveillance?](https://soylentnews.org/article.pl?sid=23/12/21/0231219&from=rss)
 * [2023-12-21, 16:22:00](https://soylentnews.org/article.pl?sid=23/12/20/063225&from=rss) - [Splitting the Web](https://soylentnews.org/article.pl?sid=23/12/20/063225&from=rss)
-* [2023-12-21, 11:38:00](https://soylentnews.org/article.pl?sid=23/12/20/061213&from=rss) - [Mathematicians Crack a Century-Old Problem That's Perfect for Your Next Party](https://soylentnews.org/article.pl?sid=23/12/20/061213&from=rss)
 
 ## [Archives](archives/index.md)
 
