@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-01, 00:29:00](https://soylentnews.org/article.pl?sid=23/12/31/0422220&from=rss) - [Novel Helmet Liner 30 Times Better at Stopping Concussions](https://soylentnews.org/article.pl?sid=23/12/31/0422220&from=rss)
 * [2023-12-31, 23:00:00](https://soylentnews.org/article.pl?sid=23/12/31/122228&from=rss) - [Happy New Year!](https://soylentnews.org/article.pl?sid=23/12/31/122228&from=rss)
 * [2023-12-31, 19:41:00](https://soylentnews.org/article.pl?sid=23/12/30/1724224&from=rss) - [This Bird is Like a GPS for Honey](https://soylentnews.org/article.pl?sid=23/12/30/1724224&from=rss)
 * [2023-12-31, 14:53:00](https://soylentnews.org/article.pl?sid=23/12/30/0258217&from=rss) - [Fundamental Flaws With Tesla Vehicles and How They Are Covered Up and Pushed on the Consumer](https://soylentnews.org/article.pl?sid=23/12/30/0258217&from=rss)
@@ -49,9 +50,9 @@
 * [2023-12-22, 20:53:00](https://soylentnews.org/article.pl?sid=23/12/22/020211&from=rss) - [Turquoise Lights for Autonomous Cars](https://soylentnews.org/article.pl?sid=23/12/22/020211&from=rss)
 * [2023-12-22, 16:12:00](https://soylentnews.org/article.pl?sid=23/12/21/033253&from=rss) - [Google Moves to End Geofence Warrants, a Surveillance Problem It Largely Created](https://soylentnews.org/article.pl?sid=23/12/21/033253&from=rss)
 * [2023-12-22, 11:25:00](https://soylentnews.org/article.pl?sid=23/12/21/0257238&from=rss) - [Arm And Risc-V: Can There Only Be One?](https://soylentnews.org/article.pl?sid=23/12/21/0257238&from=rss)
-* [2023-12-22, 06:39:00](https://soylentnews.org/article.pl?sid=23/12/21/0253209&from=rss) - [North America's First People May Have Arrived by Sea Ice Highway as Early as 24,000 Years Ago](https://soylentnews.org/article.pl?sid=23/12/21/0253209&from=rss)
 
 ## [Archives](archives/index.md)
 
+* [2024](archives/2024/index.md)
 * [2023](archives/2023/index.md)
 * [2022](archives/2022/index.md)

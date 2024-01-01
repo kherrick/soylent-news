@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-01](index.md)
+
+* [2024-01-01, 00:29:00](https://soylentnews.org/article.pl?sid=23/12/31/0422220&from=rss) - [Novel Helmet Liner 30 Times Better at Stopping Concussions](https://soylentnews.org/article.pl?sid=23/12/31/0422220&from=rss)
