@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-01, 09:57:00](https://soylentnews.org/article.pl?sid=23/12/31/1139235&from=rss) - [China Develops 'World's Most Powerful' Hypersonic Engine That Could Reach Mach 16](https://soylentnews.org/article.pl?sid=23/12/31/1139235&from=rss)
 * [2024-01-01, 05:08:00](https://soylentnews.org/article.pl?sid=23/12/31/1134247&from=rss) - [From Toilets to the Sky: UK Startup Makes Waste Into Low Carbon Jet Fuel](https://soylentnews.org/article.pl?sid=23/12/31/1134247&from=rss)
 * [2024-01-01, 00:29:00](https://soylentnews.org/article.pl?sid=23/12/31/0422220&from=rss) - [Novel Helmet Liner 30 Times Better at Stopping Concussions](https://soylentnews.org/article.pl?sid=23/12/31/0422220&from=rss)
 * [2023-12-31, 23:00:00](https://soylentnews.org/article.pl?sid=23/12/31/122228&from=rss) - [Happy New Year!](https://soylentnews.org/article.pl?sid=23/12/31/122228&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-23, 06:28:00](https://soylentnews.org/article.pl?sid=23/12/22/0234238&from=rss) - [There Was Some Good Climate News in 2023. Really.](https://soylentnews.org/article.pl?sid=23/12/22/0234238&from=rss)
 * [2023-12-23, 01:41:00](https://soylentnews.org/article.pl?sid=23/12/22/0213253&from=rss) - [Adobe Drops Bid To Buy Figma Amid Monopoly Concerns](https://soylentnews.org/article.pl?sid=23/12/22/0213253&from=rss)
 * [2023-12-22, 20:53:00](https://soylentnews.org/article.pl?sid=23/12/22/020211&from=rss) - [Turquoise Lights for Autonomous Cars](https://soylentnews.org/article.pl?sid=23/12/22/020211&from=rss)
-* [2023-12-22, 16:12:00](https://soylentnews.org/article.pl?sid=23/12/21/033253&from=rss) - [Google Moves to End Geofence Warrants, a Surveillance Problem It Largely Created](https://soylentnews.org/article.pl?sid=23/12/21/033253&from=rss)
 
 ## [Archives](archives/index.md)
 
