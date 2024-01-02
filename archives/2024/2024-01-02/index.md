@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-02](index.md)
+
+* [2024-01-02, 00:15:00](https://soylentnews.org/article.pl?sid=23/12/31/2116237&from=rss) - [The First EV With a Lithium-Free Sodium Battery Hits the Road in January](https://soylentnews.org/article.pl?sid=23/12/31/2116237&from=rss)

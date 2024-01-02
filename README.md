@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-02, 00:15:00](https://soylentnews.org/article.pl?sid=23/12/31/2116237&from=rss) - [The First EV With a Lithium-Free Sodium Battery Hits the Road in January](https://soylentnews.org/article.pl?sid=23/12/31/2116237&from=rss)
 * [2024-01-01, 19:31:00](https://soylentnews.org/article.pl?sid=23/12/31/1150223&from=rss) - [Infosys Loses Ten-Year, $1.5 Billion Contract](https://soylentnews.org/article.pl?sid=23/12/31/1150223&from=rss)
 * [2024-01-01, 14:40:00](https://soylentnews.org/article.pl?sid=23/12/31/1146246&from=rss) - [Psychologists Pinpoint Average Age Children Become Santa Sceptics](https://soylentnews.org/article.pl?sid=23/12/31/1146246&from=rss)
 * [2024-01-01, 09:57:00](https://soylentnews.org/article.pl?sid=23/12/31/1139235&from=rss) - [China Develops 'World's Most Powerful' Hypersonic Engine That Could Reach Mach 16](https://soylentnews.org/article.pl?sid=23/12/31/1139235&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-23, 20:41:00](https://soylentnews.org/article.pl?sid=23/12/23/0219201&from=rss) - [U.S. Surgeon General's Advisory: Social Media and Youth Mental Health](https://soylentnews.org/article.pl?sid=23/12/23/0219201&from=rss)
 * [2023-12-23, 15:56:00](https://soylentnews.org/article.pl?sid=23/12/23/028200&from=rss) - [Wasted Wind Power Adds £40 To Household Energy Bills, Says Think Tank ](https://soylentnews.org/article.pl?sid=23/12/23/028200&from=rss)
 * [2023-12-23, 11:13:00](https://soylentnews.org/article.pl?sid=23/12/22/0240208&from=rss) - [AMD Says its Mi300X AI Accelerator is Faster Than Nvidia's H100](https://soylentnews.org/article.pl?sid=23/12/22/0240208&from=rss)
-* [2023-12-23, 06:28:00](https://soylentnews.org/article.pl?sid=23/12/22/0234238&from=rss) - [There Was Some Good Climate News in 2023. Really.](https://soylentnews.org/article.pl?sid=23/12/22/0234238&from=rss)
 
 ## [Archives](archives/index.md)
 
