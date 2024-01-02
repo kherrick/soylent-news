@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-02, 14:12:00](https://soylentnews.org/article.pl?sid=24/01/01/2337215&from=rss) - [Google Settles $5bn Lawsuit for 'Private Mode' Tracking](https://soylentnews.org/article.pl?sid=24/01/01/2337215&from=rss)
 * [2024-01-02, 09:37:00](https://soylentnews.org/article.pl?sid=24/01/01/0341200&from=rss) - [Peppermint OS's Single-Site Browsers](https://soylentnews.org/article.pl?sid=24/01/01/0341200&from=rss)
 * [2024-01-02, 04:56:00](https://soylentnews.org/article.pl?sid=23/12/31/2243244&from=rss) - [Why Some People Don't Trust Science – and How to Change Their Minds](https://soylentnews.org/article.pl?sid=23/12/31/2243244&from=rss)
 * [2024-01-02, 00:15:00](https://soylentnews.org/article.pl?sid=23/12/31/2116237&from=rss) - [The First EV With a Lithium-Free Sodium Battery Hits the Road in January](https://soylentnews.org/article.pl?sid=23/12/31/2116237&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-24, 10:58:00](https://soylentnews.org/article.pl?sid=23/12/23/030245&from=rss) - [Impaired Driving Detection Coming to US](https://soylentnews.org/article.pl?sid=23/12/23/030245&from=rss)
 * [2023-12-24, 06:15:00](https://soylentnews.org/article.pl?sid=23/12/23/0256209&from=rss) - [CVS, Rite Aid, Walgreens Hand Out Medical Records to Cops Without Warrants](https://soylentnews.org/article.pl?sid=23/12/23/0256209&from=rss)
 * [2023-12-24, 01:27:00](https://soylentnews.org/article.pl?sid=23/12/23/0253252&from=rss) - [SSH Protects the World’s Most Sensitive Networks. It Just Got a Lot Weaker](https://soylentnews.org/article.pl?sid=23/12/23/0253252&from=rss)
-* [2023-12-23, 20:41:00](https://soylentnews.org/article.pl?sid=23/12/23/0219201&from=rss) - [U.S. Surgeon General's Advisory: Social Media and Youth Mental Health](https://soylentnews.org/article.pl?sid=23/12/23/0219201&from=rss)
 
 ## [Archives](archives/index.md)
 
