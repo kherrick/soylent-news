@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-03, 04:33:00](https://soylentnews.org/article.pl?sid=24/01/02/0134237&from=rss) - [Linux Foundation Spending on Actual Linux Down to 2% of Their Budget](https://soylentnews.org/article.pl?sid=24/01/02/0134237&from=rss)
 * [2024-01-02, 22:03:00](https://soylentnews.org/article.pl?sid=24/01/02/0127204&from=rss) - [Amazon Drought: 'We've Never Seen Anything Like This'](https://soylentnews.org/article.pl?sid=24/01/02/0127204&from=rss)
 * [2024-01-02, 21:30:00](https://soylentnews.org/meta/article.pl?sid=24/01/02/2047208&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, January 3, 2024 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=24/01/02/2047208&from=rss)
 * [2024-01-02, 14:12:00](https://soylentnews.org/article.pl?sid=24/01/01/2337215&from=rss) - [Google Settles $5bn Lawsuit for 'Private Mode' Tracking](https://soylentnews.org/article.pl?sid=24/01/01/2337215&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-25, 01:18:00](https://soylentnews.org/article.pl?sid=23/12/23/1413245&from=rss) - [Americans Have A Snack Problem](https://soylentnews.org/article.pl?sid=23/12/23/1413245&from=rss)
 * [2023-12-24, 20:31:00](https://soylentnews.org/article.pl?sid=23/12/23/147248&from=rss) - [The Secret Sauce for Taiwan's Chip Superstardom](https://soylentnews.org/article.pl?sid=23/12/23/147248&from=rss)
 * [2023-12-24, 15:43:00](https://soylentnews.org/politics/article.pl?sid=23/12/23/0310253&from=rss) - [China's Tactic of Flooding the Market With Chips Made Using Legacy Nodes is Under Investigation](https://soylentnews.org/politics/article.pl?sid=23/12/23/0310253&from=rss)
-* [2023-12-24, 10:58:00](https://soylentnews.org/article.pl?sid=23/12/23/030245&from=rss) - [Impaired Driving Detection Coming to US](https://soylentnews.org/article.pl?sid=23/12/23/030245&from=rss)
 
 ## [Archives](archives/index.md)
 

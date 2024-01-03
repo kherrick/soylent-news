@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-03](index.md)
+
+* [2024-01-03, 04:33:00](https://soylentnews.org/article.pl?sid=24/01/02/0134237&from=rss) - [Linux Foundation Spending on Actual Linux Down to 2% of Their Budget](https://soylentnews.org/article.pl?sid=24/01/02/0134237&from=rss)
