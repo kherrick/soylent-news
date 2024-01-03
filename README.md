@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-03, 23:39:00](https://soylentnews.org/article.pl?sid=24/01/03/0130218&from=rss) - [The I in LLM Stands for Intelligence](https://soylentnews.org/article.pl?sid=24/01/03/0130218&from=rss)
 * [2024-01-03, 18:57:00](https://soylentnews.org/article.pl?sid=24/01/02/0139229&from=rss) - [US Govt's Sluggish Chips Act Payouts Slam the Breaks on Samsung's Fab Factory](https://soylentnews.org/article.pl?sid=24/01/02/0139229&from=rss)
 * [2024-01-03, 14:09:00](https://soylentnews.org/article.pl?sid=24/01/02/0214242&from=rss) - [Young-Onset Dementia Risk Increased By Vitamin D Deficiency And Depression, Study Says](https://soylentnews.org/article.pl?sid=24/01/02/0214242&from=rss)
 * [2024-01-03, 09:20:00](https://soylentnews.org/article.pl?sid=24/01/02/0157201&from=rss) - [Aaarr Matey! Life on a 17th Century Pirate Ship Was Less Chaotic Than You Think](https://soylentnews.org/article.pl?sid=24/01/02/0157201&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-25, 20:23:00](https://soylentnews.org/article.pl?sid=23/12/24/0424210&from=rss) - [Federal Judge Hands Free-Speech Victory to Retired Engineer](https://soylentnews.org/article.pl?sid=23/12/24/0424210&from=rss)
 * [2023-12-25, 15:37:00](https://soylentnews.org/article.pl?sid=23/12/24/0421211&from=rss) - [The 50 Greatest Innovations of the Year.](https://soylentnews.org/article.pl?sid=23/12/24/0421211&from=rss)
 * [2023-12-25, 10:50:00](https://soylentnews.org/article.pl?sid=23/12/24/0414237&from=rss) - [The Hunter-Gatherer Groups At The Heart Of A Microbiome Gold Rush](https://soylentnews.org/article.pl?sid=23/12/24/0414237&from=rss)
-* [2023-12-25, 06:08:00](https://soylentnews.org/article.pl?sid=23/12/23/1420213&from=rss) - [The Hyperloop Is Dead For Real This Time](https://soylentnews.org/article.pl?sid=23/12/23/1420213&from=rss)
 
 ## [Archives](archives/index.md)
 
