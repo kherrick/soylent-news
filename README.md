@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-04, 18:23:00](https://soylentnews.org/article.pl?sid=24/01/04/0214226&from=rss) - [E-Mail Addresses Are Not Good 'Permanent' Identifiers for Accounts](https://soylentnews.org/article.pl?sid=24/01/04/0214226&from=rss)
 * [2024-01-04, 13:54:00](https://soylentnews.org/article.pl?sid=24/01/03/2129225&from=rss) - [RIP: Niklaus Wirth 15.2.1934 - 1.1.2024](https://soylentnews.org/article.pl?sid=24/01/03/2129225&from=rss)
 * [2024-01-04, 09:12:00](https://soylentnews.org/article.pl?sid=24/01/03/0157219&from=rss) - [Mozilla Pivots Towards AI Future As Firefox Market Share Declines](https://soylentnews.org/article.pl?sid=24/01/03/0157219&from=rss)
 * [2024-01-04, 04:24:00](https://soylentnews.org/article.pl?sid=24/01/03/0140204&from=rss) - [Researchers Shed New Light on How Fog Forms in Mountainous Areas](https://soylentnews.org/article.pl?sid=24/01/03/0140204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-26, 15:23:00](https://soylentnews.org/article.pl?sid=23/12/25/2218201&from=rss) - [Apple Vs. Beeper: DOJ And FTC On Imessage Controversy](https://soylentnews.org/article.pl?sid=23/12/25/2218201&from=rss)
 * [2023-12-26, 10:37:00](https://soylentnews.org/article.pl?sid=23/12/25/1722209&from=rss) - [The Wintel Duopoly Plans to Send 240 Million PCs to the Landfill](https://soylentnews.org/article.pl?sid=23/12/25/1722209&from=rss)
 * [2023-12-26, 05:52:00](https://soylentnews.org/article.pl?sid=23/12/25/1717242&from=rss) - [How Big Is YouTube?](https://soylentnews.org/article.pl?sid=23/12/25/1717242&from=rss)
-* [2023-12-26, 01:07:00](https://soylentnews.org/article.pl?sid=23/12/24/0428239&from=rss) - [SMTP Vulnerability Withheld From Open Source Project, Published Right Before Xmas Break](https://soylentnews.org/article.pl?sid=23/12/24/0428239&from=rss)
 
 ## [Archives](archives/index.md)
 
