@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-04, 09:12:00](https://soylentnews.org/article.pl?sid=24/01/03/0157219&from=rss) - [Mozilla Pivots Towards AI Future As Firefox Market Share Declines](https://soylentnews.org/article.pl?sid=24/01/03/0157219&from=rss)
 * [2024-01-04, 04:24:00](https://soylentnews.org/article.pl?sid=24/01/03/0140204&from=rss) - [Researchers Shed New Light on How Fog Forms in Mountainous Areas](https://soylentnews.org/article.pl?sid=24/01/03/0140204&from=rss)
 * [2024-01-03, 23:39:00](https://soylentnews.org/article.pl?sid=24/01/03/0130218&from=rss) - [The I in LLM Stands for Intelligence](https://soylentnews.org/article.pl?sid=24/01/03/0130218&from=rss)
 * [2024-01-03, 18:57:00](https://soylentnews.org/article.pl?sid=24/01/02/0139229&from=rss) - [US Govt's Sluggish Chips Act Payouts Slam the Brakes on Samsung's Fab Factory](https://soylentnews.org/article.pl?sid=24/01/02/0139229&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-26, 05:52:00](https://soylentnews.org/article.pl?sid=23/12/25/1717242&from=rss) - [How Big Is YouTube?](https://soylentnews.org/article.pl?sid=23/12/25/1717242&from=rss)
 * [2023-12-26, 01:07:00](https://soylentnews.org/article.pl?sid=23/12/24/0428239&from=rss) - [SMTP Vulnerability Withheld From Open Source Project, Published Right Before Xmas Break](https://soylentnews.org/article.pl?sid=23/12/24/0428239&from=rss)
 * [2023-12-25, 20:23:00](https://soylentnews.org/article.pl?sid=23/12/24/0424210&from=rss) - [Federal Judge Hands Free-Speech Victory to Retired Engineer](https://soylentnews.org/article.pl?sid=23/12/24/0424210&from=rss)
-* [2023-12-25, 15:37:00](https://soylentnews.org/article.pl?sid=23/12/24/0421211&from=rss) - [The 50 Greatest Innovations of the Year.](https://soylentnews.org/article.pl?sid=23/12/24/0421211&from=rss)
 
 ## [Archives](archives/index.md)
 

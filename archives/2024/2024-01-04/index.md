@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 09:12:00](https://soylentnews.org/article.pl?sid=24/01/03/0157219&from=rss) - [Mozilla Pivots Towards AI Future As Firefox Market Share Declines](https://soylentnews.org/article.pl?sid=24/01/03/0157219&from=rss)
 * [2024-01-04, 04:24:00](https://soylentnews.org/article.pl?sid=24/01/03/0140204&from=rss) - [Researchers Shed New Light on How Fog Forms in Mountainous Areas](https://soylentnews.org/article.pl?sid=24/01/03/0140204&from=rss)
