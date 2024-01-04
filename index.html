@@ -145,6 +145,69 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/01/04/0214226">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/01/04/0214226&amp;from=rss"
+              >E-Mail Addresses Are Not Good 'Permanent' Identifiers for
+              Accounts</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-04 @ 18:23:00</span
+              ><span class="points-container"
+                >Points: <span class="points">0</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/01/04/0214226"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                <a href="//soylentnews.org/~canopic+jug/">canopic jug</a>
+                writes:
+              </p>
+              <p>
+                System administrator and prolific blogger, Chris Siebenmann, has
+                a brief note that
+                <a
+                  href="https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs"
+                  >e-mail addresses are not good 'permanent' identifiers for
+                  accounts</a
+                >.
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    The biggest problem with email addresses as 'permanent'
+                    identifiers is that people's email addresses change even
+                    within a single organization (for example, a university).
+                    They change for the same collection of reasons that people's
+                    commonly used names and logins change. An organization that
+                    refuses to change or redo the email addresses it assigns to
+                    people is being unusually cruel in ways that are probably
+                    not legally sustainable in any number of places.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61768"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/01/03/2129225">
           <h3>
             <a
@@ -498,7 +561,7 @@
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/01/02/0139229"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -5388,109 +5451,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61708"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="23/12/24/0428239">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=23/12/24/0428239&amp;from=rss"
-              >SMTP Vulnerability Withheld From Open Source Project, Published
-              Right Before Xmas Break</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-26 @ 01:07:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2517</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=23/12/24/0428239"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                <a href="//soylentnews.org/~coolgopher/">coolgopher</a> writes:
-              </p>
-              <p>
-                From
-                <a href="https://www.postfix.org/smtp-smuggling.html"
-                  >https://www.postfix.org/smtp-smuggling.html</a
-                >
-                :
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Days before a 10+ day holiday break and associated
-                    production change freeze, SEC Consult has published an email
-                    spoofing attack that involves a composition of email
-                    services with specific differences in the way they handle
-                    line endings other than &lt;CR&gt;&lt;LF&gt;.
-                  </p>
-                  <p>
-                    Unfortunately, criticial information provided by the
-                    researcher was not passed on to Postfix maintainers before
-                    publication of the attack, otherwise we would certainly have
-                    convinced SEC Consult to change their time schedule until
-                    after people had a chance to update their Postfix systems.
-                  </p>
-                  <p>
-                    The attack involves a COMPOSITION of two email services with
-                    specific differences in the way they handle line endings
-                    other than &lt;CR&gt;&lt;LF&gt;:
-                  </p>
-                  <p>
-                      - One email service A that does not recognize broken line
-                    endings in SMTP such as in &lt;LF&gt;.&lt;CR&gt;&lt;LF&gt;
-                    in an email message from an authenticated attacker to a
-                    recipient at email service B, and that propagates those
-                    broken line endings verbatim when it forwards that message
-                    to:
-                  </p>
-                  <p>
-                      - One different email service B that does support broken
-                    line endings in SMTP such as in
-                    &lt;LF&gt;.&lt;CR&gt;&lt;LF&gt;. When this is followed by
-                    "smuggled" SMTP MAIL/RCPT/DATA commands and message header
-                    plus body text, email service B is tricked into receiving
-                    two email messages: one message with the content before the
-                    &lt;LF&gt;.&lt;CR&gt;&lt;LF&gt;, and one message with the
-                    "smuggled" header plus body text after the "smuggled" SMTP
-                    commands. All this when email service A sends only one
-                    message.
-                  </p>
-                  <p>
-                    Postfix is an example of email service B. Microsoft's
-                    outlook.com was an example of email service A.
-                  </p>
-                  <p>
-                    The "smuggled" SMTP MAIL/RCPT/DATA commands and header plus
-                    body text can be used to spoof email from any sender whose
-                    domain is hosted at email service A, to any recipient whose
-                    domain is hosted at email service B. Such email will pass
-                    SPF-based DMARC checks at email service B, because the
-                    smuggled message has a sender address that is hosted at
-                    email service A, and because the message was received from
-                    email service A.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61703"
                     >Original Submission</a
                   ></small
                 >
