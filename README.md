@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-05, 03:58:00](https://soylentnews.org/article.pl?sid=24/01/04/0229252&from=rss) - [Making AI Stand The Test Of Time](https://soylentnews.org/article.pl?sid=24/01/04/0229252&from=rss)
 * [2024-01-04, 23:10:00](https://soylentnews.org/article.pl?sid=24/01/04/0222226&from=rss) - [iPhone Sideloading: Here's Why It Might Happen in the US and Japan](https://soylentnews.org/article.pl?sid=24/01/04/0222226&from=rss)
 * [2024-01-04, 18:23:00](https://soylentnews.org/article.pl?sid=24/01/04/0214226&from=rss) - [E-Mail Addresses Are Not Good 'Permanent' Identifiers for Accounts](https://soylentnews.org/article.pl?sid=24/01/04/0214226&from=rss)
 * [2024-01-04, 13:54:00](https://soylentnews.org/article.pl?sid=24/01/03/2129225&from=rss) - [RIP: Niklaus Wirth 15.2.1934 - 1.1.2024](https://soylentnews.org/article.pl?sid=24/01/03/2129225&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-27, 00:54:00](https://soylentnews.org/article.pl?sid=23/12/26/1315247&from=rss) - [Risc-V Hardware Ecosystem Gets Strong Industry Support - Qualcomm Joins With Four Other Players](https://soylentnews.org/article.pl?sid=23/12/26/1315247&from=rss)
 * [2023-12-26, 20:07:00](https://soylentnews.org/article.pl?sid=23/12/26/029257&from=rss) - [Drones Attack Commercial Vessels on the Red Sea and Arabian Sea](https://soylentnews.org/article.pl?sid=23/12/26/029257&from=rss)
 * [2023-12-26, 15:23:00](https://soylentnews.org/article.pl?sid=23/12/25/2218201&from=rss) - [Apple Vs. Beeper: DOJ And FTC On Imessage Controversy](https://soylentnews.org/article.pl?sid=23/12/25/2218201&from=rss)
-* [2023-12-26, 10:37:00](https://soylentnews.org/article.pl?sid=23/12/25/1722209&from=rss) - [The Wintel Duopoly Plans to Send 240 Million PCs to the Landfill](https://soylentnews.org/article.pl?sid=23/12/25/1722209&from=rss)
 
 ## [Archives](archives/index.md)
 
