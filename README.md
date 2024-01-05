@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-05, 18:08:00](https://soylentnews.org/article.pl?sid=24/01/05/0317235&from=rss) - [Starlink Launches First “Cellphone Towers in Space” for Use With LTE Phones](https://soylentnews.org/article.pl?sid=24/01/05/0317235&from=rss)
 * [2024-01-05, 13:24:00](https://soylentnews.org/article.pl?sid=24/01/05/030239&from=rss) - [Digitization Puts Many at a Disadvantage](https://soylentnews.org/article.pl?sid=24/01/05/030239&from=rss)
 * [2024-01-05, 08:39:00](https://soylentnews.org/article.pl?sid=24/01/05/0151206&from=rss) - [Making Progress in the Battle Against Superbugs](https://soylentnews.org/article.pl?sid=24/01/05/0151206&from=rss)
 * [2024-01-05, 03:58:00](https://soylentnews.org/article.pl?sid=24/01/04/0229252&from=rss) - [Making AI Stand The Test Of Time](https://soylentnews.org/article.pl?sid=24/01/04/0229252&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-27, 15:06:00](https://soylentnews.org/article.pl?sid=23/12/25/0510216&from=rss) - [US Government May Demand We Stop Considering Potatoes a Vegetable](https://soylentnews.org/article.pl?sid=23/12/25/0510216&from=rss)
 * [2023-12-27, 10:23:00](https://soylentnews.org/article.pl?sid=23/12/26/1327204&from=rss) - [Firm Predicts It Will Cost $28 Billion To Build A 2Nm Fab And $30,000 Per Wafer](https://soylentnews.org/article.pl?sid=23/12/26/1327204&from=rss)
 * [2023-12-27, 05:37:00](https://soylentnews.org/article.pl?sid=23/12/26/1318231&from=rss) - [Nasa Astronauts Test SpaceX's Crucial Moon Elevator](https://soylentnews.org/article.pl?sid=23/12/26/1318231&from=rss)
-* [2023-12-27, 00:54:00](https://soylentnews.org/article.pl?sid=23/12/26/1315247&from=rss) - [Risc-V Hardware Ecosystem Gets Strong Industry Support - Qualcomm Joins With Four Other Players](https://soylentnews.org/article.pl?sid=23/12/26/1315247&from=rss)
 
 ## [Archives](archives/index.md)
 
