@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-06, 13:03:00](https://soylentnews.org/article.pl?sid=24/01/06/0124201&from=rss) - [23andMe Tells Victims it’s Their Fault that Their Data was Breached](https://soylentnews.org/article.pl?sid=24/01/06/0124201&from=rss)
 * [2024-01-06, 08:20:00](https://soylentnews.org/article.pl?sid=24/01/05/1422259&from=rss) - [Gentoo Linux Now Offers Binaries...](https://soylentnews.org/article.pl?sid=24/01/05/1422259&from=rss)
 * [2024-01-06, 03:37:00](https://soylentnews.org/article.pl?sid=24/01/05/060211&from=rss) - [In a Breakthrough, Diabetics’ Damaged Cells Regenerated to Produce Insulin](https://soylentnews.org/article.pl?sid=24/01/05/060211&from=rss)
 * [2024-01-05, 22:53:00](https://soylentnews.org/article.pl?sid=24/01/05/0551255&from=rss) - [Microsoft Adding New PC Button in its First Significant Keyboard Change in Decades](https://soylentnews.org/article.pl?sid=24/01/05/0551255&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-28, 10:13:00](https://soylentnews.org/article.pl?sid=23/12/27/0336257&from=rss) - [Reindeer Can Chew Their Food and Sleep at the Same Time](https://soylentnews.org/article.pl?sid=23/12/27/0336257&from=rss)
 * [2023-12-28, 05:28:00](https://soylentnews.org/article.pl?sid=23/12/27/0315227&from=rss) - [Porn Viewers in EU May Have to Prove Their Age](https://soylentnews.org/article.pl?sid=23/12/27/0315227&from=rss)
 * [2023-12-28, 00:39:00](https://soylentnews.org/article.pl?sid=23/12/26/2310234&from=rss) - [How Google’s co-founders Have ‘Escaped All Scrutiny’ in Landmark Antitrust Trials](https://soylentnews.org/article.pl?sid=23/12/26/2310234&from=rss)
-* [2023-12-27, 19:51:00](https://soylentnews.org/article.pl?sid=23/12/26/2113219&from=rss) - [Encrypted Email Service Tuta Denies It's a 'Honeypot' for Five Eyes Intelligence](https://soylentnews.org/article.pl?sid=23/12/26/2113219&from=rss)
 
 ## [Archives](archives/index.md)
 
