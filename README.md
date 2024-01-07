@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-07, 03:22:00](https://soylentnews.org/article.pl?sid=24/01/06/0144245&from=rss) - [SpaceX Illegally Fired Workers Critical of Elon Musk, US Labor Agency Says](https://soylentnews.org/article.pl?sid=24/01/06/0144245&from=rss)
 * [2024-01-06, 22:36:00](https://soylentnews.org/article.pl?sid=24/01/06/0137240&from=rss) - [Oldest Known Version Of DOS Unearthed - MS-DOS Ancestor 86-DOS Version 0.1c Is Now Available ](https://soylentnews.org/article.pl?sid=24/01/06/0137240&from=rss)
 * [2024-01-06, 17:50:00](https://soylentnews.org/article.pl?sid=24/01/06/0132214&from=rss) - ['Giant' Predator Worms More Than Half a Billion Years Old Discovered in North Greenland](https://soylentnews.org/article.pl?sid=24/01/06/0132214&from=rss)
 * [2024-01-06, 13:03:00](https://soylentnews.org/article.pl?sid=24/01/06/0124201&from=rss) - [23andMe Tells Victims it’s Their Fault that Their Data was Breached](https://soylentnews.org/article.pl?sid=24/01/06/0124201&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-29, 00:33:00](https://soylentnews.org/article.pl?sid=23/12/28/0615255&from=rss) - [December 2023 Security Space Mail (MX) Server Survey](https://soylentnews.org/article.pl?sid=23/12/28/0615255&from=rss)
 * [2023-12-28, 19:46:00](https://soylentnews.org/article.pl?sid=23/12/27/1543244&from=rss) - [Watch Sand Defy Gravity and Flow Uphill Thanks to “Negative Friction”](https://soylentnews.org/article.pl?sid=23/12/27/1543244&from=rss)
 * [2023-12-28, 15:01:00](https://soylentnews.org/article.pl?sid=23/12/27/1534255&from=rss) - [What You Need To Know About Python's 'Dead Batteries'](https://soylentnews.org/article.pl?sid=23/12/27/1534255&from=rss)
-* [2023-12-28, 10:13:00](https://soylentnews.org/article.pl?sid=23/12/27/0336257&from=rss) - [Reindeer Can Chew Their Food and Sleep at the Same Time](https://soylentnews.org/article.pl?sid=23/12/27/0336257&from=rss)
 
 ## [Archives](archives/index.md)
 
