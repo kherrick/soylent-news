@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-08, 12:48:00](https://soylentnews.org/article.pl?sid=24/01/07/150249&from=rss) - [India's Sun Probe Reaches Solar Orbit](https://soylentnews.org/article.pl?sid=24/01/07/150249&from=rss)
 * [2024-01-08, 08:02:00](https://soylentnews.org/article.pl?sid=24/01/07/050204&from=rss) - [Kohler's Newest Bidet Finally Brings Alexa and Google to Your Butt](https://soylentnews.org/article.pl?sid=24/01/07/050204&from=rss)
 * [2024-01-08, 03:17:00](https://soylentnews.org/article.pl?sid=24/01/07/0445242&from=rss) - [Steam Stops Supporting Windows 7, 8, and 8.1](https://soylentnews.org/article.pl?sid=24/01/07/0445242&from=rss)
 * [2024-01-07, 22:32:00](https://soylentnews.org/article.pl?sid=24/01/07/0142221&from=rss) - [New Transistors Based on Monolayer Black Phosphorus and Germanium Arsenide](https://soylentnews.org/article.pl?sid=24/01/07/0142221&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-30, 10:23:00](https://soylentnews.org/article.pl?sid=23/12/29/045209&from=rss) - [Injection of “Smart Insulin” Regulates Blood Glucose Levels for One Week](https://soylentnews.org/article.pl?sid=23/12/29/045209&from=rss)
 * [2023-12-30, 05:36:00](https://soylentnews.org/article.pl?sid=23/12/29/0356234&from=rss) - [Physicists Designed an Experiment to Turn Light Into Matter](https://soylentnews.org/article.pl?sid=23/12/29/0356234&from=rss)
 * [2023-12-30, 00:51:00](https://soylentnews.org/article.pl?sid=23/12/29/0349240&from=rss) - [Postgres Pioneer Promises To Upend The Database Once More](https://soylentnews.org/article.pl?sid=23/12/29/0349240&from=rss)
-* [2023-12-29, 20:04:00](https://soylentnews.org/article.pl?sid=23/12/29/013244&from=rss) - [Last-Minute Reprieve on US Ban on Some Apple Watch Sales](https://soylentnews.org/article.pl?sid=23/12/29/013244&from=rss)
 
 ## [Archives](archives/index.md)
 
