@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-08, 22:16:00](https://soylentnews.org/article.pl?sid=24/01/08/0446204&from=rss) - [FAA Grounds Roughly 171 Boeing 737 Max 9 Planes After A Cabin Panel Blew Out During Flight](https://soylentnews.org/article.pl?sid=24/01/08/0446204&from=rss)
 * [2024-01-08, 17:33:00](https://soylentnews.org/article.pl?sid=24/01/07/2216214&from=rss) - [A Method to Straighten Curved Space-Time](https://soylentnews.org/article.pl?sid=24/01/07/2216214&from=rss)
 * [2024-01-08, 12:48:00](https://soylentnews.org/article.pl?sid=24/01/07/150249&from=rss) - [India's Sun Probe Reaches Solar Orbit](https://soylentnews.org/article.pl?sid=24/01/07/150249&from=rss)
 * [2024-01-08, 08:02:00](https://soylentnews.org/article.pl?sid=24/01/07/050204&from=rss) - [Kohler's Newest Bidet Finally Brings Alexa and Google to Your Butt](https://soylentnews.org/article.pl?sid=24/01/07/050204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-30, 19:51:00](https://soylentnews.org/article.pl?sid=23/12/29/2153255&from=rss) - [4-Year Campaign Backdoored iPhones Using Possibly the Most Advanced Exploit Ever](https://soylentnews.org/article.pl?sid=23/12/29/2153255&from=rss)
 * [2023-12-30, 15:05:00](https://soylentnews.org/article.pl?sid=23/12/29/2137227&from=rss) - [Intel CEO Claims 18A Node Will at Least Match TSMC's N2 Performance and Beat It to Market](https://soylentnews.org/article.pl?sid=23/12/29/2137227&from=rss)
 * [2023-12-30, 10:23:00](https://soylentnews.org/article.pl?sid=23/12/29/045209&from=rss) - [Injection of “Smart Insulin” Regulates Blood Glucose Levels for One Week](https://soylentnews.org/article.pl?sid=23/12/29/045209&from=rss)
-* [2023-12-30, 05:36:00](https://soylentnews.org/article.pl?sid=23/12/29/0356234&from=rss) - [Physicists Designed an Experiment to Turn Light Into Matter](https://soylentnews.org/article.pl?sid=23/12/29/0356234&from=rss)
 
 ## [Archives](archives/index.md)
 
