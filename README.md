@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-08, 03:17:00](https://soylentnews.org/article.pl?sid=24/01/07/0445242&from=rss) - [Steam Stops Supporting Windows 7, 8, and 8.1](https://soylentnews.org/article.pl?sid=24/01/07/0445242&from=rss)
 * [2024-01-07, 22:32:00](https://soylentnews.org/article.pl?sid=24/01/07/0142221&from=rss) - [New Transistors Based on Monolayer Black Phosphorus and Germanium Arsenide](https://soylentnews.org/article.pl?sid=24/01/07/0142221&from=rss)
 * [2024-01-07, 17:37:00](https://soylentnews.org/article.pl?sid=24/01/07/015228&from=rss) - [Ancient Roman Wine Production May Hold Clues for Battling Climate Change](https://soylentnews.org/article.pl?sid=24/01/07/015228&from=rss)
 * [2024-01-07, 12:52:00](https://soylentnews.org/article.pl?sid=24/01/06/1823227&from=rss) - [ULA's Vulcan Centaur Rocket Set to Launch Monday, a Challenge to SpaceX](https://soylentnews.org/article.pl?sid=24/01/06/1823227&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-30, 00:51:00](https://soylentnews.org/article.pl?sid=23/12/29/0349240&from=rss) - [Postgres Pioneer Promises To Upend The Database Once More](https://soylentnews.org/article.pl?sid=23/12/29/0349240&from=rss)
 * [2023-12-29, 20:04:00](https://soylentnews.org/article.pl?sid=23/12/29/013244&from=rss) - [Last-Minute Reprieve on US Ban on Some Apple Watch Sales](https://soylentnews.org/article.pl?sid=23/12/29/013244&from=rss)
 * [2023-12-29, 15:13:00](https://soylentnews.org/article.pl?sid=23/12/28/2310243&from=rss) - [New York Times Sues Microsoft, ChatGPT Maker OpenAI Over Copyright Infringement](https://soylentnews.org/article.pl?sid=23/12/28/2310243&from=rss)
-* [2023-12-29, 10:05:00](https://soylentnews.org/article.pl?sid=23/12/29/0146258&from=rss) - [Taser Maker Axon Has a Moving Backstory. It's Mostly a Myth](https://soylentnews.org/article.pl?sid=23/12/29/0146258&from=rss)
 
 ## [Archives](archives/index.md)
 
