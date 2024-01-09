@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-09, 12:37:00](https://soylentnews.org/article.pl?sid=24/01/09/040211&from=rss) - [A Burgeoning U.S. Fusion Industry: What 2024 Could Bring](https://soylentnews.org/article.pl?sid=24/01/09/040211&from=rss)
 * [2024-01-09, 07:49:00](https://soylentnews.org/article.pl?sid=24/01/09/0312254&from=rss) - [Wickr is Dead.  Long live wickr-crypto-c!](https://soylentnews.org/article.pl?sid=24/01/09/0312254&from=rss)
 * [2024-01-09, 03:03:00](https://soylentnews.org/article.pl?sid=24/01/08/0456216&from=rss) - [NASA Just Spotted An Exploded Star Blasting Vital Elements Into Space](https://soylentnews.org/article.pl?sid=24/01/08/0456216&from=rss)
 * [2024-01-08, 22:16:00](https://soylentnews.org/article.pl?sid=24/01/08/0446204&from=rss) - [FAA Grounds Roughly 171 Boeing 737 Max 9 Planes After A Cabin Panel Blew Out During Flight](https://soylentnews.org/article.pl?sid=24/01/08/0446204&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-31, 10:08:00](https://soylentnews.org/article.pl?sid=23/12/30/0244212&from=rss) - [What Comes After Open Source? Bruce Perens is Working on It](https://soylentnews.org/article.pl?sid=23/12/30/0244212&from=rss)
 * [2023-12-31, 05:21:00](https://soylentnews.org/article.pl?sid=23/12/30/029252&from=rss) - [AI-created “Virtual Influencers” are Stealing Business From Humans](https://soylentnews.org/article.pl?sid=23/12/30/029252&from=rss)
 * [2023-12-31, 00:36:00](https://soylentnews.org/article.pl?sid=23/12/30/0158235&from=rss) - [German Invasion: Remembering the First Volkswagen Beetle Sold in the U.S](https://soylentnews.org/article.pl?sid=23/12/30/0158235&from=rss)
-* [2023-12-30, 19:51:00](https://soylentnews.org/article.pl?sid=23/12/29/2153255&from=rss) - [4-Year Campaign Backdoored iPhones Using Possibly the Most Advanced Exploit Ever](https://soylentnews.org/article.pl?sid=23/12/29/2153255&from=rss)
 
 ## [Archives](archives/index.md)
 
