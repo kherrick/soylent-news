@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-10, 07:38:00](https://soylentnews.org/article.pl?sid=24/01/09/0440201&from=rss) - [Scientists Find Megalodon Tooth In A Really Unexpected Place](https://soylentnews.org/article.pl?sid=24/01/09/0440201&from=rss)
 * [2024-01-10, 02:55:00](https://soylentnews.org/article.pl?sid=24/01/09/0436206&from=rss) - [American Dialect Society 2023 Word of the Year Is “Enshittification”](https://soylentnews.org/article.pl?sid=24/01/09/0436206&from=rss)
 * [2024-01-09, 23:59:00](https://soylentnews.org/meta/article.pl?sid=24/01/09/2344220&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, January 10, 2024 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=24/01/09/2344220&from=rss)
 * [2024-01-09, 22:10:00](https://soylentnews.org/article.pl?sid=24/01/09/0434226&from=rss) - [How to be More Anonymous Online](https://soylentnews.org/article.pl?sid=24/01/09/0434226&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-01, 05:08:00](https://soylentnews.org/article.pl?sid=23/12/31/1134247&from=rss) - [From Toilets to the Sky: UK Startup Makes Waste Into Low Carbon Jet Fuel](https://soylentnews.org/article.pl?sid=23/12/31/1134247&from=rss)
 * [2024-01-01, 00:29:00](https://soylentnews.org/article.pl?sid=23/12/31/0422220&from=rss) - [Novel Helmet Liner 30 Times Better at Stopping Concussions](https://soylentnews.org/article.pl?sid=23/12/31/0422220&from=rss)
 * [2023-12-31, 23:00:00](https://soylentnews.org/article.pl?sid=23/12/31/122228&from=rss) - [Happy New Year!](https://soylentnews.org/article.pl?sid=23/12/31/122228&from=rss)
-* [2023-12-31, 19:41:00](https://soylentnews.org/article.pl?sid=23/12/30/1724224&from=rss) - [This Bird is Like a GPS for Honey](https://soylentnews.org/article.pl?sid=23/12/30/1724224&from=rss)
 
 ## [Archives](archives/index.md)
 
