@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-10, 17:04:00](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss) - [Saturday Citations: Snippets of Stories You Might Have Missed](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss)
 * [2024-01-10, 12:20:00](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss) - [Canada Vows to Defend its Drug Supply Against Florida Importation Plan](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss)
 * [2024-01-10, 07:38:00](https://soylentnews.org/article.pl?sid=24/01/09/0440201&from=rss) - [Scientists Find Megalodon Tooth In A Really Unexpected Place](https://soylentnews.org/article.pl?sid=24/01/09/0440201&from=rss)
 * [2024-01-10, 02:55:00](https://soylentnews.org/article.pl?sid=24/01/09/0436206&from=rss) - [American Dialect Society 2023 Word of the Year Is “Enshittification”](https://soylentnews.org/article.pl?sid=24/01/09/0436206&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-01, 14:40:00](https://soylentnews.org/article.pl?sid=23/12/31/1146246&from=rss) - [Psychologists Pinpoint Average Age Children Become Santa Sceptics](https://soylentnews.org/article.pl?sid=23/12/31/1146246&from=rss)
 * [2024-01-01, 09:57:00](https://soylentnews.org/article.pl?sid=23/12/31/1139235&from=rss) - [China Develops 'World's Most Powerful' Hypersonic Engine That Could Reach Mach 16](https://soylentnews.org/article.pl?sid=23/12/31/1139235&from=rss)
 * [2024-01-01, 05:08:00](https://soylentnews.org/article.pl?sid=23/12/31/1134247&from=rss) - [From Toilets to the Sky: UK Startup Makes Waste Into Low Carbon Jet Fuel](https://soylentnews.org/article.pl?sid=23/12/31/1134247&from=rss)
-* [2024-01-01, 00:29:00](https://soylentnews.org/article.pl?sid=23/12/31/0422220&from=rss) - [Novel Helmet Liner 30 Times Better at Stopping Concussions](https://soylentnews.org/article.pl?sid=23/12/31/0422220&from=rss)
 
 ## [Archives](archives/index.md)
 
