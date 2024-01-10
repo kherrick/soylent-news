@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-09, 23:59:00](https://soylentnews.org/meta/article.pl?sid=24/01/09/2344220&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, January 10, 2024 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=24/01/09/2344220&from=rss)
 * [2024-01-09, 22:10:00](https://soylentnews.org/article.pl?sid=24/01/09/0434226&from=rss) - [How to be More Anonymous Online](https://soylentnews.org/article.pl?sid=24/01/09/0434226&from=rss)
 * [2024-01-09, 17:24:00](https://soylentnews.org/article.pl?sid=24/01/09/046219&from=rss) - [FDA Finds Chromium, a Second Metal Contaminant, in Applesauce Pouches](https://soylentnews.org/article.pl?sid=24/01/09/046219&from=rss)
 * [2024-01-09, 12:37:00](https://soylentnews.org/article.pl?sid=24/01/09/040211&from=rss) - [A Burgeoning U.S. Fusion Industry: What 2024 Could Bring](https://soylentnews.org/article.pl?sid=24/01/09/040211&from=rss)
@@ -49,7 +50,6 @@
 * [2023-12-31, 23:00:00](https://soylentnews.org/article.pl?sid=23/12/31/122228&from=rss) - [Happy New Year!](https://soylentnews.org/article.pl?sid=23/12/31/122228&from=rss)
 * [2023-12-31, 19:41:00](https://soylentnews.org/article.pl?sid=23/12/30/1724224&from=rss) - [This Bird is Like a GPS for Honey](https://soylentnews.org/article.pl?sid=23/12/30/1724224&from=rss)
 * [2023-12-31, 14:53:00](https://soylentnews.org/article.pl?sid=23/12/30/0258217&from=rss) - [Fundamental Flaws With Tesla Vehicles and How They Are Covered Up and Pushed on the Consumer](https://soylentnews.org/article.pl?sid=23/12/30/0258217&from=rss)
-* [2023-12-31, 10:08:00](https://soylentnews.org/article.pl?sid=23/12/30/0244212&from=rss) - [What Comes After Open Source? Bruce Perens is Working on It](https://soylentnews.org/article.pl?sid=23/12/30/0244212&from=rss)
 
 ## [Archives](archives/index.md)
 
