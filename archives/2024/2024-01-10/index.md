@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 21:51:00](https://soylentnews.org/article.pl?sid=24/01/10/0253259&from=rss) - [Ryzen News from A to GPU](https://soylentnews.org/article.pl?sid=24/01/10/0253259&from=rss)
 * [2024-01-10, 17:04:00](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss) - [Saturday Citations: Snippets of Stories You Might Have Missed](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss)
 * [2024-01-10, 12:20:00](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss) - [Canada Vows to Defend its Drug Supply Against Florida Importation Plan](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss)
 * [2024-01-10, 07:38:00](https://soylentnews.org/article.pl?sid=24/01/09/0440201&from=rss) - [Scientists Find Megalodon Tooth In A Really Unexpected Place](https://soylentnews.org/article.pl?sid=24/01/09/0440201&from=rss)
