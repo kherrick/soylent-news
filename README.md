@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-11, 03:35:00](https://soylentnews.org/article.pl?sid=24/01/10/032219&from=rss) - [Cannibalistic Cells Could Provide an Edge in Future Cancer Treatments](https://soylentnews.org/article.pl?sid=24/01/10/032219&from=rss)
 * [2024-01-10, 21:51:00](https://soylentnews.org/article.pl?sid=24/01/10/0253259&from=rss) - [Ryzen News from A to GPU](https://soylentnews.org/article.pl?sid=24/01/10/0253259&from=rss)
 * [2024-01-10, 17:04:00](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss) - [Saturday Citations: Snippets of Stories You Might Have Missed](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss)
 * [2024-01-10, 12:20:00](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss) - [Canada Vows to Defend its Drug Supply Against Florida Importation Plan](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-02, 00:15:00](https://soylentnews.org/article.pl?sid=23/12/31/2116237&from=rss) - [The First EV With a Lithium-Free Sodium Battery Hits the Road in January](https://soylentnews.org/article.pl?sid=23/12/31/2116237&from=rss)
 * [2024-01-01, 19:31:00](https://soylentnews.org/article.pl?sid=23/12/31/1150223&from=rss) - [Infosys Loses Ten-Year, $1.5 Billion Contract](https://soylentnews.org/article.pl?sid=23/12/31/1150223&from=rss)
 * [2024-01-01, 14:40:00](https://soylentnews.org/article.pl?sid=23/12/31/1146246&from=rss) - [Psychologists Pinpoint Average Age Children Become Santa Sceptics](https://soylentnews.org/article.pl?sid=23/12/31/1146246&from=rss)
-* [2024-01-01, 09:57:00](https://soylentnews.org/article.pl?sid=23/12/31/1139235&from=rss) - [China Develops 'World's Most Powerful' Hypersonic Engine That Could Reach Mach 16](https://soylentnews.org/article.pl?sid=23/12/31/1139235&from=rss)
 
 ## [Archives](archives/index.md)
 
