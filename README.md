@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-11, 22:31:00](https://soylentnews.org/article.pl?sid=24/01/11/053208&from=rss) - [Researchers Discover Eco-Friendly Fungicide Alternative](https://soylentnews.org/article.pl?sid=24/01/11/053208&from=rss)
 * [2024-01-11, 17:47:00](https://soylentnews.org/article.pl?sid=24/01/11/0458208&from=rss) - [Radio Station Owner Audacy Files Chapter 11](https://soylentnews.org/article.pl?sid=24/01/11/0458208&from=rss)
 * [2024-01-11, 13:04:00](https://soylentnews.org/article.pl?sid=24/01/11/0454246&from=rss) - [Piracy Is Surging Again Because Streaming Execs Ignored The Lessons Of The Past ](https://soylentnews.org/article.pl?sid=24/01/11/0454246&from=rss)
 * [2024-01-11, 08:20:00](https://soylentnews.org/article.pl?sid=24/01/10/037217&from=rss) - [NASA Expected to Announce ‘Months-long Delay’ for Crewed Artemis Moon Mission](https://soylentnews.org/article.pl?sid=24/01/10/037217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-02, 21:30:00](https://soylentnews.org/meta/article.pl?sid=24/01/02/2047208&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, January 3, 2024 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=24/01/02/2047208&from=rss)
 * [2024-01-02, 14:12:00](https://soylentnews.org/article.pl?sid=24/01/01/2337215&from=rss) - [Google Settles $5bn Lawsuit for 'Private Mode' Tracking](https://soylentnews.org/article.pl?sid=24/01/01/2337215&from=rss)
 * [2024-01-02, 09:37:00](https://soylentnews.org/article.pl?sid=24/01/01/0341200&from=rss) - [Peppermint OS's Single-Site Browsers](https://soylentnews.org/article.pl?sid=24/01/01/0341200&from=rss)
-* [2024-01-02, 04:56:00](https://soylentnews.org/article.pl?sid=23/12/31/2243244&from=rss) - [Why Some People Don't Trust Science – and How to Change Their Minds](https://soylentnews.org/article.pl?sid=23/12/31/2243244&from=rss)
 
 ## [Archives](archives/index.md)
 
