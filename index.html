@@ -145,6 +145,118 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/01/11/056215">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/01/11/056215&amp;from=rss"
+              >Microsoft Distributes Broken Security Update, Tells Users to
+              Manually Repartition Their Drives</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-12 @ 03:15:00</span
+              ><span class="points-container"
+                >Points: <span class="points">2</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/01/11/056215"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>An Anonymous Coward writes:</p>
+              <p>
+                One of the Windows updates in the current cycle is for
+                <a
+                  href="https://support.microsoft.com/en-gb/topic/kb5034441-windows-recovery-environment-update-for-windows-10-version-21h2-and-22h2-january-9-2024-62c04204-aaa5-4fee-a02a-2fdea17075a8"
+                  >KB5034441</a
+                >, which addresses
+                <a
+                  href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20666"
+                  >CVE-2024-20666</a
+                >. From what I can tell, exploiting this vulnerability requires
+                physical access, so there's no risk of this being used in remote
+                attacks. The actual risk to most users is probably very low.
+                Still, it allows security features to be bypassed, so it should
+                be fixed.
+              </p>
+              <p>
+                The problem is that this update is
+                <a
+                  href="https://www.reddit.com/r/WindowsHelp/comments/192mww0/fyi_on_status_download_error_0x80070643_with/"
+                  >failing for many users with error code 0x80070643</a
+                >. Microsoft claims that this is due to the recovery partition
+                not being large enough on some systems, though the error code is
+                cryptic and unhelpful. Here's what Microsoft said about that:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Known issue Because of an issue in the error code handling
+                    routine, you might receive the following error message
+                    instead of the expected error message when there is
+                    insufficient disk space:
+                  </p>
+                  <p>        0x80070643 - ERROR_INSTALL_FAILURE</p>
+                </div>
+              </blockquote>
+              <p>
+                Windows isn't even telling users the correct error. Microsoft
+                claims the update is failing on systems where the recovery
+                partition isn't large enough. From my own experience, I have
+                systems where I allowed the Windows installer to partition the
+                drive automatically, meaning that Windows determined the size of
+                the recovery partition. Windows 10 chose a size of 509 MB on my
+                systems, and this doesn't seem to be scaled depending on the
+                size of the user's drive. For most users, this is probably set
+                automatically by the installer or the computer manufacturer.
+                That said, I've read a user comment that the update
+                <a
+                  href="https://www.reddit.com/r/WindowsHelp/comments/192yrrn/comment/kh5r4y7/"
+                  >failed on a system with a 15 GB recovery partition</a
+                >, so I'm not certain that this can really be blamed on
+                insufficient disk space.
+              </p>
+              <p>
+                Microsoft's advice to users is that they need to
+                <a
+                  href="https://support.microsoft.com/en-us/topic/kb5028997-instructions-to-manually-resize-your-partition-to-install-the-winre-update-400faa27-9343-461c-ada9-24c8229763bf"
+                  >manually resize the recovery partition</a
+                >. The commands are not intuitive, and there's absolutely no
+                reason that Microsoft should be expecting ordinary users to be
+                doing this. Resizing partitions is a fairly high risk operation,
+                one that carries a risk of data loss if not done properly.
+              </p>
+              <p>
+                This vulnerability probably just isn't a risk at all for most
+                users, but that's not necessarily obvious. They just see the
+                message that a security update failed with a cryptic error
+                message. It's Microsoft's responsibility to ensure that security
+                updates just work when they're being installed on a system in a
+                reasonably standard configuration. If the Windows installer
+                chose a recovery partition of 509 MB, then Microsoft needs to
+                make their updates work with a recovery partition of that size,
+                or they need to automatically resize the partition. This is a
+                dumpster fire, and it's inexcusable to expect Microsoft to
+                expect users to manually repartition their drives.
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61840"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/01/11/053208">
           <h3>
             <a
@@ -5059,64 +5171,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61758"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/01/01/0341200">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/01/01/0341200&amp;from=rss"
-              >Peppermint OS's Single-Site Browsers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-02 @ 09:37:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2453</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/01/01/0341200"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>[...]</p>
-              <p>Are SSBs Still Useful?</p>
-              <p>
-                Had SSBs come into existence in the mid-1990s when the Internet
-                first became popular, they would have been a valuable tool for
-                those trying to grasp the difference between between local
-                applications and online resources. But nearly a quarter of the
-                way into the 21st century, complete newcomers to computers are a
-                much smaller minority than they once were. After trying Ice and
-                Kumo for a week, I found SSBs convenient, but remain uncertain
-                whether to make them a standard tool on my desktop. While SSBs
-                make for a better user experience, is their efficiency that much
-                more efficient than the dichotomy I lived with years? For better
-                or worse, like most people, I am used to the dichotomy and it
-                would be inefficient to change, even for a more economical
-                arrangement.
-              </p>
-              <p>
-                Perhaps SSBs make more sense on a network or in a business where
-                their isolation provides another layer of security. Or perhaps
-                the time for SSBs is past and there's a reason browsers have
-                tried to implement them, and then discarded them.
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61759"
                     >Original Submission</a
                   ></small
                 >
