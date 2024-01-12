@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-12, 12:41:00](https://soylentnews.org/article.pl?sid=24/01/12/022227&from=rss) - [Celebrating 20 years of OpenWrt with Hardware Design](https://soylentnews.org/article.pl?sid=24/01/12/022227&from=rss)
 * [2024-01-12, 08:00:00](https://soylentnews.org/article.pl?sid=24/01/12/0159256&from=rss) - [AI Upends Long Held Belief That All Fingerprints Are Unique](https://soylentnews.org/article.pl?sid=24/01/12/0159256&from=rss)
 * [2024-01-12, 03:15:00](https://soylentnews.org/article.pl?sid=24/01/11/056215&from=rss) - [Microsoft Distributes Broken Security Update, Tells Users to Manually Repartition Their Drives](https://soylentnews.org/article.pl?sid=24/01/11/056215&from=rss)
 * [2024-01-11, 22:31:00](https://soylentnews.org/article.pl?sid=24/01/11/053208&from=rss) - [Researchers Discover Eco-Friendly Fungicide Alternative](https://soylentnews.org/article.pl?sid=24/01/11/053208&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-03, 09:20:00](https://soylentnews.org/article.pl?sid=24/01/02/0157201&from=rss) - [Aaarr Matey! Life on a 17th Century Pirate Ship Was Less Chaotic Than You Think](https://soylentnews.org/article.pl?sid=24/01/02/0157201&from=rss)
 * [2024-01-03, 04:33:00](https://soylentnews.org/article.pl?sid=24/01/02/0134237&from=rss) - [Linux Foundation Spending on Actual Linux Down to 2% of Their Budget](https://soylentnews.org/article.pl?sid=24/01/02/0134237&from=rss)
 * [2024-01-02, 22:03:00](https://soylentnews.org/article.pl?sid=24/01/02/0127204&from=rss) - [Amazon Drought: 'We've Never Seen Anything Like This'](https://soylentnews.org/article.pl?sid=24/01/02/0127204&from=rss)
-* [2024-01-02, 21:30:00](https://soylentnews.org/meta/article.pl?sid=24/01/02/2047208&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, January 3, 2024 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=24/01/02/2047208&from=rss)
 
 ## [Archives](archives/index.md)
 
