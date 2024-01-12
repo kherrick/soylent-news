@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-12, 17:24:00](https://soylentnews.org/article.pl?sid=24/01/12/0215242&from=rss) - [AI Threatens to Crush News Organizations. Lawmakers Signal Change Is Ahead](https://soylentnews.org/article.pl?sid=24/01/12/0215242&from=rss)
 * [2024-01-12, 12:41:00](https://soylentnews.org/article.pl?sid=24/01/12/022227&from=rss) - [Celebrating 20 years of OpenWrt with Hardware Design](https://soylentnews.org/article.pl?sid=24/01/12/022227&from=rss)
 * [2024-01-12, 08:00:00](https://soylentnews.org/article.pl?sid=24/01/12/0159256&from=rss) - [AI Upends Long Held Belief That All Fingerprints Are Unique](https://soylentnews.org/article.pl?sid=24/01/12/0159256&from=rss)
 * [2024-01-12, 03:15:00](https://soylentnews.org/article.pl?sid=24/01/11/056215&from=rss) - [Microsoft Distributes Broken Security Update, Tells Users to Manually Repartition Their Drives](https://soylentnews.org/article.pl?sid=24/01/11/056215&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-03, 14:09:00](https://soylentnews.org/article.pl?sid=24/01/02/0214242&from=rss) - [Young-Onset Dementia Risk Increased By Vitamin D Deficiency And Depression, Study Says](https://soylentnews.org/article.pl?sid=24/01/02/0214242&from=rss)
 * [2024-01-03, 09:20:00](https://soylentnews.org/article.pl?sid=24/01/02/0157201&from=rss) - [Aaarr Matey! Life on a 17th Century Pirate Ship Was Less Chaotic Than You Think](https://soylentnews.org/article.pl?sid=24/01/02/0157201&from=rss)
 * [2024-01-03, 04:33:00](https://soylentnews.org/article.pl?sid=24/01/02/0134237&from=rss) - [Linux Foundation Spending on Actual Linux Down to 2% of Their Budget](https://soylentnews.org/article.pl?sid=24/01/02/0134237&from=rss)
-* [2024-01-02, 22:03:00](https://soylentnews.org/article.pl?sid=24/01/02/0127204&from=rss) - [Amazon Drought: 'We've Never Seen Anything Like This'](https://soylentnews.org/article.pl?sid=24/01/02/0127204&from=rss)
 
 ## [Archives](archives/index.md)
 
