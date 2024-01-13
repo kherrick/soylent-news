@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-13, 02:52:00](https://soylentnews.org/article.pl?sid=24/01/12/0223259&from=rss) - [PC Prices To Jump As Cost Of Memory Rises, Say Analysts](https://soylentnews.org/article.pl?sid=24/01/12/0223259&from=rss)
 * [2024-01-12, 22:08:00](https://soylentnews.org/article.pl?sid=24/01/12/0220211&from=rss) - [Re-Frame of Mind: Do Our Brains Have a Built-in Sense of Grammar?](https://soylentnews.org/article.pl?sid=24/01/12/0220211&from=rss)
 * [2024-01-12, 17:24:00](https://soylentnews.org/article.pl?sid=24/01/12/0215242&from=rss) - [AI Threatens to Crush News Organizations. Lawmakers Signal Change Is Ahead](https://soylentnews.org/article.pl?sid=24/01/12/0215242&from=rss)
 * [2024-01-12, 12:41:00](https://soylentnews.org/article.pl?sid=24/01/12/022227&from=rss) - [Celebrating 20 years of OpenWrt with Hardware Design](https://soylentnews.org/article.pl?sid=24/01/12/022227&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-03, 23:39:00](https://soylentnews.org/article.pl?sid=24/01/03/0130218&from=rss) - [The I in LLM Stands for Intelligence](https://soylentnews.org/article.pl?sid=24/01/03/0130218&from=rss)
 * [2024-01-03, 18:57:00](https://soylentnews.org/article.pl?sid=24/01/02/0139229&from=rss) - [US Govt's Sluggish Chips Act Payouts Slam the Brakes on Samsung's Fab Factory](https://soylentnews.org/article.pl?sid=24/01/02/0139229&from=rss)
 * [2024-01-03, 14:09:00](https://soylentnews.org/article.pl?sid=24/01/02/0214242&from=rss) - [Young-Onset Dementia Risk Increased By Vitamin D Deficiency And Depression, Study Says](https://soylentnews.org/article.pl?sid=24/01/02/0214242&from=rss)
-* [2024-01-03, 09:20:00](https://soylentnews.org/article.pl?sid=24/01/02/0157201&from=rss) - [Aaarr Matey! Life on a 17th Century Pirate Ship Was Less Chaotic Than You Think](https://soylentnews.org/article.pl?sid=24/01/02/0157201&from=rss)
 
 ## [Archives](archives/index.md)
 
