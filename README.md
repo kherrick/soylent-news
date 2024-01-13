@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-13, 12:24:00](https://soylentnews.org/article.pl?sid=24/01/12/1428217&from=rss) - [NASA Finally Removes Last Two Fasteners to Access Historic Bennu Asteroid Sample](https://soylentnews.org/article.pl?sid=24/01/12/1428217&from=rss)
 * [2024-01-13, 07:38:00](https://soylentnews.org/article.pl?sid=24/01/12/0230204&from=rss) - [AI Comes Up With Battery Design That Uses 70 Per Cent Less Lithium](https://soylentnews.org/article.pl?sid=24/01/12/0230204&from=rss)
 * [2024-01-13, 02:52:00](https://soylentnews.org/article.pl?sid=24/01/12/0223259&from=rss) - [PC Prices To Jump As Cost Of Memory Rises, Say Analysts](https://soylentnews.org/article.pl?sid=24/01/12/0223259&from=rss)
 * [2024-01-12, 22:08:00](https://soylentnews.org/article.pl?sid=24/01/12/0220211&from=rss) - [Re-Frame of Mind: Do Our Brains Have a Built-in Sense of Grammar?](https://soylentnews.org/article.pl?sid=24/01/12/0220211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-04, 09:12:00](https://soylentnews.org/article.pl?sid=24/01/03/0157219&from=rss) - [Mozilla Pivots Towards AI Future As Firefox Market Share Declines](https://soylentnews.org/article.pl?sid=24/01/03/0157219&from=rss)
 * [2024-01-04, 04:24:00](https://soylentnews.org/article.pl?sid=24/01/03/0140204&from=rss) - [Researchers Shed New Light on How Fog Forms in Mountainous Areas](https://soylentnews.org/article.pl?sid=24/01/03/0140204&from=rss)
 * [2024-01-03, 23:39:00](https://soylentnews.org/article.pl?sid=24/01/03/0130218&from=rss) - [The I in LLM Stands for Intelligence](https://soylentnews.org/article.pl?sid=24/01/03/0130218&from=rss)
-* [2024-01-03, 18:57:00](https://soylentnews.org/article.pl?sid=24/01/02/0139229&from=rss) - [US Govt's Sluggish Chips Act Payouts Slam the Brakes on Samsung's Fab Factory](https://soylentnews.org/article.pl?sid=24/01/02/0139229&from=rss)
 
 ## [Archives](archives/index.md)
 
