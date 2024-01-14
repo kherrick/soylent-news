@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-14, 02:37:00](https://soylentnews.org/article.pl?sid=24/01/13/1422229&from=rss) - [All About Google's Phasing Out of Third-party Cookies](https://soylentnews.org/article.pl?sid=24/01/13/1422229&from=rss)
 * [2024-01-13, 21:55:00](https://soylentnews.org/article.pl?sid=24/01/12/1436250&from=rss) - [Which Countries Back South Africa’s Genocide Case Against Israel at ICJ?](https://soylentnews.org/article.pl?sid=24/01/12/1436250&from=rss)
 * [2024-01-13, 17:10:00](https://soylentnews.org/article.pl?sid=24/01/12/1431205&from=rss) - [Ancient DNA Reveals Reason for High Multiple Sclerosis and Alzheimer's Rates in Europe](https://soylentnews.org/article.pl?sid=24/01/12/1431205&from=rss)
 * [2024-01-13, 12:24:00](https://soylentnews.org/article.pl?sid=24/01/12/1428217&from=rss) - [NASA Finally Removes Last Two Fasteners to Access Historic Bennu Asteroid Sample](https://soylentnews.org/article.pl?sid=24/01/12/1428217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-04, 23:10:00](https://soylentnews.org/article.pl?sid=24/01/04/0222226&from=rss) - [iPhone Sideloading: Here's Why It Might Happen in the US and Japan](https://soylentnews.org/article.pl?sid=24/01/04/0222226&from=rss)
 * [2024-01-04, 18:23:00](https://soylentnews.org/article.pl?sid=24/01/04/0214226&from=rss) - [E-Mail Addresses Are Not Good 'Permanent' Identifiers for Accounts](https://soylentnews.org/article.pl?sid=24/01/04/0214226&from=rss)
 * [2024-01-04, 13:54:00](https://soylentnews.org/article.pl?sid=24/01/03/2129225&from=rss) - [RIP: Niklaus Wirth 15.2.1934 - 1.1.2024](https://soylentnews.org/article.pl?sid=24/01/03/2129225&from=rss)
-* [2024-01-04, 09:12:00](https://soylentnews.org/article.pl?sid=24/01/03/0157219&from=rss) - [Mozilla Pivots Towards AI Future As Firefox Market Share Declines](https://soylentnews.org/article.pl?sid=24/01/03/0157219&from=rss)
 
 ## [Archives](archives/index.md)
 
