@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-14, 17:06:00](https://soylentnews.org/article.pl?sid=24/01/13/180212&from=rss) - [Fastest Swimming Insect Could Inspire Uncrewed Boat Designs](https://soylentnews.org/article.pl?sid=24/01/13/180212&from=rss)
 * [2024-01-14, 12:14:00](https://soylentnews.org/article.pl?sid=24/01/13/1755234&from=rss) - [The Innovation That Gets an Alzheimer’s Drug Through the Blood-brain Barrier](https://soylentnews.org/article.pl?sid=24/01/13/1755234&from=rss)
 * [2024-01-14, 07:25:00](https://soylentnews.org/article.pl?sid=24/01/13/1748253&from=rss) - [US To Hospitals: Meet Security Standards Or No Federal Money ](https://soylentnews.org/article.pl?sid=24/01/13/1748253&from=rss)
 * [2024-01-14, 02:37:00](https://soylentnews.org/article.pl?sid=24/01/13/1422229&from=rss) - [All About Google's Phasing Out of Third-party Cookies](https://soylentnews.org/article.pl?sid=24/01/13/1422229&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-05, 13:24:00](https://soylentnews.org/article.pl?sid=24/01/05/030239&from=rss) - [Digitization Puts Many at a Disadvantage](https://soylentnews.org/article.pl?sid=24/01/05/030239&from=rss)
 * [2024-01-05, 08:39:00](https://soylentnews.org/article.pl?sid=24/01/05/0151206&from=rss) - [Making Progress in the Battle Against Superbugs](https://soylentnews.org/article.pl?sid=24/01/05/0151206&from=rss)
 * [2024-01-05, 03:58:00](https://soylentnews.org/article.pl?sid=24/01/04/0229252&from=rss) - [Making AI Stand The Test Of Time](https://soylentnews.org/article.pl?sid=24/01/04/0229252&from=rss)
-* [2024-01-04, 23:10:00](https://soylentnews.org/article.pl?sid=24/01/04/0222226&from=rss) - [iPhone Sideloading: Here's Why It Might Happen in the US and Japan](https://soylentnews.org/article.pl?sid=24/01/04/0222226&from=rss)
 
 ## [Archives](archives/index.md)
 
