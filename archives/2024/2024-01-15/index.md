@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-15](index.md)
+
+* [2024-01-15, 02:22:00](https://soylentnews.org/article.pl?sid=24/01/13/2213201&from=rss) - [Bizarre Galaxy Discovered With Seemingly No Stars Whatsoever](https://soylentnews.org/article.pl?sid=24/01/13/2213201&from=rss)
