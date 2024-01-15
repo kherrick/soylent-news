@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-15, 11:46:00](https://soylentnews.org/article.pl?sid=24/01/14/177248&from=rss) - [Timeline to Remove DSA Support from OpenSSH](https://soylentnews.org/article.pl?sid=24/01/14/177248&from=rss)
 * [2024-01-15, 07:00:00](https://soylentnews.org/article.pl?sid=24/01/13/2219219&from=rss) - [Need for Speed: How Hummingbirds Switch Mental Gears in Flight](https://soylentnews.org/article.pl?sid=24/01/13/2219219&from=rss)
 * [2024-01-15, 02:22:00](https://soylentnews.org/article.pl?sid=24/01/13/2213201&from=rss) - [Bizarre Galaxy Discovered With Seemingly No Stars Whatsoever](https://soylentnews.org/article.pl?sid=24/01/13/2213201&from=rss)
 * [2024-01-14, 21:52:00](https://soylentnews.org/article.pl?sid=24/01/13/183203&from=rss) - [Private Peregrine Moon Lander Powers Up Lunar Payloads Despite Propulsion Anomaly](https://soylentnews.org/article.pl?sid=24/01/13/183203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-06, 08:20:00](https://soylentnews.org/article.pl?sid=24/01/05/1422259&from=rss) - [Gentoo Linux Now Offers Binaries...](https://soylentnews.org/article.pl?sid=24/01/05/1422259&from=rss)
 * [2024-01-06, 03:37:00](https://soylentnews.org/article.pl?sid=24/01/05/060211&from=rss) - [In a Breakthrough, Diabetics’ Damaged Cells Regenerated to Produce Insulin](https://soylentnews.org/article.pl?sid=24/01/05/060211&from=rss)
 * [2024-01-05, 22:53:00](https://soylentnews.org/article.pl?sid=24/01/05/0551255&from=rss) - [Microsoft Adding New PC Button in its First Significant Keyboard Change in Decades](https://soylentnews.org/article.pl?sid=24/01/05/0551255&from=rss)
-* [2024-01-05, 18:08:00](https://soylentnews.org/article.pl?sid=24/01/05/0317235&from=rss) - [Starlink Launches First “Cellphone Towers in Space” for Use With LTE Phones](https://soylentnews.org/article.pl?sid=24/01/05/0317235&from=rss)
 
 ## [Archives](archives/index.md)
 
