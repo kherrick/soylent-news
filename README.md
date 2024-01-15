@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-15, 21:18:00](https://soylentnews.org/article.pl?sid=24/01/14/1731210&from=rss) - [Is Murderbot Gestating in Your Washing Machine?](https://soylentnews.org/article.pl?sid=24/01/14/1731210&from=rss)
 * [2024-01-15, 16:35:00](https://soylentnews.org/article.pl?sid=24/01/14/1718259&from=rss) - [Compression Attached Memory Modules May Make Upgradable Laptops a Thing Again](https://soylentnews.org/article.pl?sid=24/01/14/1718259&from=rss)
 * [2024-01-15, 11:46:00](https://soylentnews.org/article.pl?sid=24/01/14/177248&from=rss) - [Timeline to Remove DSA Support from OpenSSH](https://soylentnews.org/article.pl?sid=24/01/14/177248&from=rss)
 * [2024-01-15, 07:00:00](https://soylentnews.org/article.pl?sid=24/01/13/2219219&from=rss) - [Need for Speed: How Hummingbirds Switch Mental Gears in Flight](https://soylentnews.org/article.pl?sid=24/01/13/2219219&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-06, 17:50:00](https://soylentnews.org/article.pl?sid=24/01/06/0132214&from=rss) - ['Giant' Predator Worms More Than Half a Billion Years Old Discovered in North Greenland](https://soylentnews.org/article.pl?sid=24/01/06/0132214&from=rss)
 * [2024-01-06, 13:03:00](https://soylentnews.org/article.pl?sid=24/01/06/0124201&from=rss) - [23andMe Tells Victims it’s Their Fault that Their Data was Breached](https://soylentnews.org/article.pl?sid=24/01/06/0124201&from=rss)
 * [2024-01-06, 08:20:00](https://soylentnews.org/article.pl?sid=24/01/05/1422259&from=rss) - [Gentoo Linux Now Offers Binaries...](https://soylentnews.org/article.pl?sid=24/01/05/1422259&from=rss)
-* [2024-01-06, 03:37:00](https://soylentnews.org/article.pl?sid=24/01/05/060211&from=rss) - [In a Breakthrough, Diabetics’ Damaged Cells Regenerated to Produce Insulin](https://soylentnews.org/article.pl?sid=24/01/05/060211&from=rss)
 
 ## [Archives](archives/index.md)
 
