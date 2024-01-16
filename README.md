@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-16, 21:21:00](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss) - [WOTC Denies Using Ai Generative Art In Promo Materials, Later Admits, Yeah, It Did](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss)
 * [2024-01-16, 16:34:00](https://soylentnews.org/article.pl?sid=24/01/15/1425235&from=rss) - [US CO2 Emissions Down in 2023](https://soylentnews.org/article.pl?sid=24/01/15/1425235&from=rss)
 * [2024-01-16, 11:39:00](https://soylentnews.org/article.pl?sid=24/01/15/1421200&from=rss) - [Lucid Delivered Just 6,001 Electric Sedans in 2023](https://soylentnews.org/article.pl?sid=24/01/15/1421200&from=rss)
 * [2024-01-16, 06:51:00](https://soylentnews.org/article.pl?sid=24/01/15/1411255&from=rss) - [Chinese 5 X 15 X 5mm Nickel-63 Nuclear Battery Has a 50-Year Lifespan](https://soylentnews.org/article.pl?sid=24/01/15/1411255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-07, 17:37:00](https://soylentnews.org/article.pl?sid=24/01/07/015228&from=rss) - [Ancient Roman Wine Production May Hold Clues for Battling Climate Change](https://soylentnews.org/article.pl?sid=24/01/07/015228&from=rss)
 * [2024-01-07, 12:52:00](https://soylentnews.org/article.pl?sid=24/01/06/1823227&from=rss) - [ULA's Vulcan Centaur Rocket Set to Launch Monday, a Challenge to SpaceX](https://soylentnews.org/article.pl?sid=24/01/06/1823227&from=rss)
 * [2024-01-07, 08:07:00](https://soylentnews.org/article.pl?sid=24/01/06/1818213&from=rss) - [NES Tetris Beaten](https://soylentnews.org/article.pl?sid=24/01/06/1818213&from=rss)
-* [2024-01-07, 03:22:00](https://soylentnews.org/article.pl?sid=24/01/06/0144245&from=rss) - [SpaceX Illegally Fired Workers Critical of Elon Musk, US Labor Agency Says](https://soylentnews.org/article.pl?sid=24/01/06/0144245&from=rss)
 
 ## [Archives](archives/index.md)
 
