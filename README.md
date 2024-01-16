@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-16, 06:51:00](https://soylentnews.org/article.pl?sid=24/01/15/1411255&from=rss) - [Chinese 5 X 15 X 5mm Nickel-63 Nuclear Battery Has a 50-Year Lifespan](https://soylentnews.org/article.pl?sid=24/01/15/1411255&from=rss)
 * [2024-01-16, 02:03:00](https://soylentnews.org/article.pl?sid=24/01/14/1820220&from=rss) - [The Rube Goldberg Path to Mars](https://soylentnews.org/article.pl?sid=24/01/14/1820220&from=rss)
 * [2024-01-15, 21:18:00](https://soylentnews.org/article.pl?sid=24/01/14/1731210&from=rss) - [Is Murderbot Gestating in Your Washing Machine?](https://soylentnews.org/article.pl?sid=24/01/14/1731210&from=rss)
 * [2024-01-15, 16:35:00](https://soylentnews.org/article.pl?sid=24/01/14/1718259&from=rss) - [Compression Attached Memory Modules May Make Upgradable Laptops a Thing Again](https://soylentnews.org/article.pl?sid=24/01/14/1718259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-07, 03:22:00](https://soylentnews.org/article.pl?sid=24/01/06/0144245&from=rss) - [SpaceX Illegally Fired Workers Critical of Elon Musk, US Labor Agency Says](https://soylentnews.org/article.pl?sid=24/01/06/0144245&from=rss)
 * [2024-01-06, 22:36:00](https://soylentnews.org/article.pl?sid=24/01/06/0137240&from=rss) - [Oldest Known Version Of DOS Unearthed - MS-DOS Ancestor 86-DOS Version 0.1c Is Now Available ](https://soylentnews.org/article.pl?sid=24/01/06/0137240&from=rss)
 * [2024-01-06, 17:50:00](https://soylentnews.org/article.pl?sid=24/01/06/0132214&from=rss) - ['Giant' Predator Worms More Than Half a Billion Years Old Discovered in North Greenland](https://soylentnews.org/article.pl?sid=24/01/06/0132214&from=rss)
-* [2024-01-06, 13:03:00](https://soylentnews.org/article.pl?sid=24/01/06/0124201&from=rss) - [23andMe Tells Victims it’s Their Fault that Their Data was Breached](https://soylentnews.org/article.pl?sid=24/01/06/0124201&from=rss)
 
 ## [Archives](archives/index.md)
 
