@@ -1,7 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2024-01-17, 03:06:00](https://soylentnews.org/article.pl?sid=24/01/16/0056203&from=rss) - [Chinese Authorities Say They're Exploiting an Apple AirDrop Vulnerability](https://soylentnews.org/article.pl?sid=24/01/16/0056203&from=rss)
-* [2024-01-16, 21:21:00](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss) - [WOTC Denies Using Ai Generative Art In Promo Materials, Later Admits, Yeah, It Did](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss)
+* [2024-01-16, 21:21:00](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss) - [WOTC Denies Using AI Generative Art In Promo Materials, Later Admits, Yeah, It Did](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss)
 * [2024-01-16, 16:34:00](https://soylentnews.org/article.pl?sid=24/01/15/1425235&from=rss) - [US CO2 Emissions Down in 2023](https://soylentnews.org/article.pl?sid=24/01/15/1425235&from=rss)
 * [2024-01-16, 11:39:00](https://soylentnews.org/article.pl?sid=24/01/15/1421200&from=rss) - [Lucid Delivered Just 6,001 Electric Sedans in 2023](https://soylentnews.org/article.pl?sid=24/01/15/1421200&from=rss)
 * [2024-01-16, 06:51:00](https://soylentnews.org/article.pl?sid=24/01/15/1411255&from=rss) - [Chinese 5 X 15 X 5mm Nickel-63 Nuclear Battery Has a 50-Year Lifespan](https://soylentnews.org/article.pl?sid=24/01/15/1411255&from=rss)
