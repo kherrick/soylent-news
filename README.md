@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-17, 03:06:00](https://soylentnews.org/article.pl?sid=24/01/16/0056203&from=rss) - [Chinese Authorities Say They're Exploiting an Apple AirDrop Vulnerability](https://soylentnews.org/article.pl?sid=24/01/16/0056203&from=rss)
 * [2024-01-16, 21:21:00](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss) - [WOTC Denies Using Ai Generative Art In Promo Materials, Later Admits, Yeah, It Did](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss)
 * [2024-01-16, 16:34:00](https://soylentnews.org/article.pl?sid=24/01/15/1425235&from=rss) - [US CO2 Emissions Down in 2023](https://soylentnews.org/article.pl?sid=24/01/15/1425235&from=rss)
 * [2024-01-16, 11:39:00](https://soylentnews.org/article.pl?sid=24/01/15/1421200&from=rss) - [Lucid Delivered Just 6,001 Electric Sedans in 2023](https://soylentnews.org/article.pl?sid=24/01/15/1421200&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-07, 22:32:00](https://soylentnews.org/article.pl?sid=24/01/07/0142221&from=rss) - [New Transistors Based on Monolayer Black Phosphorus and Germanium Arsenide](https://soylentnews.org/article.pl?sid=24/01/07/0142221&from=rss)
 * [2024-01-07, 17:37:00](https://soylentnews.org/article.pl?sid=24/01/07/015228&from=rss) - [Ancient Roman Wine Production May Hold Clues for Battling Climate Change](https://soylentnews.org/article.pl?sid=24/01/07/015228&from=rss)
 * [2024-01-07, 12:52:00](https://soylentnews.org/article.pl?sid=24/01/06/1823227&from=rss) - [ULA's Vulcan Centaur Rocket Set to Launch Monday, a Challenge to SpaceX](https://soylentnews.org/article.pl?sid=24/01/06/1823227&from=rss)
-* [2024-01-07, 08:07:00](https://soylentnews.org/article.pl?sid=24/01/06/1818213&from=rss) - [NES Tetris Beaten](https://soylentnews.org/article.pl?sid=24/01/06/1818213&from=rss)
 
 ## [Archives](archives/index.md)
 
