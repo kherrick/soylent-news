@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-17, 22:16:00](https://soylentnews.org/article.pl?sid=24/01/16/1426251&from=rss) - [New Rice Lines for Africa Offer Virus Protection](https://soylentnews.org/article.pl?sid=24/01/16/1426251&from=rss)
 * [2024-01-17, 17:26:00](https://soylentnews.org/article.pl?sid=24/01/16/1317256&from=rss) - [Major Camera Companies Are Working To Fight Deepfakes](https://soylentnews.org/article.pl?sid=24/01/16/1317256&from=rss)
 * [2024-01-17, 12:44:00](https://soylentnews.org/article.pl?sid=24/01/16/1315225&from=rss) - [1000x Brighter Than OLED: Cheap Material for Solar Panels Could Make Brighter Displays](https://soylentnews.org/article.pl?sid=24/01/16/1315225&from=rss)
 * [2024-01-17, 07:50:00](https://soylentnews.org/article.pl?sid=24/01/16/1311216&from=rss) - [The Spectacular Failure of Self-Checkout Technology](https://soylentnews.org/article.pl?sid=24/01/16/1311216&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-08, 17:33:00](https://soylentnews.org/article.pl?sid=24/01/07/2216214&from=rss) - [A Method to Straighten Curved Space-Time](https://soylentnews.org/article.pl?sid=24/01/07/2216214&from=rss)
 * [2024-01-08, 12:48:00](https://soylentnews.org/article.pl?sid=24/01/07/150249&from=rss) - [India's Sun Probe Reaches Solar Orbit](https://soylentnews.org/article.pl?sid=24/01/07/150249&from=rss)
 * [2024-01-08, 08:02:00](https://soylentnews.org/article.pl?sid=24/01/07/050204&from=rss) - [Kohler's Newest Bidet Finally Brings Alexa and Google to Your Butt](https://soylentnews.org/article.pl?sid=24/01/07/050204&from=rss)
-* [2024-01-08, 03:17:00](https://soylentnews.org/article.pl?sid=24/01/07/0445242&from=rss) - [Steam Stops Supporting Windows 7, 8, and 8.1](https://soylentnews.org/article.pl?sid=24/01/07/0445242&from=rss)
 
 ## [Archives](archives/index.md)
 
