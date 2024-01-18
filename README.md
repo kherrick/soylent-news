@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-18, 17:06:00](https://soylentnews.org/article.pl?sid=24/01/18/0339205&from=rss) - [Amazing, Incredible, Superb: The Effect of High-Arousal Language Used by Social Media Influencers](https://soylentnews.org/article.pl?sid=24/01/18/0339205&from=rss)
 * [2024-01-18, 12:24:00](https://soylentnews.org/article.pl?sid=24/01/17/1113216&from=rss) - [Zero-Click Bluetooth Attacks Pose Serious Threat Across Major OSes](https://soylentnews.org/article.pl?sid=24/01/17/1113216&from=rss)
 * [2024-01-18, 07:41:00](https://soylentnews.org/article.pl?sid=24/01/17/1043205&from=rss) - [NASA Reveals Its X-Plane. It Will Fly Over The U.S. At Supersonic Speed](https://soylentnews.org/article.pl?sid=24/01/17/1043205&from=rss)
 * [2024-01-18, 02:57:00](https://soylentnews.org/article.pl?sid=24/01/17/1028252&from=rss) - [\"Dirt-Powered Fuel Cell\" Draws Near-Limitless Energy From Soil](https://soylentnews.org/article.pl?sid=24/01/17/1028252&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-09, 12:37:00](https://soylentnews.org/article.pl?sid=24/01/09/040211&from=rss) - [A Burgeoning U.S. Fusion Industry: What 2024 Could Bring](https://soylentnews.org/article.pl?sid=24/01/09/040211&from=rss)
 * [2024-01-09, 07:49:00](https://soylentnews.org/article.pl?sid=24/01/09/0312254&from=rss) - [Wickr is Dead.  Long live wickr-crypto-c!](https://soylentnews.org/article.pl?sid=24/01/09/0312254&from=rss)
 * [2024-01-09, 03:03:00](https://soylentnews.org/article.pl?sid=24/01/08/0456216&from=rss) - [NASA Just Spotted An Exploded Star Blasting Vital Elements Into Space](https://soylentnews.org/article.pl?sid=24/01/08/0456216&from=rss)
-* [2024-01-08, 22:16:00](https://soylentnews.org/article.pl?sid=24/01/08/0446204&from=rss) - [FAA Grounds Roughly 171 Boeing 737 Max 9 Planes After A Cabin Panel Blew Out During Flight](https://soylentnews.org/article.pl?sid=24/01/08/0446204&from=rss)
 
 ## [Archives](archives/index.md)
 
