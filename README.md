@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-19, 21:44:00](https://soylentnews.org/article.pl?sid=24/01/18/1727234&from=rss) - [Insect Populations Flourish in the Restored Habitats of Solar Energy Facilities](https://soylentnews.org/article.pl?sid=24/01/18/1727234&from=rss)
 * [2024-01-19, 16:54:00](https://soylentnews.org/article.pl?sid=24/01/18/1725205&from=rss) - [How A 27-Year-Old Busted The Myth Of Bitcoin’s Anonymity](https://soylentnews.org/article.pl?sid=24/01/18/1725205&from=rss)
 * [2024-01-19, 12:10:00](https://soylentnews.org/article.pl?sid=24/01/18/1721234&from=rss) - [Bottled Water Contains Hundreds of Thousands of Nanoplastic Particle Per Liter](https://soylentnews.org/article.pl?sid=24/01/18/1721234&from=rss)
 * [2024-01-19, 07:24:00](https://soylentnews.org/article.pl?sid=24/01/18/0356246&from=rss) - [Audible Yawns in a Non-Human Species May Convey Important Social Information](https://soylentnews.org/article.pl?sid=24/01/18/0356246&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-10, 12:20:00](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss) - [Canada Vows to Defend its Drug Supply Against Florida Importation Plan](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss)
 * [2024-01-10, 07:38:00](https://soylentnews.org/article.pl?sid=24/01/09/0440201&from=rss) - [Scientists Find Megalodon Tooth In A Really Unexpected Place](https://soylentnews.org/article.pl?sid=24/01/09/0440201&from=rss)
 * [2024-01-10, 02:55:00](https://soylentnews.org/article.pl?sid=24/01/09/0436206&from=rss) - [American Dialect Society 2023 Word of the Year Is “Enshittification”](https://soylentnews.org/article.pl?sid=24/01/09/0436206&from=rss)
-* [2024-01-09, 23:59:00](https://soylentnews.org/meta/article.pl?sid=24/01/09/2344220&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, January 10, 2024 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=24/01/09/2344220&from=rss)
 
 ## [Archives](archives/index.md)
 
