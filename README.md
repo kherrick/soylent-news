@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-19, 12:10:00](https://soylentnews.org/article.pl?sid=24/01/18/1721234&from=rss) - [Bottled Water Contains Hundreds of Thousands of Nanoplastic Particle Per Liter](https://soylentnews.org/article.pl?sid=24/01/18/1721234&from=rss)
 * [2024-01-19, 07:24:00](https://soylentnews.org/article.pl?sid=24/01/18/0356246&from=rss) - [Audible Yawns in a Non-Human Species May Convey Important Social Information](https://soylentnews.org/article.pl?sid=24/01/18/0356246&from=rss)
 * [2024-01-19, 02:38:00](https://soylentnews.org/article.pl?sid=24/01/18/0350204&from=rss) - [The Isotope Effect: Bigger Than Science Ever Imagined](https://soylentnews.org/article.pl?sid=24/01/18/0350204&from=rss)
 * [2024-01-18, 21:54:00](https://soylentnews.org/article.pl?sid=24/01/18/0346250&from=rss) - [Infosys Co-Founder Repeats Call for 70-Hour Working Weeks](https://soylentnews.org/article.pl?sid=24/01/18/0346250&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-10, 02:55:00](https://soylentnews.org/article.pl?sid=24/01/09/0436206&from=rss) - [American Dialect Society 2023 Word of the Year Is “Enshittification”](https://soylentnews.org/article.pl?sid=24/01/09/0436206&from=rss)
 * [2024-01-09, 23:59:00](https://soylentnews.org/meta/article.pl?sid=24/01/09/2344220&from=rss) - [Meeting Announcement: Governance Committee Meeting on Wednesday, January 10, 2024 @ 21:00 UTC](https://soylentnews.org/meta/article.pl?sid=24/01/09/2344220&from=rss)
 * [2024-01-09, 22:10:00](https://soylentnews.org/article.pl?sid=24/01/09/0434226&from=rss) - [How to be More Anonymous Online](https://soylentnews.org/article.pl?sid=24/01/09/0434226&from=rss)
-* [2024-01-09, 17:24:00](https://soylentnews.org/article.pl?sid=24/01/09/046219&from=rss) - [FDA Finds Chromium, a Second Metal Contaminant, in Applesauce Pouches](https://soylentnews.org/article.pl?sid=24/01/09/046219&from=rss)
 
 ## [Archives](archives/index.md)
 
