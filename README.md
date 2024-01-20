@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-20, 11:02:00](https://soylentnews.org/article.pl?sid=24/01/19/052249&from=rss) - [Google Search Really Has Gotten Worse. It's Not Just You. ](https://soylentnews.org/article.pl?sid=24/01/19/052249&from=rss)
 * [2024-01-20, 06:17:00](https://soylentnews.org/article.pl?sid=24/01/19/0458254&from=rss) - [Peregrine Moon Lander And Its Cargo Will Likely Burn Up In Earth’s Atmosphere](https://soylentnews.org/article.pl?sid=24/01/19/0458254&from=rss)
 * [2024-01-20, 01:35:00](https://soylentnews.org/article.pl?sid=24/01/18/1732237&from=rss) - [Massive Data Dump Containing Millions Of Passwords Sparks Security Alert](https://soylentnews.org/article.pl?sid=24/01/18/1732237&from=rss)
 * [2024-01-19, 21:44:00](https://soylentnews.org/article.pl?sid=24/01/18/1727234&from=rss) - [Insect Populations Flourish in the Restored Habitats of Solar Energy Facilities](https://soylentnews.org/article.pl?sid=24/01/18/1727234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-11, 03:35:00](https://soylentnews.org/article.pl?sid=24/01/10/032219&from=rss) - [Cannibalistic Cells Could Provide an Edge in Future Cancer Treatments](https://soylentnews.org/article.pl?sid=24/01/10/032219&from=rss)
 * [2024-01-10, 21:51:00](https://soylentnews.org/article.pl?sid=24/01/10/0253259&from=rss) - [Ryzen News from A to GPU](https://soylentnews.org/article.pl?sid=24/01/10/0253259&from=rss)
 * [2024-01-10, 17:04:00](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss) - [Saturday Citations: Snippets of Stories You Might Have Missed](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss)
-* [2024-01-10, 12:20:00](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss) - [Canada Vows to Defend its Drug Supply Against Florida Importation Plan](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss)
 
 ## [Archives](archives/index.md)
 
