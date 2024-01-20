@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-20, 15:45:00](https://soylentnews.org/article.pl?sid=24/01/19/056258&from=rss) - [Scientists Extract The Sharpest Image Of A Black Hole Yet](https://soylentnews.org/article.pl?sid=24/01/19/056258&from=rss)
 * [2024-01-20, 11:02:00](https://soylentnews.org/article.pl?sid=24/01/19/052249&from=rss) - [Google Search Really Has Gotten Worse. It's Not Just You. ](https://soylentnews.org/article.pl?sid=24/01/19/052249&from=rss)
 * [2024-01-20, 06:17:00](https://soylentnews.org/article.pl?sid=24/01/19/0458254&from=rss) - [Peregrine Moon Lander And Its Cargo Will Likely Burn Up In Earth’s Atmosphere](https://soylentnews.org/article.pl?sid=24/01/19/0458254&from=rss)
 * [2024-01-20, 01:35:00](https://soylentnews.org/article.pl?sid=24/01/18/1732237&from=rss) - [Massive Data Dump Containing Millions Of Passwords Sparks Security Alert](https://soylentnews.org/article.pl?sid=24/01/18/1732237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-11, 08:20:00](https://soylentnews.org/article.pl?sid=24/01/10/037217&from=rss) - [NASA Expected to Announce ‘Months-long Delay’ for Crewed Artemis Moon Mission](https://soylentnews.org/article.pl?sid=24/01/10/037217&from=rss)
 * [2024-01-11, 03:35:00](https://soylentnews.org/article.pl?sid=24/01/10/032219&from=rss) - [Cannibalistic Cells Could Provide an Edge in Future Cancer Treatments](https://soylentnews.org/article.pl?sid=24/01/10/032219&from=rss)
 * [2024-01-10, 21:51:00](https://soylentnews.org/article.pl?sid=24/01/10/0253259&from=rss) - [Ryzen News from A to GPU](https://soylentnews.org/article.pl?sid=24/01/10/0253259&from=rss)
-* [2024-01-10, 17:04:00](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss) - [Saturday Citations: Snippets of Stories You Might Have Missed](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss)
 
 ## [Archives](archives/index.md)
 
