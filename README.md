@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-20, 01:35:00](https://soylentnews.org/article.pl?sid=24/01/18/1732237&from=rss) - [Massive Data Dump Containing Millions Of Passwords Sparks Security Alert](https://soylentnews.org/article.pl?sid=24/01/18/1732237&from=rss)
 * [2024-01-19, 21:44:00](https://soylentnews.org/article.pl?sid=24/01/18/1727234&from=rss) - [Insect Populations Flourish in the Restored Habitats of Solar Energy Facilities](https://soylentnews.org/article.pl?sid=24/01/18/1727234&from=rss)
 * [2024-01-19, 16:54:00](https://soylentnews.org/article.pl?sid=24/01/18/1725205&from=rss) - [How A 27-Year-Old Busted The Myth Of Bitcoin’s Anonymity](https://soylentnews.org/article.pl?sid=24/01/18/1725205&from=rss)
 * [2024-01-19, 12:10:00](https://soylentnews.org/article.pl?sid=24/01/18/1721234&from=rss) - [Bottled Water Contains Hundreds of Thousands of Nanoplastic Particle Per Liter](https://soylentnews.org/article.pl?sid=24/01/18/1721234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-10, 17:04:00](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss) - [Saturday Citations: Snippets of Stories You Might Have Missed](https://soylentnews.org/article.pl?sid=24/01/10/0236256&from=rss)
 * [2024-01-10, 12:20:00](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss) - [Canada Vows to Defend its Drug Supply Against Florida Importation Plan](https://soylentnews.org/article.pl?sid=24/01/10/0222231&from=rss)
 * [2024-01-10, 07:38:00](https://soylentnews.org/article.pl?sid=24/01/09/0440201&from=rss) - [Scientists Find Megalodon Tooth In A Really Unexpected Place](https://soylentnews.org/article.pl?sid=24/01/09/0440201&from=rss)
-* [2024-01-10, 02:55:00](https://soylentnews.org/article.pl?sid=24/01/09/0436206&from=rss) - [American Dialect Society 2023 Word of the Year Is “Enshittification”](https://soylentnews.org/article.pl?sid=24/01/09/0436206&from=rss)
 
 ## [Archives](archives/index.md)
 
