@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-21, 10:36:00](https://soylentnews.org/article.pl?sid=24/01/19/1047233&from=rss) - [Pacific Kelp Forests Are Far Older That We Thought](https://soylentnews.org/article.pl?sid=24/01/19/1047233&from=rss)
 * [2024-01-21, 05:56:00](https://soylentnews.org/article.pl?sid=24/01/19/0519200&from=rss) - [New Vapor Coating Technique Lets You Run A Computer Under Water](https://soylentnews.org/article.pl?sid=24/01/19/0519200&from=rss)
 * [2024-01-21, 01:12:00](https://soylentnews.org/article.pl?sid=24/01/19/0513201&from=rss) - [Will the New Judicial Ruling in the Vizio Lawsuit Strengthen the GPL?](https://soylentnews.org/article.pl?sid=24/01/19/0513201&from=rss)
 * [2024-01-20, 20:29:00](https://soylentnews.org/article.pl?sid=24/01/19/0510254&from=rss) - [Wind Supplied a Record 35% of Irish Electricity in 2023](https://soylentnews.org/article.pl?sid=24/01/19/0510254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-12, 08:00:00](https://soylentnews.org/article.pl?sid=24/01/12/0159256&from=rss) - [AI Upends Long Held Belief That All Fingerprints Are Unique](https://soylentnews.org/article.pl?sid=24/01/12/0159256&from=rss)
 * [2024-01-12, 03:15:00](https://soylentnews.org/article.pl?sid=24/01/11/056215&from=rss) - [Microsoft Distributes Broken Security Update, Tells Users to Manually Repartition Their Drives](https://soylentnews.org/article.pl?sid=24/01/11/056215&from=rss)
 * [2024-01-11, 22:31:00](https://soylentnews.org/article.pl?sid=24/01/11/053208&from=rss) - [Researchers Discover Eco-Friendly Fungicide Alternative](https://soylentnews.org/article.pl?sid=24/01/11/053208&from=rss)
-* [2024-01-11, 17:47:00](https://soylentnews.org/article.pl?sid=24/01/11/0458208&from=rss) - [Radio Station Owner Audacy Files Chapter 11](https://soylentnews.org/article.pl?sid=24/01/11/0458208&from=rss)
 
 ## [Archives](archives/index.md)
 
