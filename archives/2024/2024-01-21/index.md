@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 05:56:00](https://soylentnews.org/article.pl?sid=24/01/19/0519200&from=rss) - [New Vapor Coating Technique Lets You Run A Computer Under Water](https://soylentnews.org/article.pl?sid=24/01/19/0519200&from=rss)
 * [2024-01-21, 01:12:00](https://soylentnews.org/article.pl?sid=24/01/19/0513201&from=rss) - [Will the New Judicial Ruling in the Vizio Lawsuit Strengthen the GPL?](https://soylentnews.org/article.pl?sid=24/01/19/0513201&from=rss)
