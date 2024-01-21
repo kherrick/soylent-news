@@ -145,6 +145,90 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/01/19/1053225">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/01/19/1053225&amp;from=rss"
+              >Supply Chain Attack Via MS GitHub's Runner Images</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-21 @ 20:02:00</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/01/19/1053225"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                <a href="//soylentnews.org/~canopic+jug/">canopic jug</a>
+                writes:
+              </p>
+              <p>
+                Software engineer and security researcher, Adnan Khan, has found
+                and published a
+                <a
+                  href="https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/"
+                  >supply chain attack carried out via Microsoft GitHub's runner
+                  images</a
+                >. The project used in the proof of concept is PyTorch.
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    From a period of time between February 2023 and July 25th,
+                    2023, one such repository was GitHub's own
+                    actions/runner-images repository. You might be able to guess
+                    where this story this is going. This is the story of how I
+                    discovered and exploited a Critical misconfiguration
+                    vulnerability and reported it to GitHub. The vulnerability
+                    provided access to internal GitHub infrastructure as well as
+                    secrets. There was also a very high likelihood that this
+                    access could be used to insert malicious code into all of
+                    GitHub's runner base images – allowing an attacker to
+                    conduct a supply chain attack against every GitHub customer
+                    that used hosted runners.
+                  </p>
+                </div>
+              </blockquote>
+              <p>
+                More than a few sites are wrongly spinning this as a weakness
+                with Python, PyTorch, or even with FOSS in general. However, the
+                problem is not with FOSS, Python, or PyTorch but instead with a
+                <a
+                  href="https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/"
+                  >reliance on Microsoft's infrastructure for development</a
+                >. Fortunately
+                <a
+                  href="https://sethmlarson.dev/security-developer-in-residence-weekly-report-25"
+                  >there are mitigations</a
+                >. GitHub is software as a service, and not related to FOSS or
+                Git itself though it does exploit both. It currently serves as a
+                <a
+                  href="https://aibusiness.com/nlp/github-copilot-loses-20-a-month-per-user"
+                  >showcase for Microsoft Copilot</a
+                >.
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61901"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/01/19/1051214">
           <h3>
             <a
@@ -5585,118 +5669,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61848"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/01/11/056215">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/01/11/056215&amp;from=rss"
-              >Microsoft Distributes Broken Security Update, Tells Users to
-              Manually Repartition Their Drives</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-12 @ 03:15:00</span
-              ><span class="points-container"
-                >Points: <span class="points">3017</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/01/11/056215"
-                  >Comments</a
-                ><span class="descendants">: 31</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>An Anonymous Coward writes:</p>
-              <p>
-                One of the Windows updates in the current cycle is for
-                <a
-                  href="https://support.microsoft.com/en-gb/topic/kb5034441-windows-recovery-environment-update-for-windows-10-version-21h2-and-22h2-january-9-2024-62c04204-aaa5-4fee-a02a-2fdea17075a8"
-                  >KB5034441</a
-                >, which addresses
-                <a
-                  href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20666"
-                  >CVE-2024-20666</a
-                >. From what I can tell, exploiting this vulnerability requires
-                physical access, so there's no risk of this being used in remote
-                attacks. The actual risk to most users is probably very low.
-                Still, it allows security features to be bypassed, so it should
-                be fixed.
-              </p>
-              <p>
-                The problem is that this update is
-                <a
-                  href="https://www.reddit.com/r/WindowsHelp/comments/192mww0/fyi_on_status_download_error_0x80070643_with/"
-                  >failing for many users with error code 0x80070643</a
-                >. Microsoft claims that this is due to the recovery partition
-                not being large enough on some systems, though the error code is
-                cryptic and unhelpful. Here's what Microsoft said about that:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Known issue Because of an issue in the error code handling
-                    routine, you might receive the following error message
-                    instead of the expected error message when there is
-                    insufficient disk space:
-                  </p>
-                  <p>        0x80070643 - ERROR_INSTALL_FAILURE</p>
-                </div>
-              </blockquote>
-              <p>
-                Windows isn't even telling users the correct error. Microsoft
-                claims the update is failing on systems where the recovery
-                partition isn't large enough. From my own experience, I have
-                systems where I allowed the Windows installer to partition the
-                drive automatically, meaning that Windows determined the size of
-                the recovery partition. Windows 10 chose a size of 509 MB on my
-                systems, and this doesn't seem to be scaled depending on the
-                size of the user's drive. For most users, this is probably set
-                automatically by the installer or the computer manufacturer.
-                That said, I've read a user comment that the update
-                <a
-                  href="https://www.reddit.com/r/WindowsHelp/comments/192yrrn/comment/kh5r4y7/"
-                  >failed on a system with a 15 GB recovery partition</a
-                >, so I'm not certain that this can really be blamed on
-                insufficient disk space.
-              </p>
-              <p>
-                Microsoft's advice to users is that they need to
-                <a
-                  href="https://support.microsoft.com/en-us/topic/kb5028997-instructions-to-manually-resize-your-partition-to-install-the-winre-update-400faa27-9343-461c-ada9-24c8229763bf"
-                  >manually resize the recovery partition</a
-                >. The commands are not intuitive, and there's absolutely no
-                reason that Microsoft should be expecting ordinary users to be
-                doing this. Resizing partitions is a fairly high risk operation,
-                one that carries a risk of data loss if not done properly.
-              </p>
-              <p>
-                This vulnerability probably just isn't a risk at all for most
-                users, but that's not necessarily obvious. They just see the
-                message that a security update failed with a cryptic error
-                message. It's Microsoft's responsibility to ensure that security
-                updates just work when they're being installed on a system in a
-                reasonably standard configuration. If the Windows installer
-                chose a recovery partition of 509 MB, then Microsoft needs to
-                make their updates work with a recovery partition of that size,
-                or they need to automatically resize the partition. This is a
-                dumpster fire, and it's inexcusable to expect Microsoft to
-                expect users to manually repartition their drives.
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=61840"
                     >Original Submission</a
                   ></small
                 >
