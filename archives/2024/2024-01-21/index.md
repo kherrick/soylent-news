@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-21](index.md)
+
+* [2024-01-21, 01:12:00](https://soylentnews.org/article.pl?sid=24/01/19/0513201&from=rss) - [Will the New Judicial Ruling in the Vizio Lawsuit Strengthen the GPL?](https://soylentnews.org/article.pl?sid=24/01/19/0513201&from=rss)
