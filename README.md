@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-22, 15:04:00](https://soylentnews.org/article.pl?sid=24/01/20/0849224&from=rss) - [Japan Makes History With Tense, Successful Moon Landing](https://soylentnews.org/article.pl?sid=24/01/20/0849224&from=rss)
 * [2024-01-22, 10:21:00](https://soylentnews.org/article.pl?sid=24/01/20/0842230&from=rss) - [Glowing Particles Help Guide the Process of Soldering Wounds Closed](https://soylentnews.org/article.pl?sid=24/01/20/0842230&from=rss)
 * [2024-01-22, 05:37:00](https://soylentnews.org/article.pl?sid=24/01/20/0839247&from=rss) - [Microsoft Network Breached Through Password-Spraying by Russian-State Hackers](https://soylentnews.org/article.pl?sid=24/01/20/0839247&from=rss)
 * [2024-01-22, 00:48:00](https://soylentnews.org/article.pl?sid=24/01/20/0639217&from=rss) - [Sports Illustrated’s Entire Staff Told They are Getting Laid Off](https://soylentnews.org/article.pl?sid=24/01/20/0639217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-13, 12:24:00](https://soylentnews.org/article.pl?sid=24/01/12/1428217&from=rss) - [NASA Finally Removes Last Two Fasteners to Access Historic Bennu Asteroid Sample](https://soylentnews.org/article.pl?sid=24/01/12/1428217&from=rss)
 * [2024-01-13, 07:38:00](https://soylentnews.org/article.pl?sid=24/01/12/0230204&from=rss) - [AI Comes Up With Battery Design That Uses 70 Per Cent Less Lithium](https://soylentnews.org/article.pl?sid=24/01/12/0230204&from=rss)
 * [2024-01-13, 02:52:00](https://soylentnews.org/article.pl?sid=24/01/12/0223259&from=rss) - [PC Prices To Jump As Cost Of Memory Rises, Say Analysts](https://soylentnews.org/article.pl?sid=24/01/12/0223259&from=rss)
-* [2024-01-12, 22:08:00](https://soylentnews.org/article.pl?sid=24/01/12/0220211&from=rss) - [Re-Frame of Mind: Do Our Brains Have a Built-in Sense of Grammar?](https://soylentnews.org/article.pl?sid=24/01/12/0220211&from=rss)
 
 ## [Archives](archives/index.md)
 
