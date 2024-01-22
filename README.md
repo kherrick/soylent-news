@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-22, 05:37:00](https://soylentnews.org/article.pl?sid=24/01/20/0839247&from=rss) - [Microsoft Network Breached Through Password-Spraying by Russian-State Hackers](https://soylentnews.org/article.pl?sid=24/01/20/0839247&from=rss)
 * [2024-01-22, 00:48:00](https://soylentnews.org/article.pl?sid=24/01/20/0639217&from=rss) - [Sports Illustrated’s Entire Staff Told They are Getting Laid Off](https://soylentnews.org/article.pl?sid=24/01/20/0639217&from=rss)
 * [2024-01-21, 20:02:00](https://soylentnews.org/article.pl?sid=24/01/19/1053225&from=rss) - [Supply Chain Attack Via MS GitHub's Runner Images](https://soylentnews.org/article.pl?sid=24/01/19/1053225&from=rss)
 * [2024-01-21, 15:22:00](https://soylentnews.org/article.pl?sid=24/01/19/1051214&from=rss) - [US Government To Rein In Face Recognition? Yeah, Right](https://soylentnews.org/article.pl?sid=24/01/19/1051214&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-13, 02:52:00](https://soylentnews.org/article.pl?sid=24/01/12/0223259&from=rss) - [PC Prices To Jump As Cost Of Memory Rises, Say Analysts](https://soylentnews.org/article.pl?sid=24/01/12/0223259&from=rss)
 * [2024-01-12, 22:08:00](https://soylentnews.org/article.pl?sid=24/01/12/0220211&from=rss) - [Re-Frame of Mind: Do Our Brains Have a Built-in Sense of Grammar?](https://soylentnews.org/article.pl?sid=24/01/12/0220211&from=rss)
 * [2024-01-12, 17:24:00](https://soylentnews.org/article.pl?sid=24/01/12/0215242&from=rss) - [AI Threatens to Crush News Organizations. Lawmakers Signal Change Is Ahead](https://soylentnews.org/article.pl?sid=24/01/12/0215242&from=rss)
-* [2024-01-12, 12:41:00](https://soylentnews.org/article.pl?sid=24/01/12/022227&from=rss) - [Celebrating 20 years of OpenWrt with Hardware Design](https://soylentnews.org/article.pl?sid=24/01/12/022227&from=rss)
 
 ## [Archives](archives/index.md)
 
