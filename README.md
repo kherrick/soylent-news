@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-23, 15:39:00](https://soylentnews.org/article.pl?sid=24/01/22/1358230&from=rss) - [Wooly Mammoth Movements Tied to Earliest Alaska Hunting Camps](https://soylentnews.org/article.pl?sid=24/01/22/1358230&from=rss)
 * [2024-01-23, 10:53:00](https://soylentnews.org/article.pl?sid=24/01/22/1354228&from=rss) - [Paper Mills Are Bribing Editors at Scholarly Journals](https://soylentnews.org/article.pl?sid=24/01/22/1354228&from=rss)
 * [2024-01-23, 06:09:00](https://soylentnews.org/article.pl?sid=24/01/22/1349250&from=rss) - [Game Developer Survey: 50% Work at a Studio Already Using Generative AI Tools](https://soylentnews.org/article.pl?sid=24/01/22/1349250&from=rss)
 * [2024-01-23, 01:25:00](https://soylentnews.org/article.pl?sid=24/01/22/1342226&from=rss) - [TSMC Delays Second Arizona Plant](https://soylentnews.org/article.pl?sid=24/01/22/1342226&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-14, 12:14:00](https://soylentnews.org/article.pl?sid=24/01/13/1755234&from=rss) - [The Innovation That Gets an Alzheimer’s Drug Through the Blood-brain Barrier](https://soylentnews.org/article.pl?sid=24/01/13/1755234&from=rss)
 * [2024-01-14, 07:25:00](https://soylentnews.org/article.pl?sid=24/01/13/1748253&from=rss) - [US To Hospitals: Meet Security Standards Or No Federal Money ](https://soylentnews.org/article.pl?sid=24/01/13/1748253&from=rss)
 * [2024-01-14, 02:37:00](https://soylentnews.org/article.pl?sid=24/01/13/1422229&from=rss) - [All About Google's Phasing Out of Third-Party Cookies](https://soylentnews.org/article.pl?sid=24/01/13/1422229&from=rss)
-* [2024-01-13, 21:55:00](https://soylentnews.org/article.pl?sid=24/01/12/1436250&from=rss) - [Which Countries Back South Africa’s Genocide Case Against Israel at ICJ?](https://soylentnews.org/article.pl?sid=24/01/12/1436250&from=rss)
 
 ## [Archives](archives/index.md)
 
