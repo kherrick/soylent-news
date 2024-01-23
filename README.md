@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-23, 01:25:00](https://soylentnews.org/article.pl?sid=24/01/22/1342226&from=rss) - [TSMC Delays Second Arizona Plant](https://soylentnews.org/article.pl?sid=24/01/22/1342226&from=rss)
 * [2024-01-22, 19:41:00](https://soylentnews.org/article.pl?sid=24/01/20/0851253&from=rss) - [What Happened to the US Machine Tool Industry?](https://soylentnews.org/article.pl?sid=24/01/20/0851253&from=rss)
 * [2024-01-22, 15:04:00](https://soylentnews.org/article.pl?sid=24/01/20/0849224&from=rss) - [Japan Makes History With Tense, Successful Moon Landing](https://soylentnews.org/article.pl?sid=24/01/20/0849224&from=rss)
 * [2024-01-22, 10:21:00](https://soylentnews.org/article.pl?sid=24/01/20/0842230&from=rss) - [Glowing Particles Help Guide the Process of Soldering Wounds Closed](https://soylentnews.org/article.pl?sid=24/01/20/0842230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-13, 21:55:00](https://soylentnews.org/article.pl?sid=24/01/12/1436250&from=rss) - [Which Countries Back South Africa’s Genocide Case Against Israel at ICJ?](https://soylentnews.org/article.pl?sid=24/01/12/1436250&from=rss)
 * [2024-01-13, 17:10:00](https://soylentnews.org/article.pl?sid=24/01/12/1431205&from=rss) - [Ancient DNA Reveals Reason for High Multiple Sclerosis and Alzheimer's Rates in Europe](https://soylentnews.org/article.pl?sid=24/01/12/1431205&from=rss)
 * [2024-01-13, 12:24:00](https://soylentnews.org/article.pl?sid=24/01/12/1428217&from=rss) - [NASA Finally Removes Last Two Fasteners to Access Historic Bennu Asteroid Sample](https://soylentnews.org/article.pl?sid=24/01/12/1428217&from=rss)
-* [2024-01-13, 07:38:00](https://soylentnews.org/article.pl?sid=24/01/12/0230204&from=rss) - [AI Comes Up With Battery Design That Uses 70 Per Cent Less Lithium](https://soylentnews.org/article.pl?sid=24/01/12/0230204&from=rss)
 
 ## [Archives](archives/index.md)
 
