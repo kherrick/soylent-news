@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-24, 05:54:00](https://soylentnews.org/article.pl?sid=24/01/23/1535250&from=rss) - [Forty Years of Apple's MacIntosh](https://soylentnews.org/article.pl?sid=24/01/23/1535250&from=rss)
 * [2024-01-24, 01:12:00](https://soylentnews.org/article.pl?sid=24/01/22/145247&from=rss) - [Will Rampant Crime Mean the End of Paying by Check?](https://soylentnews.org/article.pl?sid=24/01/22/145247&from=rss)
 * [2024-01-23, 20:25:00](https://soylentnews.org/article.pl?sid=24/01/22/141250&from=rss) - [The Implications of CentOS Stream 8 End-of-Life on Enterprise Environments](https://soylentnews.org/article.pl?sid=24/01/22/141250&from=rss)
 * [2024-01-23, 15:39:00](https://soylentnews.org/article.pl?sid=24/01/22/1358230&from=rss) - [Wooly Mammoth Movements Tied to Earliest Alaska Hunting Camps](https://soylentnews.org/article.pl?sid=24/01/22/1358230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-15, 02:22:00](https://soylentnews.org/article.pl?sid=24/01/13/2213201&from=rss) - [Bizarre Galaxy Discovered With Seemingly No Stars Whatsoever](https://soylentnews.org/article.pl?sid=24/01/13/2213201&from=rss)
 * [2024-01-14, 21:52:00](https://soylentnews.org/article.pl?sid=24/01/13/183203&from=rss) - [Private Peregrine Moon Lander Powers Up Lunar Payloads Despite Propulsion Anomaly](https://soylentnews.org/article.pl?sid=24/01/13/183203&from=rss)
 * [2024-01-14, 17:06:00](https://soylentnews.org/article.pl?sid=24/01/13/180212&from=rss) - [Fastest Swimming Insect Could Inspire Uncrewed Boat Designs](https://soylentnews.org/article.pl?sid=24/01/13/180212&from=rss)
-* [2024-01-14, 12:14:00](https://soylentnews.org/article.pl?sid=24/01/13/1755234&from=rss) - [The Innovation That Gets an Alzheimer’s Drug Through the Blood-brain Barrier](https://soylentnews.org/article.pl?sid=24/01/13/1755234&from=rss)
 
 ## [Archives](archives/index.md)
 
