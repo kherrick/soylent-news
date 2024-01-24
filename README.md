@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-24, 15:23:00](https://soylentnews.org/article.pl?sid=24/01/23/1635216&from=rss) - [The Case for Nuclear Cargo Ships](https://soylentnews.org/article.pl?sid=24/01/23/1635216&from=rss)
 * [2024-01-24, 10:41:00](https://soylentnews.org/article.pl?sid=24/01/23/1632237&from=rss) - [Billionaires Wanted to Save the News Industry. They’re Losing a Fortune.](https://soylentnews.org/article.pl?sid=24/01/23/1632237&from=rss)
 * [2024-01-24, 05:54:00](https://soylentnews.org/article.pl?sid=24/01/23/1535250&from=rss) - [Forty Years of Apple's MacIntosh](https://soylentnews.org/article.pl?sid=24/01/23/1535250&from=rss)
 * [2024-01-24, 01:12:00](https://soylentnews.org/article.pl?sid=24/01/22/145247&from=rss) - [Will Rampant Crime Mean the End of Paying by Check?](https://soylentnews.org/article.pl?sid=24/01/22/145247&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-15, 11:46:00](https://soylentnews.org/article.pl?sid=24/01/14/177248&from=rss) - [Timeline to Remove DSA Support from OpenSSH](https://soylentnews.org/article.pl?sid=24/01/14/177248&from=rss)
 * [2024-01-15, 07:00:00](https://soylentnews.org/article.pl?sid=24/01/13/2219219&from=rss) - [Need for Speed: How Hummingbirds Switch Mental Gears in Flight](https://soylentnews.org/article.pl?sid=24/01/13/2219219&from=rss)
 * [2024-01-15, 02:22:00](https://soylentnews.org/article.pl?sid=24/01/13/2213201&from=rss) - [Bizarre Galaxy Discovered With Seemingly No Stars Whatsoever](https://soylentnews.org/article.pl?sid=24/01/13/2213201&from=rss)
-* [2024-01-14, 21:52:00](https://soylentnews.org/article.pl?sid=24/01/13/183203&from=rss) - [Private Peregrine Moon Lander Powers Up Lunar Payloads Despite Propulsion Anomaly](https://soylentnews.org/article.pl?sid=24/01/13/183203&from=rss)
 
 ## [Archives](archives/index.md)
 
