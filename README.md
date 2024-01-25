@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-25, 10:19:00](https://soylentnews.org/article.pl?sid=24/01/24/1541203&from=rss) - [Mini-Robots Modeled on Insects May be Smallest, Lightest, Fastest Ever Developed](https://soylentnews.org/article.pl?sid=24/01/24/1541203&from=rss)
 * [2024-01-25, 05:34:00](https://soylentnews.org/article.pl?sid=24/01/24/1537222&from=rss) - [Alleged Boeing Whistleblower Claims Production Line Has High Amount of Defects](https://soylentnews.org/article.pl?sid=24/01/24/1537222&from=rss)
 * [2024-01-25, 00:49:00](https://soylentnews.org/article.pl?sid=24/01/24/1240230&from=rss) - [Do Users Write More Insecure Code with AI Assistants?](https://soylentnews.org/article.pl?sid=24/01/24/1240230&from=rss)
 * [2024-01-24, 20:05:00](https://soylentnews.org/article.pl?sid=24/01/23/1641233&from=rss) - [Scientists Identify First Known Prehistoric Person With Turner Syndrome](https://soylentnews.org/article.pl?sid=24/01/23/1641233&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-16, 06:51:00](https://soylentnews.org/article.pl?sid=24/01/15/1411255&from=rss) - [Chinese 5 X 15 X 5mm Nickel-63 Nuclear Battery Has a 50-Year Lifespan](https://soylentnews.org/article.pl?sid=24/01/15/1411255&from=rss)
 * [2024-01-16, 02:03:00](https://soylentnews.org/article.pl?sid=24/01/14/1820220&from=rss) - [The Rube Goldberg Path to Mars](https://soylentnews.org/article.pl?sid=24/01/14/1820220&from=rss)
 * [2024-01-15, 21:18:00](https://soylentnews.org/article.pl?sid=24/01/14/1731210&from=rss) - [Is Murderbot Gestating in Your Washing Machine?](https://soylentnews.org/article.pl?sid=24/01/14/1731210&from=rss)
-* [2024-01-15, 16:35:00](https://soylentnews.org/article.pl?sid=24/01/14/1718259&from=rss) - [Compression Attached Memory Modules May Make Upgradable Laptops a Thing Again](https://soylentnews.org/article.pl?sid=24/01/14/1718259&from=rss)
 
 ## [Archives](archives/index.md)
 
