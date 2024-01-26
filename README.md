@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-26, 05:25:00](https://soylentnews.org/article.pl?sid=24/01/25/146245&from=rss) - [NASA Invests in New Nuclear Concept for the Future of Space Exploration and Astrophysics](https://soylentnews.org/article.pl?sid=24/01/25/146245&from=rss)
 * [2024-01-26, 00:34:00](https://soylentnews.org/article.pl?sid=24/01/25/1345246&from=rss) - [What Drives Us to be Anonymous Online ?](https://soylentnews.org/article.pl?sid=24/01/25/1345246&from=rss)
 * [2024-01-25, 19:49:00](https://soylentnews.org/article.pl?sid=24/01/24/1553231&from=rss) - [Tietoevry on Today's List of Breached Companies](https://soylentnews.org/article.pl?sid=24/01/24/1553231&from=rss)
 * [2024-01-25, 15:02:00](https://soylentnews.org/article.pl?sid=24/01/24/1543202&from=rss) - [It Sure Looks Like X has a Verified Bot Problem](https://soylentnews.org/article.pl?sid=24/01/24/1543202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-17, 03:06:00](https://soylentnews.org/article.pl?sid=24/01/16/0056203&from=rss) - [Chinese Authorities Say They're Exploiting an Apple AirDrop Vulnerability](https://soylentnews.org/article.pl?sid=24/01/16/0056203&from=rss)
 * [2024-01-16, 21:21:00](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss) - [WOTC Denies Using AI Generative Art In Promo Materials, Later Admits, Yeah, It Did](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss)
 * [2024-01-16, 16:34:00](https://soylentnews.org/article.pl?sid=24/01/15/1425235&from=rss) - [US CO2 Emissions Down in 2023](https://soylentnews.org/article.pl?sid=24/01/15/1425235&from=rss)
-* [2024-01-16, 11:39:00](https://soylentnews.org/article.pl?sid=24/01/15/1421200&from=rss) - [Lucid Delivered Just 6,001 Electric Sedans in 2023](https://soylentnews.org/article.pl?sid=24/01/15/1421200&from=rss)
 
 ## [Archives](archives/index.md)
 
