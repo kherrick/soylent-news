@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-26, 00:34:00](https://soylentnews.org/article.pl?sid=24/01/25/1345246&from=rss) - [What Drives Us to be Anonymous Online ?](https://soylentnews.org/article.pl?sid=24/01/25/1345246&from=rss)
 * [2024-01-25, 19:49:00](https://soylentnews.org/article.pl?sid=24/01/24/1553231&from=rss) - [Tietoevry on Today's List of Breached Companies](https://soylentnews.org/article.pl?sid=24/01/24/1553231&from=rss)
 * [2024-01-25, 15:02:00](https://soylentnews.org/article.pl?sid=24/01/24/1543202&from=rss) - [It Sure Looks Like X has a Verified Bot Problem](https://soylentnews.org/article.pl?sid=24/01/24/1543202&from=rss)
 * [2024-01-25, 10:19:00](https://soylentnews.org/article.pl?sid=24/01/24/1541203&from=rss) - [Mini-Robots Modeled on Insects May be Smallest, Lightest, Fastest Ever Developed](https://soylentnews.org/article.pl?sid=24/01/24/1541203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-16, 21:21:00](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss) - [WOTC Denies Using AI Generative Art In Promo Materials, Later Admits, Yeah, It Did](https://soylentnews.org/article.pl?sid=24/01/15/1857231&from=rss)
 * [2024-01-16, 16:34:00](https://soylentnews.org/article.pl?sid=24/01/15/1425235&from=rss) - [US CO2 Emissions Down in 2023](https://soylentnews.org/article.pl?sid=24/01/15/1425235&from=rss)
 * [2024-01-16, 11:39:00](https://soylentnews.org/article.pl?sid=24/01/15/1421200&from=rss) - [Lucid Delivered Just 6,001 Electric Sedans in 2023](https://soylentnews.org/article.pl?sid=24/01/15/1421200&from=rss)
-* [2024-01-16, 06:51:00](https://soylentnews.org/article.pl?sid=24/01/15/1411255&from=rss) - [Chinese 5 X 15 X 5mm Nickel-63 Nuclear Battery Has a 50-Year Lifespan](https://soylentnews.org/article.pl?sid=24/01/15/1411255&from=rss)
 
 ## [Archives](archives/index.md)
 
