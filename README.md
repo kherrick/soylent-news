@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-26, 19:35:00](https://soylentnews.org/article.pl?sid=24/01/25/1419213&from=rss) - [Chemists Set New Guinness Record for Tiniest, Tightest Knot](https://soylentnews.org/article.pl?sid=24/01/25/1419213&from=rss)
 * [2024-01-26, 14:53:00](https://soylentnews.org/article.pl?sid=24/01/25/1412220&from=rss) - [Big Tech Hit With New Wave Of Antitrust Data Requests From EU](https://soylentnews.org/article.pl?sid=24/01/25/1412220&from=rss)
 * [2024-01-26, 10:08:00](https://soylentnews.org/article.pl?sid=24/01/25/149225&from=rss) - [Our Vehicles Got Bigger, So Why Are We Parking Them in Little Spaces?](https://soylentnews.org/article.pl?sid=24/01/25/149225&from=rss)
 * [2024-01-26, 05:25:00](https://soylentnews.org/article.pl?sid=24/01/25/146245&from=rss) - [NASA Invests in New Nuclear Concept for the Future of Space Exploration and Astrophysics](https://soylentnews.org/article.pl?sid=24/01/25/146245&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-17, 17:26:00](https://soylentnews.org/article.pl?sid=24/01/16/1317256&from=rss) - [Major Camera Companies Are Working To Fight Deepfakes](https://soylentnews.org/article.pl?sid=24/01/16/1317256&from=rss)
 * [2024-01-17, 12:44:00](https://soylentnews.org/article.pl?sid=24/01/16/1315225&from=rss) - [1000x Brighter Than OLED: Cheap Material for Solar Panels Could Make Brighter Displays](https://soylentnews.org/article.pl?sid=24/01/16/1315225&from=rss)
 * [2024-01-17, 07:50:00](https://soylentnews.org/article.pl?sid=24/01/16/1311216&from=rss) - [The Spectacular Failure of Self-Checkout Technology](https://soylentnews.org/article.pl?sid=24/01/16/1311216&from=rss)
-* [2024-01-17, 03:06:00](https://soylentnews.org/article.pl?sid=24/01/16/0056203&from=rss) - [Chinese Authorities Say They're Exploiting an Apple AirDrop Vulnerability](https://soylentnews.org/article.pl?sid=24/01/16/0056203&from=rss)
 
 ## [Archives](archives/index.md)
 
