@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-27, 05:08:00](https://soylentnews.org/article.pl?sid=24/01/26/0754241&from=rss) - [AI Poisoning Could Turn Open Models Into Destructive “Sleeper Agents,” Says Anthropic](https://soylentnews.org/article.pl?sid=24/01/26/0754241&from=rss)
 * [2024-01-27, 00:20:00](https://soylentnews.org/article.pl?sid=24/01/26/0736236&from=rss) - [Spicy Wine: New Study Reveals Ancient Romans May Have Had Peculiar Tastes](https://soylentnews.org/article.pl?sid=24/01/26/0736236&from=rss)
 * [2024-01-26, 19:35:00](https://soylentnews.org/article.pl?sid=24/01/25/1419213&from=rss) - [Chemists Set New Guinness Record for Tiniest, Tightest Knot](https://soylentnews.org/article.pl?sid=24/01/25/1419213&from=rss)
 * [2024-01-26, 14:53:00](https://soylentnews.org/article.pl?sid=24/01/25/1412220&from=rss) - [Big Tech Hit With New Wave Of Antitrust Data Requests From EU](https://soylentnews.org/article.pl?sid=24/01/25/1412220&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-18, 02:57:00](https://soylentnews.org/article.pl?sid=24/01/17/1028252&from=rss) - [\"Dirt-Powered Fuel Cell\" Draws Near-Limitless Energy From Soil](https://soylentnews.org/article.pl?sid=24/01/17/1028252&from=rss)
 * [2024-01-17, 22:16:00](https://soylentnews.org/article.pl?sid=24/01/16/1426251&from=rss) - [New Rice Lines for Africa Offer Virus Protection](https://soylentnews.org/article.pl?sid=24/01/16/1426251&from=rss)
 * [2024-01-17, 17:26:00](https://soylentnews.org/article.pl?sid=24/01/16/1317256&from=rss) - [Major Camera Companies Are Working To Fight Deepfakes](https://soylentnews.org/article.pl?sid=24/01/16/1317256&from=rss)
-* [2024-01-17, 12:44:00](https://soylentnews.org/article.pl?sid=24/01/16/1315225&from=rss) - [1000x Brighter Than OLED: Cheap Material for Solar Panels Could Make Brighter Displays](https://soylentnews.org/article.pl?sid=24/01/16/1315225&from=rss)
 
 ## [Archives](archives/index.md)
 
