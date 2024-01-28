@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-28, 18:48:00](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss) - [A Plea for 2 Volunteers](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss)
 * [2024-01-28, 14:20:00](https://soylentnews.org/article.pl?sid=24/01/27/196227&from=rss) - [The Fountain of Youth is … a T Cell?](https://soylentnews.org/article.pl?sid=24/01/27/196227&from=rss)
 * [2024-01-28, 09:32:00](https://soylentnews.org/article.pl?sid=24/01/27/191253&from=rss) - [Taylor Swift Deepfakes Spark Calls in Congress for New Legislation](https://soylentnews.org/article.pl?sid=24/01/27/191253&from=rss)
 * [2024-01-28, 04:51:00](https://soylentnews.org/article.pl?sid=24/01/27/1857230&from=rss) - [California Bill Calls for Tech to Make New Cars Unable to Speed](https://soylentnews.org/article.pl?sid=24/01/27/1857230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-19, 16:54:00](https://soylentnews.org/article.pl?sid=24/01/18/1725205&from=rss) - [How A 27-Year-Old Busted The Myth Of Bitcoin’s Anonymity](https://soylentnews.org/article.pl?sid=24/01/18/1725205&from=rss)
 * [2024-01-19, 12:10:00](https://soylentnews.org/article.pl?sid=24/01/18/1721234&from=rss) - [Bottled Water Contains Hundreds of Thousands of Nanoplastic Particle Per Liter](https://soylentnews.org/article.pl?sid=24/01/18/1721234&from=rss)
 * [2024-01-19, 07:24:00](https://soylentnews.org/article.pl?sid=24/01/18/0356246&from=rss) - [Audible Yawns in a Non-Human Species May Convey Important Social Information](https://soylentnews.org/article.pl?sid=24/01/18/0356246&from=rss)
-* [2024-01-19, 02:38:00](https://soylentnews.org/article.pl?sid=24/01/18/0350204&from=rss) - [The Isotope Effect: Bigger Than Science Ever Imagined](https://soylentnews.org/article.pl?sid=24/01/18/0350204&from=rss)
 
 ## [Archives](archives/index.md)
 
