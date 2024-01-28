@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-28, 00:05:00](https://soylentnews.org/article.pl?sid=24/01/27/1852249&from=rss) - [NASA’s Ingenuity Helicopter Mission Ends After Three Years on Mars](https://soylentnews.org/article.pl?sid=24/01/27/1852249&from=rss)
 * [2024-01-27, 19:22:00](https://soylentnews.org/article.pl?sid=24/01/26/2243239&from=rss) - [Writing by Hand May Increase Brain Connectivity More Than Typing on a Keyboard](https://soylentnews.org/article.pl?sid=24/01/26/2243239&from=rss)
 * [2024-01-27, 14:39:00](https://soylentnews.org/article.pl?sid=24/01/26/0821232&from=rss) - [TSMC Thinks The Only Way Is Up For Chip Sales In 2024](https://soylentnews.org/article.pl?sid=24/01/26/0821232&from=rss)
 * [2024-01-27, 09:56:00](https://soylentnews.org/article.pl?sid=24/01/26/0757224&from=rss) - [Unseen Images of Code Breaking Computer that Helped Win WW2](https://soylentnews.org/article.pl?sid=24/01/26/0757224&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-18, 21:54:00](https://soylentnews.org/article.pl?sid=24/01/18/0346250&from=rss) - [Infosys Co-Founder Repeats Call for 70-Hour Working Weeks](https://soylentnews.org/article.pl?sid=24/01/18/0346250&from=rss)
 * [2024-01-18, 17:06:00](https://soylentnews.org/article.pl?sid=24/01/18/0339205&from=rss) - [Amazing, Incredible, Superb: The Effect of High-Arousal Language Used by Social Media Influencers](https://soylentnews.org/article.pl?sid=24/01/18/0339205&from=rss)
 * [2024-01-18, 12:24:00](https://soylentnews.org/article.pl?sid=24/01/17/1113216&from=rss) - [Zero-Click Bluetooth Attacks Pose Serious Threat Across Major OSes](https://soylentnews.org/article.pl?sid=24/01/17/1113216&from=rss)
-* [2024-01-18, 07:41:00](https://soylentnews.org/article.pl?sid=24/01/17/1043205&from=rss) - [NASA Reveals Its X-Plane. It Will Fly Over The U.S. At Supersonic Speed](https://soylentnews.org/article.pl?sid=24/01/17/1043205&from=rss)
 
 ## [Archives](archives/index.md)
 
