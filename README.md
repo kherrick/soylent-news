@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-28, 19:08:00](https://soylentnews.org/article.pl?sid=24/01/27/199212&from=rss) - [Tokenomy of Tomorrow: Envisioning an AI-Driven World](https://soylentnews.org/article.pl?sid=24/01/27/199212&from=rss)
 * [2024-01-28, 18:48:00](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss) - [A Plea for 2 Volunteers](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss)
 * [2024-01-28, 14:20:00](https://soylentnews.org/article.pl?sid=24/01/27/196227&from=rss) - [The Fountain of Youth is … a T Cell?](https://soylentnews.org/article.pl?sid=24/01/27/196227&from=rss)
 * [2024-01-28, 09:32:00](https://soylentnews.org/article.pl?sid=24/01/27/191253&from=rss) - [Taylor Swift Deepfakes Spark Calls in Congress for New Legislation](https://soylentnews.org/article.pl?sid=24/01/27/191253&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-19, 21:44:00](https://soylentnews.org/article.pl?sid=24/01/18/1727234&from=rss) - [Insect Populations Flourish in the Restored Habitats of Solar Energy Facilities](https://soylentnews.org/article.pl?sid=24/01/18/1727234&from=rss)
 * [2024-01-19, 16:54:00](https://soylentnews.org/article.pl?sid=24/01/18/1725205&from=rss) - [How A 27-Year-Old Busted The Myth Of Bitcoin’s Anonymity](https://soylentnews.org/article.pl?sid=24/01/18/1725205&from=rss)
 * [2024-01-19, 12:10:00](https://soylentnews.org/article.pl?sid=24/01/18/1721234&from=rss) - [Bottled Water Contains Hundreds of Thousands of Nanoplastic Particle Per Liter](https://soylentnews.org/article.pl?sid=24/01/18/1721234&from=rss)
-* [2024-01-19, 07:24:00](https://soylentnews.org/article.pl?sid=24/01/18/0356246&from=rss) - [Audible Yawns in a Non-Human Species May Convey Important Social Information](https://soylentnews.org/article.pl?sid=24/01/18/0356246&from=rss)
 
 ## [Archives](archives/index.md)
 
