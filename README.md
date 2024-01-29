@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-29, 04:35:00](https://soylentnews.org/article.pl?sid=24/01/28/0657210&from=rss) - [In Major Gaffe, Hacked Microsoft Test Account Was Assigned Admin Privileges](https://soylentnews.org/article.pl?sid=24/01/28/0657210&from=rss)
 * [2024-01-28, 23:53:00](https://soylentnews.org/article.pl?sid=24/01/27/1913258&from=rss) - [What Coffee With Cream Can Teach Us About Quantum Physics](https://soylentnews.org/article.pl?sid=24/01/27/1913258&from=rss)
 * [2024-01-28, 19:08:00](https://soylentnews.org/article.pl?sid=24/01/27/199212&from=rss) - [Tokenomy of Tomorrow: Envisioning an AI-Driven World](https://soylentnews.org/article.pl?sid=24/01/27/199212&from=rss)
 * [2024-01-28, 18:48:00](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss) - [A Plea for 2 Volunteers](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-20, 06:17:00](https://soylentnews.org/article.pl?sid=24/01/19/0458254&from=rss) - [Peregrine Moon Lander And Its Cargo Will Likely Burn Up In Earth’s Atmosphere](https://soylentnews.org/article.pl?sid=24/01/19/0458254&from=rss)
 * [2024-01-20, 01:35:00](https://soylentnews.org/article.pl?sid=24/01/18/1732237&from=rss) - [Massive Data Dump Containing Millions Of Passwords Sparks Security Alert](https://soylentnews.org/article.pl?sid=24/01/18/1732237&from=rss)
 * [2024-01-19, 21:44:00](https://soylentnews.org/article.pl?sid=24/01/18/1727234&from=rss) - [Insect Populations Flourish in the Restored Habitats of Solar Energy Facilities](https://soylentnews.org/article.pl?sid=24/01/18/1727234&from=rss)
-* [2024-01-19, 16:54:00](https://soylentnews.org/article.pl?sid=24/01/18/1725205&from=rss) - [How A 27-Year-Old Busted The Myth Of Bitcoin’s Anonymity](https://soylentnews.org/article.pl?sid=24/01/18/1725205&from=rss)
 
 ## [Archives](archives/index.md)
 
