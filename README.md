@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-30, 04:32:00](https://soylentnews.org/article.pl?sid=24/01/29/123231&from=rss) - [Dungeons & Dragons Turns 50 This Year, and There’s a Lot Planned for It](https://soylentnews.org/article.pl?sid=24/01/29/123231&from=rss)
 * [2024-01-29, 23:45:00](https://soylentnews.org/article.pl?sid=24/01/29/1136216&from=rss) - [Physicists Identify a Surprising Phenomenon of Aging in Materials Over Time](https://soylentnews.org/article.pl?sid=24/01/29/1136216&from=rss)
 * [2024-01-29, 18:59:00](https://soylentnews.org/article.pl?sid=24/01/29/119253&from=rss) - [Hacking a Train's Toilet](https://soylentnews.org/article.pl?sid=24/01/29/119253&from=rss)
 * [2024-01-29, 14:11:00](https://soylentnews.org/article.pl?sid=24/01/28/0725239&from=rss) - [Researchers Engineer Bacteria That Eat Plastic, Make Multipurpose Spider Silk](https://soylentnews.org/article.pl?sid=24/01/28/0725239&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-21, 01:12:00](https://soylentnews.org/article.pl?sid=24/01/19/0513201&from=rss) - [Will the New Judicial Ruling in the Vizio Lawsuit Strengthen the GPL?](https://soylentnews.org/article.pl?sid=24/01/19/0513201&from=rss)
 * [2024-01-20, 20:29:00](https://soylentnews.org/article.pl?sid=24/01/19/0510254&from=rss) - [Wind Supplied a Record 35% of Irish Electricity in 2023](https://soylentnews.org/article.pl?sid=24/01/19/0510254&from=rss)
 * [2024-01-20, 16:24:00](https://soylentnews.org/article.pl?sid=24/01/20/165257&from=rss) - [RIP: Inventor of NTP Protocol, That Keeps Time on Billions of Devices, Dies at Age 85](https://soylentnews.org/article.pl?sid=24/01/20/165257&from=rss)
-* [2024-01-20, 15:45:00](https://soylentnews.org/article.pl?sid=24/01/19/056258&from=rss) - [Scientists Extract The Sharpest Image Of A Black Hole Yet](https://soylentnews.org/article.pl?sid=24/01/19/056258&from=rss)
 
 ## [Archives](archives/index.md)
 
