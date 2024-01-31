@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-31, 04:00:00](https://soylentnews.org/article.pl?sid=24/01/29/2358253&from=rss) - [Hertz is Selling 20,000 Electric Vehicles to Buy Gasoline Cars Instead ](https://soylentnews.org/article.pl?sid=24/01/29/2358253&from=rss)
 * [2024-01-30, 23:33:00](https://soylentnews.org/article.pl?sid=24/01/29/1215239&from=rss) - [NSA Finally Admits to Spying on Americans by Purchasing Sensitive Data](https://soylentnews.org/article.pl?sid=24/01/29/1215239&from=rss)
 * [2024-01-30, 18:50:00](https://soylentnews.org/article.pl?sid=24/01/29/1211232&from=rss) - [Attrition of Web Sites Over the Recent Years](https://soylentnews.org/article.pl?sid=24/01/29/1211232&from=rss)
 * [2024-01-30, 14:02:00](https://soylentnews.org/article.pl?sid=24/01/29/129229&from=rss) - [Why People Still Fall for Phishing Emails](https://soylentnews.org/article.pl?sid=24/01/29/129229&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-22, 00:48:00](https://soylentnews.org/article.pl?sid=24/01/20/0639217&from=rss) - [Sports Illustrated’s Entire Staff Told They are Getting Laid Off](https://soylentnews.org/article.pl?sid=24/01/20/0639217&from=rss)
 * [2024-01-21, 20:02:00](https://soylentnews.org/article.pl?sid=24/01/19/1053225&from=rss) - [Supply Chain Attack Via MS GitHub's Runner Images](https://soylentnews.org/article.pl?sid=24/01/19/1053225&from=rss)
 * [2024-01-21, 15:22:00](https://soylentnews.org/article.pl?sid=24/01/19/1051214&from=rss) - [US Government To Rein In Face Recognition? Yeah, Right](https://soylentnews.org/article.pl?sid=24/01/19/1051214&from=rss)
-* [2024-01-21, 10:36:00](https://soylentnews.org/article.pl?sid=24/01/19/1047233&from=rss) - [Pacific Kelp Forests Are Far Older That We Thought](https://soylentnews.org/article.pl?sid=24/01/19/1047233&from=rss)
 
 ## [Archives](archives/index.md)
 
