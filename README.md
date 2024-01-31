@@ -15,7 +15,6 @@
 * [2024-01-29, 04:35:00](https://soylentnews.org/article.pl?sid=24/01/28/0657210&from=rss) - [In Major Gaffe, Hacked Microsoft Test Account Was Assigned Admin Privileges](https://soylentnews.org/article.pl?sid=24/01/28/0657210&from=rss)
 * [2024-01-28, 23:53:00](https://soylentnews.org/article.pl?sid=24/01/27/1913258&from=rss) - [What Coffee With Cream Can Teach Us About Quantum Physics](https://soylentnews.org/article.pl?sid=24/01/27/1913258&from=rss)
 * [2024-01-28, 19:08:00](https://soylentnews.org/article.pl?sid=24/01/27/199212&from=rss) - [Tokenomy of Tomorrow: Envisioning an AI-Driven World](https://soylentnews.org/article.pl?sid=24/01/27/199212&from=rss)
-* [2024-01-28, 18:48:00](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss) - [A Plea for 2 Volunteers](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss)
 * [2024-01-28, 14:20:00](https://soylentnews.org/article.pl?sid=24/01/27/196227&from=rss) - [The Fountain of Youth is … a T Cell?](https://soylentnews.org/article.pl?sid=24/01/27/196227&from=rss)
 * [2024-01-28, 09:32:00](https://soylentnews.org/article.pl?sid=24/01/27/191253&from=rss) - [Taylor Swift Deepfakes Spark Calls in Congress for New Legislation](https://soylentnews.org/article.pl?sid=24/01/27/191253&from=rss)
 * [2024-01-28, 04:51:00](https://soylentnews.org/article.pl?sid=24/01/27/1857230&from=rss) - [California Bill Calls for Tech to Make New Cars Unable to Speed](https://soylentnews.org/article.pl?sid=24/01/27/1857230&from=rss)
@@ -50,6 +49,7 @@
 * [2024-01-22, 10:21:00](https://soylentnews.org/article.pl?sid=24/01/20/0842230&from=rss) - [Glowing Particles Help Guide the Process of Soldering Wounds Closed](https://soylentnews.org/article.pl?sid=24/01/20/0842230&from=rss)
 * [2024-01-22, 05:37:00](https://soylentnews.org/article.pl?sid=24/01/20/0839247&from=rss) - [Microsoft Network Breached Through Password-Spraying by Russian-State Hackers](https://soylentnews.org/article.pl?sid=24/01/20/0839247&from=rss)
 * [2024-01-22, 00:48:00](https://soylentnews.org/article.pl?sid=24/01/20/0639217&from=rss) - [Sports Illustrated’s Entire Staff Told They are Getting Laid Off](https://soylentnews.org/article.pl?sid=24/01/20/0639217&from=rss)
+* [2024-01-21, 20:02:00](https://soylentnews.org/article.pl?sid=24/01/19/1053225&from=rss) - [Supply Chain Attack Via MS GitHub's Runner Images](https://soylentnews.org/article.pl?sid=24/01/19/1053225&from=rss)
 
 ## [Archives](archives/index.md)
 
