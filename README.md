@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-01-31, 15:48:00](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss) - [A Plea for 2 Volunteers - UPDATE](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss)
 * [2024-01-31, 13:05:00](https://soylentnews.org/article.pl?sid=24/01/30/0628237&from=rss) - [How Viable is Arctic Shipping?](https://soylentnews.org/article.pl?sid=24/01/30/0628237&from=rss)
 * [2024-01-31, 08:31:00](https://soylentnews.org/article.pl?sid=24/01/30/0014219&from=rss) - [Mysterious, Nearly Invisible Dwarf Galaxy Challenges Dark Matter Model](https://soylentnews.org/article.pl?sid=24/01/30/0014219&from=rss)
 * [2024-01-31, 04:00:00](https://soylentnews.org/article.pl?sid=24/01/29/2358253&from=rss) - [Hertz is Selling 20,000 Electric Vehicles to Buy Gasoline Cars Instead ](https://soylentnews.org/article.pl?sid=24/01/29/2358253&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-22, 10:21:00](https://soylentnews.org/article.pl?sid=24/01/20/0842230&from=rss) - [Glowing Particles Help Guide the Process of Soldering Wounds Closed](https://soylentnews.org/article.pl?sid=24/01/20/0842230&from=rss)
 * [2024-01-22, 05:37:00](https://soylentnews.org/article.pl?sid=24/01/20/0839247&from=rss) - [Microsoft Network Breached Through Password-Spraying by Russian-State Hackers](https://soylentnews.org/article.pl?sid=24/01/20/0839247&from=rss)
 * [2024-01-22, 00:48:00](https://soylentnews.org/article.pl?sid=24/01/20/0639217&from=rss) - [Sports Illustrated’s Entire Staff Told They are Getting Laid Off](https://soylentnews.org/article.pl?sid=24/01/20/0639217&from=rss)
-* [2024-01-21, 20:02:00](https://soylentnews.org/article.pl?sid=24/01/19/1053225&from=rss) - [Supply Chain Attack Via MS GitHub's Runner Images](https://soylentnews.org/article.pl?sid=24/01/19/1053225&from=rss)
 
 ## [Archives](archives/index.md)
 
