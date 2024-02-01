@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-01, 02:51:00](https://soylentnews.org/article.pl?sid=24/01/30/0025228&from=rss) - [First-ever Sighting of a Live Newborn Great White May Help Solve Mystery in Shark Science](https://soylentnews.org/article.pl?sid=24/01/30/0025228&from=rss)
 * [2024-01-31, 22:05:00](https://soylentnews.org/article.pl?sid=24/01/30/0038231&from=rss) - [Stars Travel Slower at Milky Way's Edge: Galaxy's Core May Contain Less Dark Matter Than We Thought](https://soylentnews.org/article.pl?sid=24/01/30/0038231&from=rss)
 * [2024-01-31, 17:23:00](https://soylentnews.org/article.pl?sid=24/01/30/0554245&from=rss) - [We Keep Making the Same Mistakes With Spreadsheets, Despite Bad Consequences](https://soylentnews.org/article.pl?sid=24/01/30/0554245&from=rss)
 * [2024-01-31, 15:48:00](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss) - [A Plea for 2 Volunteers - UPDATE](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-23, 01:25:00](https://soylentnews.org/article.pl?sid=24/01/22/1342226&from=rss) - [TSMC Delays Second Arizona Plant](https://soylentnews.org/article.pl?sid=24/01/22/1342226&from=rss)
 * [2024-01-22, 19:41:00](https://soylentnews.org/article.pl?sid=24/01/20/0851253&from=rss) - [What Happened to the US Machine Tool Industry?](https://soylentnews.org/article.pl?sid=24/01/20/0851253&from=rss)
 * [2024-01-22, 15:04:00](https://soylentnews.org/article.pl?sid=24/01/20/0849224&from=rss) - [Japan Makes History With Tense, Successful Moon Landing](https://soylentnews.org/article.pl?sid=24/01/20/0849224&from=rss)
-* [2024-01-22, 10:21:00](https://soylentnews.org/article.pl?sid=24/01/20/0842230&from=rss) - [Glowing Particles Help Guide the Process of Soldering Wounds Closed](https://soylentnews.org/article.pl?sid=24/01/20/0842230&from=rss)
 
 ## [Archives](archives/index.md)
 
