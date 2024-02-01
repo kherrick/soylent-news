@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-01, 17:08:00](https://soylentnews.org/article.pl?sid=24/02/01/063208&from=rss) - [Cory Doctorow Has a Plan to Wipe Away the Enshittification of Tech](https://soylentnews.org/article.pl?sid=24/02/01/063208&from=rss)
 * [2024-02-01, 12:23:00](https://soylentnews.org/article.pl?sid=24/01/31/1445235&from=rss) - [ICANN Proposes .INTERNAL for Internal Use Only](https://soylentnews.org/article.pl?sid=24/01/31/1445235&from=rss)
 * [2024-02-01, 07:36:00](https://soylentnews.org/article.pl?sid=24/01/31/1434212&from=rss) - [UK Could Secretly Block Security Worldwide, Says Apple](https://soylentnews.org/article.pl?sid=24/01/31/1434212&from=rss)
 * [2024-02-01, 02:51:00](https://soylentnews.org/article.pl?sid=24/01/30/0025228&from=rss) - [First-ever Sighting of a Live Newborn Great White May Help Solve Mystery in Shark Science](https://soylentnews.org/article.pl?sid=24/01/30/0025228&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-23, 15:39:00](https://soylentnews.org/article.pl?sid=24/01/22/1358230&from=rss) - [Wooly Mammoth Movements Tied to Earliest Alaska Hunting Camps](https://soylentnews.org/article.pl?sid=24/01/22/1358230&from=rss)
 * [2024-01-23, 10:53:00](https://soylentnews.org/article.pl?sid=24/01/22/1354228&from=rss) - [Academic \"Paper Mills\" Are Bribing Editors at Scholarly Journals](https://soylentnews.org/article.pl?sid=24/01/22/1354228&from=rss)
 * [2024-01-23, 06:09:00](https://soylentnews.org/article.pl?sid=24/01/22/1349250&from=rss) - [Game Developer Survey: 50% Work at a Studio Already Using Generative AI Tools](https://soylentnews.org/article.pl?sid=24/01/22/1349250&from=rss)
-* [2024-01-23, 01:25:00](https://soylentnews.org/article.pl?sid=24/01/22/1342226&from=rss) - [TSMC Delays Second Arizona Plant](https://soylentnews.org/article.pl?sid=24/01/22/1342226&from=rss)
 
 ## [Archives](archives/index.md)
 
