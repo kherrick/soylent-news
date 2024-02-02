@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-02, 12:04:00](https://soylentnews.org/article.pl?sid=24/02/02/056257&from=rss) - [How a Walk in Nature Restores Attention](https://soylentnews.org/article.pl?sid=24/02/02/056257&from=rss)
 * [2024-02-02, 07:21:00](https://soylentnews.org/article.pl?sid=24/02/01/1930241&from=rss) - [Moonquakes Due to Shrinkage](https://soylentnews.org/article.pl?sid=24/02/01/1930241&from=rss)
 * [2024-02-02, 02:35:00](https://soylentnews.org/article.pl?sid=24/02/01/1918204&from=rss) - [Chinese Malware Removed From SOHO Routers After FBI Issues Covert Commands](https://soylentnews.org/article.pl?sid=24/02/01/1918204&from=rss)
 * [2024-02-01, 21:52:00](https://soylentnews.org/article.pl?sid=24/02/01/067230&from=rss) - [Jeff Geerling on Rumors of a Raspberry Pi IPO](https://soylentnews.org/article.pl?sid=24/02/01/067230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-24, 10:41:00](https://soylentnews.org/article.pl?sid=24/01/23/1632237&from=rss) - [Billionaires Wanted to Save the News Industry. They’re Losing a Fortune.](https://soylentnews.org/article.pl?sid=24/01/23/1632237&from=rss)
 * [2024-01-24, 05:54:00](https://soylentnews.org/article.pl?sid=24/01/23/1535250&from=rss) - [Forty Years of Apple's MacIntosh](https://soylentnews.org/article.pl?sid=24/01/23/1535250&from=rss)
 * [2024-01-24, 01:12:00](https://soylentnews.org/article.pl?sid=24/01/22/145247&from=rss) - [Will Rampant Crime Mean the End of Paying by Check?](https://soylentnews.org/article.pl?sid=24/01/22/145247&from=rss)
-* [2024-01-23, 20:25:00](https://soylentnews.org/article.pl?sid=24/01/22/141250&from=rss) - [The Implications of CentOS Stream 8 End-of-Life on Enterprise Environments](https://soylentnews.org/article.pl?sid=24/01/22/141250&from=rss)
 
 ## [Archives](archives/index.md)
 
