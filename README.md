@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-03, 07:07:00](https://soylentnews.org/article.pl?sid=24/02/02/1314249&from=rss) - [Scientists Find Evidence Alzheimer's Can Be Transmissible](https://soylentnews.org/article.pl?sid=24/02/02/1314249&from=rss)
 * [2024-02-03, 02:22:00](https://soylentnews.org/article.pl?sid=24/02/02/133232&from=rss) - [Each Facebook User Is Monitored by Thousands of Companies](https://soylentnews.org/article.pl?sid=24/02/02/133232&from=rss)
 * [2024-02-02, 21:37:00](https://soylentnews.org/article.pl?sid=24/02/02/1129247&from=rss) - [Apple Declares Last MacBook Pro With an Optical Drive Obsolete](https://soylentnews.org/article.pl?sid=24/02/02/1129247&from=rss)
 * [2024-02-02, 16:50:00](https://soylentnews.org/article.pl?sid=24/02/02/0511211&from=rss) - [Square Kilometre Array Prototype 'Scope Achieves First Light](https://soylentnews.org/article.pl?sid=24/02/02/0511211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-25, 05:34:00](https://soylentnews.org/article.pl?sid=24/01/24/1537222&from=rss) - [Alleged Boeing Whistleblower Claims Production Line Has High Amount of Defects](https://soylentnews.org/article.pl?sid=24/01/24/1537222&from=rss)
 * [2024-01-25, 00:49:00](https://soylentnews.org/article.pl?sid=24/01/24/1240230&from=rss) - [Do Users Write More Insecure Code with AI Assistants?](https://soylentnews.org/article.pl?sid=24/01/24/1240230&from=rss)
 * [2024-01-24, 20:05:00](https://soylentnews.org/article.pl?sid=24/01/23/1641233&from=rss) - [Scientists Identify First Known Prehistoric Person With Turner Syndrome](https://soylentnews.org/article.pl?sid=24/01/23/1641233&from=rss)
-* [2024-01-24, 15:23:00](https://soylentnews.org/article.pl?sid=24/01/23/1635216&from=rss) - [The Case for Nuclear Cargo Ships](https://soylentnews.org/article.pl?sid=24/01/23/1635216&from=rss)
 
 ## [Archives](archives/index.md)
 
