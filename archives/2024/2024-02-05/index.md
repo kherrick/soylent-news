@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 23:04:00](https://soylentnews.org/article.pl?sid=24/02/05/0925242&from=rss) - [Teradyne Is The Latest Victim Of The Us-China Chip War ](https://soylentnews.org/article.pl?sid=24/02/05/0925242&from=rss)
 * [2024-02-05, 17:18:00](https://soylentnews.org/article.pl?sid=24/02/05/0922211&from=rss) - [Hiren's BootCD PE x64 (V1.0.3) Released - Windows 11](https://soylentnews.org/article.pl?sid=24/02/05/0922211&from=rss)
 * [2024-02-05, 12:35:00](https://soylentnews.org/article.pl?sid=24/02/05/0912231&from=rss) - [Convicted Console Hacker Says He Paid Nintendo $25 a Month From Prison](https://soylentnews.org/article.pl?sid=24/02/05/0912231&from=rss)
 * [2024-02-05, 08:30:00](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss) - [CERTIFICATES EXPIRED - Fixed !](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss)
