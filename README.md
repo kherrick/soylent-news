@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-05, 12:35:00](https://soylentnews.org/article.pl?sid=24/02/05/0912231&from=rss) - [Convicted Console Hacker Says He Paid Nintendo $25 a Month From Prison](https://soylentnews.org/article.pl?sid=24/02/05/0912231&from=rss)
 * [2024-02-05, 08:30:00](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss) - [CERTIFICATES EXPIRED - Fixed !](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss)
 * [2024-02-05, 07:51:00](https://soylentnews.org/article.pl?sid=24/02/04/200226&from=rss) - [Cops Arrest 17-year-old Suspected of Hundreds of Swattings Nationwide](https://soylentnews.org/article.pl?sid=24/02/04/200226&from=rss)
 * [2024-02-05, 03:09:00](https://soylentnews.org/article.pl?sid=24/02/04/1241205&from=rss) - [Exploring the Emergence of Technoauthoritarianism](https://soylentnews.org/article.pl?sid=24/02/04/1241205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-27, 05:08:00](https://soylentnews.org/article.pl?sid=24/01/26/0754241&from=rss) - [AI Poisoning Could Turn Open Models Into Destructive “Sleeper Agents,” Says Anthropic](https://soylentnews.org/article.pl?sid=24/01/26/0754241&from=rss)
 * [2024-01-27, 00:20:00](https://soylentnews.org/article.pl?sid=24/01/26/0736236&from=rss) - [Spicy Wine: New Study Reveals Ancient Romans May Have Had Peculiar Tastes](https://soylentnews.org/article.pl?sid=24/01/26/0736236&from=rss)
 * [2024-01-26, 19:35:00](https://soylentnews.org/article.pl?sid=24/01/25/1419213&from=rss) - [Chemists Set New Guinness Record for Tiniest, Tightest Knot](https://soylentnews.org/article.pl?sid=24/01/25/1419213&from=rss)
-* [2024-01-26, 14:53:00](https://soylentnews.org/article.pl?sid=24/01/25/1412220&from=rss) - [Big Tech Hit With New Wave Of Antitrust Data Requests From EU](https://soylentnews.org/article.pl?sid=24/01/25/1412220&from=rss)
 
 ## [Archives](archives/index.md)
 
