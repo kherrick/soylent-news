@@ -1,11 +1,11 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-05, 08:30:00](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss) - [CERTIFICATES EXPIRED - Fixed !](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss)
 * [2024-02-05, 07:51:00](https://soylentnews.org/article.pl?sid=24/02/04/200226&from=rss) - [Cops Arrest 17-year-old Suspected of Hundreds of Swattings Nationwide](https://soylentnews.org/article.pl?sid=24/02/04/200226&from=rss)
 * [2024-02-05, 03:09:00](https://soylentnews.org/article.pl?sid=24/02/04/1241205&from=rss) - [Exploring the Emergence of Technoauthoritarianism](https://soylentnews.org/article.pl?sid=24/02/04/1241205&from=rss)
 * [2024-02-04, 22:23:00](https://soylentnews.org/article.pl?sid=24/02/04/1237220&from=rss) - [Should You Flush With Toilet Lid Up or Down? Study Says it Doesn’t Matter](https://soylentnews.org/article.pl?sid=24/02/04/1237220&from=rss)
 * [2024-02-04, 17:40:00](https://soylentnews.org/article.pl?sid=24/02/04/1231223&from=rss) - [Taping Over Your Webcam Might not be Enough to Stop Hackers from Spying on You](https://soylentnews.org/article.pl?sid=24/02/04/1231223&from=rss)
 * [2024-02-04, 12:54:00](https://soylentnews.org/article.pl?sid=24/02/04/1224236&from=rss) - [Nuclear-Powered Spacecraft: Why Dreams of Atomic Rockets Are Back](https://soylentnews.org/article.pl?sid=24/02/04/1224236&from=rss)
-* [2024-02-04, 11:55:00](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss) - [CERTIFICATES EXPIRED ](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss)
 * [2024-02-03, 21:23:00](https://soylentnews.org/article.pl?sid=24/02/02/1354216&from=rss) - [RHEL's Source Code Access Change is Causing Issues for CentOS SIGs](https://soylentnews.org/article.pl?sid=24/02/02/1354216&from=rss)
 * [2024-02-03, 16:40:00](https://soylentnews.org/article.pl?sid=24/02/02/1321222&from=rss) - [40 Years in Prison for ex-CIA Coder Who Leaked Hacking Tools to WikiLeaks](https://soylentnews.org/article.pl?sid=24/02/02/1321222&from=rss)
 * [2024-02-03, 11:53:00](https://soylentnews.org/article.pl?sid=24/02/02/1318241&from=rss) - [Cops Bogged Down by Flood of Fake AI Child Sex Images, Report Says](https://soylentnews.org/article.pl?sid=24/02/02/1318241&from=rss)
