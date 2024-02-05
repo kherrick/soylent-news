@@ -1,5 +1,12 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-05, 03:09:00](https://soylentnews.org/article.pl?sid=24/02/04/1241205&from=rss) - [Exploring the Emergence of Technoauthoritarianism](https://soylentnews.org/article.pl?sid=24/02/04/1241205&from=rss)
+* [2024-02-04, 22:23:00](https://soylentnews.org/article.pl?sid=24/02/04/1237220&from=rss) - [Should You Flush With Toilet Lid Up or Down? Study Says it Doesn’t Matter](https://soylentnews.org/article.pl?sid=24/02/04/1237220&from=rss)
+* [2024-02-04, 17:40:00](https://soylentnews.org/article.pl?sid=24/02/04/1231223&from=rss) - [Taping Over Your Webcam Might not be Enough to Stop Hackers from Spying on You](https://soylentnews.org/article.pl?sid=24/02/04/1231223&from=rss)
+* [2024-02-04, 12:54:00](https://soylentnews.org/article.pl?sid=24/02/04/1224236&from=rss) - [Nuclear-Powered Spacecraft: Why Dreams of Atomic Rockets Are Back](https://soylentnews.org/article.pl?sid=24/02/04/1224236&from=rss)
+* [2024-02-04, 11:55:00](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss) - [CERTIFICATES EXPIRED ](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss)
+* [2024-02-03, 21:23:00](https://soylentnews.org/article.pl?sid=24/02/02/1354216&from=rss) - [RHEL's Source Code Access Change is Causing Issues for CentOS SIGs](https://soylentnews.org/article.pl?sid=24/02/02/1354216&from=rss)
+* [2024-02-03, 16:40:00](https://soylentnews.org/article.pl?sid=24/02/02/1321222&from=rss) - [40 Years in Prison for ex-CIA Coder Who Leaked Hacking Tools to WikiLeaks](https://soylentnews.org/article.pl?sid=24/02/02/1321222&from=rss)
 * [2024-02-03, 11:53:00](https://soylentnews.org/article.pl?sid=24/02/02/1318241&from=rss) - [Cops Bogged Down by Flood of Fake AI Child Sex Images, Report Says](https://soylentnews.org/article.pl?sid=24/02/02/1318241&from=rss)
 * [2024-02-03, 07:07:00](https://soylentnews.org/article.pl?sid=24/02/02/1314249&from=rss) - [Scientists Find Evidence Alzheimer's Can Be Transmissible](https://soylentnews.org/article.pl?sid=24/02/02/1314249&from=rss)
 * [2024-02-03, 02:22:00](https://soylentnews.org/article.pl?sid=24/02/02/133232&from=rss) - [Each Facebook User Is Monitored by Thousands of Companies](https://soylentnews.org/article.pl?sid=24/02/02/133232&from=rss)
@@ -43,13 +50,6 @@
 * [2024-01-26, 19:35:00](https://soylentnews.org/article.pl?sid=24/01/25/1419213&from=rss) - [Chemists Set New Guinness Record for Tiniest, Tightest Knot](https://soylentnews.org/article.pl?sid=24/01/25/1419213&from=rss)
 * [2024-01-26, 14:53:00](https://soylentnews.org/article.pl?sid=24/01/25/1412220&from=rss) - [Big Tech Hit With New Wave Of Antitrust Data Requests From EU](https://soylentnews.org/article.pl?sid=24/01/25/1412220&from=rss)
 * [2024-01-26, 10:08:00](https://soylentnews.org/article.pl?sid=24/01/25/149225&from=rss) - [Our Vehicles Got Bigger, So Why Are We Parking Them in Little Spaces?](https://soylentnews.org/article.pl?sid=24/01/25/149225&from=rss)
-* [2024-01-26, 05:25:00](https://soylentnews.org/article.pl?sid=24/01/25/146245&from=rss) - [NASA Invests in New Nuclear Concept for the Future of Space Exploration and Astrophysics](https://soylentnews.org/article.pl?sid=24/01/25/146245&from=rss)
-* [2024-01-26, 00:34:00](https://soylentnews.org/article.pl?sid=24/01/25/1345246&from=rss) - [What Drives Us to be Anonymous Online ?](https://soylentnews.org/article.pl?sid=24/01/25/1345246&from=rss)
-* [2024-01-25, 19:49:00](https://soylentnews.org/article.pl?sid=24/01/24/1553231&from=rss) - [Tietoevry on Today's List of Breached Companies](https://soylentnews.org/article.pl?sid=24/01/24/1553231&from=rss)
-* [2024-01-25, 15:02:00](https://soylentnews.org/article.pl?sid=24/01/24/1543202&from=rss) - [It Sure Looks Like X has a Verified Bot Problem](https://soylentnews.org/article.pl?sid=24/01/24/1543202&from=rss)
-* [2024-01-25, 10:19:00](https://soylentnews.org/article.pl?sid=24/01/24/1541203&from=rss) - [Mini-Robots Modeled on Insects May be Smallest, Lightest, Fastest Ever Developed](https://soylentnews.org/article.pl?sid=24/01/24/1541203&from=rss)
-* [2024-01-25, 05:34:00](https://soylentnews.org/article.pl?sid=24/01/24/1537222&from=rss) - [Alleged Boeing Whistleblower Claims Production Line Has High Amount of Defects](https://soylentnews.org/article.pl?sid=24/01/24/1537222&from=rss)
-* [2024-01-25, 00:49:00](https://soylentnews.org/article.pl?sid=24/01/24/1240230&from=rss) - [Do Users Write More Insecure Code with AI Assistants?](https://soylentnews.org/article.pl?sid=24/01/24/1240230&from=rss)
 
 ## [Archives](archives/index.md)
 
