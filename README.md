@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-06, 03:51:00](https://soylentnews.org/article.pl?sid=24/02/05/1622217&from=rss) - [Backup Strategies for Keeping Data Safe on Tape or Optical Disc](https://soylentnews.org/article.pl?sid=24/02/05/1622217&from=rss)
 * [2024-02-05, 23:04:00](https://soylentnews.org/article.pl?sid=24/02/05/0925242&from=rss) - [Teradyne Is The Latest Victim Of The Us-China Chip War ](https://soylentnews.org/article.pl?sid=24/02/05/0925242&from=rss)
 * [2024-02-05, 17:18:00](https://soylentnews.org/article.pl?sid=24/02/05/0922211&from=rss) - [Hiren's BootCD PE x64 (V1.0.3) Released - Windows 11](https://soylentnews.org/article.pl?sid=24/02/05/0922211&from=rss)
 * [2024-02-05, 12:35:00](https://soylentnews.org/article.pl?sid=24/02/05/0912231&from=rss) - [Convicted Console Hacker Says He Paid Nintendo $25 a Month From Prison](https://soylentnews.org/article.pl?sid=24/02/05/0912231&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-27, 19:22:00](https://soylentnews.org/article.pl?sid=24/01/26/2243239&from=rss) - [Writing by Hand May Increase Brain Connectivity More Than Typing on a Keyboard](https://soylentnews.org/article.pl?sid=24/01/26/2243239&from=rss)
 * [2024-01-27, 14:39:00](https://soylentnews.org/article.pl?sid=24/01/26/0821232&from=rss) - [TSMC Thinks The Only Way Is Up For Chip Sales In 2024](https://soylentnews.org/article.pl?sid=24/01/26/0821232&from=rss)
 * [2024-01-27, 09:56:00](https://soylentnews.org/article.pl?sid=24/01/26/0757224&from=rss) - [Unseen Images of Code Breaking Computer that Helped Win WW2](https://soylentnews.org/article.pl?sid=24/01/26/0757224&from=rss)
-* [2024-01-27, 05:08:00](https://soylentnews.org/article.pl?sid=24/01/26/0754241&from=rss) - [AI Poisoning Could Turn Open Models Into Destructive “Sleeper Agents,” Says Anthropic](https://soylentnews.org/article.pl?sid=24/01/26/0754241&from=rss)
 
 ## [Archives](archives/index.md)
 
