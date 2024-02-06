@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-06, 18:07:00](https://soylentnews.org/article.pl?sid=24/02/06/0738258&from=rss) - [Starlink’s Inter-Satellite Laser Links Are Setting New Record With 42 Million GB Per Day](https://soylentnews.org/article.pl?sid=24/02/06/0738258&from=rss)
 * [2024-02-06, 16:16:00](https://soylentnews.org/meta/article.pl?sid=24/02/06/168243&from=rss) - [DRAFT 9 - Proposed Bylaws for a New Corporation](https://soylentnews.org/meta/article.pl?sid=24/02/06/168243&from=rss)
 * [2024-02-06, 13:21:00](https://soylentnews.org/article.pl?sid=24/02/05/1633215&from=rss) - [Global Warming Caused Widespread Ocean Anoxia 93 Million Years Ago, Research Suggests](https://soylentnews.org/article.pl?sid=24/02/05/1633215&from=rss)
 * [2024-02-06, 08:34:00](https://soylentnews.org/article.pl?sid=24/02/05/1626236&from=rss) - [Deepfake Scammer Walks Off With $25 Million in First-of-its-Kind AI Heist](https://soylentnews.org/article.pl?sid=24/02/05/1626236&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-28, 14:20:00](https://soylentnews.org/article.pl?sid=24/01/27/196227&from=rss) - [The Fountain of Youth is … a T Cell?](https://soylentnews.org/article.pl?sid=24/01/27/196227&from=rss)
 * [2024-01-28, 09:32:00](https://soylentnews.org/article.pl?sid=24/01/27/191253&from=rss) - [Taylor Swift Deepfakes Spark Calls in Congress for New Legislation](https://soylentnews.org/article.pl?sid=24/01/27/191253&from=rss)
 * [2024-01-28, 04:51:00](https://soylentnews.org/article.pl?sid=24/01/27/1857230&from=rss) - [California Bill Calls for Tech to Make New Cars Unable to Speed](https://soylentnews.org/article.pl?sid=24/01/27/1857230&from=rss)
-* [2024-01-28, 00:05:00](https://soylentnews.org/article.pl?sid=24/01/27/1852249&from=rss) - [NASA’s Ingenuity Helicopter Mission Ends After Three Years on Mars](https://soylentnews.org/article.pl?sid=24/01/27/1852249&from=rss)
 
 ## [Archives](archives/index.md)
 
