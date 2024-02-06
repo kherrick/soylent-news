@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-06, 13:21:00](https://soylentnews.org/article.pl?sid=24/02/05/1633215&from=rss) - [Global Warming Caused Widespread Ocean Anoxia 93 Million Years Ago, Research Suggests](https://soylentnews.org/article.pl?sid=24/02/05/1633215&from=rss)
 * [2024-02-06, 08:34:00](https://soylentnews.org/article.pl?sid=24/02/05/1626236&from=rss) - [Deepfake Scammer Walks Off With $25 Million in First-of-its-Kind AI Heist](https://soylentnews.org/article.pl?sid=24/02/05/1626236&from=rss)
 * [2024-02-06, 03:51:00](https://soylentnews.org/article.pl?sid=24/02/05/1622217&from=rss) - [Backup Strategies for Keeping Data Safe on Tape or Optical Disc](https://soylentnews.org/article.pl?sid=24/02/05/1622217&from=rss)
 * [2024-02-05, 23:04:00](https://soylentnews.org/article.pl?sid=24/02/05/0925242&from=rss) - [Teradyne Is The Latest Victim Of The Us-China Chip War ](https://soylentnews.org/article.pl?sid=24/02/05/0925242&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-28, 04:51:00](https://soylentnews.org/article.pl?sid=24/01/27/1857230&from=rss) - [California Bill Calls for Tech to Make New Cars Unable to Speed](https://soylentnews.org/article.pl?sid=24/01/27/1857230&from=rss)
 * [2024-01-28, 00:05:00](https://soylentnews.org/article.pl?sid=24/01/27/1852249&from=rss) - [NASA’s Ingenuity Helicopter Mission Ends After Three Years on Mars](https://soylentnews.org/article.pl?sid=24/01/27/1852249&from=rss)
 * [2024-01-27, 19:22:00](https://soylentnews.org/article.pl?sid=24/01/26/2243239&from=rss) - [Writing by Hand May Increase Brain Connectivity More Than Typing on a Keyboard](https://soylentnews.org/article.pl?sid=24/01/26/2243239&from=rss)
-* [2024-01-27, 14:39:00](https://soylentnews.org/article.pl?sid=24/01/26/0821232&from=rss) - [TSMC Thinks The Only Way Is Up For Chip Sales In 2024](https://soylentnews.org/article.pl?sid=24/01/26/0821232&from=rss)
 
 ## [Archives](archives/index.md)
 
