@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-07, 13:07:00](https://soylentnews.org/article.pl?sid=24/02/06/1020212&from=rss) - [CERN Submits Plans for New, Bigger Collider](https://soylentnews.org/article.pl?sid=24/02/06/1020212&from=rss)
 * [2024-02-07, 08:25:00](https://soylentnews.org/article.pl?sid=24/02/06/087213&from=rss) - [An Electrifying New Ironmaking Method Could Slash Carbon Emissions](https://soylentnews.org/article.pl?sid=24/02/06/087213&from=rss)
 * [2024-02-07, 03:39:00](https://soylentnews.org/article.pl?sid=24/02/06/081238&from=rss) - [Paris Votes to Triple Parking Fees for SUVs](https://soylentnews.org/article.pl?sid=24/02/06/081238&from=rss)
 * [2024-02-06, 22:53:00](https://soylentnews.org/article.pl?sid=24/02/06/0745221&from=rss) - [ The New, New Transistor  In Power Electronics - Aluminum Nitride](https://soylentnews.org/article.pl?sid=24/02/06/0745221&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-29, 09:26:00](https://soylentnews.org/article.pl?sid=24/01/28/0713205&from=rss) - [US Scientist Recommends Adding Salt to Make Perfect Cup of Tea](https://soylentnews.org/article.pl?sid=24/01/28/0713205&from=rss)
 * [2024-01-29, 04:35:00](https://soylentnews.org/article.pl?sid=24/01/28/0657210&from=rss) - [In Major Gaffe, Hacked Microsoft Test Account Was Assigned Admin Privileges](https://soylentnews.org/article.pl?sid=24/01/28/0657210&from=rss)
 * [2024-01-28, 23:53:00](https://soylentnews.org/article.pl?sid=24/01/27/1913258&from=rss) - [What Coffee With Cream Can Teach Us About Quantum Physics](https://soylentnews.org/article.pl?sid=24/01/27/1913258&from=rss)
-* [2024-01-28, 19:08:00](https://soylentnews.org/article.pl?sid=24/01/27/199212&from=rss) - [Tokenomy of Tomorrow: Envisioning an AI-Driven World](https://soylentnews.org/article.pl?sid=24/01/27/199212&from=rss)
 
 ## [Archives](archives/index.md)
 
