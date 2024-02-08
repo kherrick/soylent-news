@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-08, 22:21:00](https://soylentnews.org/article.pl?sid=24/02/07/1555227&from=rss) - [Trio Wins $700K Vesuvius Challenge Grand Prize for Deciphering Ancient Scroll](https://soylentnews.org/article.pl?sid=24/02/07/1555227&from=rss)
 * [2024-02-08, 17:34:00](https://soylentnews.org/article.pl?sid=24/02/07/026211&from=rss) - [Researchers Discover an Effective Non-Opioid Treatment for Nerve Pain](https://soylentnews.org/article.pl?sid=24/02/07/026211&from=rss)
 * [2024-02-08, 12:48:00](https://soylentnews.org/politics/article.pl?sid=24/02/07/0157241&from=rss) - [European Parliament Reaches A Deal On Right To Repair](https://soylentnews.org/politics/article.pl?sid=24/02/07/0157241&from=rss)
 * [2024-02-08, 08:03:00](https://soylentnews.org/article.pl?sid=24/02/06/1414215&from=rss) - [Report Reveals Decline In Quality Of USB Sticks And MicroSD Cards](https://soylentnews.org/article.pl?sid=24/02/06/1414215&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-30, 18:50:00](https://soylentnews.org/article.pl?sid=24/01/29/1211232&from=rss) - [Attrition of Web Sites Over the Recent Years](https://soylentnews.org/article.pl?sid=24/01/29/1211232&from=rss)
 * [2024-01-30, 14:02:00](https://soylentnews.org/article.pl?sid=24/01/29/129229&from=rss) - [Why People Still Fall for Phishing Emails](https://soylentnews.org/article.pl?sid=24/01/29/129229&from=rss)
 * [2024-01-30, 09:15:00](https://soylentnews.org/article.pl?sid=24/01/29/126253&from=rss) - [Gulls Swap Natural for Urban Habitats, Machine-Learning Study Finds](https://soylentnews.org/article.pl?sid=24/01/29/126253&from=rss)
-* [2024-01-30, 04:32:00](https://soylentnews.org/article.pl?sid=24/01/29/123231&from=rss) - [Dungeons & Dragons Turns 50 This Year, and There’s a Lot Planned for It](https://soylentnews.org/article.pl?sid=24/01/29/123231&from=rss)
 
 ## [Archives](archives/index.md)
 
