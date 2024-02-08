@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-08, 03:23:00](https://soylentnews.org/article.pl?sid=24/02/06/145257&from=rss) - [The Fossil Fuel Industry Knew in 1954 About the Effects of Climate Change.](https://soylentnews.org/article.pl?sid=24/02/06/145257&from=rss)
 * [2024-02-07, 22:34:00](https://soylentnews.org/article.pl?sid=24/02/06/1329251&from=rss) - [Windows Version Of The Venerable Linux “sudo” Command Shows Up In Preview Build ](https://soylentnews.org/article.pl?sid=24/02/06/1329251&from=rss)
 * [2024-02-07, 17:52:00](https://soylentnews.org/article.pl?sid=24/02/06/1024216&from=rss) - [Microsoft in Deal With Semafor to Create News Stories With Aid of AI Chatbot](https://soylentnews.org/article.pl?sid=24/02/06/1024216&from=rss)
 * [2024-02-07, 13:07:00](https://soylentnews.org/article.pl?sid=24/02/06/1020212&from=rss) - [CERN Submits Plans for New, Bigger Collider](https://soylentnews.org/article.pl?sid=24/02/06/1020212&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-29, 23:45:00](https://soylentnews.org/article.pl?sid=24/01/29/1136216&from=rss) - [Physicists Identify a Surprising Phenomenon of Aging in Materials Over Time](https://soylentnews.org/article.pl?sid=24/01/29/1136216&from=rss)
 * [2024-01-29, 18:59:00](https://soylentnews.org/article.pl?sid=24/01/29/119253&from=rss) - [Hacking a Train's Toilet](https://soylentnews.org/article.pl?sid=24/01/29/119253&from=rss)
 * [2024-01-29, 14:11:00](https://soylentnews.org/article.pl?sid=24/01/28/0725239&from=rss) - [Researchers Engineer Bacteria That Eat Plastic, Make Multipurpose Spider Silk](https://soylentnews.org/article.pl?sid=24/01/28/0725239&from=rss)
-* [2024-01-29, 09:26:00](https://soylentnews.org/article.pl?sid=24/01/28/0713205&from=rss) - [US Scientist Recommends Adding Salt to Make Perfect Cup of Tea](https://soylentnews.org/article.pl?sid=24/01/28/0713205&from=rss)
 
 ## [Archives](archives/index.md)
 
