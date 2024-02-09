@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-09, 17:18:00](https://soylentnews.org/article.pl?sid=24/02/07/1620221&from=rss) - [Humanity's Most Distant Space Probe Jeopardized by Computer Glitch](https://soylentnews.org/article.pl?sid=24/02/07/1620221&from=rss)
 * [2024-02-09, 12:37:00](https://soylentnews.org/article.pl?sid=24/02/07/1613229&from=rss) - [IPv4 Address Rentals To Mint Millions Of Dollars For AWS](https://soylentnews.org/article.pl?sid=24/02/07/1613229&from=rss)
 * [2024-02-09, 07:52:00](https://soylentnews.org/article.pl?sid=24/02/07/167242&from=rss) - [Discuss: How Do You Handle Optical Backups?](https://soylentnews.org/article.pl?sid=24/02/07/167242&from=rss)
 * [2024-02-09, 03:05:00](https://soylentnews.org/article.pl?sid=24/02/07/163228&from=rss) - [Infrared Sensors Can Now Peer Around Corners,  IR Non-Line-of-Sight Imaging is Possible](https://soylentnews.org/article.pl?sid=24/02/07/163228&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-31, 13:05:00](https://soylentnews.org/article.pl?sid=24/01/30/0628237&from=rss) - [How Viable is Arctic Shipping?](https://soylentnews.org/article.pl?sid=24/01/30/0628237&from=rss)
 * [2024-01-31, 08:31:00](https://soylentnews.org/article.pl?sid=24/01/30/0014219&from=rss) - [Mysterious, Nearly Invisible Dwarf Galaxy Challenges Dark Matter Model](https://soylentnews.org/article.pl?sid=24/01/30/0014219&from=rss)
 * [2024-01-31, 04:00:00](https://soylentnews.org/article.pl?sid=24/01/29/2358253&from=rss) - [Hertz is Selling 20,000 Electric Vehicles to Buy Gasoline Cars Instead ](https://soylentnews.org/article.pl?sid=24/01/29/2358253&from=rss)
-* [2024-01-30, 23:33:00](https://soylentnews.org/article.pl?sid=24/01/29/1215239&from=rss) - [NSA Finally Admits to Spying on Americans by Purchasing Sensitive Data](https://soylentnews.org/article.pl?sid=24/01/29/1215239&from=rss)
 
 ## [Archives](archives/index.md)
 
