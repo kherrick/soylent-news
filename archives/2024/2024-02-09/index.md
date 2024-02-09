@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 22:04:00](https://soylentnews.org/article.pl?sid=24/02/07/1627205&from=rss) - [$10,000 For A $3,500 Apple Vision Pro? Scalpers Mark Up Apple's Headset](https://soylentnews.org/article.pl?sid=24/02/07/1627205&from=rss)
 * [2024-02-09, 17:18:00](https://soylentnews.org/article.pl?sid=24/02/07/1620221&from=rss) - [Humanity's Most Distant Space Probe Jeopardized by Computer Glitch](https://soylentnews.org/article.pl?sid=24/02/07/1620221&from=rss)
 * [2024-02-09, 12:37:00](https://soylentnews.org/article.pl?sid=24/02/07/1613229&from=rss) - [IPv4 Address Rentals To Mint Millions Of Dollars For AWS](https://soylentnews.org/article.pl?sid=24/02/07/1613229&from=rss)
 * [2024-02-09, 07:52:00](https://soylentnews.org/article.pl?sid=24/02/07/167242&from=rss) - [Discuss: How Do You Handle Optical Backups?](https://soylentnews.org/article.pl?sid=24/02/07/167242&from=rss)
