@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-10, 02:49:00](https://soylentnews.org/article.pl?sid=24/02/09/0217231&from=rss) - [I Bought a Flip Phone and Tried to Get by Without My Smartphone. Here's How That Went.](https://soylentnews.org/article.pl?sid=24/02/09/0217231&from=rss)
 * [2024-02-09, 22:04:00](https://soylentnews.org/article.pl?sid=24/02/07/1627205&from=rss) - [$10,000 For A $3,500 Apple Vision Pro? Scalpers Mark Up Apple's Headset](https://soylentnews.org/article.pl?sid=24/02/07/1627205&from=rss)
 * [2024-02-09, 17:18:00](https://soylentnews.org/article.pl?sid=24/02/07/1620221&from=rss) - [Humanity's Most Distant Space Probe Jeopardized by Computer Glitch](https://soylentnews.org/article.pl?sid=24/02/07/1620221&from=rss)
 * [2024-02-09, 12:37:00](https://soylentnews.org/article.pl?sid=24/02/07/1613229&from=rss) - [IPv4 Address Rentals To Mint Millions Of Dollars For AWS](https://soylentnews.org/article.pl?sid=24/02/07/1613229&from=rss)
@@ -49,7 +50,6 @@
 * [2024-01-31, 17:23:00](https://soylentnews.org/article.pl?sid=24/01/30/0554245&from=rss) - [We Keep Making the Same Mistakes With Spreadsheets, Despite Bad Consequences](https://soylentnews.org/article.pl?sid=24/01/30/0554245&from=rss)
 * [2024-01-31, 15:48:00](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss) - [A Plea for 2 Volunteers - UPDATE](https://soylentnews.org/meta/article.pl?sid=24/01/28/1839235&from=rss)
 * [2024-01-31, 13:05:00](https://soylentnews.org/article.pl?sid=24/01/30/0628237&from=rss) - [How Viable is Arctic Shipping?](https://soylentnews.org/article.pl?sid=24/01/30/0628237&from=rss)
-* [2024-01-31, 08:31:00](https://soylentnews.org/article.pl?sid=24/01/30/0014219&from=rss) - [Mysterious, Nearly Invisible Dwarf Galaxy Challenges Dark Matter Model](https://soylentnews.org/article.pl?sid=24/01/30/0014219&from=rss)
 
 ## [Archives](archives/index.md)
 
