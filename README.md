@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-10, 17:06:00](https://soylentnews.org/article.pl?sid=24/02/09/077239&from=rss) - [It's True, Happiness Doesn't Cost Much](https://soylentnews.org/article.pl?sid=24/02/09/077239&from=rss)
 * [2024-02-10, 12:20:00](https://soylentnews.org/article.pl?sid=24/02/09/0237247&from=rss) - [Disney, Hulu Follow Netflix In Password Sharing Crackdown](https://soylentnews.org/article.pl?sid=24/02/09/0237247&from=rss)
 * [2024-02-10, 07:34:00](https://soylentnews.org/article.pl?sid=24/02/09/0225240&from=rss) - [Raspberry Pi Pico Cracks Bitlocker In Under A Minute](https://soylentnews.org/article.pl?sid=24/02/09/0225240&from=rss)
 * [2024-02-10, 02:49:00](https://soylentnews.org/article.pl?sid=24/02/09/0217231&from=rss) - [I Bought a Flip Phone and Tried to Get by Without My Smartphone. Here's How That Went.](https://soylentnews.org/article.pl?sid=24/02/09/0217231&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-01, 07:36:00](https://soylentnews.org/article.pl?sid=24/01/31/1434212&from=rss) - [UK Could Secretly Block Security Worldwide, Says Apple](https://soylentnews.org/article.pl?sid=24/01/31/1434212&from=rss)
 * [2024-02-01, 02:51:00](https://soylentnews.org/article.pl?sid=24/01/30/0025228&from=rss) - [First-ever Sighting of a Live Newborn Great White May Help Solve Mystery in Shark Science](https://soylentnews.org/article.pl?sid=24/01/30/0025228&from=rss)
 * [2024-01-31, 22:05:00](https://soylentnews.org/article.pl?sid=24/01/30/0038231&from=rss) - [Stars Travel Slower at Milky Way's Edge: Galaxy's Core May Contain Less Dark Matter Than We Thought](https://soylentnews.org/article.pl?sid=24/01/30/0038231&from=rss)
-* [2024-01-31, 17:23:00](https://soylentnews.org/article.pl?sid=24/01/30/0554245&from=rss) - [We Keep Making the Same Mistakes With Spreadsheets, Despite Bad Consequences](https://soylentnews.org/article.pl?sid=24/01/30/0554245&from=rss)
 
 ## [Archives](archives/index.md)
 
