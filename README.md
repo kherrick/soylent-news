@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-11, 09:38:00](https://soylentnews.org/article.pl?sid=24/02/10/0153223&from=rss) - [AI Deployed Nukes 'To Have Peace in the World' in Tense War Simulation](https://soylentnews.org/article.pl?sid=24/02/10/0153223&from=rss)
 * [2024-02-11, 04:34:00](https://soylentnews.org/article.pl?sid=24/02/10/0128204&from=rss) - [AMD Sees Surge in CPU Revenue Share, Thanks to Epyc and Ryzen Processor Demand](https://soylentnews.org/article.pl?sid=24/02/10/0128204&from=rss)
 * [2024-02-10, 21:48:00](https://soylentnews.org/article.pl?sid=24/02/09/0711221&from=rss) - [How Could Laser-Driven Lightsails Remain Stable?](https://soylentnews.org/article.pl?sid=24/02/09/0711221&from=rss)
 * [2024-02-10, 17:06:00](https://soylentnews.org/article.pl?sid=24/02/09/077239&from=rss) - [It's True, Happiness Doesn't Cost Much](https://soylentnews.org/article.pl?sid=24/02/09/077239&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-01, 21:52:00](https://soylentnews.org/article.pl?sid=24/02/01/067230&from=rss) - [Jeff Geerling on Rumors of a Raspberry Pi IPO](https://soylentnews.org/article.pl?sid=24/02/01/067230&from=rss)
 * [2024-02-01, 17:08:00](https://soylentnews.org/article.pl?sid=24/02/01/063208&from=rss) - [Cory Doctorow Has a Plan to Wipe Away the Enshittification of Tech](https://soylentnews.org/article.pl?sid=24/02/01/063208&from=rss)
 * [2024-02-01, 12:23:00](https://soylentnews.org/article.pl?sid=24/01/31/1445235&from=rss) - [ICANN Proposes .INTERNAL for Internal Use Only](https://soylentnews.org/article.pl?sid=24/01/31/1445235&from=rss)
-* [2024-02-01, 07:36:00](https://soylentnews.org/article.pl?sid=24/01/31/1434212&from=rss) - [UK Could Secretly Block Security Worldwide, Says Apple](https://soylentnews.org/article.pl?sid=24/01/31/1434212&from=rss)
 
 ## [Archives](archives/index.md)
 
