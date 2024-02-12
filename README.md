@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-12, 04:38:00](https://soylentnews.org/article.pl?sid=24/02/11/0847227&from=rss) - [Google’s Use Of Student Data Could Effectively Ban Chromebooks From Denmark Schools](https://soylentnews.org/article.pl?sid=24/02/11/0847227&from=rss)
 * [2024-02-11, 23:53:00](https://soylentnews.org/article.pl?sid=24/02/10/1912250&from=rss) - [Are We All Technosexuals Now?](https://soylentnews.org/article.pl?sid=24/02/10/1912250&from=rss)
 * [2024-02-11, 19:12:00](https://soylentnews.org/article.pl?sid=24/02/10/197252&from=rss) - [Intel 286 Secrets: ICE Mode and 'F1 0F 04'](https://soylentnews.org/article.pl?sid=24/02/10/197252&from=rss)
 * [2024-02-11, 14:23:00](https://soylentnews.org/article.pl?sid=24/02/10/194227&from=rss) - [Alien Invasion: Non-Native Earthworms Threaten Ecosystems](https://soylentnews.org/article.pl?sid=24/02/10/194227&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-02, 16:50:00](https://soylentnews.org/article.pl?sid=24/02/02/0511211&from=rss) - [Square Kilometre Array Prototype 'Scope Achieves First Light](https://soylentnews.org/article.pl?sid=24/02/02/0511211&from=rss)
 * [2024-02-02, 12:04:00](https://soylentnews.org/article.pl?sid=24/02/02/056257&from=rss) - [How a Walk in Nature Restores Attention](https://soylentnews.org/article.pl?sid=24/02/02/056257&from=rss)
 * [2024-02-02, 07:21:00](https://soylentnews.org/article.pl?sid=24/02/01/1930241&from=rss) - [Moonquakes Due to Shrinkage](https://soylentnews.org/article.pl?sid=24/02/01/1930241&from=rss)
-* [2024-02-02, 02:35:00](https://soylentnews.org/article.pl?sid=24/02/01/1918204&from=rss) - [Chinese Malware Removed From SOHO Routers After FBI Issues Covert Commands](https://soylentnews.org/article.pl?sid=24/02/01/1918204&from=rss)
 
 ## [Archives](archives/index.md)
 
