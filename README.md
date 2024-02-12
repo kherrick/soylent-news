@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-12, 23:35:00](https://soylentnews.org/article.pl?sid=24/02/11/1055243&from=rss) - [Viagra And Similar Drugs Might Help Keep Alzheimer's At Bay](https://soylentnews.org/article.pl?sid=24/02/11/1055243&from=rss)
 * [2024-02-12, 18:52:00](https://soylentnews.org/article.pl?sid=24/02/11/1048248&from=rss) - [US Climate Scientist Michael Mann Wins $1m in Defamation Lawsuit](https://soylentnews.org/article.pl?sid=24/02/11/1048248&from=rss)
 * [2024-02-12, 14:05:00](https://soylentnews.org/article.pl?sid=24/02/11/092256&from=rss) - [Meta And Tiktok Sue To Get Out Of Paying The EU's Fee For Policing Content](https://soylentnews.org/article.pl?sid=24/02/11/092256&from=rss)
 * [2024-02-12, 09:20:00](https://soylentnews.org/article.pl?sid=24/02/11/0854205&from=rss) - [UK's Jet Nuclear Fusion Reactor Sets New World Record for Energy Output](https://soylentnews.org/article.pl?sid=24/02/11/0854205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-03, 11:53:00](https://soylentnews.org/article.pl?sid=24/02/02/1318241&from=rss) - [Cops Bogged Down by Flood of Fake AI Child Sex Images, Report Says](https://soylentnews.org/article.pl?sid=24/02/02/1318241&from=rss)
 * [2024-02-03, 07:07:00](https://soylentnews.org/article.pl?sid=24/02/02/1314249&from=rss) - [Scientists Find Evidence Alzheimer's Can Be Transmissible](https://soylentnews.org/article.pl?sid=24/02/02/1314249&from=rss)
 * [2024-02-03, 02:22:00](https://soylentnews.org/article.pl?sid=24/02/02/133232&from=rss) - [Each Facebook User Is Monitored by Thousands of Companies](https://soylentnews.org/article.pl?sid=24/02/02/133232&from=rss)
-* [2024-02-02, 21:37:00](https://soylentnews.org/article.pl?sid=24/02/02/1129247&from=rss) - [Apple Declares Last MacBook Pro With an Optical Drive Obsolete](https://soylentnews.org/article.pl?sid=24/02/02/1129247&from=rss)
 
 ## [Archives](archives/index.md)
 
