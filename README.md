@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-11, 23:53:00](https://soylentnews.org/article.pl?sid=24/02/10/1912250&from=rss) - [Are We All Technosexuals Now?](https://soylentnews.org/article.pl?sid=24/02/10/1912250&from=rss)
 * [2024-02-11, 19:12:00](https://soylentnews.org/article.pl?sid=24/02/10/197252&from=rss) - [Intel 286 Secrets: ICE Mode and 'F1 0F 04'](https://soylentnews.org/article.pl?sid=24/02/10/197252&from=rss)
 * [2024-02-11, 14:23:00](https://soylentnews.org/article.pl?sid=24/02/10/194227&from=rss) - [Alien Invasion: Non-Native Earthworms Threaten Ecosystems](https://soylentnews.org/article.pl?sid=24/02/10/194227&from=rss)
 * [2024-02-11, 09:38:00](https://soylentnews.org/article.pl?sid=24/02/10/0153223&from=rss) - [AI Deployed Nukes 'To Have Peace in the World' in Tense War Simulation](https://soylentnews.org/article.pl?sid=24/02/10/0153223&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-02, 12:04:00](https://soylentnews.org/article.pl?sid=24/02/02/056257&from=rss) - [How a Walk in Nature Restores Attention](https://soylentnews.org/article.pl?sid=24/02/02/056257&from=rss)
 * [2024-02-02, 07:21:00](https://soylentnews.org/article.pl?sid=24/02/01/1930241&from=rss) - [Moonquakes Due to Shrinkage](https://soylentnews.org/article.pl?sid=24/02/01/1930241&from=rss)
 * [2024-02-02, 02:35:00](https://soylentnews.org/article.pl?sid=24/02/01/1918204&from=rss) - [Chinese Malware Removed From SOHO Routers After FBI Issues Covert Commands](https://soylentnews.org/article.pl?sid=24/02/01/1918204&from=rss)
-* [2024-02-01, 21:52:00](https://soylentnews.org/article.pl?sid=24/02/01/067230&from=rss) - [Jeff Geerling on Rumors of a Raspberry Pi IPO](https://soylentnews.org/article.pl?sid=24/02/01/067230&from=rss)
 
 ## [Archives](archives/index.md)
 
