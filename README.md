@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-13, 09:11:00](https://soylentnews.org/article.pl?sid=24/02/11/162224&from=rss) - [German Court Bans Sales Of Select Intel CPUs In Germany Over Patent Dispute](https://soylentnews.org/article.pl?sid=24/02/11/162224&from=rss)
 * [2024-02-13, 04:17:00](https://soylentnews.org/article.pl?sid=24/02/11/1559204&from=rss) - [Odors May Prompt Certain Brain Cells to Make Decisions](https://soylentnews.org/article.pl?sid=24/02/11/1559204&from=rss)
 * [2024-02-12, 23:35:00](https://soylentnews.org/article.pl?sid=24/02/11/1055243&from=rss) - [Viagra And Similar Drugs Might Help Keep Alzheimer's At Bay](https://soylentnews.org/article.pl?sid=24/02/11/1055243&from=rss)
 * [2024-02-12, 18:52:00](https://soylentnews.org/article.pl?sid=24/02/11/1048248&from=rss) - [US Climate Scientist Michael Mann Wins $1m in Defamation Lawsuit](https://soylentnews.org/article.pl?sid=24/02/11/1048248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-03, 21:23:00](https://soylentnews.org/article.pl?sid=24/02/02/1354216&from=rss) - [RHEL's Source Code Access Change is Causing Issues for CentOS SIGs](https://soylentnews.org/article.pl?sid=24/02/02/1354216&from=rss)
 * [2024-02-03, 16:40:00](https://soylentnews.org/article.pl?sid=24/02/02/1321222&from=rss) - [40 Years in Prison for ex-CIA Coder Who Leaked Hacking Tools to WikiLeaks](https://soylentnews.org/article.pl?sid=24/02/02/1321222&from=rss)
 * [2024-02-03, 11:53:00](https://soylentnews.org/article.pl?sid=24/02/02/1318241&from=rss) - [Cops Bogged Down by Flood of Fake AI Child Sex Images, Report Says](https://soylentnews.org/article.pl?sid=24/02/02/1318241&from=rss)
-* [2024-02-03, 07:07:00](https://soylentnews.org/article.pl?sid=24/02/02/1314249&from=rss) - [Scientists Find Evidence Alzheimer's Can Be Transmissible](https://soylentnews.org/article.pl?sid=24/02/02/1314249&from=rss)
 
 ## [Archives](archives/index.md)
 
