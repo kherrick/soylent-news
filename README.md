@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-13, 13:53:00](https://soylentnews.org/article.pl?sid=24/02/12/1616246&from=rss) - [Contents of Charles Darwin’s Entire Personal Library Revealed for First Time](https://soylentnews.org/article.pl?sid=24/02/12/1616246&from=rss)
 * [2024-02-13, 11:38:00](https://soylentnews.org/article.pl?sid=24/02/13/110209&from=rss) - [Gershwin’s “Rhapsody in Blue” at 100](https://soylentnews.org/article.pl?sid=24/02/13/110209&from=rss)
 * [2024-02-13, 09:11:00](https://soylentnews.org/article.pl?sid=24/02/11/162224&from=rss) - [German Court Bans Sales Of Select Intel CPUs In Germany Over Patent Dispute](https://soylentnews.org/article.pl?sid=24/02/11/162224&from=rss)
 * [2024-02-13, 04:17:00](https://soylentnews.org/article.pl?sid=24/02/11/1559204&from=rss) - [Odors May Prompt Certain Brain Cells to Make Decisions](https://soylentnews.org/article.pl?sid=24/02/11/1559204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-04, 17:40:00](https://soylentnews.org/article.pl?sid=24/02/04/1231223&from=rss) - [Taping Over Your Webcam Might not be Enough to Stop Hackers from Spying on You](https://soylentnews.org/article.pl?sid=24/02/04/1231223&from=rss)
 * [2024-02-04, 12:54:00](https://soylentnews.org/article.pl?sid=24/02/04/1224236&from=rss) - [Nuclear-Powered Spacecraft: Why Dreams of Atomic Rockets Are Back](https://soylentnews.org/article.pl?sid=24/02/04/1224236&from=rss)
 * [2024-02-03, 21:23:00](https://soylentnews.org/article.pl?sid=24/02/02/1354216&from=rss) - [RHEL's Source Code Access Change is Causing Issues for CentOS SIGs](https://soylentnews.org/article.pl?sid=24/02/02/1354216&from=rss)
-* [2024-02-03, 16:40:00](https://soylentnews.org/article.pl?sid=24/02/02/1321222&from=rss) - [40 Years in Prison for ex-CIA Coder Who Leaked Hacking Tools to WikiLeaks](https://soylentnews.org/article.pl?sid=24/02/02/1321222&from=rss)
 
 ## [Archives](archives/index.md)
 
