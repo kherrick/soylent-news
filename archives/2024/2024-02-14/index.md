@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 09:01:00](https://soylentnews.org/article.pl?sid=24/02/13/1852203&from=rss) - [New USB Stick has a Self-Destruct Feature](https://soylentnews.org/article.pl?sid=24/02/13/1852203&from=rss)
 * [2024-02-14, 04:16:00](https://soylentnews.org/article.pl?sid=24/02/13/1847235&from=rss) - [Damn Small Linux Back With an Alpha Version in 2024, Increases Size to ~700 MB](https://soylentnews.org/article.pl?sid=24/02/13/1847235&from=rss)
