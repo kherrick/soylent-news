@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-14, 13:44:00](https://soylentnews.org/article.pl?sid=24/02/13/1857219&from=rss) - [“Very Sick” Pet Cat Gave Oregon Resident Case of Bubonic Plague](https://soylentnews.org/article.pl?sid=24/02/13/1857219&from=rss)
 * [2024-02-14, 09:01:00](https://soylentnews.org/article.pl?sid=24/02/13/1852203&from=rss) - [New USB Stick has a Self-Destruct Feature](https://soylentnews.org/article.pl?sid=24/02/13/1852203&from=rss)
 * [2024-02-14, 04:16:00](https://soylentnews.org/article.pl?sid=24/02/13/1847235&from=rss) - [Damn Small Linux Back With an Alpha Version in 2024, Increases Size to ~700 MB](https://soylentnews.org/article.pl?sid=24/02/13/1847235&from=rss)
 * [2024-02-13, 23:24:00](https://soylentnews.org/article.pl?sid=24/02/12/1622205&from=rss) - [Ancient DNA Helps Researchers Elucidate the Structure of a Prehistoric Community](https://soylentnews.org/article.pl?sid=24/02/12/1622205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-05, 12:35:00](https://soylentnews.org/article.pl?sid=24/02/05/0912231&from=rss) - [Convicted Console Hacker Says He Paid Nintendo $25 a Month From Prison](https://soylentnews.org/article.pl?sid=24/02/05/0912231&from=rss)
 * [2024-02-05, 08:30:00](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss) - [CERTIFICATES EXPIRED - Fixed !](https://soylentnews.org/meta/article.pl?sid=24/02/04/1152202&from=rss)
 * [2024-02-05, 07:51:00](https://soylentnews.org/article.pl?sid=24/02/04/200226&from=rss) - [Cops Arrest 17-year-old Suspected of Hundreds of Swattings Nationwide](https://soylentnews.org/article.pl?sid=24/02/04/200226&from=rss)
-* [2024-02-05, 03:09:00](https://soylentnews.org/article.pl?sid=24/02/04/1241205&from=rss) - [Exploring the Emergence of Technoauthoritarianism](https://soylentnews.org/article.pl?sid=24/02/04/1241205&from=rss)
 
 ## [Archives](archives/index.md)
 
