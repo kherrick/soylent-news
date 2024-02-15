@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-15, 18:15:00](https://soylentnews.org/article.pl?sid=24/02/14/1336212&from=rss) - [Daily Telescope: A Solar Eclipse From the Surface of Mars](https://soylentnews.org/article.pl?sid=24/02/14/1336212&from=rss)
 * [2024-02-15, 13:30:00](https://soylentnews.org/article.pl?sid=24/02/14/1333214&from=rss) - [Today's YouTubers Are Repeating the Mistakes of Yesterday's Bloggers](https://soylentnews.org/article.pl?sid=24/02/14/1333214&from=rss)
 * [2024-02-15, 08:44:00](https://soylentnews.org/article.pl?sid=24/02/13/2338248&from=rss) - [A Biologic Reason for Hearing Loss](https://soylentnews.org/article.pl?sid=24/02/13/2338248&from=rss)
 * [2024-02-15, 03:59:00](https://soylentnews.org/article.pl?sid=24/02/13/2123254&from=rss) - [Flipper Zero Double Header](https://soylentnews.org/article.pl?sid=24/02/13/2123254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-06, 16:16:00](https://soylentnews.org/meta/article.pl?sid=24/02/06/168243&from=rss) - [DRAFT 9 - Proposed Bylaws for a New Corporation](https://soylentnews.org/meta/article.pl?sid=24/02/06/168243&from=rss)
 * [2024-02-06, 13:21:00](https://soylentnews.org/article.pl?sid=24/02/05/1633215&from=rss) - [Global Warming Caused Widespread Ocean Anoxia 93 Million Years Ago, Research Suggests](https://soylentnews.org/article.pl?sid=24/02/05/1633215&from=rss)
 * [2024-02-06, 08:34:00](https://soylentnews.org/article.pl?sid=24/02/05/1626236&from=rss) - [Deepfake Scammer Walks Off With $25 Million in First-of-its-Kind AI Heist](https://soylentnews.org/article.pl?sid=24/02/05/1626236&from=rss)
-* [2024-02-06, 03:51:00](https://soylentnews.org/article.pl?sid=24/02/05/1622217&from=rss) - [Backup Strategies for Keeping Data Safe on Tape or Optical Disc](https://soylentnews.org/article.pl?sid=24/02/05/1622217&from=rss)
 
 ## [Archives](archives/index.md)
 
