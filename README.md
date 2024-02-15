@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-15, 23:01:00](https://soylentnews.org/article.pl?sid=24/02/15/0153258&from=rss) - [Lawsuit Accuses Anna’s Archive of Hacking WorldCat, Stealing 2.2 TB Data](https://soylentnews.org/article.pl?sid=24/02/15/0153258&from=rss)
 * [2024-02-15, 18:15:00](https://soylentnews.org/article.pl?sid=24/02/14/1336212&from=rss) - [Daily Telescope: A Solar Eclipse From the Surface of Mars](https://soylentnews.org/article.pl?sid=24/02/14/1336212&from=rss)
 * [2024-02-15, 13:30:00](https://soylentnews.org/article.pl?sid=24/02/14/1333214&from=rss) - [Today's YouTubers Are Repeating the Mistakes of Yesterday's Bloggers](https://soylentnews.org/article.pl?sid=24/02/14/1333214&from=rss)
 * [2024-02-15, 08:44:00](https://soylentnews.org/article.pl?sid=24/02/13/2338248&from=rss) - [A Biologic Reason for Hearing Loss](https://soylentnews.org/article.pl?sid=24/02/13/2338248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-06, 18:07:00](https://soylentnews.org/article.pl?sid=24/02/06/0738258&from=rss) - [Starlink’s Inter-Satellite Laser Links Are Setting New Record With 42 Million GB Per Day](https://soylentnews.org/article.pl?sid=24/02/06/0738258&from=rss)
 * [2024-02-06, 16:16:00](https://soylentnews.org/meta/article.pl?sid=24/02/06/168243&from=rss) - [DRAFT 9 - Proposed Bylaws for a New Corporation](https://soylentnews.org/meta/article.pl?sid=24/02/06/168243&from=rss)
 * [2024-02-06, 13:21:00](https://soylentnews.org/article.pl?sid=24/02/05/1633215&from=rss) - [Global Warming Caused Widespread Ocean Anoxia 93 Million Years Ago, Research Suggests](https://soylentnews.org/article.pl?sid=24/02/05/1633215&from=rss)
-* [2024-02-06, 08:34:00](https://soylentnews.org/article.pl?sid=24/02/05/1626236&from=rss) - [Deepfake Scammer Walks Off With $25 Million in First-of-its-Kind AI Heist](https://soylentnews.org/article.pl?sid=24/02/05/1626236&from=rss)
 
 ## [Archives](archives/index.md)
 
