@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-16, 22:44:00](https://soylentnews.org/article.pl?sid=24/02/15/1145250&from=rss) - [Harnessing Light-Powered Nanoscale Electrical Currents To Propel Emerging Technologies](https://soylentnews.org/article.pl?sid=24/02/15/1145250&from=rss)
 * [2024-02-16, 18:00:00](https://soylentnews.org/article.pl?sid=24/02/15/1141241&from=rss) - [IBM, Sonic Delay Lines, and the History of the 80×24 Display](https://soylentnews.org/article.pl?sid=24/02/15/1141241&from=rss)
 * [2024-02-16, 16:33:00](https://soylentnews.org/politics/article.pl?sid=24/02/16/1615214&from=rss) - [Alexey Navalny Has Died](https://soylentnews.org/politics/article.pl?sid=24/02/16/1615214&from=rss)
 * [2024-02-16, 13:15:00](https://soylentnews.org/article.pl?sid=24/02/15/1136253&from=rss) - [Daily Gold Nanocrystal Drink Promising as MS and Parkinson's Treatment](https://soylentnews.org/article.pl?sid=24/02/15/1136253&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-07, 22:34:00](https://soylentnews.org/article.pl?sid=24/02/06/1329251&from=rss) - [Windows Version Of The Venerable Linux “sudo” Command Shows Up In Preview Build ](https://soylentnews.org/article.pl?sid=24/02/06/1329251&from=rss)
 * [2024-02-07, 17:52:00](https://soylentnews.org/article.pl?sid=24/02/06/1024216&from=rss) - [Microsoft in Deal With Semafor to Create News Stories With Aid of AI Chatbot](https://soylentnews.org/article.pl?sid=24/02/06/1024216&from=rss)
 * [2024-02-07, 13:07:00](https://soylentnews.org/article.pl?sid=24/02/06/1020212&from=rss) - [CERN Submits Plans for New, Bigger Collider](https://soylentnews.org/article.pl?sid=24/02/06/1020212&from=rss)
-* [2024-02-07, 08:25:00](https://soylentnews.org/article.pl?sid=24/02/06/087213&from=rss) - [An Electrifying New Ironmaking Method Could Slash Carbon Emissions](https://soylentnews.org/article.pl?sid=24/02/06/087213&from=rss)
 
 ## [Archives](archives/index.md)
 
