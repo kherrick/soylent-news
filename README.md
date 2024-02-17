@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-17, 08:14:00](https://soylentnews.org/article.pl?sid=24/02/16/0136238&from=rss) - [US Says China's Volt Typhoon Is Readying Destructive Attacks](https://soylentnews.org/article.pl?sid=24/02/16/0136238&from=rss)
 * [2024-02-17, 03:28:00](https://soylentnews.org/article.pl?sid=24/02/16/0129233&from=rss) - [Microsoft Starts Testing Windows 11 24H2 as This Year's Big Update Takes Shape](https://soylentnews.org/article.pl?sid=24/02/16/0129233&from=rss)
 * [2024-02-16, 22:44:00](https://soylentnews.org/article.pl?sid=24/02/15/1145250&from=rss) - [Harnessing Light-Powered Nanoscale Electrical Currents To Propel Emerging Technologies](https://soylentnews.org/article.pl?sid=24/02/15/1145250&from=rss)
 * [2024-02-16, 18:00:00](https://soylentnews.org/article.pl?sid=24/02/15/1141241&from=rss) - [IBM, Sonic Delay Lines, and the History of the 80×24 Display](https://soylentnews.org/article.pl?sid=24/02/15/1141241&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-08, 08:03:00](https://soylentnews.org/article.pl?sid=24/02/06/1414215&from=rss) - [Report Reveals Decline In Quality Of USB Sticks And MicroSD Cards](https://soylentnews.org/article.pl?sid=24/02/06/1414215&from=rss)
 * [2024-02-08, 03:23:00](https://soylentnews.org/article.pl?sid=24/02/06/145257&from=rss) - [The Fossil Fuel Industry Knew in 1954 About the Effects of Climate Change.](https://soylentnews.org/article.pl?sid=24/02/06/145257&from=rss)
 * [2024-02-07, 22:34:00](https://soylentnews.org/article.pl?sid=24/02/06/1329251&from=rss) - [Windows Version Of The Venerable Linux “sudo” Command Shows Up In Preview Build ](https://soylentnews.org/article.pl?sid=24/02/06/1329251&from=rss)
-* [2024-02-07, 17:52:00](https://soylentnews.org/article.pl?sid=24/02/06/1024216&from=rss) - [Microsoft in Deal With Semafor to Create News Stories With Aid of AI Chatbot](https://soylentnews.org/article.pl?sid=24/02/06/1024216&from=rss)
 
 ## [Archives](archives/index.md)
 
