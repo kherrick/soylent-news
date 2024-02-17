@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-02-17](index.md)
+
+* [2024-02-17, 03:28:00](https://soylentnews.org/article.pl?sid=24/02/16/0129233&from=rss) - [Microsoft Starts Testing Windows 11 24H2 as This Year's Big Update Takes Shape](https://soylentnews.org/article.pl?sid=24/02/16/0129233&from=rss)
