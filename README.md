@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-19, 02:30:00](https://soylentnews.org/article.pl?sid=24/02/18/0055251&from=rss) - [How Did the First Human Settlers of the Canary Islands Survive a Millennium of Isolation?](https://soylentnews.org/article.pl?sid=24/02/18/0055251&from=rss)
 * [2024-02-18, 22:08:00](https://soylentnews.org/article.pl?sid=24/02/17/1622216&from=rss) - [Responsible Technology Use in the AI Age](https://soylentnews.org/article.pl?sid=24/02/17/1622216&from=rss)
 * [2024-02-18, 17:23:00](https://soylentnews.org/article.pl?sid=24/02/17/1618210&from=rss) - [Nginx Core Developer Quits Project in Security Dispute, Starts \"Freenginx\" Fork](https://soylentnews.org/article.pl?sid=24/02/17/1618210&from=rss)
 * [2024-02-18, 12:38:00](https://soylentnews.org/article.pl?sid=24/02/17/1545205&from=rss) - [Traces of Stone Age Hunter-Gatherers Discovered in the Baltic Sea](https://soylentnews.org/article.pl?sid=24/02/17/1545205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-10, 02:49:00](https://soylentnews.org/article.pl?sid=24/02/09/0217231&from=rss) - [I Bought a Flip Phone and Tried to Get by Without My Smartphone. Here's How That Went.](https://soylentnews.org/article.pl?sid=24/02/09/0217231&from=rss)
 * [2024-02-09, 22:04:00](https://soylentnews.org/article.pl?sid=24/02/07/1627205&from=rss) - [$10,000 For A $3,500 Apple Vision Pro? Scalpers Mark Up Apple's Headset](https://soylentnews.org/article.pl?sid=24/02/07/1627205&from=rss)
 * [2024-02-09, 17:18:00](https://soylentnews.org/article.pl?sid=24/02/07/1620221&from=rss) - [Humanity's Most Distant Space Probe Jeopardized by Computer Glitch](https://soylentnews.org/article.pl?sid=24/02/07/1620221&from=rss)
-* [2024-02-09, 12:37:00](https://soylentnews.org/article.pl?sid=24/02/07/1613229&from=rss) - [IPv4 Address Rentals To Mint Millions Of Dollars For AWS](https://soylentnews.org/article.pl?sid=24/02/07/1613229&from=rss)
 
 ## [Archives](archives/index.md)
 
