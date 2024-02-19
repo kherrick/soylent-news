@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-19, 16:00:00](https://soylentnews.org/article.pl?sid=24/02/18/0155231&from=rss) - [Scientists Aghast at Bizarre AI Rat With Huge Genitals in Peer-Reviewed Article](https://soylentnews.org/article.pl?sid=24/02/18/0155231&from=rss)
 * [2024-02-19, 11:22:00](https://soylentnews.org/article.pl?sid=24/02/18/0123237&from=rss) - [A New Look at our Linguistic Roots](https://soylentnews.org/article.pl?sid=24/02/18/0123237&from=rss)
 * [2024-02-19, 06:55:00](https://soylentnews.org/article.pl?sid=24/02/18/011233&from=rss) - [Wooden Satellite Getting Ready to Launch](https://soylentnews.org/article.pl?sid=24/02/18/011233&from=rss)
 * [2024-02-19, 02:30:00](https://soylentnews.org/article.pl?sid=24/02/18/0055251&from=rss) - [How Did the First Human Settlers of the Canary Islands Survive a Millennium of Isolation?](https://soylentnews.org/article.pl?sid=24/02/18/0055251&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-10, 17:06:00](https://soylentnews.org/article.pl?sid=24/02/09/077239&from=rss) - [It's True, Happiness Doesn't Cost Much](https://soylentnews.org/article.pl?sid=24/02/09/077239&from=rss)
 * [2024-02-10, 12:20:00](https://soylentnews.org/article.pl?sid=24/02/09/0237247&from=rss) - [Disney, Hulu Follow Netflix In Password Sharing Crackdown](https://soylentnews.org/article.pl?sid=24/02/09/0237247&from=rss)
 * [2024-02-10, 07:34:00](https://soylentnews.org/article.pl?sid=24/02/09/0225240&from=rss) - [Raspberry Pi Pico Cracks Bitlocker In Under A Minute](https://soylentnews.org/article.pl?sid=24/02/09/0225240&from=rss)
-* [2024-02-10, 02:49:00](https://soylentnews.org/article.pl?sid=24/02/09/0217231&from=rss) - [I Bought a Flip Phone and Tried to Get by Without My Smartphone. Here's How That Went.](https://soylentnews.org/article.pl?sid=24/02/09/0217231&from=rss)
 
 ## [Archives](archives/index.md)
 
