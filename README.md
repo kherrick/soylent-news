@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-20, 10:58:00](https://soylentnews.org/article.pl?sid=24/02/18/1840247&from=rss) - [Acoustic Invention Enhances Ultrasound to Access Enclosed Metal Spaces](https://soylentnews.org/article.pl?sid=24/02/18/1840247&from=rss)
 * [2024-02-20, 06:13:00](https://soylentnews.org/article.pl?sid=24/02/18/1554214&from=rss) - [Microsoft Aims to Equip Two Million People in India With AI Skills by 2025](https://soylentnews.org/article.pl?sid=24/02/18/1554214&from=rss)
 * [2024-02-20, 01:30:00](https://soylentnews.org/article.pl?sid=24/02/18/1152245&from=rss) - [What the Harvard and Boeing Boards Teach Us About Groupthink](https://soylentnews.org/article.pl?sid=24/02/18/1152245&from=rss)
 * [2024-02-19, 20:48:00](https://soylentnews.org/article.pl?sid=24/02/18/1150227&from=rss) - [Mysterious ‘MMS Fingerprint’ Hack Used by Spyware Firm NSO Group Revealed](https://soylentnews.org/article.pl?sid=24/02/18/1150227&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-11, 14:23:00](https://soylentnews.org/article.pl?sid=24/02/10/194227&from=rss) - [Alien Invasion: Non-Native Earthworms Threaten Ecosystems](https://soylentnews.org/article.pl?sid=24/02/10/194227&from=rss)
 * [2024-02-11, 09:38:00](https://soylentnews.org/article.pl?sid=24/02/10/0153223&from=rss) - [AI Deployed Nukes 'To Have Peace in the World' in Tense War Simulation](https://soylentnews.org/article.pl?sid=24/02/10/0153223&from=rss)
 * [2024-02-11, 04:34:00](https://soylentnews.org/article.pl?sid=24/02/10/0128204&from=rss) - [AMD Sees Surge in CPU Revenue Share, Thanks to Epyc and Ryzen Processor Demand](https://soylentnews.org/article.pl?sid=24/02/10/0128204&from=rss)
-* [2024-02-10, 21:48:00](https://soylentnews.org/article.pl?sid=24/02/09/0711221&from=rss) - [How Could Laser-Driven Lightsails Remain Stable?](https://soylentnews.org/article.pl?sid=24/02/09/0711221&from=rss)
 
 ## [Archives](archives/index.md)
 
