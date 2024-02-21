@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-21, 16:26:00](https://soylentnews.org/article.pl?sid=24/02/20/1149204&from=rss) - [Targeting 'Undruggable' Proteins Promises New Approach for Treating Neurodegenerative Diseases](https://soylentnews.org/article.pl?sid=24/02/20/1149204&from=rss)
 * [2024-02-21, 11:42:00](https://soylentnews.org/article.pl?sid=24/02/20/1141230&from=rss) - [SETI Institute Employs SETI Ellipsoid Technique for Searching for Signals From Distant Civilizations](https://soylentnews.org/article.pl?sid=24/02/20/1141230&from=rss)
 * [2024-02-21, 06:57:00](https://soylentnews.org/article.pl?sid=24/02/20/0011221&from=rss) - [Facebook £3bn Legal Action Given Go-ahead in London](https://soylentnews.org/article.pl?sid=24/02/20/0011221&from=rss)
 * [2024-02-21, 02:13:00](https://soylentnews.org/article.pl?sid=24/02/19/2340254&from=rss) - [Study Shows Background Checks Don't Always Check Out](https://soylentnews.org/article.pl?sid=24/02/19/2340254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-12, 18:52:00](https://soylentnews.org/article.pl?sid=24/02/11/1048248&from=rss) - [US Climate Scientist Michael Mann Wins $1m in Defamation Lawsuit](https://soylentnews.org/article.pl?sid=24/02/11/1048248&from=rss)
 * [2024-02-12, 14:05:00](https://soylentnews.org/article.pl?sid=24/02/11/092256&from=rss) - [Meta And Tiktok Sue To Get Out Of Paying The EU's Fee For Policing Content](https://soylentnews.org/article.pl?sid=24/02/11/092256&from=rss)
 * [2024-02-12, 09:20:00](https://soylentnews.org/article.pl?sid=24/02/11/0854205&from=rss) - [UK's Jet Nuclear Fusion Reactor Sets New World Record for Energy Output](https://soylentnews.org/article.pl?sid=24/02/11/0854205&from=rss)
-* [2024-02-12, 04:38:00](https://soylentnews.org/article.pl?sid=24/02/11/0847227&from=rss) - [Google’s Use Of Student Data Could Effectively Ban Chromebooks From Denmark Schools](https://soylentnews.org/article.pl?sid=24/02/11/0847227&from=rss)
 
 ## [Archives](archives/index.md)
 
