@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-21, 06:57:00](https://soylentnews.org/article.pl?sid=24/02/20/0011221&from=rss) - [Facebook £3bn Legal Action Given Go-ahead in London](https://soylentnews.org/article.pl?sid=24/02/20/0011221&from=rss)
 * [2024-02-21, 02:13:00](https://soylentnews.org/article.pl?sid=24/02/19/2340254&from=rss) - [Study Shows Background Checks Don't Always Check Out](https://soylentnews.org/article.pl?sid=24/02/19/2340254&from=rss)
 * [2024-02-20, 21:27:00](https://soylentnews.org/article.pl?sid=24/02/18/1849239&from=rss) - [Reverse Engineering a Forgotten 1970s Intel Dual Core Beast: 8271, a New ISA](https://soylentnews.org/article.pl?sid=24/02/18/1849239&from=rss)
 * [2024-02-20, 15:42:00](https://soylentnews.org/article.pl?sid=24/02/18/1844224&from=rss) - [One Bad Packet Can Bring Down Vulnerable DNS Due to DNSSEC](https://soylentnews.org/article.pl?sid=24/02/18/1844224&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-12, 09:20:00](https://soylentnews.org/article.pl?sid=24/02/11/0854205&from=rss) - [UK's Jet Nuclear Fusion Reactor Sets New World Record for Energy Output](https://soylentnews.org/article.pl?sid=24/02/11/0854205&from=rss)
 * [2024-02-12, 04:38:00](https://soylentnews.org/article.pl?sid=24/02/11/0847227&from=rss) - [Google’s Use Of Student Data Could Effectively Ban Chromebooks From Denmark Schools](https://soylentnews.org/article.pl?sid=24/02/11/0847227&from=rss)
 * [2024-02-11, 23:53:00](https://soylentnews.org/article.pl?sid=24/02/10/1912250&from=rss) - [Are We All Technosexuals Now?](https://soylentnews.org/article.pl?sid=24/02/10/1912250&from=rss)
-* [2024-02-11, 19:12:00](https://soylentnews.org/article.pl?sid=24/02/10/197252&from=rss) - [Intel 286 Secrets: ICE Mode and 'F1 0F 04'](https://soylentnews.org/article.pl?sid=24/02/10/197252&from=rss)
 
 ## [Archives](archives/index.md)
 
