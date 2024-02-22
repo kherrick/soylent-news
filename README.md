@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-22, 02:05:00](https://soylentnews.org/article.pl?sid=24/02/20/1156230&from=rss) - [Widely Used Machine Learning Models Reproduce Dataset Bias: Study](https://soylentnews.org/article.pl?sid=24/02/20/1156230&from=rss)
 * [2024-02-21, 21:12:00](https://soylentnews.org/article.pl?sid=24/02/20/1713232&from=rss) - [Google Lays Off Thousands More Employees Despite Record Profits](https://soylentnews.org/article.pl?sid=24/02/20/1713232&from=rss)
 * [2024-02-21, 16:26:00](https://soylentnews.org/article.pl?sid=24/02/20/1149204&from=rss) - [Targeting 'Undruggable' Proteins Promises New Approach for Treating Neurodegenerative Diseases](https://soylentnews.org/article.pl?sid=24/02/20/1149204&from=rss)
 * [2024-02-21, 11:42:00](https://soylentnews.org/article.pl?sid=24/02/20/1141230&from=rss) - [SETI Institute Employs SETI Ellipsoid Technique for Searching for Signals From Distant Civilizations](https://soylentnews.org/article.pl?sid=24/02/20/1141230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-13, 04:17:00](https://soylentnews.org/article.pl?sid=24/02/11/1559204&from=rss) - [Odors May Prompt Certain Brain Cells to Make Decisions](https://soylentnews.org/article.pl?sid=24/02/11/1559204&from=rss)
 * [2024-02-12, 23:35:00](https://soylentnews.org/article.pl?sid=24/02/11/1055243&from=rss) - [Viagra And Similar Drugs Might Help Keep Alzheimer's At Bay](https://soylentnews.org/article.pl?sid=24/02/11/1055243&from=rss)
 * [2024-02-12, 18:52:00](https://soylentnews.org/article.pl?sid=24/02/11/1048248&from=rss) - [US Climate Scientist Michael Mann Wins $1m in Defamation Lawsuit](https://soylentnews.org/article.pl?sid=24/02/11/1048248&from=rss)
-* [2024-02-12, 14:05:00](https://soylentnews.org/article.pl?sid=24/02/11/092256&from=rss) - [Meta And Tiktok Sue To Get Out Of Paying The EU's Fee For Policing Content](https://soylentnews.org/article.pl?sid=24/02/11/092256&from=rss)
 
 ## [Archives](archives/index.md)
 
