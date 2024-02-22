@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-22, 16:13:00](https://soylentnews.org/article.pl?sid=24/02/21/0520249&from=rss) - [Bumpy Solar Cells Could Harvest Up to 66% More Energy](https://soylentnews.org/article.pl?sid=24/02/21/0520249&from=rss)
 * [2024-02-22, 11:28:00](https://soylentnews.org/article.pl?sid=24/02/21/051214&from=rss) - [As Newspapers Close, Nonprofit Executive Salaries Go Way Up](https://soylentnews.org/article.pl?sid=24/02/21/051214&from=rss)
 * [2024-02-22, 06:46:00](https://soylentnews.org/article.pl?sid=24/02/20/1829230&from=rss) - [Why the New York Times Might Win its Copyright Lawsuit Against OpenAI](https://soylentnews.org/article.pl?sid=24/02/20/1829230&from=rss)
 * [2024-02-22, 02:05:00](https://soylentnews.org/article.pl?sid=24/02/20/1156230&from=rss) - [Widely Used Machine Learning Models Reproduce Dataset Bias: Study](https://soylentnews.org/article.pl?sid=24/02/20/1156230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-13, 13:53:00](https://soylentnews.org/article.pl?sid=24/02/12/1616246&from=rss) - [Contents of Charles Darwin’s Entire Personal Library Revealed for First Time](https://soylentnews.org/article.pl?sid=24/02/12/1616246&from=rss)
 * [2024-02-13, 11:38:00](https://soylentnews.org/article.pl?sid=24/02/13/110209&from=rss) - [Gershwin’s “Rhapsody in Blue” at 100](https://soylentnews.org/article.pl?sid=24/02/13/110209&from=rss)
 * [2024-02-13, 09:11:00](https://soylentnews.org/article.pl?sid=24/02/11/162224&from=rss) - [German Court Bans Sales Of Select Intel CPUs In Germany Over Patent Dispute](https://soylentnews.org/article.pl?sid=24/02/11/162224&from=rss)
-* [2024-02-13, 04:17:00](https://soylentnews.org/article.pl?sid=24/02/11/1559204&from=rss) - [Odors May Prompt Certain Brain Cells to Make Decisions](https://soylentnews.org/article.pl?sid=24/02/11/1559204&from=rss)
 
 ## [Archives](archives/index.md)
 
