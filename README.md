@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-23, 11:12:00](https://soylentnews.org/article.pl?sid=24/02/22/0320230&from=rss) - [OpenAI Teases a New Generative Video Model Called Sora](https://soylentnews.org/article.pl?sid=24/02/22/0320230&from=rss)
 * [2024-02-23, 06:27:00](https://soylentnews.org/article.pl?sid=24/02/22/0218210&from=rss) - [Measles Cases at South Florida School Concern Pediatricians](https://soylentnews.org/article.pl?sid=24/02/22/0218210&from=rss)
 * [2024-02-23, 01:43:00](https://soylentnews.org/article.pl?sid=24/02/22/0214251&from=rss) - [Microsoft, OpenAI Say U.S. Rivals Use Artificial Intelligence in Hacking](https://soylentnews.org/article.pl?sid=24/02/22/0214251&from=rss)
 * [2024-02-22, 20:55:00](https://soylentnews.org/article.pl?sid=24/02/21/1447216&from=rss) - [This Tiny, Tamper-Proof ID Tag Can Authenticate Almost Anything](https://soylentnews.org/article.pl?sid=24/02/21/1447216&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-14, 09:01:00](https://soylentnews.org/article.pl?sid=24/02/13/1852203&from=rss) - [New USB Stick has a Self-Destruct Feature](https://soylentnews.org/article.pl?sid=24/02/13/1852203&from=rss)
 * [2024-02-14, 04:16:00](https://soylentnews.org/article.pl?sid=24/02/13/1847235&from=rss) - [Damn Small Linux Back With an Alpha Version in 2024, Increases Size to ~700 MB](https://soylentnews.org/article.pl?sid=24/02/13/1847235&from=rss)
 * [2024-02-13, 23:24:00](https://soylentnews.org/article.pl?sid=24/02/12/1622205&from=rss) - [Ancient DNA Helps Researchers Elucidate the Structure of a Prehistoric Community](https://soylentnews.org/article.pl?sid=24/02/12/1622205&from=rss)
-* [2024-02-13, 18:38:00](https://soylentnews.org/article.pl?sid=24/02/12/1619236&from=rss) - [A Sleuthing Enthusiast Says He Found the US Military's X-37B Spaceplane](https://soylentnews.org/article.pl?sid=24/02/12/1619236&from=rss)
 
 ## [Archives](archives/index.md)
 
