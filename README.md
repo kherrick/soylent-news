@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-23, 18:11:00](https://soylentnews.org/article.pl?sid=24/02/22/1511216&from=rss) - [News Roundup](https://soylentnews.org/article.pl?sid=24/02/22/1511216&from=rss)
 * [2024-02-23, 15:59:00](https://soylentnews.org/article.pl?sid=24/02/22/1255240&from=rss) - [Near-Record Winds Over the Northeast Push Passenger Planes to Speeds Over 800 mph (1300 km/hr)](https://soylentnews.org/article.pl?sid=24/02/22/1255240&from=rss)
 * [2024-02-23, 13:00:00](https://soylentnews.org/article.pl?sid=24/02/23/1245244&from=rss) - [UPDATE:  The Odysseus has landed!](https://soylentnews.org/article.pl?sid=24/02/23/1245244&from=rss)
 * [2024-02-23, 11:12:00](https://soylentnews.org/article.pl?sid=24/02/22/0320230&from=rss) - [OpenAI Teases a New Generative Video Model Called Sora](https://soylentnews.org/article.pl?sid=24/02/22/0320230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-14, 23:12:00](https://soylentnews.org/article.pl?sid=24/02/13/194210&from=rss) - [Cloudflare Defeats Patent Troll Sable at Trial](https://soylentnews.org/article.pl?sid=24/02/13/194210&from=rss)
 * [2024-02-14, 18:28:00](https://soylentnews.org/article.pl?sid=24/02/13/190214&from=rss) - [Owners Say Rust Forming on Tesla's Bullet Proof Cyber Truck](https://soylentnews.org/article.pl?sid=24/02/13/190214&from=rss)
 * [2024-02-14, 13:44:00](https://soylentnews.org/article.pl?sid=24/02/13/1857219&from=rss) - [“Very Sick” Pet Cat Gave Oregon Resident Case of Bubonic Plague](https://soylentnews.org/article.pl?sid=24/02/13/1857219&from=rss)
-* [2024-02-14, 09:01:00](https://soylentnews.org/article.pl?sid=24/02/13/1852203&from=rss) - [New USB Stick has a Self-Destruct Feature](https://soylentnews.org/article.pl?sid=24/02/13/1852203&from=rss)
 
 ## [Archives](archives/index.md)
 
