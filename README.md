@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-23, 01:43:00](https://soylentnews.org/article.pl?sid=24/02/22/0214251&from=rss) - [Microsoft, OpenAI Say U.S. Rivals Use Artificial Intelligence in Hacking](https://soylentnews.org/article.pl?sid=24/02/22/0214251&from=rss)
 * [2024-02-22, 20:55:00](https://soylentnews.org/article.pl?sid=24/02/21/1447216&from=rss) - [This Tiny, Tamper-Proof ID Tag Can Authenticate Almost Anything](https://soylentnews.org/article.pl?sid=24/02/21/1447216&from=rss)
 * [2024-02-22, 16:13:00](https://soylentnews.org/article.pl?sid=24/02/21/0520249&from=rss) - [Bumpy Solar Cells Could Harvest Up to 66% More Energy](https://soylentnews.org/article.pl?sid=24/02/21/0520249&from=rss)
 * [2024-02-22, 11:28:00](https://soylentnews.org/article.pl?sid=24/02/21/051214&from=rss) - [As Newspapers Close, Nonprofit Executive Salaries Go Way Up](https://soylentnews.org/article.pl?sid=24/02/21/051214&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-13, 23:24:00](https://soylentnews.org/article.pl?sid=24/02/12/1622205&from=rss) - [Ancient DNA Helps Researchers Elucidate the Structure of a Prehistoric Community](https://soylentnews.org/article.pl?sid=24/02/12/1622205&from=rss)
 * [2024-02-13, 18:38:00](https://soylentnews.org/article.pl?sid=24/02/12/1619236&from=rss) - [A Sleuthing Enthusiast Says He Found the US Military's X-37B Spaceplane](https://soylentnews.org/article.pl?sid=24/02/12/1619236&from=rss)
 * [2024-02-13, 13:53:00](https://soylentnews.org/article.pl?sid=24/02/12/1616246&from=rss) - [Contents of Charles Darwin’s Entire Personal Library Revealed for First Time](https://soylentnews.org/article.pl?sid=24/02/12/1616246&from=rss)
-* [2024-02-13, 11:38:00](https://soylentnews.org/article.pl?sid=24/02/13/110209&from=rss) - [Gershwin’s “Rhapsody in Blue” at 100](https://soylentnews.org/article.pl?sid=24/02/13/110209&from=rss)
 
 ## [Archives](archives/index.md)
 
