@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-24, 20:36:00](https://soylentnews.org/article.pl?sid=24/02/23/1557245&from=rss) - [Fasting-Like Diet Lowers Risk Factors for Disease, Reduces Biological Age in Humans: Study](https://soylentnews.org/article.pl?sid=24/02/23/1557245&from=rss)
 * [2024-02-24, 15:51:00](https://soylentnews.org/article.pl?sid=24/02/23/1552247&from=rss) - [Reddit Sells Training Data to Unnamed AI Company Ahead of IPO](https://soylentnews.org/article.pl?sid=24/02/23/1552247&from=rss)
 * [2024-02-24, 11:08:00](https://soylentnews.org/article.pl?sid=24/02/23/1251211&from=rss) - [Cyberattack Cripples U.S. Medical Prescribing System](https://soylentnews.org/article.pl?sid=24/02/23/1251211&from=rss)
 * [2024-02-24, 06:19:00](https://soylentnews.org/article.pl?sid=24/02/23/0514241&from=rss) - [AI Will Let Us Read 'Lost' Ancient Works in the Library at Herculaneum for the First Time](https://soylentnews.org/article.pl?sid=24/02/23/0514241&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-16, 03:49:00](https://soylentnews.org/article.pl?sid=24/02/15/020239&from=rss) - [SWOT Analysis of ChatGPT in Computer Science Education](https://soylentnews.org/article.pl?sid=24/02/15/020239&from=rss)
 * [2024-02-15, 23:01:00](https://soylentnews.org/article.pl?sid=24/02/15/0153258&from=rss) - [Lawsuit Accuses Anna’s Archive of Hacking WorldCat, Stealing 2.2 TB Data](https://soylentnews.org/article.pl?sid=24/02/15/0153258&from=rss)
 * [2024-02-15, 18:15:00](https://soylentnews.org/article.pl?sid=24/02/14/1336212&from=rss) - [Daily Telescope: A Solar Eclipse From the Surface of Mars](https://soylentnews.org/article.pl?sid=24/02/14/1336212&from=rss)
-* [2024-02-15, 13:30:00](https://soylentnews.org/article.pl?sid=24/02/14/1333214&from=rss) - [Today's YouTubers Are Repeating the Mistakes of Yesterday's Bloggers](https://soylentnews.org/article.pl?sid=24/02/14/1333214&from=rss)
 
 ## [Archives](archives/index.md)
 
