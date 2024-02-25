@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-25, 06:13:00](https://soylentnews.org/article.pl?sid=24/02/23/1611232&from=rss) - [“Corolla Killer:” BYD Launches $US15,000 EV in Direct Attack on Legacy Makers](https://soylentnews.org/article.pl?sid=24/02/23/1611232&from=rss)
 * [2024-02-25, 01:24:00](https://soylentnews.org/article.pl?sid=24/02/23/167236&from=rss) - [Court Blocks $1 Billion Copyright Ruling That Punished ISP for its Users’ Piracy](https://soylentnews.org/article.pl?sid=24/02/23/167236&from=rss)
 * [2024-02-24, 20:36:00](https://soylentnews.org/article.pl?sid=24/02/23/1557245&from=rss) - [Fasting-Like Diet Lowers Risk Factors for Disease, Reduces Biological Age in Humans: Study](https://soylentnews.org/article.pl?sid=24/02/23/1557245&from=rss)
 * [2024-02-24, 15:51:00](https://soylentnews.org/article.pl?sid=24/02/23/1552247&from=rss) - [Reddit Sells Training Data to Unnamed AI Company Ahead of IPO](https://soylentnews.org/article.pl?sid=24/02/23/1552247&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-16, 13:15:00](https://soylentnews.org/article.pl?sid=24/02/15/1136253&from=rss) - [Daily Gold Nanocrystal Drink Promising as MS and Parkinson's Treatment](https://soylentnews.org/article.pl?sid=24/02/15/1136253&from=rss)
 * [2024-02-16, 08:33:00](https://soylentnews.org/article.pl?sid=24/02/15/024233&from=rss) - [Nvidia Surpasses Amazon in Market Cap; Nvidia CEO Calls for “Sovereign AI”](https://soylentnews.org/article.pl?sid=24/02/15/024233&from=rss)
 * [2024-02-16, 03:49:00](https://soylentnews.org/article.pl?sid=24/02/15/020239&from=rss) - [SWOT Analysis of ChatGPT in Computer Science Education](https://soylentnews.org/article.pl?sid=24/02/15/020239&from=rss)
-* [2024-02-15, 23:01:00](https://soylentnews.org/article.pl?sid=24/02/15/0153258&from=rss) - [Lawsuit Accuses Anna’s Archive of Hacking WorldCat, Stealing 2.2 TB Data](https://soylentnews.org/article.pl?sid=24/02/15/0153258&from=rss)
 
 ## [Archives](archives/index.md)
 
