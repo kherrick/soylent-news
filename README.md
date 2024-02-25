@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-25, 20:35:00](https://soylentnews.org/article.pl?sid=24/02/24/1437214&from=rss) - [The Invention of the Decimal Dot That Changed Mathematics Forever](https://soylentnews.org/article.pl?sid=24/02/24/1437214&from=rss)
 * [2024-02-25, 15:47:00](https://soylentnews.org/article.pl?sid=24/02/24/1418256&from=rss) - [Will Smith Parodies Viral AI-Generated Video by Actually Eating Spaghetti](https://soylentnews.org/article.pl?sid=24/02/24/1418256&from=rss)
 * [2024-02-25, 11:03:00](https://soylentnews.org/article.pl?sid=24/02/23/1618208&from=rss) - [Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks](https://soylentnews.org/article.pl?sid=24/02/23/1618208&from=rss)
 * [2024-02-25, 06:13:00](https://soylentnews.org/article.pl?sid=24/02/23/1611232&from=rss) - [“Corolla Killer:” BYD Launches $US15,000 EV in Direct Attack on Legacy Makers](https://soylentnews.org/article.pl?sid=24/02/23/1611232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-16, 22:44:00](https://soylentnews.org/article.pl?sid=24/02/15/1145250&from=rss) - [Harnessing Light-Powered Nanoscale Electrical Currents To Propel Emerging Technologies](https://soylentnews.org/article.pl?sid=24/02/15/1145250&from=rss)
 * [2024-02-16, 18:00:00](https://soylentnews.org/article.pl?sid=24/02/15/1141241&from=rss) - [IBM, Sonic Delay Lines, and the History of the 80×24 Display](https://soylentnews.org/article.pl?sid=24/02/15/1141241&from=rss)
 * [2024-02-16, 16:33:00](https://soylentnews.org/politics/article.pl?sid=24/02/16/1615214&from=rss) - [Alexey Navalny Has Died](https://soylentnews.org/politics/article.pl?sid=24/02/16/1615214&from=rss)
-* [2024-02-16, 13:15:00](https://soylentnews.org/article.pl?sid=24/02/15/1136253&from=rss) - [Daily Gold Nanocrystal Drink Promising as MS and Parkinson's Treatment](https://soylentnews.org/article.pl?sid=24/02/15/1136253&from=rss)
 
 ## [Archives](archives/index.md)
 
