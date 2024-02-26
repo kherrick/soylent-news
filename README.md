@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-26, 06:07:00](https://soylentnews.org/article.pl?sid=24/02/25/1317252&from=rss) - [Black Hole Has Mass of 17 Billion Suns and It Adds a New One Every Day](https://soylentnews.org/article.pl?sid=24/02/25/1317252&from=rss)
 * [2024-02-26, 01:18:00](https://soylentnews.org/article.pl?sid=24/02/25/0424254&from=rss) - [iMessage Gets a Major Makeover That Puts It on Equal Footing With Signal](https://soylentnews.org/article.pl?sid=24/02/25/0424254&from=rss)
 * [2024-02-25, 20:35:00](https://soylentnews.org/article.pl?sid=24/02/24/1437214&from=rss) - [The Invention of the Decimal Dot That Changed Mathematics Forever](https://soylentnews.org/article.pl?sid=24/02/24/1437214&from=rss)
 * [2024-02-25, 15:47:00](https://soylentnews.org/article.pl?sid=24/02/24/1418256&from=rss) - [Will Smith Parodies Viral AI-Generated Video by Actually Eating Spaghetti](https://soylentnews.org/article.pl?sid=24/02/24/1418256&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-17, 08:14:00](https://soylentnews.org/article.pl?sid=24/02/16/0136238&from=rss) - [US Says China's Volt Typhoon Is Readying Destructive Attacks](https://soylentnews.org/article.pl?sid=24/02/16/0136238&from=rss)
 * [2024-02-17, 03:28:00](https://soylentnews.org/article.pl?sid=24/02/16/0129233&from=rss) - [Microsoft Starts Testing Windows 11 24H2 as This Year's Big Update Takes Shape](https://soylentnews.org/article.pl?sid=24/02/16/0129233&from=rss)
 * [2024-02-16, 22:44:00](https://soylentnews.org/article.pl?sid=24/02/15/1145250&from=rss) - [Harnessing Light-Powered Nanoscale Electrical Currents To Propel Emerging Technologies](https://soylentnews.org/article.pl?sid=24/02/15/1145250&from=rss)
-* [2024-02-16, 18:00:00](https://soylentnews.org/article.pl?sid=24/02/15/1141241&from=rss) - [IBM, Sonic Delay Lines, and the History of the 80×24 Display](https://soylentnews.org/article.pl?sid=24/02/15/1141241&from=rss)
 
 ## [Archives](archives/index.md)
 
