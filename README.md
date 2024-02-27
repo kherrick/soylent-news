@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-27, 01:13:00](https://soylentnews.org/article.pl?sid=24/02/25/1544206&from=rss) - [Windows-as-a-Nuisance: How I Clean Up a “Clean Install” of Windows 11 and Edge](https://soylentnews.org/article.pl?sid=24/02/25/1544206&from=rss)
 * [2024-02-26, 20:27:00](https://soylentnews.org/article.pl?sid=24/02/25/1330232&from=rss) - [ADHD Linked to Evolutionary Success in Ancient Humans](https://soylentnews.org/article.pl?sid=24/02/25/1330232&from=rss)
 * [2024-02-26, 15:41:00](https://soylentnews.org/article.pl?sid=24/02/25/1322211&from=rss) - [Preview Version of Microsoft OS/2 Was Sold for $650 on EBay](https://soylentnews.org/article.pl?sid=24/02/25/1322211&from=rss)
 * [2024-02-26, 10:54:00](https://soylentnews.org/article.pl?sid=24/02/25/1320209&from=rss) - [Lawsuit Claims Tinder and Hinge Are Designed to Get Users Hooked](https://soylentnews.org/article.pl?sid=24/02/25/1320209&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-18, 03:08:00](https://soylentnews.org/article.pl?sid=24/02/17/159258&from=rss) - [Prime Video Cuts Dolby Vision, Atmos Support From Ad Tier—and Didn't Tell Subs](https://soylentnews.org/article.pl?sid=24/02/17/159258&from=rss)
 * [2024-02-17, 22:23:00](https://soylentnews.org/article.pl?sid=24/02/16/1812231&from=rss) - [Private US Moon Lander Successfully Launches 24 Hours After Flight Was Delayed](https://soylentnews.org/article.pl?sid=24/02/16/1812231&from=rss)
 * [2024-02-17, 17:35:00](https://soylentnews.org/article.pl?sid=24/02/16/0848220&from=rss) - [Headlights are Blinding us. Here's why it's Mostly an American Problem](https://soylentnews.org/article.pl?sid=24/02/16/0848220&from=rss)
-* [2024-02-17, 12:58:00](https://soylentnews.org/article.pl?sid=24/02/16/0141235&from=rss) - [AI-Powered Romantic Chatbots Are a Privacy Nightmare](https://soylentnews.org/article.pl?sid=24/02/16/0141235&from=rss)
 
 ## [Archives](archives/index.md)
 
