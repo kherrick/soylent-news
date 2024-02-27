@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-27, 20:19:00](https://soylentnews.org/article.pl?sid=24/02/25/161222&from=rss) - [Tyler Perry Puts $800 Million Studio Expansion on Hold Because of OpenAI's Sora](https://soylentnews.org/article.pl?sid=24/02/25/161222&from=rss)
 * [2024-02-27, 15:31:00](https://soylentnews.org/article.pl?sid=24/02/25/1557247&from=rss) - [Twitter Security Staff Kept Firm in Compliance by Disobeying Musk, FTC Says](https://soylentnews.org/article.pl?sid=24/02/25/1557247&from=rss)
 * [2024-02-27, 10:47:00](https://soylentnews.org/article.pl?sid=24/02/25/1552245&from=rss) - [Signal Now Lets You Keep Your Phone Number Private With the Launch of Usernames](https://soylentnews.org/article.pl?sid=24/02/25/1552245&from=rss)
 * [2024-02-27, 06:04:00](https://soylentnews.org/article.pl?sid=24/02/25/1545232&from=rss) - [Bizarre Worm-Lizard’s Secrets Revealed in CT Scans](https://soylentnews.org/article.pl?sid=24/02/25/1545232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-18, 22:08:00](https://soylentnews.org/article.pl?sid=24/02/17/1622216&from=rss) - [Responsible Technology Use in the AI Age](https://soylentnews.org/article.pl?sid=24/02/17/1622216&from=rss)
 * [2024-02-18, 17:23:00](https://soylentnews.org/article.pl?sid=24/02/17/1618210&from=rss) - [Nginx Core Developer Quits Project in Security Dispute, Starts \"Freenginx\" Fork](https://soylentnews.org/article.pl?sid=24/02/17/1618210&from=rss)
 * [2024-02-18, 12:38:00](https://soylentnews.org/article.pl?sid=24/02/17/1545205&from=rss) - [Traces of Stone Age Hunter-Gatherers Discovered in the Baltic Sea](https://soylentnews.org/article.pl?sid=24/02/17/1545205&from=rss)
-* [2024-02-18, 07:52:00](https://soylentnews.org/article.pl?sid=24/02/17/1520215&from=rss) - [Air Canada Must Honor Refund Policy Invented by Airline's Chatbot](https://soylentnews.org/article.pl?sid=24/02/17/1520215&from=rss)
 
 ## [Archives](archives/index.md)
 
