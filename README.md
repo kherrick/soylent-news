@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-28, 10:34:00](https://soylentnews.org/article.pl?sid=24/02/27/1228232&from=rss) - [Trillions of Tons of Buried Hydrogen: Clean Energy Gold Rush Begins](https://soylentnews.org/article.pl?sid=24/02/27/1228232&from=rss)
 * [2024-02-28, 05:49:00](https://soylentnews.org/article.pl?sid=24/02/27/1222242&from=rss) - [Yelp: It's Gotten Worse Since Google Made Changes to Comply With EU Rules](https://soylentnews.org/article.pl?sid=24/02/27/1222242&from=rss)
 * [2024-02-28, 01:02:00](https://soylentnews.org/article.pl?sid=24/02/26/1336228&from=rss) - [Vending Machine Error Reveals Secret Face Image Database of College Students](https://soylentnews.org/article.pl?sid=24/02/26/1336228&from=rss)
 * [2024-02-27, 20:19:00](https://soylentnews.org/article.pl?sid=24/02/25/161222&from=rss) - [Tyler Perry Puts $800 Million Studio Expansion on Hold Because of OpenAI's Sora](https://soylentnews.org/article.pl?sid=24/02/25/161222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-19, 11:22:00](https://soylentnews.org/article.pl?sid=24/02/18/0123237&from=rss) - [A New Look at our Linguistic Roots](https://soylentnews.org/article.pl?sid=24/02/18/0123237&from=rss)
 * [2024-02-19, 06:55:00](https://soylentnews.org/article.pl?sid=24/02/18/011233&from=rss) - [Wooden Satellite Getting Ready to Launch](https://soylentnews.org/article.pl?sid=24/02/18/011233&from=rss)
 * [2024-02-19, 02:30:00](https://soylentnews.org/article.pl?sid=24/02/18/0055251&from=rss) - [How Did the First Human Settlers of the Canary Islands Survive a Millennium of Isolation?](https://soylentnews.org/article.pl?sid=24/02/18/0055251&from=rss)
-* [2024-02-18, 22:08:00](https://soylentnews.org/article.pl?sid=24/02/17/1622216&from=rss) - [Responsible Technology Use in the AI Age](https://soylentnews.org/article.pl?sid=24/02/17/1622216&from=rss)
 
 ## [Archives](archives/index.md)
 
