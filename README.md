@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-29, 05:35:00](https://soylentnews.org/article.pl?sid=24/02/27/1417245&from=rss) - [Reddit Files to Go Public at Last](https://soylentnews.org/article.pl?sid=24/02/27/1417245&from=rss)
 * [2024-02-29, 00:49:00](https://soylentnews.org/article.pl?sid=24/02/27/1411215&from=rss) - [Researchers Show Classical Computers Can Keep Up With, and Surpass, Their Quantum Counterparts](https://soylentnews.org/article.pl?sid=24/02/27/1411215&from=rss)
 * [2024-02-28, 20:02:00](https://soylentnews.org/article.pl?sid=24/02/27/147242&from=rss) - [New Physical Phenomenon: Altermagnetism](https://soylentnews.org/article.pl?sid=24/02/27/147242&from=rss)
 * [2024-02-28, 15:17:00](https://soylentnews.org/article.pl?sid=24/02/27/1350227&from=rss) - [Quitting Smoking at Any Age Brings Big Health Benefits, Fast](https://soylentnews.org/article.pl?sid=24/02/27/1350227&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-20, 06:13:00](https://soylentnews.org/article.pl?sid=24/02/18/1554214&from=rss) - [Microsoft Aims to Equip Two Million People in India With AI Skills by 2025](https://soylentnews.org/article.pl?sid=24/02/18/1554214&from=rss)
 * [2024-02-20, 01:30:00](https://soylentnews.org/article.pl?sid=24/02/18/1152245&from=rss) - [What the Harvard and Boeing Boards Teach Us About Groupthink](https://soylentnews.org/article.pl?sid=24/02/18/1152245&from=rss)
 * [2024-02-19, 20:48:00](https://soylentnews.org/article.pl?sid=24/02/18/1150227&from=rss) - [Mysterious ‘MMS Fingerprint’ Hack Used by Spyware Firm NSO Group Revealed](https://soylentnews.org/article.pl?sid=24/02/18/1150227&from=rss)
-* [2024-02-19, 16:00:00](https://soylentnews.org/article.pl?sid=24/02/18/0155231&from=rss) - [Scientists Aghast at Bizarre AI Rat With Huge Genitals in Peer-Reviewed Article](https://soylentnews.org/article.pl?sid=24/02/18/0155231&from=rss)
 
 ## [Archives](archives/index.md)
 
