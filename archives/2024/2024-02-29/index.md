@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-02-29](index.md)
+
+* [2024-02-29, 00:49:00](https://soylentnews.org/article.pl?sid=24/02/27/1411215&from=rss) - [Researchers Show Classical Computers Can Keep Up With, and Surpass, Their Quantum Counterparts](https://soylentnews.org/article.pl?sid=24/02/27/1411215&from=rss)

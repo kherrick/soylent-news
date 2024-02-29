@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-29, 00:49:00](https://soylentnews.org/article.pl?sid=24/02/27/1411215&from=rss) - [Researchers Show Classical Computers Can Keep Up With, and Surpass, Their Quantum Counterparts](https://soylentnews.org/article.pl?sid=24/02/27/1411215&from=rss)
 * [2024-02-28, 20:02:00](https://soylentnews.org/article.pl?sid=24/02/27/147242&from=rss) - [New Physical Phenomenon: Altermagnetism](https://soylentnews.org/article.pl?sid=24/02/27/147242&from=rss)
 * [2024-02-28, 15:17:00](https://soylentnews.org/article.pl?sid=24/02/27/1350227&from=rss) - [Quitting Smoking at Any Age Brings Big Health Benefits, Fast](https://soylentnews.org/article.pl?sid=24/02/27/1350227&from=rss)
 * [2024-02-28, 10:34:00](https://soylentnews.org/article.pl?sid=24/02/27/1228232&from=rss) - [Trillions of Tons of Buried Hydrogen: Clean Energy Gold Rush Begins](https://soylentnews.org/article.pl?sid=24/02/27/1228232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-20, 01:30:00](https://soylentnews.org/article.pl?sid=24/02/18/1152245&from=rss) - [What the Harvard and Boeing Boards Teach Us About Groupthink](https://soylentnews.org/article.pl?sid=24/02/18/1152245&from=rss)
 * [2024-02-19, 20:48:00](https://soylentnews.org/article.pl?sid=24/02/18/1150227&from=rss) - [Mysterious ‘MMS Fingerprint’ Hack Used by Spyware Firm NSO Group Revealed](https://soylentnews.org/article.pl?sid=24/02/18/1150227&from=rss)
 * [2024-02-19, 16:00:00](https://soylentnews.org/article.pl?sid=24/02/18/0155231&from=rss) - [Scientists Aghast at Bizarre AI Rat With Huge Genitals in Peer-Reviewed Article](https://soylentnews.org/article.pl?sid=24/02/18/0155231&from=rss)
-* [2024-02-19, 11:22:00](https://soylentnews.org/article.pl?sid=24/02/18/0123237&from=rss) - [A New Look at our Linguistic Roots](https://soylentnews.org/article.pl?sid=24/02/18/0123237&from=rss)
 
 ## [Archives](archives/index.md)
 
