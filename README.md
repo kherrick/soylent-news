@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-02-29, 19:47:00](https://soylentnews.org/article.pl?sid=24/02/28/1822251&from=rss) - [Boeing Missing Key Elements of Safety Culture: FAA Report](https://soylentnews.org/article.pl?sid=24/02/28/1822251&from=rss)
 * [2024-02-29, 15:03:00](https://soylentnews.org/article.pl?sid=24/02/28/1814213&from=rss) - [The First-ever Mission to Pull a Dead Rocket Out of Space Has Just Begun](https://soylentnews.org/article.pl?sid=24/02/28/1814213&from=rss)
 * [2024-02-29, 10:17:00](https://soylentnews.org/article.pl?sid=24/02/28/1230205&from=rss) - [How Your Sensitive Data Can be Sold After a Data Broker Goes Bankrupt](https://soylentnews.org/article.pl?sid=24/02/28/1230205&from=rss)
 * [2024-02-29, 05:35:00](https://soylentnews.org/article.pl?sid=24/02/27/1417245&from=rss) - [Reddit Files to Go Public at Last](https://soylentnews.org/article.pl?sid=24/02/27/1417245&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-20, 21:27:00](https://soylentnews.org/article.pl?sid=24/02/18/1849239&from=rss) - [Reverse Engineering a Forgotten 1970s Intel Dual Core Beast: 8271, a New ISA](https://soylentnews.org/article.pl?sid=24/02/18/1849239&from=rss)
 * [2024-02-20, 15:42:00](https://soylentnews.org/article.pl?sid=24/02/18/1844224&from=rss) - [One Bad Packet Can Bring Down Vulnerable DNS Due to DNSSEC](https://soylentnews.org/article.pl?sid=24/02/18/1844224&from=rss)
 * [2024-02-20, 10:58:00](https://soylentnews.org/article.pl?sid=24/02/18/1840247&from=rss) - [Acoustic Invention Enhances Ultrasound to Access Enclosed Metal Spaces](https://soylentnews.org/article.pl?sid=24/02/18/1840247&from=rss)
-* [2024-02-20, 06:13:00](https://soylentnews.org/article.pl?sid=24/02/18/1554214&from=rss) - [Microsoft Aims to Equip Two Million People in India With AI Skills by 2025](https://soylentnews.org/article.pl?sid=24/02/18/1554214&from=rss)
 
 ## [Archives](archives/index.md)
 

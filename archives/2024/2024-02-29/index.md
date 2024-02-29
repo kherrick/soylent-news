@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 19:47:00](https://soylentnews.org/article.pl?sid=24/02/28/1822251&from=rss) - [Boeing Missing Key Elements of Safety Culture: FAA Report](https://soylentnews.org/article.pl?sid=24/02/28/1822251&from=rss)
 * [2024-02-29, 15:03:00](https://soylentnews.org/article.pl?sid=24/02/28/1814213&from=rss) - [The First-ever Mission to Pull a Dead Rocket Out of Space Has Just Begun](https://soylentnews.org/article.pl?sid=24/02/28/1814213&from=rss)
 * [2024-02-29, 10:17:00](https://soylentnews.org/article.pl?sid=24/02/28/1230205&from=rss) - [How Your Sensitive Data Can be Sold After a Data Broker Goes Bankrupt](https://soylentnews.org/article.pl?sid=24/02/28/1230205&from=rss)
 * [2024-02-29, 05:35:00](https://soylentnews.org/article.pl?sid=24/02/27/1417245&from=rss) - [Reddit Files to Go Public at Last](https://soylentnews.org/article.pl?sid=24/02/27/1417245&from=rss)
