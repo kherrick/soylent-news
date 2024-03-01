@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-01, 14:50:00](https://soylentnews.org/article.pl?sid=24/02/29/0244205&from=rss) - [Pythagoras Was Wrong: There Are No Universal Musical Harmonies, Study Finds](https://soylentnews.org/article.pl?sid=24/02/29/0244205&from=rss)
 * [2024-03-01, 10:05:00](https://soylentnews.org/article.pl?sid=24/02/29/0226227&from=rss) - [An Online Dump of Chinese Hacking Documents Offers a Rare Window Into Pervasive State Surveillance](https://soylentnews.org/article.pl?sid=24/02/29/0226227&from=rss)
 * [2024-03-01, 05:18:00](https://soylentnews.org/article.pl?sid=24/02/29/0220245&from=rss) - [Wendy's Will Experiment With Dynamic Surge Pricing for Food in 2025](https://soylentnews.org/article.pl?sid=24/02/29/0220245&from=rss)
 * [2024-03-01, 00:32:00](https://soylentnews.org/article.pl?sid=24/02/28/1830256&from=rss) - [A New Browser in Town.](https://soylentnews.org/article.pl?sid=24/02/28/1830256&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-21, 16:26:00](https://soylentnews.org/article.pl?sid=24/02/20/1149204&from=rss) - [Targeting 'Undruggable' Proteins Promises New Approach for Treating Neurodegenerative Diseases](https://soylentnews.org/article.pl?sid=24/02/20/1149204&from=rss)
 * [2024-02-21, 11:42:00](https://soylentnews.org/article.pl?sid=24/02/20/1141230&from=rss) - [SETI Institute Employs SETI Ellipsoid Technique for Searching for Signals From Distant Civilizations](https://soylentnews.org/article.pl?sid=24/02/20/1141230&from=rss)
 * [2024-02-21, 06:57:00](https://soylentnews.org/article.pl?sid=24/02/20/0011221&from=rss) - [Facebook £3bn Legal Action Given Go-ahead in London](https://soylentnews.org/article.pl?sid=24/02/20/0011221&from=rss)
-* [2024-02-21, 02:13:00](https://soylentnews.org/article.pl?sid=24/02/19/2340254&from=rss) - [Study Shows Background Checks Don't Always Check Out](https://soylentnews.org/article.pl?sid=24/02/19/2340254&from=rss)
 
 ## [Archives](archives/index.md)
 
