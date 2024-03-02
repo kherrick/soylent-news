@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-02, 05:01:00](https://soylentnews.org/article.pl?sid=24/03/01/0232251&from=rss) - [Some Intelligent Civilizations Will be Trapped on Their Worlds](https://soylentnews.org/article.pl?sid=24/03/01/0232251&from=rss)
 * [2024-03-02, 00:15:00](https://soylentnews.org/article.pl?sid=24/03/01/0143232&from=rss) - [Searching for Search Tools](https://soylentnews.org/article.pl?sid=24/03/01/0143232&from=rss)
 * [2024-03-01, 19:36:00](https://soylentnews.org/article.pl?sid=24/02/29/1947237&from=rss) - [Customers Prefer Text Over Video to Provide Service Feedback](https://soylentnews.org/article.pl?sid=24/02/29/1947237&from=rss)
 * [2024-03-01, 14:50:00](https://soylentnews.org/article.pl?sid=24/02/29/0244205&from=rss) - [Pythagoras Was Wrong: There Are No Universal Musical Harmonies, Study Finds](https://soylentnews.org/article.pl?sid=24/02/29/0244205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-22, 06:46:00](https://soylentnews.org/article.pl?sid=24/02/20/1829230&from=rss) - [Why the New York Times Might Win its Copyright Lawsuit Against OpenAI](https://soylentnews.org/article.pl?sid=24/02/20/1829230&from=rss)
 * [2024-02-22, 02:05:00](https://soylentnews.org/article.pl?sid=24/02/20/1156230&from=rss) - [Widely Used Machine Learning Models Reproduce Dataset Bias: Study](https://soylentnews.org/article.pl?sid=24/02/20/1156230&from=rss)
 * [2024-02-21, 21:12:00](https://soylentnews.org/article.pl?sid=24/02/20/1713232&from=rss) - [Google Lays Off Thousands More Employees Despite Record Profits](https://soylentnews.org/article.pl?sid=24/02/20/1713232&from=rss)
-* [2024-02-21, 16:26:00](https://soylentnews.org/article.pl?sid=24/02/20/1149204&from=rss) - [Targeting 'Undruggable' Proteins Promises New Approach for Treating Neurodegenerative Diseases](https://soylentnews.org/article.pl?sid=24/02/20/1149204&from=rss)
 
 ## [Archives](archives/index.md)
 
