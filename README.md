@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-03, 13:49:00](https://soylentnews.org/article.pl?sid=24/03/01/0822206&from=rss) - [New Chip Opens Door to AI Computing at Light Speed](https://soylentnews.org/article.pl?sid=24/03/01/0822206&from=rss)
 * [2024-03-03, 09:03:00](https://soylentnews.org/article.pl?sid=24/03/01/0813237&from=rss) - [German Frigate Fires and Misses on American Drone](https://soylentnews.org/article.pl?sid=24/03/01/0813237&from=rss)
 * [2024-03-03, 04:14:00](https://soylentnews.org/article.pl?sid=24/03/01/086223&from=rss) - [Glowing Jellyfish Protein Lights the Way for Better Lifting of Fingerprints](https://soylentnews.org/article.pl?sid=24/03/01/086223&from=rss)
 * [2024-03-03, 00:01:00](https://soylentnews.org/article.pl?sid=24/03/01/0759250&from=rss) - [SBF Asks for 5-Year Prison Sentence, Calls 100-Year Recommendation “Grotesque”](https://soylentnews.org/article.pl?sid=24/03/01/0759250&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-23, 13:00:00](https://soylentnews.org/article.pl?sid=24/02/23/1245244&from=rss) - [UPDATE:  The Odysseus has landed!](https://soylentnews.org/article.pl?sid=24/02/23/1245244&from=rss)
 * [2024-02-23, 11:12:00](https://soylentnews.org/article.pl?sid=24/02/22/0320230&from=rss) - [OpenAI Teases a New Generative Video Model Called Sora](https://soylentnews.org/article.pl?sid=24/02/22/0320230&from=rss)
 * [2024-02-23, 06:27:00](https://soylentnews.org/article.pl?sid=24/02/22/0218210&from=rss) - [Measles Cases at South Florida School Concern Pediatricians](https://soylentnews.org/article.pl?sid=24/02/22/0218210&from=rss)
-* [2024-02-23, 01:43:00](https://soylentnews.org/article.pl?sid=24/02/22/0214251&from=rss) - [Microsoft, OpenAI Say U.S. Rivals Use Artificial Intelligence in Hacking](https://soylentnews.org/article.pl?sid=24/02/22/0214251&from=rss)
 
 ## [Archives](archives/index.md)
 
