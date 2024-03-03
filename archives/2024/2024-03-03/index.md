@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 23:19:00](https://soylentnews.org/article.pl?sid=24/03/03/0231201&from=rss) - [A 12 Mm Fish Produces 140-Decibel Sound to Communicate in Turbid Waters](https://soylentnews.org/article.pl?sid=24/03/03/0231201&from=rss)
 * [2024-03-03, 18:32:00](https://soylentnews.org/article.pl?sid=24/03/03/0225204&from=rss) - [Emulation Community Expresses Defiance in Wake of Nintendo's Yuzu Lawsuit](https://soylentnews.org/article.pl?sid=24/03/03/0225204&from=rss)
 * [2024-03-03, 13:49:00](https://soylentnews.org/article.pl?sid=24/03/01/0822206&from=rss) - [New Chip Opens Door to AI Computing at Light Speed](https://soylentnews.org/article.pl?sid=24/03/01/0822206&from=rss)
 * [2024-03-03, 09:03:00](https://soylentnews.org/article.pl?sid=24/03/01/0813237&from=rss) - [German Frigate Fires and Misses on American Drone](https://soylentnews.org/article.pl?sid=24/03/01/0813237&from=rss)
