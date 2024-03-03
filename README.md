@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-03, 00:01:00](https://soylentnews.org/article.pl?sid=24/03/01/0759250&from=rss) - [SBF Asks for 5-Year Prison Sentence, Calls 100-Year Recommendation “Grotesque”](https://soylentnews.org/article.pl?sid=24/03/01/0759250&from=rss)
 * [2024-03-02, 19:16:00](https://soylentnews.org/article.pl?sid=24/03/01/0748239&from=rss) - [HuggingFace AI Exposing Multiple Backdoors to Users Machines](https://soylentnews.org/article.pl?sid=24/03/01/0748239&from=rss)
 * [2024-03-02, 14:28:00](https://soylentnews.org/article.pl?sid=24/03/01/0248250&from=rss) - [It's That Most Wonderful Time of the Year When Tech Cannot Handle the Date](https://soylentnews.org/article.pl?sid=24/03/01/0248250&from=rss)
 * [2024-03-02, 09:44:00](https://soylentnews.org/article.pl?sid=24/03/01/0243210&from=rss) - [OpenAI Says New York Times 'Hacked' ChatGPT to Build Copyright Lawsuit](https://soylentnews.org/article.pl?sid=24/03/01/0243210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-23, 01:43:00](https://soylentnews.org/article.pl?sid=24/02/22/0214251&from=rss) - [Microsoft, OpenAI Say U.S. Rivals Use Artificial Intelligence in Hacking](https://soylentnews.org/article.pl?sid=24/02/22/0214251&from=rss)
 * [2024-02-22, 20:55:00](https://soylentnews.org/article.pl?sid=24/02/21/1447216&from=rss) - [This Tiny, Tamper-Proof ID Tag Can Authenticate Almost Anything](https://soylentnews.org/article.pl?sid=24/02/21/1447216&from=rss)
 * [2024-02-22, 16:13:00](https://soylentnews.org/article.pl?sid=24/02/21/0520249&from=rss) - [Bumpy Solar Cells Could Harvest Up to 66% More Energy](https://soylentnews.org/article.pl?sid=24/02/21/0520249&from=rss)
-* [2024-02-22, 11:28:00](https://soylentnews.org/article.pl?sid=24/02/21/051214&from=rss) - [As Newspapers Close, Nonprofit Executive Salaries Go Way Up](https://soylentnews.org/article.pl?sid=24/02/21/051214&from=rss)
 
 ## [Archives](archives/index.md)
 
