@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-04, 08:51:00](https://soylentnews.org/article.pl?sid=24/03/03/0249215&from=rss) - [Dark Forces Remastered Makes a Classic Star Wars Shooter Feel Fast and Fluid](https://soylentnews.org/article.pl?sid=24/03/03/0249215&from=rss)
 * [2024-03-04, 04:03:00](https://soylentnews.org/article.pl?sid=24/03/03/0237243&from=rss) - [HP Wants You to Pay Up to $36/Month to Rent a Printer That It Monitors](https://soylentnews.org/article.pl?sid=24/03/03/0237243&from=rss)
 * [2024-03-03, 23:19:00](https://soylentnews.org/article.pl?sid=24/03/03/0231201&from=rss) - [A 12 mm Fish Produces 140-Decibel Sound to Communicate in Turbid Waters](https://soylentnews.org/article.pl?sid=24/03/03/0231201&from=rss)
 * [2024-03-03, 18:32:00](https://soylentnews.org/article.pl?sid=24/03/03/0225204&from=rss) - [Emulation Community Expresses Defiance in Wake of Nintendo's Yuzu Lawsuit](https://soylentnews.org/article.pl?sid=24/03/03/0225204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-24, 01:34:00](https://soylentnews.org/article.pl?sid=24/02/23/0434209&from=rss) - [ChatGPT Goes Temporarily “Insane” With Unexpected Outputs, Spooking Users](https://soylentnews.org/article.pl?sid=24/02/23/0434209&from=rss)
 * [2024-02-23, 20:46:00](https://soylentnews.org/article.pl?sid=24/02/22/2317237&from=rss) - [Backdoors that Let Cops Decrypt Messages Violate Human Rights, EU Court Says](https://soylentnews.org/article.pl?sid=24/02/22/2317237&from=rss)
 * [2024-02-23, 18:11:00](https://soylentnews.org/article.pl?sid=24/02/22/1511216&from=rss) - [News Roundup](https://soylentnews.org/article.pl?sid=24/02/22/1511216&from=rss)
-* [2024-02-23, 15:59:00](https://soylentnews.org/article.pl?sid=24/02/22/1255240&from=rss) - [Near-Record Winds Over the Northeast Push Passenger Planes to Speeds Over 800 mph (1300 km/hr)](https://soylentnews.org/article.pl?sid=24/02/22/1255240&from=rss)
 
 ## [Archives](archives/index.md)
 
