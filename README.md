@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-04, 18:19:00](https://soylentnews.org/article.pl?sid=24/03/03/1242249&from=rss) - [VISA and Biometric Authentication](https://soylentnews.org/article.pl?sid=24/03/03/1242249&from=rss)
 * [2024-03-04, 13:37:00](https://soylentnews.org/article.pl?sid=24/03/03/0259219&from=rss) - [How 40Hz Sensory Gamma Rhythm Stimulation Clears Amyloid in Alzheimer's Mice](https://soylentnews.org/article.pl?sid=24/03/03/0259219&from=rss)
 * [2024-03-04, 08:51:00](https://soylentnews.org/article.pl?sid=24/03/03/0249215&from=rss) - [Dark Forces Remastered Makes a Classic Star Wars Shooter Feel Fast and Fluid](https://soylentnews.org/article.pl?sid=24/03/03/0249215&from=rss)
 * [2024-03-04, 04:03:00](https://soylentnews.org/article.pl?sid=24/03/03/0237243&from=rss) - [HP Wants You to Pay Up to $36/Month to Rent a Printer That It Monitors](https://soylentnews.org/article.pl?sid=24/03/03/0237243&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-24, 11:08:00](https://soylentnews.org/article.pl?sid=24/02/23/1251211&from=rss) - [Cyberattack Cripples U.S. Medical Prescribing System](https://soylentnews.org/article.pl?sid=24/02/23/1251211&from=rss)
 * [2024-02-24, 06:19:00](https://soylentnews.org/article.pl?sid=24/02/23/0514241&from=rss) - [AI Will Let Us Read 'Lost' Ancient Works in the Library at Herculaneum for the First Time](https://soylentnews.org/article.pl?sid=24/02/23/0514241&from=rss)
 * [2024-02-24, 01:34:00](https://soylentnews.org/article.pl?sid=24/02/23/0434209&from=rss) - [ChatGPT Goes Temporarily “Insane” With Unexpected Outputs, Spooking Users](https://soylentnews.org/article.pl?sid=24/02/23/0434209&from=rss)
-* [2024-02-23, 20:46:00](https://soylentnews.org/article.pl?sid=24/02/22/2317237&from=rss) - [Backdoors that Let Cops Decrypt Messages Violate Human Rights, EU Court Says](https://soylentnews.org/article.pl?sid=24/02/22/2317237&from=rss)
 
 ## [Archives](archives/index.md)
 
