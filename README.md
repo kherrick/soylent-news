@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-05, 23:26:00](https://soylentnews.org/meta/article.pl?sid=24/03/05/2231256&from=rss) - [Funding For SoylentNews Is Critical](https://soylentnews.org/meta/article.pl?sid=24/03/05/2231256&from=rss)
 * [2024-03-05, 22:41:00](https://soylentnews.org/article.pl?sid=24/03/05/0151203&from=rss) - [Study Finds Daily Fiber Supplement Improves Older Adults' Brain Function in Just 12 Weeks](https://soylentnews.org/article.pl?sid=24/03/05/0151203&from=rss)
 * [2024-03-05, 17:59:00](https://soylentnews.org/article.pl?sid=24/03/03/1439252&from=rss) - [Gastrointestinal Disease Explodes in Elementary School; 773 Kids Out](https://soylentnews.org/article.pl?sid=24/03/03/1439252&from=rss)
 * [2024-03-05, 13:14:00](https://soylentnews.org/article.pl?sid=24/03/03/1436238&from=rss) - [An Observation of Sexual Behavior Between Two Male Humpback Whales](https://soylentnews.org/article.pl?sid=24/03/03/1436238&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-25, 20:35:00](https://soylentnews.org/article.pl?sid=24/02/24/1437214&from=rss) - [The Invention of the Decimal Dot That Changed Mathematics Forever](https://soylentnews.org/article.pl?sid=24/02/24/1437214&from=rss)
 * [2024-02-25, 15:47:00](https://soylentnews.org/article.pl?sid=24/02/24/1418256&from=rss) - [Will Smith Parodies Viral AI-Generated Video by Actually Eating Spaghetti](https://soylentnews.org/article.pl?sid=24/02/24/1418256&from=rss)
 * [2024-02-25, 11:03:00](https://soylentnews.org/article.pl?sid=24/02/23/1618208&from=rss) - [Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks](https://soylentnews.org/article.pl?sid=24/02/23/1618208&from=rss)
-* [2024-02-25, 06:13:00](https://soylentnews.org/article.pl?sid=24/02/23/1611232&from=rss) - [“Corolla Killer:” BYD Launches $US15,000 EV in Direct Attack on Legacy Makers](https://soylentnews.org/article.pl?sid=24/02/23/1611232&from=rss)
 
 ## [Archives](archives/index.md)
 
