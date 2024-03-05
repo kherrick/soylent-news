@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-05, 13:14:00](https://soylentnews.org/article.pl?sid=24/03/03/1436238&from=rss) - [An Observation of Sexual Behavior Between Two Male Humpback Whales](https://soylentnews.org/article.pl?sid=24/03/03/1436238&from=rss)
 * [2024-03-05, 08:32:00](https://soylentnews.org/article.pl?sid=24/03/03/1425200&from=rss) - [Rainproof Water Striders](https://soylentnews.org/article.pl?sid=24/03/03/1425200&from=rss)
 * [2024-03-05, 03:46:00](https://soylentnews.org/article.pl?sid=24/03/03/1419231&from=rss) - [Google is Blocking RCS (Rich Communication Services) on Rooted Android Devices](https://soylentnews.org/article.pl?sid=24/03/03/1419231&from=rss)
 * [2024-03-04, 23:02:00](https://soylentnews.org/article.pl?sid=24/03/03/1410233&from=rss) - [Massive Reserve of Helium Found by Minnesota Exploratory Drill](https://soylentnews.org/article.pl?sid=24/03/03/1410233&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-25, 06:13:00](https://soylentnews.org/article.pl?sid=24/02/23/1611232&from=rss) - [“Corolla Killer:” BYD Launches $US15,000 EV in Direct Attack on Legacy Makers](https://soylentnews.org/article.pl?sid=24/02/23/1611232&from=rss)
 * [2024-02-25, 01:24:00](https://soylentnews.org/article.pl?sid=24/02/23/167236&from=rss) - [Court Blocks $1 Billion Copyright Ruling That Punished ISP for its Users’ Piracy](https://soylentnews.org/article.pl?sid=24/02/23/167236&from=rss)
 * [2024-02-24, 20:36:00](https://soylentnews.org/article.pl?sid=24/02/23/1557245&from=rss) - [Fasting-Like Diet Lowers Risk Factors for Disease, Reduces Biological Age in Humans: Study](https://soylentnews.org/article.pl?sid=24/02/23/1557245&from=rss)
-* [2024-02-24, 15:51:00](https://soylentnews.org/article.pl?sid=24/02/23/1552247&from=rss) - [Reddit Sells Training Data to Unnamed AI Company Ahead of IPO](https://soylentnews.org/article.pl?sid=24/02/23/1552247&from=rss)
 
 ## [Archives](archives/index.md)
 
