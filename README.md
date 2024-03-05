@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-05, 03:46:00](https://soylentnews.org/article.pl?sid=24/03/03/1419231&from=rss) - [Google is Blocking RCS (Rich Communication Services) on Rooted Android Devices](https://soylentnews.org/article.pl?sid=24/03/03/1419231&from=rss)
 * [2024-03-04, 23:02:00](https://soylentnews.org/article.pl?sid=24/03/03/1410233&from=rss) - [Massive Reserve of Helium Found by Minnesota Exploratory Drill](https://soylentnews.org/article.pl?sid=24/03/03/1410233&from=rss)
 * [2024-03-04, 18:19:00](https://soylentnews.org/article.pl?sid=24/03/03/1242249&from=rss) - [VISA and Biometric Authentication](https://soylentnews.org/article.pl?sid=24/03/03/1242249&from=rss)
 * [2024-03-04, 13:37:00](https://soylentnews.org/article.pl?sid=24/03/03/0259219&from=rss) - [How 40Hz Sensory Gamma Rhythm Stimulation Clears Amyloid in Alzheimer's Mice](https://soylentnews.org/article.pl?sid=24/03/03/0259219&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-24, 20:36:00](https://soylentnews.org/article.pl?sid=24/02/23/1557245&from=rss) - [Fasting-Like Diet Lowers Risk Factors for Disease, Reduces Biological Age in Humans: Study](https://soylentnews.org/article.pl?sid=24/02/23/1557245&from=rss)
 * [2024-02-24, 15:51:00](https://soylentnews.org/article.pl?sid=24/02/23/1552247&from=rss) - [Reddit Sells Training Data to Unnamed AI Company Ahead of IPO](https://soylentnews.org/article.pl?sid=24/02/23/1552247&from=rss)
 * [2024-02-24, 11:08:00](https://soylentnews.org/article.pl?sid=24/02/23/1251211&from=rss) - [Cyberattack Cripples U.S. Medical Prescribing System](https://soylentnews.org/article.pl?sid=24/02/23/1251211&from=rss)
-* [2024-02-24, 06:19:00](https://soylentnews.org/article.pl?sid=24/02/23/0514241&from=rss) - [AI Will Let Us Read 'Lost' Ancient Works in the Library at Herculaneum for the First Time](https://soylentnews.org/article.pl?sid=24/02/23/0514241&from=rss)
 
 ## [Archives](archives/index.md)
 
