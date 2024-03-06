@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-06, 08:09:00](https://soylentnews.org/article.pl?sid=24/03/05/1921240&from=rss) - [One Way to Improve a Fusion Reaction: Use Weaknesses as Strengths](https://soylentnews.org/article.pl?sid=24/03/05/1921240&from=rss)
 * [2024-03-06, 03:23:00](https://soylentnews.org/article.pl?sid=24/03/05/1917209&from=rss) - [European Commission Has Fined Apple Over €1.8 Billion Over Anti-Trust Violations](https://soylentnews.org/article.pl?sid=24/03/05/1917209&from=rss)
 * [2024-03-05, 23:26:00](https://soylentnews.org/meta/article.pl?sid=24/03/05/2231256&from=rss) - [Funding for SoylentNews is Critical](https://soylentnews.org/meta/article.pl?sid=24/03/05/2231256&from=rss)
 * [2024-03-05, 22:41:00](https://soylentnews.org/article.pl?sid=24/03/05/0151203&from=rss) - [Study Finds Daily Fiber Supplement Improves Older Adults' Brain Function in Just 12 Weeks](https://soylentnews.org/article.pl?sid=24/03/05/0151203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-26, 06:07:00](https://soylentnews.org/article.pl?sid=24/02/25/1317252&from=rss) - [Black Hole Has Mass of 17 Billion Suns and It Adds a New One Every Day](https://soylentnews.org/article.pl?sid=24/02/25/1317252&from=rss)
 * [2024-02-26, 01:18:00](https://soylentnews.org/article.pl?sid=24/02/25/0424254&from=rss) - [iMessage Gets a Major Makeover That Puts It on Equal Footing With Signal](https://soylentnews.org/article.pl?sid=24/02/25/0424254&from=rss)
 * [2024-02-25, 20:35:00](https://soylentnews.org/article.pl?sid=24/02/24/1437214&from=rss) - [The Invention of the Decimal Dot That Changed Mathematics Forever](https://soylentnews.org/article.pl?sid=24/02/24/1437214&from=rss)
-* [2024-02-25, 15:47:00](https://soylentnews.org/article.pl?sid=24/02/24/1418256&from=rss) - [Will Smith Parodies Viral AI-Generated Video by Actually Eating Spaghetti](https://soylentnews.org/article.pl?sid=24/02/24/1418256&from=rss)
 
 ## [Archives](archives/index.md)
 
