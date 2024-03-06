@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-06, 22:12:00](https://soylentnews.org/article.pl?sid=24/03/06/0256234&from=rss) - [I Used Generative AI to Turn My Story Into a Comic](https://soylentnews.org/article.pl?sid=24/03/06/0256234&from=rss)
 * [2024-03-06, 17:39:00](https://soylentnews.org/article.pl?sid=24/03/06/0246208&from=rss) - [Desktop GNU/Linux Surpasses 4% Market Share](https://soylentnews.org/article.pl?sid=24/03/06/0246208&from=rss)
 * [2024-03-06, 12:54:00](https://soylentnews.org/article.pl?sid=24/03/06/0242208&from=rss) - [Exposure to Different Kinds of Music Influences How the Brain Interprets Rhythm](https://soylentnews.org/article.pl?sid=24/03/06/0242208&from=rss)
 * [2024-03-06, 08:09:00](https://soylentnews.org/article.pl?sid=24/03/05/1921240&from=rss) - [One Way to Improve a Fusion Reaction: Use Weaknesses as Strengths](https://soylentnews.org/article.pl?sid=24/03/05/1921240&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-26, 20:27:00](https://soylentnews.org/article.pl?sid=24/02/25/1330232&from=rss) - [ADHD Linked to Evolutionary Success in Ancient Humans](https://soylentnews.org/article.pl?sid=24/02/25/1330232&from=rss)
 * [2024-02-26, 15:41:00](https://soylentnews.org/article.pl?sid=24/02/25/1322211&from=rss) - [Preview Version of Microsoft OS/2 Was Sold for $650 on EBay](https://soylentnews.org/article.pl?sid=24/02/25/1322211&from=rss)
 * [2024-02-26, 10:54:00](https://soylentnews.org/article.pl?sid=24/02/25/1320209&from=rss) - [Lawsuit Claims Tinder and Hinge Are Designed to Get Users Hooked](https://soylentnews.org/article.pl?sid=24/02/25/1320209&from=rss)
-* [2024-02-26, 06:07:00](https://soylentnews.org/article.pl?sid=24/02/25/1317252&from=rss) - [Black Hole Has Mass of 17 Billion Suns and It Adds a New One Every Day](https://soylentnews.org/article.pl?sid=24/02/25/1317252&from=rss)
 
 ## [Archives](archives/index.md)
 
