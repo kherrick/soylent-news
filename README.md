@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-07, 17:21:00](https://soylentnews.org/article.pl?sid=24/03/06/202223&from=rss) - [Sugar-Reduced Chocolate With Oat Flour Just as Tasty as Original, Study Finds](https://soylentnews.org/article.pl?sid=24/03/06/202223&from=rss)
 * [2024-03-07, 12:34:00](https://soylentnews.org/article.pl?sid=24/03/06/1828234&from=rss) - [Spain Tells Sam Altman, Worldcoin to Shut Down its Eyeball-Scanning Orbs](https://soylentnews.org/article.pl?sid=24/03/06/1828234&from=rss)
 * [2024-03-07, 09:19:00](https://soylentnews.org/meta/article.pl?sid=24/03/06/239238&from=rss) - [SN Funding Secure](https://soylentnews.org/meta/article.pl?sid=24/03/06/239238&from=rss)
 * [2024-03-07, 07:43:00](https://soylentnews.org/article.pl?sid=24/03/06/0333247&from=rss) - [Oregon OKs Right-to-Repair Bill That Bans the Blocking of Aftermarket Parts](https://soylentnews.org/article.pl?sid=24/03/06/0333247&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-27, 20:19:00](https://soylentnews.org/article.pl?sid=24/02/25/161222&from=rss) - [Tyler Perry Puts $800 Million Studio Expansion on Hold Because of OpenAI's Sora](https://soylentnews.org/article.pl?sid=24/02/25/161222&from=rss)
 * [2024-02-27, 15:31:00](https://soylentnews.org/article.pl?sid=24/02/25/1557247&from=rss) - [Twitter Security Staff Kept Firm in Compliance by Disobeying Musk, FTC Says](https://soylentnews.org/article.pl?sid=24/02/25/1557247&from=rss)
 * [2024-02-27, 10:47:00](https://soylentnews.org/article.pl?sid=24/02/25/1552245&from=rss) - [Signal Now Lets You Keep Your Phone Number Private With the Launch of Usernames](https://soylentnews.org/article.pl?sid=24/02/25/1552245&from=rss)
-* [2024-02-27, 06:04:00](https://soylentnews.org/article.pl?sid=24/02/25/1545232&from=rss) - [Bizarre Worm-Lizard’s Secrets Revealed in CT Scans](https://soylentnews.org/article.pl?sid=24/02/25/1545232&from=rss)
 
 ## [Archives](archives/index.md)
 
