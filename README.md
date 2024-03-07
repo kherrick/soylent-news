@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-07, 09:19:00](https://soylentnews.org/meta/article.pl?sid=24/03/06/239238&from=rss) - [SN Funding Secure](https://soylentnews.org/meta/article.pl?sid=24/03/06/239238&from=rss)
 * [2024-03-07, 07:43:00](https://soylentnews.org/article.pl?sid=24/03/06/0333247&from=rss) - [Oregon OKs Right-to-Repair Bill That Bans the Blocking of Aftermarket Parts](https://soylentnews.org/article.pl?sid=24/03/06/0333247&from=rss)
 * [2024-03-07, 02:59:00](https://soylentnews.org/article.pl?sid=24/03/06/0331253&from=rss) - [New Anaconda Species Said to be Largest Ever Found](https://soylentnews.org/article.pl?sid=24/03/06/0331253&from=rss)
 * [2024-03-06, 22:12:00](https://soylentnews.org/article.pl?sid=24/03/06/0256234&from=rss) - [I Used Generative AI to Turn My Story Into a Comic](https://soylentnews.org/article.pl?sid=24/03/06/0256234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-27, 10:47:00](https://soylentnews.org/article.pl?sid=24/02/25/1552245&from=rss) - [Signal Now Lets You Keep Your Phone Number Private With the Launch of Usernames](https://soylentnews.org/article.pl?sid=24/02/25/1552245&from=rss)
 * [2024-02-27, 06:04:00](https://soylentnews.org/article.pl?sid=24/02/25/1545232&from=rss) - [Bizarre Worm-Lizard’s Secrets Revealed in CT Scans](https://soylentnews.org/article.pl?sid=24/02/25/1545232&from=rss)
 * [2024-02-27, 01:13:00](https://soylentnews.org/article.pl?sid=24/02/25/1544206&from=rss) - [Windows-as-a-Nuisance: How I Clean Up a “Clean Install” of Windows 11 and Edge](https://soylentnews.org/article.pl?sid=24/02/25/1544206&from=rss)
-* [2024-02-26, 20:27:00](https://soylentnews.org/article.pl?sid=24/02/25/1330232&from=rss) - [ADHD Linked to Evolutionary Success in Ancient Humans](https://soylentnews.org/article.pl?sid=24/02/25/1330232&from=rss)
 
 ## [Archives](archives/index.md)
 
