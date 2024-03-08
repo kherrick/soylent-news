@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-08, 07:37:00](https://soylentnews.org/article.pl?sid=24/03/07/118201&from=rss) - [Ex-Twitter Executives Sue Musk for Unpaid Severance](https://soylentnews.org/article.pl?sid=24/03/07/118201&from=rss)
 * [2024-03-08, 02:49:00](https://soylentnews.org/article.pl?sid=24/03/07/0248201&from=rss) - [Butterflies Mimic Each Other's Flight Behavior to Avoid Predators](https://soylentnews.org/article.pl?sid=24/03/07/0248201&from=rss)
 * [2024-03-07, 22:04:00](https://soylentnews.org/article.pl?sid=24/03/07/0242253&from=rss) - [It Turns Out That Odysseus Landed on the Moon Without Any Altimetry Data](https://soylentnews.org/article.pl?sid=24/03/07/0242253&from=rss)
 * [2024-03-07, 17:21:00](https://soylentnews.org/article.pl?sid=24/03/06/202223&from=rss) - [Sugar-Reduced Chocolate With Oat Flour Just as Tasty as Original, Study Finds](https://soylentnews.org/article.pl?sid=24/03/06/202223&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-28, 10:34:00](https://soylentnews.org/article.pl?sid=24/02/27/1228232&from=rss) - [Trillions of Tons of Buried Hydrogen: Clean Energy Gold Rush Begins](https://soylentnews.org/article.pl?sid=24/02/27/1228232&from=rss)
 * [2024-02-28, 05:49:00](https://soylentnews.org/article.pl?sid=24/02/27/1222242&from=rss) - [Yelp: It's Gotten Worse Since Google Made Changes to Comply With EU Rules](https://soylentnews.org/article.pl?sid=24/02/27/1222242&from=rss)
 * [2024-02-28, 01:02:00](https://soylentnews.org/article.pl?sid=24/02/26/1336228&from=rss) - [Vending Machine Error Reveals Secret Face Image Database of College Students](https://soylentnews.org/article.pl?sid=24/02/26/1336228&from=rss)
-* [2024-02-27, 20:19:00](https://soylentnews.org/article.pl?sid=24/02/25/161222&from=rss) - [Tyler Perry Puts $800 Million Studio Expansion on Hold Because of OpenAI's Sora](https://soylentnews.org/article.pl?sid=24/02/25/161222&from=rss)
 
 ## [Archives](archives/index.md)
 
