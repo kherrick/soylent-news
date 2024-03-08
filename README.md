@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-08, 17:09:00](https://soylentnews.org/article.pl?sid=24/03/07/2011227&from=rss) - [Producing More but Understanding Less: The Risks of AI for Scientific Research](https://soylentnews.org/article.pl?sid=24/03/07/2011227&from=rss)
 * [2024-03-08, 12:22:00](https://soylentnews.org/article.pl?sid=24/03/07/206237&from=rss) - [Bumblebees Surprise Scientists With Advanced Social Learning Skills](https://soylentnews.org/article.pl?sid=24/03/07/206237&from=rss)
 * [2024-03-08, 07:37:00](https://soylentnews.org/article.pl?sid=24/03/07/118201&from=rss) - [Ex-Twitter Executives Sue Musk for Unpaid Severance](https://soylentnews.org/article.pl?sid=24/03/07/118201&from=rss)
 * [2024-03-08, 02:49:00](https://soylentnews.org/article.pl?sid=24/03/07/0248201&from=rss) - [Butterflies Mimic Each Other's Flight Behavior to Avoid Predators](https://soylentnews.org/article.pl?sid=24/03/07/0248201&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-28, 20:02:00](https://soylentnews.org/article.pl?sid=24/02/27/147242&from=rss) - [New Physical Phenomenon: Altermagnetism](https://soylentnews.org/article.pl?sid=24/02/27/147242&from=rss)
 * [2024-02-28, 15:17:00](https://soylentnews.org/article.pl?sid=24/02/27/1350227&from=rss) - [Quitting Smoking at Any Age Brings Big Health Benefits, Fast](https://soylentnews.org/article.pl?sid=24/02/27/1350227&from=rss)
 * [2024-02-28, 10:34:00](https://soylentnews.org/article.pl?sid=24/02/27/1228232&from=rss) - [Trillions of Tons of Buried Hydrogen: Clean Energy Gold Rush Begins](https://soylentnews.org/article.pl?sid=24/02/27/1228232&from=rss)
-* [2024-02-28, 05:49:00](https://soylentnews.org/article.pl?sid=24/02/27/1222242&from=rss) - [Yelp: It's Gotten Worse Since Google Made Changes to Comply With EU Rules](https://soylentnews.org/article.pl?sid=24/02/27/1222242&from=rss)
 
 ## [Archives](archives/index.md)
 
