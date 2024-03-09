@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-09, 16:57:00](https://soylentnews.org/article.pl?sid=24/03/08/1611237&from=rss) - [Microsoft Accused of Selling AI Tool That Spews Violent, Sexual Images to Kids](https://soylentnews.org/article.pl?sid=24/03/08/1611237&from=rss)
 * [2024-03-09, 12:12:00](https://soylentnews.org/article.pl?sid=24/03/08/165249&from=rss) - [Threatened in Their Homeland, Feral Mexican Parrots Thrive on LA's Exotic Landscaping](https://soylentnews.org/article.pl?sid=24/03/08/165249&from=rss)
 * [2024-03-09, 07:24:00](https://soylentnews.org/article.pl?sid=24/03/08/037240&from=rss) - [Switch Emulator Makers Agree to Pay $2.4 Million to Settle Nintendo Lawsuit](https://soylentnews.org/article.pl?sid=24/03/08/037240&from=rss)
 * [2024-03-09, 02:38:00](https://soylentnews.org/article.pl?sid=24/03/08/032223&from=rss) - [The Comet Strike Theory That Just Won’t Die](https://soylentnews.org/article.pl?sid=24/03/08/032223&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-29, 19:47:00](https://soylentnews.org/article.pl?sid=24/02/28/1822251&from=rss) - [Boeing Missing Key Elements of Safety Culture: FAA Report](https://soylentnews.org/article.pl?sid=24/02/28/1822251&from=rss)
 * [2024-02-29, 15:03:00](https://soylentnews.org/article.pl?sid=24/02/28/1814213&from=rss) - [The First-ever Mission to Pull a Dead Rocket Out of Space Has Just Begun](https://soylentnews.org/article.pl?sid=24/02/28/1814213&from=rss)
 * [2024-02-29, 10:17:00](https://soylentnews.org/article.pl?sid=24/02/28/1230205&from=rss) - [How Your Sensitive Data Can be Sold After a Data Broker Goes Bankrupt](https://soylentnews.org/article.pl?sid=24/02/28/1230205&from=rss)
-* [2024-02-29, 05:35:00](https://soylentnews.org/article.pl?sid=24/02/27/1417245&from=rss) - [Reddit Files to Go Public at Last](https://soylentnews.org/article.pl?sid=24/02/27/1417245&from=rss)
 
 ## [Archives](archives/index.md)
 
