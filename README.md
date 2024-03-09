@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-09, 02:38:00](https://soylentnews.org/article.pl?sid=24/03/08/032223&from=rss) - [The Comet Strike Theory That Just Won’t Die](https://soylentnews.org/article.pl?sid=24/03/08/032223&from=rss)
 * [2024-03-08, 21:54:00](https://soylentnews.org/article.pl?sid=24/03/08/0255244&from=rss) - [Bus Pirate v5 Released](https://soylentnews.org/article.pl?sid=24/03/08/0255244&from=rss)
 * [2024-03-08, 17:09:00](https://soylentnews.org/article.pl?sid=24/03/07/2011227&from=rss) - [Producing More but Understanding Less: The Risks of AI for Scientific Research](https://soylentnews.org/article.pl?sid=24/03/07/2011227&from=rss)
 * [2024-03-08, 12:22:00](https://soylentnews.org/article.pl?sid=24/03/07/206237&from=rss) - [Bumblebees Surprise Scientists With Advanced Social Learning Skills](https://soylentnews.org/article.pl?sid=24/03/07/206237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-02-29, 05:35:00](https://soylentnews.org/article.pl?sid=24/02/27/1417245&from=rss) - [Reddit Files to Go Public at Last](https://soylentnews.org/article.pl?sid=24/02/27/1417245&from=rss)
 * [2024-02-29, 00:49:00](https://soylentnews.org/article.pl?sid=24/02/27/1411215&from=rss) - [Researchers Show Classical Computers Can Keep Up With, and Surpass, Their Quantum Counterparts](https://soylentnews.org/article.pl?sid=24/02/27/1411215&from=rss)
 * [2024-02-28, 20:02:00](https://soylentnews.org/article.pl?sid=24/02/27/147242&from=rss) - [New Physical Phenomenon: Altermagnetism](https://soylentnews.org/article.pl?sid=24/02/27/147242&from=rss)
-* [2024-02-28, 15:17:00](https://soylentnews.org/article.pl?sid=24/02/27/1350227&from=rss) - [Quitting Smoking at Any Age Brings Big Health Benefits, Fast](https://soylentnews.org/article.pl?sid=24/02/27/1350227&from=rss)
 
 ## [Archives](archives/index.md)
 
