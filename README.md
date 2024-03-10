@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-10, 07:12:00](https://soylentnews.org/article.pl?sid=24/03/09/0128231&from=rss) - [Scientists Figure Out Why Labrador Retrievers Can Never Eat Enough](https://soylentnews.org/article.pl?sid=24/03/09/0128231&from=rss)
 * [2024-03-10, 02:26:00](https://soylentnews.org/article.pl?sid=24/03/09/0121213&from=rss) - [Messy ToS Update Allegedly Locks Roku Devices Until Users Give In](https://soylentnews.org/article.pl?sid=24/03/09/0121213&from=rss)
 * [2024-03-09, 21:44:00](https://soylentnews.org/article.pl?sid=24/03/09/1014232&from=rss) - [Bruce Perens Solicits Comments on First Draft of a Post-Open License](https://soylentnews.org/article.pl?sid=24/03/09/1014232&from=rss)
 * [2024-03-09, 16:57:00](https://soylentnews.org/article.pl?sid=24/03/08/1611237&from=rss) - [Microsoft Accused of Selling AI Tool That Spews Violent, Sexual Images to Kids](https://soylentnews.org/article.pl?sid=24/03/08/1611237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-01, 10:05:00](https://soylentnews.org/article.pl?sid=24/02/29/0226227&from=rss) - [An Online Dump of Chinese Hacking Documents Offers a Rare Window Into Pervasive State Surveillance](https://soylentnews.org/article.pl?sid=24/02/29/0226227&from=rss)
 * [2024-03-01, 05:18:00](https://soylentnews.org/article.pl?sid=24/02/29/0220245&from=rss) - [Wendy's Will Experiment With Dynamic Surge Pricing for Food in 2025](https://soylentnews.org/article.pl?sid=24/02/29/0220245&from=rss)
 * [2024-03-01, 00:32:00](https://soylentnews.org/article.pl?sid=24/02/28/1830256&from=rss) - [A New Browser in Town.](https://soylentnews.org/article.pl?sid=24/02/28/1830256&from=rss)
-* [2024-02-29, 19:47:00](https://soylentnews.org/article.pl?sid=24/02/28/1822251&from=rss) - [Boeing Missing Key Elements of Safety Culture: FAA Report](https://soylentnews.org/article.pl?sid=24/02/28/1822251&from=rss)
 
 ## [Archives](archives/index.md)
 
