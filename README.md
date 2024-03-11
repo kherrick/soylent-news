@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-11, 06:11:00](https://soylentnews.org/article.pl?sid=24/03/10/0447201&from=rss) - [Non-Profit Builds Site To Track Surging AI Mishaps](https://soylentnews.org/article.pl?sid=24/03/10/0447201&from=rss)
 * [2024-03-11, 01:24:00](https://soylentnews.org/article.pl?sid=24/03/08/1614254&from=rss) - [Living With the Ghost of a Smart Home's Past](https://soylentnews.org/article.pl?sid=24/03/08/1614254&from=rss)
 * [2024-03-10, 20:41:00](https://soylentnews.org/article.pl?sid=24/03/09/0243221&from=rss) - [The FBI’s New Tactic: Catching Suspects with Push Alerts](https://soylentnews.org/article.pl?sid=24/03/09/0243221&from=rss)
 * [2024-03-10, 16:02:00](https://soylentnews.org/article.pl?sid=24/03/09/0155209&from=rss) - [Ransomware Halts Production At Belgian Beer Brewery Duvel ](https://soylentnews.org/article.pl?sid=24/03/09/0155209&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-02, 09:44:00](https://soylentnews.org/article.pl?sid=24/03/01/0243210&from=rss) - [OpenAI Says New York Times 'Hacked' ChatGPT to Build Copyright Lawsuit](https://soylentnews.org/article.pl?sid=24/03/01/0243210&from=rss)
 * [2024-03-02, 05:01:00](https://soylentnews.org/article.pl?sid=24/03/01/0232251&from=rss) - [Some Intelligent Civilizations Will be Trapped on Their Worlds](https://soylentnews.org/article.pl?sid=24/03/01/0232251&from=rss)
 * [2024-03-02, 00:15:00](https://soylentnews.org/article.pl?sid=24/03/01/0143232&from=rss) - [Searching for Search Tools](https://soylentnews.org/article.pl?sid=24/03/01/0143232&from=rss)
-* [2024-03-01, 19:36:00](https://soylentnews.org/article.pl?sid=24/02/29/1947237&from=rss) - [Customers Prefer Text Over Video to Provide Service Feedback](https://soylentnews.org/article.pl?sid=24/02/29/1947237&from=rss)
 
 ## [Archives](archives/index.md)
 
