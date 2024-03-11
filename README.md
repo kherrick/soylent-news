@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-11, 10:54:00](https://soylentnews.org/article.pl?sid=24/03/10/108231&from=rss) - [Intel Inches Closer To $3.5B Military Chip Contract](https://soylentnews.org/article.pl?sid=24/03/10/108231&from=rss)
 * [2024-03-11, 06:11:00](https://soylentnews.org/article.pl?sid=24/03/10/0447201&from=rss) - [Non-Profit Builds Site To Track Surging AI Mishaps](https://soylentnews.org/article.pl?sid=24/03/10/0447201&from=rss)
 * [2024-03-11, 01:24:00](https://soylentnews.org/article.pl?sid=24/03/08/1614254&from=rss) - [Living With the Ghost of a Smart Home's Past](https://soylentnews.org/article.pl?sid=24/03/08/1614254&from=rss)
 * [2024-03-10, 20:41:00](https://soylentnews.org/article.pl?sid=24/03/09/0243221&from=rss) - [The FBI’s New Tactic: Catching Suspects with Push Alerts](https://soylentnews.org/article.pl?sid=24/03/09/0243221&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-02, 14:28:00](https://soylentnews.org/article.pl?sid=24/03/01/0248250&from=rss) - [It's That Most Wonderful Time of the Year When Tech Cannot Handle the Date](https://soylentnews.org/article.pl?sid=24/03/01/0248250&from=rss)
 * [2024-03-02, 09:44:00](https://soylentnews.org/article.pl?sid=24/03/01/0243210&from=rss) - [OpenAI Says New York Times 'Hacked' ChatGPT to Build Copyright Lawsuit](https://soylentnews.org/article.pl?sid=24/03/01/0243210&from=rss)
 * [2024-03-02, 05:01:00](https://soylentnews.org/article.pl?sid=24/03/01/0232251&from=rss) - [Some Intelligent Civilizations Will be Trapped on Their Worlds](https://soylentnews.org/article.pl?sid=24/03/01/0232251&from=rss)
-* [2024-03-02, 00:15:00](https://soylentnews.org/article.pl?sid=24/03/01/0143232&from=rss) - [Searching for Search Tools](https://soylentnews.org/article.pl?sid=24/03/01/0143232&from=rss)
 
 ## [Archives](archives/index.md)
 
