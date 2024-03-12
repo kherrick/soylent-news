@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-03-12](index.md)
+
+* [2024-03-12, 01:13:00](https://soylentnews.org/article.pl?sid=24/03/10/1017237&from=rss) - [The Chinese Are Planning to Replace All American Technology](https://soylentnews.org/article.pl?sid=24/03/10/1017237&from=rss)

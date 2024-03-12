@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-12, 01:13:00](https://soylentnews.org/article.pl?sid=24/03/10/1017237&from=rss) - [The Chinese Are Planning to Replace All American Technology](https://soylentnews.org/article.pl?sid=24/03/10/1017237&from=rss)
 * [2024-03-11, 20:32:00](https://soylentnews.org/article.pl?sid=24/03/10/1013253&from=rss) - [Euro-Cloud Consortium Issues Ultimatum to Microsoft](https://soylentnews.org/article.pl?sid=24/03/10/1013253&from=rss)
 * [2024-03-11, 15:43:00](https://soylentnews.org/article.pl?sid=24/03/10/0451241&from=rss) - [Some Teachers Are Now Using ChatGPT to Grade Papers](https://soylentnews.org/article.pl?sid=24/03/10/0451241&from=rss)
 * [2024-03-11, 10:54:00](https://soylentnews.org/article.pl?sid=24/03/10/108231&from=rss) - [Intel Inches Closer To $3.5B Military Chip Contract](https://soylentnews.org/article.pl?sid=24/03/10/108231&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-03, 04:14:00](https://soylentnews.org/article.pl?sid=24/03/01/086223&from=rss) - [Glowing Jellyfish Protein Lights the Way for Better Lifting of Fingerprints](https://soylentnews.org/article.pl?sid=24/03/01/086223&from=rss)
 * [2024-03-03, 00:01:00](https://soylentnews.org/article.pl?sid=24/03/01/0759250&from=rss) - [SBF Asks for 5-Year Prison Sentence, Calls 100-Year Recommendation “Grotesque”](https://soylentnews.org/article.pl?sid=24/03/01/0759250&from=rss)
 * [2024-03-02, 19:16:00](https://soylentnews.org/article.pl?sid=24/03/01/0748239&from=rss) - [HuggingFace AI Exposing Multiple Backdoors to Users Machines](https://soylentnews.org/article.pl?sid=24/03/01/0748239&from=rss)
-* [2024-03-02, 14:28:00](https://soylentnews.org/article.pl?sid=24/03/01/0248250&from=rss) - [It's That Most Wonderful Time of the Year When Tech Cannot Handle the Date](https://soylentnews.org/article.pl?sid=24/03/01/0248250&from=rss)
 
 ## [Archives](archives/index.md)
 
