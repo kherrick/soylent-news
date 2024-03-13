@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-13, 00:56:00](https://soylentnews.org/article.pl?sid=24/03/12/1223249&from=rss) - [OpenAI CEO Altman Wasn't Fired Because of Scary New Tech, Just Internal Politics](https://soylentnews.org/article.pl?sid=24/03/12/1223249&from=rss)
 * [2024-03-12, 20:12:00](https://soylentnews.org/article.pl?sid=24/03/11/187226&from=rss) - [Low Voice Pitch Increases Standing Among Strangers](https://soylentnews.org/article.pl?sid=24/03/11/187226&from=rss)
 * [2024-03-12, 15:26:00](https://soylentnews.org/article.pl?sid=24/03/10/1028246&from=rss) - [Hidden 'Star' Sand Dune Mystery Solved by Ancient Find](https://soylentnews.org/article.pl?sid=24/03/10/1028246&from=rss)
 * [2024-03-12, 10:42:00](https://soylentnews.org/article.pl?sid=24/03/10/1023249&from=rss) - [Attack Wrangles Thousands Of Web Users Into A Password-Cracking Botnet](https://soylentnews.org/article.pl?sid=24/03/10/1023249&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-04, 04:03:00](https://soylentnews.org/article.pl?sid=24/03/03/0237243&from=rss) - [HP Wants You to Pay Up to $36/Month to Rent a Printer That It Monitors](https://soylentnews.org/article.pl?sid=24/03/03/0237243&from=rss)
 * [2024-03-03, 23:19:00](https://soylentnews.org/article.pl?sid=24/03/03/0231201&from=rss) - [A 12 mm Fish Produces 140-Decibel Sound to Communicate in Turbid Waters](https://soylentnews.org/article.pl?sid=24/03/03/0231201&from=rss)
 * [2024-03-03, 18:32:00](https://soylentnews.org/article.pl?sid=24/03/03/0225204&from=rss) - [Emulation Community Expresses Defiance in Wake of Nintendo's Yuzu Lawsuit](https://soylentnews.org/article.pl?sid=24/03/03/0225204&from=rss)
-* [2024-03-03, 13:49:00](https://soylentnews.org/article.pl?sid=24/03/01/0822206&from=rss) - [New Chip Opens Door to AI Computing at Light Speed](https://soylentnews.org/article.pl?sid=24/03/01/0822206&from=rss)
 
 ## [Archives](archives/index.md)
 
