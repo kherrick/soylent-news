@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-13, 10:22:00](https://soylentnews.org/politics/article.pl?sid=24/03/12/1233216&from=rss) - [Elon Musk's Spacex Under Investigation Over Russia's Use Of Starlink](https://soylentnews.org/politics/article.pl?sid=24/03/12/1233216&from=rss)
 * [2024-03-13, 05:37:00](https://soylentnews.org/article.pl?sid=24/03/12/1228208&from=rss) - [NASA Is Still Fighting To Save Its Historic Voyager 1 Spacecraft](https://soylentnews.org/article.pl?sid=24/03/12/1228208&from=rss)
 * [2024-03-13, 00:56:00](https://soylentnews.org/article.pl?sid=24/03/12/1223249&from=rss) - [OpenAI CEO Altman Wasn't Fired Because of Scary New Tech, Just Internal Politics](https://soylentnews.org/article.pl?sid=24/03/12/1223249&from=rss)
 * [2024-03-12, 20:12:00](https://soylentnews.org/article.pl?sid=24/03/11/187226&from=rss) - [Low Voice Pitch Increases Standing Among Strangers](https://soylentnews.org/article.pl?sid=24/03/11/187226&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-04, 13:37:00](https://soylentnews.org/article.pl?sid=24/03/03/0259219&from=rss) - [How 40Hz Sensory Gamma Rhythm Stimulation Clears Amyloid in Alzheimer's Mice](https://soylentnews.org/article.pl?sid=24/03/03/0259219&from=rss)
 * [2024-03-04, 08:51:00](https://soylentnews.org/article.pl?sid=24/03/03/0249215&from=rss) - [Dark Forces Remastered Makes a Classic Star Wars Shooter Feel Fast and Fluid](https://soylentnews.org/article.pl?sid=24/03/03/0249215&from=rss)
 * [2024-03-04, 04:03:00](https://soylentnews.org/article.pl?sid=24/03/03/0237243&from=rss) - [HP Wants You to Pay Up to $36/Month to Rent a Printer That It Monitors](https://soylentnews.org/article.pl?sid=24/03/03/0237243&from=rss)
-* [2024-03-03, 23:19:00](https://soylentnews.org/article.pl?sid=24/03/03/0231201&from=rss) - [A 12 mm Fish Produces 140-Decibel Sound to Communicate in Turbid Waters](https://soylentnews.org/article.pl?sid=24/03/03/0231201&from=rss)
 
 ## [Archives](archives/index.md)
 
