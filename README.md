@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-13, 19:52:00](https://soylentnews.org/article.pl?sid=24/03/12/1944232&from=rss) - [Google's Self-Designed Office Swallows Wi-Fi “Like the Bermuda Triangle”](https://soylentnews.org/article.pl?sid=24/03/12/1944232&from=rss)
 * [2024-03-13, 15:04:00](https://soylentnews.org/article.pl?sid=24/03/12/1935230&from=rss) - [AI Story Roundup](https://soylentnews.org/article.pl?sid=24/03/12/1935230&from=rss)
 * [2024-03-13, 10:22:00](https://soylentnews.org/politics/article.pl?sid=24/03/12/1233216&from=rss) - [Elon Musk's Spacex Under Investigation Over Russia's Use Of Starlink](https://soylentnews.org/politics/article.pl?sid=24/03/12/1233216&from=rss)
 * [2024-03-13, 05:37:00](https://soylentnews.org/article.pl?sid=24/03/12/1228208&from=rss) - [NASA Is Still Fighting To Save Its Historic Voyager 1 Spacecraft](https://soylentnews.org/article.pl?sid=24/03/12/1228208&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-04, 23:02:00](https://soylentnews.org/article.pl?sid=24/03/03/1410233&from=rss) - [Massive Reserve of Helium Found by Minnesota Exploratory Drill](https://soylentnews.org/article.pl?sid=24/03/03/1410233&from=rss)
 * [2024-03-04, 18:19:00](https://soylentnews.org/article.pl?sid=24/03/03/1242249&from=rss) - [VISA and Biometric Authentication](https://soylentnews.org/article.pl?sid=24/03/03/1242249&from=rss)
 * [2024-03-04, 13:37:00](https://soylentnews.org/article.pl?sid=24/03/03/0259219&from=rss) - [How 40Hz Sensory Gamma Rhythm Stimulation Clears Amyloid in Alzheimer's Mice](https://soylentnews.org/article.pl?sid=24/03/03/0259219&from=rss)
-* [2024-03-04, 08:51:00](https://soylentnews.org/article.pl?sid=24/03/03/0249215&from=rss) - [Dark Forces Remastered Makes a Classic Star Wars Shooter Feel Fast and Fluid](https://soylentnews.org/article.pl?sid=24/03/03/0249215&from=rss)
 
 ## [Archives](archives/index.md)
 
