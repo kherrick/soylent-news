@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 19:43:00](https://soylentnews.org/article.pl?sid=24/03/13/1444247&from=rss) - [Broadcom-Owned VMware Kills the Free Version of ESXi Virtualization Software](https://soylentnews.org/article.pl?sid=24/03/13/1444247&from=rss)
 * [2024-03-14, 15:10:00](https://soylentnews.org/article.pl?sid=24/03/14/152236&from=rss) - [Happy Pi Day](https://soylentnews.org/article.pl?sid=24/03/14/152236&from=rss)
 * [2024-03-14, 14:53:00](https://soylentnews.org/article.pl?sid=24/03/13/1231201&from=rss) - [Reddit Aims for $6.4bn Valuation Ahead of Initial Public Offering](https://soylentnews.org/article.pl?sid=24/03/13/1231201&from=rss)
 * [2024-03-14, 10:07:00](https://soylentnews.org/article.pl?sid=24/03/13/1218246&from=rss) - [Microsoft Ending Support for Windows Subsystem for Android](https://soylentnews.org/article.pl?sid=24/03/13/1218246&from=rss)
