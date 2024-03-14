@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-14, 05:20:00](https://soylentnews.org/article.pl?sid=24/03/13/1216241&from=rss) - [Beekeepers Can Now Check Hives Without Upsetting the Residents](https://soylentnews.org/article.pl?sid=24/03/13/1216241&from=rss)
 * [2024-03-14, 00:39:00](https://soylentnews.org/article.pl?sid=24/03/14/0047239&from=rss) - [SpaceX Plans Test Launch of Super Heavy and Starship](https://soylentnews.org/article.pl?sid=24/03/14/0047239&from=rss)
 * [2024-03-13, 19:52:00](https://soylentnews.org/article.pl?sid=24/03/12/1944232&from=rss) - [Google's Self-Designed Office Swallows Wi-Fi “Like the Bermuda Triangle”](https://soylentnews.org/article.pl?sid=24/03/12/1944232&from=rss)
 * [2024-03-13, 15:04:00](https://soylentnews.org/article.pl?sid=24/03/12/1935230&from=rss) - [AI Story Roundup](https://soylentnews.org/article.pl?sid=24/03/12/1935230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-05, 08:32:00](https://soylentnews.org/article.pl?sid=24/03/03/1425200&from=rss) - [Rainproof Water Striders](https://soylentnews.org/article.pl?sid=24/03/03/1425200&from=rss)
 * [2024-03-05, 03:46:00](https://soylentnews.org/article.pl?sid=24/03/03/1419231&from=rss) - [Google is Blocking RCS (Rich Communication Services) on Rooted Android Devices](https://soylentnews.org/article.pl?sid=24/03/03/1419231&from=rss)
 * [2024-03-04, 23:02:00](https://soylentnews.org/article.pl?sid=24/03/03/1410233&from=rss) - [Massive Reserve of Helium Found by Minnesota Exploratory Drill](https://soylentnews.org/article.pl?sid=24/03/03/1410233&from=rss)
-* [2024-03-04, 18:19:00](https://soylentnews.org/article.pl?sid=24/03/03/1242249&from=rss) - [VISA and Biometric Authentication](https://soylentnews.org/article.pl?sid=24/03/03/1242249&from=rss)
 
 ## [Archives](archives/index.md)
 
