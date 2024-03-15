@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-03-15](index.md)
+
+* [2024-03-15, 00:28:00](https://soylentnews.org/article.pl?sid=24/03/13/1452255&from=rss) - [Giant \"Sand Battery\" Holds a Week's Heat for a Whole Town](https://soylentnews.org/article.pl?sid=24/03/13/1452255&from=rss)
