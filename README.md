@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-15, 05:15:00](https://soylentnews.org/article.pl?sid=24/03/13/1459247&from=rss) - [Banana Pi Launches $30 OpenWRT Wi-Fi 6 Router With WPA3 Protection, Optional PoE](https://soylentnews.org/article.pl?sid=24/03/13/1459247&from=rss)
 * [2024-03-15, 00:28:00](https://soylentnews.org/article.pl?sid=24/03/13/1452255&from=rss) - [Giant \"Sand Battery\" Holds a Week's Heat for a Whole Town](https://soylentnews.org/article.pl?sid=24/03/13/1452255&from=rss)
 * [2024-03-14, 19:43:00](https://soylentnews.org/article.pl?sid=24/03/13/1444247&from=rss) - [Broadcom-Owned VMware Kills the Free Version of ESXi Virtualization Software](https://soylentnews.org/article.pl?sid=24/03/13/1444247&from=rss)
 * [2024-03-14, 15:10:00](https://soylentnews.org/article.pl?sid=24/03/14/152236&from=rss) - [Happy Pi Day](https://soylentnews.org/article.pl?sid=24/03/14/152236&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-06, 08:09:00](https://soylentnews.org/article.pl?sid=24/03/05/1921240&from=rss) - [One Way to Improve a Fusion Reaction: Use Weaknesses as Strengths](https://soylentnews.org/article.pl?sid=24/03/05/1921240&from=rss)
 * [2024-03-06, 03:23:00](https://soylentnews.org/article.pl?sid=24/03/05/1917209&from=rss) - [European Commission Has Fined Apple Over €1.8 Billion Over Anti-Trust Violations](https://soylentnews.org/article.pl?sid=24/03/05/1917209&from=rss)
 * [2024-03-05, 23:26:00](https://soylentnews.org/meta/article.pl?sid=24/03/05/2231256&from=rss) - [Funding for SoylentNews is Critical](https://soylentnews.org/meta/article.pl?sid=24/03/05/2231256&from=rss)
-* [2024-03-05, 22:41:00](https://soylentnews.org/article.pl?sid=24/03/05/0151203&from=rss) - [Study Finds Daily Fiber Supplement Improves Older Adults' Brain Function in Just 12 Weeks](https://soylentnews.org/article.pl?sid=24/03/05/0151203&from=rss)
 
 ## [Archives](archives/index.md)
 
