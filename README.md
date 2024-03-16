@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-16, 10:48:00](https://soylentnews.org/article.pl?sid=24/03/14/1559235&from=rss) - [Hackers Can Read Private AI Assistant Chats Even Though They're Encrypted](https://soylentnews.org/article.pl?sid=24/03/14/1559235&from=rss)
 * [2024-03-16, 06:02:00](https://soylentnews.org/article.pl?sid=24/03/14/1557210&from=rss) - [Voyager 1 Starts Making Sense Again After Months of Babble](https://soylentnews.org/article.pl?sid=24/03/14/1557210&from=rss)
 * [2024-03-16, 01:17:00](https://soylentnews.org/article.pl?sid=24/03/14/041227&from=rss) - [Study Finds That We Could Lose Science If Publishers Go Bankrupt](https://soylentnews.org/article.pl?sid=24/03/14/041227&from=rss)
 * [2024-03-15, 20:35:00](https://soylentnews.org/article.pl?sid=24/03/13/1156201&from=rss) - [The Secret Life of XY Monitors](https://soylentnews.org/article.pl?sid=24/03/13/1156201&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-07, 09:19:00](https://soylentnews.org/meta/article.pl?sid=24/03/06/239238&from=rss) - [SN Funding Secure](https://soylentnews.org/meta/article.pl?sid=24/03/06/239238&from=rss)
 * [2024-03-07, 07:43:00](https://soylentnews.org/article.pl?sid=24/03/06/0333247&from=rss) - [Oregon OKs Right-to-Repair Bill That Bans the Blocking of Aftermarket Parts](https://soylentnews.org/article.pl?sid=24/03/06/0333247&from=rss)
 * [2024-03-07, 02:59:00](https://soylentnews.org/article.pl?sid=24/03/06/0331253&from=rss) - [New Anaconda Species Said to be Largest Ever Found](https://soylentnews.org/article.pl?sid=24/03/06/0331253&from=rss)
-* [2024-03-06, 22:12:00](https://soylentnews.org/article.pl?sid=24/03/06/0256234&from=rss) - [I Used Generative AI to Turn My Story Into a Comic](https://soylentnews.org/article.pl?sid=24/03/06/0256234&from=rss)
 
 ## [Archives](archives/index.md)
 
