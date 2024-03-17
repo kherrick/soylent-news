@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-17, 20:05:00](https://soylentnews.org/article.pl?sid=24/03/16/1648210&from=rss) - [Linux Mint is Building a New Desktop Chat App](https://soylentnews.org/article.pl?sid=24/03/16/1648210&from=rss)
 * [2024-03-17, 15:19:00](https://soylentnews.org/article.pl?sid=24/03/16/1635216&from=rss) - [You Don't Need Glue to Hold These Materials Together—Just Electricity](https://soylentnews.org/article.pl?sid=24/03/16/1635216&from=rss)
 * [2024-03-17, 10:32:00](https://soylentnews.org/article.pl?sid=24/03/16/1626240&from=rss) - [Linux Variants of Bifrost Trojan Evade Detection Via Typosquatting](https://soylentnews.org/article.pl?sid=24/03/16/1626240&from=rss)
 * [2024-03-17, 05:45:00](https://soylentnews.org/article.pl?sid=24/03/16/1619239&from=rss) - [“You a—Holes”: Court Docs Reveal Epic CEO's Anger at Steam's 30% Fees](https://soylentnews.org/article.pl?sid=24/03/16/1619239&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-08, 17:09:00](https://soylentnews.org/article.pl?sid=24/03/07/2011227&from=rss) - [Producing More but Understanding Less: The Risks of AI for Scientific Research](https://soylentnews.org/article.pl?sid=24/03/07/2011227&from=rss)
 * [2024-03-08, 12:22:00](https://soylentnews.org/article.pl?sid=24/03/07/206237&from=rss) - [Bumblebees Surprise Scientists With Advanced Social Learning Skills](https://soylentnews.org/article.pl?sid=24/03/07/206237&from=rss)
 * [2024-03-08, 07:37:00](https://soylentnews.org/article.pl?sid=24/03/07/118201&from=rss) - [Ex-Twitter Executives Sue Musk for Unpaid Severance](https://soylentnews.org/article.pl?sid=24/03/07/118201&from=rss)
-* [2024-03-08, 02:49:00](https://soylentnews.org/article.pl?sid=24/03/07/0248201&from=rss) - [Butterflies Mimic Each Other's Flight Behavior to Avoid Predators](https://soylentnews.org/article.pl?sid=24/03/07/0248201&from=rss)
 
 ## [Archives](archives/index.md)
 
