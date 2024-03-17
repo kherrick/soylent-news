@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-17, 01:02:00](https://soylentnews.org/article.pl?sid=24/03/15/0314222&from=rss) - [Op-Ed: Charges Against Journalist Tim Burke Are a Hack Job](https://soylentnews.org/article.pl?sid=24/03/15/0314222&from=rss)
 * [2024-03-16, 20:16:00](https://soylentnews.org/article.pl?sid=24/03/14/168257&from=rss) - [House Bill on Banning Bytedance's Tiktok Moves Forward to the Senate](https://soylentnews.org/article.pl?sid=24/03/14/168257&from=rss)
 * [2024-03-16, 15:32:00](https://soylentnews.org/article.pl?sid=24/03/14/163229&from=rss) - [Transgenic Cows Boost Human Insulin Production by 10X](https://soylentnews.org/article.pl?sid=24/03/14/163229&from=rss)
 * [2024-03-16, 10:48:00](https://soylentnews.org/article.pl?sid=24/03/14/1559235&from=rss) - [Hackers Can Read Private AI Assistant Chats Even Though They're Encrypted](https://soylentnews.org/article.pl?sid=24/03/14/1559235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-07, 22:04:00](https://soylentnews.org/article.pl?sid=24/03/07/0242253&from=rss) - [It Turns Out That Odysseus Landed on the Moon Without Any Altimetry Data](https://soylentnews.org/article.pl?sid=24/03/07/0242253&from=rss)
 * [2024-03-07, 17:21:00](https://soylentnews.org/article.pl?sid=24/03/06/202223&from=rss) - [Sugar-Reduced Chocolate With Oat Flour Just as Tasty as Original, Study Finds](https://soylentnews.org/article.pl?sid=24/03/06/202223&from=rss)
 * [2024-03-07, 12:34:00](https://soylentnews.org/article.pl?sid=24/03/06/1828234&from=rss) - [Spain Tells Sam Altman, Worldcoin to Shut Down its Eyeball-Scanning Orbs](https://soylentnews.org/article.pl?sid=24/03/06/1828234&from=rss)
-* [2024-03-07, 09:19:00](https://soylentnews.org/meta/article.pl?sid=24/03/06/239238&from=rss) - [SN Funding Secure](https://soylentnews.org/meta/article.pl?sid=24/03/06/239238&from=rss)
 
 ## [Archives](archives/index.md)
 
