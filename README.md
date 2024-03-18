@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-18, 15:01:00](https://soylentnews.org/article.pl?sid=24/03/17/1857237&from=rss) - [The FCC Just Quadrupled the Download Speed Required to Market Internet as ‘Broadband’](https://soylentnews.org/article.pl?sid=24/03/17/1857237&from=rss)
 * [2024-03-18, 10:23:00](https://soylentnews.org/article.pl?sid=24/03/17/1856202&from=rss) - [US Government Agencies Demand Fixable Ice Cream Machines](https://soylentnews.org/article.pl?sid=24/03/17/1856202&from=rss)
 * [2024-03-18, 05:34:00](https://soylentnews.org/article.pl?sid=24/03/17/1847256&from=rss) - [Brighter, Cheaper Blue Light could Revolutionize Screen Technology](https://soylentnews.org/article.pl?sid=24/03/17/1847256&from=rss)
 * [2024-03-18, 00:49:00](https://soylentnews.org/article.pl?sid=24/03/17/1841241&from=rss) - [Uber and Lyft are Quitting Minneapolis Over a Driver Pay Increase](https://soylentnews.org/article.pl?sid=24/03/17/1841241&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-09, 12:12:00](https://soylentnews.org/article.pl?sid=24/03/08/165249&from=rss) - [Threatened in Their Homeland, Feral Mexican Parrots Thrive on LA's Exotic Landscaping](https://soylentnews.org/article.pl?sid=24/03/08/165249&from=rss)
 * [2024-03-09, 07:24:00](https://soylentnews.org/article.pl?sid=24/03/08/037240&from=rss) - [Switch Emulator Makers Agree to Pay $2.4 Million to Settle Nintendo Lawsuit](https://soylentnews.org/article.pl?sid=24/03/08/037240&from=rss)
 * [2024-03-09, 02:38:00](https://soylentnews.org/article.pl?sid=24/03/08/032223&from=rss) - [The Comet Strike Theory That Just Won’t Die](https://soylentnews.org/article.pl?sid=24/03/08/032223&from=rss)
-* [2024-03-08, 21:54:00](https://soylentnews.org/article.pl?sid=24/03/08/0255244&from=rss) - [Bus Pirate v5 Released](https://soylentnews.org/article.pl?sid=24/03/08/0255244&from=rss)
 
 ## [Archives](archives/index.md)
 
