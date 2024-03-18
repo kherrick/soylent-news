@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-18, 05:34:00](https://soylentnews.org/article.pl?sid=24/03/17/1847256&from=rss) - [Brighter, Cheaper Blue Light could Revolutionize Screen Technology](https://soylentnews.org/article.pl?sid=24/03/17/1847256&from=rss)
 * [2024-03-18, 00:49:00](https://soylentnews.org/article.pl?sid=24/03/17/1841241&from=rss) - [Uber and Lyft are Quitting Minneapolis Over a Driver Pay Increase](https://soylentnews.org/article.pl?sid=24/03/17/1841241&from=rss)
 * [2024-03-17, 20:05:00](https://soylentnews.org/article.pl?sid=24/03/16/1648210&from=rss) - [Linux Mint is Building a New Desktop Chat App](https://soylentnews.org/article.pl?sid=24/03/16/1648210&from=rss)
 * [2024-03-17, 15:19:00](https://soylentnews.org/article.pl?sid=24/03/16/1635216&from=rss) - [You Don't Need Glue to Hold These Materials Together—Just Electricity](https://soylentnews.org/article.pl?sid=24/03/16/1635216&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-09, 02:38:00](https://soylentnews.org/article.pl?sid=24/03/08/032223&from=rss) - [The Comet Strike Theory That Just Won’t Die](https://soylentnews.org/article.pl?sid=24/03/08/032223&from=rss)
 * [2024-03-08, 21:54:00](https://soylentnews.org/article.pl?sid=24/03/08/0255244&from=rss) - [Bus Pirate v5 Released](https://soylentnews.org/article.pl?sid=24/03/08/0255244&from=rss)
 * [2024-03-08, 17:09:00](https://soylentnews.org/article.pl?sid=24/03/07/2011227&from=rss) - [Producing More but Understanding Less: The Risks of AI for Scientific Research](https://soylentnews.org/article.pl?sid=24/03/07/2011227&from=rss)
-* [2024-03-08, 12:22:00](https://soylentnews.org/article.pl?sid=24/03/07/206237&from=rss) - [Bumblebees Surprise Scientists With Advanced Social Learning Skills](https://soylentnews.org/article.pl?sid=24/03/07/206237&from=rss)
 
 ## [Archives](archives/index.md)
 
