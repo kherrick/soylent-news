@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-20, 05:05:00](https://soylentnews.org/article.pl?sid=24/03/19/0317232&from=rss) - [Bridge in a Box: Unlocking Origami's Power to Produce Load-Bearing Structures](https://soylentnews.org/article.pl?sid=24/03/19/0317232&from=rss)
 * [2024-03-20, 00:18:00](https://soylentnews.org/article.pl?sid=24/03/19/0312207&from=rss) - [VR Headsets Can be Hacked With an Inception-style Attack](https://soylentnews.org/article.pl?sid=24/03/19/0312207&from=rss)
 * [2024-03-19, 19:32:00](https://soylentnews.org/article.pl?sid=24/03/18/0535200&from=rss) - [Framework Laptop 16 Review: A Modular Marvel, but a Mediocre Gaming Laptop](https://soylentnews.org/article.pl?sid=24/03/18/0535200&from=rss)
 * [2024-03-19, 14:47:00](https://soylentnews.org/article.pl?sid=24/03/18/0529259&from=rss) - [Berlin’s Techno Scene Added to UNESCO Cultural Heritage List](https://soylentnews.org/article.pl?sid=24/03/18/0529259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-11, 01:24:00](https://soylentnews.org/article.pl?sid=24/03/08/1614254&from=rss) - [Living With the Ghost of a Smart Home's Past](https://soylentnews.org/article.pl?sid=24/03/08/1614254&from=rss)
 * [2024-03-10, 20:41:00](https://soylentnews.org/article.pl?sid=24/03/09/0243221&from=rss) - [The FBI’s New Tactic: Catching Suspects with Push Alerts](https://soylentnews.org/article.pl?sid=24/03/09/0243221&from=rss)
 * [2024-03-10, 16:02:00](https://soylentnews.org/article.pl?sid=24/03/09/0155209&from=rss) - [Ransomware Halts Production At Belgian Beer Brewery Duvel ](https://soylentnews.org/article.pl?sid=24/03/09/0155209&from=rss)
-* [2024-03-10, 11:22:00](https://soylentnews.org/article.pl?sid=24/03/09/028233&from=rss) - [A Giant Piece of Space Station Trash Will Crash to Earth this Weekend](https://soylentnews.org/article.pl?sid=24/03/09/028233&from=rss)
 
 ## [Archives](archives/index.md)
 
