@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-20, 10:41:00](https://soylentnews.org/meta/article.pl?sid=24/03/20/1038203&from=rss) - [Site News Update](https://soylentnews.org/meta/article.pl?sid=24/03/20/1038203&from=rss)
 * [2024-03-20, 09:53:00](https://soylentnews.org/article.pl?sid=24/03/19/1654231&from=rss) - [Cisco Acquires Splunk in $28 Billion Cybersecurity Deal](https://soylentnews.org/article.pl?sid=24/03/19/1654231&from=rss)
 * [2024-03-20, 05:05:00](https://soylentnews.org/article.pl?sid=24/03/19/0317232&from=rss) - [Bridge in a Box: Unlocking Origami's Power to Produce Load-Bearing Structures](https://soylentnews.org/article.pl?sid=24/03/19/0317232&from=rss)
 * [2024-03-20, 00:18:00](https://soylentnews.org/article.pl?sid=24/03/19/0312207&from=rss) - [VR Headsets Can be Hacked With an Inception-style Attack](https://soylentnews.org/article.pl?sid=24/03/19/0312207&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-11, 10:54:00](https://soylentnews.org/article.pl?sid=24/03/10/108231&from=rss) - [Intel Inches Closer To $3.5B Military Chip Contract](https://soylentnews.org/article.pl?sid=24/03/10/108231&from=rss)
 * [2024-03-11, 06:11:00](https://soylentnews.org/article.pl?sid=24/03/10/0447201&from=rss) - [Non-Profit Builds Site To Track Surging AI Mishaps](https://soylentnews.org/article.pl?sid=24/03/10/0447201&from=rss)
 * [2024-03-11, 01:24:00](https://soylentnews.org/article.pl?sid=24/03/08/1614254&from=rss) - [Living With the Ghost of a Smart Home's Past](https://soylentnews.org/article.pl?sid=24/03/08/1614254&from=rss)
-* [2024-03-10, 20:41:00](https://soylentnews.org/article.pl?sid=24/03/09/0243221&from=rss) - [The FBI’s New Tactic: Catching Suspects with Push Alerts](https://soylentnews.org/article.pl?sid=24/03/09/0243221&from=rss)
 
 ## [Archives](archives/index.md)
 
