@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-21, 00:04:00](https://soylentnews.org/article.pl?sid=24/03/19/1845235&from=rss) - [How to Make C++ Less Vulnerable and How \"Secure\" Languages Aren't So Secure.](https://soylentnews.org/article.pl?sid=24/03/19/1845235&from=rss)
 * [2024-03-20, 19:15:00](https://soylentnews.org/article.pl?sid=24/03/19/1659204&from=rss) - [UK Government Wants Flying Taxis to Take Off in 2 Years](https://soylentnews.org/article.pl?sid=24/03/19/1659204&from=rss)
 * [2024-03-20, 14:32:00](https://soylentnews.org/article.pl?sid=24/03/19/1649210&from=rss) - [A Novel Method for Woodland Water Resource Management](https://soylentnews.org/article.pl?sid=24/03/19/1649210&from=rss)
 * [2024-03-20, 10:41:00](https://soylentnews.org/meta/article.pl?sid=24/03/20/1038203&from=rss) - [Site News Update](https://soylentnews.org/meta/article.pl?sid=24/03/20/1038203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-12, 01:13:00](https://soylentnews.org/article.pl?sid=24/03/10/1017237&from=rss) - [The Chinese Are Planning to Replace All American Technology](https://soylentnews.org/article.pl?sid=24/03/10/1017237&from=rss)
 * [2024-03-11, 20:32:00](https://soylentnews.org/article.pl?sid=24/03/10/1013253&from=rss) - [Euro-Cloud Consortium Issues Ultimatum to Microsoft](https://soylentnews.org/article.pl?sid=24/03/10/1013253&from=rss)
 * [2024-03-11, 15:43:00](https://soylentnews.org/article.pl?sid=24/03/10/0451241&from=rss) - [Some Teachers Are Now Using ChatGPT to Grade Papers](https://soylentnews.org/article.pl?sid=24/03/10/0451241&from=rss)
-* [2024-03-11, 10:54:00](https://soylentnews.org/article.pl?sid=24/03/10/108231&from=rss) - [Intel Inches Closer To $3.5B Military Chip Contract](https://soylentnews.org/article.pl?sid=24/03/10/108231&from=rss)
 
 ## [Archives](archives/index.md)
 
