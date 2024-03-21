@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 04:51:00](https://soylentnews.org/article.pl?sid=24/03/19/1851225&from=rss) - [Detailed Macrophotography of PCBs](https://soylentnews.org/article.pl?sid=24/03/19/1851225&from=rss)
 * [2024-03-21, 00:04:00](https://soylentnews.org/article.pl?sid=24/03/19/1845235&from=rss) - [How to Make C++ Less Vulnerable and How \"Secure\" Languages Aren't So Secure.](https://soylentnews.org/article.pl?sid=24/03/19/1845235&from=rss)
