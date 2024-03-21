@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-21, 14:21:00](https://soylentnews.org/article.pl?sid=24/03/20/0043210&from=rss) - [It Took Starbucks a Little Too Long to Realize Coffee NFTs Aren't It](https://soylentnews.org/article.pl?sid=24/03/20/0043210&from=rss)
 * [2024-03-21, 09:33:00](https://soylentnews.org/article.pl?sid=24/03/19/1856224&from=rss) - [Floating Crystals Slow Stellar Aging. for Some Stars, This Can Delay Death by Billions of Years](https://soylentnews.org/article.pl?sid=24/03/19/1856224&from=rss)
 * [2024-03-21, 04:51:00](https://soylentnews.org/article.pl?sid=24/03/19/1851225&from=rss) - [Detailed Macrophotography of PCBs](https://soylentnews.org/article.pl?sid=24/03/19/1851225&from=rss)
 * [2024-03-21, 00:04:00](https://soylentnews.org/article.pl?sid=24/03/19/1845235&from=rss) - [How to Make C++ Less Vulnerable and How \"Secure\" Languages Aren't So Secure.](https://soylentnews.org/article.pl?sid=24/03/19/1845235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-12, 15:26:00](https://soylentnews.org/article.pl?sid=24/03/10/1028246&from=rss) - [Hidden 'Star' Sand Dune Mystery Solved by Ancient Find](https://soylentnews.org/article.pl?sid=24/03/10/1028246&from=rss)
 * [2024-03-12, 10:42:00](https://soylentnews.org/article.pl?sid=24/03/10/1023249&from=rss) - [Attack Wrangles Thousands Of Web Users Into A Password-Cracking Botnet](https://soylentnews.org/article.pl?sid=24/03/10/1023249&from=rss)
 * [2024-03-12, 05:59:00](https://soylentnews.org/article.pl?sid=24/03/10/1020209&from=rss) - [What Makes Birds So Smart?](https://soylentnews.org/article.pl?sid=24/03/10/1020209&from=rss)
-* [2024-03-12, 01:13:00](https://soylentnews.org/article.pl?sid=24/03/10/1017237&from=rss) - [The Chinese Are Planning to Replace All American Technology](https://soylentnews.org/article.pl?sid=24/03/10/1017237&from=rss)
 
 ## [Archives](archives/index.md)
 
