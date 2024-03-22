@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-22, 14:02:00](https://soylentnews.org/article.pl?sid=24/03/21/124218&from=rss) - [Massive New Study Uncovers Over 4,000 Toxic Chemicals in Plastic](https://soylentnews.org/article.pl?sid=24/03/21/124218&from=rss)
 * [2024-03-22, 09:16:00](https://soylentnews.org/article.pl?sid=24/03/21/1158238&from=rss) - [Nvidia Announces “Moonshot” to Create Embodied Human-Level AI in Robot Form](https://soylentnews.org/article.pl?sid=24/03/21/1158238&from=rss)
 * [2024-03-22, 04:34:00](https://soylentnews.org/article.pl?sid=24/03/21/0124222&from=rss) - [Leaked SpaceX Documents Show Company Forbids Employees to Sell Stock If It Deems They've Misbehaved](https://soylentnews.org/article.pl?sid=24/03/21/0124222&from=rss)
 * [2024-03-21, 23:49:00](https://soylentnews.org/article.pl?sid=24/03/20/0130231&from=rss) - [Apple Didn't Revolutionize Power Supplies; New Transistors Did](https://soylentnews.org/article.pl?sid=24/03/20/0130231&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-13, 15:04:00](https://soylentnews.org/article.pl?sid=24/03/12/1935230&from=rss) - [AI Story Roundup](https://soylentnews.org/article.pl?sid=24/03/12/1935230&from=rss)
 * [2024-03-13, 10:22:00](https://soylentnews.org/politics/article.pl?sid=24/03/12/1233216&from=rss) - [Elon Musk's Spacex Under Investigation Over Russia's Use Of Starlink](https://soylentnews.org/politics/article.pl?sid=24/03/12/1233216&from=rss)
 * [2024-03-13, 05:37:00](https://soylentnews.org/article.pl?sid=24/03/12/1228208&from=rss) - [NASA Is Still Fighting To Save Its Historic Voyager 1 Spacecraft](https://soylentnews.org/article.pl?sid=24/03/12/1228208&from=rss)
-* [2024-03-13, 00:56:00](https://soylentnews.org/article.pl?sid=24/03/12/1223249&from=rss) - [OpenAI CEO Altman Wasn't Fired Because of Scary New Tech, Just Internal Politics](https://soylentnews.org/article.pl?sid=24/03/12/1223249&from=rss)
 
 ## [Archives](archives/index.md)
 
