@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-22, 04:34:00](https://soylentnews.org/article.pl?sid=24/03/21/0124222&from=rss) - [Leaked SpaceX Documents Show Company Forbids Employees to Sell Stock If It Deems They've Misbehaved](https://soylentnews.org/article.pl?sid=24/03/21/0124222&from=rss)
 * [2024-03-21, 23:49:00](https://soylentnews.org/article.pl?sid=24/03/20/0130231&from=rss) - [Apple Didn't Revolutionize Power Supplies; New Transistors Did](https://soylentnews.org/article.pl?sid=24/03/20/0130231&from=rss)
 * [2024-03-21, 19:03:00](https://soylentnews.org/article.pl?sid=24/03/20/0125210&from=rss) - [IIHS Tests Driving Automation Systems--Only One Acceptable Rating of 14 Tested](https://soylentnews.org/article.pl?sid=24/03/20/0125210&from=rss)
 * [2024-03-21, 14:21:00](https://soylentnews.org/article.pl?sid=24/03/20/0043210&from=rss) - [It Took Starbucks a Little Too Long to Realize Coffee NFTs Aren't It](https://soylentnews.org/article.pl?sid=24/03/20/0043210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-13, 05:37:00](https://soylentnews.org/article.pl?sid=24/03/12/1228208&from=rss) - [NASA Is Still Fighting To Save Its Historic Voyager 1 Spacecraft](https://soylentnews.org/article.pl?sid=24/03/12/1228208&from=rss)
 * [2024-03-13, 00:56:00](https://soylentnews.org/article.pl?sid=24/03/12/1223249&from=rss) - [OpenAI CEO Altman Wasn't Fired Because of Scary New Tech, Just Internal Politics](https://soylentnews.org/article.pl?sid=24/03/12/1223249&from=rss)
 * [2024-03-12, 20:12:00](https://soylentnews.org/article.pl?sid=24/03/11/187226&from=rss) - [Low Voice Pitch Increases Standing Among Strangers](https://soylentnews.org/article.pl?sid=24/03/11/187226&from=rss)
-* [2024-03-12, 15:26:00](https://soylentnews.org/article.pl?sid=24/03/10/1028246&from=rss) - [Hidden 'Star' Sand Dune Mystery Solved by Ancient Find](https://soylentnews.org/article.pl?sid=24/03/10/1028246&from=rss)
 
 ## [Archives](archives/index.md)
 
