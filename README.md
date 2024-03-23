@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-23, 03:13:00](https://soylentnews.org/article.pl?sid=24/03/21/1955228&from=rss) - [A Ban on Polluter Sponsorships In Winter Sports Can Save Our Snow](https://soylentnews.org/article.pl?sid=24/03/21/1955228&from=rss)
 * [2024-03-22, 23:31:00](https://soylentnews.org/article.pl?sid=24/03/21/1950246&from=rss) - [Unreal Engine 5.4 Revealed Running Amy Hennig's New Marvel Game](https://soylentnews.org/article.pl?sid=24/03/21/1950246&from=rss)
 * [2024-03-22, 18:45:00](https://soylentnews.org/article.pl?sid=24/03/21/1948238&from=rss) - [Remembering MDC RIP 24 March 2019 - One of Us.](https://soylentnews.org/article.pl?sid=24/03/21/1948238&from=rss)
 * [2024-03-22, 14:02:00](https://soylentnews.org/article.pl?sid=24/03/21/124218&from=rss) - [Massive New Study Uncovers Over 4,000 Toxic Chemicals in Plastic](https://soylentnews.org/article.pl?sid=24/03/21/124218&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-14, 05:20:00](https://soylentnews.org/article.pl?sid=24/03/13/1216241&from=rss) - [Beekeepers Can Now Check Hives Without Upsetting the Residents](https://soylentnews.org/article.pl?sid=24/03/13/1216241&from=rss)
 * [2024-03-14, 00:39:00](https://soylentnews.org/article.pl?sid=24/03/14/0047239&from=rss) - [SpaceX Plans Test Launch of Super Heavy and Starship](https://soylentnews.org/article.pl?sid=24/03/14/0047239&from=rss)
 * [2024-03-13, 19:52:00](https://soylentnews.org/article.pl?sid=24/03/12/1944232&from=rss) - [Google's Self-Designed Office Swallows Wi-Fi “Like the Bermuda Triangle”](https://soylentnews.org/article.pl?sid=24/03/12/1944232&from=rss)
-* [2024-03-13, 15:04:00](https://soylentnews.org/article.pl?sid=24/03/12/1935230&from=rss) - [AI Story Roundup](https://soylentnews.org/article.pl?sid=24/03/12/1935230&from=rss)
 
 ## [Archives](archives/index.md)
 
