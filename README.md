@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-23, 17:35:00](https://soylentnews.org/article.pl?sid=24/03/23/0118225&from=rss) - [The Huge Security Hack That Might Make Travelers Feel Less Safe In Hotels](https://soylentnews.org/article.pl?sid=24/03/23/0118225&from=rss)
 * [2024-03-23, 12:42:00](https://soylentnews.org/article.pl?sid=24/03/21/203204&from=rss) - [“Disabling Cyberattacks” Are Hitting Critical US Water Systems, White House Warns](https://soylentnews.org/article.pl?sid=24/03/21/203204&from=rss)
 * [2024-03-23, 07:58:00](https://soylentnews.org/article.pl?sid=24/03/21/1959242&from=rss) - [Intel 8080 Emulator. 19th IOCCC. Best of Show.](https://soylentnews.org/article.pl?sid=24/03/21/1959242&from=rss)
 * [2024-03-23, 03:13:00](https://soylentnews.org/article.pl?sid=24/03/21/1955228&from=rss) - [A Ban on Polluter Sponsorships In Winter Sports Can Save Our Snow](https://soylentnews.org/article.pl?sid=24/03/21/1955228&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-14, 15:10:00](https://soylentnews.org/article.pl?sid=24/03/14/152236&from=rss) - [Happy Pi Day](https://soylentnews.org/article.pl?sid=24/03/14/152236&from=rss)
 * [2024-03-14, 14:53:00](https://soylentnews.org/article.pl?sid=24/03/13/1231201&from=rss) - [Reddit Aims for $6.4bn Valuation Ahead of Initial Public Offering](https://soylentnews.org/article.pl?sid=24/03/13/1231201&from=rss)
 * [2024-03-14, 10:07:00](https://soylentnews.org/article.pl?sid=24/03/13/1218246&from=rss) - [Microsoft Ending Support for Windows Subsystem for Android](https://soylentnews.org/article.pl?sid=24/03/13/1218246&from=rss)
-* [2024-03-14, 05:20:00](https://soylentnews.org/article.pl?sid=24/03/13/1216241&from=rss) - [Beekeepers Can Now Check Hives Without Upsetting the Residents](https://soylentnews.org/article.pl?sid=24/03/13/1216241&from=rss)
 
 ## [Archives](archives/index.md)
 
