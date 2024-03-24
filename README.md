@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-24, 07:44:00](https://soylentnews.org/article.pl?sid=24/03/23/0129240&from=rss) - [Backyard Insect Inspires Invisibility Devices, Next Gen Tech](https://soylentnews.org/article.pl?sid=24/03/23/0129240&from=rss)
 * [2024-03-24, 02:59:00](https://soylentnews.org/article.pl?sid=24/03/23/0126253&from=rss) - [Unpatchable Vulnerability in Apple Chip Leaks Secret Encryption Keys](https://soylentnews.org/article.pl?sid=24/03/23/0126253&from=rss)
 * [2024-03-23, 22:19:00](https://soylentnews.org/article.pl?sid=24/03/23/0122202&from=rss) - [Social Media Cannot Hide From Defective Product Lawsuits ... for Now](https://soylentnews.org/article.pl?sid=24/03/23/0122202&from=rss)
 * [2024-03-23, 17:35:00](https://soylentnews.org/article.pl?sid=24/03/23/0118225&from=rss) - [The Huge Security Hack That Might Make Travelers Feel Less Safe In Hotels](https://soylentnews.org/article.pl?sid=24/03/23/0118225&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-15, 05:15:00](https://soylentnews.org/article.pl?sid=24/03/13/1459247&from=rss) - [Banana Pi Launches $30 OpenWRT Wi-Fi 6 Router With WPA3 Protection, Optional PoE](https://soylentnews.org/article.pl?sid=24/03/13/1459247&from=rss)
 * [2024-03-15, 00:28:00](https://soylentnews.org/article.pl?sid=24/03/13/1452255&from=rss) - [Giant \"Sand Battery\" Holds a Week's Heat for a Whole Town](https://soylentnews.org/article.pl?sid=24/03/13/1452255&from=rss)
 * [2024-03-14, 19:43:00](https://soylentnews.org/article.pl?sid=24/03/13/1444247&from=rss) - [Broadcom-Owned VMware Kills the Free Version of ESXi Virtualization Software](https://soylentnews.org/article.pl?sid=24/03/13/1444247&from=rss)
-* [2024-03-14, 15:10:00](https://soylentnews.org/article.pl?sid=24/03/14/152236&from=rss) - [Happy Pi Day](https://soylentnews.org/article.pl?sid=24/03/14/152236&from=rss)
 
 ## [Archives](archives/index.md)
 
