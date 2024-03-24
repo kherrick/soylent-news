@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-24, 12:30:00](https://soylentnews.org/article.pl?sid=24/03/23/0139230&from=rss) - [A Protein Found in Human Sweat may Protect against Lyme Disease](https://soylentnews.org/article.pl?sid=24/03/23/0139230&from=rss)
 * [2024-03-24, 07:44:00](https://soylentnews.org/article.pl?sid=24/03/23/0129240&from=rss) - [Backyard Insect Inspires Invisibility Devices, Next Gen Tech](https://soylentnews.org/article.pl?sid=24/03/23/0129240&from=rss)
 * [2024-03-24, 02:59:00](https://soylentnews.org/article.pl?sid=24/03/23/0126253&from=rss) - [Unpatchable Vulnerability in Apple Chip Leaks Secret Encryption Keys](https://soylentnews.org/article.pl?sid=24/03/23/0126253&from=rss)
 * [2024-03-23, 22:19:00](https://soylentnews.org/article.pl?sid=24/03/23/0122202&from=rss) - [Social Media Cannot Hide From Defective Product Lawsuits ... for Now](https://soylentnews.org/article.pl?sid=24/03/23/0122202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-15, 10:01:00](https://soylentnews.org/article.pl?sid=24/03/13/152249&from=rss) - [​​The NYPD Sent a Warrantless Subpoena for a Copwatcher’s Social Media Account, but Won’t Defend It ](https://soylentnews.org/article.pl?sid=24/03/13/152249&from=rss)
 * [2024-03-15, 05:15:00](https://soylentnews.org/article.pl?sid=24/03/13/1459247&from=rss) - [Banana Pi Launches $30 OpenWRT Wi-Fi 6 Router With WPA3 Protection, Optional PoE](https://soylentnews.org/article.pl?sid=24/03/13/1459247&from=rss)
 * [2024-03-15, 00:28:00](https://soylentnews.org/article.pl?sid=24/03/13/1452255&from=rss) - [Giant \"Sand Battery\" Holds a Week's Heat for a Whole Town](https://soylentnews.org/article.pl?sid=24/03/13/1452255&from=rss)
-* [2024-03-14, 19:43:00](https://soylentnews.org/article.pl?sid=24/03/13/1444247&from=rss) - [Broadcom-Owned VMware Kills the Free Version of ESXi Virtualization Software](https://soylentnews.org/article.pl?sid=24/03/13/1444247&from=rss)
 
 ## [Archives](archives/index.md)
 
