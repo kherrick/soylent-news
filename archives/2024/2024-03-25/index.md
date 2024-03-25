@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 08:34:00](https://soylentnews.org/article.pl?sid=24/03/24/0356200&from=rss) - [TN Passes ELVIS Act to Explicitly Protect the Right of Publicity From Generative AI](https://soylentnews.org/article.pl?sid=24/03/24/0356200&from=rss)
 * [2024-03-25, 03:49:00](https://soylentnews.org/article.pl?sid=24/03/24/0350235&from=rss) - [Exploration—Not Work—Could be Key to a Vibrant Local Economy](https://soylentnews.org/article.pl?sid=24/03/24/0350235&from=rss)

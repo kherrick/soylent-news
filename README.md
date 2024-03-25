@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-25, 08:34:00](https://soylentnews.org/article.pl?sid=24/03/24/0356200&from=rss) - [TN Passes ELVIS Act to Explicitly Protect the Right of Publicity From Generative AI](https://soylentnews.org/article.pl?sid=24/03/24/0356200&from=rss)
 * [2024-03-25, 03:49:00](https://soylentnews.org/article.pl?sid=24/03/24/0350235&from=rss) - [Exploration—Not Work—Could be Key to a Vibrant Local Economy](https://soylentnews.org/article.pl?sid=24/03/24/0350235&from=rss)
 * [2024-03-24, 23:05:00](https://soylentnews.org/article.pl?sid=24/03/23/167253&from=rss) - [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://soylentnews.org/article.pl?sid=24/03/23/167253&from=rss)
 * [2024-03-24, 17:19:00](https://soylentnews.org/article.pl?sid=24/03/23/1550226&from=rss) - [Redis Changes License From BSD-3 to Dual RSALv2+SSPLv1](https://soylentnews.org/article.pl?sid=24/03/23/1550226&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-16, 10:48:00](https://soylentnews.org/article.pl?sid=24/03/14/1559235&from=rss) - [Hackers Can Read Private AI Assistant Chats Even Though They're Encrypted](https://soylentnews.org/article.pl?sid=24/03/14/1559235&from=rss)
 * [2024-03-16, 06:02:00](https://soylentnews.org/article.pl?sid=24/03/14/1557210&from=rss) - [Voyager 1 Starts Making Sense Again After Months of Babble](https://soylentnews.org/article.pl?sid=24/03/14/1557210&from=rss)
 * [2024-03-16, 01:17:00](https://soylentnews.org/article.pl?sid=24/03/14/041227&from=rss) - [Study Finds That We Could Lose Science If Publishers Go Bankrupt](https://soylentnews.org/article.pl?sid=24/03/14/041227&from=rss)
-* [2024-03-15, 20:35:00](https://soylentnews.org/article.pl?sid=24/03/13/1156201&from=rss) - [The Secret Life of XY Monitors](https://soylentnews.org/article.pl?sid=24/03/13/1156201&from=rss)
 
 ## [Archives](archives/index.md)
 
