@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-26, 08:26:00](https://soylentnews.org/article.pl?sid=24/03/25/0351234&from=rss) - [Life's Building Blocks Are Surprisingly Stable in Venus-Like Conditions](https://soylentnews.org/article.pl?sid=24/03/25/0351234&from=rss)
 * [2024-03-26, 03:40:00](https://soylentnews.org/article.pl?sid=24/03/25/0343258&from=rss) - [Macbook Charger Teardown: The Surprising Complexity Inside Apple's Power Adapter](https://soylentnews.org/article.pl?sid=24/03/25/0343258&from=rss)
 * [2024-03-25, 22:53:00](https://soylentnews.org/article.pl?sid=24/03/25/0335245&from=rss) - [First Time Doctors Transplant Gene-edited Pig Kidney Into Living Human](https://soylentnews.org/article.pl?sid=24/03/25/0335245&from=rss)
 * [2024-03-25, 18:07:00](https://soylentnews.org/article.pl?sid=24/03/24/2040238&from=rss) - [Einsteins (the Tiles) Meet Error Correction for Quantum Superposition](https://soylentnews.org/article.pl?sid=24/03/24/2040238&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-17, 10:32:00](https://soylentnews.org/article.pl?sid=24/03/16/1626240&from=rss) - [Linux Variants of Bifrost Trojan Evade Detection Via Typosquatting](https://soylentnews.org/article.pl?sid=24/03/16/1626240&from=rss)
 * [2024-03-17, 05:45:00](https://soylentnews.org/article.pl?sid=24/03/16/1619239&from=rss) - [“You a—Holes”: Court Docs Reveal Epic CEO's Anger at Steam's 30% Fees](https://soylentnews.org/article.pl?sid=24/03/16/1619239&from=rss)
 * [2024-03-17, 01:02:00](https://soylentnews.org/article.pl?sid=24/03/15/0314222&from=rss) - [Op-Ed: Charges Against Journalist Tim Burke Are a Hack Job](https://soylentnews.org/article.pl?sid=24/03/15/0314222&from=rss)
-* [2024-03-16, 20:16:00](https://soylentnews.org/article.pl?sid=24/03/14/168257&from=rss) - [House Bill on Banning Bytedance's Tiktok Moves Forward to the Senate](https://soylentnews.org/article.pl?sid=24/03/14/168257&from=rss)
 
 ## [Archives](archives/index.md)
 
