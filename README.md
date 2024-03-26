@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-26, 22:41:00](https://soylentnews.org/article.pl?sid=24/03/25/0712235&from=rss) - [Google Is Spending $1 Billion On A New Data Center In Kansas City](https://soylentnews.org/article.pl?sid=24/03/25/0712235&from=rss)
 * [2024-03-26, 17:52:00](https://soylentnews.org/article.pl?sid=24/03/25/076249&from=rss) - [Revisiting the 2014 South Korea Hydro and Nuclear Power Hack](https://soylentnews.org/article.pl?sid=24/03/25/076249&from=rss)
 * [2024-03-26, 14:52:00](https://soylentnews.org/politics/article.pl?sid=24/03/26/1448216&from=rss) - [Julian Assange Faces Further Wait Over Extradition Ruling - UK Court Needs US Assurances](https://soylentnews.org/politics/article.pl?sid=24/03/26/1448216&from=rss)
 * [2024-03-26, 13:11:00](https://soylentnews.org/article.pl?sid=24/03/25/048237&from=rss) - [Pile of Burmese Pythons Found Mating in Florida: 'Most People's Worst Nightmare'](https://soylentnews.org/article.pl?sid=24/03/25/048237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-18, 05:34:00](https://soylentnews.org/article.pl?sid=24/03/17/1847256&from=rss) - [Brighter, Cheaper Blue Light could Revolutionize Screen Technology](https://soylentnews.org/article.pl?sid=24/03/17/1847256&from=rss)
 * [2024-03-18, 00:49:00](https://soylentnews.org/article.pl?sid=24/03/17/1841241&from=rss) - [Uber and Lyft are Quitting Minneapolis Over a Driver Pay Increase](https://soylentnews.org/article.pl?sid=24/03/17/1841241&from=rss)
 * [2024-03-17, 20:05:00](https://soylentnews.org/article.pl?sid=24/03/16/1648210&from=rss) - [Linux Mint is Building a New Desktop Chat App](https://soylentnews.org/article.pl?sid=24/03/16/1648210&from=rss)
-* [2024-03-17, 15:19:00](https://soylentnews.org/article.pl?sid=24/03/16/1635216&from=rss) - [You Don't Need Glue to Hold These Materials Together—Just Electricity](https://soylentnews.org/article.pl?sid=24/03/16/1635216&from=rss)
 
 ## [Archives](archives/index.md)
 

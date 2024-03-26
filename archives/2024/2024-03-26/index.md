@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 22:41:00](https://soylentnews.org/article.pl?sid=24/03/25/0712235&from=rss) - [Google Is Spending $1 Billion On A New Data Center In Kansas City](https://soylentnews.org/article.pl?sid=24/03/25/0712235&from=rss)
 * [2024-03-26, 17:52:00](https://soylentnews.org/article.pl?sid=24/03/25/076249&from=rss) - [Revisiting the 2014 South Korea Hydro and Nuclear Power Hack](https://soylentnews.org/article.pl?sid=24/03/25/076249&from=rss)
 * [2024-03-26, 14:52:00](https://soylentnews.org/politics/article.pl?sid=24/03/26/1448216&from=rss) - [Julian Assange Faces Further Wait Over Extradition Ruling - UK Court Needs US Assurances](https://soylentnews.org/politics/article.pl?sid=24/03/26/1448216&from=rss)
 * [2024-03-26, 13:11:00](https://soylentnews.org/article.pl?sid=24/03/25/048237&from=rss) - [Pile of Burmese Pythons Found Mating in Florida: 'Most People's Worst Nightmare'](https://soylentnews.org/article.pl?sid=24/03/25/048237&from=rss)
