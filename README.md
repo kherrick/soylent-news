@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-28, 03:10:00](https://soylentnews.org/article.pl?sid=24/03/26/1632257&from=rss) - [Starliner’s First Commander: Don’t Expect Perfection On Crew Test Flight ](https://soylentnews.org/article.pl?sid=24/03/26/1632257&from=rss)
 * [2024-03-27, 22:26:00](https://soylentnews.org/article.pl?sid=24/03/26/167235&from=rss) - [Workers With Job Flexibility and Security Have Better Mental Health](https://soylentnews.org/article.pl?sid=24/03/26/167235&from=rss)
 * [2024-03-27, 20:12:00](https://soylentnews.org/article.pl?sid=24/03/26/165203&from=rss) - [Why Do Regexes Use `$` and `^` as Line Anchors?](https://soylentnews.org/article.pl?sid=24/03/26/165203&from=rss)
 * [2024-03-27, 17:41:00](https://soylentnews.org/article.pl?sid=24/03/26/1555258&from=rss) - [Reasons for Manual Image Editing over Generative AI](https://soylentnews.org/article.pl?sid=24/03/26/1555258&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-19, 14:47:00](https://soylentnews.org/article.pl?sid=24/03/18/0529259&from=rss) - [Berlin’s Techno Scene Added to UNESCO Cultural Heritage List](https://soylentnews.org/article.pl?sid=24/03/18/0529259&from=rss)
 * [2024-03-19, 10:03:00](https://soylentnews.org/article.pl?sid=24/03/18/0524244&from=rss) - [Tick-Killing Pill Shows Promising Results in Human Trial](https://soylentnews.org/article.pl?sid=24/03/18/0524244&from=rss)
 * [2024-03-19, 05:16:00](https://soylentnews.org/article.pl?sid=24/03/18/0518237&from=rss) - [Here's How the Makers of the “Suyu” Switch Emulator Plan to Avoid Getting Sued](https://soylentnews.org/article.pl?sid=24/03/18/0518237&from=rss)
-* [2024-03-19, 00:30:00](https://soylentnews.org/article.pl?sid=24/03/17/1942248&from=rss) - [Breakthrough Therapy Obliterates Deadly Brain Tumor in Days](https://soylentnews.org/article.pl?sid=24/03/17/1942248&from=rss)
 
 ## [Archives](archives/index.md)
 

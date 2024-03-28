@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-03-28](index.md)
+
+* [2024-03-28, 03:10:00](https://soylentnews.org/article.pl?sid=24/03/26/1632257&from=rss) - [Starliner’s First Commander: Don’t Expect Perfection On Crew Test Flight ](https://soylentnews.org/article.pl?sid=24/03/26/1632257&from=rss)
