@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-28, 10:01:00](https://soylentnews.org/meta/article.pl?sid=24/03/28/0850235&from=rss) - [Site News Update](https://soylentnews.org/meta/article.pl?sid=24/03/28/0850235&from=rss)
 * [2024-03-28, 07:55:00](https://soylentnews.org/article.pl?sid=24/03/26/1638220&from=rss) - [An Oral History of Pitchfork](https://soylentnews.org/article.pl?sid=24/03/26/1638220&from=rss)
 * [2024-03-28, 03:10:00](https://soylentnews.org/article.pl?sid=24/03/26/1632257&from=rss) - [Starliner’s First Commander: Don’t Expect Perfection On Crew Test Flight ](https://soylentnews.org/article.pl?sid=24/03/26/1632257&from=rss)
 * [2024-03-27, 22:26:00](https://soylentnews.org/article.pl?sid=24/03/26/167235&from=rss) - [Workers With Job Flexibility and Security Have Better Mental Health](https://soylentnews.org/article.pl?sid=24/03/26/167235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-20, 00:18:00](https://soylentnews.org/article.pl?sid=24/03/19/0312207&from=rss) - [VR Headsets Can be Hacked With an Inception-style Attack](https://soylentnews.org/article.pl?sid=24/03/19/0312207&from=rss)
 * [2024-03-19, 19:32:00](https://soylentnews.org/article.pl?sid=24/03/18/0535200&from=rss) - [Framework Laptop 16 Review: A Modular Marvel, but a Mediocre Gaming Laptop](https://soylentnews.org/article.pl?sid=24/03/18/0535200&from=rss)
 * [2024-03-19, 14:47:00](https://soylentnews.org/article.pl?sid=24/03/18/0529259&from=rss) - [Berlin’s Techno Scene Added to UNESCO Cultural Heritage List](https://soylentnews.org/article.pl?sid=24/03/18/0529259&from=rss)
-* [2024-03-19, 10:03:00](https://soylentnews.org/article.pl?sid=24/03/18/0524244&from=rss) - [Tick-Killing Pill Shows Promising Results in Human Trial](https://soylentnews.org/article.pl?sid=24/03/18/0524244&from=rss)
 
 ## [Archives](archives/index.md)
 
