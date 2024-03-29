@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 07:42:00](https://soylentnews.org/article.pl?sid=24/03/28/0144255&from=rss) - [Here's Our Comprehensive, In-Depth Guide to Viewing the North American Total Solar Eclipse](https://soylentnews.org/article.pl?sid=24/03/28/0144255&from=rss)
 * [2024-03-29, 03:00:00](https://soylentnews.org/article.pl?sid=24/03/28/0141222&from=rss) - [An Approach To Design High-Power Lithium Sulfur Batteries](https://soylentnews.org/article.pl?sid=24/03/28/0141222&from=rss)
