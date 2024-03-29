@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-29, 12:26:00](https://soylentnews.org/article.pl?sid=24/03/28/0438255&from=rss) - [Reddit Faces New Reality After Cashing in on its IPO](https://soylentnews.org/article.pl?sid=24/03/28/0438255&from=rss)
 * [2024-03-29, 07:42:00](https://soylentnews.org/article.pl?sid=24/03/28/0144255&from=rss) - [Here's Our Comprehensive, In-Depth Guide to Viewing the North American Total Solar Eclipse](https://soylentnews.org/article.pl?sid=24/03/28/0144255&from=rss)
 * [2024-03-29, 03:00:00](https://soylentnews.org/article.pl?sid=24/03/28/0141222&from=rss) - [An Approach To Design High-Power Lithium Sulfur Batteries](https://soylentnews.org/article.pl?sid=24/03/28/0141222&from=rss)
 * [2024-03-28, 22:14:00](https://soylentnews.org/article.pl?sid=24/03/28/0135238&from=rss) - [Microsoft is Quietly Installing the Copilot App on Windows PCs](https://soylentnews.org/article.pl?sid=24/03/28/0135238&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-21, 00:04:00](https://soylentnews.org/article.pl?sid=24/03/19/1845235&from=rss) - [How to Make C++ Less Vulnerable and How \"Secure\" Languages Aren't So Secure.](https://soylentnews.org/article.pl?sid=24/03/19/1845235&from=rss)
 * [2024-03-20, 19:15:00](https://soylentnews.org/article.pl?sid=24/03/19/1659204&from=rss) - [UK Government Wants Flying Taxis to Take Off in 2 Years](https://soylentnews.org/article.pl?sid=24/03/19/1659204&from=rss)
 * [2024-03-20, 14:32:00](https://soylentnews.org/article.pl?sid=24/03/19/1649210&from=rss) - [A Novel Method for Woodland Water Resource Management](https://soylentnews.org/article.pl?sid=24/03/19/1649210&from=rss)
-* [2024-03-20, 10:41:00](https://soylentnews.org/meta/article.pl?sid=24/03/20/1038203&from=rss) - [Site News Update](https://soylentnews.org/meta/article.pl?sid=24/03/20/1038203&from=rss)
 
 ## [Archives](archives/index.md)
 
