@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-30, 16:53:00](https://soylentnews.org/article.pl?sid=24/03/28/054216&from=rss) - [Blizzard Just Gave Us A Hint Of How Many World Of Warcraft Subscribers Remain](https://soylentnews.org/article.pl?sid=24/03/28/054216&from=rss)
 * [2024-03-30, 12:07:00](https://soylentnews.org/article.pl?sid=24/03/28/0519204&from=rss) - [EU Leaders Want To Make Europe A Global Quantum Powerhouse](https://soylentnews.org/article.pl?sid=24/03/28/0519204&from=rss)
 * [2024-03-30, 07:23:00](https://soylentnews.org/breakingnews/article.pl?sid=24/03/30/0338209&from=rss) - [xz: Upstream Repository and the xz Tarballs Have Been Backdoored](https://soylentnews.org/breakingnews/article.pl?sid=24/03/30/0338209&from=rss)
 * [2024-03-30, 02:41:00](https://soylentnews.org/article.pl?sid=24/03/28/0459256&from=rss) - [Camera Captures 156.3 Trillion Frames Per Second](https://soylentnews.org/article.pl?sid=24/03/28/0459256&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-22, 04:34:00](https://soylentnews.org/article.pl?sid=24/03/21/0124222&from=rss) - [Leaked SpaceX Documents Show Company Forbids Employees to Sell Stock If It Deems They've Misbehaved](https://soylentnews.org/article.pl?sid=24/03/21/0124222&from=rss)
 * [2024-03-21, 23:49:00](https://soylentnews.org/article.pl?sid=24/03/20/0130231&from=rss) - [Apple Didn't Revolutionize Power Supplies; New Transistors Did](https://soylentnews.org/article.pl?sid=24/03/20/0130231&from=rss)
 * [2024-03-21, 19:03:00](https://soylentnews.org/article.pl?sid=24/03/20/0125210&from=rss) - [IIHS Tests Driving Automation Systems--Only One Acceptable Rating of 14 Tested](https://soylentnews.org/article.pl?sid=24/03/20/0125210&from=rss)
-* [2024-03-21, 14:21:00](https://soylentnews.org/article.pl?sid=24/03/20/0043210&from=rss) - [It Took Starbucks a Little Too Long to Realize Coffee NFTs Aren't It](https://soylentnews.org/article.pl?sid=24/03/20/0043210&from=rss)
 
 ## [Archives](archives/index.md)
 
