@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-30, 07:23:00](https://soylentnews.org/breakingnews/article.pl?sid=24/03/30/0338209&from=rss) - [xz: Upstream Repository and the xz Tarballs Have Been Backdoored](https://soylentnews.org/breakingnews/article.pl?sid=24/03/30/0338209&from=rss)
 * [2024-03-30, 02:41:00](https://soylentnews.org/article.pl?sid=24/03/28/0459256&from=rss) - [Camera Captures 156.3 Trillion Frames Per Second](https://soylentnews.org/article.pl?sid=24/03/28/0459256&from=rss)
 * [2024-03-29, 21:56:00](https://soylentnews.org/article.pl?sid=24/03/28/0450209&from=rss) - [Florida Bans Social Media for Kids](https://soylentnews.org/article.pl?sid=24/03/28/0450209&from=rss)
 * [2024-03-29, 17:10:00](https://soylentnews.org/article.pl?sid=24/03/28/0443215&from=rss) - [Euclid's Sight Has Been Restored](https://soylentnews.org/article.pl?sid=24/03/28/0443215&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-21, 19:03:00](https://soylentnews.org/article.pl?sid=24/03/20/0125210&from=rss) - [IIHS Tests Driving Automation Systems--Only One Acceptable Rating of 14 Tested](https://soylentnews.org/article.pl?sid=24/03/20/0125210&from=rss)
 * [2024-03-21, 14:21:00](https://soylentnews.org/article.pl?sid=24/03/20/0043210&from=rss) - [It Took Starbucks a Little Too Long to Realize Coffee NFTs Aren't It](https://soylentnews.org/article.pl?sid=24/03/20/0043210&from=rss)
 * [2024-03-21, 09:33:00](https://soylentnews.org/article.pl?sid=24/03/19/1856224&from=rss) - [Floating Crystals Slow Stellar Aging. for Some Stars, This Can Delay Death by Billions of Years](https://soylentnews.org/article.pl?sid=24/03/19/1856224&from=rss)
-* [2024-03-21, 04:51:00](https://soylentnews.org/article.pl?sid=24/03/19/1851225&from=rss) - [Detailed Macrophotography of PCBs](https://soylentnews.org/article.pl?sid=24/03/19/1851225&from=rss)
 
 ## [Archives](archives/index.md)
 
