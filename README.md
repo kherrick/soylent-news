@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-31, 16:29:00](https://soylentnews.org/article.pl?sid=24/03/30/0650217&from=rss) - [What Happens If You Happen to Touch an Active  6kW AM Antenna](https://soylentnews.org/article.pl?sid=24/03/30/0650217&from=rss)
 * [2024-03-31, 11:45:00](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss) - [Vultr Tries to Grab Copyrights for Material Hosted on Its Hardware](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss)
 * [2024-03-31, 07:03:00](https://soylentnews.org/article.pl?sid=24/03/30/0254221&from=rss) - [Electronic Project Kits: Hands on With a Vintage 160-in-1](https://soylentnews.org/article.pl?sid=24/03/30/0254221&from=rss)
 * [2024-03-31, 02:24:00](https://soylentnews.org/article.pl?sid=24/03/30/0318218&from=rss) - [Def Con Hackers Ready AI Fixes To Critical Health-Care Flaws](https://soylentnews.org/article.pl?sid=24/03/30/0318218&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-23, 03:13:00](https://soylentnews.org/article.pl?sid=24/03/21/1955228&from=rss) - [A Ban on Polluter Sponsorships In Winter Sports Can Save Our Snow](https://soylentnews.org/article.pl?sid=24/03/21/1955228&from=rss)
 * [2024-03-22, 23:31:00](https://soylentnews.org/article.pl?sid=24/03/21/1950246&from=rss) - [Unreal Engine 5.4 Revealed Running Amy Hennig's New Marvel Game](https://soylentnews.org/article.pl?sid=24/03/21/1950246&from=rss)
 * [2024-03-22, 18:45:00](https://soylentnews.org/article.pl?sid=24/03/21/1948238&from=rss) - [Remembering MDC RIP 24 March 2019 - One of Us.](https://soylentnews.org/article.pl?sid=24/03/21/1948238&from=rss)
-* [2024-03-22, 14:02:00](https://soylentnews.org/article.pl?sid=24/03/21/124218&from=rss) - [Massive New Study Uncovers Over 4,000 Toxic Chemicals in Plastic](https://soylentnews.org/article.pl?sid=24/03/21/124218&from=rss)
 
 ## [Archives](archives/index.md)
 
