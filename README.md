@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-31, 11:45:00](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss) - [Vultr Tries to Grab Copyrights for Material Hosted on Its Hardware](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss)
 * [2024-03-31, 07:03:00](https://soylentnews.org/article.pl?sid=24/03/30/0254221&from=rss) - [Electronic Project Kits: Hands on With a Vintage 160-in-1](https://soylentnews.org/article.pl?sid=24/03/30/0254221&from=rss)
 * [2024-03-31, 02:24:00](https://soylentnews.org/article.pl?sid=24/03/30/0318218&from=rss) - [Def Con Hackers Ready AI Fixes To Critical Health-Care Flaws](https://soylentnews.org/article.pl?sid=24/03/30/0318218&from=rss)
 * [2024-03-30, 21:42:00](https://soylentnews.org/article.pl?sid=24/03/30/035201&from=rss) - [Oxford University Study Challenges Human Brains Theory](https://soylentnews.org/article.pl?sid=24/03/30/035201&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-22, 23:31:00](https://soylentnews.org/article.pl?sid=24/03/21/1950246&from=rss) - [Unreal Engine 5.4 Revealed Running Amy Hennig's New Marvel Game](https://soylentnews.org/article.pl?sid=24/03/21/1950246&from=rss)
 * [2024-03-22, 18:45:00](https://soylentnews.org/article.pl?sid=24/03/21/1948238&from=rss) - [Remembering MDC RIP 24 March 2019 - One of Us.](https://soylentnews.org/article.pl?sid=24/03/21/1948238&from=rss)
 * [2024-03-22, 14:02:00](https://soylentnews.org/article.pl?sid=24/03/21/124218&from=rss) - [Massive New Study Uncovers Over 4,000 Toxic Chemicals in Plastic](https://soylentnews.org/article.pl?sid=24/03/21/124218&from=rss)
-* [2024-03-22, 09:16:00](https://soylentnews.org/article.pl?sid=24/03/21/1158238&from=rss) - [Nvidia Announces “Moonshot” to Create Embodied Human-Level AI in Robot Form](https://soylentnews.org/article.pl?sid=24/03/21/1158238&from=rss)
 
 ## [Archives](archives/index.md)
 
