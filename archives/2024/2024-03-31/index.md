@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 18:13:00](https://soylentnews.org/article.pl?sid=24/03/30/0653259&from=rss) - [California Cops Forced to Return $800,000 in Pot After Controversial Raid](https://soylentnews.org/article.pl?sid=24/03/30/0653259&from=rss)
 * [2024-03-31, 16:29:00](https://soylentnews.org/article.pl?sid=24/03/30/0650217&from=rss) - [What Happens If You Happen to Touch an Active  6kW AM Antenna](https://soylentnews.org/article.pl?sid=24/03/30/0650217&from=rss)
 * [2024-03-31, 11:45:00](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss) - [Vultr Tries to Grab Copyrights for Material Hosted on Its Hardware](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss)
 * [2024-03-31, 07:03:00](https://soylentnews.org/article.pl?sid=24/03/30/0254221&from=rss) - [Electronic Project Kits: Hands on With a Vintage 160-in-1](https://soylentnews.org/article.pl?sid=24/03/30/0254221&from=rss)
