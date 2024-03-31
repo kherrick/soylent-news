@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-31, 02:24:00](https://soylentnews.org/article.pl?sid=24/03/30/0318218&from=rss) - [Def Con Hackers Ready AI Fixes To Critical Health-Care Flaws](https://soylentnews.org/article.pl?sid=24/03/30/0318218&from=rss)
 * [2024-03-30, 21:42:00](https://soylentnews.org/article.pl?sid=24/03/30/035201&from=rss) - [Oxford University Study Challenges Human Brains Theory](https://soylentnews.org/article.pl?sid=24/03/30/035201&from=rss)
 * [2024-03-30, 16:53:00](https://soylentnews.org/article.pl?sid=24/03/28/054216&from=rss) - [Blizzard Just Gave Us A Hint Of How Many World Of Warcraft Subscribers Remain](https://soylentnews.org/article.pl?sid=24/03/28/054216&from=rss)
 * [2024-03-30, 12:07:00](https://soylentnews.org/article.pl?sid=24/03/28/0519204&from=rss) - [EU Leaders Want To Make Europe A Global Quantum Powerhouse](https://soylentnews.org/article.pl?sid=24/03/28/0519204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-22, 14:02:00](https://soylentnews.org/article.pl?sid=24/03/21/124218&from=rss) - [Massive New Study Uncovers Over 4,000 Toxic Chemicals in Plastic](https://soylentnews.org/article.pl?sid=24/03/21/124218&from=rss)
 * [2024-03-22, 09:16:00](https://soylentnews.org/article.pl?sid=24/03/21/1158238&from=rss) - [Nvidia Announces “Moonshot” to Create Embodied Human-Level AI in Robot Form](https://soylentnews.org/article.pl?sid=24/03/21/1158238&from=rss)
 * [2024-03-22, 04:34:00](https://soylentnews.org/article.pl?sid=24/03/21/0124222&from=rss) - [Leaked SpaceX Documents Show Company Forbids Employees to Sell Stock If It Deems They've Misbehaved](https://soylentnews.org/article.pl?sid=24/03/21/0124222&from=rss)
-* [2024-03-21, 23:49:00](https://soylentnews.org/article.pl?sid=24/03/20/0130231&from=rss) - [Apple Didn't Revolutionize Power Supplies; New Transistors Did](https://soylentnews.org/article.pl?sid=24/03/20/0130231&from=rss)
 
 ## [Archives](archives/index.md)
 
