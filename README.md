@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-03-31, 21:16:00](https://soylentnews.org/article.pl?sid=24/03/30/0656249&from=rss) - [Oregon Becomes Fourth State to Enact a \"Right to Repair\" Law for Technology](https://soylentnews.org/article.pl?sid=24/03/30/0656249&from=rss)
 * [2024-03-31, 18:13:00](https://soylentnews.org/article.pl?sid=24/03/30/0653259&from=rss) - [California Cops Forced to Return $800,000 in Pot After Controversial Raid](https://soylentnews.org/article.pl?sid=24/03/30/0653259&from=rss)
 * [2024-03-31, 16:29:00](https://soylentnews.org/article.pl?sid=24/03/30/0650217&from=rss) - [What Happens If You Happen to Touch an Active  6kW AM Antenna](https://soylentnews.org/article.pl?sid=24/03/30/0650217&from=rss)
 * [2024-03-31, 11:45:00](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss) - [Vultr Tries to Grab Copyrights for Material Hosted on Its Hardware](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-23, 12:42:00](https://soylentnews.org/article.pl?sid=24/03/21/203204&from=rss) - [“Disabling Cyberattacks” Are Hitting Critical US Water Systems, White House Warns](https://soylentnews.org/article.pl?sid=24/03/21/203204&from=rss)
 * [2024-03-23, 07:58:00](https://soylentnews.org/article.pl?sid=24/03/21/1959242&from=rss) - [Intel 8080 Emulator. 19th IOCCC. Best of Show.](https://soylentnews.org/article.pl?sid=24/03/21/1959242&from=rss)
 * [2024-03-23, 03:13:00](https://soylentnews.org/article.pl?sid=24/03/21/1955228&from=rss) - [A Ban on Polluter Sponsorships In Winter Sports Can Save Our Snow](https://soylentnews.org/article.pl?sid=24/03/21/1955228&from=rss)
-* [2024-03-22, 23:31:00](https://soylentnews.org/article.pl?sid=24/03/21/1950246&from=rss) - [Unreal Engine 5.4 Revealed Running Amy Hennig's New Marvel Game](https://soylentnews.org/article.pl?sid=24/03/21/1950246&from=rss)
 
 ## [Archives](archives/index.md)
 
