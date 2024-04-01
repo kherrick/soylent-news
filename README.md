@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-01, 11:33:00](https://soylentnews.org/article.pl?sid=24/03/31/1315229&from=rss) - [If You Watched Certain YouTube Videos, Investigators Demanded Your Data From Google](https://soylentnews.org/article.pl?sid=24/03/31/1315229&from=rss)
 * [2024-04-01, 06:50:00](https://soylentnews.org/article.pl?sid=24/03/31/1311225&from=rss) - [Radios, How Do They Work?](https://soylentnews.org/article.pl?sid=24/03/31/1311225&from=rss)
 * [2024-04-01, 02:02:00](https://soylentnews.org/article.pl?sid=24/03/30/2256223&from=rss) - [Astronomers Discover 49 New Galaxies In Under Three Hours](https://soylentnews.org/article.pl?sid=24/03/30/2256223&from=rss)
 * [2024-03-31, 21:16:00](https://soylentnews.org/article.pl?sid=24/03/30/0656249&from=rss) - [Oregon Becomes Fourth State to Enact a \"Right to Repair\" Law for Technology](https://soylentnews.org/article.pl?sid=24/03/30/0656249&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-24, 02:59:00](https://soylentnews.org/article.pl?sid=24/03/23/0126253&from=rss) - [Unpatchable Vulnerability in Apple Chip Leaks Secret Encryption Keys](https://soylentnews.org/article.pl?sid=24/03/23/0126253&from=rss)
 * [2024-03-23, 22:19:00](https://soylentnews.org/article.pl?sid=24/03/23/0122202&from=rss) - [Social Media Cannot Hide From Defective Product Lawsuits ... for Now](https://soylentnews.org/article.pl?sid=24/03/23/0122202&from=rss)
 * [2024-03-23, 17:35:00](https://soylentnews.org/article.pl?sid=24/03/23/0118225&from=rss) - [The Huge Security Hack That Might Make Travelers Feel Less Safe In Hotels](https://soylentnews.org/article.pl?sid=24/03/23/0118225&from=rss)
-* [2024-03-23, 12:42:00](https://soylentnews.org/article.pl?sid=24/03/21/203204&from=rss) - [“Disabling Cyberattacks” Are Hitting Critical US Water Systems, White House Warns](https://soylentnews.org/article.pl?sid=24/03/21/203204&from=rss)
 
 ## [Archives](archives/index.md)
 
