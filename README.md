@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-02, 15:51:00](https://soylentnews.org/article.pl?sid=24/04/01/1755241&from=rss) - [FBI Agent Says He Questions People 'Every Day, All Day Long' Over Facebook Posts](https://soylentnews.org/article.pl?sid=24/04/01/1755241&from=rss)
 * [2024-04-02, 11:12:00](https://soylentnews.org/article.pl?sid=24/04/01/1749244&from=rss) - [NetBSD 10.0 Released](https://soylentnews.org/article.pl?sid=24/04/01/1749244&from=rss)
 * [2024-04-02, 06:33:00](https://soylentnews.org/article.pl?sid=24/04/01/1744227&from=rss) - [AT&T Notifies Users of Data Breach and Resets Millions of Passcodes](https://soylentnews.org/article.pl?sid=24/04/01/1744227&from=rss)
 * [2024-04-02, 01:48:00](https://soylentnews.org/article.pl?sid=24/04/01/019203&from=rss) - [Birds Create Barcode-Like Memories to Locate Stored Food](https://soylentnews.org/article.pl?sid=24/04/01/019203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-25, 03:49:00](https://soylentnews.org/article.pl?sid=24/03/24/0350235&from=rss) - [Exploration—Not Work—Could be Key to a Vibrant Local Economy](https://soylentnews.org/article.pl?sid=24/03/24/0350235&from=rss)
 * [2024-03-24, 23:05:00](https://soylentnews.org/article.pl?sid=24/03/23/167253&from=rss) - [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://soylentnews.org/article.pl?sid=24/03/23/167253&from=rss)
 * [2024-03-24, 17:19:00](https://soylentnews.org/article.pl?sid=24/03/23/1550226&from=rss) - [Redis Changes License From BSD-3 to Dual RSALv2+SSPLv1](https://soylentnews.org/article.pl?sid=24/03/23/1550226&from=rss)
-* [2024-03-24, 12:58:00](https://soylentnews.org/breakingnews/article.pl?sid=24/03/24/1229220&from=rss) - [Tor Browser 13.0.13 Unscheduled Emergency Release](https://soylentnews.org/breakingnews/article.pl?sid=24/03/24/1229220&from=rss)
 
 ## [Archives](archives/index.md)
 
