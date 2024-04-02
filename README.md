@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-02, 01:48:00](https://soylentnews.org/article.pl?sid=24/04/01/019203&from=rss) - [Birds Create Barcode-Like Memories to Locate Stored Food](https://soylentnews.org/article.pl?sid=24/04/01/019203&from=rss)
 * [2024-04-01, 21:03:00](https://soylentnews.org/article.pl?sid=24/04/01/0055219&from=rss) - [China Blocks Use of Intel and AMD Chips in Government Computers](https://soylentnews.org/article.pl?sid=24/04/01/0055219&from=rss)
 * [2024-04-01, 16:18:00](https://soylentnews.org/article.pl?sid=24/03/31/1320259&from=rss) - [Embracer Group Lets Go of Borderlands Maker for $460M After Three Years](https://soylentnews.org/article.pl?sid=24/03/31/1320259&from=rss)
 * [2024-04-01, 11:33:00](https://soylentnews.org/article.pl?sid=24/03/31/1315229&from=rss) - [If You Watched Certain YouTube Videos, Investigators Demanded Your Data From Google](https://soylentnews.org/article.pl?sid=24/03/31/1315229&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-24, 12:58:00](https://soylentnews.org/breakingnews/article.pl?sid=24/03/24/1229220&from=rss) - [Tor Browser 13.0.13 Unscheduled Emergency Release](https://soylentnews.org/breakingnews/article.pl?sid=24/03/24/1229220&from=rss)
 * [2024-03-24, 12:30:00](https://soylentnews.org/article.pl?sid=24/03/23/0139230&from=rss) - [A Protein Found in Human Sweat may Protect against Lyme Disease](https://soylentnews.org/article.pl?sid=24/03/23/0139230&from=rss)
 * [2024-03-24, 07:44:00](https://soylentnews.org/article.pl?sid=24/03/23/0129240&from=rss) - [Backyard Insect Inspires Invisibility Devices, Next Gen Tech](https://soylentnews.org/article.pl?sid=24/03/23/0129240&from=rss)
-* [2024-03-24, 02:59:00](https://soylentnews.org/article.pl?sid=24/03/23/0126253&from=rss) - [Unpatchable Vulnerability in Apple Chip Leaks Secret Encryption Keys](https://soylentnews.org/article.pl?sid=24/03/23/0126253&from=rss)
 
 ## [Archives](archives/index.md)
 
