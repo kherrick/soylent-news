@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-03, 15:39:00](https://soylentnews.org/article.pl?sid=24/04/02/0329216&from=rss) - [Switch Emulator Suyu Hit by GitLab DMCA, Project Lives on Through Self-Hosting](https://soylentnews.org/article.pl?sid=24/04/02/0329216&from=rss)
 * [2024-04-03, 10:56:00](https://soylentnews.org/article.pl?sid=24/04/02/0318235&from=rss) - [A 2D 'Antenna' Boosts Light Emission From Carbon Nanotubes](https://soylentnews.org/article.pl?sid=24/04/02/0318235&from=rss)
 * [2024-04-03, 06:10:00](https://soylentnews.org/article.pl?sid=24/04/02/0312257&from=rss) - [The Incognito Mode Myth Has Fully Unraveled](https://soylentnews.org/article.pl?sid=24/04/02/0312257&from=rss)
 * [2024-04-03, 01:22:00](https://soylentnews.org/article.pl?sid=24/04/02/034254&from=rss) - [A ChatGPT for Music Is Here. Inside Suno, the Startup Changing Everything](https://soylentnews.org/article.pl?sid=24/04/02/034254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-26, 03:40:00](https://soylentnews.org/article.pl?sid=24/03/25/0343258&from=rss) - [Macbook Charger Teardown: The Surprising Complexity Inside Apple's Power Adapter](https://soylentnews.org/article.pl?sid=24/03/25/0343258&from=rss)
 * [2024-03-25, 22:53:00](https://soylentnews.org/article.pl?sid=24/03/25/0335245&from=rss) - [First Time Doctors Transplant Gene-edited Pig Kidney Into Living Human](https://soylentnews.org/article.pl?sid=24/03/25/0335245&from=rss)
 * [2024-03-25, 18:07:00](https://soylentnews.org/article.pl?sid=24/03/24/2040238&from=rss) - [Einsteins (the Tiles) Meet Error Correction for Quantum Superposition](https://soylentnews.org/article.pl?sid=24/03/24/2040238&from=rss)
-* [2024-03-25, 13:21:00](https://soylentnews.org/article.pl?sid=24/03/24/0419223&from=rss) - [Geologists Reject Declaration of ‘Human Era’ in Earth’s Timeline](https://soylentnews.org/article.pl?sid=24/03/24/0419223&from=rss)
 
 ## [Archives](archives/index.md)
 
