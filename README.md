@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-03, 01:22:00](https://soylentnews.org/article.pl?sid=24/04/02/034254&from=rss) - [A ChatGPT for Music Is Here. Inside Suno, the Startup Changing Everything](https://soylentnews.org/article.pl?sid=24/04/02/034254&from=rss)
 * [2024-04-02, 20:38:00](https://soylentnews.org/article.pl?sid=24/04/01/182256&from=rss) - [Testing Begins On Sensitive Neutrino Detector For Nonproliferation And Fundamental Physics](https://soylentnews.org/article.pl?sid=24/04/01/182256&from=rss)
 * [2024-04-02, 15:51:00](https://soylentnews.org/article.pl?sid=24/04/01/1755241&from=rss) - [FBI Agent Says He Questions People 'Every Day, All Day Long' Over Facebook Posts](https://soylentnews.org/article.pl?sid=24/04/01/1755241&from=rss)
 * [2024-04-02, 11:12:00](https://soylentnews.org/article.pl?sid=24/04/01/1749244&from=rss) - [NetBSD 10.0 Released](https://soylentnews.org/article.pl?sid=24/04/01/1749244&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-25, 13:21:00](https://soylentnews.org/article.pl?sid=24/03/24/0419223&from=rss) - [Geologists Reject Declaration of ‘Human Era’ in Earth’s Timeline](https://soylentnews.org/article.pl?sid=24/03/24/0419223&from=rss)
 * [2024-03-25, 08:34:00](https://soylentnews.org/article.pl?sid=24/03/24/0356200&from=rss) - [TN Passes ELVIS Act to Explicitly Protect the Right of Publicity From Generative AI](https://soylentnews.org/article.pl?sid=24/03/24/0356200&from=rss)
 * [2024-03-25, 03:49:00](https://soylentnews.org/article.pl?sid=24/03/24/0350235&from=rss) - [Exploration—Not Work—Could be Key to a Vibrant Local Economy](https://soylentnews.org/article.pl?sid=24/03/24/0350235&from=rss)
-* [2024-03-24, 23:05:00](https://soylentnews.org/article.pl?sid=24/03/23/167253&from=rss) - [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://soylentnews.org/article.pl?sid=24/03/23/167253&from=rss)
 
 ## [Archives](archives/index.md)
 
