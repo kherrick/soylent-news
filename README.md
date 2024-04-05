@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-05, 00:58:00](https://soylentnews.org/article.pl?sid=24/04/04/0219233&from=rss) - [Cable Lobby Vows “Years of Litigation” to Avoid Bans on Blocking and Throttling](https://soylentnews.org/article.pl?sid=24/04/04/0219233&from=rss)
 * [2024-04-04, 20:11:00](https://soylentnews.org/article.pl?sid=24/04/03/0336237&from=rss) - [ Facial Recognition: Cops Are Searching Using AI-Generated Images](https://soylentnews.org/article.pl?sid=24/04/03/0336237&from=rss)
 * [2024-04-04, 15:23:00](https://soylentnews.org/article.pl?sid=24/04/03/0324246&from=rss) - [Unveiling The Formation Of The First Galaxies](https://soylentnews.org/article.pl?sid=24/04/03/0324246&from=rss)
 * [2024-04-04, 10:36:00](https://soylentnews.org/article.pl?sid=24/04/03/0318222&from=rss) - [Trash From The International Space Station May Have Hit A House In Florida](https://soylentnews.org/article.pl?sid=24/04/03/0318222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-27, 08:11:00](https://soylentnews.org/article.pl?sid=24/03/26/1250208&from=rss) - [Boeing CEO to Step Down as Part of Management Shakeup at Embattled Plane Maker](https://soylentnews.org/article.pl?sid=24/03/26/1250208&from=rss)
 * [2024-03-27, 03:26:00](https://soylentnews.org/article.pl?sid=24/03/26/1237254&from=rss) - [A Nova Explosion is Predicted to be Visible This Year](https://soylentnews.org/article.pl?sid=24/03/26/1237254&from=rss)
 * [2024-03-26, 22:41:00](https://soylentnews.org/article.pl?sid=24/03/25/0712235&from=rss) - [Google Is Spending $1 Billion On A New Data Center In Kansas City](https://soylentnews.org/article.pl?sid=24/03/25/0712235&from=rss)
-* [2024-03-26, 17:52:00](https://soylentnews.org/article.pl?sid=24/03/25/076249&from=rss) - [Revisiting the 2014 South Korea Hydro and Nuclear Power Hack](https://soylentnews.org/article.pl?sid=24/03/25/076249&from=rss)
 
 ## [Archives](archives/index.md)
 
