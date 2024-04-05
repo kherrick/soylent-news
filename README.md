@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-05, 10:25:00](https://soylentnews.org/article.pl?sid=24/04/04/033256&from=rss) - [Intel Courts Devs With Open Arms And Exotic Hardware ](https://soylentnews.org/article.pl?sid=24/04/04/033256&from=rss)
 * [2024-04-05, 05:43:00](https://soylentnews.org/article.pl?sid=24/04/04/0249212&from=rss) - [Judge Bans Use of AI-enhanced Video as Trial Evidence](https://soylentnews.org/article.pl?sid=24/04/04/0249212&from=rss)
 * [2024-04-05, 00:58:00](https://soylentnews.org/article.pl?sid=24/04/04/0219233&from=rss) - [Cable Lobby Vows “Years of Litigation” to Avoid Bans on Blocking and Throttling](https://soylentnews.org/article.pl?sid=24/04/04/0219233&from=rss)
 * [2024-04-04, 20:11:00](https://soylentnews.org/article.pl?sid=24/04/03/0336237&from=rss) - [ Facial Recognition: Cops Are Searching Using AI-Generated Images](https://soylentnews.org/article.pl?sid=24/04/03/0336237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-27, 17:41:00](https://soylentnews.org/article.pl?sid=24/03/26/1555258&from=rss) - [Reasons for Manual Image Editing over Generative AI](https://soylentnews.org/article.pl?sid=24/03/26/1555258&from=rss)
 * [2024-03-27, 12:52:00](https://soylentnews.org/article.pl?sid=24/03/26/1552249&from=rss) - [FreeBSD Foundation Gives Beacon Gongs For Safer Software](https://soylentnews.org/article.pl?sid=24/03/26/1552249&from=rss)
 * [2024-03-27, 08:11:00](https://soylentnews.org/article.pl?sid=24/03/26/1250208&from=rss) - [Boeing CEO to Step Down as Part of Management Shakeup at Embattled Plane Maker](https://soylentnews.org/article.pl?sid=24/03/26/1250208&from=rss)
-* [2024-03-27, 03:26:00](https://soylentnews.org/article.pl?sid=24/03/26/1237254&from=rss) - [A Nova Explosion is Predicted to be Visible This Year](https://soylentnews.org/article.pl?sid=24/03/26/1237254&from=rss)
 
 ## [Archives](archives/index.md)
 
