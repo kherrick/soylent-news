@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 05:43:00](https://soylentnews.org/article.pl?sid=24/04/04/0249212&from=rss) - [Judge Bans Use of AI-enhanced Video as Trial Evidence](https://soylentnews.org/article.pl?sid=24/04/04/0249212&from=rss)
 * [2024-04-05, 00:58:00](https://soylentnews.org/article.pl?sid=24/04/04/0219233&from=rss) - [Cable Lobby Vows “Years of Litigation” to Avoid Bans on Blocking and Throttling](https://soylentnews.org/article.pl?sid=24/04/04/0219233&from=rss)
