@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-06, 00:43:00](https://soylentnews.org/article.pl?sid=24/04/04/1735221&from=rss) - [The Fine Art of Human Prompt Engineering: How to Talk to a Person Like ChatGPT](https://soylentnews.org/article.pl?sid=24/04/04/1735221&from=rss)
 * [2024-04-05, 19:55:00](https://soylentnews.org/article.pl?sid=24/04/04/1727203&from=rss) - [Prime Number Breakthrough](https://soylentnews.org/article.pl?sid=24/04/04/1727203&from=rss)
 * [2024-04-05, 15:08:00](https://soylentnews.org/article.pl?sid=24/04/04/0312205&from=rss) - [A Return to Roots: Lab Builds its First Stellarator in 50 Years](https://soylentnews.org/article.pl?sid=24/04/04/0312205&from=rss)
 * [2024-04-05, 10:25:00](https://soylentnews.org/article.pl?sid=24/04/04/033256&from=rss) - [Intel Courts Devs With Open Arms And Exotic Hardware ](https://soylentnews.org/article.pl?sid=24/04/04/033256&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-28, 03:10:00](https://soylentnews.org/article.pl?sid=24/03/26/1632257&from=rss) - [Starliner’s First Commander: Don’t Expect Perfection On Crew Test Flight ](https://soylentnews.org/article.pl?sid=24/03/26/1632257&from=rss)
 * [2024-03-27, 22:26:00](https://soylentnews.org/article.pl?sid=24/03/26/167235&from=rss) - [Workers With Job Flexibility and Security Have Better Mental Health](https://soylentnews.org/article.pl?sid=24/03/26/167235&from=rss)
 * [2024-03-27, 20:12:00](https://soylentnews.org/article.pl?sid=24/03/26/165203&from=rss) - [Why Do Regexes Use `$` and `^` as Line Anchors?](https://soylentnews.org/article.pl?sid=24/03/26/165203&from=rss)
-* [2024-03-27, 17:41:00](https://soylentnews.org/article.pl?sid=24/03/26/1555258&from=rss) - [Reasons for Manual Image Editing over Generative AI](https://soylentnews.org/article.pl?sid=24/03/26/1555258&from=rss)
 
 ## [Archives](archives/index.md)
 
