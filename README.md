@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-06, 10:08:00](https://soylentnews.org/article.pl?sid=24/04/04/1739222&from=rss) - [Amazon Ditches 'Just Walk Out' Checkouts at its Grocery Stores](https://soylentnews.org/article.pl?sid=24/04/04/1739222&from=rss)
 * [2024-04-06, 05:26:00](https://soylentnews.org/article.pl?sid=24/04/04/1737225&from=rss) - [Chase Launches Chase Media Solutions..Connecting 80 Million U.S. Consumers With the Brands They Love](https://soylentnews.org/article.pl?sid=24/04/04/1737225&from=rss)
 * [2024-04-06, 00:43:00](https://soylentnews.org/article.pl?sid=24/04/04/1735221&from=rss) - [The Fine Art of Human Prompt Engineering: How to Talk to a Person Like ChatGPT](https://soylentnews.org/article.pl?sid=24/04/04/1735221&from=rss)
 * [2024-04-05, 19:55:00](https://soylentnews.org/article.pl?sid=24/04/04/1727203&from=rss) - [Prime Number Breakthrough](https://soylentnews.org/article.pl?sid=24/04/04/1727203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-28, 10:01:00](https://soylentnews.org/meta/article.pl?sid=24/03/28/0850235&from=rss) - [Site News Update](https://soylentnews.org/meta/article.pl?sid=24/03/28/0850235&from=rss)
 * [2024-03-28, 07:55:00](https://soylentnews.org/article.pl?sid=24/03/26/1638220&from=rss) - [An Oral History of Pitchfork](https://soylentnews.org/article.pl?sid=24/03/26/1638220&from=rss)
 * [2024-03-28, 03:10:00](https://soylentnews.org/article.pl?sid=24/03/26/1632257&from=rss) - [Starliner’s First Commander: Don’t Expect Perfection On Crew Test Flight ](https://soylentnews.org/article.pl?sid=24/03/26/1632257&from=rss)
-* [2024-03-27, 22:26:00](https://soylentnews.org/article.pl?sid=24/03/26/167235&from=rss) - [Workers With Job Flexibility and Security Have Better Mental Health](https://soylentnews.org/article.pl?sid=24/03/26/167235&from=rss)
 
 ## [Archives](archives/index.md)
 
