@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-07, 00:26:00](https://soylentnews.org/article.pl?sid=24/04/04/1747216&from=rss) - [Condor-Inspired Retrofit Boosts Wind Turbine Energy Production by 10%](https://soylentnews.org/article.pl?sid=24/04/04/1747216&from=rss)
 * [2024-04-06, 19:42:00](https://soylentnews.org/article.pl?sid=24/04/04/1743247&from=rss) - [US And UK To Join Forces In AI Safety Testing](https://soylentnews.org/article.pl?sid=24/04/04/1743247&from=rss)
 * [2024-04-06, 14:54:00](https://soylentnews.org/article.pl?sid=24/04/04/1741241&from=rss) - [Japan’s Moon Lander Makes It Through A Second Lunar Night](https://soylentnews.org/article.pl?sid=24/04/04/1741241&from=rss)
 * [2024-04-06, 10:08:00](https://soylentnews.org/article.pl?sid=24/04/04/1739222&from=rss) - [Amazon Ditches 'Just Walk Out' Checkouts at its Grocery Stores](https://soylentnews.org/article.pl?sid=24/04/04/1739222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-28, 22:14:00](https://soylentnews.org/article.pl?sid=24/03/28/0135238&from=rss) - [Microsoft is Quietly Installing the Copilot App on Windows PCs](https://soylentnews.org/article.pl?sid=24/03/28/0135238&from=rss)
 * [2024-03-28, 17:32:00](https://soylentnews.org/article.pl?sid=24/03/27/2354206&from=rss) - [AI Could Make Better Beer. Here’s How.](https://soylentnews.org/article.pl?sid=24/03/27/2354206&from=rss)
 * [2024-03-28, 12:41:00](https://soylentnews.org/article.pl?sid=24/03/27/0254251&from=rss) - [Researchers Explain the Dissimilar Smells of Babies and Teenagers](https://soylentnews.org/article.pl?sid=24/03/27/0254251&from=rss)
-* [2024-03-28, 10:01:00](https://soylentnews.org/meta/article.pl?sid=24/03/28/0850235&from=rss) - [Site News Update](https://soylentnews.org/meta/article.pl?sid=24/03/28/0850235&from=rss)
 
 ## [Archives](archives/index.md)
 
