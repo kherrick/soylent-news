@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-07, 05:12:00](https://soylentnews.org/article.pl?sid=24/04/05/178232&from=rss) - [Post-2025 Windows 10 Updates for Businesses Start at $61 Per PC, Go Up From There](https://soylentnews.org/article.pl?sid=24/04/05/178232&from=rss)
 * [2024-04-07, 00:26:00](https://soylentnews.org/article.pl?sid=24/04/04/1747216&from=rss) - [Condor-Inspired Retrofit Boosts Wind Turbine Energy Production by 10%](https://soylentnews.org/article.pl?sid=24/04/04/1747216&from=rss)
 * [2024-04-06, 19:42:00](https://soylentnews.org/article.pl?sid=24/04/04/1743247&from=rss) - [US And UK To Join Forces In AI Safety Testing](https://soylentnews.org/article.pl?sid=24/04/04/1743247&from=rss)
 * [2024-04-06, 14:54:00](https://soylentnews.org/article.pl?sid=24/04/04/1741241&from=rss) - [Japan’s Moon Lander Makes It Through A Second Lunar Night](https://soylentnews.org/article.pl?sid=24/04/04/1741241&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-29, 03:00:00](https://soylentnews.org/article.pl?sid=24/03/28/0141222&from=rss) - [An Approach To Design High-Power Lithium Sulfur Batteries](https://soylentnews.org/article.pl?sid=24/03/28/0141222&from=rss)
 * [2024-03-28, 22:14:00](https://soylentnews.org/article.pl?sid=24/03/28/0135238&from=rss) - [Microsoft is Quietly Installing the Copilot App on Windows PCs](https://soylentnews.org/article.pl?sid=24/03/28/0135238&from=rss)
 * [2024-03-28, 17:32:00](https://soylentnews.org/article.pl?sid=24/03/27/2354206&from=rss) - [AI Could Make Better Beer. Here’s How.](https://soylentnews.org/article.pl?sid=24/03/27/2354206&from=rss)
-* [2024-03-28, 12:41:00](https://soylentnews.org/article.pl?sid=24/03/27/0254251&from=rss) - [Researchers Explain the Dissimilar Smells of Babies and Teenagers](https://soylentnews.org/article.pl?sid=24/03/27/0254251&from=rss)
 
 ## [Archives](archives/index.md)
 
