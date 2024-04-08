@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-08, 14:20:00](https://soylentnews.org/article.pl?sid=24/04/07/0253209&from=rss) - [After AI-Generated Porn Report, Washington Lottery Pulls Down Interactive Web App](https://soylentnews.org/article.pl?sid=24/04/07/0253209&from=rss)
 * [2024-04-08, 09:37:00](https://soylentnews.org/article.pl?sid=24/04/07/0248236&from=rss) - [Gravity Measurement Based on a Levitating Magnet](https://soylentnews.org/article.pl?sid=24/04/07/0248236&from=rss)
 * [2024-04-08, 04:50:00](https://soylentnews.org/article.pl?sid=24/04/07/0221207&from=rss) - [The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind](https://soylentnews.org/article.pl?sid=24/04/07/0221207&from=rss)
 * [2024-04-08, 00:07:00](https://soylentnews.org/article.pl?sid=24/04/07/0218240&from=rss) - [House Of Representatives Bans The Use Of Copilot Over Security Concerns](https://soylentnews.org/article.pl?sid=24/04/07/0218240&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-30, 12:07:00](https://soylentnews.org/article.pl?sid=24/03/28/0519204&from=rss) - [EU Leaders Want To Make Europe A Global Quantum Powerhouse](https://soylentnews.org/article.pl?sid=24/03/28/0519204&from=rss)
 * [2024-03-30, 07:23:00](https://soylentnews.org/breakingnews/article.pl?sid=24/03/30/0338209&from=rss) - [xz: Upstream Repository and the xz Tarballs Have Been Backdoored](https://soylentnews.org/breakingnews/article.pl?sid=24/03/30/0338209&from=rss)
 * [2024-03-30, 02:41:00](https://soylentnews.org/article.pl?sid=24/03/28/0459256&from=rss) - [Camera Captures 156.3 Trillion Frames Per Second](https://soylentnews.org/article.pl?sid=24/03/28/0459256&from=rss)
-* [2024-03-29, 21:56:00](https://soylentnews.org/article.pl?sid=24/03/28/0450209&from=rss) - [Florida Bans Social Media for Kids](https://soylentnews.org/article.pl?sid=24/03/28/0450209&from=rss)
 
 ## [Archives](archives/index.md)
 
