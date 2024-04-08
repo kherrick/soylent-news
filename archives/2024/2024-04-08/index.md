@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 16:00:00](https://soylentnews.org/article.pl?sid=24/04/08/010234&from=rss) - [Total Eclipse Discussion](https://soylentnews.org/article.pl?sid=24/04/08/010234&from=rss)
 * [2024-04-08, 14:20:00](https://soylentnews.org/article.pl?sid=24/04/07/0253209&from=rss) - [After AI-Generated Porn Report, Washington Lottery Pulls Down Interactive Web App](https://soylentnews.org/article.pl?sid=24/04/07/0253209&from=rss)
 * [2024-04-08, 09:37:00](https://soylentnews.org/article.pl?sid=24/04/07/0248236&from=rss) - [Gravity Measurement Based on a Levitating Magnet](https://soylentnews.org/article.pl?sid=24/04/07/0248236&from=rss)
 * [2024-04-08, 04:50:00](https://soylentnews.org/article.pl?sid=24/04/07/0221207&from=rss) - [The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind](https://soylentnews.org/article.pl?sid=24/04/07/0221207&from=rss)
