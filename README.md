@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-09, 20:32:00](https://soylentnews.org/article.pl?sid=24/04/08/187220&from=rss) - [8 to 524 KByte RAM, 8 MByte Storage: IBM's System/360 Turns 60 Years Old](https://soylentnews.org/article.pl?sid=24/04/08/187220&from=rss)
 * [2024-04-09, 18:45:00](https://soylentnews.org/article.pl?sid=24/04/09/1837202&from=rss) - [ULA Successfully Launches Its 'Most Metal' Rocket For Last Time](https://soylentnews.org/article.pl?sid=24/04/09/1837202&from=rss)
 * [2024-04-09, 15:48:00](https://soylentnews.org/article.pl?sid=24/04/08/0128230&from=rss) - [Study Reports That People and Environment Both Benefit From Diversified Farming](https://soylentnews.org/article.pl?sid=24/04/08/0128230&from=rss)
 * [2024-04-09, 11:02:00](https://soylentnews.org/article.pl?sid=24/04/08/0113259&from=rss) - [NASA Knows What Knocked Voyager 1 Offline, but It Will Take a While to Fix](https://soylentnews.org/article.pl?sid=24/04/08/0113259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-31, 21:16:00](https://soylentnews.org/article.pl?sid=24/03/30/0656249&from=rss) - [Oregon Becomes Fourth State to Enact a \"Right to Repair\" Law for Technology](https://soylentnews.org/article.pl?sid=24/03/30/0656249&from=rss)
 * [2024-03-31, 18:13:00](https://soylentnews.org/article.pl?sid=24/03/30/0653259&from=rss) - [California Cops Forced to Return $800,000 in Pot After Controversial Raid](https://soylentnews.org/article.pl?sid=24/03/30/0653259&from=rss)
 * [2024-03-31, 16:29:00](https://soylentnews.org/article.pl?sid=24/03/30/0650217&from=rss) - [What Happens If You Happen to Touch an Active  6kW AM Antenna](https://soylentnews.org/article.pl?sid=24/03/30/0650217&from=rss)
-* [2024-03-31, 11:45:00](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss) - [Vultr Tries to Grab Copyrights for Material Hosted on Its Hardware](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss)
 
 ## [Archives](archives/index.md)
 
