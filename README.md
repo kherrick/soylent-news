@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-09, 11:02:00](https://soylentnews.org/article.pl?sid=24/04/08/0113259&from=rss) - [NASA Knows What Knocked Voyager 1 Offline, but It Will Take a While to Fix](https://soylentnews.org/article.pl?sid=24/04/08/0113259&from=rss)
 * [2024-04-09, 06:13:00](https://soylentnews.org/article.pl?sid=24/04/08/0045251&from=rss) - [Death: A Process, Not A Point, Says Cutting-Edge Research](https://soylentnews.org/article.pl?sid=24/04/08/0045251&from=rss)
 * [2024-04-09, 01:30:00](https://soylentnews.org/article.pl?sid=24/04/07/1639225&from=rss) - [AIO Workstation Has 128 CPU Cores And 28,416 GPU Cores Crammed Into Surprisingly Small Form Factor ](https://soylentnews.org/article.pl?sid=24/04/07/1639225&from=rss)
 * [2024-04-08, 20:45:00](https://soylentnews.org/article.pl?sid=24/04/07/1632259&from=rss) - [HTTP/2 CONTINUATION Flood: Technical Details](https://soylentnews.org/article.pl?sid=24/04/07/1632259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-31, 11:45:00](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss) - [Vultr Tries to Grab Copyrights for Material Hosted on Its Hardware](https://soylentnews.org/article.pl?sid=24/03/30/0356206&from=rss)
 * [2024-03-31, 07:03:00](https://soylentnews.org/article.pl?sid=24/03/30/0254221&from=rss) - [Electronic Project Kits: Hands on With a Vintage 160-in-1](https://soylentnews.org/article.pl?sid=24/03/30/0254221&from=rss)
 * [2024-03-31, 02:24:00](https://soylentnews.org/article.pl?sid=24/03/30/0318218&from=rss) - [Def Con Hackers Ready AI Fixes To Critical Health-Care Flaws](https://soylentnews.org/article.pl?sid=24/03/30/0318218&from=rss)
-* [2024-03-30, 21:42:00](https://soylentnews.org/article.pl?sid=24/03/30/035201&from=rss) - [Oxford University Study Challenges Human Brains Theory](https://soylentnews.org/article.pl?sid=24/03/30/035201&from=rss)
 
 ## [Archives](archives/index.md)
 
