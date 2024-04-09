@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-09, 01:30:00](https://soylentnews.org/article.pl?sid=24/04/07/1639225&from=rss) - [AI Workstation Has 128 CPU Cores And 28,416 GPU Cores Crammed Into Surprisingly Small Form Factor ](https://soylentnews.org/article.pl?sid=24/04/07/1639225&from=rss)
 * [2024-04-08, 20:45:00](https://soylentnews.org/article.pl?sid=24/04/07/1632259&from=rss) - [HTTP/2 CONTINUATION Flood: Technical Details](https://soylentnews.org/article.pl?sid=24/04/07/1632259&from=rss)
 * [2024-04-08, 16:00:00](https://soylentnews.org/article.pl?sid=24/04/08/010234&from=rss) - [Total Eclipse Discussion](https://soylentnews.org/article.pl?sid=24/04/08/010234&from=rss)
 * [2024-04-08, 14:20:00](https://soylentnews.org/article.pl?sid=24/04/07/0253209&from=rss) - [After AI-Generated Porn Report, Washington Lottery Pulls Down Interactive Web App](https://soylentnews.org/article.pl?sid=24/04/07/0253209&from=rss)
@@ -49,7 +50,6 @@
 * [2024-03-31, 02:24:00](https://soylentnews.org/article.pl?sid=24/03/30/0318218&from=rss) - [Def Con Hackers Ready AI Fixes To Critical Health-Care Flaws](https://soylentnews.org/article.pl?sid=24/03/30/0318218&from=rss)
 * [2024-03-30, 21:42:00](https://soylentnews.org/article.pl?sid=24/03/30/035201&from=rss) - [Oxford University Study Challenges Human Brains Theory](https://soylentnews.org/article.pl?sid=24/03/30/035201&from=rss)
 * [2024-03-30, 16:53:00](https://soylentnews.org/article.pl?sid=24/03/28/054216&from=rss) - [Blizzard Just Gave Us A Hint Of How Many World Of Warcraft Subscribers Remain](https://soylentnews.org/article.pl?sid=24/03/28/054216&from=rss)
-* [2024-03-30, 12:07:00](https://soylentnews.org/article.pl?sid=24/03/28/0519204&from=rss) - [EU Leaders Want To Make Europe A Global Quantum Powerhouse](https://soylentnews.org/article.pl?sid=24/03/28/0519204&from=rss)
 
 ## [Archives](archives/index.md)
 
