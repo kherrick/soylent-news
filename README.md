@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-10, 10:41:00](https://soylentnews.org/article.pl?sid=24/04/09/1832212&from=rss) - [Toothed Whale Echolocation Organs Evolved From Jaw Muscles, New Research Suggests](https://soylentnews.org/article.pl?sid=24/04/09/1832212&from=rss)
 * [2024-04-10, 05:56:00](https://soylentnews.org/article.pl?sid=24/04/09/1827250&from=rss) - [After Pushing Cloud Storage, TV Provider to Auto-Delete 61-Day-Old DVR Recordings](https://soylentnews.org/article.pl?sid=24/04/09/1827250&from=rss)
 * [2024-04-10, 01:13:00](https://soylentnews.org/article.pl?sid=24/04/08/1814234&from=rss) - [How Insect Blood Stops Bleeding Fast](https://soylentnews.org/article.pl?sid=24/04/08/1814234&from=rss)
 * [2024-04-09, 20:32:00](https://soylentnews.org/article.pl?sid=24/04/08/187220&from=rss) - [8 to 524 KByte RAM, 8 MByte Storage: IBM's System/360 Turns 60 Years Old](https://soylentnews.org/article.pl?sid=24/04/08/187220&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-01, 11:33:00](https://soylentnews.org/article.pl?sid=24/03/31/1315229&from=rss) - [If You Watched Certain YouTube Videos, Investigators Demanded Your Data From Google](https://soylentnews.org/article.pl?sid=24/03/31/1315229&from=rss)
 * [2024-04-01, 06:50:00](https://soylentnews.org/article.pl?sid=24/03/31/1311225&from=rss) - [Radios, How Do They Work?](https://soylentnews.org/article.pl?sid=24/03/31/1311225&from=rss)
 * [2024-04-01, 02:02:00](https://soylentnews.org/article.pl?sid=24/03/30/2256223&from=rss) - [Astronomers Discover 49 New Galaxies In Under Three Hours](https://soylentnews.org/article.pl?sid=24/03/30/2256223&from=rss)
-* [2024-03-31, 21:16:00](https://soylentnews.org/article.pl?sid=24/03/30/0656249&from=rss) - [Oregon Becomes Fourth State to Enact a \"Right to Repair\" Law for Technology](https://soylentnews.org/article.pl?sid=24/03/30/0656249&from=rss)
 
 ## [Archives](archives/index.md)
 
