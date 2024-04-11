@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-11, 05:53:00](https://soylentnews.org/article.pl?sid=24/04/10/0345245&from=rss) - [Ripples In Spacetime Reveal Mystery Object Colliding With A Star's Corpse](https://soylentnews.org/article.pl?sid=24/04/10/0345245&from=rss)
 * [2024-04-11, 01:07:00](https://soylentnews.org/article.pl?sid=24/04/09/1850229&from=rss) - [UK's Attitude To Security Spotlit By Government Figures](https://soylentnews.org/article.pl?sid=24/04/09/1850229&from=rss)
 * [2024-04-10, 20:13:00](https://soylentnews.org/article.pl?sid=24/04/09/1846223&from=rss) - [Jellyfish Invade Venezuelan Waters, Worrying Fishermen](https://soylentnews.org/article.pl?sid=24/04/09/1846223&from=rss)
 * [2024-04-10, 15:25:00](https://soylentnews.org/article.pl?sid=24/04/09/1839249&from=rss) - [Western Digital Confirms HDD And NAND Flash Shortages, Warns Partners Of Higher Pricing](https://soylentnews.org/article.pl?sid=24/04/09/1839249&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-02, 06:33:00](https://soylentnews.org/article.pl?sid=24/04/01/1744227&from=rss) - [AT&T Notifies Users of Data Breach and Resets Millions of Passcodes](https://soylentnews.org/article.pl?sid=24/04/01/1744227&from=rss)
 * [2024-04-02, 01:48:00](https://soylentnews.org/article.pl?sid=24/04/01/019203&from=rss) - [Birds Create Barcode-Like Memories to Locate Stored Food](https://soylentnews.org/article.pl?sid=24/04/01/019203&from=rss)
 * [2024-04-01, 21:03:00](https://soylentnews.org/article.pl?sid=24/04/01/0055219&from=rss) - [China Blocks Use of Intel and AMD Chips in Government Computers](https://soylentnews.org/article.pl?sid=24/04/01/0055219&from=rss)
-* [2024-04-01, 16:18:00](https://soylentnews.org/article.pl?sid=24/03/31/1320259&from=rss) - [Embracer Group Lets Go of Borderlands Maker for $460M After Three Years](https://soylentnews.org/article.pl?sid=24/03/31/1320259&from=rss)
 
 ## [Archives](archives/index.md)
 
