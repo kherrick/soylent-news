@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-12, 00:51:00](https://soylentnews.org/article.pl?sid=24/04/10/0833233&from=rss) - [Peregrine Falcons Expose Lasting Harms Of Flame Retardant Use](https://soylentnews.org/article.pl?sid=24/04/10/0833233&from=rss)
 * [2024-04-11, 20:10:00](https://soylentnews.org/politics/article.pl?sid=24/04/10/0411224&from=rss) - [Ukraine Rewards Vigilante Hackers for Help Against the Russian Attack](https://soylentnews.org/politics/article.pl?sid=24/04/10/0411224&from=rss)
 * [2024-04-11, 15:23:00](https://soylentnews.org/article.pl?sid=24/04/10/049241&from=rss) - [Study Finds Schools of Fish Can Make Less Noise Than a Solitary Swimmer](https://soylentnews.org/article.pl?sid=24/04/10/049241&from=rss)
 * [2024-04-11, 10:38:00](https://soylentnews.org/article.pl?sid=24/04/10/045209&from=rss) - [Tesla Settles Apple Engineer Autopilot Fatality Case](https://soylentnews.org/article.pl?sid=24/04/10/045209&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-03, 01:22:00](https://soylentnews.org/article.pl?sid=24/04/02/034254&from=rss) - [A ChatGPT for Music Is Here. Inside Suno, the Startup Changing Everything](https://soylentnews.org/article.pl?sid=24/04/02/034254&from=rss)
 * [2024-04-02, 20:38:00](https://soylentnews.org/article.pl?sid=24/04/01/182256&from=rss) - [Testing Begins On Sensitive Neutrino Detector For Nonproliferation And Fundamental Physics](https://soylentnews.org/article.pl?sid=24/04/01/182256&from=rss)
 * [2024-04-02, 15:51:00](https://soylentnews.org/article.pl?sid=24/04/01/1755241&from=rss) - [FBI Agent Says He Questions People 'Every Day, All Day Long' Over Facebook Posts](https://soylentnews.org/article.pl?sid=24/04/01/1755241&from=rss)
-* [2024-04-02, 11:12:00](https://soylentnews.org/article.pl?sid=24/04/01/1749244&from=rss) - [NetBSD 10.0 Released](https://soylentnews.org/article.pl?sid=24/04/01/1749244&from=rss)
 
 ## [Archives](archives/index.md)
 
