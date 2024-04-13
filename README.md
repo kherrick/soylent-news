@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-13, 19:41:00](https://soylentnews.org/article.pl?sid=24/04/12/1835211&from=rss) - [The U.S. is About to Uncover a Crisis in Drinking Water](https://soylentnews.org/article.pl?sid=24/04/12/1835211&from=rss)
 * [2024-04-13, 14:53:00](https://soylentnews.org/article.pl?sid=24/04/12/1818235&from=rss) - [Hackable Intel and Lenovo Hardware That Went Undetected for 5 Years Won’t Ever be Fixed](https://soylentnews.org/article.pl?sid=24/04/12/1818235&from=rss)
 * [2024-04-13, 10:09:00](https://soylentnews.org/article.pl?sid=24/04/12/1812233&from=rss) - [Cash-Strapped Argentines Queue for Eyeball Scans](https://soylentnews.org/article.pl?sid=24/04/12/1812233&from=rss)
 * [2024-04-13, 05:22:00](https://soylentnews.org/article.pl?sid=24/04/12/185203&from=rss) - [Measuring The Atmospheres Of Other Worlds To See If There Are Enough Nutrients For Life](https://soylentnews.org/article.pl?sid=24/04/12/185203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-04, 20:11:00](https://soylentnews.org/article.pl?sid=24/04/03/0336237&from=rss) - [ Facial Recognition: Cops Are Searching Using AI-Generated Images](https://soylentnews.org/article.pl?sid=24/04/03/0336237&from=rss)
 * [2024-04-04, 15:23:00](https://soylentnews.org/article.pl?sid=24/04/03/0324246&from=rss) - [Unveiling The Formation Of The First Galaxies](https://soylentnews.org/article.pl?sid=24/04/03/0324246&from=rss)
 * [2024-04-04, 10:36:00](https://soylentnews.org/article.pl?sid=24/04/03/0318222&from=rss) - [Trash From The International Space Station May Have Hit A House In Florida](https://soylentnews.org/article.pl?sid=24/04/03/0318222&from=rss)
-* [2024-04-04, 05:49:00](https://soylentnews.org/article.pl?sid=24/04/03/034242&from=rss) - [Pilot Study Shows Ketogenic Diet Improves Severe Mental Illness](https://soylentnews.org/article.pl?sid=24/04/03/034242&from=rss)
 
 ## [Archives](archives/index.md)
 
