@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-13, 05:22:00](https://soylentnews.org/article.pl?sid=24/04/12/185203&from=rss) - [Measuring The Atmospheres Of Other Worlds To See If There Are Enough Nutrients For Life](https://soylentnews.org/article.pl?sid=24/04/12/185203&from=rss)
 * [2024-04-13, 00:29:00](https://soylentnews.org/article.pl?sid=24/04/10/1745244&from=rss) - [Bridgestone Shows a Future Lunar Rover Tire](https://soylentnews.org/article.pl?sid=24/04/10/1745244&from=rss)
 * [2024-04-12, 19:47:00](https://soylentnews.org/article.pl?sid=24/04/10/1729216&from=rss) - [Hollywood Believes The Time Is Ripe To Bring Back SOPA and PIPA](https://soylentnews.org/article.pl?sid=24/04/10/1729216&from=rss)
 * [2024-04-12, 15:03:00](https://soylentnews.org/article.pl?sid=24/04/10/1723241&from=rss) - [With Inspiration From Tetris, Researchers Develop a Better Radiation Detector](https://soylentnews.org/article.pl?sid=24/04/10/1723241&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-04, 05:49:00](https://soylentnews.org/article.pl?sid=24/04/03/034242&from=rss) - [Pilot Study Shows Ketogenic Diet Improves Severe Mental Illness](https://soylentnews.org/article.pl?sid=24/04/03/034242&from=rss)
 * [2024-04-04, 01:06:00](https://soylentnews.org/article.pl?sid=24/04/03/0257242&from=rss) - [At Last, Everyone Gets The Choice To Unbundle Teams](https://soylentnews.org/article.pl?sid=24/04/03/0257242&from=rss)
 * [2024-04-03, 20:24:00](https://soylentnews.org/article.pl?sid=24/04/02/1325255&from=rss) - [AI Hallucinates Software Packages and Devs Download Them](https://soylentnews.org/article.pl?sid=24/04/02/1325255&from=rss)
-* [2024-04-03, 15:39:00](https://soylentnews.org/article.pl?sid=24/04/02/0329216&from=rss) - [Switch Emulator Suyu Hit by GitLab DMCA, Project Lives on Through Self-Hosting](https://soylentnews.org/article.pl?sid=24/04/02/0329216&from=rss)
 
 ## [Archives](archives/index.md)
 
