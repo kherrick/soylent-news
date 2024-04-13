@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-13, 14:53:00](https://soylentnews.org/article.pl?sid=24/04/12/1818235&from=rss) - [Hackable Intel and Lenovo Hardware That Went Undetected for 5 Years Won’t Ever be Fixed](https://soylentnews.org/article.pl?sid=24/04/12/1818235&from=rss)
 * [2024-04-13, 10:09:00](https://soylentnews.org/article.pl?sid=24/04/12/1812233&from=rss) - [Cash-Strapped Argentines Queue for Eyeball Scans](https://soylentnews.org/article.pl?sid=24/04/12/1812233&from=rss)
 * [2024-04-13, 05:22:00](https://soylentnews.org/article.pl?sid=24/04/12/185203&from=rss) - [Measuring The Atmospheres Of Other Worlds To See If There Are Enough Nutrients For Life](https://soylentnews.org/article.pl?sid=24/04/12/185203&from=rss)
 * [2024-04-13, 00:29:00](https://soylentnews.org/article.pl?sid=24/04/10/1745244&from=rss) - [Bridgestone Shows a Future Lunar Rover Tire](https://soylentnews.org/article.pl?sid=24/04/10/1745244&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-04, 15:23:00](https://soylentnews.org/article.pl?sid=24/04/03/0324246&from=rss) - [Unveiling The Formation Of The First Galaxies](https://soylentnews.org/article.pl?sid=24/04/03/0324246&from=rss)
 * [2024-04-04, 10:36:00](https://soylentnews.org/article.pl?sid=24/04/03/0318222&from=rss) - [Trash From The International Space Station May Have Hit A House In Florida](https://soylentnews.org/article.pl?sid=24/04/03/0318222&from=rss)
 * [2024-04-04, 05:49:00](https://soylentnews.org/article.pl?sid=24/04/03/034242&from=rss) - [Pilot Study Shows Ketogenic Diet Improves Severe Mental Illness](https://soylentnews.org/article.pl?sid=24/04/03/034242&from=rss)
-* [2024-04-04, 01:06:00](https://soylentnews.org/article.pl?sid=24/04/03/0257242&from=rss) - [At Last, Everyone Gets The Choice To Unbundle Teams](https://soylentnews.org/article.pl?sid=24/04/03/0257242&from=rss)
 
 ## [Archives](archives/index.md)
 
