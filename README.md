@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-14, 19:23:00](https://soylentnews.org/article.pl?sid=24/04/14/0251223&from=rss) - [Epic’s Proposed Google Reforms to End Android App Market Monopoly](https://soylentnews.org/article.pl?sid=24/04/14/0251223&from=rss)
+* [2024-04-14, 16:38:00](https://soylentnews.org/article.pl?sid=24/04/14/151219&from=rss) - [Lord of the Opera](https://soylentnews.org/article.pl?sid=24/04/14/151219&from=rss)
 * [2024-04-14, 14:39:00](https://soylentnews.org/article.pl?sid=24/04/13/1932255&from=rss) - [Google to Limit Access to California News Sites Amid Fight With State Lawmakers](https://soylentnews.org/article.pl?sid=24/04/13/1932255&from=rss)
 * [2024-04-14, 09:50:00](https://soylentnews.org/article.pl?sid=24/04/13/1919226&from=rss) - [Scientists Solve a Long-Standing Mystery Surrounding the Moon's 'Lopsided' Geology](https://soylentnews.org/article.pl?sid=24/04/13/1919226&from=rss)
 * [2024-04-14, 05:07:00](https://soylentnews.org/article.pl?sid=24/04/12/2139208&from=rss) - [#SaveChandra](https://soylentnews.org/article.pl?sid=24/04/12/2139208&from=rss)
@@ -48,8 +50,6 @@
 * [2024-04-06, 00:43:00](https://soylentnews.org/article.pl?sid=24/04/04/1735221&from=rss) - [The Fine Art of Human Prompt Engineering: How to Talk to a Person Like ChatGPT](https://soylentnews.org/article.pl?sid=24/04/04/1735221&from=rss)
 * [2024-04-05, 19:55:00](https://soylentnews.org/article.pl?sid=24/04/04/1727203&from=rss) - [Prime Number Breakthrough](https://soylentnews.org/article.pl?sid=24/04/04/1727203&from=rss)
 * [2024-04-05, 15:08:00](https://soylentnews.org/article.pl?sid=24/04/04/0312205&from=rss) - [A Return to Roots: Lab Builds its First Stellarator in 50 Years](https://soylentnews.org/article.pl?sid=24/04/04/0312205&from=rss)
-* [2024-04-05, 10:25:00](https://soylentnews.org/article.pl?sid=24/04/04/033256&from=rss) - [Intel Courts Devs With Open Arms And Exotic Hardware ](https://soylentnews.org/article.pl?sid=24/04/04/033256&from=rss)
-* [2024-04-05, 05:43:00](https://soylentnews.org/article.pl?sid=24/04/04/0249212&from=rss) - [Judge Bans Use of AI-enhanced Video as Trial Evidence](https://soylentnews.org/article.pl?sid=24/04/04/0249212&from=rss)
 
 ## [Archives](archives/index.md)
 
