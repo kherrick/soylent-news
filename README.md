@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-14, 05:07:00](https://soylentnews.org/article.pl?sid=24/04/12/2139208&from=rss) - [#SaveChandra](https://soylentnews.org/article.pl?sid=24/04/12/2139208&from=rss)
 * [2024-04-14, 00:23:00](https://soylentnews.org/article.pl?sid=24/04/12/2134249&from=rss) - [Enterprise Chrome for Rent by Google](https://soylentnews.org/article.pl?sid=24/04/12/2134249&from=rss)
 * [2024-04-13, 19:41:00](https://soylentnews.org/article.pl?sid=24/04/12/1835211&from=rss) - [The U.S. is About to Uncover a Crisis in Drinking Water](https://soylentnews.org/article.pl?sid=24/04/12/1835211&from=rss)
 * [2024-04-13, 14:53:00](https://soylentnews.org/article.pl?sid=24/04/12/1818235&from=rss) - [Hackable Intel and Lenovo Hardware That Went Undetected for 5 Years Won’t Ever be Fixed](https://soylentnews.org/article.pl?sid=24/04/12/1818235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-05, 05:43:00](https://soylentnews.org/article.pl?sid=24/04/04/0249212&from=rss) - [Judge Bans Use of AI-enhanced Video as Trial Evidence](https://soylentnews.org/article.pl?sid=24/04/04/0249212&from=rss)
 * [2024-04-05, 00:58:00](https://soylentnews.org/article.pl?sid=24/04/04/0219233&from=rss) - [Cable Lobby Vows “Years of Litigation” to Avoid Bans on Blocking and Throttling](https://soylentnews.org/article.pl?sid=24/04/04/0219233&from=rss)
 * [2024-04-04, 20:11:00](https://soylentnews.org/article.pl?sid=24/04/03/0336237&from=rss) - [ Facial Recognition: Cops Are Searching Using AI-Generated Images](https://soylentnews.org/article.pl?sid=24/04/03/0336237&from=rss)
-* [2024-04-04, 15:23:00](https://soylentnews.org/article.pl?sid=24/04/03/0324246&from=rss) - [Unveiling The Formation Of The First Galaxies](https://soylentnews.org/article.pl?sid=24/04/03/0324246&from=rss)
 
 ## [Archives](archives/index.md)
 
