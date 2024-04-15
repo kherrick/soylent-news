@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-15, 00:10:00](https://soylentnews.org/article.pl?sid=24/04/14/033215&from=rss) - [Automattic Acquires Multiservice Messaging App Beeper](https://soylentnews.org/article.pl?sid=24/04/14/033215&from=rss)
 * [2024-04-14, 19:23:00](https://soylentnews.org/article.pl?sid=24/04/14/0251223&from=rss) - [Epic’s Proposed Google Reforms to End Android App Market Monopoly](https://soylentnews.org/article.pl?sid=24/04/14/0251223&from=rss)
 * [2024-04-14, 16:38:00](https://soylentnews.org/article.pl?sid=24/04/14/151219&from=rss) - [Lord of the Opera](https://soylentnews.org/article.pl?sid=24/04/14/151219&from=rss)
 * [2024-04-14, 14:39:00](https://soylentnews.org/article.pl?sid=24/04/13/1932255&from=rss) - [Google to Limit Access to California News Sites Amid Fight With State Lawmakers](https://soylentnews.org/article.pl?sid=24/04/13/1932255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-06, 05:26:00](https://soylentnews.org/article.pl?sid=24/04/04/1737225&from=rss) - [Chase Launches Chase Media Solutions..Connecting 80 Million U.S. Consumers With the Brands They Love](https://soylentnews.org/article.pl?sid=24/04/04/1737225&from=rss)
 * [2024-04-06, 00:43:00](https://soylentnews.org/article.pl?sid=24/04/04/1735221&from=rss) - [The Fine Art of Human Prompt Engineering: How to Talk to a Person Like ChatGPT](https://soylentnews.org/article.pl?sid=24/04/04/1735221&from=rss)
 * [2024-04-05, 19:55:00](https://soylentnews.org/article.pl?sid=24/04/04/1727203&from=rss) - [Prime Number Breakthrough](https://soylentnews.org/article.pl?sid=24/04/04/1727203&from=rss)
-* [2024-04-05, 15:08:00](https://soylentnews.org/article.pl?sid=24/04/04/0312205&from=rss) - [A Return to Roots: Lab Builds its First Stellarator in 50 Years](https://soylentnews.org/article.pl?sid=24/04/04/0312205&from=rss)
 
 ## [Archives](archives/index.md)
 
