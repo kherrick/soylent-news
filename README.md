@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-16, 14:10:00](https://soylentnews.org/article.pl?sid=24/04/15/1453237&from=rss) - [Windows 11 24H2: When Microsoft Thwarts Customization](https://soylentnews.org/article.pl?sid=24/04/15/1453237&from=rss)
 * [2024-04-16, 09:27:00](https://soylentnews.org/article.pl?sid=24/04/15/1445240&from=rss) - [Apple Faces Worst iPhone Slump Since Covid As China Rivals Rise](https://soylentnews.org/article.pl?sid=24/04/15/1445240&from=rss)
 * [2024-04-16, 04:42:00](https://soylentnews.org/article.pl?sid=24/04/15/142230&from=rss) - [Tesla Lays Off ‘More Than 10%’ of its Global Workforce](https://soylentnews.org/article.pl?sid=24/04/15/142230&from=rss)
 * [2024-04-15, 23:51:00](https://soylentnews.org/article.pl?sid=24/04/15/1356244&from=rss) - [Birds Sing in Their Sleep – and Now We Can Decipher Their Dreams](https://soylentnews.org/article.pl?sid=24/04/15/1356244&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-07, 19:23:00](https://soylentnews.org/article.pl?sid=24/04/07/0214257&from=rss) - [Spain's Giant Hail Event Worsened By Marine Heat Waves](https://soylentnews.org/article.pl?sid=24/04/07/0214257&from=rss)
 * [2024-04-07, 14:40:00](https://soylentnews.org/article.pl?sid=24/04/05/2229249&from=rss) - [Officials Have a Plan to End Years of Monkey Mayhem in a Central Thai City](https://soylentnews.org/article.pl?sid=24/04/05/2229249&from=rss)
 * [2024-04-07, 09:53:00](https://soylentnews.org/article.pl?sid=24/04/05/1712252&from=rss) - [NASA Has to Make a Time Zone for the Moon](https://soylentnews.org/article.pl?sid=24/04/05/1712252&from=rss)
-* [2024-04-07, 05:12:00](https://soylentnews.org/article.pl?sid=24/04/05/178232&from=rss) - [Post-2025 Windows 10 Updates for Businesses Start at $61 Per PC, Go Up From There](https://soylentnews.org/article.pl?sid=24/04/05/178232&from=rss)
 
 ## [Archives](archives/index.md)
 
