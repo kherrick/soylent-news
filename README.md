@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-16, 04:42:00](https://soylentnews.org/article.pl?sid=24/04/15/142230&from=rss) - [Tesla Lays Off ‘More Than 10%’ of its Global Workforce](https://soylentnews.org/article.pl?sid=24/04/15/142230&from=rss)
 * [2024-04-15, 23:51:00](https://soylentnews.org/article.pl?sid=24/04/15/1356244&from=rss) - [Birds Sing in Their Sleep – and Now We Can Decipher Their Dreams](https://soylentnews.org/article.pl?sid=24/04/15/1356244&from=rss)
 * [2024-04-15, 19:06:00](https://soylentnews.org/article.pl?sid=24/04/14/1828205&from=rss) - [“Highly Capable” Hackers Root Corporate Networks by Exploiting Firewall 0-Day](https://soylentnews.org/article.pl?sid=24/04/14/1828205&from=rss)
 * [2024-04-15, 14:23:00](https://soylentnews.org/article.pl?sid=24/04/14/165207&from=rss) - [Tesla Model 3 Traps TikToker Inside 115-Degree Car During a Software Update](https://soylentnews.org/article.pl?sid=24/04/14/165207&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-07, 09:53:00](https://soylentnews.org/article.pl?sid=24/04/05/1712252&from=rss) - [NASA Has to Make a Time Zone for the Moon](https://soylentnews.org/article.pl?sid=24/04/05/1712252&from=rss)
 * [2024-04-07, 05:12:00](https://soylentnews.org/article.pl?sid=24/04/05/178232&from=rss) - [Post-2025 Windows 10 Updates for Businesses Start at $61 Per PC, Go Up From There](https://soylentnews.org/article.pl?sid=24/04/05/178232&from=rss)
 * [2024-04-07, 00:26:00](https://soylentnews.org/article.pl?sid=24/04/04/1747216&from=rss) - [Condor-Inspired Retrofit Boosts Wind Turbine Energy Production by 10%](https://soylentnews.org/article.pl?sid=24/04/04/1747216&from=rss)
-* [2024-04-06, 19:42:00](https://soylentnews.org/article.pl?sid=24/04/04/1743247&from=rss) - [US And UK To Join Forces In AI Safety Testing](https://soylentnews.org/article.pl?sid=24/04/04/1743247&from=rss)
 
 ## [Archives](archives/index.md)
 
