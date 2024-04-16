@@ -145,6 +145,124 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/04/16/072241">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/04/16/072241&amp;from=rss"
+              >PuTTY Vulnerability Vuln-p521-bias</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-16 @ 23:40:00</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/04/16/072241"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
+              <p>
+                <a
+                  href="https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html"
+                  >PuTTY vulnerability vuln-p521-bias</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    <b>summary</b>: NIST P521 private keys are exposed by biased
+                    signature generation<br /><b>class</b>:
+                    <i>vulnerability:</i> This is a security vulnerability.<br /><b
+                      >priority</b
+                    >: <i>high:</i> This should be fixed in the next release.<br /><b
+                      >absent-in</b
+                    >: 0.67<br /><b>present-in</b>: 0.68 0.69 0.70 0.71 0.72
+                    0.73 0.74 0.75 0.76 0.77 0.78 0.79 0.80<br /><b>fixed-in</b
+                    >:
+                    <a
+                      href="https://git.tartarus.org/?p=simon/putty.git;a=commitdiff;h=c193fe9848f50a88a4089aac647fecc31ae96d27"
+                      >c193fe9848f50a88a4089aac647fecc31ae96d27</a
+                    >
+                    (0.81)
+                  </p>
+                  <p>
+                    Every version of the PuTTY tools from 0.68 to 0.80 inclusive
+                    has a critical vulnerability in the code that generates
+                    signatures from ECDSA private keys which use the NIST P521
+                    curve. (PuTTY, or Pageant, generates a signature from a key
+                    when using it to authenticate you to an SSH server.)
+                  </p>
+                  <p>
+                    This vulnerability has been assigned
+                    <a
+                      href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-31497"
+                      >CVE-2024-31497</a
+                    >. It was discovered by Fabian Bäumer and Marcus Brinkmann
+                    of the Ruhr University Bochum; see their write-up
+                    <a
+                      href="https://www.openwall.com/lists/oss-security/2024/04/15/6"
+                      >on the oss-security mailing list</a
+                    >.
+                  </p>
+                  <p>
+                    The bad news: the effect of the vulnerability is to
+                    <strong>compromise the private key</strong>. An attacker in
+                    possession of a few dozen signed messages and the public key
+                    has enough information to recover the private key, and then
+                    forge signatures as if they were from you, allowing them to
+                    (for instance) log in to any servers you use that key for.
+                    To obtain these signatures, an attacker need only briefly
+                    compromise any server you use the key to authenticate to, or
+                    momentarily gain access to a copy of Pageant holding the
+                    key. (However, these signatures are not exposed to passive
+                    eavesdroppers of SSH connections.)
+                  </p>
+                  <p>
+                    Therefore, if you have a key of this type, we recommend you
+                    revoke it immediately: remove the old public key from all
+                    OpenSSH authorized_keys files, and the equivalent in other
+                    SSH servers, so that a signature from the compromised key
+                    has no value any more. Then generate a new key pair to
+                    replace it.
+                  </p>
+                  <p>
+                    (The problem is not with how the key was originally
+                    generated; it doesn't matter whether it came from PuTTYgen
+                    or somewhere else. What matters is whether it was ever
+                    <em>used</em> with PuTTY or Pageant.)
+                  </p>
+                  <p>
+                    The good news: the <em>only</em> affected key type is
+                    521-bit ECDSA. That is, a key that appears in Windows
+                    PuTTYgen with ecdsa-sha2-nistp521 at the start of the 'Key
+                    fingerprint' box, or is described as 'NIST p521' when loaded
+                    into Windows Pageant, or has an id starting
+                    ecdsa-sha2-nistp521 in the SSH protocol or the key file.
+                    Other sizes of ECDSA, and other key algorithms, are
+                    unaffected. In particular, Ed25519 is not affected.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62581"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/04/15/2258258">
           <h3>
             <a
@@ -271,7 +389,7 @@
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/15/1453237"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
             <div class="text">
@@ -662,7 +780,7 @@
             <h4>
               <span>2024-04-15 @ 19:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">1070</span></span
+                >Points: <span class="points">1078</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/14/1828205"
@@ -1217,7 +1335,7 @@
             <h4>
               <span>2024-04-14 @ 16:38:00</span
               ><span class="points-container"
-                >Points: <span class="points">1805</span></span
+                >Points: <span class="points">1810</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/14/151219"
@@ -2199,7 +2317,7 @@
             <h4>
               <span>2024-04-12 @ 19:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">3400</span></span
+                >Points: <span class="points">3405</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/10/1729216"
@@ -4876,89 +4994,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62461"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/04/05/2229249">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/04/05/2229249&amp;from=rss"
-              >Officials Have a Plan to End Years of Monkey Mayhem in a Central
-              Thai City</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-07 @ 14:40:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2440</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/04/05/2229249"
-                  >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
-              <p>
-                <a
-                  href="https://wtop.com/trending-now/2024/04/officials-have-a-plan-to-end-years-of-monkey-mayhem-in-a-central-thai-city/"
-                  >Officials have a plan to end years of monkey mayhem in a
-                  central Thai city - WTOP News</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    [...] The macaques that roam Lopburi are a symbol of local
-                    culture, and a major tourist draw. But after years of
-                    dangerous encounters with residents and visitors and several
-                    failed attempts to bring peace with population controls,
-                    local people and businesses have had enough.
-                  </p>
-                  <p>
-                    The monkeys frequently try to snatch food from humans,
-                    sometimes resulting in tussles that can leave people with
-                    scratches and other injuries. But outrage grew in March when
-                    a woman dislocated her knee after a monkey pulled her off
-                    her feet in an effort to grab food, and another man was
-                    knocked off a motorcycle by a hungry monkey.
-                  </p>
-                  <p>
-                    Authorities hope to round up some 2,500 urban monkeys and
-                    place them in massive enclosures, said Athapol
-                    Charoenshunsa, the director-general of the Department of
-                    National Parks, Wildlife and Plant Conservation. They'll
-                    work with wildlife experts to find a way for a limited
-                    number of monkeys to stay at liberty in the city, he added.
-                  </p>
-                  <p>
-                    [...] Previous control measure have fallen short. From
-                    2014-2023, the wildlife authorities neutered about 2,600
-                    Lopburi monkeys.
-                  </p>
-                  <p>
-                    Athapol said they are also working in other areas of
-                    Thailand that are facing problems with monkeys, such as
-                    Prajuab Kiri Khan and Phetchaburi. He said 52 of the
-                    country's 77 provinces report frequent problems from
-                    monkeys.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62479"
                     >Original Submission</a
                   ></small
                 >
