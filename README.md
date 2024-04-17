@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-17, 04:03:00](https://soylentnews.org/article.pl?sid=24/04/16/1256212&from=rss) - [Bridge Collapses After Just 10 Years Because of Design Flaws](https://soylentnews.org/article.pl?sid=24/04/16/1256212&from=rss)
 * [2024-04-16, 23:40:00](https://soylentnews.org/article.pl?sid=24/04/16/072241&from=rss) - [PuTTY Vulnerability Vuln-p521-bias](https://soylentnews.org/article.pl?sid=24/04/16/072241&from=rss)
 * [2024-04-16, 18:57:00](https://soylentnews.org/article.pl?sid=24/04/15/2258258&from=rss) - [How a Moth’s Wings Create Ultrasonic Clicks](https://soylentnews.org/article.pl?sid=24/04/15/2258258&from=rss)
 * [2024-04-16, 14:10:00](https://soylentnews.org/article.pl?sid=24/04/15/1453237&from=rss) - [Windows 11 24H2: When Microsoft Thwarts Customization](https://soylentnews.org/article.pl?sid=24/04/15/1453237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-08, 09:37:00](https://soylentnews.org/article.pl?sid=24/04/07/0248236&from=rss) - [Gravity Measurement Based on a Levitating Magnet](https://soylentnews.org/article.pl?sid=24/04/07/0248236&from=rss)
 * [2024-04-08, 04:50:00](https://soylentnews.org/article.pl?sid=24/04/07/0221207&from=rss) - [The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind](https://soylentnews.org/article.pl?sid=24/04/07/0221207&from=rss)
 * [2024-04-08, 00:07:00](https://soylentnews.org/article.pl?sid=24/04/07/0218240&from=rss) - [House Of Representatives Bans The Use Of Copilot Over Security Concerns](https://soylentnews.org/article.pl?sid=24/04/07/0218240&from=rss)
-* [2024-04-07, 19:23:00](https://soylentnews.org/article.pl?sid=24/04/07/0214257&from=rss) - [Spain's Giant Hail Event Worsened By Marine Heat Waves](https://soylentnews.org/article.pl?sid=24/04/07/0214257&from=rss)
 
 ## [Archives](archives/index.md)
 
