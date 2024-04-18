@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-18, 22:39:00](https://soylentnews.org/article.pl?sid=24/04/17/2030237&from=rss) - [Pyrite May Contain Valuable Lithium, A Key Element For Green Energy](https://soylentnews.org/article.pl?sid=24/04/17/2030237&from=rss)
 * [2024-04-18, 17:53:00](https://soylentnews.org/article.pl?sid=24/04/17/2023250&from=rss) - [Alleged Cryptojacking Scheme Consumed $3.5M of Stolen Computing to Make Just $1M](https://soylentnews.org/article.pl?sid=24/04/17/2023250&from=rss)
 * [2024-04-18, 13:08:00](https://soylentnews.org/article.pl?sid=24/04/17/2022207&from=rss) - [EU Battery Passport - Lifetime Record of BEV and Other Large Li Batteries](https://soylentnews.org/article.pl?sid=24/04/17/2022207&from=rss)
 * [2024-04-18, 08:25:00](https://soylentnews.org/article.pl?sid=24/04/17/2017211&from=rss) - [Samsung Receives $6.4 Billion In CHIPS Grants, Will Boost Production In Texas ](https://soylentnews.org/article.pl?sid=24/04/17/2017211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-09, 20:32:00](https://soylentnews.org/article.pl?sid=24/04/08/187220&from=rss) - [8 to 524 KByte RAM, 8 MByte Storage: IBM's System/360 Turns 60 Years Old](https://soylentnews.org/article.pl?sid=24/04/08/187220&from=rss)
 * [2024-04-09, 18:45:00](https://soylentnews.org/article.pl?sid=24/04/09/1837202&from=rss) - [ULA Successfully Launches Its 'Most Metal' Rocket For Last Time](https://soylentnews.org/article.pl?sid=24/04/09/1837202&from=rss)
 * [2024-04-09, 15:48:00](https://soylentnews.org/article.pl?sid=24/04/08/0128230&from=rss) - [Study Reports That People and Environment Both Benefit From Diversified Farming](https://soylentnews.org/article.pl?sid=24/04/08/0128230&from=rss)
-* [2024-04-09, 11:02:00](https://soylentnews.org/article.pl?sid=24/04/08/0113259&from=rss) - [NASA Knows What Knocked Voyager 1 Offline, but It Will Take a While to Fix](https://soylentnews.org/article.pl?sid=24/04/08/0113259&from=rss)
 
 ## [Archives](archives/index.md)
 
