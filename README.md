@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-18, 03:43:00](https://soylentnews.org/article.pl?sid=24/04/17/204248&from=rss) - [I Flew Boeing's Starliner Spacecraft in 4 Different Simulators](https://soylentnews.org/article.pl?sid=24/04/17/204248&from=rss)
 * [2024-04-17, 22:58:00](https://soylentnews.org/article.pl?sid=24/04/16/1352205&from=rss) - [Apple Removes the First IOS Game Boy Emulator Released Under New App Store Rules](https://soylentnews.org/article.pl?sid=24/04/16/1352205&from=rss)
 * [2024-04-17, 18:13:00](https://soylentnews.org/article.pl?sid=24/04/16/1347225&from=rss) - [Ocean Measurements Detect Conditions for Giant Waves](https://soylentnews.org/article.pl?sid=24/04/16/1347225&from=rss)
 * [2024-04-17, 13:32:00](https://soylentnews.org/article.pl?sid=24/04/16/1342213&from=rss) - [Building a GPS Receiver](https://soylentnews.org/article.pl?sid=24/04/16/1342213&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-09, 06:13:00](https://soylentnews.org/article.pl?sid=24/04/08/0045251&from=rss) - [Death: A Process, Not A Point, Says Cutting-Edge Research](https://soylentnews.org/article.pl?sid=24/04/08/0045251&from=rss)
 * [2024-04-09, 01:30:00](https://soylentnews.org/article.pl?sid=24/04/07/1639225&from=rss) - [AIO Workstation Has 128 CPU Cores And 28,416 GPU Cores Crammed Into Surprisingly Small Form Factor ](https://soylentnews.org/article.pl?sid=24/04/07/1639225&from=rss)
 * [2024-04-08, 20:45:00](https://soylentnews.org/article.pl?sid=24/04/07/1632259&from=rss) - [HTTP/2 CONTINUATION Flood: Technical Details](https://soylentnews.org/article.pl?sid=24/04/07/1632259&from=rss)
-* [2024-04-08, 16:00:00](https://soylentnews.org/article.pl?sid=24/04/08/010234&from=rss) - [Total Eclipse Discussion](https://soylentnews.org/article.pl?sid=24/04/08/010234&from=rss)
 
 ## [Archives](archives/index.md)
 
