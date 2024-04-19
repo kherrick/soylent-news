@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-19, 22:25:00](https://soylentnews.org/article.pl?sid=24/04/18/1211242&from=rss) - [Time To Move Orphaned Debian Packages To Git](https://soylentnews.org/article.pl?sid=24/04/18/1211242&from=rss)
 * [2024-04-19, 17:32:00](https://soylentnews.org/article.pl?sid=24/04/18/125210&from=rss) - [Target Collecting and Storing Customers’ Face and Fingerprint Scans Without Consent](https://soylentnews.org/article.pl?sid=24/04/18/125210&from=rss)
 * [2024-04-19, 12:51:00](https://soylentnews.org/article.pl?sid=24/04/18/121242&from=rss) - [NASA Confirms Origin of Space Junk That Crashed Through Florida Home](https://soylentnews.org/article.pl?sid=24/04/18/121242&from=rss)
 * [2024-04-19, 08:08:00](https://soylentnews.org/article.pl?sid=24/04/17/2054203&from=rss) - [xz-style Attacks Continue to Target Open-Source Maintainers](https://soylentnews.org/article.pl?sid=24/04/17/2054203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-10, 20:13:00](https://soylentnews.org/article.pl?sid=24/04/09/1846223&from=rss) - [Jellyfish Invade Venezuelan Waters, Worrying Fishermen](https://soylentnews.org/article.pl?sid=24/04/09/1846223&from=rss)
 * [2024-04-10, 15:25:00](https://soylentnews.org/article.pl?sid=24/04/09/1839249&from=rss) - [Western Digital Confirms HDD And NAND Flash Shortages, Warns Partners Of Higher Pricing](https://soylentnews.org/article.pl?sid=24/04/09/1839249&from=rss)
 * [2024-04-10, 10:41:00](https://soylentnews.org/article.pl?sid=24/04/09/1832212&from=rss) - [Toothed Whale Echolocation Organs Evolved From Jaw Muscles, New Research Suggests](https://soylentnews.org/article.pl?sid=24/04/09/1832212&from=rss)
-* [2024-04-10, 05:56:00](https://soylentnews.org/article.pl?sid=24/04/09/1827250&from=rss) - [After Pushing Cloud Storage, TV Provider to Auto-Delete 61-Day-Old DVR Recordings](https://soylentnews.org/article.pl?sid=24/04/09/1827250&from=rss)
 
 ## [Archives](archives/index.md)
 
