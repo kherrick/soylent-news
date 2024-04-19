@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-19, 03:21:00](https://soylentnews.org/article.pl?sid=24/04/17/2044236&from=rss) - [Newly Sequenced Genome Reveals Coffee's Prehistoric Story, and its Future Under Climate Change](https://soylentnews.org/article.pl?sid=24/04/17/2044236&from=rss)
 * [2024-04-18, 22:39:00](https://soylentnews.org/article.pl?sid=24/04/17/2030237&from=rss) - [Pyrite May Contain Valuable Lithium, A Key Element For Green Energy](https://soylentnews.org/article.pl?sid=24/04/17/2030237&from=rss)
 * [2024-04-18, 17:53:00](https://soylentnews.org/article.pl?sid=24/04/17/2023250&from=rss) - [Alleged Cryptojacking Scheme Consumed $3.5M of Stolen Computing to Make Just $1M](https://soylentnews.org/article.pl?sid=24/04/17/2023250&from=rss)
 * [2024-04-18, 13:08:00](https://soylentnews.org/article.pl?sid=24/04/17/2022207&from=rss) - [EU Battery Passport - Lifetime Record of BEV and Other Large Li Batteries](https://soylentnews.org/article.pl?sid=24/04/17/2022207&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-10, 01:13:00](https://soylentnews.org/article.pl?sid=24/04/08/1814234&from=rss) - [How Insect Blood Stops Bleeding Fast](https://soylentnews.org/article.pl?sid=24/04/08/1814234&from=rss)
 * [2024-04-09, 20:32:00](https://soylentnews.org/article.pl?sid=24/04/08/187220&from=rss) - [8 to 524 KByte RAM, 8 MByte Storage: IBM's System/360 Turns 60 Years Old](https://soylentnews.org/article.pl?sid=24/04/08/187220&from=rss)
 * [2024-04-09, 18:45:00](https://soylentnews.org/article.pl?sid=24/04/09/1837202&from=rss) - [ULA Successfully Launches Its 'Most Metal' Rocket For Last Time](https://soylentnews.org/article.pl?sid=24/04/09/1837202&from=rss)
-* [2024-04-09, 15:48:00](https://soylentnews.org/article.pl?sid=24/04/08/0128230&from=rss) - [Study Reports That People and Environment Both Benefit From Diversified Farming](https://soylentnews.org/article.pl?sid=24/04/08/0128230&from=rss)
 
 ## [Archives](archives/index.md)
 
