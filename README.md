@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-20, 12:38:00](https://soylentnews.org/article.pl?sid=24/04/19/151205&from=rss) - [Beyond Git: How Version Control Systems Are Evolving For Devops](https://soylentnews.org/article.pl?sid=24/04/19/151205&from=rss)
 * [2024-04-20, 07:52:00](https://soylentnews.org/article.pl?sid=24/04/19/1453245&from=rss) - [Differences Between Hemi & Non-Hemi Engines](https://soylentnews.org/article.pl?sid=24/04/19/1453245&from=rss)
 * [2024-04-20, 03:08:00](https://soylentnews.org/article.pl?sid=24/04/19/1449227&from=rss) - [Cops Can Force Suspect to Unlock Phone With Thumbprint, US Court Rules](https://soylentnews.org/article.pl?sid=24/04/19/1449227&from=rss)
 * [2024-04-19, 22:25:00](https://soylentnews.org/article.pl?sid=24/04/18/1211242&from=rss) - [Time To Move Orphaned Debian Packages To Git](https://soylentnews.org/article.pl?sid=24/04/18/1211242&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-11, 10:38:00](https://soylentnews.org/article.pl?sid=24/04/10/045209&from=rss) - [Tesla Settles Apple Engineer Autopilot Fatality Case](https://soylentnews.org/article.pl?sid=24/04/10/045209&from=rss)
 * [2024-04-11, 05:53:00](https://soylentnews.org/article.pl?sid=24/04/10/0345245&from=rss) - [Ripples In Spacetime Reveal Mystery Object Colliding With A Star's Corpse](https://soylentnews.org/article.pl?sid=24/04/10/0345245&from=rss)
 * [2024-04-11, 01:07:00](https://soylentnews.org/article.pl?sid=24/04/09/1850229&from=rss) - [UK's Attitude To Security Spotlit By Government Figures](https://soylentnews.org/article.pl?sid=24/04/09/1850229&from=rss)
-* [2024-04-10, 20:13:00](https://soylentnews.org/article.pl?sid=24/04/09/1846223&from=rss) - [Jellyfish Invade Venezuelan Waters, Worrying Fishermen](https://soylentnews.org/article.pl?sid=24/04/09/1846223&from=rss)
 
 ## [Archives](archives/index.md)
 
