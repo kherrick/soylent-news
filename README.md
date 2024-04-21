@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-21, 17:16:00](https://soylentnews.org/article.pl?sid=24/04/20/0338249&from=rss) - [Renovation Relic: Man Finds Hominin Jawbone in Parents’ Travertine Kitchen Tile](https://soylentnews.org/article.pl?sid=24/04/20/0338249&from=rss)
 * [2024-04-21, 12:32:00](https://soylentnews.org/article.pl?sid=24/04/20/0335232&from=rss) - [Io: New Image of a Lake of Fire, Signs of Permanent Volcanism](https://soylentnews.org/article.pl?sid=24/04/20/0335232&from=rss)
 * [2024-04-21, 07:45:00](https://soylentnews.org/article.pl?sid=24/04/20/0316208&from=rss) - [Startup Pitches a Paintball-Armed, AI-Powered Home Security Camera](https://soylentnews.org/article.pl?sid=24/04/20/0316208&from=rss)
 * [2024-04-21, 03:01:00](https://soylentnews.org/article.pl?sid=24/04/20/0312204&from=rss) - [Democracy Dies Behind Paywalls](https://soylentnews.org/article.pl?sid=24/04/20/0312204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-12, 15:03:00](https://soylentnews.org/article.pl?sid=24/04/10/1723241&from=rss) - [With Inspiration From Tetris, Researchers Develop a Better Radiation Detector](https://soylentnews.org/article.pl?sid=24/04/10/1723241&from=rss)
 * [2024-04-12, 10:16:00](https://soylentnews.org/article.pl?sid=24/04/10/1717240&from=rss) - [Intel Says Lunar Lake Will Have 100+ TOPS of AI Performance](https://soylentnews.org/article.pl?sid=24/04/10/1717240&from=rss)
 * [2024-04-12, 05:32:00](https://soylentnews.org/article.pl?sid=24/04/10/1715208&from=rss) - [ECHR Decides on the Role of Climate Policies on Lives, Health, Well-Being, and Quality of Life](https://soylentnews.org/article.pl?sid=24/04/10/1715208&from=rss)
-* [2024-04-12, 00:51:00](https://soylentnews.org/article.pl?sid=24/04/10/0833233&from=rss) - [Peregrine Falcons Expose Lasting Harms Of Flame Retardant Use](https://soylentnews.org/article.pl?sid=24/04/10/0833233&from=rss)
 
 ## [Archives](archives/index.md)
 
