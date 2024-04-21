@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-21](index.md)
+
+* [2024-04-21, 03:01:00](https://soylentnews.org/article.pl?sid=24/04/20/0312204&from=rss) - [Democracy Dies Behind Paywalls](https://soylentnews.org/article.pl?sid=24/04/20/0312204&from=rss)

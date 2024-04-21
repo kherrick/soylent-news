@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-21, 03:01:00](https://soylentnews.org/article.pl?sid=24/04/20/0312204&from=rss) - [Democracy Dies Behind Paywalls](https://soylentnews.org/article.pl?sid=24/04/20/0312204&from=rss)
 * [2024-04-20, 22:12:00](https://soylentnews.org/article.pl?sid=24/04/19/1519229&from=rss) - [AI Miscellany](https://soylentnews.org/article.pl?sid=24/04/19/1519229&from=rss)
 * [2024-04-20, 17:24:00](https://soylentnews.org/article.pl?sid=24/04/19/155228&from=rss) - [Tropical Forests Can't Recover Naturally Without Fruit-Eating Birds, Carbon Recovery Study Shows](https://soylentnews.org/article.pl?sid=24/04/19/155228&from=rss)
 * [2024-04-20, 12:38:00](https://soylentnews.org/article.pl?sid=24/04/19/151205&from=rss) - [Beyond Git: How Version Control Systems Are Evolving For Devops](https://soylentnews.org/article.pl?sid=24/04/19/151205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-12, 00:51:00](https://soylentnews.org/article.pl?sid=24/04/10/0833233&from=rss) - [Peregrine Falcons Expose Lasting Harms Of Flame Retardant Use](https://soylentnews.org/article.pl?sid=24/04/10/0833233&from=rss)
 * [2024-04-11, 20:10:00](https://soylentnews.org/politics/article.pl?sid=24/04/10/0411224&from=rss) - [Ukraine Rewards Vigilante Hackers for Help Against the Russian Attack](https://soylentnews.org/politics/article.pl?sid=24/04/10/0411224&from=rss)
 * [2024-04-11, 15:23:00](https://soylentnews.org/article.pl?sid=24/04/10/049241&from=rss) - [Study Finds Schools of Fish Can Make Less Noise Than a Solitary Swimmer](https://soylentnews.org/article.pl?sid=24/04/10/049241&from=rss)
-* [2024-04-11, 10:38:00](https://soylentnews.org/article.pl?sid=24/04/10/045209&from=rss) - [Tesla Settles Apple Engineer Autopilot Fatality Case](https://soylentnews.org/article.pl?sid=24/04/10/045209&from=rss)
 
 ## [Archives](archives/index.md)
 
