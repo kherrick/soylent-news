@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-22, 07:34:00](https://soylentnews.org/article.pl?sid=24/04/20/2315245&from=rss) - [Turning CO2 Into Sustainable Power](https://soylentnews.org/article.pl?sid=24/04/20/2315245&from=rss)
 * [2024-04-22, 02:45:00](https://soylentnews.org/article.pl?sid=24/04/20/237233&from=rss) - [First Law Protecting Consumers' Brainwaves Signed by Colorado Governor](https://soylentnews.org/article.pl?sid=24/04/20/237233&from=rss)
 * [2024-04-21, 22:02:00](https://soylentnews.org/article.pl?sid=24/04/20/0343250&from=rss) - [Microsoft Lifts Years-Old Compatibility Hold For Windows 11](https://soylentnews.org/article.pl?sid=24/04/20/0343250&from=rss)
 * [2024-04-21, 17:16:00](https://soylentnews.org/article.pl?sid=24/04/20/0338249&from=rss) - [Renovation Relic: Man Finds Hominin Jawbone in Parents’ Travertine Kitchen Tile](https://soylentnews.org/article.pl?sid=24/04/20/0338249&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-13, 05:22:00](https://soylentnews.org/article.pl?sid=24/04/12/185203&from=rss) - [Measuring The Atmospheres Of Other Worlds To See If There Are Enough Nutrients For Life](https://soylentnews.org/article.pl?sid=24/04/12/185203&from=rss)
 * [2024-04-13, 00:29:00](https://soylentnews.org/article.pl?sid=24/04/10/1745244&from=rss) - [Bridgestone Shows a Future Lunar Rover Tire](https://soylentnews.org/article.pl?sid=24/04/10/1745244&from=rss)
 * [2024-04-12, 19:47:00](https://soylentnews.org/article.pl?sid=24/04/10/1729216&from=rss) - [Hollywood Believes The Time Is Ripe To Bring Back SOPA and PIPA](https://soylentnews.org/article.pl?sid=24/04/10/1729216&from=rss)
-* [2024-04-12, 15:03:00](https://soylentnews.org/article.pl?sid=24/04/10/1723241&from=rss) - [With Inspiration From Tetris, Researchers Develop a Better Radiation Detector](https://soylentnews.org/article.pl?sid=24/04/10/1723241&from=rss)
 
 ## [Archives](archives/index.md)
 
