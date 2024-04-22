@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-22, 21:48:00](https://soylentnews.org/article.pl?sid=24/04/21/1910243&from=rss) - [Prime Video Looking to Fix “Extremely Sloppy Mistakes” in Library, Report Says](https://soylentnews.org/article.pl?sid=24/04/21/1910243&from=rss)
 * [2024-04-22, 17:06:00](https://soylentnews.org/article.pl?sid=24/04/21/197221&from=rss) - [ESR's Autodafe: Autotools killer](https://soylentnews.org/article.pl?sid=24/04/21/197221&from=rss)
 * [2024-04-22, 12:23:00](https://soylentnews.org/article.pl?sid=24/04/21/194231&from=rss) - [Five Notes About 16th Century Beer and Barrels](https://soylentnews.org/article.pl?sid=24/04/21/194231&from=rss)
 * [2024-04-22, 07:34:00](https://soylentnews.org/article.pl?sid=24/04/20/2315245&from=rss) - [Turning CO2 Into Sustainable Power](https://soylentnews.org/article.pl?sid=24/04/20/2315245&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-13, 19:41:00](https://soylentnews.org/article.pl?sid=24/04/12/1835211&from=rss) - [The U.S. is About to Uncover a Crisis in Drinking Water](https://soylentnews.org/article.pl?sid=24/04/12/1835211&from=rss)
 * [2024-04-13, 14:53:00](https://soylentnews.org/article.pl?sid=24/04/12/1818235&from=rss) - [Hackable Intel and Lenovo Hardware That Went Undetected for 5 Years Won’t Ever be Fixed](https://soylentnews.org/article.pl?sid=24/04/12/1818235&from=rss)
 * [2024-04-13, 10:09:00](https://soylentnews.org/article.pl?sid=24/04/12/1812233&from=rss) - [Cash-Strapped Argentines Queue for Eyeball Scans](https://soylentnews.org/article.pl?sid=24/04/12/1812233&from=rss)
-* [2024-04-13, 05:22:00](https://soylentnews.org/article.pl?sid=24/04/12/185203&from=rss) - [Measuring The Atmospheres Of Other Worlds To See If There Are Enough Nutrients For Life](https://soylentnews.org/article.pl?sid=24/04/12/185203&from=rss)
 
 ## [Archives](archives/index.md)
 
