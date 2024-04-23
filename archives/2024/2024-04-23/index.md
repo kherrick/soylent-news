@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 21:38:00](https://soylentnews.org/article.pl?sid=24/04/22/1219208&from=rss) - [NIS2, or How to Fight Them Cybercriminals](https://soylentnews.org/article.pl?sid=24/04/22/1219208&from=rss)
 * [2024-04-23, 16:49:00](https://soylentnews.org/article.pl?sid=24/04/22/129247&from=rss) - [End of an Era: End-Of-Life for the Venerable Zilog Z80](https://soylentnews.org/article.pl?sid=24/04/22/129247&from=rss)
 * [2024-04-23, 12:06:00](https://soylentnews.org/article.pl?sid=24/04/22/085240&from=rss) - [US Air Force Successfully Tests AI-controlled Fighter Jet in Dogfight Against Human Pilots](https://soylentnews.org/article.pl?sid=24/04/22/085240&from=rss)
 * [2024-04-23, 07:21:00](https://soylentnews.org/article.pl?sid=24/04/22/0756204&from=rss) - [Linus Torvalds Reiterates His Tabs-Versus-Spaces Stance With a Kernel Trap](https://soylentnews.org/article.pl?sid=24/04/22/0756204&from=rss)
