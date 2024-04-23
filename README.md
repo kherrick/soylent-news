@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-23, 02:36:00](https://soylentnews.org/article.pl?sid=24/04/22/0144220&from=rss) - [A Decade Of Interstellar: Epic Space Odyssey Returns To US Theaters This September ](https://soylentnews.org/article.pl?sid=24/04/22/0144220&from=rss)
 * [2024-04-23, 00:20:00](https://soylentnews.org/article.pl?sid=24/04/23/001205&from=rss) - [Philosopher Daniel Dennett has Died At 82](https://soylentnews.org/article.pl?sid=24/04/23/001205&from=rss)
 * [2024-04-22, 21:48:00](https://soylentnews.org/article.pl?sid=24/04/21/1910243&from=rss) - [Prime Video Looking to Fix “Extremely Sloppy Mistakes” in Library, Report Says](https://soylentnews.org/article.pl?sid=24/04/21/1910243&from=rss)
 * [2024-04-22, 17:06:00](https://soylentnews.org/article.pl?sid=24/04/21/197221&from=rss) - [ESR's Autodafe: Autotools killer](https://soylentnews.org/article.pl?sid=24/04/21/197221&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-14, 05:07:00](https://soylentnews.org/article.pl?sid=24/04/12/2139208&from=rss) - [#SaveChandra](https://soylentnews.org/article.pl?sid=24/04/12/2139208&from=rss)
 * [2024-04-14, 00:23:00](https://soylentnews.org/article.pl?sid=24/04/12/2134249&from=rss) - [Enterprise Chrome for Rent by Google](https://soylentnews.org/article.pl?sid=24/04/12/2134249&from=rss)
 * [2024-04-13, 19:41:00](https://soylentnews.org/article.pl?sid=24/04/12/1835211&from=rss) - [The U.S. is About to Uncover a Crisis in Drinking Water](https://soylentnews.org/article.pl?sid=24/04/12/1835211&from=rss)
-* [2024-04-13, 14:53:00](https://soylentnews.org/article.pl?sid=24/04/12/1818235&from=rss) - [Hackable Intel and Lenovo Hardware That Went Undetected for 5 Years Won’t Ever be Fixed](https://soylentnews.org/article.pl?sid=24/04/12/1818235&from=rss)
 
 ## [Archives](archives/index.md)
 
