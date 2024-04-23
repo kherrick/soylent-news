@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-23, 12:06:00](https://soylentnews.org/article.pl?sid=24/04/22/085240&from=rss) - [US Air Force Successfully Tests AI-controlled Fighter Jet in Dogfight Against Human Pilots](https://soylentnews.org/article.pl?sid=24/04/22/085240&from=rss)
 * [2024-04-23, 07:21:00](https://soylentnews.org/article.pl?sid=24/04/22/0756204&from=rss) - [Linus Torvalds Reiterates His Tabs-Versus-Spaces Stance With a Kernel Trap](https://soylentnews.org/article.pl?sid=24/04/22/0756204&from=rss)
 * [2024-04-23, 02:36:00](https://soylentnews.org/article.pl?sid=24/04/22/0144220&from=rss) - [A Decade Of Interstellar: Epic Space Odyssey Returns To US Theaters This September ](https://soylentnews.org/article.pl?sid=24/04/22/0144220&from=rss)
 * [2024-04-23, 00:20:00](https://soylentnews.org/article.pl?sid=24/04/23/001205&from=rss) - [Philosopher Daniel Dennett has Died At 82](https://soylentnews.org/article.pl?sid=24/04/23/001205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-14, 14:39:00](https://soylentnews.org/article.pl?sid=24/04/13/1932255&from=rss) - [Google to Limit Access to California News Sites Amid Fight With State Lawmakers](https://soylentnews.org/article.pl?sid=24/04/13/1932255&from=rss)
 * [2024-04-14, 09:50:00](https://soylentnews.org/article.pl?sid=24/04/13/1919226&from=rss) - [Scientists Solve a Long-Standing Mystery Surrounding the Moon's 'Lopsided' Geology](https://soylentnews.org/article.pl?sid=24/04/13/1919226&from=rss)
 * [2024-04-14, 05:07:00](https://soylentnews.org/article.pl?sid=24/04/12/2139208&from=rss) - [#SaveChandra](https://soylentnews.org/article.pl?sid=24/04/12/2139208&from=rss)
-* [2024-04-14, 00:23:00](https://soylentnews.org/article.pl?sid=24/04/12/2134249&from=rss) - [Enterprise Chrome for Rent by Google](https://soylentnews.org/article.pl?sid=24/04/12/2134249&from=rss)
 
 ## [Archives](archives/index.md)
 
