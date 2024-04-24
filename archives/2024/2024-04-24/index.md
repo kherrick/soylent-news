@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 21:16:00](https://soylentnews.org/article.pl?sid=24/04/22/1248202&from=rss) - [Goldene Stumbled Upon](https://soylentnews.org/article.pl?sid=24/04/22/1248202&from=rss)
 * [2024-04-24, 16:38:00](https://soylentnews.org/article.pl?sid=24/04/22/1242254&from=rss) - [Do Rotary Engines Have Valves?](https://soylentnews.org/article.pl?sid=24/04/22/1242254&from=rss)
 * [2024-04-24, 11:54:00](https://soylentnews.org/article.pl?sid=24/04/22/1235240&from=rss) - [Microsoft Unveils Deepfake Tech That's Too Good To Release](https://soylentnews.org/article.pl?sid=24/04/22/1235240&from=rss)
 * [2024-04-24, 07:07:00](https://soylentnews.org/article.pl?sid=24/04/22/1230215&from=rss) - [The Universe May be Dominated by Particles That Break Causality and Move Faster Than Light](https://soylentnews.org/article.pl?sid=24/04/22/1230215&from=rss)
