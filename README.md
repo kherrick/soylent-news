@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-24, 11:54:00](https://soylentnews.org/article.pl?sid=24/04/22/1235240&from=rss) - [Microsoft Unveils Deepfake Tech That's Too Good To Release](https://soylentnews.org/article.pl?sid=24/04/22/1235240&from=rss)
 * [2024-04-24, 07:07:00](https://soylentnews.org/article.pl?sid=24/04/22/1230215&from=rss) - [The Universe May be Dominated by Particles That Break Causality and Move Faster Than Light](https://soylentnews.org/article.pl?sid=24/04/22/1230215&from=rss)
 * [2024-04-24, 02:22:00](https://soylentnews.org/article.pl?sid=24/04/22/1224204&from=rss) - [Nitrogen Fixation Via Primary Endosymbiosis Observed in Braarudosphaera bigelowii](https://soylentnews.org/article.pl?sid=24/04/22/1224204&from=rss)
 * [2024-04-23, 21:38:00](https://soylentnews.org/article.pl?sid=24/04/22/1219208&from=rss) - [NIS2, or How to Fight Them Cybercriminals](https://soylentnews.org/article.pl?sid=24/04/22/1219208&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-15, 09:37:00](https://soylentnews.org/article.pl?sid=24/04/14/049241&from=rss) - [Robot Hugs Are Better Than No Hugs](https://soylentnews.org/article.pl?sid=24/04/14/049241&from=rss)
 * [2024-04-15, 04:52:00](https://soylentnews.org/article.pl?sid=24/04/14/0340244&from=rss) - [Discovery of the First Fractal Molecule in Nature](https://soylentnews.org/article.pl?sid=24/04/14/0340244&from=rss)
 * [2024-04-15, 00:10:00](https://soylentnews.org/article.pl?sid=24/04/14/033215&from=rss) - [Automattic Acquires Multiservice Messaging App Beeper](https://soylentnews.org/article.pl?sid=24/04/14/033215&from=rss)
-* [2024-04-14, 19:23:00](https://soylentnews.org/article.pl?sid=24/04/14/0251223&from=rss) - [Epic’s Proposed Google Reforms to End Android App Market Monopoly](https://soylentnews.org/article.pl?sid=24/04/14/0251223&from=rss)
 
 ## [Archives](archives/index.md)
 
