@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-25, 11:33:00](https://soylentnews.org/article.pl?sid=24/04/25/0226247&from=rss) - [There's a Reason the USAF Keeps Flying the U-2 Dragon Lady](https://soylentnews.org/article.pl?sid=24/04/25/0226247&from=rss)
 * [2024-04-25, 06:45:00](https://soylentnews.org/article.pl?sid=24/04/24/1221216&from=rss) - [Windows Vulnerability Reported by the NSA Exploited to Install Russian Malware](https://soylentnews.org/article.pl?sid=24/04/24/1221216&from=rss)
 * [2024-04-25, 02:03:00](https://soylentnews.org/article.pl?sid=24/04/24/1212202&from=rss) - [FTC Votes to Ban Noncompete Agreements ](https://soylentnews.org/article.pl?sid=24/04/24/1212202&from=rss)
 * [2024-04-24, 21:16:00](https://soylentnews.org/article.pl?sid=24/04/22/1248202&from=rss) - [Goldene Stumbled Upon](https://soylentnews.org/article.pl?sid=24/04/22/1248202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-16, 09:27:00](https://soylentnews.org/article.pl?sid=24/04/15/1445240&from=rss) - [Apple Faces Worst iPhone Slump Since Covid As China Rivals Rise](https://soylentnews.org/article.pl?sid=24/04/15/1445240&from=rss)
 * [2024-04-16, 04:42:00](https://soylentnews.org/article.pl?sid=24/04/15/142230&from=rss) - [Tesla Lays Off ‘More Than 10%’ of its Global Workforce](https://soylentnews.org/article.pl?sid=24/04/15/142230&from=rss)
 * [2024-04-15, 23:51:00](https://soylentnews.org/article.pl?sid=24/04/15/1356244&from=rss) - [Birds Sing in Their Sleep – and Now We Can Decipher Their Dreams](https://soylentnews.org/article.pl?sid=24/04/15/1356244&from=rss)
-* [2024-04-15, 19:06:00](https://soylentnews.org/article.pl?sid=24/04/14/1828205&from=rss) - [“Highly Capable” Hackers Root Corporate Networks by Exploiting Firewall 0-Day](https://soylentnews.org/article.pl?sid=24/04/14/1828205&from=rss)
 
 ## [Archives](archives/index.md)
 
