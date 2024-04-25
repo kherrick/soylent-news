@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-25, 02:03:00](https://soylentnews.org/article.pl?sid=24/04/24/1212202&from=rss) - [FTC Votes to Ban Noncompete Agreements ](https://soylentnews.org/article.pl?sid=24/04/24/1212202&from=rss)
 * [2024-04-24, 21:16:00](https://soylentnews.org/article.pl?sid=24/04/22/1248202&from=rss) - [Goldene Stumbled Upon](https://soylentnews.org/article.pl?sid=24/04/22/1248202&from=rss)
 * [2024-04-24, 16:38:00](https://soylentnews.org/article.pl?sid=24/04/22/1242254&from=rss) - [Do Rotary Engines Have Valves?](https://soylentnews.org/article.pl?sid=24/04/22/1242254&from=rss)
 * [2024-04-24, 11:54:00](https://soylentnews.org/article.pl?sid=24/04/22/1235240&from=rss) - [Microsoft Unveils Deepfake Tech That's Too Good To Release](https://soylentnews.org/article.pl?sid=24/04/22/1235240&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-15, 23:51:00](https://soylentnews.org/article.pl?sid=24/04/15/1356244&from=rss) - [Birds Sing in Their Sleep – and Now We Can Decipher Their Dreams](https://soylentnews.org/article.pl?sid=24/04/15/1356244&from=rss)
 * [2024-04-15, 19:06:00](https://soylentnews.org/article.pl?sid=24/04/14/1828205&from=rss) - [“Highly Capable” Hackers Root Corporate Networks by Exploiting Firewall 0-Day](https://soylentnews.org/article.pl?sid=24/04/14/1828205&from=rss)
 * [2024-04-15, 14:23:00](https://soylentnews.org/article.pl?sid=24/04/14/165207&from=rss) - [Tesla Model 3 Traps TikToker Inside 115-Degree Car During a Software Update](https://soylentnews.org/article.pl?sid=24/04/14/165207&from=rss)
-* [2024-04-15, 09:37:00](https://soylentnews.org/article.pl?sid=24/04/14/049241&from=rss) - [Robot Hugs Are Better Than No Hugs](https://soylentnews.org/article.pl?sid=24/04/14/049241&from=rss)
 
 ## [Archives](archives/index.md)
 
