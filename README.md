@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-25, 21:01:00](https://soylentnews.org/article.pl?sid=24/04/25/0342238&from=rss) - [Voyager-1 is Back](https://soylentnews.org/article.pl?sid=24/04/25/0342238&from=rss)
 * [2024-04-25, 16:18:00](https://soylentnews.org/article.pl?sid=24/04/25/0329216&from=rss) - [Framework’s Software And Firmware Have Been A Mess, But It’s Working On Them](https://soylentnews.org/article.pl?sid=24/04/25/0329216&from=rss)
 * [2024-04-25, 11:33:00](https://soylentnews.org/article.pl?sid=24/04/25/0226247&from=rss) - [There's a Reason the USAF Keeps Flying the U-2 Dragon Lady](https://soylentnews.org/article.pl?sid=24/04/25/0226247&from=rss)
 * [2024-04-25, 06:45:00](https://soylentnews.org/article.pl?sid=24/04/24/1221216&from=rss) - [Windows Vulnerability Reported by the NSA Exploited to Install Russian Malware](https://soylentnews.org/article.pl?sid=24/04/24/1221216&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-16, 18:57:00](https://soylentnews.org/article.pl?sid=24/04/15/2258258&from=rss) - [How a Moth’s Wings Create Ultrasonic Clicks](https://soylentnews.org/article.pl?sid=24/04/15/2258258&from=rss)
 * [2024-04-16, 14:10:00](https://soylentnews.org/article.pl?sid=24/04/15/1453237&from=rss) - [Windows 11 24H2: When Microsoft Thwarts Customization](https://soylentnews.org/article.pl?sid=24/04/15/1453237&from=rss)
 * [2024-04-16, 09:27:00](https://soylentnews.org/article.pl?sid=24/04/15/1445240&from=rss) - [Apple Faces Worst iPhone Slump Since Covid As China Rivals Rise](https://soylentnews.org/article.pl?sid=24/04/15/1445240&from=rss)
-* [2024-04-16, 04:42:00](https://soylentnews.org/article.pl?sid=24/04/15/142230&from=rss) - [Tesla Lays Off ‘More Than 10%’ of its Global Workforce](https://soylentnews.org/article.pl?sid=24/04/15/142230&from=rss)
 
 ## [Archives](archives/index.md)
 
