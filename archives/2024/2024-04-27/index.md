@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-27](index.md)
+
+* [2024-04-27, 01:28:00](https://soylentnews.org/article.pl?sid=24/04/25/1512244&from=rss) - [Enshittification of Google and the Men Who Killed Search](https://soylentnews.org/article.pl?sid=24/04/25/1512244&from=rss)
