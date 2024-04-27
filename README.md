@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-27, 06:13:00](https://soylentnews.org/article.pl?sid=24/04/25/1517248&from=rss) - [Highspeed to the Future](https://soylentnews.org/article.pl?sid=24/04/25/1517248&from=rss)
 * [2024-04-27, 01:28:00](https://soylentnews.org/article.pl?sid=24/04/25/1512244&from=rss) - [Enshittification of Google and the Men Who Killed Search](https://soylentnews.org/article.pl?sid=24/04/25/1512244&from=rss)
 * [2024-04-26, 20:46:00](https://soylentnews.org/article.pl?sid=24/04/25/1457251&from=rss) - [Almost Every Chinese Keyboard App Has a Security Flaw That Reveals What Users Type](https://soylentnews.org/article.pl?sid=24/04/25/1457251&from=rss)
 * [2024-04-26, 16:03:00](https://soylentnews.org/article.pl?sid=24/04/25/1453259&from=rss) - [GitHub Comments Abused to Push Malware Via Microsoft Repo URLs](https://soylentnews.org/article.pl?sid=24/04/25/1453259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-18, 03:43:00](https://soylentnews.org/article.pl?sid=24/04/17/204248&from=rss) - [I Flew Boeing's Starliner Spacecraft in 4 Different Simulators](https://soylentnews.org/article.pl?sid=24/04/17/204248&from=rss)
 * [2024-04-17, 22:58:00](https://soylentnews.org/article.pl?sid=24/04/16/1352205&from=rss) - [Apple Removes the First IOS Game Boy Emulator Released Under New App Store Rules](https://soylentnews.org/article.pl?sid=24/04/16/1352205&from=rss)
 * [2024-04-17, 18:13:00](https://soylentnews.org/article.pl?sid=24/04/16/1347225&from=rss) - [Ocean Measurements Detect Conditions for Giant Waves](https://soylentnews.org/article.pl?sid=24/04/16/1347225&from=rss)
-* [2024-04-17, 13:32:00](https://soylentnews.org/article.pl?sid=24/04/16/1342213&from=rss) - [Building a GPS Receiver](https://soylentnews.org/article.pl?sid=24/04/16/1342213&from=rss)
 
 ## [Archives](archives/index.md)
 
