@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-28, 05:49:00](https://soylentnews.org/article.pl?sid=24/04/27/0235200&from=rss) - [Criminal Charges in One of the First of It's Kind AI Deep Fake Case](https://soylentnews.org/article.pl?sid=24/04/27/0235200&from=rss)
 * [2024-04-28, 01:07:00](https://soylentnews.org/article.pl?sid=24/04/26/0423233&from=rss) - [Creating and Solving Hysteresis Problems on and at the Same Desk](https://soylentnews.org/article.pl?sid=24/04/26/0423233&from=rss)
 * [2024-04-27, 20:20:00](https://soylentnews.org/article.pl?sid=24/04/26/0021232&from=rss) - [You Can Now Buy a Flame-Throwing Robot Dog for Under $10,000](https://soylentnews.org/article.pl?sid=24/04/26/0021232&from=rss)
 * [2024-04-27, 15:45:00](https://soylentnews.org/article.pl?sid=24/04/26/0018251&from=rss) - [FCC Restores Net Neutrality Rules that Ban Blocking and Throttling in 3-2 Vote](https://soylentnews.org/article.pl?sid=24/04/26/0018251&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-19, 03:21:00](https://soylentnews.org/article.pl?sid=24/04/17/2044236&from=rss) - [Newly Sequenced Genome Reveals Coffee's Prehistoric Story, and its Future Under Climate Change](https://soylentnews.org/article.pl?sid=24/04/17/2044236&from=rss)
 * [2024-04-18, 22:39:00](https://soylentnews.org/article.pl?sid=24/04/17/2030237&from=rss) - [Pyrite May Contain Valuable Lithium, A Key Element For Green Energy](https://soylentnews.org/article.pl?sid=24/04/17/2030237&from=rss)
 * [2024-04-18, 17:53:00](https://soylentnews.org/article.pl?sid=24/04/17/2023250&from=rss) - [Alleged Cryptojacking Scheme Consumed $3.5M of Stolen Computing to Make Just $1M](https://soylentnews.org/article.pl?sid=24/04/17/2023250&from=rss)
-* [2024-04-18, 13:08:00](https://soylentnews.org/article.pl?sid=24/04/17/2022207&from=rss) - [EU Battery Passport - Lifetime Record of BEV and Other Large Li Batteries](https://soylentnews.org/article.pl?sid=24/04/17/2022207&from=rss)
 
 ## [Archives](archives/index.md)
 
