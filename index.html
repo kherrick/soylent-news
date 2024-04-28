@@ -145,6 +145,90 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/04/26/0423233">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/04/26/0423233&amp;from=rss"
+              >Creating and Solving Hysteresis Problems on and at the Same
+              Desk</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-04-28 @ 01:07:00</span
+              ><span class="points-container"
+                >Points: <span class="points">56</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/04/26/0423233"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                <a href="//soylentnews.org/~canopic+jug/">canopic jug</a>
+                writes:
+              </p>
+              <p>
+                Over at his personal blog, Kevin Norman describes how he has
+                modified his motorized standing desk to raise and lower on its
+                own according to a schedule. His post
+                <a href="https://kn100.me/desksniffer/"
+                  >DeskOps: Commanding My Desk with HTTP - How I Brought
+                  Hysteresis Problems to the Desk Where I Solve Hysteresis
+                  Problems</a
+                >
+                goes into a fair amount of detail about how he went about wiring
+                it up and the problems which arose and how he fixed them. The
+                active part uses an ESP-32 based microcontroller to change the
+                desk's height using the I²C protocol.
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    For those not familiar with hardware, I2C is the scheme by
+                    which most circuits use for inter-chip communication. In my
+                    desk controller, there is a microcontroller which writes
+                    data to a LCD driver chip, which in turn lights the correct
+                    segments on a 3 digit segmented LCD. How would I capture the
+                    data though? Easy, I thought! All I had do to was hook up to
+                    the same two pins the data sheet reported as being the i2c
+                    pins along with the grounds of the standing desk controller
+                    and my esp32, and I could then "sniff" the data that was
+                    being sent across the i2c bus, decode it, and then use that
+                    for something useful.
+                  </p>
+                  <p>
+                    So away I went! I soldered two wires directly to the pins on
+                    the chip that were marked as the data pins (I am deeply
+                    sorry to anybody offended by my soldering job!), and
+                    soldered a third wire to a ground point on the board. I then
+                    connected those wires to an ESP32, and then went looking for
+                    somebody elses code to try to sniff the i2c data to see if
+                    this was even possible.
+                  </p>
+                </div>
+              </blockquote>
+              <p>
+                He even designed and 3D-printed an enclosure for this
+                modification. It played a surprising role in this.
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62654"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/04/26/0021232">
           <h3>
             <a
@@ -157,7 +241,7 @@
             <h4>
               <span>2024-04-27 @ 20:20:00</span
               ><span class="points-container"
-                >Points: <span class="points">302</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/26/0021232"
@@ -251,7 +335,7 @@
             <h4>
               <span>2024-04-27 @ 15:45:00</span
               ><span class="points-container"
-                >Points: <span class="points">414</span></span
+                >Points: <span class="points">426</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/26/0018251"
@@ -359,7 +443,7 @@
             <h4>
               <span>2024-04-27 @ 10:59:00</span
               ><span class="points-container"
-                >Points: <span class="points">630</span></span
+                >Points: <span class="points">639</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/1759250"
@@ -450,12 +534,12 @@
             <h4>
               <span>2024-04-27 @ 06:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">776</span></span
+                >Points: <span class="points">790</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/1517248"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
@@ -554,7 +638,7 @@
             <h4>
               <span>2024-04-27 @ 01:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">1180</span></span
+                >Points: <span class="points">1192</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/1512244"
@@ -654,7 +738,7 @@
             <h4>
               <span>2024-04-26 @ 20:46:00</span
               ><span class="points-container"
-                >Points: <span class="points">1011</span></span
+                >Points: <span class="points">1019</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/1457251"
@@ -737,7 +821,7 @@
             <h4>
               <span>2024-04-26 @ 16:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">1066</span></span
+                >Points: <span class="points">1073</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/1453259"
@@ -854,7 +938,7 @@
             <h4>
               <span>2024-04-26 @ 11:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">1180</span></span
+                >Points: <span class="points">1186</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/1425240"
@@ -957,7 +1041,7 @@
             <h4>
               <span>2024-04-26 @ 06:30:00</span
               ><span class="points-container"
-                >Points: <span class="points">1259</span></span
+                >Points: <span class="points">1266</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/042252"
@@ -1089,7 +1173,7 @@
             <h4>
               <span>2024-04-26 @ 01:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">1814</span></span
+                >Points: <span class="points">1821</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/0357254"
@@ -1183,7 +1267,7 @@
             <h4>
               <span>2024-04-25 @ 21:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">1572</span></span
+                >Points: <span class="points">1580</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/0342238"
@@ -1294,7 +1378,7 @@
             <h4>
               <span>2024-04-25 @ 16:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">1369</span></span
+                >Points: <span class="points">1375</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/0329216"
@@ -1380,7 +1464,7 @@
             <h4>
               <span>2024-04-25 @ 11:33:00</span
               ><span class="points-container"
-                >Points: <span class="points">1947</span></span
+                >Points: <span class="points">1954</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/25/0226247"
@@ -1462,7 +1546,7 @@
             <h4>
               <span>2024-04-25 @ 06:45:00</span
               ><span class="points-container"
-                >Points: <span class="points">1767</span></span
+                >Points: <span class="points">1773</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/24/1221216"
@@ -1558,7 +1642,7 @@
             <h4>
               <span>2024-04-25 @ 02:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">2002</span></span
+                >Points: <span class="points">2008</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/24/1212202"
@@ -1643,7 +1727,7 @@
             <h4>
               <span>2024-04-24 @ 21:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">1849</span></span
+                >Points: <span class="points">1856</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/22/1248202"
@@ -1718,7 +1802,7 @@
             <h4>
               <span>2024-04-24 @ 16:38:00</span
               ><span class="points-container"
-                >Points: <span class="points">2432</span></span
+                >Points: <span class="points">2438</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/22/1242254"
@@ -1841,7 +1925,7 @@
             <h4>
               <span>2024-04-24 @ 11:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">2554</span></span
+                >Points: <span class="points">2560</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/22/1235240"
@@ -1936,7 +2020,7 @@
             <h4>
               <span>2024-04-24 @ 07:07:00</span
               ><span class="points-container"
-                >Points: <span class="points">2648</span></span
+                >Points: <span class="points">2654</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/22/1230215"
@@ -2012,7 +2096,7 @@
             <h4>
               <span>2024-04-24 @ 02:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">2214</span></span
+                >Points: <span class="points">2215</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/22/1224204"
@@ -2140,7 +2224,7 @@
             <h4>
               <span>2024-04-23 @ 21:38:00</span
               ><span class="points-container"
-                >Points: <span class="points">2317</span></span
+                >Points: <span class="points">2318</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/22/1219208"
@@ -2248,7 +2332,7 @@
             <h4>
               <span>2024-04-23 @ 16:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">2876</span></span
+                >Points: <span class="points">2877</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/22/129247"
@@ -2413,7 +2497,7 @@
             <h4>
               <span>2024-04-23 @ 12:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">2470</span></span
+                >Points: <span class="points">2471</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/22/085240"
@@ -2525,7 +2609,7 @@
             <h4>
               <span>2024-04-23 @ 07:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">2947</span></span
+                >Points: <span class="points">2949</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/22/0756204"
@@ -2614,7 +2698,7 @@
             <h4>
               <span>2024-04-23 @ 02:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">2452</span></span
+                >Points: <span class="points">2454</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/22/0144220"
@@ -2708,7 +2792,7 @@
             <h4>
               <span>2024-04-23 @ 00:20:00</span
               ><span class="points-container"
-                >Points: <span class="points">2349</span></span
+                >Points: <span class="points">2350</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/23/001205"
@@ -2872,7 +2956,7 @@
             <h4>
               <span>2024-04-22 @ 21:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">2226</span></span
+                >Points: <span class="points">2227</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/21/1910243"
@@ -3022,7 +3106,7 @@
             <h4>
               <span>2024-04-22 @ 17:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">2681</span></span
+                >Points: <span class="points">2683</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/21/197221"
@@ -3158,7 +3242,7 @@
             <h4>
               <span>2024-04-22 @ 12:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">2259</span></span
+                >Points: <span class="points">2260</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/21/194231"
@@ -4005,7 +4089,7 @@
             <h4>
               <span>2024-04-20 @ 22:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">2167</span></span
+                >Points: <span class="points">2168</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/19/1519229"
@@ -4267,7 +4351,7 @@
             <h4>
               <span>2024-04-20 @ 17:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">2242</span></span
+                >Points: <span class="points">2243</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/19/155228"
@@ -4353,7 +4437,7 @@
             <h4>
               <span>2024-04-20 @ 12:38:00</span
               ><span class="points-container"
-                >Points: <span class="points">2495</span></span
+                >Points: <span class="points">2497</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/19/151205"
@@ -4500,7 +4584,7 @@
             <h4>
               <span>2024-04-20 @ 07:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">2690</span></span
+                >Points: <span class="points">2691</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/19/1453245"
@@ -4574,7 +4658,7 @@
             <h4>
               <span>2024-04-20 @ 03:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">2762</span></span
+                >Points: <span class="points">2763</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/19/1449227"
@@ -4710,7 +4794,7 @@
             <h4>
               <span>2024-04-19 @ 22:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">2334</span></span
+                >Points: <span class="points">2335</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/18/1211242"
@@ -5075,7 +5159,7 @@
             <h4>
               <span>2024-04-19 @ 08:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">3834</span></span
+                >Points: <span class="points">3835</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/17/2054203"
@@ -5496,121 +5580,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62582"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/04/17/2017211">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/04/17/2017211&amp;from=rss"
-              >Samsung Receives $6.4 Billion In CHIPS Grants, Will Boost
-              Production In Texas
-            </a>
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-18 @ 08:25:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2573</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/04/17/2017211"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Arthur T Knackerbracket has processed the
-                <a
-                  href="https://www.techspot.com/news/102624-samsung-receives-64-million-chips-grants-boost-chip.html"
-                  >following story</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    According to a
-                    <a
-                      href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/statement-from-president-joe-biden-on-chips-and-science-act-preliminary-agreement-with-samsung/"
-                      >statement</a
-                    >
-                    from President Biden, the preliminary agreement between
-                    Samsung and the Department of Commerce will bring the Korean
-                    firm's advanced semiconductor manufacturing and research and
-                    development to Texas.
-                  </p>
-                  <p>
-                    The deal will result in over $40 billion in investment from
-                    Samsung, cementing Texas' role in the advanced semiconductor
-                    industry and creating at least 21,500 jobs. There will also
-                    be up to $40 million in CHIPS funding used to train and
-                    develop the local workforce.
-                  </p>
-                  <p>
-                    "The return of leading-edge chip manufacturing to America is
-                    a major new chapter in our semiconductor industry," said
-                    White House National Economic Adviser Lael Brainard.
-                  </p>
-                  <p>
-                    Commerce Secretary Gina Raimondo said Samsung's CHIPS money
-                    will help support two new chip production facilities, a
-                    research center and a packaging facility for 2.5D packaging
-                    at its new site in Taylor, Texas. The first of the new fabs
-                    will start making 2nm chips in 2026, according to a senior
-                    US official. The second fab will also make chips based on
-                    2nm and 4nm process nodes
-                  </p>
-                  <p>
-                    The money will also allow Samsung to expand its
-                    semiconductor facility in Austin, Texas, about 20 miles from
-                    the Taylor site.
-                  </p>
-                  <p>
-                    [...] This marks the third large allocation of CHIPS money
-                    over the last month. In March, Intel became the
-                    <a
-                      href="https://www.techspot.com/news/102329-intel-receive-up-85-billion-funding-11-billion.html"
-                      >biggest beneficiary</a
-                    >
-                    to date, receiving up to $8.5 billion in direct funding and
-                    up to $11 billion in low-interest loans. Team Blue plans to
-                    spend
-                    <a
-                      href="https://www.techspot.com/news/102346-intel-plans-spend-100-billion-us-chip-manufacturing.html"
-                      >$100 billion</a
-                    >
-                    on constructing new manufacturing plants and expanding
-                    existing locations across the US over the next few years.
-                  </p>
-                  <p>
-                    Earlier this month, the US Commerce Department said it had
-                    reached a preliminary agreement with TSMC to award it up to
-                    <a
-                      href="https://www.techspot.com/news/102542-tsmc-receives-up-116-billion-us-under-chips.html"
-                      >$6.6 billion</a
-                    >
-                    in grants and $5 billion in loans, money that will be used
-                    by the company to build a third manufacturing plant in
-                    Arizona. TSMC is also making 2nm chips, at its Arizona
-                    factory, but they're not set to go into production until
-                    2028. Unlike Samsung, the Taiwanese company has no plans to
-                    bring advanced packaging facilities to the US.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62573"
                     >Original Submission</a
                   ></small
                 >
