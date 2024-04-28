@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-28, 19:58:00](https://soylentnews.org/article.pl?sid=24/04/27/0944235&from=rss) - [An Emergency Slide Falls Off a Delta Air Lines Plane, Forcing Pilots to Return to JFK in New York](https://soylentnews.org/article.pl?sid=24/04/27/0944235&from=rss)
 * [2024-04-28, 15:17:00](https://soylentnews.org/article.pl?sid=24/04/27/0247244&from=rss) - [Meta's Value Plummets As Zuckerberg Admits AI Needs Time ](https://soylentnews.org/article.pl?sid=24/04/27/0247244&from=rss)
 * [2024-04-28, 10:34:00](https://soylentnews.org/article.pl?sid=24/04/27/0240250&from=rss) - [TSMC Readies Lower-Cost 4nm Manufacturing Tech: Up To 8.5% Cheaper ](https://soylentnews.org/article.pl?sid=24/04/27/0240250&from=rss)
 * [2024-04-28, 05:49:00](https://soylentnews.org/article.pl?sid=24/04/27/0235200&from=rss) - [Criminal Charges in One of the First of Its Kind AI Deep Fake Case](https://soylentnews.org/article.pl?sid=24/04/27/0235200&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-19, 17:32:00](https://soylentnews.org/article.pl?sid=24/04/18/125210&from=rss) - [Target Collecting and Storing Customers’ Face and Fingerprint Scans Without Consent](https://soylentnews.org/article.pl?sid=24/04/18/125210&from=rss)
 * [2024-04-19, 12:51:00](https://soylentnews.org/article.pl?sid=24/04/18/121242&from=rss) - [NASA Confirms Origin of Space Junk That Crashed Through Florida Home](https://soylentnews.org/article.pl?sid=24/04/18/121242&from=rss)
 * [2024-04-19, 08:08:00](https://soylentnews.org/article.pl?sid=24/04/17/2054203&from=rss) - [xz-style Attacks Continue to Target Open-Source Maintainers](https://soylentnews.org/article.pl?sid=24/04/17/2054203&from=rss)
-* [2024-04-19, 03:21:00](https://soylentnews.org/article.pl?sid=24/04/17/2044236&from=rss) - [Newly Sequenced Genome Reveals Coffee's Prehistoric Story, and its Future Under Climate Change](https://soylentnews.org/article.pl?sid=24/04/17/2044236&from=rss)
 
 ## [Archives](archives/index.md)
 
