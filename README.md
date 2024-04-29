@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-29, 14:49:00](https://soylentnews.org/article.pl?sid=24/04/28/1350217&from=rss) - [Seagate Claims: Mozaic 3+ HAMR Hard Drives Can Last Over Seven Years](https://soylentnews.org/article.pl?sid=24/04/28/1350217&from=rss)
 * [2024-04-29, 10:04:00](https://soylentnews.org/article.pl?sid=24/04/28/1346219&from=rss) - [Pluto Gained a ‘Heart’ After Colliding With a Planetary Body](https://soylentnews.org/article.pl?sid=24/04/28/1346219&from=rss)
 * [2024-04-29, 05:20:00](https://soylentnews.org/article.pl?sid=24/04/28/1341238&from=rss) - [Woman Makes $37,000 a Year Leading Dungeons & Dragons Games](https://soylentnews.org/article.pl?sid=24/04/28/1341238&from=rss)
 * [2024-04-29, 00:36:00](https://soylentnews.org/article.pl?sid=24/04/28/2049250&from=rss) - [American Airlines Keeps Mistaking 101-Year-Old Passenger for Baby](https://soylentnews.org/article.pl?sid=24/04/28/2049250&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-20, 12:38:00](https://soylentnews.org/article.pl?sid=24/04/19/151205&from=rss) - [Beyond Git: How Version Control Systems Are Evolving For Devops](https://soylentnews.org/article.pl?sid=24/04/19/151205&from=rss)
 * [2024-04-20, 07:52:00](https://soylentnews.org/article.pl?sid=24/04/19/1453245&from=rss) - [Differences Between Hemi & Non-Hemi Engines](https://soylentnews.org/article.pl?sid=24/04/19/1453245&from=rss)
 * [2024-04-20, 03:08:00](https://soylentnews.org/article.pl?sid=24/04/19/1449227&from=rss) - [Cops Can Force Suspect to Unlock Phone With Thumbprint, US Court Rules](https://soylentnews.org/article.pl?sid=24/04/19/1449227&from=rss)
-* [2024-04-19, 22:25:00](https://soylentnews.org/article.pl?sid=24/04/18/1211242&from=rss) - [Time To Move Orphaned Debian Packages To Git](https://soylentnews.org/article.pl?sid=24/04/18/1211242&from=rss)
 
 ## [Archives](archives/index.md)
 
