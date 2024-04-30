@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-30, 09:41:00](https://soylentnews.org/article.pl?sid=24/04/29/0042211&from=rss) - [UK Ban on Wet Wipes Containing Plastic Unveiled](https://soylentnews.org/article.pl?sid=24/04/29/0042211&from=rss)
 * [2024-04-30, 04:56:00](https://soylentnews.org/article.pl?sid=24/04/28/1339221&from=rss) - [Russia Stands Alone in Vetoing UN Resolution on Nuclear Weapons in Space](https://soylentnews.org/article.pl?sid=24/04/28/1339221&from=rss)
 * [2024-04-30, 00:14:00](https://soylentnews.org/article.pl?sid=24/04/28/1357240&from=rss) - [Cow's Milk Particles Unlock One of Medicine's Most Challenging Puzzles](https://soylentnews.org/article.pl?sid=24/04/28/1357240&from=rss)
 * [2024-04-29, 19:31:00](https://soylentnews.org/article.pl?sid=24/04/28/1352254&from=rss) - [Can an Online Library of Classic Video Games Ever be Legal?](https://soylentnews.org/article.pl?sid=24/04/28/1352254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-21, 07:45:00](https://soylentnews.org/article.pl?sid=24/04/20/0316208&from=rss) - [Startup Pitches a Paintball-Armed, AI-Powered Home Security Camera](https://soylentnews.org/article.pl?sid=24/04/20/0316208&from=rss)
 * [2024-04-21, 03:01:00](https://soylentnews.org/article.pl?sid=24/04/20/0312204&from=rss) - [Democracy Dies Behind Paywalls](https://soylentnews.org/article.pl?sid=24/04/20/0312204&from=rss)
 * [2024-04-20, 22:12:00](https://soylentnews.org/article.pl?sid=24/04/19/1519229&from=rss) - [AI Miscellany](https://soylentnews.org/article.pl?sid=24/04/19/1519229&from=rss)
-* [2024-04-20, 17:24:00](https://soylentnews.org/article.pl?sid=24/04/19/155228&from=rss) - [Tropical Forests Can't Recover Naturally Without Fruit-Eating Birds, Carbon Recovery Study Shows](https://soylentnews.org/article.pl?sid=24/04/19/155228&from=rss)
 
 ## [Archives](archives/index.md)
 
