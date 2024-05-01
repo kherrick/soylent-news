@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-04-30, 23:51:00](https://soylentnews.org/article.pl?sid=24/04/29/232232&from=rss) - [How Not To Release Historic Source Code](https://soylentnews.org/article.pl?sid=24/04/29/232232&from=rss)
 * [2024-04-30, 19:08:00](https://soylentnews.org/article.pl?sid=24/04/29/1321235&from=rss) - [Millions of IPs Remain Infected by USB Worm Years After its Creators Left It for Dead](https://soylentnews.org/article.pl?sid=24/04/29/1321235&from=rss)
 * [2024-04-30, 14:25:00](https://soylentnews.org/article.pl?sid=24/04/29/0047219&from=rss) - [Supersonic Submarines!](https://soylentnews.org/article.pl?sid=24/04/29/0047219&from=rss)
 * [2024-04-30, 09:41:00](https://soylentnews.org/article.pl?sid=24/04/29/0042211&from=rss) - [UK Ban on Wet Wipes Containing Plastic Unveiled](https://soylentnews.org/article.pl?sid=24/04/29/0042211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-21, 22:02:00](https://soylentnews.org/article.pl?sid=24/04/20/0343250&from=rss) - [Microsoft Lifts Years-Old Compatibility Hold For Windows 11](https://soylentnews.org/article.pl?sid=24/04/20/0343250&from=rss)
 * [2024-04-21, 17:16:00](https://soylentnews.org/article.pl?sid=24/04/20/0338249&from=rss) - [Renovation Relic: Man Finds Hominin Jawbone in Parents’ Travertine Kitchen Tile](https://soylentnews.org/article.pl?sid=24/04/20/0338249&from=rss)
 * [2024-04-21, 12:32:00](https://soylentnews.org/article.pl?sid=24/04/20/0335232&from=rss) - [Io: New Image of a Lake of Fire, Signs of Permanent Volcanism](https://soylentnews.org/article.pl?sid=24/04/20/0335232&from=rss)
-* [2024-04-21, 07:45:00](https://soylentnews.org/article.pl?sid=24/04/20/0316208&from=rss) - [Startup Pitches a Paintball-Armed, AI-Powered Home Security Camera](https://soylentnews.org/article.pl?sid=24/04/20/0316208&from=rss)
 
 ## [Archives](archives/index.md)
 
