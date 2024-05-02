@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-02, 01:48:00](https://soylentnews.org/article.pl?sid=24/04/30/1343236&from=rss) - [First US Nuclear Power Plant in Over 30 Years Goes Fully on Line](https://soylentnews.org/article.pl?sid=24/04/30/1343236&from=rss)
 * [2024-05-01, 21:07:00](https://soylentnews.org/article.pl?sid=24/04/30/1333234&from=rss) - [Reverse-Engineering and “Running Windows 95” on a Disposable Vape](https://soylentnews.org/article.pl?sid=24/04/30/1333234&from=rss)
 * [2024-05-01, 14:14:00](https://soylentnews.org/article.pl?sid=24/04/30/022206&from=rss) - [It’s the End of the Web as We Know It](https://soylentnews.org/article.pl?sid=24/04/30/022206&from=rss)
 * [2024-05-01, 09:27:00](https://soylentnews.org/article.pl?sid=24/04/30/0158229&from=rss) - [First Experimental Proof for Brain-Like Computer With Water and Salt](https://soylentnews.org/article.pl?sid=24/04/30/0158229&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-22, 21:48:00](https://soylentnews.org/article.pl?sid=24/04/21/1910243&from=rss) - [Prime Video Looking to Fix “Extremely Sloppy Mistakes” in Library, Report Says](https://soylentnews.org/article.pl?sid=24/04/21/1910243&from=rss)
 * [2024-04-22, 17:06:00](https://soylentnews.org/article.pl?sid=24/04/21/197221&from=rss) - [ESR's Autodafe: Autotools killer](https://soylentnews.org/article.pl?sid=24/04/21/197221&from=rss)
 * [2024-04-22, 12:23:00](https://soylentnews.org/article.pl?sid=24/04/21/194231&from=rss) - [Five Notes About 16th Century Beer and Barrels](https://soylentnews.org/article.pl?sid=24/04/21/194231&from=rss)
-* [2024-04-22, 07:34:00](https://soylentnews.org/article.pl?sid=24/04/20/2315245&from=rss) - [Turning CO2 Into Sustainable Power](https://soylentnews.org/article.pl?sid=24/04/20/2315245&from=rss)
 
 ## [Archives](archives/index.md)
 

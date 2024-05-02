@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-02](index.md)
+
+* [2024-05-02, 01:48:00](https://soylentnews.org/article.pl?sid=24/04/30/1343236&from=rss) - [First US Nuclear Power Plant in Over 30 Years Goes Fully on Line](https://soylentnews.org/article.pl?sid=24/04/30/1343236&from=rss)
