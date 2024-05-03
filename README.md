@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-03, 15:57:00](https://soylentnews.org/article.pl?sid=24/05/02/1540211&from=rss) - [Email Microsoft Didn't Want Seen Reveals Rushed Decision to Invest in OpenAI](https://soylentnews.org/article.pl?sid=24/05/02/1540211&from=rss)
 * [2024-05-03, 11:12:00](https://soylentnews.org/article.pl?sid=24/05/02/1244249&from=rss) - [Prehistoric Irish Monuments May Have Been Pathways for the Dead](https://soylentnews.org/article.pl?sid=24/05/02/1244249&from=rss)
 * [2024-05-03, 06:25:00](https://soylentnews.org/article.pl?sid=24/05/02/1235254&from=rss) - [Chinese New Moon Atlas is the Most Detailed So Far](https://soylentnews.org/article.pl?sid=24/05/02/1235254&from=rss)
 * [2024-05-03, 01:40:00](https://soylentnews.org/article.pl?sid=24/05/01/032221&from=rss) - [Could Regenerative Braking be a Hazard to Riders?](https://soylentnews.org/article.pl?sid=24/05/01/032221&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-24, 07:07:00](https://soylentnews.org/article.pl?sid=24/04/22/1230215&from=rss) - [The Universe May be Dominated by Particles That Break Causality and Move Faster Than Light](https://soylentnews.org/article.pl?sid=24/04/22/1230215&from=rss)
 * [2024-04-24, 02:22:00](https://soylentnews.org/article.pl?sid=24/04/22/1224204&from=rss) - [Nitrogen Fixation Via Primary Endosymbiosis Observed in Braarudosphaera bigelowii](https://soylentnews.org/article.pl?sid=24/04/22/1224204&from=rss)
 * [2024-04-23, 21:38:00](https://soylentnews.org/article.pl?sid=24/04/22/1219208&from=rss) - [NIS2, or How to Fight Them Cybercriminals](https://soylentnews.org/article.pl?sid=24/04/22/1219208&from=rss)
-* [2024-04-23, 16:49:00](https://soylentnews.org/article.pl?sid=24/04/22/129247&from=rss) - [End of an Era: End-Of-Life for the Venerable Zilog Z80](https://soylentnews.org/article.pl?sid=24/04/22/129247&from=rss)
 
 ## [Archives](archives/index.md)
 
