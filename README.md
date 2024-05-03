@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-03, 01:40:00](https://soylentnews.org/article.pl?sid=24/05/01/032221&from=rss) - [Could Regenerative Braking be a Hazard to Riders?](https://soylentnews.org/article.pl?sid=24/05/01/032221&from=rss)
 * [2024-05-02, 20:52:00](https://soylentnews.org/article.pl?sid=24/05/01/0244215&from=rss) - [Coca-Cola is Largest Known Contributor of Branded Plastic Waste](https://soylentnews.org/article.pl?sid=24/05/01/0244215&from=rss)
 * [2024-05-02, 16:03:00](https://soylentnews.org/article.pl?sid=24/04/30/1813246&from=rss) - [Digital Surveillance is Omnipresent in China. Here's How Citizens Are Coping](https://soylentnews.org/article.pl?sid=24/04/30/1813246&from=rss)
 * [2024-05-02, 11:18:00](https://soylentnews.org/article.pl?sid=24/04/30/1430210&from=rss) - [How Evolution Has Optimized the Magnetic Sensor in Birds](https://soylentnews.org/article.pl?sid=24/04/30/1430210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-23, 16:49:00](https://soylentnews.org/article.pl?sid=24/04/22/129247&from=rss) - [End of an Era: End-Of-Life for the Venerable Zilog Z80](https://soylentnews.org/article.pl?sid=24/04/22/129247&from=rss)
 * [2024-04-23, 12:06:00](https://soylentnews.org/article.pl?sid=24/04/22/085240&from=rss) - [US Air Force Successfully Tests AI-controlled Fighter Jet in Dogfight Against Human Pilots](https://soylentnews.org/article.pl?sid=24/04/22/085240&from=rss)
 * [2024-04-23, 07:21:00](https://soylentnews.org/article.pl?sid=24/04/22/0756204&from=rss) - [Linus Torvalds Reiterates His Tabs-Versus-Spaces Stance With a Kernel Trap](https://soylentnews.org/article.pl?sid=24/04/22/0756204&from=rss)
-* [2024-04-23, 02:36:00](https://soylentnews.org/article.pl?sid=24/04/22/0144220&from=rss) - [A Decade Of Interstellar: Epic Space Odyssey Returns To US Theaters This September ](https://soylentnews.org/article.pl?sid=24/04/22/0144220&from=rss)
 
 ## [Archives](archives/index.md)
 

@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-03](index.md)
+
+* [2024-05-03, 01:40:00](https://soylentnews.org/article.pl?sid=24/05/01/032221&from=rss) - [Could Regenerative Braking be a Hazard to Riders?](https://soylentnews.org/article.pl?sid=24/05/01/032221&from=rss)
