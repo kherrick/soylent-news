@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 06:25:00](https://soylentnews.org/article.pl?sid=24/05/02/1235254&from=rss) - [Chinese New Moon Atlas is the Most Detailed So Far](https://soylentnews.org/article.pl?sid=24/05/02/1235254&from=rss)
 * [2024-05-03, 01:40:00](https://soylentnews.org/article.pl?sid=24/05/01/032221&from=rss) - [Could Regenerative Braking be a Hazard to Riders?](https://soylentnews.org/article.pl?sid=24/05/01/032221&from=rss)
