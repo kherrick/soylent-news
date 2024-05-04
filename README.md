@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-04, 01:28:00](https://soylentnews.org/article.pl?sid=24/05/02/1550259&from=rss) - [AI Hallucinating Code Outputs Garbage....](https://soylentnews.org/article.pl?sid=24/05/02/1550259&from=rss)
 * [2024-05-03, 20:43:00](https://soylentnews.org/article.pl?sid=24/05/02/1545218&from=rss) - [Almost 100%-Recyclable Circuit Board Turns to Jelly for Disassembly](https://soylentnews.org/article.pl?sid=24/05/02/1545218&from=rss)
 * [2024-05-03, 15:57:00](https://soylentnews.org/article.pl?sid=24/05/02/1540211&from=rss) - [Email Microsoft Didn't Want Seen Reveals Rushed Decision to Invest in OpenAI](https://soylentnews.org/article.pl?sid=24/05/02/1540211&from=rss)
 * [2024-05-03, 11:12:00](https://soylentnews.org/article.pl?sid=24/05/02/1244249&from=rss) - [Prehistoric Irish Monuments May Have Been Pathways for the Dead](https://soylentnews.org/article.pl?sid=24/05/02/1244249&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-24, 16:38:00](https://soylentnews.org/article.pl?sid=24/04/22/1242254&from=rss) - [Do Rotary Engines Have Valves?](https://soylentnews.org/article.pl?sid=24/04/22/1242254&from=rss)
 * [2024-04-24, 11:54:00](https://soylentnews.org/article.pl?sid=24/04/22/1235240&from=rss) - [Microsoft Unveils Deepfake Tech That's Too Good To Release](https://soylentnews.org/article.pl?sid=24/04/22/1235240&from=rss)
 * [2024-04-24, 07:07:00](https://soylentnews.org/article.pl?sid=24/04/22/1230215&from=rss) - [The Universe May be Dominated by Particles That Break Causality and Move Faster Than Light](https://soylentnews.org/article.pl?sid=24/04/22/1230215&from=rss)
-* [2024-04-24, 02:22:00](https://soylentnews.org/article.pl?sid=24/04/22/1224204&from=rss) - [Nitrogen Fixation Via Primary Endosymbiosis Observed in Braarudosphaera bigelowii](https://soylentnews.org/article.pl?sid=24/04/22/1224204&from=rss)
 
 ## [Archives](archives/index.md)
 
