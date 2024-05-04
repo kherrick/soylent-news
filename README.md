@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-04, 20:23:00](https://soylentnews.org/article.pl?sid=24/05/04/1016202&from=rss) - [Latest Windows Update Has Borked VPN Use on All Versions](https://soylentnews.org/article.pl?sid=24/05/04/1016202&from=rss)
 * [2024-05-04, 15:40:00](https://soylentnews.org/article.pl?sid=24/05/04/0331215&from=rss) - [Got an Old Raspberry Pi?  Try RISC OS](https://soylentnews.org/article.pl?sid=24/05/04/0331215&from=rss)
 * [2024-05-04, 10:56:00](https://soylentnews.org/article.pl?sid=24/05/03/0058249&from=rss) - [How Do Birds Flock? Researchers Reveal Previously Unknown Aerodynamic Phenomenon](https://soylentnews.org/article.pl?sid=24/05/03/0058249&from=rss)
 * [2024-05-04, 06:13:00](https://soylentnews.org/article.pl?sid=24/05/03/0054214&from=rss) - [“Forgotten” Poem by C.S. Lewis Published for the First Time](https://soylentnews.org/article.pl?sid=24/05/03/0054214&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-25, 11:33:00](https://soylentnews.org/article.pl?sid=24/04/25/0226247&from=rss) - [There's a Reason the USAF Keeps Flying the U-2 Dragon Lady](https://soylentnews.org/article.pl?sid=24/04/25/0226247&from=rss)
 * [2024-04-25, 06:45:00](https://soylentnews.org/article.pl?sid=24/04/24/1221216&from=rss) - [Windows Vulnerability Reported by the NSA Exploited to Install Russian Malware](https://soylentnews.org/article.pl?sid=24/04/24/1221216&from=rss)
 * [2024-04-25, 02:03:00](https://soylentnews.org/article.pl?sid=24/04/24/1212202&from=rss) - [FTC Votes to Ban Noncompete Agreements ](https://soylentnews.org/article.pl?sid=24/04/24/1212202&from=rss)
-* [2024-04-24, 21:16:00](https://soylentnews.org/article.pl?sid=24/04/22/1248202&from=rss) - [Goldene Stumbled Upon](https://soylentnews.org/article.pl?sid=24/04/22/1248202&from=rss)
 
 ## [Archives](archives/index.md)
 
