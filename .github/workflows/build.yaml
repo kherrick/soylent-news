@@ -12,11 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Setup Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
-        node-version: '16'
+        node-version: '20'
         cache: 'npm'
     - name: Setup git
       run: |-
@@ -27,7 +27,7 @@ jobs:
         npm run init
     - name: Write Markdown and JSON
       run: |-
-        npm -s start > README.md
+        NODE_TLS_REJECT_UNAUTHORIZED=0 npm -s start 2>/dev/null > README.md
     - name: Commit and push latest data
       run: |-
         git add index.json
@@ -45,7 +45,7 @@ jobs:
         git push
     - name: Build HTML
       run: |-
-        npm run build:html
+        NODE_TLS_REJECT_UNAUTHORIZED=0 npm run build:html 2>/dev/null
     - name: Commit and push HTML
       run: |-
         git add --all
