@@ -145,6 +145,88 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/05/07/138247">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/05/07/138247&amp;from=rss"
+              >Axon Wants its Body Cameras to Start Writing Officers’ Reports
+              for Them</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-07 @ 19:39:00</span
+              ><span class="points-container"
+                >Points: <span class="points">2</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/05/07/138247"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    [...] On top of that, there's the garbage-in, garbage-out
+                    problem. AI trained on narratives provided by officers may
+                    take it upon themselves to "correct" narratives that seem to
+                    indicate an officer may have done something wrong. It's also
+                    going to lend itself to biased policing by tech-washing BS
+                    stops by racist cops, portraying these as essential
+                    contributions to public safety.
+                  </p>
+                  <p>
+                    Of course, plenty of officers do these sorts of things
+                    already, so there's a possibility it won't make anything
+                    <em>worse</em>. But if the process Axon is pitching makes
+                    things <em>faster</em>, there's no reason to believe what's
+                    already wrong with American policing won't get worse in
+                    future. And, as the tech improves (so to speak), the
+                    exacerbation of existing problems and the problems
+                    introduced by the addition of AI will steadily accelerate.
+                  </p>
+                  <p>
+                    That's not to say there's no utility in processes that
+                    reduce the amount of time spent on paperwork. But it seems
+                    splitting off a clerical division might be a better solution
+                    — a part of the police force that handles the paperwork and
+                    vets camera footage, but is performed by people who are not
+                    the same ones who captured the recordings and participated
+                    in the traffic stop, investigation, or dispatch call
+                    response.
+                  </p>
+                  <p>
+                    And I will say this for Axon: at least its CEO recognizes
+                    the problems this could introduce and suggests agencies
+                    limit automated report creation to things like misdemeanors
+                    and never in cases where deadly force is deployed. But, like
+                    any product, it will be the end users who decide how it's
+                    used. And so far, the expected end users are more than
+                    willing to streamline things they view as inessential, but
+                    are far less interested in curtailing abuse by those using
+                    these systems. Waiting to see how things play out just isn't
+                    an acceptable option — not when there are actual lives and
+                    liberties on the line.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62740"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/05/06/1730206">
           <h3>
             <a
@@ -5401,90 +5483,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62684"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/04/26/0423233">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/04/26/0423233&amp;from=rss"
-              >Creating and Solving Hysteresis Problems on and at the Same
-              Desk</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-28 @ 01:07:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2330</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/04/26/0423233"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                <a href="//soylentnews.org/~canopic+jug/">canopic jug</a>
-                writes:
-              </p>
-              <p>
-                Over at his personal blog, Kevin Norman describes how he has
-                modified his motorized standing desk to raise and lower on its
-                own according to a schedule. His post
-                <a href="https://kn100.me/desksniffer/"
-                  >DeskOps: Commanding My Desk with HTTP - How I Brought
-                  Hysteresis Problems to the Desk Where I Solve Hysteresis
-                  Problems</a
-                >
-                goes into a fair amount of detail about how he went about wiring
-                it up and the problems which arose and how he fixed them. The
-                active part uses an ESP-32 based microcontroller to change the
-                desk's height using the I²C protocol.
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    For those not familiar with hardware, I2C is the scheme by
-                    which most circuits use for inter-chip communication. In my
-                    desk controller, there is a microcontroller which writes
-                    data to a LCD driver chip, which in turn lights the correct
-                    segments on a 3 digit segmented LCD. How would I capture the
-                    data though? Easy, I thought! All I had do to was hook up to
-                    the same two pins the data sheet reported as being the i2c
-                    pins along with the grounds of the standing desk controller
-                    and my esp32, and I could then "sniff" the data that was
-                    being sent across the i2c bus, decode it, and then use that
-                    for something useful.
-                  </p>
-                  <p>
-                    So away I went! I soldered two wires directly to the pins on
-                    the chip that were marked as the data pins (I am deeply
-                    sorry to anybody offended by my soldering job!), and
-                    soldered a third wire to a ground point on the board. I then
-                    connected those wires to an ESP32, and then went looking for
-                    somebody elses code to try to sniff the i2c data to see if
-                    this was even possible.
-                  </p>
-                </div>
-              </blockquote>
-              <p>
-                He even designed and 3D-printed an enclosure for this
-                modification. It played a surprising role in this.
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62654"
                     >Original Submission</a
                   ></small
                 >
