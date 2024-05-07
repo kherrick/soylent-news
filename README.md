@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-07, 09:54:00](https://soylentnews.org/article.pl?sid=24/05/06/1455210&from=rss) - [China Launches Mission to Far Side of the Moon as US Claims a New Space Race Has Begun](https://soylentnews.org/article.pl?sid=24/05/06/1455210&from=rss)
 * [2024-05-07, 07:31:00](https://soylentnews.org/meta/article.pl?sid=24/05/07/0725200&from=rss) - [Audioguy is Forced to Step Down](https://soylentnews.org/meta/article.pl?sid=24/05/07/0725200&from=rss)
 * [2024-05-07, 05:08:00](https://soylentnews.org/article.pl?sid=24/05/06/1450225&from=rss) - [Tech CEO Gets 6 Years for Selling Fake Cisco Gear on Amazon, eBay](https://soylentnews.org/article.pl?sid=24/05/06/1450225&from=rss)
 * [2024-05-07, 00:23:00](https://soylentnews.org/article.pl?sid=24/05/06/1445213&from=rss) - [Combining Radio and Visual Tracking of Motorized Road Vehicles](https://soylentnews.org/article.pl?sid=24/05/06/1445213&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-28, 05:49:00](https://soylentnews.org/article.pl?sid=24/04/27/0235200&from=rss) - [Criminal Charges in One of the First of Its Kind AI Deep Fake Case](https://soylentnews.org/article.pl?sid=24/04/27/0235200&from=rss)
 * [2024-04-28, 01:07:00](https://soylentnews.org/article.pl?sid=24/04/26/0423233&from=rss) - [Creating and Solving Hysteresis Problems on and at the Same Desk](https://soylentnews.org/article.pl?sid=24/04/26/0423233&from=rss)
 * [2024-04-27, 20:20:00](https://soylentnews.org/article.pl?sid=24/04/26/0021232&from=rss) - [You Can Now Buy a Flame-Throwing Robot Dog for Under $10,000](https://soylentnews.org/article.pl?sid=24/04/26/0021232&from=rss)
-* [2024-04-27, 15:45:00](https://soylentnews.org/article.pl?sid=24/04/26/0018251&from=rss) - [FCC Restores Net Neutrality Rules that Ban Blocking and Throttling in 3-2 Vote](https://soylentnews.org/article.pl?sid=24/04/26/0018251&from=rss)
 
 ## [Archives](archives/index.md)
 
