@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-07, 19:39:00](https://soylentnews.org/article.pl?sid=24/05/07/138247&from=rss) - [Axon Wants its Body Cameras to Start Writing Officers’ Reports for Them](https://soylentnews.org/article.pl?sid=24/05/07/138247&from=rss)
 * [2024-05-07, 14:54:00](https://soylentnews.org/article.pl?sid=24/05/06/1730206&from=rss) - [Lego-Pushing Bumblebees Reveal Insect Collaboration Dynamics](https://soylentnews.org/article.pl?sid=24/05/06/1730206&from=rss)
 * [2024-05-07, 09:54:00](https://soylentnews.org/article.pl?sid=24/05/06/1455210&from=rss) - [China Launches Mission to Far Side of the Moon as US Claims a New Space Race Has Begun](https://soylentnews.org/article.pl?sid=24/05/06/1455210&from=rss)
 * [2024-05-07, 07:31:00](https://soylentnews.org/meta/article.pl?sid=24/05/07/0725200&from=rss) - [Audioguy is Forced to Step Down](https://soylentnews.org/meta/article.pl?sid=24/05/07/0725200&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-28, 15:17:00](https://soylentnews.org/article.pl?sid=24/04/27/0247244&from=rss) - [Meta's Value Plummets As Zuckerberg Admits AI Needs Time ](https://soylentnews.org/article.pl?sid=24/04/27/0247244&from=rss)
 * [2024-04-28, 10:34:00](https://soylentnews.org/article.pl?sid=24/04/27/0240250&from=rss) - [TSMC Readies Lower-Cost 4nm Manufacturing Tech: Up To 8.5% Cheaper ](https://soylentnews.org/article.pl?sid=24/04/27/0240250&from=rss)
 * [2024-04-28, 05:49:00](https://soylentnews.org/article.pl?sid=24/04/27/0235200&from=rss) - [Criminal Charges in One of the First of Its Kind AI Deep Fake Case](https://soylentnews.org/article.pl?sid=24/04/27/0235200&from=rss)
-* [2024-04-28, 01:07:00](https://soylentnews.org/article.pl?sid=24/04/26/0423233&from=rss) - [Creating and Solving Hysteresis Problems on and at the Same Desk](https://soylentnews.org/article.pl?sid=24/04/26/0423233&from=rss)
 
 ## [Archives](archives/index.md)
 
