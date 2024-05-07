@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-07, 00:23:00](https://soylentnews.org/article.pl?sid=24/05/06/1445213&from=rss) - [Combining Radio and Visual Tracking of Motorized Road Vehicles](https://soylentnews.org/article.pl?sid=24/05/06/1445213&from=rss)
 * [2024-05-06, 19:37:00](https://soylentnews.org/article.pl?sid=24/05/06/1438233&from=rss) - [Court Supports NY State’s Quest to Require $15 Broadband for Poor People](https://soylentnews.org/article.pl?sid=24/05/06/1438233&from=rss)
 * [2024-05-06, 14:55:00](https://soylentnews.org/article.pl?sid=24/05/05/0255223&from=rss) - [Astronauts Could Run Round ‘Wall of Death’ to Keep Fit on Moon](https://soylentnews.org/article.pl?sid=24/05/05/0255223&from=rss)
 * [2024-05-06, 10:10:00](https://soylentnews.org/article.pl?sid=24/05/05/0251244&from=rss) - [Research Shows Baby Bird Development Harmed by Sound of Cars](https://soylentnews.org/article.pl?sid=24/05/05/0251244&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-27, 15:45:00](https://soylentnews.org/article.pl?sid=24/04/26/0018251&from=rss) - [FCC Restores Net Neutrality Rules that Ban Blocking and Throttling in 3-2 Vote](https://soylentnews.org/article.pl?sid=24/04/26/0018251&from=rss)
 * [2024-04-27, 10:59:00](https://soylentnews.org/article.pl?sid=24/04/25/1759250&from=rss) - [The Origin of the Shell](https://soylentnews.org/article.pl?sid=24/04/25/1759250&from=rss)
 * [2024-04-27, 06:13:00](https://soylentnews.org/article.pl?sid=24/04/25/1517248&from=rss) - [Highspeed to the Future](https://soylentnews.org/article.pl?sid=24/04/25/1517248&from=rss)
-* [2024-04-27, 01:28:00](https://soylentnews.org/article.pl?sid=24/04/25/1512244&from=rss) - [Enshittification of Google and the Men Who Killed Search](https://soylentnews.org/article.pl?sid=24/04/25/1512244&from=rss)
 
 ## [Archives](archives/index.md)
 
