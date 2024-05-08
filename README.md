@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-08, 09:55:00](https://soylentnews.org/article.pl?sid=24/05/07/1318206&from=rss) - [Maximum-severity GitLab Flaw Allowing Account Hijacking Under Active Exploitation](https://soylentnews.org/article.pl?sid=24/05/07/1318206&from=rss)
 * [2024-05-08, 05:13:00](https://soylentnews.org/article.pl?sid=24/05/07/1313255&from=rss) - [SpaceX Falcon 9 Rocket Launches 2 Satellites on Record-tying 20th Flight (Video)](https://soylentnews.org/article.pl?sid=24/05/07/1313255&from=rss)
 * [2024-05-08, 00:24:00](https://soylentnews.org/article.pl?sid=24/05/07/1310235&from=rss) - [Talking to Memory: Inside the Intel 8088 Processor's Bus Interface State Machine](https://soylentnews.org/article.pl?sid=24/05/07/1310235&from=rss)
 * [2024-05-07, 19:39:00](https://soylentnews.org/article.pl?sid=24/05/07/138247&from=rss) - [Axon Wants its Body Cameras to Start Writing Officers’ Reports for Them](https://soylentnews.org/article.pl?sid=24/05/07/138247&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-29, 05:20:00](https://soylentnews.org/article.pl?sid=24/04/28/1341238&from=rss) - [Woman Makes $37,000 a Year Leading Dungeons & Dragons Games](https://soylentnews.org/article.pl?sid=24/04/28/1341238&from=rss)
 * [2024-04-29, 00:36:00](https://soylentnews.org/article.pl?sid=24/04/28/2049250&from=rss) - [American Airlines Keeps Mistaking 101-Year-Old Passenger for Baby](https://soylentnews.org/article.pl?sid=24/04/28/2049250&from=rss)
 * [2024-04-28, 19:58:00](https://soylentnews.org/article.pl?sid=24/04/27/0944235&from=rss) - [An Emergency Slide Falls Off a Delta Air Lines Plane, Forcing Pilots to Return to JFK in New York](https://soylentnews.org/article.pl?sid=24/04/27/0944235&from=rss)
-* [2024-04-28, 15:17:00](https://soylentnews.org/article.pl?sid=24/04/27/0247244&from=rss) - [Meta's Value Plummets As Zuckerberg Admits AI Needs Time ](https://soylentnews.org/article.pl?sid=24/04/27/0247244&from=rss)
 
 ## [Archives](archives/index.md)
 
