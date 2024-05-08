@@ -145,6 +145,141 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/05/07/1318206">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/05/07/1318206&amp;from=rss"
+              >Maximum-severity GitLab Flaw Allowing Account Hijacking Under
+              Active Exploitation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-08 @ 09:55:00</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/05/07/1318206"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
+              <p>
+                <a
+                  href="https://arstechnica.com/security/2024/05/0-click-gitlab-hijacking-flaw-under-active-exploit-with-thousands-still-unpatched/"
+                  >The threat is potentially grave because it could be used in
+                  supply-chain attacks</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    A maximum severity vulnerability that allows hackers to
+                    hijack GitLab accounts with no user interaction required is
+                    now under active exploitation, federal government officials
+                    warned as data showed that thousands of users had yet to
+                    install a patch released in January.
+                  </p>
+                  <p>
+                    A change GitLab implemented in May 2023 made it possible for
+                    users to initiate password changes through links sent to
+                    secondary email addresses. The move was designed to permit
+                    resets when users didn't have access to the email address
+                    used to establish the account. In January, GitLab
+                    <a
+                      href="https://about.gitlab.com/releases/2024/01/11/critical-security-release-gitlab-16-7-2-released/"
+                      >disclosed</a
+                    >
+                    that the feature allowed attackers to send reset emails to
+                    accounts they controlled and from there click on the
+                    embedded link and take over the account.
+                  </p>
+                  <p>
+                    While exploits require no user interaction, hijackings work
+                    only against accounts that aren't configured to use
+                    multifactor authentication. Even with MFA, accounts remained
+                    vulnerable to password resets, but the attackers ultimately
+                    are unable to access the account, allowing the rightful
+                    owner to change the reset password. The vulnerability,
+                    tracked as CVE-2023-7028, carries a severity rating of 10
+                    out of 10.
+                  </p>
+                  <p>
+                    On Wednesday, the US Cybersecurity and Infrastructure
+                    Security Agency
+                    <a
+                      href="https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"
+                      >said</a
+                    >
+                    it is aware of "evidence of active exploitation" and added
+                    the vulnerability to its list of known exploited
+                    vulnerabilities. CISA provided no details about the
+                    in-the-wild attacks. A GitLab representative declined to
+                    provide specifics about the active exploitation of the
+                    vulnerability.
+                  </p>
+                  <p>
+                    The vulnerability, classified as an improper access control
+                    flaw, could pose a grave threat. GitLab software typically
+                    has access to multiple development environments belonging to
+                    users. With the ability to access them and surreptitiously
+                    introduce changes, attackers could sabotage projects or
+                    plant backdoors that could infect anyone using software
+                    built in the compromised environment. An example of a
+                    similar supply chain attack is the one that hit
+                    <a
+                      href="https://arstechnica.com/information-technology/2020/12/russian-hackers-hit-us-government-using-widespread-supply-chain-attack/"
+                      >SolarWinds in 2020</a
+                    >
+                    and pushed malware to more than
+                    <a
+                      href="https://arstechnica.com/information-technology/2020/12/18000-organizations-downloaded-backdoor-planted-by-cozy-bear-hackers/"
+                      >18,000 of its customers</a
+                    >, 100 of whom received follow-on hacks. Other recent
+                    examples of supply chain attacks are
+                    <a
+                      href="https://arstechnica.com/information-technology/2023/03/massive-supply-chain-attack-with-ties-to-north-korea-hits-users-of-3cx-voice-app/"
+                      >here</a
+                    >,
+                    <a
+                      href="https://arstechnica.com/gadgets/2021/07/up-to-1500-businesses-infected-in-one-of-the-worst-ransomware-attacks-ever/"
+                      >here</a
+                    >, and
+                    <a
+                      href="https://arstechnica.com/gadgets/2021/04/backdoored-developer-tool-that-stole-credentials-escaped-notice-for-3-months/"
+                      >here</a
+                    >.
+                  </p>
+                  <p>
+                    [...] GitLab users should also remember that patching does
+                    nothing to secure systems that have already been breached
+                    through exploits. GitLab has published incident response
+                    guidance
+                    <a
+                      href="https://docs.gitlab.com/ee/security/responding_to_security_incidents.html#suspected-compromised-user-account"
+                      >here</a
+                    >.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62737"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/05/07/1313255">
           <h3>
             <a
@@ -158,7 +293,7 @@
             <h4>
               <span>2024-05-08 @ 05:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/1313255"
@@ -274,7 +409,7 @@
             <h4>
               <span>2024-05-08 @ 00:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">366</span></span
+                >Points: <span class="points">374</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/1310235"
@@ -343,7 +478,7 @@
             <h4>
               <span>2024-05-07 @ 19:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">565</span></span
+                >Points: <span class="points">572</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/138247"
@@ -424,7 +559,7 @@
             <h4>
               <span>2024-05-07 @ 14:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">527</span></span
+                >Points: <span class="points">532</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/06/1730206"
@@ -551,7 +686,7 @@
             <h4>
               <span>2024-05-07 @ 09:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">808</span></span
+                >Points: <span class="points">815</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/06/1455210"
@@ -684,7 +819,7 @@
             <h4>
               <span>2024-05-07 @ 07:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">1520</span></span
+                >Points: <span class="points">1528</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/0725200"
@@ -754,7 +889,7 @@
             <h4>
               <span>2024-05-07 @ 05:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">839</span></span
+                >Points: <span class="points">845</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/06/1450225"
@@ -835,7 +970,7 @@
             <h4>
               <span>2024-05-07 @ 00:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">885</span></span
+                >Points: <span class="points">891</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/06/1445213"
@@ -966,7 +1101,7 @@
             <h4>
               <span>2024-05-06 @ 19:37:00</span
               ><span class="points-container"
-                >Points: <span class="points">1066</span></span
+                >Points: <span class="points">1071</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/06/1438233"
@@ -1111,7 +1246,7 @@
             <h4>
               <span>2024-05-06 @ 14:55:00</span
               ><span class="points-container"
-                >Points: <span class="points">1141</span></span
+                >Points: <span class="points">1147</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/05/0255223"
@@ -1231,7 +1366,7 @@
             <h4>
               <span>2024-05-06 @ 10:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">1115</span></span
+                >Points: <span class="points">1121</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/05/0251244"
@@ -1334,7 +1469,7 @@
             <h4>
               <span>2024-05-06 @ 05:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">1312</span></span
+                >Points: <span class="points">1318</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/05/0246225"
@@ -1449,7 +1584,7 @@
             <h4>
               <span>2024-05-06 @ 00:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">1229</span></span
+                >Points: <span class="points">1235</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/1818244"
@@ -1553,7 +1688,7 @@
             <h4>
               <span>2024-05-05 @ 20:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">1349</span></span
+                >Points: <span class="points">1355</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/1822254"
@@ -1655,7 +1790,7 @@
             <h4>
               <span>2024-05-05 @ 15:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">1559</span></span
+                >Points: <span class="points">1565</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/188243"
@@ -1925,7 +2060,7 @@
             <h4>
               <span>2024-05-05 @ 10:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">1549</span></span
+                >Points: <span class="points">1555</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/1816214"
@@ -2026,7 +2161,7 @@
             <h4>
               <span>2024-05-05 @ 05:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">1753</span></span
+                >Points: <span class="points">1758</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/180227"
@@ -2106,7 +2241,7 @@
             <h4>
               <span>2024-05-05 @ 01:11:00</span
               ><span class="points-container"
-                >Points: <span class="points">1860</span></span
+                >Points: <span class="points">1865</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/1024200"
@@ -2226,7 +2361,7 @@
             <h4>
               <span>2024-05-04 @ 20:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">2023</span></span
+                >Points: <span class="points">2028</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/1016202"
@@ -2572,7 +2707,7 @@
             <h4>
               <span>2024-05-04 @ 06:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">2005</span></span
+                >Points: <span class="points">2006</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/03/0054214"
@@ -4444,7 +4579,7 @@
             <h4>
               <span>2024-04-30 @ 09:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">2532</span></span
+                >Points: <span class="points">2533</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/04/29/0042211"
@@ -5405,118 +5540,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62689"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/04/27/0247244">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/04/27/0247244&amp;from=rss"
-              >Meta's Value Plummets As Zuckerberg Admits AI Needs Time
-            </a>
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-28 @ 15:17:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2634</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/04/27/0247244"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Arthur T Knackerbracket has processed the
-                <a
-                  href="https://www.theregister.com/2024/04/25/facebooks_value_plummets_as_zuckerberg/"
-                  >following story</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Meta's shares tumbled after company boss Mark Zuckerberg
-                    said the quiet bit out loud: it will take a while before AI
-                    bets start paying back the huge financial investments it is
-                    making.
-                  </p>
-                  <p>
-                    At first glance,
-                    <a
-                      href="https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-First-Quarter-2024-Results/default.aspx"
-                      >results</a
-                    >
-                    for the first calendar quarter of 2024 looked promising.
-                    Revenue was up 27 percent year-on-year to $36.5 billion,
-                    operating profit almost doubled, climbing 91 percent to
-                    $13.8 billion, and operating margin jumped from 25 percent
-                    to 38 percent.
-                  </p>
-                  <p>
-                    Analysts would also normally have looked kindly upon the 10
-                    percent drop in headcount, down to 69,329 by March 31, 2024.
-                  </p>
-                  <p>
-                    However, an otherwise rosy set of results was blighted first
-                    by the admission that Meta expects losses from its VR
-                    division, Reality Labs, to continue increasing – the
-                    operating loss was $3.8 billion for Q1 – and capital
-                    expenditure for 2024 is to increase from between $30-$37
-                    billion to $35-$40 billion "as we continue to accelerate our
-                    infrastructure investments to support our artificial
-                    intelligence (AI) roadmap."
-                  </p>
-                  <p>
-                    [...] It was not what analysts wanted to hear, and the
-                    company's stock was pummeled in after-hours trading. Having
-                    closed at $493.50, it stood at $424.56 at the time of
-                    writing, a fall of more than 14 percent.
-                  </p>
-                  <p>
-                    Other companies in the tech sector have bet big on AI, and
-                    the hype around the technology has become relentless.
-                    Microsoft, for example, has poured billions into OpenAI and
-                    crowbarred the technology into many of its products, and is
-                    <a
-                      href="https://www.theregister.com/2024/03/18/microsoft_copilot_moneymaker/"
-                      >trying to convince customers of the value</a
-                    >.
-                  </p>
-                  <p>
-                    [...] That said, Meta does have a particular set of
-                    problems. The CEO pointed out that it usually takes a while
-                    for the company to monetize a new product, which is fair
-                    enough until considering the ongoing losses from Meta's
-                    <a
-                      href="https://www.theregister.com/2023/04/19/meta_layoffs/"
-                      >Reality Labs</a
-                    >
-                    division, which is responsible for the Quest VR headset
-                    line.
-                  </p>
-                  <p>
-                    The Metaverse gamble has yet to pay off. The drop in value
-                    after the results could be an early sign that investors are
-                    unwilling to wait too long for AI revenues to come close to
-                    promises.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62674"
                     >Original Submission</a
                   ></small
                 >
