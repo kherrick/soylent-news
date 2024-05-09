@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-09, 09:39:00](https://soylentnews.org/article.pl?sid=24/05/08/042229&from=rss) - [Extra-Strong Spore-Loaded Plastic Eats Itself When It Hits Landfill](https://soylentnews.org/article.pl?sid=24/05/08/042229&from=rss)
 * [2024-05-09, 04:56:00](https://soylentnews.org/article.pl?sid=24/05/08/0357210&from=rss) - [Novel Attack Against Virtually All VPN Apps Neuters Their Entire Purpose](https://soylentnews.org/article.pl?sid=24/05/08/0357210&from=rss)
 * [2024-05-09, 00:09:00](https://soylentnews.org/article.pl?sid=24/05/08/0349249&from=rss) - [New Findings Point to an Earth-Like Environment on Ancient Mars](https://soylentnews.org/article.pl?sid=24/05/08/0349249&from=rss)
 * [2024-05-08, 19:21:00](https://soylentnews.org/article.pl?sid=24/05/07/1444206&from=rss) - [Australian Engineers Develop an Ultrasonic Cold Brew Coffee Machine](https://soylentnews.org/article.pl?sid=24/05/07/1444206&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-30, 04:56:00](https://soylentnews.org/article.pl?sid=24/04/28/1339221&from=rss) - [Russia Stands Alone in Vetoing UN Resolution on Nuclear Weapons in Space](https://soylentnews.org/article.pl?sid=24/04/28/1339221&from=rss)
 * [2024-04-30, 00:14:00](https://soylentnews.org/article.pl?sid=24/04/28/1357240&from=rss) - [Cow's Milk Particles Unlock One of Medicine's Most Challenging Puzzles](https://soylentnews.org/article.pl?sid=24/04/28/1357240&from=rss)
 * [2024-04-29, 19:31:00](https://soylentnews.org/article.pl?sid=24/04/28/1352254&from=rss) - [Can an Online Library of Classic Video Games Ever be Legal?](https://soylentnews.org/article.pl?sid=24/04/28/1352254&from=rss)
-* [2024-04-29, 14:49:00](https://soylentnews.org/article.pl?sid=24/04/28/1350217&from=rss) - [Seagate Claims: Mozaic 3+ HAMR Hard Drives Can Last Over Seven Years](https://soylentnews.org/article.pl?sid=24/04/28/1350217&from=rss)
 
 ## [Archives](archives/index.md)
 
