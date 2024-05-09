@@ -145,6 +145,114 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/05/08/0357210">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/05/08/0357210&amp;from=rss"
+              >Novel Attack Against Virtually All VPN Apps Neuters Their Entire
+              Purpose</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-09 @ 04:56:00</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/05/08/0357210"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~fliptop/">fliptop</a> writes:</p>
+              <p>
+                The TunnelVision vulnerability has existed since 2002 and
+                <a
+                  href="https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/"
+                  >may already be known to attackers</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Researchers have devised an attack against nearly all
+                    virtual private network applications that forces them to
+                    send and receive some or all traffic outside of the
+                    encrypted tunnel designed to protect it from snooping or
+                    tampering.
+                  </p>
+                  <p>
+                    TunnelVision, as the researchers have named their attack,
+                    largely negates the entire purpose and selling point of
+                    VPNs, which is to encapsulate incoming and outgoing Internet
+                    traffic in an encrypted tunnel and to cloak the user's IP
+                    address. The researchers believe it affects all VPN
+                    applications when they're connected to a hostile network and
+                    that there are no ways to prevent such attacks except when
+                    the user's VPN runs on Linux or Android. They also said
+                    their attack technique may have been possible since 2002 and
+                    may already have been discovered and used in the wild since
+                    then.
+                  </p>
+                  <p>
+                    The effect of TunnelVision is "the victim's traffic is now
+                    decloaked and being routed through the attacker directly," a
+                    <a href="https://www.youtube.com/watch?v=ajsLmZia6UU"
+                      >video demonstration</a
+                    >
+                    explained. "The attacker can read, drop or modify the leaked
+                    traffic and the victim maintains their connection to both
+                    the VPN and the Internet."
+                  </p>
+                  <p>
+                    The attack works by manipulating the
+                    <a
+                      href="https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol"
+                      >DHCP server</a
+                    >
+                    that allocates IP addresses to devices trying to connect to
+                    the local network. A setting known as
+                    <a href="https://datatracker.ietf.org/doc/html/rfc3442"
+                      >option 121</a
+                    >
+                    allows the DHCP server to override default routing rules
+                    that send VPN traffic through a local IP address that
+                    initiates the encrypted tunnel. By using option 121 to route
+                    VPN traffic through the DHCP server, the attack diverts the
+                    data to the DHCP server itself.
+                  </p>
+                  <p>
+                    [...] Interestingly, Android is the only operating system
+                    that fully immunizes VPN apps from the attack because it
+                    doesn't implement option 121. For all other OSes, there are
+                    no complete fixes.
+                  </p>
+                </div>
+              </blockquote>
+              <p>
+                Originally spotted on
+                <a
+                  href="https://www.schneier.com/blog/archives/2024/05/new-attack-on-vpns.html"
+                  >Schneier on Security</a
+                >.
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62766"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/05/08/0349249">
           <h3>
             <a
@@ -158,7 +266,7 @@
             <h4>
               <span>2024-05-09 @ 00:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">214</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/08/0349249"
@@ -274,7 +382,7 @@
             <h4>
               <span>2024-05-08 @ 19:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">449</span></span
+                >Points: <span class="points">458</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/1444206"
@@ -386,7 +494,7 @@
             <h4>
               <span>2024-05-08 @ 14:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">634</span></span
+                >Points: <span class="points">642</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/1439251"
@@ -463,7 +571,7 @@
             <h4>
               <span>2024-05-08 @ 09:55:00</span
               ><span class="points-container"
-                >Points: <span class="points">818</span></span
+                >Points: <span class="points">828</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/1318206"
@@ -598,7 +706,7 @@
             <h4>
               <span>2024-05-08 @ 05:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">671</span></span
+                >Points: <span class="points">682</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/1313255"
@@ -714,7 +822,7 @@
             <h4>
               <span>2024-05-08 @ 00:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">974</span></span
+                >Points: <span class="points">982</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/1310235"
@@ -783,7 +891,7 @@
             <h4>
               <span>2024-05-07 @ 19:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">1195</span></span
+                >Points: <span class="points">1203</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/138247"
@@ -864,7 +972,7 @@
             <h4>
               <span>2024-05-07 @ 14:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">956</span></span
+                >Points: <span class="points">964</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/06/1730206"
@@ -991,7 +1099,7 @@
             <h4>
               <span>2024-05-07 @ 09:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">1291</span></span
+                >Points: <span class="points">1299</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/06/1455210"
@@ -1124,7 +1232,7 @@
             <h4>
               <span>2024-05-07 @ 07:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">2178</span></span
+                >Points: <span class="points">2190</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/07/0725200"
@@ -1194,7 +1302,7 @@
             <h4>
               <span>2024-05-07 @ 05:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">1295</span></span
+                >Points: <span class="points">1302</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/06/1450225"
@@ -1275,7 +1383,7 @@
             <h4>
               <span>2024-05-07 @ 00:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">1330</span></span
+                >Points: <span class="points">1337</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/06/1445213"
@@ -1406,7 +1514,7 @@
             <h4>
               <span>2024-05-06 @ 19:37:00</span
               ><span class="points-container"
-                >Points: <span class="points">1597</span></span
+                >Points: <span class="points">1605</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/06/1438233"
@@ -1551,7 +1659,7 @@
             <h4>
               <span>2024-05-06 @ 14:55:00</span
               ><span class="points-container"
-                >Points: <span class="points">1577</span></span
+                >Points: <span class="points">1584</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/05/0255223"
@@ -1671,7 +1779,7 @@
             <h4>
               <span>2024-05-06 @ 10:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">1558</span></span
+                >Points: <span class="points">1564</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/05/0251244"
@@ -1774,7 +1882,7 @@
             <h4>
               <span>2024-05-06 @ 05:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">1787</span></span
+                >Points: <span class="points">1793</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/05/0246225"
@@ -1889,7 +1997,7 @@
             <h4>
               <span>2024-05-06 @ 00:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">1651</span></span
+                >Points: <span class="points">1658</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/1818244"
@@ -1993,7 +2101,7 @@
             <h4>
               <span>2024-05-05 @ 20:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">1766</span></span
+                >Points: <span class="points">1773</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/1822254"
@@ -2095,7 +2203,7 @@
             <h4>
               <span>2024-05-05 @ 15:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">1946</span></span
+                >Points: <span class="points">1952</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/188243"
@@ -2365,7 +2473,7 @@
             <h4>
               <span>2024-05-05 @ 10:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">1944</span></span
+                >Points: <span class="points">1946</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/1816214"
@@ -2466,7 +2574,7 @@
             <h4>
               <span>2024-05-05 @ 05:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">2114</span></span
+                >Points: <span class="points">2120</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/180227"
@@ -2546,7 +2654,7 @@
             <h4>
               <span>2024-05-05 @ 01:11:00</span
               ><span class="points-container"
-                >Points: <span class="points">2071</span></span
+                >Points: <span class="points">2072</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/1024200"
@@ -2666,7 +2774,7 @@
             <h4>
               <span>2024-05-04 @ 20:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">2158</span></span
+                >Points: <span class="points">2159</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/1016202"
@@ -2809,7 +2917,7 @@
             <h4>
               <span>2024-05-04 @ 15:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">2281</span></span
+                >Points: <span class="points">2283</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/04/0331215"
@@ -3012,7 +3120,7 @@
             <h4>
               <span>2024-05-04 @ 06:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">2040</span></span
+                >Points: <span class="points">2041</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/03/0054214"
@@ -3113,7 +3221,7 @@
             <h4>
               <span>2024-05-04 @ 01:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">2410</span></span
+                >Points: <span class="points">2412</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/02/1550259"
@@ -3221,7 +3329,7 @@
             <h4>
               <span>2024-05-03 @ 20:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">2292</span></span
+                >Points: <span class="points">2297</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/02/1545218"
@@ -3332,7 +3440,7 @@
             <h4>
               <span>2024-05-03 @ 15:57:00</span
               ><span class="points-container"
-                >Points: <span class="points">2290</span></span
+                >Points: <span class="points">2291</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/02/1540211"
@@ -3705,7 +3813,7 @@
             <h4>
               <span>2024-05-02 @ 20:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">2736</span></span
+                >Points: <span class="points">2737</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/01/0244215"
@@ -5466,89 +5574,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62672"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/04/28/1346219">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/04/28/1346219&amp;from=rss"
-              >Pluto Gained a ‘Heart’ After Colliding With a Planetary Body</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-04-29 @ 10:04:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2206</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/04/28/1346219"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="http://127.128.129.130/">mrpg</a> writes:</p>
-              <p>
-                <a
-                  href="https://edition.cnn.com/2024/04/18/world/pluto-heart-planetary-collision-scn/index.html"
-                  >https://edition.cnn.com/2024/04/18/world/pluto-heart-planetary-collision-scn/index.html</a
-                >
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    A huge heart-shaped feature on the surface of Pluto has
-                    intrigued astronomers since NASA's New Horizons spacecraft
-                    captured it in a 2015 image. Now, researchers think they
-                    have solved the mystery of how the distinctive heart came to
-                    be — and it could reveal new clues about the dwarf planet's
-                    origins.
-                  </p>
-                  <p>
-                    The feature is called Tombaugh Regio in honor of astronomer
-                    Clyde Tombaugh, who discovered Pluto in 1930. But the heart
-                    is not all one element, scientists say. And for decades,
-                    details on Tombaugh Regio's elevation, geological
-                    composition and distinct shape, as well as its highly
-                    reflective surface that is a brighter white than the rest of
-                    Pluto, have defied explanation.
-                  </p>
-                  <p>
-                    [...] Through new research on Sputnik Planitia, an
-                    international team of scientists has determined that a
-                    cataclysmic event created the heart. After an analysis
-                    involving numerical simulations, the researchers concluded a
-                    planetary body about 435 miles (700 kilometers) in diameter,
-                    or roughly twice the size of Switzerland from east to west,
-                    likely collided with Pluto early in the dwarf planet's
-                    history.
-                  </p>
-                  <p>
-                    [...] "Pluto's core is so cold that the (rocky body that
-                    collided with the dwarf planet) remained very hard and did
-                    not melt despite the heat of the impact, and thanks to the
-                    angle of impact and the low velocity, the core of the
-                    impactor did not sink into Pluto's core, but remained intact
-                    as a splat on it," said lead study author Dr. Harry
-                    Ballantyne, research associate at the University of Bern in
-                    Switzerland, in a statement.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62692"
                     >Original Submission</a
                   ></small
                 >
