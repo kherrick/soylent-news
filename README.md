@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-09, 00:09:00](https://soylentnews.org/article.pl?sid=24/05/08/0349249&from=rss) - [New Findings Point to an Earth-Like Environment on Ancient Mars](https://soylentnews.org/article.pl?sid=24/05/08/0349249&from=rss)
 * [2024-05-08, 19:21:00](https://soylentnews.org/article.pl?sid=24/05/07/1444206&from=rss) - [Australian Engineers Develop an Ultrasonic Cold Brew Coffee Machine](https://soylentnews.org/article.pl?sid=24/05/07/1444206&from=rss)
 * [2024-05-08, 14:36:00](https://soylentnews.org/article.pl?sid=24/05/07/1439251&from=rss) - [New Fusion Record Achieved in Tungsten-Encased Reactor](https://soylentnews.org/article.pl?sid=24/05/07/1439251&from=rss)
 * [2024-05-08, 09:55:00](https://soylentnews.org/article.pl?sid=24/05/07/1318206&from=rss) - [Maximum-severity GitLab Flaw Allowing Account Hijacking Under Active Exploitation](https://soylentnews.org/article.pl?sid=24/05/07/1318206&from=rss)
@@ -49,7 +50,6 @@
 * [2024-04-29, 19:31:00](https://soylentnews.org/article.pl?sid=24/04/28/1352254&from=rss) - [Can an Online Library of Classic Video Games Ever be Legal?](https://soylentnews.org/article.pl?sid=24/04/28/1352254&from=rss)
 * [2024-04-29, 14:49:00](https://soylentnews.org/article.pl?sid=24/04/28/1350217&from=rss) - [Seagate Claims: Mozaic 3+ HAMR Hard Drives Can Last Over Seven Years](https://soylentnews.org/article.pl?sid=24/04/28/1350217&from=rss)
 * [2024-04-29, 10:04:00](https://soylentnews.org/article.pl?sid=24/04/28/1346219&from=rss) - [Pluto Gained a ‘Heart’ After Colliding With a Planetary Body](https://soylentnews.org/article.pl?sid=24/04/28/1346219&from=rss)
-* [2024-04-29, 05:20:00](https://soylentnews.org/article.pl?sid=24/04/28/1341238&from=rss) - [Woman Makes $37,000 a Year Leading Dungeons & Dragons Games](https://soylentnews.org/article.pl?sid=24/04/28/1341238&from=rss)
 
 ## [Archives](archives/index.md)
 
