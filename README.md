@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-10, 20:43:00](https://soylentnews.org/article.pl?sid=24/05/09/1514202&from=rss) - [Gene Therapy Restored Hearing in Deaf Child](https://soylentnews.org/article.pl?sid=24/05/09/1514202&from=rss)
 * [2024-05-10, 15:58:00](https://soylentnews.org/article.pl?sid=24/05/09/159216&from=rss) - [Chinese Network Behind One of World’s ‘Largest Online Scams’](https://soylentnews.org/article.pl?sid=24/05/09/159216&from=rss)
 * [2024-05-10, 11:16:00](https://soylentnews.org/article.pl?sid=24/05/09/157247&from=rss) - [FCC Explicitly Prohibits Fast Lanes, Closing Possible Net Neutrality Loophole](https://soylentnews.org/article.pl?sid=24/05/09/157247&from=rss)
 * [2024-05-10, 06:41:00](https://soylentnews.org/article.pl?sid=24/05/10/0627245&from=rss) - [Looking Up - Solar Storms This Weekend](https://soylentnews.org/article.pl?sid=24/05/10/0627245&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-01, 21:07:00](https://soylentnews.org/article.pl?sid=24/04/30/1333234&from=rss) - [Reverse-Engineering and “Running Windows 95” on a Disposable Vape](https://soylentnews.org/article.pl?sid=24/04/30/1333234&from=rss)
 * [2024-05-01, 14:14:00](https://soylentnews.org/article.pl?sid=24/04/30/022206&from=rss) - [It’s the End of the Web as We Know It](https://soylentnews.org/article.pl?sid=24/04/30/022206&from=rss)
 * [2024-05-01, 09:27:00](https://soylentnews.org/article.pl?sid=24/04/30/0158229&from=rss) - [First Experimental Proof for Brain-Like Computer With Water and Salt](https://soylentnews.org/article.pl?sid=24/04/30/0158229&from=rss)
-* [2024-05-01, 04:42:00](https://soylentnews.org/article.pl?sid=24/04/30/0153251&from=rss) - [FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data](https://soylentnews.org/article.pl?sid=24/04/30/0153251&from=rss)
 
 ## [Archives](archives/index.md)
 
