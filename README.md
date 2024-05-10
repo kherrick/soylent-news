@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-10, 06:41:00](https://soylentnews.org/article.pl?sid=24/05/10/0627245&from=rss) - [Looking Up - Solar Storms This Weekend](https://soylentnews.org/article.pl?sid=24/05/10/0627245&from=rss)
 * [2024-05-10, 06:32:00](https://soylentnews.org/article.pl?sid=24/05/09/153241&from=rss) - [Starliner Launch Delayed to Mid-May](https://soylentnews.org/article.pl?sid=24/05/09/153241&from=rss)
 * [2024-05-10, 01:51:00](https://soylentnews.org/article.pl?sid=24/05/09/150204&from=rss) - [The Next Swiss Army Knife Won't Have a Knife](https://soylentnews.org/article.pl?sid=24/05/09/150204&from=rss)
 * [2024-05-09, 19:11:00](https://soylentnews.org/article.pl?sid=24/05/08/0416254&from=rss) - [Nintendo Says Announcement on Switch Successor 'This Fiscal Year'](https://soylentnews.org/article.pl?sid=24/05/08/0416254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-01, 04:42:00](https://soylentnews.org/article.pl?sid=24/04/30/0153251&from=rss) - [FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data](https://soylentnews.org/article.pl?sid=24/04/30/0153251&from=rss)
 * [2024-04-30, 23:51:00](https://soylentnews.org/article.pl?sid=24/04/29/232232&from=rss) - [How Not To Release Historic Source Code](https://soylentnews.org/article.pl?sid=24/04/29/232232&from=rss)
 * [2024-04-30, 19:08:00](https://soylentnews.org/article.pl?sid=24/04/29/1321235&from=rss) - [Millions of IPs Remain Infected by USB Worm Years After its Creators Left It for Dead](https://soylentnews.org/article.pl?sid=24/04/29/1321235&from=rss)
-* [2024-04-30, 14:25:00](https://soylentnews.org/article.pl?sid=24/04/29/0047219&from=rss) - [Supersonic Submarines!](https://soylentnews.org/article.pl?sid=24/04/29/0047219&from=rss)
 
 ## [Archives](archives/index.md)
 
