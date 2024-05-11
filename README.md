@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-11, 10:29:00](https://soylentnews.org/article.pl?sid=24/05/10/1751211&from=rss) - [Robot Dogs Armed With AI-Targeting Rifles Undergo US Marines Special Ops Evaluation](https://soylentnews.org/article.pl?sid=24/05/10/1751211&from=rss)
 * [2024-05-11, 05:48:00](https://soylentnews.org/article.pl?sid=24/05/10/1740200&from=rss) - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://soylentnews.org/article.pl?sid=24/05/10/1740200&from=rss)
 * [2024-05-11, 01:02:00](https://soylentnews.org/article.pl?sid=24/05/10/1735220&from=rss) - [Old Supercomputer Sold for $480k+](https://soylentnews.org/article.pl?sid=24/05/10/1735220&from=rss)
 * [2024-05-10, 20:43:00](https://soylentnews.org/article.pl?sid=24/05/09/1514202&from=rss) - [Gene Therapy Restored Hearing in Deaf Child](https://soylentnews.org/article.pl?sid=24/05/09/1514202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-02, 11:18:00](https://soylentnews.org/article.pl?sid=24/04/30/1430210&from=rss) - [How Evolution Has Optimized the Magnetic Sensor in Birds](https://soylentnews.org/article.pl?sid=24/04/30/1430210&from=rss)
 * [2024-05-02, 06:36:00](https://soylentnews.org/article.pl?sid=24/04/30/1347229&from=rss) - [Google Lays Off Staff From Flutter, Dart and Python Teams Weeks Before its Developer Conference](https://soylentnews.org/article.pl?sid=24/04/30/1347229&from=rss)
 * [2024-05-02, 01:48:00](https://soylentnews.org/article.pl?sid=24/04/30/1343236&from=rss) - [First US Nuclear Power Plant in Over 30 Years Goes Fully on Line](https://soylentnews.org/article.pl?sid=24/04/30/1343236&from=rss)
-* [2024-05-01, 21:07:00](https://soylentnews.org/article.pl?sid=24/04/30/1333234&from=rss) - [Reverse-Engineering and “Running Windows 95” on a Disposable Vape](https://soylentnews.org/article.pl?sid=24/04/30/1333234&from=rss)
 
 ## [Archives](archives/index.md)
 
