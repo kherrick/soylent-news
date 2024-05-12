@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-12, 18:49:00](https://soylentnews.org/article.pl?sid=24/05/11/0350253&from=rss) - [More Boeing Woes](https://soylentnews.org/article.pl?sid=24/05/11/0350253&from=rss)
 * [2024-05-12, 14:01:00](https://soylentnews.org/article.pl?sid=24/05/11/0342245&from=rss) - [Why Do Most Mammals Have 5 Fingers?](https://soylentnews.org/article.pl?sid=24/05/11/0342245&from=rss)
 * [2024-05-12, 10:17:00](https://soylentnews.org/article.pl?sid=24/05/11/0340237&from=rss) - [LPCAMM2 Is Finally Here, and It’s a Big Deal](https://soylentnews.org/article.pl?sid=24/05/11/0340237&from=rss)
 * [2024-05-12, 05:34:00](https://soylentnews.org/article.pl?sid=24/05/11/0336205&from=rss) - [Fall Into a Black Hole in Mind-Bending NASA Animation (Video)](https://soylentnews.org/article.pl?sid=24/05/11/0336205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-03, 20:43:00](https://soylentnews.org/article.pl?sid=24/05/02/1545218&from=rss) - [Almost 100%-Recyclable Circuit Board Turns to Jelly for Disassembly](https://soylentnews.org/article.pl?sid=24/05/02/1545218&from=rss)
 * [2024-05-03, 15:57:00](https://soylentnews.org/article.pl?sid=24/05/02/1540211&from=rss) - [Email Microsoft Didn't Want Seen Reveals Rushed Decision to Invest in OpenAI](https://soylentnews.org/article.pl?sid=24/05/02/1540211&from=rss)
 * [2024-05-03, 11:12:00](https://soylentnews.org/article.pl?sid=24/05/02/1244249&from=rss) - [Prehistoric Irish Monuments May Have Been Pathways for the Dead](https://soylentnews.org/article.pl?sid=24/05/02/1244249&from=rss)
-* [2024-05-03, 06:25:00](https://soylentnews.org/article.pl?sid=24/05/02/1235254&from=rss) - [Chinese New Moon Atlas is the Most Detailed So Far](https://soylentnews.org/article.pl?sid=24/05/02/1235254&from=rss)
 
 ## [Archives](archives/index.md)
 
