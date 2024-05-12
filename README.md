@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-12, 10:17:00](https://soylentnews.org/article.pl?sid=24/05/11/0340237&from=rss) - [LPCAMM2 Is Finally Here, and It’s a Big Deal](https://soylentnews.org/article.pl?sid=24/05/11/0340237&from=rss)
 * [2024-05-12, 05:34:00](https://soylentnews.org/article.pl?sid=24/05/11/0336205&from=rss) - [Fall Into a Black Hole in Mind-Bending NASA Animation (Video)](https://soylentnews.org/article.pl?sid=24/05/11/0336205&from=rss)
 * [2024-05-12, 00:48:00](https://soylentnews.org/article.pl?sid=24/05/11/0330234&from=rss) - [Pokémon Go Players Are Altering Public Map Data to Catch Rare Pokémon](https://soylentnews.org/article.pl?sid=24/05/11/0330234&from=rss)
 * [2024-05-11, 20:03:00](https://soylentnews.org/article.pl?sid=24/05/11/0121244&from=rss) - [U.S. National Science Foundation Suspends UTEP's Aerospace Grant](https://soylentnews.org/article.pl?sid=24/05/11/0121244&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-03, 11:12:00](https://soylentnews.org/article.pl?sid=24/05/02/1244249&from=rss) - [Prehistoric Irish Monuments May Have Been Pathways for the Dead](https://soylentnews.org/article.pl?sid=24/05/02/1244249&from=rss)
 * [2024-05-03, 06:25:00](https://soylentnews.org/article.pl?sid=24/05/02/1235254&from=rss) - [Chinese New Moon Atlas is the Most Detailed So Far](https://soylentnews.org/article.pl?sid=24/05/02/1235254&from=rss)
 * [2024-05-03, 01:40:00](https://soylentnews.org/article.pl?sid=24/05/01/032221&from=rss) - [Could Regenerative Braking be a Hazard to Riders?](https://soylentnews.org/article.pl?sid=24/05/01/032221&from=rss)
-* [2024-05-02, 20:52:00](https://soylentnews.org/article.pl?sid=24/05/01/0244215&from=rss) - [Coca-Cola is Largest Known Contributor of Branded Plastic Waste](https://soylentnews.org/article.pl?sid=24/05/01/0244215&from=rss)
 
 ## [Archives](archives/index.md)
 
