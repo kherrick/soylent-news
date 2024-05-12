@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 23:35:00](https://soylentnews.org/article.pl?sid=24/05/11/0357218&from=rss) - [Nokia 3210 Phone Relaunched for 25th Anniversary](https://soylentnews.org/article.pl?sid=24/05/11/0357218&from=rss)
 * [2024-05-12, 18:49:00](https://soylentnews.org/article.pl?sid=24/05/11/0350253&from=rss) - [More Boeing Woes](https://soylentnews.org/article.pl?sid=24/05/11/0350253&from=rss)
 * [2024-05-12, 14:01:00](https://soylentnews.org/article.pl?sid=24/05/11/0342245&from=rss) - [Why Do Most Mammals Have 5 Fingers?](https://soylentnews.org/article.pl?sid=24/05/11/0342245&from=rss)
 * [2024-05-12, 10:17:00](https://soylentnews.org/article.pl?sid=24/05/11/0340237&from=rss) - [LPCAMM2 Is Finally Here, and It’s a Big Deal](https://soylentnews.org/article.pl?sid=24/05/11/0340237&from=rss)
