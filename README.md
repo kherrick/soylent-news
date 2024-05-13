@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-13, 04:19:00](https://soylentnews.org/article.pl?sid=24/05/11/0415252&from=rss) - [Exploring the Mysterious Alphabet of Sperm Whales](https://soylentnews.org/article.pl?sid=24/05/11/0415252&from=rss)
 * [2024-05-12, 23:35:00](https://soylentnews.org/article.pl?sid=24/05/11/0357218&from=rss) - [Nokia 3210 Phone Relaunched for 25th Anniversary](https://soylentnews.org/article.pl?sid=24/05/11/0357218&from=rss)
 * [2024-05-12, 18:49:00](https://soylentnews.org/article.pl?sid=24/05/11/0350253&from=rss) - [More Boeing Woes](https://soylentnews.org/article.pl?sid=24/05/11/0350253&from=rss)
 * [2024-05-12, 14:01:00](https://soylentnews.org/article.pl?sid=24/05/11/0342245&from=rss) - [Why Do Most Mammals Have 5 Fingers?](https://soylentnews.org/article.pl?sid=24/05/11/0342245&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-04, 06:13:00](https://soylentnews.org/article.pl?sid=24/05/03/0054214&from=rss) - [“Forgotten” Poem by C.S. Lewis Published for the First Time](https://soylentnews.org/article.pl?sid=24/05/03/0054214&from=rss)
 * [2024-05-04, 01:28:00](https://soylentnews.org/article.pl?sid=24/05/02/1550259&from=rss) - [AI Hallucinating Code Outputs Garbage....](https://soylentnews.org/article.pl?sid=24/05/02/1550259&from=rss)
 * [2024-05-03, 20:43:00](https://soylentnews.org/article.pl?sid=24/05/02/1545218&from=rss) - [Almost 100%-Recyclable Circuit Board Turns to Jelly for Disassembly](https://soylentnews.org/article.pl?sid=24/05/02/1545218&from=rss)
-* [2024-05-03, 15:57:00](https://soylentnews.org/article.pl?sid=24/05/02/1540211&from=rss) - [Email Microsoft Didn't Want Seen Reveals Rushed Decision to Invest in OpenAI](https://soylentnews.org/article.pl?sid=24/05/02/1540211&from=rss)
 
 ## [Archives](archives/index.md)
 
