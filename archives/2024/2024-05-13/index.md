@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 09:08:00](https://soylentnews.org/article.pl?sid=24/05/12/1356217&from=rss) - [First Person to Receive a Genetically Modified Pig Kidney Transplant Dies Nearly 2 Months Later](https://soylentnews.org/article.pl?sid=24/05/12/1356217&from=rss)
 * [2024-05-13, 04:19:00](https://soylentnews.org/article.pl?sid=24/05/11/0415252&from=rss) - [Exploring the Mysterious Alphabet of Sperm Whales](https://soylentnews.org/article.pl?sid=24/05/11/0415252&from=rss)
