@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-14, 18:24:00](https://soylentnews.org/article.pl?sid=24/05/14/0315250&from=rss) - [Musk's Neuralink Weighed Removing Patient's Brain-Chip Implant](https://soylentnews.org/article.pl?sid=24/05/14/0315250&from=rss)
 * [2024-05-14, 13:38:00](https://soylentnews.org/article.pl?sid=24/05/12/213241&from=rss) - [Hackers Discover How to Reprogram NES Tetris From Within the Game](https://soylentnews.org/article.pl?sid=24/05/12/213241&from=rss)
 * [2024-05-14, 08:55:00](https://soylentnews.org/article.pl?sid=24/05/12/2046242&from=rss) - [AR Glasses As Thin And Light As, Well, Glasses](https://soylentnews.org/article.pl?sid=24/05/12/2046242&from=rss)
 * [2024-05-14, 04:12:00](https://soylentnews.org/article.pl?sid=24/05/12/2043228&from=rss) - [A Crushing Backlash to Apple's New iPad Ad](https://soylentnews.org/article.pl?sid=24/05/12/2043228&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-05, 20:10:00](https://soylentnews.org/article.pl?sid=24/05/04/1822254&from=rss) - [G7 Freshens Air, But Maybe Not For All](https://soylentnews.org/article.pl?sid=24/05/04/1822254&from=rss)
 * [2024-05-05, 15:27:00](https://soylentnews.org/article.pl?sid=24/05/04/188243&from=rss) - [AI Miscellany](https://soylentnews.org/article.pl?sid=24/05/04/188243&from=rss)
 * [2024-05-05, 10:47:00](https://soylentnews.org/article.pl?sid=24/05/04/1816214&from=rss) - [Ancient DNA Reveals People Caught Leprosy From Adorable Woodland Critters in Medieval England](https://soylentnews.org/article.pl?sid=24/05/04/1816214&from=rss)
-* [2024-05-05, 05:54:00](https://soylentnews.org/article.pl?sid=24/05/04/180227&from=rss) - [Rare Interviews With Enigma Cryptanalyst Marian Rejewski](https://soylentnews.org/article.pl?sid=24/05/04/180227&from=rss)
 
 ## [Archives](archives/index.md)
 
