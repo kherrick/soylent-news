@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-15, 22:58:00](https://soylentnews.org/article.pl?sid=24/05/14/1539224&from=rss) - [What It Means to Own Movies and TV in the Age of Streaming Services](https://soylentnews.org/article.pl?sid=24/05/14/1539224&from=rss)
 * [2024-05-15, 18:07:00](https://soylentnews.org/article.pl?sid=24/05/14/1447255&from=rss) - [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://soylentnews.org/article.pl?sid=24/05/14/1447255&from=rss)
 * [2024-05-15, 13:20:00](https://soylentnews.org/article.pl?sid=24/05/14/045244&from=rss) - [Big Three Carriers Pay $10M to Settle Claims of False “Unlimited” Advertising](https://soylentnews.org/article.pl?sid=24/05/14/045244&from=rss)
 * [2024-05-15, 08:35:00](https://soylentnews.org/article.pl?sid=24/05/14/042210&from=rss) - [Everest Guide Scales Peak for 29th Time](https://soylentnews.org/article.pl?sid=24/05/14/042210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-07, 00:23:00](https://soylentnews.org/article.pl?sid=24/05/06/1445213&from=rss) - [Combining Radio and Visual Tracking of Motorized Road Vehicles](https://soylentnews.org/article.pl?sid=24/05/06/1445213&from=rss)
 * [2024-05-06, 19:37:00](https://soylentnews.org/article.pl?sid=24/05/06/1438233&from=rss) - [Court Supports NY State’s Quest to Require $15 Broadband for Poor People](https://soylentnews.org/article.pl?sid=24/05/06/1438233&from=rss)
 * [2024-05-06, 14:55:00](https://soylentnews.org/article.pl?sid=24/05/05/0255223&from=rss) - [Astronauts Could Run Round ‘Wall of Death’ to Keep Fit on Moon](https://soylentnews.org/article.pl?sid=24/05/05/0255223&from=rss)
-* [2024-05-06, 10:10:00](https://soylentnews.org/article.pl?sid=24/05/05/0251244&from=rss) - [Research Shows Baby Bird Development Harmed by Sound of Cars](https://soylentnews.org/article.pl?sid=24/05/05/0251244&from=rss)
 
 ## [Archives](archives/index.md)
 
