@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-15, 03:50:00](https://soylentnews.org/article.pl?sid=24/05/14/0347214&from=rss) - [LLMs’ Data-Control Path Insecurity](https://soylentnews.org/article.pl?sid=24/05/14/0347214&from=rss)
 * [2024-05-14, 23:05:00](https://soylentnews.org/article.pl?sid=24/05/14/0343226&from=rss) - [The Best Versions of Ourselves](https://soylentnews.org/article.pl?sid=24/05/14/0343226&from=rss)
 * [2024-05-14, 18:24:00](https://soylentnews.org/article.pl?sid=24/05/14/0315250&from=rss) - [Musk's Neuralink Weighed Removing Patient's Brain-Chip Implant](https://soylentnews.org/article.pl?sid=24/05/14/0315250&from=rss)
 * [2024-05-14, 13:38:00](https://soylentnews.org/article.pl?sid=24/05/12/213241&from=rss) - [Hackers Discover How to Reprogram NES Tetris From Within the Game](https://soylentnews.org/article.pl?sid=24/05/12/213241&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-06, 05:44:00](https://soylentnews.org/article.pl?sid=24/05/05/0246225&from=rss) - [Microsoft Ties Executive Pay to Security Following Multiple Failures and Breaches](https://soylentnews.org/article.pl?sid=24/05/05/0246225&from=rss)
 * [2024-05-06, 00:56:00](https://soylentnews.org/article.pl?sid=24/05/04/1818244&from=rss) - [Physicists Overcome Two Key Operating Hurdles in Fusion Reactions](https://soylentnews.org/article.pl?sid=24/05/04/1818244&from=rss)
 * [2024-05-05, 20:10:00](https://soylentnews.org/article.pl?sid=24/05/04/1822254&from=rss) - [G7 Freshens Air, But Maybe Not For All](https://soylentnews.org/article.pl?sid=24/05/04/1822254&from=rss)
-* [2024-05-05, 15:27:00](https://soylentnews.org/article.pl?sid=24/05/04/188243&from=rss) - [AI Miscellany](https://soylentnews.org/article.pl?sid=24/05/04/188243&from=rss)
 
 ## [Archives](archives/index.md)
 
