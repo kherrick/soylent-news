@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-16, 22:54:00](https://soylentnews.org/article.pl?sid=24/05/16/1135204&from=rss) - [AMD Launches Ryzen 7 8700F And Ryzen 5 8400F \"Hawk Point\" CPU - no IGPUs](https://soylentnews.org/article.pl?sid=24/05/16/1135204&from=rss)
 * [2024-05-16, 18:07:00](https://soylentnews.org/article.pl?sid=24/05/15/1853237&from=rss) - [Building a Database of Negro League Baseball Statistics](https://soylentnews.org/article.pl?sid=24/05/15/1853237&from=rss)
 * [2024-05-16, 13:19:00](https://soylentnews.org/article.pl?sid=24/05/15/1850228&from=rss) - [Chief Scientist Ilya Sutskever Leaves OpenAI Six Months After Altman Ouster](https://soylentnews.org/article.pl?sid=24/05/15/1850228&from=rss)
 * [2024-05-16, 08:32:00](https://soylentnews.org/article.pl?sid=24/05/14/161246&from=rss) - [The Real ID Deadline Will Never Arrive](https://soylentnews.org/article.pl?sid=24/05/14/161246&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-07, 19:39:00](https://soylentnews.org/article.pl?sid=24/05/07/138247&from=rss) - [Axon Wants its Body Cameras to Start Writing Officers’ Reports for Them](https://soylentnews.org/article.pl?sid=24/05/07/138247&from=rss)
 * [2024-05-07, 14:54:00](https://soylentnews.org/article.pl?sid=24/05/06/1730206&from=rss) - [Lego-Pushing Bumblebees Reveal Insect Collaboration Dynamics](https://soylentnews.org/article.pl?sid=24/05/06/1730206&from=rss)
 * [2024-05-07, 09:54:00](https://soylentnews.org/article.pl?sid=24/05/06/1455210&from=rss) - [China Launches Mission to Far Side of the Moon as US Claims a New Space Race Has Begun](https://soylentnews.org/article.pl?sid=24/05/06/1455210&from=rss)
-* [2024-05-07, 07:31:00](https://soylentnews.org/meta/article.pl?sid=24/05/07/0725200&from=rss) - [Audioguy is Forced to Step Down](https://soylentnews.org/meta/article.pl?sid=24/05/07/0725200&from=rss)
 
 ## [Archives](archives/index.md)
 
