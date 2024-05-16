@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-16, 08:32:00](https://soylentnews.org/article.pl?sid=24/05/14/161246&from=rss) - [The Real ID Deadline Will Never Arrive](https://soylentnews.org/article.pl?sid=24/05/14/161246&from=rss)
 * [2024-05-16, 03:47:00](https://soylentnews.org/article.pl?sid=24/05/14/1558232&from=rss) - [Truman and the Bomb](https://soylentnews.org/article.pl?sid=24/05/14/1558232&from=rss)
 * [2024-05-15, 22:58:00](https://soylentnews.org/article.pl?sid=24/05/14/1539224&from=rss) - [What It Means to Own Movies and TV in the Age of Streaming Services](https://soylentnews.org/article.pl?sid=24/05/14/1539224&from=rss)
 * [2024-05-15, 18:07:00](https://soylentnews.org/article.pl?sid=24/05/14/1447255&from=rss) - [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://soylentnews.org/article.pl?sid=24/05/14/1447255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-07, 07:31:00](https://soylentnews.org/meta/article.pl?sid=24/05/07/0725200&from=rss) - [Audioguy is Forced to Step Down](https://soylentnews.org/meta/article.pl?sid=24/05/07/0725200&from=rss)
 * [2024-05-07, 05:08:00](https://soylentnews.org/article.pl?sid=24/05/06/1450225&from=rss) - [Tech CEO Gets 6 Years for Selling Fake Cisco Gear on Amazon, eBay](https://soylentnews.org/article.pl?sid=24/05/06/1450225&from=rss)
 * [2024-05-07, 00:23:00](https://soylentnews.org/article.pl?sid=24/05/06/1445213&from=rss) - [Combining Radio and Visual Tracking of Motorized Road Vehicles](https://soylentnews.org/article.pl?sid=24/05/06/1445213&from=rss)
-* [2024-05-06, 19:37:00](https://soylentnews.org/article.pl?sid=24/05/06/1438233&from=rss) - [Court Supports NY State’s Quest to Require $15 Broadband for Poor People](https://soylentnews.org/article.pl?sid=24/05/06/1438233&from=rss)
 
 ## [Archives](archives/index.md)
 
