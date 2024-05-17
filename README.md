@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-17, 17:52:00](https://soylentnews.org/article.pl?sid=24/05/16/124226&from=rss) - [Homeowner's Insurance Meets Climate Change](https://soylentnews.org/article.pl?sid=24/05/16/124226&from=rss)
 * [2024-05-17, 13:06:00](https://soylentnews.org/article.pl?sid=24/05/16/1147232&from=rss) - [Cable TV Providers Ruined Cable—Now They're Coming for Streaming](https://soylentnews.org/article.pl?sid=24/05/16/1147232&from=rss)
 * [2024-05-17, 08:22:00](https://soylentnews.org/article.pl?sid=24/05/16/1143218&from=rss) - [Raspberry Pi Announces 'Expected Intention To Float' On London Stock Exchange](https://soylentnews.org/article.pl?sid=24/05/16/1143218&from=rss)
 * [2024-05-17, 03:35:00](https://soylentnews.org/article.pl?sid=24/05/16/0119203&from=rss) - [Sir, There's a Cat in Your Mirror Dimension](https://soylentnews.org/article.pl?sid=24/05/16/0119203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-08, 14:36:00](https://soylentnews.org/article.pl?sid=24/05/07/1439251&from=rss) - [New Fusion Record Achieved in Tungsten-Encased Reactor](https://soylentnews.org/article.pl?sid=24/05/07/1439251&from=rss)
 * [2024-05-08, 09:55:00](https://soylentnews.org/article.pl?sid=24/05/07/1318206&from=rss) - [Maximum-severity GitLab Flaw Allowing Account Hijacking Under Active Exploitation](https://soylentnews.org/article.pl?sid=24/05/07/1318206&from=rss)
 * [2024-05-08, 05:13:00](https://soylentnews.org/article.pl?sid=24/05/07/1313255&from=rss) - [SpaceX Falcon 9 Rocket Launches 2 Satellites on Record-tying 20th Flight (Video)](https://soylentnews.org/article.pl?sid=24/05/07/1313255&from=rss)
-* [2024-05-08, 00:24:00](https://soylentnews.org/article.pl?sid=24/05/07/1310235&from=rss) - [Talking to Memory: Inside the Intel 8088 Processor's Bus Interface State Machine](https://soylentnews.org/article.pl?sid=24/05/07/1310235&from=rss)
 
 ## [Archives](archives/index.md)
 
