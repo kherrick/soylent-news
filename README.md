@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-17, 08:22:00](https://soylentnews.org/article.pl?sid=24/05/16/1143218&from=rss) - [Raspberry Pi Announces 'Expected Intention To Float' On London Stock Exchange](https://soylentnews.org/article.pl?sid=24/05/16/1143218&from=rss)
 * [2024-05-17, 03:35:00](https://soylentnews.org/article.pl?sid=24/05/16/0119203&from=rss) - [Sir, There's a Cat in Your Mirror Dimension](https://soylentnews.org/article.pl?sid=24/05/16/0119203&from=rss)
 * [2024-05-16, 22:54:00](https://soylentnews.org/article.pl?sid=24/05/16/1135204&from=rss) - [AMD Launches Ryzen 7 8700F And Ryzen 5 8400F \"Hawk Point\" CPU - no IGPUs](https://soylentnews.org/article.pl?sid=24/05/16/1135204&from=rss)
 * [2024-05-16, 18:07:00](https://soylentnews.org/article.pl?sid=24/05/15/1853237&from=rss) - [Building a Database of Negro League Baseball Statistics](https://soylentnews.org/article.pl?sid=24/05/15/1853237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-08, 05:13:00](https://soylentnews.org/article.pl?sid=24/05/07/1313255&from=rss) - [SpaceX Falcon 9 Rocket Launches 2 Satellites on Record-tying 20th Flight (Video)](https://soylentnews.org/article.pl?sid=24/05/07/1313255&from=rss)
 * [2024-05-08, 00:24:00](https://soylentnews.org/article.pl?sid=24/05/07/1310235&from=rss) - [Talking to Memory: Inside the Intel 8088 Processor's Bus Interface State Machine](https://soylentnews.org/article.pl?sid=24/05/07/1310235&from=rss)
 * [2024-05-07, 19:39:00](https://soylentnews.org/article.pl?sid=24/05/07/138247&from=rss) - [Axon Wants its Body Cameras to Start Writing Officers’ Reports for Them](https://soylentnews.org/article.pl?sid=24/05/07/138247&from=rss)
-* [2024-05-07, 14:54:00](https://soylentnews.org/article.pl?sid=24/05/06/1730206&from=rss) - [Lego-Pushing Bumblebees Reveal Insect Collaboration Dynamics](https://soylentnews.org/article.pl?sid=24/05/06/1730206&from=rss)
 
 ## [Archives](archives/index.md)
 
