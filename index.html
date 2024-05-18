@@ -145,6 +145,72 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/05/17/034234">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/05/17/034234&amp;from=rss"
+              >Silicon Reverse Engineering: The 8085'S Undocumented Flags</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-18 @ 17:33:00</span
+              ><span class="points-container"
+                >Points: <span class="points">2</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/05/17/034234"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~owl/">owl</a> writes:</p>
+              <p>
+                <a
+                  href="https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html"
+                  >https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html</a
+                >
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    The 8085 microprocessor has two undocumented status flags: V
+                    and K. These flags can be reverse-engineered by looking at
+                    the silicon of the chip, and their function turns out to be
+                    different from previous explanations. In addition, the
+                    implementation of these flags shows that they were
+                    deliberately implemented, which raises the question of why
+                    there [sic] were not documented or supported by Intel.
+                    Finally, examining how these flag circuits were implemented
+                    in silicon provides an interesting look at how
+                    microprocessors are physically implemented.
+                  </p>
+                  <p>
+                    Like most microprocessors, the 8085 has a flag register that
+                    holds status information on the results of an operation. The
+                    flag register is 8 bits: bit 0 holds the carry flag, bit 2
+                    holds the parity, bit 3 is always 0, bit 4 holds the
+                    half-carry, bit 6 holds the zero status, and bit 7 holds the
+                    sign. But what about the missing bits: 1 and 5?
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62819"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/05/17/032257">
           <h3>
             <a
@@ -1127,7 +1193,7 @@
             <h4>
               <span>2024-05-16 @ 08:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">2084</span></span
+                >Points: <span class="points">2090</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/14/161246"
@@ -4702,114 +4768,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62717"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/05/08/0357210">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/05/08/0357210&amp;from=rss"
-              >Novel Attack Against Virtually All VPN Apps Neuters Their Entire
-              Purpose</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-09 @ 04:56:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2903</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/05/08/0357210"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~fliptop/">fliptop</a> writes:</p>
-              <p>
-                The TunnelVision vulnerability has existed since 2002 and
-                <a
-                  href="https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/"
-                  >may already be known to attackers</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Researchers have devised an attack against nearly all
-                    virtual private network applications that forces them to
-                    send and receive some or all traffic outside of the
-                    encrypted tunnel designed to protect it from snooping or
-                    tampering.
-                  </p>
-                  <p>
-                    TunnelVision, as the researchers have named their attack,
-                    largely negates the entire purpose and selling point of
-                    VPNs, which is to encapsulate incoming and outgoing Internet
-                    traffic in an encrypted tunnel and to cloak the user's IP
-                    address. The researchers believe it affects all VPN
-                    applications when they're connected to a hostile network and
-                    that there are no ways to prevent such attacks except when
-                    the user's VPN runs on Linux or Android. They also said
-                    their attack technique may have been possible since 2002 and
-                    may already have been discovered and used in the wild since
-                    then.
-                  </p>
-                  <p>
-                    The effect of TunnelVision is "the victim's traffic is now
-                    decloaked and being routed through the attacker directly," a
-                    <a href="https://www.youtube.com/watch?v=ajsLmZia6UU"
-                      >video demonstration</a
-                    >
-                    explained. "The attacker can read, drop or modify the leaked
-                    traffic and the victim maintains their connection to both
-                    the VPN and the Internet."
-                  </p>
-                  <p>
-                    The attack works by manipulating the
-                    <a
-                      href="https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol"
-                      >DHCP server</a
-                    >
-                    that allocates IP addresses to devices trying to connect to
-                    the local network. A setting known as
-                    <a href="https://datatracker.ietf.org/doc/html/rfc3442"
-                      >option 121</a
-                    >
-                    allows the DHCP server to override default routing rules
-                    that send VPN traffic through a local IP address that
-                    initiates the encrypted tunnel. By using option 121 to route
-                    VPN traffic through the DHCP server, the attack diverts the
-                    data to the DHCP server itself.
-                  </p>
-                  <p>
-                    [...] Interestingly, Android is the only operating system
-                    that fully immunizes VPN apps from the attack because it
-                    doesn't implement option 121. For all other OSes, there are
-                    no complete fixes.
-                  </p>
-                </div>
-              </blockquote>
-              <p>
-                Originally spotted on
-                <a
-                  href="https://www.schneier.com/blog/archives/2024/05/new-attack-on-vpns.html"
-                  >Schneier on Security</a
-                >.
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62766"
                     >Original Submission</a
                   ></small
                 >
