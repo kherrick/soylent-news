@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-18, 05:18:00](https://soylentnews.org/article.pl?sid=24/05/17/1958253&from=rss) - [\"The Morning After\": Grand Theft Auto 6 Is Coming Fall 2025](https://soylentnews.org/article.pl?sid=24/05/17/1958253&from=rss)
 * [2024-05-18, 03:17:00](https://soylentnews.org/article.pl?sid=24/05/17/0228217&from=rss) - [Feds Probe Waymo Driverless Cars Hitting Parked Cars, Drifting Into Traffic](https://soylentnews.org/article.pl?sid=24/05/17/0228217&from=rss)
 * [2024-05-17, 22:32:00](https://soylentnews.org/article.pl?sid=24/05/16/1310212&from=rss) - [Woman Was Living Inside Rooftop Grocery Store Sign With Computer and Coffee Maker for a Year](https://soylentnews.org/article.pl?sid=24/05/16/1310212&from=rss)
 * [2024-05-17, 17:52:00](https://soylentnews.org/article.pl?sid=24/05/16/124226&from=rss) - [Homeowner's Insurance Meets Climate Change](https://soylentnews.org/article.pl?sid=24/05/16/124226&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-09, 04:56:00](https://soylentnews.org/article.pl?sid=24/05/08/0357210&from=rss) - [Novel Attack Against Virtually All VPN Apps Neuters Their Entire Purpose](https://soylentnews.org/article.pl?sid=24/05/08/0357210&from=rss)
 * [2024-05-09, 00:09:00](https://soylentnews.org/article.pl?sid=24/05/08/0349249&from=rss) - [New Findings Point to an Earth-Like Environment on Ancient Mars](https://soylentnews.org/article.pl?sid=24/05/08/0349249&from=rss)
 * [2024-05-08, 19:21:00](https://soylentnews.org/article.pl?sid=24/05/07/1444206&from=rss) - [Australian Engineers Develop an Ultrasonic Cold Brew Coffee Machine](https://soylentnews.org/article.pl?sid=24/05/07/1444206&from=rss)
-* [2024-05-08, 14:36:00](https://soylentnews.org/article.pl?sid=24/05/07/1439251&from=rss) - [New Fusion Record Achieved in Tungsten-Encased Reactor](https://soylentnews.org/article.pl?sid=24/05/07/1439251&from=rss)
 
 ## [Archives](archives/index.md)
 
