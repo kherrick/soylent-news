@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-21, 16:02:00](https://soylentnews.org/article.pl?sid=24/05/21/029202&from=rss) - [Science is Making Anti-Aging Progress. but Do We Want to Live Forever?](https://soylentnews.org/article.pl?sid=24/05/21/029202&from=rss)
 * [2024-05-21, 11:15:00](https://soylentnews.org/article.pl?sid=24/05/21/0157214&from=rss) - [DoJ Says Boeing Faces Criminal Charge for Violating Deal Over 737 Max Crashes](https://soylentnews.org/article.pl?sid=24/05/21/0157214&from=rss)
 * [2024-05-21, 06:27:00](https://soylentnews.org/article.pl?sid=24/05/21/0148235&from=rss) - [Connected Cars’ Illegal Data Collection and Use Now on FTC's “Radar”](https://soylentnews.org/article.pl?sid=24/05/21/0148235&from=rss)
 * [2024-05-21, 01:45:00](https://soylentnews.org/article.pl?sid=24/05/21/0143212&from=rss) - [Europe Is Uncertain Whether Its Ambitious Mercury Probe Can Reach The Planet ](https://soylentnews.org/article.pl?sid=24/05/21/0143212&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-11, 15:13:00](https://soylentnews.org/article.pl?sid=24/05/11/0113245&from=rss) - [Major Media Outlets Partnered With AI Company Are Filling Google With AI-Generated Trash](https://soylentnews.org/article.pl?sid=24/05/11/0113245&from=rss)
 * [2024-05-11, 10:29:00](https://soylentnews.org/article.pl?sid=24/05/10/1751211&from=rss) - [Robot Dogs Armed With AI-Targeting Rifles Undergo US Marines Special Ops Evaluation](https://soylentnews.org/article.pl?sid=24/05/10/1751211&from=rss)
 * [2024-05-11, 05:48:00](https://soylentnews.org/article.pl?sid=24/05/10/1740200&from=rss) - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://soylentnews.org/article.pl?sid=24/05/10/1740200&from=rss)
-* [2024-05-11, 01:02:00](https://soylentnews.org/article.pl?sid=24/05/10/1735220&from=rss) - [Old Supercomputer Sold for $480k+](https://soylentnews.org/article.pl?sid=24/05/10/1735220&from=rss)
 
 ## [Archives](archives/index.md)
 
