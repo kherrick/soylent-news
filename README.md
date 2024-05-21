@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-21, 06:27:00](https://soylentnews.org/article.pl?sid=24/05/21/0148235&from=rss) - [Connected Cars’ Illegal Data Collection and Use Now on FTC's “Radar”](https://soylentnews.org/article.pl?sid=24/05/21/0148235&from=rss)
 * [2024-05-21, 01:45:00](https://soylentnews.org/article.pl?sid=24/05/21/0143212&from=rss) - [Europe Is Uncertain Whether Its Ambitious Mercury Probe Can Reach The Planet ](https://soylentnews.org/article.pl?sid=24/05/21/0143212&from=rss)
 * [2024-05-19, 22:36:00](https://soylentnews.org/article.pl?sid=24/05/17/139259&from=rss) - [Exxon Mobil is Suing its Shareholders to Silence Them About Global Warming](https://soylentnews.org/article.pl?sid=24/05/17/139259&from=rss)
 * [2024-05-19, 17:51:00](https://soylentnews.org/article.pl?sid=24/05/17/1243226&from=rss) - [Possible Evidence of \"Glueballs\" Found During Beijing Spectrometer III Experiments](https://soylentnews.org/article.pl?sid=24/05/17/1243226&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-11, 05:48:00](https://soylentnews.org/article.pl?sid=24/05/10/1740200&from=rss) - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://soylentnews.org/article.pl?sid=24/05/10/1740200&from=rss)
 * [2024-05-11, 01:02:00](https://soylentnews.org/article.pl?sid=24/05/10/1735220&from=rss) - [Old Supercomputer Sold for $480k+](https://soylentnews.org/article.pl?sid=24/05/10/1735220&from=rss)
 * [2024-05-10, 20:43:00](https://soylentnews.org/article.pl?sid=24/05/09/1514202&from=rss) - [Gene Therapy Restored Hearing in Deaf Child](https://soylentnews.org/article.pl?sid=24/05/09/1514202&from=rss)
-* [2024-05-10, 15:58:00](https://soylentnews.org/article.pl?sid=24/05/09/159216&from=rss) - [Chinese Network Behind One of World’s ‘Largest Online Scams’](https://soylentnews.org/article.pl?sid=24/05/09/159216&from=rss)
 
 ## [Archives](archives/index.md)
 
