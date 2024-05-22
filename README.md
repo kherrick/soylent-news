@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-22, 17:52:00](https://soylentnews.org/article.pl?sid=24/05/21/085229&from=rss) - [Boeing Flying Cars By 2030](https://soylentnews.org/article.pl?sid=24/05/21/085229&from=rss)
 * [2024-05-22, 13:01:00](https://soylentnews.org/article.pl?sid=24/05/21/0759217&from=rss) - [“Unprecedented” Google Cloud Event Wipes Out Customer Account and its Backups](https://soylentnews.org/article.pl?sid=24/05/21/0759217&from=rss)
 * [2024-05-22, 06:13:00](https://soylentnews.org/article.pl?sid=24/05/21/0753248&from=rss) - [Library Reading Habits Reflected in Mobile Ads](https://soylentnews.org/article.pl?sid=24/05/21/0753248&from=rss)
 * [2024-05-22, 01:32:00](https://soylentnews.org/article.pl?sid=24/05/21/0228214&from=rss) - [The Sneaky Standard: How Intel Undercut a Standards Body to Give Us the PCI Connector](https://soylentnews.org/article.pl?sid=24/05/21/0228214&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-12, 14:01:00](https://soylentnews.org/article.pl?sid=24/05/11/0342245&from=rss) - [Why Do Most Mammals Have 5 Fingers?](https://soylentnews.org/article.pl?sid=24/05/11/0342245&from=rss)
 * [2024-05-12, 10:17:00](https://soylentnews.org/article.pl?sid=24/05/11/0340237&from=rss) - [LPCAMM2 Is Finally Here, and It’s a Big Deal](https://soylentnews.org/article.pl?sid=24/05/11/0340237&from=rss)
 * [2024-05-12, 05:34:00](https://soylentnews.org/article.pl?sid=24/05/11/0336205&from=rss) - [Fall Into a Black Hole in Mind-Bending NASA Animation (Video)](https://soylentnews.org/article.pl?sid=24/05/11/0336205&from=rss)
-* [2024-05-12, 00:48:00](https://soylentnews.org/article.pl?sid=24/05/11/0330234&from=rss) - [Pokémon Go Players Are Altering Public Map Data to Catch Rare Pokémon](https://soylentnews.org/article.pl?sid=24/05/11/0330234&from=rss)
 
 ## [Archives](archives/index.md)
 
