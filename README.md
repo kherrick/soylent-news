@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-22, 06:13:00](https://soylentnews.org/article.pl?sid=24/05/21/0753248&from=rss) - [Library Reading Habits Reflected in Mobile Ads](https://soylentnews.org/article.pl?sid=24/05/21/0753248&from=rss)
 * [2024-05-22, 01:32:00](https://soylentnews.org/article.pl?sid=24/05/21/0228214&from=rss) - [The Sneaky Standard: How Intel Undercut a Standards Body to Give Us the PCI Connector](https://soylentnews.org/article.pl?sid=24/05/21/0228214&from=rss)
 * [2024-05-21, 20:47:00](https://soylentnews.org/article.pl?sid=24/05/21/0222246&from=rss) - [North Korea Laundered $147.5 Million in Stolen Crypto in March, Say UN Experts](https://soylentnews.org/article.pl?sid=24/05/21/0222246&from=rss)
 * [2024-05-21, 16:02:00](https://soylentnews.org/article.pl?sid=24/05/21/029202&from=rss) - [Science is Making Anti-Aging Progress. but Do We Want to Live Forever?](https://soylentnews.org/article.pl?sid=24/05/21/029202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-12, 05:34:00](https://soylentnews.org/article.pl?sid=24/05/11/0336205&from=rss) - [Fall Into a Black Hole in Mind-Bending NASA Animation (Video)](https://soylentnews.org/article.pl?sid=24/05/11/0336205&from=rss)
 * [2024-05-12, 00:48:00](https://soylentnews.org/article.pl?sid=24/05/11/0330234&from=rss) - [Pokémon Go Players Are Altering Public Map Data to Catch Rare Pokémon](https://soylentnews.org/article.pl?sid=24/05/11/0330234&from=rss)
 * [2024-05-11, 20:03:00](https://soylentnews.org/article.pl?sid=24/05/11/0121244&from=rss) - [U.S. National Science Foundation Suspends UTEP's Aerospace Grant](https://soylentnews.org/article.pl?sid=24/05/11/0121244&from=rss)
-* [2024-05-11, 15:13:00](https://soylentnews.org/article.pl?sid=24/05/11/0113245&from=rss) - [Major Media Outlets Partnered With AI Company Are Filling Google With AI-Generated Trash](https://soylentnews.org/article.pl?sid=24/05/11/0113245&from=rss)
 
 ## [Archives](archives/index.md)
 
