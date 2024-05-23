@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-23](index.md)
+
+* [2024-05-23, 03:21:00](https://soylentnews.org/article.pl?sid=24/05/21/1043256&from=rss) - [MIT Students Stole $25M In Seconds By Exploiting ETH Blockchain Bug, DoJ Says ](https://soylentnews.org/article.pl?sid=24/05/21/1043256&from=rss)
