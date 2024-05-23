@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-23, 22:24:00](https://soylentnews.org/article.pl?sid=24/05/23/0140246&from=rss) - [Biden Orders Sale Of Chinese Data Center Built Near Missile Base ](https://soylentnews.org/article.pl?sid=24/05/23/0140246&from=rss)
 * [2024-05-23, 17:39:00](https://soylentnews.org/article.pl?sid=24/05/23/0130247&from=rss) - [Arizona Woman Accused of Helping North Koreans Get Remote IT Jobs at 300 Companies](https://soylentnews.org/article.pl?sid=24/05/23/0130247&from=rss)
 * [2024-05-23, 12:51:00](https://soylentnews.org/article.pl?sid=24/05/23/0127213&from=rss) - [Researchers Make A Surprising Discovery: Magnetism In A Common Material For Microelectronics](https://soylentnews.org/article.pl?sid=24/05/23/0127213&from=rss)
 * [2024-05-23, 08:06:00](https://soylentnews.org/article.pl?sid=24/05/21/1049253&from=rss) - [Decades-Old Programming Languages Fortran And Cobol Are Still Thriving](https://soylentnews.org/article.pl?sid=24/05/21/1049253&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-13, 18:37:00](https://soylentnews.org/article.pl?sid=24/05/12/1411228&from=rss) - [Unmasking of LockBitSupp - Dmitry Khoroshev](https://soylentnews.org/article.pl?sid=24/05/12/1411228&from=rss)
 * [2024-05-13, 13:52:00](https://soylentnews.org/article.pl?sid=24/05/12/143246&from=rss) - [GM's 50 Millionth Car Recreated](https://soylentnews.org/article.pl?sid=24/05/12/143246&from=rss)
 * [2024-05-13, 09:08:00](https://soylentnews.org/article.pl?sid=24/05/12/1356217&from=rss) - [First Person to Receive a Genetically Modified Pig Kidney Transplant Dies Nearly 2 Months Later](https://soylentnews.org/article.pl?sid=24/05/12/1356217&from=rss)
-* [2024-05-13, 04:19:00](https://soylentnews.org/article.pl?sid=24/05/11/0415252&from=rss) - [Exploring the Mysterious Alphabet of Sperm Whales](https://soylentnews.org/article.pl?sid=24/05/11/0415252&from=rss)
 
 ## [Archives](archives/index.md)
 
