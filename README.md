@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-23, 12:51:00](https://soylentnews.org/article.pl?sid=24/05/23/0127213&from=rss) - [Researchers Make A Surprising Discovery: Magnetism In A Common Material For Microelectronics](https://soylentnews.org/article.pl?sid=24/05/23/0127213&from=rss)
 * [2024-05-23, 08:06:00](https://soylentnews.org/article.pl?sid=24/05/21/1049253&from=rss) - [Decades-Old Programming Languages Fortran And Cobol Are Still Thriving](https://soylentnews.org/article.pl?sid=24/05/21/1049253&from=rss)
 * [2024-05-23, 03:21:00](https://soylentnews.org/article.pl?sid=24/05/21/1043256&from=rss) - [MIT Students Stole $25M In Seconds By Exploiting ETH Blockchain Bug, DoJ Says ](https://soylentnews.org/article.pl?sid=24/05/21/1043256&from=rss)
 * [2024-05-22, 22:37:00](https://soylentnews.org/article.pl?sid=24/05/21/0810224&from=rss) - [Assange Wins High Court Bid to Appeal Against Extradition to US Over Spying Charges](https://soylentnews.org/article.pl?sid=24/05/21/0810224&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-13, 09:08:00](https://soylentnews.org/article.pl?sid=24/05/12/1356217&from=rss) - [First Person to Receive a Genetically Modified Pig Kidney Transplant Dies Nearly 2 Months Later](https://soylentnews.org/article.pl?sid=24/05/12/1356217&from=rss)
 * [2024-05-13, 04:19:00](https://soylentnews.org/article.pl?sid=24/05/11/0415252&from=rss) - [Exploring the Mysterious Alphabet of Sperm Whales](https://soylentnews.org/article.pl?sid=24/05/11/0415252&from=rss)
 * [2024-05-12, 23:35:00](https://soylentnews.org/article.pl?sid=24/05/11/0357218&from=rss) - [Nokia 3210 Phone Relaunched for 25th Anniversary](https://soylentnews.org/article.pl?sid=24/05/11/0357218&from=rss)
-* [2024-05-12, 18:49:00](https://soylentnews.org/article.pl?sid=24/05/11/0350253&from=rss) - [More Boeing Woes](https://soylentnews.org/article.pl?sid=24/05/11/0350253&from=rss)
 
 ## [Archives](archives/index.md)
 
