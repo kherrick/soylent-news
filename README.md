@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-24, 07:53:00](https://soylentnews.org/article.pl?sid=24/05/23/1219259&from=rss) - [Google Cuts Mystery Check to US in Bid to Sidestep Jury Trial](https://soylentnews.org/article.pl?sid=24/05/23/1219259&from=rss)
 * [2024-05-24, 03:07:00](https://soylentnews.org/article.pl?sid=24/05/23/0155209&from=rss) - [Foxit PDF Reader Flaw Exploited by Hackers to Deliver Diverse Malware Arsenal](https://soylentnews.org/article.pl?sid=24/05/23/0155209&from=rss)
 * [2024-05-23, 22:24:00](https://soylentnews.org/article.pl?sid=24/05/23/0140246&from=rss) - [Biden Orders Sale Of Chinese Data Center Built Near Missile Base ](https://soylentnews.org/article.pl?sid=24/05/23/0140246&from=rss)
 * [2024-05-23, 17:39:00](https://soylentnews.org/article.pl?sid=24/05/23/0130247&from=rss) - [Arizona Woman Accused of Helping North Koreans Get Remote IT Jobs at 300 Companies](https://soylentnews.org/article.pl?sid=24/05/23/0130247&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-14, 04:12:00](https://soylentnews.org/article.pl?sid=24/05/12/2043228&from=rss) - [A Crushing Backlash to Apple's New iPad Ad](https://soylentnews.org/article.pl?sid=24/05/12/2043228&from=rss)
 * [2024-05-13, 23:26:00](https://soylentnews.org/article.pl?sid=24/05/12/1417250&from=rss) - [Engineering Needs More Futurists](https://soylentnews.org/article.pl?sid=24/05/12/1417250&from=rss)
 * [2024-05-13, 18:37:00](https://soylentnews.org/article.pl?sid=24/05/12/1411228&from=rss) - [Unmasking of LockBitSupp - Dmitry Khoroshev](https://soylentnews.org/article.pl?sid=24/05/12/1411228&from=rss)
-* [2024-05-13, 13:52:00](https://soylentnews.org/article.pl?sid=24/05/12/143246&from=rss) - [GM's 50 Millionth Car Recreated](https://soylentnews.org/article.pl?sid=24/05/12/143246&from=rss)
 
 ## [Archives](archives/index.md)
 
