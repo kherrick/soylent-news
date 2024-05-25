@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-25, 21:49:00](https://soylentnews.org/article.pl?sid=24/05/24/1449248&from=rss) - [Wreckage of US World War Two Submarine Found After 80 Years](https://soylentnews.org/article.pl?sid=24/05/24/1449248&from=rss)
 * [2024-05-25, 17:06:00](https://soylentnews.org/article.pl?sid=24/05/24/037207&from=rss) - [AT&T Cuts a Deal to Launch Satellite-to-Smartphone Service Soon](https://soylentnews.org/article.pl?sid=24/05/24/037207&from=rss)
 * [2024-05-25, 12:26:00](https://soylentnews.org/article.pl?sid=24/05/24/1215213&from=rss) - [Revisiting the “Day of Rest” and Human Efficiency](https://soylentnews.org/article.pl?sid=24/05/24/1215213&from=rss)
 * [2024-05-25, 07:36:00](https://soylentnews.org/article.pl?sid=24/05/24/032221&from=rss) - [Windows Co-Pilot \"Recall\" Feature Privacy Nightmare](https://soylentnews.org/article.pl?sid=24/05/24/032221&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-15, 22:58:00](https://soylentnews.org/article.pl?sid=24/05/14/1539224&from=rss) - [What It Means to Own Movies and TV in the Age of Streaming Services](https://soylentnews.org/article.pl?sid=24/05/14/1539224&from=rss)
 * [2024-05-15, 18:07:00](https://soylentnews.org/article.pl?sid=24/05/14/1447255&from=rss) - [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://soylentnews.org/article.pl?sid=24/05/14/1447255&from=rss)
 * [2024-05-15, 13:20:00](https://soylentnews.org/article.pl?sid=24/05/14/045244&from=rss) - [Big Three Carriers Pay $10M to Settle Claims of False “Unlimited” Advertising](https://soylentnews.org/article.pl?sid=24/05/14/045244&from=rss)
-* [2024-05-15, 08:35:00](https://soylentnews.org/article.pl?sid=24/05/14/042210&from=rss) - [Everest Guide Scales Peak for 29th Time](https://soylentnews.org/article.pl?sid=24/05/14/042210&from=rss)
 
 ## [Archives](archives/index.md)
 
