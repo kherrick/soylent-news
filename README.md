@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-25, 07:36:00](https://soylentnews.org/article.pl?sid=24/05/24/032221&from=rss) - [Windows Co-Pilot \"Recall\" Feature Privacy Nightmare](https://soylentnews.org/article.pl?sid=24/05/24/032221&from=rss)
 * [2024-05-25, 02:51:00](https://soylentnews.org/article.pl?sid=24/05/23/1246256&from=rss) - [Ampere Announces 256-Core 3nm CPU, Unveils Partnership with Qualcomm](https://soylentnews.org/article.pl?sid=24/05/23/1246256&from=rss)
 * [2024-05-24, 20:10:00](https://soylentnews.org/article.pl?sid=24/05/23/1250207&from=rss) - [Neuralink Can Implant Second Person with a Brain Chip, FDA Says](https://soylentnews.org/article.pl?sid=24/05/23/1250207&from=rss)
 * [2024-05-24, 19:09:00](https://soylentnews.org/breakingnews/article.pl?sid=24/05/24/1850225&from=rss) - [Massive Explosion Rocks SpaceX Texas Facility, Starship Engine in Flames](https://soylentnews.org/breakingnews/article.pl?sid=24/05/24/1850225&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-15, 08:35:00](https://soylentnews.org/article.pl?sid=24/05/14/042210&from=rss) - [Everest Guide Scales Peak for 29th Time](https://soylentnews.org/article.pl?sid=24/05/14/042210&from=rss)
 * [2024-05-15, 03:50:00](https://soylentnews.org/article.pl?sid=24/05/14/0347214&from=rss) - [LLMs’ Data-Control Path Insecurity](https://soylentnews.org/article.pl?sid=24/05/14/0347214&from=rss)
 * [2024-05-14, 23:05:00](https://soylentnews.org/article.pl?sid=24/05/14/0343226&from=rss) - [The Best Versions of Ourselves](https://soylentnews.org/article.pl?sid=24/05/14/0343226&from=rss)
-* [2024-05-14, 18:24:00](https://soylentnews.org/article.pl?sid=24/05/14/0315250&from=rss) - [Musk's Neuralink Weighed Removing Patient's Brain-Chip Implant](https://soylentnews.org/article.pl?sid=24/05/14/0315250&from=rss)
 
 ## [Archives](archives/index.md)
 
