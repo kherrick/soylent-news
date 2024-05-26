@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-26, 07:13:00](https://soylentnews.org/article.pl?sid=24/05/24/2352256&from=rss) - [Retrospective - 50 Years of \"Zen and the Art of Motorcycle Maintenance\"](https://soylentnews.org/article.pl?sid=24/05/24/2352256&from=rss)
 * [2024-05-26, 02:32:00](https://soylentnews.org/article.pl?sid=24/05/24/2356207&from=rss) - [Microsoft Faces EU Pressure But Avoids UK Probe](https://soylentnews.org/article.pl?sid=24/05/24/2356207&from=rss)
 * [2024-05-25, 21:49:00](https://soylentnews.org/article.pl?sid=24/05/24/1449248&from=rss) - [Wreckage of US World War Two Submarine Found After 80 Years](https://soylentnews.org/article.pl?sid=24/05/24/1449248&from=rss)
 * [2024-05-25, 17:06:00](https://soylentnews.org/article.pl?sid=24/05/24/037207&from=rss) - [AT&T Cuts a Deal to Launch Satellite-to-Smartphone Service Soon](https://soylentnews.org/article.pl?sid=24/05/24/037207&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-16, 08:32:00](https://soylentnews.org/article.pl?sid=24/05/14/161246&from=rss) - [The Real ID Deadline Will Never Arrive](https://soylentnews.org/article.pl?sid=24/05/14/161246&from=rss)
 * [2024-05-16, 03:47:00](https://soylentnews.org/article.pl?sid=24/05/14/1558232&from=rss) - [Truman and the Bomb](https://soylentnews.org/article.pl?sid=24/05/14/1558232&from=rss)
 * [2024-05-15, 22:58:00](https://soylentnews.org/article.pl?sid=24/05/14/1539224&from=rss) - [What It Means to Own Movies and TV in the Age of Streaming Services](https://soylentnews.org/article.pl?sid=24/05/14/1539224&from=rss)
-* [2024-05-15, 18:07:00](https://soylentnews.org/article.pl?sid=24/05/14/1447255&from=rss) - [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://soylentnews.org/article.pl?sid=24/05/14/1447255&from=rss)
 
 ## [Archives](archives/index.md)
 
