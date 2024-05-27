@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-27, 06:02:00](https://soylentnews.org/article.pl?sid=24/05/25/2026228&from=rss) - [Another US State Repeals Law That Protected ISPs From Municipal Competition](https://soylentnews.org/article.pl?sid=24/05/25/2026228&from=rss)
 * [2024-05-27, 01:16:00](https://soylentnews.org/article.pl?sid=24/05/25/1837231&from=rss) - [South Korea Wants Nation's Chip Makers To Move Beyond Memory](https://soylentnews.org/article.pl?sid=24/05/25/1837231&from=rss)
 * [2024-05-26, 20:31:00](https://soylentnews.org/article.pl?sid=24/05/25/1833222&from=rss) - [Parasitic Worms Infect 6 After Bear Meat Served at Family Reunion](https://soylentnews.org/article.pl?sid=24/05/25/1833222&from=rss)
 * [2024-05-26, 15:47:00](https://soylentnews.org/article.pl?sid=24/05/25/1338224&from=rss) - [Google's AI Search Feature Suggested Using Glue to Keep Cheese Sticking to a Pizza](https://soylentnews.org/article.pl?sid=24/05/25/1338224&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-17, 08:22:00](https://soylentnews.org/article.pl?sid=24/05/16/1143218&from=rss) - [Raspberry Pi Announces 'Expected Intention To Float' On London Stock Exchange](https://soylentnews.org/article.pl?sid=24/05/16/1143218&from=rss)
 * [2024-05-17, 03:35:00](https://soylentnews.org/article.pl?sid=24/05/16/0119203&from=rss) - [Sir, There's a Cat in Your Mirror Dimension](https://soylentnews.org/article.pl?sid=24/05/16/0119203&from=rss)
 * [2024-05-16, 22:54:00](https://soylentnews.org/article.pl?sid=24/05/16/1135204&from=rss) - [AMD Launches Ryzen 7 8700F And Ryzen 5 8400F \"Hawk Point\" CPU - no IGPUs](https://soylentnews.org/article.pl?sid=24/05/16/1135204&from=rss)
-* [2024-05-16, 18:07:00](https://soylentnews.org/article.pl?sid=24/05/15/1853237&from=rss) - [Building a Database of Negro League Baseball Statistics](https://soylentnews.org/article.pl?sid=24/05/15/1853237&from=rss)
 
 ## [Archives](archives/index.md)
 
