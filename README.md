@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-28, 22:09:00](https://soylentnews.org/article.pl?sid=24/05/27/1241223&from=rss) - [Crooks Plant Backdoor In Software Used By Courtrooms Around The World](https://soylentnews.org/article.pl?sid=24/05/27/1241223&from=rss)
 * [2024-05-28, 17:20:00](https://soylentnews.org/article.pl?sid=24/05/27/1234259&from=rss) - [Bionic Boy - Five Year Old Boy Gets Bionic Arm ](https://soylentnews.org/article.pl?sid=24/05/27/1234259&from=rss)
 * [2024-05-28, 12:34:00](https://soylentnews.org/article.pl?sid=24/05/27/1225257&from=rss) - [Generative AI May Be Creating More Work Than It Saves](https://soylentnews.org/article.pl?sid=24/05/27/1225257&from=rss)
 * [2024-05-28, 07:43:00](https://soylentnews.org/article.pl?sid=24/05/27/1216234&from=rss) - [New Method to Create Aquatic Levitation Has Implications For Cooling Nuclear Reactors](https://soylentnews.org/article.pl?sid=24/05/27/1216234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-18, 17:33:00](https://soylentnews.org/article.pl?sid=24/05/17/034234&from=rss) - [Silicon Reverse Engineering: The 8085'S Undocumented Flags](https://soylentnews.org/article.pl?sid=24/05/17/034234&from=rss)
 * [2024-05-18, 12:48:00](https://soylentnews.org/article.pl?sid=24/05/17/032257&from=rss) - [AT&T Paid Bribes to Get Two Major Pieces of Legislation Passed, US Gov't Says](https://soylentnews.org/article.pl?sid=24/05/17/032257&from=rss)
 * [2024-05-18, 08:04:00](https://soylentnews.org/article.pl?sid=24/05/17/0254202&from=rss) - [PSA: Debian Maintainers for KeePassXC Password Manager Change Defaults to Minimal Functionality](https://soylentnews.org/article.pl?sid=24/05/17/0254202&from=rss)
-* [2024-05-18, 05:18:00](https://soylentnews.org/article.pl?sid=24/05/17/1958253&from=rss) - [\"The Morning After\": Grand Theft Auto 6 Is Coming Fall 2025](https://soylentnews.org/article.pl?sid=24/05/17/1958253&from=rss)
 
 ## [Archives](archives/index.md)
 
