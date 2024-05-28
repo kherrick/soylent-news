@@ -145,6 +145,133 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/05/27/1241223">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/05/27/1241223&amp;from=rss"
+              >Crooks Plant Backdoor In Software Used By Courtrooms Around The
+              World</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-28 @ 22:09:00</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/05/27/1241223"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Arthur T Knackerbracket has processed the
+                <a
+                  href="https://arstechnica.com/security/2024/05/crooks-plant-backdoor-in-software-used-by-courtrooms-around-the-world/"
+                  >following story</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    A software maker serving more than 10,000 courtrooms
+                    throughout the world hosted an application update containing
+                    a hidden backdoor that maintained persistent communication
+                    with a malicious website, researchers reported Thursday, in
+                    the latest episode of a supply-chain attack.
+                  </p>
+                  <p>
+                    The software, known as the JAVS Viewer 8, is a component of
+                    the
+                    <a
+                      href="https://www.javs.com/javs-suite-8-av-management-software/"
+                      >JAVS Suite 8</a
+                    >, an application package courtrooms use to record, play
+                    back, and manage audio and video from proceedings. Its
+                    maker, Louisville, Kentucky-based Justice AV Solutions, says
+                    its products are used in more than 10,000 courtrooms
+                    throughout the US and 11 other countries. The company has
+                    been in business for 35 years.
+                  </p>
+                  <p>
+                    Researchers from security firm Rapid7
+                    <a
+                      href="https://www.rapid7.com/blog/post/2024/05/23/cve-2024-4978-backdoored-justice-av-solutions-viewer-software-used-in-apparent-supply-chain-attack/"
+                      >reported</a
+                    >
+                    that a version of the JAVS Viewer 8 available for download
+                    on javs.com contained a backdoor that gave an unknown threat
+                    actor persistent access to infected devices. The malicious
+                    download, planted inside an executable file that installs
+                    the JAVS Viewer version 8.3.7, was available no later than
+                    April 1, when a
+                    <a href="https://x.com/2RunJack2/status/1775052981966377148"
+                      >post</a
+                    >
+                    on X (formerly Twitter) reported it. It’s unclear when the
+                    backdoored version was removed from the company’s download
+                    page. JAVS representatives didn’t immediately respond to
+                    questions sent by email.
+                  </p>
+                  <p>
+                    “Users who have version 8.3.7 of the JAVS Viewer executable
+                    installed are at high risk and should take immediate
+                    action,” Rapid7 researchers Ipek Solak, Thomas Elkins, Evan
+                    McCann, Matthew Smith, Jake McMahon, Tyler McGraw, Ryan
+                    Emmons, Stephen Fewer, and John Fenninger wrote. “This
+                    version contains a backdoored installer that allows
+                    attackers to gain full control of affected systems.”
+                  </p>
+                  <p>
+                    The installer file was titled JAVS Viewer Setup
+                    8.3.7.250-1.exe. When executed, it copied the binary file
+                    fffmpeg.exe to the file path C:\Program Files
+                    (x86)\JAVS\Viewer 8\. To bypass security warnings, the
+                    installer was digitally signed, but with a signature issued
+                    to an entity called “Vanguard Tech Limited” rather than to
+                    “Justice AV Solutions Inc.,” the signing entity used to
+                    authenticate legitimate JAVS software.
+                  </p>
+                  <p>
+                    The researchers said fffmpeg.exe also downloaded the file
+                    chrome_installer.exe from the IP address 45.120.177.178.
+                    chrome_installer.exe went on to execute a binary and several
+                    Python scripts that were responsible for stealing the
+                    passwords saved in browsers. fffmpeg.exe is associated with
+                    a known malware family called
+                    <a
+                      href="https://medium.com/s2wblog/rustdoor-and-gatedoor-a-new-pair-of-weapons-disguised-as-legitimate-software-by-suspected-34c94e558b40"
+                      >GateDoor/Rustdoor</a
+                    >. The exe file was already flagged by 30 endpoint
+                    protection engines.
+                  </p>
+                  <p>
+                    The
+                    <a
+                      href="https://www.virustotal.com/gui/file/421a4ad2615941b177b6ec4ab5e239c14e62af2ab07c6df1741e2a62223223c4"
+                      >number of detections</a
+                    >
+                    had grown to 38 at the time this post went live.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62895"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/05/27/1234259">
           <h3>
             <a
@@ -157,12 +284,12 @@
             <h4>
               <span>2024-05-28 @ 17:20:00</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/27/1234259"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -236,7 +363,7 @@
             <h4>
               <span>2024-05-28 @ 12:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">508</span></span
+                >Points: <span class="points">517</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/27/1225257"
@@ -308,7 +435,7 @@
             <h4>
               <span>2024-05-28 @ 07:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">542</span></span
+                >Points: <span class="points">550</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/27/1216234"
@@ -436,12 +563,12 @@
             <h4>
               <span>2024-05-28 @ 03:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">778</span></span
+                >Points: <span class="points">785</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/27/0739205"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
             <div class="text">
@@ -585,7 +712,7 @@
             <h4>
               <span>2024-05-27 @ 22:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">1043</span></span
+                >Points: <span class="points">1053</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/26/0848218"
@@ -667,7 +794,7 @@
             <h4>
               <span>2024-05-27 @ 17:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">1034</span></span
+                >Points: <span class="points">1040</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/26/0756200"
@@ -772,7 +899,7 @@
             <h4>
               <span>2024-05-27 @ 12:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">1205</span></span
+                >Points: <span class="points">1212</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/26/071211"
@@ -913,7 +1040,7 @@
             <h4>
               <span>2024-05-27 @ 06:02:00</span
               ><span class="points-container"
-                >Points: <span class="points">1144</span></span
+                >Points: <span class="points">1151</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/25/2026228"
@@ -980,7 +1107,7 @@
             <h4>
               <span>2024-05-27 @ 01:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">1161</span></span
+                >Points: <span class="points">1167</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/25/1837231"
@@ -1058,7 +1185,7 @@
             <h4>
               <span>2024-05-26 @ 20:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">1548</span></span
+                >Points: <span class="points">1556</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/25/1833222"
@@ -1192,7 +1319,7 @@
             <h4>
               <span>2024-05-26 @ 15:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">2106</span></span
+                >Points: <span class="points">2112</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/25/1338224"
@@ -1258,7 +1385,7 @@
             <h4>
               <span>2024-05-26 @ 11:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">1489</span></span
+                >Points: <span class="points">1495</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/25/0341221"
@@ -1374,7 +1501,7 @@
             <h4>
               <span>2024-05-26 @ 07:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">2122</span></span
+                >Points: <span class="points">2129</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/24/2352256"
@@ -1437,7 +1564,7 @@
             <h4>
               <span>2024-05-26 @ 02:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">1594</span></span
+                >Points: <span class="points">1600</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/24/2356207"
@@ -1535,7 +1662,7 @@
             <h4>
               <span>2024-05-25 @ 21:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">1907</span></span
+                >Points: <span class="points">1913</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/24/1449248"
@@ -1631,7 +1758,7 @@
             <h4>
               <span>2024-05-25 @ 17:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">1802</span></span
+                >Points: <span class="points">1808</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/24/037207"
@@ -1745,7 +1872,7 @@
             <h4>
               <span>2024-05-25 @ 12:26:00</span
               ><span class="points-container"
-                >Points: <span class="points">2521</span></span
+                >Points: <span class="points">2527</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/24/1215213"
@@ -1822,7 +1949,7 @@
             <h4>
               <span>2024-05-25 @ 07:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">2688</span></span
+                >Points: <span class="points">2694</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/24/032221"
@@ -1924,7 +2051,7 @@
             <h4>
               <span>2024-05-25 @ 02:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">2002</span></span
+                >Points: <span class="points">2008</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/23/1246256"
@@ -2028,7 +2155,7 @@
             <h4>
               <span>2024-05-24 @ 20:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">2289</span></span
+                >Points: <span class="points">2295</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/23/1250207"
@@ -2144,7 +2271,7 @@
             <h4>
               <span>2024-05-24 @ 19:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">2828</span></span
+                >Points: <span class="points">2829</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/24/1850225"
@@ -2224,7 +2351,7 @@
             <h4>
               <span>2024-05-24 @ 17:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">2113</span></span
+                >Points: <span class="points">2114</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/23/1236254"
@@ -2388,7 +2515,7 @@
             <h4>
               <span>2024-05-24 @ 07:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">2238</span></span
+                >Points: <span class="points">2239</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/23/1219259"
@@ -5007,76 +5134,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62795"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/05/17/1958253">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/05/17/1958253&amp;from=rss"
-              >"The Morning After": Grand Theft Auto 6 Is Coming Fall 2025</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-18 @ 05:18:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1886</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/05/17/1958253"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Arthur T Knackerbracket has processed the
-                <a
-                  href="https://www.engadget.com/the-morning-after-grand-theft-auto-6-is-coming-fall-2025-111507383.html?src=rss"
-                  >following story</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    One of the biggest, most iconic gaming series is almost
-                    back. <em>Grand Theft Auto 6 </em>is apparently
-                    <a
-                      href="https://www.engadget.com/grand-theft-auto-6-will-arrive-in-fall-2025-205513138.html"
-                      >on track for a fall launch next year</a
-                    >
-                    — a little more specific than the previous release window of
-                    “2025.”
-                  </p>
-                  <p>
-                    There’s no new trailer, and GTA publisher, Take-Two, is not
-                    quite ready to offer a specific release date. CEO Strauss
-                    Zelnick told <em>Variety</em>: “I think we’re going to leave
-                    it there for now.”
-                  </p>
-                  <p>
-                    The sixth mainline installment will be set in Leonida
-                    (Rockstar’s Florida equivalent) and focused mostly on Vice
-                    City (Miami). Compared to <em>GTA Vice City</em>, however,
-                    it’ll be contemporary. So, I’m banking on OnlyFans
-                    pastiches, vapes, self-driving cars and everything else
-                    2020s. Plus explosions and crime.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62852"
                     >Original Submission</a
                   ></small
                 >
