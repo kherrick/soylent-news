@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-28, 03:10:00](https://soylentnews.org/article.pl?sid=24/05/27/0739205&from=rss) - [Elons New Supercomputer](https://soylentnews.org/article.pl?sid=24/05/27/0739205&from=rss)
 * [2024-05-27, 22:25:00](https://soylentnews.org/article.pl?sid=24/05/26/0848218&from=rss) - [Taxing The Internet To Bail Out Media Won’t Solve The Fundamental Problems Of The Media Business](https://soylentnews.org/article.pl?sid=24/05/26/0848218&from=rss)
 * [2024-05-27, 17:39:00](https://soylentnews.org/article.pl?sid=24/05/26/0756200&from=rss) - [Recycling Cement Could Mitigate One of the World's Biggest Climate Challenges](https://soylentnews.org/article.pl?sid=24/05/26/0756200&from=rss)
 * [2024-05-27, 12:52:00](https://soylentnews.org/article.pl?sid=24/05/26/071211&from=rss) - [The AI Laptops’ Linux Support](https://soylentnews.org/article.pl?sid=24/05/26/071211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-18, 03:17:00](https://soylentnews.org/article.pl?sid=24/05/17/0228217&from=rss) - [Feds Probe Waymo Driverless Cars Hitting Parked Cars, Drifting Into Traffic](https://soylentnews.org/article.pl?sid=24/05/17/0228217&from=rss)
 * [2024-05-17, 22:32:00](https://soylentnews.org/article.pl?sid=24/05/16/1310212&from=rss) - [Woman Was Living Inside Rooftop Grocery Store Sign With Computer and Coffee Maker for a Year](https://soylentnews.org/article.pl?sid=24/05/16/1310212&from=rss)
 * [2024-05-17, 17:52:00](https://soylentnews.org/article.pl?sid=24/05/16/124226&from=rss) - [Homeowner's Insurance Meets Climate Change](https://soylentnews.org/article.pl?sid=24/05/16/124226&from=rss)
-* [2024-05-17, 13:06:00](https://soylentnews.org/article.pl?sid=24/05/16/1147232&from=rss) - [Cable TV Providers Ruined Cable—Now They're Coming for Streaming](https://soylentnews.org/article.pl?sid=24/05/16/1147232&from=rss)
 
 ## [Archives](archives/index.md)
 
