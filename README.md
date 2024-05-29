@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-29, 12:34:00](https://soylentnews.org/article.pl?sid=24/05/27/185234&from=rss) - [Secret History – When Kodak Went to War With Polaroid](https://soylentnews.org/article.pl?sid=24/05/27/185234&from=rss)
 * [2024-05-29, 07:48:00](https://soylentnews.org/article.pl?sid=24/05/27/181248&from=rss) - [Agreement Reached at UN on Bio-Piracy Treaty](https://soylentnews.org/article.pl?sid=24/05/27/181248&from=rss)
 * [2024-05-29, 02:55:00](https://soylentnews.org/article.pl?sid=24/05/27/1336247&from=rss) - [Plant Based Meat Subsitutes Might be Bad for Diabetics](https://soylentnews.org/article.pl?sid=24/05/27/1336247&from=rss)
 * [2024-05-28, 22:09:00](https://soylentnews.org/article.pl?sid=24/05/27/1241223&from=rss) - [Crooks Plant Backdoor In Software Used By Courtrooms Around The World](https://soylentnews.org/article.pl?sid=24/05/27/1241223&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-19, 07:50:00](https://soylentnews.org/article.pl?sid=24/05/17/1254255&from=rss) - [HR Says Business Leaders Scared RTO Policy Causes Staff Attrition](https://soylentnews.org/article.pl?sid=24/05/17/1254255&from=rss)
 * [2024-05-19, 03:05:00](https://soylentnews.org/article.pl?sid=24/05/17/1235248&from=rss) - [How the Charter-Disney Dispute Caused Streaming Services to be Bundled with Cable](https://soylentnews.org/article.pl?sid=24/05/17/1235248&from=rss)
 * [2024-05-18, 22:21:00](https://soylentnews.org/article.pl?sid=24/05/17/0335204&from=rss) - [Where Are Floppy Disks Today? Planes, Trains, And All These Other Places](https://soylentnews.org/article.pl?sid=24/05/17/0335204&from=rss)
-* [2024-05-18, 17:33:00](https://soylentnews.org/article.pl?sid=24/05/17/034234&from=rss) - [Silicon Reverse Engineering: The 8085'S Undocumented Flags](https://soylentnews.org/article.pl?sid=24/05/17/034234&from=rss)
 
 ## [Archives](archives/index.md)
 
