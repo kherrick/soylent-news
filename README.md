@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-29, 22:07:00](https://soylentnews.org/article.pl?sid=24/05/28/1811259&from=rss) - [A Novel Flame-Retardant, Smoke-Suppressing, and Superhydrophobic Transparent Bamboo](https://soylentnews.org/article.pl?sid=24/05/28/1811259&from=rss)
 * [2024-05-29, 17:20:00](https://soylentnews.org/article.pl?sid=24/05/28/181243&from=rss) - [In The Race For The Most Advanced Chips, TSMC Shows Off Cutting-Edge Roadmap](https://soylentnews.org/article.pl?sid=24/05/28/181243&from=rss)
 * [2024-05-29, 12:34:00](https://soylentnews.org/article.pl?sid=24/05/27/185234&from=rss) - [Secret History – When Kodak Went to War With Polaroid](https://soylentnews.org/article.pl?sid=24/05/27/185234&from=rss)
 * [2024-05-29, 07:48:00](https://soylentnews.org/article.pl?sid=24/05/27/181248&from=rss) - [Agreement Reached at UN on Bio-Piracy Treaty](https://soylentnews.org/article.pl?sid=24/05/27/181248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-19, 17:51:00](https://soylentnews.org/article.pl?sid=24/05/17/1243226&from=rss) - [Possible Evidence of \"Glueballs\" Found During Beijing Spectrometer III Experiments](https://soylentnews.org/article.pl?sid=24/05/17/1243226&from=rss)
 * [2024-05-19, 12:36:00](https://soylentnews.org/article.pl?sid=24/05/17/1247248&from=rss) - ['California Stop' is Costing Californians Millions in Tickets](https://soylentnews.org/article.pl?sid=24/05/17/1247248&from=rss)
 * [2024-05-19, 07:50:00](https://soylentnews.org/article.pl?sid=24/05/17/1254255&from=rss) - [HR Says Business Leaders Scared RTO Policy Causes Staff Attrition](https://soylentnews.org/article.pl?sid=24/05/17/1254255&from=rss)
-* [2024-05-19, 03:05:00](https://soylentnews.org/article.pl?sid=24/05/17/1235248&from=rss) - [How the Charter-Disney Dispute Caused Streaming Services to be Bundled with Cable](https://soylentnews.org/article.pl?sid=24/05/17/1235248&from=rss)
 
 ## [Archives](archives/index.md)
 
