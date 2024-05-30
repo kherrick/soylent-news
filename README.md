@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-30, 21:52:00](https://soylentnews.org/article.pl?sid=24/05/29/146201&from=rss) - [Nvidia Denies Pirate E-Book Sites are “Shadow Libraries” to Shut Down Lawsuit](https://soylentnews.org/article.pl?sid=24/05/29/146201&from=rss)
 * [2024-05-30, 17:12:00](https://soylentnews.org/article.pl?sid=24/05/28/2015209&from=rss) - [UK Rushes Through Bill To Copy EU's Digital Markets Act](https://soylentnews.org/article.pl?sid=24/05/28/2015209&from=rss)
 * [2024-05-30, 12:24:00](https://soylentnews.org/article.pl?sid=24/05/28/1955204&from=rss) - [Fish Are Adapting to Weightlessness on the Chinese Space Station](https://soylentnews.org/article.pl?sid=24/05/28/1955204&from=rss)
 * [2024-05-30, 07:37:00](https://soylentnews.org/article.pl?sid=24/05/28/1950241&from=rss) - [US Officials: A Russian Rocket Launch Last Week Likely Deployed A Space Weapon](https://soylentnews.org/article.pl?sid=24/05/28/1950241&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-21, 16:02:00](https://soylentnews.org/article.pl?sid=24/05/21/029202&from=rss) - [Science is Making Anti-Aging Progress. but Do We Want to Live Forever?](https://soylentnews.org/article.pl?sid=24/05/21/029202&from=rss)
 * [2024-05-21, 11:15:00](https://soylentnews.org/article.pl?sid=24/05/21/0157214&from=rss) - [DoJ Says Boeing Faces Criminal Charge for Violating Deal Over 737 Max Crashes](https://soylentnews.org/article.pl?sid=24/05/21/0157214&from=rss)
 * [2024-05-21, 06:27:00](https://soylentnews.org/article.pl?sid=24/05/21/0148235&from=rss) - [Connected Cars’ Illegal Data Collection and Use Now on FTC's “Radar”](https://soylentnews.org/article.pl?sid=24/05/21/0148235&from=rss)
-* [2024-05-21, 01:45:00](https://soylentnews.org/article.pl?sid=24/05/21/0143212&from=rss) - [Europe Is Uncertain Whether Its Ambitious Mercury Probe Can Reach The Planet ](https://soylentnews.org/article.pl?sid=24/05/21/0143212&from=rss)
 
 ## [Archives](archives/index.md)
 
