@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-31, 21:41:00](https://soylentnews.org/article.pl?sid=24/05/30/0553205&from=rss) - [Google Search Document Leak Reveals Inner Workings of Ranking Algorithm](https://soylentnews.org/article.pl?sid=24/05/30/0553205&from=rss)
 * [2024-05-31, 16:54:00](https://soylentnews.org/article.pl?sid=24/05/30/0546246&from=rss) - [ICE Engine Reborn](https://soylentnews.org/article.pl?sid=24/05/30/0546246&from=rss)
 * [2024-05-31, 12:08:00](https://soylentnews.org/article.pl?sid=24/05/30/0542244&from=rss) - [Gigabyte's New Motherboard Supports Massive 128-Pound GPUs but Still Can't Fix Cracking](https://soylentnews.org/article.pl?sid=24/05/30/0542244&from=rss)
 * [2024-05-31, 07:22:00](https://soylentnews.org/article.pl?sid=24/05/30/0535230&from=rss) - [“Deny, Denounce, Delay”: The Battle Over the Risk of Ultra-Processed Foods](https://soylentnews.org/article.pl?sid=24/05/30/0535230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-22, 17:52:00](https://soylentnews.org/article.pl?sid=24/05/21/085229&from=rss) - [Boeing Flying Cars By 2030](https://soylentnews.org/article.pl?sid=24/05/21/085229&from=rss)
 * [2024-05-22, 13:01:00](https://soylentnews.org/article.pl?sid=24/05/21/0759217&from=rss) - [“Unprecedented” Google Cloud Event Wipes Out Customer Account and its Backups](https://soylentnews.org/article.pl?sid=24/05/21/0759217&from=rss)
 * [2024-05-22, 06:13:00](https://soylentnews.org/article.pl?sid=24/05/21/0753248&from=rss) - [Library Reading Habits Reflected in Mobile Ads](https://soylentnews.org/article.pl?sid=24/05/21/0753248&from=rss)
-* [2024-05-22, 01:32:00](https://soylentnews.org/article.pl?sid=24/05/21/0228214&from=rss) - [The Sneaky Standard: How Intel Undercut a Standards Body to Give Us the PCI Connector](https://soylentnews.org/article.pl?sid=24/05/21/0228214&from=rss)
 
 ## [Archives](archives/index.md)
 
