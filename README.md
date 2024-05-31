@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-05-31, 12:08:00](https://soylentnews.org/article.pl?sid=24/05/30/0542244&from=rss) - [Gigabyte's New Motherboard Supports Massive 128-Pound GPUs but Still Can't Fix Cracking](https://soylentnews.org/article.pl?sid=24/05/30/0542244&from=rss)
 * [2024-05-31, 07:22:00](https://soylentnews.org/article.pl?sid=24/05/30/0535230&from=rss) - [“Deny, Denounce, Delay”: The Battle Over the Risk of Ultra-Processed Foods](https://soylentnews.org/article.pl?sid=24/05/30/0535230&from=rss)
 * [2024-05-31, 02:37:00](https://soylentnews.org/article.pl?sid=24/05/30/0530212&from=rss) - [James Webb Space Telescope Spots Early Galaxies Feeding on Cold Gas](https://soylentnews.org/article.pl?sid=24/05/30/0530212&from=rss)
 * [2024-05-30, 21:52:00](https://soylentnews.org/article.pl?sid=24/05/29/146201&from=rss) - [Nvidia Denies Pirate E-Book Sites are “Shadow Libraries” to Shut Down Lawsuit](https://soylentnews.org/article.pl?sid=24/05/29/146201&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-22, 06:13:00](https://soylentnews.org/article.pl?sid=24/05/21/0753248&from=rss) - [Library Reading Habits Reflected in Mobile Ads](https://soylentnews.org/article.pl?sid=24/05/21/0753248&from=rss)
 * [2024-05-22, 01:32:00](https://soylentnews.org/article.pl?sid=24/05/21/0228214&from=rss) - [The Sneaky Standard: How Intel Undercut a Standards Body to Give Us the PCI Connector](https://soylentnews.org/article.pl?sid=24/05/21/0228214&from=rss)
 * [2024-05-21, 20:47:00](https://soylentnews.org/article.pl?sid=24/05/21/0222246&from=rss) - [North Korea Laundered $147.5 Million in Stolen Crypto in March, Say UN Experts](https://soylentnews.org/article.pl?sid=24/05/21/0222246&from=rss)
-* [2024-05-21, 16:02:00](https://soylentnews.org/article.pl?sid=24/05/21/029202&from=rss) - [Science is Making Anti-Aging Progress. but Do We Want to Live Forever?](https://soylentnews.org/article.pl?sid=24/05/21/029202&from=rss)
 
 ## [Archives](archives/index.md)
 
