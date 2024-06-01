@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-01, 09:28:00](https://soylentnews.org/article.pl?sid=24/05/31/0013202&from=rss) - [Google Cloud Explains How It Accidentally Deleted a Customer Account [REPRISE]](https://soylentnews.org/article.pl?sid=24/05/31/0013202&from=rss)
 * [2024-06-01, 07:07:00](https://soylentnews.org/article.pl?sid=24/05/30/1438203&from=rss) - [A Hack Admirable [REPRISE]](https://soylentnews.org/article.pl?sid=24/05/30/1438203&from=rss)
 * [2024-06-01, 02:24:00](https://soylentnews.org/article.pl?sid=24/05/30/1435234&from=rss) - [The Brain Might Also Have a Microbiome](https://soylentnews.org/article.pl?sid=24/05/30/1435234&from=rss)
 * [2024-05-31, 21:41:00](https://soylentnews.org/article.pl?sid=24/05/30/0553205&from=rss) - [Google Search Document Leak Reveals Inner Workings of Ranking Algorithm](https://soylentnews.org/article.pl?sid=24/05/30/0553205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-23, 08:06:00](https://soylentnews.org/article.pl?sid=24/05/21/1049253&from=rss) - [Decades-Old Programming Languages Fortran And Cobol Are Still Thriving](https://soylentnews.org/article.pl?sid=24/05/21/1049253&from=rss)
 * [2024-05-23, 03:21:00](https://soylentnews.org/article.pl?sid=24/05/21/1043256&from=rss) - [MIT Students Stole $25M In Seconds By Exploiting ETH Blockchain Bug, DoJ Says ](https://soylentnews.org/article.pl?sid=24/05/21/1043256&from=rss)
 * [2024-05-22, 22:37:00](https://soylentnews.org/article.pl?sid=24/05/21/0810224&from=rss) - [Assange Wins High Court Bid to Appeal Against Extradition to US Over Spying Charges](https://soylentnews.org/article.pl?sid=24/05/21/0810224&from=rss)
-* [2024-05-22, 17:52:00](https://soylentnews.org/article.pl?sid=24/05/21/085229&from=rss) - [Boeing Flying Cars By 2030](https://soylentnews.org/article.pl?sid=24/05/21/085229&from=rss)
 
 ## [Archives](archives/index.md)
 
