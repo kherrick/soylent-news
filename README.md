@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-01, 16:35:00](https://soylentnews.org/article.pl?sid=24/05/30/1454203&from=rss) - [The Making of Donkey Kong or How I Spent My Summer of 1982](https://soylentnews.org/article.pl?sid=24/05/30/1454203&from=rss)
 * [2024-06-01, 11:51:00](https://soylentnews.org/article.pl?sid=24/05/30/1444225&from=rss) - [AI Headphones Let Wearer Listen to a Single Person in a Crowd, by Looking at Them Just Once](https://soylentnews.org/article.pl?sid=24/05/30/1444225&from=rss)
 * [2024-06-01, 09:28:00](https://soylentnews.org/article.pl?sid=24/05/31/0013202&from=rss) - [Google Cloud Explains How It Accidentally Deleted a Customer Account [REPRISE]](https://soylentnews.org/article.pl?sid=24/05/31/0013202&from=rss)
 * [2024-06-01, 07:07:00](https://soylentnews.org/article.pl?sid=24/05/30/1438203&from=rss) - [A Hack Admirable [REPRISE]](https://soylentnews.org/article.pl?sid=24/05/30/1438203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-23, 17:39:00](https://soylentnews.org/article.pl?sid=24/05/23/0130247&from=rss) - [Arizona Woman Accused of Helping North Koreans Get Remote IT Jobs at 300 Companies](https://soylentnews.org/article.pl?sid=24/05/23/0130247&from=rss)
 * [2024-05-23, 12:51:00](https://soylentnews.org/article.pl?sid=24/05/23/0127213&from=rss) - [Researchers Make A Surprising Discovery: Magnetism In A Common Material For Microelectronics](https://soylentnews.org/article.pl?sid=24/05/23/0127213&from=rss)
 * [2024-05-23, 08:06:00](https://soylentnews.org/article.pl?sid=24/05/21/1049253&from=rss) - [Decades-Old Programming Languages Fortran And Cobol Are Still Thriving](https://soylentnews.org/article.pl?sid=24/05/21/1049253&from=rss)
-* [2024-05-23, 03:21:00](https://soylentnews.org/article.pl?sid=24/05/21/1043256&from=rss) - [MIT Students Stole $25M In Seconds By Exploiting ETH Blockchain Bug, DoJ Says ](https://soylentnews.org/article.pl?sid=24/05/21/1043256&from=rss)
 
 ## [Archives](archives/index.md)
 
