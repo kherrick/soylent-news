@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-02, 02:01:00](https://soylentnews.org/article.pl?sid=24/05/31/1953202&from=rss) - [Pigeon is Faster for Data Transfer Than Gigabit Fiber Internet](https://soylentnews.org/article.pl?sid=24/05/31/1953202&from=rss)
 * [2024-06-01, 21:18:00](https://soylentnews.org/article.pl?sid=24/05/30/150225&from=rss) - [$75M In Chips Cash Going To SKC Glass Substrate Factory](https://soylentnews.org/article.pl?sid=24/05/30/150225&from=rss)
 * [2024-06-01, 16:35:00](https://soylentnews.org/article.pl?sid=24/05/30/1454203&from=rss) - [The Making of Donkey Kong or How I Spent My Summer of 1982](https://soylentnews.org/article.pl?sid=24/05/30/1454203&from=rss)
 * [2024-06-01, 11:51:00](https://soylentnews.org/article.pl?sid=24/05/30/1444225&from=rss) - [AI Headphones Let Wearer Listen to a Single Person in a Crowd, by Looking at Them Just Once](https://soylentnews.org/article.pl?sid=24/05/30/1444225&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-24, 03:07:00](https://soylentnews.org/article.pl?sid=24/05/23/0155209&from=rss) - [Foxit PDF Reader Flaw Exploited by Hackers to Deliver Diverse Malware Arsenal](https://soylentnews.org/article.pl?sid=24/05/23/0155209&from=rss)
 * [2024-05-23, 22:24:00](https://soylentnews.org/article.pl?sid=24/05/23/0140246&from=rss) - [Biden Orders Sale Of Chinese Data Center Built Near Missile Base ](https://soylentnews.org/article.pl?sid=24/05/23/0140246&from=rss)
 * [2024-05-23, 17:39:00](https://soylentnews.org/article.pl?sid=24/05/23/0130247&from=rss) - [Arizona Woman Accused of Helping North Koreans Get Remote IT Jobs at 300 Companies](https://soylentnews.org/article.pl?sid=24/05/23/0130247&from=rss)
-* [2024-05-23, 12:51:00](https://soylentnews.org/article.pl?sid=24/05/23/0127213&from=rss) - [Researchers Make A Surprising Discovery: Magnetism In A Common Material For Microelectronics](https://soylentnews.org/article.pl?sid=24/05/23/0127213&from=rss)
 
 ## [Archives](archives/index.md)
 
