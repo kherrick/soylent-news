@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-02, 11:36:00](https://soylentnews.org/article.pl?sid=24/05/31/2019216&from=rss) - [PS5 Becomes Sony's Biggest Money Maker, Cruising Past Playstation 4 Sales](https://soylentnews.org/article.pl?sid=24/05/31/2019216&from=rss)
 * [2024-06-02, 06:48:00](https://soylentnews.org/article.pl?sid=24/05/31/2013200&from=rss) - [Mystery Malware Destroys 600,000 Routers From a Single ISP During 72-Hour Span](https://soylentnews.org/article.pl?sid=24/05/31/2013200&from=rss)
 * [2024-06-02, 02:01:00](https://soylentnews.org/article.pl?sid=24/05/31/1953202&from=rss) - [Pigeon is Faster for Data Transfer Than Gigabit Fiber Internet](https://soylentnews.org/article.pl?sid=24/05/31/1953202&from=rss)
 * [2024-06-01, 21:18:00](https://soylentnews.org/article.pl?sid=24/05/30/150225&from=rss) - [$75M In Chips Cash Going To SKC Glass Substrate Factory](https://soylentnews.org/article.pl?sid=24/05/30/150225&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-24, 12:41:00](https://soylentnews.org/article.pl?sid=24/05/23/1226222&from=rss) - [How Shadow Banning Can Silently Shift Opinion Online](https://soylentnews.org/article.pl?sid=24/05/23/1226222&from=rss)
 * [2024-05-24, 07:53:00](https://soylentnews.org/article.pl?sid=24/05/23/1219259&from=rss) - [Google Cuts Mystery Check to US in Bid to Sidestep Jury Trial](https://soylentnews.org/article.pl?sid=24/05/23/1219259&from=rss)
 * [2024-05-24, 03:07:00](https://soylentnews.org/article.pl?sid=24/05/23/0155209&from=rss) - [Foxit PDF Reader Flaw Exploited by Hackers to Deliver Diverse Malware Arsenal](https://soylentnews.org/article.pl?sid=24/05/23/0155209&from=rss)
-* [2024-05-23, 22:24:00](https://soylentnews.org/article.pl?sid=24/05/23/0140246&from=rss) - [Biden Orders Sale Of Chinese Data Center Built Near Missile Base ](https://soylentnews.org/article.pl?sid=24/05/23/0140246&from=rss)
 
 ## [Archives](archives/index.md)
 
