@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-02, 21:03:00](https://soylentnews.org/article.pl?sid=24/06/02/0420202&from=rss) - [Six Planets to Appear in Alignment Next Week in Rare Celestial Parade](https://soylentnews.org/article.pl?sid=24/06/02/0420202&from=rss)
 * [2024-06-02, 16:18:00](https://soylentnews.org/article.pl?sid=24/05/31/2050255&from=rss) - [Sea Urchins Made to Order: Scientists Make Transgenic Breakthrough](https://soylentnews.org/article.pl?sid=24/05/31/2050255&from=rss)
 * [2024-06-02, 11:36:00](https://soylentnews.org/article.pl?sid=24/05/31/2019216&from=rss) - [PS5 Becomes Sony's Biggest Money Maker, Cruising Past Playstation 4 Sales](https://soylentnews.org/article.pl?sid=24/05/31/2019216&from=rss)
 * [2024-06-02, 06:48:00](https://soylentnews.org/article.pl?sid=24/05/31/2013200&from=rss) - [Mystery Malware Destroys 600,000 Routers From a Single ISP During 72-Hour Span](https://soylentnews.org/article.pl?sid=24/05/31/2013200&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-24, 19:09:00](https://soylentnews.org/breakingnews/article.pl?sid=24/05/24/1850225&from=rss) - [Massive Explosion Rocks SpaceX Texas Facility, Starship Engine in Flames](https://soylentnews.org/breakingnews/article.pl?sid=24/05/24/1850225&from=rss)
 * [2024-05-24, 17:24:00](https://soylentnews.org/article.pl?sid=24/05/23/1236254&from=rss) - [Acoustic Attacks Could Be A Serious Threat To The Future Of Underwater Data Centers](https://soylentnews.org/article.pl?sid=24/05/23/1236254&from=rss)
 * [2024-05-24, 12:41:00](https://soylentnews.org/article.pl?sid=24/05/23/1226222&from=rss) - [How Shadow Banning Can Silently Shift Opinion Online](https://soylentnews.org/article.pl?sid=24/05/23/1226222&from=rss)
-* [2024-05-24, 07:53:00](https://soylentnews.org/article.pl?sid=24/05/23/1219259&from=rss) - [Google Cuts Mystery Check to US in Bid to Sidestep Jury Trial](https://soylentnews.org/article.pl?sid=24/05/23/1219259&from=rss)
 
 ## [Archives](archives/index.md)
 
