@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-03, 06:34:00](https://soylentnews.org/article.pl?sid=24/06/01/1721210&from=rss) - [Russia and China Are Using OpenAI Tools to Spread Disinformation](https://soylentnews.org/article.pl?sid=24/06/01/1721210&from=rss)
 * [2024-06-03, 01:44:00](https://soylentnews.org/article.pl?sid=24/06/02/046212&from=rss) - [Kaspersky Releases Free Tool that Scans Linux for Known Threats](https://soylentnews.org/article.pl?sid=24/06/02/046212&from=rss)
 * [2024-06-02, 21:03:00](https://soylentnews.org/article.pl?sid=24/06/02/0420202&from=rss) - [Six Planets to Appear in Alignment Next Week in Rare Celestial Parade](https://soylentnews.org/article.pl?sid=24/06/02/0420202&from=rss)
 * [2024-06-02, 16:18:00](https://soylentnews.org/article.pl?sid=24/05/31/2050255&from=rss) - [Sea Urchins Made to Order: Scientists Make Transgenic Breakthrough](https://soylentnews.org/article.pl?sid=24/05/31/2050255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-25, 02:51:00](https://soylentnews.org/article.pl?sid=24/05/23/1246256&from=rss) - [Ampere Announces 256-Core 3nm CPU, Unveils Partnership with Qualcomm](https://soylentnews.org/article.pl?sid=24/05/23/1246256&from=rss)
 * [2024-05-24, 20:10:00](https://soylentnews.org/article.pl?sid=24/05/23/1250207&from=rss) - [Neuralink Can Implant Second Person with a Brain Chip, FDA Says](https://soylentnews.org/article.pl?sid=24/05/23/1250207&from=rss)
 * [2024-05-24, 19:09:00](https://soylentnews.org/breakingnews/article.pl?sid=24/05/24/1850225&from=rss) - [Massive Explosion Rocks SpaceX Texas Facility, Starship Engine in Flames](https://soylentnews.org/breakingnews/article.pl?sid=24/05/24/1850225&from=rss)
-* [2024-05-24, 17:24:00](https://soylentnews.org/article.pl?sid=24/05/23/1236254&from=rss) - [Acoustic Attacks Could Be A Serious Threat To The Future Of Underwater Data Centers](https://soylentnews.org/article.pl?sid=24/05/23/1236254&from=rss)
 
 ## [Archives](archives/index.md)
 
