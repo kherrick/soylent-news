@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-03, 20:51:00](https://soylentnews.org/article.pl?sid=24/06/02/1633246&from=rss) - [Clues From Bird Flu's Ground Zero On Dairy Farms In The Texas Panhandle](https://soylentnews.org/article.pl?sid=24/06/02/1633246&from=rss)
 * [2024-06-03, 16:02:00](https://soylentnews.org/article.pl?sid=24/06/02/169206&from=rss) - [Amazon Has Permission To Fly Its Drones Beyond Line of Sight](https://soylentnews.org/article.pl?sid=24/06/02/169206&from=rss)
 * [2024-06-03, 11:17:00](https://soylentnews.org/article.pl?sid=24/06/02/1356231&from=rss) - [Canine Cognitive Traits Linked To Everyday Behavior](https://soylentnews.org/article.pl?sid=24/06/02/1356231&from=rss)
 * [2024-06-03, 06:34:00](https://soylentnews.org/article.pl?sid=24/06/01/1721210&from=rss) - [Russia and China Are Using OpenAI Tools to Spread Disinformation](https://soylentnews.org/article.pl?sid=24/06/01/1721210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-25, 17:06:00](https://soylentnews.org/article.pl?sid=24/05/24/037207&from=rss) - [AT&T Cuts a Deal to Launch Satellite-to-Smartphone Service Soon](https://soylentnews.org/article.pl?sid=24/05/24/037207&from=rss)
 * [2024-05-25, 12:26:00](https://soylentnews.org/article.pl?sid=24/05/24/1215213&from=rss) - [Revisiting the “Day of Rest” and Human Efficiency](https://soylentnews.org/article.pl?sid=24/05/24/1215213&from=rss)
 * [2024-05-25, 07:36:00](https://soylentnews.org/article.pl?sid=24/05/24/032221&from=rss) - [Windows Co-Pilot \"Recall\" Feature Privacy Nightmare](https://soylentnews.org/article.pl?sid=24/05/24/032221&from=rss)
-* [2024-05-25, 02:51:00](https://soylentnews.org/article.pl?sid=24/05/23/1246256&from=rss) - [Ampere Announces 256-Core 3nm CPU, Unveils Partnership with Qualcomm](https://soylentnews.org/article.pl?sid=24/05/23/1246256&from=rss)
 
 ## [Archives](archives/index.md)
 
