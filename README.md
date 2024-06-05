@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-05, 01:27:00](https://soylentnews.org/article.pl?sid=24/06/03/2011225&from=rss) - [No Physics? No Problem. AI Weather Forecasting is Already Making Huge Strides.](https://soylentnews.org/article.pl?sid=24/06/03/2011225&from=rss)
 * [2024-06-04, 20:35:00](https://soylentnews.org/article.pl?sid=24/06/03/1957244&from=rss) - [Strange Discovery Suggests Children Trust Robots Over Humans](https://soylentnews.org/article.pl?sid=24/06/03/1957244&from=rss)
 * [2024-06-04, 15:51:00](https://soylentnews.org/article.pl?sid=24/06/03/201234&from=rss) - [China Successfully Lands Probe Chang'e-6 on the Far Side of the Moon](https://soylentnews.org/article.pl?sid=24/06/03/201234&from=rss)
 * [2024-06-04, 11:05:00](https://soylentnews.org/article.pl?sid=24/06/03/124235&from=rss) - [Biodiversity in the Margins: Merging Farmlands Affects Natural Pest Control](https://soylentnews.org/article.pl?sid=24/06/03/124235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-26, 20:31:00](https://soylentnews.org/article.pl?sid=24/05/25/1833222&from=rss) - [Parasitic Worms Infect 6 After Bear Meat Served at Family Reunion](https://soylentnews.org/article.pl?sid=24/05/25/1833222&from=rss)
 * [2024-05-26, 15:47:00](https://soylentnews.org/article.pl?sid=24/05/25/1338224&from=rss) - [Google's AI Search Feature Suggested Using Glue to Keep Cheese Sticking to a Pizza](https://soylentnews.org/article.pl?sid=24/05/25/1338224&from=rss)
 * [2024-05-26, 11:00:00](https://soylentnews.org/article.pl?sid=24/05/25/0341221&from=rss) - [Proteins in Blood Could Give Cancer Warning Seven Years Earlier - Cancer Research UK](https://soylentnews.org/article.pl?sid=24/05/25/0341221&from=rss)
-* [2024-05-26, 07:13:00](https://soylentnews.org/article.pl?sid=24/05/24/2352256&from=rss) - [Retrospective - 50 Years of \"Zen and the Art of Motorcycle Maintenance\"](https://soylentnews.org/article.pl?sid=24/05/24/2352256&from=rss)
 
 ## [Archives](archives/index.md)
 
