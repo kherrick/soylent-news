@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 06:13:00](https://soylentnews.org/article.pl?sid=24/06/03/2018241&from=rss) - [Baidu Robo-Cars Can be Crashed with Tinfoil and Cardboard ](https://soylentnews.org/article.pl?sid=24/06/03/2018241&from=rss)
 * [2024-06-05, 01:27:00](https://soylentnews.org/article.pl?sid=24/06/03/2011225&from=rss) - [No Physics? No Problem. AI Weather Forecasting is Already Making Huge Strides.](https://soylentnews.org/article.pl?sid=24/06/03/2011225&from=rss)
