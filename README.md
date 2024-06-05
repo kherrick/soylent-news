@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-05, 15:43:00](https://soylentnews.org/article.pl?sid=24/06/04/1713243&from=rss) - [Singing Repairs the Language Network of the Brain After a Cerebrovascular Accident](https://soylentnews.org/article.pl?sid=24/06/04/1713243&from=rss)
 * [2024-06-05, 11:00:00](https://soylentnews.org/article.pl?sid=24/06/04/0327227&from=rss) - [AMD is Convinced its Latest CPUs will Crush Qualcomm AI Chips](https://soylentnews.org/article.pl?sid=24/06/04/0327227&from=rss)
 * [2024-06-05, 06:13:00](https://soylentnews.org/article.pl?sid=24/06/03/2018241&from=rss) - [Baidu Robo-Cars Can be Crashed with Tinfoil and Cardboard ](https://soylentnews.org/article.pl?sid=24/06/03/2018241&from=rss)
 * [2024-06-05, 01:27:00](https://soylentnews.org/article.pl?sid=24/06/03/2011225&from=rss) - [No Physics? No Problem. AI Weather Forecasting is Already Making Huge Strides.](https://soylentnews.org/article.pl?sid=24/06/03/2011225&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-27, 12:52:00](https://soylentnews.org/article.pl?sid=24/05/26/071211&from=rss) - [The AI Laptops’ Linux Support](https://soylentnews.org/article.pl?sid=24/05/26/071211&from=rss)
 * [2024-05-27, 06:02:00](https://soylentnews.org/article.pl?sid=24/05/25/2026228&from=rss) - [Another US State Repeals Law That Protected ISPs From Municipal Competition](https://soylentnews.org/article.pl?sid=24/05/25/2026228&from=rss)
 * [2024-05-27, 01:16:00](https://soylentnews.org/article.pl?sid=24/05/25/1837231&from=rss) - [South Korea Wants Nation's Chip Makers To Move Beyond Memory](https://soylentnews.org/article.pl?sid=24/05/25/1837231&from=rss)
-* [2024-05-26, 20:31:00](https://soylentnews.org/article.pl?sid=24/05/25/1833222&from=rss) - [Parasitic Worms Infect 6 After Bear Meat Served at Family Reunion](https://soylentnews.org/article.pl?sid=24/05/25/1833222&from=rss)
 
 ## [Archives](archives/index.md)
 
