@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-07, 01:04:00](https://soylentnews.org/article.pl?sid=24/06/06/0255211&from=rss) - [What Looks Easy](https://soylentnews.org/article.pl?sid=24/06/06/0255211&from=rss)
 * [2024-06-06, 20:16:00](https://soylentnews.org/article.pl?sid=24/06/06/0047237&from=rss) - [The Long-Lost Tarzan Atari Game, Preserved](https://soylentnews.org/article.pl?sid=24/06/06/0047237&from=rss)
 * [2024-06-06, 15:33:00](https://soylentnews.org/article.pl?sid=24/06/06/0154217&from=rss) - [80 Years Since D-Day on the Beaches of Normandy](https://soylentnews.org/article.pl?sid=24/06/06/0154217&from=rss)
 * [2024-06-06, 10:49:00](https://soylentnews.org/article.pl?sid=24/06/05/1057202&from=rss) - [Japanese Billionaire Cancels Private Spacex Moon Mission, Crew Devastated](https://soylentnews.org/article.pl?sid=24/06/05/1057202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-28, 22:09:00](https://soylentnews.org/article.pl?sid=24/05/27/1241223&from=rss) - [Crooks Plant Backdoor In Software Used By Courtrooms Around The World](https://soylentnews.org/article.pl?sid=24/05/27/1241223&from=rss)
 * [2024-05-28, 17:20:00](https://soylentnews.org/article.pl?sid=24/05/27/1234259&from=rss) - [Bionic Boy - Five Year Old Boy Gets Bionic Arm ](https://soylentnews.org/article.pl?sid=24/05/27/1234259&from=rss)
 * [2024-05-28, 12:34:00](https://soylentnews.org/article.pl?sid=24/05/27/1225257&from=rss) - [Generative AI May Be Creating More Work Than It Saves](https://soylentnews.org/article.pl?sid=24/05/27/1225257&from=rss)
-* [2024-05-28, 07:43:00](https://soylentnews.org/article.pl?sid=24/05/27/1216234&from=rss) - [New Method to Create Aquatic Levitation Has Implications For Cooling Nuclear Reactors](https://soylentnews.org/article.pl?sid=24/05/27/1216234&from=rss)
 
 ## [Archives](archives/index.md)
 
