@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-07, 15:14:00](https://soylentnews.org/article.pl?sid=24/06/06/1827219&from=rss) - [US Sets Stage for Antitrust Probes Into Microsoft, OpenAI and Nvidia](https://soylentnews.org/article.pl?sid=24/06/06/1827219&from=rss)
 * [2024-06-07, 10:35:00](https://soylentnews.org/article.pl?sid=24/06/06/037244&from=rss) - [Top News App Caught Sharing “Entirely False” AI-Generated News](https://soylentnews.org/article.pl?sid=24/06/06/037244&from=rss)
 * [2024-06-07, 05:47:00](https://soylentnews.org/article.pl?sid=24/06/06/0259249&from=rss) - [Scientists Find Evidence of Hot Spring Oasis During Last Ice Age in Central Europe](https://soylentnews.org/article.pl?sid=24/06/06/0259249&from=rss)
 * [2024-06-07, 01:04:00](https://soylentnews.org/article.pl?sid=24/06/06/0255211&from=rss) - [What Looks Easy](https://soylentnews.org/article.pl?sid=24/06/06/0255211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-29, 12:34:00](https://soylentnews.org/article.pl?sid=24/05/27/185234&from=rss) - [Secret History – When Kodak Went to War With Polaroid](https://soylentnews.org/article.pl?sid=24/05/27/185234&from=rss)
 * [2024-05-29, 07:48:00](https://soylentnews.org/article.pl?sid=24/05/27/181248&from=rss) - [Agreement Reached at UN on Bio-Piracy Treaty](https://soylentnews.org/article.pl?sid=24/05/27/181248&from=rss)
 * [2024-05-29, 02:55:00](https://soylentnews.org/article.pl?sid=24/05/27/1336247&from=rss) - [Plant Based Meat Subsitutes Might be Bad for Diabetics](https://soylentnews.org/article.pl?sid=24/05/27/1336247&from=rss)
-* [2024-05-28, 22:09:00](https://soylentnews.org/article.pl?sid=24/05/27/1241223&from=rss) - [Crooks Plant Backdoor In Software Used By Courtrooms Around The World](https://soylentnews.org/article.pl?sid=24/05/27/1241223&from=rss)
 
 ## [Archives](archives/index.md)
 
