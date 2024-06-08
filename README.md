@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-08, 12:24:00](https://soylentnews.org/article.pl?sid=24/06/07/0726209&from=rss) - [The Linux CNA Mess You Didn't Know About](https://soylentnews.org/article.pl?sid=24/06/07/0726209&from=rss)
 * [2024-06-08, 10:00:00](https://soylentnews.org/article.pl?sid=24/06/08/102229&from=rss) - [RIP - William Anders (Apollo 8)](https://soylentnews.org/article.pl?sid=24/06/08/102229&from=rss)
 * [2024-06-08, 07:41:00](https://soylentnews.org/article.pl?sid=24/06/07/0721250&from=rss) - [The Misfit Who Built the IBM PC ](https://soylentnews.org/article.pl?sid=24/06/07/0721250&from=rss)
 * [2024-06-08, 02:47:00](https://soylentnews.org/article.pl?sid=24/06/06/1832222&from=rss) - [Scent Detection Dogs Discern Odour Molecules Better Than Previously Thought](https://soylentnews.org/article.pl?sid=24/06/06/1832222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-30, 12:24:00](https://soylentnews.org/article.pl?sid=24/05/28/1955204&from=rss) - [Fish Are Adapting to Weightlessness on the Chinese Space Station](https://soylentnews.org/article.pl?sid=24/05/28/1955204&from=rss)
 * [2024-05-30, 07:37:00](https://soylentnews.org/article.pl?sid=24/05/28/1950241&from=rss) - [US Officials: A Russian Rocket Launch Last Week Likely Deployed A Space Weapon](https://soylentnews.org/article.pl?sid=24/05/28/1950241&from=rss)
 * [2024-05-30, 02:53:00](https://soylentnews.org/article.pl?sid=24/05/28/1822211&from=rss) - [Tesla Cybertruck Owner \"bdesign\" Goes to ER After Being Injured During Delivery](https://soylentnews.org/article.pl?sid=24/05/28/1822211&from=rss)
-* [2024-05-29, 22:07:00](https://soylentnews.org/article.pl?sid=24/05/28/1811259&from=rss) - [A Novel Flame-Retardant, Smoke-Suppressing, and Superhydrophobic Transparent Bamboo](https://soylentnews.org/article.pl?sid=24/05/28/1811259&from=rss)
 
 ## [Archives](archives/index.md)
 
