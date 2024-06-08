@@ -145,6 +145,164 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/06/07/0726209">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/06/07/0726209&amp;from=rss"
+              >The Linux CNA Mess You Didn't Know About</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-08 @ 12:24:00</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/06/07/0726209"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~hubie/">hubie</a> writes:</p>
+              <p>
+                <a
+                  href="https://news.risky.biz/risky-biz-news-the-linux-cna-mess/"
+                  >Risky Biz News: The Linux CNA mess you didn't know about</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    The Linux Kernel project
+                    <a
+                      href="https://www.cve.org/Media/News/item/news/2024/02/13/kernel-org-Added-as-CNA"
+                      >was made</a
+                    >
+                    an official CVE Numbering Authority (CNA) with exclusive
+                    rights to issue CVE identifiers for the Linux kernal in
+                    February this year.
+                  </p>
+                  <p>
+                    While initially this looked like good news, almost three
+                    months later, this has turned into a complete and utter
+                    disaster.
+                  </p>
+                  <p>
+                    Over the past months, the Linux Kernel team has issued
+                    thousands of CVE identifiers, with the vast majority being
+                    for trivial bug fixes and not just security flaws.
+                  </p>
+                  <p>
+                    Just in May alone, the Linux team issued over 1,100 CVEs,
+                    according to
+                    <a href="https://x.com/JGamblin/status/1796948093830681058"
+                      >Cisco's Jerry Gamblin</a
+                    >—a number that easily beat out professional bug bounty
+                    programs/platforms run by the likes of Trend Micro ZDI,
+                    Wordfence, and Patchstack.
+                  </p>
+                  <p>
+                    Ironically, this was a disaster waiting to happen, with the
+                    Linux Kernel team
+                    <a
+                      href="https://lwn.net/ml/linux-kernel/2024021314-unwelcome-shrill-690e@gregkh/"
+                      >laying out</a
+                    >
+                    some weird
+                    <a href="https://docs.kernel.org/process/cve.html">rules</a>
+                    for issuing CVEs right after the moment it received its CNA
+                    status.
+                  </p>
+                  <p>
+                    We say weird because they are quite unique among all CNAs.
+                    The Linux kernel team argues that because of the deep layer
+                    where the kernel runs, bugs are hard to understand, and
+                    there is always a possibility of them becoming a security
+                    issue later down the line. Direct quote below:
+                  </p>
+                  <blockquote>
+                    <div>
+                      <p>
+                        "Note, due to the layer at which the Linux kernel is in
+                        a system, almost any bug might be exploitable to
+                        compromise the security of the kernel, but the
+                        possibility of exploitation is often not evident when
+                        the bug is fixed. Because of this, the CVE assignment
+                        team is overly cautious and assign CVE numbers to any
+                        bugfix that they identify. This explains the seemingly
+                        large number of CVEs that are issued by the Linux kernel
+                        team."
+                      </p>
+                    </div>
+                  </blockquote>
+                  <p>
+                    [...] Instead, the Linux Kernel team appears to have adopted
+                    a simpler approach where it puts a CVE on everything and
+                    lets the software and infosec community at large confirm
+                    that an issue is an authentic security flaw. If it's not,
+                    it's on the security and vulnerability management firms to
+                    file CVE revocation requests with the precise Linux Kernel
+                    team that runs the affected component.
+                  </p>
+                  <p>
+                    The new Linux CNA rules also prohibit the issuance of CVEs
+                    for bugs in EOL Linux kernels, which is also another weird
+                    take on security. Just because you don't maintain the code
+                    anymore, that doesn't mean attackers won't exploit it and
+                    that people wouldn't want to track it.
+                  </p>
+                  <p>
+                    The Linux team will also refuse to assign CVEs until a patch
+                    has been deployed, meaning there will be no CVEs for
+                    zero-days or vulnerabilities that may require a longer
+                    reporting and patching timeline.
+                  </p>
+                  <p>
+                    [...] And if this isn't bad enough, the Linux kernel team
+                    appears to be
+                    <a
+                      href="https://mastodon.social/@cadey@pony.social/112507861868449128"
+                      >backfiling CVEs</a
+                    >
+                    for fixes to last year's code, generating even more noise
+                    for people who use CVEs for legitimate purposes.
+                  </p>
+                  <p>
+                    [...] Unfortunately, all of this CVE spam also could have
+                    not happened at a worse time. Just as the Linux Kernel team
+                    was getting its CNA status, NIST was
+                    <a
+                      href="https://news.risky.biz/risky-biz-news-nist-nvd-stopped-enriching-cves-last-month/"
+                      >slowing down</a
+                    >
+                    its management of the NVD database—where all CVEs are
+                    compiled and enriched.
+                  </p>
+                  <p>
+                    NIST cited a staff shortage and a sudden rise in the number
+                    of reported vulnerabilities—mainly from the IoT space.
+                    Having one of every fifth CVE being a Linux non-security bug
+                    isn't helping NIST at all right now.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62987"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/06/08/102229">
           <h3>
             <a
@@ -157,7 +315,7 @@
             <h4>
               <span>2024-06-08 @ 10:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/08/102229"
@@ -189,7 +347,7 @@
             <h4>
               <span>2024-06-08 @ 07:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">265</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/07/0721250"
@@ -271,7 +429,7 @@
             <h4>
               <span>2024-06-08 @ 02:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">337</span></span
+                >Points: <span class="points">344</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/1832222"
@@ -369,12 +527,12 @@
             <h4>
               <span>2024-06-07 @ 21:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">660</span></span
+                >Points: <span class="points">683</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/1830218"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
             <div class="text">
@@ -499,7 +657,7 @@
             <h4>
               <span>2024-06-07 @ 15:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">701</span></span
+                >Points: <span class="points">708</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/1827219"
@@ -590,7 +748,7 @@
             <h4>
               <span>2024-06-07 @ 10:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">971</span></span
+                >Points: <span class="points">977</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/037244"
@@ -657,12 +815,12 @@
             <h4>
               <span>2024-06-07 @ 05:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">743</span></span
+                >Points: <span class="points">752</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/0259249"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
             <div class="text">
@@ -760,7 +918,7 @@
             <h4>
               <span>2024-06-07 @ 01:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">1819</span></span
+                >Points: <span class="points">1825</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/0255211"
@@ -815,7 +973,7 @@
             <h4>
               <span>2024-06-06 @ 20:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">1196</span></span
+                >Points: <span class="points">1201</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/0047237"
@@ -909,7 +1067,7 @@
             <h4>
               <span>2024-06-06 @ 15:33:00</span
               ><span class="points-container"
-                >Points: <span class="points">1652</span></span
+                >Points: <span class="points">1658</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/0154217"
@@ -1232,7 +1390,7 @@
             <h4>
               <span>2024-06-06 @ 10:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">1439</span></span
+                >Points: <span class="points">1444</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/05/1057202"
@@ -1312,7 +1470,7 @@
             <h4>
               <span>2024-06-06 @ 06:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">1841</span></span
+                >Points: <span class="points">1848</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/05/1050253"
@@ -1400,7 +1558,7 @@
             <h4>
               <span>2024-06-06 @ 01:17:00</span
               ><span class="points-container"
-                >Points: <span class="points">1538</span></span
+                >Points: <span class="points">1545</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/05/0128253"
@@ -1482,7 +1640,7 @@
             <h4>
               <span>2024-06-05 @ 20:30:00</span
               ><span class="points-container"
-                >Points: <span class="points">1821</span></span
+                >Points: <span class="points">1828</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/05/0121240"
@@ -1597,7 +1755,7 @@
             <h4>
               <span>2024-06-05 @ 15:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">1769</span></span
+                >Points: <span class="points">1774</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/04/1713243"
@@ -1708,7 +1866,7 @@
             <h4>
               <span>2024-06-05 @ 11:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">1804</span></span
+                >Points: <span class="points">1809</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/04/0327227"
@@ -1802,7 +1960,7 @@
             <h4>
               <span>2024-06-05 @ 06:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">2110</span></span
+                >Points: <span class="points">2117</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/03/2018241"
@@ -1922,7 +2080,7 @@
             <h4>
               <span>2024-06-05 @ 01:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">2143</span></span
+                >Points: <span class="points">2148</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/03/2011225"
@@ -2011,7 +2169,7 @@
             <h4>
               <span>2024-06-04 @ 20:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">2361</span></span
+                >Points: <span class="points">2368</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/03/1957244"
@@ -2138,7 +2296,7 @@
             <h4>
               <span>2024-06-04 @ 15:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">2525</span></span
+                >Points: <span class="points">2527</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/03/201234"
@@ -2214,7 +2372,7 @@
             <h4>
               <span>2024-06-04 @ 11:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">2232</span></span
+                >Points: <span class="points">2233</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/03/124235"
@@ -2305,7 +2463,7 @@
             <h4>
               <span>2024-06-04 @ 06:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">2290</span></span
+                >Points: <span class="points">2291</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/03/1154257"
@@ -2477,7 +2635,7 @@
             <h4>
               <span>2024-06-03 @ 20:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">2427</span></span
+                >Points: <span class="points">2428</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/02/1633246"
@@ -2932,7 +3090,7 @@
             <h4>
               <span>2024-06-02 @ 21:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">2524</span></span
+                >Points: <span class="points">2525</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/02/0420202"
@@ -3017,7 +3175,7 @@
             <h4>
               <span>2024-06-02 @ 16:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">2107</span></span
+                >Points: <span class="points">2108</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/31/2050255"
@@ -3787,7 +3945,7 @@
             <h4>
               <span>2024-06-01 @ 07:07:00</span
               ><span class="points-container"
-                >Points: <span class="points">2120</span></span
+                >Points: <span class="points">2121</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/30/1438203"
@@ -4976,115 +5134,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62910"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/05/28/1811259">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/05/28/1811259&amp;from=rss"
-              >A Novel Flame-Retardant, Smoke-Suppressing, and Superhydrophobic
-              Transparent Bamboo</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-29 @ 22:07:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2433</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/05/28/1811259"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
-              <p>
-                <a href="https://spj.science.org/doi/10.34133/research.0317"></a
-                ><a href="https://doi.org/10.34133/research.0317">Abstract</a>:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Silica glass, known for its brittleness, weight, and
-                    non-biodegradable nature, faces challenges in finding
-                    suitable alternatives.
-                  </p>
-                  <p>
-                    Transparent wood, made by infusing polymers into wood, shows
-                    promise but is hindered by limited availability of wood in
-                    China and fire risks associated with its use. This study
-                    explores the potential of utilizing bamboo, which has a
-                    shorter growth cycle, as a valuable resource for developing
-                    flame-retardant, smoke-suppressing, and superhydrophobic
-                    transparent bamboo. A 3-layered flame-retardant barrier,
-                    composed of a top silane layer, an intermediate layer of
-                    SiO2 formed through hydrolysis-condensation of Na2SiO3 on
-                    the surface, and an inner layer of Na2SiO3, has been
-                    confirmed to be effective in reducing heat release, slowing
-                    flame spread, and inhibiting the release of combustible
-                    volatiles, toxic smoke, and CO.
-                  </p>
-                  <p>
-                    Compared to natural bamboo and other congeneric transparent
-                    products, the transparent bamboo displays remarkable
-                    superiority, with the majority of parameters being notably
-                    lower by an entire order of magnitude.
-                  </p>
-                  <p>
-                    It achieves a long ignition time of 116 s, low total heat
-                    release (0.7 MJ/m2), low total smoke production (0.063 m2),
-                    and low peak CO concentration (0.008 kg/kg). Moreover, when
-                    used as a substrate for perovskite solar cells, the
-                    transparent bamboo displays the potential to act as a light
-                    management layer, leading to a marked efficiency enhancement
-                    of 15.29%. The excellent features of transparent bamboo make
-                    it an enticing choice for future advancements in
-                    flame-retardant glasses and optical devices.
-                  </p>
-                  <p>
-                    Bamboo, often referred to as "the second forest", boasts a
-                    rapid growth and regeneration rate, allowing it to reach
-                    maturity and be utilized as a building material within 4 to
-                    7 years of growth. With an output 4 times higher than wood
-                    per acre, bamboo is recognized for its exceptional
-                    efficiency. In terms of chemical composition, bamboo shares
-                    similarities with wood, mainly consisting of lignin,
-                    cellulose, and hemicellulose. Furthermore, the internal
-                    hierarchical structure of bamboo closely resembles that of
-                    wood, featuring high porosity and permeability because of
-                    neatly arranged vertical channels.
-                  </p>
-                  <p>
-                    This characteristic suggests the potential use of bamboo in
-                    the production of transparent composite materials.
-                    Transparent bamboo offers 3 distinct advantages over
-                    traditional silica glass. Firstly, the abundant and
-                    renewable nature of bamboo feedstock aligns with
-                    environmental sustainability goals. Secondly, transparent
-                    bamboo exhibits high light transmittance and haze, enabling
-                    privacy while facilitating the entry of natural light
-                    indoors. Lastly, the low density and excellent ability to
-                    regulate temperature and humidity from a bamboo template
-                    further position it as a promising alternative to
-                    conventional glass.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62883"
                     >Original Submission</a
                   ></small
                 >
