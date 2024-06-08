@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-08, 02:47:00](https://soylentnews.org/article.pl?sid=24/06/06/1832222&from=rss) - [Scent Detection Dogs Discern Odour Molecules Better Than Previously Thought](https://soylentnews.org/article.pl?sid=24/06/06/1832222&from=rss)
 * [2024-06-07, 21:58:00](https://soylentnews.org/article.pl?sid=24/06/06/1830218&from=rss) - [The Internet Transforms Life in Amazon Tribe](https://soylentnews.org/article.pl?sid=24/06/06/1830218&from=rss)
 * [2024-06-07, 15:14:00](https://soylentnews.org/article.pl?sid=24/06/06/1827219&from=rss) - [US Sets Stage for Antitrust Probes Into Microsoft, OpenAI and Nvidia](https://soylentnews.org/article.pl?sid=24/06/06/1827219&from=rss)
 * [2024-06-07, 10:35:00](https://soylentnews.org/article.pl?sid=24/06/06/037244&from=rss) - [Top News App Caught Sharing “Entirely False” AI-Generated News](https://soylentnews.org/article.pl?sid=24/06/06/037244&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-29, 22:07:00](https://soylentnews.org/article.pl?sid=24/05/28/1811259&from=rss) - [A Novel Flame-Retardant, Smoke-Suppressing, and Superhydrophobic Transparent Bamboo](https://soylentnews.org/article.pl?sid=24/05/28/1811259&from=rss)
 * [2024-05-29, 17:20:00](https://soylentnews.org/article.pl?sid=24/05/28/181243&from=rss) - [In The Race For The Most Advanced Chips, TSMC Shows Off Cutting-Edge Roadmap](https://soylentnews.org/article.pl?sid=24/05/28/181243&from=rss)
 * [2024-05-29, 12:34:00](https://soylentnews.org/article.pl?sid=24/05/27/185234&from=rss) - [Secret History – When Kodak Went to War With Polaroid](https://soylentnews.org/article.pl?sid=24/05/27/185234&from=rss)
-* [2024-05-29, 07:48:00](https://soylentnews.org/article.pl?sid=24/05/27/181248&from=rss) - [Agreement Reached at UN on Bio-Piracy Treaty](https://soylentnews.org/article.pl?sid=24/05/27/181248&from=rss)
 
 ## [Archives](archives/index.md)
 
