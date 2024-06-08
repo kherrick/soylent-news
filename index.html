@@ -145,6 +145,166 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/06/07/0736213">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/06/07/0736213&amp;from=rss"
+              >Can A Technology Called RAG Keep AI Models From Making Stuff Up?
+            </a>
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-08 @ 21:55:00</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/06/07/0736213"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Arthur T Knackerbracket has processed the
+                <a
+                  href="https://arstechnica.com/ai/2024/06/can-a-technology-called-rag-keep-ai-models-from-making-stuff-up/"
+                  >following story</a
+                >:
+              </p>
+              <p>[Editor's Note: RAG: retrieval-augmented generation]</p>
+              <blockquote>
+                <div>
+                  <p>
+                    We’ve been living through the
+                    <a
+                      href="https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/"
+                      >generative AI boom</a
+                    >
+                    for nearly a year and a half now, following the late 2022
+                    release of OpenAI’s ChatGPT. But despite transformative
+                    effects on companies’ share prices, generative AI tools
+                    powered by large language models (LLMs) still have major
+                    drawbacks that have kept them from being as useful as many
+                    would like them to be. Retrieval augmented generation, or
+                    RAG, aims to fix some of those drawbacks.
+                  </p>
+                  <p>
+                    Perhaps the most prominent drawback of LLMs is their
+                    <a
+                      href="https://arstechnica.com/information-technology/2023/04/why-ai-chatbots-are-the-ultimate-bs-machines-and-how-people-hope-to-fix-them/"
+                      >tendency toward confabulation</a
+                    >
+                    (also called “hallucination”), which is a statistical
+                    gap-filling phenomenon AI language models produce when they
+                    are tasked with reproducing knowledge that wasn’t present in
+                    the training data. They generate plausible-sounding text
+                    that can veer toward accuracy when the training data is
+                    solid but otherwise may just be completely made up.
+                  </p>
+                  <p>
+                    Relying on confabulating AI models gets people and companies
+                    in trouble, as we’ve covered in the past. In 2023, we saw
+                    <a
+                      href="https://arstechnica.com/tech-policy/2023/12/michael-cohens-lawyer-cited-three-fake-cases-in-possible-ai-fueled-screwup/"
+                      >two instances</a
+                    >
+                    of lawyers citing legal cases, confabulated by AI, that
+                    didn’t exist. We’ve covered
+                    <a
+                      href="https://arstechnica.com/tech-policy/2023/10/will-chatgpts-hallucinations-be-allowed-to-ruin-your-life/"
+                      >claims against OpenAI</a
+                    >
+                    in which ChatGPT confabulated and accused innocent people of
+                    doing terrible things. In February, we wrote about Air
+                    Canada’s customer service chatbot
+                    <a
+                      href="https://arstechnica.com/tech-policy/2024/02/air-canada-must-honor-refund-policy-invented-by-airlines-chatbot/"
+                      >inventing a refund policy</a
+                    >, and in March, a New York City chatbot was
+                    <a
+                      href="https://arstechnica.com/ai/2024/03/nycs-government-chatbot-is-lying-about-city-laws-and-regulations/"
+                      >caught confabulating</a
+                    >
+                    city regulations.
+                  </p>
+                  <p>
+                    [...] “RAG is a way of improving LLM performance, in essence
+                    by blending the LLM process with a web search or other
+                    document look-up process” to help LLMs stick to the facts,
+                    according to Noah Giansiracusa, associate professor of
+                    mathematics at Bentley University.
+                  </p>
+                  <p>
+                    [...] Although RAG is now seen as a technique to help fix
+                    issues with generative AI, it actually predates ChatGPT.
+                    Researchers coined the term in
+                    <a href="https://arxiv.org/pdf/2005.11401"
+                      >a 2020 academic paper</a
+                    >
+                    by researchers at Facebook AI Research (FAIR, now Meta AI
+                    Research), University College London, and New York
+                    University.
+                  </p>
+                  <p>
+                    As we've mentioned, LLMs struggle with facts. Google’s entry
+                    into the generative AI race, Bard,
+                    <a
+                      href="https://arstechnica.com/information-technology/2023/02/in-paris-demo-google-scrambles-to-counter-chatgpt-but-ends-up-embarrassing-itself/"
+                      >made an embarrassing error</a
+                    >
+                    on its first public demonstration back in February 2023
+                    about the James Webb Space Telescope. The error wiped around
+                    $100 billion off the value of parent company Alphabet. LLMs
+                    produce the most statistically likely response based on
+                    their training data and don’t understand anything they
+                    output, meaning they can present false information that
+                    seems accurate if you don't have expert knowledge on a
+                    subject.
+                  </p>
+                  <p>
+                    LLMs also lack up-to-date knowledge and the ability to
+                    identify gaps in their knowledge. “When a human tries to
+                    answer a question, they can rely on their memory and come up
+                    with a response on the fly, or they could do something like
+                    Google it or peruse Wikipedia and then try to piece an
+                    answer together from what they find there—still filtering
+                    that info through their internal knowledge of the matter,”
+                    said Giansiracusa.
+                  </p>
+                  <p>
+                    But LLMs aren’t humans, of course. Their training data can
+                    age quickly, particularly in more time-sensitive queries. In
+                    addition, the LLM often can’t distinguish specific sources
+                    of its knowledge, as all its training data is blended
+                    together into a kind of soup.
+                  </p>
+                  <p>
+                    In theory, RAG should make keeping AI models up to date far
+                    cheaper and easier. “The beauty of RAG is that when new
+                    information becomes available, rather than having to retrain
+                    the model, all that’s needed is to augment the model’s
+                    external knowledge base with the updated information,” said
+                    Peterson. “This reduces LLM development time and cost while
+                    enhancing the model’s scalability.”
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62983"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/06/07/0732253">
           <h3>
             <a
@@ -157,7 +317,7 @@
             <h4>
               <span>2024-06-08 @ 17:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">317</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/07/0732253"
@@ -269,12 +429,12 @@
             <h4>
               <span>2024-06-08 @ 12:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">678</span></span
+                >Points: <span class="points">696</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/07/0726209"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
             <div class="text">
@@ -427,7 +587,7 @@
             <h4>
               <span>2024-06-08 @ 10:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">604</span></span
+                >Points: <span class="points">615</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/08/102229"
@@ -459,12 +619,12 @@
             <h4>
               <span>2024-06-08 @ 07:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">768</span></span
+                >Points: <span class="points">782</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/07/0721250"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
             <div class="text">
@@ -541,12 +701,12 @@
             <h4>
               <span>2024-06-08 @ 02:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">615</span></span
+                >Points: <span class="points">625</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/1832222"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
             <div class="text">
@@ -639,12 +799,12 @@
             <h4>
               <span>2024-06-07 @ 21:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">1032</span></span
+                >Points: <span class="points">1045</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/1830218"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
             <div class="text">
@@ -769,7 +929,7 @@
             <h4>
               <span>2024-06-07 @ 15:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">934</span></span
+                >Points: <span class="points">941</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/1827219"
@@ -860,7 +1020,7 @@
             <h4>
               <span>2024-06-07 @ 10:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">1231</span></span
+                >Points: <span class="points">1240</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/037244"
@@ -927,7 +1087,7 @@
             <h4>
               <span>2024-06-07 @ 05:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">971</span></span
+                >Points: <span class="points">981</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/0259249"
@@ -1030,7 +1190,7 @@
             <h4>
               <span>2024-06-07 @ 01:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">2124</span></span
+                >Points: <span class="points">2133</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/0255211"
@@ -1085,7 +1245,7 @@
             <h4>
               <span>2024-06-06 @ 20:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">1422</span></span
+                >Points: <span class="points">1429</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/0047237"
@@ -1179,7 +1339,7 @@
             <h4>
               <span>2024-06-06 @ 15:33:00</span
               ><span class="points-container"
-                >Points: <span class="points">1887</span></span
+                >Points: <span class="points">1895</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/06/0154217"
@@ -1502,7 +1662,7 @@
             <h4>
               <span>2024-06-06 @ 10:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">1681</span></span
+                >Points: <span class="points">1688</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/05/1057202"
@@ -1582,7 +1742,7 @@
             <h4>
               <span>2024-06-06 @ 06:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">2074</span></span
+                >Points: <span class="points">2083</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/05/1050253"
@@ -1670,7 +1830,7 @@
             <h4>
               <span>2024-06-06 @ 01:17:00</span
               ><span class="points-container"
-                >Points: <span class="points">1765</span></span
+                >Points: <span class="points">1774</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/05/0128253"
@@ -1752,7 +1912,7 @@
             <h4>
               <span>2024-06-05 @ 20:30:00</span
               ><span class="points-container"
-                >Points: <span class="points">2040</span></span
+                >Points: <span class="points">2047</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/05/0121240"
@@ -1867,7 +2027,7 @@
             <h4>
               <span>2024-06-05 @ 15:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">1978</span></span
+                >Points: <span class="points">1985</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/04/1713243"
@@ -1978,7 +2138,7 @@
             <h4>
               <span>2024-06-05 @ 11:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">2011</span></span
+                >Points: <span class="points">2018</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/04/0327227"
@@ -2072,7 +2232,7 @@
             <h4>
               <span>2024-06-05 @ 06:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">2346</span></span
+                >Points: <span class="points">2354</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/03/2018241"
@@ -2192,7 +2352,7 @@
             <h4>
               <span>2024-06-05 @ 01:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">2346</span></span
+                >Points: <span class="points">2347</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/03/2011225"
@@ -2281,7 +2441,7 @@
             <h4>
               <span>2024-06-04 @ 20:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">2474</span></span
+                >Points: <span class="points">2476</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/03/1957244"
@@ -2484,7 +2644,7 @@
             <h4>
               <span>2024-06-04 @ 11:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">2247</span></span
+                >Points: <span class="points">2248</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/03/124235"
@@ -3016,7 +3176,7 @@
             <h4>
               <span>2024-06-03 @ 06:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">2390</span></span
+                >Points: <span class="points">2391</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/01/1721210"
@@ -3735,7 +3895,7 @@
             <h4>
               <span>2024-06-01 @ 16:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">2880</span></span
+                >Points: <span class="points">2882</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/30/1454203"
@@ -3934,7 +4094,7 @@
             <h4>
               <span>2024-06-01 @ 09:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">2275</span></span
+                >Points: <span class="points">2276</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/31/0013202"
@@ -4264,7 +4424,7 @@
             <h4>
               <span>2024-05-31 @ 21:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">2319</span></span
+                >Points: <span class="points">2320</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/30/0553205"
@@ -4351,7 +4511,7 @@
             <h4>
               <span>2024-05-31 @ 16:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">2924</span></span
+                >Points: <span class="points">2925</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/30/0546246"
@@ -4447,7 +4607,7 @@
             <h4>
               <span>2024-05-31 @ 12:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">2432</span></span
+                >Points: <span class="points">2433</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/05/30/0542244"
@@ -5049,95 +5209,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62916"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/05/28/1950241">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/05/28/1950241&amp;from=rss"
-              >US Officials: A Russian Rocket Launch Last Week Likely Deployed A
-              Space Weapon</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-30 @ 07:37:00</span
-              ><span class="points-container"
-                >Points: <span class="points">3812</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/05/28/1950241"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-            <div class="text">
-              <blockquote>
-                <div>
-                  <p>
-                    But one of these Russian satellites, Kosmos 2542, released a
-                    smaller sub-satellite, designated Kosmos 2543, which made
-                    its own passes near the USA 245 spacecraft, a KH-11 imaging
-                    satellite similar to USA 314. At one point, satellite
-                    trackers noticed USA 245 made a slight change to orbit. Its
-                    Russian pursuer later made a similar orbit adjustment to
-                    keep up.
-                  </p>
-                  <p>
-                    In 2020, Kosmos 2543 backed off from USA 245. Once well away
-                    from the NRO satellite, Kosmos 2543 ejected a mysterious
-                    projectile into space at a speed fast enough to damage any
-                    target in its sights.
-                  </p>
-                  <p>
-                    At the time,
-                    <a
-                      href="https://www.spacecom.mil/Newsroom/News/Article-Display/Article/2285098/russia-conducts-space-based-anti-satellite-weapons-test/"
-                      >US Space Command called the event</a
-                    >
-                    a "non-destructive test of a space-based anti-satellite
-                    weapon." The projectile fired from Kosmos 2543 at a relative
-                    velocity of some 400 mph (700 km per hour), according to
-                    McDowell's analysis of publicly available satellite tracking
-                    data.
-                  </p>
-                  <p>
-                    [...] Most recently, US government officials have
-                    <a
-                      href="https://arstechnica.com/space/2024/04/no-surprise-russia-vetoes-un-resolution-reaffirming-ban-on-nukes-in-space/"
-                      >claimed Russia is developing a nuclear anti-satellite
-                      weapon</a
-                    >. Russian officials also denied this. But Russia vetoed a
-                    UN Security Council resolution last month reiterating
-                    language from the 1967 Outer Space Treaty banning weapons of
-                    mass destruction in orbit.
-                  </p>
-                  <p>
-                    [...] "The space domain is much more challenging today than
-                    it was a number a number of years ago," said Air Force Gen.
-                    Charles "CQ" Brown, chairman of the joint chiefs of staff,
-                    in an event Wednesday hosted by the Atlantic Council. "We
-                    looked at it as a very benign environment, where you didn't
-                    have to worry about conflicts in space. As a matter of fact,
-                    naming space as a warfighting domain was kind of forbidden,
-                    but that's changed, and it's been changed based what our
-                    adversaries are doing in space."
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62894"
                     >Original Submission</a
                   ></small
                 >
