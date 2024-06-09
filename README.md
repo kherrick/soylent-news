@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-09, 02:30:00](https://soylentnews.org/article.pl?sid=24/06/08/0126205&from=rss) - [This AI-Powered “Black Box” Could Make Surgery Safer](https://soylentnews.org/article.pl?sid=24/06/08/0126205&from=rss)
 * [2024-06-08, 21:55:00](https://soylentnews.org/article.pl?sid=24/06/07/0736213&from=rss) - [Can A Technology Called RAG Keep AI Models From Making Stuff Up? ](https://soylentnews.org/article.pl?sid=24/06/07/0736213&from=rss)
 * [2024-06-08, 17:08:00](https://soylentnews.org/article.pl?sid=24/06/07/0732253&from=rss) - [What’s Next for MDMA](https://soylentnews.org/article.pl?sid=24/06/07/0732253&from=rss)
 * [2024-06-08, 12:24:00](https://soylentnews.org/article.pl?sid=24/06/07/0726209&from=rss) - [The Linux CNA Mess You Didn't Know About](https://soylentnews.org/article.pl?sid=24/06/07/0726209&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-31, 02:37:00](https://soylentnews.org/article.pl?sid=24/05/30/0530212&from=rss) - [James Webb Space Telescope Spots Early Galaxies Feeding on Cold Gas](https://soylentnews.org/article.pl?sid=24/05/30/0530212&from=rss)
 * [2024-05-30, 21:52:00](https://soylentnews.org/article.pl?sid=24/05/29/146201&from=rss) - [Nvidia Denies Pirate E-Book Sites are “Shadow Libraries” to Shut Down Lawsuit](https://soylentnews.org/article.pl?sid=24/05/29/146201&from=rss)
 * [2024-05-30, 17:12:00](https://soylentnews.org/article.pl?sid=24/05/28/2015209&from=rss) - [UK Rushes Through Bill To Copy EU's Digital Markets Act](https://soylentnews.org/article.pl?sid=24/05/28/2015209&from=rss)
-* [2024-05-30, 12:24:00](https://soylentnews.org/article.pl?sid=24/05/28/1955204&from=rss) - [Fish Are Adapting to Weightlessness on the Chinese Space Station](https://soylentnews.org/article.pl?sid=24/05/28/1955204&from=rss)
 
 ## [Archives](archives/index.md)
 
