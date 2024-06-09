@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-09, 16:44:00](https://soylentnews.org/article.pl?sid=24/06/09/1358249&from=rss) - [Nasty Bug With Very Simple Exploit Hits PHP](https://soylentnews.org/article.pl?sid=24/06/09/1358249&from=rss)
 * [2024-06-09, 11:58:00](https://soylentnews.org/article.pl?sid=24/06/08/1729258&from=rss) - [Virtual Meatballs](https://soylentnews.org/article.pl?sid=24/06/08/1729258&from=rss)
 * [2024-06-09, 07:16:00](https://soylentnews.org/article.pl?sid=24/06/08/1727205&from=rss) - [FBI Unveils 7,000 Decryption Keys to Aid Lockbit Victims](https://soylentnews.org/article.pl?sid=24/06/08/1727205&from=rss)
 * [2024-06-09, 02:30:00](https://soylentnews.org/article.pl?sid=24/06/08/0126205&from=rss) - [This AI-Powered “Black Box” Could Make Surgery Safer](https://soylentnews.org/article.pl?sid=24/06/08/0126205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-05-31, 16:54:00](https://soylentnews.org/article.pl?sid=24/05/30/0546246&from=rss) - [ICE Engine Reborn](https://soylentnews.org/article.pl?sid=24/05/30/0546246&from=rss)
 * [2024-05-31, 12:08:00](https://soylentnews.org/article.pl?sid=24/05/30/0542244&from=rss) - [Gigabyte's New Motherboard Supports Massive 128-Pound GPUs but Still Can't Fix Cracking](https://soylentnews.org/article.pl?sid=24/05/30/0542244&from=rss)
 * [2024-05-31, 07:22:00](https://soylentnews.org/article.pl?sid=24/05/30/0535230&from=rss) - [“Deny, Denounce, Delay”: The Battle Over the Risk of Ultra-Processed Foods](https://soylentnews.org/article.pl?sid=24/05/30/0535230&from=rss)
-* [2024-05-31, 02:37:00](https://soylentnews.org/article.pl?sid=24/05/30/0530212&from=rss) - [James Webb Space Telescope Spots Early Galaxies Feeding on Cold Gas](https://soylentnews.org/article.pl?sid=24/05/30/0530212&from=rss)
 
 ## [Archives](archives/index.md)
 
