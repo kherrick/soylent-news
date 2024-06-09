@@ -145,6 +145,84 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/06/09/1358249">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/06/09/1358249&amp;from=rss"
+              >Nasty Bug With Very Simple Exploit Hits PHP</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-09 @ 16:44:00</span
+              ><span class="points-container"
+                >Points: <span class="points">0</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/06/09/1358249"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    [...] The vulnerability was discovered by Devcore researcher
+                    Orange Tsai, who
+                    <a
+                      href="https://blog.orange.tw/2024/06/cve-2024-4577-yet-another-php-rce.html"
+                      >said</a
+                    >: "The bug is incredibly simple, but that's also what makes
+                    it interesting."
+                  </p>
+                  <p>
+                    The Devcore writeup said that the researchers have confirmed
+                    that XAMPP is vulnerable when Windows is configured to use
+                    the locales for Traditional Chinese, Simplified Chinese, or
+                    Japanese. In Windows, a locale is a set of user preference
+                    information related to the user's language, environment,
+                    and/or cultural conventions. The researchers haven't tested
+                    other locales and have urged people using them to perform a
+                    comprehensive asset assessment to test their usage
+                    scenarios.
+                  </p>
+                  <p>
+                    [...] XAMPP for Windows had yet to release a fix at the time
+                    this post went live. For admins without the need for PHP
+                    CGI, they can turn it off using the following Apache HTTP
+                    Server configuration:
+                  </p>
+                  <blockquote>
+                    <div>
+                      <p>C:/xampp/apache/conf/extra/httpd-xampp.conf</p>
+                    </div>
+                  </blockquote>
+                  <p>Locating the corresponding lines:</p>
+                  <p>ScriptAlias /php-cgi/ "C:/xampp/php/"</p>
+                  <p>And comment it out:</p>
+                  <p># ScriptAlias /php-cgi/ "C:/xampp/php/"</p>
+                  <p>
+                    Additional analysis of the vulnerability is available
+                    <a href="https://buaq.net/go-244036.html">here</a>.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62991"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/06/08/1729258">
           <h3>
             <a
@@ -162,7 +240,7 @@
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/06/08/1729258"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
             <div class="text">
@@ -5089,103 +5167,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62921"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/05/30/0530212">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/05/30/0530212&amp;from=rss"
-              >James Webb Space Telescope Spots Early Galaxies Feeding on Cold
-              Gas</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-31 @ 02:37:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2054</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/05/30/0530212"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Arthur T Knackerbracket has processed the
-                <a
-                  href="https://www.siliconrepublic.com/innovation/james-webb-early-galaxies-gas-era-reionisation"
-                  >following story</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Researchers looking at data from the
-                    <a
-                      href="https://www.siliconrepublic.com/innovation/james-webb-space-telescope-brown-dwarf-methane"
-                      >James Webb Space Telescope</a
-                    >
-                    have gained new insight on galaxies forming during an
-                    earlier period of the universe.
-                  </p>
-                  <p>
-                    These three galaxies are believed to be actively forming
-                    when the universe was only 400m to 600m years old – compared
-                    to the universe’s current estimated age of roughly 13.7bn
-                    years. Thanks to Webb’s powerful instruments, researchers
-                    can peer into this early period and learn more about how the
-                    universe was formed.
-                  </p>
-                  <p>
-                    Webb’s data on this early period shows these three galaxies
-                    are surrounded by gases. The researchers suspect these gases
-                    are almost purely hydrogen and helium, the earliest elements
-                    to exist in the cosmos.
-                  </p>
-                  <p>
-                    [...] “We’re moving away from a picture of galaxies as
-                    isolated ecosystems,” Nielsen said. “At this stage in the
-                    history of the universe, galaxies are all intimately
-                    connected to the intergalactic medium with its filaments and
-                    structures of pristine gas.”
-                  </p>
-                  <p>
-                    [...] By combining spectra with Webb images, the team found
-                    that the light from these three forming galaxies is being
-                    absorbed by large amounts of neutral hydrogen gas.
-                  </p>
-                  <p>
-                    “The gas must be very widespread and cover a very large
-                    fraction of the galaxy,” said study co-author and associate
-                    professor Darach Watson. “This suggests that we are seeing
-                    the assembly of neutral hydrogen gas into galaxies. That gas
-                    will go on to cool, clump, and form new stars.”
-                  </p>
-                  <p>
-                    By matching James Webb’s data to existing models of star
-                    formation, the researchers also found that these galaxies
-                    primarily have populations of young stars, suggesting these
-                    galaxies have not had enough time to form most of their
-                    stars yet.
-                  </p>
-                </div>
-              </blockquote>
-              <p><a href="https://arxiv.org/abs/2306.00647">arXiv paper</a></p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62885"
                     >Original Submission</a
                   ></small
                 >
