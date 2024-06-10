@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-10, 06:53:00](https://soylentnews.org/article.pl?sid=24/06/08/1734215&from=rss) - [Direct To Open Access Claims Success](https://soylentnews.org/article.pl?sid=24/06/08/1734215&from=rss)
 * [2024-06-10, 02:11:00](https://soylentnews.org/article.pl?sid=24/06/09/1322221&from=rss) - [Dividing Code](https://soylentnews.org/article.pl?sid=24/06/09/1322221&from=rss)
 * [2024-06-09, 21:26:00](https://soylentnews.org/article.pl?sid=24/06/08/1737232&from=rss) - [AI Beauty Pageant](https://soylentnews.org/article.pl?sid=24/06/08/1737232&from=rss)
 * [2024-06-09, 16:44:00](https://soylentnews.org/article.pl?sid=24/06/09/1358249&from=rss) - [Nasty Bug With Very Simple Exploit Hits PHP](https://soylentnews.org/article.pl?sid=24/06/09/1358249&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-01, 07:07:00](https://soylentnews.org/article.pl?sid=24/05/30/1438203&from=rss) - [A Hack Admirable [REPRISE]](https://soylentnews.org/article.pl?sid=24/05/30/1438203&from=rss)
 * [2024-06-01, 02:24:00](https://soylentnews.org/article.pl?sid=24/05/30/1435234&from=rss) - [The Brain Might Also Have a Microbiome](https://soylentnews.org/article.pl?sid=24/05/30/1435234&from=rss)
 * [2024-05-31, 21:41:00](https://soylentnews.org/article.pl?sid=24/05/30/0553205&from=rss) - [Google Search Document Leak Reveals Inner Workings of Ranking Algorithm](https://soylentnews.org/article.pl?sid=24/05/30/0553205&from=rss)
-* [2024-05-31, 16:54:00](https://soylentnews.org/article.pl?sid=24/05/30/0546246&from=rss) - [ICE Engine Reborn](https://soylentnews.org/article.pl?sid=24/05/30/0546246&from=rss)
 
 ## [Archives](archives/index.md)
 
