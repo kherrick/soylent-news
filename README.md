@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-10, 16:23:00](https://soylentnews.org/article.pl?sid=24/06/09/1439217&from=rss) - [Make Two Trips](https://soylentnews.org/article.pl?sid=24/06/09/1439217&from=rss)
 * [2024-06-10, 11:38:00](https://soylentnews.org/article.pl?sid=24/06/09/1430234&from=rss) - [Heat-Switch Device Boosts Lunar Rover Longevity In Harsh Moon Climate](https://soylentnews.org/article.pl?sid=24/06/09/1430234&from=rss)
 * [2024-06-10, 06:53:00](https://soylentnews.org/article.pl?sid=24/06/08/1734215&from=rss) - [Direct To Open Access Claims Success](https://soylentnews.org/article.pl?sid=24/06/08/1734215&from=rss)
 * [2024-06-10, 02:11:00](https://soylentnews.org/article.pl?sid=24/06/09/1322221&from=rss) - [Dividing Code](https://soylentnews.org/article.pl?sid=24/06/09/1322221&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-01, 11:51:00](https://soylentnews.org/article.pl?sid=24/05/30/1444225&from=rss) - [AI Headphones Let Wearer Listen to a Single Person in a Crowd, by Looking at Them Just Once](https://soylentnews.org/article.pl?sid=24/05/30/1444225&from=rss)
 * [2024-06-01, 09:28:00](https://soylentnews.org/article.pl?sid=24/05/31/0013202&from=rss) - [Google Cloud Explains How It Accidentally Deleted a Customer Account [REPRISE]](https://soylentnews.org/article.pl?sid=24/05/31/0013202&from=rss)
 * [2024-06-01, 07:07:00](https://soylentnews.org/article.pl?sid=24/05/30/1438203&from=rss) - [A Hack Admirable [REPRISE]](https://soylentnews.org/article.pl?sid=24/05/30/1438203&from=rss)
-* [2024-06-01, 02:24:00](https://soylentnews.org/article.pl?sid=24/05/30/1435234&from=rss) - [The Brain Might Also Have a Microbiome](https://soylentnews.org/article.pl?sid=24/05/30/1435234&from=rss)
 
 ## [Archives](archives/index.md)
 
