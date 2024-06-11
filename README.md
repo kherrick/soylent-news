@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-11, 06:45:00](https://soylentnews.org/article.pl?sid=24/06/09/1520220&from=rss) - [Total Recall:  Microsoft Dealing With Trust Issues](https://soylentnews.org/article.pl?sid=24/06/09/1520220&from=rss)
 * [2024-06-11, 01:58:00](https://soylentnews.org/article.pl?sid=24/06/09/1449217&from=rss) - [Vehicle Privacy Update](https://soylentnews.org/article.pl?sid=24/06/09/1449217&from=rss)
 * [2024-06-10, 21:11:00](https://soylentnews.org/article.pl?sid=24/06/09/1445231&from=rss) - [Private Company Entering High-Speed Rail](https://soylentnews.org/article.pl?sid=24/06/09/1445231&from=rss)
 * [2024-06-10, 16:23:00](https://soylentnews.org/article.pl?sid=24/06/09/1439217&from=rss) - [Make Two Trips](https://soylentnews.org/article.pl?sid=24/06/09/1439217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-02, 02:01:00](https://soylentnews.org/article.pl?sid=24/05/31/1953202&from=rss) - [Pigeon is Faster for Data Transfer Than Gigabit Fiber Internet](https://soylentnews.org/article.pl?sid=24/05/31/1953202&from=rss)
 * [2024-06-01, 21:18:00](https://soylentnews.org/article.pl?sid=24/05/30/150225&from=rss) - [$75M In Chips Cash Going To SKC Glass Substrate Factory](https://soylentnews.org/article.pl?sid=24/05/30/150225&from=rss)
 * [2024-06-01, 16:35:00](https://soylentnews.org/article.pl?sid=24/05/30/1454203&from=rss) - [The Making of Donkey Kong or How I Spent My Summer of 1982](https://soylentnews.org/article.pl?sid=24/05/30/1454203&from=rss)
-* [2024-06-01, 11:51:00](https://soylentnews.org/article.pl?sid=24/05/30/1444225&from=rss) - [AI Headphones Let Wearer Listen to a Single Person in a Crowd, by Looking at Them Just Once](https://soylentnews.org/article.pl?sid=24/05/30/1444225&from=rss)
 
 ## [Archives](archives/index.md)
 
