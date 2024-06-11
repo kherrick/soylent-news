@@ -145,6 +145,82 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/06/10/1517206">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/06/10/1517206&amp;from=rss"
+              >OpenSSH Introduces Options to Penalize Undesirable Behavior</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-11 @ 11:31:00</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/06/10/1517206"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    At first we were wondering whether these options would be
+                    enabled by default before the new release. We did not have
+                    to wait long. This
+                    <a
+                      href="https://marc.info/?l=openbsd-cvs&amp;m=171770534714766&amp;w=2"
+                      >subsequent commit</a
+                    >
+                    settled the issue:
+                  </p>
+                  <blockquote>
+                    <div>
+                      <p>
+                        List: openbsd-cvs Subject: CVS: cvs.openbsd.org: src
+                        From: Damien Miller &lt;djm () cvs ! openbsd ! org Date:
+                        2024-06-06 20:25:48 CVSROOT: /cvs Module name: src
+                        Changes by: djm@cvs.openbsd.org 2024/06/06 14:25:48
+                        Modified files: usr.bin/ssh : servconf.c Log message:
+                        enable PerSourcePenalties by default. ok markus NB. if
+                        you run a sshd that accepts connections from behind
+                        large NAT blocks, proxies or anything else that
+                        aggregates many possible users behind few IP addresses,
+                        then this change may cause legitimate traffic to be
+                        denied. Please read the PerSourcePenalties,
+                        PerSourcePenaltyExemptList and PerSourceNetBlockSize
+                        options in sshd_config(5) for how to tune your sshd(8)
+                        for your specific circumstances.
+                      </p>
+                    </div>
+                  </blockquote>
+                  <p>
+                    So now we know: starting with OpenBSD 7.6,
+                    PerSourcePenalties will be enabled by default, and admins
+                    who do not themselves run PF or other network translation
+                    mechanisms will need to keep the consequences of
+                    inconsiderate NAT use in mind.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63001"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/06/09/1520220">
           <h3>
             <a
@@ -5037,97 +5113,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62892"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/05/30/1454203">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/05/30/1454203&amp;from=rss"
-              >The Making of Donkey Kong or How I Spent My Summer of 1982</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-01 @ 16:35:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2976</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/05/30/1454203"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~owl/">owl</a> writes:</p>
-              <p>
-                <a
-                  href="https://medium.com/swlh/how-i-spent-my-summer-of-1982-59638293f358"
-                  >https://medium.com/swlh/how-i-spent-my-summer-of-1982-59638293f358</a
-                >
-                [Limited Access, use the following link...]
-              </p>
-              <p>
-                Archive Link:
-                <a href="https://archive.is/SoHL9">https://archive.is/SoHL9</a>
-              </p>
-              <blockquote>
-                <div>
-                  <p>The Making of Donkey Kong for the Atari 2600</p>
-                  <p>
-                    In the summer of 1982, I spent about three months creating a
-                    list of 4,096 numbers, meticulously ensuring that every
-                    single number was the right value, and in the correct place
-                    in the list. When I finished, the only tangible evidence of
-                    my work was that long list of numbers.
-                  </p>
-                  <p>
-                    When the list was complete, after nearly 1,000 hours of
-                    work, the former Connecticut Leather Company¹ put the
-                    numbers (in order) into a computer memory chip and plastic
-                    case and sold it at stores throughout the country. And
-                    people actually bought it.
-                  </p>
-                  <p>
-                    The list of numbers that I created was known to the public
-                    as the Atari 2600 version of the hit coin-op video game
-                    Donkey Kong. To create the list, I wrote a computer program
-                    in 6502 assembly language in about 3 months, with little
-                    sleep. With enormous pressure to submit final code in time
-                    for holiday sales, I finished the game with a push of 72
-                    straight hours at my desk, after which I was told that I
-                    looked like a zombie.
-                  </p>
-                  <p>
-                    [...] For background, Nintendo's Donkey Kong (the arcade
-                    game) was a breakthrough in video game design, and one of
-                    the most successful coin-operated games of the early 1980's.
-                    To be clear, I did not invent Donkey Kong. The game was
-                    designed by the legendary Shigeru Miyamoto, who has gone on
-                    to be possibly the most successful video game designer in
-                    history. It was the first video game to feature Mario, who
-                    went on to fame and fortune in the Super Mario Bros series
-                    of games (though in Donkey Kong he was referred to only as
-                    Jumpman). Donkey Kong was one of the first video games to
-                    use cartoon-quality animation and storytelling to draw the
-                    player into the action. My role was limited to creating an
-                    Atari 2600 version of Miyamoto's masterpiece.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62929"
                     >Original Submission</a
                   ></small
                 >
