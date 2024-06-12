@@ -145,6 +145,80 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/06/11/1338235">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/06/11/1338235&amp;from=rss"
+              >Learn Something Old Every Day, Part XII: Strange File Resizing on
+              DOS</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-12 @ 11:17:00</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/06/11/1338235"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~owl/">owl</a> writes:</p>
+              <p>
+                <a
+                  href="http://www.os2museum.com/wp/learn-something-old-every-day-part-xii-strange-file-resizing-on-dos/"
+                  >http://www.os2museum.com/wp/learn-something-old-every-day-part-xii-strange-file-resizing-on-dos/</a
+                >
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Someone recently asked an interesting question: Why do
+                    Microsoft C and compatible DOS compilers have no truncate()
+                    and/or ftruncate() library functions? And how does one
+                    resize files on DOS?
+                  </p>
+                  <p>
+                    OK, that's actually two questions. The first one is easy
+                    enough to answer: Because XENIX had no truncate() or
+                    ftruncate() either. Instead, XENIX had a chsize() function
+                    which, sure enough, can be found in the Microsoft C
+                    libraries at least as far back as MS C 3.0 (early 1985).
+                  </p>
+                  <p>
+                    The second question is rather more interesting. The way
+                    files are resized on DOS is moving the file pointer to the
+                    desired size by calling the LSEEK function (INT 21h/42h),
+                    and then calling the WRITE function (INT 21h/40h) with zero
+                    length (CX=0).
+                  </p>
+                  <p>
+                    Now, this mechanism is rather curious, because the
+                    handle-based file API in DOS 2.0 was modeled on XENIX, yet
+                    on UNIX systems, the write() function asked to transfer zero
+                    bytes simply does nothing. If the mechanism didn't come from
+                    XENIX, where did it come from?....
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62998"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/06/11/1457222">
           <h3>
             <a
@@ -5073,89 +5147,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62941"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/05/31/2050255">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/05/31/2050255&amp;from=rss"
-              >Sea Urchins Made to Order: Scientists Make Transgenic
-              Breakthrough</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-02 @ 16:18:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2176</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/05/31/2050255"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-            <div class="text">
-              <blockquote>
-                <div>
-                  <p>
-                    The animals are the first transgenic echinoderms, the phylum
-                    that includes starfish, sea cucumbers and other marine
-                    animals. Hamdoun's mission is to make genetically modified
-                    urchins available to researchers anywhere, not just those
-                    who happen to work in research facilities at the edge of the
-                    Pacific Ocean.
-                  </p>
-                  <p>
-                    [...] The lab's breakthrough, and its focus on making the
-                    animals freely available to fellow scientists, will "allow
-                    us to explore how evolution has solved a lot of really
-                    complicated life problems," he said.
-                  </p>
-                  <p>
-                    Researchers tend to study mice, flies and the like not
-                    because the animals' biology is best suited to answer their
-                    questions but because "all the tools that were necessary to
-                    get at your questions were built up in just a few species,"
-                    said Deirdre Lyons, an associate professor of biology at
-                    Scripps who worked with Hamdoun on early research related to
-                    the project.
-                  </p>
-                  <p>
-                    Expanding the range of animals available for sophisticated
-                    lab work is like adding colors to an artist's palette, Lyons
-                    said, "Now you can go get the color that you really want,
-                    that best fits your vision, rather than being stuck with a
-                    few models."
-                  </p>
-                  <p>
-                    [...] Hamdoun vividly recalls the time he spent earlier in
-                    his career trying to track down random snippets of DNA
-                    necessary for his research, the disappointment and
-                    frustration of writing to professors and former postdocs
-                    only to find that the material had long been lost. He'd
-                    rather future generations of scientists spend their time on
-                    discovery.
-                  </p>
-                  <p>
-                    "Biology is really interesting," he said. "The more people
-                    can get access to it, the more we're going to learn."
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=62931"
                     >Original Submission</a
                   ></small
                 >
