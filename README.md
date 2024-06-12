@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-12, 11:17:00](https://soylentnews.org/article.pl?sid=24/06/11/1338235&from=rss) - [Learn Something Old Every Day, Part XII: Strange File Resizing on DOS](https://soylentnews.org/article.pl?sid=24/06/11/1338235&from=rss)
 * [2024-06-12, 06:31:00](https://soylentnews.org/article.pl?sid=24/06/11/1457222&from=rss) - [Elephants Call Each Other by Name](https://soylentnews.org/article.pl?sid=24/06/11/1457222&from=rss)
 * [2024-06-12, 01:43:00](https://soylentnews.org/article.pl?sid=24/06/10/1530248&from=rss) - [O-Type Blood Donors Needed After London Cyber-Attack](https://soylentnews.org/article.pl?sid=24/06/10/1530248&from=rss)
 * [2024-06-11, 20:58:00](https://soylentnews.org/article.pl?sid=24/06/10/1521255&from=rss) - [The Mythical Non-Roboticist](https://soylentnews.org/article.pl?sid=24/06/10/1521255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-03, 06:34:00](https://soylentnews.org/article.pl?sid=24/06/01/1721210&from=rss) - [Russia and China Are Using OpenAI Tools to Spread Disinformation](https://soylentnews.org/article.pl?sid=24/06/01/1721210&from=rss)
 * [2024-06-03, 01:44:00](https://soylentnews.org/article.pl?sid=24/06/02/046212&from=rss) - [Kaspersky Releases Free Tool that Scans Linux for Known Threats](https://soylentnews.org/article.pl?sid=24/06/02/046212&from=rss)
 * [2024-06-02, 21:03:00](https://soylentnews.org/article.pl?sid=24/06/02/0420202&from=rss) - [Six Planets to Appear in Alignment Next Week in Rare Celestial Parade](https://soylentnews.org/article.pl?sid=24/06/02/0420202&from=rss)
-* [2024-06-02, 16:18:00](https://soylentnews.org/article.pl?sid=24/05/31/2050255&from=rss) - [Sea Urchins Made to Order: Scientists Make Transgenic Breakthrough](https://soylentnews.org/article.pl?sid=24/05/31/2050255&from=rss)
 
 ## [Archives](archives/index.md)
 
