@@ -1,5 +1,8 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-12, 06:31:00](https://soylentnews.org/article.pl?sid=24/06/11/1457222&from=rss) - [Elephants Call Each Other by Name](https://soylentnews.org/article.pl?sid=24/06/11/1457222&from=rss)
+* [2024-06-12, 01:43:00](https://soylentnews.org/article.pl?sid=24/06/10/1530248&from=rss) - [O-Type Blood Donors Needed After London Cyber-Attack](https://soylentnews.org/article.pl?sid=24/06/10/1530248&from=rss)
+* [2024-06-11, 20:58:00](https://soylentnews.org/article.pl?sid=24/06/10/1521255&from=rss) - [The Mythical Non-Roboticist](https://soylentnews.org/article.pl?sid=24/06/10/1521255&from=rss)
 * [2024-06-11, 16:13:00](https://soylentnews.org/article.pl?sid=24/06/09/211231&from=rss) - [Mystery Object Waits Nearly an Hour Between Radio Bursts](https://soylentnews.org/article.pl?sid=24/06/09/211231&from=rss)
 * [2024-06-11, 11:31:00](https://soylentnews.org/article.pl?sid=24/06/10/1517206&from=rss) - [OpenSSH Introduces Options to Penalize Undesirable Behavior](https://soylentnews.org/article.pl?sid=24/06/10/1517206&from=rss)
 * [2024-06-11, 06:45:00](https://soylentnews.org/article.pl?sid=24/06/09/1520220&from=rss) - [Total Recall:  Microsoft Dealing With Trust Issues](https://soylentnews.org/article.pl?sid=24/06/09/1520220&from=rss)
@@ -47,9 +50,6 @@
 * [2024-06-03, 01:44:00](https://soylentnews.org/article.pl?sid=24/06/02/046212&from=rss) - [Kaspersky Releases Free Tool that Scans Linux for Known Threats](https://soylentnews.org/article.pl?sid=24/06/02/046212&from=rss)
 * [2024-06-02, 21:03:00](https://soylentnews.org/article.pl?sid=24/06/02/0420202&from=rss) - [Six Planets to Appear in Alignment Next Week in Rare Celestial Parade](https://soylentnews.org/article.pl?sid=24/06/02/0420202&from=rss)
 * [2024-06-02, 16:18:00](https://soylentnews.org/article.pl?sid=24/05/31/2050255&from=rss) - [Sea Urchins Made to Order: Scientists Make Transgenic Breakthrough](https://soylentnews.org/article.pl?sid=24/05/31/2050255&from=rss)
-* [2024-06-02, 11:36:00](https://soylentnews.org/article.pl?sid=24/05/31/2019216&from=rss) - [PS5 Becomes Sony's Biggest Money Maker, Cruising Past Playstation 4 Sales](https://soylentnews.org/article.pl?sid=24/05/31/2019216&from=rss)
-* [2024-06-02, 06:48:00](https://soylentnews.org/article.pl?sid=24/05/31/2013200&from=rss) - [Mystery Malware Destroys 600,000 Routers From a Single ISP During 72-Hour Span](https://soylentnews.org/article.pl?sid=24/05/31/2013200&from=rss)
-* [2024-06-02, 02:01:00](https://soylentnews.org/article.pl?sid=24/05/31/1953202&from=rss) - [Pigeon is Faster for Data Transfer Than Gigabit Fiber Internet](https://soylentnews.org/article.pl?sid=24/05/31/1953202&from=rss)
 
 ## [Archives](archives/index.md)
 
