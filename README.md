@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-13, 01:23:00](https://soylentnews.org/article.pl?sid=24/06/12/2011243&from=rss) - [NASA’s ICESat-2 Satellite Survives Strongest Solar Storm In 20 Years](https://soylentnews.org/article.pl?sid=24/06/12/2011243&from=rss)
 * [2024-06-12, 20:42:00](https://soylentnews.org/article.pl?sid=24/06/11/152232&from=rss) - [Big Telecom Again Takes Net Neutrality to Court, but Faces Long Odds](https://soylentnews.org/article.pl?sid=24/06/11/152232&from=rss)
 * [2024-06-12, 16:02:00](https://soylentnews.org/article.pl?sid=24/06/10/1534243&from=rss) - [\"Recall\" Will Now Be Opt-In: Microsoft Changes New Windows AI Feature After Backlash](https://soylentnews.org/article.pl?sid=24/06/10/1534243&from=rss)
 * [2024-06-12, 11:17:00](https://soylentnews.org/article.pl?sid=24/06/11/1338235&from=rss) - [Learn Something Old Every Day, Part XII: Strange File Resizing on DOS](https://soylentnews.org/article.pl?sid=24/06/11/1338235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-03, 20:51:00](https://soylentnews.org/article.pl?sid=24/06/02/1633246&from=rss) - [Clues From Bird Flu's Ground Zero On Dairy Farms In The Texas Panhandle](https://soylentnews.org/article.pl?sid=24/06/02/1633246&from=rss)
 * [2024-06-03, 16:02:00](https://soylentnews.org/article.pl?sid=24/06/02/169206&from=rss) - [Amazon Has Permission To Fly Its Drones Beyond Line of Sight](https://soylentnews.org/article.pl?sid=24/06/02/169206&from=rss)
 * [2024-06-03, 11:17:00](https://soylentnews.org/article.pl?sid=24/06/02/1356231&from=rss) - [Canine Cognitive Traits Linked To Everyday Behavior](https://soylentnews.org/article.pl?sid=24/06/02/1356231&from=rss)
-* [2024-06-03, 06:34:00](https://soylentnews.org/article.pl?sid=24/06/01/1721210&from=rss) - [Russia and China Are Using OpenAI Tools to Spread Disinformation](https://soylentnews.org/article.pl?sid=24/06/01/1721210&from=rss)
 
 ## [Archives](archives/index.md)
 
