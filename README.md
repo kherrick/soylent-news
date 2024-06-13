@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-13, 20:31:00](https://soylentnews.org/article.pl?sid=24/06/13/0213226&from=rss) - [How Battery-Swap Networks are Preventing Emergency Blackouts](https://soylentnews.org/article.pl?sid=24/06/13/0213226&from=rss)
 * [2024-06-13, 15:47:00](https://soylentnews.org/article.pl?sid=24/06/13/0050256&from=rss) - [The Surprisingly Not So Doomed Effort To Force Us Drivers To Stop Speeding](https://soylentnews.org/article.pl?sid=24/06/13/0050256&from=rss)
 * [2024-06-13, 11:01:00](https://soylentnews.org/article.pl?sid=24/06/13/0042201&from=rss) - [World's First Chip-Based 3D Printer is Smaller Than a Coin](https://soylentnews.org/article.pl?sid=24/06/13/0042201&from=rss)
 * [2024-06-13, 06:13:00](https://soylentnews.org/article.pl?sid=24/06/12/2014206&from=rss) - [Water Frost Detected on Mars' Volcanoes in 'Significant' First Discovery](https://soylentnews.org/article.pl?sid=24/06/12/2014206&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-04, 15:51:00](https://soylentnews.org/article.pl?sid=24/06/03/201234&from=rss) - [China Successfully Lands Probe Chang'e-6 on the Far Side of the Moon](https://soylentnews.org/article.pl?sid=24/06/03/201234&from=rss)
 * [2024-06-04, 11:05:00](https://soylentnews.org/article.pl?sid=24/06/03/124235&from=rss) - [Biodiversity in the Margins: Merging Farmlands Affects Natural Pest Control](https://soylentnews.org/article.pl?sid=24/06/03/124235&from=rss)
 * [2024-06-04, 06:22:00](https://soylentnews.org/article.pl?sid=24/06/03/1154257&from=rss) - [Indonesia Solves Problem of Too Many Platforms for App Access by Releasing a New Platform](https://soylentnews.org/article.pl?sid=24/06/03/1154257&from=rss)
-* [2024-06-04, 01:36:00](https://soylentnews.org/article.pl?sid=24/06/03/1138207&from=rss) - [Here We Go Again -- Encryption in Canada This Time.](https://soylentnews.org/article.pl?sid=24/06/03/1138207&from=rss)
 
 ## [Archives](archives/index.md)
 
