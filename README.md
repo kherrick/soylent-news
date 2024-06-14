@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-14, 05:56:00](https://soylentnews.org/article.pl?sid=24/06/13/0313255&from=rss) - [The Google Pay App is Dead](https://soylentnews.org/article.pl?sid=24/06/13/0313255&from=rss)
 * [2024-06-14, 01:13:00](https://soylentnews.org/article.pl?sid=24/06/13/0224212&from=rss) - [Apple Intelligence: ChatGPT Coming to iPhones in AI Overhaul](https://soylentnews.org/article.pl?sid=24/06/13/0224212&from=rss)
 * [2024-06-13, 20:31:00](https://soylentnews.org/article.pl?sid=24/06/13/0213226&from=rss) - [How Battery-Swap Networks are Preventing Emergency Blackouts](https://soylentnews.org/article.pl?sid=24/06/13/0213226&from=rss)
 * [2024-06-13, 15:47:00](https://soylentnews.org/article.pl?sid=24/06/13/0050256&from=rss) - [The Surprisingly Not So Doomed Effort To Force Us Drivers To Stop Speeding](https://soylentnews.org/article.pl?sid=24/06/13/0050256&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-05, 01:27:00](https://soylentnews.org/article.pl?sid=24/06/03/2011225&from=rss) - [No Physics? No Problem. AI Weather Forecasting is Already Making Huge Strides.](https://soylentnews.org/article.pl?sid=24/06/03/2011225&from=rss)
 * [2024-06-04, 20:35:00](https://soylentnews.org/article.pl?sid=24/06/03/1957244&from=rss) - [Strange Discovery Suggests Children Trust Robots Over Humans](https://soylentnews.org/article.pl?sid=24/06/03/1957244&from=rss)
 * [2024-06-04, 15:51:00](https://soylentnews.org/article.pl?sid=24/06/03/201234&from=rss) - [China Successfully Lands Probe Chang'e-6 on the Far Side of the Moon](https://soylentnews.org/article.pl?sid=24/06/03/201234&from=rss)
-* [2024-06-04, 11:05:00](https://soylentnews.org/article.pl?sid=24/06/03/124235&from=rss) - [Biodiversity in the Margins: Merging Farmlands Affects Natural Pest Control](https://soylentnews.org/article.pl?sid=24/06/03/124235&from=rss)
 
 ## [Archives](archives/index.md)
 
