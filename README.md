@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-15, 15:12:00](https://soylentnews.org/article.pl?sid=24/06/14/205205&from=rss) - [Long Covid Finally Gets A Universal Definition](https://soylentnews.org/article.pl?sid=24/06/14/205205&from=rss)
 * [2024-06-15, 10:27:00](https://soylentnews.org/article.pl?sid=24/06/14/1943240&from=rss) - [Algae Blooms Prompt 2 Warnings Along Parts Of New Hampshire's Lake Winnipesaukee](https://soylentnews.org/article.pl?sid=24/06/14/1943240&from=rss)
 * [2024-06-15, 05:41:00](https://soylentnews.org/article.pl?sid=24/06/14/1935209&from=rss) - [Voyager 1 Makes Stellar Comeback To Science Operations](https://soylentnews.org/article.pl?sid=24/06/14/1935209&from=rss)
 * [2024-06-15, 00:55:00](https://soylentnews.org/article.pl?sid=24/06/14/0221211&from=rss) - [Groundbreaking Research Achieves Unprecedented Data Transmission Rates](https://soylentnews.org/article.pl?sid=24/06/14/0221211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-06, 10:49:00](https://soylentnews.org/article.pl?sid=24/06/05/1057202&from=rss) - [Japanese Billionaire Cancels Private Spacex Moon Mission, Crew Devastated](https://soylentnews.org/article.pl?sid=24/06/05/1057202&from=rss)
 * [2024-06-06, 06:04:00](https://soylentnews.org/article.pl?sid=24/06/05/1050253&from=rss) - [Butts, Breasts, and Genitals Now Explicitly Allowed on Elon Musk's X](https://soylentnews.org/article.pl?sid=24/06/05/1050253&from=rss)
 * [2024-06-06, 01:17:00](https://soylentnews.org/article.pl?sid=24/06/05/0128253&from=rss) - [FreeBSD 14.1-RELEASE is Now Available](https://soylentnews.org/article.pl?sid=24/06/05/0128253&from=rss)
-* [2024-06-05, 20:30:00](https://soylentnews.org/article.pl?sid=24/06/05/0121240&from=rss) - [Instagram Tests Forcing Users to Watch Adverts](https://soylentnews.org/article.pl?sid=24/06/05/0121240&from=rss)
 
 ## [Archives](archives/index.md)
 
