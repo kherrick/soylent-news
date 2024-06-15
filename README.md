@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-15, 00:55:00](https://soylentnews.org/article.pl?sid=24/06/14/0221211&from=rss) - [Groundbreaking Research Achieves Unprecedented Data Transmission Rates](https://soylentnews.org/article.pl?sid=24/06/14/0221211&from=rss)
 * [2024-06-14, 20:08:00](https://soylentnews.org/article.pl?sid=24/06/13/150250&from=rss) - [Fifty Things You Can Do With a Software Defined Radio](https://soylentnews.org/article.pl?sid=24/06/13/150250&from=rss)
 * [2024-06-14, 15:25:00](https://soylentnews.org/article.pl?sid=24/06/13/1456226&from=rss) - [Boeing's Leaky Boat Has More Leaks, Return Delayed.](https://soylentnews.org/article.pl?sid=24/06/13/1456226&from=rss)
 * [2024-06-14, 10:39:00](https://soylentnews.org/article.pl?sid=24/06/13/0321250&from=rss) - [Researchers Develop Less Toxic, More Effective Chemotherapy](https://soylentnews.org/article.pl?sid=24/06/13/0321250&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-05, 20:30:00](https://soylentnews.org/article.pl?sid=24/06/05/0121240&from=rss) - [Instagram Tests Forcing Users to Watch Adverts](https://soylentnews.org/article.pl?sid=24/06/05/0121240&from=rss)
 * [2024-06-05, 15:43:00](https://soylentnews.org/article.pl?sid=24/06/04/1713243&from=rss) - [Singing Repairs the Language Network of the Brain After a Cerebrovascular Accident](https://soylentnews.org/article.pl?sid=24/06/04/1713243&from=rss)
 * [2024-06-05, 11:00:00](https://soylentnews.org/article.pl?sid=24/06/04/0327227&from=rss) - [AMD is Convinced its Latest CPUs will Crush Qualcomm AI Chips](https://soylentnews.org/article.pl?sid=24/06/04/0327227&from=rss)
-* [2024-06-05, 06:13:00](https://soylentnews.org/article.pl?sid=24/06/03/2018241&from=rss) - [Baidu Robo-Cars Can be Crashed with Tinfoil and Cardboard ](https://soylentnews.org/article.pl?sid=24/06/03/2018241&from=rss)
 
 ## [Archives](archives/index.md)
 
