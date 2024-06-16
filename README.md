@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-16, 05:31:00](https://soylentnews.org/article.pl?sid=24/06/15/0233257&from=rss) - [X-Force Discovers New Vulnerabilities in Smart Treadmill](https://soylentnews.org/article.pl?sid=24/06/15/0233257&from=rss)
 * [2024-06-16, 00:44:00](https://soylentnews.org/article.pl?sid=24/06/15/020253&from=rss) - [Scientists Have Traced The Origin Of The Modern Horse To A Lineage That Emerged 4,200 Years Ago](https://soylentnews.org/article.pl?sid=24/06/15/020253&from=rss)
 * [2024-06-15, 19:59:00](https://soylentnews.org/article.pl?sid=24/06/15/0154242&from=rss) - [\"The Girlfriend Singularity is Here\"](https://soylentnews.org/article.pl?sid=24/06/15/0154242&from=rss)
 * [2024-06-15, 15:12:00](https://soylentnews.org/article.pl?sid=24/06/14/205205&from=rss) - [Long Covid Finally Gets A Universal Definition](https://soylentnews.org/article.pl?sid=24/06/14/205205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-07, 01:04:00](https://soylentnews.org/article.pl?sid=24/06/06/0255211&from=rss) - [What Looks Easy](https://soylentnews.org/article.pl?sid=24/06/06/0255211&from=rss)
 * [2024-06-06, 20:16:00](https://soylentnews.org/article.pl?sid=24/06/06/0047237&from=rss) - [The Long-Lost Tarzan Atari Game, Preserved](https://soylentnews.org/article.pl?sid=24/06/06/0047237&from=rss)
 * [2024-06-06, 15:33:00](https://soylentnews.org/article.pl?sid=24/06/06/0154217&from=rss) - [80 Years Since D-Day on the Beaches of Normandy](https://soylentnews.org/article.pl?sid=24/06/06/0154217&from=rss)
-* [2024-06-06, 10:49:00](https://soylentnews.org/article.pl?sid=24/06/05/1057202&from=rss) - [Japanese Billionaire Cancels Private Spacex Moon Mission, Crew Devastated](https://soylentnews.org/article.pl?sid=24/06/05/1057202&from=rss)
 
 ## [Archives](archives/index.md)
 
