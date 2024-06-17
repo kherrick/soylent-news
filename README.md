@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-17, 08:34:00](https://soylentnews.org/meta/article.pl?sid=24/06/17/0830201&from=rss) - [Site News Update](https://soylentnews.org/meta/article.pl?sid=24/06/17/0830201&from=rss)
 * [2024-06-17, 05:00:00](https://soylentnews.org/article.pl?sid=24/06/16/012243&from=rss) - [Molecules Derived From Sea Sponge Show Promising Effects In Cancer, Mitochondrial Function](https://soylentnews.org/article.pl?sid=24/06/16/012243&from=rss)
 * [2024-06-17, 00:35:00](https://soylentnews.org/article.pl?sid=24/06/15/1537257&from=rss) - [World's First Risc-V Laptop Preloaded With Ubuntu](https://soylentnews.org/article.pl?sid=24/06/15/1537257&from=rss)
 * [2024-06-16, 19:47:00](https://soylentnews.org/article.pl?sid=24/06/15/1528239&from=rss) - [How Giant Earthworms Have Transformed The Isle Of Rùm's Landscape](https://soylentnews.org/article.pl?sid=24/06/15/1528239&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-08, 07:41:00](https://soylentnews.org/article.pl?sid=24/06/07/0721250&from=rss) - [The Misfit Who Built the IBM PC ](https://soylentnews.org/article.pl?sid=24/06/07/0721250&from=rss)
 * [2024-06-08, 02:47:00](https://soylentnews.org/article.pl?sid=24/06/06/1832222&from=rss) - [Scent Detection Dogs Discern Odour Molecules Better Than Previously Thought](https://soylentnews.org/article.pl?sid=24/06/06/1832222&from=rss)
 * [2024-06-07, 21:58:00](https://soylentnews.org/article.pl?sid=24/06/06/1830218&from=rss) - [The Internet Transforms Life in Amazon Tribe](https://soylentnews.org/article.pl?sid=24/06/06/1830218&from=rss)
-* [2024-06-07, 15:14:00](https://soylentnews.org/article.pl?sid=24/06/06/1827219&from=rss) - [US Sets Stage for Antitrust Probes Into Microsoft, OpenAI and Nvidia](https://soylentnews.org/article.pl?sid=24/06/06/1827219&from=rss)
 
 ## [Archives](archives/index.md)
 
