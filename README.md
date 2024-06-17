@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-17, 00:35:00](https://soylentnews.org/article.pl?sid=24/06/15/1537257&from=rss) - [World's First Risc-V Laptop Preloaded With Ubuntu](https://soylentnews.org/article.pl?sid=24/06/15/1537257&from=rss)
 * [2024-06-16, 19:47:00](https://soylentnews.org/article.pl?sid=24/06/15/1528239&from=rss) - [How Giant Earthworms Have Transformed The Isle Of Rùm's Landscape](https://soylentnews.org/article.pl?sid=24/06/15/1528239&from=rss)
 * [2024-06-16, 15:04:00](https://soylentnews.org/article.pl?sid=24/06/15/1525224&from=rss) - [Digital-Only Games Consoles Are Still A Terrible Idea](https://soylentnews.org/article.pl?sid=24/06/15/1525224&from=rss)
 * [2024-06-16, 10:19:00](https://soylentnews.org/article.pl?sid=24/06/15/1216225&from=rss) - [\"Everyone is Going About AI All Wrong\"](https://soylentnews.org/article.pl?sid=24/06/15/1216225&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-07, 21:58:00](https://soylentnews.org/article.pl?sid=24/06/06/1830218&from=rss) - [The Internet Transforms Life in Amazon Tribe](https://soylentnews.org/article.pl?sid=24/06/06/1830218&from=rss)
 * [2024-06-07, 15:14:00](https://soylentnews.org/article.pl?sid=24/06/06/1827219&from=rss) - [US Sets Stage for Antitrust Probes Into Microsoft, OpenAI and Nvidia](https://soylentnews.org/article.pl?sid=24/06/06/1827219&from=rss)
 * [2024-06-07, 10:35:00](https://soylentnews.org/article.pl?sid=24/06/06/037244&from=rss) - [Top News App Caught Sharing “Entirely False” AI-Generated News](https://soylentnews.org/article.pl?sid=24/06/06/037244&from=rss)
-* [2024-06-07, 05:47:00](https://soylentnews.org/article.pl?sid=24/06/06/0259249&from=rss) - [Scientists Find Evidence of Hot Spring Oasis During Last Ice Age in Central Europe](https://soylentnews.org/article.pl?sid=24/06/06/0259249&from=rss)
 
 ## [Archives](archives/index.md)
 
