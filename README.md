@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-18, 18:34:00](https://soylentnews.org/article.pl?sid=24/06/17/1925242&from=rss) - [News Consumption is Down -- 2024](https://soylentnews.org/article.pl?sid=24/06/17/1925242&from=rss)
 * [2024-06-18, 13:47:00](https://soylentnews.org/article.pl?sid=24/06/17/1919258&from=rss) - [Inescapable Conclusion: USC Researchers Prove Earth's Core is Losing Speed](https://soylentnews.org/article.pl?sid=24/06/17/1919258&from=rss)
 * [2024-06-18, 08:59:00](https://soylentnews.org/article.pl?sid=24/06/16/159220&from=rss) - [Adobe and Meta Drive the Visual Digital Arts in Deeper Enshit](https://soylentnews.org/article.pl?sid=24/06/16/159220&from=rss)
 * [2024-06-18, 04:12:00](https://soylentnews.org/article.pl?sid=24/06/16/0114251&from=rss) - [Scientists May Have Discovered The First Sign Of Autism: An Unusually Large Brain](https://soylentnews.org/article.pl?sid=24/06/16/0114251&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-09, 16:44:00](https://soylentnews.org/article.pl?sid=24/06/09/1358249&from=rss) - [Nasty Bug With Very Simple Exploit Hits PHP](https://soylentnews.org/article.pl?sid=24/06/09/1358249&from=rss)
 * [2024-06-09, 11:58:00](https://soylentnews.org/article.pl?sid=24/06/08/1729258&from=rss) - [Virtual Meatballs](https://soylentnews.org/article.pl?sid=24/06/08/1729258&from=rss)
 * [2024-06-09, 07:16:00](https://soylentnews.org/article.pl?sid=24/06/08/1727205&from=rss) - [FBI Unveils 7,000 Decryption Keys to Aid Lockbit Victims](https://soylentnews.org/article.pl?sid=24/06/08/1727205&from=rss)
-* [2024-06-09, 02:30:00](https://soylentnews.org/article.pl?sid=24/06/08/0126205&from=rss) - [This AI-Powered “Black Box” Could Make Surgery Safer](https://soylentnews.org/article.pl?sid=24/06/08/0126205&from=rss)
 
 ## [Archives](archives/index.md)
 
