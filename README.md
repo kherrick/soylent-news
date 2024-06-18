@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-18, 04:12:00](https://soylentnews.org/article.pl?sid=24/06/16/0114251&from=rss) - [Scientists May Have Discovered The First Sign Of Autism: An Unusually Large Brain](https://soylentnews.org/article.pl?sid=24/06/16/0114251&from=rss)
 * [2024-06-17, 23:25:00](https://soylentnews.org/article.pl?sid=24/06/16/054257&from=rss) - [AMD Confirms Ryzen AI 300 PCs Won't Feature Copilot+ Features At Launch ](https://soylentnews.org/article.pl?sid=24/06/16/054257&from=rss)
 * [2024-06-17, 18:38:00](https://soylentnews.org/article.pl?sid=24/06/16/0226250&from=rss) - [Invisible Invaders: How Microplastics Sneak Into Your Brain](https://soylentnews.org/article.pl?sid=24/06/16/0226250&from=rss)
 * [2024-06-17, 14:01:00](https://soylentnews.org/article.pl?sid=24/06/16/0156237&from=rss) - [FAA Investigating How Titanium Parts With Falsified Records Wound Up in Boeing and Airbus Planes](https://soylentnews.org/article.pl?sid=24/06/16/0156237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-09, 02:30:00](https://soylentnews.org/article.pl?sid=24/06/08/0126205&from=rss) - [This AI-Powered “Black Box” Could Make Surgery Safer](https://soylentnews.org/article.pl?sid=24/06/08/0126205&from=rss)
 * [2024-06-08, 21:55:00](https://soylentnews.org/article.pl?sid=24/06/07/0736213&from=rss) - [Can A Technology Called RAG Keep AI Models From Making Stuff Up? ](https://soylentnews.org/article.pl?sid=24/06/07/0736213&from=rss)
 * [2024-06-08, 17:08:00](https://soylentnews.org/article.pl?sid=24/06/07/0732253&from=rss) - [What’s Next for MDMA](https://soylentnews.org/article.pl?sid=24/06/07/0732253&from=rss)
-* [2024-06-08, 12:24:00](https://soylentnews.org/article.pl?sid=24/06/07/0726209&from=rss) - [The Linux CNA Mess You Didn't Know About](https://soylentnews.org/article.pl?sid=24/06/07/0726209&from=rss)
 
 ## [Archives](archives/index.md)
 
