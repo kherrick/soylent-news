@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-19, 22:53:00](https://soylentnews.org/article.pl?sid=24/06/18/1516238&from=rss) - [MSU Researchers Discover Honeybees Can Detect Lung Cancer](https://soylentnews.org/article.pl?sid=24/06/18/1516238&from=rss)
 * [2024-06-19, 18:10:00](https://soylentnews.org/article.pl?sid=24/06/18/1511204&from=rss) - [cURL User Survey 2024 Analysis](https://soylentnews.org/article.pl?sid=24/06/18/1511204&from=rss)
 * [2024-06-19, 13:33:00](https://soylentnews.org/article.pl?sid=24/06/18/047207&from=rss) - [Improving Soil Health Yields Unexpected Benefits For Farmers](https://soylentnews.org/article.pl?sid=24/06/18/047207&from=rss)
 * [2024-06-19, 08:50:00](https://soylentnews.org/article.pl?sid=24/06/18/034255&from=rss) - [After Europe, Japan Introduces Law to Curb Apple and Google's App Store Dominance](https://soylentnews.org/article.pl?sid=24/06/18/034255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-10, 21:11:00](https://soylentnews.org/article.pl?sid=24/06/09/1445231&from=rss) - [Private Company Entering High-Speed Rail](https://soylentnews.org/article.pl?sid=24/06/09/1445231&from=rss)
 * [2024-06-10, 16:23:00](https://soylentnews.org/article.pl?sid=24/06/09/1439217&from=rss) - [Make Two Trips](https://soylentnews.org/article.pl?sid=24/06/09/1439217&from=rss)
 * [2024-06-10, 11:38:00](https://soylentnews.org/article.pl?sid=24/06/09/1430234&from=rss) - [Heat-Switch Device Boosts Lunar Rover Longevity In Harsh Moon Climate](https://soylentnews.org/article.pl?sid=24/06/09/1430234&from=rss)
-* [2024-06-10, 06:53:00](https://soylentnews.org/article.pl?sid=24/06/08/1734215&from=rss) - [Direct To Open Access Claims Success](https://soylentnews.org/article.pl?sid=24/06/08/1734215&from=rss)
 
 ## [Archives](archives/index.md)
 
