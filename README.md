@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-20, 08:22:00](https://soylentnews.org/article.pl?sid=24/06/19/0153202&from=rss) - [IEEE and The Open Group Publish POSIX.1-2024](https://soylentnews.org/article.pl?sid=24/06/19/0153202&from=rss)
 * [2024-06-20, 03:37:00](https://soylentnews.org/article.pl?sid=24/06/19/0119246&from=rss) - [The Short, Happy Reign of CD-ROM](https://soylentnews.org/article.pl?sid=24/06/19/0119246&from=rss)
 * [2024-06-19, 22:53:00](https://soylentnews.org/article.pl?sid=24/06/18/1516238&from=rss) - [MSU Researchers Discover Honeybees Can Detect Lung Cancer](https://soylentnews.org/article.pl?sid=24/06/18/1516238&from=rss)
 * [2024-06-19, 18:10:00](https://soylentnews.org/article.pl?sid=24/06/18/1511204&from=rss) - [cURL User Survey 2024 Analysis](https://soylentnews.org/article.pl?sid=24/06/18/1511204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-11, 06:45:00](https://soylentnews.org/article.pl?sid=24/06/09/1520220&from=rss) - [Total Recall:  Microsoft Dealing With Trust Issues](https://soylentnews.org/article.pl?sid=24/06/09/1520220&from=rss)
 * [2024-06-11, 01:58:00](https://soylentnews.org/article.pl?sid=24/06/09/1449217&from=rss) - [Vehicle Privacy Update](https://soylentnews.org/article.pl?sid=24/06/09/1449217&from=rss)
 * [2024-06-10, 21:11:00](https://soylentnews.org/article.pl?sid=24/06/09/1445231&from=rss) - [Private Company Entering High-Speed Rail](https://soylentnews.org/article.pl?sid=24/06/09/1445231&from=rss)
-* [2024-06-10, 16:23:00](https://soylentnews.org/article.pl?sid=24/06/09/1439217&from=rss) - [Make Two Trips](https://soylentnews.org/article.pl?sid=24/06/09/1439217&from=rss)
 
 ## [Archives](archives/index.md)
 
