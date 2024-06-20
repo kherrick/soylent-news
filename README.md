@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-20, 22:38:00](https://soylentnews.org/article.pl?sid=24/06/19/1844241&from=rss) - [Human Missions to Mars in Serious Doubt After Discovery Made on Effects to Astronaut's Bodies](https://soylentnews.org/article.pl?sid=24/06/19/1844241&from=rss)
 * [2024-06-20, 17:53:00](https://soylentnews.org/article.pl?sid=24/06/19/1816223&from=rss) - [AI Not Replacing Comedians Any Time Soon](https://soylentnews.org/article.pl?sid=24/06/19/1816223&from=rss)
 * [2024-06-20, 13:05:00](https://soylentnews.org/article.pl?sid=24/06/19/0156239&from=rss) - [Youtube's Unskippable Ads Are About To Get So Much Worse](https://soylentnews.org/article.pl?sid=24/06/19/0156239&from=rss)
 * [2024-06-20, 08:22:00](https://soylentnews.org/article.pl?sid=24/06/19/0153202&from=rss) - [IEEE and The Open Group Publish POSIX.1-2024](https://soylentnews.org/article.pl?sid=24/06/19/0153202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-11, 20:58:00](https://soylentnews.org/article.pl?sid=24/06/10/1521255&from=rss) - [The Mythical Non-Roboticist](https://soylentnews.org/article.pl?sid=24/06/10/1521255&from=rss)
 * [2024-06-11, 16:13:00](https://soylentnews.org/article.pl?sid=24/06/09/211231&from=rss) - [Mystery Object Waits Nearly an Hour Between Radio Bursts](https://soylentnews.org/article.pl?sid=24/06/09/211231&from=rss)
 * [2024-06-11, 11:31:00](https://soylentnews.org/article.pl?sid=24/06/10/1517206&from=rss) - [OpenSSH Introduces Options to Penalize Undesirable Behavior](https://soylentnews.org/article.pl?sid=24/06/10/1517206&from=rss)
-* [2024-06-11, 06:45:00](https://soylentnews.org/article.pl?sid=24/06/09/1520220&from=rss) - [Total Recall:  Microsoft Dealing With Trust Issues](https://soylentnews.org/article.pl?sid=24/06/09/1520220&from=rss)
 
 ## [Archives](archives/index.md)
 
