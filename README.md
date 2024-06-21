@@ -2,7 +2,7 @@
 
 * [2024-06-21, 08:13:00](https://soylentnews.org/article.pl?sid=24/06/20/1125205&from=rss) - [Time May Actually Be One Big Illusion, Says a New Study](https://soylentnews.org/article.pl?sid=24/06/20/1125205&from=rss)
 * [2024-06-21, 03:23:00](https://soylentnews.org/article.pl?sid=24/06/20/1120202&from=rss) - [EU Chat Control Law Proposes Scanning Your Messages — Even Encrypted Ones](https://soylentnews.org/article.pl?sid=24/06/20/1120202&from=rss)
-* [2024-06-21, 01:00:00](https://soylentnews.org/article.pl?sid=24/06/20/1558253&from=rss) - [Schneier on Security - New Blog Moderation Policy](https://soylentnews.org/article.pl?sid=24/06/20/1558253&from=rss)
+* [2024-06-21, 01:00:00](https://soylentnews.org/article.pl?sid=24/06/20/1558253&from=rss) - [Schneier on Security - His New Blog Moderation Policy](https://soylentnews.org/article.pl?sid=24/06/20/1558253&from=rss)
 * [2024-06-20, 22:38:00](https://soylentnews.org/article.pl?sid=24/06/19/1844241&from=rss) - [Human Missions to Mars in Serious Doubt After Discovery Made on Effects to Astronaut's Bodies](https://soylentnews.org/article.pl?sid=24/06/19/1844241&from=rss)
 * [2024-06-20, 17:53:00](https://soylentnews.org/article.pl?sid=24/06/19/1816223&from=rss) - [AI Not Replacing Comedians Any Time Soon](https://soylentnews.org/article.pl?sid=24/06/19/1816223&from=rss)
 * [2024-06-20, 13:05:00](https://soylentnews.org/article.pl?sid=24/06/19/0156239&from=rss) - [Youtube's Unskippable Ads Are About To Get So Much Worse](https://soylentnews.org/article.pl?sid=24/06/19/0156239&from=rss)
