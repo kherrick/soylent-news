@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-21, 08:13:00](https://soylentnews.org/article.pl?sid=24/06/20/1125205&from=rss) - [Time May Actually Be One Big Illusion, Says a New Study](https://soylentnews.org/article.pl?sid=24/06/20/1125205&from=rss)
 * [2024-06-21, 03:23:00](https://soylentnews.org/article.pl?sid=24/06/20/1120202&from=rss) - [EU Chat Control Law Proposes Scanning Your Messages — Even Encrypted Ones](https://soylentnews.org/article.pl?sid=24/06/20/1120202&from=rss)
 * [2024-06-21, 01:00:00](https://soylentnews.org/article.pl?sid=24/06/20/1558253&from=rss) - [Schneier on Security - New Blog Moderation Policy](https://soylentnews.org/article.pl?sid=24/06/20/1558253&from=rss)
 * [2024-06-20, 22:38:00](https://soylentnews.org/article.pl?sid=24/06/19/1844241&from=rss) - [Human Missions to Mars in Serious Doubt After Discovery Made on Effects to Astronaut's Bodies](https://soylentnews.org/article.pl?sid=24/06/19/1844241&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-12, 11:17:00](https://soylentnews.org/article.pl?sid=24/06/11/1338235&from=rss) - [Learn Something Old Every Day, Part XII: Strange File Resizing on DOS](https://soylentnews.org/article.pl?sid=24/06/11/1338235&from=rss)
 * [2024-06-12, 06:31:00](https://soylentnews.org/article.pl?sid=24/06/11/1457222&from=rss) - [Elephants Call Each Other by Name](https://soylentnews.org/article.pl?sid=24/06/11/1457222&from=rss)
 * [2024-06-12, 01:43:00](https://soylentnews.org/article.pl?sid=24/06/10/1530248&from=rss) - [O-Type Blood Donors Needed After London Cyber-Attack](https://soylentnews.org/article.pl?sid=24/06/10/1530248&from=rss)
-* [2024-06-11, 20:58:00](https://soylentnews.org/article.pl?sid=24/06/10/1521255&from=rss) - [The Mythical Non-Roboticist](https://soylentnews.org/article.pl?sid=24/06/10/1521255&from=rss)
 
 ## [Archives](archives/index.md)
 
