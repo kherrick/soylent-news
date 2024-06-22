@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-22, 17:18:00](https://soylentnews.org/article.pl?sid=24/06/22/0134208&from=rss) - [AMD Investigates Claims of Breach After Group Offers Stolen Company Data for Sale](https://soylentnews.org/article.pl?sid=24/06/22/0134208&from=rss)
 * [2024-06-22, 12:33:00](https://soylentnews.org/article.pl?sid=24/06/22/0129230&from=rss) - [US to Ban  Sales of Kaspersky Software Over Ties to Russia](https://soylentnews.org/article.pl?sid=24/06/22/0129230&from=rss)
 * [2024-06-22, 07:48:00](https://soylentnews.org/article.pl?sid=24/06/21/1129235&from=rss) - [Making a Bignum Library for Fun](https://soylentnews.org/article.pl?sid=24/06/21/1129235&from=rss)
 * [2024-06-22, 03:06:00](https://soylentnews.org/article.pl?sid=24/06/21/1126225&from=rss) - [Deleting Facebook](https://soylentnews.org/article.pl?sid=24/06/21/1126225&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-13, 20:31:00](https://soylentnews.org/article.pl?sid=24/06/13/0213226&from=rss) - [How Battery-Swap Networks are Preventing Emergency Blackouts](https://soylentnews.org/article.pl?sid=24/06/13/0213226&from=rss)
 * [2024-06-13, 15:47:00](https://soylentnews.org/article.pl?sid=24/06/13/0050256&from=rss) - [The Surprisingly Not So Doomed Effort To Force Us Drivers To Stop Speeding](https://soylentnews.org/article.pl?sid=24/06/13/0050256&from=rss)
 * [2024-06-13, 11:01:00](https://soylentnews.org/article.pl?sid=24/06/13/0042201&from=rss) - [World's First Chip-Based 3D Printer is Smaller Than a Coin](https://soylentnews.org/article.pl?sid=24/06/13/0042201&from=rss)
-* [2024-06-13, 06:13:00](https://soylentnews.org/article.pl?sid=24/06/12/2014206&from=rss) - [Water Frost Detected on Mars' Volcanoes in 'Significant' First Discovery](https://soylentnews.org/article.pl?sid=24/06/12/2014206&from=rss)
 
 ## [Archives](archives/index.md)
 
