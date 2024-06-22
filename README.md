@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-22, 03:06:00](https://soylentnews.org/article.pl?sid=24/06/21/1126225&from=rss) - [Deleting Facebook](https://soylentnews.org/article.pl?sid=24/06/21/1126225&from=rss)
 * [2024-06-21, 22:24:00](https://soylentnews.org/article.pl?sid=24/06/20/1317248&from=rss) - ['Risks of Nuclear Terrorism Are High and Growing.' New Tools, Alliances, Renewed Focus Needed](https://soylentnews.org/article.pl?sid=24/06/20/1317248&from=rss)
 * [2024-06-21, 17:42:00](https://soylentnews.org/article.pl?sid=24/06/20/1310223&from=rss) - [Bacon Ice Cream and Nugget Overload Sees Misfiring McDonald's AI Withdrawn](https://soylentnews.org/article.pl?sid=24/06/20/1310223&from=rss)
 * [2024-06-21, 12:59:00](https://soylentnews.org/article.pl?sid=24/06/20/135206&from=rss) - [Auto Woes](https://soylentnews.org/article.pl?sid=24/06/20/135206&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-13, 06:13:00](https://soylentnews.org/article.pl?sid=24/06/12/2014206&from=rss) - [Water Frost Detected on Mars' Volcanoes in 'Significant' First Discovery](https://soylentnews.org/article.pl?sid=24/06/12/2014206&from=rss)
 * [2024-06-13, 01:23:00](https://soylentnews.org/article.pl?sid=24/06/12/2011243&from=rss) - [NASA’s ICESat-2 Satellite Survives Strongest Solar Storm In 20 Years](https://soylentnews.org/article.pl?sid=24/06/12/2011243&from=rss)
 * [2024-06-12, 20:42:00](https://soylentnews.org/article.pl?sid=24/06/11/152232&from=rss) - [Big Telecom Again Takes Net Neutrality to Court, but Faces Long Odds](https://soylentnews.org/article.pl?sid=24/06/11/152232&from=rss)
-* [2024-06-12, 16:02:00](https://soylentnews.org/article.pl?sid=24/06/10/1534243&from=rss) - [\"Recall\" Will Now Be Opt-In: Microsoft Changes New Windows AI Feature After Backlash](https://soylentnews.org/article.pl?sid=24/06/10/1534243&from=rss)
 
 ## [Archives](archives/index.md)
 
