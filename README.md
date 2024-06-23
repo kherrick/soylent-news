@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-23, 17:03:00](https://soylentnews.org/article.pl?sid=24/06/22/1833253&from=rss) - [Fungal Banking](https://soylentnews.org/article.pl?sid=24/06/22/1833253&from=rss)
 * [2024-06-23, 12:19:00](https://soylentnews.org/article.pl?sid=24/06/22/1829235&from=rss) - [The Consequences  of  One’s First  Programming  Language](https://soylentnews.org/article.pl?sid=24/06/22/1829235&from=rss)
 * [2024-06-23, 07:37:00](https://soylentnews.org/article.pl?sid=24/06/22/0229234&from=rss) - [NASA Indefinitely Delays Return of Starliner to Review Propulsion Data](https://soylentnews.org/article.pl?sid=24/06/22/0229234&from=rss)
 * [2024-06-23, 02:48:00](https://soylentnews.org/article.pl?sid=24/06/22/0222257&from=rss) - [Researchers Create New Class of Materials Called 'Glassy Gels'](https://soylentnews.org/article.pl?sid=24/06/22/0222257&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-14, 20:08:00](https://soylentnews.org/article.pl?sid=24/06/13/150250&from=rss) - [Fifty Things You Can Do With a Software Defined Radio](https://soylentnews.org/article.pl?sid=24/06/13/150250&from=rss)
 * [2024-06-14, 15:25:00](https://soylentnews.org/article.pl?sid=24/06/13/1456226&from=rss) - [Boeing's Leaky Boat Has More Leaks, Return Delayed.](https://soylentnews.org/article.pl?sid=24/06/13/1456226&from=rss)
 * [2024-06-14, 10:39:00](https://soylentnews.org/article.pl?sid=24/06/13/0321250&from=rss) - [Researchers Develop Less Toxic, More Effective Chemotherapy](https://soylentnews.org/article.pl?sid=24/06/13/0321250&from=rss)
-* [2024-06-14, 05:56:00](https://soylentnews.org/article.pl?sid=24/06/13/0313255&from=rss) - [The Google Pay App is Dead](https://soylentnews.org/article.pl?sid=24/06/13/0313255&from=rss)
 
 ## [Archives](archives/index.md)
 
