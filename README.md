@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-23, 07:37:00](https://soylentnews.org/article.pl?sid=24/06/22/0229234&from=rss) - [NASA Indefinitely Delays Return of Starliner to Review Propulsion Data](https://soylentnews.org/article.pl?sid=24/06/22/0229234&from=rss)
 * [2024-06-23, 02:48:00](https://soylentnews.org/article.pl?sid=24/06/22/0222257&from=rss) - [Researchers Create New Class of Materials Called 'Glassy Gels'](https://soylentnews.org/article.pl?sid=24/06/22/0222257&from=rss)
 * [2024-06-22, 22:05:00](https://soylentnews.org/article.pl?sid=24/06/22/0211259&from=rss) - [systemd 256.1: Now Slightly Less Likely to Delete /home](https://soylentnews.org/article.pl?sid=24/06/22/0211259&from=rss)
 * [2024-06-22, 17:18:00](https://soylentnews.org/article.pl?sid=24/06/22/0134208&from=rss) - [AMD Investigates Claims of Breach After Group Offers Stolen Company Data for Sale](https://soylentnews.org/article.pl?sid=24/06/22/0134208&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-14, 10:39:00](https://soylentnews.org/article.pl?sid=24/06/13/0321250&from=rss) - [Researchers Develop Less Toxic, More Effective Chemotherapy](https://soylentnews.org/article.pl?sid=24/06/13/0321250&from=rss)
 * [2024-06-14, 05:56:00](https://soylentnews.org/article.pl?sid=24/06/13/0313255&from=rss) - [The Google Pay App is Dead](https://soylentnews.org/article.pl?sid=24/06/13/0313255&from=rss)
 * [2024-06-14, 01:13:00](https://soylentnews.org/article.pl?sid=24/06/13/0224212&from=rss) - [Apple Intelligence: ChatGPT Coming to iPhones in AI Overhaul](https://soylentnews.org/article.pl?sid=24/06/13/0224212&from=rss)
-* [2024-06-13, 20:31:00](https://soylentnews.org/article.pl?sid=24/06/13/0213226&from=rss) - [How Battery-Swap Networks are Preventing Emergency Blackouts](https://soylentnews.org/article.pl?sid=24/06/13/0213226&from=rss)
 
 ## [Archives](archives/index.md)
 
