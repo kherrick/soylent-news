@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-24, 21:35:00](https://soylentnews.org/article.pl?sid=24/06/24/0330226&from=rss) - [Inside the Tiny Chip That Powers Montreal Subway Tickets](https://soylentnews.org/article.pl?sid=24/06/24/0330226&from=rss)
 * [2024-06-24, 16:48:00](https://soylentnews.org/article.pl?sid=24/06/23/1322233&from=rss) - [Hacked, Leaked, Exposed: Why You Should Never Use Stalkerware Apps](https://soylentnews.org/article.pl?sid=24/06/23/1322233&from=rss)
 * [2024-06-24, 12:04:00](https://soylentnews.org/article.pl?sid=24/06/23/135202&from=rss) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://soylentnews.org/article.pl?sid=24/06/23/135202&from=rss)
 * [2024-06-24, 07:18:00](https://soylentnews.org/article.pl?sid=24/06/22/1850220&from=rss) - [An Upcoming Cybersecurity Schism?](https://soylentnews.org/article.pl?sid=24/06/22/1850220&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-16, 00:44:00](https://soylentnews.org/article.pl?sid=24/06/15/020253&from=rss) - [Scientists Have Traced The Origin Of The Modern Horse To A Lineage That Emerged 4,200 Years Ago](https://soylentnews.org/article.pl?sid=24/06/15/020253&from=rss)
 * [2024-06-15, 19:59:00](https://soylentnews.org/article.pl?sid=24/06/15/0154242&from=rss) - [\"The Girlfriend Singularity is Here\"](https://soylentnews.org/article.pl?sid=24/06/15/0154242&from=rss)
 * [2024-06-15, 15:12:00](https://soylentnews.org/article.pl?sid=24/06/14/205205&from=rss) - [Long Covid Finally Gets A Universal Definition](https://soylentnews.org/article.pl?sid=24/06/14/205205&from=rss)
-* [2024-06-15, 10:27:00](https://soylentnews.org/article.pl?sid=24/06/14/1943240&from=rss) - [Algae Blooms Prompt 2 Warnings Along Parts Of New Hampshire's Lake Winnipesaukee](https://soylentnews.org/article.pl?sid=24/06/14/1943240&from=rss)
 
 ## [Archives](archives/index.md)
 
