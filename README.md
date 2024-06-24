@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-24, 02:32:00](https://soylentnews.org/article.pl?sid=24/06/22/1847249&from=rss) - [New Technology Provides Electrifying Insights Into How Catalysts Work At The Atomic Level](https://soylentnews.org/article.pl?sid=24/06/22/1847249&from=rss)
 * [2024-06-23, 21:49:00](https://soylentnews.org/article.pl?sid=24/06/22/1840220&from=rss) - [Pornhub, Aylo To Block Indiana And Kentucky Over Age Verification Laws](https://soylentnews.org/article.pl?sid=24/06/22/1840220&from=rss)
 * [2024-06-23, 17:03:00](https://soylentnews.org/article.pl?sid=24/06/22/1833253&from=rss) - [Fungal Banking](https://soylentnews.org/article.pl?sid=24/06/22/1833253&from=rss)
 * [2024-06-23, 12:19:00](https://soylentnews.org/article.pl?sid=24/06/22/1829235&from=rss) - [The Consequences  of  One’s First  Programming  Language](https://soylentnews.org/article.pl?sid=24/06/22/1829235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-15, 05:41:00](https://soylentnews.org/article.pl?sid=24/06/14/1935209&from=rss) - [Voyager 1 Makes Stellar Comeback To Science Operations](https://soylentnews.org/article.pl?sid=24/06/14/1935209&from=rss)
 * [2024-06-15, 00:55:00](https://soylentnews.org/article.pl?sid=24/06/14/0221211&from=rss) - [Groundbreaking Research Achieves Unprecedented Data Transmission Rates](https://soylentnews.org/article.pl?sid=24/06/14/0221211&from=rss)
 * [2024-06-14, 20:08:00](https://soylentnews.org/article.pl?sid=24/06/13/150250&from=rss) - [Fifty Things You Can Do With a Software Defined Radio](https://soylentnews.org/article.pl?sid=24/06/13/150250&from=rss)
-* [2024-06-14, 15:25:00](https://soylentnews.org/article.pl?sid=24/06/13/1456226&from=rss) - [Boeing's Leaky Boat Has More Leaks, Return Delayed.](https://soylentnews.org/article.pl?sid=24/06/13/1456226&from=rss)
 
 ## [Archives](archives/index.md)
 
