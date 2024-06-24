@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-24, 12:04:00](https://soylentnews.org/article.pl?sid=24/06/23/135202&from=rss) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://soylentnews.org/article.pl?sid=24/06/23/135202&from=rss)
 * [2024-06-24, 07:18:00](https://soylentnews.org/article.pl?sid=24/06/22/1850220&from=rss) - [An Upcoming Cybersecurity Schism?](https://soylentnews.org/article.pl?sid=24/06/22/1850220&from=rss)
 * [2024-06-24, 02:32:00](https://soylentnews.org/article.pl?sid=24/06/22/1847249&from=rss) - [New Technology Provides Electrifying Insights Into How Catalysts Work At The Atomic Level](https://soylentnews.org/article.pl?sid=24/06/22/1847249&from=rss)
 * [2024-06-23, 21:49:00](https://soylentnews.org/article.pl?sid=24/06/22/1840220&from=rss) - [Pornhub, Aylo To Block Indiana And Kentucky Over Age Verification Laws](https://soylentnews.org/article.pl?sid=24/06/22/1840220&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-15, 15:12:00](https://soylentnews.org/article.pl?sid=24/06/14/205205&from=rss) - [Long Covid Finally Gets A Universal Definition](https://soylentnews.org/article.pl?sid=24/06/14/205205&from=rss)
 * [2024-06-15, 10:27:00](https://soylentnews.org/article.pl?sid=24/06/14/1943240&from=rss) - [Algae Blooms Prompt 2 Warnings Along Parts Of New Hampshire's Lake Winnipesaukee](https://soylentnews.org/article.pl?sid=24/06/14/1943240&from=rss)
 * [2024-06-15, 05:41:00](https://soylentnews.org/article.pl?sid=24/06/14/1935209&from=rss) - [Voyager 1 Makes Stellar Comeback To Science Operations](https://soylentnews.org/article.pl?sid=24/06/14/1935209&from=rss)
-* [2024-06-15, 00:55:00](https://soylentnews.org/article.pl?sid=24/06/14/0221211&from=rss) - [Groundbreaking Research Achieves Unprecedented Data Transmission Rates](https://soylentnews.org/article.pl?sid=24/06/14/0221211&from=rss)
 
 ## [Archives](archives/index.md)
 
