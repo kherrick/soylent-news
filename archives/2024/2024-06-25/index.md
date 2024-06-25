@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 21:12:00](https://soylentnews.org/article.pl?sid=24/06/25/0647211&from=rss) - [EU Says Apple Violated App Developers’ Rights, Could be Fined 10% of Revenue](https://soylentnews.org/article.pl?sid=24/06/25/0647211&from=rss)
 * [2024-06-25, 16:27:00](https://soylentnews.org/article.pl?sid=24/06/25/0641219&from=rss) - [Understanding Climate Models](https://soylentnews.org/article.pl?sid=24/06/25/0641219&from=rss)
 * [2024-06-25, 11:44:00](https://soylentnews.org/article.pl?sid=24/06/24/186236&from=rss) - [Major Capacitor Breakthrough Could Usher 170 Times Higher Power Density](https://soylentnews.org/article.pl?sid=24/06/24/186236&from=rss)
 * [2024-06-25, 07:03:00](https://soylentnews.org/article.pl?sid=24/06/24/1722216&from=rss) - [Decades Later, John Romero Looks Back at the Birth of the First-Person Shooter](https://soylentnews.org/article.pl?sid=24/06/24/1722216&from=rss)
