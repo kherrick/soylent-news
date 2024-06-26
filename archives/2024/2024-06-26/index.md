@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 20:58:00](https://soylentnews.org/article.pl?sid=24/06/26/0220210&from=rss) - [Do Protons Decay? The Answer Might be on the Moon](https://soylentnews.org/article.pl?sid=24/06/26/0220210&from=rss)
 * [2024-06-26, 16:13:00](https://soylentnews.org/article.pl?sid=24/06/26/0055229&from=rss) - [Old Computer Challenge v4 Announced](https://soylentnews.org/article.pl?sid=24/06/26/0055229&from=rss)
 * [2024-06-26, 11:25:00](https://soylentnews.org/article.pl?sid=24/06/25/1123207&from=rss) - [How to Make an EV Tire That Won't Pollute the Environment](https://soylentnews.org/article.pl?sid=24/06/25/1123207&from=rss)
 * [2024-06-26, 06:42:00](https://soylentnews.org/article.pl?sid=24/06/25/1110231&from=rss) - [Scientists Propose New Way to Find Aliens: Detect Their Failing Warp Drives](https://soylentnews.org/article.pl?sid=24/06/25/1110231&from=rss)
