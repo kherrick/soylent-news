@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-26](index.md)
+
+* [2024-06-26, 01:57:00](https://soylentnews.org/article.pl?sid=24/06/25/114249&from=rss) - [New Mathematical Proof Helps To Solve Equations With Random Components](https://soylentnews.org/article.pl?sid=24/06/25/114249&from=rss)

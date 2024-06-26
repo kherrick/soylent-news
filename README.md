@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-26, 01:57:00](https://soylentnews.org/article.pl?sid=24/06/25/114249&from=rss) - [New Mathematical Proof Helps To Solve Equations With Random Components](https://soylentnews.org/article.pl?sid=24/06/25/114249&from=rss)
 * [2024-06-25, 21:12:00](https://soylentnews.org/article.pl?sid=24/06/25/0647211&from=rss) - [EU Says Apple Violated App Developers’ Rights, Could be Fined 10% of Revenue](https://soylentnews.org/article.pl?sid=24/06/25/0647211&from=rss)
 * [2024-06-25, 16:27:00](https://soylentnews.org/article.pl?sid=24/06/25/0641219&from=rss) - [Understanding Climate Models](https://soylentnews.org/article.pl?sid=24/06/25/0641219&from=rss)
 * [2024-06-25, 11:44:00](https://soylentnews.org/article.pl?sid=24/06/24/186236&from=rss) - [Major Capacitor Breakthrough Could Usher 170 Times Higher Power Density](https://soylentnews.org/article.pl?sid=24/06/24/186236&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-17, 08:34:00](https://soylentnews.org/meta/article.pl?sid=24/06/17/0830201&from=rss) - [Site News Update](https://soylentnews.org/meta/article.pl?sid=24/06/17/0830201&from=rss)
 * [2024-06-17, 05:00:00](https://soylentnews.org/article.pl?sid=24/06/16/012243&from=rss) - [Molecules Derived From Sea Sponge Show Promising Effects In Cancer, Mitochondrial Function](https://soylentnews.org/article.pl?sid=24/06/16/012243&from=rss)
 * [2024-06-17, 00:35:00](https://soylentnews.org/article.pl?sid=24/06/15/1537257&from=rss) - [World's First Risc-V Laptop Preloaded With Ubuntu](https://soylentnews.org/article.pl?sid=24/06/15/1537257&from=rss)
-* [2024-06-16, 19:47:00](https://soylentnews.org/article.pl?sid=24/06/15/1528239&from=rss) - [How Giant Earthworms Have Transformed The Isle Of Rùm's Landscape](https://soylentnews.org/article.pl?sid=24/06/15/1528239&from=rss)
 
 ## [Archives](archives/index.md)
 
