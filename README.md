@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-26, 16:13:00](https://soylentnews.org/article.pl?sid=24/06/26/0055229&from=rss) - [Old Computer Challenge v4 Announced](https://soylentnews.org/article.pl?sid=24/06/26/0055229&from=rss)
 * [2024-06-26, 11:25:00](https://soylentnews.org/article.pl?sid=24/06/25/1123207&from=rss) - [How to Make an EV Tire That Won't Pollute the Environment](https://soylentnews.org/article.pl?sid=24/06/25/1123207&from=rss)
 * [2024-06-26, 06:42:00](https://soylentnews.org/article.pl?sid=24/06/25/1110231&from=rss) - [Scientists Propose New Way to Find Aliens: Detect Their Failing Warp Drives](https://soylentnews.org/article.pl?sid=24/06/25/1110231&from=rss)
 * [2024-06-26, 04:50:00](https://soylentnews.org/article.pl?sid=24/06/26/0444219&from=rss) - [Julian Assange Walks Free After Reaching Plea Deal in US Court Over Leaking Military Secrets](https://soylentnews.org/article.pl?sid=24/06/26/0444219&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-17, 23:25:00](https://soylentnews.org/article.pl?sid=24/06/16/054257&from=rss) - [AMD Confirms Ryzen AI 300 PCs Won't Feature Copilot+ Features At Launch ](https://soylentnews.org/article.pl?sid=24/06/16/054257&from=rss)
 * [2024-06-17, 18:38:00](https://soylentnews.org/article.pl?sid=24/06/16/0226250&from=rss) - [Invisible Invaders: How Microplastics Sneak Into Your Brain](https://soylentnews.org/article.pl?sid=24/06/16/0226250&from=rss)
 * [2024-06-17, 14:01:00](https://soylentnews.org/article.pl?sid=24/06/16/0156237&from=rss) - [FAA Investigating How Titanium Parts With Falsified Records Wound Up in Boeing and Airbus Planes](https://soylentnews.org/article.pl?sid=24/06/16/0156237&from=rss)
-* [2024-06-17, 09:32:00](https://soylentnews.org/article.pl?sid=24/06/16/051215&from=rss) - [Tesla Must Face False Advertising Claims Around 'Full Self-Driving' In California](https://soylentnews.org/article.pl?sid=24/06/16/051215&from=rss)
 
 ## [Archives](archives/index.md)
 
