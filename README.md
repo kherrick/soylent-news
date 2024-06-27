@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-27, 06:29:00](https://soylentnews.org/article.pl?sid=24/06/26/0359228&from=rss) - [Drugs are More Effective at Certain Times of Day](https://soylentnews.org/article.pl?sid=24/06/26/0359228&from=rss)
 * [2024-06-27, 01:42:00](https://soylentnews.org/article.pl?sid=24/06/26/0223226&from=rss) - [House Bans DJI Drones for Implementing the House's Demands](https://soylentnews.org/article.pl?sid=24/06/26/0223226&from=rss)
 * [2024-06-26, 20:58:00](https://soylentnews.org/article.pl?sid=24/06/26/0220210&from=rss) - [Do Protons Decay? The Answer Might be on the Moon](https://soylentnews.org/article.pl?sid=24/06/26/0220210&from=rss)
 * [2024-06-26, 16:13:00](https://soylentnews.org/article.pl?sid=24/06/26/0055229&from=rss) - [Old Computer Challenge v4 Announced](https://soylentnews.org/article.pl?sid=24/06/26/0055229&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-18, 13:47:00](https://soylentnews.org/article.pl?sid=24/06/17/1919258&from=rss) - [Inescapable Conclusion: USC Researchers Prove Earth's Core is Losing Speed](https://soylentnews.org/article.pl?sid=24/06/17/1919258&from=rss)
 * [2024-06-18, 08:59:00](https://soylentnews.org/article.pl?sid=24/06/16/159220&from=rss) - [Adobe and Meta Drive the Visual Digital Arts in Deeper Enshit](https://soylentnews.org/article.pl?sid=24/06/16/159220&from=rss)
 * [2024-06-18, 04:12:00](https://soylentnews.org/article.pl?sid=24/06/16/0114251&from=rss) - [Scientists May Have Discovered The First Sign Of Autism: An Unusually Large Brain](https://soylentnews.org/article.pl?sid=24/06/16/0114251&from=rss)
-* [2024-06-17, 23:25:00](https://soylentnews.org/article.pl?sid=24/06/16/054257&from=rss) - [AMD Confirms Ryzen AI 300 PCs Won't Feature Copilot+ Features At Launch ](https://soylentnews.org/article.pl?sid=24/06/16/054257&from=rss)
 
 ## [Archives](archives/index.md)
 
