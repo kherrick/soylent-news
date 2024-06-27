@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-27, 23:45:00](https://soylentnews.org/article.pl?sid=24/06/27/0215220&from=rss) - [Internet Archive Forced to Remove 500,000 Books After Publishers’ Court Win](https://soylentnews.org/article.pl?sid=24/06/27/0215220&from=rss)
 * [2024-06-27, 19:00:00](https://soylentnews.org/article.pl?sid=24/06/26/0419217&from=rss) - [Sprayable Gel Simplifies Surgeries](https://soylentnews.org/article.pl?sid=24/06/26/0419217&from=rss)
 * [2024-06-27, 15:20:00](https://soylentnews.org/article.pl?sid=24/06/27/1513214&from=rss) - [Decomissioned Russian Satelite Breaks Up, Astronauts on ISS Move to Their Spacecrafts](https://soylentnews.org/article.pl?sid=24/06/27/1513214&from=rss)
 * [2024-06-27, 11:18:00](https://soylentnews.org/article.pl?sid=24/06/26/0410241&from=rss) - [Sweat May Protect Against Lyme Disease](https://soylentnews.org/article.pl?sid=24/06/26/0410241&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-19, 08:50:00](https://soylentnews.org/article.pl?sid=24/06/18/034255&from=rss) - [After Europe, Japan Introduces Law to Curb Apple and Google's App Store Dominance](https://soylentnews.org/article.pl?sid=24/06/18/034255&from=rss)
 * [2024-06-19, 04:03:00](https://soylentnews.org/article.pl?sid=24/06/18/0130257&from=rss) - [Women Were Knights Too? Archaeologists Make Unexpected Discovery in Medieval Warrior Monk Burials](https://soylentnews.org/article.pl?sid=24/06/18/0130257&from=rss)
 * [2024-06-18, 23:18:00](https://soylentnews.org/article.pl?sid=24/06/17/1930232&from=rss) - [Microsoft President to Congress: ‘We Accept Responsibility’ for Cybersecurity Failures](https://soylentnews.org/article.pl?sid=24/06/17/1930232&from=rss)
-* [2024-06-18, 18:34:00](https://soylentnews.org/article.pl?sid=24/06/17/1925242&from=rss) - [News Consumption is Down -- 2024](https://soylentnews.org/article.pl?sid=24/06/17/1925242&from=rss)
 
 ## [Archives](archives/index.md)
 
