@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-28, 09:07:00](https://soylentnews.org/article.pl?sid=24/06/27/0848239&from=rss) - [AI Designs Radical Magnet Free of Rare-Earth Metals in Just 3 Months](https://soylentnews.org/article.pl?sid=24/06/27/0848239&from=rss)
 * [2024-06-28, 04:25:00](https://soylentnews.org/article.pl?sid=24/06/27/0846214&from=rss) - [We Know Social Media Bans Are Unlikely to Work. So How Can We Keep Young People Safe Online?](https://soylentnews.org/article.pl?sid=24/06/27/0846214&from=rss)
 * [2024-06-27, 23:45:00](https://soylentnews.org/article.pl?sid=24/06/27/0215220&from=rss) - [Internet Archive Forced to Remove 500,000 Books After Publishers’ Court Win](https://soylentnews.org/article.pl?sid=24/06/27/0215220&from=rss)
 * [2024-06-27, 19:00:00](https://soylentnews.org/article.pl?sid=24/06/26/0419217&from=rss) - [Sprayable Gel Simplifies Surgeries](https://soylentnews.org/article.pl?sid=24/06/26/0419217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-19, 18:10:00](https://soylentnews.org/article.pl?sid=24/06/18/1511204&from=rss) - [cURL User Survey 2024 Analysis](https://soylentnews.org/article.pl?sid=24/06/18/1511204&from=rss)
 * [2024-06-19, 13:33:00](https://soylentnews.org/article.pl?sid=24/06/18/047207&from=rss) - [Improving Soil Health Yields Unexpected Benefits For Farmers](https://soylentnews.org/article.pl?sid=24/06/18/047207&from=rss)
 * [2024-06-19, 08:50:00](https://soylentnews.org/article.pl?sid=24/06/18/034255&from=rss) - [After Europe, Japan Introduces Law to Curb Apple and Google's App Store Dominance](https://soylentnews.org/article.pl?sid=24/06/18/034255&from=rss)
-* [2024-06-19, 04:03:00](https://soylentnews.org/article.pl?sid=24/06/18/0130257&from=rss) - [Women Were Knights Too? Archaeologists Make Unexpected Discovery in Medieval Warrior Monk Burials](https://soylentnews.org/article.pl?sid=24/06/18/0130257&from=rss)
 
 ## [Archives](archives/index.md)
 
