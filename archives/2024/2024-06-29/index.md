@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 08:56:00](https://soylentnews.org/article.pl?sid=24/06/28/0338253&from=rss) - [China Lunar Probe Returns to Earth With Samples](https://soylentnews.org/article.pl?sid=24/06/28/0338253&from=rss)
 * [2024-06-29, 04:09:00](https://soylentnews.org/article.pl?sid=24/06/28/0331234&from=rss) - [New Study Confirms Forever Chemicals Are Absorbed Through Human Skin](https://soylentnews.org/article.pl?sid=24/06/28/0331234&from=rss)
