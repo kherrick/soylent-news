@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-06-29, 18:30:00](https://soylentnews.org/article.pl?sid=24/06/29/031205&from=rss) - [Two Ways to Use an LED as a Light Sensor With Arduino](https://soylentnews.org/article.pl?sid=24/06/29/031205&from=rss)
 * [2024-06-29, 13:42:00](https://soylentnews.org/article.pl?sid=24/06/28/0342240&from=rss) - [Who Knew There Were Unicycling World Championships?](https://soylentnews.org/article.pl?sid=24/06/28/0342240&from=rss)
 * [2024-06-29, 08:56:00](https://soylentnews.org/article.pl?sid=24/06/28/0338253&from=rss) - [China Lunar Probe Returns to Earth With Samples](https://soylentnews.org/article.pl?sid=24/06/28/0338253&from=rss)
 * [2024-06-29, 04:09:00](https://soylentnews.org/article.pl?sid=24/06/28/0331234&from=rss) - [New Study Confirms Forever Chemicals Are Absorbed Through Human Skin](https://soylentnews.org/article.pl?sid=24/06/28/0331234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-21, 01:00:00](https://soylentnews.org/article.pl?sid=24/06/20/1558253&from=rss) - [Schneier on Security - His New Blog Moderation Policy](https://soylentnews.org/article.pl?sid=24/06/20/1558253&from=rss)
 * [2024-06-20, 22:38:00](https://soylentnews.org/article.pl?sid=24/06/19/1844241&from=rss) - [Human Missions to Mars in Serious Doubt After Discovery Made on Effects to Astronaut's Bodies](https://soylentnews.org/article.pl?sid=24/06/19/1844241&from=rss)
 * [2024-06-20, 17:53:00](https://soylentnews.org/article.pl?sid=24/06/19/1816223&from=rss) - [AI Not Replacing Comedians Any Time Soon](https://soylentnews.org/article.pl?sid=24/06/19/1816223&from=rss)
-* [2024-06-20, 13:05:00](https://soylentnews.org/article.pl?sid=24/06/19/0156239&from=rss) - [Youtube's Unskippable Ads Are About To Get So Much Worse](https://soylentnews.org/article.pl?sid=24/06/19/0156239&from=rss)
 
 ## [Archives](archives/index.md)
 
