@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 23:04:00](https://soylentnews.org/article.pl?sid=24/06/29/142212&from=rss) - [Orbital Data Centers](https://soylentnews.org/article.pl?sid=24/06/29/142212&from=rss)
 * [2024-06-30, 18:16:00](https://soylentnews.org/article.pl?sid=24/06/29/1349229&from=rss) - [Researchers Craft Smiling Robot Face From Living Human Skin Cells](https://soylentnews.org/article.pl?sid=24/06/29/1349229&from=rss)
 * [2024-06-30, 13:33:00](https://soylentnews.org/article.pl?sid=24/06/29/1344216&from=rss) - [Microsoft Says That It's Okay for Them to Steal Your Web Content Because It's 'Freeware'](https://soylentnews.org/article.pl?sid=24/06/29/1344216&from=rss)
 * [2024-06-30, 08:48:00](https://soylentnews.org/article.pl?sid=24/06/29/0334220&from=rss) - [AI Do Better on Tests Than Students](https://soylentnews.org/article.pl?sid=24/06/29/0334220&from=rss)
