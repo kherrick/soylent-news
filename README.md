@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-01, 03:49:00](https://soylentnews.org/article.pl?sid=24/06/29/1450257&from=rss) - [Chrome Will Distrust CA Certificates From Entrust Later This Year](https://soylentnews.org/article.pl?sid=24/06/29/1450257&from=rss)
 * [2024-06-30, 23:04:00](https://soylentnews.org/article.pl?sid=24/06/29/142212&from=rss) - [Orbital Data Centers](https://soylentnews.org/article.pl?sid=24/06/29/142212&from=rss)
 * [2024-06-30, 18:16:00](https://soylentnews.org/article.pl?sid=24/06/29/1349229&from=rss) - [Researchers Craft Smiling Robot Face From Living Human Skin Cells](https://soylentnews.org/article.pl?sid=24/06/29/1349229&from=rss)
 * [2024-06-30, 13:33:00](https://soylentnews.org/article.pl?sid=24/06/29/1344216&from=rss) - [Microsoft Says That It's Okay for Them to Steal Your Web Content Because It's 'Freeware'](https://soylentnews.org/article.pl?sid=24/06/29/1344216&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-22, 07:48:00](https://soylentnews.org/article.pl?sid=24/06/21/1129235&from=rss) - [Making a Bignum Library for Fun](https://soylentnews.org/article.pl?sid=24/06/21/1129235&from=rss)
 * [2024-06-22, 03:06:00](https://soylentnews.org/article.pl?sid=24/06/21/1126225&from=rss) - [Deleting Facebook](https://soylentnews.org/article.pl?sid=24/06/21/1126225&from=rss)
 * [2024-06-21, 22:24:00](https://soylentnews.org/article.pl?sid=24/06/20/1317248&from=rss) - ['Risks of Nuclear Terrorism Are High and Growing.' New Tools, Alliances, Renewed Focus Needed](https://soylentnews.org/article.pl?sid=24/06/20/1317248&from=rss)
-* [2024-06-21, 17:42:00](https://soylentnews.org/article.pl?sid=24/06/20/1310223&from=rss) - [Bacon Ice Cream and Nugget Overload Sees Misfiring McDonald's AI Withdrawn](https://soylentnews.org/article.pl?sid=24/06/20/1310223&from=rss)
 
 ## [Archives](archives/index.md)
 
