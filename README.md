@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-01, 13:17:00](https://soylentnews.org/article.pl?sid=24/06/30/1358220&from=rss) - [Copyright Takedowns Are a Cautionary Tale That Few Are Heeding](https://soylentnews.org/article.pl?sid=24/06/30/1358220&from=rss)
 * [2024-07-01, 08:33:00](https://soylentnews.org/article.pl?sid=24/06/29/1544203&from=rss) - [Iceland's Volcanic Eruptions Could Continue For Decades, Study Finds](https://soylentnews.org/article.pl?sid=24/06/29/1544203&from=rss)
 * [2024-07-01, 03:49:00](https://soylentnews.org/article.pl?sid=24/06/29/1450257&from=rss) - [Chrome Will Distrust CA Certificates From Entrust Later This Year](https://soylentnews.org/article.pl?sid=24/06/29/1450257&from=rss)
 * [2024-06-30, 23:04:00](https://soylentnews.org/article.pl?sid=24/06/29/142212&from=rss) - [Orbital Data Centers](https://soylentnews.org/article.pl?sid=24/06/29/142212&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-22, 17:18:00](https://soylentnews.org/article.pl?sid=24/06/22/0134208&from=rss) - [AMD Investigates Claims of Breach After Group Offers Stolen Company Data for Sale](https://soylentnews.org/article.pl?sid=24/06/22/0134208&from=rss)
 * [2024-06-22, 12:33:00](https://soylentnews.org/article.pl?sid=24/06/22/0129230&from=rss) - [US to Ban  Sales of Kaspersky Software Over Ties to Russia](https://soylentnews.org/article.pl?sid=24/06/22/0129230&from=rss)
 * [2024-06-22, 07:48:00](https://soylentnews.org/article.pl?sid=24/06/21/1129235&from=rss) - [Making a Bignum Library for Fun](https://soylentnews.org/article.pl?sid=24/06/21/1129235&from=rss)
-* [2024-06-22, 03:06:00](https://soylentnews.org/article.pl?sid=24/06/21/1126225&from=rss) - [Deleting Facebook](https://soylentnews.org/article.pl?sid=24/06/21/1126225&from=rss)
 
 ## [Archives](archives/index.md)
 
