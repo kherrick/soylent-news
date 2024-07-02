@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-02, 03:27:00](https://soylentnews.org/article.pl?sid=24/07/02/0048225&from=rss) - [Bleeding Subscribers, Cable Companies Force Their Way Into Streaming](https://soylentnews.org/article.pl?sid=24/07/02/0048225&from=rss)
 * [2024-07-01, 22:42:00](https://soylentnews.org/article.pl?sid=24/07/01/1544218&from=rss) - [New OpenSSH Vulnerability Could Lead to RCE as Root on Linux Systems](https://soylentnews.org/article.pl?sid=24/07/01/1544218&from=rss)
 * [2024-07-01, 18:02:00](https://soylentnews.org/article.pl?sid=24/06/30/1421233&from=rss) - [A Major Earthquake Caused One of the Largest Rivers on Earth to Abruptly Change Course](https://soylentnews.org/article.pl?sid=24/06/30/1421233&from=rss)
 * [2024-07-01, 13:17:00](https://soylentnews.org/article.pl?sid=24/06/30/1358220&from=rss) - [Copyright Takedowns Are a Cautionary Tale That Few Are Heeding](https://soylentnews.org/article.pl?sid=24/06/30/1358220&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-23, 07:37:00](https://soylentnews.org/article.pl?sid=24/06/22/0229234&from=rss) - [NASA Indefinitely Delays Return of Starliner to Review Propulsion Data](https://soylentnews.org/article.pl?sid=24/06/22/0229234&from=rss)
 * [2024-06-23, 02:48:00](https://soylentnews.org/article.pl?sid=24/06/22/0222257&from=rss) - [Researchers Create New Class of Materials Called 'Glassy Gels'](https://soylentnews.org/article.pl?sid=24/06/22/0222257&from=rss)
 * [2024-06-22, 22:05:00](https://soylentnews.org/article.pl?sid=24/06/22/0211259&from=rss) - [systemd 256.1: Now Slightly Less Likely to Delete /home](https://soylentnews.org/article.pl?sid=24/06/22/0211259&from=rss)
-* [2024-06-22, 17:18:00](https://soylentnews.org/article.pl?sid=24/06/22/0134208&from=rss) - [AMD Investigates Claims of Breach After Group Offers Stolen Company Data for Sale](https://soylentnews.org/article.pl?sid=24/06/22/0134208&from=rss)
 
 ## [Archives](archives/index.md)
 
