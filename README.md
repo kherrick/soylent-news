@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-02, 17:36:00](https://soylentnews.org/article.pl?sid=24/07/02/0059238&from=rss) - [Study: Tracking Devices Frequently Used in Organized Crime and by Domestic Violence Perpetrators](https://soylentnews.org/article.pl?sid=24/07/02/0059238&from=rss)
 * [2024-07-02, 12:52:00](https://soylentnews.org/article.pl?sid=24/07/02/0053223&from=rss) - [Toys “R” Us Riles Critics With “First-Ever” AI-Generated Commercial Using Sora](https://soylentnews.org/article.pl?sid=24/07/02/0053223&from=rss)
 * [2024-07-02, 08:10:00](https://soylentnews.org/article.pl?sid=24/07/02/0051227&from=rss) - [Data Suggests Homosexual Behavior in Other Animals is Far More Common Than Previously Thought](https://soylentnews.org/article.pl?sid=24/07/02/0051227&from=rss)
 * [2024-07-02, 03:27:00](https://soylentnews.org/article.pl?sid=24/07/02/0048225&from=rss) - [Bleeding Subscribers, Cable Companies Force Their Way Into Streaming](https://soylentnews.org/article.pl?sid=24/07/02/0048225&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-23, 21:49:00](https://soylentnews.org/article.pl?sid=24/06/22/1840220&from=rss) - [Pornhub, Aylo To Block Indiana And Kentucky Over Age Verification Laws](https://soylentnews.org/article.pl?sid=24/06/22/1840220&from=rss)
 * [2024-06-23, 17:03:00](https://soylentnews.org/article.pl?sid=24/06/22/1833253&from=rss) - [Fungal Banking](https://soylentnews.org/article.pl?sid=24/06/22/1833253&from=rss)
 * [2024-06-23, 12:19:00](https://soylentnews.org/article.pl?sid=24/06/22/1829235&from=rss) - [The Consequences  of  One’s First  Programming  Language](https://soylentnews.org/article.pl?sid=24/06/22/1829235&from=rss)
-* [2024-06-23, 07:37:00](https://soylentnews.org/article.pl?sid=24/06/22/0229234&from=rss) - [NASA Indefinitely Delays Return of Starliner to Review Propulsion Data](https://soylentnews.org/article.pl?sid=24/06/22/0229234&from=rss)
 
 ## [Archives](archives/index.md)
 
