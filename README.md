@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-04, 19:02:00](https://soylentnews.org/article.pl?sid=24/07/03/0256208&from=rss) - [A Buried Ancient Egyptian Port Reveals the Hidden Connections Between Distant Civilizations](https://soylentnews.org/article.pl?sid=24/07/03/0256208&from=rss)
 * [2024-07-04, 14:18:00](https://soylentnews.org/article.pl?sid=24/07/02/0640234&from=rss) - [Video Shows Giant Explosion After Accidental Rocket Launch in China](https://soylentnews.org/article.pl?sid=24/07/02/0640234&from=rss)
 * [2024-07-04, 09:34:00](https://soylentnews.org/article.pl?sid=24/07/02/0625257&from=rss) - [Inside a 1 Dollar Radar Motion Sensor](https://soylentnews.org/article.pl?sid=24/07/02/0625257&from=rss)
 * [2024-07-04, 05:26:00](https://soylentnews.org/article.pl?sid=24/07/04/0528214&from=rss) - [Happy Independence Day USA!](https://soylentnews.org/article.pl?sid=24/07/04/0528214&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-25, 21:12:00](https://soylentnews.org/article.pl?sid=24/06/25/0647211&from=rss) - [EU Says Apple Violated App Developers’ Rights, Could be Fined 10% of Revenue](https://soylentnews.org/article.pl?sid=24/06/25/0647211&from=rss)
 * [2024-06-25, 16:27:00](https://soylentnews.org/article.pl?sid=24/06/25/0641219&from=rss) - [Understanding Climate Models](https://soylentnews.org/article.pl?sid=24/06/25/0641219&from=rss)
 * [2024-06-25, 11:44:00](https://soylentnews.org/article.pl?sid=24/06/24/186236&from=rss) - [Major Capacitor Breakthrough Could Usher 170 Times Higher Power Density](https://soylentnews.org/article.pl?sid=24/06/24/186236&from=rss)
-* [2024-06-25, 07:03:00](https://soylentnews.org/article.pl?sid=24/06/24/1722216&from=rss) - [Decades Later, John Romero Looks Back at the Birth of the First-Person Shooter](https://soylentnews.org/article.pl?sid=24/06/24/1722216&from=rss)
 
 ## [Archives](archives/index.md)
 
