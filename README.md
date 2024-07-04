@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-04, 04:47:00](https://soylentnews.org/article.pl?sid=24/07/02/0622238&from=rss) - [First Case of Down Syndrome in Neanderthals](https://soylentnews.org/article.pl?sid=24/07/02/0622238&from=rss)
 * [2024-07-03, 23:59:00](https://soylentnews.org/article.pl?sid=24/07/02/0613207&from=rss) - [McDonald's Ice Cream Machines Are Always Broken and Now the Feds Are Involved](https://soylentnews.org/article.pl?sid=24/07/02/0613207&from=rss)
 * [2024-07-03, 19:15:00](https://soylentnews.org/article.pl?sid=24/07/02/0610216&from=rss) - [Light Can Make Water Evaporate Without Heat](https://soylentnews.org/article.pl?sid=24/07/02/0610216&from=rss)
 * [2024-07-03, 14:37:00](https://soylentnews.org/article.pl?sid=24/07/02/064224&from=rss) - [Appeals Court Seems Lost on How Internet Archive Harms Publishers](https://soylentnews.org/article.pl?sid=24/07/02/064224&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-25, 06:36:00](https://soylentnews.org/breakingnews/article.pl?sid=24/06/25/0626227&from=rss) - [Assange To Be Freed Following Plea Deal - He is Now En Route to Saipan](https://soylentnews.org/breakingnews/article.pl?sid=24/06/25/0626227&from=rss)
 * [2024-06-25, 02:17:00](https://soylentnews.org/article.pl?sid=24/06/24/0348213&from=rss) - [Apple Might Partner With Meta on AI](https://soylentnews.org/article.pl?sid=24/06/24/0348213&from=rss)
 * [2024-06-24, 21:35:00](https://soylentnews.org/article.pl?sid=24/06/24/0330226&from=rss) - [Inside the Tiny Chip That Powers Montreal Subway Tickets](https://soylentnews.org/article.pl?sid=24/06/24/0330226&from=rss)
-* [2024-06-24, 16:48:00](https://soylentnews.org/article.pl?sid=24/06/23/1322233&from=rss) - [Hacked, Leaked, Exposed: Why You Should Never Use Stalkerware Apps](https://soylentnews.org/article.pl?sid=24/06/23/1322233&from=rss)
 
 ## [Archives](archives/index.md)
 
