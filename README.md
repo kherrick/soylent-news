@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-04, 09:34:00](https://soylentnews.org/article.pl?sid=24/07/02/0625257&from=rss) - [Inside a 1 Dollar Radar Motion Sensor](https://soylentnews.org/article.pl?sid=24/07/02/0625257&from=rss)
 * [2024-07-04, 05:26:00](https://soylentnews.org/article.pl?sid=24/07/04/0528214&from=rss) - [Happy Independence Day USA!](https://soylentnews.org/article.pl?sid=24/07/04/0528214&from=rss)
 * [2024-07-04, 04:47:00](https://soylentnews.org/article.pl?sid=24/07/02/0622238&from=rss) - [First Case of Down Syndrome in Neanderthals](https://soylentnews.org/article.pl?sid=24/07/02/0622238&from=rss)
 * [2024-07-03, 23:59:00](https://soylentnews.org/article.pl?sid=24/07/02/0613207&from=rss) - [McDonald's Ice Cream Machines Are Always Broken and Now the Feds Are Involved](https://soylentnews.org/article.pl?sid=24/07/02/0613207&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-25, 11:44:00](https://soylentnews.org/article.pl?sid=24/06/24/186236&from=rss) - [Major Capacitor Breakthrough Could Usher 170 Times Higher Power Density](https://soylentnews.org/article.pl?sid=24/06/24/186236&from=rss)
 * [2024-06-25, 07:03:00](https://soylentnews.org/article.pl?sid=24/06/24/1722216&from=rss) - [Decades Later, John Romero Looks Back at the Birth of the First-Person Shooter](https://soylentnews.org/article.pl?sid=24/06/24/1722216&from=rss)
 * [2024-06-25, 06:36:00](https://soylentnews.org/breakingnews/article.pl?sid=24/06/25/0626227&from=rss) - [Assange To Be Freed Following Plea Deal - He is Now En Route to Saipan](https://soylentnews.org/breakingnews/article.pl?sid=24/06/25/0626227&from=rss)
-* [2024-06-25, 02:17:00](https://soylentnews.org/article.pl?sid=24/06/24/0348213&from=rss) - [Apple Might Partner With Meta on AI](https://soylentnews.org/article.pl?sid=24/06/24/0348213&from=rss)
 
 ## [Archives](archives/index.md)
 
