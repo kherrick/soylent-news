@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-05, 04:29:00](https://soylentnews.org/article.pl?sid=24/07/04/0153219&from=rss) - [Shopping App Temu is “Dangerous Malware,” Spying on Your Texts, Lawsuit Claims](https://soylentnews.org/article.pl?sid=24/07/04/0153219&from=rss)
 * [2024-07-04, 23:47:00](https://soylentnews.org/article.pl?sid=24/07/02/0651234&from=rss) - [Verizon Hit With Whopping $847M Patent Infringement Verdict](https://soylentnews.org/article.pl?sid=24/07/02/0651234&from=rss)
 * [2024-07-04, 19:02:00](https://soylentnews.org/article.pl?sid=24/07/03/0256208&from=rss) - [A Buried Ancient Egyptian Port Reveals the Hidden Connections Between Distant Civilizations](https://soylentnews.org/article.pl?sid=24/07/03/0256208&from=rss)
 * [2024-07-04, 14:18:00](https://soylentnews.org/article.pl?sid=24/07/02/0640234&from=rss) - [Video Shows Giant Explosion After Accidental Rocket Launch in China](https://soylentnews.org/article.pl?sid=24/07/02/0640234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-26, 04:50:00](https://soylentnews.org/article.pl?sid=24/06/26/0444219&from=rss) - [Julian Assange Walks Free After Reaching Plea Deal in US Court Over Leaking Military Secrets](https://soylentnews.org/article.pl?sid=24/06/26/0444219&from=rss)
 * [2024-06-26, 01:57:00](https://soylentnews.org/article.pl?sid=24/06/25/114249&from=rss) - [New Mathematical Proof Helps To Solve Equations With Random Components](https://soylentnews.org/article.pl?sid=24/06/25/114249&from=rss)
 * [2024-06-25, 21:12:00](https://soylentnews.org/article.pl?sid=24/06/25/0647211&from=rss) - [EU Says Apple Violated App Developers’ Rights, Could be Fined 10% of Revenue](https://soylentnews.org/article.pl?sid=24/06/25/0647211&from=rss)
-* [2024-06-25, 16:27:00](https://soylentnews.org/article.pl?sid=24/06/25/0641219&from=rss) - [Understanding Climate Models](https://soylentnews.org/article.pl?sid=24/06/25/0641219&from=rss)
 
 ## [Archives](archives/index.md)
 
