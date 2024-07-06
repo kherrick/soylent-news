@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-06, 13:58:00](https://soylentnews.org/article.pl?sid=24/07/04/0611240&from=rss) - [Teardown Tuesday: HB100 Doppler Radar Module ](https://soylentnews.org/article.pl?sid=24/07/04/0611240&from=rss)
 * [2024-07-06, 09:08:00](https://soylentnews.org/article.pl?sid=24/07/04/0559259&from=rss) - [AI Companies Are Finally Being Forced To Cough Up For Training Data](https://soylentnews.org/article.pl?sid=24/07/04/0559259&from=rss)
 * [2024-07-06, 04:21:00](https://soylentnews.org/article.pl?sid=24/07/04/0553258&from=rss) - [Scientists Discover Way To 'Grow' Sub-Nanometer Sized Transistors](https://soylentnews.org/article.pl?sid=24/07/04/0553258&from=rss)
 * [2024-07-05, 23:34:00](https://soylentnews.org/article.pl?sid=24/07/04/0547232&from=rss) - [Extremely Large Telescope: World’s Largest Telescope Mirror Will Bring The Stars 'Closer To Earth'](https://soylentnews.org/article.pl?sid=24/07/04/0547232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-27, 11:18:00](https://soylentnews.org/article.pl?sid=24/06/26/0410241&from=rss) - [Sweat May Protect Against Lyme Disease](https://soylentnews.org/article.pl?sid=24/06/26/0410241&from=rss)
 * [2024-06-27, 06:29:00](https://soylentnews.org/article.pl?sid=24/06/26/0359228&from=rss) - [Drugs are More Effective at Certain Times of Day](https://soylentnews.org/article.pl?sid=24/06/26/0359228&from=rss)
 * [2024-06-27, 01:42:00](https://soylentnews.org/article.pl?sid=24/06/26/0223226&from=rss) - [House Bans DJI Drones for Implementing the House's Demands](https://soylentnews.org/article.pl?sid=24/06/26/0223226&from=rss)
-* [2024-06-26, 20:58:00](https://soylentnews.org/article.pl?sid=24/06/26/0220210&from=rss) - [Do Protons Decay? The Answer Might be on the Moon](https://soylentnews.org/article.pl?sid=24/06/26/0220210&from=rss)
 
 ## [Archives](archives/index.md)
 
