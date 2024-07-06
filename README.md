@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-06, 23:23:00](https://soylentnews.org/article.pl?sid=24/07/04/1916232&from=rss) - [Chinese Gen AI Researchers Snagged More Patents Than Everyone Else Combined Since 2013](https://soylentnews.org/article.pl?sid=24/07/04/1916232&from=rss)
 * [2024-07-06, 18:42:00](https://soylentnews.org/article.pl?sid=24/07/04/1913253&from=rss) - [IETF: IPv6 is an Internet Standard (That We Won't Run Either)](https://soylentnews.org/article.pl?sid=24/07/04/1913253&from=rss)
 * [2024-07-06, 13:58:00](https://soylentnews.org/article.pl?sid=24/07/04/0611240&from=rss) - [Teardown Tuesday: HB100 Doppler Radar Module ](https://soylentnews.org/article.pl?sid=24/07/04/0611240&from=rss)
 * [2024-07-06, 09:08:00](https://soylentnews.org/article.pl?sid=24/07/04/0559259&from=rss) - [AI Companies Are Finally Being Forced To Cough Up For Training Data](https://soylentnews.org/article.pl?sid=24/07/04/0559259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-27, 19:00:00](https://soylentnews.org/article.pl?sid=24/06/26/0419217&from=rss) - [Sprayable Gel Simplifies Surgeries](https://soylentnews.org/article.pl?sid=24/06/26/0419217&from=rss)
 * [2024-06-27, 15:20:00](https://soylentnews.org/article.pl?sid=24/06/27/1513214&from=rss) - [Decomissioned Russian Satelite Breaks Up, Astronauts on ISS Move to Their Spacecrafts](https://soylentnews.org/article.pl?sid=24/06/27/1513214&from=rss)
 * [2024-06-27, 11:18:00](https://soylentnews.org/article.pl?sid=24/06/26/0410241&from=rss) - [Sweat May Protect Against Lyme Disease](https://soylentnews.org/article.pl?sid=24/06/26/0410241&from=rss)
-* [2024-06-27, 06:29:00](https://soylentnews.org/article.pl?sid=24/06/26/0359228&from=rss) - [Drugs are More Effective at Certain Times of Day](https://soylentnews.org/article.pl?sid=24/06/26/0359228&from=rss)
 
 ## [Archives](archives/index.md)
 
