@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-07, 09:18:00](https://soylentnews.org/article.pl?sid=24/07/05/1739232&from=rss) - [OVHcloud Sees Record 840 Mpps DDoS Attack](https://soylentnews.org/article.pl?sid=24/07/05/1739232&from=rss)
 * [2024-07-07, 04:29:00](https://soylentnews.org/article.pl?sid=24/07/04/2320240&from=rss) - [New Intel CPU Vulnerability Discovered, no New Mitigations Planned for \"Indirector\"](https://soylentnews.org/article.pl?sid=24/07/04/2320240&from=rss)
 * [2024-07-06, 23:23:00](https://soylentnews.org/article.pl?sid=24/07/04/1916232&from=rss) - [Chinese Gen AI Researchers Snagged More Patents Than Everyone Else Combined Since 2013](https://soylentnews.org/article.pl?sid=24/07/04/1916232&from=rss)
 * [2024-07-06, 18:42:00](https://soylentnews.org/article.pl?sid=24/07/04/1913253&from=rss) - [IETF: IPv6 is an Internet Standard (That We Won't Run Either)](https://soylentnews.org/article.pl?sid=24/07/04/1913253&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-28, 04:25:00](https://soylentnews.org/article.pl?sid=24/06/27/0846214&from=rss) - [We Know Social Media Bans Are Unlikely to Work. So How Can We Keep Young People Safe Online?](https://soylentnews.org/article.pl?sid=24/06/27/0846214&from=rss)
 * [2024-06-27, 23:45:00](https://soylentnews.org/article.pl?sid=24/06/27/0215220&from=rss) - [Internet Archive Forced to Remove 500,000 Books After Publishers’ Court Win](https://soylentnews.org/article.pl?sid=24/06/27/0215220&from=rss)
 * [2024-06-27, 19:00:00](https://soylentnews.org/article.pl?sid=24/06/26/0419217&from=rss) - [Sprayable Gel Simplifies Surgeries](https://soylentnews.org/article.pl?sid=24/06/26/0419217&from=rss)
-* [2024-06-27, 15:20:00](https://soylentnews.org/article.pl?sid=24/06/27/1513214&from=rss) - [Decomissioned Russian Satelite Breaks Up, Astronauts on ISS Move to Their Spacecrafts](https://soylentnews.org/article.pl?sid=24/06/27/1513214&from=rss)
 
 ## [Archives](archives/index.md)
 
