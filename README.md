@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-08, 09:02:00](https://soylentnews.org/article.pl?sid=24/07/07/1315256&from=rss) - [ITER Delays First Plasma For World’s Biggest Tokamak](https://soylentnews.org/article.pl?sid=24/07/07/1315256&from=rss)
 * [2024-07-08, 07:54:00](https://soylentnews.org/article.pl?sid=24/07/08/0654208&from=rss) - [Volunteers Who Lived in NASA’s Mars Simulation for Over a Year Will Finally Emerge Today](https://soylentnews.org/article.pl?sid=24/07/08/0654208&from=rss)
 * [2024-07-08, 04:12:00](https://soylentnews.org/article.pl?sid=24/07/07/134203&from=rss) - [Techies Are Managing Their Marriages the Same Way They Run Their Careers](https://soylentnews.org/article.pl?sid=24/07/07/134203&from=rss)
 * [2024-07-07, 23:28:00](https://soylentnews.org/article.pl?sid=24/07/07/1259251&from=rss) - [Japan's Digital Minister Claims Victory Against Floppy Disks](https://soylentnews.org/article.pl?sid=24/07/07/1259251&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-29, 08:56:00](https://soylentnews.org/article.pl?sid=24/06/28/0338253&from=rss) - [China Lunar Probe Returns to Earth With Samples](https://soylentnews.org/article.pl?sid=24/06/28/0338253&from=rss)
 * [2024-06-29, 04:09:00](https://soylentnews.org/article.pl?sid=24/06/28/0331234&from=rss) - [New Study Confirms Forever Chemicals Are Absorbed Through Human Skin](https://soylentnews.org/article.pl?sid=24/06/28/0331234&from=rss)
 * [2024-06-28, 23:20:00](https://soylentnews.org/article.pl?sid=24/06/27/133231&from=rss) - [U.S. Airports No Longer Have to Build Their Own Terrible Trains (2021)](https://soylentnews.org/article.pl?sid=24/06/27/133231&from=rss)
-* [2024-06-28, 18:34:00](https://soylentnews.org/article.pl?sid=24/06/27/1256225&from=rss) - [Microsoft Risks Huge Fine Over “Possibly Abusive” Bundling of Teams and Office](https://soylentnews.org/article.pl?sid=24/06/27/1256225&from=rss)
 
 ## [Archives](archives/index.md)
 
