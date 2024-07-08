@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-08, 23:16:00](https://soylentnews.org/article.pl?sid=24/07/07/1338259&from=rss) - [Do Your Insurances Cover Against Damage by Space Debris?](https://soylentnews.org/article.pl?sid=24/07/07/1338259&from=rss)
 * [2024-07-08, 18:31:00](https://soylentnews.org/article.pl?sid=24/07/07/1334210&from=rss) - [Cloudflare is Taking a Stand Against AI Website Scrapers](https://soylentnews.org/article.pl?sid=24/07/07/1334210&from=rss)
 * [2024-07-08, 13:49:00](https://soylentnews.org/article.pl?sid=24/07/07/1323231&from=rss) - [China Working On Standard For Brain-Computer Interfaces](https://soylentnews.org/article.pl?sid=24/07/07/1323231&from=rss)
 * [2024-07-08, 09:02:00](https://soylentnews.org/article.pl?sid=24/07/07/1315256&from=rss) - [ITER Delays First Plasma For World’s Biggest Tokamak](https://soylentnews.org/article.pl?sid=24/07/07/1315256&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-29, 23:14:00](https://soylentnews.org/article.pl?sid=24/06/29/0317217&from=rss) - [Death O'Clock in Finland](https://soylentnews.org/article.pl?sid=24/06/29/0317217&from=rss)
 * [2024-06-29, 18:30:00](https://soylentnews.org/article.pl?sid=24/06/29/031205&from=rss) - [Two Ways to Use an LED as a Light Sensor With Arduino](https://soylentnews.org/article.pl?sid=24/06/29/031205&from=rss)
 * [2024-06-29, 13:42:00](https://soylentnews.org/article.pl?sid=24/06/28/0342240&from=rss) - [Who Knew There Were Unicycling World Championships?](https://soylentnews.org/article.pl?sid=24/06/28/0342240&from=rss)
-* [2024-06-29, 08:56:00](https://soylentnews.org/article.pl?sid=24/06/28/0338253&from=rss) - [China Lunar Probe Returns to Earth With Samples](https://soylentnews.org/article.pl?sid=24/06/28/0338253&from=rss)
 
 ## [Archives](archives/index.md)
 
