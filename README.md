@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-09, 08:49:00](https://soylentnews.org/article.pl?sid=24/07/08/0650242&from=rss) - [FTC Warns PC Manufacturers That Consumers Have the Right to Repair](https://soylentnews.org/article.pl?sid=24/07/08/0650242&from=rss)
 * [2024-07-09, 04:03:00](https://soylentnews.org/article.pl?sid=24/07/08/0437205&from=rss) - [Aboriginal Ritual Passed Down Over 12,000 Years, Cave Find Shows](https://soylentnews.org/article.pl?sid=24/07/08/0437205&from=rss)
 * [2024-07-08, 23:16:00](https://soylentnews.org/article.pl?sid=24/07/07/1338259&from=rss) - [Do Your Insurances Cover Against Damage by Space Debris?](https://soylentnews.org/article.pl?sid=24/07/07/1338259&from=rss)
 * [2024-07-08, 18:31:00](https://soylentnews.org/article.pl?sid=24/07/07/1334210&from=rss) - [Cloudflare is Taking a Stand Against AI Website Scrapers](https://soylentnews.org/article.pl?sid=24/07/07/1334210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-06-30, 08:48:00](https://soylentnews.org/article.pl?sid=24/06/29/0334220&from=rss) - [AI Performs Better on Tests Than Students](https://soylentnews.org/article.pl?sid=24/06/29/0334220&from=rss)
 * [2024-06-30, 03:59:00](https://soylentnews.org/article.pl?sid=24/06/29/0325256&from=rss) - [NVidia Loses $500 Billion in Value and its \"Most Valuable Company\" Crown](https://soylentnews.org/article.pl?sid=24/06/29/0325256&from=rss)
 * [2024-06-29, 23:14:00](https://soylentnews.org/article.pl?sid=24/06/29/0317217&from=rss) - [Death O'Clock in Finland](https://soylentnews.org/article.pl?sid=24/06/29/0317217&from=rss)
-* [2024-06-29, 18:30:00](https://soylentnews.org/article.pl?sid=24/06/29/031205&from=rss) - [Two Ways to Use an LED as a Light Sensor With Arduino](https://soylentnews.org/article.pl?sid=24/06/29/031205&from=rss)
 
 ## [Archives](archives/index.md)
 
