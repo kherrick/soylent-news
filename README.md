@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-10, 03:54:00](https://soylentnews.org/article.pl?sid=24/07/09/155236&from=rss) - [Did a Broken Random Number Generator in Cuba Help Expose a Russian Espionage Network?](https://soylentnews.org/article.pl?sid=24/07/09/155236&from=rss)
 * [2024-07-09, 23:12:00](https://soylentnews.org/article.pl?sid=24/07/08/104200&from=rss) - [UN Agency Wags Finger At Russia For Satellite Interference](https://soylentnews.org/article.pl?sid=24/07/08/104200&from=rss)
 * [2024-07-09, 18:25:00](https://soylentnews.org/article.pl?sid=24/07/08/076230&from=rss) - [Cyclist's AI-Powered Danger Detector](https://soylentnews.org/article.pl?sid=24/07/08/076230&from=rss)
 * [2024-07-09, 13:38:00](https://soylentnews.org/article.pl?sid=24/07/08/071207&from=rss) - [A New Australian Bill Is Proposing A Human Right To Housing: How Would This Work?](https://soylentnews.org/article.pl?sid=24/07/08/071207&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-01, 03:49:00](https://soylentnews.org/article.pl?sid=24/06/29/1450257&from=rss) - [Chrome Will Distrust CA Certificates From Entrust Later This Year](https://soylentnews.org/article.pl?sid=24/06/29/1450257&from=rss)
 * [2024-06-30, 23:04:00](https://soylentnews.org/article.pl?sid=24/06/29/142212&from=rss) - [Orbital Data Centers](https://soylentnews.org/article.pl?sid=24/06/29/142212&from=rss)
 * [2024-06-30, 18:16:00](https://soylentnews.org/article.pl?sid=24/06/29/1349229&from=rss) - [Researchers Craft Smiling Robot Face From Living Human Skin Cells](https://soylentnews.org/article.pl?sid=24/06/29/1349229&from=rss)
-* [2024-06-30, 13:33:00](https://soylentnews.org/article.pl?sid=24/06/29/1344216&from=rss) - [Microsoft Says That It's Okay for Them to Steal Your Web Content Because It's 'Freeware'](https://soylentnews.org/article.pl?sid=24/06/29/1344216&from=rss)
 
 ## [Archives](archives/index.md)
 
