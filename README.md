@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-11, 08:29:00](https://soylentnews.org/article.pl?sid=24/07/10/2246236&from=rss) - [Scientists Debunk 4 Popular Myths about the Safety of Intermittent Fasting](https://soylentnews.org/article.pl?sid=24/07/10/2246236&from=rss)
 * [2024-07-11, 03:44:00](https://soylentnews.org/article.pl?sid=24/07/10/1311248&from=rss) - [Taxi Rides Set to Change Forever](https://soylentnews.org/article.pl?sid=24/07/10/1311248&from=rss)
 * [2024-07-10, 23:01:00](https://soylentnews.org/article.pl?sid=24/07/10/132216&from=rss) - [Supreme Court Vacates Rulings on Texas and Florida Social Media Laws](https://soylentnews.org/article.pl?sid=24/07/10/132216&from=rss)
 * [2024-07-10, 18:13:00](https://soylentnews.org/article.pl?sid=24/07/09/1915200&from=rss) - [The Dangers of Sneezing—From Ejected Bowels to Torn Windpipes](https://soylentnews.org/article.pl?sid=24/07/09/1915200&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-02, 08:10:00](https://soylentnews.org/article.pl?sid=24/07/02/0051227&from=rss) - [Data Suggests Homosexual Behavior in Other Animals is Far More Common Than Previously Thought](https://soylentnews.org/article.pl?sid=24/07/02/0051227&from=rss)
 * [2024-07-02, 03:27:00](https://soylentnews.org/article.pl?sid=24/07/02/0048225&from=rss) - [Bleeding Subscribers, Cable Companies Force Their Way Into Streaming](https://soylentnews.org/article.pl?sid=24/07/02/0048225&from=rss)
 * [2024-07-01, 22:42:00](https://soylentnews.org/article.pl?sid=24/07/01/1544218&from=rss) - [New OpenSSH Vulnerability Could Lead to RCE as Root on Linux Systems](https://soylentnews.org/article.pl?sid=24/07/01/1544218&from=rss)
-* [2024-07-01, 18:02:00](https://soylentnews.org/article.pl?sid=24/06/30/1421233&from=rss) - [A Major Earthquake Caused One of the Largest Rivers on Earth to Abruptly Change Course](https://soylentnews.org/article.pl?sid=24/06/30/1421233&from=rss)
 
 ## [Archives](archives/index.md)
 
