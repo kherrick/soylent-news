@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-12, 08:13:00](https://soylentnews.org/article.pl?sid=24/07/11/1526235&from=rss) - [Congress Apparently Feels a Need for “Reaffirmation” of SLS Rocket](https://soylentnews.org/article.pl?sid=24/07/11/1526235&from=rss)
 * [2024-07-12, 03:36:00](https://soylentnews.org/article.pl?sid=24/07/10/2342235&from=rss) - [Boeing Accepts Guilty Plea Deal Over 737 Max Crashes](https://soylentnews.org/article.pl?sid=24/07/10/2342235&from=rss)
 * [2024-07-11, 22:51:00](https://soylentnews.org/article.pl?sid=24/07/10/2333236&from=rss) - [Meta Ordered to Stop Training its AI on Brazilian Personal Data](https://soylentnews.org/article.pl?sid=24/07/10/2333236&from=rss)
 * [2024-07-11, 18:07:00](https://soylentnews.org/article.pl?sid=24/07/10/2328230&from=rss) - [First-Known TikTok Mob Attack Led by Middle Schoolers Tormenting Teachers](https://soylentnews.org/article.pl?sid=24/07/10/2328230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-03, 09:52:00](https://soylentnews.org/article.pl?sid=24/07/02/061218&from=rss) - [China Issues Rare Earth Regulations to Further Protect Domestic Supply](https://soylentnews.org/article.pl?sid=24/07/02/061218&from=rss)
 * [2024-07-03, 03:06:00](https://soylentnews.org/article.pl?sid=24/07/02/0117220&from=rss) - [Unlocking a Gary TL-15 Round-Door Safe](https://soylentnews.org/article.pl?sid=24/07/02/0117220&from=rss)
 * [2024-07-02, 22:22:00](https://soylentnews.org/article.pl?sid=24/07/02/019252&from=rss) - [The Science of Procrastination: A Neuroscientist's Guide to Getting Things Done](https://soylentnews.org/article.pl?sid=24/07/02/019252&from=rss)
-* [2024-07-02, 17:36:00](https://soylentnews.org/article.pl?sid=24/07/02/0059238&from=rss) - [Study: Tracking Devices Frequently Used in Organized Crime and by Domestic Violence Perpetrators](https://soylentnews.org/article.pl?sid=24/07/02/0059238&from=rss)
 
 ## [Archives](archives/index.md)
 
