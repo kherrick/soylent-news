@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-14, 03:07:00](https://soylentnews.org/article.pl?sid=24/07/13/0328252&from=rss) - [“Immensely Disappointing”: Nike Killing App for $350 Self-Tying Sneakers](https://soylentnews.org/article.pl?sid=24/07/13/0328252&from=rss)
 * [2024-07-13, 22:18:00](https://soylentnews.org/article.pl?sid=24/07/13/0319256&from=rss) - [Linux Lite 7.0 Might Be The Best Lightweight Linux Distro On The Market](https://soylentnews.org/article.pl?sid=24/07/13/0319256&from=rss)
 * [2024-07-13, 17:29:00](https://soylentnews.org/article.pl?sid=24/07/13/0311256&from=rss) - [The FTC’s Ban Against Non-Compete Agreements May Be Under Threat](https://soylentnews.org/article.pl?sid=24/07/13/0311256&from=rss)
 * [2024-07-13, 12:42:00](https://soylentnews.org/article.pl?sid=24/07/13/037242&from=rss) - [High-Speed Hippos Can Get Airborne, Says New Study](https://soylentnews.org/article.pl?sid=24/07/13/037242&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-04, 23:47:00](https://soylentnews.org/article.pl?sid=24/07/02/0651234&from=rss) - [Verizon Hit With Whopping $847M Patent Infringement Verdict](https://soylentnews.org/article.pl?sid=24/07/02/0651234&from=rss)
 * [2024-07-04, 19:02:00](https://soylentnews.org/article.pl?sid=24/07/03/0256208&from=rss) - [A Buried Ancient Egyptian Port Reveals the Hidden Connections Between Distant Civilizations](https://soylentnews.org/article.pl?sid=24/07/03/0256208&from=rss)
 * [2024-07-04, 14:18:00](https://soylentnews.org/article.pl?sid=24/07/02/0640234&from=rss) - [Video Shows Giant Explosion After Accidental Rocket Launch in China](https://soylentnews.org/article.pl?sid=24/07/02/0640234&from=rss)
-* [2024-07-04, 09:34:00](https://soylentnews.org/article.pl?sid=24/07/02/0625257&from=rss) - [Inside a 1 Dollar Radar Motion Sensor](https://soylentnews.org/article.pl?sid=24/07/02/0625257&from=rss)
 
 ## [Archives](archives/index.md)
 
