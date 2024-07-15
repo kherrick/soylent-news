@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-07-15](index.md)
+
+* [2024-07-15, 02:38:00](https://soylentnews.org/article.pl?sid=24/07/13/169210&from=rss) - [White Fat Cells Morphed Into Calorie-Burning Beige Fat Cells In New Experiment](https://soylentnews.org/article.pl?sid=24/07/13/169210&from=rss)

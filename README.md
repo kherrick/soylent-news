@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-15, 02:38:00](https://soylentnews.org/article.pl?sid=24/07/13/169210&from=rss) - [White Fat Cells Morphed Into Calorie-Burning Beige Fat Cells In New Experiment](https://soylentnews.org/article.pl?sid=24/07/13/169210&from=rss)
 * [2024-07-14, 21:57:00](https://soylentnews.org/article.pl?sid=24/07/13/0416234&from=rss) - [Users Rage Over Retirement of Office 365 Connectors in Teams](https://soylentnews.org/article.pl?sid=24/07/13/0416234&from=rss)
 * [2024-07-14, 17:12:00](https://soylentnews.org/article.pl?sid=24/07/13/044231&from=rss) - [Can’t Stop Your Cat From Scratching the Furniture? Science Has Some Tips](https://soylentnews.org/article.pl?sid=24/07/13/044231&from=rss)
 * [2024-07-14, 12:29:00](https://soylentnews.org/article.pl?sid=24/07/13/0355215&from=rss) - [Giant Humanoid Robot Working on the Railroad](https://soylentnews.org/article.pl?sid=24/07/13/0355215&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-05, 23:34:00](https://soylentnews.org/article.pl?sid=24/07/04/0547232&from=rss) - [Extremely Large Telescope: World’s Largest Telescope Mirror Will Bring The Stars 'Closer To Earth'](https://soylentnews.org/article.pl?sid=24/07/04/0547232&from=rss)
 * [2024-07-05, 18:48:00](https://soylentnews.org/article.pl?sid=24/07/04/0540230&from=rss) - [Two Of The German Military’s New Spy Satellites Appear To Have Failed In Orbit](https://soylentnews.org/article.pl?sid=24/07/04/0540230&from=rss)
 * [2024-07-05, 14:02:00](https://soylentnews.org/article.pl?sid=24/07/04/044205&from=rss) - [Move Over GPUs, With 1,536 Cores the Thunderbird RISC-V CPU is Ready to Eat Your Lunch](https://soylentnews.org/article.pl?sid=24/07/04/044205&from=rss)
-* [2024-07-05, 09:16:00](https://soylentnews.org/article.pl?sid=24/07/04/024253&from=rss) - [Boeing Reacquires Troubled Supplier Spirit, Spun Off in 2005](https://soylentnews.org/article.pl?sid=24/07/04/024253&from=rss)
 
 ## [Archives](archives/index.md)
 
