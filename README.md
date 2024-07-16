@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-16, 06:55:00](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss) - [Why Isn't Major League Baseball Using Robot Umpires for All Ball and Strike Calls?](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss)
 * [2024-07-16, 02:11:00](https://soylentnews.org/article.pl?sid=24/07/15/0040216&from=rss) - [Out-of-Control Heat is Making Earth More \"Weird\"](https://soylentnews.org/article.pl?sid=24/07/15/0040216&from=rss)
 * [2024-07-15, 21:36:00](https://soylentnews.org/article.pl?sid=24/07/14/1711222&from=rss) - [PHP Vulnerability Exploited to Spread Malware and Launch DDoS Attacks](https://soylentnews.org/article.pl?sid=24/07/14/1711222&from=rss)
 * [2024-07-15, 16:54:00](https://soylentnews.org/article.pl?sid=24/07/14/0828217&from=rss) - [Threat Actors Exploited Windows 0-Day for More Than a Year Before Microsoft Fixed It](https://soylentnews.org/article.pl?sid=24/07/14/0828217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-07, 04:29:00](https://soylentnews.org/article.pl?sid=24/07/04/2320240&from=rss) - [New Intel CPU Vulnerability Discovered, no New Mitigations Planned for \"Indirector\"](https://soylentnews.org/article.pl?sid=24/07/04/2320240&from=rss)
 * [2024-07-06, 23:23:00](https://soylentnews.org/article.pl?sid=24/07/04/1916232&from=rss) - [Chinese Gen AI Researchers Snagged More Patents Than Everyone Else Combined Since 2013](https://soylentnews.org/article.pl?sid=24/07/04/1916232&from=rss)
 * [2024-07-06, 18:42:00](https://soylentnews.org/article.pl?sid=24/07/04/1913253&from=rss) - [IETF: IPv6 is an Internet Standard (That We Won't Run Either)](https://soylentnews.org/article.pl?sid=24/07/04/1913253&from=rss)
-* [2024-07-06, 13:58:00](https://soylentnews.org/article.pl?sid=24/07/04/0611240&from=rss) - [Teardown Tuesday: HB100 Doppler Radar Module ](https://soylentnews.org/article.pl?sid=24/07/04/0611240&from=rss)
 
 ## [Archives](archives/index.md)
 
