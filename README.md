@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-16, 21:10:00](https://soylentnews.org/article.pl?sid=24/07/16/0428250&from=rss) - [Moon Caves Are Real](https://soylentnews.org/article.pl?sid=24/07/16/0428250&from=rss)
 * [2024-07-16, 16:23:00](https://soylentnews.org/article.pl?sid=24/07/15/0424225&from=rss) - [OpenAI Board Shakeup: Microsoft Out, Apple Backs Away Amid AI Partnership Scrutiny](https://soylentnews.org/article.pl?sid=24/07/15/0424225&from=rss)
 * [2024-07-16, 11:40:00](https://soylentnews.org/article.pl?sid=24/07/15/0421231&from=rss) - [Mbed OS Shutting Down; Start of the End of the IoT Era?](https://soylentnews.org/article.pl?sid=24/07/15/0421231&from=rss)
 * [2024-07-16, 06:55:00](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss) - [Why Isn't Major League Baseball Using Robot Umpires for All Ball and Strike Calls?](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-07, 18:44:00](https://soylentnews.org/article.pl?sid=24/07/05/1826201&from=rss) - [AI Lie Detectors are Better than Humans at Spotting Lies](https://soylentnews.org/article.pl?sid=24/07/05/1826201&from=rss)
 * [2024-07-07, 14:03:00](https://soylentnews.org/article.pl?sid=24/07/05/1744219&from=rss) - [Organic Molecule Breaks Phosphorescence Records, Paves Way For Rare Metal-Free Applications](https://soylentnews.org/article.pl?sid=24/07/05/1744219&from=rss)
 * [2024-07-07, 09:18:00](https://soylentnews.org/article.pl?sid=24/07/05/1739232&from=rss) - [OVHcloud Sees Record 840 Mpps DDoS Attack](https://soylentnews.org/article.pl?sid=24/07/05/1739232&from=rss)
-* [2024-07-07, 04:29:00](https://soylentnews.org/article.pl?sid=24/07/04/2320240&from=rss) - [New Intel CPU Vulnerability Discovered, no New Mitigations Planned for \"Indirector\"](https://soylentnews.org/article.pl?sid=24/07/04/2320240&from=rss)
 
 ## [Archives](archives/index.md)
 
