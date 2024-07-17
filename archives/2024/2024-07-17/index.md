@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 06:42:00](https://soylentnews.org/article.pl?sid=24/07/16/0433211&from=rss) - [After Two Rejections, Apple Approves Epic Games Store App for iOS](https://soylentnews.org/article.pl?sid=24/07/16/0433211&from=rss)
 * [2024-07-17, 01:55:00](https://soylentnews.org/article.pl?sid=24/07/16/0430258&from=rss) - [Leveraging Rust in High-Performance Web Services](https://soylentnews.org/article.pl?sid=24/07/16/0430258&from=rss)
