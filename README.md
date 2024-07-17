@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-17, 11:25:00](https://soylentnews.org/article.pl?sid=24/07/16/186200&from=rss) - [Russia-Based Kaspersky Antivirus Shuts Down its US Business Due to Sanctions](https://soylentnews.org/article.pl?sid=24/07/16/186200&from=rss)
 * [2024-07-17, 06:42:00](https://soylentnews.org/article.pl?sid=24/07/16/0433211&from=rss) - [After Two Rejections, Apple Approves Epic Games Store App for iOS](https://soylentnews.org/article.pl?sid=24/07/16/0433211&from=rss)
 * [2024-07-17, 01:55:00](https://soylentnews.org/article.pl?sid=24/07/16/0430258&from=rss) - [Leveraging Rust in High-Performance Web Services](https://soylentnews.org/article.pl?sid=24/07/16/0430258&from=rss)
 * [2024-07-16, 21:10:00](https://soylentnews.org/article.pl?sid=24/07/16/0428250&from=rss) - [Moon Caves Are Real](https://soylentnews.org/article.pl?sid=24/07/16/0428250&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-08, 07:54:00](https://soylentnews.org/article.pl?sid=24/07/08/0654208&from=rss) - [Volunteers Who Lived in NASA’s Mars Simulation for Over a Year Will Finally Emerge Today](https://soylentnews.org/article.pl?sid=24/07/08/0654208&from=rss)
 * [2024-07-08, 04:12:00](https://soylentnews.org/article.pl?sid=24/07/07/134203&from=rss) - [Techies Are Managing Their Marriages the Same Way They Run Their Careers](https://soylentnews.org/article.pl?sid=24/07/07/134203&from=rss)
 * [2024-07-07, 23:28:00](https://soylentnews.org/article.pl?sid=24/07/07/1259251&from=rss) - [Japan's Digital Minister Claims Victory Against Floppy Disks](https://soylentnews.org/article.pl?sid=24/07/07/1259251&from=rss)
-* [2024-07-07, 18:44:00](https://soylentnews.org/article.pl?sid=24/07/05/1826201&from=rss) - [AI Lie Detectors are Better than Humans at Spotting Lies](https://soylentnews.org/article.pl?sid=24/07/05/1826201&from=rss)
 
 ## [Archives](archives/index.md)
 
