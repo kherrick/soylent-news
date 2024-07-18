@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-18, 06:34:00](https://soylentnews.org/article.pl?sid=24/07/16/1835231&from=rss) - [Here's How Carefully Concealed Backdoor in Fake AWS Files Escaped Mainstream Notice](https://soylentnews.org/article.pl?sid=24/07/16/1835231&from=rss)
 * [2024-07-18, 01:50:00](https://soylentnews.org/article.pl?sid=24/07/16/1833213&from=rss) - [Study Finds Increased Fire Risk On Future Space Missions](https://soylentnews.org/article.pl?sid=24/07/16/1833213&from=rss)
 * [2024-07-17, 21:03:00](https://soylentnews.org/article.pl?sid=24/07/16/1811205&from=rss) - [The Evolution of User Interface Design](https://soylentnews.org/article.pl?sid=24/07/16/1811205&from=rss)
 * [2024-07-17, 16:12:00](https://soylentnews.org/article.pl?sid=24/07/16/189202&from=rss) - [Student's T-Test and the Guinness Brewery](https://soylentnews.org/article.pl?sid=24/07/16/189202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-08, 23:16:00](https://soylentnews.org/article.pl?sid=24/07/07/1338259&from=rss) - [Do Your Insurances Cover Against Damage by Space Debris?](https://soylentnews.org/article.pl?sid=24/07/07/1338259&from=rss)
 * [2024-07-08, 18:31:00](https://soylentnews.org/article.pl?sid=24/07/07/1334210&from=rss) - [Cloudflare is Taking a Stand Against AI Website Scrapers](https://soylentnews.org/article.pl?sid=24/07/07/1334210&from=rss)
 * [2024-07-08, 13:49:00](https://soylentnews.org/article.pl?sid=24/07/07/1323231&from=rss) - [China Working On Standard For Brain-Computer Interfaces](https://soylentnews.org/article.pl?sid=24/07/07/1323231&from=rss)
-* [2024-07-08, 09:02:00](https://soylentnews.org/article.pl?sid=24/07/07/1315256&from=rss) - [ITER Delays First Plasma For World’s Biggest Tokamak](https://soylentnews.org/article.pl?sid=24/07/07/1315256&from=rss)
 
 ## [Archives](archives/index.md)
 
