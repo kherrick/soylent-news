@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-18, 20:44:00](https://soylentnews.org/article.pl?sid=24/07/17/1815216&from=rss) - [Will Space-Based Solar Power Ever Make Sense?](https://soylentnews.org/article.pl?sid=24/07/17/1815216&from=rss)
 * [2024-07-18, 16:03:00](https://soylentnews.org/article.pl?sid=24/07/17/1813254&from=rss) - [Linux Kernel 6.10 Arrives ](https://soylentnews.org/article.pl?sid=24/07/17/1813254&from=rss)
 * [2024-07-18, 11:16:00](https://soylentnews.org/article.pl?sid=24/07/17/0956256&from=rss) - [Fats From Thin Air: Startup Makes Butter Using CO2 and Water](https://soylentnews.org/article.pl?sid=24/07/17/0956256&from=rss)
 * [2024-07-18, 06:34:00](https://soylentnews.org/article.pl?sid=24/07/16/1835231&from=rss) - [Here's How Carefully Concealed Backdoor in Fake AWS Files Escaped Mainstream Notice](https://soylentnews.org/article.pl?sid=24/07/16/1835231&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-09, 13:38:00](https://soylentnews.org/article.pl?sid=24/07/08/071207&from=rss) - [A New Australian Bill Is Proposing A Human Right To Housing: How Would This Work?](https://soylentnews.org/article.pl?sid=24/07/08/071207&from=rss)
 * [2024-07-09, 08:49:00](https://soylentnews.org/article.pl?sid=24/07/08/0650242&from=rss) - [FTC Warns PC Manufacturers That Consumers Have the Right to Repair](https://soylentnews.org/article.pl?sid=24/07/08/0650242&from=rss)
 * [2024-07-09, 04:03:00](https://soylentnews.org/article.pl?sid=24/07/08/0437205&from=rss) - [Aboriginal Ritual Passed Down Over 12,000 Years, Cave Find Shows](https://soylentnews.org/article.pl?sid=24/07/08/0437205&from=rss)
-* [2024-07-08, 23:16:00](https://soylentnews.org/article.pl?sid=24/07/07/1338259&from=rss) - [Do Your Insurances Cover Against Damage by Space Debris?](https://soylentnews.org/article.pl?sid=24/07/07/1338259&from=rss)
 
 ## [Archives](archives/index.md)
 
