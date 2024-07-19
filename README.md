@@ -16,7 +16,6 @@
 * [2024-07-16, 21:10:00](https://soylentnews.org/article.pl?sid=24/07/16/0428250&from=rss) - [Moon Caves Are Real](https://soylentnews.org/article.pl?sid=24/07/16/0428250&from=rss)
 * [2024-07-16, 16:23:00](https://soylentnews.org/article.pl?sid=24/07/15/0424225&from=rss) - [OpenAI Board Shakeup: Microsoft Out, Apple Backs Away Amid AI Partnership Scrutiny](https://soylentnews.org/article.pl?sid=24/07/15/0424225&from=rss)
 * [2024-07-16, 11:40:00](https://soylentnews.org/article.pl?sid=24/07/15/0421231&from=rss) - [Mbed OS Shutting Down; Start of the End of the IoT Era?](https://soylentnews.org/article.pl?sid=24/07/15/0421231&from=rss)
-* [2024-07-16, 06:55:00](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss) - [Why Isn't Major League Baseball Using Robot Umpires for All Ball and Strike Calls?](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss)
 * [2024-07-16, 02:11:00](https://soylentnews.org/article.pl?sid=24/07/15/0040216&from=rss) - [Out-of-Control Heat is Making Earth More \"Weird\"](https://soylentnews.org/article.pl?sid=24/07/15/0040216&from=rss)
 * [2024-07-15, 21:36:00](https://soylentnews.org/article.pl?sid=24/07/14/1711222&from=rss) - [PHP Vulnerability Exploited to Spread Malware and Launch DDoS Attacks](https://soylentnews.org/article.pl?sid=24/07/14/1711222&from=rss)
 * [2024-07-15, 16:54:00](https://soylentnews.org/article.pl?sid=24/07/14/0828217&from=rss) - [Threat Actors Exploited Windows 0-Day for More Than a Year Before Microsoft Fixed It](https://soylentnews.org/article.pl?sid=24/07/14/0828217&from=rss)
@@ -50,6 +49,7 @@
 * [2024-07-10, 03:54:00](https://soylentnews.org/article.pl?sid=24/07/09/155236&from=rss) - [Did a Broken Random Number Generator in Cuba Help Expose a Russian Espionage Network?](https://soylentnews.org/article.pl?sid=24/07/09/155236&from=rss)
 * [2024-07-09, 23:12:00](https://soylentnews.org/article.pl?sid=24/07/08/104200&from=rss) - [UN Agency Wags Finger At Russia For Satellite Interference](https://soylentnews.org/article.pl?sid=24/07/08/104200&from=rss)
 * [2024-07-09, 18:25:00](https://soylentnews.org/article.pl?sid=24/07/08/076230&from=rss) - [Cyclist's AI-Powered Danger Detector](https://soylentnews.org/article.pl?sid=24/07/08/076230&from=rss)
+* [2024-07-09, 13:38:00](https://soylentnews.org/article.pl?sid=24/07/08/071207&from=rss) - [A New Australian Bill Is Proposing A Human Right To Housing: How Would This Work?](https://soylentnews.org/article.pl?sid=24/07/08/071207&from=rss)
 
 ## [Archives](archives/index.md)
 
