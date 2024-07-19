@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-19, 06:08:00](https://soylentnews.org/article.pl?sid=24/07/18/1549232&from=rss) - [FTC Warns Gaming Companies Over Warranty Stickers](https://soylentnews.org/article.pl?sid=24/07/18/1549232&from=rss)
 * [2024-07-19, 01:25:00](https://soylentnews.org/article.pl?sid=24/07/18/0136237&from=rss) - [China's APT40 Gang Can Attack New Vulns Within Hours](https://soylentnews.org/article.pl?sid=24/07/18/0136237&from=rss)
 * [2024-07-18, 20:44:00](https://soylentnews.org/article.pl?sid=24/07/17/1815216&from=rss) - [Will Space-Based Solar Power Ever Make Sense?](https://soylentnews.org/article.pl?sid=24/07/17/1815216&from=rss)
 * [2024-07-18, 16:03:00](https://soylentnews.org/article.pl?sid=24/07/17/1813254&from=rss) - [Linux Kernel 6.10 Arrives ](https://soylentnews.org/article.pl?sid=24/07/17/1813254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-09, 23:12:00](https://soylentnews.org/article.pl?sid=24/07/08/104200&from=rss) - [UN Agency Wags Finger At Russia For Satellite Interference](https://soylentnews.org/article.pl?sid=24/07/08/104200&from=rss)
 * [2024-07-09, 18:25:00](https://soylentnews.org/article.pl?sid=24/07/08/076230&from=rss) - [Cyclist's AI-Powered Danger Detector](https://soylentnews.org/article.pl?sid=24/07/08/076230&from=rss)
 * [2024-07-09, 13:38:00](https://soylentnews.org/article.pl?sid=24/07/08/071207&from=rss) - [A New Australian Bill Is Proposing A Human Right To Housing: How Would This Work?](https://soylentnews.org/article.pl?sid=24/07/08/071207&from=rss)
-* [2024-07-09, 08:49:00](https://soylentnews.org/article.pl?sid=24/07/08/0650242&from=rss) - [FTC Warns PC Manufacturers That Consumers Have the Right to Repair](https://soylentnews.org/article.pl?sid=24/07/08/0650242&from=rss)
 
 ## [Archives](archives/index.md)
 
