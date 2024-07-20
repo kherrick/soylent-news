@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-20, 01:05:00](https://soylentnews.org/article.pl?sid=24/07/19/1126246&from=rss) - [ESA Starts Work On Planetary Defence Mission](https://soylentnews.org/article.pl?sid=24/07/19/1126246&from=rss)
 * [2024-07-19, 20:19:00](https://soylentnews.org/article.pl?sid=24/07/19/1132210&from=rss) - [New Memristor Device Challenges the Von Neumann Bottleneck With Ionic Innovation](https://soylentnews.org/article.pl?sid=24/07/19/1132210&from=rss)
 * [2024-07-19, 18:00:00](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss) - [Why Isn't Major League Baseball Using Robot Umpires for All Ball and Strike Calls? [UPDATED]](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss)
 * [2024-07-19, 15:34:00](https://soylentnews.org/breakingnews/article.pl?sid=24/07/19/1223234&from=rss) - [CrowdStrike Bricking Windows Machines Around the World Grounding Planes and Blocking Media](https://soylentnews.org/breakingnews/article.pl?sid=24/07/19/1223234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-10, 18:13:00](https://soylentnews.org/article.pl?sid=24/07/09/1915200&from=rss) - [The Dangers of Sneezing—From Ejected Bowels to Torn Windpipes](https://soylentnews.org/article.pl?sid=24/07/09/1915200&from=rss)
 * [2024-07-10, 13:23:00](https://soylentnews.org/article.pl?sid=24/07/09/1911213&from=rss) - [President Ordered Board to Probe SolarWinds Hack. It Never Did.](https://soylentnews.org/article.pl?sid=24/07/09/1911213&from=rss)
 * [2024-07-10, 08:39:00](https://soylentnews.org/article.pl?sid=24/07/09/1510247&from=rss) - [Meta Defends Charging Fee For Privacy Amid Showdown With EU](https://soylentnews.org/article.pl?sid=24/07/09/1510247&from=rss)
-* [2024-07-10, 03:54:00](https://soylentnews.org/article.pl?sid=24/07/09/155236&from=rss) - [Did a Broken Random Number Generator in Cuba Help Expose a Russian Espionage Network?](https://soylentnews.org/article.pl?sid=24/07/09/155236&from=rss)
 
 ## [Archives](archives/index.md)
 
