@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-20, 05:48:00](https://soylentnews.org/article.pl?sid=24/07/19/1241245&from=rss) - [Strange Bird-Like Behavior In Atoms: Researchers Unveil New Magnetic Properties In Quantum Systems](https://soylentnews.org/article.pl?sid=24/07/19/1241245&from=rss)
 * [2024-07-20, 01:05:00](https://soylentnews.org/article.pl?sid=24/07/19/1126246&from=rss) - [ESA Starts Work On Planetary Defence Mission](https://soylentnews.org/article.pl?sid=24/07/19/1126246&from=rss)
 * [2024-07-19, 20:19:00](https://soylentnews.org/article.pl?sid=24/07/19/1132210&from=rss) - [New Memristor Device Challenges the Von Neumann Bottleneck With Ionic Innovation](https://soylentnews.org/article.pl?sid=24/07/19/1132210&from=rss)
 * [2024-07-19, 18:00:00](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss) - [Why Isn't Major League Baseball Using Robot Umpires for All Ball and Strike Calls? [UPDATED]](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-10, 23:01:00](https://soylentnews.org/article.pl?sid=24/07/10/132216&from=rss) - [Supreme Court Vacates Rulings on Texas and Florida Social Media Laws](https://soylentnews.org/article.pl?sid=24/07/10/132216&from=rss)
 * [2024-07-10, 18:13:00](https://soylentnews.org/article.pl?sid=24/07/09/1915200&from=rss) - [The Dangers of Sneezing—From Ejected Bowels to Torn Windpipes](https://soylentnews.org/article.pl?sid=24/07/09/1915200&from=rss)
 * [2024-07-10, 13:23:00](https://soylentnews.org/article.pl?sid=24/07/09/1911213&from=rss) - [President Ordered Board to Probe SolarWinds Hack. It Never Did.](https://soylentnews.org/article.pl?sid=24/07/09/1911213&from=rss)
-* [2024-07-10, 08:39:00](https://soylentnews.org/article.pl?sid=24/07/09/1510247&from=rss) - [Meta Defends Charging Fee For Privacy Amid Showdown With EU](https://soylentnews.org/article.pl?sid=24/07/09/1510247&from=rss)
 
 ## [Archives](archives/index.md)
 
