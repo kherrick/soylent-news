@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-21, 01:49:00](https://soylentnews.org/article.pl?sid=24/07/20/1030218&from=rss) - [NASA, Boeing Complete Starliner Engine Testing – What’s Next For The Troubled Spacecraft?](https://soylentnews.org/article.pl?sid=24/07/20/1030218&from=rss)
 * [2024-07-20, 21:03:00](https://soylentnews.org/article.pl?sid=24/07/19/1747231&from=rss) - [Google To Kill Off URL Shortener Once And For All](https://soylentnews.org/article.pl?sid=24/07/19/1747231&from=rss)
 * [2024-07-20, 16:15:00](https://soylentnews.org/article.pl?sid=24/07/20/1439227&from=rss) - [CrowdStrike Fixes Start at “Reboot Up to 15 Times” and Get More Complex From There](https://soylentnews.org/article.pl?sid=24/07/20/1439227&from=rss)
 * [2024-07-20, 11:33:00](https://soylentnews.org/article.pl?sid=24/07/19/1740218&from=rss) - [106 Rare Crocodile Eggs are Found in Cambodia, the Biggest Such Discovery in 20 Years](https://soylentnews.org/article.pl?sid=24/07/19/1740218&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-11, 18:07:00](https://soylentnews.org/article.pl?sid=24/07/10/2328230&from=rss) - [First-Known TikTok Mob Attack Led by Middle Schoolers Tormenting Teachers](https://soylentnews.org/article.pl?sid=24/07/10/2328230&from=rss)
 * [2024-07-11, 13:22:00](https://soylentnews.org/article.pl?sid=24/07/10/2312231&from=rss) - [Samsung Launches Galaxy Smart Ring to Track Sleep and Periods](https://soylentnews.org/article.pl?sid=24/07/10/2312231&from=rss)
 * [2024-07-11, 08:29:00](https://soylentnews.org/article.pl?sid=24/07/10/2246236&from=rss) - [Scientists Debunk 4 Popular Myths about the Safety of Intermittent Fasting](https://soylentnews.org/article.pl?sid=24/07/10/2246236&from=rss)
-* [2024-07-11, 03:44:00](https://soylentnews.org/article.pl?sid=24/07/10/1311248&from=rss) - [Taxi Rides Set to Change Forever](https://soylentnews.org/article.pl?sid=24/07/10/1311248&from=rss)
 
 ## [Archives](archives/index.md)
 
