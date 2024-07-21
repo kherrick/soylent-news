@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-21, 11:17:00](https://soylentnews.org/article.pl?sid=24/07/19/1753238&from=rss) - [Replacing Opioids: Natural Compound Promises Pain Relief Without Addiction](https://soylentnews.org/article.pl?sid=24/07/19/1753238&from=rss)
 * [2024-07-21, 06:32:00](https://soylentnews.org/article.pl?sid=24/07/20/1036246&from=rss) - ['Disco Balls' and 'Peanuts': North Korea Now Has 50 Nukes, Scientists Estimate](https://soylentnews.org/article.pl?sid=24/07/20/1036246&from=rss)
 * [2024-07-21, 01:49:00](https://soylentnews.org/article.pl?sid=24/07/20/1030218&from=rss) - [NASA, Boeing Complete Starliner Engine Testing – What’s Next For The Troubled Spacecraft?](https://soylentnews.org/article.pl?sid=24/07/20/1030218&from=rss)
 * [2024-07-20, 21:03:00](https://soylentnews.org/article.pl?sid=24/07/19/1747231&from=rss) - [Google To Kill Off URL Shortener Once And For All](https://soylentnews.org/article.pl?sid=24/07/19/1747231&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-12, 03:36:00](https://soylentnews.org/article.pl?sid=24/07/10/2342235&from=rss) - [Boeing Accepts Guilty Plea Deal Over 737 Max Crashes](https://soylentnews.org/article.pl?sid=24/07/10/2342235&from=rss)
 * [2024-07-11, 22:51:00](https://soylentnews.org/article.pl?sid=24/07/10/2333236&from=rss) - [Meta Ordered to Stop Training its AI on Brazilian Personal Data](https://soylentnews.org/article.pl?sid=24/07/10/2333236&from=rss)
 * [2024-07-11, 18:07:00](https://soylentnews.org/article.pl?sid=24/07/10/2328230&from=rss) - [First-Known TikTok Mob Attack Led by Middle Schoolers Tormenting Teachers](https://soylentnews.org/article.pl?sid=24/07/10/2328230&from=rss)
-* [2024-07-11, 13:22:00](https://soylentnews.org/article.pl?sid=24/07/10/2312231&from=rss) - [Samsung Launches Galaxy Smart Ring to Track Sleep and Periods](https://soylentnews.org/article.pl?sid=24/07/10/2312231&from=rss)
 
 ## [Archives](archives/index.md)
 
