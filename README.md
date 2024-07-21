@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2024-07-21, 06:32:00](https://soylentnews.org/article.pl?sid=24/07/20/1036246&from=rss) - ['Disco Balls' and 'Peanuts': North Korea Now Has 50 Nukes, Scientists Say](https://soylentnews.org/article.pl?sid=24/07/20/1036246&from=rss)
+* [2024-07-21, 06:32:00](https://soylentnews.org/article.pl?sid=24/07/20/1036246&from=rss) - ['Disco Balls' and 'Peanuts': North Korea Now Has 50 Nukes, Scientists Estimate](https://soylentnews.org/article.pl?sid=24/07/20/1036246&from=rss)
 * [2024-07-21, 01:49:00](https://soylentnews.org/article.pl?sid=24/07/20/1030218&from=rss) - [NASA, Boeing Complete Starliner Engine Testing – What’s Next For The Troubled Spacecraft?](https://soylentnews.org/article.pl?sid=24/07/20/1030218&from=rss)
 * [2024-07-20, 21:03:00](https://soylentnews.org/article.pl?sid=24/07/19/1747231&from=rss) - [Google To Kill Off URL Shortener Once And For All](https://soylentnews.org/article.pl?sid=24/07/19/1747231&from=rss)
 * [2024-07-20, 16:15:00](https://soylentnews.org/article.pl?sid=24/07/20/1439227&from=rss) - [CrowdStrike Fixes Start at “Reboot Up to 15 Times” and Get More Complex From There](https://soylentnews.org/article.pl?sid=24/07/20/1439227&from=rss)
