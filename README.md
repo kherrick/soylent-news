@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-23, 11:45:00](https://soylentnews.org/article.pl?sid=24/07/22/1229207&from=rss) - [Arctic's Cooling Power Has Plummeted by 25%, Alarming Study Reveals](https://soylentnews.org/article.pl?sid=24/07/22/1229207&from=rss)
 * [2024-07-23, 06:10:00](https://soylentnews.org/article.pl?sid=24/07/22/1221204&from=rss) - [A Brief Interview With Tcl Creator John Ousterhout [2023]](https://soylentnews.org/article.pl?sid=24/07/22/1221204&from=rss)
 * [2024-07-23, 01:26:00](https://soylentnews.org/article.pl?sid=24/07/21/1341202&from=rss) - [Rogue Antibodies May Cause Some Long Covid Symptoms](https://soylentnews.org/article.pl?sid=24/07/21/1341202&from=rss)
 * [2024-07-22, 20:38:00](https://soylentnews.org/article.pl?sid=24/07/21/1330235&from=rss) - [Oracle Project Woes at Europe's Largest City Council Deteriorate](https://soylentnews.org/article.pl?sid=24/07/21/1330235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-14, 03:07:00](https://soylentnews.org/article.pl?sid=24/07/13/0328252&from=rss) - [“Immensely Disappointing”: Nike Killing App for $350 Self-Tying Sneakers](https://soylentnews.org/article.pl?sid=24/07/13/0328252&from=rss)
 * [2024-07-13, 22:18:00](https://soylentnews.org/article.pl?sid=24/07/13/0319256&from=rss) - [Linux Lite 7.0 Might Be The Best Lightweight Linux Distro On The Market](https://soylentnews.org/article.pl?sid=24/07/13/0319256&from=rss)
 * [2024-07-13, 17:29:00](https://soylentnews.org/article.pl?sid=24/07/13/0311256&from=rss) - [The FTC’s Ban Against Non-Compete Agreements May Be Under Threat](https://soylentnews.org/article.pl?sid=24/07/13/0311256&from=rss)
-* [2024-07-13, 12:42:00](https://soylentnews.org/article.pl?sid=24/07/13/037242&from=rss) - [High-Speed Hippos Can Get Airborne, Says New Study](https://soylentnews.org/article.pl?sid=24/07/13/037242&from=rss)
 
 ## [Archives](archives/index.md)
 
