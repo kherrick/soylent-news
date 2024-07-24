@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-24, 18:58:00](https://soylentnews.org/article.pl?sid=24/07/24/0056207&from=rss) - [Google Backpedals on Plan to Eliminate Third-Party Cookies in Chrome](https://soylentnews.org/article.pl?sid=24/07/24/0056207&from=rss)
 * [2024-07-24, 14:13:00](https://soylentnews.org/article.pl?sid=24/07/23/0026236&from=rss) - [Carbon Capture Breakthrough: Humidity-Powered Membrane Pumps CO2 Out Of The Air](https://soylentnews.org/article.pl?sid=24/07/23/0026236&from=rss)
 * [2024-07-24, 09:38:00](https://soylentnews.org/article.pl?sid=24/07/22/1419203&from=rss) - [Breakthrough Copper Wiring Solution Could Address 2nm Chip Challenges as Shown by Applied Materials](https://soylentnews.org/article.pl?sid=24/07/22/1419203&from=rss)
 * [2024-07-24, 04:53:00](https://soylentnews.org/article.pl?sid=24/07/22/1416238&from=rss) - [UK Ofcom: Inflation-Linked Mid-Contract Price Rises For The Axe](https://soylentnews.org/article.pl?sid=24/07/22/1416238&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-15, 07:26:00](https://soylentnews.org/article.pl?sid=24/07/13/1740205&from=rss) - [New Blast-RADIUS Attack Breaks 30-Year-Old Protocol Used in Networks Everywhere](https://soylentnews.org/article.pl?sid=24/07/13/1740205&from=rss)
 * [2024-07-15, 02:38:00](https://soylentnews.org/article.pl?sid=24/07/13/169210&from=rss) - [White Fat Cells Morphed Into Calorie-Burning Beige Fat Cells In New Experiment](https://soylentnews.org/article.pl?sid=24/07/13/169210&from=rss)
 * [2024-07-14, 21:57:00](https://soylentnews.org/article.pl?sid=24/07/13/0416234&from=rss) - [Users Rage Over Retirement of Office 365 Connectors in Teams](https://soylentnews.org/article.pl?sid=24/07/13/0416234&from=rss)
-* [2024-07-14, 17:12:00](https://soylentnews.org/article.pl?sid=24/07/13/044231&from=rss) - [Can’t Stop Your Cat From Scratching the Furniture? Science Has Some Tips](https://soylentnews.org/article.pl?sid=24/07/13/044231&from=rss)
 
 ## [Archives](archives/index.md)
 
