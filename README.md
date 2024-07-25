@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-25, 23:19:00](https://soylentnews.org/article.pl?sid=24/07/24/1345229&from=rss) - [MySQL vs. MariaDB: A Brief Comparison Guide](https://soylentnews.org/article.pl?sid=24/07/24/1345229&from=rss)
 * [2024-07-25, 18:36:00](https://soylentnews.org/article.pl?sid=24/07/24/1238207&from=rss) - [Dog-Like Robot Jams Home Networks And Disables Devices During Police Raids](https://soylentnews.org/article.pl?sid=24/07/24/1238207&from=rss)
 * [2024-07-25, 13:56:00](https://soylentnews.org/article.pl?sid=24/07/24/1227241&from=rss) - [Ultrasound Tracking / Hacking Revisited](https://soylentnews.org/article.pl?sid=24/07/24/1227241&from=rss)
 * [2024-07-25, 09:14:00](https://soylentnews.org/article.pl?sid=24/07/24/1221223&from=rss) - [Senior Scientists Blast Fermilab Management](https://soylentnews.org/article.pl?sid=24/07/24/1221223&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-16, 16:23:00](https://soylentnews.org/article.pl?sid=24/07/15/0424225&from=rss) - [OpenAI Board Shakeup: Microsoft Out, Apple Backs Away Amid AI Partnership Scrutiny](https://soylentnews.org/article.pl?sid=24/07/15/0424225&from=rss)
 * [2024-07-16, 11:40:00](https://soylentnews.org/article.pl?sid=24/07/15/0421231&from=rss) - [Mbed OS Shutting Down; Start of the End of the IoT Era?](https://soylentnews.org/article.pl?sid=24/07/15/0421231&from=rss)
 * [2024-07-16, 02:11:00](https://soylentnews.org/article.pl?sid=24/07/15/0040216&from=rss) - [Out-of-Control Heat is Making Earth More \"Weird\"](https://soylentnews.org/article.pl?sid=24/07/15/0040216&from=rss)
-* [2024-07-15, 21:36:00](https://soylentnews.org/article.pl?sid=24/07/14/1711222&from=rss) - [PHP Vulnerability Exploited to Spread Malware and Launch DDoS Attacks](https://soylentnews.org/article.pl?sid=24/07/14/1711222&from=rss)
 
 ## [Archives](archives/index.md)
 
