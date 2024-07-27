@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-27, 13:21:00](https://soylentnews.org/article.pl?sid=24/07/27/0042207&from=rss) - [GM Slams Brakes on Robotaxi Dreams, Shelves Cruise Origin Indefinitely](https://soylentnews.org/article.pl?sid=24/07/27/0042207&from=rss)
 * [2024-07-27, 08:34:00](https://soylentnews.org/article.pl?sid=24/07/26/1226255&from=rss) - [CrowdStrike Offers a $10 Apology Gift Card to Say Sorry for Outage](https://soylentnews.org/article.pl?sid=24/07/26/1226255&from=rss)
 * [2024-07-27, 03:48:00](https://soylentnews.org/article.pl?sid=24/07/26/0110233&from=rss) - [Cocaine Found In Muscle And Liver Of Sharpnose Sharks Off Coast Of Rio De Janeiro](https://soylentnews.org/article.pl?sid=24/07/26/0110233&from=rss)
 * [2024-07-26, 23:00:00](https://soylentnews.org/article.pl?sid=24/07/26/012200&from=rss) - [A Versal Story in the Era of Hardware AI: Why the Chinese Could Win](https://soylentnews.org/article.pl?sid=24/07/26/012200&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-18, 06:34:00](https://soylentnews.org/article.pl?sid=24/07/16/1835231&from=rss) - [Here's How Carefully Concealed Backdoor in Fake AWS Files Escaped Mainstream Notice](https://soylentnews.org/article.pl?sid=24/07/16/1835231&from=rss)
 * [2024-07-18, 01:50:00](https://soylentnews.org/article.pl?sid=24/07/16/1833213&from=rss) - [Study Finds Increased Fire Risk On Future Space Missions](https://soylentnews.org/article.pl?sid=24/07/16/1833213&from=rss)
 * [2024-07-17, 21:03:00](https://soylentnews.org/article.pl?sid=24/07/16/1811205&from=rss) - [The Evolution of User Interface Design](https://soylentnews.org/article.pl?sid=24/07/16/1811205&from=rss)
-* [2024-07-17, 16:12:00](https://soylentnews.org/article.pl?sid=24/07/16/189202&from=rss) - [Student's T-Test and the Guinness Brewery](https://soylentnews.org/article.pl?sid=24/07/16/189202&from=rss)
 
 ## [Archives](archives/index.md)
 
