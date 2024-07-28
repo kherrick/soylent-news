@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-28, 03:37:00](https://soylentnews.org/article.pl?sid=24/07/27/1144259&from=rss) - [Remarkable Webb Telescope Find: Mysterious Dust Clouds On An Alien World](https://soylentnews.org/article.pl?sid=24/07/27/1144259&from=rss)
 * [2024-07-27, 22:49:00](https://soylentnews.org/article.pl?sid=24/07/27/061219&from=rss) - [25 Years Ago, NASA Almost A Lost A Shuttle](https://soylentnews.org/article.pl?sid=24/07/27/061219&from=rss)
 * [2024-07-27, 18:05:00](https://soylentnews.org/article.pl?sid=24/07/27/0045248&from=rss) - [Counting Bytes Faster Than You'd Think Possible](https://soylentnews.org/article.pl?sid=24/07/27/0045248&from=rss)
 * [2024-07-27, 13:21:00](https://soylentnews.org/article.pl?sid=24/07/27/0042207&from=rss) - [GM Slams Brakes on Robotaxi Dreams, Shelves Cruise Origin Indefinitely](https://soylentnews.org/article.pl?sid=24/07/27/0042207&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-18, 20:44:00](https://soylentnews.org/article.pl?sid=24/07/17/1815216&from=rss) - [Will Space-Based Solar Power Ever Make Sense?](https://soylentnews.org/article.pl?sid=24/07/17/1815216&from=rss)
 * [2024-07-18, 16:03:00](https://soylentnews.org/article.pl?sid=24/07/17/1813254&from=rss) - [Linux Kernel 6.10 Arrives ](https://soylentnews.org/article.pl?sid=24/07/17/1813254&from=rss)
 * [2024-07-18, 11:16:00](https://soylentnews.org/article.pl?sid=24/07/17/0956256&from=rss) - [Fats From Thin Air: Startup Makes Butter Using CO2 and Water](https://soylentnews.org/article.pl?sid=24/07/17/0956256&from=rss)
-* [2024-07-18, 06:34:00](https://soylentnews.org/article.pl?sid=24/07/16/1835231&from=rss) - [Here's How Carefully Concealed Backdoor in Fake AWS Files Escaped Mainstream Notice](https://soylentnews.org/article.pl?sid=24/07/16/1835231&from=rss)
 
 ## [Archives](archives/index.md)
 
