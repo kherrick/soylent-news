@@ -145,6 +145,67 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/07/27/1327217">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/07/27/1327217&amp;from=rss"
+              >Taking a Radio Camping</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-28 @ 13:06:00</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/07/27/1327217"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~owl/">owl</a> writes:</p>
+              <p>
+                <a href="https://ewpratten.com/blog/camping-radio/"
+                  >https://ewpratten.com/blog/camping-radio/</a
+                >
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Recently, my father and I took a trip out to a local
+                    provincial park for a weekend of camping.
+                  </p>
+                  <p>
+                    Last time I had been camping happened to coincide with the
+                    period of time that I was starting to gain curiosity about
+                    amateur radio. I vividly recall being out there wishing I
+                    had a radio that I could use to communicate from the
+                    campsite.
+                  </p>
+                  <p>
+                    So, to appease my past self, the present-tense
+                    radio-license-having version of me took my HF rig along to
+                    make some contacts.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63360"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/07/27/1322230">
           <h3>
             <a
@@ -5319,190 +5380,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63272"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/07/17/1813254">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/07/17/1813254&amp;from=rss"
-              >Linux Kernel 6.10 Arrives
-            </a>
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-18 @ 16:03:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2718</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/07/17/1813254"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Arthur T Knackerbracket has processed the
-                <a
-                  href="https://www.theregister.com/2024/07/15/linux_kernel_610_is_out/"
-                  >following story</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    The latest Linux kernel is here, with relatively few new
-                    features but better support for several hardware platforms,
-                    including non-Intel kit.
-                  </p>
-                  <p>
-                    Linus Torvalds
-                    <a
-                      href="https://lkml.iu.edu/hypermail/linux/kernel/2407.1/08151.html"
-                      >announced kernel 6.10</a
-                    >
-                    this weekend and as usual it contains so many hundreds of
-                    changes that we can't summarize them all – for instance, the
-                    <a href="https://kernelnewbies.org/Linux_6.10"
-                      >Kernel Newbies summary</a
-                    >
-                    for this release has 636 bullet points.
-                  </p>
-                  <p>
-                    The release means that the merge window is now open for
-                    proposed changes to go into kernel 6.11, which will probably
-                    appear around September. That means it is likely to be too
-                    late for both Ubuntu and Fedora's second releases of the
-                    year, so kernel 6.10 may be what you get around that time.
-                  </p>
-                  <p>
-                    There are, as always, some fresh software features in the
-                    new release, of which maybe the most interesting is a new
-                    memory-management
-                    <a href="https://docs.kernel.org/userspace-api/mseal.html"
-                      >API call called mseal()</a
-                    >. Modern CPUs allow blocks of memory to be marked as
-                    special in various ways – for example, as non-executable.
-                    <a
-                      href="https://www.theregister.com/2003/11/03/ms_to_intro_hardwarelinked_security/"
-                      >AMD introduced the NX bit</a
-                    >
-                    over 20 years ago as part of its x86-64 specification, and a
-                    couple of years later
-                    <a
-                      href="https://www.theregister.com/Print/2005/05/26/review_pentium_d/"
-                      >Intel added it to its implementation</a
-                    >. The mseal() call protects these mappings: it makes them
-                    immutable for the life of that process. The patch was
-                    <a
-                      href="https://lore.kernel.org/lkml/20231016143828.647848-1-jeffxu@chromium.org/"
-                      >submitted</a
-                    >
-                    by Google last year, and it's likely it will first be used
-                    by Chrome and Chromium-based browsers – but probably by
-                    other things later. The call reproduces settings which
-                    already exist in OpenBSD, as well as the XNU kernel used in
-                    multiple Apple OSes.
-                  </p>
-                  <p>
-                    Additionally, there are small improvements to various
-                    filesystems, including bcachefs, Btrfs, ext4, XFS, F2FS,
-                    EROFS, and OCFS2. There's support for a much wider range of
-                    compression algorithms for the kernel boot image.
-                  </p>
-                  <p>
-                    However, for this release, more changes overall seem to be
-                    in the direction of improved hardware support, over a wide
-                    range of devices. On Linux's native x86 (increasingly,
-                    x86-64) architecture, this includes better support for
-                    hardware encryption, which among other things should deliver
-                    faster disk encryption. There's also better TPM2 chip
-                    support, improved power management and handling of dynamic
-                    CPU speeds. Multiple wired and wireless network drivers have
-                    been tuned, and there's support for various new models of
-                    CPU and GPU.
-                  </p>
-                  <p>
-                    Arm support has been improved in multiple areas, both for
-                    server processors and CPUs and SOCs used in laptops,
-                    including for the Arm's Mali family of GPUs. If the Qualcomm
-                    Snapdragon-based
-                    <a
-                      href="https://www.theregister.com/2023/03/21/lenovo_thinkpad_x13s_the_stealth/"
-                      >Lenovo Thinkpad X13s</a
-                    >
-                    appealed, notably
-                    <a
-                      href="https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/"
-                      >as a Linux machine</a
-                    >, then you might be interested in its inexpensive indirect
-                    ancestor too, Acer's
-                    <a
-                      href="https://store.acer.com/en-gb/acer-aspire-1-laptop-a114-61-white"
-                      >Acer Aspire 1 A114-61</a
-                    >. This machine's hardware is now more or less fully
-                    supported. Although it was a 2021 model, you may be able to
-                    find a second-hand unit for $NOT_A_LOT if you fancy an Arm64
-                    Linux laptop. The MIPI webcam sensor used in the X13S, as
-                    well as
-                    <a
-                      href="https://www.theregister.com/2023/03/10/thinkpad_x1c_g10_linux/"
-                      >several Intel Thinkpad models</a
-                    >, is now supported, too.
-                  </p>
-                  <p>
-                    Other Arm-powered kit with new support includes several
-                    gaming handhelds, such as as the
-                    <a
-                      href="https://gameforce.fun/pages/gallery-of-gameforce-retro-gaming-handheld"
-                      >Gameforce Chi</a
-                    >, and several
-                    <a
-                      href="https://anbernic.com/collections/handheld-game-console"
-                      >Anbernic devices</a
-                    >. As we have
-                    <a
-                      href="https://www.theregister.com/2023/09/27/osseu_steam_os_3/"
-                      >noted previously looking at SteamOS</a
-                    >, gaming support is now a factor visibly driving
-                    improvements in Linux.
-                  </p>
-                  <p>
-                    It's not just Arm: there's also improved support for RISC-V
-                    hardware, for instance the budget
-                    <a href="https://milkv.io/mars">Milk-V Mars</a> SBC. This
-                    extends to the still quite new support for
-                    <a
-                      href="https://www.theregister.com/2022/09/16/rust_in_the_linux_kernel/"
-                      >Rust in the kernel</a
-                    >. The revision of Rust supported in the kernel has been
-                    bumped to
-                    <a
-                      href="https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html"
-                      >version 1.78.0</a
-                    >. As we noted when
-                    <a
-                      href="https://www.theregister.com/2022/10/05/rust_kernel_pull_request_pulled/"
-                      >Rust support was first added</a
-                    >, whereas the kernel is usually built with GCC, Rust is
-                    usually compiled with LLVM and that mainly targets x86-64
-                    and Arm. Now, kernel Rust can be used in RISC-V as well.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63274"
                     >Original Submission</a
                   ></small
                 >
