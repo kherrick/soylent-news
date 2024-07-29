@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-29, 03:21:00](https://soylentnews.org/article.pl?sid=24/07/27/192232&from=rss) - [New Transistor’s Superlative Properties Could Have Broad Electronics Applications](https://soylentnews.org/article.pl?sid=24/07/27/192232&from=rss)
 * [2024-07-28, 22:39:00](https://soylentnews.org/article.pl?sid=24/07/27/1859258&from=rss) - [There is No Fix for Intel's Crashing 13th and 14th Gen CPUs — Any Damage is Permanent](https://soylentnews.org/article.pl?sid=24/07/27/1859258&from=rss)
 * [2024-07-28, 17:51:00](https://soylentnews.org/article.pl?sid=24/07/27/1857217&from=rss) - [The Holy Bible, Gen Z translation](https://soylentnews.org/article.pl?sid=24/07/27/1857217&from=rss)
 * [2024-07-28, 13:06:00](https://soylentnews.org/article.pl?sid=24/07/27/1327217&from=rss) - [Taking a Radio Camping](https://soylentnews.org/article.pl?sid=24/07/27/1327217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-19, 18:00:00](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss) - [Why Isn't Major League Baseball Using Robot Umpires for All Ball and Strike Calls? [UPDATED]](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss)
 * [2024-07-19, 15:34:00](https://soylentnews.org/breakingnews/article.pl?sid=24/07/19/1223234&from=rss) - [CrowdStrike Bricking Windows Machines Around the World Grounding Planes and Blocking Media](https://soylentnews.org/breakingnews/article.pl?sid=24/07/19/1223234&from=rss)
 * [2024-07-19, 10:51:00](https://soylentnews.org/article.pl?sid=24/07/18/1552232&from=rss) - [Godaddy Accused Of Antitrust Violations Over DNS Tool Ban](https://soylentnews.org/article.pl?sid=24/07/18/1552232&from=rss)
-* [2024-07-19, 06:08:00](https://soylentnews.org/article.pl?sid=24/07/18/1549232&from=rss) - [FTC Warns Gaming Companies Over Warranty Stickers](https://soylentnews.org/article.pl?sid=24/07/18/1549232&from=rss)
 
 ## [Archives](archives/index.md)
 
