@@ -145,6 +145,122 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/07/28/0446234">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/07/28/0446234&amp;from=rss"
+              >Secure Boot is Completely Broken on 200+ Models From 5 Big Device
+              Makers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-29 @ 17:24:00</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/07/28/0446234"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <blockquote>
+                <div>
+                  <p>
+                    The repository included the private portion of the platform
+                    key in encrypted form. The encrypted file, however, was
+                    protected by a four-character password, a decision that made
+                    it trivial for Binarly, and anyone else with even a passing
+                    curiosity, to crack the passcode and retrieve the
+                    corresponding plain text. The disclosure of the key went
+                    largely unnoticed until January 2023, when Binarly
+                    researchers found it while investigating a supply-chain
+                    incident. Now that the leak has come to light, security
+                    experts say it effectively torpedoes the security assurances
+                    offered by Secure Boot.
+                  </p>
+                  <p>
+                    [...] The researchers soon discovered that the compromise of
+                    the key was just the beginning of a much bigger supply-chain
+                    breakdown that raises serious doubts about the integrity of
+                    Secure Boot on more than 300 additional device models from
+                    virtually all major device manufacturers. As is the case
+                    with the platform key compromised in the 2022 GitHub leak,
+                    an additional 21 platform keys contain the strings "DO NOT
+                    SHIP" or "DO NOT TRUST."
+                  </p>
+                  <p>
+                    [...] People who want to know if their Windows device uses
+                    one of the test platform keys can run the following
+                    powershell command:
+                  </p>
+                  <p>
+                    &gt;
+                    [System.Text.Encoding]::ASCII.GetString((Get-SecureBootUEFI<br />PK).bytes)
+                    -match "DO NOT TRUST|DO NOT SHIP"<br />True
+                  </p>
+                  <p>
+                    Linux users can detect one of the test certificates by
+                    displaying the content of the PK variable:
+                  </p>
+                  <p>
+                    $ efi-readvar -v PK<br />Variable PK, length 862<br />PK:
+                    List 0, type X509<br />Signature 0, size 834, owner
+                    26dc4851-195f-4ae1-9a19-<br />fbf883bbb35e<br />Subject:<br />CN=DO
+                    NOT TRUST - AMI Test PK<br />Issuer:<br />CN=DO NOT TRUST -
+                    AMI Test PK
+                  </p>
+                  <p>
+                    There's little that users of an affected device can do other
+                    than install a patch if one becomes available from the
+                    manufacturer. In the meantime, it's worth remembering that
+                    Secure Boot has a history of not living up to its promises.
+                    The most recent reminder came late last year with the
+                    disclosure of LogoFAIL, a constellation of image-parsing
+                    vulnerabilities in UEFI libraries from just about every
+                    device maker. By replacing the legitimate logo images with
+                    identical-looking ones that have been specially crafted to
+                    exploit these bugs, LogoFAIL makes it possible to execute
+                    malicious code at the most sensitive stage of the boot
+                    process, which is known as DXE, short for Driver Execution
+                    Environment.
+                  </p>
+                  <p>
+                    "My takeaway is 'yup, [manufacturers] still screw up Secure
+                    Boot, this time due to lazy key management,' but it wasn't
+                    obviously a change in how I see the world (secure boot being
+                    a fig leaf security measure in many cases)," HD Moore, a
+                    firmware security expert and CTO and co-founder at runZero,
+                    said after reading the Binarly report. "The story is that
+                    the whole UEFI supply chain is a hot mess and hasn't
+                    improved much since 2016."
+                  </p>
+                </div>
+              </blockquote>
+              <p>
+                The 215 affected devices are
+                <a
+                  href="https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/4/"
+                  >listed at the end of TFA</a
+                >.
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63374"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/07/27/1912233">
           <h3>
             <a
@@ -157,12 +273,12 @@
             <h4>
               <span>2024-07-29 @ 12:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">449</span></span
+                >Points: <span class="points">479</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/1912233"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
             <div class="text">
@@ -253,7 +369,7 @@
             <h4>
               <span>2024-07-29 @ 08:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">413</span></span
+                >Points: <span class="points">431</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/197252"
@@ -374,7 +490,7 @@
             <h4>
               <span>2024-07-29 @ 03:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">527</span></span
+                >Points: <span class="points">541</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/192232"
@@ -494,7 +610,7 @@
             <h4>
               <span>2024-07-28 @ 22:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">880</span></span
+                >Points: <span class="points">892</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/1859258"
@@ -568,7 +684,7 @@
             <h4>
               <span>2024-07-28 @ 17:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">1712</span></span
+                >Points: <span class="points">1735</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/1857217"
@@ -641,7 +757,7 @@
             <h4>
               <span>2024-07-28 @ 13:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">1010</span></span
+                >Points: <span class="points">1023</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/1327217"
@@ -702,7 +818,7 @@
             <h4>
               <span>2024-07-28 @ 08:20:00</span
               ><span class="points-container"
-                >Points: <span class="points">1348</span></span
+                >Points: <span class="points">1361</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/1322230"
@@ -796,7 +912,7 @@
             <h4>
               <span>2024-07-28 @ 03:37:00</span
               ><span class="points-container"
-                >Points: <span class="points">1092</span></span
+                >Points: <span class="points">1111</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/1144259"
@@ -865,7 +981,7 @@
             <h4>
               <span>2024-07-27 @ 22:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">1470</span></span
+                >Points: <span class="points">1490</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/061219"
@@ -1033,7 +1149,7 @@
             <h4>
               <span>2024-07-27 @ 18:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">1434</span></span
+                >Points: <span class="points">1443</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/0045248"
@@ -1109,7 +1225,7 @@
             <h4>
               <span>2024-07-27 @ 13:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">1421</span></span
+                >Points: <span class="points">1429</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/27/0042207"
@@ -1194,7 +1310,7 @@
             <h4>
               <span>2024-07-27 @ 08:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">2120</span></span
+                >Points: <span class="points">2132</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/26/1226255"
@@ -1255,7 +1371,7 @@
             <h4>
               <span>2024-07-27 @ 03:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">1795</span></span
+                >Points: <span class="points">1805</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/26/0110233"
@@ -1354,7 +1470,7 @@
             <h4>
               <span>2024-07-26 @ 23:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">1730</span></span
+                >Points: <span class="points">1739</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/26/012200"
@@ -1482,7 +1598,7 @@
             <h4>
               <span>2024-07-26 @ 18:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">1648</span></span
+                >Points: <span class="points">1658</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/26/0058219"
@@ -1569,7 +1685,7 @@
             <h4>
               <span>2024-07-26 @ 13:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">2519</span></span
+                >Points: <span class="points">2528</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/25/1155249"
@@ -1638,7 +1754,7 @@
             <h4>
               <span>2024-07-26 @ 08:46:00</span
               ><span class="points-container"
-                >Points: <span class="points">1779</span></span
+                >Points: <span class="points">1787</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/25/045209"
@@ -1738,7 +1854,7 @@
             <h4>
               <span>2024-07-26 @ 04:07:00</span
               ><span class="points-container"
-                >Points: <span class="points">2101</span></span
+                >Points: <span class="points">2112</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/24/1348230"
@@ -1811,7 +1927,7 @@
             <h4>
               <span>2024-07-25 @ 23:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">2675</span></span
+                >Points: <span class="points">2685</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/24/1345229"
@@ -1922,7 +2038,7 @@
             <h4>
               <span>2024-07-25 @ 18:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">2872</span></span
+                >Points: <span class="points">2896</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/24/1238207"
@@ -2042,7 +2158,7 @@
             <h4>
               <span>2024-07-25 @ 13:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">2523</span></span
+                >Points: <span class="points">2524</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/24/1227241"
@@ -2191,7 +2307,7 @@
             <h4>
               <span>2024-07-25 @ 09:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">2656</span></span
+                >Points: <span class="points">2659</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/24/1221223"
@@ -2262,7 +2378,7 @@
             <h4>
               <span>2024-07-25 @ 04:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">2887</span></span
+                >Points: <span class="points">2891</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/24/0240258"
@@ -2347,7 +2463,7 @@
             <h4>
               <span>2024-07-24 @ 23:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">2684</span></span
+                >Points: <span class="points">2687</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/24/0229243"
@@ -2535,7 +2651,7 @@
             <h4>
               <span>2024-07-24 @ 18:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">2731</span></span
+                >Points: <span class="points">2733</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/24/0056207"
@@ -2832,7 +2948,7 @@
             <h4>
               <span>2024-07-24 @ 04:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">2690</span></span
+                >Points: <span class="points">2691</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/22/1416238"
@@ -2938,7 +3054,7 @@
             <h4>
               <span>2024-07-23 @ 23:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">3156</span></span
+                >Points: <span class="points">3157</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/22/1411230"
@@ -3293,7 +3409,7 @@
             <h4>
               <span>2024-07-23 @ 01:26:00</span
               ><span class="points-container"
-                >Points: <span class="points">2612</span></span
+                >Points: <span class="points">2613</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/21/1341202"
@@ -4540,7 +4656,7 @@
             <h4>
               <span>2024-07-20 @ 16:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">3223</span></span
+                >Points: <span class="points">3225</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/07/20/1439227"
@@ -5040,183 +5156,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63277"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/07/15/0418211">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/07/15/0418211&amp;from=rss"
-              >Why Isn't Major League Baseball Using Robot Umpires for All Ball
-              and Strike Calls? [UPDATED]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-19 @ 18:00:00</span
-              ><span class="points-container"
-                >Points: <span class="points">4632</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/07/15/0418211"
-                  >Comments</a
-                ><span class="descendants">: 36</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                When Don Denkinger mistakenly called Jorge Orta safe at first
-                base in the ninth inning of game 6 of the 1985 World Series,
-                known in St. Louis simply as
-                <a
-                  href="https://en.wikipedia.org/wiki/The_Call_(Kansas_City_Royals)"
-                  >"The Call"</a
-                >, it was followed by a series of poor plays by the by the
-                Cardinals that led them to blowing a 1-0 lead and losing the
-                game. Although the Cardinals proceeded to get blown out 11-0 in
-                game 7, but Denkinger is often blamed for the Cardinals losing
-                the series. Following the blown call, two St. Louis radio
-                personalities doxxed Denkinger, who received hate mail and even
-                death threats from irate fans. At the time, Cardinals manager
-                Whitey Herzog was furious at Denkinger. After the series was
-                over, Herzog became very dismayed by the harassment Denkinger
-                received from St. Louis. It was so severe that
-                <a
-                  href="https://www.scoopswithdannymac.com/bernie-on-the-late-whitey-herzog-there-will-never-be-another-like-him-and-there-will-never-be-a-team-like-those-he-created/"
-                  >Herzog made public appearances with Denkinger</a
-                >
-                to raise money for charity and try to get Cardinal fans to
-                forgive the umpire.
-              </p>
-              <p>
-                Jim Joyce was also known for a missed force out at first base,
-                this time what should have been the last out of a perfect game
-                for Armando Galarraga, an otherwise mediocre pitcher attempting
-                to complete one of the rarest feats in all of baseball. The
-                first base umpire generally watches to see whether the fielder's
-                foot is on the first base and when the runner's foot touches the
-                base, listening for the sound of the ball popping into the
-                fielder's glove. It's an extremely difficult call that umpires
-                get correct a remarkably high percentage of the time. In this
-                case, Joyce believed that the runner, Jason Donald, reached the
-                base before the baseball arrived in the fielder's glove, and
-                <a href="https://www.espn.com/espn/otl/news/story?id=5993137"
-                  >he called the runner safe</a
-                >. Galarraga retired the next hitter, but there was no way after
-                the game to correct the blown call. After seeing a replay, Joyce
-                held a press conference in which he tearfully admitted publicly
-                that he blew the call and felt awful for costing Galarraga the
-                perfect game.
-              </p>
-              <p>
-                Had MLB made use of the available technology, neither Denkinger
-                nor Joyce would be remember for missing calls. It's possible the
-                Cardinals might have imploded and lost the World Series anyway.
-                In the case of Joyce, the play would have been reviewed for a
-                minute or two, the umpire would have raised his fist to signal
-                an out, and the Detroit Tigers players and coaches would have
-                run onto the field after a brief awkward pause to celebrate the
-                perfect game. Denkinger and Joyce were excellent umpires who
-                were well-respected by players and managers but are both mostly
-                known for making a single bad call that could have easily been
-                corrected with the proper VAR tools.
-              </p>
-              <p>
-                Despite the potential for technology to further assist umpires
-                in getting calls correct, there is significant resistance to
-                automatic balls and strikes. While the ball-tracking technology
-                is widely accepted by tennis fans, there are concerns that
-                <a
-                  href="https://www.espn.com/mlb/story/_/id/40377683/mlb-robot-umpires-automated-balls-strikes-challenge-system-umps-majors"
-                  >baseball fans might see pitches that appear to be balls get
-                  called as strikes, and that the technology would be viewed as
-                  untrustworthy</a
-                >. Part of the issue is that the strike zone is actually a
-                three-dimensional volume that is 17 inches wide and 17 inches
-                deep. If the flight of the ball intersects any part of the zone,
-                it's a strike. For pitches with a high rate of forward spin and
-                a lot of vertical break, it could clip the bottom part of the
-                zone at the front of home plate, be caught well below the
-                batter's knees, and still get called a strike.
-              </p>
-              <p>
-                Some fans are also reluctant to end the skill of pitch framing,
-                in which a catcher receives a pitch that's a ball but catches it
-                in a manner to give the illusion of it being a strike. The
-                umpire is fooled into calling the pitch a strike anyway, giving
-                an advantage to the pitcher. One estimate suggests that the best
-                catchers were at one time able to
-                <a
-                  href="http://www.espn.com/espn/feature/story/_/id/11127248/how-catcher-framing-becoming-great-skill-smart-teams-new-york-yankees-espn-magazine"
-                  >save as many as 40 runs during a season with pitch framing</a
-                >, which is worth roughly about four wins to the team. Some
-                baseball purists have opposed using cameras to automatically
-                call balls and strikes because it would
-                <a
-                  href="https://blogs.fangraphs.com/pitch-framing-is-evolving-along-with-the-strike-zone/"
-                  >put an end to pitch framing</a
-                >.
-              </p>
-              <p>
-                Instead of fully embracing robot umps to call balls and strikes,
-                MLB intends to test a system of challenging balls and strikes at
-                AAA this season, which is the highest level of minor league
-                baseball. Teams will receive a certain number of challenges each
-                game, where a ball or strike call can be reviewed and, if
-                necessary, overturned. Part of the issue with fully embracing
-                automatic balls and strikes is the need to determine how to set
-                the "correct" strike zone. One option is to estimate it from the
-                batter's height. The other is to determine in on every pitch
-                based on the batter's stance, using the sz_top and sz_bot fields
-                in Statcast data. If the strike zone was determined by the
-                batter's stance on every pitch, a batter could use an
-                exaggerated stance to make the strike zone artificially small,
-                making it difficult to throw strikes. Although catchers would no
-                longer be able to steal strikes with pitch framing, adjusting
-                the strike zone for every pitch could allow hitters to steal
-                balls.
-              </p>
-              <p>
-                [<b>UPDATE</b>] In his meeting with the Baseball Writers'
-                Association of America prior to the All-Star Game,
-                <a
-                  href="https://www.espn.com/mlb/story/_/id/40576449/robot-umpires-tested-spring-training"
-                  >MLB Commissioner Rob Manfred said that "robot umpires" would
-                  probably be tested in spring training in 2025 and could be
-                  implemented in the 2026 season</a
-                >. "Robot umpires" are the colloquial term in baseball for an
-                automated system for calling balls and strikes using computer
-                vision to track the flight of the baseball and whether a pitch
-                crosses the strike zone. The main concern for MLB seems to be
-                how the strike zone will be determined, whether it will be
-                estimated from each player's height, or if it will be based on a
-                recent average of the size of each player's actual strike zone.
-                One of the 2024 rule changes in the minor leagues was to
-                <a
-                  href="https://www.baseballamerica.com/stories/milb-rules-changes-for-2024-will-tweak-strike-zone-in-triple-a/"
-                  >define the automated strike zone from the median of recent
-                  pitches that were put into play</a
-                >, limiting the opportunity for hitters to manipulated the
-                strike zone with an exaggerated crouch. Although fully automated
-                ball and strike calls were tested in the minor leagues, this was
-                replaced with a challenge system that is likely to be
-                implemented in the major leagues in 2026. Human umpires will
-                still call balls and strikes, and I anticipate that this system
-                will mostly be used to challenge borderline pitches that could
-                be strike three or ball four.
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63260"
                     >Original Submission</a
                   ></small
                 >
