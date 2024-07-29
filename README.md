@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-29, 17:24:00](https://soylentnews.org/article.pl?sid=24/07/28/0446234&from=rss) - [Secure Boot is Completely Broken on 200+ Models From 5 Big Device Makers](https://soylentnews.org/article.pl?sid=24/07/28/0446234&from=rss)
 * [2024-07-29, 12:49:00](https://soylentnews.org/article.pl?sid=24/07/27/1912233&from=rss) - [Here's What a Sam Altman-Backed Basic Income Experiment Found](https://soylentnews.org/article.pl?sid=24/07/27/1912233&from=rss)
 * [2024-07-29, 08:04:00](https://soylentnews.org/article.pl?sid=24/07/27/197252&from=rss) - [NASA Mars Rover Captures Rock That Could Hold Fossilized Microbes](https://soylentnews.org/article.pl?sid=24/07/27/197252&from=rss)
 * [2024-07-29, 03:21:00](https://soylentnews.org/article.pl?sid=24/07/27/192232&from=rss) - [New Transistor’s Superlative Properties Could Have Broad Electronics Applications](https://soylentnews.org/article.pl?sid=24/07/27/192232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-20, 05:48:00](https://soylentnews.org/article.pl?sid=24/07/19/1241245&from=rss) - [Strange Bird-Like Behavior In Atoms: Researchers Unveil New Magnetic Properties In Quantum Systems](https://soylentnews.org/article.pl?sid=24/07/19/1241245&from=rss)
 * [2024-07-20, 01:05:00](https://soylentnews.org/article.pl?sid=24/07/19/1126246&from=rss) - [ESA Starts Work On Planetary Defence Mission](https://soylentnews.org/article.pl?sid=24/07/19/1126246&from=rss)
 * [2024-07-19, 20:19:00](https://soylentnews.org/article.pl?sid=24/07/19/1132210&from=rss) - [New Memristor Device Challenges the Von Neumann Bottleneck With Ionic Innovation](https://soylentnews.org/article.pl?sid=24/07/19/1132210&from=rss)
-* [2024-07-19, 18:00:00](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss) - [Why Isn't Major League Baseball Using Robot Umpires for All Ball and Strike Calls? [UPDATED]](https://soylentnews.org/article.pl?sid=24/07/15/0418211&from=rss)
 
 ## [Archives](archives/index.md)
 
