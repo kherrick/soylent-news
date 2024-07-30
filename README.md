@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-30, 07:41:00](https://soylentnews.org/article.pl?sid=24/07/29/1832232&from=rss) - [A Cosmic 'Fossil' Holding Some of the Oldest Stars in the Universe: Photo of the Week](https://soylentnews.org/article.pl?sid=24/07/29/1832232&from=rss)
 * [2024-07-30, 02:54:00](https://soylentnews.org/article.pl?sid=24/07/29/1829238&from=rss) - [ISPs Seeking Government Handouts Try To Avoid Offering Low-Cost Broadband](https://soylentnews.org/article.pl?sid=24/07/29/1829238&from=rss)
 * [2024-07-29, 22:10:00](https://soylentnews.org/article.pl?sid=24/07/28/0451251&from=rss) - [Silicon Dioxide: The Secret To Smaller, Cooler Electronic Devices](https://soylentnews.org/article.pl?sid=24/07/28/0451251&from=rss)
 * [2024-07-29, 17:24:00](https://soylentnews.org/article.pl?sid=24/07/28/0446234&from=rss) - [Secure Boot is Completely Broken on 200+ Models From 5 Big Device Makers](https://soylentnews.org/article.pl?sid=24/07/28/0446234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-20, 21:03:00](https://soylentnews.org/article.pl?sid=24/07/19/1747231&from=rss) - [Google To Kill Off URL Shortener Once And For All](https://soylentnews.org/article.pl?sid=24/07/19/1747231&from=rss)
 * [2024-07-20, 16:15:00](https://soylentnews.org/article.pl?sid=24/07/20/1439227&from=rss) - [CrowdStrike Fixes Start at “Reboot Up to 15 Times” and Get More Complex From There](https://soylentnews.org/article.pl?sid=24/07/20/1439227&from=rss)
 * [2024-07-20, 11:33:00](https://soylentnews.org/article.pl?sid=24/07/19/1740218&from=rss) - [106 Rare Crocodile Eggs are Found in Cambodia, the Biggest Such Discovery in 20 Years](https://soylentnews.org/article.pl?sid=24/07/19/1740218&from=rss)
-* [2024-07-20, 05:48:00](https://soylentnews.org/article.pl?sid=24/07/19/1241245&from=rss) - [Strange Bird-Like Behavior In Atoms: Researchers Unveil New Magnetic Properties In Quantum Systems](https://soylentnews.org/article.pl?sid=24/07/19/1241245&from=rss)
 
 ## [Archives](archives/index.md)
 
