@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-31, 21:40:00](https://soylentnews.org/article.pl?sid=24/07/30/1337210&from=rss) - [Abusive AI Crawlers Run Up Large Bandwidth Bills for their Targets](https://soylentnews.org/article.pl?sid=24/07/30/1337210&from=rss)
 * [2024-07-31, 16:55:00](https://soylentnews.org/article.pl?sid=24/07/30/1136243&from=rss) - [Curiosity Ran Over a Rock – and Found Something Never Seen Before on Mars](https://soylentnews.org/article.pl?sid=24/07/30/1136243&from=rss)
 * [2024-07-31, 12:09:00](https://soylentnews.org/article.pl?sid=24/07/30/0211214&from=rss) - [Robots Sacked, Screenings Shut Down: a New Movement of Luddites is Rising Up Against AI](https://soylentnews.org/article.pl?sid=24/07/30/0211214&from=rss)
 * [2024-07-31, 07:24:00](https://soylentnews.org/article.pl?sid=24/07/30/025225&from=rss) - [FCC Votes to Make Phone Unlocking Easier](https://soylentnews.org/article.pl?sid=24/07/30/025225&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-22, 11:06:00](https://soylentnews.org/article.pl?sid=24/07/21/137235&from=rss) - [Ancient Microbes Offer Clues to How Complex Life Evolved](https://soylentnews.org/article.pl?sid=24/07/21/137235&from=rss)
 * [2024-07-22, 06:23:00](https://soylentnews.org/article.pl?sid=24/07/20/164238&from=rss) - [\"CrowdStrike Broke Debian and Rocky Linux Months Ago, but No One Noticed\"](https://soylentnews.org/article.pl?sid=24/07/20/164238&from=rss)
 * [2024-07-22, 01:40:00](https://soylentnews.org/article.pl?sid=24/07/20/152243&from=rss) - [Danish Insect Farm Sets Sights On Feeding Europe's Livestock](https://soylentnews.org/article.pl?sid=24/07/20/152243&from=rss)
-* [2024-07-21, 20:52:00](https://soylentnews.org/article.pl?sid=24/07/20/1454226&from=rss) - [‘Spaceballs’ Sequel from Mel Brooks and Starring Josh Gad in the Works at Amazon MGM](https://soylentnews.org/article.pl?sid=24/07/20/1454226&from=rss)
 
 ## [Archives](archives/index.md)
 
