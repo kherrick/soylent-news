@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-07-31, 12:09:00](https://soylentnews.org/article.pl?sid=24/07/30/0211214&from=rss) - [Robots Sacked, Screenings Shut Down: a New Movement of Luddites is Rising Up Against AI](https://soylentnews.org/article.pl?sid=24/07/30/0211214&from=rss)
 * [2024-07-31, 07:24:00](https://soylentnews.org/article.pl?sid=24/07/30/025225&from=rss) - [FCC Votes to Make Phone Unlocking Easier](https://soylentnews.org/article.pl?sid=24/07/30/025225&from=rss)
 * [2024-07-31, 02:40:00](https://soylentnews.org/article.pl?sid=24/07/30/021248&from=rss) - [Researchers Use Logic Gate-Based Decision-Making to Construct Circuits That Control Genes](https://soylentnews.org/article.pl?sid=24/07/30/021248&from=rss)
 * [2024-07-30, 21:54:00](https://soylentnews.org/article.pl?sid=24/07/30/0150245&from=rss) - [Tesla Advises Against Using Wet Towels To Accelerate Supercharging](https://soylentnews.org/article.pl?sid=24/07/30/0150245&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-22, 01:40:00](https://soylentnews.org/article.pl?sid=24/07/20/152243&from=rss) - [Danish Insect Farm Sets Sights On Feeding Europe's Livestock](https://soylentnews.org/article.pl?sid=24/07/20/152243&from=rss)
 * [2024-07-21, 20:52:00](https://soylentnews.org/article.pl?sid=24/07/20/1454226&from=rss) - [‘Spaceballs’ Sequel from Mel Brooks and Starring Josh Gad in the Works at Amazon MGM](https://soylentnews.org/article.pl?sid=24/07/20/1454226&from=rss)
 * [2024-07-21, 16:04:00](https://soylentnews.org/article.pl?sid=24/07/20/1448201&from=rss) - [Dirty Diaper Resold on Amazon Ruined a Family Business, Report Says](https://soylentnews.org/article.pl?sid=24/07/20/1448201&from=rss)
-* [2024-07-21, 11:17:00](https://soylentnews.org/article.pl?sid=24/07/19/1753238&from=rss) - [Replacing Opioids: Natural Compound Promises Pain Relief Without Addiction](https://soylentnews.org/article.pl?sid=24/07/19/1753238&from=rss)
 
 ## [Archives](archives/index.md)
 
