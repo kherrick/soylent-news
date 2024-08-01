@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-01, 16:39:00](https://soylentnews.org/article.pl?sid=24/07/31/1341210&from=rss) - [CBP Needs Warrant To Search Phones, Says Yet Another Judge](https://soylentnews.org/article.pl?sid=24/07/31/1341210&from=rss)
 * [2024-08-01, 11:56:00](https://soylentnews.org/article.pl?sid=24/07/31/1337235&from=rss) - [FOSS Funding Vanishes From EU's 2025 Horizon Program Plans](https://soylentnews.org/article.pl?sid=24/07/31/1337235&from=rss)
 * [2024-08-01, 07:13:00](https://soylentnews.org/article.pl?sid=24/07/31/128224&from=rss) - [Logitech Has an Idea for a “Forever Mouse” That Requires a Subscription](https://soylentnews.org/article.pl?sid=24/07/31/128224&from=rss)
 * [2024-08-01, 02:26:00](https://soylentnews.org/article.pl?sid=24/07/31/126252&from=rss) - [General Motors, Honda, and Hyundai Are Accused of Inappropriately Selling Customer Data](https://soylentnews.org/article.pl?sid=24/07/31/126252&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-23, 06:10:00](https://soylentnews.org/article.pl?sid=24/07/22/1221204&from=rss) - [A Brief Interview With Tcl Creator John Ousterhout [2023]](https://soylentnews.org/article.pl?sid=24/07/22/1221204&from=rss)
 * [2024-07-23, 01:26:00](https://soylentnews.org/article.pl?sid=24/07/21/1341202&from=rss) - [Rogue Antibodies May Cause Some Long Covid Symptoms](https://soylentnews.org/article.pl?sid=24/07/21/1341202&from=rss)
 * [2024-07-22, 20:38:00](https://soylentnews.org/article.pl?sid=24/07/21/1330235&from=rss) - [Oracle Project Woes at Europe's Largest City Council Deteriorate](https://soylentnews.org/article.pl?sid=24/07/21/1330235&from=rss)
-* [2024-07-22, 15:52:00](https://soylentnews.org/article.pl?sid=24/07/21/1319249&from=rss) - [Researchers Propose Groundbreaking Framework For Future Network Systems](https://soylentnews.org/article.pl?sid=24/07/21/1319249&from=rss)
 
 ## [Archives](archives/index.md)
 
