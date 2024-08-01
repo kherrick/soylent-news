@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-01, 07:13:00](https://soylentnews.org/article.pl?sid=24/07/31/128224&from=rss) - [Logitech Has an Idea for a “Forever Mouse” That Requires a Subscription](https://soylentnews.org/article.pl?sid=24/07/31/128224&from=rss)
 * [2024-08-01, 02:26:00](https://soylentnews.org/article.pl?sid=24/07/31/126252&from=rss) - [General Motors, Honda, and Hyundai Are Accused of Inappropriately Selling Customer Data](https://soylentnews.org/article.pl?sid=24/07/31/126252&from=rss)
 * [2024-07-31, 21:40:00](https://soylentnews.org/article.pl?sid=24/07/30/1337210&from=rss) - [Abusive AI Crawlers Run Up Large Bandwidth Bills for their Targets](https://soylentnews.org/article.pl?sid=24/07/30/1337210&from=rss)
 * [2024-07-31, 16:55:00](https://soylentnews.org/article.pl?sid=24/07/30/1136243&from=rss) - [Curiosity Ran Over a Rock – and Found Something Never Seen Before on Mars](https://soylentnews.org/article.pl?sid=24/07/30/1136243&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-22, 20:38:00](https://soylentnews.org/article.pl?sid=24/07/21/1330235&from=rss) - [Oracle Project Woes at Europe's Largest City Council Deteriorate](https://soylentnews.org/article.pl?sid=24/07/21/1330235&from=rss)
 * [2024-07-22, 15:52:00](https://soylentnews.org/article.pl?sid=24/07/21/1319249&from=rss) - [Researchers Propose Groundbreaking Framework For Future Network Systems](https://soylentnews.org/article.pl?sid=24/07/21/1319249&from=rss)
 * [2024-07-22, 11:06:00](https://soylentnews.org/article.pl?sid=24/07/21/137235&from=rss) - [Ancient Microbes Offer Clues to How Complex Life Evolved](https://soylentnews.org/article.pl?sid=24/07/21/137235&from=rss)
-* [2024-07-22, 06:23:00](https://soylentnews.org/article.pl?sid=24/07/20/164238&from=rss) - [\"CrowdStrike Broke Debian and Rocky Linux Months Ago, but No One Noticed\"](https://soylentnews.org/article.pl?sid=24/07/20/164238&from=rss)
 
 ## [Archives](archives/index.md)
 
