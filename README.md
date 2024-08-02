@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-02, 21:20:00](https://soylentnews.org/article.pl?sid=24/08/02/0122249&from=rss) - [Faster Than a Speeding Photon: How Tachyons Challenge Modern Physics](https://soylentnews.org/article.pl?sid=24/08/02/0122249&from=rss)
 * [2024-08-02, 16:31:00](https://soylentnews.org/article.pl?sid=24/08/01/1456259&from=rss) - [EU's AI Act Enters Into Force – What This Means for Businesses](https://soylentnews.org/article.pl?sid=24/08/01/1456259&from=rss)
 * [2024-08-02, 12:54:00](https://soylentnews.org/meta/article.pl?sid=24/08/02/1253206&from=rss) - [SSL Certificate Renewal](https://soylentnews.org/meta/article.pl?sid=24/08/02/1253206&from=rss)
 * [2024-08-02, 11:44:00](https://soylentnews.org/article.pl?sid=24/08/01/1445246&from=rss) - [Coldwar Communications Centre - Images of the Past](https://soylentnews.org/article.pl?sid=24/08/01/1445246&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-24, 18:58:00](https://soylentnews.org/article.pl?sid=24/07/24/0056207&from=rss) - [Google Backpedals on Plan to Eliminate Third-Party Cookies in Chrome](https://soylentnews.org/article.pl?sid=24/07/24/0056207&from=rss)
 * [2024-07-24, 14:13:00](https://soylentnews.org/article.pl?sid=24/07/23/0026236&from=rss) - [Carbon Capture Breakthrough: Humidity-Powered Membrane Pumps CO2 Out Of The Air](https://soylentnews.org/article.pl?sid=24/07/23/0026236&from=rss)
 * [2024-07-24, 09:38:00](https://soylentnews.org/article.pl?sid=24/07/22/1419203&from=rss) - [Breakthrough Copper Wiring Solution Could Address 2nm Chip Challenges as Shown by Applied Materials](https://soylentnews.org/article.pl?sid=24/07/22/1419203&from=rss)
-* [2024-07-24, 04:53:00](https://soylentnews.org/article.pl?sid=24/07/22/1416238&from=rss) - [UK Ofcom: Inflation-Linked Mid-Contract Price Rises For The Axe](https://soylentnews.org/article.pl?sid=24/07/22/1416238&from=rss)
 
 ## [Archives](archives/index.md)
 
