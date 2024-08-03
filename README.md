@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-03, 11:37:00](https://soylentnews.org/article.pl?sid=24/08/03/0232239&from=rss) - [Twisted Carbon Nanotubes Could Achieve Significantly Better Energy Storage Than Advanced Lithium-Ion](https://soylentnews.org/article.pl?sid=24/08/03/0232239&from=rss)
 * [2024-08-03, 06:49:00](https://soylentnews.org/article.pl?sid=24/08/02/2240249&from=rss) - [Blocking AI Bots From Microsoft, Others Has Been “Pain in the a**”: Reddit CEO](https://soylentnews.org/article.pl?sid=24/08/02/2240249&from=rss)
 * [2024-08-03, 02:03:00](https://soylentnews.org/article.pl?sid=24/08/02/2235215&from=rss) - [CrowdStrike Abuses DMCA to Attempt Takedown of Parody Site](https://soylentnews.org/article.pl?sid=24/08/02/2235215&from=rss)
 * [2024-08-02, 21:20:00](https://soylentnews.org/article.pl?sid=24/08/02/0122249&from=rss) - [Faster Than a Speeding Photon: How Tachyons Challenge Modern Physics](https://soylentnews.org/article.pl?sid=24/08/02/0122249&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-25, 09:14:00](https://soylentnews.org/article.pl?sid=24/07/24/1221223&from=rss) - [Senior Scientists Blast Fermilab Management](https://soylentnews.org/article.pl?sid=24/07/24/1221223&from=rss)
 * [2024-07-25, 04:28:00](https://soylentnews.org/article.pl?sid=24/07/24/0240258&from=rss) - [You're Not Going Crazy — You May Actually be Paying Higher Prices Than Other People](https://soylentnews.org/article.pl?sid=24/07/24/0240258&from=rss)
 * [2024-07-24, 23:41:00](https://soylentnews.org/article.pl?sid=24/07/24/0229243&from=rss) - [Deep-Ocean Floor Produces its Own Oxygen](https://soylentnews.org/article.pl?sid=24/07/24/0229243&from=rss)
-* [2024-07-24, 18:58:00](https://soylentnews.org/article.pl?sid=24/07/24/0056207&from=rss) - [Google Backpedals on Plan to Eliminate Third-Party Cookies in Chrome](https://soylentnews.org/article.pl?sid=24/07/24/0056207&from=rss)
 
 ## [Archives](archives/index.md)
 
