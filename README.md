@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-04, 01:55:00](https://soylentnews.org/article.pl?sid=24/08/03/0257254&from=rss) - [Ransomware Gangs Are Loving This Dumb But Deadly ESXi Flaw](https://soylentnews.org/article.pl?sid=24/08/03/0257254&from=rss)
 * [2024-08-03, 21:09:00](https://soylentnews.org/article.pl?sid=24/08/03/0250249&from=rss) - [The Political Preferences of LLMs](https://soylentnews.org/article.pl?sid=24/08/03/0250249&from=rss)
 * [2024-08-03, 16:22:00](https://soylentnews.org/article.pl?sid=24/08/03/0248259&from=rss) - [Data Breach Costs Surged by 10Pc This Year, IBM Claims](https://soylentnews.org/article.pl?sid=24/08/03/0248259&from=rss)
 * [2024-08-03, 11:37:00](https://soylentnews.org/article.pl?sid=24/08/03/0232239&from=rss) - [Twisted Carbon Nanotubes Could Achieve Significantly Better Energy Storage Than Advanced Lithium-Ion](https://soylentnews.org/article.pl?sid=24/08/03/0232239&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-25, 23:19:00](https://soylentnews.org/article.pl?sid=24/07/24/1345229&from=rss) - [MySQL vs. MariaDB: A Brief Comparison Guide](https://soylentnews.org/article.pl?sid=24/07/24/1345229&from=rss)
 * [2024-07-25, 18:36:00](https://soylentnews.org/article.pl?sid=24/07/24/1238207&from=rss) - [Dog-Like Robot Jams Home Networks And Disables Devices During Police Raids](https://soylentnews.org/article.pl?sid=24/07/24/1238207&from=rss)
 * [2024-07-25, 13:56:00](https://soylentnews.org/article.pl?sid=24/07/24/1227241&from=rss) - [Ultrasound Tracking / Hacking Revisited](https://soylentnews.org/article.pl?sid=24/07/24/1227241&from=rss)
-* [2024-07-25, 09:14:00](https://soylentnews.org/article.pl?sid=24/07/24/1221223&from=rss) - [Senior Scientists Blast Fermilab Management](https://soylentnews.org/article.pl?sid=24/07/24/1221223&from=rss)
 
 ## [Archives](archives/index.md)
 
