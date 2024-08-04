@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-04, 16:11:00](https://soylentnews.org/article.pl?sid=24/08/03/1643202&from=rss) - [Insects Are Outsmarting Malaria Nets – and It Could Have Severe Consequences](https://soylentnews.org/article.pl?sid=24/08/03/1643202&from=rss)
 * [2024-08-04, 11:26:00](https://soylentnews.org/article.pl?sid=24/08/03/1638227&from=rss) - [How To Build Both National Security And Economic Prosperity](https://soylentnews.org/article.pl?sid=24/08/03/1638227&from=rss)
 * [2024-08-04, 06:38:00](https://soylentnews.org/article.pl?sid=24/08/03/1520255&from=rss) - [Pitch Tracking Data Helped Make Pitching Dangerous.  Perhaps It Can Help Solve the Problem, Too.](https://soylentnews.org/article.pl?sid=24/08/03/1520255&from=rss)
 * [2024-08-04, 01:55:00](https://soylentnews.org/article.pl?sid=24/08/03/0257254&from=rss) - [Ransomware Gangs Are Loving This Dumb But Deadly ESXi Flaw](https://soylentnews.org/article.pl?sid=24/08/03/0257254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-26, 13:34:00](https://soylentnews.org/article.pl?sid=24/07/25/1155249&from=rss) - [strlcpy and How CPUs Can Defy Common Sense](https://soylentnews.org/article.pl?sid=24/07/25/1155249&from=rss)
 * [2024-07-26, 08:46:00](https://soylentnews.org/article.pl?sid=24/07/25/045209&from=rss) - [NASA Rocket Discovers New Energization Process in Upper Atmosphere](https://soylentnews.org/article.pl?sid=24/07/25/045209&from=rss)
 * [2024-07-26, 04:07:00](https://soylentnews.org/article.pl?sid=24/07/24/1348230&from=rss) - [Chimpanzees Gesture Back and Forth Quickly Like in Human Conversations](https://soylentnews.org/article.pl?sid=24/07/24/1348230&from=rss)
-* [2024-07-25, 23:19:00](https://soylentnews.org/article.pl?sid=24/07/24/1345229&from=rss) - [MySQL vs. MariaDB: A Brief Comparison Guide](https://soylentnews.org/article.pl?sid=24/07/24/1345229&from=rss)
 
 ## [Archives](archives/index.md)
 
