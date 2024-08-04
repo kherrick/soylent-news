@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 20:50:00](https://soylentnews.org/article.pl?sid=24/08/04/0051259&from=rss) - [NASA Streams 4K Video From Aircraft To Space (And Back) At Blistering Speeds Using Laser Tech](https://soylentnews.org/article.pl?sid=24/08/04/0051259&from=rss)
 * [2024-08-04, 16:11:00](https://soylentnews.org/article.pl?sid=24/08/03/1643202&from=rss) - [Insects Are Outsmarting Malaria Nets – and It Could Have Severe Consequences](https://soylentnews.org/article.pl?sid=24/08/03/1643202&from=rss)
 * [2024-08-04, 11:26:00](https://soylentnews.org/article.pl?sid=24/08/03/1638227&from=rss) - [How To Build Both National Security And Economic Prosperity](https://soylentnews.org/article.pl?sid=24/08/03/1638227&from=rss)
 * [2024-08-04, 06:38:00](https://soylentnews.org/article.pl?sid=24/08/03/1520255&from=rss) - [Pitch Tracking Data Helped Make Pitching Dangerous.  Perhaps It Can Help Solve the Problem, Too.](https://soylentnews.org/article.pl?sid=24/08/03/1520255&from=rss)
