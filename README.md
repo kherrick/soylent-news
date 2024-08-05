@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-05, 11:03:00](https://soylentnews.org/article.pl?sid=24/08/04/1416228&from=rss) - [AI Images Exposed: Researchers Reveal Simple Method to Detect Deepfakes](https://soylentnews.org/article.pl?sid=24/08/04/1416228&from=rss)
 * [2024-08-05, 06:11:00](https://soylentnews.org/article.pl?sid=24/08/04/0119253&from=rss) - [Predicting Solar Storms Before They Leave The Sun](https://soylentnews.org/article.pl?sid=24/08/04/0119253&from=rss)
 * [2024-08-05, 01:31:00](https://soylentnews.org/article.pl?sid=24/08/04/1412229&from=rss) - [Moon Ark: Scientists Propose Saving Earth's Species With a Lunar Biorepository](https://soylentnews.org/article.pl?sid=24/08/04/1412229&from=rss)
 * [2024-08-04, 20:50:00](https://soylentnews.org/article.pl?sid=24/08/04/0051259&from=rss) - [NASA Streams 4K Video From Aircraft To Space (And Back) At Blistering Speeds Using Laser Tech](https://soylentnews.org/article.pl?sid=24/08/04/0051259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-27, 08:34:00](https://soylentnews.org/article.pl?sid=24/07/26/1226255&from=rss) - [CrowdStrike Offers a $10 Apology Gift Card to Say Sorry for Outage](https://soylentnews.org/article.pl?sid=24/07/26/1226255&from=rss)
 * [2024-07-27, 03:48:00](https://soylentnews.org/article.pl?sid=24/07/26/0110233&from=rss) - [Cocaine Found In Muscle And Liver Of Sharpnose Sharks Off Coast Of Rio De Janeiro](https://soylentnews.org/article.pl?sid=24/07/26/0110233&from=rss)
 * [2024-07-26, 23:00:00](https://soylentnews.org/article.pl?sid=24/07/26/012200&from=rss) - [A Versal Story in the Era of Hardware AI: Why the Chinese Could Win](https://soylentnews.org/article.pl?sid=24/07/26/012200&from=rss)
-* [2024-07-26, 18:16:00](https://soylentnews.org/article.pl?sid=24/07/26/0058219&from=rss) - [Chinese Lunar Probe Finds Water In Moon Samples](https://soylentnews.org/article.pl?sid=24/07/26/0058219&from=rss)
 
 ## [Archives](archives/index.md)
 
