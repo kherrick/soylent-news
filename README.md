@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-05, 01:31:00](https://soylentnews.org/article.pl?sid=24/08/04/1412229&from=rss) - [Moon Ark: Scientists Propose Saving Earth's Species With a Lunar Biorepository](https://soylentnews.org/article.pl?sid=24/08/04/1412229&from=rss)
 * [2024-08-04, 20:50:00](https://soylentnews.org/article.pl?sid=24/08/04/0051259&from=rss) - [NASA Streams 4K Video From Aircraft To Space (And Back) At Blistering Speeds Using Laser Tech](https://soylentnews.org/article.pl?sid=24/08/04/0051259&from=rss)
 * [2024-08-04, 16:11:00](https://soylentnews.org/article.pl?sid=24/08/03/1643202&from=rss) - [Insects Are Outsmarting Malaria Nets – and It Could Have Severe Consequences](https://soylentnews.org/article.pl?sid=24/08/03/1643202&from=rss)
 * [2024-08-04, 11:26:00](https://soylentnews.org/article.pl?sid=24/08/03/1638227&from=rss) - [How To Build Both National Security And Economic Prosperity](https://soylentnews.org/article.pl?sid=24/08/03/1638227&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-26, 23:00:00](https://soylentnews.org/article.pl?sid=24/07/26/012200&from=rss) - [A Versal Story in the Era of Hardware AI: Why the Chinese Could Win](https://soylentnews.org/article.pl?sid=24/07/26/012200&from=rss)
 * [2024-07-26, 18:16:00](https://soylentnews.org/article.pl?sid=24/07/26/0058219&from=rss) - [Chinese Lunar Probe Finds Water In Moon Samples](https://soylentnews.org/article.pl?sid=24/07/26/0058219&from=rss)
 * [2024-07-26, 13:34:00](https://soylentnews.org/article.pl?sid=24/07/25/1155249&from=rss) - [strlcpy and How CPUs Can Defy Common Sense](https://soylentnews.org/article.pl?sid=24/07/25/1155249&from=rss)
-* [2024-07-26, 08:46:00](https://soylentnews.org/article.pl?sid=24/07/25/045209&from=rss) - [NASA Rocket Discovers New Energization Process in Upper Atmosphere](https://soylentnews.org/article.pl?sid=24/07/25/045209&from=rss)
 
 ## [Archives](archives/index.md)
 
