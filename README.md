@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-05, 20:34:00](https://soylentnews.org/article.pl?sid=24/08/04/1419247&from=rss) - [Reverse Engineering the 59-Pound Printer Onboard the Space Shuttle](https://soylentnews.org/article.pl?sid=24/08/04/1419247&from=rss)
 * [2024-08-05, 15:44:00](https://soylentnews.org/article.pl?sid=24/08/04/0140255&from=rss) - [What Makes High Temperature Superconductivity Possible? Researchers Get Closer To A Unified Theory](https://soylentnews.org/article.pl?sid=24/08/04/0140255&from=rss)
 * [2024-08-05, 11:03:00](https://soylentnews.org/article.pl?sid=24/08/04/1416228&from=rss) - [AI Images Exposed: Researchers Reveal Simple Method to Detect Deepfakes](https://soylentnews.org/article.pl?sid=24/08/04/1416228&from=rss)
 * [2024-08-05, 06:11:00](https://soylentnews.org/article.pl?sid=24/08/04/0119253&from=rss) - [Predicting Solar Storms Before They Leave The Sun](https://soylentnews.org/article.pl?sid=24/08/04/0119253&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-27, 18:05:00](https://soylentnews.org/article.pl?sid=24/07/27/0045248&from=rss) - [Counting Bytes Faster Than You'd Think Possible](https://soylentnews.org/article.pl?sid=24/07/27/0045248&from=rss)
 * [2024-07-27, 13:21:00](https://soylentnews.org/article.pl?sid=24/07/27/0042207&from=rss) - [GM Slams Brakes on Robotaxi Dreams, Shelves Cruise Origin Indefinitely](https://soylentnews.org/article.pl?sid=24/07/27/0042207&from=rss)
 * [2024-07-27, 08:34:00](https://soylentnews.org/article.pl?sid=24/07/26/1226255&from=rss) - [CrowdStrike Offers a $10 Apology Gift Card to Say Sorry for Outage](https://soylentnews.org/article.pl?sid=24/07/26/1226255&from=rss)
-* [2024-07-27, 03:48:00](https://soylentnews.org/article.pl?sid=24/07/26/0110233&from=rss) - [Cocaine Found In Muscle And Liver Of Sharpnose Sharks Off Coast Of Rio De Janeiro](https://soylentnews.org/article.pl?sid=24/07/26/0110233&from=rss)
 
 ## [Archives](archives/index.md)
 
