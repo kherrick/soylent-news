@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-06](index.md)
+
+* [2024-08-06, 01:18:00](https://soylentnews.org/article.pl?sid=24/08/04/0133220&from=rss) - [Why Methane Might Be The Key To Beating Climate Change](https://soylentnews.org/article.pl?sid=24/08/04/0133220&from=rss)
