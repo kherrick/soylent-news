@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-06, 15:52:00](https://soylentnews.org/article.pl?sid=24/08/04/164211&from=rss) - [Is It Possible to Recreate Bell Labs?](https://soylentnews.org/article.pl?sid=24/08/04/164211&from=rss)
 * [2024-08-06, 10:50:00](https://soylentnews.org/article.pl?sid=24/08/04/1432259&from=rss) - [Software Defined Vehicles Hit a Hard(ware) Wall](https://soylentnews.org/article.pl?sid=24/08/04/1432259&from=rss)
 * [2024-08-06, 06:03:00](https://soylentnews.org/article.pl?sid=24/08/04/010258&from=rss) - [Ice 0: Scientists Discover Unusual New Form Of Ice](https://soylentnews.org/article.pl?sid=24/08/04/010258&from=rss)
 * [2024-08-06, 01:18:00](https://soylentnews.org/article.pl?sid=24/08/04/0133220&from=rss) - [Why Methane Might Be The Key To Beating Climate Change](https://soylentnews.org/article.pl?sid=24/08/04/0133220&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-28, 13:06:00](https://soylentnews.org/article.pl?sid=24/07/27/1327217&from=rss) - [Taking a Radio Camping](https://soylentnews.org/article.pl?sid=24/07/27/1327217&from=rss)
 * [2024-07-28, 08:20:00](https://soylentnews.org/article.pl?sid=24/07/27/1322230&from=rss) - [Herbicide Not Proved to Cause Cancer, Judge Finds](https://soylentnews.org/article.pl?sid=24/07/27/1322230&from=rss)
 * [2024-07-28, 03:37:00](https://soylentnews.org/article.pl?sid=24/07/27/1144259&from=rss) - [Remarkable Webb Telescope Find: Mysterious Dust Clouds On An Alien World](https://soylentnews.org/article.pl?sid=24/07/27/1144259&from=rss)
-* [2024-07-27, 22:49:00](https://soylentnews.org/article.pl?sid=24/07/27/061219&from=rss) - [25 Years Ago, NASA Almost A Lost A Shuttle](https://soylentnews.org/article.pl?sid=24/07/27/061219&from=rss)
 
 ## [Archives](archives/index.md)
 
