@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-07, 16:34:00](https://soylentnews.org/article.pl?sid=24/08/06/0755204&from=rss) - [APNIC on Deep-space Networking](https://soylentnews.org/article.pl?sid=24/08/06/0755204&from=rss)
 * [2024-08-07, 11:51:00](https://soylentnews.org/article.pl?sid=24/08/06/0752255&from=rss) - [OpenAI Afraid to Release ChatGPT Detection Tool That Might Piss Off Cheaters](https://soylentnews.org/article.pl?sid=24/08/06/0752255&from=rss)
 * [2024-08-07, 07:02:00](https://soylentnews.org/politics/article.pl?sid=24/08/06/0744242&from=rss) - [The Nonsense of Q3 - Make Crypto Great Again](https://soylentnews.org/politics/article.pl?sid=24/08/06/0744242&from=rss)
 * [2024-08-07, 02:15:00](https://soylentnews.org/article.pl?sid=24/08/06/0332202&from=rss) - [Robot Performs First Ever Fully Autonomous Dental Surgery on Live Patient](https://soylentnews.org/article.pl?sid=24/08/06/0332202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-29, 12:49:00](https://soylentnews.org/article.pl?sid=24/07/27/1912233&from=rss) - [Here's What a Sam Altman-Backed Basic Income Experiment Found](https://soylentnews.org/article.pl?sid=24/07/27/1912233&from=rss)
 * [2024-07-29, 08:04:00](https://soylentnews.org/article.pl?sid=24/07/27/197252&from=rss) - [NASA Mars Rover Captures Rock That Could Hold Fossilized Microbes](https://soylentnews.org/article.pl?sid=24/07/27/197252&from=rss)
 * [2024-07-29, 03:21:00](https://soylentnews.org/article.pl?sid=24/07/27/192232&from=rss) - [New Transistor’s Superlative Properties Could Have Broad Electronics Applications](https://soylentnews.org/article.pl?sid=24/07/27/192232&from=rss)
-* [2024-07-28, 22:39:00](https://soylentnews.org/article.pl?sid=24/07/27/1859258&from=rss) - [There is No Fix for Intel's Crashing 13th and 14th Gen CPUs — Any Damage is Permanent](https://soylentnews.org/article.pl?sid=24/07/27/1859258&from=rss)
 
 ## [Archives](archives/index.md)
 
