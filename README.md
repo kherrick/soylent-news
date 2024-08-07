@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-07, 07:02:00](https://soylentnews.org/politics/article.pl?sid=24/08/06/0744242&from=rss) - [The Nonsense of Q3 - Make Crypto Great Again](https://soylentnews.org/politics/article.pl?sid=24/08/06/0744242&from=rss)
 * [2024-08-07, 02:15:00](https://soylentnews.org/article.pl?sid=24/08/06/0332202&from=rss) - [Robot Performs First Ever Fully Autonomous Dental Surgery on Live Patient](https://soylentnews.org/article.pl?sid=24/08/06/0332202&from=rss)
 * [2024-08-06, 20:38:00](https://soylentnews.org/article.pl?sid=24/08/05/1759206&from=rss) - [Neuralink Successfully Implants its Chip Into a Second Patient's Brain](https://soylentnews.org/article.pl?sid=24/08/05/1759206&from=rss)
 * [2024-08-06, 15:52:00](https://soylentnews.org/article.pl?sid=24/08/04/164211&from=rss) - [Is It Possible to Recreate Bell Labs?](https://soylentnews.org/article.pl?sid=24/08/04/164211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-29, 03:21:00](https://soylentnews.org/article.pl?sid=24/07/27/192232&from=rss) - [New Transistor’s Superlative Properties Could Have Broad Electronics Applications](https://soylentnews.org/article.pl?sid=24/07/27/192232&from=rss)
 * [2024-07-28, 22:39:00](https://soylentnews.org/article.pl?sid=24/07/27/1859258&from=rss) - [There is No Fix for Intel's Crashing 13th and 14th Gen CPUs — Any Damage is Permanent](https://soylentnews.org/article.pl?sid=24/07/27/1859258&from=rss)
 * [2024-07-28, 17:51:00](https://soylentnews.org/article.pl?sid=24/07/27/1857217&from=rss) - [The Holy Bible, Gen Z translation](https://soylentnews.org/article.pl?sid=24/07/27/1857217&from=rss)
-* [2024-07-28, 13:06:00](https://soylentnews.org/article.pl?sid=24/07/27/1327217&from=rss) - [Taking a Radio Camping](https://soylentnews.org/article.pl?sid=24/07/27/1327217&from=rss)
 
 ## [Archives](archives/index.md)
 
