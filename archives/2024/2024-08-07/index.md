@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-07](index.md)
+
+* [2024-08-07, 02:15:00](https://soylentnews.org/article.pl?sid=24/08/06/0332202&from=rss) - [Robot Performs First Ever Fully Autonomous Dental Surgery on Live Patient](https://soylentnews.org/article.pl?sid=24/08/06/0332202&from=rss)
