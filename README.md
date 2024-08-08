@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-08, 21:13:00](https://soylentnews.org/article.pl?sid=24/08/07/1529220&from=rss) - [Billion-Dollar Bust As Cops Op Shutters Cryptonator Wallet](https://soylentnews.org/article.pl?sid=24/08/07/1529220&from=rss)
 * [2024-08-08, 16:28:00](https://soylentnews.org/article.pl?sid=24/08/08/1354257&from=rss) - [NASA Weighs SpaceX Rescue for Stranded Boeing Starliner Crew](https://soylentnews.org/article.pl?sid=24/08/08/1354257&from=rss)
 * [2024-08-08, 11:42:00](https://soylentnews.org/article.pl?sid=24/08/07/0313237&from=rss) - [Intel is Offering Extended Warranties for Crashing 13th- and 14th-Gen Desktop CPUs](https://soylentnews.org/article.pl?sid=24/08/07/0313237&from=rss)
 * [2024-08-08, 06:54:00](https://soylentnews.org/article.pl?sid=24/08/07/039218&from=rss) - [Teaching to the Test. Why IT Security Audits Aren’t Making Stuff Safer](https://soylentnews.org/article.pl?sid=24/08/07/039218&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-30, 17:09:00](https://soylentnews.org/article.pl?sid=24/07/30/0134231&from=rss) - [Data Centers Could Use as Much as a Third of Ireland's Energy Supply by 2026](https://soylentnews.org/article.pl?sid=24/07/30/0134231&from=rss)
 * [2024-07-30, 12:24:00](https://soylentnews.org/article.pl?sid=24/07/30/0126227&from=rss) - [11,000-Year-Old Housekeeping: New Study Reveals That Hunter-Gatherer Homes Were Well Organised](https://soylentnews.org/article.pl?sid=24/07/30/0126227&from=rss)
 * [2024-07-30, 07:41:00](https://soylentnews.org/article.pl?sid=24/07/29/1832232&from=rss) - [A Cosmic 'Fossil' Holding Some of the Oldest Stars in the Universe: Photo of the Week](https://soylentnews.org/article.pl?sid=24/07/29/1832232&from=rss)
-* [2024-07-30, 02:54:00](https://soylentnews.org/article.pl?sid=24/07/29/1829238&from=rss) - [ISPs Seeking Government Handouts Try To Avoid Offering Low-Cost Broadband](https://soylentnews.org/article.pl?sid=24/07/29/1829238&from=rss)
 
 ## [Archives](archives/index.md)
 
