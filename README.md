@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-08, 02:06:00](https://soylentnews.org/article.pl?sid=24/08/07/0258226&from=rss) - [It’s Official: Google Is A Monopoly](https://soylentnews.org/article.pl?sid=24/08/07/0258226&from=rss)
 * [2024-08-07, 21:18:00](https://soylentnews.org/article.pl?sid=24/08/07/0250212&from=rss) - [There Are 2,000-Plus Dead Rockets in Orbit](https://soylentnews.org/article.pl?sid=24/08/07/0250212&from=rss)
 * [2024-08-07, 16:34:00](https://soylentnews.org/article.pl?sid=24/08/06/0755204&from=rss) - [APNIC on Deep-space Networking](https://soylentnews.org/article.pl?sid=24/08/06/0755204&from=rss)
 * [2024-08-07, 11:51:00](https://soylentnews.org/article.pl?sid=24/08/06/0752255&from=rss) - [OpenAI Afraid to Release ChatGPT Detection Tool That Might Piss Off Cheaters](https://soylentnews.org/article.pl?sid=24/08/06/0752255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-29, 22:10:00](https://soylentnews.org/article.pl?sid=24/07/28/0451251&from=rss) - [Silicon Dioxide: The Secret To Smaller, Cooler Electronic Devices](https://soylentnews.org/article.pl?sid=24/07/28/0451251&from=rss)
 * [2024-07-29, 17:24:00](https://soylentnews.org/article.pl?sid=24/07/28/0446234&from=rss) - [Secure Boot is Completely Broken on 200+ Models From 5 Big Device Makers](https://soylentnews.org/article.pl?sid=24/07/28/0446234&from=rss)
 * [2024-07-29, 12:49:00](https://soylentnews.org/article.pl?sid=24/07/27/1912233&from=rss) - [Here's What a Sam Altman-Backed Basic Income Experiment Found](https://soylentnews.org/article.pl?sid=24/07/27/1912233&from=rss)
-* [2024-07-29, 08:04:00](https://soylentnews.org/article.pl?sid=24/07/27/197252&from=rss) - [NASA Mars Rover Captures Rock That Could Hold Fossilized Microbes](https://soylentnews.org/article.pl?sid=24/07/27/197252&from=rss)
 
 ## [Archives](archives/index.md)
 
