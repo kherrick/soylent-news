@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-08, 16:28:00](https://soylentnews.org/article.pl?sid=24/08/08/1354257&from=rss) - [NASA Weighs SpaceX Rescue for Stranded Boeing Starliner Crew](https://soylentnews.org/article.pl?sid=24/08/08/1354257&from=rss)
 * [2024-08-08, 11:42:00](https://soylentnews.org/article.pl?sid=24/08/07/0313237&from=rss) - [Intel is Offering Extended Warranties for Crashing 13th- and 14th-Gen Desktop CPUs](https://soylentnews.org/article.pl?sid=24/08/07/0313237&from=rss)
 * [2024-08-08, 06:54:00](https://soylentnews.org/article.pl?sid=24/08/07/039218&from=rss) - [Teaching to the Test. Why IT Security Audits Aren’t Making Stuff Safer](https://soylentnews.org/article.pl?sid=24/08/07/039218&from=rss)
 * [2024-08-08, 02:06:00](https://soylentnews.org/article.pl?sid=24/08/07/0258226&from=rss) - [It’s Official: Google Is A Monopoly](https://soylentnews.org/article.pl?sid=24/08/07/0258226&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-30, 12:24:00](https://soylentnews.org/article.pl?sid=24/07/30/0126227&from=rss) - [11,000-Year-Old Housekeeping: New Study Reveals That Hunter-Gatherer Homes Were Well Organised](https://soylentnews.org/article.pl?sid=24/07/30/0126227&from=rss)
 * [2024-07-30, 07:41:00](https://soylentnews.org/article.pl?sid=24/07/29/1832232&from=rss) - [A Cosmic 'Fossil' Holding Some of the Oldest Stars in the Universe: Photo of the Week](https://soylentnews.org/article.pl?sid=24/07/29/1832232&from=rss)
 * [2024-07-30, 02:54:00](https://soylentnews.org/article.pl?sid=24/07/29/1829238&from=rss) - [ISPs Seeking Government Handouts Try To Avoid Offering Low-Cost Broadband](https://soylentnews.org/article.pl?sid=24/07/29/1829238&from=rss)
-* [2024-07-29, 22:10:00](https://soylentnews.org/article.pl?sid=24/07/28/0451251&from=rss) - [Silicon Dioxide: The Secret To Smaller, Cooler Electronic Devices](https://soylentnews.org/article.pl?sid=24/07/28/0451251&from=rss)
 
 ## [Archives](archives/index.md)
 
