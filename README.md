@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-09, 11:28:00](https://soylentnews.org/article.pl?sid=24/08/07/1522238&from=rss) - [Common Blood Thinner Heparin Shows Promise as Cobra Bite Antidote](https://soylentnews.org/article.pl?sid=24/08/07/1522238&from=rss)
 * [2024-08-09, 06:42:00](https://soylentnews.org/article.pl?sid=24/08/07/175250&from=rss) - [Does Your Face Evolve to Match Your Name?](https://soylentnews.org/article.pl?sid=24/08/07/175250&from=rss)
 * [2024-08-09, 01:56:00](https://soylentnews.org/article.pl?sid=24/08/07/1656254&from=rss) - [A Completely Different Kind of Disc Brake: 1949 Chrysler](https://soylentnews.org/article.pl?sid=24/08/07/1656254&from=rss)
 * [2024-08-08, 21:13:00](https://soylentnews.org/article.pl?sid=24/08/07/1529220&from=rss) - [Billion-Dollar Bust As Cops Op Shutters Cryptonator Wallet](https://soylentnews.org/article.pl?sid=24/08/07/1529220&from=rss)
@@ -49,7 +50,6 @@
 * [2024-07-31, 07:24:00](https://soylentnews.org/article.pl?sid=24/07/30/025225&from=rss) - [FCC Votes to Make Phone Unlocking Easier](https://soylentnews.org/article.pl?sid=24/07/30/025225&from=rss)
 * [2024-07-31, 02:40:00](https://soylentnews.org/article.pl?sid=24/07/30/021248&from=rss) - [Researchers Use Logic Gate-Based Decision-Making to Construct Circuits That Control Genes](https://soylentnews.org/article.pl?sid=24/07/30/021248&from=rss)
 * [2024-07-30, 21:54:00](https://soylentnews.org/article.pl?sid=24/07/30/0150245&from=rss) - [Tesla Advises Against Using Wet Towels To Accelerate Supercharging](https://soylentnews.org/article.pl?sid=24/07/30/0150245&from=rss)
-* [2024-07-30, 17:09:00](https://soylentnews.org/article.pl?sid=24/07/30/0134231&from=rss) - [Data Centers Could Use as Much as a Third of Ireland's Energy Supply by 2026](https://soylentnews.org/article.pl?sid=24/07/30/0134231&from=rss)
 
 ## [Archives](archives/index.md)
 
