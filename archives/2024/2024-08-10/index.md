@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 06:58:00](https://soylentnews.org/article.pl?sid=24/08/09/013239&from=rss) - [Complete WordStar 7.0 Archive](https://soylentnews.org/article.pl?sid=24/08/09/013239&from=rss)
 * [2024-08-10, 01:47:00](https://soylentnews.org/article.pl?sid=24/08/08/2219245&from=rss) - [Raspberry Pi Release Pico 2 with New RP2350 MCU](https://soylentnews.org/article.pl?sid=24/08/08/2219245&from=rss)
