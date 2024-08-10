@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-10, 10:43:00](https://soylentnews.org/article.pl?sid=24/08/08/1417237&from=rss) - [Elon Sues Advertisers for Boycotting X](https://soylentnews.org/article.pl?sid=24/08/08/1417237&from=rss)
 * [2024-08-10, 06:58:00](https://soylentnews.org/article.pl?sid=24/08/09/013239&from=rss) - [Complete WordStar 7.0 Archive](https://soylentnews.org/article.pl?sid=24/08/09/013239&from=rss)
 * [2024-08-10, 01:47:00](https://soylentnews.org/article.pl?sid=24/08/08/2219245&from=rss) - [Raspberry Pi Release Pico 2 with New RP2350 MCU](https://soylentnews.org/article.pl?sid=24/08/08/2219245&from=rss)
 * [2024-08-09, 21:01:00](https://soylentnews.org/article.pl?sid=24/08/08/2116224&from=rss) - [Google and Meta Ignored their Own Rules in Secret Teen-Targeting Ad Deals](https://soylentnews.org/article.pl?sid=24/08/08/2116224&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-01, 07:13:00](https://soylentnews.org/article.pl?sid=24/07/31/128224&from=rss) - [Logitech Has an Idea for a “Forever Mouse” That Requires a Subscription](https://soylentnews.org/article.pl?sid=24/07/31/128224&from=rss)
 * [2024-08-01, 02:26:00](https://soylentnews.org/article.pl?sid=24/07/31/126252&from=rss) - [General Motors, Honda, and Hyundai Are Accused of Inappropriately Selling Customer Data](https://soylentnews.org/article.pl?sid=24/07/31/126252&from=rss)
 * [2024-07-31, 21:40:00](https://soylentnews.org/article.pl?sid=24/07/30/1337210&from=rss) - [Abusive AI Crawlers Run Up Large Bandwidth Bills for their Targets](https://soylentnews.org/article.pl?sid=24/07/30/1337210&from=rss)
-* [2024-07-31, 16:55:00](https://soylentnews.org/article.pl?sid=24/07/30/1136243&from=rss) - [Curiosity Ran Over a Rock – and Found Something Never Seen Before on Mars](https://soylentnews.org/article.pl?sid=24/07/30/1136243&from=rss)
 
 ## [Archives](archives/index.md)
 
