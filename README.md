@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-11, 16:10:00](https://soylentnews.org/article.pl?sid=24/08/10/1330224&from=rss) - [A New Report Finds Boeing's Rockets Are Built With an Unqualified Work Force](https://soylentnews.org/article.pl?sid=24/08/10/1330224&from=rss)
 * [2024-08-11, 11:23:00](https://soylentnews.org/article.pl?sid=24/08/10/1316259&from=rss) - [Experts Uncover Severe AWS Flaws Leading to RCE, Data Theft, and Full-Service Takeovers](https://soylentnews.org/article.pl?sid=24/08/10/1316259&from=rss)
 * [2024-08-11, 05:41:00](https://soylentnews.org/article.pl?sid=24/08/10/0143219&from=rss) - [The Cocainemaker, Reefer Madness, and the Vice-President of the Coca-Cola Company](https://soylentnews.org/article.pl?sid=24/08/10/0143219&from=rss)
 * [2024-08-11, 00:58:00](https://soylentnews.org/article.pl?sid=24/08/10/0140245&from=rss) - [US Stock Plunge: Could The AI Bubble Burst?](https://soylentnews.org/article.pl?sid=24/08/10/0140245&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-02, 11:44:00](https://soylentnews.org/article.pl?sid=24/08/01/1445246&from=rss) - [Coldwar Communications Centre - Images of the Past](https://soylentnews.org/article.pl?sid=24/08/01/1445246&from=rss)
 * [2024-08-02, 06:53:00](https://soylentnews.org/article.pl?sid=24/08/01/1432220&from=rss) - [Amazon Forced to Recall 400K Products That Could Kill, Electrocute People](https://soylentnews.org/article.pl?sid=24/08/01/1432220&from=rss)
 * [2024-08-02, 02:10:00](https://soylentnews.org/article.pl?sid=24/08/01/1430200&from=rss) - [Got an Electric Car? It Might be Obsolete Sooner Than You Think](https://soylentnews.org/article.pl?sid=24/08/01/1430200&from=rss)
-* [2024-08-01, 21:25:00](https://soylentnews.org/article.pl?sid=24/07/31/1344215&from=rss) - [EFF's Concerns About the UN Draft Cybercrime Convention](https://soylentnews.org/article.pl?sid=24/07/31/1344215&from=rss)
 
 ## [Archives](archives/index.md)
 
