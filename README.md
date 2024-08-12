@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-12, 01:31:00](https://soylentnews.org/article.pl?sid=24/08/10/1713259&from=rss) - [Scientists Warn The 'Truth Is Under Attack' And Provide Toolkit For Spotting It](https://soylentnews.org/article.pl?sid=24/08/10/1713259&from=rss)
 * [2024-08-11, 20:53:00](https://soylentnews.org/article.pl?sid=24/08/10/1336240&from=rss) - [Age-Gating Access To Online Porn Is Unconstitutional](https://soylentnews.org/article.pl?sid=24/08/10/1336240&from=rss)
 * [2024-08-11, 16:10:00](https://soylentnews.org/article.pl?sid=24/08/10/1330224&from=rss) - [A New Report Finds Boeing's Rockets Are Built With an Unqualified Work Force](https://soylentnews.org/article.pl?sid=24/08/10/1330224&from=rss)
 * [2024-08-11, 11:23:00](https://soylentnews.org/article.pl?sid=24/08/10/1316259&from=rss) - [Experts Uncover Severe AWS Flaws Leading to RCE, Data Theft, and Full-Service Takeovers](https://soylentnews.org/article.pl?sid=24/08/10/1316259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-02, 16:31:00](https://soylentnews.org/article.pl?sid=24/08/01/1456259&from=rss) - [EU's AI Act Enters Into Force – What This Means for Businesses](https://soylentnews.org/article.pl?sid=24/08/01/1456259&from=rss)
 * [2024-08-02, 12:54:00](https://soylentnews.org/meta/article.pl?sid=24/08/02/1253206&from=rss) - [SSL Certificate Renewal](https://soylentnews.org/meta/article.pl?sid=24/08/02/1253206&from=rss)
 * [2024-08-02, 11:44:00](https://soylentnews.org/article.pl?sid=24/08/01/1445246&from=rss) - [Coldwar Communications Centre - Images of the Past](https://soylentnews.org/article.pl?sid=24/08/01/1445246&from=rss)
-* [2024-08-02, 06:53:00](https://soylentnews.org/article.pl?sid=24/08/01/1432220&from=rss) - [Amazon Forced to Recall 400K Products That Could Kill, Electrocute People](https://soylentnews.org/article.pl?sid=24/08/01/1432220&from=rss)
 
 ## [Archives](archives/index.md)
 
