@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-13, 20:06:00](https://soylentnews.org/article.pl?sid=24/08/12/1458246&from=rss) - [Study Reveals How The Global North Drives Inequality In International Trade](https://soylentnews.org/article.pl?sid=24/08/12/1458246&from=rss)
 * [2024-08-13, 15:21:00](https://soylentnews.org/article.pl?sid=24/08/12/1451219&from=rss) - [The US Government Wants to Make It Easier for You to Click the ‘Unsubscribe’ Button](https://soylentnews.org/article.pl?sid=24/08/12/1451219&from=rss)
 * [2024-08-13, 10:37:00](https://soylentnews.org/article.pl?sid=24/08/12/1218209&from=rss) - [Raptor Lake Microcode Patch Arrives This Month ASUS, MSI Say](https://soylentnews.org/article.pl?sid=24/08/12/1218209&from=rss)
 * [2024-08-13, 05:50:00](https://soylentnews.org/article.pl?sid=24/08/12/1213201&from=rss) - [NASA Mission Concludes After Years Of Successful Asteroid Detections](https://soylentnews.org/article.pl?sid=24/08/12/1213201&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-04, 11:26:00](https://soylentnews.org/article.pl?sid=24/08/03/1638227&from=rss) - [How To Build Both National Security And Economic Prosperity](https://soylentnews.org/article.pl?sid=24/08/03/1638227&from=rss)
 * [2024-08-04, 06:38:00](https://soylentnews.org/article.pl?sid=24/08/03/1520255&from=rss) - [Pitch Tracking Data Helped Make Pitching Dangerous.  Perhaps It Can Help Solve the Problem, Too.](https://soylentnews.org/article.pl?sid=24/08/03/1520255&from=rss)
 * [2024-08-04, 01:55:00](https://soylentnews.org/article.pl?sid=24/08/03/0257254&from=rss) - [Ransomware Gangs Are Loving This Dumb But Deadly ESXi Flaw](https://soylentnews.org/article.pl?sid=24/08/03/0257254&from=rss)
-* [2024-08-03, 21:09:00](https://soylentnews.org/article.pl?sid=24/08/03/0250249&from=rss) - [The Political Preferences of LLMs](https://soylentnews.org/article.pl?sid=24/08/03/0250249&from=rss)
 
 ## [Archives](archives/index.md)
 
