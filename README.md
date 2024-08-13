@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-13, 05:50:00](https://soylentnews.org/article.pl?sid=24/08/12/1213201&from=rss) - [NASA Mission Concludes After Years Of Successful Asteroid Detections](https://soylentnews.org/article.pl?sid=24/08/12/1213201&from=rss)
 * [2024-08-13, 01:04:00](https://soylentnews.org/article.pl?sid=24/08/12/0026253&from=rss) - [OpenAI Warns Users Could Become Emotionally Hooked on Its Voice Mode](https://soylentnews.org/article.pl?sid=24/08/12/0026253&from=rss)
 * [2024-08-12, 20:22:00](https://soylentnews.org/politics/article.pl?sid=24/08/11/2339247&from=rss) - [Problems With Georgia's Voter Registration Portal](https://soylentnews.org/politics/article.pl?sid=24/08/11/2339247&from=rss)
 * [2024-08-12, 15:37:00](https://soylentnews.org/article.pl?sid=24/08/10/2121206&from=rss) - [Intel Failures: A Cautionary Tale Of Business vs Engineering](https://soylentnews.org/article.pl?sid=24/08/10/2121206&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-03, 21:09:00](https://soylentnews.org/article.pl?sid=24/08/03/0250249&from=rss) - [The Political Preferences of LLMs](https://soylentnews.org/article.pl?sid=24/08/03/0250249&from=rss)
 * [2024-08-03, 16:22:00](https://soylentnews.org/article.pl?sid=24/08/03/0248259&from=rss) - [Data Breach Costs Surged by 10Pc This Year, IBM Claims](https://soylentnews.org/article.pl?sid=24/08/03/0248259&from=rss)
 * [2024-08-03, 11:37:00](https://soylentnews.org/article.pl?sid=24/08/03/0232239&from=rss) - [Twisted Carbon Nanotubes Could Achieve Significantly Better Energy Storage Than Advanced Lithium-Ion](https://soylentnews.org/article.pl?sid=24/08/03/0232239&from=rss)
-* [2024-08-03, 06:49:00](https://soylentnews.org/article.pl?sid=24/08/02/2240249&from=rss) - [Blocking AI Bots From Microsoft, Others Has Been “Pain in the a**”: Reddit CEO](https://soylentnews.org/article.pl?sid=24/08/02/2240249&from=rss)
 
 ## [Archives](archives/index.md)
 
