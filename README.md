@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-14, 10:25:00](https://soylentnews.org/article.pl?sid=24/08/13/039257&from=rss) - [We’re Entering an AI Price-Fixing Dystopia](https://soylentnews.org/article.pl?sid=24/08/13/039257&from=rss)
 * [2024-08-14, 05:42:00](https://soylentnews.org/article.pl?sid=24/08/13/0256226&from=rss) - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://soylentnews.org/article.pl?sid=24/08/13/0256226&from=rss)
 * [2024-08-14, 00:54:00](https://soylentnews.org/article.pl?sid=24/08/13/0242214&from=rss) - [Resurrecting History: the Unexpected Revival of Supernova 1181](https://soylentnews.org/article.pl?sid=24/08/13/0242214&from=rss)
 * [2024-08-13, 20:06:00](https://soylentnews.org/article.pl?sid=24/08/12/1458246&from=rss) - [Study Reveals How The Global North Drives Inequality In International Trade](https://soylentnews.org/article.pl?sid=24/08/12/1458246&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-05, 01:31:00](https://soylentnews.org/article.pl?sid=24/08/04/1412229&from=rss) - [Moon Ark: Scientists Propose Saving Earth's Species With a Lunar Biorepository](https://soylentnews.org/article.pl?sid=24/08/04/1412229&from=rss)
 * [2024-08-04, 20:50:00](https://soylentnews.org/article.pl?sid=24/08/04/0051259&from=rss) - [NASA Streams 4K Video From Aircraft To Space (And Back) At Blistering Speeds Using Laser Tech](https://soylentnews.org/article.pl?sid=24/08/04/0051259&from=rss)
 * [2024-08-04, 16:11:00](https://soylentnews.org/article.pl?sid=24/08/03/1643202&from=rss) - [Insects Are Outsmarting Malaria Nets – and It Could Have Severe Consequences](https://soylentnews.org/article.pl?sid=24/08/03/1643202&from=rss)
-* [2024-08-04, 11:26:00](https://soylentnews.org/article.pl?sid=24/08/03/1638227&from=rss) - [How To Build Both National Security And Economic Prosperity](https://soylentnews.org/article.pl?sid=24/08/03/1638227&from=rss)
 
 ## [Archives](archives/index.md)
 
