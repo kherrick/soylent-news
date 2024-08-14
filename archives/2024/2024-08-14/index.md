@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 05:42:00](https://soylentnews.org/article.pl?sid=24/08/13/0256226&from=rss) - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://soylentnews.org/article.pl?sid=24/08/13/0256226&from=rss)
 * [2024-08-14, 00:54:00](https://soylentnews.org/article.pl?sid=24/08/13/0242214&from=rss) - [Resurrecting History: the Unexpected Revival of Supernova 1181](https://soylentnews.org/article.pl?sid=24/08/13/0242214&from=rss)
