@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-15, 10:08:00](https://soylentnews.org/article.pl?sid=24/08/13/1659228&from=rss) - [Crowdstrike Accepts Pwnie Award For Most Epic Fail In Person](https://soylentnews.org/article.pl?sid=24/08/13/1659228&from=rss)
 * [2024-08-15, 05:22:00](https://soylentnews.org/article.pl?sid=24/08/13/1654241&from=rss) - [2.9 Billion Hit in One of the Largest Data Breaches Ever](https://soylentnews.org/article.pl?sid=24/08/13/1654241&from=rss)
 * [2024-08-15, 03:00:00](https://soylentnews.org/article.pl?sid=24/08/15/0133204&from=rss) - [FreeBSD Releases Urgent Patch for High-Severity OpenSSH Vulnerability](https://soylentnews.org/article.pl?sid=24/08/15/0133204&from=rss)
 * [2024-08-15, 00:40:00](https://soylentnews.org/article.pl?sid=24/08/13/1636247&from=rss) - [Achieving Software Freedom in the Age of Platform Decay](https://soylentnews.org/article.pl?sid=24/08/13/1636247&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-06, 06:03:00](https://soylentnews.org/article.pl?sid=24/08/04/010258&from=rss) - [Ice 0: Scientists Discover Unusual New Form Of Ice](https://soylentnews.org/article.pl?sid=24/08/04/010258&from=rss)
 * [2024-08-06, 01:18:00](https://soylentnews.org/article.pl?sid=24/08/04/0133220&from=rss) - [Why Methane Might Be The Key To Beating Climate Change](https://soylentnews.org/article.pl?sid=24/08/04/0133220&from=rss)
 * [2024-08-05, 20:34:00](https://soylentnews.org/article.pl?sid=24/08/04/1419247&from=rss) - [Reverse Engineering the 59-Pound Printer Onboard the Space Shuttle](https://soylentnews.org/article.pl?sid=24/08/04/1419247&from=rss)
-* [2024-08-05, 15:44:00](https://soylentnews.org/article.pl?sid=24/08/04/0140255&from=rss) - [What Makes High Temperature Superconductivity Possible? Researchers Get Closer To A Unified Theory](https://soylentnews.org/article.pl?sid=24/08/04/0140255&from=rss)
 
 ## [Archives](archives/index.md)
 
