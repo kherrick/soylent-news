@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-15, 03:00:00](https://soylentnews.org/article.pl?sid=24/08/15/0133204&from=rss) - [FreeBSD Releases Urgent Patch for High-Severity OpenSSH Vulnerability](https://soylentnews.org/article.pl?sid=24/08/15/0133204&from=rss)
 * [2024-08-15, 00:40:00](https://soylentnews.org/article.pl?sid=24/08/13/1636247&from=rss) - [Achieving Software Freedom in the Age of Platform Decay](https://soylentnews.org/article.pl?sid=24/08/13/1636247&from=rss)
 * [2024-08-14, 19:54:00](https://soylentnews.org/article.pl?sid=24/08/13/1629217&from=rss) - [NASA Is About To Make Its Most Important Safety Decision In Nearly A Generation ](https://soylentnews.org/article.pl?sid=24/08/13/1629217&from=rss)
 * [2024-08-14, 15:12:00](https://soylentnews.org/article.pl?sid=24/08/13/162234&from=rss) - [MDMA for PTSD: Three Studies Retracted on Heels of FDA Rejection](https://soylentnews.org/article.pl?sid=24/08/13/162234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-05, 20:34:00](https://soylentnews.org/article.pl?sid=24/08/04/1419247&from=rss) - [Reverse Engineering the 59-Pound Printer Onboard the Space Shuttle](https://soylentnews.org/article.pl?sid=24/08/04/1419247&from=rss)
 * [2024-08-05, 15:44:00](https://soylentnews.org/article.pl?sid=24/08/04/0140255&from=rss) - [What Makes High Temperature Superconductivity Possible? Researchers Get Closer To A Unified Theory](https://soylentnews.org/article.pl?sid=24/08/04/0140255&from=rss)
 * [2024-08-05, 11:03:00](https://soylentnews.org/article.pl?sid=24/08/04/1416228&from=rss) - [AI Images Exposed: Researchers Reveal Simple Method to Detect Deepfakes](https://soylentnews.org/article.pl?sid=24/08/04/1416228&from=rss)
-* [2024-08-05, 06:11:00](https://soylentnews.org/article.pl?sid=24/08/04/0119253&from=rss) - [Predicting Solar Storms Before They Leave The Sun](https://soylentnews.org/article.pl?sid=24/08/04/0119253&from=rss)
 
 ## [Archives](archives/index.md)
 
