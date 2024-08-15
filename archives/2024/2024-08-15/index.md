@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 15:54:00](https://soylentnews.org/article.pl?sid=24/08/14/0642225&from=rss) - [San Francisco Neighbors Say Repeated Waymo Honking is Keeping Them Up at Night](https://soylentnews.org/article.pl?sid=24/08/14/0642225&from=rss)
 * [2024-08-15, 10:08:00](https://soylentnews.org/article.pl?sid=24/08/13/1659228&from=rss) - [Crowdstrike Accepts Pwnie Award For Most Epic Fail In Person](https://soylentnews.org/article.pl?sid=24/08/13/1659228&from=rss)
 * [2024-08-15, 05:22:00](https://soylentnews.org/article.pl?sid=24/08/13/1654241&from=rss) - [2.9 Billion Hit in One of the Largest Data Breaches Ever](https://soylentnews.org/article.pl?sid=24/08/13/1654241&from=rss)
 * [2024-08-15, 03:00:00](https://soylentnews.org/article.pl?sid=24/08/15/0133204&from=rss) - [FreeBSD Releases Urgent Patch for High-Severity OpenSSH Vulnerability](https://soylentnews.org/article.pl?sid=24/08/15/0133204&from=rss)
