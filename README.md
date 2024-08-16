@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-16, 15:36:00](https://soylentnews.org/article.pl?sid=24/08/15/1738205&from=rss) - [Disney Seeking Dismissal of Death Lawsuit Because Victim Was Disney+ Subscriber](https://soylentnews.org/article.pl?sid=24/08/15/1738205&from=rss)
 * [2024-08-16, 10:54:00](https://soylentnews.org/article.pl?sid=24/08/15/1732241&from=rss) - [Cisco is Cutting Over 4,000 Jobs for the Second Time This Year](https://soylentnews.org/article.pl?sid=24/08/15/1732241&from=rss)
 * [2024-08-16, 06:11:00](https://soylentnews.org/article.pl?sid=24/08/15/0214258&from=rss) - [Study Finds 94% of Business Spreadsheets Have Critical Errors](https://soylentnews.org/article.pl?sid=24/08/15/0214258&from=rss)
 * [2024-08-16, 01:24:00](https://soylentnews.org/article.pl?sid=24/08/15/0150222&from=rss) - [Wyoming Reporter Caught Using Artificial Intelligence to Create Fake Quotes and Stories](https://soylentnews.org/article.pl?sid=24/08/15/0150222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-07, 11:51:00](https://soylentnews.org/article.pl?sid=24/08/06/0752255&from=rss) - [OpenAI Afraid to Release ChatGPT Detection Tool That Might Piss Off Cheaters](https://soylentnews.org/article.pl?sid=24/08/06/0752255&from=rss)
 * [2024-08-07, 07:02:00](https://soylentnews.org/politics/article.pl?sid=24/08/06/0744242&from=rss) - [The Nonsense of Q3 - Make Crypto Great Again](https://soylentnews.org/politics/article.pl?sid=24/08/06/0744242&from=rss)
 * [2024-08-07, 02:15:00](https://soylentnews.org/article.pl?sid=24/08/06/0332202&from=rss) - [Robot Performs First Ever Fully Autonomous Dental Surgery on Live Patient](https://soylentnews.org/article.pl?sid=24/08/06/0332202&from=rss)
-* [2024-08-06, 20:38:00](https://soylentnews.org/article.pl?sid=24/08/05/1759206&from=rss) - [Neuralink Successfully Implants its Chip Into a Second Patient's Brain](https://soylentnews.org/article.pl?sid=24/08/05/1759206&from=rss)
 
 ## [Archives](archives/index.md)
 
