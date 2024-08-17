@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-17, 10:34:00](https://soylentnews.org/article.pl?sid=24/08/15/1750231&from=rss) - [Why Not Knowing What to Do Isn't Always a Bad Thing for Leaders](https://soylentnews.org/article.pl?sid=24/08/15/1750231&from=rss)
 * [2024-08-17, 05:48:00](https://soylentnews.org/article.pl?sid=24/08/15/1749255&from=rss) - [AI Transforms Toxic Antibiotic Into Life-Saving Medicine](https://soylentnews.org/article.pl?sid=24/08/15/1749255&from=rss)
 * [2024-08-17, 01:02:00](https://soylentnews.org/article.pl?sid=24/08/15/1743200&from=rss) - [Reviewing the Bell Riots in Star Trek](https://soylentnews.org/article.pl?sid=24/08/15/1743200&from=rss)
 * [2024-08-16, 20:19:00](https://soylentnews.org/article.pl?sid=24/08/15/1741224&from=rss) - [So the Department of Energy Emailed Me](https://soylentnews.org/article.pl?sid=24/08/15/1741224&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-08, 06:54:00](https://soylentnews.org/article.pl?sid=24/08/07/039218&from=rss) - [Teaching to the Test. Why IT Security Audits Aren’t Making Stuff Safer](https://soylentnews.org/article.pl?sid=24/08/07/039218&from=rss)
 * [2024-08-08, 02:06:00](https://soylentnews.org/article.pl?sid=24/08/07/0258226&from=rss) - [It’s Official: Google Is A Monopoly](https://soylentnews.org/article.pl?sid=24/08/07/0258226&from=rss)
 * [2024-08-07, 21:18:00](https://soylentnews.org/article.pl?sid=24/08/07/0250212&from=rss) - [There Are 2,000-Plus Dead Rockets in Orbit](https://soylentnews.org/article.pl?sid=24/08/07/0250212&from=rss)
-* [2024-08-07, 16:34:00](https://soylentnews.org/article.pl?sid=24/08/06/0755204&from=rss) - [APNIC on Deep-space Networking](https://soylentnews.org/article.pl?sid=24/08/06/0755204&from=rss)
 
 ## [Archives](archives/index.md)
 
