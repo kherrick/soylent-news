@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-17, 01:02:00](https://soylentnews.org/article.pl?sid=24/08/15/1743200&from=rss) - [Reviewing the Bell Riots in Star Trek](https://soylentnews.org/article.pl?sid=24/08/15/1743200&from=rss)
 * [2024-08-16, 20:19:00](https://soylentnews.org/article.pl?sid=24/08/15/1741224&from=rss) - [So the Department of Energy Emailed Me](https://soylentnews.org/article.pl?sid=24/08/15/1741224&from=rss)
 * [2024-08-16, 15:36:00](https://soylentnews.org/article.pl?sid=24/08/15/1738205&from=rss) - [Disney Seeking Dismissal of Death Lawsuit Because Victim Was Disney+ Subscriber](https://soylentnews.org/article.pl?sid=24/08/15/1738205&from=rss)
 * [2024-08-16, 10:54:00](https://soylentnews.org/article.pl?sid=24/08/15/1732241&from=rss) - [Cisco is Cutting Over 4,000 Jobs for the Second Time This Year](https://soylentnews.org/article.pl?sid=24/08/15/1732241&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-07, 21:18:00](https://soylentnews.org/article.pl?sid=24/08/07/0250212&from=rss) - [There Are 2,000-Plus Dead Rockets in Orbit](https://soylentnews.org/article.pl?sid=24/08/07/0250212&from=rss)
 * [2024-08-07, 16:34:00](https://soylentnews.org/article.pl?sid=24/08/06/0755204&from=rss) - [APNIC on Deep-space Networking](https://soylentnews.org/article.pl?sid=24/08/06/0755204&from=rss)
 * [2024-08-07, 11:51:00](https://soylentnews.org/article.pl?sid=24/08/06/0752255&from=rss) - [OpenAI Afraid to Release ChatGPT Detection Tool That Might Piss Off Cheaters](https://soylentnews.org/article.pl?sid=24/08/06/0752255&from=rss)
-* [2024-08-07, 07:02:00](https://soylentnews.org/politics/article.pl?sid=24/08/06/0744242&from=rss) - [The Nonsense of Q3 - Make Crypto Great Again](https://soylentnews.org/politics/article.pl?sid=24/08/06/0744242&from=rss)
 
 ## [Archives](archives/index.md)
 
