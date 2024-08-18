@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-18, 14:54:00](https://soylentnews.org/article.pl?sid=24/08/17/1555210&from=rss) - [Deep-Live-Cam Goes Viral, Allowing Anyone to Become a Digital Doppelganger](https://soylentnews.org/article.pl?sid=24/08/17/1555210&from=rss)
 * [2024-08-18, 10:10:00](https://soylentnews.org/article.pl?sid=24/08/17/1551256&from=rss) - [This New Fully Encrypted Messenger App Is Serious About Privacy](https://soylentnews.org/article.pl?sid=24/08/17/1551256&from=rss)
 * [2024-08-18, 05:26:00](https://soylentnews.org/article.pl?sid=24/08/17/1547223&from=rss) - [Ubuntu Will Use the Latest Version of the Linux Kernel for New Releases Moving Forward](https://soylentnews.org/article.pl?sid=24/08/17/1547223&from=rss)
 * [2024-08-18, 00:50:00](https://soylentnews.org/article.pl?sid=24/08/17/1543230&from=rss) - [Scientists Discover Plastic-Eating Fungi That Could Help Clean Up World’s Oceans](https://soylentnews.org/article.pl?sid=24/08/17/1543230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-09, 11:28:00](https://soylentnews.org/article.pl?sid=24/08/07/1522238&from=rss) - [Common Blood Thinner Heparin Shows Promise as Cobra Bite Antidote](https://soylentnews.org/article.pl?sid=24/08/07/1522238&from=rss)
 * [2024-08-09, 06:42:00](https://soylentnews.org/article.pl?sid=24/08/07/175250&from=rss) - [Does Your Face Evolve to Match Your Name?](https://soylentnews.org/article.pl?sid=24/08/07/175250&from=rss)
 * [2024-08-09, 01:56:00](https://soylentnews.org/article.pl?sid=24/08/07/1656254&from=rss) - [A Completely Different Kind of Disc Brake: 1949 Chrysler](https://soylentnews.org/article.pl?sid=24/08/07/1656254&from=rss)
-* [2024-08-08, 21:13:00](https://soylentnews.org/article.pl?sid=24/08/07/1529220&from=rss) - [Billion-Dollar Bust As Cops Op Shutters Cryptonator Wallet](https://soylentnews.org/article.pl?sid=24/08/07/1529220&from=rss)
 
 ## [Archives](archives/index.md)
 
