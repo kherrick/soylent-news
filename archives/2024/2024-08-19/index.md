@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-19](index.md)
+
+* [2024-08-19, 00:27:00](https://soylentnews.org/article.pl?sid=24/08/17/198229&from=rss) - [Reverse Engineering and Patent Protection: A Cautionary Tale](https://soylentnews.org/article.pl?sid=24/08/17/198229&from=rss)

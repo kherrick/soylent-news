@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-19, 00:27:00](https://soylentnews.org/article.pl?sid=24/08/17/198229&from=rss) - [Reverse Engineering and Patent Protection: A Cautionary Tale](https://soylentnews.org/article.pl?sid=24/08/17/198229&from=rss)
 * [2024-08-18, 19:42:00](https://soylentnews.org/article.pl?sid=24/08/17/196201&from=rss) - [Mercedes to test L4 AVs in China](https://soylentnews.org/article.pl?sid=24/08/17/196201&from=rss)
 * [2024-08-18, 14:54:00](https://soylentnews.org/article.pl?sid=24/08/17/1555210&from=rss) - [Deep-Live-Cam Goes Viral, Allowing Anyone to Become a Digital Doppelganger](https://soylentnews.org/article.pl?sid=24/08/17/1555210&from=rss)
 * [2024-08-18, 10:10:00](https://soylentnews.org/article.pl?sid=24/08/17/1551256&from=rss) - [This New Fully Encrypted Messenger App Is Serious About Privacy](https://soylentnews.org/article.pl?sid=24/08/17/1551256&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-09, 21:01:00](https://soylentnews.org/article.pl?sid=24/08/08/2116224&from=rss) - [Google and Meta Ignored their Own Rules in Secret Teen-Targeting Ad Deals](https://soylentnews.org/article.pl?sid=24/08/08/2116224&from=rss)
 * [2024-08-09, 16:14:00](https://soylentnews.org/article.pl?sid=24/08/09/1335251&from=rss) - [Perseid Peak This Weekend: Witness The Meteor Shower Spectacle Illuminating The Night Sky](https://soylentnews.org/article.pl?sid=24/08/09/1335251&from=rss)
 * [2024-08-09, 11:28:00](https://soylentnews.org/article.pl?sid=24/08/07/1522238&from=rss) - [Common Blood Thinner Heparin Shows Promise as Cobra Bite Antidote](https://soylentnews.org/article.pl?sid=24/08/07/1522238&from=rss)
-* [2024-08-09, 06:42:00](https://soylentnews.org/article.pl?sid=24/08/07/175250&from=rss) - [Does Your Face Evolve to Match Your Name?](https://soylentnews.org/article.pl?sid=24/08/07/175250&from=rss)
 
 ## [Archives](archives/index.md)
 
