@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-20, 14:25:00](https://soylentnews.org/article.pl?sid=24/08/19/0330246&from=rss) - [This Researcher Wants to Replace Your Brain, Little by Little](https://soylentnews.org/article.pl?sid=24/08/19/0330246&from=rss)
 * [2024-08-20, 09:40:00](https://soylentnews.org/article.pl?sid=24/08/19/0316222&from=rss) - [Horses are a Lot Smarter Than We Previously Thought, New Research Shows](https://soylentnews.org/article.pl?sid=24/08/19/0316222&from=rss)
 * [2024-08-20, 04:52:00](https://soylentnews.org/article.pl?sid=24/08/19/0259210&from=rss) - [Google Chrome Is Killing The Ublock Origin Ad Blocker Extension ](https://soylentnews.org/article.pl?sid=24/08/19/0259210&from=rss)
 * [2024-08-20, 00:07:00](https://soylentnews.org/article.pl?sid=24/08/18/1642232&from=rss) - [Space Beer May Taste Better Than Earth Beer](https://soylentnews.org/article.pl?sid=24/08/18/1642232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-11, 11:23:00](https://soylentnews.org/article.pl?sid=24/08/10/1316259&from=rss) - [Experts Uncover Severe AWS Flaws Leading to RCE, Data Theft, and Full-Service Takeovers](https://soylentnews.org/article.pl?sid=24/08/10/1316259&from=rss)
 * [2024-08-11, 05:41:00](https://soylentnews.org/article.pl?sid=24/08/10/0143219&from=rss) - [The Cocainemaker, Reefer Madness, and the Vice-President of the Coca-Cola Company](https://soylentnews.org/article.pl?sid=24/08/10/0143219&from=rss)
 * [2024-08-11, 00:58:00](https://soylentnews.org/article.pl?sid=24/08/10/0140245&from=rss) - [US Stock Plunge: Could The AI Bubble Burst?](https://soylentnews.org/article.pl?sid=24/08/10/0140245&from=rss)
-* [2024-08-10, 20:17:00](https://soylentnews.org/article.pl?sid=24/08/10/0134205&from=rss) - [South Korean EV Battery Makers Reporting Big Losses as EV Demand Slows](https://soylentnews.org/article.pl?sid=24/08/10/0134205&from=rss)
 
 ## [Archives](archives/index.md)
 
