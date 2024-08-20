@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-20, 00:07:00](https://soylentnews.org/article.pl?sid=24/08/18/1642232&from=rss) - [Space Beer May Taste Better Than Earth Beer](https://soylentnews.org/article.pl?sid=24/08/18/1642232&from=rss)
 * [2024-08-19, 19:27:00](https://soylentnews.org/article.pl?sid=24/08/18/1639232&from=rss) - [Scientists Observe First Neutrinos With Prototype Detector](https://soylentnews.org/article.pl?sid=24/08/18/1639232&from=rss)
 * [2024-08-19, 14:42:00](https://soylentnews.org/article.pl?sid=24/08/18/1633241&from=rss) - [The Apple IIGS Megahertz Myth](https://soylentnews.org/article.pl?sid=24/08/18/1633241&from=rss)
 * [2024-08-19, 10:01:00](https://soylentnews.org/article.pl?sid=24/08/18/1626247&from=rss) - [Online Publishers Face a Dilemma: Allow AI Scraping From Google or Lose Search Visibility](https://soylentnews.org/article.pl?sid=24/08/18/1626247&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-10, 20:17:00](https://soylentnews.org/article.pl?sid=24/08/10/0134205&from=rss) - [South Korean EV Battery Makers Reporting Big Losses as EV Demand Slows](https://soylentnews.org/article.pl?sid=24/08/10/0134205&from=rss)
 * [2024-08-10, 15:30:00](https://soylentnews.org/article.pl?sid=24/08/10/0122249&from=rss) - [New Techniques in 3D Printing Using ... Knitting?](https://soylentnews.org/article.pl?sid=24/08/10/0122249&from=rss)
 * [2024-08-10, 10:43:00](https://soylentnews.org/article.pl?sid=24/08/08/1417237&from=rss) - [Elon Sues Advertisers for Boycotting X](https://soylentnews.org/article.pl?sid=24/08/08/1417237&from=rss)
-* [2024-08-10, 06:58:00](https://soylentnews.org/article.pl?sid=24/08/09/013239&from=rss) - [Complete WordStar 7.0 Archive](https://soylentnews.org/article.pl?sid=24/08/09/013239&from=rss)
 
 ## [Archives](archives/index.md)
 
