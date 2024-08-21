@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-21, 14:22:00](https://soylentnews.org/article.pl?sid=24/08/20/184205&from=rss) - [The AI Isn't Scraping Data, Just Correlations.](https://soylentnews.org/article.pl?sid=24/08/20/184205&from=rss)
 * [2024-08-21, 09:31:00](https://soylentnews.org/article.pl?sid=24/08/20/1758251&from=rss) - [That Book is Poison: Even More Victorian Covers Found to Contain Toxic Dyes](https://soylentnews.org/article.pl?sid=24/08/20/1758251&from=rss)
 * [2024-08-21, 04:46:00](https://soylentnews.org/article.pl?sid=24/08/19/2134246&from=rss) - [Even Lawyers Don’t Like Legalese](https://soylentnews.org/article.pl?sid=24/08/19/2134246&from=rss)
 * [2024-08-21, 00:01:00](https://soylentnews.org/article.pl?sid=24/08/19/1142259&from=rss) - [It's Not Worth Paying to be Removed From People-Finder Sites, Study Says](https://soylentnews.org/article.pl?sid=24/08/19/1142259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-12, 10:55:00](https://soylentnews.org/article.pl?sid=24/08/10/1746203&from=rss) - [Revolutionary GPS Method Reveals Earth’s Crust Movements Post-Earthquake](https://soylentnews.org/article.pl?sid=24/08/10/1746203&from=rss)
 * [2024-08-12, 06:10:00](https://soylentnews.org/article.pl?sid=24/08/10/1729249&from=rss) - [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://soylentnews.org/article.pl?sid=24/08/10/1729249&from=rss)
 * [2024-08-12, 01:31:00](https://soylentnews.org/article.pl?sid=24/08/10/1713259&from=rss) - [Scientists Warn The 'Truth Is Under Attack' And Provide Toolkit For Spotting It](https://soylentnews.org/article.pl?sid=24/08/10/1713259&from=rss)
-* [2024-08-11, 20:53:00](https://soylentnews.org/article.pl?sid=24/08/10/1336240&from=rss) - [Age-Gating Access To Online Porn Is Unconstitutional](https://soylentnews.org/article.pl?sid=24/08/10/1336240&from=rss)
 
 ## [Archives](archives/index.md)
 
