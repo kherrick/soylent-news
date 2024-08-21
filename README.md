@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-21, 00:01:00](https://soylentnews.org/article.pl?sid=24/08/19/1142259&from=rss) - [It's Not Worth Paying to be Removed From People-Finder Sites, Study Says](https://soylentnews.org/article.pl?sid=24/08/19/1142259&from=rss)
 * [2024-08-20, 19:17:00](https://soylentnews.org/article.pl?sid=24/08/19/0340241&from=rss) - [Redbox App Axed, Dashing People's Hopes of Keeping Purchased Content](https://soylentnews.org/article.pl?sid=24/08/19/0340241&from=rss)
 * [2024-08-20, 14:25:00](https://soylentnews.org/article.pl?sid=24/08/19/0330246&from=rss) - [This Researcher Wants to Replace Your Brain, Little by Little](https://soylentnews.org/article.pl?sid=24/08/19/0330246&from=rss)
 * [2024-08-20, 09:40:00](https://soylentnews.org/article.pl?sid=24/08/19/0316222&from=rss) - [Horses are a Lot Smarter Than We Previously Thought, New Research Shows](https://soylentnews.org/article.pl?sid=24/08/19/0316222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-11, 20:53:00](https://soylentnews.org/article.pl?sid=24/08/10/1336240&from=rss) - [Age-Gating Access To Online Porn Is Unconstitutional](https://soylentnews.org/article.pl?sid=24/08/10/1336240&from=rss)
 * [2024-08-11, 16:10:00](https://soylentnews.org/article.pl?sid=24/08/10/1330224&from=rss) - [A New Report Finds Boeing's Rockets Are Built With an Unqualified Work Force](https://soylentnews.org/article.pl?sid=24/08/10/1330224&from=rss)
 * [2024-08-11, 11:23:00](https://soylentnews.org/article.pl?sid=24/08/10/1316259&from=rss) - [Experts Uncover Severe AWS Flaws Leading to RCE, Data Theft, and Full-Service Takeovers](https://soylentnews.org/article.pl?sid=24/08/10/1316259&from=rss)
-* [2024-08-11, 05:41:00](https://soylentnews.org/article.pl?sid=24/08/10/0143219&from=rss) - [The Cocainemaker, Reefer Madness, and the Vice-President of the Coca-Cola Company](https://soylentnews.org/article.pl?sid=24/08/10/0143219&from=rss)
 
 ## [Archives](archives/index.md)
 
