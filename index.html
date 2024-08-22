@@ -145,6 +145,108 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/08/22/1818251">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/08/22/1818251&amp;from=rss"
+              >Microsoft Security Update Breaks Dual-Boot Linux Systems Using
+              Secure Boot</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-22 @ 18:28:00</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/08/22/1818251"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Arthur T Knackerbracket has processed the
+                <a
+                  href="https://www.techspot.com/news/104376-microsoft-security-update-breaks-dual-boot-linux-systems.html"
+                  >following story</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Microsoft's Patch Tuesday for August 2024 includes a fix for
+                    a security vulnerability in the Grub2 boot loader, which is
+                    used by many Linux operating systems. Tracked as
+                    <a
+                      href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-2601"
+                      >CVE-2022-2601</a
+                    >, this flaw, discovered in 2022, could lead to an
+                    out-of-bounds write with a potential bypass of
+                    <a href="https://www.techspot.com/tag/secure+boot/"
+                      >Secure Boot</a
+                    >
+                    protection.
+                  </p>
+                  <p>
+                    The Grub2 boot loader provides compatibility with the Secure
+                    Boot technology on PCs running Linux systems. After
+                    installing the new patch, Windows applies a Secure Boot
+                    Advanced Targeting (SBAT) policy to block vulnerable Linux
+                    boot loaders that could compromise OS security.
+                  </p>
+                  <p>
+                    Microsoft explained that the SBAT value would not be applied
+                    to dual-boot systems with both Windows and Linux on the boot
+                    drive, so the patch was expected not to impact these
+                    systems. However, many users with dual-boot configurations
+                    have reported that the CVE-2022-2601 update still rendered
+                    booting into a Linux OS impossible.
+                  </p>
+                  <p>
+                    The issue appears to affect various Linux distributions,
+                    including popular ones such as Ubuntu, Linux Mint, Zorin OS,
+                    Puppy Linux, and others. Affected systems typically display
+                    a "Security Policy Violation" error at boot, indicating a
+                    failed check on "shim SBAT data." Boot problems have been
+                    reported on both dual-boot systems and on Windows devices
+                    running Linux from an
+                    <a href="https://github.com/ventoy/Ventoy/issues/2947"
+                      >ISO image</a
+                    >, USB drive, or optical media.
+                  </p>
+                  <p>
+                    Microsoft's bulletin noted that only older Linux distros'
+                    ISOs were expected to experience boot issues following the
+                    CVE-2022-2601 patch. However, users with systems released in
+                    2024 also seem to be affected. The only reliable way to
+                    restore a bootable state appears to be disabling Secure Boot
+                    entirely. Alternatively, users can
+                    <a
+                      href="https://discourse.ubuntu.com/t/sbat-revocations-boot-process/34996"
+                      >follow the steps</a
+                    >
+                    to remove the SBAT policy introduced by Microsoft this past
+                    week.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63584"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/08/22/0849249">
           <h3>
             <a
@@ -158,7 +260,7 @@
             <h4>
               <span>2024-08-22 @ 14:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">379</span></span
+                >Points: <span class="points">408</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/22/0849249"
@@ -270,7 +372,7 @@
             <h4>
               <span>2024-08-22 @ 09:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">423</span></span
+                >Points: <span class="points">432</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/21/236209"
@@ -357,7 +459,7 @@
             <h4>
               <span>2024-08-22 @ 04:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">660</span></span
+                >Points: <span class="points">671</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/21/2250253"
@@ -448,7 +550,7 @@
             <h4>
               <span>2024-08-21 @ 23:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">864</span></span
+                >Points: <span class="points">875</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/20/1813234"
@@ -566,7 +668,7 @@
             <h4>
               <span>2024-08-21 @ 19:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">822</span></span
+                >Points: <span class="points">830</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/20/188246"
@@ -673,7 +775,7 @@
             <h4>
               <span>2024-08-21 @ 14:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">1170</span></span
+                >Points: <span class="points">1179</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/20/184205"
@@ -773,7 +875,7 @@
             <h4>
               <span>2024-08-21 @ 09:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">1020</span></span
+                >Points: <span class="points">1028</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/20/1758251"
@@ -902,7 +1004,7 @@
             <h4>
               <span>2024-08-21 @ 04:46:00</span
               ><span class="points-container"
-                >Points: <span class="points">1368</span></span
+                >Points: <span class="points">1378</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/19/2134246"
@@ -1014,7 +1116,7 @@
             <h4>
               <span>2024-08-21 @ 00:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">1334</span></span
+                >Points: <span class="points">1343</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/19/1142259"
@@ -1092,7 +1194,7 @@
             <h4>
               <span>2024-08-20 @ 19:17:00</span
               ><span class="points-container"
-                >Points: <span class="points">1460</span></span
+                >Points: <span class="points">1468</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/19/0340241"
@@ -1173,7 +1275,7 @@
             <h4>
               <span>2024-08-20 @ 14:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">1976</span></span
+                >Points: <span class="points">1985</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/19/0330246"
@@ -1242,7 +1344,7 @@
             <h4>
               <span>2024-08-20 @ 09:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">1613</span></span
+                >Points: <span class="points">1621</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/19/0316222"
@@ -1309,7 +1411,7 @@
             <h4>
               <span>2024-08-20 @ 04:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">2459</span></span
+                >Points: <span class="points">2469</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/19/0259210"
@@ -1410,7 +1512,7 @@
             <h4>
               <span>2024-08-20 @ 00:07:00</span
               ><span class="points-container"
-                >Points: <span class="points">1776</span></span
+                >Points: <span class="points">1785</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/18/1642232"
@@ -1481,7 +1583,7 @@
             <h4>
               <span>2024-08-19 @ 19:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">1655</span></span
+                >Points: <span class="points">1664</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/18/1639232"
@@ -1597,7 +1699,7 @@
             <h4>
               <span>2024-08-19 @ 14:42:00</span
               ><span class="points-container"
-                >Points: <span class="points">2204</span></span
+                >Points: <span class="points">2213</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/18/1633241"
@@ -1682,7 +1784,7 @@
             <h4>
               <span>2024-08-19 @ 10:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">2294</span></span
+                >Points: <span class="points">2303</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/18/1626247"
@@ -1811,7 +1913,7 @@
             <h4>
               <span>2024-08-19 @ 05:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">1857</span></span
+                >Points: <span class="points">1866</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/18/1318225"
@@ -1891,7 +1993,7 @@
             <h4>
               <span>2024-08-19 @ 00:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">2458</span></span
+                >Points: <span class="points">2467</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/17/198229"
@@ -1978,7 +2080,7 @@
             <h4>
               <span>2024-08-18 @ 19:42:00</span
               ><span class="points-container"
-                >Points: <span class="points">2098</span></span
+                >Points: <span class="points">2102</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/17/196201"
@@ -2164,7 +2266,7 @@
             <h4>
               <span>2024-08-18 @ 10:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">2956</span></span
+                >Points: <span class="points">2957</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/17/1551256"
@@ -2597,7 +2699,7 @@
             <h4>
               <span>2024-08-17 @ 15:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">2567</span></span
+                >Points: <span class="points">2568</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/15/1757213"
@@ -2770,7 +2872,7 @@
             <h4>
               <span>2024-08-17 @ 10:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">2745</span></span
+                >Points: <span class="points">2746</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/15/1750231"
@@ -3036,7 +3138,7 @@
             <h4>
               <span>2024-08-17 @ 01:02:00</span
               ><span class="points-container"
-                >Points: <span class="points">2642</span></span
+                >Points: <span class="points">2643</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/15/1743200"
@@ -3295,7 +3397,7 @@
             <h4>
               <span>2024-08-16 @ 15:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">3345</span></span
+                >Points: <span class="points">3346</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/15/1738205"
@@ -3391,7 +3493,7 @@
             <h4>
               <span>2024-08-16 @ 10:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">2597</span></span
+                >Points: <span class="points">2599</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/15/1732241"
@@ -4323,7 +4425,7 @@
             <h4>
               <span>2024-08-15 @ 00:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">2685</span></span
+                >Points: <span class="points">2686</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/08/13/1636247"
@@ -5389,86 +5491,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63481"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/08/12/0026253">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/08/12/0026253&amp;from=rss"
-              >OpenAI Warns Users Could Become Emotionally Hooked on Its Voice
-              Mode</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-13 @ 01:04:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2445</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/08/12/0026253"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-            <div class="text">
-              <blockquote>
-                <div>
-                  <p>
-                    [...] The new system card highlights how rapidly AI risks
-                    are evolving with the development of powerful new features
-                    such as OpenAI's voice interface. In May, when
-                    <a
-                      href="https://www.wired.com/story/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/"
-                      >the company unveiled its voice mode</a
-                    >, which can respond swiftly and handle interruptions in a
-                    natural back and forth, many users noticed it appeared
-                    <a
-                      href="https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/"
-                      >overly flirtatious in demos</a
-                    >. The company later
-                    <a
-                      href="https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/"
-                      >faced criticism from the actress Scarlett Johansson</a
-                    >, who accused it of copying her style of speech.
-                  </p>
-                  <p>
-                    [...] Anthropomorphism might cause users to place more trust
-                    in the output of a model when it "hallucinates" incorrect
-                    information, OpenAI says. Over time, it might even affect
-                    users' relationships with other people. "Users might form
-                    social relationships with the AI, reducing their need for
-                    human interaction—potentially benefiting lonely individuals
-                    but possibly affecting healthy relationships," the document
-                    says.
-                  </p>
-                  <p>
-                    Joaquin Quiñonero Candela, head of preparedness at OpenAI,
-                    says that voice mode could evolve into a uniquely powerful
-                    interface. He also notes that the kind of emotional effects
-                    seen with GPT-4o can be positive—say, by helping those who
-                    are lonely or who need to practice social interactions. He
-                    adds that the company will study anthropomorphism and the
-                    emotional connections closely, including by monitoring how
-                    beta testers interact with ChatGPT. "We don't have results
-                    to share at the moment, but it's on our list of concerns,"
-                    he says.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63500"
                     >Original Submission</a
                   ></small
                 >
