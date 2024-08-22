@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-21, 23:53:00](https://soylentnews.org/article.pl?sid=24/08/20/1813234&from=rss) - [A Legal Loophole is Allowing Companies to Include Unsafe Ingredients in US Foods](https://soylentnews.org/article.pl?sid=24/08/20/1813234&from=rss)
 * [2024-08-21, 19:06:00](https://soylentnews.org/article.pl?sid=24/08/20/188246&from=rss) - [General Motors Lays Off Hundreds Of US Workers](https://soylentnews.org/article.pl?sid=24/08/20/188246&from=rss)
 * [2024-08-21, 14:22:00](https://soylentnews.org/article.pl?sid=24/08/20/184205&from=rss) - [The AI Isn't Scraping Data, Just Correlations.](https://soylentnews.org/article.pl?sid=24/08/20/184205&from=rss)
 * [2024-08-21, 09:31:00](https://soylentnews.org/article.pl?sid=24/08/20/1758251&from=rss) - [That Book is Poison: Even More Victorian Covers Found to Contain Toxic Dyes](https://soylentnews.org/article.pl?sid=24/08/20/1758251&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-12, 20:22:00](https://soylentnews.org/politics/article.pl?sid=24/08/11/2339247&from=rss) - [Problems With Georgia's Voter Registration Portal](https://soylentnews.org/politics/article.pl?sid=24/08/11/2339247&from=rss)
 * [2024-08-12, 15:37:00](https://soylentnews.org/article.pl?sid=24/08/10/2121206&from=rss) - [Intel Failures: A Cautionary Tale Of Business vs Engineering](https://soylentnews.org/article.pl?sid=24/08/10/2121206&from=rss)
 * [2024-08-12, 10:55:00](https://soylentnews.org/article.pl?sid=24/08/10/1746203&from=rss) - [Revolutionary GPS Method Reveals Earth’s Crust Movements Post-Earthquake](https://soylentnews.org/article.pl?sid=24/08/10/1746203&from=rss)
-* [2024-08-12, 06:10:00](https://soylentnews.org/article.pl?sid=24/08/10/1729249&from=rss) - [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://soylentnews.org/article.pl?sid=24/08/10/1729249&from=rss)
 
 ## [Archives](archives/index.md)
 
