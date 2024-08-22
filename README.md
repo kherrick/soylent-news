@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-22, 18:28:00](https://soylentnews.org/article.pl?sid=24/08/22/1818251&from=rss) - [Microsoft Security Update Breaks Dual-Boot Linux Systems Using Secure Boot](https://soylentnews.org/article.pl?sid=24/08/22/1818251&from=rss)
 * [2024-08-22, 14:09:00](https://soylentnews.org/article.pl?sid=24/08/22/0849249&from=rss) - [Microsoft Will Try the Data-Scraping Windows Recall Feature Again in October](https://soylentnews.org/article.pl?sid=24/08/22/0849249&from=rss)
 * [2024-08-22, 09:23:00](https://soylentnews.org/article.pl?sid=24/08/21/236209&from=rss) - [Calls Grow For FCC To Review Broadband Satellite Launches](https://soylentnews.org/article.pl?sid=24/08/21/236209&from=rss)
 * [2024-08-22, 04:35:00](https://soylentnews.org/article.pl?sid=24/08/21/2250253&from=rss) - [We Could Make Fuel And Fertiliser By Recycling Wastewater](https://soylentnews.org/article.pl?sid=24/08/21/2250253&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-13, 15:21:00](https://soylentnews.org/article.pl?sid=24/08/12/1451219&from=rss) - [The US Government Wants to Make It Easier for You to Click the ‘Unsubscribe’ Button](https://soylentnews.org/article.pl?sid=24/08/12/1451219&from=rss)
 * [2024-08-13, 10:37:00](https://soylentnews.org/article.pl?sid=24/08/12/1218209&from=rss) - [Raptor Lake Microcode Patch Arrives This Month ASUS, MSI Say](https://soylentnews.org/article.pl?sid=24/08/12/1218209&from=rss)
 * [2024-08-13, 05:50:00](https://soylentnews.org/article.pl?sid=24/08/12/1213201&from=rss) - [NASA Mission Concludes After Years Of Successful Asteroid Detections](https://soylentnews.org/article.pl?sid=24/08/12/1213201&from=rss)
-* [2024-08-13, 01:04:00](https://soylentnews.org/article.pl?sid=24/08/12/0026253&from=rss) - [OpenAI Warns Users Could Become Emotionally Hooked on Its Voice Mode](https://soylentnews.org/article.pl?sid=24/08/12/0026253&from=rss)
 
 ## [Archives](archives/index.md)
 
