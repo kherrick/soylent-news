@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-22, 09:23:00](https://soylentnews.org/article.pl?sid=24/08/21/236209&from=rss) - [Calls Grow For FCC To Review Broadband Satellite Launches](https://soylentnews.org/article.pl?sid=24/08/21/236209&from=rss)
 * [2024-08-22, 04:35:00](https://soylentnews.org/article.pl?sid=24/08/21/2250253&from=rss) - [We Could Make Fuel And Fertiliser By Recycling Wastewater](https://soylentnews.org/article.pl?sid=24/08/21/2250253&from=rss)
 * [2024-08-21, 23:53:00](https://soylentnews.org/article.pl?sid=24/08/20/1813234&from=rss) - [A Legal Loophole is Allowing Companies to Include Unsafe Ingredients in US Foods](https://soylentnews.org/article.pl?sid=24/08/20/1813234&from=rss)
 * [2024-08-21, 19:06:00](https://soylentnews.org/article.pl?sid=24/08/20/188246&from=rss) - [General Motors Lays Off Hundreds Of US Workers](https://soylentnews.org/article.pl?sid=24/08/20/188246&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-13, 05:50:00](https://soylentnews.org/article.pl?sid=24/08/12/1213201&from=rss) - [NASA Mission Concludes After Years Of Successful Asteroid Detections](https://soylentnews.org/article.pl?sid=24/08/12/1213201&from=rss)
 * [2024-08-13, 01:04:00](https://soylentnews.org/article.pl?sid=24/08/12/0026253&from=rss) - [OpenAI Warns Users Could Become Emotionally Hooked on Its Voice Mode](https://soylentnews.org/article.pl?sid=24/08/12/0026253&from=rss)
 * [2024-08-12, 20:22:00](https://soylentnews.org/politics/article.pl?sid=24/08/11/2339247&from=rss) - [Problems With Georgia's Voter Registration Portal](https://soylentnews.org/politics/article.pl?sid=24/08/11/2339247&from=rss)
-* [2024-08-12, 15:37:00](https://soylentnews.org/article.pl?sid=24/08/10/2121206&from=rss) - [Intel Failures: A Cautionary Tale Of Business vs Engineering](https://soylentnews.org/article.pl?sid=24/08/10/2121206&from=rss)
 
 ## [Archives](archives/index.md)
 
