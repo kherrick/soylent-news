@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-23, 04:23:00](https://soylentnews.org/article.pl?sid=24/08/22/1634216&from=rss) - [How a Law That Shields Big Tech Is Now Being Used Against It](https://soylentnews.org/article.pl?sid=24/08/22/1634216&from=rss)
 * [2024-08-22, 23:38:00](https://soylentnews.org/article.pl?sid=24/08/22/092226&from=rss) - [After Massive Public Outcry, Disney Stops Attempt to Kill Lawsuit After Death of Restaurant Guest](https://soylentnews.org/article.pl?sid=24/08/22/092226&from=rss)
 * [2024-08-22, 18:52:00](https://soylentnews.org/article.pl?sid=24/08/22/0856254&from=rss) - [NASA Wants Clarity On Orion Heat Shield Issue and FAQs Answered Regarding 'Stranded' Astronauts](https://soylentnews.org/article.pl?sid=24/08/22/0856254&from=rss)
 * [2024-08-22, 18:28:00](https://soylentnews.org/breakingnews/article.pl?sid=24/08/22/1818251&from=rss) - [Microsoft Security Update Breaks Dual-Boot Linux Systems Using Secure Boot](https://soylentnews.org/breakingnews/article.pl?sid=24/08/22/1818251&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-14, 05:42:00](https://soylentnews.org/article.pl?sid=24/08/13/0256226&from=rss) - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://soylentnews.org/article.pl?sid=24/08/13/0256226&from=rss)
 * [2024-08-14, 00:54:00](https://soylentnews.org/article.pl?sid=24/08/13/0242214&from=rss) - [Resurrecting History: the Unexpected Revival of Supernova 1181](https://soylentnews.org/article.pl?sid=24/08/13/0242214&from=rss)
 * [2024-08-13, 20:06:00](https://soylentnews.org/article.pl?sid=24/08/12/1458246&from=rss) - [Study Reveals How The Global North Drives Inequality In International Trade](https://soylentnews.org/article.pl?sid=24/08/12/1458246&from=rss)
-* [2024-08-13, 15:21:00](https://soylentnews.org/article.pl?sid=24/08/12/1451219&from=rss) - [The US Government Wants to Make It Easier for You to Click the ‘Unsubscribe’ Button](https://soylentnews.org/article.pl?sid=24/08/12/1451219&from=rss)
 
 ## [Archives](archives/index.md)
 
