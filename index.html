@@ -145,6 +145,108 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/08/24/0737257">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/08/24/0737257&amp;from=rss"
+              >A Review of the OpenSSH Backdoors in Recent Decades</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-24 @ 22:12:00</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/08/24/0737257"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                <a href="//soylentnews.org/~canopic+jug/">canopic jug</a>
+                writes:
+              </p>
+              <p>
+                Ben Hawkes over at Isoceles has a review of the
+                <a href="https://blog.isosceles.com/openssh-backdoors/"
+                  >two OpenSSH Backdoor attempts</a
+                >. One, the XZ backdoor, was attempted this year in early 2024.
+                The other, in 2002, was a matter of attempting to trojanize some
+                distribution files.
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Inserting an exploitable bug (a "bugdoor"), one that's
+                    subtle enough that developers might not even notice during
+                    code review, is probably the winning move. However, it's
+                    interesting to note that in both 2002 and 2024 we got a
+                    backdoor rather than a bugdoor. That's probably because
+                    exploits are hard, and server-side exploits are really hard.
+                    Given how much work it is to be in a position to change the
+                    source code in the first place, it's not entirely surprising
+                    that attackers want to go with a reliable option. The
+                    counter-argument is that we may just never get to see any
+                    bugdoors because they never get caught (or if they do, they
+                    don't get flagged as subterfuge), so we're biased towards
+                    the events that we can actually detect.
+                  </p>
+                  <p>
+                    There are other similarities. Both the 2002 and 2024 events
+                    targeted the build system, for example. This also makes
+                    sense, because build systems are a perfect mix of
+                    inscrutability and expressiveness. There's really no
+                    constraints on what you can do with most build systems. They
+                    have to be like this in order to make everything work
+                    everywhere that it's supposed to. Making something compile
+                    on Linux, MacOS, and Windows simultaneously is no easy feat.
+                    Add in support for multiple architectures and legacy
+                    versions, and well... you see where I'm going with this. The
+                    guiding design principle for build systems has been "just
+                    make it work", and so they end up being a complicated mess
+                    of directives, rules, variables, and command invocations. As
+                    long as they're working correctly, I suspect very few people
+                    are paying close attention to the contents of their build
+                    scripts, and that includes the developers/maintainers
+                    themselves. It's the ideal place to insert the first hook
+                    for a backdoor, hiding in plain sight.
+                  </p>
+                </div>
+              </blockquote>
+              <p>Most bugs have not been added intentionally.</p>
+              <p>
+                Previously: <br />
+                (2024)
+                <a
+                  href="https://soylentnews.org/article.pl?sid=24/04/07/0221207"
+                  >The Mystery of 'Jia Tan,' the XZ Backdoor Mastermind</a
+                >
+                <br />
+                (2024)
+                <a
+                  href="https://soylentnews.org/breakingnews/article.pl?sid=24/03/30/0338209"
+                  >xz: Upstream Repository and the xz Tarballs Have Been
+                  Backdoored</a
+                >
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63591"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/08/24/0516253">
           <h3>
             <a
@@ -5468,144 +5570,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63515"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/08/13/1654241">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/08/13/1654241&amp;from=rss"
-              >2.9 Billion Hit in One of the Largest Data Breaches Ever</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-15 @ 05:22:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2732</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/08/13/1654241"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
-              <p>
-                <a
-                  href="https://www.tomsguide.com/computing/online-security/29-billion-hit-in-one-of-largest-data-breaches-ever-full-names-addresses-and-ssns-exposed"
-                  >2.9 billion hit in one of the largest data breaches ever</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Regardless of how careful you are online, your personal data
-                    can still end up in the hands of hackers—and a new
-                    <a
-                      href="https://www.tomsguide.com/computing/online-security/43-million-people-hit-in-massive-healthcare-data-breach-full-names-addresses-and-ssns-exposed-online"
-                      >data breach</a
-                    >
-                    that exposed the data of 2.9 billion people is the perfect
-                    example of this.
-                  </p>
-                  <p>
-                    As reported by
-                    <a
-                      href="https://news.bloomberglaw.com/privacy-and-data-security/background-check-data-of-3-billion-stolen-in-breach-suit-says"
-                      >Bloomberg</a
-                    >, news of this massive new data breach was revealed as part
-                    of a class action lawsuit that was filed at the beginning of
-                    this month. A
-                    <a
-                      href="https://www.bloomberglaw.com/public/desktop/document/HofmannvJericoPicturesIncDocketNo024cv61383SDFlaAug012024CourtDoc?doc_id=X6S27DVM6H69DSQO6MTRAQRIVBS"
-                      >complaint</a
-                    >
-                    submitted to the US District Court for the Southern District
-                    of Florida claims the exposed personal data belongs to a
-                    public records data provider named National Public Data,
-                    which specializes in background checks and fraud prevention.
-                  </p>
-                  <p>
-                    The personal data of 2.9 billion people, which includes full
-                    names, former and complete addresses going back 30 years,
-                    <a
-                      href="https://www.tomsguide.com/news/this-new-phishing-scam-can-steal-your-social-security-number-how-to-stay-safe"
-                      >Social Security Numbers</a
-                    >, and more, was stolen from National Public Data by a
-                    cybercriminal group that goes by the name
-                    <a
-                      href="https://www.tomsguide.com/computing/online-security/hackers-have-leaked-the-criminal-records-of-millions-of-americans-online-how-to-stay-safe"
-                      >USDoD</a
-                    >. The complaint goes on to explain that the hackers then
-                    tried to sell this huge collection of personal data on the
-                    dark web to the tune of $3.5 million. It's worth noting that
-                    due to the sheer number of people affected, this data likely
-                    comes from both the U.S. and other countries around the
-                    world.
-                  </p>
-                  <p>
-                    Here's everything we know so far about this massive data
-                    breach along with some steps you can take to stay safe if
-                    your personal information was exposed online.
-                  </p>
-                  <p>
-                    So how does a firm like National Public Data obtain the
-                    personal data of almost 3 billion people? The answer is
-                    through scraping which is a technique used by companies to
-                    collect data from web sites and other sources online.
-                  </p>
-                  <p>
-                    What makes the way National Public Data did this more
-                    concerning is that the firm scraped personally identifiable
-                    information (<a
-                      href="https://www.tomsguide.com/news/your-browsers-spell-check-feature-could-be-giving-away-your-passwords"
-                      >PII</a
-                    >) of billions of people from non-public sources. As a
-                    result, many of the people who are now involved in the class
-                    action lawsuit did not provide their data to the company
-                    willingly.
-                  </p>
-                  <p>
-                    According to the complaint, one of the plaintiffs who
-                    resides in California first found out about the breach
-                    because he was using one of the
-                    <a
-                      href="https://www.tomsguide.com/us/best-identity-theft-protection,review-2083.html"
-                      >best identity theft protection services</a
-                    >
-                    which notified him that his data was exposed and leaked on
-                    the dark web.
-                  </p>
-                  <p>
-                    As part of the class action lawsuit, this plaintiff is
-                    asking the court to have National Public Data securely
-                    dispose of all the personal information it acquired through
-                    scraping. However, he also wants the firm to compensate him
-                    and the other victims financially while implementing
-                    stricter security measures going forward.
-                  </p>
-                  <p>
-                    With full names, addresses and Social Security Numbers in
-                    hand, there's a lot that hackers can do with this
-                    information, especially when it was made available for sale
-                    on the dark web.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63505"
                     >Original Submission</a
                   ></small
                 >
