@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-24, 03:08:00](https://soylentnews.org/article.pl?sid=24/08/23/0259256&from=rss) - [Typing A Specific Combination Of Ordinary Characters Can Crash Your iPhone](https://soylentnews.org/article.pl?sid=24/08/23/0259256&from=rss)
 * [2024-08-23, 23:23:00](https://soylentnews.org/article.pl?sid=24/08/23/0255248&from=rss) - [Cisco Wants United Nations To Revisit Cyber Crime Convention Report](https://soylentnews.org/article.pl?sid=24/08/23/0255248&from=rss)
 * [2024-08-23, 18:35:00](https://soylentnews.org/article.pl?sid=24/08/23/0249235&from=rss) - [Debris From DART Could Hit Earth And Mars Within A Decade, Say Scientists](https://soylentnews.org/article.pl?sid=24/08/23/0249235&from=rss)
 * [2024-08-23, 13:52:00](https://soylentnews.org/article.pl?sid=24/08/23/0134239&from=rss) - [Github AI Survey 2024](https://soylentnews.org/article.pl?sid=24/08/23/0134239&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-15, 03:00:00](https://soylentnews.org/article.pl?sid=24/08/15/0133204&from=rss) - [FreeBSD Releases Urgent Patch for High-Severity OpenSSH Vulnerability](https://soylentnews.org/article.pl?sid=24/08/15/0133204&from=rss)
 * [2024-08-15, 00:40:00](https://soylentnews.org/article.pl?sid=24/08/13/1636247&from=rss) - [Achieving Software Freedom in the Age of Platform Decay](https://soylentnews.org/article.pl?sid=24/08/13/1636247&from=rss)
 * [2024-08-14, 19:54:00](https://soylentnews.org/article.pl?sid=24/08/13/1629217&from=rss) - [NASA Is About To Make Its Most Important Safety Decision In Nearly A Generation ](https://soylentnews.org/article.pl?sid=24/08/13/1629217&from=rss)
-* [2024-08-14, 15:12:00](https://soylentnews.org/article.pl?sid=24/08/13/162234&from=rss) - [MDMA for PTSD: Three Studies Retracted on Heels of FDA Rejection](https://soylentnews.org/article.pl?sid=24/08/13/162234&from=rss)
 
 ## [Archives](archives/index.md)
 
