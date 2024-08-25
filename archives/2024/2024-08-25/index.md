@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-25](index.md)
 
+* [2024-08-25, 22:42:00](https://soylentnews.org/article.pl?sid=24/08/25/074255&from=rss) - [Locking Up Items to Deter Shoplifting is Pushing Shoppers Online](https://soylentnews.org/article.pl?sid=24/08/25/074255&from=rss)
 * [2024-08-25, 17:01:00](https://soylentnews.org/article.pl?sid=24/08/24/1347258&from=rss) - [To Kill Mammoths in the Ice Age, People Used Planted Pikes, Not Throwing Spears, Researchers Say](https://soylentnews.org/article.pl?sid=24/08/24/1347258&from=rss)
 * [2024-08-25, 12:12:00](https://soylentnews.org/article.pl?sid=24/08/24/1335224&from=rss) - [Grand Jury Finds Sacramento Cops Illegally Shared Driver Data](https://soylentnews.org/article.pl?sid=24/08/24/1335224&from=rss)
 * [2024-08-25, 08:34:00](https://soylentnews.org/article.pl?sid=24/08/25/0827201&from=rss) - [NASA Decides to Keep 2 Astronauts in Space Until February, Nixes Return on Troubled Boeing Capsule](https://soylentnews.org/article.pl?sid=24/08/25/0827201&from=rss)
