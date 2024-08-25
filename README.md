@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-25, 17:01:00](https://soylentnews.org/article.pl?sid=24/08/24/1347258&from=rss) - [To Kill Mammoths in the Ice Age, People Used Planted Pikes, Not Throwing Spears, Researchers Say](https://soylentnews.org/article.pl?sid=24/08/24/1347258&from=rss)
 * [2024-08-25, 12:12:00](https://soylentnews.org/article.pl?sid=24/08/24/1335224&from=rss) - [Grand Jury Finds Sacramento Cops Illegally Shared Driver Data](https://soylentnews.org/article.pl?sid=24/08/24/1335224&from=rss)
 * [2024-08-25, 08:34:00](https://soylentnews.org/article.pl?sid=24/08/25/0827201&from=rss) - [NASA Decides to Keep 2 Astronauts in Space Until February, Nixes Return on Troubled Boeing Capsule](https://soylentnews.org/article.pl?sid=24/08/25/0827201&from=rss)
 * [2024-08-25, 07:41:00](https://soylentnews.org/article.pl?sid=24/08/24/1326248&from=rss) - [People Seen as Wise Share These Characteristics, According to a New Study](https://soylentnews.org/article.pl?sid=24/08/24/1326248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-16, 20:19:00](https://soylentnews.org/article.pl?sid=24/08/15/1741224&from=rss) - [So the Department of Energy Emailed Me](https://soylentnews.org/article.pl?sid=24/08/15/1741224&from=rss)
 * [2024-08-16, 15:36:00](https://soylentnews.org/article.pl?sid=24/08/15/1738205&from=rss) - [Disney Seeking Dismissal of Death Lawsuit Because Victim Was Disney+ Subscriber](https://soylentnews.org/article.pl?sid=24/08/15/1738205&from=rss)
 * [2024-08-16, 10:54:00](https://soylentnews.org/article.pl?sid=24/08/15/1732241&from=rss) - [Cisco is Cutting Over 4,000 Jobs for the Second Time This Year](https://soylentnews.org/article.pl?sid=24/08/15/1732241&from=rss)
-* [2024-08-16, 06:11:00](https://soylentnews.org/article.pl?sid=24/08/15/0214258&from=rss) - [Study Finds 94% of Business Spreadsheets Have Critical Errors](https://soylentnews.org/article.pl?sid=24/08/15/0214258&from=rss)
 
 ## [Archives](archives/index.md)
 
