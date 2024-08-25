@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-25, 08:34:00](https://soylentnews.org/article.pl?sid=24/08/25/0827201&from=rss) - [NASA Decides to Keep 2 Astronauts in Space Until February, Nixes Return on Troubled Boeing Capsule](https://soylentnews.org/article.pl?sid=24/08/25/0827201&from=rss)
 * [2024-08-25, 07:41:00](https://soylentnews.org/article.pl?sid=24/08/24/1326248&from=rss) - [People Seen as Wise Share These Characteristics, According to a New Study](https://soylentnews.org/article.pl?sid=24/08/24/1326248&from=rss)
 * [2024-08-25, 02:57:00](https://soylentnews.org/article.pl?sid=24/08/24/139217&from=rss) - [Fed's Probe of Hard Braking in Cruise Robotaxi Crashes Ends After Recall](https://soylentnews.org/article.pl?sid=24/08/24/139217&from=rss)
 * [2024-08-24, 22:12:00](https://soylentnews.org/article.pl?sid=24/08/24/0737257&from=rss) - [A Review of the OpenSSH  Backdoors in Recent Decades](https://soylentnews.org/article.pl?sid=24/08/24/0737257&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-16, 10:54:00](https://soylentnews.org/article.pl?sid=24/08/15/1732241&from=rss) - [Cisco is Cutting Over 4,000 Jobs for the Second Time This Year](https://soylentnews.org/article.pl?sid=24/08/15/1732241&from=rss)
 * [2024-08-16, 06:11:00](https://soylentnews.org/article.pl?sid=24/08/15/0214258&from=rss) - [Study Finds 94% of Business Spreadsheets Have Critical Errors](https://soylentnews.org/article.pl?sid=24/08/15/0214258&from=rss)
 * [2024-08-16, 01:24:00](https://soylentnews.org/article.pl?sid=24/08/15/0150222&from=rss) - [Wyoming Reporter Caught Using Artificial Intelligence to Create Fake Quotes and Stories](https://soylentnews.org/article.pl?sid=24/08/15/0150222&from=rss)
-* [2024-08-15, 20:39:00](https://soylentnews.org/article.pl?sid=24/08/15/0146250&from=rss) - [Latest Geomagnetic Storm Catches Scientists Off Guard](https://soylentnews.org/article.pl?sid=24/08/15/0146250&from=rss)
 
 ## [Archives](archives/index.md)
 
