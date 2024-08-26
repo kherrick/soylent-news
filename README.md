@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-26, 12:37:00](https://soylentnews.org/article.pl?sid=24/08/25/0737244&from=rss) - [Revolutionary Tiny Sensor Reveals Hidden Neuron Activity](https://soylentnews.org/article.pl?sid=24/08/25/0737244&from=rss)
 * [2024-08-26, 07:54:00](https://soylentnews.org/article.pl?sid=24/08/25/0735236&from=rss) - [Banks Realize Backing Elon’s Twitter Buyout Is Close To ‘The Worst Buyout Of All Time’ ](https://soylentnews.org/article.pl?sid=24/08/25/0735236&from=rss)
 * [2024-08-26, 03:29:00](https://soylentnews.org/article.pl?sid=24/08/25/0733206&from=rss) - [Telegram's Pavel Durov Arrested in France](https://soylentnews.org/article.pl?sid=24/08/25/0733206&from=rss)
 * [2024-08-25, 22:42:00](https://soylentnews.org/article.pl?sid=24/08/25/074255&from=rss) - [Locking Up Items to Deter Shoplifting is Pushing Shoppers Online](https://soylentnews.org/article.pl?sid=24/08/25/074255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-17, 15:21:00](https://soylentnews.org/article.pl?sid=24/08/15/1757213&from=rss) - [Google Abruptly Shuts Down Adsense In Russia As Tensions With Kremlin Escalate](https://soylentnews.org/article.pl?sid=24/08/15/1757213&from=rss)
 * [2024-08-17, 10:34:00](https://soylentnews.org/article.pl?sid=24/08/15/1750231&from=rss) - [Why Not Knowing What to Do Isn't Always a Bad Thing for Leaders](https://soylentnews.org/article.pl?sid=24/08/15/1750231&from=rss)
 * [2024-08-17, 05:48:00](https://soylentnews.org/article.pl?sid=24/08/15/1749255&from=rss) - [AI Transforms Toxic Antibiotic Into Life-Saving Medicine](https://soylentnews.org/article.pl?sid=24/08/15/1749255&from=rss)
-* [2024-08-17, 01:02:00](https://soylentnews.org/article.pl?sid=24/08/15/1743200&from=rss) - [Reviewing the Bell Riots in Star Trek](https://soylentnews.org/article.pl?sid=24/08/15/1743200&from=rss)
 
 ## [Archives](archives/index.md)
 
