@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-27, 02:53:00](https://soylentnews.org/article.pl?sid=24/08/25/1514218&from=rss) - [Amazon is Bricking Primary Feature on $160 Echo Device After 1 Year](https://soylentnews.org/article.pl?sid=24/08/25/1514218&from=rss)
 * [2024-08-26, 22:08:00](https://soylentnews.org/article.pl?sid=24/08/25/0751250&from=rss) - [Russia Fears Ukraine Hijacking Home CCTV Systems For Intel ](https://soylentnews.org/article.pl?sid=24/08/25/0751250&from=rss)
 * [2024-08-26, 17:26:00](https://soylentnews.org/article.pl?sid=24/08/25/0743200&from=rss) - [Problem With Rescuing the Stranded Astronauts: Spacesuits Aren't Compatible](https://soylentnews.org/article.pl?sid=24/08/25/0743200&from=rss)
 * [2024-08-26, 12:37:00](https://soylentnews.org/article.pl?sid=24/08/25/0737244&from=rss) - [Revolutionary Tiny Sensor Reveals Hidden Neuron Activity](https://soylentnews.org/article.pl?sid=24/08/25/0737244&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-18, 05:26:00](https://soylentnews.org/article.pl?sid=24/08/17/1547223&from=rss) - [Ubuntu Will Use the Latest Version of the Linux Kernel for New Releases Moving Forward](https://soylentnews.org/article.pl?sid=24/08/17/1547223&from=rss)
 * [2024-08-18, 00:50:00](https://soylentnews.org/article.pl?sid=24/08/17/1543230&from=rss) - [Scientists Discover Plastic-Eating Fungi That Could Help Clean Up World’s Oceans](https://soylentnews.org/article.pl?sid=24/08/17/1543230&from=rss)
 * [2024-08-17, 20:09:00](https://soylentnews.org/article.pl?sid=24/08/17/1532248&from=rss) - [Want to Win a Bike Race? Hack Your Rival’s Wireless Shifters](https://soylentnews.org/article.pl?sid=24/08/17/1532248&from=rss)
-* [2024-08-17, 15:21:00](https://soylentnews.org/article.pl?sid=24/08/15/1757213&from=rss) - [Google Abruptly Shuts Down Adsense In Russia As Tensions With Kremlin Escalate](https://soylentnews.org/article.pl?sid=24/08/15/1757213&from=rss)
 
 ## [Archives](archives/index.md)
 
