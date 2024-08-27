@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-27, 17:11:00](https://soylentnews.org/article.pl?sid=24/08/27/0433254&from=rss) - [Netherlands Hits Uber With €290M Fine for Transfer of ‘Sensitive’ Driver Data to US](https://soylentnews.org/article.pl?sid=24/08/27/0433254&from=rss)
 * [2024-08-27, 12:24:00](https://soylentnews.org/article.pl?sid=24/08/27/0421227&from=rss) - [Amazon's AI Assistant Saves , 4500 Years of Development Time, CEO Andy Jassy Says](https://soylentnews.org/article.pl?sid=24/08/27/0421227&from=rss)
 * [2024-08-27, 07:38:00](https://soylentnews.org/article.pl?sid=24/08/26/127253&from=rss) - [Here's How We Could Turn Plastic Waste Into Food](https://soylentnews.org/article.pl?sid=24/08/26/127253&from=rss)
 * [2024-08-27, 02:53:00](https://soylentnews.org/article.pl?sid=24/08/25/1514218&from=rss) - [Amazon is Bricking Primary Feature on $160 Echo Device After 1 Year](https://soylentnews.org/article.pl?sid=24/08/25/1514218&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-18, 19:42:00](https://soylentnews.org/article.pl?sid=24/08/17/196201&from=rss) - [Mercedes to test L4 AVs in China](https://soylentnews.org/article.pl?sid=24/08/17/196201&from=rss)
 * [2024-08-18, 14:54:00](https://soylentnews.org/article.pl?sid=24/08/17/1555210&from=rss) - [Deep-Live-Cam Goes Viral, Allowing Anyone to Become a Digital Doppelganger](https://soylentnews.org/article.pl?sid=24/08/17/1555210&from=rss)
 * [2024-08-18, 10:10:00](https://soylentnews.org/article.pl?sid=24/08/17/1551256&from=rss) - [This New Fully Encrypted Messenger App Is Serious About Privacy](https://soylentnews.org/article.pl?sid=24/08/17/1551256&from=rss)
-* [2024-08-18, 05:26:00](https://soylentnews.org/article.pl?sid=24/08/17/1547223&from=rss) - [Ubuntu Will Use the Latest Version of the Linux Kernel for New Releases Moving Forward](https://soylentnews.org/article.pl?sid=24/08/17/1547223&from=rss)
 
 ## [Archives](archives/index.md)
 
