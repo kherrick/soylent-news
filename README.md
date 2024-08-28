@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-28, 21:42:00](https://soylentnews.org/article.pl?sid=24/08/27/167218&from=rss) - [NSA Releases Digital Copy of Internal Lecture by Rear Adm. Grace Hopper](https://soylentnews.org/article.pl?sid=24/08/27/167218&from=rss)
 * [2024-08-28, 17:32:00](https://soylentnews.org/article.pl?sid=24/08/28/1727205&from=rss) - [Pavel Durov Story has been Updated](https://soylentnews.org/article.pl?sid=24/08/28/1727205&from=rss)
 * [2024-08-28, 16:52:00](https://soylentnews.org/article.pl?sid=24/08/27/162254&from=rss) - [Semiconductor Giant Renesas Acquires PCB Layout Software Maker Altium for $5.9bn](https://soylentnews.org/article.pl?sid=24/08/27/162254&from=rss)
 * [2024-08-28, 12:09:00](https://soylentnews.org/article.pl?sid=24/08/27/1559234&from=rss) - [Advertising Ruins Everything](https://soylentnews.org/article.pl?sid=24/08/27/1559234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-20, 04:52:00](https://soylentnews.org/article.pl?sid=24/08/19/0259210&from=rss) - [Google Chrome Is Killing The Ublock Origin Ad Blocker Extension ](https://soylentnews.org/article.pl?sid=24/08/19/0259210&from=rss)
 * [2024-08-20, 00:07:00](https://soylentnews.org/article.pl?sid=24/08/18/1642232&from=rss) - [Space Beer May Taste Better Than Earth Beer](https://soylentnews.org/article.pl?sid=24/08/18/1642232&from=rss)
 * [2024-08-19, 19:27:00](https://soylentnews.org/article.pl?sid=24/08/18/1639232&from=rss) - [Scientists Observe First Neutrinos With Prototype Detector](https://soylentnews.org/article.pl?sid=24/08/18/1639232&from=rss)
-* [2024-08-19, 14:42:00](https://soylentnews.org/article.pl?sid=24/08/18/1633241&from=rss) - [The Apple IIGS Megahertz Myth](https://soylentnews.org/article.pl?sid=24/08/18/1633241&from=rss)
 
 ## [Archives](archives/index.md)
 
