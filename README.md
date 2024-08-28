@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-28, 17:32:00](https://soylentnews.org/article.pl?sid=24/08/28/1727205&from=rss) - [Pavel Durov Story has been Updated](https://soylentnews.org/article.pl?sid=24/08/28/1727205&from=rss)
 * [2024-08-28, 16:52:00](https://soylentnews.org/article.pl?sid=24/08/27/162254&from=rss) - [Semiconductor Giant Renesas Acquires PCB Layout Software Maker Altium for $5.9bn](https://soylentnews.org/article.pl?sid=24/08/27/162254&from=rss)
 * [2024-08-28, 12:09:00](https://soylentnews.org/article.pl?sid=24/08/27/1559234&from=rss) - [Advertising Ruins Everything](https://soylentnews.org/article.pl?sid=24/08/27/1559234&from=rss)
 * [2024-08-28, 07:20:00](https://soylentnews.org/article.pl?sid=24/08/27/1547215&from=rss) - [IBM to Shut Down China Research Centers, Laying Off Over 1,000 Workers](https://soylentnews.org/article.pl?sid=24/08/27/1547215&from=rss)
@@ -13,7 +14,7 @@
 * [2024-08-26, 17:26:00](https://soylentnews.org/article.pl?sid=24/08/25/0743200&from=rss) - [Problem With Rescuing the Stranded Astronauts: Spacesuits Aren't Compatible](https://soylentnews.org/article.pl?sid=24/08/25/0743200&from=rss)
 * [2024-08-26, 12:37:00](https://soylentnews.org/article.pl?sid=24/08/25/0737244&from=rss) - [Revolutionary Tiny Sensor Reveals Hidden Neuron Activity](https://soylentnews.org/article.pl?sid=24/08/25/0737244&from=rss)
 * [2024-08-26, 07:54:00](https://soylentnews.org/article.pl?sid=24/08/25/0735236&from=rss) - [Banks Realize Backing Elon’s Twitter Buyout Is Close To ‘The Worst Buyout Of All Time’ ](https://soylentnews.org/article.pl?sid=24/08/25/0735236&from=rss)
-* [2024-08-26, 03:29:00](https://soylentnews.org/article.pl?sid=24/08/25/0733206&from=rss) - [Telegram's Pavel Durov Arrested in France](https://soylentnews.org/article.pl?sid=24/08/25/0733206&from=rss)
+* [2024-08-26, 03:29:00](https://soylentnews.org/article.pl?sid=24/08/25/0733206&from=rss) - [UPDATED - Telegram's Pavel Durov Arrested in France](https://soylentnews.org/article.pl?sid=24/08/25/0733206&from=rss)
 * [2024-08-25, 22:42:00](https://soylentnews.org/article.pl?sid=24/08/25/074255&from=rss) - [Locking Up Items to Deter Shoplifting is Pushing Shoppers Online](https://soylentnews.org/article.pl?sid=24/08/25/074255&from=rss)
 * [2024-08-25, 17:01:00](https://soylentnews.org/article.pl?sid=24/08/24/1347258&from=rss) - [To Kill Mammoths in the Ice Age, People Used Planted Pikes, Not Throwing Spears, Researchers Say](https://soylentnews.org/article.pl?sid=24/08/24/1347258&from=rss)
 * [2024-08-25, 12:12:00](https://soylentnews.org/article.pl?sid=24/08/24/1335224&from=rss) - [Grand Jury Finds Sacramento Cops Illegally Shared Driver Data](https://soylentnews.org/article.pl?sid=24/08/24/1335224&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-20, 00:07:00](https://soylentnews.org/article.pl?sid=24/08/18/1642232&from=rss) - [Space Beer May Taste Better Than Earth Beer](https://soylentnews.org/article.pl?sid=24/08/18/1642232&from=rss)
 * [2024-08-19, 19:27:00](https://soylentnews.org/article.pl?sid=24/08/18/1639232&from=rss) - [Scientists Observe First Neutrinos With Prototype Detector](https://soylentnews.org/article.pl?sid=24/08/18/1639232&from=rss)
 * [2024-08-19, 14:42:00](https://soylentnews.org/article.pl?sid=24/08/18/1633241&from=rss) - [The Apple IIGS Megahertz Myth](https://soylentnews.org/article.pl?sid=24/08/18/1633241&from=rss)
-* [2024-08-19, 10:01:00](https://soylentnews.org/article.pl?sid=24/08/18/1626247&from=rss) - [Online Publishers Face a Dilemma: Allow AI Scraping From Google or Lose Search Visibility](https://soylentnews.org/article.pl?sid=24/08/18/1626247&from=rss)
 
 ## [Archives](archives/index.md)
 
