@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-29, 16:49:00](https://soylentnews.org/article.pl?sid=24/08/29/0033200&from=rss) - [How I Got a Truly Anonymous Signal Account](https://soylentnews.org/article.pl?sid=24/08/29/0033200&from=rss)
 * [2024-08-29, 12:00:00](https://soylentnews.org/article.pl?sid=24/08/28/0428240&from=rss) - [A First Look at PyScript: Python in the Web Browser](https://soylentnews.org/article.pl?sid=24/08/28/0428240&from=rss)
 * [2024-08-29, 07:13:00](https://soylentnews.org/article.pl?sid=24/08/28/0354221&from=rss) - [Major Habitat Loss Looms For Top Marine Predators Amid Climate Change](https://soylentnews.org/article.pl?sid=24/08/28/0354221&from=rss)
 * [2024-08-29, 02:30:00](https://soylentnews.org/article.pl?sid=24/08/28/0346258&from=rss) - [AI Demand Is Fueling A Data Center Development Boom In North America](https://soylentnews.org/article.pl?sid=24/08/28/0346258&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-21, 00:01:00](https://soylentnews.org/article.pl?sid=24/08/19/1142259&from=rss) - [It's Not Worth Paying to be Removed From People-Finder Sites, Study Says](https://soylentnews.org/article.pl?sid=24/08/19/1142259&from=rss)
 * [2024-08-20, 19:17:00](https://soylentnews.org/article.pl?sid=24/08/19/0340241&from=rss) - [Redbox App Axed, Dashing People's Hopes of Keeping Purchased Content](https://soylentnews.org/article.pl?sid=24/08/19/0340241&from=rss)
 * [2024-08-20, 14:25:00](https://soylentnews.org/article.pl?sid=24/08/19/0330246&from=rss) - [This Researcher Wants to Replace Your Brain, Little by Little](https://soylentnews.org/article.pl?sid=24/08/19/0330246&from=rss)
-* [2024-08-20, 09:40:00](https://soylentnews.org/article.pl?sid=24/08/19/0316222&from=rss) - [Horses are a Lot Smarter Than We Previously Thought, New Research Shows](https://soylentnews.org/article.pl?sid=24/08/19/0316222&from=rss)
 
 ## [Archives](archives/index.md)
 
