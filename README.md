@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-30, 07:07:00](https://soylentnews.org/article.pl?sid=24/08/29/0217203&from=rss) - [Scientists Discover How Omega-3 Battles Heart Disease At The Molecular Level](https://soylentnews.org/article.pl?sid=24/08/29/0217203&from=rss)
 * [2024-08-30, 02:21:00](https://soylentnews.org/article.pl?sid=24/08/29/0043200&from=rss) - [PC Floppy Copy Protection: Formaster Copy-Lock ](https://soylentnews.org/article.pl?sid=24/08/29/0043200&from=rss)
 * [2024-08-29, 21:36:00](https://soylentnews.org/article.pl?sid=24/08/29/0039250&from=rss) - [Turns Out Martin Shkreli Copied His $2M Wu-Tang Album—and Sent It to “50 Different Chicks”](https://soylentnews.org/article.pl?sid=24/08/29/0039250&from=rss)
 * [2024-08-29, 16:49:00](https://soylentnews.org/article.pl?sid=24/08/29/0033200&from=rss) - [How I Got a Truly Anonymous Signal Account](https://soylentnews.org/article.pl?sid=24/08/29/0033200&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-21, 14:22:00](https://soylentnews.org/article.pl?sid=24/08/20/184205&from=rss) - [The AI Isn't Scraping Data, Just Correlations.](https://soylentnews.org/article.pl?sid=24/08/20/184205&from=rss)
 * [2024-08-21, 09:31:00](https://soylentnews.org/article.pl?sid=24/08/20/1758251&from=rss) - [That Book is Poison: Even More Victorian Covers Found to Contain Toxic Dyes](https://soylentnews.org/article.pl?sid=24/08/20/1758251&from=rss)
 * [2024-08-21, 04:46:00](https://soylentnews.org/article.pl?sid=24/08/19/2134246&from=rss) - [Even Lawyers Don’t Like Legalese](https://soylentnews.org/article.pl?sid=24/08/19/2134246&from=rss)
-* [2024-08-21, 00:01:00](https://soylentnews.org/article.pl?sid=24/08/19/1142259&from=rss) - [It's Not Worth Paying to be Removed From People-Finder Sites, Study Says](https://soylentnews.org/article.pl?sid=24/08/19/1142259&from=rss)
 
 ## [Archives](archives/index.md)
 
