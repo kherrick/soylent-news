@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-30, 11:53:00](https://soylentnews.org/article.pl?sid=24/08/29/1814226&from=rss) - [Bypassing Airport Security Via SQL Injection](https://soylentnews.org/article.pl?sid=24/08/29/1814226&from=rss)
 * [2024-08-30, 07:07:00](https://soylentnews.org/article.pl?sid=24/08/29/0217203&from=rss) - [Scientists Discover How Omega-3 Battles Heart Disease At The Molecular Level](https://soylentnews.org/article.pl?sid=24/08/29/0217203&from=rss)
 * [2024-08-30, 02:21:00](https://soylentnews.org/article.pl?sid=24/08/29/0043200&from=rss) - [PC Floppy Copy Protection: Formaster Copy-Lock ](https://soylentnews.org/article.pl?sid=24/08/29/0043200&from=rss)
 * [2024-08-29, 21:36:00](https://soylentnews.org/article.pl?sid=24/08/29/0039250&from=rss) - [Turns Out Martin Shkreli Copied His $2M Wu-Tang Album—and Sent It to “50 Different Chicks”](https://soylentnews.org/article.pl?sid=24/08/29/0039250&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-21, 19:06:00](https://soylentnews.org/article.pl?sid=24/08/20/188246&from=rss) - [General Motors Lays Off Hundreds Of US Workers](https://soylentnews.org/article.pl?sid=24/08/20/188246&from=rss)
 * [2024-08-21, 14:22:00](https://soylentnews.org/article.pl?sid=24/08/20/184205&from=rss) - [The AI Isn't Scraping Data, Just Correlations.](https://soylentnews.org/article.pl?sid=24/08/20/184205&from=rss)
 * [2024-08-21, 09:31:00](https://soylentnews.org/article.pl?sid=24/08/20/1758251&from=rss) - [That Book is Poison: Even More Victorian Covers Found to Contain Toxic Dyes](https://soylentnews.org/article.pl?sid=24/08/20/1758251&from=rss)
-* [2024-08-21, 04:46:00](https://soylentnews.org/article.pl?sid=24/08/19/2134246&from=rss) - [Even Lawyers Don’t Like Legalese](https://soylentnews.org/article.pl?sid=24/08/19/2134246&from=rss)
 
 ## [Archives](archives/index.md)
 
