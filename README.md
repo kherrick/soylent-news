@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-31, 21:21:00](https://soylentnews.org/article.pl?sid=24/08/30/1518242&from=rss) - [DOJ Declares Victory Over Backpage as Judge Sends Founder Lacey to Prison](https://soylentnews.org/article.pl?sid=24/08/30/1518242&from=rss)
 * [2024-08-31, 16:36:00](https://soylentnews.org/article.pl?sid=24/08/30/1444216&from=rss) - [Firewall Rules: Not as Secure as You Think](https://soylentnews.org/article.pl?sid=24/08/30/1444216&from=rss)
 * [2024-08-31, 11:57:00](https://soylentnews.org/article.pl?sid=24/08/30/1428239&from=rss) - [Appeals Court Revives Lawsuit Over \"Blackout Challenge\" Death](https://soylentnews.org/article.pl?sid=24/08/30/1428239&from=rss)
 * [2024-08-31, 07:13:00](https://soylentnews.org/article.pl?sid=24/08/30/048213&from=rss) - [Air Con: $1697 for an On/Off Switch](https://soylentnews.org/article.pl?sid=24/08/30/048213&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-22, 23:38:00](https://soylentnews.org/article.pl?sid=24/08/22/092226&from=rss) - [After Massive Public Outcry, Disney Stops Attempt to Kill Lawsuit After Death of Restaurant Guest](https://soylentnews.org/article.pl?sid=24/08/22/092226&from=rss)
 * [2024-08-22, 18:52:00](https://soylentnews.org/article.pl?sid=24/08/22/0856254&from=rss) - [NASA Wants Clarity On Orion Heat Shield Issue and FAQs Answered Regarding 'Stranded' Astronauts](https://soylentnews.org/article.pl?sid=24/08/22/0856254&from=rss)
 * [2024-08-22, 18:28:00](https://soylentnews.org/breakingnews/article.pl?sid=24/08/22/1818251&from=rss) - [Microsoft Security Update Breaks Dual-Boot Linux Systems Using Secure Boot](https://soylentnews.org/breakingnews/article.pl?sid=24/08/22/1818251&from=rss)
-* [2024-08-22, 14:09:00](https://soylentnews.org/article.pl?sid=24/08/22/0849249&from=rss) - [Microsoft Will Try the Data-Scraping Windows Recall Feature Again in October](https://soylentnews.org/article.pl?sid=24/08/22/0849249&from=rss)
 
 ## [Archives](archives/index.md)
 
