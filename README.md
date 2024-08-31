@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-08-31, 02:26:00](https://soylentnews.org/article.pl?sid=24/08/29/2317232&from=rss) - [Beyond Einstein: Attosecond X-Ray Pulses Unlock the Secrets of the Photoelectric Effect](https://soylentnews.org/article.pl?sid=24/08/29/2317232&from=rss)
 * [2024-08-30, 21:24:00](https://soylentnews.org/article.pl?sid=24/08/29/1823214&from=rss) - [California State Assembly Passes Sweeping AI Safety Bill](https://soylentnews.org/article.pl?sid=24/08/29/1823214&from=rss)
 * [2024-08-30, 16:38:00](https://soylentnews.org/article.pl?sid=24/08/29/1819231&from=rss) - [Rocket Factory Augsburg Gives Update On Saxavord Explosion](https://soylentnews.org/article.pl?sid=24/08/29/1819231&from=rss)
 * [2024-08-30, 11:53:00](https://soylentnews.org/article.pl?sid=24/08/29/1814226&from=rss) - [Bypassing Airport Security Via SQL Injection](https://soylentnews.org/article.pl?sid=24/08/29/1814226&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-22, 09:23:00](https://soylentnews.org/article.pl?sid=24/08/21/236209&from=rss) - [Calls Grow For FCC To Review Broadband Satellite Launches](https://soylentnews.org/article.pl?sid=24/08/21/236209&from=rss)
 * [2024-08-22, 04:35:00](https://soylentnews.org/article.pl?sid=24/08/21/2250253&from=rss) - [We Could Make Fuel And Fertiliser By Recycling Wastewater](https://soylentnews.org/article.pl?sid=24/08/21/2250253&from=rss)
 * [2024-08-21, 23:53:00](https://soylentnews.org/article.pl?sid=24/08/20/1813234&from=rss) - [A Legal Loophole is Allowing Companies to Include Unsafe Ingredients in US Foods](https://soylentnews.org/article.pl?sid=24/08/20/1813234&from=rss)
-* [2024-08-21, 19:06:00](https://soylentnews.org/article.pl?sid=24/08/20/188246&from=rss) - [General Motors Lays Off Hundreds Of US Workers](https://soylentnews.org/article.pl?sid=24/08/20/188246&from=rss)
 
 ## [Archives](archives/index.md)
 
