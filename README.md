@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-02, 13:18:00](https://soylentnews.org/article.pl?sid=24/09/01/0556247&from=rss) - [Can a Telescope See Astronauts’ Boot Prints on the Moon?](https://soylentnews.org/article.pl?sid=24/09/01/0556247&from=rss)
 * [2024-09-02, 06:37:00](https://soylentnews.org/article.pl?sid=24/09/01/011246&from=rss) - [African Farmers Are Using Private Satellite Data To Improve Crop Yields](https://soylentnews.org/article.pl?sid=24/09/01/011246&from=rss)
 * [2024-09-02, 01:52:00](https://soylentnews.org/article.pl?sid=24/09/01/0055233&from=rss) - [Ford Becomes the Latest Company to Scale Back its Diversity and Inclusion Policies](https://soylentnews.org/article.pl?sid=24/09/01/0055233&from=rss)
 * [2024-09-01, 21:08:00](https://soylentnews.org/article.pl?sid=24/09/01/0050214&from=rss) - [Unpatchable 0-Day In Surveillance Cam Is Being Exploited To Install Mirai](https://soylentnews.org/article.pl?sid=24/09/01/0050214&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-24, 12:39:00](https://soylentnews.org/article.pl?sid=24/08/23/0323228&from=rss) - [Astronomers Think They’Ve Found A Plausible Explanation Of The Wow! Signal](https://soylentnews.org/article.pl?sid=24/08/23/0323228&from=rss)
 * [2024-08-24, 07:54:00](https://soylentnews.org/article.pl?sid=24/08/23/037230&from=rss) - [OpenAI Exec Says California’S AI Safety Bill Might Slow Progress](https://soylentnews.org/article.pl?sid=24/08/23/037230&from=rss)
 * [2024-08-24, 03:08:00](https://soylentnews.org/article.pl?sid=24/08/23/0259256&from=rss) - [Typing A Specific Combination Of Ordinary Characters Can Crash Your iPhone](https://soylentnews.org/article.pl?sid=24/08/23/0259256&from=rss)
-* [2024-08-23, 23:23:00](https://soylentnews.org/article.pl?sid=24/08/23/0255248&from=rss) - [Cisco Wants United Nations To Revisit Cyber Crime Convention Report](https://soylentnews.org/article.pl?sid=24/08/23/0255248&from=rss)
 
 ## [Archives](archives/index.md)
 
