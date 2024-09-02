@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-02, 22:47:00](https://soylentnews.org/article.pl?sid=24/09/01/1358232&from=rss) - [A Long, Weird Foss Circle Ends As Microsoft Donates Mono To Wine Project ](https://soylentnews.org/article.pl?sid=24/09/01/1358232&from=rss)
 * [2024-09-02, 18:04:00](https://soylentnews.org/article.pl?sid=24/09/01/1356224&from=rss) - [China’s Vague 'Important Data' Definition Prompts EU Talks](https://soylentnews.org/article.pl?sid=24/09/01/1356224&from=rss)
 * [2024-09-02, 13:18:00](https://soylentnews.org/article.pl?sid=24/09/01/0556247&from=rss) - [Can a Telescope See Astronauts’ Boot Prints on the Moon?](https://soylentnews.org/article.pl?sid=24/09/01/0556247&from=rss)
 * [2024-09-02, 06:37:00](https://soylentnews.org/article.pl?sid=24/09/01/011246&from=rss) - [African Farmers Are Using Private Satellite Data To Improve Crop Yields](https://soylentnews.org/article.pl?sid=24/09/01/011246&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-24, 22:12:00](https://soylentnews.org/article.pl?sid=24/08/24/0737257&from=rss) - [A Review of the OpenSSH  Backdoors in Recent Decades](https://soylentnews.org/article.pl?sid=24/08/24/0737257&from=rss)
 * [2024-08-24, 17:25:00](https://soylentnews.org/article.pl?sid=24/08/24/0516253&from=rss) - [Google Strikes A Deal With California Lawmakers To Fund Local News](https://soylentnews.org/article.pl?sid=24/08/24/0516253&from=rss)
 * [2024-08-24, 12:39:00](https://soylentnews.org/article.pl?sid=24/08/23/0323228&from=rss) - [Astronomers Think They’Ve Found A Plausible Explanation Of The Wow! Signal](https://soylentnews.org/article.pl?sid=24/08/23/0323228&from=rss)
-* [2024-08-24, 07:54:00](https://soylentnews.org/article.pl?sid=24/08/23/037230&from=rss) - [OpenAI Exec Says California’S AI Safety Bill Might Slow Progress](https://soylentnews.org/article.pl?sid=24/08/23/037230&from=rss)
 
 ## [Archives](archives/index.md)
 
