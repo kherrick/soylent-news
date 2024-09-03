@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-03, 13:02:00](https://soylentnews.org/article.pl?sid=24/09/02/1415239&from=rss) - [Darwin's Fear Was Unjustified: Study Suggests Fossil Record Gaps Not a Major Issue](https://soylentnews.org/article.pl?sid=24/09/02/1415239&from=rss)
 * [2024-09-03, 08:17:00](https://soylentnews.org/article.pl?sid=24/09/01/2121249&from=rss) - [One Million Checkboxes](https://soylentnews.org/article.pl?sid=24/09/01/2121249&from=rss)
 * [2024-09-03, 03:33:00](https://soylentnews.org/article.pl?sid=24/09/01/200242&from=rss) - [NASA Discovers a Long-Sought Global Electric Field on Earth](https://soylentnews.org/article.pl?sid=24/09/01/200242&from=rss)
 * [2024-09-02, 22:47:00](https://soylentnews.org/article.pl?sid=24/09/01/1358232&from=rss) - [A Long, Weird Foss Circle Ends As Microsoft Donates Mono To Wine Project ](https://soylentnews.org/article.pl?sid=24/09/01/1358232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-25, 08:34:00](https://soylentnews.org/article.pl?sid=24/08/25/0827201&from=rss) - [NASA Decides to Keep 2 Astronauts in Space Until February, Nixes Return on Troubled Boeing Capsule](https://soylentnews.org/article.pl?sid=24/08/25/0827201&from=rss)
 * [2024-08-25, 07:41:00](https://soylentnews.org/article.pl?sid=24/08/24/1326248&from=rss) - [People Seen as Wise Share These Characteristics, According to a New Study](https://soylentnews.org/article.pl?sid=24/08/24/1326248&from=rss)
 * [2024-08-25, 02:57:00](https://soylentnews.org/article.pl?sid=24/08/24/139217&from=rss) - [Fed's Probe of Hard Braking in Cruise Robotaxi Crashes Ends After Recall](https://soylentnews.org/article.pl?sid=24/08/24/139217&from=rss)
-* [2024-08-24, 22:12:00](https://soylentnews.org/article.pl?sid=24/08/24/0737257&from=rss) - [A Review of the OpenSSH  Backdoors in Recent Decades](https://soylentnews.org/article.pl?sid=24/08/24/0737257&from=rss)
 
 ## [Archives](archives/index.md)
 
