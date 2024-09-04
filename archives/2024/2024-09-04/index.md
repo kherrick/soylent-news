@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 05:57:00](https://soylentnews.org/article.pl?sid=24/09/03/088217&from=rss) - [The Deadly Cost of Workplace Rudeness](https://soylentnews.org/article.pl?sid=24/09/03/088217&from=rss)
 * [2024-09-04, 01:14:00](https://soylentnews.org/article.pl?sid=24/09/03/085232&from=rss) - [‘It’s just black sky up there’: 50 years on, the Transatlantic Flight Speed Record Remains Unbroken](https://soylentnews.org/article.pl?sid=24/09/03/085232&from=rss)

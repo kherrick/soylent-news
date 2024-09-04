@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-04, 05:57:00](https://soylentnews.org/article.pl?sid=24/09/03/088217&from=rss) - [The Deadly Cost of Workplace Rudeness](https://soylentnews.org/article.pl?sid=24/09/03/088217&from=rss)
 * [2024-09-04, 01:14:00](https://soylentnews.org/article.pl?sid=24/09/03/085232&from=rss) - [‘It’s just black sky up there’: 50 years on, the Transatlantic Flight Speed Record Remains Unbroken](https://soylentnews.org/article.pl?sid=24/09/03/085232&from=rss)
 * [2024-09-03, 22:31:00](https://soylentnews.org/article.pl?sid=24/09/02/1732224&from=rss) - [Dungeons and Dragons Can Help Autistic People Gain Confidence and Find Their Inner Hero](https://soylentnews.org/article.pl?sid=24/09/02/1732224&from=rss)
 * [2024-09-03, 17:46:00](https://soylentnews.org/article.pl?sid=24/09/02/1557222&from=rss) - [At Least 24 EU Countries Struggle With Teacher Shortages](https://soylentnews.org/article.pl?sid=24/09/02/1557222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-26, 03:29:00](https://soylentnews.org/article.pl?sid=24/08/25/0733206&from=rss) - [UPDATED - Telegram's Pavel Durov Arrested in France](https://soylentnews.org/article.pl?sid=24/08/25/0733206&from=rss)
 * [2024-08-25, 22:42:00](https://soylentnews.org/article.pl?sid=24/08/25/074255&from=rss) - [Locking Up Items to Deter Shoplifting is Pushing Shoppers Online](https://soylentnews.org/article.pl?sid=24/08/25/074255&from=rss)
 * [2024-08-25, 17:01:00](https://soylentnews.org/article.pl?sid=24/08/24/1347258&from=rss) - [To Kill Mammoths in the Ice Age, People Used Planted Pikes, Not Throwing Spears, Researchers Say](https://soylentnews.org/article.pl?sid=24/08/24/1347258&from=rss)
-* [2024-08-25, 12:12:00](https://soylentnews.org/article.pl?sid=24/08/24/1335224&from=rss) - [Grand Jury Finds Sacramento Cops Illegally Shared Driver Data](https://soylentnews.org/article.pl?sid=24/08/24/1335224&from=rss)
 
 ## [Archives](archives/index.md)
 
