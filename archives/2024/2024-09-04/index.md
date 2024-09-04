@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 10:43:00](https://soylentnews.org/article.pl?sid=24/09/03/0814256&from=rss) - [Boeing's Starliner is Making Mysterious 'Sonar' Noises and No One Can Explain It](https://soylentnews.org/article.pl?sid=24/09/03/0814256&from=rss)
 * [2024-09-04, 05:57:00](https://soylentnews.org/article.pl?sid=24/09/03/088217&from=rss) - [The Deadly Cost of Workplace Rudeness](https://soylentnews.org/article.pl?sid=24/09/03/088217&from=rss)
 * [2024-09-04, 01:14:00](https://soylentnews.org/article.pl?sid=24/09/03/085232&from=rss) - [‘It’s just black sky up there’: 50 years on, the Transatlantic Flight Speed Record Remains Unbroken](https://soylentnews.org/article.pl?sid=24/09/03/085232&from=rss)
