@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-04, 15:28:00](https://soylentnews.org/article.pl?sid=24/09/04/035204&from=rss) - [They Don't Make ’Em Like That Any More: The 3.5mm Headphone Jack Socket](https://soylentnews.org/article.pl?sid=24/09/04/035204&from=rss)
 * [2024-09-04, 10:43:00](https://soylentnews.org/article.pl?sid=24/09/03/0814256&from=rss) - [Boeing's Starliner is Making Mysterious 'Sonar' Noises and No One Can Explain It](https://soylentnews.org/article.pl?sid=24/09/03/0814256&from=rss)
 * [2024-09-04, 05:57:00](https://soylentnews.org/article.pl?sid=24/09/03/088217&from=rss) - [The Deadly Cost of Workplace Rudeness](https://soylentnews.org/article.pl?sid=24/09/03/088217&from=rss)
 * [2024-09-04, 01:14:00](https://soylentnews.org/article.pl?sid=24/09/03/085232&from=rss) - [‘It’s just black sky up there’: 50 years on, the Transatlantic Flight Speed Record Remains Unbroken](https://soylentnews.org/article.pl?sid=24/09/03/085232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-26, 12:37:00](https://soylentnews.org/article.pl?sid=24/08/25/0737244&from=rss) - [Revolutionary Tiny Sensor Reveals Hidden Neuron Activity](https://soylentnews.org/article.pl?sid=24/08/25/0737244&from=rss)
 * [2024-08-26, 07:54:00](https://soylentnews.org/article.pl?sid=24/08/25/0735236&from=rss) - [Banks Realize Backing Elon’s Twitter Buyout Is Close To ‘The Worst Buyout Of All Time’ ](https://soylentnews.org/article.pl?sid=24/08/25/0735236&from=rss)
 * [2024-08-26, 03:29:00](https://soylentnews.org/article.pl?sid=24/08/25/0733206&from=rss) - [UPDATED - Telegram's Pavel Durov Arrested in France](https://soylentnews.org/article.pl?sid=24/08/25/0733206&from=rss)
-* [2024-08-25, 22:42:00](https://soylentnews.org/article.pl?sid=24/08/25/074255&from=rss) - [Locking Up Items to Deter Shoplifting is Pushing Shoppers Online](https://soylentnews.org/article.pl?sid=24/08/25/074255&from=rss)
 
 ## [Archives](archives/index.md)
 
