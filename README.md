@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-05, 20:05:00](https://soylentnews.org/article.pl?sid=24/09/04/1435247&from=rss) - [Video Gaming Improves Mental Well-Being, Landmark Study Finds](https://soylentnews.org/article.pl?sid=24/09/04/1435247&from=rss)
 * [2024-09-05, 15:22:00](https://soylentnews.org/article.pl?sid=24/09/04/1433228&from=rss) - [\"Rust for Linux\" Lead Retires Rather Than Deal With More “Nontechnical Nonsense”](https://soylentnews.org/article.pl?sid=24/09/04/1433228&from=rss)
 * [2024-09-05, 10:36:00](https://soylentnews.org/article.pl?sid=24/09/04/0435252&from=rss) - [End of the line for Kim Dotcom?](https://soylentnews.org/article.pl?sid=24/09/04/0435252&from=rss)
 * [2024-09-05, 05:51:00](https://soylentnews.org/article.pl?sid=24/09/04/0324222&from=rss) - [Study Finds People Are Consistently and Confidently Wrong About Those With Opposing Views](https://soylentnews.org/article.pl?sid=24/09/04/0324222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-27, 17:11:00](https://soylentnews.org/article.pl?sid=24/08/27/0433254&from=rss) - [Netherlands Hits Uber With €290M Fine for Transfer of ‘Sensitive’ Driver Data to US](https://soylentnews.org/article.pl?sid=24/08/27/0433254&from=rss)
 * [2024-08-27, 12:24:00](https://soylentnews.org/article.pl?sid=24/08/27/0421227&from=rss) - [Amazon's AI Assistant Saves , 4500 Years of Development Time, CEO Andy Jassy Says](https://soylentnews.org/article.pl?sid=24/08/27/0421227&from=rss)
 * [2024-08-27, 07:38:00](https://soylentnews.org/article.pl?sid=24/08/26/127253&from=rss) - [Here's How We Could Turn Plastic Waste Into Food](https://soylentnews.org/article.pl?sid=24/08/26/127253&from=rss)
-* [2024-08-27, 02:53:00](https://soylentnews.org/article.pl?sid=24/08/25/1514218&from=rss) - [Amazon is Bricking Primary Feature on $160 Echo Device After 1 Year](https://soylentnews.org/article.pl?sid=24/08/25/1514218&from=rss)
 
 ## [Archives](archives/index.md)
 
