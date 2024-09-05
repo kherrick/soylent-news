@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-05, 10:36:00](https://soylentnews.org/article.pl?sid=24/09/04/0435252&from=rss) - [End of the line for Kim Dotcom?](https://soylentnews.org/article.pl?sid=24/09/04/0435252&from=rss)
 * [2024-09-05, 05:51:00](https://soylentnews.org/article.pl?sid=24/09/04/0324222&from=rss) - [Study Finds People Are Consistently and Confidently Wrong About Those With Opposing Views](https://soylentnews.org/article.pl?sid=24/09/04/0324222&from=rss)
 * [2024-09-05, 01:04:00](https://soylentnews.org/article.pl?sid=24/09/04/0317221&from=rss) - [Crowdstrike Meltdown Didn't Dent Its Market Dominance … Yet ](https://soylentnews.org/article.pl?sid=24/09/04/0317221&from=rss)
 * [2024-09-04, 20:16:00](https://soylentnews.org/article.pl?sid=24/09/04/0247256&from=rss) - [Trying to Outrun Ukrainian Drones? Kursk Traffic Cams Still Issue Speeding Tickets](https://soylentnews.org/article.pl?sid=24/09/04/0247256&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-27, 07:38:00](https://soylentnews.org/article.pl?sid=24/08/26/127253&from=rss) - [Here's How We Could Turn Plastic Waste Into Food](https://soylentnews.org/article.pl?sid=24/08/26/127253&from=rss)
 * [2024-08-27, 02:53:00](https://soylentnews.org/article.pl?sid=24/08/25/1514218&from=rss) - [Amazon is Bricking Primary Feature on $160 Echo Device After 1 Year](https://soylentnews.org/article.pl?sid=24/08/25/1514218&from=rss)
 * [2024-08-26, 22:08:00](https://soylentnews.org/article.pl?sid=24/08/25/0751250&from=rss) - [Russia Fears Ukraine Hijacking Home CCTV Systems For Intel ](https://soylentnews.org/article.pl?sid=24/08/25/0751250&from=rss)
-* [2024-08-26, 17:26:00](https://soylentnews.org/article.pl?sid=24/08/25/0743200&from=rss) - [Problem With Rescuing the Stranded Astronauts: Spacesuits Aren't Compatible](https://soylentnews.org/article.pl?sid=24/08/25/0743200&from=rss)
 
 ## [Archives](archives/index.md)
 
