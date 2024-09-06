@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-06, 19:48:00](https://soylentnews.org/article.pl?sid=24/09/05/0410229&from=rss) - [Astrobotic’s Lander Didn’t Make It To The Moon Because Of A Failed Valve](https://soylentnews.org/article.pl?sid=24/09/05/0410229&from=rss)
 * [2024-09-06, 15:06:00](https://soylentnews.org/article.pl?sid=24/09/05/043255&from=rss) - [The Possibilities for Dark Matter Have Just Shrunk](https://soylentnews.org/article.pl?sid=24/09/05/043255&from=rss)
 * [2024-09-06, 10:21:00](https://soylentnews.org/article.pl?sid=24/09/04/153219&from=rss) - [Admins Wonder If the Cloud Was Such a Good Idea After All](https://soylentnews.org/article.pl?sid=24/09/04/153219&from=rss)
 * [2024-09-06, 05:29:00](https://soylentnews.org/article.pl?sid=24/09/04/150219&from=rss) - [Facebook Ad Partner Admits to Listening to Your Microphone to You Serve Ads on What You Talk About](https://soylentnews.org/article.pl?sid=24/09/04/150219&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-28, 16:52:00](https://soylentnews.org/article.pl?sid=24/08/27/162254&from=rss) - [Semiconductor Giant Renesas Acquires PCB Layout Software Maker Altium for $5.9bn](https://soylentnews.org/article.pl?sid=24/08/27/162254&from=rss)
 * [2024-08-28, 12:09:00](https://soylentnews.org/article.pl?sid=24/08/27/1559234&from=rss) - [Advertising Ruins Everything](https://soylentnews.org/article.pl?sid=24/08/27/1559234&from=rss)
 * [2024-08-28, 07:20:00](https://soylentnews.org/article.pl?sid=24/08/27/1547215&from=rss) - [IBM to Shut Down China Research Centers, Laying Off Over 1,000 Workers](https://soylentnews.org/article.pl?sid=24/08/27/1547215&from=rss)
-* [2024-08-28, 02:36:00](https://soylentnews.org/article.pl?sid=24/08/27/1155227&from=rss) - [Antarctica Vulnerable To Invasive Species Hitching Rides On Plastic And Organic Debris](https://soylentnews.org/article.pl?sid=24/08/27/1155227&from=rss)
 
 ## [Archives](archives/index.md)
 
