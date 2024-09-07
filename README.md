@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-07, 14:49:00](https://soylentnews.org/article.pl?sid=24/09/06/1510207&from=rss) - [After Seeing Wi-Fi Network Named “STINKY,” Navy Found Hidden Starlink Dish on US Warship](https://soylentnews.org/article.pl?sid=24/09/06/1510207&from=rss)
 * [2024-09-07, 10:03:00](https://soylentnews.org/article.pl?sid=24/09/06/0335213&from=rss) - [Cops Tow Away Teslas To ‘Secure’ Recordings Captured By Cars’ Cameras](https://soylentnews.org/article.pl?sid=24/09/06/0335213&from=rss)
 * [2024-09-07, 05:15:00](https://soylentnews.org/article.pl?sid=24/09/06/0330259&from=rss) - [In the Hunt for Alien Life, is Man Truly 'the Measure of All Things?'](https://soylentnews.org/article.pl?sid=24/09/06/0330259&from=rss)
 * [2024-09-07, 00:31:00](https://soylentnews.org/article.pl?sid=24/09/06/0322231&from=rss) - [Coreboot 24.08 Has Been Released](https://soylentnews.org/article.pl?sid=24/09/06/0322231&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-29, 07:13:00](https://soylentnews.org/article.pl?sid=24/08/28/0354221&from=rss) - [Major Habitat Loss Looms For Top Marine Predators Amid Climate Change](https://soylentnews.org/article.pl?sid=24/08/28/0354221&from=rss)
 * [2024-08-29, 02:30:00](https://soylentnews.org/article.pl?sid=24/08/28/0346258&from=rss) - [AI Demand Is Fueling A Data Center Development Boom In North America](https://soylentnews.org/article.pl?sid=24/08/28/0346258&from=rss)
 * [2024-08-28, 21:42:00](https://soylentnews.org/article.pl?sid=24/08/27/167218&from=rss) - [NSA Releases Digital Copy of Internal Lecture by Rear Adm. Grace Hopper](https://soylentnews.org/article.pl?sid=24/08/27/167218&from=rss)
-* [2024-08-28, 17:32:00](https://soylentnews.org/article.pl?sid=24/08/28/1727205&from=rss) - [Pavel Durov Story has been Updated](https://soylentnews.org/article.pl?sid=24/08/28/1727205&from=rss)
 
 ## [Archives](archives/index.md)
 
