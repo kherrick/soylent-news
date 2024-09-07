@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-07, 05:15:00](https://soylentnews.org/article.pl?sid=24/09/06/0330259&from=rss) - [In the Hunt for Alien Life, is Man Truly 'the Measure of All Things?'](https://soylentnews.org/article.pl?sid=24/09/06/0330259&from=rss)
 * [2024-09-07, 00:31:00](https://soylentnews.org/article.pl?sid=24/09/06/0322231&from=rss) - [Coreboot 24.08 Has Been Released](https://soylentnews.org/article.pl?sid=24/09/06/0322231&from=rss)
 * [2024-09-06, 19:48:00](https://soylentnews.org/article.pl?sid=24/09/05/0410229&from=rss) - [Astrobotic’s Lander Didn’t Make It To The Moon Because Of A Failed Valve](https://soylentnews.org/article.pl?sid=24/09/05/0410229&from=rss)
 * [2024-09-06, 15:06:00](https://soylentnews.org/article.pl?sid=24/09/05/043255&from=rss) - [The Possibilities for Dark Matter Have Just Shrunk](https://soylentnews.org/article.pl?sid=24/09/05/043255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-28, 21:42:00](https://soylentnews.org/article.pl?sid=24/08/27/167218&from=rss) - [NSA Releases Digital Copy of Internal Lecture by Rear Adm. Grace Hopper](https://soylentnews.org/article.pl?sid=24/08/27/167218&from=rss)
 * [2024-08-28, 17:32:00](https://soylentnews.org/article.pl?sid=24/08/28/1727205&from=rss) - [Pavel Durov Story has been Updated](https://soylentnews.org/article.pl?sid=24/08/28/1727205&from=rss)
 * [2024-08-28, 16:52:00](https://soylentnews.org/article.pl?sid=24/08/27/162254&from=rss) - [Semiconductor Giant Renesas Acquires PCB Layout Software Maker Altium for $5.9bn](https://soylentnews.org/article.pl?sid=24/08/27/162254&from=rss)
-* [2024-08-28, 12:09:00](https://soylentnews.org/article.pl?sid=24/08/27/1559234&from=rss) - [Advertising Ruins Everything](https://soylentnews.org/article.pl?sid=24/08/27/1559234&from=rss)
 
 ## [Archives](archives/index.md)
 
