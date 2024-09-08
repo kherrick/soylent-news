@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-08, 14:38:00](https://soylentnews.org/article.pl?sid=24/09/06/187243&from=rss) - [FAI.Me. Build Your Own Debian Live Image (Via Web)](https://soylentnews.org/article.pl?sid=24/09/06/187243&from=rss)
 * [2024-09-08, 09:50:00](https://soylentnews.org/article.pl?sid=24/09/06/1533256&from=rss) - [FBI Busts Musician's Elaborate AI-Powered $10M Streaming-Royalty Heist](https://soylentnews.org/article.pl?sid=24/09/06/1533256&from=rss)
 * [2024-09-08, 05:04:00](https://soylentnews.org/article.pl?sid=24/09/06/1526248&from=rss) - [City of Columbus Sues Man After He Discloses Severity of Ransomware Attack](https://soylentnews.org/article.pl?sid=24/09/06/1526248&from=rss)
 * [2024-09-08, 00:20:00](https://soylentnews.org/article.pl?sid=24/09/06/1523222&from=rss) - [Common Food Dye Found to Make Skin and Muscle Temporarily Transparent](https://soylentnews.org/article.pl?sid=24/09/06/1523222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-30, 07:07:00](https://soylentnews.org/article.pl?sid=24/08/29/0217203&from=rss) - [Scientists Discover How Omega-3 Battles Heart Disease At The Molecular Level](https://soylentnews.org/article.pl?sid=24/08/29/0217203&from=rss)
 * [2024-08-30, 02:21:00](https://soylentnews.org/article.pl?sid=24/08/29/0043200&from=rss) - [PC Floppy Copy Protection: Formaster Copy-Lock ](https://soylentnews.org/article.pl?sid=24/08/29/0043200&from=rss)
 * [2024-08-29, 21:36:00](https://soylentnews.org/article.pl?sid=24/08/29/0039250&from=rss) - [Turns Out Martin Shkreli Copied His $2M Wu-Tang Album—and Sent It to “50 Different Chicks”](https://soylentnews.org/article.pl?sid=24/08/29/0039250&from=rss)
-* [2024-08-29, 16:49:00](https://soylentnews.org/article.pl?sid=24/08/29/0033200&from=rss) - [How I Got a Truly Anonymous Signal Account](https://soylentnews.org/article.pl?sid=24/08/29/0033200&from=rss)
 
 ## [Archives](archives/index.md)
 
