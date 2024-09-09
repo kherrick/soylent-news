@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-09, 18:41:00](https://soylentnews.org/article.pl?sid=24/09/08/1439231&from=rss) - [Tiny New Lasers Fill A Long-Standing Gap In The Rainbow Of Visible-Light Colors](https://soylentnews.org/article.pl?sid=24/09/08/1439231&from=rss)
 * [2024-09-09, 13:54:00](https://soylentnews.org/article.pl?sid=24/09/08/1430251&from=rss) - [What is 'Stage 0' Breast Cancer and How is It Treated?](https://soylentnews.org/article.pl?sid=24/09/08/1430251&from=rss)
 * [2024-09-09, 09:49:00](https://soylentnews.org/article.pl?sid=24/09/08/1421225&from=rss) - [Internet Archive Responds to Appellate Opinion in Hachette v. Internet Archive](https://soylentnews.org/article.pl?sid=24/09/08/1421225&from=rss)
 * [2024-09-09, 05:02:00](https://soylentnews.org/article.pl?sid=24/09/07/1355200&from=rss) - [Scientists Find Microplastic Contamination in 'Pristine' Ancient Remains](https://soylentnews.org/article.pl?sid=24/09/07/1355200&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-31, 11:57:00](https://soylentnews.org/article.pl?sid=24/08/30/1428239&from=rss) - [Appeals Court Revives Lawsuit Over \"Blackout Challenge\" Death](https://soylentnews.org/article.pl?sid=24/08/30/1428239&from=rss)
 * [2024-08-31, 07:13:00](https://soylentnews.org/article.pl?sid=24/08/30/048213&from=rss) - [Air Con: $1697 for an On/Off Switch](https://soylentnews.org/article.pl?sid=24/08/30/048213&from=rss)
 * [2024-08-31, 02:26:00](https://soylentnews.org/article.pl?sid=24/08/29/2317232&from=rss) - [Beyond Einstein: Attosecond X-Ray Pulses Unlock the Secrets of the Photoelectric Effect](https://soylentnews.org/article.pl?sid=24/08/29/2317232&from=rss)
-* [2024-08-30, 21:24:00](https://soylentnews.org/article.pl?sid=24/08/29/1823214&from=rss) - [California State Assembly Passes Sweeping AI Safety Bill](https://soylentnews.org/article.pl?sid=24/08/29/1823214&from=rss)
 
 ## [Archives](archives/index.md)
 
