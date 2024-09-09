@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-09, 09:49:00](https://soylentnews.org/article.pl?sid=24/09/08/1421225&from=rss) - [Internet Archive Responds to Appellate Opinion in Hachette v. Internet Archive](https://soylentnews.org/article.pl?sid=24/09/08/1421225&from=rss)
 * [2024-09-09, 05:02:00](https://soylentnews.org/article.pl?sid=24/09/07/1355200&from=rss) - [Scientists Find Microplastic Contamination in 'Pristine' Ancient Remains](https://soylentnews.org/article.pl?sid=24/09/07/1355200&from=rss)
 * [2024-09-09, 00:19:00](https://soylentnews.org/article.pl?sid=24/09/07/1345252&from=rss) - [China's Volt Typhoon Suspected Of Exploiting Versa Bug](https://soylentnews.org/article.pl?sid=24/09/07/1345252&from=rss)
 * [2024-09-08, 19:37:00](https://soylentnews.org/article.pl?sid=24/09/07/1338252&from=rss) - [The Stratocaster Became Rock Music's Most Iconic Guitar 70 Years Ago](https://soylentnews.org/article.pl?sid=24/09/07/1338252&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-31, 02:26:00](https://soylentnews.org/article.pl?sid=24/08/29/2317232&from=rss) - [Beyond Einstein: Attosecond X-Ray Pulses Unlock the Secrets of the Photoelectric Effect](https://soylentnews.org/article.pl?sid=24/08/29/2317232&from=rss)
 * [2024-08-30, 21:24:00](https://soylentnews.org/article.pl?sid=24/08/29/1823214&from=rss) - [California State Assembly Passes Sweeping AI Safety Bill](https://soylentnews.org/article.pl?sid=24/08/29/1823214&from=rss)
 * [2024-08-30, 16:38:00](https://soylentnews.org/article.pl?sid=24/08/29/1819231&from=rss) - [Rocket Factory Augsburg Gives Update On Saxavord Explosion](https://soylentnews.org/article.pl?sid=24/08/29/1819231&from=rss)
-* [2024-08-30, 11:53:00](https://soylentnews.org/article.pl?sid=24/08/29/1814226&from=rss) - [Bypassing Airport Security Via SQL Injection](https://soylentnews.org/article.pl?sid=24/08/29/1814226&from=rss)
 
 ## [Archives](archives/index.md)
 
