@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-10, 04:04:00](https://soylentnews.org/article.pl?sid=24/09/08/152211&from=rss) - [Rand Paul Is Right: Censoring The Internet Doesn’t Protect Kids](https://soylentnews.org/article.pl?sid=24/09/08/152211&from=rss)
 * [2024-09-09, 23:22:00](https://soylentnews.org/article.pl?sid=24/09/08/1444219&from=rss) - [Steve Wozniak Reunites With Historic Homebrew Computer Club - 50 Years Later](https://soylentnews.org/article.pl?sid=24/09/08/1444219&from=rss)
 * [2024-09-09, 18:41:00](https://soylentnews.org/article.pl?sid=24/09/08/1439231&from=rss) - [Tiny New Lasers Fill A Long-Standing Gap In The Rainbow Of Visible-Light Colors](https://soylentnews.org/article.pl?sid=24/09/08/1439231&from=rss)
 * [2024-09-09, 13:54:00](https://soylentnews.org/article.pl?sid=24/09/08/1430251&from=rss) - [What is 'Stage 0' Breast Cancer and How is It Treated?](https://soylentnews.org/article.pl?sid=24/09/08/1430251&from=rss)
@@ -49,7 +50,6 @@
 * [2024-08-31, 21:21:00](https://soylentnews.org/article.pl?sid=24/08/30/1518242&from=rss) - [DOJ Declares Victory Over Backpage as Judge Sends Founder Lacey to Prison](https://soylentnews.org/article.pl?sid=24/08/30/1518242&from=rss)
 * [2024-08-31, 16:36:00](https://soylentnews.org/article.pl?sid=24/08/30/1444216&from=rss) - [Firewall Rules: Not as Secure as You Think](https://soylentnews.org/article.pl?sid=24/08/30/1444216&from=rss)
 * [2024-08-31, 11:57:00](https://soylentnews.org/article.pl?sid=24/08/30/1428239&from=rss) - [Appeals Court Revives Lawsuit Over \"Blackout Challenge\" Death](https://soylentnews.org/article.pl?sid=24/08/30/1428239&from=rss)
-* [2024-08-31, 07:13:00](https://soylentnews.org/article.pl?sid=24/08/30/048213&from=rss) - [Air Con: $1697 for an On/Off Switch](https://soylentnews.org/article.pl?sid=24/08/30/048213&from=rss)
 
 ## [Archives](archives/index.md)
 
