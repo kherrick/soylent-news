@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-10, 22:56:00](https://soylentnews.org/article.pl?sid=24/09/09/1838229&from=rss) - [WaveCore Runs Right Through a Concrete Wall With Gigabit-Speed Network Signal](https://soylentnews.org/article.pl?sid=24/09/09/1838229&from=rss)
 * [2024-09-10, 18:13:00](https://soylentnews.org/article.pl?sid=24/09/09/1835206&from=rss) - [The Beginnings of FM Radio Broadcasting](https://soylentnews.org/article.pl?sid=24/09/09/1835206&from=rss)
 * [2024-09-10, 13:32:00](https://soylentnews.org/article.pl?sid=24/09/09/1127228&from=rss) - [Leaving Behind its Crew, Starliner Departs Space Station and Returns to Earth](https://soylentnews.org/article.pl?sid=24/09/09/1127228&from=rss)
 * [2024-09-10, 08:50:00](https://soylentnews.org/article.pl?sid=24/09/08/2123254&from=rss) - [Chinese Broadband Satellites May be Beijing's Orbiting Spies](https://soylentnews.org/article.pl?sid=24/09/08/2123254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-01, 16:21:00](https://soylentnews.org/article.pl?sid=24/09/01/0045246&from=rss) - [Top Brazilian Judge Orders Suspension of X Platform in Nation](https://soylentnews.org/article.pl?sid=24/09/01/0045246&from=rss)
 * [2024-09-01, 11:36:00](https://soylentnews.org/article.pl?sid=24/08/31/2142248&from=rss) - [New Luminescent Material Could Be The Answer To Crumbling Infrastructure](https://soylentnews.org/article.pl?sid=24/08/31/2142248&from=rss)
 * [2024-09-01, 06:50:00](https://soylentnews.org/article.pl?sid=24/08/31/1523204&from=rss) - [End of the Road: an AnandTech Farewell](https://soylentnews.org/article.pl?sid=24/08/31/1523204&from=rss)
-* [2024-09-01, 02:10:00](https://soylentnews.org/article.pl?sid=24/08/31/1512244&from=rss) - [Mysterious New Organism Found In Mono Lake Could Rewrite The History Of Life](https://soylentnews.org/article.pl?sid=24/08/31/1512244&from=rss)
 
 ## [Archives](archives/index.md)
 
