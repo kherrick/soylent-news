@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-11, 08:25:00](https://soylentnews.org/article.pl?sid=24/09/10/1122206&from=rss) - [Found: 280 Android Apps That Use OCR to Steal Cryptocurrency Credentials](https://soylentnews.org/article.pl?sid=24/09/10/1122206&from=rss)
 * [2024-09-11, 03:40:00](https://soylentnews.org/article.pl?sid=24/09/10/1112229&from=rss) - [Stellantis Lays Off Thousands of Workers after Pocketing Hundreds of Millions in EV Subsidies](https://soylentnews.org/article.pl?sid=24/09/10/1112229&from=rss)
 * [2024-09-10, 22:56:00](https://soylentnews.org/article.pl?sid=24/09/09/1838229&from=rss) - [WaveCore Runs Right Through a Concrete Wall With Gigabit-Speed Network Signal](https://soylentnews.org/article.pl?sid=24/09/09/1838229&from=rss)
 * [2024-09-10, 18:13:00](https://soylentnews.org/article.pl?sid=24/09/09/1835206&from=rss) - [The Beginnings of FM Radio Broadcasting](https://soylentnews.org/article.pl?sid=24/09/09/1835206&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-02, 01:52:00](https://soylentnews.org/article.pl?sid=24/09/01/0055233&from=rss) - [Ford Becomes the Latest Company to Scale Back its Diversity and Inclusion Policies](https://soylentnews.org/article.pl?sid=24/09/01/0055233&from=rss)
 * [2024-09-01, 21:08:00](https://soylentnews.org/article.pl?sid=24/09/01/0050214&from=rss) - [Unpatchable 0-Day In Surveillance Cam Is Being Exploited To Install Mirai](https://soylentnews.org/article.pl?sid=24/09/01/0050214&from=rss)
 * [2024-09-01, 16:21:00](https://soylentnews.org/article.pl?sid=24/09/01/0045246&from=rss) - [Top Brazilian Judge Orders Suspension of X Platform in Nation](https://soylentnews.org/article.pl?sid=24/09/01/0045246&from=rss)
-* [2024-09-01, 11:36:00](https://soylentnews.org/article.pl?sid=24/08/31/2142248&from=rss) - [New Luminescent Material Could Be The Answer To Crumbling Infrastructure](https://soylentnews.org/article.pl?sid=24/08/31/2142248&from=rss)
 
 ## [Archives](archives/index.md)
 
