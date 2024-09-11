@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-11, 22:44:00](https://soylentnews.org/article.pl?sid=24/09/10/1645202&from=rss) - [Is Accidentally Stumbling Across the Unknown a Key Part of Science?](https://soylentnews.org/article.pl?sid=24/09/10/1645202&from=rss)
 * [2024-09-11, 17:59:00](https://soylentnews.org/article.pl?sid=24/09/10/1640243&from=rss) - [Apple Forced to Pay €13bn in Back Taxes](https://soylentnews.org/article.pl?sid=24/09/10/1640243&from=rss)
 * [2024-09-11, 13:14:00](https://soylentnews.org/article.pl?sid=24/09/10/1125221&from=rss) - [Ukrainian Drones Now Spray 2,500°C Thermite Streams Right Into Russian Trenches](https://soylentnews.org/article.pl?sid=24/09/10/1125221&from=rss)
 * [2024-09-11, 08:25:00](https://soylentnews.org/article.pl?sid=24/09/10/1122206&from=rss) - [Found: 280 Android Apps That Use OCR to Steal Cryptocurrency Credentials](https://soylentnews.org/article.pl?sid=24/09/10/1122206&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-02, 18:04:00](https://soylentnews.org/article.pl?sid=24/09/01/1356224&from=rss) - [China’s Vague 'Important Data' Definition Prompts EU Talks](https://soylentnews.org/article.pl?sid=24/09/01/1356224&from=rss)
 * [2024-09-02, 13:18:00](https://soylentnews.org/article.pl?sid=24/09/01/0556247&from=rss) - [Can a Telescope See Astronauts’ Boot Prints on the Moon?](https://soylentnews.org/article.pl?sid=24/09/01/0556247&from=rss)
 * [2024-09-02, 06:37:00](https://soylentnews.org/article.pl?sid=24/09/01/011246&from=rss) - [African Farmers Are Using Private Satellite Data To Improve Crop Yields](https://soylentnews.org/article.pl?sid=24/09/01/011246&from=rss)
-* [2024-09-02, 01:52:00](https://soylentnews.org/article.pl?sid=24/09/01/0055233&from=rss) - [Ford Becomes the Latest Company to Scale Back its Diversity and Inclusion Policies](https://soylentnews.org/article.pl?sid=24/09/01/0055233&from=rss)
 
 ## [Archives](archives/index.md)
 
