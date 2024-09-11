@@ -145,6 +145,82 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/09/10/1640243">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/09/10/1640243&amp;from=rss"
+              >Apple Forced to Pay €13bn in Back Taxes</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-11 @ 17:59:00</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/09/10/1640243"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~quietus/">quietus</a> writes:</p>
+              <p>
+                The European Court of Justice has ruled that Apple has gotten an
+                unfair tax advantage by the Irish tax authorities over the
+                period 1991 to 2014.
+              </p>
+              <p>
+                During this period, Apple only paid taxes in the European Union
+                through 2 subsidiaries in Ireland, Apple Sales International and
+                Apple Operations Europe. Both companies were granted exemption
+                tax rules by the Irish government in 1991 and 2007. As a result
+                of the allocation method endorsed in these tax rulings, Apple
+                only paid an effective corporate tax rate that declined from 1%
+                in 2003 to 0.005% in 2014 on the profits of Apple Sales
+                International.
+              </p>
+              <p>
+                This selective tax treatment of Apple in Ireland is illegal
+                under EU state aid rules, because it gives Apple a significant
+                advantage over other businesses that are subject to the normal
+                national taxation rules, according to the European Commission.
+              </p>
+              <p>
+                After a long
+                <a
+                  href="https://curia.europa.eu/juris/documents.jsf?num=C-465/20%20P"
+                  >legal battle</a
+                >, the European Court of Justice has now
+                <a
+                  href="https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-09/cp240133en.pdf"
+                  >ruled</a
+                >
+                that this
+                <a
+                  href="https://ec.europa.eu/commission/presscorner/detail/en/IP_16_2923"
+                  >viewpoint of the Commission</a
+                >
+                is correct, and Apple needs to pay illegal tax benefits worth
+                €13 billion, plus rent, to the Irish authorities.
+              </p>
+              <p>There is no appeal possible to this decision.</p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63712"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/09/10/1125221">
           <h3>
             <a
@@ -502,7 +578,7 @@
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/09/1838229"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -5065,99 +5141,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63629"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/09/01/0050214">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/09/01/0050214&amp;from=rss"
-              >Unpatchable 0-Day In Surveillance Cam Is Being Exploited To
-              Install Mirai</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-01 @ 21:08:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2839</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/09/01/0050214"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-            <div class="text">
-              <blockquote>
-                <div>
-                  <p>
-                    [...] This vulnerability was originally discovered by
-                    examining our honeypot logs.
-                  </p>
-                  <p>
-                    The vulnerability lies in the brightness function within the
-                    file /cgi-bin/supervisor/Factory.cgi.
-                  </p>
-                  <p>
-                    In the exploit examples we observed, essentially what
-                    happened is this: The exploit of this vulnerability allows
-                    an attacker to execute remote code on a target system.
-                  </p>
-                  <p>
-                    Figure 3 is an example of a threat actor exploiting this
-                    flaw to download and run a JavaScript file to fetch and load
-                    their main malware payload. Similar to many other botnets,
-                    this one is also spreading a variant of Mirai malware to its
-                    targets.
-                  </p>
-                  <p>
-                    In this instance, the botnet is likely using the Corona
-                    Mirai variant, which has been referenced by other vendors as
-                    early as 2020 in relation to the COVID-19 virus.
-                  </p>
-                  <p>
-                    Upon execution, the malware connects to a large number of
-                    hosts through Telnet on ports 23, 2323, and 37215. It also
-                    prints the string “Corona” to the console on an infected
-                    host (Figure 4).
-                  </p>
-                  <p>
-                    Static analysis of the strings in the malware samples shows
-                    targeting of the path /ctrlt/DeviceUpgrade_1 in an attempt
-                    to exploit Huawei devices affected by CVE-2017-17215. The
-                    samples have two hard-coded command and control IP
-                    addresses, one of which is part of the CVE-2017-17215
-                    exploit code:
-                  </p>
-                  <p>
-                    The botnet also targeted several other vulnerabilities
-                    including a Hadoop YARN RCE, CVE-2014-8361, and
-                    CVE-2017-17215. We have observed these vulnerabilities
-                    exploited in the wild several times, and they continue to be
-                    successful.
-                  </p>
-                  <p>
-                    Given that this camera model is no longer supported, the
-                    best course of action for anyone using one is to replace it.
-                    As with all Internet-connected devices, IoT devices should
-                    never be accessible using the default credentials that
-                    shipped with them.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63620"
                     >Original Submission</a
                   ></small
                 >
