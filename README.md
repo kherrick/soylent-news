@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-12, 12:55:00](https://soylentnews.org/article.pl?sid=24/09/11/1718205&from=rss) - [Rogue WHOIS Server Gives Researcher Superpowers No One Should Ever Have](https://soylentnews.org/article.pl?sid=24/09/11/1718205&from=rss)
 * [2024-09-12, 08:14:00](https://soylentnews.org/article.pl?sid=24/09/11/0253208&from=rss) - [V2X Technology to Become Standard in Most Vehicles](https://soylentnews.org/article.pl?sid=24/09/11/0253208&from=rss)
 * [2024-09-12, 03:28:00](https://soylentnews.org/article.pl?sid=24/09/11/0239207&from=rss) - [Ford Seeks Patent for Tech that Listens to Driver Conversations to Serve Ads](https://soylentnews.org/article.pl?sid=24/09/11/0239207&from=rss)
 * [2024-09-11, 22:44:00](https://soylentnews.org/article.pl?sid=24/09/10/1645202&from=rss) - [Is Accidentally Stumbling Across the Unknown a Key Part of Science?](https://soylentnews.org/article.pl?sid=24/09/10/1645202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-03, 08:17:00](https://soylentnews.org/article.pl?sid=24/09/01/2121249&from=rss) - [One Million Checkboxes](https://soylentnews.org/article.pl?sid=24/09/01/2121249&from=rss)
 * [2024-09-03, 03:33:00](https://soylentnews.org/article.pl?sid=24/09/01/200242&from=rss) - [NASA Discovers a Long-Sought Global Electric Field on Earth](https://soylentnews.org/article.pl?sid=24/09/01/200242&from=rss)
 * [2024-09-02, 22:47:00](https://soylentnews.org/article.pl?sid=24/09/01/1358232&from=rss) - [A Long, Weird Foss Circle Ends As Microsoft Donates Mono To Wine Project ](https://soylentnews.org/article.pl?sid=24/09/01/1358232&from=rss)
-* [2024-09-02, 18:04:00](https://soylentnews.org/article.pl?sid=24/09/01/1356224&from=rss) - [China’s Vague 'Important Data' Definition Prompts EU Talks](https://soylentnews.org/article.pl?sid=24/09/01/1356224&from=rss)
 
 ## [Archives](archives/index.md)
 
