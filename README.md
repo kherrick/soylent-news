@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-13, 03:15:00](https://soylentnews.org/article.pl?sid=24/09/12/0219245&from=rss) - [Elon Musk Gives New Timeline for Humans on Mars Saying When Starship Will Launch](https://soylentnews.org/article.pl?sid=24/09/12/0219245&from=rss)
 * [2024-09-12, 22:23:00](https://soylentnews.org/article.pl?sid=24/09/11/1725210&from=rss) - [Leaked Disney+ Financials May Shed Light on Recent Price Hike](https://soylentnews.org/article.pl?sid=24/09/11/1725210&from=rss)
 * [2024-09-12, 17:41:00](https://soylentnews.org/article.pl?sid=24/09/11/1722210&from=rss) - [A Good Day to Trie-Hard: Saving Compute 1% at a Time](https://soylentnews.org/article.pl?sid=24/09/11/1722210&from=rss)
 * [2024-09-12, 12:55:00](https://soylentnews.org/article.pl?sid=24/09/11/1718205&from=rss) - [Rogue WHOIS Server Gives Researcher Superpowers No One Should Ever Have](https://soylentnews.org/article.pl?sid=24/09/11/1718205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-03, 22:31:00](https://soylentnews.org/article.pl?sid=24/09/02/1732224&from=rss) - [Dungeons and Dragons Can Help Autistic People Gain Confidence and Find Their Inner Hero](https://soylentnews.org/article.pl?sid=24/09/02/1732224&from=rss)
 * [2024-09-03, 17:46:00](https://soylentnews.org/article.pl?sid=24/09/02/1557222&from=rss) - [At Least 24 EU Countries Struggle With Teacher Shortages](https://soylentnews.org/article.pl?sid=24/09/02/1557222&from=rss)
 * [2024-09-03, 13:02:00](https://soylentnews.org/article.pl?sid=24/09/02/1415239&from=rss) - [Darwin's Fear Was Unjustified: Study Suggests Fossil Record Gaps Not a Major Issue](https://soylentnews.org/article.pl?sid=24/09/02/1415239&from=rss)
-* [2024-09-03, 08:17:00](https://soylentnews.org/article.pl?sid=24/09/01/2121249&from=rss) - [One Million Checkboxes](https://soylentnews.org/article.pl?sid=24/09/01/2121249&from=rss)
 
 ## [Archives](archives/index.md)
 
