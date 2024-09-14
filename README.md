@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-14, 03:05:00](https://soylentnews.org/article.pl?sid=24/09/12/1441215&from=rss) - [AMD Silently Launches RX 7800M GPU -  Mobile Navi 32 With 12Gb Of VRAM](https://soylentnews.org/article.pl?sid=24/09/12/1441215&from=rss)
 * [2024-09-13, 22:22:00](https://soylentnews.org/article.pl?sid=24/09/12/1433218&from=rss) - [US Wireless Data Usage Hit Record 100 Trillion Megabytes in 2023](https://soylentnews.org/article.pl?sid=24/09/12/1433218&from=rss)
 * [2024-09-13, 17:35:00](https://soylentnews.org/article.pl?sid=24/09/12/1431228&from=rss) - [Would You Bet Your Enterprise On Azure Linux?](https://soylentnews.org/article.pl?sid=24/09/12/1431228&from=rss)
 * [2024-09-13, 12:47:00](https://soylentnews.org/article.pl?sid=24/09/12/0318228&from=rss) - [Appeals Judge Baffled by X's Loss Over Calif. Moderation Law, Orders Injunction](https://soylentnews.org/article.pl?sid=24/09/12/0318228&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-04, 20:16:00](https://soylentnews.org/article.pl?sid=24/09/04/0247256&from=rss) - [Trying to Outrun Ukrainian Drones? Kursk Traffic Cams Still Issue Speeding Tickets](https://soylentnews.org/article.pl?sid=24/09/04/0247256&from=rss)
 * [2024-09-04, 15:28:00](https://soylentnews.org/article.pl?sid=24/09/04/035204&from=rss) - [They Don't Make ’Em Like That Any More: The 3.5mm Headphone Jack Socket](https://soylentnews.org/article.pl?sid=24/09/04/035204&from=rss)
 * [2024-09-04, 10:43:00](https://soylentnews.org/article.pl?sid=24/09/03/0814256&from=rss) - [Boeing's Starliner is Making Mysterious 'Sonar' Noises and No One Can Explain It](https://soylentnews.org/article.pl?sid=24/09/03/0814256&from=rss)
-* [2024-09-04, 05:57:00](https://soylentnews.org/article.pl?sid=24/09/03/088217&from=rss) - [The Deadly Cost of Workplace Rudeness](https://soylentnews.org/article.pl?sid=24/09/03/088217&from=rss)
 
 ## [Archives](archives/index.md)
 
