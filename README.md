@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-15, 02:53:00](https://soylentnews.org/article.pl?sid=24/09/14/1335210&from=rss) - [AI Solves the 'Cocktail Party Problem' and Proves Useful in Court](https://soylentnews.org/article.pl?sid=24/09/14/1335210&from=rss)
 * [2024-09-14, 22:07:00](https://soylentnews.org/article.pl?sid=24/09/14/1328233&from=rss) - [Someone Discovered A New Cheat Code For The 27-Year-Old Saturn Port Of Doom](https://soylentnews.org/article.pl?sid=24/09/14/1328233&from=rss)
 * [2024-09-14, 17:23:00](https://soylentnews.org/article.pl?sid=24/09/14/1323252&from=rss) - [Music Industry's 1990s Hard Drives, Like All HDDs, Are Dying](https://soylentnews.org/article.pl?sid=24/09/14/1323252&from=rss)
 * [2024-09-14, 12:39:00](https://soylentnews.org/article.pl?sid=24/09/12/1452234&from=rss) - [Ancient People Of Easter Island Made Return Trips To South America](https://soylentnews.org/article.pl?sid=24/09/12/1452234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-05, 20:05:00](https://soylentnews.org/article.pl?sid=24/09/04/1435247&from=rss) - [Video Gaming Improves Mental Well-Being, Landmark Study Finds](https://soylentnews.org/article.pl?sid=24/09/04/1435247&from=rss)
 * [2024-09-05, 15:22:00](https://soylentnews.org/article.pl?sid=24/09/04/1433228&from=rss) - [\"Rust for Linux\" Lead Retires Rather Than Deal With More “Nontechnical Nonsense”](https://soylentnews.org/article.pl?sid=24/09/04/1433228&from=rss)
 * [2024-09-05, 10:36:00](https://soylentnews.org/article.pl?sid=24/09/04/0435252&from=rss) - [End of the line for Kim Dotcom?](https://soylentnews.org/article.pl?sid=24/09/04/0435252&from=rss)
-* [2024-09-05, 05:51:00](https://soylentnews.org/article.pl?sid=24/09/04/0324222&from=rss) - [Study Finds People Are Consistently and Confidently Wrong About Those With Opposing Views](https://soylentnews.org/article.pl?sid=24/09/04/0324222&from=rss)
 
 ## [Archives](archives/index.md)
 
