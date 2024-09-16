@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-16, 16:51:00](https://soylentnews.org/article.pl?sid=24/09/15/1259241&from=rss) - [EU Hits 50Pc Renewable Electricity Milestone](https://soylentnews.org/article.pl?sid=24/09/15/1259241&from=rss)
 * [2024-09-16, 12:07:00](https://soylentnews.org/article.pl?sid=24/09/15/1255212&from=rss) - [Unity is Dropping its Unpopular Per-Install Runtime Fee](https://soylentnews.org/article.pl?sid=24/09/15/1255212&from=rss)
 * [2024-09-16, 07:18:00](https://soylentnews.org/article.pl?sid=24/09/15/1249240&from=rss) - [Texas Startup Keeps Launching Obnoxiously Large Satellites—and Worse is Yet to Come](https://soylentnews.org/article.pl?sid=24/09/15/1249240&from=rss)
 * [2024-09-16, 02:36:00](https://soylentnews.org/article.pl?sid=24/09/15/1227206&from=rss) - [Is Regulating AI Easier Than You Think ?](https://soylentnews.org/article.pl?sid=24/09/15/1227206&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-07, 10:03:00](https://soylentnews.org/article.pl?sid=24/09/06/0335213&from=rss) - [Cops Tow Away Teslas To ‘Secure’ Recordings Captured By Cars’ Cameras](https://soylentnews.org/article.pl?sid=24/09/06/0335213&from=rss)
 * [2024-09-07, 05:15:00](https://soylentnews.org/article.pl?sid=24/09/06/0330259&from=rss) - [In the Hunt for Alien Life, is Man Truly 'the Measure of All Things?'](https://soylentnews.org/article.pl?sid=24/09/06/0330259&from=rss)
 * [2024-09-07, 00:31:00](https://soylentnews.org/article.pl?sid=24/09/06/0322231&from=rss) - [Coreboot 24.08 Has Been Released](https://soylentnews.org/article.pl?sid=24/09/06/0322231&from=rss)
-* [2024-09-06, 19:48:00](https://soylentnews.org/article.pl?sid=24/09/05/0410229&from=rss) - [Astrobotic’s Lander Didn’t Make It To The Moon Because Of A Failed Valve](https://soylentnews.org/article.pl?sid=24/09/05/0410229&from=rss)
 
 ## [Archives](archives/index.md)
 
