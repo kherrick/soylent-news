@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-16, 02:36:00](https://soylentnews.org/article.pl?sid=24/09/15/1227206&from=rss) - [Is Regulating AI Easier Than You Think ?](https://soylentnews.org/article.pl?sid=24/09/15/1227206&from=rss)
 * [2024-09-15, 21:49:00](https://soylentnews.org/article.pl?sid=24/09/14/1740213&from=rss) - [60% of Earth's Food Crops Aren't Being Visited by Enough Pollinators](https://soylentnews.org/article.pl?sid=24/09/14/1740213&from=rss)
 * [2024-09-15, 17:06:00](https://soylentnews.org/article.pl?sid=24/09/14/1350215&from=rss) - [2024 Ig-Nobels Announced](https://soylentnews.org/article.pl?sid=24/09/14/1350215&from=rss)
 * [2024-09-15, 12:18:00](https://soylentnews.org/article.pl?sid=24/09/14/1339201&from=rss) - [US Senators Urge Regulators To Probe Potential AI Antitrust Violations](https://soylentnews.org/article.pl?sid=24/09/14/1339201&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-06, 19:48:00](https://soylentnews.org/article.pl?sid=24/09/05/0410229&from=rss) - [Astrobotic’s Lander Didn’t Make It To The Moon Because Of A Failed Valve](https://soylentnews.org/article.pl?sid=24/09/05/0410229&from=rss)
 * [2024-09-06, 15:06:00](https://soylentnews.org/article.pl?sid=24/09/05/043255&from=rss) - [The Possibilities for Dark Matter Have Just Shrunk](https://soylentnews.org/article.pl?sid=24/09/05/043255&from=rss)
 * [2024-09-06, 10:21:00](https://soylentnews.org/article.pl?sid=24/09/04/153219&from=rss) - [Admins Wonder If the Cloud Was Such a Good Idea After All](https://soylentnews.org/article.pl?sid=24/09/04/153219&from=rss)
-* [2024-09-06, 05:29:00](https://soylentnews.org/article.pl?sid=24/09/04/150219&from=rss) - [Facebook Ad Partner Admits to Listening to Your Microphone to You Serve Ads on What You Talk About](https://soylentnews.org/article.pl?sid=24/09/04/150219&from=rss)
 
 ## [Archives](archives/index.md)
 
