@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-17, 11:45:00](https://soylentnews.org/article.pl?sid=24/09/15/1339250&from=rss) - [My Dead Father is “Writing” Me Notes Again](https://soylentnews.org/article.pl?sid=24/09/15/1339250&from=rss)
 * [2024-09-17, 07:03:00](https://soylentnews.org/article.pl?sid=24/09/15/1320239&from=rss) - [Fake Password Manager Coding Test Used to Hack Python Developers](https://soylentnews.org/article.pl?sid=24/09/15/1320239&from=rss)
 * [2024-09-17, 02:17:00](https://soylentnews.org/article.pl?sid=24/09/15/1312208&from=rss) - [Professor Files Antitrust Lawsuit Against Elsevier, Wiley & Four Other Academic Journal Publishers](https://soylentnews.org/article.pl?sid=24/09/15/1312208&from=rss)
 * [2024-09-16, 21:32:00](https://soylentnews.org/article.pl?sid=24/09/15/133247&from=rss) - [Mobile Phones Are Not Linked to Brain Cancer: WHO Confirms in Major Study](https://soylentnews.org/article.pl?sid=24/09/15/133247&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-08, 05:04:00](https://soylentnews.org/article.pl?sid=24/09/06/1526248&from=rss) - [City of Columbus Sues Man After He Discloses Severity of Ransomware Attack](https://soylentnews.org/article.pl?sid=24/09/06/1526248&from=rss)
 * [2024-09-08, 00:20:00](https://soylentnews.org/article.pl?sid=24/09/06/1523222&from=rss) - [Common Food Dye Found to Make Skin and Muscle Temporarily Transparent](https://soylentnews.org/article.pl?sid=24/09/06/1523222&from=rss)
 * [2024-09-07, 19:34:00](https://soylentnews.org/article.pl?sid=24/09/06/1515229&from=rss) - [VW Turns on Germany as China Targets Europe's EV Blunders](https://soylentnews.org/article.pl?sid=24/09/06/1515229&from=rss)
-* [2024-09-07, 14:49:00](https://soylentnews.org/article.pl?sid=24/09/06/1510207&from=rss) - [After Seeing Wi-Fi Network Named “STINKY,” Navy Found Hidden Starlink Dish on US Warship](https://soylentnews.org/article.pl?sid=24/09/06/1510207&from=rss)
 
 ## [Archives](archives/index.md)
 
