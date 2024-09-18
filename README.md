@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-18, 06:49:00](https://soylentnews.org/article.pl?sid=24/09/17/030211&from=rss) - [Emissions-Free Truck Prices Need to Drop by 50% to Compete With Diesel, Study Says](https://soylentnews.org/article.pl?sid=24/09/17/030211&from=rss)
 * [2024-09-18, 02:03:00](https://soylentnews.org/article.pl?sid=24/09/17/0256228&from=rss) - [Cyber Crooks Shut Down Some US, UK Schools](https://soylentnews.org/article.pl?sid=24/09/17/0256228&from=rss)
 * [2024-09-17, 21:15:00](https://soylentnews.org/article.pl?sid=24/09/17/0246230&from=rss) - [Chinese Chipmaker Loongson Claims Their Next Gpu Will Match RTX 2080'S Performance](https://soylentnews.org/article.pl?sid=24/09/17/0246230&from=rss)
 * [2024-09-17, 16:27:00](https://soylentnews.org/article.pl?sid=24/09/16/1152235&from=rss) - [Ancient DNA Unveils A Previously Unknown Line Of Neandertals](https://soylentnews.org/article.pl?sid=24/09/16/1152235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-09, 00:19:00](https://soylentnews.org/article.pl?sid=24/09/07/1345252&from=rss) - [China's Volt Typhoon Suspected Of Exploiting Versa Bug](https://soylentnews.org/article.pl?sid=24/09/07/1345252&from=rss)
 * [2024-09-08, 19:37:00](https://soylentnews.org/article.pl?sid=24/09/07/1338252&from=rss) - [The Stratocaster Became Rock Music's Most Iconic Guitar 70 Years Ago](https://soylentnews.org/article.pl?sid=24/09/07/1338252&from=rss)
 * [2024-09-08, 14:38:00](https://soylentnews.org/article.pl?sid=24/09/06/187243&from=rss) - [FAI.Me. Build Your Own Debian Live Image (Via Web)](https://soylentnews.org/article.pl?sid=24/09/06/187243&from=rss)
-* [2024-09-08, 09:50:00](https://soylentnews.org/article.pl?sid=24/09/06/1533256&from=rss) - [FBI Busts Musician's Elaborate AI-Powered $10M Streaming-Royalty Heist](https://soylentnews.org/article.pl?sid=24/09/06/1533256&from=rss)
 
 ## [Archives](archives/index.md)
 
