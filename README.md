@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-19, 11:18:00](https://soylentnews.org/article.pl?sid=24/09/18/0840222&from=rss) - [23andMe Proposes $30 Million Payment for Data Breach](https://soylentnews.org/article.pl?sid=24/09/18/0840222&from=rss)
 * [2024-09-19, 06:33:00](https://soylentnews.org/article.pl?sid=24/09/18/0835257&from=rss) - [Exploding Pagers: Actual Cyber War?](https://soylentnews.org/article.pl?sid=24/09/18/0835257&from=rss)
 * [2024-09-19, 01:43:00](https://soylentnews.org/article.pl?sid=24/09/17/035254&from=rss) - [The Commoditization of LLMs](https://soylentnews.org/article.pl?sid=24/09/17/035254&from=rss)
 * [2024-09-18, 20:58:00](https://soylentnews.org/article.pl?sid=24/09/18/0640204&from=rss) - [The Strange Case of the Rogue HP-12c](https://soylentnews.org/article.pl?sid=24/09/18/0640204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-10, 04:04:00](https://soylentnews.org/article.pl?sid=24/09/08/152211&from=rss) - [Rand Paul Is Right: Censoring The Internet Doesn’t Protect Kids](https://soylentnews.org/article.pl?sid=24/09/08/152211&from=rss)
 * [2024-09-09, 23:22:00](https://soylentnews.org/article.pl?sid=24/09/08/1444219&from=rss) - [Steve Wozniak Reunites With Historic Homebrew Computer Club - 50 Years Later](https://soylentnews.org/article.pl?sid=24/09/08/1444219&from=rss)
 * [2024-09-09, 18:41:00](https://soylentnews.org/article.pl?sid=24/09/08/1439231&from=rss) - [Tiny New Lasers Fill A Long-Standing Gap In The Rainbow Of Visible-Light Colors](https://soylentnews.org/article.pl?sid=24/09/08/1439231&from=rss)
-* [2024-09-09, 13:54:00](https://soylentnews.org/article.pl?sid=24/09/08/1430251&from=rss) - [What is 'Stage 0' Breast Cancer and How is It Treated?](https://soylentnews.org/article.pl?sid=24/09/08/1430251&from=rss)
 
 ## [Archives](archives/index.md)
 
