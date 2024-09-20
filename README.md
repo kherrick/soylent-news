@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-20, 20:34:00](https://soylentnews.org/article.pl?sid=24/09/19/1221245&from=rss) - [Due to AI Fakes, the “Deep Doubt” Era is Here](https://soylentnews.org/article.pl?sid=24/09/19/1221245&from=rss)
 * [2024-09-20, 15:49:00](https://soylentnews.org/article.pl?sid=24/09/19/0321209&from=rss) - [The Black Death is Far Older Than We Thought](https://soylentnews.org/article.pl?sid=24/09/19/0321209&from=rss)
 * [2024-09-20, 11:03:00](https://soylentnews.org/article.pl?sid=24/09/19/034206&from=rss) - [OpenAI's New AI Model Can Finally Count the Rs in “Strawberry”](https://soylentnews.org/article.pl?sid=24/09/19/034206&from=rss)
 * [2024-09-20, 06:16:00](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss) - [EFF: Tell Congress that we Can't Afford More Bad Patents](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-11, 13:14:00](https://soylentnews.org/article.pl?sid=24/09/10/1125221&from=rss) - [Ukrainian Drones Now Spray 2,500°C Thermite Streams Right Into Russian Trenches](https://soylentnews.org/article.pl?sid=24/09/10/1125221&from=rss)
 * [2024-09-11, 08:25:00](https://soylentnews.org/article.pl?sid=24/09/10/1122206&from=rss) - [Found: 280 Android Apps That Use OCR to Steal Cryptocurrency Credentials](https://soylentnews.org/article.pl?sid=24/09/10/1122206&from=rss)
 * [2024-09-11, 03:40:00](https://soylentnews.org/article.pl?sid=24/09/10/1112229&from=rss) - [Stellantis Lays Off Thousands of Workers after Pocketing Hundreds of Millions in EV Subsidies](https://soylentnews.org/article.pl?sid=24/09/10/1112229&from=rss)
-* [2024-09-10, 22:56:00](https://soylentnews.org/article.pl?sid=24/09/09/1838229&from=rss) - [WaveCore Runs Right Through a Concrete Wall With Gigabit-Speed Network Signal](https://soylentnews.org/article.pl?sid=24/09/09/1838229&from=rss)
 
 ## [Archives](archives/index.md)
 

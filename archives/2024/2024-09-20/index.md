@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 20:34:00](https://soylentnews.org/article.pl?sid=24/09/19/1221245&from=rss) - [Due to AI Fakes, the “Deep Doubt” Era is Here](https://soylentnews.org/article.pl?sid=24/09/19/1221245&from=rss)
 * [2024-09-20, 15:49:00](https://soylentnews.org/article.pl?sid=24/09/19/0321209&from=rss) - [The Black Death is Far Older Than We Thought](https://soylentnews.org/article.pl?sid=24/09/19/0321209&from=rss)
 * [2024-09-20, 11:03:00](https://soylentnews.org/article.pl?sid=24/09/19/034206&from=rss) - [OpenAI's New AI Model Can Finally Count the Rs in “Strawberry”](https://soylentnews.org/article.pl?sid=24/09/19/034206&from=rss)
 * [2024-09-20, 06:16:00](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss) - [EFF: Tell Congress that we Can't Afford More Bad Patents](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss)
