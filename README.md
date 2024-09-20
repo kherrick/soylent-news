@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-20, 11:03:00](https://soylentnews.org/article.pl?sid=24/09/19/034206&from=rss) - [OpenAI's New AI Model Can Finally Count the Rs in “Strawberry”](https://soylentnews.org/article.pl?sid=24/09/19/034206&from=rss)
 * [2024-09-20, 06:16:00](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss) - [EFF: Tell Congress that we Can't Afford More Bad Patents](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss)
 * [2024-09-20, 01:31:00](https://soylentnews.org/article.pl?sid=24/09/18/1443223&from=rss) - [Oracle's Larry Ellison Predicts AI Surveillance Society](https://soylentnews.org/article.pl?sid=24/09/18/1443223&from=rss)
 * [2024-09-19, 20:45:00](https://soylentnews.org/article.pl?sid=24/09/18/1439232&from=rss) - [In the Beginning, There Was a Theory...  JWST Data Supports Big Bang Challengers.](https://soylentnews.org/article.pl?sid=24/09/18/1439232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-11, 03:40:00](https://soylentnews.org/article.pl?sid=24/09/10/1112229&from=rss) - [Stellantis Lays Off Thousands of Workers after Pocketing Hundreds of Millions in EV Subsidies](https://soylentnews.org/article.pl?sid=24/09/10/1112229&from=rss)
 * [2024-09-10, 22:56:00](https://soylentnews.org/article.pl?sid=24/09/09/1838229&from=rss) - [WaveCore Runs Right Through a Concrete Wall With Gigabit-Speed Network Signal](https://soylentnews.org/article.pl?sid=24/09/09/1838229&from=rss)
 * [2024-09-10, 18:13:00](https://soylentnews.org/article.pl?sid=24/09/09/1835206&from=rss) - [The Beginnings of FM Radio Broadcasting](https://soylentnews.org/article.pl?sid=24/09/09/1835206&from=rss)
-* [2024-09-10, 13:32:00](https://soylentnews.org/article.pl?sid=24/09/09/1127228&from=rss) - [Leaving Behind its Crew, Starliner Departs Space Station and Returns to Earth](https://soylentnews.org/article.pl?sid=24/09/09/1127228&from=rss)
 
 ## [Archives](archives/index.md)
 
