@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-20, 06:16:00](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss) - [EFF: Tell Congress that we Can't Afford More Bad Patents](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss)
 * [2024-09-20, 01:31:00](https://soylentnews.org/article.pl?sid=24/09/18/1443223&from=rss) - [Oracle's Larry Ellison Predicts AI Surveillance Society](https://soylentnews.org/article.pl?sid=24/09/18/1443223&from=rss)
 * [2024-09-19, 20:45:00](https://soylentnews.org/article.pl?sid=24/09/18/1439232&from=rss) - [In the Beginning, There Was a Theory...  JWST Data Supports Big Bang Challengers.](https://soylentnews.org/article.pl?sid=24/09/18/1439232&from=rss)
 * [2024-09-19, 16:01:00](https://soylentnews.org/article.pl?sid=24/09/18/1223222&from=rss) - [Firefighters Use 50,000 Gallons to Battle Electric Vehicle Fire](https://soylentnews.org/article.pl?sid=24/09/18/1223222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-10, 22:56:00](https://soylentnews.org/article.pl?sid=24/09/09/1838229&from=rss) - [WaveCore Runs Right Through a Concrete Wall With Gigabit-Speed Network Signal](https://soylentnews.org/article.pl?sid=24/09/09/1838229&from=rss)
 * [2024-09-10, 18:13:00](https://soylentnews.org/article.pl?sid=24/09/09/1835206&from=rss) - [The Beginnings of FM Radio Broadcasting](https://soylentnews.org/article.pl?sid=24/09/09/1835206&from=rss)
 * [2024-09-10, 13:32:00](https://soylentnews.org/article.pl?sid=24/09/09/1127228&from=rss) - [Leaving Behind its Crew, Starliner Departs Space Station and Returns to Earth](https://soylentnews.org/article.pl?sid=24/09/09/1127228&from=rss)
-* [2024-09-10, 08:50:00](https://soylentnews.org/article.pl?sid=24/09/08/2123254&from=rss) - [Chinese Broadband Satellites May be Beijing's Orbiting Spies](https://soylentnews.org/article.pl?sid=24/09/08/2123254&from=rss)
 
 ## [Archives](archives/index.md)
 
