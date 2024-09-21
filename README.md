@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-21, 06:05:00](https://soylentnews.org/article.pl?sid=24/09/20/0216226&from=rss) - [A Legendary Sci-Fi Writer's Most Underrated Novel Will Finally Become a Movie](https://soylentnews.org/article.pl?sid=24/09/20/0216226&from=rss)
 * [2024-09-21, 01:18:00](https://soylentnews.org/article.pl?sid=24/09/20/0212229&from=rss) - [Going Once, Going Twice: Google's Millisecond Ad Auctions are the Focus of Monopoly Claim](https://soylentnews.org/article.pl?sid=24/09/20/0212229&from=rss)
 * [2024-09-20, 20:34:00](https://soylentnews.org/article.pl?sid=24/09/19/1221245&from=rss) - [Due to AI Fakes, the “Deep Doubt” Era is Here](https://soylentnews.org/article.pl?sid=24/09/19/1221245&from=rss)
 * [2024-09-20, 15:49:00](https://soylentnews.org/article.pl?sid=24/09/19/0321209&from=rss) - [The Black Death is Far Older Than We Thought](https://soylentnews.org/article.pl?sid=24/09/19/0321209&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-11, 22:44:00](https://soylentnews.org/article.pl?sid=24/09/10/1645202&from=rss) - [Is Accidentally Stumbling Across the Unknown a Key Part of Science?](https://soylentnews.org/article.pl?sid=24/09/10/1645202&from=rss)
 * [2024-09-11, 17:59:00](https://soylentnews.org/article.pl?sid=24/09/10/1640243&from=rss) - [Apple Forced to Pay €13bn in Back Taxes](https://soylentnews.org/article.pl?sid=24/09/10/1640243&from=rss)
 * [2024-09-11, 13:14:00](https://soylentnews.org/article.pl?sid=24/09/10/1125221&from=rss) - [Ukrainian Drones Now Spray 2,500°C Thermite Streams Right Into Russian Trenches](https://soylentnews.org/article.pl?sid=24/09/10/1125221&from=rss)
-* [2024-09-11, 08:25:00](https://soylentnews.org/article.pl?sid=24/09/10/1122206&from=rss) - [Found: 280 Android Apps That Use OCR to Steal Cryptocurrency Credentials](https://soylentnews.org/article.pl?sid=24/09/10/1122206&from=rss)
 
 ## [Archives](archives/index.md)
 
