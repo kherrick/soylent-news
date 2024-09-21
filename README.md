@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-21, 20:22:00](https://soylentnews.org/article.pl?sid=24/09/20/0534246&from=rss) - [US and Japan Near Deal to Curb Chip Technology Exports to China](https://soylentnews.org/article.pl?sid=24/09/20/0534246&from=rss)
 * [2024-09-21, 15:33:00](https://soylentnews.org/article.pl?sid=24/09/20/0233219&from=rss) - [Do You See Blue or Green? This Viral Test Plays With Color Perception](https://soylentnews.org/article.pl?sid=24/09/20/0233219&from=rss)
 * [2024-09-21, 10:48:00](https://soylentnews.org/article.pl?sid=24/09/20/0219235&from=rss) - [Amazon “Tricks” Customers Into Buying Fire TVs With False Sales Prices: Lawsuit](https://soylentnews.org/article.pl?sid=24/09/20/0219235&from=rss)
 * [2024-09-21, 06:05:00](https://soylentnews.org/article.pl?sid=24/09/20/0216226&from=rss) - [A Legendary Sci-Fi Writer's Most Underrated Novel Will Finally Become a Movie](https://soylentnews.org/article.pl?sid=24/09/20/0216226&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-12, 12:55:00](https://soylentnews.org/article.pl?sid=24/09/11/1718205&from=rss) - [Rogue WHOIS Server Gives Researcher Superpowers No One Should Ever Have](https://soylentnews.org/article.pl?sid=24/09/11/1718205&from=rss)
 * [2024-09-12, 08:14:00](https://soylentnews.org/article.pl?sid=24/09/11/0253208&from=rss) - [V2X Technology to Become Standard in Most Vehicles](https://soylentnews.org/article.pl?sid=24/09/11/0253208&from=rss)
 * [2024-09-12, 03:28:00](https://soylentnews.org/article.pl?sid=24/09/11/0239207&from=rss) - [Ford Seeks Patent for Tech that Listens to Driver Conversations to Serve Ads](https://soylentnews.org/article.pl?sid=24/09/11/0239207&from=rss)
-* [2024-09-11, 22:44:00](https://soylentnews.org/article.pl?sid=24/09/10/1645202&from=rss) - [Is Accidentally Stumbling Across the Unknown a Key Part of Science?](https://soylentnews.org/article.pl?sid=24/09/10/1645202&from=rss)
 
 ## [Archives](archives/index.md)
 
