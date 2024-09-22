@@ -145,6 +145,71 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/09/21/0815237">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/09/21/0815237&amp;from=rss"
+              >Linux is officially a Hard Real Tme OS</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-22 @ 10:34:00</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/09/21/0815237"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>An Anonymous Coward writes:</p>
+              <p>
+                By committing the
+                <a
+                  href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=baeb9a7d8b60b021d907127509c44507539c15e5"
+                  >Kconfig knobs,</a
+                >
+                Linux is now capable of being configured into a
+                <a
+                  href="https://en.wikipedia.org/wiki/Real-time_operating_system"
+                  >Real-time Operating System.</a
+                >
+                The result, due to an ongoing effort of just over 20 years, now
+                allows for the all developers and users to utilize real-time
+                computing without having to target a completely separate OS.
+                Embedded systems and live processing will likely see more
+                immediate improvements. This support is limited to X86, X86_64,
+                ARM64, and RISCV and only capable of hard real time on hardware
+                that supports it. However, the new competition and interest will
+                likely spur on more developments in Real-Time Computing the
+                future.
+              </p>
+              <p>
+                One final note is that enabling PREEMPT_RT is not a panacea
+                leading to better performance. Real time computing and real-time
+                OSes sacrifice maximum throughput for guaranteed latency with
+                minimal jitter. Real time does not mean "as fast as possible."
+                Real time means "not too slow." In the wrong situation, it can
+                actually make your performance worse.
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63824"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/09/21/0811204">
           <h3>
             <a
@@ -5104,157 +5169,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63713"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/09/11/1718205">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/09/11/1718205&amp;from=rss"
-              >Rogue WHOIS Server Gives Researcher Superpowers No One Should
-              Ever Have</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-12 @ 12:55:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2794</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/09/11/1718205"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~Freeman/">Freeman</a> writes:</p>
-              <p>
-                <a
-                  href="https://arstechnica.com/security/2024/09/rogue-whois-server-gives-researcher-superpowers-no-one-should-ever-have/"
-                  >https://arstechnica.com/security/2024/09/rogue-whois-server-gives-researcher-superpowers-no-one-should-ever-have/</a
-                >
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    It's not every day that a security researcher acquires the
-                    ability to generate counterfeit HTTPS certificates, track
-                    email activity, and execute code of his choice on thousands
-                    of servers—all in a single blow that cost only $20 and a few
-                    minutes to land. But that's exactly what happened recently
-                    to Benjamin Harris.
-                  </p>
-                  <p>
-                    Harris, the CEO and founder of security firm watchTowr, did
-                    all of this by registering the domain dotmobilregistry.net.
-                    The domain was once the official home of the
-                    <a
-                      href="https://www.icann.org/en/registry-agreements/org/org-registry-agreement--whois-specifications-8-12-2006-en"
-                      >authoritative WHOIS</a
-                    >
-                    server for .mobi<br />[...]<br />Harris noticed that the
-                    previous dotmobiregistry.net owners had allowed the domain
-                    to expire. He then scooped it up and set up his own .mobi
-                    WHOIS server there.
-                  </p>
-                  <p>
-                    To Harris's surprise, his server received queries from
-                    slightly more than 76,000 unique IP addresses within a few
-                    hours of setting it up. Over five days, it received roughly
-                    2.5 million queries from about 135,000 unique systems. The
-                    entities behind the systems querying his deprecated domain
-                    included a who's who of Internet heavyweights comprising
-                    domain registrars, providers of online security tools,
-                    governments from the US and around the world, universities,
-                    and certificate authorities, the entities that issue
-                    browser-trusted TLS certificates that make HTTPS work.
-                  </p>
-                  <p>
-                    "watchTowr's research has demonstrated that trust placed in
-                    this process by governments and authorities worldwide should
-                    be considered misplaced at this stage, in [our] opinion,"
-                    Harris wrote in a
-                    <a
-                      href="https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi"
-                      >post</a
-                    >
-                    documenting his research.<br />[...]<br />WHOIS has played a
-                    key role in Internet governance since its earliest days,
-                    back when it was still called the
-                    <a href="https://en.wikipedia.org/wiki/ARPANET">ARPANET</a>.
-                    <a
-                      href="https://daniellenewnham.medium.com/elizabeth-feinler-and-the-history-of-the-internet-83f4f7366787"
-                      >Elizabeth Feinler</a
-                    >, an information scientist working for the Augmentation
-                    Research Center, became the principal investigator for NIC,
-                    short for the Network Information Center project, in 1974.
-                    Under
-                    <a
-                      href="https://books.google.com/books?id=C8ouDwAAQBAJ&amp;q=WHOIS#v=snippet&amp;q=WHOIS&amp;f=false"
-                      >Feinler's watch</a
-                    >, NIC developed the top-level domain naming system and the
-                    official host table and published the ARPANET Directory,
-                    which acted as a directory of phone numbers and email
-                    addresses of all network users.
-                    <a
-                      href="https://selects.acm.org/selections/people-in-computing-5-women-who-shaped-the-internet"
-                      >Eventually</a
-                    >, the directory evolved into the WHOIS system, a
-                    query-based server that provided a comprehensive list of all
-                    Internet host names and the entities that had registered
-                    them.
-                  </p>
-                  <p>
-                    Despite its antiquated look and feel, WHOIS today remains an
-                    essential resource with tremendous consequences.<br />[...]<br />Harris
-                    populated his WHOIS database with junk data that
-                    corresponded to all real .mobi addresses. Administrative
-                    email addresses, and most other fields led to the
-                    watchtowr.com domain. For humor, he also added ASCII art.<br />[...]<br />The
-                    humor aside, the rogue WHOIS server gave him powers he never
-                    should have had. One of the greatest was the ability to
-                    dictate the email address certificate authority GlobalSign
-                    used to determine if a party applying for a TLS certificate
-                    was the rightful owner of the domain name the certificate
-                    would apply to. Like the vast majority of its competitors,
-                    GlobalSign uses an automated process. An application for
-                    example.com, for instance, will prompt the certificate
-                    authority to send an email to the administrative email
-                    address listed in the authoritative WHOIS for that domain.
-                    If the party on the other end clicks a link, the certificate
-                    is automatically approved.
-                  </p>
-                  <p>
-                    When Harris generated a certificate signing request for
-                    microsoft.mobi, he promptly received an email from
-                    GlobalSign. The email gave him the option of receiving a
-                    verification link at whois@watchtowr.com. For ethical
-                    reasons, he stopped the experiment at this point.<br />[...]<br />"The
-                    purchase of a $20 domain that allowed the passive inference
-                    of .gov/.mil communications and the subversion of the
-                    Certificate Authority verification system should be a clear
-                    demonstration that the integrity of the trust and security
-                    processes we as Internet users rely on is, and continues to
-                    be, extremely fragile," Harris wrote in an online interview.
-                    "The systems and security we all take for granted is, in
-                    many places, truly held together in ways that would not pass
-                    approval in 2024."
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63726"
                     >Original Submission</a
                   ></small
                 >
