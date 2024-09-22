@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-22, 05:47:00](https://soylentnews.org/article.pl?sid=24/09/21/0811204&from=rss) - [U.S. Finds the Golden Hydrogen in This Region: Trillions of Dollars of This Futuristic Energy Here](https://soylentnews.org/article.pl?sid=24/09/21/0811204&from=rss)
 * [2024-09-22, 01:05:00](https://soylentnews.org/article.pl?sid=24/09/21/0756207&from=rss) - [How Hope Beats Mindfulness When Times Are Tough](https://soylentnews.org/article.pl?sid=24/09/21/0756207&from=rss)
 * [2024-09-21, 20:22:00](https://soylentnews.org/article.pl?sid=24/09/20/0534246&from=rss) - [US and Japan Near Deal to Curb Chip Technology Exports to China](https://soylentnews.org/article.pl?sid=24/09/20/0534246&from=rss)
 * [2024-09-21, 15:33:00](https://soylentnews.org/article.pl?sid=24/09/20/0233219&from=rss) - [Do You See Blue or Green? This Viral Test Plays With Color Perception](https://soylentnews.org/article.pl?sid=24/09/20/0233219&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-12, 22:23:00](https://soylentnews.org/article.pl?sid=24/09/11/1725210&from=rss) - [Leaked Disney+ Financials May Shed Light on Recent Price Hike](https://soylentnews.org/article.pl?sid=24/09/11/1725210&from=rss)
 * [2024-09-12, 17:41:00](https://soylentnews.org/article.pl?sid=24/09/11/1722210&from=rss) - [A Good Day to Trie-Hard: Saving Compute 1% at a Time](https://soylentnews.org/article.pl?sid=24/09/11/1722210&from=rss)
 * [2024-09-12, 12:55:00](https://soylentnews.org/article.pl?sid=24/09/11/1718205&from=rss) - [Rogue WHOIS Server Gives Researcher Superpowers No One Should Ever Have](https://soylentnews.org/article.pl?sid=24/09/11/1718205&from=rss)
-* [2024-09-12, 08:14:00](https://soylentnews.org/article.pl?sid=24/09/11/0253208&from=rss) - [V2X Technology to Become Standard in Most Vehicles](https://soylentnews.org/article.pl?sid=24/09/11/0253208&from=rss)
 
 ## [Archives](archives/index.md)
 
