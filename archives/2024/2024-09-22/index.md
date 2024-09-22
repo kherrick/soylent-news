@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 20:13:00](https://soylentnews.org/article.pl?sid=24/09/21/154235&from=rss) - [NHS Scientists Find New Blood Group Solving 50-Year Mystery](https://soylentnews.org/article.pl?sid=24/09/21/154235&from=rss)
 * [2024-09-22, 15:22:00](https://soylentnews.org/article.pl?sid=24/09/21/1336222&from=rss) - [Lost Mozart Piece Verified](https://soylentnews.org/article.pl?sid=24/09/21/1336222&from=rss)
 * [2024-09-22, 10:34:00](https://soylentnews.org/article.pl?sid=24/09/21/0815237&from=rss) - [Linux is officially a Hard Real Tme OS](https://soylentnews.org/article.pl?sid=24/09/21/0815237&from=rss)
 * [2024-09-22, 05:47:00](https://soylentnews.org/article.pl?sid=24/09/21/0811204&from=rss) - [U.S. Finds the Golden Hydrogen in This Region: Trillions of Dollars of This Futuristic Energy Here](https://soylentnews.org/article.pl?sid=24/09/21/0811204&from=rss)

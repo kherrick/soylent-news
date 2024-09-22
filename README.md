@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-22, 20:13:00](https://soylentnews.org/article.pl?sid=24/09/21/154235&from=rss) - [NHS Scientists Find New Blood Group Solving 50-Year Mystery](https://soylentnews.org/article.pl?sid=24/09/21/154235&from=rss)
 * [2024-09-22, 15:22:00](https://soylentnews.org/article.pl?sid=24/09/21/1336222&from=rss) - [Lost Mozart Piece Verified](https://soylentnews.org/article.pl?sid=24/09/21/1336222&from=rss)
 * [2024-09-22, 10:34:00](https://soylentnews.org/article.pl?sid=24/09/21/0815237&from=rss) - [Linux is officially a Hard Real Tme OS](https://soylentnews.org/article.pl?sid=24/09/21/0815237&from=rss)
 * [2024-09-22, 05:47:00](https://soylentnews.org/article.pl?sid=24/09/21/0811204&from=rss) - [U.S. Finds the Golden Hydrogen in This Region: Trillions of Dollars of This Futuristic Energy Here](https://soylentnews.org/article.pl?sid=24/09/21/0811204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-13, 12:47:00](https://soylentnews.org/article.pl?sid=24/09/12/0318228&from=rss) - [Appeals Judge Baffled by X's Loss Over Calif. Moderation Law, Orders Injunction](https://soylentnews.org/article.pl?sid=24/09/12/0318228&from=rss)
 * [2024-09-13, 08:03:00](https://soylentnews.org/article.pl?sid=24/09/12/0314208&from=rss) - [North Korean Threat Actor Citrine Sleet Exploiting Chromium Zero-Day](https://soylentnews.org/article.pl?sid=24/09/12/0314208&from=rss)
 * [2024-09-13, 03:15:00](https://soylentnews.org/article.pl?sid=24/09/12/0219245&from=rss) - [Elon Musk Gives New Timeline for Humans on Mars Saying When Starship Will Launch](https://soylentnews.org/article.pl?sid=24/09/12/0219245&from=rss)
-* [2024-09-12, 22:23:00](https://soylentnews.org/article.pl?sid=24/09/11/1725210&from=rss) - [Leaked Disney+ Financials May Shed Light on Recent Price Hike](https://soylentnews.org/article.pl?sid=24/09/11/1725210&from=rss)
 
 ## [Archives](archives/index.md)
 
