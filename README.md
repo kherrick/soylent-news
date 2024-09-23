@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-23, 20:04:00](https://soylentnews.org/article.pl?sid=24/09/22/0354251&from=rss) - [Microsoft Releases a New Windows App Called Windows App for Running Windows Apps](https://soylentnews.org/article.pl?sid=24/09/22/0354251&from=rss)
 * [2024-09-23, 18:45:00](https://soylentnews.org/article.pl?sid=24/09/23/1839248&from=rss) - [Twitter Complies With Court Orders in Brazil](https://soylentnews.org/article.pl?sid=24/09/23/1839248&from=rss)
 * [2024-09-23, 15:16:00](https://soylentnews.org/article.pl?sid=24/09/22/0343256&from=rss) - [Review: iFixit’s FixHub May Be The Last Soldering Iron You Ever Buy](https://soylentnews.org/article.pl?sid=24/09/22/0343256&from=rss)
 * [2024-09-23, 10:31:00](https://soylentnews.org/article.pl?sid=24/09/21/2054251&from=rss) - [Utah Judge Blocks Law Preventing Youth From Accessing Social Media Freely](https://soylentnews.org/article.pl?sid=24/09/21/2054251&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-14, 17:23:00](https://soylentnews.org/article.pl?sid=24/09/14/1323252&from=rss) - [Music Industry's 1990s Hard Drives, Like All HDDs, Are Dying](https://soylentnews.org/article.pl?sid=24/09/14/1323252&from=rss)
 * [2024-09-14, 12:39:00](https://soylentnews.org/article.pl?sid=24/09/12/1452234&from=rss) - [Ancient People Of Easter Island Made Return Trips To South America](https://soylentnews.org/article.pl?sid=24/09/12/1452234&from=rss)
 * [2024-09-14, 07:54:00](https://soylentnews.org/article.pl?sid=24/09/12/1446249&from=rss) - [A Case Study in Ticketmaster Price Gouging aka Dynamic Pricing](https://soylentnews.org/article.pl?sid=24/09/12/1446249&from=rss)
-* [2024-09-14, 03:05:00](https://soylentnews.org/article.pl?sid=24/09/12/1441215&from=rss) - [AMD Silently Launches RX 7800M GPU -  Mobile Navi 32 With 12Gb Of VRAM](https://soylentnews.org/article.pl?sid=24/09/12/1441215&from=rss)
 
 ## [Archives](archives/index.md)
 
