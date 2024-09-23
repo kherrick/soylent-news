@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 05:43:00](https://soylentnews.org/article.pl?sid=24/09/21/1513234&from=rss) - [Plenty of Ups-and-Downs Are Key to a Great Story](https://soylentnews.org/article.pl?sid=24/09/21/1513234&from=rss)
 * [2024-09-23, 01:02:00](https://soylentnews.org/article.pl?sid=24/09/21/1511255&from=rss) - [Plan Would Power New Microsoft AI Data Center From Pa.'s Three Mile Island 'Unit 1' Nuclear Reactor](https://soylentnews.org/article.pl?sid=24/09/21/1511255&from=rss)
