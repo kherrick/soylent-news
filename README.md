@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-23, 10:31:00](https://soylentnews.org/article.pl?sid=24/09/21/2054251&from=rss) - [Utah Judge Blocks Law Preventing Youth From Accessing Social Media Freely](https://soylentnews.org/article.pl?sid=24/09/21/2054251&from=rss)
 * [2024-09-23, 05:43:00](https://soylentnews.org/article.pl?sid=24/09/21/1513234&from=rss) - [Plenty of Ups-and-Downs Are Key to a Great Story](https://soylentnews.org/article.pl?sid=24/09/21/1513234&from=rss)
 * [2024-09-23, 01:02:00](https://soylentnews.org/article.pl?sid=24/09/21/1511255&from=rss) - [Plan Would Power New Microsoft AI Data Center From Pa.'s Three Mile Island 'Unit 1' Nuclear Reactor](https://soylentnews.org/article.pl?sid=24/09/21/1511255&from=rss)
 * [2024-09-22, 20:13:00](https://soylentnews.org/article.pl?sid=24/09/21/154235&from=rss) - [NHS Scientists Find New Blood Group Solving 50-Year Mystery](https://soylentnews.org/article.pl?sid=24/09/21/154235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-14, 03:05:00](https://soylentnews.org/article.pl?sid=24/09/12/1441215&from=rss) - [AMD Silently Launches RX 7800M GPU -  Mobile Navi 32 With 12Gb Of VRAM](https://soylentnews.org/article.pl?sid=24/09/12/1441215&from=rss)
 * [2024-09-13, 22:22:00](https://soylentnews.org/article.pl?sid=24/09/12/1433218&from=rss) - [US Wireless Data Usage Hit Record 100 Trillion Megabytes in 2023](https://soylentnews.org/article.pl?sid=24/09/12/1433218&from=rss)
 * [2024-09-13, 17:35:00](https://soylentnews.org/article.pl?sid=24/09/12/1431228&from=rss) - [Would You Bet Your Enterprise On Azure Linux?](https://soylentnews.org/article.pl?sid=24/09/12/1431228&from=rss)
-* [2024-09-13, 12:47:00](https://soylentnews.org/article.pl?sid=24/09/12/0318228&from=rss) - [Appeals Judge Baffled by X's Loss Over Calif. Moderation Law, Orders Injunction](https://soylentnews.org/article.pl?sid=24/09/12/0318228&from=rss)
 
 ## [Archives](archives/index.md)
 
