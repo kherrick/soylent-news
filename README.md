@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-24, 05:33:00](https://soylentnews.org/article.pl?sid=24/09/23/1237221&from=rss) - [Torvalds Weighs In On 'Nasty' Rust Vs C For Linux Debate](https://soylentnews.org/article.pl?sid=24/09/23/1237221&from=rss)
 * [2024-09-24, 00:51:00](https://soylentnews.org/article.pl?sid=24/09/22/1436255&from=rss) - [“Dead Internet Theory” Comes to Life With New AI-Powered Social Media App](https://soylentnews.org/article.pl?sid=24/09/22/1436255&from=rss)
 * [2024-09-23, 20:04:00](https://soylentnews.org/article.pl?sid=24/09/22/0354251&from=rss) - [Microsoft Releases a New Windows App Called Windows App for Running Windows Apps](https://soylentnews.org/article.pl?sid=24/09/22/0354251&from=rss)
 * [2024-09-23, 18:45:00](https://soylentnews.org/article.pl?sid=24/09/23/1839248&from=rss) - [Twitter Complies With Court Orders in Brazil](https://soylentnews.org/article.pl?sid=24/09/23/1839248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-15, 02:53:00](https://soylentnews.org/article.pl?sid=24/09/14/1335210&from=rss) - [AI Solves the 'Cocktail Party Problem' and Proves Useful in Court](https://soylentnews.org/article.pl?sid=24/09/14/1335210&from=rss)
 * [2024-09-14, 22:07:00](https://soylentnews.org/article.pl?sid=24/09/14/1328233&from=rss) - [Someone Discovered A New Cheat Code For The 27-Year-Old Saturn Port Of Doom](https://soylentnews.org/article.pl?sid=24/09/14/1328233&from=rss)
 * [2024-09-14, 17:23:00](https://soylentnews.org/article.pl?sid=24/09/14/1323252&from=rss) - [Music Industry's 1990s Hard Drives, Like All HDDs, Are Dying](https://soylentnews.org/article.pl?sid=24/09/14/1323252&from=rss)
-* [2024-09-14, 12:39:00](https://soylentnews.org/article.pl?sid=24/09/12/1452234&from=rss) - [Ancient People Of Easter Island Made Return Trips To South America](https://soylentnews.org/article.pl?sid=24/09/12/1452234&from=rss)
 
 ## [Archives](archives/index.md)
 
