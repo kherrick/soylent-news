@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-26, 02:31:00](https://soylentnews.org/article.pl?sid=24/09/25/122258&from=rss) - [Google Calls for Halting Use of WHOIS for TLS Domain Verifications](https://soylentnews.org/article.pl?sid=24/09/25/122258&from=rss)
 * [2024-09-25, 21:48:00](https://soylentnews.org/article.pl?sid=24/09/25/1155207&from=rss) - [Do Complex Election Forecasting Models Actually Generate Better Forecasts?](https://soylentnews.org/article.pl?sid=24/09/25/1155207&from=rss)
 * [2024-09-25, 17:03:00](https://soylentnews.org/article.pl?sid=24/09/24/1255225&from=rss) - [Vaporizing Plastics Recycles Them Into Nothing but Gas](https://soylentnews.org/article.pl?sid=24/09/24/1255225&from=rss)
 * [2024-09-25, 12:15:00](https://soylentnews.org/article.pl?sid=24/09/24/1157213&from=rss) - [Nintendo, the Pokemon Company Sue Palworld-Maker Pocketpair](https://soylentnews.org/article.pl?sid=24/09/24/1157213&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-16, 21:32:00](https://soylentnews.org/article.pl?sid=24/09/15/133247&from=rss) - [Mobile Phones Are Not Linked to Brain Cancer: WHO Confirms in Major Study](https://soylentnews.org/article.pl?sid=24/09/15/133247&from=rss)
 * [2024-09-16, 16:51:00](https://soylentnews.org/article.pl?sid=24/09/15/1259241&from=rss) - [EU Hits 50Pc Renewable Electricity Milestone](https://soylentnews.org/article.pl?sid=24/09/15/1259241&from=rss)
 * [2024-09-16, 12:07:00](https://soylentnews.org/article.pl?sid=24/09/15/1255212&from=rss) - [Unity is Dropping its Unpopular Per-Install Runtime Fee](https://soylentnews.org/article.pl?sid=24/09/15/1255212&from=rss)
-* [2024-09-16, 07:18:00](https://soylentnews.org/article.pl?sid=24/09/15/1249240&from=rss) - [Texas Startup Keeps Launching Obnoxiously Large Satellites—and Worse is Yet to Come](https://soylentnews.org/article.pl?sid=24/09/15/1249240&from=rss)
 
 ## [Archives](archives/index.md)
 
