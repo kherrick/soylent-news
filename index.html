@@ -145,6 +145,139 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/09/25/122258">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/09/25/122258&amp;from=rss"
+              >Google Calls for Halting Use of WHOIS for TLS Domain
+              Verifications</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-26 @ 02:31:00</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/09/25/122258"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
+              <p>
+                <a
+                  href="https://arstechnica.com/security/2024/09/google-calls-for-halting-use-of-whois-for-tls-domain-verifications/"
+                  >WHOIS data is unreliable. So why is it used in TLS
+                  certificate applications?</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Certificate authorities and browser makers are planning to
+                    end the use of
+                    <a href="https://en.wikipedia.org/wiki/WHOIS">WHOIS</a> data
+                    verifying domain ownership following a report that
+                    demonstrated how threat actors could abuse the process to
+                    obtain fraudulently issued TLS certificates.
+                  </p>
+                  <p>
+                    TLS certificates are the cryptographic credentials that
+                    underpin HTTPS connections, a critical component of online
+                    communications verifying that a server belongs to a trusted
+                    entity and encrypts all traffic passing between it and an
+                    end user. These credentials are issued by any one of
+                    hundreds of CAs (certificate authorities) to domain owners.
+                    The rules for how certificates are issued and the process
+                    for verifying the rightful owner of a domain are left to the
+                    <a href="https://cabforum.org/">CA/Browser Forum</a>. One
+                    "base requirement rule" allows CAs to send an email to an
+                    address listed in the WHOIS record for the domain being
+                    applied for. When the receiver clicks an enclosed link, the
+                    certificate is automatically approved.
+                  </p>
+                  <p>
+                    Researchers from security firm watchTowr recently
+                    demonstrated how threat actors could abuse the rule to
+                    <a
+                      href="https://arstechnica.com/security/2024/09/rogue-whois-server-gives-researcher-superpowers-no-one-should-ever-have/"
+                      >obtain fraudulently issued certificates</a
+                    >
+                    for domains they didn't own. The security failure resulted
+                    from a lack of uniform rules for determining the validity of
+                    sites claiming to provide official WHOIS records.
+                  </p>
+                  <p>
+                    [...] The research didn't escape the notice of the
+                    CA/Browser Forum (CAB Forum). On Monday, a member
+                    representing Google
+                    <a
+                      href="https://lists.cabforum.org/pipermail/servercert-wg/2024-September/004821.html"
+                      >proposed</a
+                    >
+                    ending the reliance on WHOIS data for domain ownership
+                    verification "in light of recent events where research from
+                    watchTowr Labs demonstrated how threat actors could exploit
+                    WHOIS to obtain fraudulently issued TLS certificates."
+                  </p>
+                  <p>
+                    The
+                    <a
+                      href="https://github.com/cabforum/servercert/pull/548/commits/684a085aa5fd6b3d5476d9d345b112d6865f0ebb"
+                      >formal proposal</a
+                    >
+                    calls for reliance on WHOIS data to "sunset" in early
+                    November. It establishes specifically that "CAs MUST NOT
+                    rely on WHOIS to identify Domain Contacts" and that
+                    "Effective November 1, 2024, validations using this [email
+                    verification] method MUST NOT rely on WHOIS to identify
+                    Domain Contact information."
+                  </p>
+                  <p>
+                    Since Monday's submission, more than 50 follow-up comments
+                    have been posted. Many of the responses expressed support
+                    for the proposed change. Others have
+                    <a
+                      href="https://lists.cabforum.org/pipermail/servercert-wg/2024-September/004829.html"
+                      >questioned</a
+                    >
+                    the need for a change as proposed, given that the security
+                    failure watchTowr uncovered is known to affect only a single
+                    top-level domain.
+                  </p>
+                  <p>
+                    [...] The proposed changes are formally in the discussion
+                    phase of deliberations. It's unclear when formal voting on
+                    the change will begin.
+                  </p>
+                </div>
+              </blockquote>
+              <p>
+                Previously:
+                <a
+                  href="https://soylentnews.org/article.pl?sid=24/09/11/1718205"
+                  >Rogue WHOIS Server Gives Researcher Superpowers No One Should
+                  Ever Have</a
+                >
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63846"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/09/25/1155207">
           <h3>
             <a
@@ -158,12 +291,12 @@
             <h4>
               <span>2024-09-25 @ 21:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">330</span></span
+                >Points: <span class="points">346</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/25/1155207"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -266,7 +399,7 @@
             <h4>
               <span>2024-09-25 @ 17:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">471</span></span
+                >Points: <span class="points">479</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/24/1255225"
@@ -350,7 +483,7 @@
             <h4>
               <span>2024-09-25 @ 12:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">546</span></span
+                >Points: <span class="points">556</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/24/1157213"
@@ -467,7 +600,7 @@
             <h4>
               <span>2024-09-25 @ 05:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">687</span></span
+                >Points: <span class="points">696</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/24/1152242"
@@ -576,7 +709,7 @@
             <h4>
               <span>2024-09-25 @ 00:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">1038</span></span
+                >Points: <span class="points">1047</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/23/1255231"
@@ -709,7 +842,7 @@
             <h4>
               <span>2024-09-24 @ 19:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">1205</span></span
+                >Points: <span class="points">1215</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/23/1252240"
@@ -830,7 +963,7 @@
             <h4>
               <span>2024-09-24 @ 15:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">1225</span></span
+                >Points: <span class="points">1234</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/23/1249256"
@@ -927,7 +1060,7 @@
             <h4>
               <span>2024-09-24 @ 10:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">1330</span></span
+                >Points: <span class="points">1338</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/23/1243226"
@@ -1013,7 +1146,7 @@
             <h4>
               <span>2024-09-24 @ 05:33:00</span
               ><span class="points-container"
-                >Points: <span class="points">1974</span></span
+                >Points: <span class="points">1983</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/23/1237221"
@@ -1147,7 +1280,7 @@
             <h4>
               <span>2024-09-24 @ 00:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">1622</span></span
+                >Points: <span class="points">1630</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/22/1436255"
@@ -1218,7 +1351,7 @@
             <h4>
               <span>2024-09-23 @ 20:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">1803</span></span
+                >Points: <span class="points">1812</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/22/0354251"
@@ -1307,7 +1440,7 @@
             <h4>
               <span>2024-09-23 @ 18:45:00</span
               ><span class="points-container"
-                >Points: <span class="points">1802</span></span
+                >Points: <span class="points">1810</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/23/1839248"
@@ -1381,7 +1514,7 @@
             <h4>
               <span>2024-09-23 @ 15:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">2082</span></span
+                >Points: <span class="points">2090</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/22/0343256"
@@ -1469,7 +1602,7 @@
             <h4>
               <span>2024-09-23 @ 10:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">1837</span></span
+                >Points: <span class="points">1847</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/21/2054251"
@@ -1578,7 +1711,7 @@
             <h4>
               <span>2024-09-23 @ 05:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">1965</span></span
+                >Points: <span class="points">1974</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/21/1513234"
@@ -1705,7 +1838,7 @@
             <h4>
               <span>2024-09-23 @ 01:02:00</span
               ><span class="points-container"
-                >Points: <span class="points">2087</span></span
+                >Points: <span class="points">2096</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/21/1511255"
@@ -1774,7 +1907,7 @@
             <h4>
               <span>2024-09-22 @ 20:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">2091</span></span
+                >Points: <span class="points">2101</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/21/154235"
@@ -1894,7 +2027,7 @@
             <h4>
               <span>2024-09-22 @ 15:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">2230</span></span
+                >Points: <span class="points">2238</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/21/1336222"
@@ -1975,7 +2108,7 @@
             <h4>
               <span>2024-09-22 @ 10:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">2745</span></span
+                >Points: <span class="points">2753</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/21/0815237"
@@ -2041,7 +2174,7 @@
             <h4>
               <span>2024-09-22 @ 05:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">2826</span></span
+                >Points: <span class="points">2827</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/21/0811204"
@@ -2192,7 +2325,7 @@
             <h4>
               <span>2024-09-22 @ 01:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">2521</span></span
+                >Points: <span class="points">2522</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/21/0756207"
@@ -2311,7 +2444,7 @@
             <h4>
               <span>2024-09-21 @ 20:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">2427</span></span
+                >Points: <span class="points">2428</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/20/0534246"
@@ -2428,7 +2561,7 @@
             <h4>
               <span>2024-09-21 @ 15:33:00</span
               ><span class="points-container"
-                >Points: <span class="points">2979</span></span
+                >Points: <span class="points">2981</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/20/0233219"
@@ -2542,7 +2675,7 @@
             <h4>
               <span>2024-09-21 @ 10:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">2380</span></span
+                >Points: <span class="points">2382</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/20/0219235"
@@ -2658,7 +2791,7 @@
             <h4>
               <span>2024-09-21 @ 06:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">2818</span></span
+                >Points: <span class="points">2820</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/20/0216226"
@@ -2732,7 +2865,7 @@
             <h4>
               <span>2024-09-21 @ 01:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">2442</span></span
+                >Points: <span class="points">2444</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/20/0212229"
@@ -2827,7 +2960,7 @@
             <h4>
               <span>2024-09-20 @ 20:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">2682</span></span
+                >Points: <span class="points">2684</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/19/1221245"
@@ -2903,7 +3036,7 @@
             <h4>
               <span>2024-09-20 @ 15:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">2540</span></span
+                >Points: <span class="points">2541</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/19/0321209"
@@ -2982,7 +3115,7 @@
             <h4>
               <span>2024-09-20 @ 11:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">2625</span></span
+                >Points: <span class="points">2626</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/19/034206"
@@ -3104,7 +3237,7 @@
             <h4>
               <span>2024-09-20 @ 06:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">2600</span></span
+                >Points: <span class="points">2601</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/18/1827232"
@@ -3272,7 +3405,7 @@
             <h4>
               <span>2024-09-19 @ 20:45:00</span
               ><span class="points-container"
-                >Points: <span class="points">3401</span></span
+                >Points: <span class="points">3402</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/18/1439232"
@@ -4231,7 +4364,7 @@
             <h4>
               <span>2024-09-17 @ 21:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">2756</span></span
+                >Points: <span class="points">2757</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/17/0246230"
@@ -5058,114 +5191,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63759"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/09/15/1249240">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/09/15/1249240&amp;from=rss"
-              >Texas Startup Keeps Launching Obnoxiously Large Satellites—and
-              Worse is Yet to Come</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-16 @ 07:18:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2832</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/09/15/1249240"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~DannyB/">DannyB</a> writes:</p>
-              <p>
-                <a
-                  href="https://gizmodo.com/texas-startup-keeps-launching-these-obnoxiously-large-satellites-and-the-worst-is-yet-to-come-2000498032"
-                  >Texas Startup Keeps Launching These Obnoxiously Large
-                  Satellites—and the Worst Is Yet to Come</a
-                >
-              </p>
-              <p>
-                Five BlueBird satellites have launched as part of AST
-                SpaceMobile's growing constellation, with even larger ones ahead
-                that may pose a threat to clear night skies.
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Bad news for sky watchers: Earth's orbit has been littered
-                    by five more gigantic satellites which are poised to become
-                    the brightest objects in the night sky.
-                  </p>
-                  <p>
-                    The five communication satellites, called BlueBirds,
-                    <a href="https://x.com/SpaceX/status/1834089926939574683"
-                      >launched</a
-                    >
-                    on board a SpaceX Falcon 9 rocket on Thursday at 4:52 a.m.
-                    ET. Each satellite is equipped with the largest ever
-                    commercial communications array to be deployed in low Earth
-                    orbit, according to AST SpaceMobile. The company's prototype
-                    satellite unfurled its giant array in late 2022,
-                    <a
-                      href="https://gizmodo.com/ast-spacemobile-bluewalker3-satellite-bright-light-1850892010"
-                      >outshining most objects in the skies</a
-                    >
-                    except for the Moon, Venus, Jupiter, and seven of the
-                    brightest stars. Now, there's five more of them, as the
-                    company builds out its satellite constellation.
-                  </p>
-                  <p>
-                    AST SpaceMobile is seeking to create the first space-based
-                    cellular broadband network directly accessible by cell
-                    phones. [...]
-                  </p>
-                  <p>
-                    [....] AST SpaceMobile wants to build a constellation of
-                    more than 100 satellites. On its own, one satellite is
-                    bright enough to mess with observations of the cosmos.
-                  </p>
-                  <p>
-                    [....] The newly launched satellites are just as large as
-                    the prototype, but future models could be even larger.
-                    "We're just getting started," Avellan said during a
-                    livestream, Space.com
-                    <a
-                      href="https://www.space.com/spacex-ast-spacemobile-bluebird-launch-september-2024"
-                      >reported.</a
-                    >
-                  </p>
-                  <p>
-                    [....] ST SpaceMobile isn't the only company trying to build
-                    cellular towers in space. SpaceX has launched more than
-                    7,000 satellites to date, and new batches of its Starlink
-                    satellites keep making their way to low Earth orbit. Amazon,
-                    OneWeb, and Lynk Global are other companies trying to get in
-                    on the action.
-                  </p>
-                </div>
-              </blockquote>
-              <p>
-                At least we could access social media or control our IoT devices
-                from the oceans to the remotest desert or mountain.
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63758"
                     >Original Submission</a
                   ></small
                 >
