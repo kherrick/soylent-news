@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-26, 11:57:00](https://soylentnews.org/article.pl?sid=24/09/25/128208&from=rss) - [VW Considers Cutting 30,000 Jobs](https://soylentnews.org/article.pl?sid=24/09/25/128208&from=rss)
 * [2024-09-26, 07:14:00](https://soylentnews.org/article.pl?sid=24/09/25/124246&from=rss) - [PC Floppy Copy Protection: Electronic Arts Interlock ](https://soylentnews.org/article.pl?sid=24/09/25/124246&from=rss)
 * [2024-09-26, 02:31:00](https://soylentnews.org/article.pl?sid=24/09/25/122258&from=rss) - [Google Calls for Halting Use of WHOIS for TLS Domain Verifications](https://soylentnews.org/article.pl?sid=24/09/25/122258&from=rss)
 * [2024-09-25, 21:48:00](https://soylentnews.org/article.pl?sid=24/09/25/1155207&from=rss) - [Do Complex Election Forecasting Models Actually Generate Better Forecasts?](https://soylentnews.org/article.pl?sid=24/09/25/1155207&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-17, 07:03:00](https://soylentnews.org/article.pl?sid=24/09/15/1320239&from=rss) - [Fake Password Manager Coding Test Used to Hack Python Developers](https://soylentnews.org/article.pl?sid=24/09/15/1320239&from=rss)
 * [2024-09-17, 02:17:00](https://soylentnews.org/article.pl?sid=24/09/15/1312208&from=rss) - [Professor Files Antitrust Lawsuit Against Elsevier, Wiley & Four Other Academic Journal Publishers](https://soylentnews.org/article.pl?sid=24/09/15/1312208&from=rss)
 * [2024-09-16, 21:32:00](https://soylentnews.org/article.pl?sid=24/09/15/133247&from=rss) - [Mobile Phones Are Not Linked to Brain Cancer: WHO Confirms in Major Study](https://soylentnews.org/article.pl?sid=24/09/15/133247&from=rss)
-* [2024-09-16, 16:51:00](https://soylentnews.org/article.pl?sid=24/09/15/1259241&from=rss) - [EU Hits 50Pc Renewable Electricity Milestone](https://soylentnews.org/article.pl?sid=24/09/15/1259241&from=rss)
 
 ## [Archives](archives/index.md)
 
