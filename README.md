@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-27, 02:11:00](https://soylentnews.org/article.pl?sid=24/09/26/1212224&from=rss) - [NIST Proposes Barring Some of the Most Nonsensical Password Rules](https://soylentnews.org/article.pl?sid=24/09/26/1212224&from=rss)
 * [2024-09-26, 21:28:00](https://soylentnews.org/article.pl?sid=24/09/26/1043253&from=rss) - [First, there was CAMM -- but also M(C)RDIMMs](https://soylentnews.org/article.pl?sid=24/09/26/1043253&from=rss)
 * [2024-09-26, 16:42:00](https://soylentnews.org/article.pl?sid=24/09/25/1215203&from=rss) - [AT&T and T-Mobile Push Back on FCC Proposal to Unlock Phones in 60 Days](https://soylentnews.org/article.pl?sid=24/09/25/1215203&from=rss)
 * [2024-09-26, 11:57:00](https://soylentnews.org/article.pl?sid=24/09/25/128208&from=rss) - [VW Considers Cutting 30,000 Jobs](https://soylentnews.org/article.pl?sid=24/09/25/128208&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-17, 21:15:00](https://soylentnews.org/article.pl?sid=24/09/17/0246230&from=rss) - [Chinese Chipmaker Loongson Claims Their Next Gpu Will Match RTX 2080'S Performance](https://soylentnews.org/article.pl?sid=24/09/17/0246230&from=rss)
 * [2024-09-17, 16:27:00](https://soylentnews.org/article.pl?sid=24/09/16/1152235&from=rss) - [Ancient DNA Unveils A Previously Unknown Line Of Neandertals](https://soylentnews.org/article.pl?sid=24/09/16/1152235&from=rss)
 * [2024-09-17, 11:45:00](https://soylentnews.org/article.pl?sid=24/09/15/1339250&from=rss) - [My Dead Father is “Writing” Me Notes Again](https://soylentnews.org/article.pl?sid=24/09/15/1339250&from=rss)
-* [2024-09-17, 07:03:00](https://soylentnews.org/article.pl?sid=24/09/15/1320239&from=rss) - [Fake Password Manager Coding Test Used to Hack Python Developers](https://soylentnews.org/article.pl?sid=24/09/15/1320239&from=rss)
 
 ## [Archives](archives/index.md)
 
