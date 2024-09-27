@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-27, 21:12:00](https://soylentnews.org/article.pl?sid=24/09/26/143244&from=rss) - [Linux Boots in 4.76 Days on the Intel 4004](https://soylentnews.org/article.pl?sid=24/09/26/143244&from=rss)
 * [2024-09-27, 16:29:00](https://soylentnews.org/article.pl?sid=24/09/26/1353235&from=rss) - [Better Than Blood Tests? Nanoparticle Potential Found For Assessing Kidneys](https://soylentnews.org/article.pl?sid=24/09/26/1353235&from=rss)
 * [2024-09-27, 11:42:00](https://soylentnews.org/article.pl?sid=24/09/26/1348238&from=rss) - [Hacker Plants False Memories in ChatGPT to Steal User Data in Perpetuity](https://soylentnews.org/article.pl?sid=24/09/26/1348238&from=rss)
 * [2024-09-27, 06:56:00](https://soylentnews.org/article.pl?sid=24/09/26/1218214&from=rss) - [Europe And China Launch Significant Navigation Satellites](https://soylentnews.org/article.pl?sid=24/09/26/1218214&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-18, 16:11:00](https://soylentnews.org/article.pl?sid=24/09/18/0217220&from=rss) - [‘The Data on Extreme Human Ageing is Rotten From the Inside Out’ – Says Ig Nobel Winner](https://soylentnews.org/article.pl?sid=24/09/18/0217220&from=rss)
 * [2024-09-18, 11:34:00](https://soylentnews.org/article.pl?sid=24/09/18/0829241&from=rss) - [Europol Gains Access to More Encrypted Communication](https://soylentnews.org/article.pl?sid=24/09/18/0829241&from=rss)
 * [2024-09-18, 06:49:00](https://soylentnews.org/article.pl?sid=24/09/17/030211&from=rss) - [Emissions-Free Truck Prices Need to Drop by 50% to Compete With Diesel, Study Says](https://soylentnews.org/article.pl?sid=24/09/17/030211&from=rss)
-* [2024-09-18, 02:03:00](https://soylentnews.org/article.pl?sid=24/09/17/0256228&from=rss) - [Cyber Crooks Shut Down Some US, UK Schools](https://soylentnews.org/article.pl?sid=24/09/17/0256228&from=rss)
 
 ## [Archives](archives/index.md)
 
