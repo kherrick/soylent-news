@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-28, 09:52:00](https://soylentnews.org/article.pl?sid=24/09/28/0932256&from=rss) - [A Truck Full Of Batteries Has Been Burning For Almost A Full Day, Shutting Down Ports In LA](https://soylentnews.org/article.pl?sid=24/09/28/0932256&from=rss)
 * [2024-09-28, 08:38:00](https://soylentnews.org/article.pl?sid=24/09/26/1914201&from=rss) - [Moving From Open Source to Proprietary Licenses? Reactions  Showed Minor Impact](https://soylentnews.org/article.pl?sid=24/09/26/1914201&from=rss)
 * [2024-09-28, 01:52:00](https://soylentnews.org/article.pl?sid=24/09/26/198203&from=rss) - [OpenAI Plans Tectonic Shift From Nonprofit to for-Profit, Giving Altman Equity](https://soylentnews.org/article.pl?sid=24/09/26/198203&from=rss)
 * [2024-09-27, 21:12:00](https://soylentnews.org/article.pl?sid=24/09/26/143244&from=rss) - [Linux Boots in 4.76 Days on the Intel 4004](https://soylentnews.org/article.pl?sid=24/09/26/143244&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-19, 06:33:00](https://soylentnews.org/article.pl?sid=24/09/18/0835257&from=rss) - [Exploding Pagers: Actual Cyber War?](https://soylentnews.org/article.pl?sid=24/09/18/0835257&from=rss)
 * [2024-09-19, 01:43:00](https://soylentnews.org/article.pl?sid=24/09/17/035254&from=rss) - [The Commoditization of LLMs](https://soylentnews.org/article.pl?sid=24/09/17/035254&from=rss)
 * [2024-09-18, 20:58:00](https://soylentnews.org/article.pl?sid=24/09/18/0640204&from=rss) - [The Strange Case of the Rogue HP-12c](https://soylentnews.org/article.pl?sid=24/09/18/0640204&from=rss)
-* [2024-09-18, 16:11:00](https://soylentnews.org/article.pl?sid=24/09/18/0217220&from=rss) - [‘The Data on Extreme Human Ageing is Rotten From the Inside Out’ – Says Ig Nobel Winner](https://soylentnews.org/article.pl?sid=24/09/18/0217220&from=rss)
 
 ## [Archives](archives/index.md)
 
