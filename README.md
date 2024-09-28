@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-28, 18:01:00](https://soylentnews.org/article.pl?sid=24/09/27/1122256&from=rss) - [Over £20B In UK Govt It Contracts To Expire Soon. What Next? ](https://soylentnews.org/article.pl?sid=24/09/27/1122256&from=rss)
 * [2024-09-28, 13:20:00](https://soylentnews.org/article.pl?sid=24/09/27/1111211&from=rss) - [Tetris -- A Cognitive Vaccine](https://soylentnews.org/article.pl?sid=24/09/27/1111211&from=rss)
 * [2024-09-28, 09:52:00](https://soylentnews.org/article.pl?sid=24/09/28/0932256&from=rss) - [A Truck Full Of Batteries Has Been Burning For Almost A Full Day, Shutting Down Ports In LA](https://soylentnews.org/article.pl?sid=24/09/28/0932256&from=rss)
 * [2024-09-28, 08:38:00](https://soylentnews.org/article.pl?sid=24/09/26/1914201&from=rss) - [Moving From Open Source to Proprietary Licenses? Reactions  Showed Minor Impact](https://soylentnews.org/article.pl?sid=24/09/26/1914201&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-19, 16:01:00](https://soylentnews.org/article.pl?sid=24/09/18/1223222&from=rss) - [Firefighters Use 50,000 Gallons to Battle Electric Vehicle Fire](https://soylentnews.org/article.pl?sid=24/09/18/1223222&from=rss)
 * [2024-09-19, 11:18:00](https://soylentnews.org/article.pl?sid=24/09/18/0840222&from=rss) - [23andMe Proposes $30 Million Payment for Data Breach](https://soylentnews.org/article.pl?sid=24/09/18/0840222&from=rss)
 * [2024-09-19, 06:33:00](https://soylentnews.org/article.pl?sid=24/09/18/0835257&from=rss) - [Exploding Pagers: Actual Cyber War?](https://soylentnews.org/article.pl?sid=24/09/18/0835257&from=rss)
-* [2024-09-19, 01:43:00](https://soylentnews.org/article.pl?sid=24/09/17/035254&from=rss) - [The Commoditization of LLMs](https://soylentnews.org/article.pl?sid=24/09/17/035254&from=rss)
 
 ## [Archives](archives/index.md)
 
