@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-29, 13:05:00](https://soylentnews.org/article.pl?sid=24/09/28/1349202&from=rss) - [Self-Driving Level 3--Mercedes Style](https://soylentnews.org/article.pl?sid=24/09/28/1349202&from=rss)
 * [2024-09-29, 08:16:00](https://soylentnews.org/article.pl?sid=24/09/27/1657219&from=rss) - [Inside a Ferroelectric RAM Chip](https://soylentnews.org/article.pl?sid=24/09/27/1657219&from=rss)
 * [2024-09-29, 03:31:00](https://soylentnews.org/article.pl?sid=24/09/27/1654214&from=rss) - [AI Tools Help Uncover Enzyme Mechanisms For Lasso Peptides](https://soylentnews.org/article.pl?sid=24/09/27/1654214&from=rss)
 * [2024-09-28, 22:44:00](https://soylentnews.org/article.pl?sid=24/09/27/1615211&from=rss) - [GM, Ford Shares Dip as Morgan Stanley Downgrades US Auto Industry](https://soylentnews.org/article.pl?sid=24/09/27/1615211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-20, 11:03:00](https://soylentnews.org/article.pl?sid=24/09/19/034206&from=rss) - [OpenAI's New AI Model Can Finally Count the Rs in “Strawberry”](https://soylentnews.org/article.pl?sid=24/09/19/034206&from=rss)
 * [2024-09-20, 06:16:00](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss) - [EFF: Tell Congress that we Can't Afford More Bad Patents](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss)
 * [2024-09-20, 01:31:00](https://soylentnews.org/article.pl?sid=24/09/18/1443223&from=rss) - [Oracle's Larry Ellison Predicts AI Surveillance Society](https://soylentnews.org/article.pl?sid=24/09/18/1443223&from=rss)
-* [2024-09-19, 20:45:00](https://soylentnews.org/article.pl?sid=24/09/18/1439232&from=rss) - [In the Beginning, There Was a Theory...  JWST Data Supports Big Bang Challengers.](https://soylentnews.org/article.pl?sid=24/09/18/1439232&from=rss)
 
 ## [Archives](archives/index.md)
 
