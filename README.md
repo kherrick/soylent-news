@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-29, 22:35:00](https://soylentnews.org/article.pl?sid=24/09/28/1416217&from=rss) - [OpenAI CEO: We May Have AI Superintelligence in “a Few Thousand Days”](https://soylentnews.org/article.pl?sid=24/09/28/1416217&from=rss)
 * [2024-09-29, 17:51:00](https://soylentnews.org/article.pl?sid=24/09/28/1412252&from=rss) - [New “Ghost Shark” Species Lurks in Deep Seas of Australia and New Zealand](https://soylentnews.org/article.pl?sid=24/09/28/1412252&from=rss)
 * [2024-09-29, 13:05:00](https://soylentnews.org/article.pl?sid=24/09/28/1349202&from=rss) - [Self-Driving Level 3--Mercedes Style](https://soylentnews.org/article.pl?sid=24/09/28/1349202&from=rss)
 * [2024-09-29, 08:16:00](https://soylentnews.org/article.pl?sid=24/09/27/1657219&from=rss) - [Inside a Ferroelectric RAM Chip](https://soylentnews.org/article.pl?sid=24/09/27/1657219&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-20, 20:34:00](https://soylentnews.org/article.pl?sid=24/09/19/1221245&from=rss) - [Due to AI Fakes, the “Deep Doubt” Era is Here](https://soylentnews.org/article.pl?sid=24/09/19/1221245&from=rss)
 * [2024-09-20, 15:49:00](https://soylentnews.org/article.pl?sid=24/09/19/0321209&from=rss) - [The Black Death is Far Older Than We Thought](https://soylentnews.org/article.pl?sid=24/09/19/0321209&from=rss)
 * [2024-09-20, 11:03:00](https://soylentnews.org/article.pl?sid=24/09/19/034206&from=rss) - [OpenAI's New AI Model Can Finally Count the Rs in “Strawberry”](https://soylentnews.org/article.pl?sid=24/09/19/034206&from=rss)
-* [2024-09-20, 06:16:00](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss) - [EFF: Tell Congress that we Can't Afford More Bad Patents](https://soylentnews.org/article.pl?sid=24/09/18/1827232&from=rss)
 
 ## [Archives](archives/index.md)
 
