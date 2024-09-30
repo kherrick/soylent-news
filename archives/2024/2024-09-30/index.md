@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-30](index.md)
+
+* [2024-09-30, 03:18:00](https://soylentnews.org/article.pl?sid=24/09/28/1420235&from=rss) - [Antarctica’s 'Doomsday' Glacier Is Heading For Catastrophic Collapse](https://soylentnews.org/article.pl?sid=24/09/28/1420235&from=rss)
