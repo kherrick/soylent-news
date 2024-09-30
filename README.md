@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-30, 17:32:00](https://soylentnews.org/article.pl?sid=24/09/29/194251&from=rss) - [Opinion: How To Design A US Data Privacy Law](https://soylentnews.org/article.pl?sid=24/09/29/194251&from=rss)
 * [2024-09-30, 12:46:00](https://soylentnews.org/article.pl?sid=24/09/29/1358235&from=rss) - [SpaceX Launches Mission to Bring Boeing Starliner Crew Home](https://soylentnews.org/article.pl?sid=24/09/29/1358235&from=rss)
 * [2024-09-30, 08:04:00](https://soylentnews.org/article.pl?sid=24/09/29/1335247&from=rss) - [Winamp Source Code Released, but With Significant Restrictions](https://soylentnews.org/article.pl?sid=24/09/29/1335247&from=rss)
 * [2024-09-30, 03:18:00](https://soylentnews.org/article.pl?sid=24/09/28/1420235&from=rss) - [Antarctica’s 'Doomsday' Glacier Is Heading For Catastrophic Collapse](https://soylentnews.org/article.pl?sid=24/09/28/1420235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-21, 15:33:00](https://soylentnews.org/article.pl?sid=24/09/20/0233219&from=rss) - [Do You See Blue or Green? This Viral Test Plays With Color Perception](https://soylentnews.org/article.pl?sid=24/09/20/0233219&from=rss)
 * [2024-09-21, 10:48:00](https://soylentnews.org/article.pl?sid=24/09/20/0219235&from=rss) - [Amazon “Tricks” Customers Into Buying Fire TVs With False Sales Prices: Lawsuit](https://soylentnews.org/article.pl?sid=24/09/20/0219235&from=rss)
 * [2024-09-21, 06:05:00](https://soylentnews.org/article.pl?sid=24/09/20/0216226&from=rss) - [A Legendary Sci-Fi Writer's Most Underrated Novel Will Finally Become a Movie](https://soylentnews.org/article.pl?sid=24/09/20/0216226&from=rss)
-* [2024-09-21, 01:18:00](https://soylentnews.org/article.pl?sid=24/09/20/0212229&from=rss) - [Going Once, Going Twice: Google's Millisecond Ad Auctions are the Focus of Monopoly Claim](https://soylentnews.org/article.pl?sid=24/09/20/0212229&from=rss)
 
 ## [Archives](archives/index.md)
 
