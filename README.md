@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-09-30, 08:04:00](https://soylentnews.org/article.pl?sid=24/09/29/1335247&from=rss) - [Winamp Source Code Released, but With Significant Restrictions](https://soylentnews.org/article.pl?sid=24/09/29/1335247&from=rss)
 * [2024-09-30, 03:18:00](https://soylentnews.org/article.pl?sid=24/09/28/1420235&from=rss) - [Antarctica’s 'Doomsday' Glacier Is Heading For Catastrophic Collapse](https://soylentnews.org/article.pl?sid=24/09/28/1420235&from=rss)
 * [2024-09-29, 22:35:00](https://soylentnews.org/article.pl?sid=24/09/28/1416217&from=rss) - [OpenAI CEO: We May Have AI Superintelligence in “a Few Thousand Days”](https://soylentnews.org/article.pl?sid=24/09/28/1416217&from=rss)
 * [2024-09-29, 17:51:00](https://soylentnews.org/article.pl?sid=24/09/28/1412252&from=rss) - [New “Ghost Shark” Species Lurks in Deep Seas of Australia and New Zealand](https://soylentnews.org/article.pl?sid=24/09/28/1412252&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-21, 06:05:00](https://soylentnews.org/article.pl?sid=24/09/20/0216226&from=rss) - [A Legendary Sci-Fi Writer's Most Underrated Novel Will Finally Become a Movie](https://soylentnews.org/article.pl?sid=24/09/20/0216226&from=rss)
 * [2024-09-21, 01:18:00](https://soylentnews.org/article.pl?sid=24/09/20/0212229&from=rss) - [Going Once, Going Twice: Google's Millisecond Ad Auctions are the Focus of Monopoly Claim](https://soylentnews.org/article.pl?sid=24/09/20/0212229&from=rss)
 * [2024-09-20, 20:34:00](https://soylentnews.org/article.pl?sid=24/09/19/1221245&from=rss) - [Due to AI Fakes, the “Deep Doubt” Era is Here](https://soylentnews.org/article.pl?sid=24/09/19/1221245&from=rss)
-* [2024-09-20, 15:49:00](https://soylentnews.org/article.pl?sid=24/09/19/0321209&from=rss) - [The Black Death is Far Older Than We Thought](https://soylentnews.org/article.pl?sid=24/09/19/0321209&from=rss)
 
 ## [Archives](archives/index.md)
 
