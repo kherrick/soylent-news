@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-01, 12:39:00](https://soylentnews.org/article.pl?sid=24/09/30/1341223&from=rss) - [Elon Musk's X Plummets In Value, Says Company That Helped Him Buy It](https://soylentnews.org/article.pl?sid=24/09/30/1341223&from=rss)
 * [2024-10-01, 07:53:00](https://soylentnews.org/article.pl?sid=24/09/30/1337259&from=rss) - [Arch Linux Announces Collaboration With Valve](https://soylentnews.org/article.pl?sid=24/09/30/1337259&from=rss)
 * [2024-10-01, 03:03:00](https://soylentnews.org/article.pl?sid=24/09/29/1915243&from=rss) - [The EV Graveyard](https://soylentnews.org/article.pl?sid=24/09/29/1915243&from=rss)
 * [2024-09-30, 22:16:00](https://soylentnews.org/article.pl?sid=24/09/29/197255&from=rss) - [This Harley-Davidson Engine (1,500cc) Was Made Specifically For Lawn Mowers (and Racing)](https://soylentnews.org/article.pl?sid=24/09/29/197255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-22, 10:34:00](https://soylentnews.org/article.pl?sid=24/09/21/0815237&from=rss) - [Linux is officially a Hard Real Tme OS](https://soylentnews.org/article.pl?sid=24/09/21/0815237&from=rss)
 * [2024-09-22, 05:47:00](https://soylentnews.org/article.pl?sid=24/09/21/0811204&from=rss) - [U.S. Finds the Golden Hydrogen in This Region: Trillions of Dollars of This Futuristic Energy Here](https://soylentnews.org/article.pl?sid=24/09/21/0811204&from=rss)
 * [2024-09-22, 01:05:00](https://soylentnews.org/article.pl?sid=24/09/21/0756207&from=rss) - [How Hope Beats Mindfulness When Times Are Tough](https://soylentnews.org/article.pl?sid=24/09/21/0756207&from=rss)
-* [2024-09-21, 20:22:00](https://soylentnews.org/article.pl?sid=24/09/20/0534246&from=rss) - [US and Japan Near Deal to Curb Chip Technology Exports to China](https://soylentnews.org/article.pl?sid=24/09/20/0534246&from=rss)
 
 ## [Archives](archives/index.md)
 
