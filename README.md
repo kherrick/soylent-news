@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-02, 02:50:00](https://soylentnews.org/article.pl?sid=24/10/01/1216204&from=rss) - [Black Hole Shot a Beam Through Space. NASA Snapped Stunning Footage](https://soylentnews.org/article.pl?sid=24/10/01/1216204&from=rss)
 * [2024-10-01, 22:05:00](https://soylentnews.org/article.pl?sid=24/09/30/1347217&from=rss) - [China Calls For Realtime Censorship Of Satellite Broadband](https://soylentnews.org/article.pl?sid=24/09/30/1347217&from=rss)
 * [2024-10-01, 17:22:00](https://soylentnews.org/article.pl?sid=24/09/30/1343253&from=rss) - [YouTube Blocks Videos From Adele, Green Day, Bob Dylan, Others in Dispute With SESAC](https://soylentnews.org/article.pl?sid=24/09/30/1343253&from=rss)
 * [2024-10-01, 12:39:00](https://soylentnews.org/article.pl?sid=24/09/30/1341223&from=rss) - [Elon Musk's X Plummets In Value, Says Company That Helped Him Buy It](https://soylentnews.org/article.pl?sid=24/09/30/1341223&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-23, 01:02:00](https://soylentnews.org/article.pl?sid=24/09/21/1511255&from=rss) - [Plan Would Power New Microsoft AI Data Center From Pa.'s Three Mile Island 'Unit 1' Nuclear Reactor](https://soylentnews.org/article.pl?sid=24/09/21/1511255&from=rss)
 * [2024-09-22, 20:13:00](https://soylentnews.org/article.pl?sid=24/09/21/154235&from=rss) - [NHS Scientists Find New Blood Group Solving 50-Year Mystery](https://soylentnews.org/article.pl?sid=24/09/21/154235&from=rss)
 * [2024-09-22, 15:22:00](https://soylentnews.org/article.pl?sid=24/09/21/1336222&from=rss) - [Lost Mozart Piece Verified](https://soylentnews.org/article.pl?sid=24/09/21/1336222&from=rss)
-* [2024-09-22, 10:34:00](https://soylentnews.org/article.pl?sid=24/09/21/0815237&from=rss) - [Linux is officially a Hard Real Tme OS](https://soylentnews.org/article.pl?sid=24/09/21/0815237&from=rss)
 
 ## [Archives](archives/index.md)
 
