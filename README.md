@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-02, 17:01:00](https://soylentnews.org/article.pl?sid=24/10/02/0512256&from=rss) - [Amd Unveils Its First Small Language Model, AMD-135M](https://soylentnews.org/article.pl?sid=24/10/02/0512256&from=rss)
 * [2024-10-02, 12:15:00](https://soylentnews.org/article.pl?sid=24/10/01/1226233&from=rss) - [Oracle Could Control Arm Chipmaker Ampere In 2027](https://soylentnews.org/article.pl?sid=24/10/01/1226233&from=rss)
 * [2024-10-02, 07:31:00](https://soylentnews.org/article.pl?sid=24/10/01/1222236&from=rss) - [SpaceX Shuts Down Launches After Problem With Crew-9 Mission's 2nd Stage](https://soylentnews.org/article.pl?sid=24/10/01/1222236&from=rss)
 * [2024-10-02, 02:50:00](https://soylentnews.org/article.pl?sid=24/10/01/1216204&from=rss) - [Black Hole Shot a Beam Through Space. NASA Snapped Stunning Footage](https://soylentnews.org/article.pl?sid=24/10/01/1216204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-23, 15:16:00](https://soylentnews.org/article.pl?sid=24/09/22/0343256&from=rss) - [Review: iFixit’s FixHub May Be The Last Soldering Iron You Ever Buy](https://soylentnews.org/article.pl?sid=24/09/22/0343256&from=rss)
 * [2024-09-23, 10:31:00](https://soylentnews.org/article.pl?sid=24/09/21/2054251&from=rss) - [Utah Judge Blocks Law Preventing Youth From Accessing Social Media Freely](https://soylentnews.org/article.pl?sid=24/09/21/2054251&from=rss)
 * [2024-09-23, 05:43:00](https://soylentnews.org/article.pl?sid=24/09/21/1513234&from=rss) - [Plenty of Ups-and-Downs Are Key to a Great Story](https://soylentnews.org/article.pl?sid=24/09/21/1513234&from=rss)
-* [2024-09-23, 01:02:00](https://soylentnews.org/article.pl?sid=24/09/21/1511255&from=rss) - [Plan Would Power New Microsoft AI Data Center From Pa.'s Three Mile Island 'Unit 1' Nuclear Reactor](https://soylentnews.org/article.pl?sid=24/09/21/1511255&from=rss)
 
 ## [Archives](archives/index.md)
 
