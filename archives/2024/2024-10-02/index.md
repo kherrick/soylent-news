@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 21:44:00](https://soylentnews.org/article.pl?sid=24/10/02/0514243&from=rss) - [US Army Orders Next-gen Robot Mule](https://soylentnews.org/article.pl?sid=24/10/02/0514243&from=rss)
 * [2024-10-02, 17:01:00](https://soylentnews.org/article.pl?sid=24/10/02/0512256&from=rss) - [Amd Unveils Its First Small Language Model, AMD-135M](https://soylentnews.org/article.pl?sid=24/10/02/0512256&from=rss)
 * [2024-10-02, 12:15:00](https://soylentnews.org/article.pl?sid=24/10/01/1226233&from=rss) - [Oracle Could Control Arm Chipmaker Ampere In 2027](https://soylentnews.org/article.pl?sid=24/10/01/1226233&from=rss)
 * [2024-10-02, 07:31:00](https://soylentnews.org/article.pl?sid=24/10/01/1222236&from=rss) - [SpaceX Shuts Down Launches After Problem With Crew-9 Mission's 2nd Stage](https://soylentnews.org/article.pl?sid=24/10/01/1222236&from=rss)
