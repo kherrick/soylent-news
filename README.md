@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-03, 21:18:00](https://soylentnews.org/article.pl?sid=24/10/03/0340243&from=rss) - [Cloud Threats Top Execs' List Of Cyber Nightmares](https://soylentnews.org/article.pl?sid=24/10/03/0340243&from=rss)
 * [2024-10-03, 16:31:00](https://soylentnews.org/article.pl?sid=24/10/03/0332233&from=rss) - [AI Bots Now Beat 100% of Those Traffic-Image CAPTCHAs](https://soylentnews.org/article.pl?sid=24/10/03/0332233&from=rss)
 * [2024-10-03, 11:48:00](https://soylentnews.org/article.pl?sid=24/10/03/0329209&from=rss) - [The UK Says Goodbye To Coal Production](https://soylentnews.org/article.pl?sid=24/10/03/0329209&from=rss)
 * [2024-10-03, 07:04:00](https://soylentnews.org/article.pl?sid=24/10/03/0326234&from=rss) - [Gnome 47 Brings Back Some Customization Options](https://soylentnews.org/article.pl?sid=24/10/03/0326234&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-24, 15:08:00](https://soylentnews.org/article.pl?sid=24/09/23/1249256&from=rss) - [The Arc Browser That Lets You Customize Websites Had a Serious Vulnerability](https://soylentnews.org/article.pl?sid=24/09/23/1249256&from=rss)
 * [2024-09-24, 10:18:00](https://soylentnews.org/article.pl?sid=24/09/23/1243226&from=rss) - [Google Employees’ Attempts to Hide Messages From Investigators Might Backfire](https://soylentnews.org/article.pl?sid=24/09/23/1243226&from=rss)
 * [2024-09-24, 05:33:00](https://soylentnews.org/article.pl?sid=24/09/23/1237221&from=rss) - [Torvalds Weighs In On 'Nasty' Rust Vs C For Linux Debate](https://soylentnews.org/article.pl?sid=24/09/23/1237221&from=rss)
-* [2024-09-24, 00:51:00](https://soylentnews.org/article.pl?sid=24/09/22/1436255&from=rss) - [“Dead Internet Theory” Comes to Life With New AI-Powered Social Media App](https://soylentnews.org/article.pl?sid=24/09/22/1436255&from=rss)
 
 ## [Archives](archives/index.md)
 
