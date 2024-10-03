@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-03, 11:48:00](https://soylentnews.org/article.pl?sid=24/10/03/0329209&from=rss) - [The UK Says Goodbye To Coal Production](https://soylentnews.org/article.pl?sid=24/10/03/0329209&from=rss)
 * [2024-10-03, 07:04:00](https://soylentnews.org/article.pl?sid=24/10/03/0326234&from=rss) - [Gnome 47 Brings Back Some Customization Options](https://soylentnews.org/article.pl?sid=24/10/03/0326234&from=rss)
 * [2024-10-03, 02:15:00](https://soylentnews.org/article.pl?sid=24/10/02/0516236&from=rss) - [Microsoft Details Security/Privacy Overhaul for Windows Recall Ahead of Relaunch](https://soylentnews.org/article.pl?sid=24/10/02/0516236&from=rss)
 * [2024-10-02, 21:44:00](https://soylentnews.org/article.pl?sid=24/10/02/0514243&from=rss) - [US Army Orders Next-gen Robot Mule](https://soylentnews.org/article.pl?sid=24/10/02/0514243&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-24, 05:33:00](https://soylentnews.org/article.pl?sid=24/09/23/1237221&from=rss) - [Torvalds Weighs In On 'Nasty' Rust Vs C For Linux Debate](https://soylentnews.org/article.pl?sid=24/09/23/1237221&from=rss)
 * [2024-09-24, 00:51:00](https://soylentnews.org/article.pl?sid=24/09/22/1436255&from=rss) - [“Dead Internet Theory” Comes to Life With New AI-Powered Social Media App](https://soylentnews.org/article.pl?sid=24/09/22/1436255&from=rss)
 * [2024-09-23, 20:04:00](https://soylentnews.org/article.pl?sid=24/09/22/0354251&from=rss) - [Microsoft Releases a New Windows App Called Windows App for Running Windows Apps](https://soylentnews.org/article.pl?sid=24/09/22/0354251&from=rss)
-* [2024-09-23, 18:45:00](https://soylentnews.org/article.pl?sid=24/09/23/1839248&from=rss) - [Twitter Complies With Court Orders in Brazil](https://soylentnews.org/article.pl?sid=24/09/23/1839248&from=rss)
 
 ## [Archives](archives/index.md)
 
