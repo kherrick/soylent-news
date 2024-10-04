@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 21:11:00](https://soylentnews.org/article.pl?sid=24/10/04/0053244&from=rss) - [Meta Smart Glasses Can be Used to Dox Anyone in Seconds, Study Finds](https://soylentnews.org/article.pl?sid=24/10/04/0053244&from=rss)
 * [2024-10-04, 16:23:00](https://soylentnews.org/article.pl?sid=24/10/04/015208&from=rss) - [Patent Troll Sable Pays Up, Dedicates All its Patents to the Public!](https://soylentnews.org/article.pl?sid=24/10/04/015208&from=rss)
 * [2024-10-04, 11:37:00](https://soylentnews.org/article.pl?sid=24/10/03/048257&from=rss) - [Meta Pays the Price for Storing Hundreds of Millions of Passwords in Plaintext](https://soylentnews.org/article.pl?sid=24/10/03/048257&from=rss)
 * [2024-10-04, 06:50:00](https://soylentnews.org/article.pl?sid=24/10/03/046217&from=rss) - [FCC Fines Consultant Behind Deepfake Biden Robocalls With $6 Million Fine and Criminal Charges](https://soylentnews.org/article.pl?sid=24/10/03/046217&from=rss)
