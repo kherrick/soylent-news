@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-04, 11:37:00](https://soylentnews.org/article.pl?sid=24/10/03/048257&from=rss) - [Meta Pays the Price for Storing Hundreds of Millions of Passwords in Plaintext](https://soylentnews.org/article.pl?sid=24/10/03/048257&from=rss)
 * [2024-10-04, 06:50:00](https://soylentnews.org/article.pl?sid=24/10/03/046217&from=rss) - [FCC Fines Consultant Behind Deepfake Biden Robocalls With $6 Million Fine and Criminal Charges](https://soylentnews.org/article.pl?sid=24/10/03/046217&from=rss)
 * [2024-10-04, 02:05:00](https://soylentnews.org/article.pl?sid=24/10/03/0349252&from=rss) - [California Governor Vetoes Controversial AI Safety Bill](https://soylentnews.org/article.pl?sid=24/10/03/0349252&from=rss)
 * [2024-10-03, 21:18:00](https://soylentnews.org/article.pl?sid=24/10/03/0340243&from=rss) - [Cloud Threats Top Execs' List Of Cyber Nightmares](https://soylentnews.org/article.pl?sid=24/10/03/0340243&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-25, 05:21:00](https://soylentnews.org/article.pl?sid=24/09/24/1152242&from=rss) - [FBI Shuts Down Botnet Run by Beijing-Backed Hackers That Hijacked Over 200,000 Devices](https://soylentnews.org/article.pl?sid=24/09/24/1152242&from=rss)
 * [2024-09-25, 00:34:00](https://soylentnews.org/article.pl?sid=24/09/23/1255231&from=rss) - [Starlink Imposes $100 “Congestion Charge” on New Users in Parts of US](https://soylentnews.org/article.pl?sid=24/09/23/1255231&from=rss)
 * [2024-09-24, 19:51:00](https://soylentnews.org/article.pl?sid=24/09/23/1252240&from=rss) - [CERN Cuts Ties With Russia, Will Expel Hundreds Of Scientists By December](https://soylentnews.org/article.pl?sid=24/09/23/1252240&from=rss)
-* [2024-09-24, 15:08:00](https://soylentnews.org/article.pl?sid=24/09/23/1249256&from=rss) - [The Arc Browser That Lets You Customize Websites Had a Serious Vulnerability](https://soylentnews.org/article.pl?sid=24/09/23/1249256&from=rss)
 
 ## [Archives](archives/index.md)
 
