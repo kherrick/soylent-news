@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-05, 16:13:00](https://soylentnews.org/article.pl?sid=24/10/04/1518222&from=rss) - [California Enacts Car Data Privacy Law to Curb Domestic Violence](https://soylentnews.org/article.pl?sid=24/10/04/1518222&from=rss)
 * [2024-10-05, 11:24:00](https://soylentnews.org/article.pl?sid=24/10/04/1456256&from=rss) - [Thousands of Linux Systems Infected by Stealthy Malware Since 2021](https://soylentnews.org/article.pl?sid=24/10/04/1456256&from=rss)
 * [2024-10-05, 06:39:00](https://soylentnews.org/article.pl?sid=24/10/04/1450225&from=rss) - [Businesses Are Still Betting On Generative AI Despite Media Skepticism](https://soylentnews.org/article.pl?sid=24/10/04/1450225&from=rss)
 * [2024-10-05, 01:56:00](https://soylentnews.org/article.pl?sid=24/10/04/1448214&from=rss) - [Why Trolls, Extremists, and Others Spread Conspiracy Theories They Don't Believe](https://soylentnews.org/article.pl?sid=24/10/04/1448214&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-26, 11:57:00](https://soylentnews.org/article.pl?sid=24/09/25/128208&from=rss) - [VW Considers Cutting 30,000 Jobs](https://soylentnews.org/article.pl?sid=24/09/25/128208&from=rss)
 * [2024-09-26, 07:14:00](https://soylentnews.org/article.pl?sid=24/09/25/124246&from=rss) - [PC Floppy Copy Protection: Electronic Arts Interlock ](https://soylentnews.org/article.pl?sid=24/09/25/124246&from=rss)
 * [2024-09-26, 02:31:00](https://soylentnews.org/article.pl?sid=24/09/25/122258&from=rss) - [Google Calls for Halting Use of WHOIS for TLS Domain Verifications](https://soylentnews.org/article.pl?sid=24/09/25/122258&from=rss)
-* [2024-09-25, 21:48:00](https://soylentnews.org/article.pl?sid=24/09/25/1155207&from=rss) - [Do Complex Election Forecasting Models Actually Generate Better Forecasts?](https://soylentnews.org/article.pl?sid=24/09/25/1155207&from=rss)
 
 ## [Archives](archives/index.md)
 
