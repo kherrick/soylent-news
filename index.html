@@ -145,6 +145,219 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/10/04/1456256">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/10/04/1456256&amp;from=rss"
+              >Thousands of Linux Systems Infected by Stealthy Malware Since
+              2021</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-05 @ 11:24:00</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/10/04/1456256"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                While Perfctl and some of the malware it installs are detected
+                by some antivirus software, Aqua Security researchers were
+                unable to find any research reports on the malware. They were,
+                however, able to find a wealth of threads on developer-related
+                sites that discussed infections consistent with it.
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    This
+                    <a
+                      href="https://www.reddit.com/r/CentOS/comments/12ef76l/need_help_in_removal_perfcc_and_perfctl_coin/"
+                      >Reddit comment</a
+                    >
+                    posted to the CentOS subreddit is typical. An admin noticed
+                    that two servers were infected with a cryptocurrency
+                    hijacker with the names perfcc and perfctl. The admin wanted
+                    help investigating the cause.
+                  </p>
+                  <p>
+                    "I only became aware of the malware because my monitoring
+                    setup alerted me to 100% CPU utilization," the admin wrote
+                    in the April 2023 post. "However, the process would stop
+                    immediately when I logged in via SSH or console. As soon as
+                    I logged out, the malware would resume running within a few
+                    seconds or minutes." The admin continued:
+                  </p>
+                  <blockquote>
+                    <div>
+                      <p>
+                        I have attempted to remove the malware by following the
+                        steps outlined in other forums, but to no avail. The
+                        malware always manages to restart once I log out. I have
+                        also searched the entire system for the string "perfcc"
+                        and found the files listed below. However, removing them
+                        did not resolve the issue. as it keep respawn on each
+                        time rebooted.
+                      </p>
+                    </div>
+                  </blockquote>
+                  <p>
+                    Other discussions include:
+                    <a
+                      href="https://www.reddit.com/r/CentOS/comments/12ef76l/need_help_in_removal_perfcc_and_perfctl_coin/"
+                      >Reddit</a
+                    >,
+                    <a
+                      href="https://es.stackoverflow.com/questions/580957/perfctl-usa-el-100-de-los-recursos-del-cpu"
+                      >Stack Overflow</a
+                    >
+                    <a
+                      href="https://www.freelancer.com/projects/linux/remove-perfctl-malware-from-vps"
+                      >(Spanish),</a
+                    >
+                    <a
+                      href="https://forobeta.com/temas/como-eliminar-el-malware-perfctl-del-servidor-vps-ubuntu-20-04.961444/?amp=1"
+                      >forobeta</a
+                    ><a
+                      href="https://www.freelancer.com/projects/linux/remove-perfctl-malware-from-vps"
+                    >
+                      (Spanish),</a
+                    ><a
+                      href="https://community.brainycp.com/viewtopic.php?t=5264"
+                      >brainycp</a
+                    ><a
+                      href="https://www.freelancer.com/projects/linux/remove-perfctl-malware-from-vps"
+                    >
+                      (Russian),</a
+                    >
+                    <a
+                      href="https://www.natanetwork.com/portal/knowledgebase/383/Menghapus-maleware-perfctl-di-VPS-Linux.html?language=english"
+                      >natnetwork</a
+                    ><a
+                      href="https://www.freelancer.com/projects/linux/remove-perfctl-malware-from-vps"
+                    >
+                      (Indonesian),</a
+                    >
+                    <a
+                      href="https://forum.proxmox.com/threads/cpu-auslastung-bei-100-trotz-niedriger-last.125196/"
+                      >Proxmox</a
+                    ><a
+                      href="https://www.freelancer.com/projects/linux/remove-perfctl-malware-from-vps"
+                    >
+                      (Deutsch),</a
+                    >
+                    <a
+                      href="https://blog.camel2243.com/posts/security-perfctl-malware-cpu-memory/"
+                      >Camel2243</a
+                    ><a
+                      href="https://www.freelancer.com/projects/linux/remove-perfctl-malware-from-vps"
+                    >
+                      (Chinese),</a
+                    >
+                    <a href="https://svrforum.com/software/1680420">svrforum</a
+                    ><a
+                      href="https://www.freelancer.com/projects/linux/remove-perfctl-malware-from-vps"
+                    >
+                      (Korean),</a
+                    >
+                    <a
+                      href="https://support.exabytes.co.id/en/support/solutions/articles/14000146571-guide-on-how-to-remove-perfctl-maleware-on-linux-vps"
+                      >exabytes,</a
+                    ><a
+                      href="https://forum.virtualmin.com/t/perfctl-uses-100-cpu-usage/117873"
+                      >virtualmin,</a
+                    ><a
+                      href="https://serverfault.com/questions/1095192/100-cpu-load-caused-by-service-perfctl"
+                      >serverfault</a
+                    ><a
+                      href="https://forum.virtualmin.com/t/perfctl-uses-100-cpu-usage/117873"
+                    >
+                      and many others.</a
+                    >
+                  </p>
+                  <p>
+                    After exploiting a vulnerability or misconfiguration, the
+                    exploit code downloads the main payload from a server,
+                    which, in most cases, has been hacked by the attacker and
+                    converted into a channel for distributing the malware
+                    anonymously. An attack that targeted the researchers'
+                    honeypot named the payload httpd. Once executed, the file
+                    copies itself from memory to a new location in the /temp
+                    directory, runs it, and then terminates the original process
+                    and deletes the downloaded binary.
+                  </p>
+                  <p>
+                    Once moved to the /tmp directory, the file executes under a
+                    different name, which mimics the name of a known Linux
+                    process. The file hosted on the honeypot was named sh. From
+                    there, the file establishes a local command-and-control
+                    process and attempts to gain root system rights by
+                    exploiting CVE-2021-4043, a privilege-escalation
+                    vulnerability that was patched in 2021 in Gpac, a widely
+                    used open source multimedia framework.
+                  </p>
+                  <p>
+                    The malware goes on to copy itself from memory to a handful
+                    of other disk locations, once again using names that appear
+                    as routine system files. The malware then drops a rootkit, a
+                    host of popular Linux utilities that have been modified to
+                    serve as rootkits, and the miner. In some cases, the malware
+                    also installs software for "proxy-jacking," the term for
+                    surreptitiously routing traffic through the infected machine
+                    so the true origin of the data isn't revealed.
+                  </p>
+                  <p>The researchers continued:</p>
+                  <blockquote>
+                    <div>
+                      <p>
+                        As part of its command-and-control operation, the
+                        malware opens a Unix socket, creates two directories
+                        under the /tmp directory, and stores data there that
+                        influences its operation. This data includes host
+                        events, locations of the copies of itself, process
+                        names, communication logs, tokens, and additional log
+                        information. Additionally, the malware uses environment
+                        variables to store data that further affects its
+                        execution and behavior.
+                      </p>
+                      <p>
+                        All the binaries are packed, stripped, and encrypted,
+                        indicating significant efforts to bypass defense
+                        mechanisms and hinder reverse engineering attempts. The
+                        malware also uses advanced evasion techniques, such as
+                        suspending its activity when it detects a new user in
+                        the btmp or utmp files and terminating any competing
+                        malware to maintain control over the infected system.
+                      </p>
+                    </div>
+                  </blockquote>
+                  <p>
+                    [Editor's Comment: There is much more information in the
+                    full article but, yeah, we know, nobody reads TFA]
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63959"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/10/04/1450225">
           <h3>
             <a
@@ -158,7 +371,7 @@
             <h4>
               <span>2024-10-05 @ 06:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">232</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/04/1450225"
@@ -285,7 +498,7 @@
             <h4>
               <span>2024-10-05 @ 01:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">351</span></span
+                >Points: <span class="points">365</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/04/1448214"
@@ -430,7 +643,7 @@
             <h4>
               <span>2024-10-04 @ 21:11:00</span
               ><span class="points-container"
-                >Points: <span class="points">538</span></span
+                >Points: <span class="points">560</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/04/0053244"
@@ -563,7 +776,7 @@
             <h4>
               <span>2024-10-04 @ 16:23:00</span
               ><span class="points-container"
-                >Points: <span class="points">737</span></span
+                >Points: <span class="points">749</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/04/015208"
@@ -661,7 +874,7 @@
             <h4>
               <span>2024-10-04 @ 11:37:00</span
               ><span class="points-container"
-                >Points: <span class="points">984</span></span
+                >Points: <span class="points">994</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/03/048257"
@@ -749,7 +962,7 @@
             <h4>
               <span>2024-10-04 @ 06:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">904</span></span
+                >Points: <span class="points">913</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/03/046217"
@@ -846,7 +1059,7 @@
             <h4>
               <span>2024-10-04 @ 02:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">866</span></span
+                >Points: <span class="points">873</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/03/0349252"
@@ -959,7 +1172,7 @@
             <h4>
               <span>2024-10-03 @ 21:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">1142</span></span
+                >Points: <span class="points">1149</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/03/0340243"
@@ -1039,7 +1252,7 @@
             <h4>
               <span>2024-10-03 @ 16:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">1516</span></span
+                >Points: <span class="points">1525</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/03/0332233"
@@ -1114,7 +1327,7 @@
             <h4>
               <span>2024-10-03 @ 11:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">1675</span></span
+                >Points: <span class="points">1683</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/03/0329209"
@@ -1211,7 +1424,7 @@
             <h4>
               <span>2024-10-03 @ 07:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">1568</span></span
+                >Points: <span class="points">1575</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/03/0326234"
@@ -1302,7 +1515,7 @@
             <h4>
               <span>2024-10-03 @ 02:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">1628</span></span
+                >Points: <span class="points">1636</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/02/0516236"
@@ -1405,7 +1618,7 @@
             <h4>
               <span>2024-10-02 @ 21:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">1524</span></span
+                >Points: <span class="points">1532</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/02/0514243"
@@ -1490,7 +1703,7 @@
             <h4>
               <span>2024-10-02 @ 17:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">1583</span></span
+                >Points: <span class="points">1590</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/02/0512256"
@@ -1576,7 +1789,7 @@
             <h4>
               <span>2024-10-02 @ 12:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">1668</span></span
+                >Points: <span class="points">1676</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/01/1226233"
@@ -1702,7 +1915,7 @@
             <h4>
               <span>2024-10-02 @ 07:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">1748</span></span
+                >Points: <span class="points">1756</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/01/1222236"
@@ -1796,7 +2009,7 @@
             <h4>
               <span>2024-10-02 @ 02:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">1985</span></span
+                >Points: <span class="points">1992</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/10/01/1216204"
@@ -1911,7 +2124,7 @@
             <h4>
               <span>2024-10-01 @ 22:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">2410</span></span
+                >Points: <span class="points">2418</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/30/1347217"
@@ -1998,7 +2211,7 @@
             <h4>
               <span>2024-10-01 @ 17:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">2336</span></span
+                >Points: <span class="points">2343</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/30/1343253"
@@ -2144,7 +2357,7 @@
             <h4>
               <span>2024-10-01 @ 12:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">4197</span></span
+                >Points: <span class="points">4201</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/30/1341223"
@@ -2528,7 +2741,7 @@
             <h4>
               <span>2024-09-30 @ 22:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">2349</span></span
+                >Points: <span class="points">2350</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/29/197255"
@@ -2656,7 +2869,7 @@
             <h4>
               <span>2024-09-30 @ 17:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">2318</span></span
+                >Points: <span class="points">2319</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/29/194251"
@@ -2762,7 +2975,7 @@
             <h4>
               <span>2024-09-30 @ 12:46:00</span
               ><span class="points-container"
-                >Points: <span class="points">2337</span></span
+                >Points: <span class="points">2338</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/29/1358235"
@@ -3044,7 +3257,7 @@
             <h4>
               <span>2024-09-29 @ 22:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">2904</span></span
+                >Points: <span class="points">2905</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/09/28/1416217"
@@ -5337,90 +5550,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63837"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/09/24/1255225">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/09/24/1255225&amp;from=rss"
-              >Vaporizing Plastics Recycles Them Into Nothing but Gas</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-25 @ 17:03:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2385</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/09/24/1255225"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-            <div class="text">
-              <blockquote>
-                <div>
-                  <p>
-                    This method has high selectivity—meaning it produces a large
-                    amount of the desired product. That means propylene derived
-                    from polyethylene, and both propylene and isobutylene
-                    derived from polypropylene. Both of these chemicals are in
-                    high demand, since propylene is an important raw material
-                    for the chemical industry, while isobutylene is a frequently
-                    used monomer in many different polymers, including synthetic
-                    rubber and a gasoline additive.
-                  </p>
-                  <p>
-                    Because plastics are often mixed at recycling centers, the
-                    researchers wanted to see what would happen if polypropylene
-                    and polyethylene underwent isomerizing ethenolysis together.
-                    The reaction was successful, converting the mixture into
-                    propylene and isobutylene, with slightly more propylene than
-                    isobutylene.
-                  </p>
-                  <p>
-                    [...] While this recycling method sounds like it could
-                    prevent tons upon tons of waste, it will need to be scaled
-                    up enormously for this to happen. When the research team
-                    increased the scale of the experiment, it produced the same
-                    yield, which looks promising for the future. Still, we’ll
-                    need to build considerable infrastructure before this could
-                    make a dent in our plastic waste.
-                  </p>
-                  <p>
-                    “We hope that the work described…will lead to practical
-                    methods for…[producing] new polymers,” the researchers said
-                    in the same
-                    <a
-                      href="https://www.science.org/doi/10.1126/science.adq7316"
-                      >study</a
-                    >. “By doing so, the demand for production of these
-                    essential commodity chemicals starting from fossil carbon
-                    sources and the associated greenhouse gas emissions could be
-                    greatly reduced.”
-                  </p>
-                </div>
-              </blockquote>
-              <p>
-                Science, 2024. DOI:
-                <a href="https://doi.org/10.1126/science.adq7316"
-                  >10.1126/science.adq731</a
-                >
-              </p>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=63835"
                     >Original Submission</a
                   ></small
                 >
