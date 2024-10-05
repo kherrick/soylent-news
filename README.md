@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-05, 06:39:00](https://soylentnews.org/article.pl?sid=24/10/04/1450225&from=rss) - [Businesses Are Still Betting On Generative AI Despite Media Skepticism](https://soylentnews.org/article.pl?sid=24/10/04/1450225&from=rss)
 * [2024-10-05, 01:56:00](https://soylentnews.org/article.pl?sid=24/10/04/1448214&from=rss) - [Why Trolls, Extremists, and Others Spread Conspiracy Theories They Don't Believe](https://soylentnews.org/article.pl?sid=24/10/04/1448214&from=rss)
 * [2024-10-04, 21:11:00](https://soylentnews.org/article.pl?sid=24/10/04/0053244&from=rss) - [Meta Smart Glasses Can be Used to Dox Anyone in Seconds, Study Finds](https://soylentnews.org/article.pl?sid=24/10/04/0053244&from=rss)
 * [2024-10-04, 16:23:00](https://soylentnews.org/article.pl?sid=24/10/04/015208&from=rss) - [Patent Troll Sable Pays Up, Dedicates All its Patents to the Public!](https://soylentnews.org/article.pl?sid=24/10/04/015208&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-26, 02:31:00](https://soylentnews.org/article.pl?sid=24/09/25/122258&from=rss) - [Google Calls for Halting Use of WHOIS for TLS Domain Verifications](https://soylentnews.org/article.pl?sid=24/09/25/122258&from=rss)
 * [2024-09-25, 21:48:00](https://soylentnews.org/article.pl?sid=24/09/25/1155207&from=rss) - [Do Complex Election Forecasting Models Actually Generate Better Forecasts?](https://soylentnews.org/article.pl?sid=24/09/25/1155207&from=rss)
 * [2024-09-25, 17:03:00](https://soylentnews.org/article.pl?sid=24/09/24/1255225&from=rss) - [Vaporizing Plastics Recycles Them Into Nothing but Gas](https://soylentnews.org/article.pl?sid=24/09/24/1255225&from=rss)
-* [2024-09-25, 12:15:00](https://soylentnews.org/article.pl?sid=24/09/24/1157213&from=rss) - [Nintendo, the Pokemon Company Sue Palworld-Maker Pocketpair](https://soylentnews.org/article.pl?sid=24/09/24/1157213&from=rss)
 
 ## [Archives](archives/index.md)
 
