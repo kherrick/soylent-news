@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-06, 10:59:00](https://soylentnews.org/article.pl?sid=24/10/05/0031203&from=rss) - [Nasa Spacecraft Has Roamed Billions Of Miles — But Hasn't Reached The 'Edge'](https://soylentnews.org/article.pl?sid=24/10/05/0031203&from=rss)
 * [2024-10-06, 06:11:00](https://soylentnews.org/article.pl?sid=24/10/05/0211220&from=rss) - [Appeals Court Reminds Law Enforcement That ‘No-Fly’ Doesn’t Mean ‘No Drive’](https://soylentnews.org/article.pl?sid=24/10/05/0211220&from=rss)
 * [2024-10-06, 01:39:00](https://soylentnews.org/article.pl?sid=24/10/04/1755218&from=rss) - [The New Cyber Security Buzz Word is Resilience](https://soylentnews.org/article.pl?sid=24/10/04/1755218&from=rss)
 * [2024-10-05, 20:54:00](https://soylentnews.org/article.pl?sid=24/10/04/1521232&from=rss) - [A Hurricane’s Aftermath May Spur Up To 11,000 Deaths](https://soylentnews.org/article.pl?sid=24/10/04/1521232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-27, 06:56:00](https://soylentnews.org/article.pl?sid=24/09/26/1218214&from=rss) - [Europe And China Launch Significant Navigation Satellites](https://soylentnews.org/article.pl?sid=24/09/26/1218214&from=rss)
 * [2024-09-27, 02:11:00](https://soylentnews.org/article.pl?sid=24/09/26/1212224&from=rss) - [NIST Proposes Barring Some of the Most Nonsensical Password Rules](https://soylentnews.org/article.pl?sid=24/09/26/1212224&from=rss)
 * [2024-09-26, 21:28:00](https://soylentnews.org/article.pl?sid=24/09/26/1043253&from=rss) - [First, there was CAMM -- but also M(C)RDIMMs](https://soylentnews.org/article.pl?sid=24/09/26/1043253&from=rss)
-* [2024-09-26, 16:42:00](https://soylentnews.org/article.pl?sid=24/09/25/1215203&from=rss) - [AT&T and T-Mobile Push Back on FCC Proposal to Unlock Phones in 60 Days](https://soylentnews.org/article.pl?sid=24/09/25/1215203&from=rss)
 
 ## [Archives](archives/index.md)
 
