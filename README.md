@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-07, 20:20:00](https://soylentnews.org/article.pl?sid=24/10/07/106218&from=rss) - [Why Passwords Still Rock](https://soylentnews.org/article.pl?sid=24/10/07/106218&from=rss)
 * [2024-10-07, 15:35:00](https://soylentnews.org/article.pl?sid=24/10/06/1414224&from=rss) - [New Map Shows Community Broadband Networks Are Exploding in U.S.](https://soylentnews.org/article.pl?sid=24/10/06/1414224&from=rss)
 * [2024-10-07, 10:49:00](https://soylentnews.org/article.pl?sid=24/10/06/1350227&from=rss) - [Li Battery Fire Suppressant Developed](https://soylentnews.org/article.pl?sid=24/10/06/1350227&from=rss)
 * [2024-10-07, 06:02:00](https://soylentnews.org/article.pl?sid=24/10/05/1334222&from=rss) - [Users Unwilling to Pay Much Extra For Satellite Phone Capability](https://soylentnews.org/article.pl?sid=24/10/05/1334222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-28, 13:20:00](https://soylentnews.org/article.pl?sid=24/09/27/1111211&from=rss) - [Tetris -- A Cognitive Vaccine](https://soylentnews.org/article.pl?sid=24/09/27/1111211&from=rss)
 * [2024-09-28, 09:52:00](https://soylentnews.org/article.pl?sid=24/09/28/0932256&from=rss) - [A Truck Full Of Batteries Has Been Burning For Almost A Full Day, Shutting Down Ports In LA](https://soylentnews.org/article.pl?sid=24/09/28/0932256&from=rss)
 * [2024-09-28, 08:38:00](https://soylentnews.org/article.pl?sid=24/09/26/1914201&from=rss) - [Moving From Open Source to Proprietary Licenses? Reactions  Showed Minor Impact](https://soylentnews.org/article.pl?sid=24/09/26/1914201&from=rss)
-* [2024-09-28, 01:52:00](https://soylentnews.org/article.pl?sid=24/09/26/198203&from=rss) - [OpenAI Plans Tectonic Shift From Nonprofit to for-Profit, Giving Altman Equity](https://soylentnews.org/article.pl?sid=24/09/26/198203&from=rss)
 
 ## [Archives](archives/index.md)
 
