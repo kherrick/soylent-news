@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-07, 10:49:00](https://soylentnews.org/article.pl?sid=24/10/06/1350227&from=rss) - [Li Battery Fire Suppressant Developed](https://soylentnews.org/article.pl?sid=24/10/06/1350227&from=rss)
 * [2024-10-07, 06:02:00](https://soylentnews.org/article.pl?sid=24/10/05/1334222&from=rss) - [Users Unwilling to Pay Much Extra For Satellite Phone Capability](https://soylentnews.org/article.pl?sid=24/10/05/1334222&from=rss)
 * [2024-10-07, 01:18:00](https://soylentnews.org/article.pl?sid=24/10/05/1326232&from=rss) - [Eyebrow-Raising Revelations Come to Light as Hearings Into Titan Sub's Loss Wrap Up](https://soylentnews.org/article.pl?sid=24/10/05/1326232&from=rss)
 * [2024-10-06, 20:31:00](https://soylentnews.org/article.pl?sid=24/10/05/0010243&from=rss) - [Scientists Map Fruit Fly Brain in Neurobiological Milestone](https://soylentnews.org/article.pl?sid=24/10/05/0010243&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-28, 08:38:00](https://soylentnews.org/article.pl?sid=24/09/26/1914201&from=rss) - [Moving From Open Source to Proprietary Licenses? Reactions  Showed Minor Impact](https://soylentnews.org/article.pl?sid=24/09/26/1914201&from=rss)
 * [2024-09-28, 01:52:00](https://soylentnews.org/article.pl?sid=24/09/26/198203&from=rss) - [OpenAI Plans Tectonic Shift From Nonprofit to for-Profit, Giving Altman Equity](https://soylentnews.org/article.pl?sid=24/09/26/198203&from=rss)
 * [2024-09-27, 21:12:00](https://soylentnews.org/article.pl?sid=24/09/26/143244&from=rss) - [Linux Boots in 4.76 Days on the Intel 4004](https://soylentnews.org/article.pl?sid=24/09/26/143244&from=rss)
-* [2024-09-27, 16:29:00](https://soylentnews.org/article.pl?sid=24/09/26/1353235&from=rss) - [Better Than Blood Tests? Nanoparticle Potential Found For Assessing Kidneys](https://soylentnews.org/article.pl?sid=24/09/26/1353235&from=rss)
 
 ## [Archives](archives/index.md)
 
