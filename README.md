@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-07, 01:18:00](https://soylentnews.org/article.pl?sid=24/10/05/1326232&from=rss) - [Eyebrow-Raising Revelations Come to Light as Hearings Into Titan Sub's Loss Wrap Up](https://soylentnews.org/article.pl?sid=24/10/05/1326232&from=rss)
 * [2024-10-06, 20:31:00](https://soylentnews.org/article.pl?sid=24/10/05/0010243&from=rss) - [Scientists Map Fruit Fly Brain in Neurobiological Milestone](https://soylentnews.org/article.pl?sid=24/10/05/0010243&from=rss)
 * [2024-10-06, 15:44:00](https://soylentnews.org/article.pl?sid=24/10/05/0139244&from=rss) - [US Mobile Supports All Three Networks But How Does That Work?](https://soylentnews.org/article.pl?sid=24/10/05/0139244&from=rss)
 * [2024-10-06, 10:59:00](https://soylentnews.org/article.pl?sid=24/10/05/0031203&from=rss) - [NASA Spacecraft Has Roamed Billions Of Miles — But Hasn't Reached The 'Edge'](https://soylentnews.org/article.pl?sid=24/10/05/0031203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-27, 21:12:00](https://soylentnews.org/article.pl?sid=24/09/26/143244&from=rss) - [Linux Boots in 4.76 Days on the Intel 4004](https://soylentnews.org/article.pl?sid=24/09/26/143244&from=rss)
 * [2024-09-27, 16:29:00](https://soylentnews.org/article.pl?sid=24/09/26/1353235&from=rss) - [Better Than Blood Tests? Nanoparticle Potential Found For Assessing Kidneys](https://soylentnews.org/article.pl?sid=24/09/26/1353235&from=rss)
 * [2024-09-27, 11:42:00](https://soylentnews.org/article.pl?sid=24/09/26/1348238&from=rss) - [Hacker Plants False Memories in ChatGPT to Steal User Data in Perpetuity](https://soylentnews.org/article.pl?sid=24/09/26/1348238&from=rss)
-* [2024-09-27, 06:56:00](https://soylentnews.org/article.pl?sid=24/09/26/1218214&from=rss) - [Europe And China Launch Significant Navigation Satellites](https://soylentnews.org/article.pl?sid=24/09/26/1218214&from=rss)
 
 ## [Archives](archives/index.md)
 
