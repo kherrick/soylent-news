@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-08, 15:14:00](https://soylentnews.org/article.pl?sid=24/10/07/1035212&from=rss) - [Law Enforcement Arrests Vacationing Lockbit Developer In Ongoing Operation](https://soylentnews.org/article.pl?sid=24/10/07/1035212&from=rss)
 * [2024-10-08, 10:31:00](https://soylentnews.org/article.pl?sid=24/10/07/1032244&from=rss) - [ The Incredible Story Behind the First Transistor Radio](https://soylentnews.org/article.pl?sid=24/10/07/1032244&from=rss)
 * [2024-10-08, 05:47:00](https://soylentnews.org/article.pl?sid=24/10/07/1029202&from=rss) - [Comcast Confirms 237K Affected in Feisty Breach Notification](https://soylentnews.org/article.pl?sid=24/10/07/1029202&from=rss)
 * [2024-10-08, 01:07:00](https://soylentnews.org/article.pl?sid=24/10/07/1021242&from=rss) - [License Plate Readers Are Creating a US-Wide Database of More Than Just Cars](https://soylentnews.org/article.pl?sid=24/10/07/1021242&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-29, 08:16:00](https://soylentnews.org/article.pl?sid=24/09/27/1657219&from=rss) - [Inside a Ferroelectric RAM Chip](https://soylentnews.org/article.pl?sid=24/09/27/1657219&from=rss)
 * [2024-09-29, 03:31:00](https://soylentnews.org/article.pl?sid=24/09/27/1654214&from=rss) - [AI Tools Help Uncover Enzyme Mechanisms For Lasso Peptides](https://soylentnews.org/article.pl?sid=24/09/27/1654214&from=rss)
 * [2024-09-28, 22:44:00](https://soylentnews.org/article.pl?sid=24/09/27/1615211&from=rss) - [GM, Ford Shares Dip as Morgan Stanley Downgrades US Auto Industry](https://soylentnews.org/article.pl?sid=24/09/27/1615211&from=rss)
-* [2024-09-28, 18:01:00](https://soylentnews.org/article.pl?sid=24/09/27/1122256&from=rss) - [Over £20B In UK Govt It Contracts To Expire Soon. What Next? ](https://soylentnews.org/article.pl?sid=24/09/27/1122256&from=rss)
 
 ## [Archives](archives/index.md)
 
