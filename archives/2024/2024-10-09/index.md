@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 05:25:00](https://soylentnews.org/article.pl?sid=24/10/08/0246231&from=rss) - [Thunderstorms Churn Up A ‘Boiling Pot’ Of Gamma Rays](https://soylentnews.org/article.pl?sid=24/10/08/0246231&from=rss)
 * [2024-10-09, 00:39:00](https://soylentnews.org/article.pl?sid=24/10/08/0241202&from=rss) - [To Build a Giant Sheep, Man Spends 10 Years Smuggling, Cloning, and Inseminating](https://soylentnews.org/article.pl?sid=24/10/08/0241202&from=rss)

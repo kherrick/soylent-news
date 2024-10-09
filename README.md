@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-09, 05:25:00](https://soylentnews.org/article.pl?sid=24/10/08/0246231&from=rss) - [Thunderstorms Churn Up A ‘Boiling Pot’ Of Gamma Rays](https://soylentnews.org/article.pl?sid=24/10/08/0246231&from=rss)
 * [2024-10-09, 00:39:00](https://soylentnews.org/article.pl?sid=24/10/08/0241202&from=rss) - [To Build a Giant Sheep, Man Spends 10 Years Smuggling, Cloning, and Inseminating](https://soylentnews.org/article.pl?sid=24/10/08/0241202&from=rss)
 * [2024-10-08, 19:56:00](https://soylentnews.org/article.pl?sid=24/10/07/1037250&from=rss) - [Microsoft To Employees: You Can Continue Working From Home Unless Productivity Drops](https://soylentnews.org/article.pl?sid=24/10/07/1037250&from=rss)
 * [2024-10-08, 15:14:00](https://soylentnews.org/article.pl?sid=24/10/07/1035212&from=rss) - [Law Enforcement Arrests Vacationing Lockbit Developer In Ongoing Operation](https://soylentnews.org/article.pl?sid=24/10/07/1035212&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-29, 22:35:00](https://soylentnews.org/article.pl?sid=24/09/28/1416217&from=rss) - [OpenAI CEO: We May Have AI Superintelligence in “a Few Thousand Days”](https://soylentnews.org/article.pl?sid=24/09/28/1416217&from=rss)
 * [2024-09-29, 17:51:00](https://soylentnews.org/article.pl?sid=24/09/28/1412252&from=rss) - [New “Ghost Shark” Species Lurks in Deep Seas of Australia and New Zealand](https://soylentnews.org/article.pl?sid=24/09/28/1412252&from=rss)
 * [2024-09-29, 13:05:00](https://soylentnews.org/article.pl?sid=24/09/28/1349202&from=rss) - [Self-Driving Level 3--Mercedes Style](https://soylentnews.org/article.pl?sid=24/09/28/1349202&from=rss)
-* [2024-09-29, 08:16:00](https://soylentnews.org/article.pl?sid=24/09/27/1657219&from=rss) - [Inside a Ferroelectric RAM Chip](https://soylentnews.org/article.pl?sid=24/09/27/1657219&from=rss)
 
 ## [Archives](archives/index.md)
 
