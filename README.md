@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-10, 14:36:00](https://soylentnews.org/article.pl?sid=24/10/09/038227&from=rss) - [Cisco Is Abandoning The LoRaWAN Space](https://soylentnews.org/article.pl?sid=24/10/09/038227&from=rss)
 * [2024-10-10, 09:54:00](https://soylentnews.org/article.pl?sid=24/10/09/031231&from=rss) - [AI's Energy Appetite Too Big for Texas, Regulators Warn](https://soylentnews.org/article.pl?sid=24/10/09/031231&from=rss)
 * [2024-10-10, 05:09:00](https://soylentnews.org/breakingnews/article.pl?sid=24/10/10/0343220&from=rss) - [NOAA Issues Rare G4 Watch for Geomagnetic Storm on October 10-11](https://soylentnews.org/breakingnews/article.pl?sid=24/10/10/0343220&from=rss)
 * [2024-10-10, 00:21:00](https://soylentnews.org/article.pl?sid=24/10/08/0312247&from=rss) - [Was Bruce Willis Right? Could a Nuclear Blast Save Us From Killer Asteroid?](https://soylentnews.org/article.pl?sid=24/10/08/0312247&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-01, 07:53:00](https://soylentnews.org/article.pl?sid=24/09/30/1337259&from=rss) - [Arch Linux Announces Collaboration With Valve](https://soylentnews.org/article.pl?sid=24/09/30/1337259&from=rss)
 * [2024-10-01, 03:03:00](https://soylentnews.org/article.pl?sid=24/09/29/1915243&from=rss) - [The EV Graveyard](https://soylentnews.org/article.pl?sid=24/09/29/1915243&from=rss)
 * [2024-09-30, 22:16:00](https://soylentnews.org/article.pl?sid=24/09/29/197255&from=rss) - [This Harley-Davidson Engine (1,500cc) Was Made Specifically For Lawn Mowers (and Racing)](https://soylentnews.org/article.pl?sid=24/09/29/197255&from=rss)
-* [2024-09-30, 17:32:00](https://soylentnews.org/article.pl?sid=24/09/29/194251&from=rss) - [Opinion: How To Design A US Data Privacy Law](https://soylentnews.org/article.pl?sid=24/09/29/194251&from=rss)
 
 ## [Archives](archives/index.md)
 
