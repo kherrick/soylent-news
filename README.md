@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-10, 00:21:00](https://soylentnews.org/article.pl?sid=24/10/08/0312247&from=rss) - [Was Bruce Willis Right? Could a Nuclear Blast Save Us From Killer Asteroid?](https://soylentnews.org/article.pl?sid=24/10/08/0312247&from=rss)
 * [2024-10-09, 19:38:00](https://soylentnews.org/article.pl?sid=24/10/08/0259244&from=rss) - [SCOTUS Denial Ends Saga of Shkreli's Infamous 5,000% Drug Price Scheme](https://soylentnews.org/article.pl?sid=24/10/08/0259244&from=rss)
 * [2024-10-09, 14:55:00](https://soylentnews.org/article.pl?sid=24/10/08/0256226&from=rss) - [Intel Entrance To Graphics Card Market Has Failed](https://soylentnews.org/article.pl?sid=24/10/08/0256226&from=rss)
 * [2024-10-09, 10:10:00](https://soylentnews.org/article.pl?sid=24/10/08/0252212&from=rss) - [World Wide Web Foundation To Close, As Berners-Lee Shifts Focus To Solid Protocol](https://soylentnews.org/article.pl?sid=24/10/08/0252212&from=rss)
@@ -49,7 +50,6 @@
 * [2024-09-30, 17:32:00](https://soylentnews.org/article.pl?sid=24/09/29/194251&from=rss) - [Opinion: How To Design A US Data Privacy Law](https://soylentnews.org/article.pl?sid=24/09/29/194251&from=rss)
 * [2024-09-30, 12:46:00](https://soylentnews.org/article.pl?sid=24/09/29/1358235&from=rss) - [SpaceX Launches Mission to Bring Boeing Starliner Crew Home](https://soylentnews.org/article.pl?sid=24/09/29/1358235&from=rss)
 * [2024-09-30, 08:04:00](https://soylentnews.org/article.pl?sid=24/09/29/1335247&from=rss) - [Winamp Source Code Released, but With Significant Restrictions](https://soylentnews.org/article.pl?sid=24/09/29/1335247&from=rss)
-* [2024-09-30, 03:18:00](https://soylentnews.org/article.pl?sid=24/09/28/1420235&from=rss) - [Antarctica’s 'Doomsday' Glacier Is Heading For Catastrophic Collapse](https://soylentnews.org/article.pl?sid=24/09/28/1420235&from=rss)
 
 ## [Archives](archives/index.md)
 
