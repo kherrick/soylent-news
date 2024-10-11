@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-11, 18:58:00](https://soylentnews.org/article.pl?sid=24/10/09/1743220&from=rss) - [Bankrupt Fisker Says It Can't Migrate its EVs to a New Owner's Server](https://soylentnews.org/article.pl?sid=24/10/09/1743220&from=rss)
 * [2024-10-11, 14:14:00](https://soylentnews.org/article.pl?sid=24/10/09/1739223&from=rss) - [Nobel Prize in Physics 2024 for Foundational Discoveries and Inventions That Enable Machine Learning](https://soylentnews.org/article.pl?sid=24/10/09/1739223&from=rss)
 * [2024-10-11, 09:32:00](https://soylentnews.org/article.pl?sid=24/10/09/1733210&from=rss) - [Teen Achieves First NES Tetris “Rebirth,” Proves Endless Play is Possible](https://soylentnews.org/article.pl?sid=24/10/09/1733210&from=rss)
 * [2024-10-11, 04:46:00](https://soylentnews.org/article.pl?sid=24/10/09/1729250&from=rss) - [The 1912 War on Fake Photos](https://soylentnews.org/article.pl?sid=24/10/09/1729250&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-02, 12:15:00](https://soylentnews.org/article.pl?sid=24/10/01/1226233&from=rss) - [Oracle Could Control Arm Chipmaker Ampere In 2027](https://soylentnews.org/article.pl?sid=24/10/01/1226233&from=rss)
 * [2024-10-02, 07:31:00](https://soylentnews.org/article.pl?sid=24/10/01/1222236&from=rss) - [SpaceX Shuts Down Launches After Problem With Crew-9 Mission's 2nd Stage](https://soylentnews.org/article.pl?sid=24/10/01/1222236&from=rss)
 * [2024-10-02, 02:50:00](https://soylentnews.org/article.pl?sid=24/10/01/1216204&from=rss) - [Black Hole Shot a Beam Through Space. NASA Snapped Stunning Footage](https://soylentnews.org/article.pl?sid=24/10/01/1216204&from=rss)
-* [2024-10-01, 22:05:00](https://soylentnews.org/article.pl?sid=24/09/30/1347217&from=rss) - [China Calls For Realtime Censorship Of Satellite Broadband](https://soylentnews.org/article.pl?sid=24/09/30/1347217&from=rss)
 
 ## [Archives](archives/index.md)
 
