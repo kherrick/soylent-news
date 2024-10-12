@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-12, 18:38:00](https://soylentnews.org/article.pl?sid=24/10/12/0635236&from=rss) - [Mozilla Faces Privacy Complaint for Enabling Tracking in Firefox Without User Consent](https://soylentnews.org/article.pl?sid=24/10/12/0635236&from=rss)
 * [2024-10-12, 14:01:00](https://soylentnews.org/article.pl?sid=24/10/12/0623253&from=rss) - [Why People Insist They're Correct Without All the Facts](https://soylentnews.org/article.pl?sid=24/10/12/0623253&from=rss)
 * [2024-10-12, 09:15:00](https://soylentnews.org/article.pl?sid=24/10/11/0326204&from=rss) - [Can You Get Root With Only a Cigarette Lighter?](https://soylentnews.org/article.pl?sid=24/10/11/0326204&from=rss)
 * [2024-10-12, 04:29:00](https://soylentnews.org/article.pl?sid=24/10/09/0254210&from=rss) - [Amazon Will “Ramp Up” Prime Video Ads in 2025](https://soylentnews.org/article.pl?sid=24/10/09/0254210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-03, 11:48:00](https://soylentnews.org/article.pl?sid=24/10/03/0329209&from=rss) - [The UK Says Goodbye To Coal Production](https://soylentnews.org/article.pl?sid=24/10/03/0329209&from=rss)
 * [2024-10-03, 07:04:00](https://soylentnews.org/article.pl?sid=24/10/03/0326234&from=rss) - [Gnome 47 Brings Back Some Customization Options](https://soylentnews.org/article.pl?sid=24/10/03/0326234&from=rss)
 * [2024-10-03, 02:15:00](https://soylentnews.org/article.pl?sid=24/10/02/0516236&from=rss) - [Microsoft Details Security/Privacy Overhaul for Windows Recall Ahead of Relaunch](https://soylentnews.org/article.pl?sid=24/10/02/0516236&from=rss)
-* [2024-10-02, 21:44:00](https://soylentnews.org/article.pl?sid=24/10/02/0514243&from=rss) - [US Army Orders Next-gen Robot Mule](https://soylentnews.org/article.pl?sid=24/10/02/0514243&from=rss)
 
 ## [Archives](archives/index.md)
 
