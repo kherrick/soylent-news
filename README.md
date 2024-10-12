@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-12, 04:29:00](https://soylentnews.org/article.pl?sid=24/10/09/0254210&from=rss) - [Amazon Will “Ramp Up” Prime Video Ads in 2025](https://soylentnews.org/article.pl?sid=24/10/09/0254210&from=rss)
 * [2024-10-11, 23:45:00](https://soylentnews.org/article.pl?sid=24/10/09/1756230&from=rss) - [Zuckerberg Continues to Go Off the Deep End](https://soylentnews.org/article.pl?sid=24/10/09/1756230&from=rss)
 * [2024-10-11, 18:58:00](https://soylentnews.org/article.pl?sid=24/10/09/1743220&from=rss) - [Bankrupt Fisker Says It Can't Migrate its EVs to a New Owner's Server](https://soylentnews.org/article.pl?sid=24/10/09/1743220&from=rss)
 * [2024-10-11, 14:14:00](https://soylentnews.org/article.pl?sid=24/10/09/1739223&from=rss) - [Nobel Prize in Physics 2024 for Foundational Discoveries and Inventions That Enable Machine Learning](https://soylentnews.org/article.pl?sid=24/10/09/1739223&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-02, 21:44:00](https://soylentnews.org/article.pl?sid=24/10/02/0514243&from=rss) - [US Army Orders Next-gen Robot Mule](https://soylentnews.org/article.pl?sid=24/10/02/0514243&from=rss)
 * [2024-10-02, 17:01:00](https://soylentnews.org/article.pl?sid=24/10/02/0512256&from=rss) - [Amd Unveils Its First Small Language Model, AMD-135M](https://soylentnews.org/article.pl?sid=24/10/02/0512256&from=rss)
 * [2024-10-02, 12:15:00](https://soylentnews.org/article.pl?sid=24/10/01/1226233&from=rss) - [Oracle Could Control Arm Chipmaker Ampere In 2027](https://soylentnews.org/article.pl?sid=24/10/01/1226233&from=rss)
-* [2024-10-02, 07:31:00](https://soylentnews.org/article.pl?sid=24/10/01/1222236&from=rss) - [SpaceX Shuts Down Launches After Problem With Crew-9 Mission's 2nd Stage](https://soylentnews.org/article.pl?sid=24/10/01/1222236&from=rss)
 
 ## [Archives](archives/index.md)
 
