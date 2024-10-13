@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 23:16:00](https://soylentnews.org/article.pl?sid=24/10/12/2358230&from=rss) - [Archive.org, a Repository Storing the Entire History of the Internet, Has a Data Breach](https://soylentnews.org/article.pl?sid=24/10/12/2358230&from=rss)
 * [2024-10-13, 18:33:00](https://soylentnews.org/article.pl?sid=24/10/12/2354238&from=rss) - [The Juicebox and Enel X Shutdown: What Comes Next?](https://soylentnews.org/article.pl?sid=24/10/12/2354238&from=rss)
 * [2024-10-13, 13:44:00](https://soylentnews.org/article.pl?sid=24/10/12/2349258&from=rss) - [Who Created Théâtre D'opéra Spatial?](https://soylentnews.org/article.pl?sid=24/10/12/2349258&from=rss)
 * [2024-10-13, 08:59:00](https://soylentnews.org/article.pl?sid=24/10/12/2319256&from=rss) - [A Working Turing Machine Built From Legos. I Will Build It Out of Rigatoni.](https://soylentnews.org/article.pl?sid=24/10/12/2319256&from=rss)
