@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-13, 08:59:00](https://soylentnews.org/article.pl?sid=24/10/12/2319256&from=rss) - [A Working Turing Machine Built From Legos. I Will Build It Out of Rigatoni.](https://soylentnews.org/article.pl?sid=24/10/12/2319256&from=rss)
 * [2024-10-13, 04:10:00](https://soylentnews.org/article.pl?sid=24/10/12/1212207&from=rss) - [California Enacts Law to Protect Brain Data](https://soylentnews.org/article.pl?sid=24/10/12/1212207&from=rss)
 * [2024-10-12, 23:28:00](https://soylentnews.org/article.pl?sid=24/10/12/0641231&from=rss) - [Smart TVs Are Like “a Digital Trojan Horse” in People's Homes](https://soylentnews.org/article.pl?sid=24/10/12/0641231&from=rss)
 * [2024-10-12, 18:38:00](https://soylentnews.org/article.pl?sid=24/10/12/0635236&from=rss) - [Mozilla Faces Privacy Complaint for Enabling Tracking in Firefox Without User Consent](https://soylentnews.org/article.pl?sid=24/10/12/0635236&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-04, 02:05:00](https://soylentnews.org/article.pl?sid=24/10/03/0349252&from=rss) - [California Governor Vetoes Controversial AI Safety Bill](https://soylentnews.org/article.pl?sid=24/10/03/0349252&from=rss)
 * [2024-10-03, 21:18:00](https://soylentnews.org/article.pl?sid=24/10/03/0340243&from=rss) - [Cloud Threats Top Execs' List Of Cyber Nightmares](https://soylentnews.org/article.pl?sid=24/10/03/0340243&from=rss)
 * [2024-10-03, 16:31:00](https://soylentnews.org/article.pl?sid=24/10/03/0332233&from=rss) - [AI Bots Now Beat 100% of Those Traffic-Image CAPTCHAs](https://soylentnews.org/article.pl?sid=24/10/03/0332233&from=rss)
-* [2024-10-03, 11:48:00](https://soylentnews.org/article.pl?sid=24/10/03/0329209&from=rss) - [The UK Says Goodbye To Coal Production](https://soylentnews.org/article.pl?sid=24/10/03/0329209&from=rss)
 
 ## [Archives](archives/index.md)
 

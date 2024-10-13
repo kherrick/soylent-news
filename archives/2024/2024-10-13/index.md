@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 08:59:00](https://soylentnews.org/article.pl?sid=24/10/12/2319256&from=rss) - [A Working Turing Machine Built From Legos. I Will Build It Out of Rigatoni.](https://soylentnews.org/article.pl?sid=24/10/12/2319256&from=rss)
 * [2024-10-13, 04:10:00](https://soylentnews.org/article.pl?sid=24/10/12/1212207&from=rss) - [California Enacts Law to Protect Brain Data](https://soylentnews.org/article.pl?sid=24/10/12/1212207&from=rss)
