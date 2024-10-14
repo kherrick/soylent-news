@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-14, 13:32:00](https://soylentnews.org/article.pl?sid=24/10/13/1849231&from=rss) - [DARPA Thinks Walls of Oysters Could Protect Shores Against Hurricanes](https://soylentnews.org/article.pl?sid=24/10/13/1849231&from=rss)
 * [2024-10-14, 08:46:00](https://soylentnews.org/article.pl?sid=24/10/13/1616256&from=rss) - [Commercial HF Radio](https://soylentnews.org/article.pl?sid=24/10/13/1616256&from=rss)
 * [2024-10-14, 04:02:00](https://soylentnews.org/article.pl?sid=24/10/13/1433241&from=rss) - [No More Online Meetings, Your ZOOM AI Avatar Will Handle It.](https://soylentnews.org/article.pl?sid=24/10/13/1433241&from=rss)
 * [2024-10-13, 23:16:00](https://soylentnews.org/article.pl?sid=24/10/12/2358230&from=rss) - [Archive.org, a Repository Storing the Entire History of the Internet, Has a Data Breach](https://soylentnews.org/article.pl?sid=24/10/12/2358230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-05, 06:39:00](https://soylentnews.org/article.pl?sid=24/10/04/1450225&from=rss) - [Businesses Are Still Betting On Generative AI Despite Media Skepticism](https://soylentnews.org/article.pl?sid=24/10/04/1450225&from=rss)
 * [2024-10-05, 01:56:00](https://soylentnews.org/article.pl?sid=24/10/04/1448214&from=rss) - [Why Trolls, Extremists, and Others Spread Conspiracy Theories They Don't Believe](https://soylentnews.org/article.pl?sid=24/10/04/1448214&from=rss)
 * [2024-10-04, 21:11:00](https://soylentnews.org/article.pl?sid=24/10/04/0053244&from=rss) - [Meta Smart Glasses Can be Used to Dox Anyone in Seconds, Study Finds](https://soylentnews.org/article.pl?sid=24/10/04/0053244&from=rss)
-* [2024-10-04, 16:23:00](https://soylentnews.org/article.pl?sid=24/10/04/015208&from=rss) - [Patent Troll Sable Pays Up, Dedicates All its Patents to the Public!](https://soylentnews.org/article.pl?sid=24/10/04/015208&from=rss)
 
 ## [Archives](archives/index.md)
 
