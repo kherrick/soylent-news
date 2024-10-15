@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-15, 08:24:00](https://soylentnews.org/article.pl?sid=24/10/14/1614248&from=rss) - [Steam Adds the Harsh Truth That You’re Buying “a License,” Not the Game Itself](https://soylentnews.org/article.pl?sid=24/10/14/1614248&from=rss)
 * [2024-10-15, 05:42:00](https://soylentnews.org/article.pl?sid=24/10/15/0025236&from=rss) - [RIP: Ward Christensen, Inventer of XMODEM and Co-Inventer of the BBS, Has Died](https://soylentnews.org/article.pl?sid=24/10/15/0025236&from=rss)
 * [2024-10-15, 03:41:00](https://soylentnews.org/article.pl?sid=24/10/14/1612235&from=rss) - [UK To Consider USB-C As Charging Standard ](https://soylentnews.org/article.pl?sid=24/10/14/1612235&from=rss)
 * [2024-10-14, 23:06:00](https://soylentnews.org/article.pl?sid=24/10/13/1859220&from=rss) - [Boeing Slashes 10% of Workforce, CEO Warns \"Hard to Overstate the Challenges We Face\"](https://soylentnews.org/article.pl?sid=24/10/13/1859220&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-06, 06:11:00](https://soylentnews.org/article.pl?sid=24/10/05/0211220&from=rss) - [Appeals Court Reminds Law Enforcement That ‘No-Fly’ Doesn’t Mean ‘No Drive’](https://soylentnews.org/article.pl?sid=24/10/05/0211220&from=rss)
 * [2024-10-06, 01:39:00](https://soylentnews.org/article.pl?sid=24/10/04/1755218&from=rss) - [The New Cyber Security Buzz Word is Resilience](https://soylentnews.org/article.pl?sid=24/10/04/1755218&from=rss)
 * [2024-10-05, 20:54:00](https://soylentnews.org/article.pl?sid=24/10/04/1521232&from=rss) - [A Hurricane’s Aftermath May Spur Up To 11,000 Deaths](https://soylentnews.org/article.pl?sid=24/10/04/1521232&from=rss)
-* [2024-10-05, 16:13:00](https://soylentnews.org/article.pl?sid=24/10/04/1518222&from=rss) - [California Enacts Car Data Privacy Law to Curb Domestic Violence](https://soylentnews.org/article.pl?sid=24/10/04/1518222&from=rss)
 
 ## [Archives](archives/index.md)
 
