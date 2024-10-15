@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-15, 03:41:00](https://soylentnews.org/article.pl?sid=24/10/14/1612235&from=rss) - [UK To Consider USB-C As Charging Standard ](https://soylentnews.org/article.pl?sid=24/10/14/1612235&from=rss)
 * [2024-10-14, 23:06:00](https://soylentnews.org/article.pl?sid=24/10/13/1859220&from=rss) - [Boeing Slashes 10% of Workforce, CEO Warns \"Hard to Overstate the Challenges We Face\"](https://soylentnews.org/article.pl?sid=24/10/13/1859220&from=rss)
 * [2024-10-14, 18:17:00](https://soylentnews.org/article.pl?sid=24/10/13/1853256&from=rss) - [I Launched the AI Safety Clock. Here’s What It Tells Us About Existential Risks](https://soylentnews.org/article.pl?sid=24/10/13/1853256&from=rss)
 * [2024-10-14, 13:32:00](https://soylentnews.org/article.pl?sid=24/10/13/1849231&from=rss) - [DARPA Thinks Walls of Oysters Could Protect Shores Against Hurricanes](https://soylentnews.org/article.pl?sid=24/10/13/1849231&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-05, 20:54:00](https://soylentnews.org/article.pl?sid=24/10/04/1521232&from=rss) - [A Hurricane’s Aftermath May Spur Up To 11,000 Deaths](https://soylentnews.org/article.pl?sid=24/10/04/1521232&from=rss)
 * [2024-10-05, 16:13:00](https://soylentnews.org/article.pl?sid=24/10/04/1518222&from=rss) - [California Enacts Car Data Privacy Law to Curb Domestic Violence](https://soylentnews.org/article.pl?sid=24/10/04/1518222&from=rss)
 * [2024-10-05, 11:24:00](https://soylentnews.org/article.pl?sid=24/10/04/1456256&from=rss) - [Thousands of Linux Systems Infected by Stealthy Malware Since 2021](https://soylentnews.org/article.pl?sid=24/10/04/1456256&from=rss)
-* [2024-10-05, 06:39:00](https://soylentnews.org/article.pl?sid=24/10/04/1450225&from=rss) - [Businesses Are Still Betting On Generative AI Despite Media Skepticism](https://soylentnews.org/article.pl?sid=24/10/04/1450225&from=rss)
 
 ## [Archives](archives/index.md)
 
