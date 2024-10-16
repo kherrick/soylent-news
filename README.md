@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-16, 03:26:00](https://soylentnews.org/article.pl?sid=24/10/14/2051213&from=rss) - [The Internet Archive is Back as a Read-Only Service After Cyberattacks](https://soylentnews.org/article.pl?sid=24/10/14/2051213&from=rss)
 * [2024-10-15, 22:39:00](https://soylentnews.org/article.pl?sid=24/10/14/2047208&from=rss) - [Microsoft Unveils New Healthcare AI Tools](https://soylentnews.org/article.pl?sid=24/10/14/2047208&from=rss)
 * [2024-10-15, 17:53:00](https://soylentnews.org/article.pl?sid=24/10/14/2034246&from=rss) - [Nvidia Blackwell GPUs Sold Out for the Next 12 Months as AI Market Boom Continues](https://soylentnews.org/article.pl?sid=24/10/14/2034246&from=rss)
 * [2024-10-15, 13:09:00](https://soylentnews.org/article.pl?sid=24/10/14/2019259&from=rss) - [SDF Curved Text](https://soylentnews.org/article.pl?sid=24/10/14/2019259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-07, 01:18:00](https://soylentnews.org/article.pl?sid=24/10/05/1326232&from=rss) - [Eyebrow-Raising Revelations Come to Light as Hearings Into Titan Sub's Loss Wrap Up](https://soylentnews.org/article.pl?sid=24/10/05/1326232&from=rss)
 * [2024-10-06, 20:31:00](https://soylentnews.org/article.pl?sid=24/10/05/0010243&from=rss) - [Scientists Map Fruit Fly Brain in Neurobiological Milestone](https://soylentnews.org/article.pl?sid=24/10/05/0010243&from=rss)
 * [2024-10-06, 15:44:00](https://soylentnews.org/article.pl?sid=24/10/05/0139244&from=rss) - [US Mobile Supports All Three Networks But How Does That Work?](https://soylentnews.org/article.pl?sid=24/10/05/0139244&from=rss)
-* [2024-10-06, 10:59:00](https://soylentnews.org/article.pl?sid=24/10/05/0031203&from=rss) - [NASA Spacecraft Has Roamed Billions Of Miles — But Hasn't Reached The 'Edge'](https://soylentnews.org/article.pl?sid=24/10/05/0031203&from=rss)
 
 ## [Archives](archives/index.md)
 
