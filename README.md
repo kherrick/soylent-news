@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-17, 03:12:00](https://soylentnews.org/article.pl?sid=24/10/15/0653245&from=rss) - [Secretive X-37B Space Plane Set For New Orbital Maneuver](https://soylentnews.org/article.pl?sid=24/10/15/0653245&from=rss)
 * [2024-10-16, 22:24:00](https://soylentnews.org/article.pl?sid=24/10/15/0650216&from=rss) - [Millions Of People Across The US Use Well Water, But Don't Test It Enough To Make Sure It's Safe](https://soylentnews.org/article.pl?sid=24/10/15/0650216&from=rss)
 * [2024-10-16, 17:41:00](https://soylentnews.org/article.pl?sid=24/10/14/1442248&from=rss) - [How a Subfield of Physics Led to Breakthroughs in AI – and From There to This Year's Nobel Prize](https://soylentnews.org/article.pl?sid=24/10/14/1442248&from=rss)
 * [2024-10-16, 13:01:00](https://soylentnews.org/article.pl?sid=24/10/14/212214&from=rss) - [Conceptual Models of Space Colonization](https://soylentnews.org/article.pl?sid=24/10/14/212214&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-08, 01:07:00](https://soylentnews.org/article.pl?sid=24/10/07/1021242&from=rss) - [License Plate Readers Are Creating a US-Wide Database of More Than Just Cars](https://soylentnews.org/article.pl?sid=24/10/07/1021242&from=rss)
 * [2024-10-07, 20:20:00](https://soylentnews.org/article.pl?sid=24/10/07/106218&from=rss) - [Why Passwords Still Rock](https://soylentnews.org/article.pl?sid=24/10/07/106218&from=rss)
 * [2024-10-07, 15:35:00](https://soylentnews.org/article.pl?sid=24/10/06/1414224&from=rss) - [New Map Shows Community Broadband Networks Are Exploding in U.S.](https://soylentnews.org/article.pl?sid=24/10/06/1414224&from=rss)
-* [2024-10-07, 10:49:00](https://soylentnews.org/article.pl?sid=24/10/06/1350227&from=rss) - [Li Battery Fire Suppressant Developed](https://soylentnews.org/article.pl?sid=24/10/06/1350227&from=rss)
 
 ## [Archives](archives/index.md)
 
