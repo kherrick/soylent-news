@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 07:42:00](https://soylentnews.org/article.pl?sid=24/10/17/0344254&from=rss) - [Volunteers Help Identify Hundreds of Undiscovered Prehistoric Barrows](https://soylentnews.org/article.pl?sid=24/10/17/0344254&from=rss)
 * [2024-10-18, 02:54:00](https://soylentnews.org/article.pl?sid=24/10/17/0340215&from=rss) - [Google Plans to Go Nuclear With its Data Centres](https://soylentnews.org/article.pl?sid=24/10/17/0340215&from=rss)
