@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-18, 12:30:00](https://soylentnews.org/article.pl?sid=24/10/17/0351259&from=rss) - [SpaceX's Dragon Capsule Can Now Land Like A Rocket In Case Of An Emergency](https://soylentnews.org/article.pl?sid=24/10/17/0351259&from=rss)
 * [2024-10-18, 07:42:00](https://soylentnews.org/article.pl?sid=24/10/17/0344254&from=rss) - [Volunteers Help Identify Hundreds of Undiscovered Prehistoric Barrows](https://soylentnews.org/article.pl?sid=24/10/17/0344254&from=rss)
 * [2024-10-18, 02:54:00](https://soylentnews.org/article.pl?sid=24/10/17/0340215&from=rss) - [Google Plans to Go Nuclear With its Data Centres](https://soylentnews.org/article.pl?sid=24/10/17/0340215&from=rss)
 * [2024-10-17, 22:09:00](https://soylentnews.org/article.pl?sid=24/10/15/0710213&from=rss) - [Call Of Duty's New Chat Moderation AI Sees Major Success: 43% Drop In Toxicity](https://soylentnews.org/article.pl?sid=24/10/15/0710213&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-09, 10:10:00](https://soylentnews.org/article.pl?sid=24/10/08/0252212&from=rss) - [World Wide Web Foundation To Close, As Berners-Lee Shifts Focus To Solid Protocol](https://soylentnews.org/article.pl?sid=24/10/08/0252212&from=rss)
 * [2024-10-09, 05:25:00](https://soylentnews.org/article.pl?sid=24/10/08/0246231&from=rss) - [Thunderstorms Churn Up A ‘Boiling Pot’ Of Gamma Rays](https://soylentnews.org/article.pl?sid=24/10/08/0246231&from=rss)
 * [2024-10-09, 00:39:00](https://soylentnews.org/article.pl?sid=24/10/08/0241202&from=rss) - [To Build a Giant Sheep, Man Spends 10 Years Smuggling, Cloning, and Inseminating](https://soylentnews.org/article.pl?sid=24/10/08/0241202&from=rss)
-* [2024-10-08, 19:56:00](https://soylentnews.org/article.pl?sid=24/10/07/1037250&from=rss) - [Microsoft To Employees: You Can Continue Working From Home Unless Productivity Drops](https://soylentnews.org/article.pl?sid=24/10/07/1037250&from=rss)
 
 ## [Archives](archives/index.md)
 
