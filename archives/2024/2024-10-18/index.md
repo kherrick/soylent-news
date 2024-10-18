@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 21:57:00](https://soylentnews.org/article.pl?sid=24/10/17/1838228&from=rss) - [Intel Laying Off 1,300 Workers From Oregon Site As It Reduces By 15,000 Workers Company Wide](https://soylentnews.org/article.pl?sid=24/10/17/1838228&from=rss)
 * [2024-10-18, 17:14:00](https://soylentnews.org/article.pl?sid=24/10/17/0355216&from=rss) - [How to Prevent Another Europa Clipper Transistor Panic](https://soylentnews.org/article.pl?sid=24/10/17/0355216&from=rss)
 * [2024-10-18, 15:50:00](https://soylentnews.org/meta/article.pl?sid=24/10/18/1526235&from=rss) - [Our IRC (Internet Rely Chat) is... Irked](https://soylentnews.org/meta/article.pl?sid=24/10/18/1526235&from=rss)
 * [2024-10-18, 12:30:00](https://soylentnews.org/article.pl?sid=24/10/17/0351259&from=rss) - [SpaceX's Dragon Capsule Can Now Land Like A Rocket In Case Of An Emergency](https://soylentnews.org/article.pl?sid=24/10/17/0351259&from=rss)
