@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-18, 17:14:00](https://soylentnews.org/article.pl?sid=24/10/17/0355216&from=rss) - [How to Prevent Another Europa Clipper Transistor Panic](https://soylentnews.org/article.pl?sid=24/10/17/0355216&from=rss)
 * [2024-10-18, 15:50:00](https://soylentnews.org/meta/article.pl?sid=24/10/18/1526235&from=rss) - [Our IRC (Internet Rely Chat) is... Irked](https://soylentnews.org/meta/article.pl?sid=24/10/18/1526235&from=rss)
 * [2024-10-18, 12:30:00](https://soylentnews.org/article.pl?sid=24/10/17/0351259&from=rss) - [SpaceX's Dragon Capsule Can Now Land Like A Rocket In Case Of An Emergency](https://soylentnews.org/article.pl?sid=24/10/17/0351259&from=rss)
 * [2024-10-18, 07:42:00](https://soylentnews.org/article.pl?sid=24/10/17/0344254&from=rss) - [Volunteers Help Identify Hundreds of Undiscovered Prehistoric Barrows](https://soylentnews.org/article.pl?sid=24/10/17/0344254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-09, 19:38:00](https://soylentnews.org/article.pl?sid=24/10/08/0259244&from=rss) - [SCOTUS Denial Ends Saga of Shkreli's Infamous 5,000% Drug Price Scheme](https://soylentnews.org/article.pl?sid=24/10/08/0259244&from=rss)
 * [2024-10-09, 14:55:00](https://soylentnews.org/article.pl?sid=24/10/08/0256226&from=rss) - [Intel Entrance To Graphics Card Market Has Failed](https://soylentnews.org/article.pl?sid=24/10/08/0256226&from=rss)
 * [2024-10-09, 10:10:00](https://soylentnews.org/article.pl?sid=24/10/08/0252212&from=rss) - [World Wide Web Foundation To Close, As Berners-Lee Shifts Focus To Solid Protocol](https://soylentnews.org/article.pl?sid=24/10/08/0252212&from=rss)
-* [2024-10-09, 05:25:00](https://soylentnews.org/article.pl?sid=24/10/08/0246231&from=rss) - [Thunderstorms Churn Up A ‘Boiling Pot’ Of Gamma Rays](https://soylentnews.org/article.pl?sid=24/10/08/0246231&from=rss)
 
 ## [Archives](archives/index.md)
 
