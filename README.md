@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-19, 02:45:00](https://soylentnews.org/article.pl?sid=24/10/18/0017243&from=rss) - [Chinese Researchers Claim Quantum Encryption Attack](https://soylentnews.org/article.pl?sid=24/10/18/0017243&from=rss)
 * [2024-10-18, 21:57:00](https://soylentnews.org/article.pl?sid=24/10/17/1838228&from=rss) - [Intel Laying Off 1,300 Workers From Oregon Site As It Reduces By 15,000 Workers Company Wide](https://soylentnews.org/article.pl?sid=24/10/17/1838228&from=rss)
 * [2024-10-18, 17:14:00](https://soylentnews.org/article.pl?sid=24/10/17/0355216&from=rss) - [How to Prevent Another Europa Clipper Transistor Panic](https://soylentnews.org/article.pl?sid=24/10/17/0355216&from=rss)
 * [2024-10-18, 15:50:00](https://soylentnews.org/meta/article.pl?sid=24/10/18/1526235&from=rss) - [Our IRC (Internet Rely Chat) is... Irked](https://soylentnews.org/meta/article.pl?sid=24/10/18/1526235&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-10, 05:09:00](https://soylentnews.org/breakingnews/article.pl?sid=24/10/10/0343220&from=rss) - [NOAA Issues Rare G4 Watch for Geomagnetic Storm on October 10-11](https://soylentnews.org/breakingnews/article.pl?sid=24/10/10/0343220&from=rss)
 * [2024-10-10, 00:21:00](https://soylentnews.org/article.pl?sid=24/10/08/0312247&from=rss) - [Was Bruce Willis Right? Could a Nuclear Blast Save Us From Killer Asteroid?](https://soylentnews.org/article.pl?sid=24/10/08/0312247&from=rss)
 * [2024-10-09, 19:38:00](https://soylentnews.org/article.pl?sid=24/10/08/0259244&from=rss) - [SCOTUS Denial Ends Saga of Shkreli's Infamous 5,000% Drug Price Scheme](https://soylentnews.org/article.pl?sid=24/10/08/0259244&from=rss)
-* [2024-10-09, 14:55:00](https://soylentnews.org/article.pl?sid=24/10/08/0256226&from=rss) - [Intel Entrance To Graphics Card Market Has Failed](https://soylentnews.org/article.pl?sid=24/10/08/0256226&from=rss)
 
 ## [Archives](archives/index.md)
 
