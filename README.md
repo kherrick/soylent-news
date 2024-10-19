@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-19, 12:16:00](https://soylentnews.org/article.pl?sid=24/10/18/0037210&from=rss) - [The Rise and Fall of Matchbox’s Toy-Car Empire](https://soylentnews.org/article.pl?sid=24/10/18/0037210&from=rss)
 * [2024-10-19, 07:33:00](https://soylentnews.org/article.pl?sid=24/10/18/0025223&from=rss) - [Researchers Develop Method To Make Sound Waves Travel In One Direction Only](https://soylentnews.org/article.pl?sid=24/10/18/0025223&from=rss)
 * [2024-10-19, 02:45:00](https://soylentnews.org/article.pl?sid=24/10/18/0017243&from=rss) - [Chinese Researchers Claim Quantum Encryption Attack](https://soylentnews.org/article.pl?sid=24/10/18/0017243&from=rss)
 * [2024-10-18, 21:57:00](https://soylentnews.org/article.pl?sid=24/10/17/1838228&from=rss) - [Intel Laying Off 1,300 Workers From Oregon Site As It Reduces By 15,000 Workers Company Wide](https://soylentnews.org/article.pl?sid=24/10/17/1838228&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-10, 14:36:00](https://soylentnews.org/article.pl?sid=24/10/09/038227&from=rss) - [Cisco Is Abandoning The LoRaWAN Space](https://soylentnews.org/article.pl?sid=24/10/09/038227&from=rss)
 * [2024-10-10, 09:54:00](https://soylentnews.org/article.pl?sid=24/10/09/031231&from=rss) - [AI's Energy Appetite Too Big for Texas, Regulators Warn](https://soylentnews.org/article.pl?sid=24/10/09/031231&from=rss)
 * [2024-10-10, 05:09:00](https://soylentnews.org/breakingnews/article.pl?sid=24/10/10/0343220&from=rss) - [NOAA Issues Rare G4 Watch for Geomagnetic Storm on October 10-11](https://soylentnews.org/breakingnews/article.pl?sid=24/10/10/0343220&from=rss)
-* [2024-10-10, 00:21:00](https://soylentnews.org/article.pl?sid=24/10/08/0312247&from=rss) - [Was Bruce Willis Right? Could a Nuclear Blast Save Us From Killer Asteroid?](https://soylentnews.org/article.pl?sid=24/10/08/0312247&from=rss)
 
 ## [Archives](archives/index.md)
 
