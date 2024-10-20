@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-20, 07:24:00](https://soylentnews.org/article.pl?sid=24/10/18/1824241&from=rss) - [UK Man Sues City Over Discarded Bitcoin-filled Hard Drive](https://soylentnews.org/article.pl?sid=24/10/18/1824241&from=rss)
 * [2024-10-20, 02:39:00](https://soylentnews.org/article.pl?sid=24/10/18/2244217&from=rss) - [U.S. Engineers’ Salaries Up in 2023](https://soylentnews.org/article.pl?sid=24/10/18/2244217&from=rss)
 * [2024-10-19, 21:48:00](https://soylentnews.org/article.pl?sid=24/10/18/1438259&from=rss) - [Ad-Blocking Showdown: Google Forces Popular Ad-Blocker Off Chrome](https://soylentnews.org/article.pl?sid=24/10/18/1438259&from=rss)
 * [2024-10-19, 17:01:00](https://soylentnews.org/article.pl?sid=24/10/18/0258259&from=rss) - [After Microsoft Exec Given Advisory Role, UK Prime Minister Says Regulators Need to Favour Growth](https://soylentnews.org/article.pl?sid=24/10/18/0258259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-11, 09:32:00](https://soylentnews.org/article.pl?sid=24/10/09/1733210&from=rss) - [Teen Achieves First NES Tetris “Rebirth,” Proves Endless Play is Possible](https://soylentnews.org/article.pl?sid=24/10/09/1733210&from=rss)
 * [2024-10-11, 04:46:00](https://soylentnews.org/article.pl?sid=24/10/09/1729250&from=rss) - [The 1912 War on Fake Photos](https://soylentnews.org/article.pl?sid=24/10/09/1729250&from=rss)
 * [2024-10-11, 00:03:00](https://soylentnews.org/article.pl?sid=24/10/09/1717251&from=rss) - [U.S. Wiretap Systems Targeted in China-Linked Hack](https://soylentnews.org/article.pl?sid=24/10/09/1717251&from=rss)
-* [2024-10-10, 19:19:00](https://soylentnews.org/article.pl?sid=24/10/09/170217&from=rss) - [Just in Time for Halloween, an F-101 Disguised as an F-117](https://soylentnews.org/article.pl?sid=24/10/09/170217&from=rss)
 
 ## [Archives](archives/index.md)
 
