@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-20, 16:55:00](https://soylentnews.org/article.pl?sid=24/10/18/1838227&from=rss) - [The FCC Is Going After ISP Data Caps](https://soylentnews.org/article.pl?sid=24/10/18/1838227&from=rss)
 * [2024-10-20, 12:09:00](https://soylentnews.org/article.pl?sid=24/10/18/1832258&from=rss) - [DATEL Vs SONY - Legal Cracking?](https://soylentnews.org/article.pl?sid=24/10/18/1832258&from=rss)
 * [2024-10-20, 07:24:00](https://soylentnews.org/article.pl?sid=24/10/18/1824241&from=rss) - [UK Man Sues City Over Discarded Bitcoin-filled Hard Drive](https://soylentnews.org/article.pl?sid=24/10/18/1824241&from=rss)
 * [2024-10-20, 02:39:00](https://soylentnews.org/article.pl?sid=24/10/18/2244217&from=rss) - [U.S. Engineers’ Salaries Up in 2023](https://soylentnews.org/article.pl?sid=24/10/18/2244217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-11, 18:58:00](https://soylentnews.org/article.pl?sid=24/10/09/1743220&from=rss) - [Bankrupt Fisker Says It Can't Migrate its EVs to a New Owner's Server](https://soylentnews.org/article.pl?sid=24/10/09/1743220&from=rss)
 * [2024-10-11, 14:14:00](https://soylentnews.org/article.pl?sid=24/10/09/1739223&from=rss) - [Nobel Prize in Physics 2024 for Foundational Discoveries and Inventions That Enable Machine Learning](https://soylentnews.org/article.pl?sid=24/10/09/1739223&from=rss)
 * [2024-10-11, 09:32:00](https://soylentnews.org/article.pl?sid=24/10/09/1733210&from=rss) - [Teen Achieves First NES Tetris “Rebirth,” Proves Endless Play is Possible](https://soylentnews.org/article.pl?sid=24/10/09/1733210&from=rss)
-* [2024-10-11, 04:46:00](https://soylentnews.org/article.pl?sid=24/10/09/1729250&from=rss) - [The 1912 War on Fake Photos](https://soylentnews.org/article.pl?sid=24/10/09/1729250&from=rss)
 
 ## [Archives](archives/index.md)
 
