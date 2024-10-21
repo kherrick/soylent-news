@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-21, 02:25:00](https://soylentnews.org/article.pl?sid=24/10/18/1821227&from=rss) - [Zuckerberg Sacks Staff on Six-Figure Salaries for Abusing Office's Food Delivery Scheme](https://soylentnews.org/article.pl?sid=24/10/18/1821227&from=rss)
 * [2024-10-20, 21:41:00](https://soylentnews.org/article.pl?sid=24/10/18/1843235&from=rss) - [Parents Sue After Student Punished For Using AI In Class](https://soylentnews.org/article.pl?sid=24/10/18/1843235&from=rss)
 * [2024-10-20, 16:55:00](https://soylentnews.org/article.pl?sid=24/10/18/1838227&from=rss) - [The FCC Is Going After ISP Data Caps](https://soylentnews.org/article.pl?sid=24/10/18/1838227&from=rss)
 * [2024-10-20, 12:09:00](https://soylentnews.org/article.pl?sid=24/10/18/1832258&from=rss) - [DATEL Vs SONY - Legal Cracking?](https://soylentnews.org/article.pl?sid=24/10/18/1832258&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-12, 04:29:00](https://soylentnews.org/article.pl?sid=24/10/09/0254210&from=rss) - [Amazon Will “Ramp Up” Prime Video Ads in 2025](https://soylentnews.org/article.pl?sid=24/10/09/0254210&from=rss)
 * [2024-10-11, 23:45:00](https://soylentnews.org/article.pl?sid=24/10/09/1756230&from=rss) - [Zuckerberg Continues to Go Off the Deep End](https://soylentnews.org/article.pl?sid=24/10/09/1756230&from=rss)
 * [2024-10-11, 18:58:00](https://soylentnews.org/article.pl?sid=24/10/09/1743220&from=rss) - [Bankrupt Fisker Says It Can't Migrate its EVs to a New Owner's Server](https://soylentnews.org/article.pl?sid=24/10/09/1743220&from=rss)
-* [2024-10-11, 14:14:00](https://soylentnews.org/article.pl?sid=24/10/09/1739223&from=rss) - [Nobel Prize in Physics 2024 for Foundational Discoveries and Inventions That Enable Machine Learning](https://soylentnews.org/article.pl?sid=24/10/09/1739223&from=rss)
 
 ## [Archives](archives/index.md)
 
