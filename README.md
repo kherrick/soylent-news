@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-21, 16:32:00](https://soylentnews.org/article.pl?sid=24/10/20/0045208&from=rss) - [The Terminator: How James Cameron's 'science-fiction slasher film' predicted AI fears, 40 years ago](https://soylentnews.org/article.pl?sid=24/10/20/0045208&from=rss)
 * [2024-10-21, 11:42:00](https://soylentnews.org/article.pl?sid=24/10/20/0027236&from=rss) - [Why Farming Fish Is More Unsustainable Than Catching Them In The Wild ](https://soylentnews.org/article.pl?sid=24/10/20/0027236&from=rss)
 * [2024-10-21, 07:01:00](https://soylentnews.org/article.pl?sid=24/10/19/2329236&from=rss) - [Eyeing The Damage and Reasons Of Hurricane Season](https://soylentnews.org/article.pl?sid=24/10/19/2329236&from=rss)
 * [2024-10-21, 02:25:00](https://soylentnews.org/article.pl?sid=24/10/18/1821227&from=rss) - [Zuckerberg Sacks Staff on Six-Figure Salaries for Abusing Office's Food Delivery Scheme](https://soylentnews.org/article.pl?sid=24/10/18/1821227&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-12, 18:38:00](https://soylentnews.org/article.pl?sid=24/10/12/0635236&from=rss) - [Mozilla Faces Privacy Complaint for Enabling Tracking in Firefox Without User Consent](https://soylentnews.org/article.pl?sid=24/10/12/0635236&from=rss)
 * [2024-10-12, 14:01:00](https://soylentnews.org/article.pl?sid=24/10/12/0623253&from=rss) - [Why People Insist They're Correct Without All the Facts](https://soylentnews.org/article.pl?sid=24/10/12/0623253&from=rss)
 * [2024-10-12, 09:15:00](https://soylentnews.org/article.pl?sid=24/10/11/0326204&from=rss) - [Can You Get Root With Only a Cigarette Lighter?](https://soylentnews.org/article.pl?sid=24/10/11/0326204&from=rss)
-* [2024-10-12, 04:29:00](https://soylentnews.org/article.pl?sid=24/10/09/0254210&from=rss) - [Amazon Will “Ramp Up” Prime Video Ads in 2025](https://soylentnews.org/article.pl?sid=24/10/09/0254210&from=rss)
 
 ## [Archives](archives/index.md)
 
