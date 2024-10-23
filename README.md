@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-23, 11:01:00](https://soylentnews.org/article.pl?sid=24/10/22/0123240&from=rss) - [Ikea-Style Wooden Skyscrapers Are Popping Up Worldwide Thanks To \"Mass Timber\" ](https://soylentnews.org/article.pl?sid=24/10/22/0123240&from=rss)
 * [2024-10-23, 06:18:00](https://soylentnews.org/article.pl?sid=24/10/22/0119213&from=rss) - [China Infosec Body Slams Intel Over Chip Security](https://soylentnews.org/article.pl?sid=24/10/22/0119213&from=rss)
 * [2024-10-23, 01:29:00](https://soylentnews.org/article.pl?sid=24/10/22/0115205&from=rss) - [Gmail Hack: Scary New Hack Uses AI Posing as Google](https://soylentnews.org/article.pl?sid=24/10/22/0115205&from=rss)
 * [2024-10-22, 20:47:00](https://soylentnews.org/article.pl?sid=24/10/22/013248&from=rss) - [Elite Students Unable to Read Books Anymore](https://soylentnews.org/article.pl?sid=24/10/22/013248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-14, 18:17:00](https://soylentnews.org/article.pl?sid=24/10/13/1853256&from=rss) - [I Launched the AI Safety Clock. Here’s What It Tells Us About Existential Risks](https://soylentnews.org/article.pl?sid=24/10/13/1853256&from=rss)
 * [2024-10-14, 13:32:00](https://soylentnews.org/article.pl?sid=24/10/13/1849231&from=rss) - [DARPA Thinks Walls of Oysters Could Protect Shores Against Hurricanes](https://soylentnews.org/article.pl?sid=24/10/13/1849231&from=rss)
 * [2024-10-14, 08:46:00](https://soylentnews.org/article.pl?sid=24/10/13/1616256&from=rss) - [Commercial HF Radio](https://soylentnews.org/article.pl?sid=24/10/13/1616256&from=rss)
-* [2024-10-14, 04:02:00](https://soylentnews.org/article.pl?sid=24/10/13/1433241&from=rss) - [No More Online Meetings, Your ZOOM AI Avatar Will Handle It.](https://soylentnews.org/article.pl?sid=24/10/13/1433241&from=rss)
 
 ## [Archives](archives/index.md)
 
