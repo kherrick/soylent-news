@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-23, 01:29:00](https://soylentnews.org/article.pl?sid=24/10/22/0115205&from=rss) - [Gmail Hack: Scary New Hack Uses AI Posing as Google](https://soylentnews.org/article.pl?sid=24/10/22/0115205&from=rss)
 * [2024-10-22, 20:47:00](https://soylentnews.org/article.pl?sid=24/10/22/013248&from=rss) - [Elite Students Unable to Read Books Anymore](https://soylentnews.org/article.pl?sid=24/10/22/013248&from=rss)
 * [2024-10-22, 16:02:00](https://soylentnews.org/article.pl?sid=24/10/21/003216&from=rss) - [Penguin Says No to LLM Training](https://soylentnews.org/article.pl?sid=24/10/21/003216&from=rss)
 * [2024-10-22, 11:19:00](https://soylentnews.org/article.pl?sid=24/10/20/221203&from=rss) - [Researchers Achieve First Successful Communication Between Dreaming Individuals](https://soylentnews.org/article.pl?sid=24/10/20/221203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-14, 08:46:00](https://soylentnews.org/article.pl?sid=24/10/13/1616256&from=rss) - [Commercial HF Radio](https://soylentnews.org/article.pl?sid=24/10/13/1616256&from=rss)
 * [2024-10-14, 04:02:00](https://soylentnews.org/article.pl?sid=24/10/13/1433241&from=rss) - [No More Online Meetings, Your ZOOM AI Avatar Will Handle It.](https://soylentnews.org/article.pl?sid=24/10/13/1433241&from=rss)
 * [2024-10-13, 23:16:00](https://soylentnews.org/article.pl?sid=24/10/12/2358230&from=rss) - [Archive.org, a Repository Storing the Entire History of the Internet, Has a Data Breach](https://soylentnews.org/article.pl?sid=24/10/12/2358230&from=rss)
-* [2024-10-13, 18:33:00](https://soylentnews.org/article.pl?sid=24/10/12/2354238&from=rss) - [The Juicebox and Enel X Shutdown: What Comes Next?](https://soylentnews.org/article.pl?sid=24/10/12/2354238&from=rss)
 
 ## [Archives](archives/index.md)
 
