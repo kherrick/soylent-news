@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-24, 21:17:00](https://soylentnews.org/article.pl?sid=24/10/24/0059231&from=rss) - [Intel Could Have Beaten Amd To 64-Bit Transition But Wrongly Chose Not To](https://soylentnews.org/article.pl?sid=24/10/24/0059231&from=rss)
 * [2024-10-24, 16:30:00](https://soylentnews.org/article.pl?sid=24/10/23/1231207&from=rss) - [Hyundai Wants to Eliminate Touchscreens Entirely With Holographic Windshield Displays](https://soylentnews.org/article.pl?sid=24/10/23/1231207&from=rss)
 * [2024-10-24, 11:47:00](https://soylentnews.org/article.pl?sid=24/10/23/1228215&from=rss) - [SpaceX Is Suing The California Coastal Commission For Not Letting It Launch More Rockets](https://soylentnews.org/article.pl?sid=24/10/23/1228215&from=rss)
 * [2024-10-24, 07:05:00](https://soylentnews.org/article.pl?sid=24/10/23/1216238&from=rss) - [Qualcomm Delays Intel Buyout Decision Until After US Election](https://soylentnews.org/article.pl?sid=24/10/23/1216238&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-15, 22:39:00](https://soylentnews.org/article.pl?sid=24/10/14/2047208&from=rss) - [Microsoft Unveils New Healthcare AI Tools](https://soylentnews.org/article.pl?sid=24/10/14/2047208&from=rss)
 * [2024-10-15, 17:53:00](https://soylentnews.org/article.pl?sid=24/10/14/2034246&from=rss) - [Nvidia Blackwell GPUs Sold Out for the Next 12 Months as AI Market Boom Continues](https://soylentnews.org/article.pl?sid=24/10/14/2034246&from=rss)
 * [2024-10-15, 13:09:00](https://soylentnews.org/article.pl?sid=24/10/14/2019259&from=rss) - [SDF Curved Text](https://soylentnews.org/article.pl?sid=24/10/14/2019259&from=rss)
-* [2024-10-15, 08:24:00](https://soylentnews.org/article.pl?sid=24/10/14/1614248&from=rss) - [Steam Adds the Harsh Truth That You’re Buying “a License,” Not the Game Itself](https://soylentnews.org/article.pl?sid=24/10/14/1614248&from=rss)
 
 ## [Archives](archives/index.md)
 
