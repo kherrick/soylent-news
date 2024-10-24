@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-24, 07:06:00](https://soylentnews.org/article.pl?sid=24/10/24/0647202&from=rss) - [FBI Arrests Alabama Man for Alleged SEC Account Hack and Bitcoin Manipulation](https://soylentnews.org/article.pl?sid=24/10/24/0647202&from=rss)
+* [2024-10-24, 07:05:00](https://soylentnews.org/article.pl?sid=24/10/23/1216238&from=rss) - [Qualcomm Delays Intel Buyout Decision Until After US Election](https://soylentnews.org/article.pl?sid=24/10/23/1216238&from=rss)
 * [2024-10-24, 02:17:00](https://soylentnews.org/article.pl?sid=24/10/22/2216216&from=rss) - [Debunking Hype: China Hasn't Broken Military Encryption With Quantum](https://soylentnews.org/article.pl?sid=24/10/22/2216216&from=rss)
 * [2024-10-23, 21:32:00](https://soylentnews.org/article.pl?sid=24/10/22/1842258&from=rss) - [New Largest Prime](https://soylentnews.org/article.pl?sid=24/10/22/1842258&from=rss)
 * [2024-10-23, 16:46:00](https://soylentnews.org/article.pl?sid=24/10/22/1837225&from=rss) - [Researchers Cut to the Chase on the Physics of Paper Cuts](https://soylentnews.org/article.pl?sid=24/10/22/1837225&from=rss)
@@ -48,8 +50,6 @@
 * [2024-10-15, 13:09:00](https://soylentnews.org/article.pl?sid=24/10/14/2019259&from=rss) - [SDF Curved Text](https://soylentnews.org/article.pl?sid=24/10/14/2019259&from=rss)
 * [2024-10-15, 08:24:00](https://soylentnews.org/article.pl?sid=24/10/14/1614248&from=rss) - [Steam Adds the Harsh Truth That You’re Buying “a License,” Not the Game Itself](https://soylentnews.org/article.pl?sid=24/10/14/1614248&from=rss)
 * [2024-10-15, 05:42:00](https://soylentnews.org/article.pl?sid=24/10/15/0025236&from=rss) - [RIP: Ward Christensen, Inventer of XMODEM and Co-Inventer of the BBS, Has Died](https://soylentnews.org/article.pl?sid=24/10/15/0025236&from=rss)
-* [2024-10-15, 03:41:00](https://soylentnews.org/article.pl?sid=24/10/14/1612235&from=rss) - [UK To Consider USB-C As Charging Standard ](https://soylentnews.org/article.pl?sid=24/10/14/1612235&from=rss)
-* [2024-10-14, 23:06:00](https://soylentnews.org/article.pl?sid=24/10/13/1859220&from=rss) - [Boeing Slashes 10% of Workforce, CEO Warns \"Hard to Overstate the Challenges We Face\"](https://soylentnews.org/article.pl?sid=24/10/13/1859220&from=rss)
 
 ## [Archives](archives/index.md)
 
