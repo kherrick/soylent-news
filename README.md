@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-24, 02:17:00](https://soylentnews.org/article.pl?sid=24/10/22/2216216&from=rss) - [Debunking Hype: China Hasn't Broken Military Encryption With Quantum](https://soylentnews.org/article.pl?sid=24/10/22/2216216&from=rss)
 * [2024-10-23, 21:32:00](https://soylentnews.org/article.pl?sid=24/10/22/1842258&from=rss) - [New Largest Prime](https://soylentnews.org/article.pl?sid=24/10/22/1842258&from=rss)
 * [2024-10-23, 16:46:00](https://soylentnews.org/article.pl?sid=24/10/22/1837225&from=rss) - [Researchers Cut to the Chase on the Physics of Paper Cuts](https://soylentnews.org/article.pl?sid=24/10/22/1837225&from=rss)
 * [2024-10-23, 11:01:00](https://soylentnews.org/article.pl?sid=24/10/22/0123240&from=rss) - [Ikea-Style Wooden Skyscrapers Are Popping Up Worldwide Thanks To \"Mass Timber\" ](https://soylentnews.org/article.pl?sid=24/10/22/0123240&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-15, 05:42:00](https://soylentnews.org/article.pl?sid=24/10/15/0025236&from=rss) - [RIP: Ward Christensen, Inventer of XMODEM and Co-Inventer of the BBS, Has Died](https://soylentnews.org/article.pl?sid=24/10/15/0025236&from=rss)
 * [2024-10-15, 03:41:00](https://soylentnews.org/article.pl?sid=24/10/14/1612235&from=rss) - [UK To Consider USB-C As Charging Standard ](https://soylentnews.org/article.pl?sid=24/10/14/1612235&from=rss)
 * [2024-10-14, 23:06:00](https://soylentnews.org/article.pl?sid=24/10/13/1859220&from=rss) - [Boeing Slashes 10% of Workforce, CEO Warns \"Hard to Overstate the Challenges We Face\"](https://soylentnews.org/article.pl?sid=24/10/13/1859220&from=rss)
-* [2024-10-14, 18:17:00](https://soylentnews.org/article.pl?sid=24/10/13/1853256&from=rss) - [I Launched the AI Safety Clock. Here’s What It Tells Us About Existential Risks](https://soylentnews.org/article.pl?sid=24/10/13/1853256&from=rss)
 
 ## [Archives](archives/index.md)
 
