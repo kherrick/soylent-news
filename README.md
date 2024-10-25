@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-25, 06:45:00](https://soylentnews.org/article.pl?sid=24/10/24/0210242&from=rss) - [‘Quantum Memory’ Proves Exponentially Powerful ](https://soylentnews.org/article.pl?sid=24/10/24/0210242&from=rss)
 * [2024-10-25, 02:02:00](https://soylentnews.org/article.pl?sid=24/10/24/013238&from=rss) - [Robot Vacuums Spew Racial Slurs At Owners In Wake Of Hack](https://soylentnews.org/article.pl?sid=24/10/24/013238&from=rss)
 * [2024-10-24, 21:17:00](https://soylentnews.org/article.pl?sid=24/10/24/0059231&from=rss) - [Intel Could Have Beaten Amd To 64-Bit Transition But Wrongly Chose Not To](https://soylentnews.org/article.pl?sid=24/10/24/0059231&from=rss)
 * [2024-10-24, 16:30:00](https://soylentnews.org/article.pl?sid=24/10/23/1231207&from=rss) - [Hyundai Wants to Eliminate Touchscreens Entirely With Holographic Windshield Displays](https://soylentnews.org/article.pl?sid=24/10/23/1231207&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-16, 08:13:00](https://soylentnews.org/article.pl?sid=24/10/14/2054218&from=rss) - [Reasoning Failures Highlighted by Apple Research on LLMs](https://soylentnews.org/article.pl?sid=24/10/14/2054218&from=rss)
 * [2024-10-16, 03:26:00](https://soylentnews.org/article.pl?sid=24/10/14/2051213&from=rss) - [The Internet Archive is Back as a Read-Only Service After Cyberattacks](https://soylentnews.org/article.pl?sid=24/10/14/2051213&from=rss)
 * [2024-10-15, 22:39:00](https://soylentnews.org/article.pl?sid=24/10/14/2047208&from=rss) - [Microsoft Unveils New Healthcare AI Tools](https://soylentnews.org/article.pl?sid=24/10/14/2047208&from=rss)
-* [2024-10-15, 17:53:00](https://soylentnews.org/article.pl?sid=24/10/14/2034246&from=rss) - [Nvidia Blackwell GPUs Sold Out for the Next 12 Months as AI Market Boom Continues](https://soylentnews.org/article.pl?sid=24/10/14/2034246&from=rss)
 
 ## [Archives](archives/index.md)
 
