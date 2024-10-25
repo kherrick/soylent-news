@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-25, 21:07:00](https://soylentnews.org/article.pl?sid=24/10/24/0332237&from=rss) - [Peter Todd in Hiding After Being “Unmasked” as Bitcoin Creator](https://soylentnews.org/article.pl?sid=24/10/24/0332237&from=rss)
 * [2024-10-25, 16:19:00](https://soylentnews.org/article.pl?sid=24/10/24/0313218&from=rss) - [Lawsuit: City Cameras Make It Impossible to Drive Anywhere Without Being Tracked](https://soylentnews.org/article.pl?sid=24/10/24/0313218&from=rss)
 * [2024-10-25, 11:30:00](https://soylentnews.org/article.pl?sid=24/10/24/0229203&from=rss) - [De-Extinction Company Provides a Progress Report on Thylacine Efforts](https://soylentnews.org/article.pl?sid=24/10/24/0229203&from=rss)
 * [2024-10-25, 06:45:00](https://soylentnews.org/article.pl?sid=24/10/24/0210242&from=rss) - [‘Quantum Memory’ Proves Exponentially Powerful ](https://soylentnews.org/article.pl?sid=24/10/24/0210242&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-16, 22:24:00](https://soylentnews.org/article.pl?sid=24/10/15/0650216&from=rss) - [Millions Of People Across The US Use Well Water, But Don't Test It Enough To Make Sure It's Safe](https://soylentnews.org/article.pl?sid=24/10/15/0650216&from=rss)
 * [2024-10-16, 17:41:00](https://soylentnews.org/article.pl?sid=24/10/14/1442248&from=rss) - [How a Subfield of Physics Led to Breakthroughs in AI – and From There to This Year's Nobel Prize](https://soylentnews.org/article.pl?sid=24/10/14/1442248&from=rss)
 * [2024-10-16, 13:01:00](https://soylentnews.org/article.pl?sid=24/10/14/212214&from=rss) - [Conceptual Models of Space Colonization](https://soylentnews.org/article.pl?sid=24/10/14/212214&from=rss)
-* [2024-10-16, 08:13:00](https://soylentnews.org/article.pl?sid=24/10/14/2054218&from=rss) - [Reasoning Failures Highlighted by Apple Research on LLMs](https://soylentnews.org/article.pl?sid=24/10/14/2054218&from=rss)
 
 ## [Archives](archives/index.md)
 
