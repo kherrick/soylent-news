@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-26, 12:23:00](https://soylentnews.org/article.pl?sid=24/10/24/1724212&from=rss) - [Hertz Continues to Suffer Financially From Bid to Go Electric, as J.P. Morgan Downgrades Stock](https://soylentnews.org/article.pl?sid=24/10/24/1724212&from=rss)
 * [2024-10-26, 07:38:00](https://soylentnews.org/article.pl?sid=24/10/24/1722209&from=rss) - [China Ramps Up Semiconductor Patents As It Plays Catchup](https://soylentnews.org/article.pl?sid=24/10/24/1722209&from=rss)
 * [2024-10-26, 02:50:00](https://soylentnews.org/article.pl?sid=24/10/24/172244&from=rss) - [Russian Linux Kernel Maintainers Banned, Far Reaching Implications for FLOSS](https://soylentnews.org/article.pl?sid=24/10/24/172244&from=rss)
 * [2024-10-25, 21:07:00](https://soylentnews.org/article.pl?sid=24/10/24/0332237&from=rss) - [Peter Todd in Hiding After Being “Unmasked” as Bitcoin Creator](https://soylentnews.org/article.pl?sid=24/10/24/0332237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-17, 12:42:00](https://soylentnews.org/article.pl?sid=24/10/15/072252&from=rss) - [Ex-Twitter Execs Push for $200M Severance as Elon Musk Runs X Into Ground](https://soylentnews.org/article.pl?sid=24/10/15/072252&from=rss)
 * [2024-10-17, 07:56:00](https://soylentnews.org/article.pl?sid=24/10/15/0658202&from=rss) - [Understanding The Impact Of ILM Design On Intel LGA 1700 CPUs And Cooling Solutions](https://soylentnews.org/article.pl?sid=24/10/15/0658202&from=rss)
 * [2024-10-17, 03:12:00](https://soylentnews.org/article.pl?sid=24/10/15/0653245&from=rss) - [Secretive X-37B Space Plane Set For New Orbital Maneuver](https://soylentnews.org/article.pl?sid=24/10/15/0653245&from=rss)
-* [2024-10-16, 22:24:00](https://soylentnews.org/article.pl?sid=24/10/15/0650216&from=rss) - [Millions Of People Across The US Use Well Water, But Don't Test It Enough To Make Sure It's Safe](https://soylentnews.org/article.pl?sid=24/10/15/0650216&from=rss)
 
 ## [Archives](archives/index.md)
 
