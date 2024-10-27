@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-27, 07:22:00](https://soylentnews.org/article.pl?sid=24/10/25/1547236&from=rss) - [Air-Taxi Maker Lilium to File for Insolvency](https://soylentnews.org/article.pl?sid=24/10/25/1547236&from=rss)
 * [2024-10-27, 02:36:00](https://soylentnews.org/article.pl?sid=24/10/25/0032205&from=rss) - [Bram Stoker, Long-Lost Story Found](https://soylentnews.org/article.pl?sid=24/10/25/0032205&from=rss)
 * [2024-10-26, 21:51:00](https://soylentnews.org/article.pl?sid=24/10/24/1732236&from=rss) - [San Francisco to Pay $212 Million to End Reliance on 5.25-Inch Floppy Disks](https://soylentnews.org/article.pl?sid=24/10/24/1732236&from=rss)
 * [2024-10-26, 17:04:00](https://soylentnews.org/article.pl?sid=24/10/24/1730231&from=rss) - [Don't Like the Facts?  Declare Them Fiction](https://soylentnews.org/article.pl?sid=24/10/24/1730231&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-18, 07:42:00](https://soylentnews.org/article.pl?sid=24/10/17/0344254&from=rss) - [Volunteers Help Identify Hundreds of Undiscovered Prehistoric Barrows](https://soylentnews.org/article.pl?sid=24/10/17/0344254&from=rss)
 * [2024-10-18, 02:54:00](https://soylentnews.org/article.pl?sid=24/10/17/0340215&from=rss) - [Google Plans to Go Nuclear With its Data Centres](https://soylentnews.org/article.pl?sid=24/10/17/0340215&from=rss)
 * [2024-10-17, 22:09:00](https://soylentnews.org/article.pl?sid=24/10/15/0710213&from=rss) - [Call Of Duty's New Chat Moderation AI Sees Major Success: 43% Drop In Toxicity](https://soylentnews.org/article.pl?sid=24/10/15/0710213&from=rss)
-* [2024-10-17, 17:25:00](https://soylentnews.org/article.pl?sid=24/10/15/077236&from=rss) - [Schools Under Siege: From Nation-States To Ransomware Gangs ](https://soylentnews.org/article.pl?sid=24/10/15/077236&from=rss)
 
 ## [Archives](archives/index.md)
 
