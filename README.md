@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-27, 16:53:00](https://soylentnews.org/article.pl?sid=24/10/25/1556232&from=rss) - [Location Tracking of Phones is Out of Control. Here's How to Fight Back.](https://soylentnews.org/article.pl?sid=24/10/25/1556232&from=rss)
 * [2024-10-27, 12:08:00](https://soylentnews.org/article.pl?sid=24/10/25/1549248&from=rss) - [How One Engineer Beat the Ban on Home Computers in Socialist Yugoslavia](https://soylentnews.org/article.pl?sid=24/10/25/1549248&from=rss)
 * [2024-10-27, 11:06:00](https://soylentnews.org/meta/article.pl?sid=24/10/27/1056210&from=rss) - [Changing Hardware](https://soylentnews.org/meta/article.pl?sid=24/10/27/1056210&from=rss)
 * [2024-10-27, 07:22:00](https://soylentnews.org/article.pl?sid=24/10/25/1547236&from=rss) - [Air-Taxi Maker Lilium to File for Insolvency](https://soylentnews.org/article.pl?sid=24/10/25/1547236&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-18, 17:14:00](https://soylentnews.org/article.pl?sid=24/10/17/0355216&from=rss) - [How to Prevent Another Europa Clipper Transistor Panic](https://soylentnews.org/article.pl?sid=24/10/17/0355216&from=rss)
 * [2024-10-18, 15:50:00](https://soylentnews.org/meta/article.pl?sid=24/10/18/1526235&from=rss) - [Our IRC (Internet Rely Chat) is... Irked](https://soylentnews.org/meta/article.pl?sid=24/10/18/1526235&from=rss)
 * [2024-10-18, 12:30:00](https://soylentnews.org/article.pl?sid=24/10/17/0351259&from=rss) - [SpaceX's Dragon Capsule Can Now Land Like A Rocket In Case Of An Emergency](https://soylentnews.org/article.pl?sid=24/10/17/0351259&from=rss)
-* [2024-10-18, 07:42:00](https://soylentnews.org/article.pl?sid=24/10/17/0344254&from=rss) - [Volunteers Help Identify Hundreds of Undiscovered Prehistoric Barrows](https://soylentnews.org/article.pl?sid=24/10/17/0344254&from=rss)
 
 ## [Archives](archives/index.md)
 
