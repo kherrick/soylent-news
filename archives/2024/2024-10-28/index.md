@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-28](index.md)
+
+* [2024-10-28, 02:35:00](https://soylentnews.org/article.pl?sid=24/10/27/1112210&from=rss) - [Third Parties Can Now Repair McDonalds' McFlurry Machines](https://soylentnews.org/article.pl?sid=24/10/27/1112210&from=rss)
