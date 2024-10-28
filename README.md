@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-28, 19:06:00](https://soylentnews.org/meta/article.pl?sid=24/10/27/1056210&from=rss) - [Changing Hardware](https://soylentnews.org/meta/article.pl?sid=24/10/27/1056210&from=rss)
 * [2024-10-28, 16:47:00](https://soylentnews.org/article.pl?sid=24/10/27/1425243&from=rss) - [Robo-AI Art to be Sold at Sotheby's Auction.](https://soylentnews.org/article.pl?sid=24/10/27/1425243&from=rss)
 * [2024-10-28, 12:04:00](https://soylentnews.org/article.pl?sid=24/10/27/145234&from=rss) - [23andMe Reportedly Faces Bankruptcy — What Will Happen to Everyone’s DNA Samples?](https://soylentnews.org/article.pl?sid=24/10/27/145234&from=rss)
 * [2024-10-28, 07:19:00](https://soylentnews.org/article.pl?sid=24/10/27/1351232&from=rss) - [Mozilla Advises Firefox Users To Update If They Want Browser Add-Ons To Keep Working](https://soylentnews.org/article.pl?sid=24/10/27/1351232&from=rss)
@@ -7,7 +8,6 @@
 * [2024-10-27, 21:48:00](https://soylentnews.org/article.pl?sid=24/10/25/161219&from=rss) - [Polish Radio Station Ditches DJs, Journalists for AI-Generated College Kids](https://soylentnews.org/article.pl?sid=24/10/25/161219&from=rss)
 * [2024-10-27, 16:53:00](https://soylentnews.org/article.pl?sid=24/10/25/1556232&from=rss) - [Location Tracking of Phones is Out of Control. Here's How to Fight Back.](https://soylentnews.org/article.pl?sid=24/10/25/1556232&from=rss)
 * [2024-10-27, 12:08:00](https://soylentnews.org/article.pl?sid=24/10/25/1549248&from=rss) - [How One Engineer Beat the Ban on Home Computers in Socialist Yugoslavia](https://soylentnews.org/article.pl?sid=24/10/25/1549248&from=rss)
-* [2024-10-27, 11:06:00](https://soylentnews.org/meta/article.pl?sid=24/10/27/1056210&from=rss) - [Changing Hardware](https://soylentnews.org/meta/article.pl?sid=24/10/27/1056210&from=rss)
 * [2024-10-27, 07:22:00](https://soylentnews.org/article.pl?sid=24/10/25/1547236&from=rss) - [Air-Taxi Maker Lilium to File for Insolvency](https://soylentnews.org/article.pl?sid=24/10/25/1547236&from=rss)
 * [2024-10-27, 02:36:00](https://soylentnews.org/article.pl?sid=24/10/25/0032205&from=rss) - [Bram Stoker, Long-Lost Story Found](https://soylentnews.org/article.pl?sid=24/10/25/0032205&from=rss)
 * [2024-10-26, 21:51:00](https://soylentnews.org/article.pl?sid=24/10/24/1732236&from=rss) - [San Francisco to Pay $212 Million to End Reliance on 5.25-Inch Floppy Disks](https://soylentnews.org/article.pl?sid=24/10/24/1732236&from=rss)
