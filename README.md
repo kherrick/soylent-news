@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-28, 16:47:00](https://soylentnews.org/article.pl?sid=24/10/27/1425243&from=rss) - [Robo-AI Art to be Sold at Sotheby's Auction.](https://soylentnews.org/article.pl?sid=24/10/27/1425243&from=rss)
 * [2024-10-28, 12:04:00](https://soylentnews.org/article.pl?sid=24/10/27/145234&from=rss) - [23andMe Reportedly Faces Bankruptcy — What Will Happen to Everyone’s DNA Samples?](https://soylentnews.org/article.pl?sid=24/10/27/145234&from=rss)
 * [2024-10-28, 07:19:00](https://soylentnews.org/article.pl?sid=24/10/27/1351232&from=rss) - [Mozilla Advises Firefox Users To Update If They Want Browser Add-Ons To Keep Working](https://soylentnews.org/article.pl?sid=24/10/27/1351232&from=rss)
 * [2024-10-28, 02:35:00](https://soylentnews.org/article.pl?sid=24/10/27/1112210&from=rss) - [Third Parties Can Now Repair McDonalds' McFlurry Machines](https://soylentnews.org/article.pl?sid=24/10/27/1112210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-19, 17:01:00](https://soylentnews.org/article.pl?sid=24/10/18/0258259&from=rss) - [After Microsoft Exec Given Advisory Role, UK Prime Minister Says Regulators Need to Favour Growth](https://soylentnews.org/article.pl?sid=24/10/18/0258259&from=rss)
 * [2024-10-19, 12:16:00](https://soylentnews.org/article.pl?sid=24/10/18/0037210&from=rss) - [The Rise and Fall of Matchbox’s Toy-Car Empire](https://soylentnews.org/article.pl?sid=24/10/18/0037210&from=rss)
 * [2024-10-19, 07:33:00](https://soylentnews.org/article.pl?sid=24/10/18/0025223&from=rss) - [Researchers Develop Method To Make Sound Waves Travel In One Direction Only](https://soylentnews.org/article.pl?sid=24/10/18/0025223&from=rss)
-* [2024-10-19, 02:45:00](https://soylentnews.org/article.pl?sid=24/10/18/0017243&from=rss) - [Chinese Researchers Claim Quantum Encryption Attack](https://soylentnews.org/article.pl?sid=24/10/18/0017243&from=rss)
 
 ## [Archives](archives/index.md)
 
