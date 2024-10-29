@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-29, 11:49:00](https://soylentnews.org/article.pl?sid=24/10/28/0539245&from=rss) - [Srinivasa Ramanujan Was A Genius. Math Is Still Catching Up](https://soylentnews.org/article.pl?sid=24/10/28/0539245&from=rss)
 * [2024-10-29, 07:02:00](https://soylentnews.org/article.pl?sid=24/10/28/0534216&from=rss) - [RFHunter V4.0 - RF Signal Detector](https://soylentnews.org/article.pl?sid=24/10/28/0534216&from=rss)
 * [2024-10-29, 02:21:00](https://soylentnews.org/article.pl?sid=24/10/27/1437217&from=rss) - [T-Mobile, AT&T Oppose Unlocking Rule, Claim Locked Phones Are Good for Users](https://soylentnews.org/article.pl?sid=24/10/27/1437217&from=rss)
 * [2024-10-28, 21:34:00](https://soylentnews.org/article.pl?sid=24/10/27/1429201&from=rss) - [China's New Resistive Magnet Is 800,000 Times Stronger Than Earth's Field](https://soylentnews.org/article.pl?sid=24/10/27/1429201&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-20, 12:09:00](https://soylentnews.org/article.pl?sid=24/10/18/1832258&from=rss) - [DATEL Vs SONY - Legal Cracking?](https://soylentnews.org/article.pl?sid=24/10/18/1832258&from=rss)
 * [2024-10-20, 07:24:00](https://soylentnews.org/article.pl?sid=24/10/18/1824241&from=rss) - [UK Man Sues City Over Discarded Bitcoin-filled Hard Drive](https://soylentnews.org/article.pl?sid=24/10/18/1824241&from=rss)
 * [2024-10-20, 02:39:00](https://soylentnews.org/article.pl?sid=24/10/18/2244217&from=rss) - [U.S. Engineers’ Salaries Up in 2023](https://soylentnews.org/article.pl?sid=24/10/18/2244217&from=rss)
-* [2024-10-19, 21:48:00](https://soylentnews.org/article.pl?sid=24/10/18/1438259&from=rss) - [Ad-Blocking Showdown: Google Forces Popular Ad-Blocker Off Chrome](https://soylentnews.org/article.pl?sid=24/10/18/1438259&from=rss)
 
 ## [Archives](archives/index.md)
 
