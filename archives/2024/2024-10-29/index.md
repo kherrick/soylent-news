@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 21:22:00](https://soylentnews.org/article.pl?sid=24/10/29/0059246&from=rss) - [Annoyed Redditors Tanking Google Search Results Illustrates Perils of AI Scrapers](https://soylentnews.org/article.pl?sid=24/10/29/0059246&from=rss)
 * [2024-10-29, 16:37:00](https://soylentnews.org/article.pl?sid=24/10/29/0048228&from=rss) - [Preserved Tracks Suggest Non-Avian Dinosaurs Used Their Wings to Run](https://soylentnews.org/article.pl?sid=24/10/29/0048228&from=rss)
 * [2024-10-29, 16:10:00](https://soylentnews.org/breakingnews/article.pl?sid=24/10/29/164202&from=rss) - [Astronauts on the ISS Brace for Emergency Evacuation after NASA Finds 50 'Areas of Concern'](https://soylentnews.org/breakingnews/article.pl?sid=24/10/29/164202&from=rss)
 * [2024-10-29, 16:10:00](https://soylentnews.org/article.pl?sid=24/10/29/164202&from=rss) - [Astronauts on the ISS Brace for Emergency Evacuation after NASA Finds 50 'Areas of Concern'](https://soylentnews.org/article.pl?sid=24/10/29/164202&from=rss)
