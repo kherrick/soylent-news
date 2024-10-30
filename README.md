@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-30, 11:43:00](https://soylentnews.org/article.pl?sid=24/10/29/0124245&from=rss) - ['Open Banking' Rules Issued, Requiring Data Portability](https://soylentnews.org/article.pl?sid=24/10/29/0124245&from=rss)
 * [2024-10-30, 06:55:00](https://soylentnews.org/article.pl?sid=24/10/29/0112246&from=rss) - [Russian Officials Buy Four Times More iPhones After Ban](https://soylentnews.org/article.pl?sid=24/10/29/0112246&from=rss)
 * [2024-10-30, 02:10:00](https://soylentnews.org/article.pl?sid=24/10/29/013229&from=rss) - [New Optical Storage Breakthrough Could Make CDs Relevant Again](https://soylentnews.org/article.pl?sid=24/10/29/013229&from=rss)
 * [2024-10-29, 21:22:00](https://soylentnews.org/article.pl?sid=24/10/29/0059246&from=rss) - [Annoyed Redditors Tanking Google Search Results Illustrates Perils of AI Scrapers](https://soylentnews.org/article.pl?sid=24/10/29/0059246&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-21, 16:32:00](https://soylentnews.org/article.pl?sid=24/10/20/0045208&from=rss) - [The Terminator: How James Cameron's 'science-fiction slasher film' predicted AI fears, 40 years ago](https://soylentnews.org/article.pl?sid=24/10/20/0045208&from=rss)
 * [2024-10-21, 11:42:00](https://soylentnews.org/article.pl?sid=24/10/20/0027236&from=rss) - [Why Farming Fish Is More Unsustainable Than Catching Them In The Wild ](https://soylentnews.org/article.pl?sid=24/10/20/0027236&from=rss)
 * [2024-10-21, 07:01:00](https://soylentnews.org/article.pl?sid=24/10/19/2329236&from=rss) - [Eyeing The Damage and Reasons Of Hurricane Season](https://soylentnews.org/article.pl?sid=24/10/19/2329236&from=rss)
-* [2024-10-21, 02:25:00](https://soylentnews.org/article.pl?sid=24/10/18/1821227&from=rss) - [Zuckerberg Sacks Staff on Six-Figure Salaries for Abusing Office's Food Delivery Scheme](https://soylentnews.org/article.pl?sid=24/10/18/1821227&from=rss)
 
 ## [Archives](archives/index.md)
 
