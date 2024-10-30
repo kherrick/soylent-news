@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-30, 02:10:00](https://soylentnews.org/article.pl?sid=24/10/29/013229&from=rss) - [New Optical Storage Breakthrough Could Make CDs Relevant Again](https://soylentnews.org/article.pl?sid=24/10/29/013229&from=rss)
 * [2024-10-29, 21:22:00](https://soylentnews.org/article.pl?sid=24/10/29/0059246&from=rss) - [Annoyed Redditors Tanking Google Search Results Illustrates Perils of AI Scrapers](https://soylentnews.org/article.pl?sid=24/10/29/0059246&from=rss)
 * [2024-10-29, 16:37:00](https://soylentnews.org/article.pl?sid=24/10/29/0048228&from=rss) - [Preserved Tracks Suggest Non-Avian Dinosaurs Used Their Wings to Run](https://soylentnews.org/article.pl?sid=24/10/29/0048228&from=rss)
 * [2024-10-29, 16:10:00](https://soylentnews.org/article.pl?sid=24/10/29/164202&from=rss) - [Astronauts on the ISS Brace for Emergency Evacuation after NASA Finds 50 'Areas of Concern'](https://soylentnews.org/article.pl?sid=24/10/29/164202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-21, 07:01:00](https://soylentnews.org/article.pl?sid=24/10/19/2329236&from=rss) - [Eyeing The Damage and Reasons Of Hurricane Season](https://soylentnews.org/article.pl?sid=24/10/19/2329236&from=rss)
 * [2024-10-21, 02:25:00](https://soylentnews.org/article.pl?sid=24/10/18/1821227&from=rss) - [Zuckerberg Sacks Staff on Six-Figure Salaries for Abusing Office's Food Delivery Scheme](https://soylentnews.org/article.pl?sid=24/10/18/1821227&from=rss)
 * [2024-10-20, 21:41:00](https://soylentnews.org/article.pl?sid=24/10/18/1843235&from=rss) - [Parents Sue After Student Punished For Using AI In Class](https://soylentnews.org/article.pl?sid=24/10/18/1843235&from=rss)
-* [2024-10-20, 16:55:00](https://soylentnews.org/article.pl?sid=24/10/18/1838227&from=rss) - [The FCC Is Going After ISP Data Caps](https://soylentnews.org/article.pl?sid=24/10/18/1838227&from=rss)
 
 ## [Archives](archives/index.md)
 
