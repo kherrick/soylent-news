@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-10-31, 20:58:00](https://soylentnews.org/article.pl?sid=24/10/30/209230&from=rss) - [Apple is Turning The Oregon Trail into a Movie](https://soylentnews.org/article.pl?sid=24/10/30/209230&from=rss)
 * [2024-10-31, 16:13:00](https://soylentnews.org/article.pl?sid=24/10/30/1916233&from=rss) - [DevChildren](https://soylentnews.org/article.pl?sid=24/10/30/1916233&from=rss)
 * [2024-10-31, 11:30:00](https://soylentnews.org/article.pl?sid=24/10/30/1613220&from=rss) - [Typing Monkey Would Be Unable to Produce 'Hamlet' Within the Lifetime of the Universe](https://soylentnews.org/article.pl?sid=24/10/30/1613220&from=rss)
 * [2024-10-31, 06:42:00](https://soylentnews.org/article.pl?sid=24/10/30/169208&from=rss) - [Voyager 1 Ghosts NASA, Forcing Use of Backup Radio Dormant Since 1981](https://soylentnews.org/article.pl?sid=24/10/30/169208&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-22, 20:47:00](https://soylentnews.org/article.pl?sid=24/10/22/013248&from=rss) - [Elite Students Unable to Read Books Anymore](https://soylentnews.org/article.pl?sid=24/10/22/013248&from=rss)
 * [2024-10-22, 16:02:00](https://soylentnews.org/article.pl?sid=24/10/21/003216&from=rss) - [Penguin Says No to LLM Training](https://soylentnews.org/article.pl?sid=24/10/21/003216&from=rss)
 * [2024-10-22, 11:19:00](https://soylentnews.org/article.pl?sid=24/10/20/221203&from=rss) - [Researchers Achieve First Successful Communication Between Dreaming Individuals](https://soylentnews.org/article.pl?sid=24/10/20/221203&from=rss)
-* [2024-10-22, 09:15:00](https://soylentnews.org/meta/article.pl?sid=24/10/22/0857212&from=rss) - [Soylent Update](https://soylentnews.org/meta/article.pl?sid=24/10/22/0857212&from=rss)
 
 ## [Archives](archives/index.md)
 
