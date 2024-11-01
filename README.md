@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-01, 06:29:00](https://soylentnews.org/article.pl?sid=24/10/31/0122240&from=rss) - [Scientists Revive Pig Brains an Hour After Death With Experimental Method](https://soylentnews.org/article.pl?sid=24/10/31/0122240&from=rss)
 * [2024-11-01, 01:40:00](https://soylentnews.org/article.pl?sid=24/10/31/0114242&from=rss) - [The Open Secret Of Open Washing](https://soylentnews.org/article.pl?sid=24/10/31/0114242&from=rss)
 * [2024-10-31, 20:58:00](https://soylentnews.org/article.pl?sid=24/10/30/209230&from=rss) - [Apple is Turning The Oregon Trail into a Movie](https://soylentnews.org/article.pl?sid=24/10/30/209230&from=rss)
 * [2024-10-31, 16:13:00](https://soylentnews.org/article.pl?sid=24/10/30/1916233&from=rss) - [DevChildren](https://soylentnews.org/article.pl?sid=24/10/30/1916233&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-23, 06:18:00](https://soylentnews.org/article.pl?sid=24/10/22/0119213&from=rss) - [China Infosec Body Slams Intel Over Chip Security](https://soylentnews.org/article.pl?sid=24/10/22/0119213&from=rss)
 * [2024-10-23, 01:29:00](https://soylentnews.org/article.pl?sid=24/10/22/0115205&from=rss) - [Gmail Hack: Scary New Hack Uses AI Posing as Google](https://soylentnews.org/article.pl?sid=24/10/22/0115205&from=rss)
 * [2024-10-22, 20:47:00](https://soylentnews.org/article.pl?sid=24/10/22/013248&from=rss) - [Elite Students Unable to Read Books Anymore](https://soylentnews.org/article.pl?sid=24/10/22/013248&from=rss)
-* [2024-10-22, 16:02:00](https://soylentnews.org/article.pl?sid=24/10/21/003216&from=rss) - [Penguin Says No to LLM Training](https://soylentnews.org/article.pl?sid=24/10/21/003216&from=rss)
 
 ## [Archives](archives/index.md)
 
