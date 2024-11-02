@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-02, 20:27:00](https://soylentnews.org/article.pl?sid=24/11/01/1644215&from=rss) - [Your Charging Habits Reveal That You Take Battery Health Seriously](https://soylentnews.org/article.pl?sid=24/11/01/1644215&from=rss)
 * [2024-11-02, 16:45:00](https://soylentnews.org/article.pl?sid=24/11/01/1634237&from=rss) - [Courts Agree That No One Should Have a Monopoly Over the Law](https://soylentnews.org/article.pl?sid=24/11/01/1634237&from=rss)
 * [2024-11-02, 11:01:00](https://soylentnews.org/article.pl?sid=24/11/01/1226205&from=rss) - [How the 'Fediverse' Works (and Why It Might be the Future of Social Media)](https://soylentnews.org/article.pl?sid=24/11/01/1226205&from=rss)
 * [2024-11-02, 06:12:00](https://soylentnews.org/article.pl?sid=24/11/01/0222259&from=rss) - [Darl McBride is Dead...](https://soylentnews.org/article.pl?sid=24/11/01/0222259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-24, 21:17:00](https://soylentnews.org/article.pl?sid=24/10/24/0059231&from=rss) - [Intel Could Have Beaten Amd To 64-Bit Transition But Wrongly Chose Not To](https://soylentnews.org/article.pl?sid=24/10/24/0059231&from=rss)
 * [2024-10-24, 16:30:00](https://soylentnews.org/article.pl?sid=24/10/23/1231207&from=rss) - [Hyundai Wants to Eliminate Touchscreens Entirely With Holographic Windshield Displays](https://soylentnews.org/article.pl?sid=24/10/23/1231207&from=rss)
 * [2024-10-24, 11:47:00](https://soylentnews.org/article.pl?sid=24/10/23/1228215&from=rss) - [SpaceX Is Suing The California Coastal Commission For Not Letting It Launch More Rockets](https://soylentnews.org/article.pl?sid=24/10/23/1228215&from=rss)
-* [2024-10-24, 07:05:00](https://soylentnews.org/article.pl?sid=24/10/23/1216238&from=rss) - [Qualcomm Delays Intel Buyout Decision Until After US Election](https://soylentnews.org/article.pl?sid=24/10/23/1216238&from=rss)
 
 ## [Archives](archives/index.md)
 
