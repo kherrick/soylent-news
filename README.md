@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-03, 05:59:00](https://soylentnews.org/article.pl?sid=24/11/01/1650217&from=rss) - [Paralyzed Man Unable to Walk After Maker of His Powered Exoskeleton Tells Him It's Now Obsolete](https://soylentnews.org/article.pl?sid=24/11/01/1650217&from=rss)
 * [2024-11-03, 01:13:00](https://soylentnews.org/politics/article.pl?sid=24/11/01/1647221&from=rss) - [Deceptive Political Ads Thrived on Facebook and Instagram in Run-Up to Election ](https://soylentnews.org/politics/article.pl?sid=24/11/01/1647221&from=rss)
 * [2024-11-02, 20:27:00](https://soylentnews.org/article.pl?sid=24/11/01/1644215&from=rss) - [Your Charging Habits Reveal That You Take Battery Health Seriously](https://soylentnews.org/article.pl?sid=24/11/01/1644215&from=rss)
 * [2024-11-02, 16:45:00](https://soylentnews.org/article.pl?sid=24/11/01/1634237&from=rss) - [Courts Agree That No One Should Have a Monopoly Over the Law](https://soylentnews.org/article.pl?sid=24/11/01/1634237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-25, 06:45:00](https://soylentnews.org/article.pl?sid=24/10/24/0210242&from=rss) - [‘Quantum Memory’ Proves Exponentially Powerful ](https://soylentnews.org/article.pl?sid=24/10/24/0210242&from=rss)
 * [2024-10-25, 02:02:00](https://soylentnews.org/article.pl?sid=24/10/24/013238&from=rss) - [Robot Vacuums Spew Racial Slurs At Owners In Wake Of Hack](https://soylentnews.org/article.pl?sid=24/10/24/013238&from=rss)
 * [2024-10-24, 21:17:00](https://soylentnews.org/article.pl?sid=24/10/24/0059231&from=rss) - [Intel Could Have Beaten Amd To 64-Bit Transition But Wrongly Chose Not To](https://soylentnews.org/article.pl?sid=24/10/24/0059231&from=rss)
-* [2024-10-24, 16:30:00](https://soylentnews.org/article.pl?sid=24/10/23/1231207&from=rss) - [Hyundai Wants to Eliminate Touchscreens Entirely With Holographic Windshield Displays](https://soylentnews.org/article.pl?sid=24/10/23/1231207&from=rss)
 
 ## [Archives](archives/index.md)
 
