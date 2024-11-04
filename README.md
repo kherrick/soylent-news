@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-04, 05:28:00](https://soylentnews.org/article.pl?sid=24/11/03/0119209&from=rss) - [Distressed Luxury Sportscar Maker Files Chapter 11 Bankruptcy](https://soylentnews.org/article.pl?sid=24/11/03/0119209&from=rss)
 * [2024-11-04, 00:40:00](https://soylentnews.org/article.pl?sid=24/11/01/2052252&from=rss) - [Reddit’s Getting More Popular](https://soylentnews.org/article.pl?sid=24/11/01/2052252&from=rss)
 * [2024-11-03, 20:01:00](https://soylentnews.org/article.pl?sid=24/11/01/2046226&from=rss) - [Math’s ‘Bunkbed Conjecture’ Has Been Debunked](https://soylentnews.org/article.pl?sid=24/11/01/2046226&from=rss)
 * [2024-11-03, 15:25:00](https://soylentnews.org/article.pl?sid=24/11/01/1657248&from=rss) - [Intel Losses Hit $16.6B As Restructuring Efforts Take A Toll](https://soylentnews.org/article.pl?sid=24/11/01/1657248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-26, 07:38:00](https://soylentnews.org/article.pl?sid=24/10/24/1722209&from=rss) - [China Ramps Up Semiconductor Patents As It Plays Catchup](https://soylentnews.org/article.pl?sid=24/10/24/1722209&from=rss)
 * [2024-10-26, 02:50:00](https://soylentnews.org/article.pl?sid=24/10/24/172244&from=rss) - [Russian Linux Kernel Maintainers Banned, Far Reaching Implications for FLOSS](https://soylentnews.org/article.pl?sid=24/10/24/172244&from=rss)
 * [2024-10-25, 21:07:00](https://soylentnews.org/article.pl?sid=24/10/24/0332237&from=rss) - [Peter Todd in Hiding After Being “Unmasked” as Bitcoin Creator](https://soylentnews.org/article.pl?sid=24/10/24/0332237&from=rss)
-* [2024-10-25, 16:19:00](https://soylentnews.org/article.pl?sid=24/10/24/0313218&from=rss) - [Lawsuit: City Cameras Make It Impossible to Drive Anywhere Without Being Tracked](https://soylentnews.org/article.pl?sid=24/10/24/0313218&from=rss)
 
 ## [Archives](archives/index.md)
 
