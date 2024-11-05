@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-05, 09:57:00](https://soylentnews.org/article.pl?sid=24/11/04/0210246&from=rss) - [Apple Commits $1.1 Billion To Expand Satellite Messaging](https://soylentnews.org/article.pl?sid=24/11/04/0210246&from=rss)
 * [2024-11-05, 05:12:00](https://soylentnews.org/article.pl?sid=24/11/04/023249&from=rss) - [Intel's 25-Year Reign on the Dow Jones Industrial Average Has Come to an End](https://soylentnews.org/article.pl?sid=24/11/04/023249&from=rss)
 * [2024-11-05, 00:25:00](https://soylentnews.org/article.pl?sid=24/11/04/0158225&from=rss) - [Science May Have Found its First Dark-Matter Detector](https://soylentnews.org/article.pl?sid=24/11/04/0158225&from=rss)
 * [2024-11-04, 19:42:00](https://soylentnews.org/article.pl?sid=24/11/03/2239255&from=rss) - [OpenAI Launches ChatGPT With Search, Taking Google Head-on](https://soylentnews.org/article.pl?sid=24/11/03/2239255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-27, 12:08:00](https://soylentnews.org/article.pl?sid=24/10/25/1549248&from=rss) - [How One Engineer Beat the Ban on Home Computers in Socialist Yugoslavia](https://soylentnews.org/article.pl?sid=24/10/25/1549248&from=rss)
 * [2024-10-27, 07:22:00](https://soylentnews.org/article.pl?sid=24/10/25/1547236&from=rss) - [Air-Taxi Maker Lilium to File for Insolvency](https://soylentnews.org/article.pl?sid=24/10/25/1547236&from=rss)
 * [2024-10-27, 02:36:00](https://soylentnews.org/article.pl?sid=24/10/25/0032205&from=rss) - [Bram Stoker, Long-Lost Story Found](https://soylentnews.org/article.pl?sid=24/10/25/0032205&from=rss)
-* [2024-10-26, 21:51:00](https://soylentnews.org/article.pl?sid=24/10/24/1732236&from=rss) - [San Francisco to Pay $212 Million to End Reliance on 5.25-Inch Floppy Disks](https://soylentnews.org/article.pl?sid=24/10/24/1732236&from=rss)
 
 ## [Archives](archives/index.md)
 
