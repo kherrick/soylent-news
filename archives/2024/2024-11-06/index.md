@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-06](index.md)
+
+* [2024-11-06, 00:16:00](https://soylentnews.org/article.pl?sid=24/11/05/0327234&from=rss) - [(Why) Pascal Deserves a Second Look](https://soylentnews.org/article.pl?sid=24/11/05/0327234&from=rss)

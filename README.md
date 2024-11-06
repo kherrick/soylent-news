@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-06, 00:16:00](https://soylentnews.org/article.pl?sid=24/11/05/0327234&from=rss) - [(Why) Pascal Deserves a Second Look](https://soylentnews.org/article.pl?sid=24/11/05/0327234&from=rss)
 * [2024-11-05, 19:31:00](https://soylentnews.org/article.pl?sid=24/11/04/0222235&from=rss) - [Touchscreens Are Out, and Tactile Controls Are Back](https://soylentnews.org/article.pl?sid=24/11/04/0222235&from=rss)
 * [2024-11-05, 14:46:00](https://soylentnews.org/article.pl?sid=24/11/04/0218237&from=rss) - [UCLA Chemists Shatter 100-Year-Old Chemistry Rule – Textbooks Need a Rewrite](https://soylentnews.org/article.pl?sid=24/11/04/0218237&from=rss)
 * [2024-11-05, 09:57:00](https://soylentnews.org/article.pl?sid=24/11/04/0210246&from=rss) - [Apple Commits $1.1 Billion To Expand Satellite Messaging](https://soylentnews.org/article.pl?sid=24/11/04/0210246&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-28, 02:35:00](https://soylentnews.org/article.pl?sid=24/10/27/1112210&from=rss) - [Third Parties Can Now Repair McDonalds' McFlurry Machines](https://soylentnews.org/article.pl?sid=24/10/27/1112210&from=rss)
 * [2024-10-27, 21:48:00](https://soylentnews.org/article.pl?sid=24/10/25/161219&from=rss) - [Polish Radio Station Ditches DJs, Journalists for AI-Generated College Kids](https://soylentnews.org/article.pl?sid=24/10/25/161219&from=rss)
 * [2024-10-27, 16:53:00](https://soylentnews.org/article.pl?sid=24/10/25/1556232&from=rss) - [Location Tracking of Phones is Out of Control. Here's How to Fight Back.](https://soylentnews.org/article.pl?sid=24/10/25/1556232&from=rss)
-* [2024-10-27, 12:08:00](https://soylentnews.org/article.pl?sid=24/10/25/1549248&from=rss) - [How One Engineer Beat the Ban on Home Computers in Socialist Yugoslavia](https://soylentnews.org/article.pl?sid=24/10/25/1549248&from=rss)
 
 ## [Archives](archives/index.md)
 
