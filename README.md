@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-07, 18:52:00](https://soylentnews.org/article.pl?sid=24/11/07/0049221&from=rss) - [Drugmaker Shut Down After Black Schmutz Found in Injectable Weight-Loss Drug](https://soylentnews.org/article.pl?sid=24/11/07/0049221&from=rss)
 * [2024-11-07, 14:07:00](https://soylentnews.org/article.pl?sid=24/11/06/1230212&from=rss) - [Oldest Tadpole Fossil Known To Science Dates Back 161 Million Years](https://soylentnews.org/article.pl?sid=24/11/06/1230212&from=rss)
 * [2024-11-07, 09:21:00](https://soylentnews.org/article.pl?sid=24/11/05/1951213&from=rss) - [Thousands Turned Out For Nonexistent Halloween Parade Promoted By AI Listing](https://soylentnews.org/article.pl?sid=24/11/05/1951213&from=rss)
 * [2024-11-07, 04:42:00](https://soylentnews.org/article.pl?sid=24/11/05/1943223&from=rss) - [(Stolen) Nokia Source Code for Sale.](https://soylentnews.org/article.pl?sid=24/11/05/1943223&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-29, 16:10:00](https://soylentnews.org/article.pl?sid=24/10/29/164202&from=rss) - [Astronauts on the ISS Brace for Emergency Evacuation after NASA Finds 50 'Areas of Concern'](https://soylentnews.org/article.pl?sid=24/10/29/164202&from=rss)
 * [2024-10-29, 11:49:00](https://soylentnews.org/article.pl?sid=24/10/28/0539245&from=rss) - [Srinivasa Ramanujan Was A Genius. Math Is Still Catching Up](https://soylentnews.org/article.pl?sid=24/10/28/0539245&from=rss)
 * [2024-10-29, 07:02:00](https://soylentnews.org/article.pl?sid=24/10/28/0534216&from=rss) - [RFHunter V4.0 - RF Signal Detector](https://soylentnews.org/article.pl?sid=24/10/28/0534216&from=rss)
-* [2024-10-29, 02:21:00](https://soylentnews.org/article.pl?sid=24/10/27/1437217&from=rss) - [T-Mobile, AT&T Oppose Unlocking Rule, Claim Locked Phones Are Good for Users](https://soylentnews.org/article.pl?sid=24/10/27/1437217&from=rss)
 
 ## [Archives](archives/index.md)
 
