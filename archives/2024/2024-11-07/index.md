@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 09:21:00](https://soylentnews.org/article.pl?sid=24/11/05/1951213&from=rss) - [Thousands Turned Out For Nonexistent Halloween Parade Promoted By AI Listing](https://soylentnews.org/article.pl?sid=24/11/05/1951213&from=rss)
 * [2024-11-07, 04:42:00](https://soylentnews.org/article.pl?sid=24/11/05/1943223&from=rss) - [(Stolen) Nokia Source Code for Sale.](https://soylentnews.org/article.pl?sid=24/11/05/1943223&from=rss)
