@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-06, 23:53:00](https://soylentnews.org/article.pl?sid=24/11/05/1940209&from=rss) - [Nuclear Woes for Proposed Data Centers - Amazon and Meta](https://soylentnews.org/article.pl?sid=24/11/05/1940209&from=rss)
 * [2024-11-06, 19:18:00](https://soylentnews.org/article.pl?sid=24/11/05/1929209&from=rss) - [First Wooden Satellite Reaches Space](https://soylentnews.org/article.pl?sid=24/11/05/1929209&from=rss)
 * [2024-11-06, 14:34:00](https://soylentnews.org/article.pl?sid=24/11/05/1927216&from=rss) - [This Skeleton Is The First Person Ever Found From a Norse Saga](https://soylentnews.org/article.pl?sid=24/11/05/1927216&from=rss)
 * [2024-11-06, 09:46:00](https://soylentnews.org/article.pl?sid=24/11/05/0337209&from=rss) - [Judge's Investigation Into Patent Troll Results in Criminal Referrals](https://soylentnews.org/article.pl?sid=24/11/05/0337209&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-28, 21:34:00](https://soylentnews.org/article.pl?sid=24/10/27/1429201&from=rss) - [China's New Resistive Magnet Is 800,000 Times Stronger Than Earth's Field](https://soylentnews.org/article.pl?sid=24/10/27/1429201&from=rss)
 * [2024-10-28, 19:06:00](https://soylentnews.org/meta/article.pl?sid=24/10/27/1056210&from=rss) - [Changing Hardware](https://soylentnews.org/meta/article.pl?sid=24/10/27/1056210&from=rss)
 * [2024-10-28, 16:47:00](https://soylentnews.org/article.pl?sid=24/10/27/1425243&from=rss) - [Robo-AI Art to be Sold at Sotheby's Auction.](https://soylentnews.org/article.pl?sid=24/10/27/1425243&from=rss)
-* [2024-10-28, 12:04:00](https://soylentnews.org/article.pl?sid=24/10/27/145234&from=rss) - [23andMe Reportedly Faces Bankruptcy — What Will Happen to Everyone’s DNA Samples?](https://soylentnews.org/article.pl?sid=24/10/27/145234&from=rss)
 
 ## [Archives](archives/index.md)
 
