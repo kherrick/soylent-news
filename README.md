@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-08, 04:26:00](https://soylentnews.org/article.pl?sid=24/11/07/0059202&from=rss) - [Telecoms Bankroll More Misleading Attacks On Community Broadband Networks ](https://soylentnews.org/article.pl?sid=24/11/07/0059202&from=rss)
 * [2024-11-07, 23:41:00](https://soylentnews.org/article.pl?sid=24/11/07/0052225&from=rss) - [German Companies Developing Core Hydrogen Pipeline Network](https://soylentnews.org/article.pl?sid=24/11/07/0052225&from=rss)
 * [2024-11-07, 18:52:00](https://soylentnews.org/article.pl?sid=24/11/07/0049221&from=rss) - [Drugmaker Shut Down After Black Schmutz Found in Injectable Weight-Loss Drug](https://soylentnews.org/article.pl?sid=24/11/07/0049221&from=rss)
 * [2024-11-07, 14:07:00](https://soylentnews.org/article.pl?sid=24/11/06/1230212&from=rss) - [Oldest Tadpole Fossil Known To Science Dates Back 161 Million Years](https://soylentnews.org/article.pl?sid=24/11/06/1230212&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-29, 21:22:00](https://soylentnews.org/article.pl?sid=24/10/29/0059246&from=rss) - [Annoyed Redditors Tanking Google Search Results Illustrates Perils of AI Scrapers](https://soylentnews.org/article.pl?sid=24/10/29/0059246&from=rss)
 * [2024-10-29, 16:37:00](https://soylentnews.org/article.pl?sid=24/10/29/0048228&from=rss) - [Preserved Tracks Suggest Non-Avian Dinosaurs Used Their Wings to Run](https://soylentnews.org/article.pl?sid=24/10/29/0048228&from=rss)
 * [2024-10-29, 16:10:00](https://soylentnews.org/article.pl?sid=24/10/29/164202&from=rss) - [Astronauts on the ISS Brace for Emergency Evacuation after NASA Finds 50 'Areas of Concern'](https://soylentnews.org/article.pl?sid=24/10/29/164202&from=rss)
-* [2024-10-29, 11:49:00](https://soylentnews.org/article.pl?sid=24/10/28/0539245&from=rss) - [Srinivasa Ramanujan Was A Genius. Math Is Still Catching Up](https://soylentnews.org/article.pl?sid=24/10/28/0539245&from=rss)
 
 ## [Archives](archives/index.md)
 
