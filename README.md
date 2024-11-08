@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-08, 17:37:00](https://soylentnews.org/article.pl?sid=24/11/07/018220&from=rss) - [A(g)iling Mozilla](https://soylentnews.org/article.pl?sid=24/11/07/018220&from=rss)
 * [2024-11-08, 12:55:00](https://soylentnews.org/article.pl?sid=24/11/07/016203&from=rss) - [A Zombie Star’s Spiky Filaments Shed Light On A 12th Century Supernova](https://soylentnews.org/article.pl?sid=24/11/07/016203&from=rss)
 * [2024-11-08, 08:11:00](https://soylentnews.org/article.pl?sid=24/11/07/012213&from=rss) - [Drones Equipped With Self-Monitoring \"Nervous System\" Promise Longer, Safer Flights](https://soylentnews.org/article.pl?sid=24/11/07/012213&from=rss)
 * [2024-11-08, 04:26:00](https://soylentnews.org/article.pl?sid=24/11/07/0059202&from=rss) - [Telecoms Bankroll More Misleading Attacks On Community Broadband Networks ](https://soylentnews.org/article.pl?sid=24/11/07/0059202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-30, 11:43:00](https://soylentnews.org/article.pl?sid=24/10/29/0124245&from=rss) - ['Open Banking' Rules Issued, Requiring Data Portability](https://soylentnews.org/article.pl?sid=24/10/29/0124245&from=rss)
 * [2024-10-30, 06:55:00](https://soylentnews.org/article.pl?sid=24/10/29/0112246&from=rss) - [Russian Officials Buy Four Times More iPhones After Ban](https://soylentnews.org/article.pl?sid=24/10/29/0112246&from=rss)
 * [2024-10-30, 02:10:00](https://soylentnews.org/article.pl?sid=24/10/29/013229&from=rss) - [New Optical Storage Breakthrough Could Make CDs Relevant Again](https://soylentnews.org/article.pl?sid=24/10/29/013229&from=rss)
-* [2024-10-29, 21:22:00](https://soylentnews.org/article.pl?sid=24/10/29/0059246&from=rss) - [Annoyed Redditors Tanking Google Search Results Illustrates Perils of AI Scrapers](https://soylentnews.org/article.pl?sid=24/10/29/0059246&from=rss)
 
 ## [Archives](archives/index.md)
 
