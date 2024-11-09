@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-09, 11:55:00](https://soylentnews.org/article.pl?sid=24/11/09/0542219&from=rss) - [Verizon, AT&T Tell Courts: FCC Can't Punish Us for Selling User Location Data](https://soylentnews.org/article.pl?sid=24/11/09/0542219&from=rss)
 * [2024-11-09, 10:14:00](https://soylentnews.org/article.pl?sid=24/11/08/1827212&from=rss) - [German Receives 1700 Identical Letters From Taxman](https://soylentnews.org/article.pl?sid=24/11/08/1827212&from=rss)
 * [2024-11-09, 07:55:00](https://soylentnews.org/article.pl?sid=24/11/08/0237239&from=rss) - [Govt IT Contractors Charged With 'Defrauding' the Feds](https://soylentnews.org/article.pl?sid=24/11/08/0237239&from=rss)
 * [2024-11-09, 03:12:00](https://soylentnews.org/article.pl?sid=24/11/08/0233221&from=rss) - [Since the ’60s, Ford Has Stored Cars Underground in a Kansas City Cave](https://soylentnews.org/article.pl?sid=24/11/08/0233221&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-31, 11:30:00](https://soylentnews.org/article.pl?sid=24/10/30/1613220&from=rss) - [Typing Monkey Would Be Unable to Produce 'Hamlet' Within the Lifetime of the Universe](https://soylentnews.org/article.pl?sid=24/10/30/1613220&from=rss)
 * [2024-10-31, 06:42:00](https://soylentnews.org/article.pl?sid=24/10/30/169208&from=rss) - [Voyager 1 Ghosts NASA, Forcing Use of Backup Radio Dormant Since 1981](https://soylentnews.org/article.pl?sid=24/10/30/169208&from=rss)
 * [2024-10-31, 01:59:00](https://soylentnews.org/article.pl?sid=24/10/30/1553213&from=rss) - [Your ISP Now Requires A Broadband ‘Nutrition Label’ To Clearly Show You You’re Being Ripped Off](https://soylentnews.org/article.pl?sid=24/10/30/1553213&from=rss)
-* [2024-10-30, 21:15:00](https://soylentnews.org/article.pl?sid=24/10/30/0034253&from=rss) - [Manufacturing Industrial Policy](https://soylentnews.org/article.pl?sid=24/10/30/0034253&from=rss)
 
 ## [Archives](archives/index.md)
 
