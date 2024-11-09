@@ -145,6 +145,117 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/11/08/2023243">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/11/08/2023243&amp;from=rss"
+              >Windows Server 2025 Takes Admins By Surprise</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-09 @ 19:42:00</span
+              ><span class="points-container"
+                >Points: <span class="points">42</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/11/08/2023243"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Arthur T Knackerbracket has processed the
+                <a
+                  href="https://www.theregister.com/2024/11/06/windows_server_2025_surprise/"
+                  >following story</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    Administrators are reporting unexpected appearances of
+                    Windows Server 2025 after what was published as a security
+                    update turned out to be a complete operating system upgrade.
+                  </p>
+                  <p>
+                    The problem was
+                    <a
+                      href="https://www.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/"
+                      >flagged</a
+                    >
+                    by a customer of web app security biz Heimdal. Arriving at
+                    the office on the morning of November 5, they found, to
+                    their horror, that every Windows Server 2022 system had
+                    either upgraded itself to Windows Server 2025 or was about
+                    to.
+                  </p>
+                  <p>
+                    Sysadmins are cautious by nature, so an unplanned operating
+                    system upgrade could easily result in morning coffee being
+                    sprayed over a keyboard.
+                  </p>
+                  <p>
+                    Heimdal's services include patch management, and it relies
+                    on Microsoft to label patches accurately to ensure the
+                    correct update is applied to the correct software at the
+                    correct time. In this instance, what should have been a
+                    security update turned out to be Windows Server 2025.
+                  </p>
+                  <p>
+                    It took Heimdal a while to trace the problem.
+                    <a
+                      href="https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/lvl4of4/"
+                      >According to a post</a
+                    >
+                    on Reddit: "Due to the limited initial footprint,
+                    identifying the root cause took some time. By 18:05 UTC, we
+                    traced the issue to the Windows Update API, where Microsoft
+                    had mistakenly labeled the Windows Server 2025 upgrade as
+                    KB5044284."
+                  </p>
+                  <p>
+                    It added: "Our team discovered this discrepancy in our
+                    patching repository, as the GUID for the Windows Server 2025
+                    upgrade does not match the usual entries for KB5044284
+                    associated with Windows 11. This appears to be an error on
+                    Microsoft's side, affecting both the speed of release and
+                    the classification of the update. After cross-checking with
+                    Microsoft's KB repository, we confirmed that the KB number
+                    indeed references Windows 11, not Windows Server 2025."
+                  </p>
+                  <p>
+                    As of last night, Heimdal estimated that the unexpected
+                    upgrade had affected 7 percent of customers – it said it had
+                    blocked KB5044284 across all server group policies. However,
+                    this is of little comfort to administrators finding
+                    themselves receiving an unexpected upgrade.
+                  </p>
+                  <p>
+                    Since rolling back to the previous configuration will
+                    present a challenge, affected users will be faced with
+                    finding out just how effective their backup strategy is or
+                    paying for the required license and dealing with all the
+                    changes that come with Windows Server 2025.
+                  </p>
+                </div>
+              </blockquote>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=64256"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/11/08/2020211">
           <h3>
             <a
@@ -157,12 +268,12 @@
             <h4>
               <span>2024-11-09 @ 14:59:00</span
               ><span class="points-container"
-                >Points: <span class="points">282</span></span
+                >Points: <span class="points">309</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/08/2020211"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
             <div class="text">
@@ -254,7 +365,7 @@
             <h4>
               <span>2024-11-09 @ 11:55:00</span
               ><span class="points-container"
-                >Points: <span class="points">389</span></span
+                >Points: <span class="points">402</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/09/0542219"
@@ -381,7 +492,7 @@
             <h4>
               <span>2024-11-09 @ 10:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">405</span></span
+                >Points: <span class="points">418</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/08/1827212"
@@ -445,7 +556,7 @@
             <h4>
               <span>2024-11-09 @ 07:55:00</span
               ><span class="points-container"
-                >Points: <span class="points">352</span></span
+                >Points: <span class="points">362</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/08/0237239"
@@ -567,7 +678,7 @@
             <h4>
               <span>2024-11-09 @ 03:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">595</span></span
+                >Points: <span class="points">610</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/08/0233221"
@@ -640,7 +751,7 @@
             <h4>
               <span>2024-11-08 @ 22:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">740</span></span
+                >Points: <span class="points">753</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/08/0226225"
@@ -735,7 +846,7 @@
             <h4>
               <span>2024-11-08 @ 17:37:00</span
               ><span class="points-container"
-                >Points: <span class="points">1219</span></span
+                >Points: <span class="points">1231</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/07/018220"
@@ -828,7 +939,7 @@
             <h4>
               <span>2024-11-08 @ 12:55:00</span
               ><span class="points-container"
-                >Points: <span class="points">857</span></span
+                >Points: <span class="points">867</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/07/016203"
@@ -940,7 +1051,7 @@
             <h4>
               <span>2024-11-08 @ 08:11:00</span
               ><span class="points-container"
-                >Points: <span class="points">1010</span></span
+                >Points: <span class="points">1020</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/07/012213"
@@ -1043,7 +1154,7 @@
             <h4>
               <span>2024-11-08 @ 04:26:00</span
               ><span class="points-container"
-                >Points: <span class="points">1180</span></span
+                >Points: <span class="points">1189</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/07/0059202"
@@ -1141,7 +1252,7 @@
             <h4>
               <span>2024-11-07 @ 23:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">1405</span></span
+                >Points: <span class="points">1412</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/07/0052225"
@@ -1226,7 +1337,7 @@
             <h4>
               <span>2024-11-07 @ 18:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">1650</span></span
+                >Points: <span class="points">1657</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/07/0049221"
@@ -1328,7 +1439,7 @@
             <h4>
               <span>2024-11-07 @ 14:07:00</span
               ><span class="points-container"
-                >Points: <span class="points">1323</span></span
+                >Points: <span class="points">1330</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/06/1230212"
@@ -1438,7 +1549,7 @@
             <h4>
               <span>2024-11-07 @ 09:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">2046</span></span
+                >Points: <span class="points">2053</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/05/1951213"
@@ -1556,7 +1667,7 @@
             <h4>
               <span>2024-11-07 @ 04:42:00</span
               ><span class="points-container"
-                >Points: <span class="points">1679</span></span
+                >Points: <span class="points">1687</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/05/1943223"
@@ -1640,7 +1751,7 @@
             <h4>
               <span>2024-11-06 @ 23:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">2035</span></span
+                >Points: <span class="points">2043</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/05/1940209"
@@ -1732,7 +1843,7 @@
             <h4>
               <span>2024-11-06 @ 19:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">2101</span></span
+                >Points: <span class="points">2108</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/05/1929209"
@@ -1816,7 +1927,7 @@
             <h4>
               <span>2024-11-06 @ 14:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">2030</span></span
+                >Points: <span class="points">2037</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/05/1927216"
@@ -1947,7 +2058,7 @@
             <h4>
               <span>2024-11-06 @ 09:46:00</span
               ><span class="points-container"
-                >Points: <span class="points">2103</span></span
+                >Points: <span class="points">2110</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/05/0337209"
@@ -2065,7 +2176,7 @@
             <h4>
               <span>2024-11-06 @ 04:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">2393</span></span
+                >Points: <span class="points">2397</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/05/0329246"
@@ -2130,7 +2241,7 @@
             <h4>
               <span>2024-11-06 @ 00:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">2849</span></span
+                >Points: <span class="points">2851</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/05/0327234"
@@ -2239,7 +2350,7 @@
             <h4>
               <span>2024-11-05 @ 19:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">2884</span></span
+                >Points: <span class="points">2885</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/04/0222235"
@@ -2304,7 +2415,7 @@
             <h4>
               <span>2024-11-05 @ 14:46:00</span
               ><span class="points-container"
-                >Points: <span class="points">2764</span></span
+                >Points: <span class="points">2765</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/04/0218237"
@@ -2411,7 +2522,7 @@
             <h4>
               <span>2024-11-05 @ 09:57:00</span
               ><span class="points-container"
-                >Points: <span class="points">2598</span></span
+                >Points: <span class="points">2599</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/04/0210246"
@@ -2516,7 +2627,7 @@
             <h4>
               <span>2024-11-05 @ 05:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">2669</span></span
+                >Points: <span class="points">2670</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/04/023249"
@@ -2590,7 +2701,7 @@
             <h4>
               <span>2024-11-05 @ 00:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">2756</span></span
+                >Points: <span class="points">2757</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/04/0158225"
@@ -2693,7 +2804,7 @@
             <h4>
               <span>2024-11-04 @ 19:42:00</span
               ><span class="points-container"
-                >Points: <span class="points">2853</span></span
+                >Points: <span class="points">2854</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/03/2239255"
@@ -2770,7 +2881,7 @@
             <h4>
               <span>2024-11-04 @ 14:57:00</span
               ><span class="points-container"
-                >Points: <span class="points">3126</span></span
+                >Points: <span class="points">3129</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/03/1444224"
@@ -2854,7 +2965,7 @@
             <h4>
               <span>2024-11-04 @ 10:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">2889</span></span
+                >Points: <span class="points">2890</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/03/020203"
@@ -2984,7 +3095,7 @@
             <h4>
               <span>2024-11-04 @ 05:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">2912</span></span
+                >Points: <span class="points">2913</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/03/0119209"
@@ -3079,7 +3190,7 @@
             <h4>
               <span>2024-11-04 @ 00:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">3217</span></span
+                >Points: <span class="points">3218</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/01/2052252"
@@ -3192,7 +3303,7 @@
             <h4>
               <span>2024-11-03 @ 20:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">2877</span></span
+                >Points: <span class="points">2878</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/01/2046226"
@@ -3306,7 +3417,7 @@
             <h4>
               <span>2024-11-03 @ 15:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">3022</span></span
+                >Points: <span class="points">3023</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/01/1657248"
@@ -3397,7 +3508,7 @@
             <h4>
               <span>2024-11-03 @ 10:42:00</span
               ><span class="points-container"
-                >Points: <span class="points">2891</span></span
+                >Points: <span class="points">2892</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/01/1653218"
@@ -3485,7 +3596,7 @@
             <h4>
               <span>2024-11-03 @ 05:59:00</span
               ><span class="points-container"
-                >Points: <span class="points">3314</span></span
+                >Points: <span class="points">3315</span></span
               ><span class="descendants-container"
                 ><a
                   href="https://soylentnews.org/article.pl?sid=24/11/01/1650217"
@@ -5016,159 +5127,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=64188"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/10/30/169208">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/10/30/169208&amp;from=rss"
-              >Voyager 1 Ghosts NASA, Forcing Use of Backup Radio Dormant Since
-              1981</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-31 @ 06:42:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2390</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/10/30/169208"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="//soylentnews.org/~upstart/">upstart</a> writes:</p>
-              <p>
-                <a
-                  href="https://gizmodo.com/voyager-1-ghosts-nasa-forcing-use-of-backup-radio-dormant-since-1981-2000517890"
-                  >Voyager 1 Ghosts NASA, Forcing Use of Backup Radio Dormant
-                  Since 1981</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Voyager 1 can't seem to catch a break. The interstellar
-                    traveler recently recovered from a thruster glitch that
-                    nearly ended its mission, and now NASA's aging probe stopped
-                    sending data to ground control due to an unknown issue.
-                  </p>
-                  <p>
-                    On Monday, NASA
-                    <a
-                      href="https://blogs.nasa.gov/voyager/2024/10/28/after-pause-nasas-voyager-1-communicating-with-mission-team/"
-                      >revealed</a
-                    >
-                    that Voyager 1 recently experienced a brief pause in
-                    communication after turning off one of its radio
-                    transmitters. The space agency is now relying on a second
-                    radio transmitter that hasn't been used since 1981 to
-                    communicate with Voyager 1 until engineers can figure out
-                    the underlying issue behind the glitch.
-                  </p>
-                  <p>
-                    The flight team behind the mission first realized something
-                    was amiss with Voyager 1's communication when the spacecraft
-                    failed to respond to a command. On October 16, the team used
-                    NASA's Deep Space Network (DSN)—a global array of giant
-                    radio antennas—to beam instructions to Voyager 1, directing
-                    it to turn on one of its heaters.
-                  </p>
-                  <p>
-                    Voyager 1 should've sent back engineering data for the team
-                    to determine how the spacecraft responded to the command.
-                    This process normally takes a couple of days, as the command
-                    takes about 23 hours to travel more than 15 billion miles
-                    (24 billion kilometers) to the spacecraft and another 23
-                    hours for the flight team to receive a signal back. Instead,
-                    the command seems to have triggered the spacecraft's fault
-                    protection system, which autonomously responds to onboard
-                    issues affecting the mission.
-                  </p>
-                  <p>
-                    The spacecraft's fault protection system lowered the rate at
-                    which its radio transmitter was sending back data to use
-                    less power, according to NASA. However, while conserving the
-                    spacecraft's power, this mode also changes the X-band radio
-                    signal, a frequency range within the electromagnetic
-                    spectrum that the DSN's antennas listen for.
-                  </p>
-                  <p>
-                    The flight team was able to locate the signal a day later
-                    but then, on October 19, communication with Voyager 1
-                    stopped entirely. Voyager 1's fault protection system
-                    appeared to have been triggered twice more, and it turned
-                    off the X-band transmitter altogether. The spacecraft
-                    switched to a second radio transmitter called the S-band,
-                    which uses less power but transmits a significantly fainter
-                    signal. Voyager 1's S-band transmitter hadn't been used
-                    since 1981, and the flight team was not sure its signal
-                    could be detected due to the spacecraft being much farther
-                    away today than it was 43 years ago.
-                  </p>
-                  <p>
-                    Still, the team of engineers didn't want to risk sending
-                    another signal to the X-band transmitter, and decided to
-                    give it a shot. On October 22, the team sent a command to
-                    confirm whether the S-band transmitter is working and was
-                    finally able to reconnect with Voyager 1 two days later.
-                    NASA engineers are currently working to determine what may
-                    have triggered the spacecraft's fault protection system in
-                    its attempt to resolve the issue.
-                  </p>
-                  <p>
-                    Voyager 1 launched in 1977, less than a month after its twin
-                    probe, Voyager 2, began its journey to space. The spacecraft
-                    took a faster route, exiting the asteroid belt earlier than
-                    its twin and making close encounters with Jupiter and
-                    Saturn. Along the way, it discovered two Jovian moons, Thebe
-                    and Metis, as well as five new moons and a new ring called
-                    the G-ring around Saturn. Voyager 1 ventured into
-                    interstellar space in August 2012, becoming the first
-                    spacecraft to cross the boundary of our solar system.
-                  </p>
-                  <p>
-                    The spacecraft has been flying for 47 years, and all that
-                    time in deep space has taken a toll on the interstellar
-                    probe. NASA engineers have had to come up with creative ways
-                    to keep the iconic mission alive. The team recently
-                    <a
-                      href="https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434"
-                      >switched to a different set of thrusters than the one the
-                      spacecraft had been relying on</a
-                    >, which became clogged with silicon dioxide over the years,
-                    using a delicate procedure to preserve Voyager 1's power.
-                    Earlier this year, the team of engineers also
-                    <a
-                      href="https://gizmodo.com/nasa-voyager-probe-making-sense-months-gibberish-1851427197"
-                      >fixed a communication glitch that had been causing
-                      Voyager 1 to transmit gibberish</a
-                    >
-                    to ground control.
-                  </p>
-                  <p>
-                    Voyager 1 is no spring chicken, and its upkeep has not been
-                    an easy task over the years, especially from billions of
-                    miles away. But all-in-all, humanity's long-standing
-                    interstellar probe is well worth the effort.
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=64187"
                     >Original Submission</a
                   ></small
                 >
