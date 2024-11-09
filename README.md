@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-09, 03:12:00](https://soylentnews.org/article.pl?sid=24/11/08/0233221&from=rss) - [Since the ’60s, Ford Has Stored Cars Underground in a Kansas City Cave](https://soylentnews.org/article.pl?sid=24/11/08/0233221&from=rss)
 * [2024-11-08, 22:25:00](https://soylentnews.org/article.pl?sid=24/11/08/0226225&from=rss) - [Singapore To Increase Road Capacity By GPS Tracking Vehicles](https://soylentnews.org/article.pl?sid=24/11/08/0226225&from=rss)
 * [2024-11-08, 17:37:00](https://soylentnews.org/article.pl?sid=24/11/07/018220&from=rss) - [A(g)iling Mozilla](https://soylentnews.org/article.pl?sid=24/11/07/018220&from=rss)
 * [2024-11-08, 12:55:00](https://soylentnews.org/article.pl?sid=24/11/07/016203&from=rss) - [A Zombie Star’s Spiky Filaments Shed Light On A 12th Century Supernova](https://soylentnews.org/article.pl?sid=24/11/07/016203&from=rss)
@@ -49,7 +50,6 @@
 * [2024-10-30, 21:15:00](https://soylentnews.org/article.pl?sid=24/10/30/0034253&from=rss) - [Manufacturing Industrial Policy](https://soylentnews.org/article.pl?sid=24/10/30/0034253&from=rss)
 * [2024-10-30, 16:28:00](https://soylentnews.org/article.pl?sid=24/10/29/0132243&from=rss) - [British Sleep Experts Say It's Time to Kill Daylight Saving](https://soylentnews.org/article.pl?sid=24/10/29/0132243&from=rss)
 * [2024-10-30, 11:43:00](https://soylentnews.org/article.pl?sid=24/10/29/0124245&from=rss) - ['Open Banking' Rules Issued, Requiring Data Portability](https://soylentnews.org/article.pl?sid=24/10/29/0124245&from=rss)
-* [2024-10-30, 06:55:00](https://soylentnews.org/article.pl?sid=24/10/29/0112246&from=rss) - [Russian Officials Buy Four Times More iPhones After Ban](https://soylentnews.org/article.pl?sid=24/10/29/0112246&from=rss)
 
 ## [Archives](archives/index.md)
 
