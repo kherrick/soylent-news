@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 19:41:00](https://soylentnews.org/article.pl?sid=24/11/09/0554243&from=rss) - [Making Electronic Calipers](https://soylentnews.org/article.pl?sid=24/11/09/0554243&from=rss)
 * [2024-11-10, 14:53:00](https://soylentnews.org/article.pl?sid=24/11/08/2045213&from=rss) - [Intel Faces Lawsuit Over Raptor Lake Voltage Issues](https://soylentnews.org/article.pl?sid=24/11/08/2045213&from=rss)
 * [2024-11-10, 10:04:00](https://soylentnews.org/article.pl?sid=24/11/08/2037232&from=rss) - [Carbon Emissions From Private Jets Have Exploded In Recent Years](https://soylentnews.org/article.pl?sid=24/11/08/2037232&from=rss)
 * [2024-11-10, 05:20:00](https://soylentnews.org/article.pl?sid=24/11/08/2032230&from=rss) - [Torvalds Patch Improves Linux Performance By 2.6%](https://soylentnews.org/article.pl?sid=24/11/08/2032230&from=rss)
