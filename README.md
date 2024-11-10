@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-10, 00:35:00](https://soylentnews.org/article.pl?sid=24/11/08/2028216&from=rss) - [AOL’s ‘You’ve Got Mail’ Voice, Elwood Edwards, Dies at Age 74](https://soylentnews.org/article.pl?sid=24/11/08/2028216&from=rss)
 * [2024-11-09, 19:42:00](https://soylentnews.org/article.pl?sid=24/11/08/2023243&from=rss) - [Windows Server 2025 Takes Admins By Surprise](https://soylentnews.org/article.pl?sid=24/11/08/2023243&from=rss)
 * [2024-11-09, 14:59:00](https://soylentnews.org/article.pl?sid=24/11/08/2020211&from=rss) - [How China is Cracking Down on Punny Dissent](https://soylentnews.org/article.pl?sid=24/11/08/2020211&from=rss)
 * [2024-11-09, 11:55:00](https://soylentnews.org/article.pl?sid=24/11/09/0542219&from=rss) - [Verizon, AT&T Tell Courts: FCC Can't Punish Us for Selling User Location Data](https://soylentnews.org/article.pl?sid=24/11/09/0542219&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-01, 01:40:00](https://soylentnews.org/article.pl?sid=24/10/31/0114242&from=rss) - [The Open Secret Of Open Washing](https://soylentnews.org/article.pl?sid=24/10/31/0114242&from=rss)
 * [2024-10-31, 20:58:00](https://soylentnews.org/article.pl?sid=24/10/30/209230&from=rss) - [Apple is Turning The Oregon Trail into a Movie](https://soylentnews.org/article.pl?sid=24/10/30/209230&from=rss)
 * [2024-10-31, 16:13:00](https://soylentnews.org/article.pl?sid=24/10/30/1916233&from=rss) - [DevChildren](https://soylentnews.org/article.pl?sid=24/10/30/1916233&from=rss)
-* [2024-10-31, 11:30:00](https://soylentnews.org/article.pl?sid=24/10/30/1613220&from=rss) - [Typing Monkey Would Be Unable to Produce 'Hamlet' Within the Lifetime of the Universe](https://soylentnews.org/article.pl?sid=24/10/30/1613220&from=rss)
 
 ## [Archives](archives/index.md)
 
