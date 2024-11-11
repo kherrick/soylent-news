@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-11, 10:00:00](https://soylentnews.org/article.pl?sid=24/11/10/0357206&from=rss) - [Startup Turns Mining Waste Into Critical Metals For The U.S.](https://soylentnews.org/article.pl?sid=24/11/10/0357206&from=rss)
 * [2024-11-11, 05:15:00](https://soylentnews.org/article.pl?sid=24/11/10/0349246&from=rss) - [Stanford Researchers Develop Molecule That Forces Cancer Cells To Kill Themselves](https://soylentnews.org/article.pl?sid=24/11/10/0349246&from=rss)
 * [2024-11-11, 00:28:00](https://soylentnews.org/article.pl?sid=24/11/09/0617229&from=rss) - [Claude AI to Process Secret Government Data Through New Palantir Deal](https://soylentnews.org/article.pl?sid=24/11/09/0617229&from=rss)
 * [2024-11-10, 19:41:00](https://soylentnews.org/article.pl?sid=24/11/09/0554243&from=rss) - [Making Electronic Calipers](https://soylentnews.org/article.pl?sid=24/11/09/0554243&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-02, 11:01:00](https://soylentnews.org/article.pl?sid=24/11/01/1226205&from=rss) - [How the 'Fediverse' Works (and Why It Might be the Future of Social Media)](https://soylentnews.org/article.pl?sid=24/11/01/1226205&from=rss)
 * [2024-11-02, 06:12:00](https://soylentnews.org/article.pl?sid=24/11/01/0222259&from=rss) - [Darl McBride is Dead...](https://soylentnews.org/article.pl?sid=24/11/01/0222259&from=rss)
 * [2024-11-02, 01:27:00](https://soylentnews.org/article.pl?sid=24/10/31/022212&from=rss) - [Google Needs to Get Serious About Selling Refurbished Pixel Phones](https://soylentnews.org/article.pl?sid=24/10/31/022212&from=rss)
-* [2024-11-01, 20:42:00](https://soylentnews.org/article.pl?sid=24/10/31/0146233&from=rss) - [Here’s the Paper No One Read Before Declaring the Demise of Modern Cryptography](https://soylentnews.org/article.pl?sid=24/10/31/0146233&from=rss)
 
 ## [Archives](archives/index.md)
 
