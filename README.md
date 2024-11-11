@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-11, 00:28:00](https://soylentnews.org/article.pl?sid=24/11/09/0617229&from=rss) - [Claude AI to Process Secret Government Data Through New Palantir Deal](https://soylentnews.org/article.pl?sid=24/11/09/0617229&from=rss)
 * [2024-11-10, 19:41:00](https://soylentnews.org/article.pl?sid=24/11/09/0554243&from=rss) - [Making Electronic Calipers](https://soylentnews.org/article.pl?sid=24/11/09/0554243&from=rss)
 * [2024-11-10, 14:53:00](https://soylentnews.org/article.pl?sid=24/11/08/2045213&from=rss) - [Intel Faces Lawsuit Over Raptor Lake Voltage Issues](https://soylentnews.org/article.pl?sid=24/11/08/2045213&from=rss)
 * [2024-11-10, 10:04:00](https://soylentnews.org/article.pl?sid=24/11/08/2037232&from=rss) - [Carbon Emissions From Private Jets Have Exploded In Recent Years](https://soylentnews.org/article.pl?sid=24/11/08/2037232&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-02, 01:27:00](https://soylentnews.org/article.pl?sid=24/10/31/022212&from=rss) - [Google Needs to Get Serious About Selling Refurbished Pixel Phones](https://soylentnews.org/article.pl?sid=24/10/31/022212&from=rss)
 * [2024-11-01, 20:42:00](https://soylentnews.org/article.pl?sid=24/10/31/0146233&from=rss) - [Here’s the Paper No One Read Before Declaring the Demise of Modern Cryptography](https://soylentnews.org/article.pl?sid=24/10/31/0146233&from=rss)
 * [2024-11-01, 16:00:00](https://soylentnews.org/article.pl?sid=24/10/31/0131241&from=rss) - [At&T Praises Itself After Getting Caught Taking Too Much Money From FCC Program](https://soylentnews.org/article.pl?sid=24/10/31/0131241&from=rss)
-* [2024-11-01, 11:14:00](https://soylentnews.org/article.pl?sid=24/10/31/0126210&from=rss) - [Google Fined 2 Undecillion Rubles by Russia](https://soylentnews.org/article.pl?sid=24/10/31/0126210&from=rss)
 
 ## [Archives](archives/index.md)
 
