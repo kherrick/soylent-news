@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-12](index.md)
+
+* [2024-11-12, 00:10:00](https://soylentnews.org/article.pl?sid=24/11/10/0411233&from=rss) - [N Korea May Receive Tech In Exchange For Military Support](https://soylentnews.org/article.pl?sid=24/11/10/0411233&from=rss)
