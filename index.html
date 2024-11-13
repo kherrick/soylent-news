@@ -145,6 +145,143 @@
       </h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="24/11/12/0827228">
+          <h3>
+            <a
+              class="item"
+              href="https://soylentnews.org/article.pl?sid=24/11/12/0827228&amp;from=rss"
+              >D-Link Won't Fix Critical Flaw Affecting 60,000 Older NAS
+              Devices</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-13 @ 10:34:00</span
+              ><span class="points-container"
+                >Points: <span class="points">2</span></span
+              ><span class="descendants-container"
+                ><a
+                  href="https://soylentnews.org/article.pl?sid=24/11/12/0827228"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                <a href="https://soylentnews.org/~NotSanguine">NotSanguine</a>
+                writes:
+              </p>
+              <p>
+                <a
+                  href="https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-flaw-affecting-60-000-older-nas-devices/"
+                  >BleepingComputer is reporting</a
+                >
+                that D-Link will not fix security issues associated with
+                <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-10914"
+                  >CVE 2024-10194</a
+                >
+                on up to 60,000 of its older
+                <a href="https://en.wikipedia.org/wiki/Network-attached_storage"
+                  >NAS devices</a
+                >.
+              </p>
+              <p>
+                From the
+                <a
+                  href="https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-flaw-affecting-60-000-older-nas-devices/"
+                  >article</a
+                >:
+              </p>
+              <blockquote>
+                <div>
+                  <p>
+                    More than 60,000 D-Link network-attached storage devices
+                    that have reached end-of-life are vulnerable to a command
+                    injection vulnerability with a publicly available exploit.
+                  </p>
+                  <p>
+                    The flaw, tracked as
+                    <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-10914"
+                      >CVE-2024-10914</a
+                    >, has a critical 9.2 severity score and is present in the
+                    'cgi_user_add' command where the name parameter is
+                    insufficiently sanitized.
+                  </p>
+                  <p>
+                    An unauthenticated attacker could exploit it to inject
+                    arbitrary shell commands by sending specially crafted HTTP
+                    GET requests to the devices.
+                  </p>
+                  <p>
+                    The flaw impacts multiple models of D-Link network-attached
+                    storage (NAS) devices that are commonly used by small
+                    businesses:
+                  </p>
+                  <ul>
+                    <li>DNS-320 Version 1.00</li>
+                  </ul>
+                  <ul>
+                    <li>DNS-320LW Version 1.01.0914.2012</li>
+                  </ul>
+                  <ul>
+                    <li>DNS-325 Version 1.01, Version 1.02</li>
+                  </ul>
+                  <ul>
+                    <li>DNS-340L Version 1.08</li>
+                  </ul>
+                  <p>
+                    In a technical write-up that provides exploit details,
+                    security researcher Netsecfish says that leveraging the
+                    vulnerability requires sending "a crafted HTTP GET request
+                    to the NAS device with malicious input in the name
+                    parameter."<br /><br />curl
+                    "http://[Target-IP]/cgi-bin/account_mgr.cgi
+                    cmd=cgi_user_add&amp;name=%27;&lt;INJECTED_SHELL_COMMAND&gt;;%27"<br /><br />"This
+                    curl request constructs a URL that triggers the cgi_user_add
+                    command with a name parameter that includes an injected
+                    shell command," the researcher explains.<br />[...]<br />In
+                    a
+                    <a
+                      href="https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10413"
+                      >security bulletin</a
+                    >
+                    today, D-Link has confirmed that a fix for CVE-2024-10914 is
+                    not coming and the vendor recommends that users retire
+                    vulnerable products.
+                  </p>
+                  <p>
+                    If that is not possible at the moment, users should at least
+                    isolate them from the public internet or place them under
+                    stricter access conditions.
+                  </p>
+                </div>
+              </blockquote>
+              <p>
+                Is this the appropriate way for D-Link to handle this? When told
+                that a previously discovered (the existence of which has
+                previously been disclosed to them) vulnerability will be made
+                public, notify the world that the affected devices are
+                "end-of-life" and "end-of-service"?
+              </p>
+              <p>
+                Do any Soylentils have one of the affected devices? (If so,
+                please place your bank/credit/loan account details on those
+                devices and provide us with IP addresses. Thanks!)
+              </p>
+              <hr />
+
+              <p></p>
+              <p>
+                <small
+                  ><a
+                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=64277"
+                    >Original Submission</a
+                  ></small
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="24/11/11/201210">
           <h3>
             <a
@@ -4832,120 +4969,6 @@
                 <small
                   ><a
                     href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=64193"
-                    >Original Submission</a
-                  ></small
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="24/11/01/2046226">
-          <h3>
-            <a
-              class="item"
-              href="https://soylentnews.org/article.pl?sid=24/11/01/2046226&amp;from=rss"
-              >Math’s ‘Bunkbed Conjecture’ Has Been Debunked</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-03 @ 20:01:00</span
-              ><span class="points-container"
-                >Points: <span class="points">2915</span></span
-              ><span class="descendants-container"
-                ><a
-                  href="https://soylentnews.org/article.pl?sid=24/11/01/2046226"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Arthur T Knackerbracket has processed the
-                <a
-                  href="https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/"
-                  >following story</a
-                >:
-              </p>
-              <blockquote>
-                <div>
-                  <p>
-                    Much of mathematics is driven by intuition, by a deep-rooted
-                    sense of what should be true. But sometimes instinct can
-                    lead a mathematician astray. Early evidence might not
-                    represent the bigger picture; a statement might seem
-                    obvious, only for some hidden subtlety to reveal itself.
-                  </p>
-                  <p>
-                    Unexpectedly, three mathematicians have now shown that a
-                    well-known hypothesis in probability theory called the
-                    bunkbed conjecture falls into this category. The conjecture
-                    — which is about the different ways you can navigate the
-                    mathematical mazes called graphs when they’re stacked on top
-                    of each other like bunk beds — seemed natural, even
-                    self-evident. “Anything our brain tells us suggests the
-                    conjecture should be true,” said
-                    <a href="https://web.math.princeton.edu/~mchudnov/"
-                      >Maria Chudnovsky</a
-                    >, a graph theorist at Princeton University who was not
-                    involved in the new work.
-                  </p>
-                  <p>
-                    [...] In the mid-1980s, a Dutch physicist named Pieter
-                    Kasteleyn wanted to mathematically prove an assertion about
-                    how liquids flow throughout porous solids. His work led him
-                    to pose the bunkbed conjecture.
-                  </p>
-                  <p>
-                    [...] The bunkbed conjecture says that the probability of
-                    finding the path on the bottom bunk is always greater than
-                    or equal to the probability of finding the path that jumps
-                    to the top bunk. It doesn’t matter what graph you start
-                    with, or how many vertical posts you draw between the bunks,
-                    or which starting and ending vertices you choose.
-                  </p>
-                  <p>
-                    For decades, mathematicians thought this had to be true.
-                    Their intuition told them that moving around on just one
-                    bunk should be easier than moving between two — that the
-                    extra vertical jump required to get from the lower to the
-                    upper bunk should significantly limit the number of
-                    available paths.
-                  </p>
-                  <p>
-                    [...] In June,
-                    <a href="https://www.maths.cam.ac.uk/person/lh569"
-                      >Lawrence Hollom</a
-                    >
-                    of the University of Cambridge disproved a version of the
-                    bunkbed problem in a different context. Instead of dealing
-                    with graphs, this formulation of the conjecture asked about
-                    objects called hypergraphs. In a hypergraph, an edge is no
-                    longer defined as the connection between a pair of vertices,
-                    but rather as the connection between any number of vertices.
-                  </p>
-                  <p>
-                    [...] In the meantime, Pak says, it’s clear that
-                    mathematicians need to engage in a more active discussion
-                    about the nature of mathematical proof. He and his
-                    colleagues ultimately didn’t have to rely on controversial
-                    computational methods; they were able to disprove the
-                    conjecture with total certainty. But as computer- and
-                    AI-based lines of attack become more common in mathematics
-                    research, some mathematicians are debating whether the
-                    field’s norms will eventually have to change. “It’s a
-                    philosophical question,” Alon said. “How do we view proofs
-                    that are only true with high probability?”
-                  </p>
-                </div>
-              </blockquote>
-              <hr />
-
-              <p></p>
-              <p>
-                <small
-                  ><a
-                    href="//soylentnews.org/submit.pl?op=viewsub&amp;subid=64213"
                     >Original Submission</a
                   ></small
                 >
