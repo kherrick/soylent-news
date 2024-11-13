@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-13, 20:04:00](https://soylentnews.org/article.pl?sid=24/11/13/0156223&from=rss) - [Zuckerberg Not Liable In Social Media Harm Lawsuits, Judge Rules](https://soylentnews.org/article.pl?sid=24/11/13/0156223&from=rss)
 * [2024-11-13, 15:19:00](https://soylentnews.org/article.pl?sid=24/11/13/0134241&from=rss) - [This Mobile 3D Printer Can Print Directly on Your Floor](https://soylentnews.org/article.pl?sid=24/11/13/0134241&from=rss)
 * [2024-11-13, 10:34:00](https://soylentnews.org/article.pl?sid=24/11/12/0827228&from=rss) - [D-Link Won't Fix Critical Flaw Affecting 60,000 Older NAS Devices](https://soylentnews.org/article.pl?sid=24/11/12/0827228&from=rss)
 * [2024-11-13, 05:52:00](https://soylentnews.org/article.pl?sid=24/11/11/201210&from=rss) - [The EU Is Looking Into Corning For Alleged Anti-Competitive Practices](https://soylentnews.org/article.pl?sid=24/11/11/201210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-04, 19:42:00](https://soylentnews.org/article.pl?sid=24/11/03/2239255&from=rss) - [OpenAI Launches ChatGPT With Search, Taking Google Head-on](https://soylentnews.org/article.pl?sid=24/11/03/2239255&from=rss)
 * [2024-11-04, 14:57:00](https://soylentnews.org/article.pl?sid=24/11/03/1444224&from=rss) - [Live Nation Decision Will Force Companies to Rethink Consumer Arbitration Rules](https://soylentnews.org/article.pl?sid=24/11/03/1444224&from=rss)
 * [2024-11-04, 10:12:00](https://soylentnews.org/article.pl?sid=24/11/03/020203&from=rss) - [It Might Be Possible To Detect Gravitons After All](https://soylentnews.org/article.pl?sid=24/11/03/020203&from=rss)
-* [2024-11-04, 05:28:00](https://soylentnews.org/article.pl?sid=24/11/03/0119209&from=rss) - [Distressed Luxury Sportscar Maker Files Chapter 11 Bankruptcy](https://soylentnews.org/article.pl?sid=24/11/03/0119209&from=rss)
 
 ## [Archives](archives/index.md)
 
