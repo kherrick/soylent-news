@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-13, 01:09:00](https://soylentnews.org/article.pl?sid=24/11/11/1959246&from=rss) - [Bird Flu Antibodies Found In Dairy Workers In Michigan And Colorado](https://soylentnews.org/article.pl?sid=24/11/11/1959246&from=rss)
 * [2024-11-12, 20:16:00](https://soylentnews.org/article.pl?sid=24/11/11/1957230&from=rss) - [Research Monkeys Still Having a Ball Days After Busting Out of Lab, Police Say](https://soylentnews.org/article.pl?sid=24/11/11/1957230&from=rss)
 * [2024-11-12, 15:23:00](https://soylentnews.org/article.pl?sid=24/11/11/1954232&from=rss) - [Biden Administration to Support Controversial UN Cyber Treaty](https://soylentnews.org/article.pl?sid=24/11/11/1954232&from=rss)
 * [2024-11-12, 10:41:00](https://soylentnews.org/article.pl?sid=24/11/10/1625222&from=rss) - [Public Sector Cyber Break-Ins: Our Money, Our Right To Know](https://soylentnews.org/article.pl?sid=24/11/10/1625222&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-04, 00:40:00](https://soylentnews.org/article.pl?sid=24/11/01/2052252&from=rss) - [Reddit’s Getting More Popular](https://soylentnews.org/article.pl?sid=24/11/01/2052252&from=rss)
 * [2024-11-03, 20:01:00](https://soylentnews.org/article.pl?sid=24/11/01/2046226&from=rss) - [Math’s ‘Bunkbed Conjecture’ Has Been Debunked](https://soylentnews.org/article.pl?sid=24/11/01/2046226&from=rss)
 * [2024-11-03, 15:25:00](https://soylentnews.org/article.pl?sid=24/11/01/1657248&from=rss) - [Intel Losses Hit $16.6B As Restructuring Efforts Take A Toll](https://soylentnews.org/article.pl?sid=24/11/01/1657248&from=rss)
-* [2024-11-03, 10:42:00](https://soylentnews.org/article.pl?sid=24/11/01/1653218&from=rss) - [Microsoft Delays Rollout of the Windows 11 Recall Feature Yet Again](https://soylentnews.org/article.pl?sid=24/11/01/1653218&from=rss)
 
 ## [Archives](archives/index.md)
 
