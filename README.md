@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-14, 10:22:00](https://soylentnews.org/article.pl?sid=24/11/13/0221206&from=rss) - [Rideshare Drivers in Massachusetts Can Unionize Without Being Full-Time Employees](https://soylentnews.org/article.pl?sid=24/11/13/0221206&from=rss)
 * [2024-11-14, 05:36:00](https://soylentnews.org/article.pl?sid=24/11/13/0214254&from=rss) - [Nanoscale Transistors Could Enable More Efficient Electronics](https://soylentnews.org/article.pl?sid=24/11/13/0214254&from=rss)
 * [2024-11-14, 00:49:00](https://soylentnews.org/article.pl?sid=24/11/13/020239&from=rss) - [Voyager Found A Mystery On Uranus. Decades Later, NASA Solved It](https://soylentnews.org/article.pl?sid=24/11/13/020239&from=rss)
 * [2024-11-13, 20:04:00](https://soylentnews.org/article.pl?sid=24/11/13/0156223&from=rss) - [Zuckerberg Not Liable In Social Media Harm Lawsuits, Judge Rules](https://soylentnews.org/article.pl?sid=24/11/13/0156223&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-05, 09:57:00](https://soylentnews.org/article.pl?sid=24/11/04/0210246&from=rss) - [Apple Commits $1.1 Billion To Expand Satellite Messaging](https://soylentnews.org/article.pl?sid=24/11/04/0210246&from=rss)
 * [2024-11-05, 05:12:00](https://soylentnews.org/article.pl?sid=24/11/04/023249&from=rss) - [Intel's 25-Year Reign on the Dow Jones Industrial Average Has Come to an End](https://soylentnews.org/article.pl?sid=24/11/04/023249&from=rss)
 * [2024-11-05, 00:25:00](https://soylentnews.org/article.pl?sid=24/11/04/0158225&from=rss) - [Science May Have Found its First Dark-Matter Detector](https://soylentnews.org/article.pl?sid=24/11/04/0158225&from=rss)
-* [2024-11-04, 19:42:00](https://soylentnews.org/article.pl?sid=24/11/03/2239255&from=rss) - [OpenAI Launches ChatGPT With Search, Taking Google Head-on](https://soylentnews.org/article.pl?sid=24/11/03/2239255&from=rss)
 
 ## [Archives](archives/index.md)
 
