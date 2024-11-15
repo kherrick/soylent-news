@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-15](index.md)
+
+* [2024-11-15, 00:39:00](https://soylentnews.org/article.pl?sid=24/11/14/1239256&from=rss) - [It Sounds Like NASA's Moon Rocket Might be Getting Canceled](https://soylentnews.org/article.pl?sid=24/11/14/1239256&from=rss)
