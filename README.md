@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-15, 10:06:00](https://soylentnews.org/article.pl?sid=24/11/14/1247223&from=rss) - [The Rise and Fall of Heathkit](https://soylentnews.org/article.pl?sid=24/11/14/1247223&from=rss)
 * [2024-11-15, 05:22:00](https://soylentnews.org/article.pl?sid=24/11/14/1244220&from=rss) - [EU Invests €133M in Dutch Photonic Chip Plants](https://soylentnews.org/article.pl?sid=24/11/14/1244220&from=rss)
 * [2024-11-15, 00:39:00](https://soylentnews.org/article.pl?sid=24/11/14/1239256&from=rss) - [It Sounds Like NASA's Moon Rocket Might be Getting Canceled](https://soylentnews.org/article.pl?sid=24/11/14/1239256&from=rss)
 * [2024-11-14, 19:55:00](https://soylentnews.org/article.pl?sid=24/11/13/0242209&from=rss) - [Australia to Ban Social Media Until Age of 16](https://soylentnews.org/article.pl?sid=24/11/13/0242209&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-06, 09:46:00](https://soylentnews.org/article.pl?sid=24/11/05/0337209&from=rss) - [Judge's Investigation Into Patent Troll Results in Criminal Referrals](https://soylentnews.org/article.pl?sid=24/11/05/0337209&from=rss)
 * [2024-11-06, 04:58:00](https://soylentnews.org/article.pl?sid=24/11/05/0329246&from=rss) - [Reaction Engines (of SABRE and Skylon Fame) Has Gone Out of Business](https://soylentnews.org/article.pl?sid=24/11/05/0329246&from=rss)
 * [2024-11-06, 00:16:00](https://soylentnews.org/article.pl?sid=24/11/05/0327234&from=rss) - [(Why) Pascal Deserves a Second Look](https://soylentnews.org/article.pl?sid=24/11/05/0327234&from=rss)
-* [2024-11-05, 19:31:00](https://soylentnews.org/article.pl?sid=24/11/04/0222235&from=rss) - [Touchscreens Are Out, and Tactile Controls Are Back](https://soylentnews.org/article.pl?sid=24/11/04/0222235&from=rss)
 
 ## [Archives](archives/index.md)
 
