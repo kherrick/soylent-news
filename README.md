@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-15, 17:15:00](https://soylentnews.org/meta/article.pl?sid=24/11/13/2020243&from=rss) - [We've Done It - We Are Now a Completely Independent Site !!!](https://soylentnews.org/meta/article.pl?sid=24/11/13/2020243&from=rss)
 * [2024-11-15, 14:52:00](https://soylentnews.org/article.pl?sid=24/11/14/1910215&from=rss) - [Bluesky Adds 700,000 New Members as Users Flee X](https://soylentnews.org/article.pl?sid=24/11/14/1910215&from=rss)
 * [2024-11-15, 10:06:00](https://soylentnews.org/article.pl?sid=24/11/14/1247223&from=rss) - [The Rise and Fall of Heathkit](https://soylentnews.org/article.pl?sid=24/11/14/1247223&from=rss)
 * [2024-11-15, 05:22:00](https://soylentnews.org/article.pl?sid=24/11/14/1244220&from=rss) - [EU Invests €133M in Dutch Photonic Chip Plants](https://soylentnews.org/article.pl?sid=24/11/14/1244220&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-06, 19:18:00](https://soylentnews.org/article.pl?sid=24/11/05/1929209&from=rss) - [First Wooden Satellite Reaches Space](https://soylentnews.org/article.pl?sid=24/11/05/1929209&from=rss)
 * [2024-11-06, 14:34:00](https://soylentnews.org/article.pl?sid=24/11/05/1927216&from=rss) - [This Skeleton Is The First Person Ever Found From a Norse Saga](https://soylentnews.org/article.pl?sid=24/11/05/1927216&from=rss)
 * [2024-11-06, 09:46:00](https://soylentnews.org/article.pl?sid=24/11/05/0337209&from=rss) - [Judge's Investigation Into Patent Troll Results in Criminal Referrals](https://soylentnews.org/article.pl?sid=24/11/05/0337209&from=rss)
-* [2024-11-06, 04:58:00](https://soylentnews.org/article.pl?sid=24/11/05/0329246&from=rss) - [Reaction Engines (of SABRE and Skylon Fame) Has Gone Out of Business](https://soylentnews.org/article.pl?sid=24/11/05/0329246&from=rss)
 
 ## [Archives](archives/index.md)
 
