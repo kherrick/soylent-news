@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-16, 00:14:00](https://soylentnews.org/politics/article.pl?sid=24/11/14/1921200&from=rss) - [Trump Says Elon Musk Will Lead “DOGE,” a New Department of Government Efficiency](https://soylentnews.org/politics/article.pl?sid=24/11/14/1921200&from=rss)
 * [2024-11-15, 19:33:00](https://soylentnews.org/article.pl?sid=24/11/14/1917259&from=rss) - [The Onion Buys InfoWars - No Seriously!](https://soylentnews.org/article.pl?sid=24/11/14/1917259&from=rss)
 * [2024-11-15, 17:15:00](https://soylentnews.org/meta/article.pl?sid=24/11/13/2020243&from=rss) - [We've Done It - We Are Now a Completely Independent Site !!!](https://soylentnews.org/meta/article.pl?sid=24/11/13/2020243&from=rss)
 * [2024-11-15, 14:52:00](https://soylentnews.org/article.pl?sid=24/11/14/1910215&from=rss) - [Bluesky Adds 700,000 New Members as Users Flee X](https://soylentnews.org/article.pl?sid=24/11/14/1910215&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-07, 04:42:00](https://soylentnews.org/article.pl?sid=24/11/05/1943223&from=rss) - [(Stolen) Nokia Source Code for Sale.](https://soylentnews.org/article.pl?sid=24/11/05/1943223&from=rss)
 * [2024-11-06, 23:53:00](https://soylentnews.org/article.pl?sid=24/11/05/1940209&from=rss) - [Nuclear Woes for Proposed Data Centers - Amazon and Meta](https://soylentnews.org/article.pl?sid=24/11/05/1940209&from=rss)
 * [2024-11-06, 19:18:00](https://soylentnews.org/article.pl?sid=24/11/05/1929209&from=rss) - [First Wooden Satellite Reaches Space](https://soylentnews.org/article.pl?sid=24/11/05/1929209&from=rss)
-* [2024-11-06, 14:34:00](https://soylentnews.org/article.pl?sid=24/11/05/1927216&from=rss) - [This Skeleton Is The First Person Ever Found From a Norse Saga](https://soylentnews.org/article.pl?sid=24/11/05/1927216&from=rss)
 
 ## [Archives](archives/index.md)
 
