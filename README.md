@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-16, 09:40:00](https://soylentnews.org/article.pl?sid=24/11/15/1221233&from=rss) - [Pizza Hut's New Pizza Warmer Uses the PlayStation 5's Heat to Keep Your Pizza Hot](https://soylentnews.org/article.pl?sid=24/11/15/1221233&from=rss)
 * [2024-11-16, 04:58:00](https://soylentnews.org/article.pl?sid=24/11/15/1219217&from=rss) - [Bad Passwords All Over](https://soylentnews.org/article.pl?sid=24/11/15/1219217&from=rss)
 * [2024-11-16, 00:14:00](https://soylentnews.org/politics/article.pl?sid=24/11/14/1921200&from=rss) - [Trump Says Elon Musk Will Lead “DOGE,” a New Department of Government Efficiency](https://soylentnews.org/politics/article.pl?sid=24/11/14/1921200&from=rss)
 * [2024-11-15, 19:33:00](https://soylentnews.org/article.pl?sid=24/11/14/1917259&from=rss) - [The Onion Buys InfoWars - No Seriously!](https://soylentnews.org/article.pl?sid=24/11/14/1917259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-07, 14:07:00](https://soylentnews.org/article.pl?sid=24/11/06/1230212&from=rss) - [Oldest Tadpole Fossil Known To Science Dates Back 161 Million Years](https://soylentnews.org/article.pl?sid=24/11/06/1230212&from=rss)
 * [2024-11-07, 09:21:00](https://soylentnews.org/article.pl?sid=24/11/05/1951213&from=rss) - [Thousands Turned Out For Nonexistent Halloween Parade Promoted By AI Listing](https://soylentnews.org/article.pl?sid=24/11/05/1951213&from=rss)
 * [2024-11-07, 04:42:00](https://soylentnews.org/article.pl?sid=24/11/05/1943223&from=rss) - [(Stolen) Nokia Source Code for Sale.](https://soylentnews.org/article.pl?sid=24/11/05/1943223&from=rss)
-* [2024-11-06, 23:53:00](https://soylentnews.org/article.pl?sid=24/11/05/1940209&from=rss) - [Nuclear Woes for Proposed Data Centers - Amazon and Meta](https://soylentnews.org/article.pl?sid=24/11/05/1940209&from=rss)
 
 ## [Archives](archives/index.md)
 
