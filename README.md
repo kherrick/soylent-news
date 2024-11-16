@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-16, 19:09:00](https://soylentnews.org/article.pl?sid=24/11/15/1231208&from=rss) - [The Best Use of AI Ever: A 'Grandma' Built to Waste Telescammers’ Time](https://soylentnews.org/article.pl?sid=24/11/15/1231208&from=rss)
 * [2024-11-16, 14:24:00](https://soylentnews.org/article.pl?sid=24/11/15/1225228&from=rss) - [Canada Okays Bypassing Software Locks for Repairs](https://soylentnews.org/article.pl?sid=24/11/15/1225228&from=rss)
 * [2024-11-16, 09:40:00](https://soylentnews.org/article.pl?sid=24/11/15/1221233&from=rss) - [Pizza Hut's New Pizza Warmer Uses the PlayStation 5's Heat to Keep Your Pizza Hot](https://soylentnews.org/article.pl?sid=24/11/15/1221233&from=rss)
 * [2024-11-16, 04:58:00](https://soylentnews.org/article.pl?sid=24/11/15/1219217&from=rss) - [Bad Passwords All Over](https://soylentnews.org/article.pl?sid=24/11/15/1219217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-07, 23:41:00](https://soylentnews.org/article.pl?sid=24/11/07/0052225&from=rss) - [German Companies Developing Core Hydrogen Pipeline Network](https://soylentnews.org/article.pl?sid=24/11/07/0052225&from=rss)
 * [2024-11-07, 18:52:00](https://soylentnews.org/article.pl?sid=24/11/07/0049221&from=rss) - [Drugmaker Shut Down After Black Schmutz Found in Injectable Weight-Loss Drug](https://soylentnews.org/article.pl?sid=24/11/07/0049221&from=rss)
 * [2024-11-07, 14:07:00](https://soylentnews.org/article.pl?sid=24/11/06/1230212&from=rss) - [Oldest Tadpole Fossil Known To Science Dates Back 161 Million Years](https://soylentnews.org/article.pl?sid=24/11/06/1230212&from=rss)
-* [2024-11-07, 09:21:00](https://soylentnews.org/article.pl?sid=24/11/05/1951213&from=rss) - [Thousands Turned Out For Nonexistent Halloween Parade Promoted By AI Listing](https://soylentnews.org/article.pl?sid=24/11/05/1951213&from=rss)
 
 ## [Archives](archives/index.md)
 
