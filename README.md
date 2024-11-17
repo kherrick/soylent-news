@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-17, 10:15:00](https://soylentnews.org/article.pl?sid=24/11/16/1047255&from=rss) - [Apple Accused of Trapping and Ripping Off 40m iCloud Customers](https://soylentnews.org/article.pl?sid=24/11/16/1047255&from=rss)
 * [2024-11-17, 05:32:00](https://soylentnews.org/article.pl?sid=24/11/15/1713239&from=rss) - [Guardian Will No Longer Post on Elon Musk's X](https://soylentnews.org/article.pl?sid=24/11/15/1713239&from=rss)
 * [2024-11-17, 00:55:00](https://soylentnews.org/article.pl?sid=24/11/15/178218&from=rss) - [New Elliptic Curve Breaks 18-Year-Old Record](https://soylentnews.org/article.pl?sid=24/11/15/178218&from=rss)
 * [2024-11-16, 19:09:00](https://soylentnews.org/article.pl?sid=24/11/15/1231208&from=rss) - [The Best Use of AI Ever: A 'Grandma' Built to Waste Telescammers’ Time](https://soylentnews.org/article.pl?sid=24/11/15/1231208&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-08, 12:55:00](https://soylentnews.org/article.pl?sid=24/11/07/016203&from=rss) - [A Zombie Star’s Spiky Filaments Shed Light On A 12th Century Supernova](https://soylentnews.org/article.pl?sid=24/11/07/016203&from=rss)
 * [2024-11-08, 08:11:00](https://soylentnews.org/article.pl?sid=24/11/07/012213&from=rss) - [Drones Equipped With Self-Monitoring \"Nervous System\" Promise Longer, Safer Flights](https://soylentnews.org/article.pl?sid=24/11/07/012213&from=rss)
 * [2024-11-08, 04:26:00](https://soylentnews.org/article.pl?sid=24/11/07/0059202&from=rss) - [Telecoms Bankroll More Misleading Attacks On Community Broadband Networks ](https://soylentnews.org/article.pl?sid=24/11/07/0059202&from=rss)
-* [2024-11-07, 23:41:00](https://soylentnews.org/article.pl?sid=24/11/07/0052225&from=rss) - [German Companies Developing Core Hydrogen Pipeline Network](https://soylentnews.org/article.pl?sid=24/11/07/0052225&from=rss)
 
 ## [Archives](archives/index.md)
 
