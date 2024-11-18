@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-18, 19:36:00](https://soylentnews.org/article.pl?sid=24/11/18/048251&from=rss) - [Eureka Moments](https://soylentnews.org/article.pl?sid=24/11/18/048251&from=rss)
 * [2024-11-18, 14:51:00](https://soylentnews.org/article.pl?sid=24/11/18/043217&from=rss) - [UK's DARPA Clone Faces Tough Test as Govt Considers Funding](https://soylentnews.org/article.pl?sid=24/11/18/043217&from=rss)
 * [2024-11-18, 10:10:00](https://soylentnews.org/article.pl?sid=24/11/17/1551243&from=rss) - [Japan Introduces $65 Billion Initiative to Boost Domestic Chip Production](https://soylentnews.org/article.pl?sid=24/11/17/1551243&from=rss)
 * [2024-11-18, 05:27:00](https://soylentnews.org/article.pl?sid=24/11/17/1548245&from=rss) - [Accelerated Muons Bring Next-Gen Particle Colliders Closer to Reality](https://soylentnews.org/article.pl?sid=24/11/17/1548245&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-09, 14:59:00](https://soylentnews.org/article.pl?sid=24/11/08/2020211&from=rss) - [How China is Cracking Down on Punny Dissent](https://soylentnews.org/article.pl?sid=24/11/08/2020211&from=rss)
 * [2024-11-09, 11:55:00](https://soylentnews.org/article.pl?sid=24/11/09/0542219&from=rss) - [Verizon, AT&T Tell Courts: FCC Can't Punish Us for Selling User Location Data](https://soylentnews.org/article.pl?sid=24/11/09/0542219&from=rss)
 * [2024-11-09, 10:14:00](https://soylentnews.org/article.pl?sid=24/11/08/1827212&from=rss) - [German Receives 1700 Identical Letters From Taxman](https://soylentnews.org/article.pl?sid=24/11/08/1827212&from=rss)
-* [2024-11-09, 07:55:00](https://soylentnews.org/article.pl?sid=24/11/08/0237239&from=rss) - [Govt IT Contractors Charged With 'Defrauding' the Feds](https://soylentnews.org/article.pl?sid=24/11/08/0237239&from=rss)
 
 ## [Archives](archives/index.md)
 
