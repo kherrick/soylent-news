@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-18, 00:38:00](https://soylentnews.org/article.pl?sid=24/11/16/1214216&from=rss) - [What Would You Do If There's No One at the Hertz Rental Counter?](https://soylentnews.org/article.pl?sid=24/11/16/1214216&from=rss)
 * [2024-11-17, 19:51:00](https://soylentnews.org/article.pl?sid=24/11/16/1135239&from=rss) - [Volt Typhoon And Its Botnet Surge Back With A Vengeance](https://soylentnews.org/article.pl?sid=24/11/16/1135239&from=rss)
 * [2024-11-17, 15:03:00](https://soylentnews.org/article.pl?sid=24/11/16/1124212&from=rss) - [Manjaro is Experimenting with \"Opt-Out Telemetry\"](https://soylentnews.org/article.pl?sid=24/11/16/1124212&from=rss)
 * [2024-11-17, 10:15:00](https://soylentnews.org/article.pl?sid=24/11/16/1047255&from=rss) - [Apple Accused of Trapping and Ripping Off 40m iCloud Customers](https://soylentnews.org/article.pl?sid=24/11/16/1047255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-09, 03:12:00](https://soylentnews.org/article.pl?sid=24/11/08/0233221&from=rss) - [Since the ’60s, Ford Has Stored Cars Underground in a Kansas City Cave](https://soylentnews.org/article.pl?sid=24/11/08/0233221&from=rss)
 * [2024-11-08, 22:25:00](https://soylentnews.org/article.pl?sid=24/11/08/0226225&from=rss) - [Singapore To Increase Road Capacity By GPS Tracking Vehicles](https://soylentnews.org/article.pl?sid=24/11/08/0226225&from=rss)
 * [2024-11-08, 17:37:00](https://soylentnews.org/article.pl?sid=24/11/07/018220&from=rss) - [A(g)iling Mozilla](https://soylentnews.org/article.pl?sid=24/11/07/018220&from=rss)
-* [2024-11-08, 12:55:00](https://soylentnews.org/article.pl?sid=24/11/07/016203&from=rss) - [A Zombie Star’s Spiky Filaments Shed Light On A 12th Century Supernova](https://soylentnews.org/article.pl?sid=24/11/07/016203&from=rss)
 
 ## [Archives](archives/index.md)
 
