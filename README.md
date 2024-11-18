@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-18, 10:10:00](https://soylentnews.org/article.pl?sid=24/11/17/1551243&from=rss) - [Japan Introduces $65 Billion Initiative to Boost Domestic Chip Production](https://soylentnews.org/article.pl?sid=24/11/17/1551243&from=rss)
 * [2024-11-18, 05:27:00](https://soylentnews.org/article.pl?sid=24/11/17/1548245&from=rss) - [Accelerated Muons Bring Next-Gen Particle Colliders Closer to Reality](https://soylentnews.org/article.pl?sid=24/11/17/1548245&from=rss)
 * [2024-11-18, 00:38:00](https://soylentnews.org/article.pl?sid=24/11/16/1214216&from=rss) - [What Would You Do If There's No One at the Hertz Rental Counter?](https://soylentnews.org/article.pl?sid=24/11/16/1214216&from=rss)
 * [2024-11-17, 19:51:00](https://soylentnews.org/article.pl?sid=24/11/16/1135239&from=rss) - [Volt Typhoon And Its Botnet Surge Back With A Vengeance](https://soylentnews.org/article.pl?sid=24/11/16/1135239&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-09, 10:14:00](https://soylentnews.org/article.pl?sid=24/11/08/1827212&from=rss) - [German Receives 1700 Identical Letters From Taxman](https://soylentnews.org/article.pl?sid=24/11/08/1827212&from=rss)
 * [2024-11-09, 07:55:00](https://soylentnews.org/article.pl?sid=24/11/08/0237239&from=rss) - [Govt IT Contractors Charged With 'Defrauding' the Feds](https://soylentnews.org/article.pl?sid=24/11/08/0237239&from=rss)
 * [2024-11-09, 03:12:00](https://soylentnews.org/article.pl?sid=24/11/08/0233221&from=rss) - [Since the ’60s, Ford Has Stored Cars Underground in a Kansas City Cave](https://soylentnews.org/article.pl?sid=24/11/08/0233221&from=rss)
-* [2024-11-08, 22:25:00](https://soylentnews.org/article.pl?sid=24/11/08/0226225&from=rss) - [Singapore To Increase Road Capacity By GPS Tracking Vehicles](https://soylentnews.org/article.pl?sid=24/11/08/0226225&from=rss)
 
 ## [Archives](archives/index.md)
 
