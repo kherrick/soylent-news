@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-19, 05:11:00](https://soylentnews.org/article.pl?sid=24/11/18/1437227&from=rss) - [Cargo Cult Programming](https://soylentnews.org/article.pl?sid=24/11/18/1437227&from=rss)
 * [2024-11-19, 00:23:00](https://soylentnews.org/article.pl?sid=24/11/18/0415253&from=rss) - [Not Enough Babies](https://soylentnews.org/article.pl?sid=24/11/18/0415253&from=rss)
 * [2024-11-18, 19:36:00](https://soylentnews.org/article.pl?sid=24/11/18/048251&from=rss) - [Eureka Moments](https://soylentnews.org/article.pl?sid=24/11/18/048251&from=rss)
 * [2024-11-18, 14:51:00](https://soylentnews.org/article.pl?sid=24/11/18/043217&from=rss) - [UK's DARPA Clone Faces Tough Test as Govt Considers Funding](https://soylentnews.org/article.pl?sid=24/11/18/043217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-10, 00:35:00](https://soylentnews.org/article.pl?sid=24/11/08/2028216&from=rss) - [AOL’s ‘You’ve Got Mail’ Voice, Elwood Edwards, Dies at Age 74](https://soylentnews.org/article.pl?sid=24/11/08/2028216&from=rss)
 * [2024-11-09, 19:42:00](https://soylentnews.org/article.pl?sid=24/11/08/2023243&from=rss) - [Windows Server 2025 Takes Admins By Surprise](https://soylentnews.org/article.pl?sid=24/11/08/2023243&from=rss)
 * [2024-11-09, 14:59:00](https://soylentnews.org/article.pl?sid=24/11/08/2020211&from=rss) - [How China is Cracking Down on Punny Dissent](https://soylentnews.org/article.pl?sid=24/11/08/2020211&from=rss)
-* [2024-11-09, 11:55:00](https://soylentnews.org/article.pl?sid=24/11/09/0542219&from=rss) - [Verizon, AT&T Tell Courts: FCC Can't Punish Us for Selling User Location Data](https://soylentnews.org/article.pl?sid=24/11/09/0542219&from=rss)
 
 ## [Archives](archives/index.md)
 
