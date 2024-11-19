@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-19, 14:42:00](https://soylentnews.org/article.pl?sid=24/11/18/1445209&from=rss) - [Ofcom To Hold UK Auction For mmWave Spectrum Next Year ](https://soylentnews.org/article.pl?sid=24/11/18/1445209&from=rss)
 * [2024-11-19, 09:56:00](https://soylentnews.org/article.pl?sid=24/11/18/0423202&from=rss) - [Migratory Birds can use Earth's Magnetic Field Like a GPS](https://soylentnews.org/article.pl?sid=24/11/18/0423202&from=rss)
 * [2024-11-19, 05:11:00](https://soylentnews.org/article.pl?sid=24/11/18/1437227&from=rss) - [Cargo Cult Programming](https://soylentnews.org/article.pl?sid=24/11/18/1437227&from=rss)
 * [2024-11-19, 00:23:00](https://soylentnews.org/article.pl?sid=24/11/18/0415253&from=rss) - [Not Enough Babies](https://soylentnews.org/article.pl?sid=24/11/18/0415253&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-10, 10:04:00](https://soylentnews.org/article.pl?sid=24/11/08/2037232&from=rss) - [Carbon Emissions From Private Jets Have Exploded In Recent Years](https://soylentnews.org/article.pl?sid=24/11/08/2037232&from=rss)
 * [2024-11-10, 05:20:00](https://soylentnews.org/article.pl?sid=24/11/08/2032230&from=rss) - [Torvalds Patch Improves Linux Performance By 2.6%](https://soylentnews.org/article.pl?sid=24/11/08/2032230&from=rss)
 * [2024-11-10, 00:35:00](https://soylentnews.org/article.pl?sid=24/11/08/2028216&from=rss) - [AOL’s ‘You’ve Got Mail’ Voice, Elwood Edwards, Dies at Age 74](https://soylentnews.org/article.pl?sid=24/11/08/2028216&from=rss)
-* [2024-11-09, 19:42:00](https://soylentnews.org/article.pl?sid=24/11/08/2023243&from=rss) - [Windows Server 2025 Takes Admins By Surprise](https://soylentnews.org/article.pl?sid=24/11/08/2023243&from=rss)
 
 ## [Archives](archives/index.md)
 
