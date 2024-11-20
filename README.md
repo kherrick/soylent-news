@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-20, 14:26:00](https://soylentnews.org/article.pl?sid=24/11/19/0351227&from=rss) - [Scientists Discover Mysterious Deep Sea Creature. It Hunts With A Hood.](https://soylentnews.org/article.pl?sid=24/11/19/0351227&from=rss)
 * [2024-11-20, 09:41:00](https://soylentnews.org/article.pl?sid=24/11/19/0333210&from=rss) - [Senators Ask Cyber Review Board to Conduct Investigation on Chinese Hack Group](https://soylentnews.org/article.pl?sid=24/11/19/0333210&from=rss)
 * [2024-11-20, 04:53:00](https://soylentnews.org/article.pl?sid=24/11/19/0330214&from=rss) - [Jawboning in Plain Sight: The Unconstitutional Censorship Tolerated by the DMCA](https://soylentnews.org/article.pl?sid=24/11/19/0330214&from=rss)
 * [2024-11-20, 00:10:00](https://soylentnews.org/article.pl?sid=24/11/19/0328202&from=rss) - [US Order Blocking TSMC's AI Chip Shipments Won't Hurt Apple](https://soylentnews.org/article.pl?sid=24/11/19/0328202&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-11, 10:00:00](https://soylentnews.org/article.pl?sid=24/11/10/0357206&from=rss) - [Startup Turns Mining Waste Into Critical Metals For The U.S.](https://soylentnews.org/article.pl?sid=24/11/10/0357206&from=rss)
 * [2024-11-11, 05:15:00](https://soylentnews.org/article.pl?sid=24/11/10/0349246&from=rss) - [Stanford Researchers Develop Molecule That Forces Cancer Cells To Kill Themselves](https://soylentnews.org/article.pl?sid=24/11/10/0349246&from=rss)
 * [2024-11-11, 00:28:00](https://soylentnews.org/article.pl?sid=24/11/09/0617229&from=rss) - [Claude AI to Process Secret Government Data Through New Palantir Deal](https://soylentnews.org/article.pl?sid=24/11/09/0617229&from=rss)
-* [2024-11-10, 19:41:00](https://soylentnews.org/article.pl?sid=24/11/09/0554243&from=rss) - [Making Electronic Calipers](https://soylentnews.org/article.pl?sid=24/11/09/0554243&from=rss)
 
 ## [Archives](archives/index.md)
 
