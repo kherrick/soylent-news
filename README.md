@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-21, 14:28:00](https://soylentnews.org/article.pl?sid=24/11/20/0454249&from=rss) - [Tire Particles as a Distinct Source of Environmental Damage](https://soylentnews.org/article.pl?sid=24/11/20/0454249&from=rss)
 * [2024-11-21, 09:42:00](https://soylentnews.org/article.pl?sid=24/11/20/0453227&from=rss) - [How Italy Became an Unexpected Spyware Hub](https://soylentnews.org/article.pl?sid=24/11/20/0453227&from=rss)
 * [2024-11-21, 04:59:00](https://soylentnews.org/article.pl?sid=24/11/20/0450234&from=rss) - [Weekends Were a Mistake, Says Infosys Co-Founder Murthy](https://soylentnews.org/article.pl?sid=24/11/20/0450234&from=rss)
 * [2024-11-21, 00:14:00](https://soylentnews.org/article.pl?sid=24/11/20/0445208&from=rss) - [T-Mobile Hacked in Massive Chinese Breach of Telecom Networks, WSJ Reports](https://soylentnews.org/article.pl?sid=24/11/20/0445208&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-12, 10:41:00](https://soylentnews.org/article.pl?sid=24/11/10/1625222&from=rss) - [Public Sector Cyber Break-Ins: Our Money, Our Right To Know](https://soylentnews.org/article.pl?sid=24/11/10/1625222&from=rss)
 * [2024-11-12, 05:54:00](https://soylentnews.org/article.pl?sid=24/11/10/043255&from=rss) - [Canada Orders TikTok to Shut Down its Business Operations in the Country Due to 'National Security'](https://soylentnews.org/article.pl?sid=24/11/10/043255&from=rss)
 * [2024-11-12, 00:10:00](https://soylentnews.org/article.pl?sid=24/11/10/0411233&from=rss) - [N Korea May Receive Tech In Exchange For Military Support](https://soylentnews.org/article.pl?sid=24/11/10/0411233&from=rss)
-* [2024-11-11, 19:26:00](https://soylentnews.org/article.pl?sid=24/11/10/047251&from=rss) - [Chinese Rover Finds Further Evidence for an Ancient Ocean on Mars](https://soylentnews.org/article.pl?sid=24/11/10/047251&from=rss)
 
 ## [Archives](archives/index.md)
 
