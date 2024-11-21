@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-21, 00:14:00](https://soylentnews.org/article.pl?sid=24/11/20/0445208&from=rss) - [T-Mobile Hacked in Massive Chinese Breach of Telecom Networks, WSJ Reports](https://soylentnews.org/article.pl?sid=24/11/20/0445208&from=rss)
 * [2024-11-20, 19:31:00](https://soylentnews.org/article.pl?sid=24/11/19/0357249&from=rss) - [NASA May Have Inadvertently Killed Life in Martian Sample, Scientist Says](https://soylentnews.org/article.pl?sid=24/11/19/0357249&from=rss)
 * [2024-11-20, 14:26:00](https://soylentnews.org/article.pl?sid=24/11/19/0351227&from=rss) - [Scientists Discover Mysterious Deep Sea Creature. It Hunts With A Hood.](https://soylentnews.org/article.pl?sid=24/11/19/0351227&from=rss)
 * [2024-11-20, 09:41:00](https://soylentnews.org/article.pl?sid=24/11/19/0333210&from=rss) - [Senators Ask Cyber Review Board to Conduct Investigation on Chinese Hack Group](https://soylentnews.org/article.pl?sid=24/11/19/0333210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-11, 19:26:00](https://soylentnews.org/article.pl?sid=24/11/10/047251&from=rss) - [Chinese Rover Finds Further Evidence for an Ancient Ocean on Mars](https://soylentnews.org/article.pl?sid=24/11/10/047251&from=rss)
 * [2024-11-11, 15:41:00](https://soylentnews.org/article.pl?sid=24/11/10/0626232&from=rss) - [Skynet-1A Moved](https://soylentnews.org/article.pl?sid=24/11/10/0626232&from=rss)
 * [2024-11-11, 10:00:00](https://soylentnews.org/article.pl?sid=24/11/10/0357206&from=rss) - [Startup Turns Mining Waste Into Critical Metals For The U.S.](https://soylentnews.org/article.pl?sid=24/11/10/0357206&from=rss)
-* [2024-11-11, 05:15:00](https://soylentnews.org/article.pl?sid=24/11/10/0349246&from=rss) - [Stanford Researchers Develop Molecule That Forces Cancer Cells To Kill Themselves](https://soylentnews.org/article.pl?sid=24/11/10/0349246&from=rss)
 
 ## [Archives](archives/index.md)
 
