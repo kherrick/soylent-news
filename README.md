@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-22, 05:22:00](https://soylentnews.org/article.pl?sid=24/11/20/236209&from=rss) - [DOJ (Might) Want Alphabet to Sell Chrome](https://soylentnews.org/article.pl?sid=24/11/20/236209&from=rss)
 * [2024-11-22, 00:01:00](https://soylentnews.org/article.pl?sid=24/11/20/2256211&from=rss) - [SpaceX’s Shotwell Says US Regulators Must ‘Go Faster’](https://soylentnews.org/article.pl?sid=24/11/20/2256211&from=rss)
 * [2024-11-21, 19:15:00](https://soylentnews.org/article.pl?sid=24/11/20/2252220&from=rss) - [Two Undersea Internet Cables Connecting Finland and Sweden to Europe Have Been Cut](https://soylentnews.org/article.pl?sid=24/11/20/2252220&from=rss)
 * [2024-11-21, 14:28:00](https://soylentnews.org/article.pl?sid=24/11/20/0454249&from=rss) - [Tire Particles as a Distinct Source of Environmental Damage](https://soylentnews.org/article.pl?sid=24/11/20/0454249&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-13, 01:09:00](https://soylentnews.org/article.pl?sid=24/11/11/1959246&from=rss) - [Bird Flu Antibodies Found In Dairy Workers In Michigan And Colorado](https://soylentnews.org/article.pl?sid=24/11/11/1959246&from=rss)
 * [2024-11-12, 20:16:00](https://soylentnews.org/article.pl?sid=24/11/11/1957230&from=rss) - [Research Monkeys Still Having a Ball Days After Busting Out of Lab, Police Say](https://soylentnews.org/article.pl?sid=24/11/11/1957230&from=rss)
 * [2024-11-12, 15:23:00](https://soylentnews.org/article.pl?sid=24/11/11/1954232&from=rss) - [Biden Administration to Support Controversial UN Cyber Treaty](https://soylentnews.org/article.pl?sid=24/11/11/1954232&from=rss)
-* [2024-11-12, 10:41:00](https://soylentnews.org/article.pl?sid=24/11/10/1625222&from=rss) - [Public Sector Cyber Break-Ins: Our Money, Our Right To Know](https://soylentnews.org/article.pl?sid=24/11/10/1625222&from=rss)
 
 ## [Archives](archives/index.md)
 
