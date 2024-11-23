@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-23, 10:03:00](https://soylentnews.org/article.pl?sid=24/11/22/0244227&from=rss) - [Study Traces the Spicy History of Chili Peppers](https://soylentnews.org/article.pl?sid=24/11/22/0244227&from=rss)
 * [2024-11-23, 05:18:00](https://soylentnews.org/article.pl?sid=24/11/22/0238243&from=rss) - [India Slaps Meta With Five-Year Info-Sharing Ban](https://soylentnews.org/article.pl?sid=24/11/22/0238243&from=rss)
 * [2024-11-23, 00:30:00](https://soylentnews.org/article.pl?sid=24/11/21/0216232&from=rss) - [Scientists Want to Know Why Some People Don't Have a Mind's Eye](https://soylentnews.org/article.pl?sid=24/11/21/0216232&from=rss)
 * [2024-11-22, 19:43:00](https://soylentnews.org/article.pl?sid=24/11/20/2315249&from=rss) - [El Capitan Ranked The Most Powerful Supercomputer In The World](https://soylentnews.org/article.pl?sid=24/11/20/2315249&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-14, 05:36:00](https://soylentnews.org/article.pl?sid=24/11/13/0214254&from=rss) - [Nanoscale Transistors Could Enable More Efficient Electronics](https://soylentnews.org/article.pl?sid=24/11/13/0214254&from=rss)
 * [2024-11-14, 00:49:00](https://soylentnews.org/article.pl?sid=24/11/13/020239&from=rss) - [Voyager Found A Mystery On Uranus. Decades Later, NASA Solved It](https://soylentnews.org/article.pl?sid=24/11/13/020239&from=rss)
 * [2024-11-13, 20:04:00](https://soylentnews.org/article.pl?sid=24/11/13/0156223&from=rss) - [Zuckerberg Not Liable In Social Media Harm Lawsuits, Judge Rules](https://soylentnews.org/article.pl?sid=24/11/13/0156223&from=rss)
-* [2024-11-13, 15:19:00](https://soylentnews.org/article.pl?sid=24/11/13/0134241&from=rss) - [This Mobile 3D Printer Can Print Directly on Your Floor](https://soylentnews.org/article.pl?sid=24/11/13/0134241&from=rss)
 
 ## [Archives](archives/index.md)
 
