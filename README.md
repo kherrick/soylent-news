@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-23, 19:31:00](https://soylentnews.org/article.pl?sid=24/11/22/032257&from=rss) - [It’s Time To Replace TCP In The Datacenter](https://soylentnews.org/article.pl?sid=24/11/22/032257&from=rss)
 * [2024-11-23, 14:46:00](https://soylentnews.org/article.pl?sid=24/11/22/0247248&from=rss) - [AI-Powered Robot Talks a Dozen Other Bots Into Quitting Their Jobs in Terrifying Security Footage](https://soylentnews.org/article.pl?sid=24/11/22/0247248&from=rss)
 * [2024-11-23, 10:03:00](https://soylentnews.org/article.pl?sid=24/11/22/0244227&from=rss) - [Study Traces the Spicy History of Chili Peppers](https://soylentnews.org/article.pl?sid=24/11/22/0244227&from=rss)
 * [2024-11-23, 05:18:00](https://soylentnews.org/article.pl?sid=24/11/22/0238243&from=rss) - [India Slaps Meta With Five-Year Info-Sharing Ban](https://soylentnews.org/article.pl?sid=24/11/22/0238243&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-14, 15:09:00](https://soylentnews.org/article.pl?sid=24/11/13/0233202&from=rss) - [Criminal Crypto Launderer Gets 12.5 Years in Prison](https://soylentnews.org/article.pl?sid=24/11/13/0233202&from=rss)
 * [2024-11-14, 10:22:00](https://soylentnews.org/article.pl?sid=24/11/13/0221206&from=rss) - [Rideshare Drivers in Massachusetts Can Unionize Without Being Full-Time Employees](https://soylentnews.org/article.pl?sid=24/11/13/0221206&from=rss)
 * [2024-11-14, 05:36:00](https://soylentnews.org/article.pl?sid=24/11/13/0214254&from=rss) - [Nanoscale Transistors Could Enable More Efficient Electronics](https://soylentnews.org/article.pl?sid=24/11/13/0214254&from=rss)
-* [2024-11-14, 00:49:00](https://soylentnews.org/article.pl?sid=24/11/13/020239&from=rss) - [Voyager Found A Mystery On Uranus. Decades Later, NASA Solved It](https://soylentnews.org/article.pl?sid=24/11/13/020239&from=rss)
 
 ## [Archives](archives/index.md)
 
