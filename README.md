@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-24, 14:26:00](https://soylentnews.org/article.pl?sid=24/11/23/047234&from=rss) - ['FYI. a Warrant Isn't Needed': Secret Service Says You Agreed to be Tracked With Location Data](https://soylentnews.org/article.pl?sid=24/11/23/047234&from=rss)
 * [2024-11-24, 09:44:00](https://soylentnews.org/article.pl?sid=24/11/23/0135229&from=rss) - [China's Moon Rock Samples Suggest Durable Lunar Volcanoes](https://soylentnews.org/article.pl?sid=24/11/23/0135229&from=rss)
 * [2024-11-24, 04:57:00](https://soylentnews.org/article.pl?sid=24/11/23/0129250&from=rss) - [Microsoft Starts Boiling The Copilot Frog](https://soylentnews.org/article.pl?sid=24/11/23/0129250&from=rss)
 * [2024-11-24, 00:16:00](https://soylentnews.org/article.pl?sid=24/11/23/0119238&from=rss) - [Judge Rules SiriusXM's Annoying Cancellation Process is Illegal](https://soylentnews.org/article.pl?sid=24/11/23/0119238&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-15, 10:06:00](https://soylentnews.org/article.pl?sid=24/11/14/1247223&from=rss) - [The Rise and Fall of Heathkit](https://soylentnews.org/article.pl?sid=24/11/14/1247223&from=rss)
 * [2024-11-15, 05:22:00](https://soylentnews.org/article.pl?sid=24/11/14/1244220&from=rss) - [EU Invests €133M in Dutch Photonic Chip Plants](https://soylentnews.org/article.pl?sid=24/11/14/1244220&from=rss)
 * [2024-11-15, 00:39:00](https://soylentnews.org/article.pl?sid=24/11/14/1239256&from=rss) - [It Sounds Like NASA's Moon Rocket Might be Getting Canceled](https://soylentnews.org/article.pl?sid=24/11/14/1239256&from=rss)
-* [2024-11-14, 19:55:00](https://soylentnews.org/article.pl?sid=24/11/13/0242209&from=rss) - [Australia to Ban Social Media Until Age of 16](https://soylentnews.org/article.pl?sid=24/11/13/0242209&from=rss)
 
 ## [Archives](archives/index.md)
 
