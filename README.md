@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-25, 19:57:00](https://soylentnews.org/article.pl?sid=24/11/23/1920222&from=rss) - [What Graykey Iphone Hack Tool Can Unlock](https://soylentnews.org/article.pl?sid=24/11/23/1920222&from=rss)
 * [2024-11-25, 14:13:00](https://soylentnews.org/article.pl?sid=24/11/23/1916252&from=rss) - [Python Crypto Library Updated to Steal Private Keys](https://soylentnews.org/article.pl?sid=24/11/23/1916252&from=rss)
 * [2024-11-25, 09:23:00](https://soylentnews.org/article.pl?sid=24/11/23/1913245&from=rss) - [Being In Space Makes It Harder For Astronauts To Think Quickly](https://soylentnews.org/article.pl?sid=24/11/23/1913245&from=rss)
 * [2024-11-25, 04:39:00](https://soylentnews.org/article.pl?sid=24/11/23/1910218&from=rss) - [European EV Battery Maker Files for Bankruptcy](https://soylentnews.org/article.pl?sid=24/11/23/1910218&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-16, 09:40:00](https://soylentnews.org/article.pl?sid=24/11/15/1221233&from=rss) - [Pizza Hut's New Pizza Warmer Uses the PlayStation 5's Heat to Keep Your Pizza Hot](https://soylentnews.org/article.pl?sid=24/11/15/1221233&from=rss)
 * [2024-11-16, 04:58:00](https://soylentnews.org/article.pl?sid=24/11/15/1219217&from=rss) - [Bad Passwords All Over](https://soylentnews.org/article.pl?sid=24/11/15/1219217&from=rss)
 * [2024-11-16, 00:14:00](https://soylentnews.org/politics/article.pl?sid=24/11/14/1921200&from=rss) - [Trump Says Elon Musk Will Lead “DOGE,” a New Department of Government Efficiency](https://soylentnews.org/politics/article.pl?sid=24/11/14/1921200&from=rss)
-* [2024-11-15, 19:33:00](https://soylentnews.org/article.pl?sid=24/11/14/1917259&from=rss) - [The Onion Buys InfoWars - No Seriously!](https://soylentnews.org/article.pl?sid=24/11/14/1917259&from=rss)
 
 ## [Archives](archives/index.md)
 
