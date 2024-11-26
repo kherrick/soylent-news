@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-26, 05:26:00](https://soylentnews.org/article.pl?sid=24/11/25/030259&from=rss) - [Mathematical Thinking Isn't What You Think It Is](https://soylentnews.org/article.pl?sid=24/11/25/030259&from=rss)
 * [2024-11-26, 00:44:00](https://soylentnews.org/article.pl?sid=24/11/24/1321203&from=rss) - [Beyond the Milky Way](https://soylentnews.org/article.pl?sid=24/11/24/1321203&from=rss)
 * [2024-11-25, 19:57:00](https://soylentnews.org/article.pl?sid=24/11/23/1920222&from=rss) - [What Graykey Iphone Hack Tool Can Unlock](https://soylentnews.org/article.pl?sid=24/11/23/1920222&from=rss)
 * [2024-11-25, 14:13:00](https://soylentnews.org/article.pl?sid=24/11/23/1916252&from=rss) - [Python Crypto Library Updated to Steal Private Keys](https://soylentnews.org/article.pl?sid=24/11/23/1916252&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-16, 19:09:00](https://soylentnews.org/article.pl?sid=24/11/15/1231208&from=rss) - [The Best Use of AI Ever: A 'Grandma' Built to Waste Telescammers’ Time](https://soylentnews.org/article.pl?sid=24/11/15/1231208&from=rss)
 * [2024-11-16, 14:24:00](https://soylentnews.org/article.pl?sid=24/11/15/1225228&from=rss) - [Canada Okays Bypassing Software Locks for Repairs](https://soylentnews.org/article.pl?sid=24/11/15/1225228&from=rss)
 * [2024-11-16, 09:40:00](https://soylentnews.org/article.pl?sid=24/11/15/1221233&from=rss) - [Pizza Hut's New Pizza Warmer Uses the PlayStation 5's Heat to Keep Your Pizza Hot](https://soylentnews.org/article.pl?sid=24/11/15/1221233&from=rss)
-* [2024-11-16, 04:58:00](https://soylentnews.org/article.pl?sid=24/11/15/1219217&from=rss) - [Bad Passwords All Over](https://soylentnews.org/article.pl?sid=24/11/15/1219217&from=rss)
 
 ## [Archives](archives/index.md)
 
