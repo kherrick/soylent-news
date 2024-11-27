@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-27, 09:55:00](https://soylentnews.org/article.pl?sid=24/11/26/1226204&from=rss) - [Odd Smell Coming From Russian Spacecraft Docked at Space Station](https://soylentnews.org/article.pl?sid=24/11/26/1226204&from=rss)
 * [2024-11-27, 05:12:00](https://soylentnews.org/article.pl?sid=24/11/26/1223216&from=rss) - [Which Power Plant Does My Electricity Come From?](https://soylentnews.org/article.pl?sid=24/11/26/1223216&from=rss)
 * [2024-11-27, 00:26:00](https://soylentnews.org/article.pl?sid=24/11/26/1218207&from=rss) - [NASA: Mystery of Life’s Handedness Deepens](https://soylentnews.org/article.pl?sid=24/11/26/1218207&from=rss)
 * [2024-11-26, 19:42:00](https://soylentnews.org/article.pl?sid=24/11/25/1248213&from=rss) - [Farming Robot Kills 200,000 Weeds Per Hour With Lasers](https://soylentnews.org/article.pl?sid=24/11/25/1248213&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-18, 00:38:00](https://soylentnews.org/article.pl?sid=24/11/16/1214216&from=rss) - [What Would You Do If There's No One at the Hertz Rental Counter?](https://soylentnews.org/article.pl?sid=24/11/16/1214216&from=rss)
 * [2024-11-17, 19:51:00](https://soylentnews.org/article.pl?sid=24/11/16/1135239&from=rss) - [Volt Typhoon And Its Botnet Surge Back With A Vengeance](https://soylentnews.org/article.pl?sid=24/11/16/1135239&from=rss)
 * [2024-11-17, 15:03:00](https://soylentnews.org/article.pl?sid=24/11/16/1124212&from=rss) - [Manjaro is Experimenting with \"Opt-Out Telemetry\"](https://soylentnews.org/article.pl?sid=24/11/16/1124212&from=rss)
-* [2024-11-17, 10:15:00](https://soylentnews.org/article.pl?sid=24/11/16/1047255&from=rss) - [Apple Accused of Trapping and Ripping Off 40m iCloud Customers](https://soylentnews.org/article.pl?sid=24/11/16/1047255&from=rss)
 
 ## [Archives](archives/index.md)
 
