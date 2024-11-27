@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-27, 00:26:00](https://soylentnews.org/article.pl?sid=24/11/26/1218207&from=rss) - [NASA: Mystery of Life’s Handedness Deepens](https://soylentnews.org/article.pl?sid=24/11/26/1218207&from=rss)
 * [2024-11-26, 19:42:00](https://soylentnews.org/article.pl?sid=24/11/25/1248213&from=rss) - [Farming Robot Kills 200,000 Weeds Per Hour With Lasers](https://soylentnews.org/article.pl?sid=24/11/25/1248213&from=rss)
 * [2024-11-26, 14:56:00](https://soylentnews.org/article.pl?sid=24/11/25/0311243&from=rss) - [Feds Charge 5 Hackers Linked to Scattered Spider Cybercrime Group](https://soylentnews.org/article.pl?sid=24/11/25/0311243&from=rss)
 * [2024-11-26, 10:11:00](https://soylentnews.org/article.pl?sid=24/11/25/038240&from=rss) - [Senator and Congressman Call for Crackdown on VeriSign Business Practices](https://soylentnews.org/article.pl?sid=24/11/25/038240&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-17, 15:03:00](https://soylentnews.org/article.pl?sid=24/11/16/1124212&from=rss) - [Manjaro is Experimenting with \"Opt-Out Telemetry\"](https://soylentnews.org/article.pl?sid=24/11/16/1124212&from=rss)
 * [2024-11-17, 10:15:00](https://soylentnews.org/article.pl?sid=24/11/16/1047255&from=rss) - [Apple Accused of Trapping and Ripping Off 40m iCloud Customers](https://soylentnews.org/article.pl?sid=24/11/16/1047255&from=rss)
 * [2024-11-17, 05:32:00](https://soylentnews.org/article.pl?sid=24/11/15/1713239&from=rss) - [Guardian Will No Longer Post on Elon Musk's X](https://soylentnews.org/article.pl?sid=24/11/15/1713239&from=rss)
-* [2024-11-17, 00:55:00](https://soylentnews.org/article.pl?sid=24/11/15/178218&from=rss) - [New Elliptic Curve Breaks 18-Year-Old Record](https://soylentnews.org/article.pl?sid=24/11/15/178218&from=rss)
 
 ## [Archives](archives/index.md)
 
