@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-27, 19:28:00](https://soylentnews.org/article.pl?sid=24/11/27/0320244&from=rss) - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://soylentnews.org/article.pl?sid=24/11/27/0320244&from=rss)
 * [2024-11-27, 14:40:00](https://soylentnews.org/article.pl?sid=24/11/26/1234214&from=rss) - [Clear's Ambitions Beyond Biometric Airport Security](https://soylentnews.org/article.pl?sid=24/11/26/1234214&from=rss)
 * [2024-11-27, 09:55:00](https://soylentnews.org/article.pl?sid=24/11/26/1226204&from=rss) - [Odd Smell Coming From Russian Spacecraft Docked at Space Station](https://soylentnews.org/article.pl?sid=24/11/26/1226204&from=rss)
 * [2024-11-27, 05:12:00](https://soylentnews.org/article.pl?sid=24/11/26/1223216&from=rss) - [Which Power Plant Does My Electricity Come From?](https://soylentnews.org/article.pl?sid=24/11/26/1223216&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-18, 10:10:00](https://soylentnews.org/article.pl?sid=24/11/17/1551243&from=rss) - [Japan Introduces $65 Billion Initiative to Boost Domestic Chip Production](https://soylentnews.org/article.pl?sid=24/11/17/1551243&from=rss)
 * [2024-11-18, 05:27:00](https://soylentnews.org/article.pl?sid=24/11/17/1548245&from=rss) - [Accelerated Muons Bring Next-Gen Particle Colliders Closer to Reality](https://soylentnews.org/article.pl?sid=24/11/17/1548245&from=rss)
 * [2024-11-18, 00:38:00](https://soylentnews.org/article.pl?sid=24/11/16/1214216&from=rss) - [What Would You Do If There's No One at the Hertz Rental Counter?](https://soylentnews.org/article.pl?sid=24/11/16/1214216&from=rss)
-* [2024-11-17, 19:51:00](https://soylentnews.org/article.pl?sid=24/11/16/1135239&from=rss) - [Volt Typhoon And Its Botnet Surge Back With A Vengeance](https://soylentnews.org/article.pl?sid=24/11/16/1135239&from=rss)
 
 ## [Archives](archives/index.md)
 
