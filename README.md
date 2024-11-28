@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-28, 00:14:00](https://soylentnews.org/article.pl?sid=24/11/27/0326201&from=rss) - [Engraved Trees Map the Way to Preserving Sámi Culture](https://soylentnews.org/article.pl?sid=24/11/27/0326201&from=rss)
 * [2024-11-27, 19:28:00](https://soylentnews.org/article.pl?sid=24/11/27/0320244&from=rss) - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://soylentnews.org/article.pl?sid=24/11/27/0320244&from=rss)
 * [2024-11-27, 14:40:00](https://soylentnews.org/article.pl?sid=24/11/26/1234214&from=rss) - [Clear's Ambitions Beyond Biometric Airport Security](https://soylentnews.org/article.pl?sid=24/11/26/1234214&from=rss)
 * [2024-11-27, 09:55:00](https://soylentnews.org/article.pl?sid=24/11/26/1226204&from=rss) - [Odd Smell Coming From Russian Spacecraft Docked at Space Station](https://soylentnews.org/article.pl?sid=24/11/26/1226204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-18, 14:51:00](https://soylentnews.org/article.pl?sid=24/11/18/043217&from=rss) - [UK's DARPA Clone Faces Tough Test as Govt Considers Funding](https://soylentnews.org/article.pl?sid=24/11/18/043217&from=rss)
 * [2024-11-18, 10:10:00](https://soylentnews.org/article.pl?sid=24/11/17/1551243&from=rss) - [Japan Introduces $65 Billion Initiative to Boost Domestic Chip Production](https://soylentnews.org/article.pl?sid=24/11/17/1551243&from=rss)
 * [2024-11-18, 05:27:00](https://soylentnews.org/article.pl?sid=24/11/17/1548245&from=rss) - [Accelerated Muons Bring Next-Gen Particle Colliders Closer to Reality](https://soylentnews.org/article.pl?sid=24/11/17/1548245&from=rss)
-* [2024-11-18, 00:38:00](https://soylentnews.org/article.pl?sid=24/11/16/1214216&from=rss) - [What Would You Do If There's No One at the Hertz Rental Counter?](https://soylentnews.org/article.pl?sid=24/11/16/1214216&from=rss)
 
 ## [Archives](archives/index.md)
 
