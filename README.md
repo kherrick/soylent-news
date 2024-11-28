@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-28, 19:05:00](https://soylentnews.org/article.pl?sid=24/11/27/0931218&from=rss) - [Strange American Cognitive Bias](https://soylentnews.org/article.pl?sid=24/11/27/0931218&from=rss)
 * [2024-11-28, 14:25:00](https://soylentnews.org/article.pl?sid=24/11/27/0925255&from=rss) - [The Capacitor That Apple Soldered Incorrectly at the Factory](https://soylentnews.org/article.pl?sid=24/11/27/0925255&from=rss)
 * [2024-11-28, 09:41:00](https://soylentnews.org/article.pl?sid=24/11/27/0332243&from=rss) - [Potential Colapse of Atlantic Circulation, 50% Chances of Climate Chaos Before 2050](https://soylentnews.org/article.pl?sid=24/11/27/0332243&from=rss)
 * [2024-11-28, 04:57:00](https://soylentnews.org/article.pl?sid=24/11/27/0328245&from=rss) - [Here's What I'll Miss About Chrome OS Once It Turns Into Android](https://soylentnews.org/article.pl?sid=24/11/27/0328245&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-19, 09:56:00](https://soylentnews.org/article.pl?sid=24/11/18/0423202&from=rss) - [Migratory Birds can use Earth's Magnetic Field Like a GPS](https://soylentnews.org/article.pl?sid=24/11/18/0423202&from=rss)
 * [2024-11-19, 05:11:00](https://soylentnews.org/article.pl?sid=24/11/18/1437227&from=rss) - [Cargo Cult Programming](https://soylentnews.org/article.pl?sid=24/11/18/1437227&from=rss)
 * [2024-11-19, 00:23:00](https://soylentnews.org/article.pl?sid=24/11/18/0415253&from=rss) - [Not Enough Babies](https://soylentnews.org/article.pl?sid=24/11/18/0415253&from=rss)
-* [2024-11-18, 19:36:00](https://soylentnews.org/article.pl?sid=24/11/18/048251&from=rss) - [Eureka Moments](https://soylentnews.org/article.pl?sid=24/11/18/048251&from=rss)
 
 ## [Archives](archives/index.md)
 
