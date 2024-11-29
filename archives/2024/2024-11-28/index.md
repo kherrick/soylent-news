@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 23:53:00](https://soylentnews.org/article.pl?sid=24/11/27/1518219&from=rss) - [Antenna Diodes in the Pentium Processor](https://soylentnews.org/article.pl?sid=24/11/27/1518219&from=rss)
 * [2024-11-28, 19:05:00](https://soylentnews.org/article.pl?sid=24/11/27/0931218&from=rss) - [Strange American Cognitive Bias](https://soylentnews.org/article.pl?sid=24/11/27/0931218&from=rss)
 * [2024-11-28, 14:25:00](https://soylentnews.org/article.pl?sid=24/11/27/0925255&from=rss) - [The Capacitor That Apple Soldered Incorrectly at the Factory](https://soylentnews.org/article.pl?sid=24/11/27/0925255&from=rss)
 * [2024-11-28, 09:41:00](https://soylentnews.org/article.pl?sid=24/11/27/0332243&from=rss) - [Potential Colapse of Atlantic Circulation, 50% Chances of Climate Chaos Before 2050](https://soylentnews.org/article.pl?sid=24/11/27/0332243&from=rss)
