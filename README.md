@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-29, 14:12:00](https://soylentnews.org/article.pl?sid=24/11/27/1443234&from=rss) - [Australia Bans Social Media for Minors](https://soylentnews.org/article.pl?sid=24/11/27/1443234&from=rss)
 * [2024-11-29, 09:26:00](https://soylentnews.org/article.pl?sid=24/11/27/0943214&from=rss) - [Surveillance and Digital Control at Work](https://soylentnews.org/article.pl?sid=24/11/27/0943214&from=rss)
 * [2024-11-29, 04:38:00](https://soylentnews.org/article.pl?sid=24/11/27/0940217&from=rss) - [Intel Has a Serious Problem With Arrow Lake and Memory Compatibility](https://soylentnews.org/article.pl?sid=24/11/27/0940217&from=rss)
 * [2024-11-28, 23:53:00](https://soylentnews.org/article.pl?sid=24/11/27/1518219&from=rss) - [Antenna Diodes in the Pentium Processor](https://soylentnews.org/article.pl?sid=24/11/27/1518219&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-20, 04:53:00](https://soylentnews.org/article.pl?sid=24/11/19/0330214&from=rss) - [Jawboning in Plain Sight: The Unconstitutional Censorship Tolerated by the DMCA](https://soylentnews.org/article.pl?sid=24/11/19/0330214&from=rss)
 * [2024-11-20, 00:10:00](https://soylentnews.org/article.pl?sid=24/11/19/0328202&from=rss) - [US Order Blocking TSMC's AI Chip Shipments Won't Hurt Apple](https://soylentnews.org/article.pl?sid=24/11/19/0328202&from=rss)
 * [2024-11-19, 19:25:00](https://soylentnews.org/article.pl?sid=24/11/18/1447220&from=rss) - [Rust Haters, Unite! Fil-C Aims to Make C Great Again](https://soylentnews.org/article.pl?sid=24/11/18/1447220&from=rss)
-* [2024-11-19, 14:42:00](https://soylentnews.org/article.pl?sid=24/11/18/1445209&from=rss) - [Ofcom To Hold UK Auction For mmWave Spectrum Next Year ](https://soylentnews.org/article.pl?sid=24/11/18/1445209&from=rss)
 
 ## [Archives](archives/index.md)
 
