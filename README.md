@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-11-30, 09:15:00](https://soylentnews.org/article.pl?sid=24/11/27/1940248&from=rss) - [Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://soylentnews.org/article.pl?sid=24/11/27/1940248&from=rss)
 * [2024-11-30, 04:27:00](https://soylentnews.org/article.pl?sid=24/11/27/1840206&from=rss) - [NASA Found an Abandoned Military Base Hidden Under Greenland's Ice](https://soylentnews.org/article.pl?sid=24/11/27/1840206&from=rss)
 * [2024-11-29, 23:42:00](https://soylentnews.org/article.pl?sid=24/11/27/1836207&from=rss) - [Smart Gadgets’ Failure to Commit to Software Support Could be Illegal, FTC Warns](https://soylentnews.org/article.pl?sid=24/11/27/1836207&from=rss)
 * [2024-11-29, 18:57:00](https://soylentnews.org/article.pl?sid=24/11/27/1453252&from=rss) - [How Magnetic Waves Become Heat in Earth’s Magnetosphere](https://soylentnews.org/article.pl?sid=24/11/27/1453252&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-21, 00:14:00](https://soylentnews.org/article.pl?sid=24/11/20/0445208&from=rss) - [T-Mobile Hacked in Massive Chinese Breach of Telecom Networks, WSJ Reports](https://soylentnews.org/article.pl?sid=24/11/20/0445208&from=rss)
 * [2024-11-20, 19:31:00](https://soylentnews.org/article.pl?sid=24/11/19/0357249&from=rss) - [NASA May Have Inadvertently Killed Life in Martian Sample, Scientist Says](https://soylentnews.org/article.pl?sid=24/11/19/0357249&from=rss)
 * [2024-11-20, 14:26:00](https://soylentnews.org/article.pl?sid=24/11/19/0351227&from=rss) - [Scientists Discover Mysterious Deep Sea Creature. It Hunts With A Hood.](https://soylentnews.org/article.pl?sid=24/11/19/0351227&from=rss)
-* [2024-11-20, 09:41:00](https://soylentnews.org/article.pl?sid=24/11/19/0333210&from=rss) - [Senators Ask Cyber Review Board to Conduct Investigation on Chinese Hack Group](https://soylentnews.org/article.pl?sid=24/11/19/0333210&from=rss)
 
 ## [Archives](archives/index.md)
 
