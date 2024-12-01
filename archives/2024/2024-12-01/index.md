@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 08:54:00](https://soylentnews.org/article.pl?sid=24/11/28/1550240&from=rss) - [OpenAI Blamed NYT for Tech Problem Erasing Evidence of Copyright Abuse](https://soylentnews.org/article.pl?sid=24/11/28/1550240&from=rss)
 * [2024-12-01, 04:12:00](https://soylentnews.org/article.pl?sid=24/11/28/1534242&from=rss) - [The Forgotten Story of How IBM Invented the Automated Fab](https://soylentnews.org/article.pl?sid=24/11/28/1534242&from=rss)

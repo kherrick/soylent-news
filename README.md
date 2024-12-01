@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-01, 08:54:00](https://soylentnews.org/article.pl?sid=24/11/28/1550240&from=rss) - [OpenAI Blamed NYT for Tech Problem Erasing Evidence of Copyright Abuse](https://soylentnews.org/article.pl?sid=24/11/28/1550240&from=rss)
 * [2024-12-01, 04:12:00](https://soylentnews.org/article.pl?sid=24/11/28/1534242&from=rss) - [The Forgotten Story of How IBM Invented the Automated Fab](https://soylentnews.org/article.pl?sid=24/11/28/1534242&from=rss)
 * [2024-11-30, 23:26:00](https://soylentnews.org/article.pl?sid=24/11/28/1529245&from=rss) - [Supreme Court Wants US Input on Whether ISPs Should be Liable for Users’ Piracy](https://soylentnews.org/article.pl?sid=24/11/28/1529245&from=rss)
 * [2024-11-30, 18:42:00](https://soylentnews.org/article.pl?sid=24/11/28/1523248&from=rss) - [X Says the Onion Can't Have Alex Jones’ Infowars Accounts](https://soylentnews.org/article.pl?sid=24/11/28/1523248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-22, 00:01:00](https://soylentnews.org/article.pl?sid=24/11/20/2256211&from=rss) - [SpaceX’s Shotwell Says US Regulators Must ‘Go Faster’](https://soylentnews.org/article.pl?sid=24/11/20/2256211&from=rss)
 * [2024-11-21, 19:15:00](https://soylentnews.org/article.pl?sid=24/11/20/2252220&from=rss) - [Two Undersea Internet Cables Connecting Finland and Sweden to Europe Have Been Cut](https://soylentnews.org/article.pl?sid=24/11/20/2252220&from=rss)
 * [2024-11-21, 14:28:00](https://soylentnews.org/article.pl?sid=24/11/20/0454249&from=rss) - [Tire Particles as a Distinct Source of Environmental Damage](https://soylentnews.org/article.pl?sid=24/11/20/0454249&from=rss)
-* [2024-11-21, 09:42:00](https://soylentnews.org/article.pl?sid=24/11/20/0453227&from=rss) - [How Italy Became an Unexpected Spyware Hub](https://soylentnews.org/article.pl?sid=24/11/20/0453227&from=rss)
 
 ## [Archives](archives/index.md)
 
