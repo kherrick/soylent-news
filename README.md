@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-01, 18:21:00](https://soylentnews.org/article.pl?sid=24/11/29/1636225&from=rss) - [Mercedes Reinvents the Brakes for Electric Vehicles](https://soylentnews.org/article.pl?sid=24/11/29/1636225&from=rss)
 * [2024-12-01, 13:37:00](https://soylentnews.org/article.pl?sid=24/11/28/1540225&from=rss) - [ISPs Say Their “Excellent Customer Service” is Why Users Don’t Switch Providers](https://soylentnews.org/article.pl?sid=24/11/28/1540225&from=rss)
 * [2024-12-01, 08:54:00](https://soylentnews.org/article.pl?sid=24/11/28/1550240&from=rss) - [OpenAI Blamed NYT for Tech Problem Erasing Evidence of Copyright Abuse](https://soylentnews.org/article.pl?sid=24/11/28/1550240&from=rss)
 * [2024-12-01, 04:12:00](https://soylentnews.org/article.pl?sid=24/11/28/1534242&from=rss) - [The Forgotten Story of How IBM Invented the Automated Fab](https://soylentnews.org/article.pl?sid=24/11/28/1534242&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-22, 10:07:00](https://soylentnews.org/article.pl?sid=24/11/20/238229&from=rss) - [NASA Wants Ideas On How To Haul Injured Moonwalkers](https://soylentnews.org/article.pl?sid=24/11/20/238229&from=rss)
 * [2024-11-22, 05:22:00](https://soylentnews.org/article.pl?sid=24/11/20/236209&from=rss) - [DOJ (Might) Want Alphabet to Sell Chrome](https://soylentnews.org/article.pl?sid=24/11/20/236209&from=rss)
 * [2024-11-22, 00:01:00](https://soylentnews.org/article.pl?sid=24/11/20/2256211&from=rss) - [SpaceX’s Shotwell Says US Regulators Must ‘Go Faster’](https://soylentnews.org/article.pl?sid=24/11/20/2256211&from=rss)
-* [2024-11-21, 19:15:00](https://soylentnews.org/article.pl?sid=24/11/20/2252220&from=rss) - [Two Undersea Internet Cables Connecting Finland and Sweden to Europe Have Been Cut](https://soylentnews.org/article.pl?sid=24/11/20/2252220&from=rss)
 
 ## [Archives](archives/index.md)
 
