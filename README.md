@@ -1,6 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2024-12-02, 18:07:00](https://soylentnews.org/article.pl?sid=24/11/30/1657253&from=rss) - [Senators Say TSA's Facial Recognition Program is Out of Control](https://soylentnews.org/article.pl?sid=24/11/30/1657253&from=rss)
+* [2024-12-02, 18:01:00](https://soylentnews.org/article.pl?sid=24/12/02/1850258&from=rss) - [Intel CEO Pat Gelsinger Resigns](https://soylentnews.org/article.pl?sid=24/12/02/1850258&from=rss)
 * [2024-12-02, 13:23:00](https://soylentnews.org/article.pl?sid=24/11/30/0244254&from=rss) - [Salt Typhoon’s Cyberstorm Reaches Beyond US Telcos](https://soylentnews.org/article.pl?sid=24/11/30/0244254&from=rss)
 * [2024-12-02, 08:36:00](https://soylentnews.org/article.pl?sid=24/11/30/0240205&from=rss) - [Google Maps Drops \"Speed Trap\" Reports For Broader \"Police\" Option](https://soylentnews.org/article.pl?sid=24/11/30/0240205&from=rss)
 * [2024-12-02, 03:51:00](https://soylentnews.org/article.pl?sid=24/11/30/0235248&from=rss) - [QNAP Firmware Update Leaves NAS Owners Locked Out of Their Boxes](https://soylentnews.org/article.pl?sid=24/11/30/0235248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-23, 14:46:00](https://soylentnews.org/article.pl?sid=24/11/22/0247248&from=rss) - [AI-Powered Robot Talks a Dozen Other Bots Into Quitting Their Jobs in Terrifying Security Footage](https://soylentnews.org/article.pl?sid=24/11/22/0247248&from=rss)
 * [2024-11-23, 10:03:00](https://soylentnews.org/article.pl?sid=24/11/22/0244227&from=rss) - [Study Traces the Spicy History of Chili Peppers](https://soylentnews.org/article.pl?sid=24/11/22/0244227&from=rss)
 * [2024-11-23, 05:18:00](https://soylentnews.org/article.pl?sid=24/11/22/0238243&from=rss) - [India Slaps Meta With Five-Year Info-Sharing Ban](https://soylentnews.org/article.pl?sid=24/11/22/0238243&from=rss)
-* [2024-11-23, 00:30:00](https://soylentnews.org/article.pl?sid=24/11/21/0216232&from=rss) - [Scientists Want to Know Why Some People Don't Have a Mind's Eye](https://soylentnews.org/article.pl?sid=24/11/21/0216232&from=rss)
 
 ## [Archives](archives/index.md)
 
