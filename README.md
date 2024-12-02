@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-02, 03:51:00](https://soylentnews.org/article.pl?sid=24/11/30/0235248&from=rss) - [QNAP Firmware Update Leaves NAS Owners Locked Out of Their Boxes](https://soylentnews.org/article.pl?sid=24/11/30/0235248&from=rss)
 * [2024-12-01, 23:06:00](https://soylentnews.org/article.pl?sid=24/11/29/1642235&from=rss) - [You Can't Do Mass Deportations Without Mass Domestic Surveillance, ICE is Already Exploring Options](https://soylentnews.org/article.pl?sid=24/11/29/1642235&from=rss)
 * [2024-12-01, 18:21:00](https://soylentnews.org/article.pl?sid=24/11/29/1636225&from=rss) - [Mercedes Reinvents the Brakes for Electric Vehicles](https://soylentnews.org/article.pl?sid=24/11/29/1636225&from=rss)
 * [2024-12-01, 13:37:00](https://soylentnews.org/article.pl?sid=24/11/28/1540225&from=rss) - [ISPs Say Their “Excellent Customer Service” is Why Users Don’t Switch Providers](https://soylentnews.org/article.pl?sid=24/11/28/1540225&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-22, 19:43:00](https://soylentnews.org/article.pl?sid=24/11/20/2315249&from=rss) - [El Capitan Ranked The Most Powerful Supercomputer In The World](https://soylentnews.org/article.pl?sid=24/11/20/2315249&from=rss)
 * [2024-11-22, 14:53:00](https://soylentnews.org/article.pl?sid=24/11/20/2312236&from=rss) - [From Jealous Spouses to Paranoid Bosses, Pedometers Quantified Suspicion in the 19th Century](https://soylentnews.org/article.pl?sid=24/11/20/2312236&from=rss)
 * [2024-11-22, 10:07:00](https://soylentnews.org/article.pl?sid=24/11/20/238229&from=rss) - [NASA Wants Ideas On How To Haul Injured Moonwalkers](https://soylentnews.org/article.pl?sid=24/11/20/238229&from=rss)
-* [2024-11-22, 05:22:00](https://soylentnews.org/article.pl?sid=24/11/20/236209&from=rss) - [DOJ (Might) Want Alphabet to Sell Chrome](https://soylentnews.org/article.pl?sid=24/11/20/236209&from=rss)
 
 ## [Archives](archives/index.md)
 
