@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-03, 17:56:00](https://soylentnews.org/article.pl?sid=24/12/02/1320205&from=rss) - [Code Found Online Exploits LogoFAIL to Install Bootkitty Linux Backdoor](https://soylentnews.org/article.pl?sid=24/12/02/1320205&from=rss)
 * [2024-12-03, 13:13:00](https://soylentnews.org/article.pl?sid=24/12/02/1310245&from=rss) - [Cybercriminal Unmasked After Threatening Owner of Cybersecurity Firm](https://soylentnews.org/article.pl?sid=24/12/02/1310245&from=rss)
 * [2024-12-03, 08:26:00](https://soylentnews.org/article.pl?sid=24/12/02/138244&from=rss) - [Cervical Cancer Deaths Are Plummeting Among Young U.S. Women](https://soylentnews.org/article.pl?sid=24/12/02/138244&from=rss)
 * [2024-12-03, 03:42:00](https://soylentnews.org/article.pl?sid=24/12/02/133205&from=rss) - [The Rise of Enshittification: Officially the Word of the Year](https://soylentnews.org/article.pl?sid=24/12/02/133205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-24, 14:26:00](https://soylentnews.org/article.pl?sid=24/11/23/047234&from=rss) - ['FYI. a Warrant Isn't Needed': Secret Service Says You Agreed to be Tracked With Location Data](https://soylentnews.org/article.pl?sid=24/11/23/047234&from=rss)
 * [2024-11-24, 09:44:00](https://soylentnews.org/article.pl?sid=24/11/23/0135229&from=rss) - [China's Moon Rock Samples Suggest Durable Lunar Volcanoes](https://soylentnews.org/article.pl?sid=24/11/23/0135229&from=rss)
 * [2024-11-24, 04:57:00](https://soylentnews.org/article.pl?sid=24/11/23/0129250&from=rss) - [Microsoft Starts Boiling The Copilot Frog](https://soylentnews.org/article.pl?sid=24/11/23/0129250&from=rss)
-* [2024-11-24, 00:16:00](https://soylentnews.org/article.pl?sid=24/11/23/0119238&from=rss) - [Judge Rules SiriusXM's Annoying Cancellation Process is Illegal](https://soylentnews.org/article.pl?sid=24/11/23/0119238&from=rss)
 
 ## [Archives](archives/index.md)
 
