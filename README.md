@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-03, 13:13:00](https://soylentnews.org/article.pl?sid=24/12/02/1310245&from=rss) - [Cybercriminal Unmasked After Threatening Owner of Cybersecurity Firm](https://soylentnews.org/article.pl?sid=24/12/02/1310245&from=rss)
 * [2024-12-03, 08:26:00](https://soylentnews.org/article.pl?sid=24/12/02/138244&from=rss) - [Cervical Cancer Deaths Are Plummeting Among Young U.S. Women](https://soylentnews.org/article.pl?sid=24/12/02/138244&from=rss)
 * [2024-12-03, 03:42:00](https://soylentnews.org/article.pl?sid=24/12/02/133205&from=rss) - [The Rise of Enshittification: Officially the Word of the Year](https://soylentnews.org/article.pl?sid=24/12/02/133205&from=rss)
 * [2024-12-02, 22:53:00](https://soylentnews.org/article.pl?sid=24/11/30/175204&from=rss) - [Himalayas Formation May Have Destroyed at Least 30% of Continental Crust in Collision Zone](https://soylentnews.org/article.pl?sid=24/11/30/175204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-24, 09:44:00](https://soylentnews.org/article.pl?sid=24/11/23/0135229&from=rss) - [China's Moon Rock Samples Suggest Durable Lunar Volcanoes](https://soylentnews.org/article.pl?sid=24/11/23/0135229&from=rss)
 * [2024-11-24, 04:57:00](https://soylentnews.org/article.pl?sid=24/11/23/0129250&from=rss) - [Microsoft Starts Boiling The Copilot Frog](https://soylentnews.org/article.pl?sid=24/11/23/0129250&from=rss)
 * [2024-11-24, 00:16:00](https://soylentnews.org/article.pl?sid=24/11/23/0119238&from=rss) - [Judge Rules SiriusXM's Annoying Cancellation Process is Illegal](https://soylentnews.org/article.pl?sid=24/11/23/0119238&from=rss)
-* [2024-11-23, 19:31:00](https://soylentnews.org/article.pl?sid=24/11/22/032257&from=rss) - [It’s Time To Replace TCP In The Datacenter](https://soylentnews.org/article.pl?sid=24/11/22/032257&from=rss)
 
 ## [Archives](archives/index.md)
 
