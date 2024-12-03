@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-03, 03:42:00](https://soylentnews.org/article.pl?sid=24/12/02/133205&from=rss) - [The Rise of Enshittification: Officially the Word of the Year](https://soylentnews.org/article.pl?sid=24/12/02/133205&from=rss)
 * [2024-12-02, 22:53:00](https://soylentnews.org/article.pl?sid=24/11/30/175204&from=rss) - [Himalayas Formation May Have Destroyed at Least 30% of Continental Crust in Collision Zone](https://soylentnews.org/article.pl?sid=24/11/30/175204&from=rss)
 * [2024-12-02, 18:07:00](https://soylentnews.org/article.pl?sid=24/11/30/1657253&from=rss) - [Senators Say TSA's Facial Recognition Program is Out of Control](https://soylentnews.org/article.pl?sid=24/11/30/1657253&from=rss)
 * [2024-12-02, 18:01:00](https://soylentnews.org/article.pl?sid=24/12/02/1850258&from=rss) - [Intel CEO Pat Gelsinger Resigns](https://soylentnews.org/article.pl?sid=24/12/02/1850258&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-24, 00:16:00](https://soylentnews.org/article.pl?sid=24/11/23/0119238&from=rss) - [Judge Rules SiriusXM's Annoying Cancellation Process is Illegal](https://soylentnews.org/article.pl?sid=24/11/23/0119238&from=rss)
 * [2024-11-23, 19:31:00](https://soylentnews.org/article.pl?sid=24/11/22/032257&from=rss) - [It’s Time To Replace TCP In The Datacenter](https://soylentnews.org/article.pl?sid=24/11/22/032257&from=rss)
 * [2024-11-23, 14:46:00](https://soylentnews.org/article.pl?sid=24/11/22/0247248&from=rss) - [AI-Powered Robot Talks a Dozen Other Bots Into Quitting Their Jobs in Terrifying Security Footage](https://soylentnews.org/article.pl?sid=24/11/22/0247248&from=rss)
-* [2024-11-23, 10:03:00](https://soylentnews.org/article.pl?sid=24/11/22/0244227&from=rss) - [Study Traces the Spicy History of Chili Peppers](https://soylentnews.org/article.pl?sid=24/11/22/0244227&from=rss)
 
 ## [Archives](archives/index.md)
 
