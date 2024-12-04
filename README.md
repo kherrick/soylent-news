@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-04, 12:57:00](https://soylentnews.org/article.pl?sid=24/12/03/0448217&from=rss) - [Britain's Scientists Gear Up for AI Warfare With Russia](https://soylentnews.org/article.pl?sid=24/12/03/0448217&from=rss)
 * [2024-12-04, 08:10:00](https://soylentnews.org/article.pl?sid=24/12/03/0441247&from=rss) - [AMD Secures New Glass Substrate Patent as Race for the Chipmaking Technology Intensifies](https://soylentnews.org/article.pl?sid=24/12/03/0441247&from=rss)
 * [2024-12-04, 03:27:00](https://soylentnews.org/article.pl?sid=24/12/03/0436217&from=rss) - [China's Telco Attacks Mean 'Thousands' Of Boxes Compromised](https://soylentnews.org/article.pl?sid=24/12/03/0436217&from=rss)
 * [2024-12-03, 22:42:00](https://soylentnews.org/article.pl?sid=24/12/03/0423246&from=rss) - [Both KDE and GNOME to Offer Official Distros](https://soylentnews.org/article.pl?sid=24/12/03/0423246&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-25, 09:23:00](https://soylentnews.org/article.pl?sid=24/11/23/1913245&from=rss) - [Being In Space Makes It Harder For Astronauts To Think Quickly](https://soylentnews.org/article.pl?sid=24/11/23/1913245&from=rss)
 * [2024-11-25, 04:39:00](https://soylentnews.org/article.pl?sid=24/11/23/1910218&from=rss) - [European EV Battery Maker Files for Bankruptcy](https://soylentnews.org/article.pl?sid=24/11/23/1910218&from=rss)
 * [2024-11-24, 23:53:00](https://soylentnews.org/article.pl?sid=24/11/23/0418252&from=rss) - [Cross-Medium Eavesdropping Technology Overturns Assumptions About Underwater Communications Security](https://soylentnews.org/article.pl?sid=24/11/23/0418252&from=rss)
-* [2024-11-24, 19:12:00](https://soylentnews.org/article.pl?sid=24/11/23/0411227&from=rss) - [New Supercomputer Simulation Explains How Mars Got its Moons](https://soylentnews.org/article.pl?sid=24/11/23/0411227&from=rss)
 
 ## [Archives](archives/index.md)
 
