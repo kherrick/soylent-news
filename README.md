@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-05, 17:28:00](https://soylentnews.org/article.pl?sid=24/12/04/0413259&from=rss) - [Sluggish Proteins May Underpin Aging And Chronic Disease](https://soylentnews.org/article.pl?sid=24/12/04/0413259&from=rss)
 * [2024-12-05, 12:46:00](https://soylentnews.org/article.pl?sid=24/12/04/0359231&from=rss) - [‘God of Management’ Comes Back to Life as an AI Model](https://soylentnews.org/article.pl?sid=24/12/04/0359231&from=rss)
 * [2024-12-05, 08:02:00](https://soylentnews.org/article.pl?sid=24/12/04/0334213&from=rss) - [Chinese Ship's Crew Suspected of Deliberately Dragging Anchor for 100 Miles to Cut Baltic Cables](https://soylentnews.org/article.pl?sid=24/12/04/0334213&from=rss)
 * [2024-12-05, 03:17:00](https://soylentnews.org/article.pl?sid=24/12/04/0318248&from=rss) - [The FCC Just Approved A Plan To Bring Cell Service To Every Corner Of America](https://soylentnews.org/article.pl?sid=24/12/04/0318248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-26, 14:56:00](https://soylentnews.org/article.pl?sid=24/11/25/0311243&from=rss) - [Feds Charge Five Hackers Linked to Scattered Spider Cybercrime Group](https://soylentnews.org/article.pl?sid=24/11/25/0311243&from=rss)
 * [2024-11-26, 10:11:00](https://soylentnews.org/article.pl?sid=24/11/25/038240&from=rss) - [Senator and Congressman Call for Crackdown on VeriSign Business Practices](https://soylentnews.org/article.pl?sid=24/11/25/038240&from=rss)
 * [2024-11-26, 05:26:00](https://soylentnews.org/article.pl?sid=24/11/25/030259&from=rss) - [Mathematical Thinking Isn't What You Think It Is](https://soylentnews.org/article.pl?sid=24/11/25/030259&from=rss)
-* [2024-11-26, 00:44:00](https://soylentnews.org/article.pl?sid=24/11/24/1321203&from=rss) - [Beyond the Milky Way](https://soylentnews.org/article.pl?sid=24/11/24/1321203&from=rss)
 
 ## [Archives](archives/index.md)
 
