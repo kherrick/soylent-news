@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-05, 03:17:00](https://soylentnews.org/article.pl?sid=24/12/04/0318248&from=rss) - [The FCC Just Approved A Plan To Bring Cell Service To Every Corner Of America](https://soylentnews.org/article.pl?sid=24/12/04/0318248&from=rss)
 * [2024-12-04, 22:31:00](https://soylentnews.org/article.pl?sid=24/12/03/0517229&from=rss) - [Decarbonizing Heavy Industry With Thermal Batteries](https://soylentnews.org/article.pl?sid=24/12/03/0517229&from=rss)
 * [2024-12-04, 17:44:00](https://soylentnews.org/article.pl?sid=24/12/03/054253&from=rss) - [How to Detect AI-Generated Text](https://soylentnews.org/article.pl?sid=24/12/03/054253&from=rss)
 * [2024-12-04, 12:57:00](https://soylentnews.org/article.pl?sid=24/12/03/0448217&from=rss) - [Britain's Scientists Gear Up for AI Warfare With Russia](https://soylentnews.org/article.pl?sid=24/12/03/0448217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-26, 00:44:00](https://soylentnews.org/article.pl?sid=24/11/24/1321203&from=rss) - [Beyond the Milky Way](https://soylentnews.org/article.pl?sid=24/11/24/1321203&from=rss)
 * [2024-11-25, 19:57:00](https://soylentnews.org/article.pl?sid=24/11/23/1920222&from=rss) - [What Graykey Iphone Hack Tool Can Unlock](https://soylentnews.org/article.pl?sid=24/11/23/1920222&from=rss)
 * [2024-11-25, 14:13:00](https://soylentnews.org/article.pl?sid=24/11/23/1916252&from=rss) - [Python Crypto Library Updated to Steal Private Keys](https://soylentnews.org/article.pl?sid=24/11/23/1916252&from=rss)
-* [2024-11-25, 09:23:00](https://soylentnews.org/article.pl?sid=24/11/23/1913245&from=rss) - [Being In Space Makes It Harder For Astronauts To Think Quickly](https://soylentnews.org/article.pl?sid=24/11/23/1913245&from=rss)
 
 ## [Archives](archives/index.md)
 
