@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-06, 06:53:00](https://soylentnews.org/article.pl?sid=24/12/05/0445205&from=rss) - [Certain Names Make ChatGPT Grind to a Halt, and We Know Why](https://soylentnews.org/article.pl?sid=24/12/05/0445205&from=rss)
 * [2024-12-06, 02:05:00](https://soylentnews.org/article.pl?sid=24/12/05/046258&from=rss) - [What Will It Take to Solve Our Planet's Plastic Pollution Crisis?](https://soylentnews.org/article.pl?sid=24/12/05/046258&from=rss)
 * [2024-12-05, 21:16:00](https://soylentnews.org/article.pl?sid=24/12/04/0417238&from=rss) - [The Beginning of the End of Big Tech](https://soylentnews.org/article.pl?sid=24/12/04/0417238&from=rss)
 * [2024-12-05, 17:28:00](https://soylentnews.org/article.pl?sid=24/12/04/0413259&from=rss) - [Sluggish Proteins May Underpin Aging And Chronic Disease](https://soylentnews.org/article.pl?sid=24/12/04/0413259&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-27, 05:12:00](https://soylentnews.org/article.pl?sid=24/11/26/1223216&from=rss) - [Which Power Plant Does My Electricity Come From?](https://soylentnews.org/article.pl?sid=24/11/26/1223216&from=rss)
 * [2024-11-27, 00:26:00](https://soylentnews.org/article.pl?sid=24/11/26/1218207&from=rss) - [NASA: Mystery of Life’s Handedness Deepens](https://soylentnews.org/article.pl?sid=24/11/26/1218207&from=rss)
 * [2024-11-26, 19:42:00](https://soylentnews.org/article.pl?sid=24/11/25/1248213&from=rss) - [Farming Robot Kills 200,000 Weeds Per Hour With Lasers](https://soylentnews.org/article.pl?sid=24/11/25/1248213&from=rss)
-* [2024-11-26, 14:56:00](https://soylentnews.org/article.pl?sid=24/11/25/0311243&from=rss) - [Feds Charge Five Hackers Linked to Scattered Spider Cybercrime Group](https://soylentnews.org/article.pl?sid=24/11/25/0311243&from=rss)
 
 ## [Archives](archives/index.md)
 
