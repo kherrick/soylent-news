@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-07, 06:38:00](https://soylentnews.org/article.pl?sid=24/12/05/1153211&from=rss) - [The 'Donut Effect' Persists: Major US Cities May Never Again Look Like They Did Before the Pandemic](https://soylentnews.org/article.pl?sid=24/12/05/1153211&from=rss)
 * [2024-12-07, 01:50:00](https://soylentnews.org/article.pl?sid=24/12/05/1146248&from=rss) - [U.S. Officials Urge Americans to Use Encrypted Apps Amid Unprecedented Cyberattack](https://soylentnews.org/article.pl?sid=24/12/05/1146248&from=rss)
 * [2024-12-06, 21:06:00](https://soylentnews.org/article.pl?sid=24/12/05/1144218&from=rss) - [Splash Pads Really Are Fountains of Fecal Material; CDC Reports 10K Illnesses](https://soylentnews.org/article.pl?sid=24/12/05/1144218&from=rss)
 * [2024-12-06, 16:21:00](https://soylentnews.org/article.pl?sid=24/12/05/050200&from=rss) - [LinkedIn AI Regurgitation Chamber](https://soylentnews.org/article.pl?sid=24/12/05/050200&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-28, 04:57:00](https://soylentnews.org/article.pl?sid=24/11/27/0328245&from=rss) - [Here's What I'll Miss About Chrome OS Once It Turns Into Android](https://soylentnews.org/article.pl?sid=24/11/27/0328245&from=rss)
 * [2024-11-28, 00:14:00](https://soylentnews.org/article.pl?sid=24/11/27/0326201&from=rss) - [Engraved Trees Map the Way to Preserving Sámi Culture](https://soylentnews.org/article.pl?sid=24/11/27/0326201&from=rss)
 * [2024-11-27, 19:28:00](https://soylentnews.org/article.pl?sid=24/11/27/0320244&from=rss) - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://soylentnews.org/article.pl?sid=24/11/27/0320244&from=rss)
-* [2024-11-27, 14:40:00](https://soylentnews.org/article.pl?sid=24/11/26/1234214&from=rss) - [Clear's Ambitions Beyond Biometric Airport Security](https://soylentnews.org/article.pl?sid=24/11/26/1234214&from=rss)
 
 ## [Archives](archives/index.md)
 
