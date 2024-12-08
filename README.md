@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-08, 07:28:00](https://soylentnews.org/article.pl?sid=24/12/06/1759234&from=rss) - [Lead in Gasoline Tied to Over 150 Million Excess Cases of Mental Health Disorders](https://soylentnews.org/article.pl?sid=24/12/06/1759234&from=rss)
 * [2024-12-08, 01:45:00](https://soylentnews.org/article.pl?sid=24/12/05/234212&from=rss) - [Bitcoin Hits $100,000: What Next for the Booming Cryptocurrency?](https://soylentnews.org/article.pl?sid=24/12/05/234212&from=rss)
 * [2024-12-07, 20:53:00](https://soylentnews.org/article.pl?sid=24/12/05/1215259&from=rss) - [The Raspberry Pi 5 Now Works as a Smaller, Faster Kind of Steam Link](https://soylentnews.org/article.pl?sid=24/12/05/1215259&from=rss)
 * [2024-12-07, 16:12:00](https://soylentnews.org/article.pl?sid=24/12/05/1210215&from=rss) - [OpenWRT One Router Designed With ‘Software Freedom and Right to Repair’ in Mind](https://soylentnews.org/article.pl?sid=24/12/05/1210215&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-29, 04:38:00](https://soylentnews.org/article.pl?sid=24/11/27/0940217&from=rss) - [Intel Has a Serious Problem With Arrow Lake and Memory Compatibility](https://soylentnews.org/article.pl?sid=24/11/27/0940217&from=rss)
 * [2024-11-28, 23:53:00](https://soylentnews.org/article.pl?sid=24/11/27/1518219&from=rss) - [Antenna Diodes in the Pentium Processor](https://soylentnews.org/article.pl?sid=24/11/27/1518219&from=rss)
 * [2024-11-28, 19:05:00](https://soylentnews.org/article.pl?sid=24/11/27/0931218&from=rss) - [Strange American Cognitive Bias](https://soylentnews.org/article.pl?sid=24/11/27/0931218&from=rss)
-* [2024-11-28, 14:25:00](https://soylentnews.org/article.pl?sid=24/11/27/0925255&from=rss) - [The Capacitor That Apple Soldered Incorrectly at the Factory](https://soylentnews.org/article.pl?sid=24/11/27/0925255&from=rss)
 
 ## [Archives](archives/index.md)
 
