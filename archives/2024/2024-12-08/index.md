@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 21:42:00](https://soylentnews.org/article.pl?sid=24/12/07/0413247&from=rss) - [The US Treasury Dept's \"Corporate Transparency Act\" is Blocked](https://soylentnews.org/article.pl?sid=24/12/07/0413247&from=rss)
 * [2024-12-08, 16:55:00](https://soylentnews.org/article.pl?sid=24/12/07/048250&from=rss) - [Flour, Water, Salt, GitHub: the Bread Code is a Sourdough Baking Framework](https://soylentnews.org/article.pl?sid=24/12/07/048250&from=rss)
 * [2024-12-08, 12:12:00](https://soylentnews.org/article.pl?sid=24/12/06/183255&from=rss) - ['Self-Assembling' Electronics: A Wild New Manufacturing Process](https://soylentnews.org/article.pl?sid=24/12/06/183255&from=rss)
 * [2024-12-08, 07:28:00](https://soylentnews.org/article.pl?sid=24/12/06/1759234&from=rss) - [Lead in Gasoline Tied to Over 150 Million Excess Cases of Mental Health Disorders](https://soylentnews.org/article.pl?sid=24/12/06/1759234&from=rss)
