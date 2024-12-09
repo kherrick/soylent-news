@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-09, 02:29:00](https://soylentnews.org/article.pl?sid=24/12/07/0420228&from=rss) - [USB-C Cable CT Scan Reveals Sinister Active Electronics](https://soylentnews.org/article.pl?sid=24/12/07/0420228&from=rss)
 * [2024-12-08, 21:42:00](https://soylentnews.org/article.pl?sid=24/12/07/0413247&from=rss) - [The US Treasury Dept's \"Corporate Transparency Act\" is Blocked](https://soylentnews.org/article.pl?sid=24/12/07/0413247&from=rss)
 * [2024-12-08, 16:55:00](https://soylentnews.org/article.pl?sid=24/12/07/048250&from=rss) - [Flour, Water, Salt, GitHub: the Bread Code is a Sourdough Baking Framework](https://soylentnews.org/article.pl?sid=24/12/07/048250&from=rss)
 * [2024-12-08, 12:12:00](https://soylentnews.org/article.pl?sid=24/12/06/183255&from=rss) - ['Self-Assembling' Electronics: A Wild New Manufacturing Process](https://soylentnews.org/article.pl?sid=24/12/06/183255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-29, 23:42:00](https://soylentnews.org/article.pl?sid=24/11/27/1836207&from=rss) - [Smart Gadgets’ Failure to Commit to Software Support Could be Illegal, FTC Warns](https://soylentnews.org/article.pl?sid=24/11/27/1836207&from=rss)
 * [2024-11-29, 18:57:00](https://soylentnews.org/article.pl?sid=24/11/27/1453252&from=rss) - [How Magnetic Waves Become Heat in Earth’s Magnetosphere](https://soylentnews.org/article.pl?sid=24/11/27/1453252&from=rss)
 * [2024-11-29, 14:12:00](https://soylentnews.org/article.pl?sid=24/11/27/1443234&from=rss) - [Australia Bans Social Media for Minors](https://soylentnews.org/article.pl?sid=24/11/27/1443234&from=rss)
-* [2024-11-29, 09:26:00](https://soylentnews.org/article.pl?sid=24/11/27/0943214&from=rss) - [Surveillance and Digital Control at Work](https://soylentnews.org/article.pl?sid=24/11/27/0943214&from=rss)
 
 ## [Archives](archives/index.md)
 
