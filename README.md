@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-09, 16:40:00](https://soylentnews.org/article.pl?sid=24/12/08/151236&from=rss) - [Australia Is Grappling With Too Much Solar Power As Renewable Growth Outpaces Grid Capacity](https://soylentnews.org/article.pl?sid=24/12/08/151236&from=rss)
 * [2024-12-09, 11:58:00](https://soylentnews.org/article.pl?sid=24/12/08/1453224&from=rss) - [Teen Creates Memecoin, Dumps It, Earns $50,000](https://soylentnews.org/article.pl?sid=24/12/08/1453224&from=rss)
 * [2024-12-09, 07:13:00](https://soylentnews.org/article.pl?sid=24/12/07/1652216&from=rss) - [Soon, the Tech Behind ChatGPT May Help Drone Operators Decide Which Enemies to Kill](https://soylentnews.org/article.pl?sid=24/12/07/1652216&from=rss)
 * [2024-12-09, 02:29:00](https://soylentnews.org/article.pl?sid=24/12/07/0420228&from=rss) - [USB-C Cable CT Scan Reveals Sinister Active Electronics](https://soylentnews.org/article.pl?sid=24/12/07/0420228&from=rss)
@@ -49,7 +50,6 @@
 * [2024-11-30, 14:03:00](https://soylentnews.org/article.pl?sid=24/11/28/1520243&from=rss) - [The True Cost of Data Centers](https://soylentnews.org/article.pl?sid=24/11/28/1520243&from=rss)
 * [2024-11-30, 09:15:00](https://soylentnews.org/article.pl?sid=24/11/27/1940248&from=rss) - [Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://soylentnews.org/article.pl?sid=24/11/27/1940248&from=rss)
 * [2024-11-30, 04:27:00](https://soylentnews.org/article.pl?sid=24/11/27/1840206&from=rss) - [NASA Found an Abandoned Military Base Hidden Under Greenland's Ice](https://soylentnews.org/article.pl?sid=24/11/27/1840206&from=rss)
-* [2024-11-29, 23:42:00](https://soylentnews.org/article.pl?sid=24/11/27/1836207&from=rss) - [Smart Gadgets’ Failure to Commit to Software Support Could be Illegal, FTC Warns](https://soylentnews.org/article.pl?sid=24/11/27/1836207&from=rss)
 
 ## [Archives](archives/index.md)
 
