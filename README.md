@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-10, 16:23:00](https://soylentnews.org/article.pl?sid=24/12/09/1955228&from=rss) - [An Ethicist’s Take: is It OK to Lie to an AI Chatbot During a Job Interview?](https://soylentnews.org/article.pl?sid=24/12/09/1955228&from=rss)
 * [2024-12-10, 11:37:00](https://soylentnews.org/article.pl?sid=24/12/09/1949223&from=rss) - [Meta To Seek 1-4GW Of American Nuclear Power For AI](https://soylentnews.org/article.pl?sid=24/12/09/1949223&from=rss)
 * [2024-12-10, 06:52:00](https://soylentnews.org/article.pl?sid=24/12/09/1944210&from=rss) - [A Supercomputer Just Created the Largest Universe Simulation Ever](https://soylentnews.org/article.pl?sid=24/12/09/1944210&from=rss)
 * [2024-12-10, 02:10:00](https://soylentnews.org/article.pl?sid=24/12/09/105207&from=rss) - [Is AI Any Good at Choosing Gifts?](https://soylentnews.org/article.pl?sid=24/12/09/105207&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-01, 13:37:00](https://soylentnews.org/article.pl?sid=24/11/28/1540225&from=rss) - [ISPs Say Their “Excellent Customer Service” is Why Users Don’t Switch Providers](https://soylentnews.org/article.pl?sid=24/11/28/1540225&from=rss)
 * [2024-12-01, 08:54:00](https://soylentnews.org/article.pl?sid=24/11/28/1550240&from=rss) - [OpenAI Blamed NYT for Tech Problem Erasing Evidence of Copyright Abuse](https://soylentnews.org/article.pl?sid=24/11/28/1550240&from=rss)
 * [2024-12-01, 04:12:00](https://soylentnews.org/article.pl?sid=24/11/28/1534242&from=rss) - [The Forgotten Story of How IBM Invented the Automated Fab](https://soylentnews.org/article.pl?sid=24/11/28/1534242&from=rss)
-* [2024-11-30, 23:26:00](https://soylentnews.org/article.pl?sid=24/11/28/1529245&from=rss) - [Supreme Court Wants US Input on Whether ISPs Should be Liable for Users’ Piracy](https://soylentnews.org/article.pl?sid=24/11/28/1529245&from=rss)
 
 ## [Archives](archives/index.md)
 
