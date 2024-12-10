@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-10, 21:09:00](https://soylentnews.org/article.pl?sid=24/12/10/1039201&from=rss) - [The Ghosts of India's TikTok: What Happens When a Social Media App is Banned](https://soylentnews.org/article.pl?sid=24/12/10/1039201&from=rss)
 * [2024-12-10, 16:23:00](https://soylentnews.org/article.pl?sid=24/12/09/1955228&from=rss) - [An Ethicist’s Take: is It OK to Lie to an AI Chatbot During a Job Interview?](https://soylentnews.org/article.pl?sid=24/12/09/1955228&from=rss)
 * [2024-12-10, 11:37:00](https://soylentnews.org/article.pl?sid=24/12/09/1949223&from=rss) - [Meta To Seek 1-4GW Of American Nuclear Power For AI](https://soylentnews.org/article.pl?sid=24/12/09/1949223&from=rss)
 * [2024-12-10, 06:52:00](https://soylentnews.org/article.pl?sid=24/12/09/1944210&from=rss) - [A Supercomputer Just Created the Largest Universe Simulation Ever](https://soylentnews.org/article.pl?sid=24/12/09/1944210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-01, 18:21:00](https://soylentnews.org/article.pl?sid=24/11/29/1636225&from=rss) - [Mercedes Reinvents the Brakes for Electric Vehicles](https://soylentnews.org/article.pl?sid=24/11/29/1636225&from=rss)
 * [2024-12-01, 13:37:00](https://soylentnews.org/article.pl?sid=24/11/28/1540225&from=rss) - [ISPs Say Their “Excellent Customer Service” is Why Users Don’t Switch Providers](https://soylentnews.org/article.pl?sid=24/11/28/1540225&from=rss)
 * [2024-12-01, 08:54:00](https://soylentnews.org/article.pl?sid=24/11/28/1550240&from=rss) - [OpenAI Blamed NYT for Tech Problem Erasing Evidence of Copyright Abuse](https://soylentnews.org/article.pl?sid=24/11/28/1550240&from=rss)
-* [2024-12-01, 04:12:00](https://soylentnews.org/article.pl?sid=24/11/28/1534242&from=rss) - [The Forgotten Story of How IBM Invented the Automated Fab](https://soylentnews.org/article.pl?sid=24/11/28/1534242&from=rss)
 
 ## [Archives](archives/index.md)
 
