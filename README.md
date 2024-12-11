@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-11, 08:20:00](https://soylentnews.org/article.pl?sid=24/12/10/139233&from=rss) - [US House to Vote to Provide $3 Billion to Remove Chinese Telecoms Equipment](https://soylentnews.org/article.pl?sid=24/12/10/139233&from=rss)
 * [2024-12-11, 02:35:00](https://soylentnews.org/article.pl?sid=24/12/10/1154237&from=rss) - [US Clears Export of Advanced AI Chips to UAE Under Microsoft Deal](https://soylentnews.org/article.pl?sid=24/12/10/1154237&from=rss)
 * [2024-12-11, 01:51:00](https://soylentnews.org/article.pl?sid=24/12/10/1141242&from=rss) - [Hawking Radiation: Not Just for Black Holes?](https://soylentnews.org/article.pl?sid=24/12/10/1141242&from=rss)
 * [2024-12-10, 21:09:00](https://soylentnews.org/article.pl?sid=24/12/10/1039201&from=rss) - [The Ghosts of India's TikTok: What Happens When a Social Media App is Banned](https://soylentnews.org/article.pl?sid=24/12/10/1039201&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-02, 08:36:00](https://soylentnews.org/article.pl?sid=24/11/30/0240205&from=rss) - [Google Maps Drops \"Speed Trap\" Reports For Broader \"Police\" Option](https://soylentnews.org/article.pl?sid=24/11/30/0240205&from=rss)
 * [2024-12-02, 03:51:00](https://soylentnews.org/article.pl?sid=24/11/30/0235248&from=rss) - [QNAP Firmware Update Leaves NAS Owners Locked Out of Their Boxes](https://soylentnews.org/article.pl?sid=24/11/30/0235248&from=rss)
 * [2024-12-01, 23:06:00](https://soylentnews.org/article.pl?sid=24/11/29/1642235&from=rss) - [You Can't Do Mass Deportations Without Mass Domestic Surveillance, ICE is Already Exploring Options](https://soylentnews.org/article.pl?sid=24/11/29/1642235&from=rss)
-* [2024-12-01, 18:21:00](https://soylentnews.org/article.pl?sid=24/11/29/1636225&from=rss) - [Mercedes Reinvents the Brakes for Electric Vehicles](https://soylentnews.org/article.pl?sid=24/11/29/1636225&from=rss)
 
 ## [Archives](archives/index.md)
 

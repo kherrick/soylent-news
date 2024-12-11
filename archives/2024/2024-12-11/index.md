@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 08:20:00](https://soylentnews.org/article.pl?sid=24/12/10/139233&from=rss) - [US House to Vote to Provide $3 Billion to Remove Chinese Telecoms Equipment](https://soylentnews.org/article.pl?sid=24/12/10/139233&from=rss)
 * [2024-12-11, 02:35:00](https://soylentnews.org/article.pl?sid=24/12/10/1154237&from=rss) - [US Clears Export of Advanced AI Chips to UAE Under Microsoft Deal](https://soylentnews.org/article.pl?sid=24/12/10/1154237&from=rss)
 * [2024-12-11, 01:51:00](https://soylentnews.org/article.pl?sid=24/12/10/1141242&from=rss) - [Hawking Radiation: Not Just for Black Holes?](https://soylentnews.org/article.pl?sid=24/12/10/1141242&from=rss)
