@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-12, 04:22:00](https://soylentnews.org/article.pl?sid=24/12/11/0450205&from=rss) - [Pegasus Spyware Target Expands Beyond Activists and Journalists, Found on Everyday Users' Devices](https://soylentnews.org/article.pl?sid=24/12/11/0450205&from=rss)
 * [2024-12-11, 23:37:00](https://soylentnews.org/article.pl?sid=24/12/11/0154214&from=rss) - [Google's Deepmind AI Predicts Weather More Accurately Than Existing Forecasts](https://soylentnews.org/article.pl?sid=24/12/11/0154214&from=rss)
 * [2024-12-11, 18:49:00](https://soylentnews.org/article.pl?sid=24/12/10/1321249&from=rss) - [Samsung is Prepping 400-Layer V-NAND for Future 16TB SSD Storage and PCIE 5.0 Performance](https://soylentnews.org/article.pl?sid=24/12/10/1321249&from=rss)
 * [2024-12-11, 14:04:00](https://soylentnews.org/article.pl?sid=24/12/10/1317254&from=rss) - [Ubisoft Shareholders in Talks Over Possible Buyout Terms, Sources Say](https://soylentnews.org/article.pl?sid=24/12/10/1317254&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-02, 22:53:00](https://soylentnews.org/article.pl?sid=24/11/30/175204&from=rss) - [Himalayas Formation May Have Destroyed at Least 30% of Continental Crust in Collision Zone](https://soylentnews.org/article.pl?sid=24/11/30/175204&from=rss)
 * [2024-12-02, 18:07:00](https://soylentnews.org/article.pl?sid=24/11/30/1657253&from=rss) - [Senators Say TSA's Facial Recognition Program is Out of Control](https://soylentnews.org/article.pl?sid=24/11/30/1657253&from=rss)
 * [2024-12-02, 18:01:00](https://soylentnews.org/article.pl?sid=24/12/02/1850258&from=rss) - [Intel CEO Pat Gelsinger Resigns](https://soylentnews.org/article.pl?sid=24/12/02/1850258&from=rss)
-* [2024-12-02, 13:23:00](https://soylentnews.org/article.pl?sid=24/11/30/0244254&from=rss) - [Salt Typhoon’s Cyberstorm Reaches Beyond US Telcos](https://soylentnews.org/article.pl?sid=24/11/30/0244254&from=rss)
 
 ## [Archives](archives/index.md)
 
