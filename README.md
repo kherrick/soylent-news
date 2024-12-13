@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-13, 08:53:00](https://soylentnews.org/article.pl?sid=24/12/13/0418238&from=rss) - [Google's Willow Quantum Chip Breakthrough is Hidden Behind a Questionable Benchmark](https://soylentnews.org/article.pl?sid=24/12/13/0418238&from=rss)
 * [2024-12-13, 04:02:00](https://soylentnews.org/article.pl?sid=24/12/12/1357232&from=rss) - [It's Surprisingly Easy to Jailbreak LLM-Driven Robots](https://soylentnews.org/article.pl?sid=24/12/12/1357232&from=rss)
 * [2024-12-12, 23:20:00](https://soylentnews.org/article.pl?sid=24/12/11/1530257&from=rss) - [Mazda: Americans Want Cheap Gas Cars](https://soylentnews.org/article.pl?sid=24/12/11/1530257&from=rss)
 * [2024-12-12, 18:36:00](https://soylentnews.org/article.pl?sid=24/12/11/1527256&from=rss) - [AI: A Means to an End or a Means to Our End?](https://soylentnews.org/article.pl?sid=24/12/11/1527256&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-04, 03:27:00](https://soylentnews.org/article.pl?sid=24/12/03/0436217&from=rss) - [China's Telco Attacks Mean 'Thousands' Of Boxes Compromised](https://soylentnews.org/article.pl?sid=24/12/03/0436217&from=rss)
 * [2024-12-03, 22:42:00](https://soylentnews.org/article.pl?sid=24/12/03/0423246&from=rss) - [Both KDE and GNOME to Offer Official Distros](https://soylentnews.org/article.pl?sid=24/12/03/0423246&from=rss)
 * [2024-12-03, 17:56:00](https://soylentnews.org/article.pl?sid=24/12/02/1320205&from=rss) - [Code Found Online Exploits LogoFAIL to Install Bootkitty Linux Backdoor](https://soylentnews.org/article.pl?sid=24/12/02/1320205&from=rss)
-* [2024-12-03, 13:13:00](https://soylentnews.org/article.pl?sid=24/12/02/1310245&from=rss) - [Cybercriminal Unmasked After Threatening Owner of Cybersecurity Firm](https://soylentnews.org/article.pl?sid=24/12/02/1310245&from=rss)
 
 ## [Archives](archives/index.md)
 
