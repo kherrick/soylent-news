@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-13, 23:07:00](https://soylentnews.org/article.pl?sid=24/12/13/0429208&from=rss) - [EFF Speaks Out in Court for Citizen Journalists](https://soylentnews.org/article.pl?sid=24/12/13/0429208&from=rss)
 * [2024-12-13, 18:23:00](https://soylentnews.org/article.pl?sid=24/12/13/0426205&from=rss) - [TSMC Lifts the Curtain on Nanosheet Transistors  and Intel Shows How Far These Devices Could Go](https://soylentnews.org/article.pl?sid=24/12/13/0426205&from=rss)
 * [2024-12-13, 13:40:00](https://soylentnews.org/article.pl?sid=24/12/13/0421233&from=rss) - [Understanding the Terrapin Attack Against SSH](https://soylentnews.org/article.pl?sid=24/12/13/0421233&from=rss)
 * [2024-12-13, 08:53:00](https://soylentnews.org/article.pl?sid=24/12/13/0418238&from=rss) - [Google's Willow Quantum Chip Breakthrough is Hidden Behind a Questionable Benchmark](https://soylentnews.org/article.pl?sid=24/12/13/0418238&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-04, 17:44:00](https://soylentnews.org/article.pl?sid=24/12/03/054253&from=rss) - [How to Detect AI-Generated Text](https://soylentnews.org/article.pl?sid=24/12/03/054253&from=rss)
 * [2024-12-04, 12:57:00](https://soylentnews.org/article.pl?sid=24/12/03/0448217&from=rss) - [Britain's Scientists Gear Up for AI Warfare With Russia](https://soylentnews.org/article.pl?sid=24/12/03/0448217&from=rss)
 * [2024-12-04, 08:10:00](https://soylentnews.org/article.pl?sid=24/12/03/0441247&from=rss) - [AMD Secures New Glass Substrate Patent as Race for the Chipmaking Technology Intensifies](https://soylentnews.org/article.pl?sid=24/12/03/0441247&from=rss)
-* [2024-12-04, 03:27:00](https://soylentnews.org/article.pl?sid=24/12/03/0436217&from=rss) - [China's Telco Attacks Mean 'Thousands' Of Boxes Compromised](https://soylentnews.org/article.pl?sid=24/12/03/0436217&from=rss)
 
 ## [Archives](archives/index.md)
 
