@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-14, 08:38:00](https://soylentnews.org/article.pl?sid=24/12/13/0443244&from=rss) - [Oregon Approved to Build One of the Biggest Solar Plants in the US](https://soylentnews.org/article.pl?sid=24/12/13/0443244&from=rss)
 * [2024-12-14, 03:53:00](https://soylentnews.org/article.pl?sid=24/12/13/0439254&from=rss) - [‘An Easy Button to Get Off Windows’: Amazon's New AI Moves Microsoft Apps to Linux](https://soylentnews.org/article.pl?sid=24/12/13/0439254&from=rss)
 * [2024-12-13, 23:07:00](https://soylentnews.org/article.pl?sid=24/12/13/0429208&from=rss) - [EFF Speaks Out in Court for Citizen Journalists](https://soylentnews.org/article.pl?sid=24/12/13/0429208&from=rss)
 * [2024-12-13, 18:23:00](https://soylentnews.org/article.pl?sid=24/12/13/0426205&from=rss) - [TSMC Lifts the Curtain on Nanosheet Transistors  and Intel Shows How Far These Devices Could Go](https://soylentnews.org/article.pl?sid=24/12/13/0426205&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-05, 03:17:00](https://soylentnews.org/article.pl?sid=24/12/04/0318248&from=rss) - [The FCC Just Approved A Plan To Bring Cell Service To Every Corner Of America](https://soylentnews.org/article.pl?sid=24/12/04/0318248&from=rss)
 * [2024-12-04, 22:31:00](https://soylentnews.org/article.pl?sid=24/12/03/0517229&from=rss) - [Decarbonizing Heavy Industry With Thermal Batteries](https://soylentnews.org/article.pl?sid=24/12/03/0517229&from=rss)
 * [2024-12-04, 17:44:00](https://soylentnews.org/article.pl?sid=24/12/03/054253&from=rss) - [How to Detect AI-Generated Text](https://soylentnews.org/article.pl?sid=24/12/03/054253&from=rss)
-* [2024-12-04, 12:57:00](https://soylentnews.org/article.pl?sid=24/12/03/0448217&from=rss) - [Britain's Scientists Gear Up for AI Warfare With Russia](https://soylentnews.org/article.pl?sid=24/12/03/0448217&from=rss)
 
 ## [Archives](archives/index.md)
 
