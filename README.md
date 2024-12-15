@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-15, 22:33:00](https://soylentnews.org/article.pl?sid=24/12/14/1629257&from=rss) - [Ingenuity Mars Helicopter January Grounding: What Happened?](https://soylentnews.org/article.pl?sid=24/12/14/1629257&from=rss)
 * [2024-12-15, 17:50:00](https://soylentnews.org/article.pl?sid=24/12/14/1621248&from=rss) - [What Are The Mystery Drones Flying Over The US?](https://soylentnews.org/article.pl?sid=24/12/14/1621248&from=rss)
 * [2024-12-15, 13:07:00](https://soylentnews.org/article.pl?sid=24/12/13/0458233&from=rss) - [They Don't Make Them Like That Any More: The Yamaha DX7 Keyboard](https://soylentnews.org/article.pl?sid=24/12/13/0458233&from=rss)
 * [2024-12-15, 08:21:00](https://soylentnews.org/article.pl?sid=24/12/13/0457204&from=rss) - [AI Company Trolls San Francisco With Billboards Saying “Stop Hiring Humans”](https://soylentnews.org/article.pl?sid=24/12/13/0457204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-06, 16:21:00](https://soylentnews.org/article.pl?sid=24/12/05/050200&from=rss) - [LinkedIn AI Regurgitation Chamber](https://soylentnews.org/article.pl?sid=24/12/05/050200&from=rss)
 * [2024-12-06, 11:36:00](https://soylentnews.org/article.pl?sid=24/12/05/0447246&from=rss) - [Accidental Portrait of a Single Photon](https://soylentnews.org/article.pl?sid=24/12/05/0447246&from=rss)
 * [2024-12-06, 06:53:00](https://soylentnews.org/article.pl?sid=24/12/05/0445205&from=rss) - [Certain Names Make ChatGPT Grind to a Halt, and We Know Why](https://soylentnews.org/article.pl?sid=24/12/05/0445205&from=rss)
-* [2024-12-06, 02:05:00](https://soylentnews.org/article.pl?sid=24/12/05/046258&from=rss) - [What Will It Take to Solve Our Planet's Plastic Pollution Crisis?](https://soylentnews.org/article.pl?sid=24/12/05/046258&from=rss)
 
 ## [Archives](archives/index.md)
 
