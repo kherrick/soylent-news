@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-15, 13:07:00](https://soylentnews.org/article.pl?sid=24/12/13/0458233&from=rss) - [They Don't Make Them Like That Any More: The Yamaha DX7 Keyboard](https://soylentnews.org/article.pl?sid=24/12/13/0458233&from=rss)
 * [2024-12-15, 08:21:00](https://soylentnews.org/article.pl?sid=24/12/13/0457204&from=rss) - [AI Company Trolls San Francisco With Billboards Saying “Stop Hiring Humans”](https://soylentnews.org/article.pl?sid=24/12/13/0457204&from=rss)
 * [2024-12-15, 03:34:00](https://soylentnews.org/article.pl?sid=24/12/13/0454242&from=rss) - [Chuck E. Cheese's Animatronics Band Bows Out](https://soylentnews.org/article.pl?sid=24/12/13/0454242&from=rss)
 * [2024-12-14, 22:51:00](https://soylentnews.org/article.pl?sid=24/12/13/0452257&from=rss) - [ARM Boss Casts Doubt on Intel's Path Forward After CEO Shakeup](https://soylentnews.org/article.pl?sid=24/12/13/0452257&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-06, 06:53:00](https://soylentnews.org/article.pl?sid=24/12/05/0445205&from=rss) - [Certain Names Make ChatGPT Grind to a Halt, and We Know Why](https://soylentnews.org/article.pl?sid=24/12/05/0445205&from=rss)
 * [2024-12-06, 02:05:00](https://soylentnews.org/article.pl?sid=24/12/05/046258&from=rss) - [What Will It Take to Solve Our Planet's Plastic Pollution Crisis?](https://soylentnews.org/article.pl?sid=24/12/05/046258&from=rss)
 * [2024-12-05, 21:16:00](https://soylentnews.org/article.pl?sid=24/12/04/0417238&from=rss) - [The Beginning of the End of Big Tech](https://soylentnews.org/article.pl?sid=24/12/04/0417238&from=rss)
-* [2024-12-05, 17:28:00](https://soylentnews.org/article.pl?sid=24/12/04/0413259&from=rss) - [Sluggish Proteins May Underpin Aging And Chronic Disease](https://soylentnews.org/article.pl?sid=24/12/04/0413259&from=rss)
 
 ## [Archives](archives/index.md)
 
