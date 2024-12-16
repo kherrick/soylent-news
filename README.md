@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-16, 09:04:00](https://soylentnews.org/meta/article.pl?sid=24/12/13/155209&from=rss) - [Soylent Update - December 2024](https://soylentnews.org/meta/article.pl?sid=24/12/13/155209&from=rss)
 * [2024-12-16, 07:00:00](https://soylentnews.org/article.pl?sid=24/12/14/173231&from=rss) - [Apple Is Reportedly Making An AI Server Chip With Broadcom's Help](https://soylentnews.org/article.pl?sid=24/12/14/173231&from=rss)
 * [2024-12-16, 02:15:00](https://soylentnews.org/article.pl?sid=24/12/14/1648201&from=rss) - [Neanderthal-human Interbreeding Lasted 7,000 Years, New Study Reveals](https://soylentnews.org/article.pl?sid=24/12/14/1648201&from=rss)
 * [2024-12-15, 22:33:00](https://soylentnews.org/article.pl?sid=24/12/14/1629257&from=rss) - [Ingenuity Mars Helicopter January Grounding: What Happened?](https://soylentnews.org/article.pl?sid=24/12/14/1629257&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-07, 06:38:00](https://soylentnews.org/article.pl?sid=24/12/05/1153211&from=rss) - [The 'Donut Effect' Persists: Major US Cities May Never Again Look Like They Did Before the Pandemic](https://soylentnews.org/article.pl?sid=24/12/05/1153211&from=rss)
 * [2024-12-07, 01:50:00](https://soylentnews.org/article.pl?sid=24/12/05/1146248&from=rss) - [U.S. Officials Urge Americans to Use Encrypted Apps Amid Unprecedented Cyberattack](https://soylentnews.org/article.pl?sid=24/12/05/1146248&from=rss)
 * [2024-12-06, 21:06:00](https://soylentnews.org/article.pl?sid=24/12/05/1144218&from=rss) - [Splash Pads Really Are Fountains of Fecal Material; CDC Reports 10K Illnesses](https://soylentnews.org/article.pl?sid=24/12/05/1144218&from=rss)
-* [2024-12-06, 16:21:00](https://soylentnews.org/article.pl?sid=24/12/05/050200&from=rss) - [LinkedIn AI Regurgitation Chamber](https://soylentnews.org/article.pl?sid=24/12/05/050200&from=rss)
 
 ## [Archives](archives/index.md)
 
