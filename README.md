@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-17, 21:13:00](https://soylentnews.org/article.pl?sid=24/12/16/1617237&from=rss) - [Why Materials Science is Key to Unlocking the Next Frontier of AI Development](https://soylentnews.org/article.pl?sid=24/12/16/1617237&from=rss)
 * [2024-12-17, 16:28:00](https://soylentnews.org/article.pl?sid=24/12/16/1610238&from=rss) - [Airborne Observations Identify Major Source of US Landfill Methane Emissions](https://soylentnews.org/article.pl?sid=24/12/16/1610238&from=rss)
 * [2024-12-17, 11:42:00](https://soylentnews.org/article.pl?sid=24/12/16/153244&from=rss) - [Chatbot 'Encouraged Teen to Kill Parents Over Screen Time Limit'](https://soylentnews.org/article.pl?sid=24/12/16/153244&from=rss)
 * [2024-12-17, 06:54:00](https://soylentnews.org/article.pl?sid=24/12/16/1457247&from=rss) - [Worthy of a SF Movie: NASA's Juno Probe Captures an Image of a Dolphin on Jupiter's Surface](https://soylentnews.org/article.pl?sid=24/12/16/1457247&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-08, 21:42:00](https://soylentnews.org/article.pl?sid=24/12/07/0413247&from=rss) - [The US Treasury Dept's \"Corporate Transparency Act\" is Blocked](https://soylentnews.org/article.pl?sid=24/12/07/0413247&from=rss)
 * [2024-12-08, 16:55:00](https://soylentnews.org/article.pl?sid=24/12/07/048250&from=rss) - [Flour, Water, Salt, GitHub: the Bread Code is a Sourdough Baking Framework](https://soylentnews.org/article.pl?sid=24/12/07/048250&from=rss)
 * [2024-12-08, 12:12:00](https://soylentnews.org/article.pl?sid=24/12/06/183255&from=rss) - ['Self-Assembling' Electronics: A Wild New Manufacturing Process](https://soylentnews.org/article.pl?sid=24/12/06/183255&from=rss)
-* [2024-12-08, 07:28:00](https://soylentnews.org/article.pl?sid=24/12/06/1759234&from=rss) - [Lead in Gasoline Tied to Over 150 Million Excess Cases of Mental Health Disorders](https://soylentnews.org/article.pl?sid=24/12/06/1759234&from=rss)
 
 ## [Archives](archives/index.md)
 
