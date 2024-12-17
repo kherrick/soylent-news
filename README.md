@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-17, 11:42:00](https://soylentnews.org/article.pl?sid=24/12/16/153244&from=rss) - [Chatbot 'Encouraged Teen to Kill Parents Over Screen Time Limit'](https://soylentnews.org/article.pl?sid=24/12/16/153244&from=rss)
 * [2024-12-17, 06:54:00](https://soylentnews.org/article.pl?sid=24/12/16/1457247&from=rss) - [Worthy of a SF Movie: NASA's Juno Probe Captures an Image of a Dolphin on Jupiter's Surface](https://soylentnews.org/article.pl?sid=24/12/16/1457247&from=rss)
 * [2024-12-17, 02:09:00](https://soylentnews.org/article.pl?sid=24/12/16/1452241&from=rss) - [Cancer Screening and Quitting Smoking Have Saved Nearly 6 Million Lives](https://soylentnews.org/article.pl?sid=24/12/16/1452241&from=rss)
 * [2024-12-16, 21:17:00](https://soylentnews.org/article.pl?sid=24/12/15/1851211&from=rss) - [British Army Tries Out Drone-Destroying Laser](https://soylentnews.org/article.pl?sid=24/12/15/1851211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-08, 12:12:00](https://soylentnews.org/article.pl?sid=24/12/06/183255&from=rss) - ['Self-Assembling' Electronics: A Wild New Manufacturing Process](https://soylentnews.org/article.pl?sid=24/12/06/183255&from=rss)
 * [2024-12-08, 07:28:00](https://soylentnews.org/article.pl?sid=24/12/06/1759234&from=rss) - [Lead in Gasoline Tied to Over 150 Million Excess Cases of Mental Health Disorders](https://soylentnews.org/article.pl?sid=24/12/06/1759234&from=rss)
 * [2024-12-08, 01:45:00](https://soylentnews.org/article.pl?sid=24/12/05/234212&from=rss) - [Bitcoin Hits $100,000: What Next for the Booming Cryptocurrency?](https://soylentnews.org/article.pl?sid=24/12/05/234212&from=rss)
-* [2024-12-07, 20:53:00](https://soylentnews.org/article.pl?sid=24/12/05/1215259&from=rss) - [The Raspberry Pi 5 Now Works as a Smaller, Faster Kind of Steam Link](https://soylentnews.org/article.pl?sid=24/12/05/1215259&from=rss)
 
 ## [Archives](archives/index.md)
 
