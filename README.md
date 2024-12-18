@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-18, 21:09:00](https://soylentnews.org/article.pl?sid=24/12/18/1151240&from=rss) - [Russia Follows Ukraine in Creating Drone Forces](https://soylentnews.org/article.pl?sid=24/12/18/1151240&from=rss)
 * [2024-12-18, 16:27:00](https://soylentnews.org/article.pl?sid=24/12/18/1149222&from=rss) - [Detecting the Gravitational Wave Memory Effect From Core-Collapse Supernovae](https://soylentnews.org/article.pl?sid=24/12/18/1149222&from=rss)
 * [2024-12-18, 11:46:00](https://soylentnews.org/article.pl?sid=24/12/18/1147218&from=rss) - [Europe Will Build Its Own Secure Satellite Network](https://soylentnews.org/article.pl?sid=24/12/18/1147218&from=rss)
 * [2024-12-18, 06:47:00](https://soylentnews.org/article.pl?sid=24/12/17/1649228&from=rss) - [The Famous Bering Land Bridge Was More Like a Swamp, Geologists Say](https://soylentnews.org/article.pl?sid=24/12/17/1649228&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-09, 21:23:00](https://soylentnews.org/article.pl?sid=24/12/08/154222&from=rss) - [Intel Breaks Tradition, Opens CEO Search To Outside Candidates](https://soylentnews.org/article.pl?sid=24/12/08/154222&from=rss)
 * [2024-12-09, 16:40:00](https://soylentnews.org/article.pl?sid=24/12/08/151236&from=rss) - [Australia Is Grappling With Too Much Solar Power As Renewable Growth Outpaces Grid Capacity](https://soylentnews.org/article.pl?sid=24/12/08/151236&from=rss)
 * [2024-12-09, 11:58:00](https://soylentnews.org/article.pl?sid=24/12/08/1453224&from=rss) - [Teen Creates Memecoin, Dumps It, Earns $50,000](https://soylentnews.org/article.pl?sid=24/12/08/1453224&from=rss)
-* [2024-12-09, 07:13:00](https://soylentnews.org/article.pl?sid=24/12/07/1652216&from=rss) - [Soon, the Tech Behind ChatGPT May Help Drone Operators Decide Which Enemies to Kill](https://soylentnews.org/article.pl?sid=24/12/07/1652216&from=rss)
 
 ## [Archives](archives/index.md)
 

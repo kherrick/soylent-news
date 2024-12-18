@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 21:09:00](https://soylentnews.org/article.pl?sid=24/12/18/1151240&from=rss) - [Russia Follows Ukraine in Creating Drone Forces](https://soylentnews.org/article.pl?sid=24/12/18/1151240&from=rss)
 * [2024-12-18, 16:27:00](https://soylentnews.org/article.pl?sid=24/12/18/1149222&from=rss) - [Detecting the Gravitational Wave Memory Effect From Core-Collapse Supernovae](https://soylentnews.org/article.pl?sid=24/12/18/1149222&from=rss)
 * [2024-12-18, 11:46:00](https://soylentnews.org/article.pl?sid=24/12/18/1147218&from=rss) - [Europe Will Build Its Own Secure Satellite Network](https://soylentnews.org/article.pl?sid=24/12/18/1147218&from=rss)
 * [2024-12-18, 06:47:00](https://soylentnews.org/article.pl?sid=24/12/17/1649228&from=rss) - [The Famous Bering Land Bridge Was More Like a Swamp, Geologists Say](https://soylentnews.org/article.pl?sid=24/12/17/1649228&from=rss)
