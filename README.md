@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-19, 16:52:00](https://soylentnews.org/article.pl?sid=24/12/19/1632248&from=rss) - [How China Became the World’s Largest Car Exporter](https://soylentnews.org/article.pl?sid=24/12/19/1632248&from=rss)
 * [2024-12-19, 06:36:00](https://soylentnews.org/article.pl?sid=24/12/18/120217&from=rss) - [Traffic, OCR and Automated Fines Run Amok](https://soylentnews.org/article.pl?sid=24/12/18/120217&from=rss)
 * [2024-12-19, 01:53:00](https://soylentnews.org/politics/article.pl?sid=24/12/18/1154245&from=rss) - [China Is Halting Critical Mineral Exports to the US. An Idaho Mine Could Help](https://soylentnews.org/politics/article.pl?sid=24/12/18/1154245&from=rss)
 * [2024-12-18, 21:09:00](https://soylentnews.org/article.pl?sid=24/12/18/1151240&from=rss) - [Russia Follows Ukraine in Creating Drone Forces](https://soylentnews.org/article.pl?sid=24/12/18/1151240&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-10, 11:37:00](https://soylentnews.org/article.pl?sid=24/12/09/1949223&from=rss) - [Meta To Seek 1-4GW Of American Nuclear Power For AI](https://soylentnews.org/article.pl?sid=24/12/09/1949223&from=rss)
 * [2024-12-10, 06:52:00](https://soylentnews.org/article.pl?sid=24/12/09/1944210&from=rss) - [A Supercomputer Just Created the Largest Universe Simulation Ever](https://soylentnews.org/article.pl?sid=24/12/09/1944210&from=rss)
 * [2024-12-10, 02:10:00](https://soylentnews.org/article.pl?sid=24/12/09/105207&from=rss) - [Is AI Any Good at Choosing Gifts?](https://soylentnews.org/article.pl?sid=24/12/09/105207&from=rss)
-* [2024-12-09, 21:23:00](https://soylentnews.org/article.pl?sid=24/12/08/154222&from=rss) - [Intel Breaks Tradition, Opens CEO Search To Outside Candidates](https://soylentnews.org/article.pl?sid=24/12/08/154222&from=rss)
 
 ## [Archives](archives/index.md)
 
