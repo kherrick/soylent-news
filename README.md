@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-20, 07:06:00](https://soylentnews.org/article.pl?sid=24/12/19/175250&from=rss) - [Buying a TV in 2025? Expect Lower Prices, More Ads, and an OS War.](https://soylentnews.org/article.pl?sid=24/12/19/175250&from=rss)
 * [2024-12-20, 02:20:00](https://soylentnews.org/article.pl?sid=24/12/19/1641239&from=rss) - [Why Did Early CD-ROM Drives Rely On Awkward Plastic Caddies?](https://soylentnews.org/article.pl?sid=24/12/19/1641239&from=rss)
 * [2024-12-19, 21:37:00](https://soylentnews.org/article.pl?sid=24/12/19/1638259&from=rss) - [UK Internet Watchdog Gives Social Media Companies Three Months To Improve Safety Or Face Huge Fines](https://soylentnews.org/article.pl?sid=24/12/19/1638259&from=rss)
 * [2024-12-19, 16:52:00](https://soylentnews.org/article.pl?sid=24/12/19/1632248&from=rss) - [How China Became the World’s Largest Car Exporter](https://soylentnews.org/article.pl?sid=24/12/19/1632248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-11, 01:51:00](https://soylentnews.org/article.pl?sid=24/12/10/1141242&from=rss) - [Hawking Radiation: Not Just for Black Holes?](https://soylentnews.org/article.pl?sid=24/12/10/1141242&from=rss)
 * [2024-12-10, 21:09:00](https://soylentnews.org/article.pl?sid=24/12/10/1039201&from=rss) - [The Ghosts of India's TikTok: What Happens When a Social Media App is Banned](https://soylentnews.org/article.pl?sid=24/12/10/1039201&from=rss)
 * [2024-12-10, 16:23:00](https://soylentnews.org/article.pl?sid=24/12/09/1955228&from=rss) - [An Ethicist’s Take: is It OK to Lie to an AI Chatbot During a Job Interview?](https://soylentnews.org/article.pl?sid=24/12/09/1955228&from=rss)
-* [2024-12-10, 11:37:00](https://soylentnews.org/article.pl?sid=24/12/09/1949223&from=rss) - [Meta To Seek 1-4GW Of American Nuclear Power For AI](https://soylentnews.org/article.pl?sid=24/12/09/1949223&from=rss)
 
 ## [Archives](archives/index.md)
 
