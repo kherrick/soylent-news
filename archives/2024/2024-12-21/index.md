@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 22:07:00](https://soylentnews.org/article.pl?sid=24/12/21/038245&from=rss) - [NASA's Perseverance Rover Found a New Potential Setting for Martian Life](https://soylentnews.org/article.pl?sid=24/12/21/038245&from=rss)
 * [2024-12-21, 17:23:00](https://soylentnews.org/article.pl?sid=24/12/21/031249&from=rss) - [Google Goes Solar as Grid Can't Power its Future Datacenters](https://soylentnews.org/article.pl?sid=24/12/21/031249&from=rss)
 * [2024-12-21, 12:37:00](https://soylentnews.org/article.pl?sid=24/12/21/0254228&from=rss) - [Department Of Defense Announces $100 Million Generative AI Push](https://soylentnews.org/article.pl?sid=24/12/21/0254228&from=rss)
 * [2024-12-21, 07:52:00](https://soylentnews.org/article.pl?sid=24/12/20/1941211&from=rss) - [These Squirrels Are Cold-Blooded Vole Killers](https://soylentnews.org/article.pl?sid=24/12/20/1941211&from=rss)
