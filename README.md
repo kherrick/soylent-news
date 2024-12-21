@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-21, 03:08:00](https://soylentnews.org/article.pl?sid=24/12/20/1943257&from=rss) - [X's Declining User Base: Platform Projected To Lose Millions Of Users In 2025](https://soylentnews.org/article.pl?sid=24/12/20/1943257&from=rss)
 * [2024-12-20, 22:22:00](https://soylentnews.org/article.pl?sid=24/12/19/2326216&from=rss) - [Purple Diamond Maser Could One Day Amplify Signals From Deep Space](https://soylentnews.org/article.pl?sid=24/12/19/2326216&from=rss)
 * [2024-12-20, 17:36:00](https://soylentnews.org/article.pl?sid=24/12/19/197229&from=rss) - [South Florida's Beachfront Buildings Found to be Sinking Faster Than Expected](https://soylentnews.org/article.pl?sid=24/12/19/197229&from=rss)
 * [2024-12-20, 11:49:00](https://soylentnews.org/politics/article.pl?sid=24/12/19/1711252&from=rss) - [Wyden Law Would Give FCC Greater Power Over Telecom’s Lax Cybersecurity In Wake Of Ugly Salt Typhoon](https://soylentnews.org/politics/article.pl?sid=24/12/19/1711252&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-11, 18:49:00](https://soylentnews.org/article.pl?sid=24/12/10/1321249&from=rss) - [Samsung is Prepping 400-Layer V-NAND for Future 16TB SSD Storage and PCIE 5.0 Performance](https://soylentnews.org/article.pl?sid=24/12/10/1321249&from=rss)
 * [2024-12-11, 14:04:00](https://soylentnews.org/article.pl?sid=24/12/10/1317254&from=rss) - [Ubisoft Shareholders in Talks Over Possible Buyout Terms, Sources Say](https://soylentnews.org/article.pl?sid=24/12/10/1317254&from=rss)
 * [2024-12-11, 08:20:00](https://soylentnews.org/article.pl?sid=24/12/10/139233&from=rss) - [US House to Vote to Provide $3 Billion to Remove Chinese Telecoms Equipment](https://soylentnews.org/article.pl?sid=24/12/10/139233&from=rss)
-* [2024-12-11, 02:35:00](https://soylentnews.org/article.pl?sid=24/12/10/1154237&from=rss) - [US Clears Export of Advanced AI Chips to UAE Under Microsoft Deal](https://soylentnews.org/article.pl?sid=24/12/10/1154237&from=rss)
 
 ## [Archives](archives/index.md)
 
