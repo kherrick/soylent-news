@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-22, 12:24:00](https://soylentnews.org/article.pl?sid=24/12/21/1347204&from=rss) - [Why Childhood Vaccines are a Public Health Success Story](https://soylentnews.org/article.pl?sid=24/12/21/1347204&from=rss)
 * [2024-12-22, 07:41:00](https://soylentnews.org/article.pl?sid=24/12/21/0322239&from=rss) - [Four Hidden Species of Portuguese Man-O’-War](https://soylentnews.org/article.pl?sid=24/12/21/0322239&from=rss)
 * [2024-12-22, 02:53:00](https://soylentnews.org/article.pl?sid=24/12/21/0317256&from=rss) - [Human Thought Operates at 10 Bits Per Second, Vastly Slower Than Sensory Input](https://soylentnews.org/article.pl?sid=24/12/21/0317256&from=rss)
 * [2024-12-21, 22:07:00](https://soylentnews.org/article.pl?sid=24/12/21/038245&from=rss) - [NASA's Perseverance Rover Found a New Potential Setting for Martian Life](https://soylentnews.org/article.pl?sid=24/12/21/038245&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-13, 04:02:00](https://soylentnews.org/article.pl?sid=24/12/12/1357232&from=rss) - [It's Surprisingly Easy to Jailbreak LLM-Driven Robots](https://soylentnews.org/article.pl?sid=24/12/12/1357232&from=rss)
 * [2024-12-12, 23:20:00](https://soylentnews.org/article.pl?sid=24/12/11/1530257&from=rss) - [Mazda: Americans Want Cheap Gas Cars](https://soylentnews.org/article.pl?sid=24/12/11/1530257&from=rss)
 * [2024-12-12, 18:36:00](https://soylentnews.org/article.pl?sid=24/12/11/1527256&from=rss) - [AI: A Means to an End or a Means to Our End?](https://soylentnews.org/article.pl?sid=24/12/11/1527256&from=rss)
-* [2024-12-12, 13:51:00](https://soylentnews.org/article.pl?sid=24/12/11/1524245&from=rss) - [Literacy and Numeracy Are Declining Among OECD Adults](https://soylentnews.org/article.pl?sid=24/12/11/1524245&from=rss)
 
 ## [Archives](archives/index.md)
 
