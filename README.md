@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-23, 03:39:00](https://soylentnews.org/article.pl?sid=24/12/21/2039250&from=rss) - [Google Suggests Fixes to Search Monopoly Amid Antitrust Battle](https://soylentnews.org/article.pl?sid=24/12/21/2039250&from=rss)
 * [2024-12-22, 22:56:00](https://soylentnews.org/article.pl?sid=24/12/21/147221&from=rss) - [Ireland Wanted to Build Data Centres for the AI Boom. Now They Fear Blackouts](https://soylentnews.org/article.pl?sid=24/12/21/147221&from=rss)
 * [2024-12-22, 17:09:00](https://soylentnews.org/article.pl?sid=24/12/21/1353240&from=rss) - [Ultra-Thin Diamond Wafers for Electronics Made Using Sticky Tape](https://soylentnews.org/article.pl?sid=24/12/21/1353240&from=rss)
 * [2024-12-22, 12:24:00](https://soylentnews.org/article.pl?sid=24/12/21/1347204&from=rss) - [Why Childhood Vaccines are a Public Health Success Story](https://soylentnews.org/article.pl?sid=24/12/21/1347204&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-13, 18:23:00](https://soylentnews.org/article.pl?sid=24/12/13/0426205&from=rss) - [TSMC Lifts the Curtain on Nanosheet Transistors  and Intel Shows How Far These Devices Could Go](https://soylentnews.org/article.pl?sid=24/12/13/0426205&from=rss)
 * [2024-12-13, 13:40:00](https://soylentnews.org/article.pl?sid=24/12/13/0421233&from=rss) - [Understanding the Terrapin Attack Against SSH](https://soylentnews.org/article.pl?sid=24/12/13/0421233&from=rss)
 * [2024-12-13, 08:53:00](https://soylentnews.org/article.pl?sid=24/12/13/0418238&from=rss) - [Google's Willow Quantum Chip Breakthrough is Hidden Behind a Questionable Benchmark](https://soylentnews.org/article.pl?sid=24/12/13/0418238&from=rss)
-* [2024-12-13, 04:02:00](https://soylentnews.org/article.pl?sid=24/12/12/1357232&from=rss) - [It's Surprisingly Easy to Jailbreak LLM-Driven Robots](https://soylentnews.org/article.pl?sid=24/12/12/1357232&from=rss)
 
 ## [Archives](archives/index.md)
 
