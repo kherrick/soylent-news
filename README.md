@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-23, 17:41:00](https://soylentnews.org/article.pl?sid=24/12/21/2132204&from=rss) - [Submarine Stealth vs. AI, Drones, and Sensor Networks](https://soylentnews.org/article.pl?sid=24/12/21/2132204&from=rss)
 * [2024-12-23, 13:00:00](https://soylentnews.org/article.pl?sid=24/12/21/2117227&from=rss) - [Study Reveals Insights Into Muscle Atrophy in Astronauts](https://soylentnews.org/article.pl?sid=24/12/21/2117227&from=rss)
 * [2024-12-23, 08:24:00](https://soylentnews.org/article.pl?sid=24/12/21/214225&from=rss) - [This Tropical Virus is Spreading Out of the Amazon to the US and Europe](https://soylentnews.org/article.pl?sid=24/12/21/214225&from=rss)
 * [2024-12-23, 03:39:00](https://soylentnews.org/article.pl?sid=24/12/21/2039250&from=rss) - [Google Suggests Fixes to Search Monopoly Amid Antitrust Battle](https://soylentnews.org/article.pl?sid=24/12/21/2039250&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-14, 08:38:00](https://soylentnews.org/article.pl?sid=24/12/13/0443244&from=rss) - [Oregon Approved to Build One of the Biggest Solar Plants in the US](https://soylentnews.org/article.pl?sid=24/12/13/0443244&from=rss)
 * [2024-12-14, 03:53:00](https://soylentnews.org/article.pl?sid=24/12/13/0439254&from=rss) - [‘An Easy Button to Get Off Windows’: Amazon's New AI Moves Microsoft Apps to Linux](https://soylentnews.org/article.pl?sid=24/12/13/0439254&from=rss)
 * [2024-12-13, 23:07:00](https://soylentnews.org/article.pl?sid=24/12/13/0429208&from=rss) - [EFF Speaks Out in Court for Citizen Journalists](https://soylentnews.org/article.pl?sid=24/12/13/0429208&from=rss)
-* [2024-12-13, 18:23:00](https://soylentnews.org/article.pl?sid=24/12/13/0426205&from=rss) - [TSMC Lifts the Curtain on Nanosheet Transistors  and Intel Shows How Far These Devices Could Go](https://soylentnews.org/article.pl?sid=24/12/13/0426205&from=rss)
 
 ## [Archives](archives/index.md)
 
