@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-24](index.md)
+
+* [2024-12-24, 03:08:00](https://soylentnews.org/article.pl?sid=24/12/23/0030210&from=rss) - [Sega Considering Netflix-Like Game Subscription Service](https://soylentnews.org/article.pl?sid=24/12/23/0030210&from=rss)
