@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-25, 02:51:00](https://soylentnews.org/article.pl?sid=24/12/24/0554203&from=rss) - [Congress Again Fails to Limit Scope of Spy Powers in New Defense Bill](https://soylentnews.org/article.pl?sid=24/12/24/0554203&from=rss)
 * [2024-12-24, 22:10:00](https://soylentnews.org/article.pl?sid=24/12/24/0544236&from=rss) - [Saturn's Rings May be Far Older Than We Thought](https://soylentnews.org/article.pl?sid=24/12/24/0544236&from=rss)
 * [2024-12-24, 17:24:00](https://soylentnews.org/article.pl?sid=24/12/23/045239&from=rss) - [Watching the Generative AI Hype Bubble Deflate](https://soylentnews.org/article.pl?sid=24/12/23/045239&from=rss)
 * [2024-12-24, 12:39:00](https://soylentnews.org/article.pl?sid=24/12/23/041236&from=rss) - [Swarms of Tiny Robots Coordinate to Achieve Ant-Like Feats of Strength](https://soylentnews.org/article.pl?sid=24/12/23/041236&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-15, 17:50:00](https://soylentnews.org/article.pl?sid=24/12/14/1621248&from=rss) - [What Are The Mystery Drones Flying Over The US?](https://soylentnews.org/article.pl?sid=24/12/14/1621248&from=rss)
 * [2024-12-15, 13:07:00](https://soylentnews.org/article.pl?sid=24/12/13/0458233&from=rss) - [They Don't Make Them Like That Any More: The Yamaha DX7 Keyboard](https://soylentnews.org/article.pl?sid=24/12/13/0458233&from=rss)
 * [2024-12-15, 08:21:00](https://soylentnews.org/article.pl?sid=24/12/13/0457204&from=rss) - [AI Company Trolls San Francisco With Billboards Saying “Stop Hiring Humans”](https://soylentnews.org/article.pl?sid=24/12/13/0457204&from=rss)
-* [2024-12-15, 03:34:00](https://soylentnews.org/article.pl?sid=24/12/13/0454242&from=rss) - [Chuck E. Cheese's Animatronics Band Bows Out](https://soylentnews.org/article.pl?sid=24/12/13/0454242&from=rss)
 
 ## [Archives](archives/index.md)
 
