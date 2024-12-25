@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-25, 21:47:00](https://soylentnews.org/article.pl?sid=24/12/24/158221&from=rss) - [Make Illegally Trained LLMs Public Domain as Punishment](https://soylentnews.org/article.pl?sid=24/12/24/158221&from=rss)
 * [2024-12-25, 17:02:00](https://soylentnews.org/article.pl?sid=24/12/24/1459229&from=rss) - [Fossil Fuel-Free Jet Propulsion With Air Plasmas](https://soylentnews.org/article.pl?sid=24/12/24/1459229&from=rss)
 * [2024-12-25, 12:18:00](https://soylentnews.org/article.pl?sid=24/12/24/152233&from=rss) - [ICO Puts Foot Down on Google's Planned Fingerprinting Change](https://soylentnews.org/article.pl?sid=24/12/24/152233&from=rss)
 * [2024-12-25, 07:34:00](https://soylentnews.org/article.pl?sid=24/12/24/1455209&from=rss) - [Ancient Copper Industry in King Solomon's Mines Did Not Pollute Environment](https://soylentnews.org/article.pl?sid=24/12/24/1455209&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-16, 09:04:00](https://soylentnews.org/meta/article.pl?sid=24/12/13/155209&from=rss) - [Soylent Update - December 2024](https://soylentnews.org/meta/article.pl?sid=24/12/13/155209&from=rss)
 * [2024-12-16, 07:00:00](https://soylentnews.org/article.pl?sid=24/12/14/173231&from=rss) - [Apple Is Reportedly Making An AI Server Chip With Broadcom's Help](https://soylentnews.org/article.pl?sid=24/12/14/173231&from=rss)
 * [2024-12-16, 02:15:00](https://soylentnews.org/article.pl?sid=24/12/14/1648201&from=rss) - [Neanderthal-human Interbreeding Lasted 7,000 Years, New Study Reveals](https://soylentnews.org/article.pl?sid=24/12/14/1648201&from=rss)
-* [2024-12-15, 22:33:00](https://soylentnews.org/article.pl?sid=24/12/14/1629257&from=rss) - [Ingenuity Mars Helicopter January Grounding: What Happened?](https://soylentnews.org/article.pl?sid=24/12/14/1629257&from=rss)
 
 ## [Archives](archives/index.md)
 
