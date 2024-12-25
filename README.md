@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-25, 12:18:00](https://soylentnews.org/article.pl?sid=24/12/24/152233&from=rss) - [ICO Puts Foot Down on Google's Planned Fingerprinting Change](https://soylentnews.org/article.pl?sid=24/12/24/152233&from=rss)
 * [2024-12-25, 07:34:00](https://soylentnews.org/article.pl?sid=24/12/24/1455209&from=rss) - [Ancient Copper Industry in King Solomon's Mines Did Not Pollute Environment](https://soylentnews.org/article.pl?sid=24/12/24/1455209&from=rss)
 * [2024-12-25, 02:51:00](https://soylentnews.org/article.pl?sid=24/12/24/0554203&from=rss) - [Congress Again Fails to Limit Scope of Spy Powers in New Defense Bill](https://soylentnews.org/article.pl?sid=24/12/24/0554203&from=rss)
 * [2024-12-24, 22:10:00](https://soylentnews.org/article.pl?sid=24/12/24/0544236&from=rss) - [Saturn's Rings May be Far Older Than We Thought](https://soylentnews.org/article.pl?sid=24/12/24/0544236&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-16, 02:15:00](https://soylentnews.org/article.pl?sid=24/12/14/1648201&from=rss) - [Neanderthal-human Interbreeding Lasted 7,000 Years, New Study Reveals](https://soylentnews.org/article.pl?sid=24/12/14/1648201&from=rss)
 * [2024-12-15, 22:33:00](https://soylentnews.org/article.pl?sid=24/12/14/1629257&from=rss) - [Ingenuity Mars Helicopter January Grounding: What Happened?](https://soylentnews.org/article.pl?sid=24/12/14/1629257&from=rss)
 * [2024-12-15, 17:50:00](https://soylentnews.org/article.pl?sid=24/12/14/1621248&from=rss) - [What Are The Mystery Drones Flying Over The US?](https://soylentnews.org/article.pl?sid=24/12/14/1621248&from=rss)
-* [2024-12-15, 13:07:00](https://soylentnews.org/article.pl?sid=24/12/13/0458233&from=rss) - [They Don't Make Them Like That Any More: The Yamaha DX7 Keyboard](https://soylentnews.org/article.pl?sid=24/12/13/0458233&from=rss)
 
 ## [Archives](archives/index.md)
 
