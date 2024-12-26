@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-26, 16:43:00](https://soylentnews.org/article.pl?sid=24/12/26/1251258&from=rss) - [How to Build (and Rebuild) With Glass](https://soylentnews.org/article.pl?sid=24/12/26/1251258&from=rss)
 * [2024-12-26, 11:57:00](https://soylentnews.org/politics/article.pl?sid=24/12/24/1518232&from=rss) - [Holding Back China's Chipmaking Progress Is A Fool's Errand, Says U.S. Commerce Secretary](https://soylentnews.org/politics/article.pl?sid=24/12/24/1518232&from=rss)
 * [2024-12-26, 07:14:00](https://soylentnews.org/article.pl?sid=24/12/24/1516244&from=rss) - [Non-Destructive Microwave Radar Finds Moisture Hiding Inside a Building's Walls](https://soylentnews.org/article.pl?sid=24/12/24/1516244&from=rss)
 * [2024-12-26, 02:32:00](https://soylentnews.org/article.pl?sid=24/12/24/1512246&from=rss) - [Supreme Court Won’t Help Big Telecom Kill NY Law Requiring Affordable Broadband For Poor People](https://soylentnews.org/article.pl?sid=24/12/24/1512246&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-17, 02:09:00](https://soylentnews.org/article.pl?sid=24/12/16/1452241&from=rss) - [Cancer Screening and Quitting Smoking Have Saved Nearly 6 Million Lives](https://soylentnews.org/article.pl?sid=24/12/16/1452241&from=rss)
 * [2024-12-16, 21:17:00](https://soylentnews.org/article.pl?sid=24/12/15/1851211&from=rss) - [British Army Tries Out Drone-Destroying Laser](https://soylentnews.org/article.pl?sid=24/12/15/1851211&from=rss)
 * [2024-12-16, 16:31:00](https://soylentnews.org/article.pl?sid=24/12/15/1844240&from=rss) - [OpenAI Whistleblower Found Dead in San Francisco Apartment](https://soylentnews.org/article.pl?sid=24/12/15/1844240&from=rss)
-* [2024-12-16, 11:46:00](https://soylentnews.org/article.pl?sid=24/12/15/1841214&from=rss) - [Reclaim Your Data: Freeing a Wi-Fi Sensor From the Cloud](https://soylentnews.org/article.pl?sid=24/12/15/1841214&from=rss)
 
 ## [Archives](archives/index.md)
 
