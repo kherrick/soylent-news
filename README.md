@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-26, 07:14:00](https://soylentnews.org/article.pl?sid=24/12/24/1516244&from=rss) - [Non-Destructive Microwave Radar Finds Moisture Hiding Inside a Building's Walls](https://soylentnews.org/article.pl?sid=24/12/24/1516244&from=rss)
 * [2024-12-26, 02:32:00](https://soylentnews.org/article.pl?sid=24/12/24/1512246&from=rss) - [Supreme Court Won’t Help Big Telecom Kill NY Law Requiring Affordable Broadband For Poor People](https://soylentnews.org/article.pl?sid=24/12/24/1512246&from=rss)
 * [2024-12-25, 21:47:00](https://soylentnews.org/article.pl?sid=24/12/24/158221&from=rss) - [Make Illegally Trained LLMs Public Domain as Punishment](https://soylentnews.org/article.pl?sid=24/12/24/158221&from=rss)
 * [2024-12-25, 17:02:00](https://soylentnews.org/article.pl?sid=24/12/24/1459229&from=rss) - [Fossil Fuel-Free Jet Propulsion With Air Plasmas](https://soylentnews.org/article.pl?sid=24/12/24/1459229&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-16, 16:31:00](https://soylentnews.org/article.pl?sid=24/12/15/1844240&from=rss) - [OpenAI Whistleblower Found Dead in San Francisco Apartment](https://soylentnews.org/article.pl?sid=24/12/15/1844240&from=rss)
 * [2024-12-16, 11:46:00](https://soylentnews.org/article.pl?sid=24/12/15/1841214&from=rss) - [Reclaim Your Data: Freeing a Wi-Fi Sensor From the Cloud](https://soylentnews.org/article.pl?sid=24/12/15/1841214&from=rss)
 * [2024-12-16, 09:04:00](https://soylentnews.org/meta/article.pl?sid=24/12/13/155209&from=rss) - [Soylent Update - December 2024](https://soylentnews.org/meta/article.pl?sid=24/12/13/155209&from=rss)
-* [2024-12-16, 07:00:00](https://soylentnews.org/article.pl?sid=24/12/14/173231&from=rss) - [Apple Is Reportedly Making An AI Server Chip With Broadcom's Help](https://soylentnews.org/article.pl?sid=24/12/14/173231&from=rss)
 
 ## [Archives](archives/index.md)
 
