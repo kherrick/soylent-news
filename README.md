@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-27, 16:27:00](https://soylentnews.org/article.pl?sid=24/12/27/0819236&from=rss) - [Earth May Have Had its Water Delivered by a Vast Cloud of Vapour](https://soylentnews.org/article.pl?sid=24/12/27/0819236&from=rss)
 * [2024-12-27, 11:42:00](https://soylentnews.org/article.pl?sid=24/12/27/081243&from=rss) - [The Costs of Keeping Cool - Automotive Refrigerants](https://soylentnews.org/article.pl?sid=24/12/27/081243&from=rss)
 * [2024-12-27, 06:57:00](https://soylentnews.org/article.pl?sid=24/12/26/1424245&from=rss) - [Britain's Largest Ancient Massacre May Have Included Cannibalism](https://soylentnews.org/article.pl?sid=24/12/26/1424245&from=rss)
 * [2024-12-27, 02:12:00](https://soylentnews.org/article.pl?sid=24/12/26/1413242&from=rss) - [Web Hacking Service ‘Araneida’ Tied to Turkish IT Firm](https://soylentnews.org/article.pl?sid=24/12/26/1413242&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-18, 02:04:00](https://soylentnews.org/article.pl?sid=24/12/16/1631248&from=rss) - [Engineering the Impossible: Scientists Solve 200-Year-Old Polymer Puzzle](https://soylentnews.org/article.pl?sid=24/12/16/1631248&from=rss)
 * [2024-12-17, 21:13:00](https://soylentnews.org/article.pl?sid=24/12/16/1617237&from=rss) - [Why Materials Science is Key to Unlocking the Next Frontier of AI Development](https://soylentnews.org/article.pl?sid=24/12/16/1617237&from=rss)
 * [2024-12-17, 16:28:00](https://soylentnews.org/article.pl?sid=24/12/16/1610238&from=rss) - [Airborne Observations Identify Major Source of US Landfill Methane Emissions](https://soylentnews.org/article.pl?sid=24/12/16/1610238&from=rss)
-* [2024-12-17, 11:42:00](https://soylentnews.org/article.pl?sid=24/12/16/153244&from=rss) - [Chatbot 'Encouraged Teen to Kill Parents Over Screen Time Limit'](https://soylentnews.org/article.pl?sid=24/12/16/153244&from=rss)
 
 ## [Archives](archives/index.md)
 
