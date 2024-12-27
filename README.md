@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-27, 06:57:00](https://soylentnews.org/article.pl?sid=24/12/26/1424245&from=rss) - [Britain's Largest Ancient Massacre May Have Included Cannibalism](https://soylentnews.org/article.pl?sid=24/12/26/1424245&from=rss)
 * [2024-12-27, 02:12:00](https://soylentnews.org/article.pl?sid=24/12/26/1413242&from=rss) - [Web Hacking Service ‘Araneida’ Tied to Turkish IT Firm](https://soylentnews.org/article.pl?sid=24/12/26/1413242&from=rss)
 * [2024-12-26, 21:26:00](https://soylentnews.org/article.pl?sid=24/12/26/1254218&from=rss) - [Engineers Enable Quantum Communication Over Existing Fiber Optic Cables](https://soylentnews.org/article.pl?sid=24/12/26/1254218&from=rss)
 * [2024-12-26, 16:43:00](https://soylentnews.org/article.pl?sid=24/12/26/1251258&from=rss) - [How to Build (and Rebuild) With Glass](https://soylentnews.org/article.pl?sid=24/12/26/1251258&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-17, 16:28:00](https://soylentnews.org/article.pl?sid=24/12/16/1610238&from=rss) - [Airborne Observations Identify Major Source of US Landfill Methane Emissions](https://soylentnews.org/article.pl?sid=24/12/16/1610238&from=rss)
 * [2024-12-17, 11:42:00](https://soylentnews.org/article.pl?sid=24/12/16/153244&from=rss) - [Chatbot 'Encouraged Teen to Kill Parents Over Screen Time Limit'](https://soylentnews.org/article.pl?sid=24/12/16/153244&from=rss)
 * [2024-12-17, 06:54:00](https://soylentnews.org/article.pl?sid=24/12/16/1457247&from=rss) - [Worthy of a SF Movie: NASA's Juno Probe Captures an Image of a Dolphin on Jupiter's Surface](https://soylentnews.org/article.pl?sid=24/12/16/1457247&from=rss)
-* [2024-12-17, 02:09:00](https://soylentnews.org/article.pl?sid=24/12/16/1452241&from=rss) - [Cancer Screening and Quitting Smoking Have Saved Nearly 6 Million Lives](https://soylentnews.org/article.pl?sid=24/12/16/1452241&from=rss)
 
 ## [Archives](archives/index.md)
 
