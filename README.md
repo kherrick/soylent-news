@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-28, 21:02:00](https://soylentnews.org/article.pl?sid=24/12/28/1624221&from=rss) - [Undersea Power Cable Connecting Finland And Estonia Experiences Outage Capacity Reduced To 35%](https://soylentnews.org/article.pl?sid=24/12/28/1624221&from=rss)
 * [2024-12-28, 16:14:00](https://soylentnews.org/article.pl?sid=24/12/27/1655205&from=rss) - [NYC Gov't Sends Legal Threat to Artist for Telling People How to Use Traffic Cams to Take Selfies](https://soylentnews.org/article.pl?sid=24/12/27/1655205&from=rss)
 * [2024-12-28, 11:28:00](https://soylentnews.org/article.pl?sid=24/12/27/1649209&from=rss) - [Building a Generative AI Search Engine with PlanAI](https://soylentnews.org/article.pl?sid=24/12/27/1649209&from=rss)
 * [2024-12-28, 06:42:00](https://soylentnews.org/article.pl?sid=24/12/27/1646233&from=rss) - [Coder Wrote A Bug So Bad Security Guards Wanted A Word](https://soylentnews.org/article.pl?sid=24/12/27/1646233&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-19, 06:36:00](https://soylentnews.org/article.pl?sid=24/12/18/120217&from=rss) - [Traffic, OCR and Automated Fines Run Amok](https://soylentnews.org/article.pl?sid=24/12/18/120217&from=rss)
 * [2024-12-19, 01:53:00](https://soylentnews.org/politics/article.pl?sid=24/12/18/1154245&from=rss) - [China Is Halting Critical Mineral Exports to the US. An Idaho Mine Could Help](https://soylentnews.org/politics/article.pl?sid=24/12/18/1154245&from=rss)
 * [2024-12-18, 21:09:00](https://soylentnews.org/article.pl?sid=24/12/18/1151240&from=rss) - [Russia Follows Ukraine in Creating Drone Forces](https://soylentnews.org/article.pl?sid=24/12/18/1151240&from=rss)
-* [2024-12-18, 16:27:00](https://soylentnews.org/article.pl?sid=24/12/18/1149222&from=rss) - [Detecting the Gravitational Wave Memory Effect From Core-Collapse Supernovae](https://soylentnews.org/article.pl?sid=24/12/18/1149222&from=rss)
 
 ## [Archives](archives/index.md)
 
