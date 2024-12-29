@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-29, 11:21:00](https://soylentnews.org/article.pl?sid=24/12/28/1636244&from=rss) - [US Obesity Rates Drop for 1st Time in a Decade, With Possible Help From Weight Loss Medications](https://soylentnews.org/article.pl?sid=24/12/28/1636244&from=rss)
 * [2024-12-29, 06:34:00](https://soylentnews.org/article.pl?sid=24/12/28/1630251&from=rss) - [New Species of Nepenthes Found in Borneo, with Largest Pitchers to Date](https://soylentnews.org/article.pl?sid=24/12/28/1630251&from=rss)
 * [2024-12-29, 01:48:00](https://soylentnews.org/politics/article.pl?sid=24/12/28/1629235&from=rss) - [Trump Nominee Favors \"Destroying TSMC\" Fabs If China Invades Taiwan](https://soylentnews.org/politics/article.pl?sid=24/12/28/1629235&from=rss)
 * [2024-12-28, 21:02:00](https://soylentnews.org/article.pl?sid=24/12/28/1624221&from=rss) - [Undersea Power Cable Connecting Finland And Estonia Experiences Outage Capacity Reduced To 35%](https://soylentnews.org/article.pl?sid=24/12/28/1624221&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-20, 02:20:00](https://soylentnews.org/article.pl?sid=24/12/19/1641239&from=rss) - [Why Did Early CD-ROM Drives Rely On Awkward Plastic Caddies?](https://soylentnews.org/article.pl?sid=24/12/19/1641239&from=rss)
 * [2024-12-19, 21:37:00](https://soylentnews.org/article.pl?sid=24/12/19/1638259&from=rss) - [UK Internet Watchdog Gives Social Media Companies Three Months To Improve Safety Or Face Huge Fines](https://soylentnews.org/article.pl?sid=24/12/19/1638259&from=rss)
 * [2024-12-19, 16:52:00](https://soylentnews.org/article.pl?sid=24/12/19/1632248&from=rss) - [How China Became the World’s Largest Car Exporter](https://soylentnews.org/article.pl?sid=24/12/19/1632248&from=rss)
-* [2024-12-19, 06:36:00](https://soylentnews.org/article.pl?sid=24/12/18/120217&from=rss) - [Traffic, OCR and Automated Fines Run Amok](https://soylentnews.org/article.pl?sid=24/12/18/120217&from=rss)
 
 ## [Archives](archives/index.md)
 
