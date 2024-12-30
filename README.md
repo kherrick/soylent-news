@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-30, 16:00:00](https://soylentnews.org/article.pl?sid=24/12/29/1519221&from=rss) - [From Bankruptcy to Billions: The Revival of Motorola](https://soylentnews.org/article.pl?sid=24/12/29/1519221&from=rss)
 * [2024-12-30, 11:12:00](https://soylentnews.org/article.pl?sid=24/12/29/1438231&from=rss) - [VW Electric Cars Leaking Data](https://soylentnews.org/article.pl?sid=24/12/29/1438231&from=rss)
 * [2024-12-30, 06:27:00](https://soylentnews.org/article.pl?sid=24/12/29/1428219&from=rss) - [Forging the Digital Future](https://soylentnews.org/article.pl?sid=24/12/29/1428219&from=rss)
 * [2024-12-30, 01:45:00](https://soylentnews.org/article.pl?sid=24/12/29/1415255&from=rss) - [Intel's $475 Million Error: The Silicon Behind the Pentium Division Bug](https://soylentnews.org/article.pl?sid=24/12/29/1415255&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-21, 07:52:00](https://soylentnews.org/article.pl?sid=24/12/20/1941211&from=rss) - [These Squirrels Are Cold-Blooded Vole Killers](https://soylentnews.org/article.pl?sid=24/12/20/1941211&from=rss)
 * [2024-12-21, 03:08:00](https://soylentnews.org/article.pl?sid=24/12/20/1943257&from=rss) - [X's Declining User Base: Platform Projected To Lose Millions Of Users In 2025](https://soylentnews.org/article.pl?sid=24/12/20/1943257&from=rss)
 * [2024-12-20, 22:22:00](https://soylentnews.org/article.pl?sid=24/12/19/2326216&from=rss) - [Purple Diamond Maser Could One Day Amplify Signals From Deep Space](https://soylentnews.org/article.pl?sid=24/12/19/2326216&from=rss)
-* [2024-12-20, 17:36:00](https://soylentnews.org/article.pl?sid=24/12/19/197229&from=rss) - [South Florida's Beachfront Buildings Found to be Sinking Faster Than Expected](https://soylentnews.org/article.pl?sid=24/12/19/197229&from=rss)
 
 ## [Archives](archives/index.md)
 
