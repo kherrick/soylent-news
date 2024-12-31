@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-31, 11:00:00](https://soylentnews.org/article.pl?sid=24/12/31/0747230&from=rss) - [Happy New Year !!!](https://soylentnews.org/article.pl?sid=24/12/31/0747230&from=rss)
+* [2024-12-31, 10:52:00](https://soylentnews.org/article.pl?sid=24/12/30/1321215&from=rss) - [Generative AI Still Needs to Prove its Usefulness](https://soylentnews.org/article.pl?sid=24/12/30/1321215&from=rss)
 * [2024-12-31, 06:07:00](https://soylentnews.org/article.pl?sid=24/12/30/0454203&from=rss) - [TSMC's Arizona Plant To Start Making Advanced Chips](https://soylentnews.org/article.pl?sid=24/12/30/0454203&from=rss)
 * [2024-12-31, 01:22:00](https://soylentnews.org/article.pl?sid=24/12/30/045230&from=rss) - [Deepfakes Barely Impacted 2024 Elections Because They Aren’t Very Good, Research Finds](https://soylentnews.org/article.pl?sid=24/12/30/045230&from=rss)
 * [2024-12-30, 20:46:00](https://soylentnews.org/article.pl?sid=24/12/29/1833241&from=rss) - [Malware Botnets Exploit Outdated D-Link Routers in Recent Attacks](https://soylentnews.org/article.pl?sid=24/12/29/1833241&from=rss)
@@ -48,8 +50,6 @@
 * [2024-12-22, 12:24:00](https://soylentnews.org/article.pl?sid=24/12/21/1347204&from=rss) - [Why Childhood Vaccines are a Public Health Success Story](https://soylentnews.org/article.pl?sid=24/12/21/1347204&from=rss)
 * [2024-12-22, 07:41:00](https://soylentnews.org/article.pl?sid=24/12/21/0322239&from=rss) - [Four Hidden Species of Portuguese Man-O’-War](https://soylentnews.org/article.pl?sid=24/12/21/0322239&from=rss)
 * [2024-12-22, 02:53:00](https://soylentnews.org/article.pl?sid=24/12/21/0317256&from=rss) - [Human Thought Operates at 10 Bits Per Second, Vastly Slower Than Sensory Input](https://soylentnews.org/article.pl?sid=24/12/21/0317256&from=rss)
-* [2024-12-21, 22:07:00](https://soylentnews.org/article.pl?sid=24/12/21/038245&from=rss) - [NASA's Perseverance Rover Found a New Potential Setting for Martian Life](https://soylentnews.org/article.pl?sid=24/12/21/038245&from=rss)
-* [2024-12-21, 17:23:00](https://soylentnews.org/article.pl?sid=24/12/21/031249&from=rss) - [Google Goes Solar as Grid Can't Power its Future Datacenters](https://soylentnews.org/article.pl?sid=24/12/21/031249&from=rss)
 
 ## [Archives](archives/index.md)
 
