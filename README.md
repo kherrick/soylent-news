@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2024-12-31, 06:07:00](https://soylentnews.org/article.pl?sid=24/12/30/0454203&from=rss) - [TSMC's Arizona Plant To Start Making Advanced Chips](https://soylentnews.org/article.pl?sid=24/12/30/0454203&from=rss)
 * [2024-12-31, 01:22:00](https://soylentnews.org/article.pl?sid=24/12/30/045230&from=rss) - [Deepfakes Barely Impacted 2024 Elections Because They Aren’t Very Good, Research Finds](https://soylentnews.org/article.pl?sid=24/12/30/045230&from=rss)
 * [2024-12-30, 20:46:00](https://soylentnews.org/article.pl?sid=24/12/29/1833241&from=rss) - [Malware Botnets Exploit Outdated D-Link Routers in Recent Attacks](https://soylentnews.org/article.pl?sid=24/12/29/1833241&from=rss)
 * [2024-12-30, 17:40:00](https://soylentnews.org/article.pl?sid=24/12/30/1738228&from=rss) - [RIP - James Earl Carter Jr. (October 1, 1924 – December 29, 2024)](https://soylentnews.org/article.pl?sid=24/12/30/1738228&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-22, 02:53:00](https://soylentnews.org/article.pl?sid=24/12/21/0317256&from=rss) - [Human Thought Operates at 10 Bits Per Second, Vastly Slower Than Sensory Input](https://soylentnews.org/article.pl?sid=24/12/21/0317256&from=rss)
 * [2024-12-21, 22:07:00](https://soylentnews.org/article.pl?sid=24/12/21/038245&from=rss) - [NASA's Perseverance Rover Found a New Potential Setting for Martian Life](https://soylentnews.org/article.pl?sid=24/12/21/038245&from=rss)
 * [2024-12-21, 17:23:00](https://soylentnews.org/article.pl?sid=24/12/21/031249&from=rss) - [Google Goes Solar as Grid Can't Power its Future Datacenters](https://soylentnews.org/article.pl?sid=24/12/21/031249&from=rss)
-* [2024-12-21, 12:37:00](https://soylentnews.org/article.pl?sid=24/12/21/0254228&from=rss) - [Department Of Defense Announces $100 Million Generative AI Push](https://soylentnews.org/article.pl?sid=24/12/21/0254228&from=rss)
 
 ## [Archives](archives/index.md)
 
