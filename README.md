@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-01, 14:32:00](https://soylentnews.org/article.pl?sid=24/12/31/0754259&from=rss) - [China Wants to Restore the Sea With High-Tech Marine Ranches](https://soylentnews.org/article.pl?sid=24/12/31/0754259&from=rss)
 * [2025-01-01, 09:51:00](https://soylentnews.org/article.pl?sid=24/12/31/0423211&from=rss) - [Bluesky Finds With Growth Comes Growing Pains](https://soylentnews.org/article.pl?sid=24/12/31/0423211&from=rss)
 * [2025-01-01, 01:09:00](https://soylentnews.org/article.pl?sid=24/12/31/0417239&from=rss) - [A Public Health Emergency is Waiting at the Bottom of the Antibiotic Resistance Cliff](https://soylentnews.org/article.pl?sid=24/12/31/0417239&from=rss)
 * [2024-12-31, 20:24:00](https://soylentnews.org/article.pl?sid=24/12/30/1335211&from=rss) - [Your Smart Watch is Poisoning You — and Your Children](https://soylentnews.org/article.pl?sid=24/12/30/1335211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-23, 13:00:00](https://soylentnews.org/article.pl?sid=24/12/21/2117227&from=rss) - [Study Reveals Insights Into Muscle Atrophy in Astronauts](https://soylentnews.org/article.pl?sid=24/12/21/2117227&from=rss)
 * [2024-12-23, 08:24:00](https://soylentnews.org/article.pl?sid=24/12/21/214225&from=rss) - [This Tropical Virus is Spreading Out of the Amazon to the US and Europe](https://soylentnews.org/article.pl?sid=24/12/21/214225&from=rss)
 * [2024-12-23, 03:39:00](https://soylentnews.org/article.pl?sid=24/12/21/2039250&from=rss) - [Google Suggests Fixes to Search Monopoly Amid Antitrust Battle](https://soylentnews.org/article.pl?sid=24/12/21/2039250&from=rss)
-* [2024-12-22, 22:56:00](https://soylentnews.org/article.pl?sid=24/12/21/147221&from=rss) - [Ireland Wanted to Build Data Centres for the AI Boom. Now They Fear Blackouts](https://soylentnews.org/article.pl?sid=24/12/21/147221&from=rss)
 
 ## [Archives](archives/index.md)
 
