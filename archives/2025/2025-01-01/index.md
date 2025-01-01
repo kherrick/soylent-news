@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-01-01](index.md)
+
+* [2025-01-01, 01:09:00](https://soylentnews.org/article.pl?sid=24/12/31/0417239&from=rss) - [A Public Health Emergency is Waiting at the Bottom of the Antibiotic Resistance Cliff](https://soylentnews.org/article.pl?sid=24/12/31/0417239&from=rss)

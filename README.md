@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-01, 01:09:00](https://soylentnews.org/article.pl?sid=24/12/31/0417239&from=rss) - [A Public Health Emergency is Waiting at the Bottom of the Antibiotic Resistance Cliff](https://soylentnews.org/article.pl?sid=24/12/31/0417239&from=rss)
 * [2024-12-31, 20:24:00](https://soylentnews.org/article.pl?sid=24/12/30/1335211&from=rss) - [Your Smart Watch is Poisoning You — and Your Children](https://soylentnews.org/article.pl?sid=24/12/30/1335211&from=rss)
 * [2024-12-31, 15:37:00](https://soylentnews.org/article.pl?sid=24/12/30/1329238&from=rss) - [What Happens to Your Brain When You Know You’re Being Watched](https://soylentnews.org/article.pl?sid=24/12/30/1329238&from=rss)
 * [2024-12-31, 11:00:00](https://soylentnews.org/article.pl?sid=24/12/31/0747230&from=rss) - [Happy New Year !!!](https://soylentnews.org/article.pl?sid=24/12/31/0747230&from=rss)
@@ -49,10 +50,10 @@
 * [2024-12-23, 03:39:00](https://soylentnews.org/article.pl?sid=24/12/21/2039250&from=rss) - [Google Suggests Fixes to Search Monopoly Amid Antitrust Battle](https://soylentnews.org/article.pl?sid=24/12/21/2039250&from=rss)
 * [2024-12-22, 22:56:00](https://soylentnews.org/article.pl?sid=24/12/21/147221&from=rss) - [Ireland Wanted to Build Data Centres for the AI Boom. Now They Fear Blackouts](https://soylentnews.org/article.pl?sid=24/12/21/147221&from=rss)
 * [2024-12-22, 17:09:00](https://soylentnews.org/article.pl?sid=24/12/21/1353240&from=rss) - [Ultra-Thin Diamond Wafers for Electronics Made Using Sticky Tape](https://soylentnews.org/article.pl?sid=24/12/21/1353240&from=rss)
-* [2024-12-22, 12:24:00](https://soylentnews.org/article.pl?sid=24/12/21/1347204&from=rss) - [Why Childhood Vaccines are a Public Health Success Story](https://soylentnews.org/article.pl?sid=24/12/21/1347204&from=rss)
 
 ## [Archives](archives/index.md)
 
+* [2025](archives/2025/index.md)
 * [2024](archives/2024/index.md)
 * [2023](archives/2023/index.md)
 * [2022](archives/2022/index.md)
