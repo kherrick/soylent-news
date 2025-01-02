@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-01, 23:59:00](https://soylentnews.org/article.pl?sid=24/12/31/0812259&from=rss) - [A 9th Telecoms Firm Has Been Hit by a Massive Chinese Espionage Campaign, the White House Says](https://soylentnews.org/article.pl?sid=24/12/31/0812259&from=rss)
 * [2025-01-01, 19:21:00](https://soylentnews.org/article.pl?sid=24/12/31/089217&from=rss) - [Hallucinogens Approved for Treating Psychiatric Disorders](https://soylentnews.org/article.pl?sid=24/12/31/089217&from=rss)
 * [2025-01-01, 14:32:00](https://soylentnews.org/article.pl?sid=24/12/31/0754259&from=rss) - [China Wants to Restore the Sea With High-Tech Marine Ranches](https://soylentnews.org/article.pl?sid=24/12/31/0754259&from=rss)
 * [2025-01-01, 09:51:00](https://soylentnews.org/article.pl?sid=24/12/31/0423211&from=rss) - [Bluesky Finds With Growth Comes Growing Pains](https://soylentnews.org/article.pl?sid=24/12/31/0423211&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-23, 22:26:00](https://soylentnews.org/article.pl?sid=24/12/23/0023252&from=rss) - [Why the Long-Awaited Lightning Ban Still Took Apple by Surprise](https://soylentnews.org/article.pl?sid=24/12/23/0023252&from=rss)
 * [2024-12-23, 17:41:00](https://soylentnews.org/article.pl?sid=24/12/21/2132204&from=rss) - [Submarine Stealth vs. AI, Drones, and Sensor Networks](https://soylentnews.org/article.pl?sid=24/12/21/2132204&from=rss)
 * [2024-12-23, 13:00:00](https://soylentnews.org/article.pl?sid=24/12/21/2117227&from=rss) - [Study Reveals Insights Into Muscle Atrophy in Astronauts](https://soylentnews.org/article.pl?sid=24/12/21/2117227&from=rss)
-* [2024-12-23, 08:24:00](https://soylentnews.org/article.pl?sid=24/12/21/214225&from=rss) - [This Tropical Virus is Spreading Out of the Amazon to the US and Europe](https://soylentnews.org/article.pl?sid=24/12/21/214225&from=rss)
 
 ## [Archives](archives/index.md)
 
