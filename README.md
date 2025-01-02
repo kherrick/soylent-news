@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-02, 23:42:00](https://soylentnews.org/article.pl?sid=25/01/01/1523221&from=rss) - [ByteDance Plans to Sidestep U.S. Sanctions by Renting NVidia GPUs in the Cloud](https://soylentnews.org/article.pl?sid=25/01/01/1523221&from=rss)
 * [2025-01-02, 18:54:00](https://soylentnews.org/article.pl?sid=25/01/01/1519256&from=rss) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://soylentnews.org/article.pl?sid=25/01/01/1519256&from=rss)
 * [2025-01-02, 14:11:00](https://soylentnews.org/article.pl?sid=25/01/01/156257&from=rss) - [38th Chaos Communication Congress (38C3) Presentations Online](https://soylentnews.org/article.pl?sid=25/01/01/156257&from=rss)
 * [2025-01-02, 13:08:00](https://soylentnews.org/breakingnews/article.pl?sid=25/01/02/1311218&from=rss) - [New Year's Day:  Car Drives Into Crowd in New Orleans and Tesla Cybertruck Explodes in Las Vegas](https://soylentnews.org/breakingnews/article.pl?sid=25/01/02/1311218&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-25, 02:51:00](https://soylentnews.org/article.pl?sid=24/12/24/0554203&from=rss) - [Congress Again Fails to Limit Scope of Spy Powers in New Defense Bill](https://soylentnews.org/article.pl?sid=24/12/24/0554203&from=rss)
 * [2024-12-24, 22:10:00](https://soylentnews.org/article.pl?sid=24/12/24/0544236&from=rss) - [Saturn's Rings May be Far Older Than We Thought](https://soylentnews.org/article.pl?sid=24/12/24/0544236&from=rss)
 * [2024-12-24, 17:24:00](https://soylentnews.org/article.pl?sid=24/12/23/045239&from=rss) - [Watching the Generative AI Hype Bubble Deflate](https://soylentnews.org/article.pl?sid=24/12/23/045239&from=rss)
-* [2024-12-24, 12:39:00](https://soylentnews.org/article.pl?sid=24/12/23/041236&from=rss) - [Swarms of Tiny Robots Coordinate to Achieve Ant-Like Feats of Strength](https://soylentnews.org/article.pl?sid=24/12/23/041236&from=rss)
 
 ## [Archives](archives/index.md)
 
