@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-02, 09:27:00](https://soylentnews.org/article.pl?sid=25/01/01/1459230&from=rss) - [Do Kwon: Fugitive Cryptocrash Boss Finally Extradited to US](https://soylentnews.org/article.pl?sid=25/01/01/1459230&from=rss)
 * [2025-01-02, 04:44:00](https://soylentnews.org/article.pl?sid=25/01/01/1341234&from=rss) - [NVIDIA Believes the Robotics Market is About to Explode, Just Like Chatgpt](https://soylentnews.org/article.pl?sid=25/01/01/1341234&from=rss)
 * [2025-01-01, 23:59:00](https://soylentnews.org/article.pl?sid=24/12/31/0812259&from=rss) - [A 9th Telecoms Firm Has Been Hit by a Massive Chinese Espionage Campaign, the White House Says](https://soylentnews.org/article.pl?sid=24/12/31/0812259&from=rss)
 * [2025-01-01, 19:21:00](https://soylentnews.org/article.pl?sid=24/12/31/089217&from=rss) - [Hallucinogens Approved for Treating Psychiatric Disorders](https://soylentnews.org/article.pl?sid=24/12/31/089217&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-24, 07:53:00](https://soylentnews.org/article.pl?sid=24/12/23/0051244&from=rss) - [Online Safety Act Storm Cloud Approaching Rapidly](https://soylentnews.org/article.pl?sid=24/12/23/0051244&from=rss)
 * [2024-12-24, 03:08:00](https://soylentnews.org/article.pl?sid=24/12/23/0030210&from=rss) - [Sega Considering Netflix-Like Game Subscription Service](https://soylentnews.org/article.pl?sid=24/12/23/0030210&from=rss)
 * [2024-12-23, 22:26:00](https://soylentnews.org/article.pl?sid=24/12/23/0023252&from=rss) - [Why the Long-Awaited Lightning Ban Still Took Apple by Surprise](https://soylentnews.org/article.pl?sid=24/12/23/0023252&from=rss)
-* [2024-12-23, 17:41:00](https://soylentnews.org/article.pl?sid=24/12/21/2132204&from=rss) - [Submarine Stealth vs. AI, Drones, and Sensor Networks](https://soylentnews.org/article.pl?sid=24/12/21/2132204&from=rss)
 
 ## [Archives](archives/index.md)
 
