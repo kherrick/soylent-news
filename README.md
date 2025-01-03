@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-03, 22:28:00](https://soylentnews.org/article.pl?sid=25/01/02/1030215&from=rss) - [Hidden Underground Hydrogen Reserves Could Power The Entire Earth For Centuries](https://soylentnews.org/article.pl?sid=25/01/02/1030215&from=rss)
 * [2025-01-03, 17:41:00](https://soylentnews.org/article.pl?sid=25/01/02/1025241&from=rss) - [Autism Prevalence Reaches 61.8 Million Globally, Study Shows](https://soylentnews.org/article.pl?sid=25/01/02/1025241&from=rss)
 * [2025-01-03, 12:53:00](https://soylentnews.org/article.pl?sid=25/01/02/1014249&from=rss) - [Reverse Engineering the Duco Connectivity Board: From Black Box to Home Assistant](https://soylentnews.org/article.pl?sid=25/01/02/1014249&from=rss)
 * [2025-01-03, 10:56:00](https://soylentnews.org/article.pl?sid=25/01/02/108200&from=rss) - [Rare Lego Sharks Surface](https://soylentnews.org/article.pl?sid=25/01/02/108200&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-26, 07:14:00](https://soylentnews.org/article.pl?sid=24/12/24/1516244&from=rss) - [Non-Destructive Microwave Radar Finds Moisture Hiding Inside a Building's Walls](https://soylentnews.org/article.pl?sid=24/12/24/1516244&from=rss)
 * [2024-12-26, 02:32:00](https://soylentnews.org/article.pl?sid=24/12/24/1512246&from=rss) - [Supreme Court Won’t Help Big Telecom Kill NY Law Requiring Affordable Broadband For Poor People](https://soylentnews.org/article.pl?sid=24/12/24/1512246&from=rss)
 * [2024-12-25, 21:47:00](https://soylentnews.org/article.pl?sid=24/12/24/158221&from=rss) - [Make Illegally Trained LLMs Public Domain as Punishment](https://soylentnews.org/article.pl?sid=24/12/24/158221&from=rss)
-* [2024-12-25, 17:02:00](https://soylentnews.org/article.pl?sid=24/12/24/1459229&from=rss) - [Fossil Fuel-Free Jet Propulsion With Air Plasmas](https://soylentnews.org/article.pl?sid=24/12/24/1459229&from=rss)
 
 ## [Archives](archives/index.md)
 

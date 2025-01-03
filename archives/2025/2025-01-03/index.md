@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 22:28:00](https://soylentnews.org/article.pl?sid=25/01/02/1030215&from=rss) - [Hidden Underground Hydrogen Reserves Could Power The Entire Earth For Centuries](https://soylentnews.org/article.pl?sid=25/01/02/1030215&from=rss)
 * [2025-01-03, 17:41:00](https://soylentnews.org/article.pl?sid=25/01/02/1025241&from=rss) - [Autism Prevalence Reaches 61.8 Million Globally, Study Shows](https://soylentnews.org/article.pl?sid=25/01/02/1025241&from=rss)
 * [2025-01-03, 12:53:00](https://soylentnews.org/article.pl?sid=25/01/02/1014249&from=rss) - [Reverse Engineering the Duco Connectivity Board: From Black Box to Home Assistant](https://soylentnews.org/article.pl?sid=25/01/02/1014249&from=rss)
 * [2025-01-03, 10:56:00](https://soylentnews.org/article.pl?sid=25/01/02/108200&from=rss) - [Rare Lego Sharks Surface](https://soylentnews.org/article.pl?sid=25/01/02/108200&from=rss)
