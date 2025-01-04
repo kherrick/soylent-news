@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-04, 17:24:00](https://soylentnews.org/article.pl?sid=25/01/03/1455239&from=rss) - [Esoteric: Learn about Structure Packing and Padding](https://soylentnews.org/article.pl?sid=25/01/03/1455239&from=rss)
 * [2025-01-04, 12:40:00](https://soylentnews.org/article.pl?sid=25/01/03/1451208&from=rss) - [Finnish Investigators Discover Anchor Drag Marks of \"Almost a Hundred Kilometers\" in Cable Case](https://soylentnews.org/article.pl?sid=25/01/03/1451208&from=rss)
 * [2025-01-04, 07:58:00](https://soylentnews.org/article.pl?sid=25/01/03/1435247&from=rss) - [U.S. Treasury Confirms It Was Breached by China-Backed Hackers](https://soylentnews.org/article.pl?sid=25/01/03/1435247&from=rss)
 * [2025-01-04, 03:12:00](https://soylentnews.org/article.pl?sid=25/01/03/1433237&from=rss) - [Indiana Bakery Uses C64 as POS](https://soylentnews.org/article.pl?sid=25/01/03/1433237&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-27, 02:12:00](https://soylentnews.org/article.pl?sid=24/12/26/1413242&from=rss) - [Web Hacking Service ‘Araneida’ Tied to Turkish IT Firm](https://soylentnews.org/article.pl?sid=24/12/26/1413242&from=rss)
 * [2024-12-26, 21:26:00](https://soylentnews.org/article.pl?sid=24/12/26/1254218&from=rss) - [Engineers Enable Quantum Communication Over Existing Fiber Optic Cables](https://soylentnews.org/article.pl?sid=24/12/26/1254218&from=rss)
 * [2024-12-26, 16:43:00](https://soylentnews.org/article.pl?sid=24/12/26/1251258&from=rss) - [How to Build (and Rebuild) With Glass](https://soylentnews.org/article.pl?sid=24/12/26/1251258&from=rss)
-* [2024-12-26, 11:57:00](https://soylentnews.org/politics/article.pl?sid=24/12/24/1518232&from=rss) - [Holding Back China's Chipmaking Progress Is A Fool's Errand, Says U.S. Commerce Secretary](https://soylentnews.org/politics/article.pl?sid=24/12/24/1518232&from=rss)
 
 ## [Archives](archives/index.md)
 
