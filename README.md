@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-05, 12:23:00](https://soylentnews.org/article.pl?sid=25/01/04/2012210&from=rss) - [Cuneiform-Like Data Storage Tech Boasts Four Times the Density of Binary](https://soylentnews.org/article.pl?sid=25/01/04/2012210&from=rss)
 * [2025-01-05, 07:37:00](https://soylentnews.org/article.pl?sid=25/01/04/159246&from=rss) - [Scientists Claim Dark Energy Doesn't Exist and That Could Solve One of Universe's Biggest Mysteries](https://soylentnews.org/article.pl?sid=25/01/04/159246&from=rss)
 * [2025-01-05, 02:51:00](https://soylentnews.org/article.pl?sid=25/01/04/153244&from=rss) - [A Better DIY Seismometer Can Detect Faraway Earthquakes](https://soylentnews.org/article.pl?sid=25/01/04/153244&from=rss)
 * [2025-01-04, 22:07:00](https://soylentnews.org/article.pl?sid=25/01/04/040250&from=rss) - [NATO Plans to Build Satellite Links as Backups to Undersea Cables](https://soylentnews.org/article.pl?sid=25/01/04/040250&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-27, 21:12:00](https://soylentnews.org/article.pl?sid=24/12/27/0824209&from=rss) - [Six Months Ago NPR Left Twitter. The Effects Have Been Negligible](https://soylentnews.org/article.pl?sid=24/12/27/0824209&from=rss)
 * [2024-12-27, 16:27:00](https://soylentnews.org/article.pl?sid=24/12/27/0819236&from=rss) - [The Water on Earth Might Have Been Delivered From Space by Comets Billions of Years Ago](https://soylentnews.org/article.pl?sid=24/12/27/0819236&from=rss)
 * [2024-12-27, 11:42:00](https://soylentnews.org/article.pl?sid=24/12/27/081243&from=rss) - [The Costs of Keeping Cool - Automotive Refrigerants](https://soylentnews.org/article.pl?sid=24/12/27/081243&from=rss)
-* [2024-12-27, 06:57:00](https://soylentnews.org/article.pl?sid=24/12/26/1424245&from=rss) - [Britain's Largest Ancient Massacre May Have Included Cannibalism](https://soylentnews.org/article.pl?sid=24/12/26/1424245&from=rss)
 
 ## [Archives](archives/index.md)
 
