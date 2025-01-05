@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 22:01:00](https://soylentnews.org/article.pl?sid=25/01/04/2054216&from=rss) - [California Judge Blocks Parts Of Social Media Youth Protection Bill](https://soylentnews.org/article.pl?sid=25/01/04/2054216&from=rss)
 * [2025-01-05, 17:13:00](https://soylentnews.org/article.pl?sid=25/01/04/2049207&from=rss) - [How Poop Could Help Feed the Planet](https://soylentnews.org/article.pl?sid=25/01/04/2049207&from=rss)
 * [2025-01-05, 12:23:00](https://soylentnews.org/article.pl?sid=25/01/04/2012210&from=rss) - [Cuneiform-Like Data Storage Tech Boasts Four Times the Density of Binary](https://soylentnews.org/article.pl?sid=25/01/04/2012210&from=rss)
 * [2025-01-05, 07:37:00](https://soylentnews.org/article.pl?sid=25/01/04/159246&from=rss) - [Scientists Claim Dark Energy Doesn't Exist and That Could Solve One of Universe's Biggest Mysteries](https://soylentnews.org/article.pl?sid=25/01/04/159246&from=rss)
