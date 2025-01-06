@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-06, 12:12:00](https://soylentnews.org/article.pl?sid=25/01/05/1821250&from=rss) - [Meta's AI Profiles Are Already Polluting Instagram and Facebook With Slop](https://soylentnews.org/article.pl?sid=25/01/05/1821250&from=rss)
 * [2025-01-06, 07:31:00](https://soylentnews.org/article.pl?sid=25/01/05/1732249&from=rss) - [Apple to Pay $95m to Settle Siri Listening Case](https://soylentnews.org/article.pl?sid=25/01/05/1732249&from=rss)
 * [2025-01-06, 02:47:00](https://soylentnews.org/article.pl?sid=25/01/05/1713232&from=rss) - [Canada Joins the Hunt for Rare Earths to Make Chips](https://soylentnews.org/article.pl?sid=25/01/05/1713232&from=rss)
 * [2025-01-05, 22:01:00](https://soylentnews.org/article.pl?sid=25/01/04/2054216&from=rss) - [California Judge Blocks Parts Of Social Media Youth Protection Bill](https://soylentnews.org/article.pl?sid=25/01/04/2054216&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-28, 21:02:00](https://soylentnews.org/article.pl?sid=24/12/28/1624221&from=rss) - [Undersea Power Cable Connecting Finland And Estonia Experiences Outage Capacity Reduced To 35%](https://soylentnews.org/article.pl?sid=24/12/28/1624221&from=rss)
 * [2024-12-28, 16:14:00](https://soylentnews.org/article.pl?sid=24/12/27/1655205&from=rss) - [NYC Gov't Sends Legal Threat to Artist for Telling People How to Use Traffic Cams to Take Selfies](https://soylentnews.org/article.pl?sid=24/12/27/1655205&from=rss)
 * [2024-12-28, 11:28:00](https://soylentnews.org/article.pl?sid=24/12/27/1649209&from=rss) - [Building a Generative AI Search Engine with PlanAI](https://soylentnews.org/article.pl?sid=24/12/27/1649209&from=rss)
-* [2024-12-28, 06:42:00](https://soylentnews.org/article.pl?sid=24/12/27/1646233&from=rss) - [Coder Wrote A Bug So Bad Security Guards Wanted A Word](https://soylentnews.org/article.pl?sid=24/12/27/1646233&from=rss)
 
 ## [Archives](archives/index.md)
 
