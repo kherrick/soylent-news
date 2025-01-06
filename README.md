@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-06, 21:40:00](https://soylentnews.org/article.pl?sid=25/01/05/1833230&from=rss) - [Data Exposure at MyGiftCardSupply Highlights Risks of Digital ID Regulations](https://soylentnews.org/article.pl?sid=25/01/05/1833230&from=rss)
 * [2025-01-06, 16:55:00](https://soylentnews.org/article.pl?sid=25/01/05/1825234&from=rss) - [The Effects of ‘Brain Rot’: How Junk Content is Damaging Our Minds](https://soylentnews.org/article.pl?sid=25/01/05/1825234&from=rss)
 * [2025-01-06, 12:12:00](https://soylentnews.org/article.pl?sid=25/01/05/1821250&from=rss) - [Meta's AI Profiles Are Already Polluting Instagram and Facebook With Slop](https://soylentnews.org/article.pl?sid=25/01/05/1821250&from=rss)
 * [2025-01-06, 07:31:00](https://soylentnews.org/article.pl?sid=25/01/05/1732249&from=rss) - [Apple to Pay $95m to Settle Siri Listening Case](https://soylentnews.org/article.pl?sid=25/01/05/1732249&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-29, 06:34:00](https://soylentnews.org/article.pl?sid=24/12/28/1630251&from=rss) - [New Species of Nepenthes Found in Borneo, with Largest Pitchers to Date](https://soylentnews.org/article.pl?sid=24/12/28/1630251&from=rss)
 * [2024-12-29, 01:48:00](https://soylentnews.org/politics/article.pl?sid=24/12/28/1629235&from=rss) - [Trump Nominee Favors \"Destroying TSMC\" Fabs If China Invades Taiwan](https://soylentnews.org/politics/article.pl?sid=24/12/28/1629235&from=rss)
 * [2024-12-28, 21:02:00](https://soylentnews.org/article.pl?sid=24/12/28/1624221&from=rss) - [Undersea Power Cable Connecting Finland And Estonia Experiences Outage Capacity Reduced To 35%](https://soylentnews.org/article.pl?sid=24/12/28/1624221&from=rss)
-* [2024-12-28, 16:14:00](https://soylentnews.org/article.pl?sid=24/12/27/1655205&from=rss) - [NYC Gov't Sends Legal Threat to Artist for Telling People How to Use Traffic Cams to Take Selfies](https://soylentnews.org/article.pl?sid=24/12/27/1655205&from=rss)
 
 ## [Archives](archives/index.md)
 
