@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-06, 02:47:00](https://soylentnews.org/article.pl?sid=25/01/05/1713232&from=rss) - [Canada Joins the Hunt for Rare Earths to Make Chips](https://soylentnews.org/article.pl?sid=25/01/05/1713232&from=rss)
 * [2025-01-05, 22:01:00](https://soylentnews.org/article.pl?sid=25/01/04/2054216&from=rss) - [California Judge Blocks Parts Of Social Media Youth Protection Bill](https://soylentnews.org/article.pl?sid=25/01/04/2054216&from=rss)
 * [2025-01-05, 17:13:00](https://soylentnews.org/article.pl?sid=25/01/04/2049207&from=rss) - [How Poop Could Help Feed the Planet](https://soylentnews.org/article.pl?sid=25/01/04/2049207&from=rss)
 * [2025-01-05, 12:23:00](https://soylentnews.org/article.pl?sid=25/01/04/2012210&from=rss) - [Cuneiform-Like Data Storage Tech Boasts Four Times the Density of Binary](https://soylentnews.org/article.pl?sid=25/01/04/2012210&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-28, 11:28:00](https://soylentnews.org/article.pl?sid=24/12/27/1649209&from=rss) - [Building a Generative AI Search Engine with PlanAI](https://soylentnews.org/article.pl?sid=24/12/27/1649209&from=rss)
 * [2024-12-28, 06:42:00](https://soylentnews.org/article.pl?sid=24/12/27/1646233&from=rss) - [Coder Wrote A Bug So Bad Security Guards Wanted A Word](https://soylentnews.org/article.pl?sid=24/12/27/1646233&from=rss)
 * [2024-12-28, 01:57:00](https://soylentnews.org/article.pl?sid=24/12/27/1530247&from=rss) - [US Finalizes Up to $6.75 Billion in Chips Awards](https://soylentnews.org/article.pl?sid=24/12/27/1530247&from=rss)
-* [2024-12-27, 21:12:00](https://soylentnews.org/article.pl?sid=24/12/27/0824209&from=rss) - [Six Months Ago NPR Left Twitter. The Effects Have Been Negligible](https://soylentnews.org/article.pl?sid=24/12/27/0824209&from=rss)
 
 ## [Archives](archives/index.md)
 
