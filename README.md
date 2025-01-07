@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-07, 11:53:00](https://soylentnews.org/article.pl?sid=25/01/06/0936221&from=rss) - [MIT Scientists Pin Down The Origins Of A Fast Radio Burst](https://soylentnews.org/article.pl?sid=25/01/06/0936221&from=rss)
 * [2025-01-07, 07:06:00](https://soylentnews.org/article.pl?sid=25/01/06/0931238&from=rss) - [Automobile Sales, Including EVs and Hybrids, Surge in 2024](https://soylentnews.org/article.pl?sid=25/01/06/0931238&from=rss)
 * [2025-01-07, 02:22:00](https://soylentnews.org/article.pl?sid=25/01/05/1850229&from=rss) - [‘Mystery Volcano’ that Erupted and Cooled Earth in 1831 has Finally Been Identified](https://soylentnews.org/article.pl?sid=25/01/05/1850229&from=rss)
 * [2025-01-06, 21:40:00](https://soylentnews.org/article.pl?sid=25/01/05/1833230&from=rss) - [Data Exposure at MyGiftCardSupply Highlights Risks of Digital ID Regulations](https://soylentnews.org/article.pl?sid=25/01/05/1833230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-29, 20:57:00](https://soylentnews.org/article.pl?sid=24/12/28/180204&from=rss) - [Russian Firm Starts Shipments of AI Systems Using Homegrown CPUs, but Needs Foreign GPUs](https://soylentnews.org/article.pl?sid=24/12/28/180204&from=rss)
 * [2024-12-29, 16:08:00](https://soylentnews.org/article.pl?sid=24/12/28/1640239&from=rss) - [If You Live in One of These States, You'll Have New Privacy Protections in 2025](https://soylentnews.org/article.pl?sid=24/12/28/1640239&from=rss)
 * [2024-12-29, 11:21:00](https://soylentnews.org/article.pl?sid=24/12/28/1636244&from=rss) - [US Obesity Rates Drop for 1st Time in a Decade, With Possible Help From Weight Loss Medications](https://soylentnews.org/article.pl?sid=24/12/28/1636244&from=rss)
-* [2024-12-29, 06:34:00](https://soylentnews.org/article.pl?sid=24/12/28/1630251&from=rss) - [New Species of Nepenthes Found in Borneo, with Largest Pitchers to Date](https://soylentnews.org/article.pl?sid=24/12/28/1630251&from=rss)
 
 ## [Archives](archives/index.md)
 
