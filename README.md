@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-07, 21:26:00](https://soylentnews.org/article.pl?sid=25/01/06/0956248&from=rss) - [Hackers Injected Malicious Code Into Several Chrome Extensions In Recent Attack](https://soylentnews.org/article.pl?sid=25/01/06/0956248&from=rss)
 * [2025-01-07, 16:41:00](https://soylentnews.org/article.pl?sid=25/01/06/0954247&from=rss) - [Hybrid Work a Cause of Techno-Stress: ‘You Have to be There All the Time’](https://soylentnews.org/article.pl?sid=25/01/06/0954247&from=rss)
 * [2025-01-07, 11:53:00](https://soylentnews.org/article.pl?sid=25/01/06/0936221&from=rss) - [MIT Scientists Pin Down The Origins Of A Fast Radio Burst](https://soylentnews.org/article.pl?sid=25/01/06/0936221&from=rss)
 * [2025-01-07, 07:06:00](https://soylentnews.org/article.pl?sid=25/01/06/0931238&from=rss) - [Automobile Sales, Including EVs and Hybrids, Surge in 2024](https://soylentnews.org/article.pl?sid=25/01/06/0931238&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-30, 06:27:00](https://soylentnews.org/article.pl?sid=24/12/29/1428219&from=rss) - [Forging the Digital Future](https://soylentnews.org/article.pl?sid=24/12/29/1428219&from=rss)
 * [2024-12-30, 01:45:00](https://soylentnews.org/article.pl?sid=24/12/29/1415255&from=rss) - [Intel's $475 Million Error: The Silicon Behind the Pentium Division Bug](https://soylentnews.org/article.pl?sid=24/12/29/1415255&from=rss)
 * [2024-12-29, 20:57:00](https://soylentnews.org/article.pl?sid=24/12/28/180204&from=rss) - [Russian Firm Starts Shipments of AI Systems Using Homegrown CPUs, but Needs Foreign GPUs](https://soylentnews.org/article.pl?sid=24/12/28/180204&from=rss)
-* [2024-12-29, 16:08:00](https://soylentnews.org/article.pl?sid=24/12/28/1640239&from=rss) - [If You Live in One of These States, You'll Have New Privacy Protections in 2025](https://soylentnews.org/article.pl?sid=24/12/28/1640239&from=rss)
 
 ## [Archives](archives/index.md)
 

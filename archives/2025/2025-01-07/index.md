@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 21:26:00](https://soylentnews.org/article.pl?sid=25/01/06/0956248&from=rss) - [Hackers Injected Malicious Code Into Several Chrome Extensions In Recent Attack](https://soylentnews.org/article.pl?sid=25/01/06/0956248&from=rss)
 * [2025-01-07, 16:41:00](https://soylentnews.org/article.pl?sid=25/01/06/0954247&from=rss) - [Hybrid Work a Cause of Techno-Stress: ‘You Have to be There All the Time’](https://soylentnews.org/article.pl?sid=25/01/06/0954247&from=rss)
 * [2025-01-07, 11:53:00](https://soylentnews.org/article.pl?sid=25/01/06/0936221&from=rss) - [MIT Scientists Pin Down The Origins Of A Fast Radio Burst](https://soylentnews.org/article.pl?sid=25/01/06/0936221&from=rss)
 * [2025-01-07, 07:06:00](https://soylentnews.org/article.pl?sid=25/01/06/0931238&from=rss) - [Automobile Sales, Including EVs and Hybrids, Surge in 2024](https://soylentnews.org/article.pl?sid=25/01/06/0931238&from=rss)
