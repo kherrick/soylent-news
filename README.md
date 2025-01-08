@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-08, 11:39:00](https://soylentnews.org/article.pl?sid=25/01/07/0416244&from=rss) - [Massive Space Debris Crashes Into Kenyan Village](https://soylentnews.org/article.pl?sid=25/01/07/0416244&from=rss)
 * [2025-01-08, 06:53:00](https://soylentnews.org/article.pl?sid=25/01/07/0412206&from=rss) - [Lead Pollution Likely Caused Widespread IQ Declines in Ancient Rome](https://soylentnews.org/article.pl?sid=25/01/07/0412206&from=rss)
 * [2025-01-08, 02:08:00](https://soylentnews.org/politics/article.pl?sid=25/01/07/0349249&from=rss) - [Neutered: Federal Court Strikes Down FCC Authority to Impose Net Neutrality Rules](https://soylentnews.org/politics/article.pl?sid=25/01/07/0349249&from=rss)
 * [2025-01-07, 21:26:00](https://soylentnews.org/article.pl?sid=25/01/06/0956248&from=rss) - [Hackers Injected Malicious Code Into Several Chrome Extensions In Recent Attack](https://soylentnews.org/article.pl?sid=25/01/06/0956248&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-30, 17:40:00](https://soylentnews.org/article.pl?sid=24/12/30/1738228&from=rss) - [RIP - James Earl Carter Jr. (October 1, 1924 – December 29, 2024)](https://soylentnews.org/article.pl?sid=24/12/30/1738228&from=rss)
 * [2024-12-30, 16:00:00](https://soylentnews.org/article.pl?sid=24/12/29/1519221&from=rss) - [From Bankruptcy to Billions: The Revival of Motorola](https://soylentnews.org/article.pl?sid=24/12/29/1519221&from=rss)
 * [2024-12-30, 11:12:00](https://soylentnews.org/article.pl?sid=24/12/29/1438231&from=rss) - [VW Electric Cars Leaking Data](https://soylentnews.org/article.pl?sid=24/12/29/1438231&from=rss)
-* [2024-12-30, 06:27:00](https://soylentnews.org/article.pl?sid=24/12/29/1428219&from=rss) - [Forging the Digital Future](https://soylentnews.org/article.pl?sid=24/12/29/1428219&from=rss)
 
 ## [Archives](archives/index.md)
 
