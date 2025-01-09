@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-09, 16:10:00](https://soylentnews.org/article.pl?sid=25/01/08/1538244&from=rss) - [EU Court Fines European Commission for Breaching its Own Data Privacy Laws](https://soylentnews.org/article.pl?sid=25/01/08/1538244&from=rss)
 * [2025-01-09, 11:24:00](https://soylentnews.org/article.pl?sid=25/01/08/1535234&from=rss) - [Iron-Nitride Magnets Eliminate Need for Rare Earths](https://soylentnews.org/article.pl?sid=25/01/08/1535234&from=rss)
 * [2025-01-09, 06:42:00](https://soylentnews.org/article.pl?sid=25/01/08/1228216&from=rss) - [Facebook Is Ditching “Fact-Checkers” and Going to Community Notes Similar to X](https://soylentnews.org/article.pl?sid=25/01/08/1228216&from=rss)
 * [2025-01-09, 01:57:00](https://soylentnews.org/article.pl?sid=25/01/08/1225201&from=rss) - [Mediterranean Diet Linked to Improved Memory via Gut Bacteria Changes](https://soylentnews.org/article.pl?sid=25/01/08/1225201&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-31, 15:37:00](https://soylentnews.org/article.pl?sid=24/12/30/1329238&from=rss) - [What Happens to Your Brain When You Know You’re Being Watched](https://soylentnews.org/article.pl?sid=24/12/30/1329238&from=rss)
 * [2024-12-31, 11:00:00](https://soylentnews.org/article.pl?sid=24/12/31/0747230&from=rss) - [Happy New Year !!!](https://soylentnews.org/article.pl?sid=24/12/31/0747230&from=rss)
 * [2024-12-31, 10:52:00](https://soylentnews.org/article.pl?sid=24/12/30/1321215&from=rss) - [Generative AI Still Needs to Prove its Usefulness](https://soylentnews.org/article.pl?sid=24/12/30/1321215&from=rss)
-* [2024-12-31, 06:07:00](https://soylentnews.org/article.pl?sid=24/12/30/0454203&from=rss) - [TSMC's Arizona Plant To Start Making Advanced Chips](https://soylentnews.org/article.pl?sid=24/12/30/0454203&from=rss)
 
 ## [Archives](archives/index.md)
 
