@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-09, 06:42:00](https://soylentnews.org/article.pl?sid=25/01/08/1228216&from=rss) - [Facebook Is Ditching “Fact-Checkers” and Going to Community Notes Similar to X](https://soylentnews.org/article.pl?sid=25/01/08/1228216&from=rss)
 * [2025-01-09, 01:57:00](https://soylentnews.org/article.pl?sid=25/01/08/1225201&from=rss) - [Mediterranean Diet Linked to Improved Memory via Gut Bacteria Changes](https://soylentnews.org/article.pl?sid=25/01/08/1225201&from=rss)
 * [2025-01-08, 21:12:00](https://soylentnews.org/article.pl?sid=25/01/08/1213236&from=rss) - [Pornhub Pulls Out Of Florida, VPN Demand 'Surges 1150%' ](https://soylentnews.org/article.pl?sid=25/01/08/1213236&from=rss)
 * [2025-01-08, 16:24:00](https://soylentnews.org/article.pl?sid=25/01/07/0419230&from=rss) - [Biggest Privacy Erosion in 10 Years? On Google's Policy Change Towards Fingerprinting](https://soylentnews.org/article.pl?sid=25/01/07/0419230&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-31, 10:52:00](https://soylentnews.org/article.pl?sid=24/12/30/1321215&from=rss) - [Generative AI Still Needs to Prove its Usefulness](https://soylentnews.org/article.pl?sid=24/12/30/1321215&from=rss)
 * [2024-12-31, 06:07:00](https://soylentnews.org/article.pl?sid=24/12/30/0454203&from=rss) - [TSMC's Arizona Plant To Start Making Advanced Chips](https://soylentnews.org/article.pl?sid=24/12/30/0454203&from=rss)
 * [2024-12-31, 01:22:00](https://soylentnews.org/article.pl?sid=24/12/30/045230&from=rss) - [Deepfakes Barely Impacted 2024 Elections Because They Aren’t Very Good, Research Finds](https://soylentnews.org/article.pl?sid=24/12/30/045230&from=rss)
-* [2024-12-30, 20:46:00](https://soylentnews.org/article.pl?sid=24/12/29/1833241&from=rss) - [Malware Botnets Exploit Outdated D-Link Routers in Recent Attacks](https://soylentnews.org/article.pl?sid=24/12/29/1833241&from=rss)
 
 ## [Archives](archives/index.md)
 
