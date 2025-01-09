@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-09, 01:57:00](https://soylentnews.org/article.pl?sid=25/01/08/1225201&from=rss) - [Mediterranean Diet Linked to Improved Memory via Gut Bacteria Changes](https://soylentnews.org/article.pl?sid=25/01/08/1225201&from=rss)
 * [2025-01-08, 21:12:00](https://soylentnews.org/article.pl?sid=25/01/08/1213236&from=rss) - [Pornhub Pulls Out Of Florida, VPN Demand 'Surges 1150%' ](https://soylentnews.org/article.pl?sid=25/01/08/1213236&from=rss)
 * [2025-01-08, 16:24:00](https://soylentnews.org/article.pl?sid=25/01/07/0419230&from=rss) - [Biggest Privacy Erosion in 10 Years? On Google's Policy Change Towards Fingerprinting](https://soylentnews.org/article.pl?sid=25/01/07/0419230&from=rss)
 * [2025-01-08, 11:39:00](https://soylentnews.org/article.pl?sid=25/01/07/0416244&from=rss) - [Massive Space Debris Crashes Into Kenyan Village](https://soylentnews.org/article.pl?sid=25/01/07/0416244&from=rss)
@@ -49,7 +50,6 @@
 * [2024-12-31, 06:07:00](https://soylentnews.org/article.pl?sid=24/12/30/0454203&from=rss) - [TSMC's Arizona Plant To Start Making Advanced Chips](https://soylentnews.org/article.pl?sid=24/12/30/0454203&from=rss)
 * [2024-12-31, 01:22:00](https://soylentnews.org/article.pl?sid=24/12/30/045230&from=rss) - [Deepfakes Barely Impacted 2024 Elections Because They Aren’t Very Good, Research Finds](https://soylentnews.org/article.pl?sid=24/12/30/045230&from=rss)
 * [2024-12-30, 20:46:00](https://soylentnews.org/article.pl?sid=24/12/29/1833241&from=rss) - [Malware Botnets Exploit Outdated D-Link Routers in Recent Attacks](https://soylentnews.org/article.pl?sid=24/12/29/1833241&from=rss)
-* [2024-12-30, 17:40:00](https://soylentnews.org/article.pl?sid=24/12/30/1738228&from=rss) - [RIP - James Earl Carter Jr. (October 1, 1924 – December 29, 2024)](https://soylentnews.org/article.pl?sid=24/12/30/1738228&from=rss)
 
 ## [Archives](archives/index.md)
 
