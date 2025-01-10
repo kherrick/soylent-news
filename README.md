@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-10, 06:23:00](https://soylentnews.org/article.pl?sid=25/01/09/1346256&from=rss) - [Ants Hold Grudges, Study Suggests](https://soylentnews.org/article.pl?sid=25/01/09/1346256&from=rss)
 * [2025-01-10, 01:40:00](https://soylentnews.org/article.pl?sid=25/01/09/1341227&from=rss) - [New Orleans Attacker Used Meta Ray-Bans To Plan The Massacre](https://soylentnews.org/article.pl?sid=25/01/09/1341227&from=rss)
 * [2025-01-09, 20:56:00](https://soylentnews.org/article.pl?sid=25/01/08/1545217&from=rss) - [TSMC's Wafer Pricing Now $18,000 for a 3nm Wafer, Increased Over 3X in 10 Years](https://soylentnews.org/article.pl?sid=25/01/08/1545217&from=rss)
 * [2025-01-09, 16:10:00](https://soylentnews.org/article.pl?sid=25/01/08/1538244&from=rss) - [EU Court Fines European Commission for Breaching its Own Data Privacy Laws](https://soylentnews.org/article.pl?sid=25/01/08/1538244&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-01, 09:51:00](https://soylentnews.org/article.pl?sid=24/12/31/0423211&from=rss) - [Bluesky Finds With Growth Comes Growing Pains](https://soylentnews.org/article.pl?sid=24/12/31/0423211&from=rss)
 * [2025-01-01, 01:09:00](https://soylentnews.org/article.pl?sid=24/12/31/0417239&from=rss) - [A Public Health Emergency is Waiting at the Bottom of the Antibiotic Resistance Cliff](https://soylentnews.org/article.pl?sid=24/12/31/0417239&from=rss)
 * [2024-12-31, 20:24:00](https://soylentnews.org/article.pl?sid=24/12/30/1335211&from=rss) - [Your Smart Watch is Poisoning You — and Your Children](https://soylentnews.org/article.pl?sid=24/12/30/1335211&from=rss)
-* [2024-12-31, 15:37:00](https://soylentnews.org/article.pl?sid=24/12/30/1329238&from=rss) - [What Happens to Your Brain When You Know You’re Being Watched](https://soylentnews.org/article.pl?sid=24/12/30/1329238&from=rss)
 
 ## [Archives](archives/index.md)
 
