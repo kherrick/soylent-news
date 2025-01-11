@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-11, 05:04:00](https://soylentnews.org/article.pl?sid=25/01/10/1534249&from=rss) - [Nvidia CEO: Quantum Computing is Still 20 Yrs Away](https://soylentnews.org/article.pl?sid=25/01/10/1534249&from=rss)
 * [2025-01-11, 00:20:00](https://soylentnews.org/article.pl?sid=25/01/10/1251228&from=rss) - [Chick-fil-A’s Lemon-Squeezing Robots Are Saving 10,000 Hours of Work](https://soylentnews.org/article.pl?sid=25/01/10/1251228&from=rss)
 * [2025-01-10, 19:35:00](https://soylentnews.org/article.pl?sid=25/01/10/1246225&from=rss) - [Eutelsat Oneweb Blames 366th Day for 48-Hour Date Disaster](https://soylentnews.org/article.pl?sid=25/01/10/1246225&from=rss)
 * [2025-01-10, 14:52:00](https://soylentnews.org/article.pl?sid=25/01/09/203218&from=rss) - [Now Telecoms Are Fighting Among Themselves Over Who Lies More About ‘Unlimited Data’](https://soylentnews.org/article.pl?sid=25/01/09/203218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-02, 09:27:00](https://soylentnews.org/article.pl?sid=25/01/01/1459230&from=rss) - [Do Kwon: Fugitive Cryptocrash Boss Finally Extradited to US](https://soylentnews.org/article.pl?sid=25/01/01/1459230&from=rss)
 * [2025-01-02, 04:44:00](https://soylentnews.org/article.pl?sid=25/01/01/1341234&from=rss) - [NVIDIA Believes the Robotics Market is About to Explode, Just Like Chatgpt](https://soylentnews.org/article.pl?sid=25/01/01/1341234&from=rss)
 * [2025-01-01, 23:59:00](https://soylentnews.org/article.pl?sid=24/12/31/0812259&from=rss) - [A 9th Telecoms Firm Has Been Hit by a Massive Chinese Espionage Campaign, the White House Says](https://soylentnews.org/article.pl?sid=24/12/31/0812259&from=rss)
-* [2025-01-01, 19:21:00](https://soylentnews.org/article.pl?sid=24/12/31/089217&from=rss) - [Hallucinogens Approved for Treating Psychiatric Disorders](https://soylentnews.org/article.pl?sid=24/12/31/089217&from=rss)
 
 ## [Archives](archives/index.md)
 
