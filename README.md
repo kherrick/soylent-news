@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-11, 17:58:00](https://soylentnews.org/article.pl?sid=25/01/11/142218&from=rss) - [Gentrified Doom Remake Trades Chainsaw for Cheese Knife](https://soylentnews.org/article.pl?sid=25/01/11/142218&from=rss)
 * [2025-01-11, 14:34:00](https://soylentnews.org/article.pl?sid=25/01/10/1547205&from=rss) - [How I Program With LLMs](https://soylentnews.org/article.pl?sid=25/01/10/1547205&from=rss)
 * [2025-01-11, 09:48:00](https://soylentnews.org/article.pl?sid=25/01/10/1528246&from=rss) - [Prepare for the New Season as a Fish Doorbell Ringer](https://soylentnews.org/article.pl?sid=25/01/10/1528246&from=rss)
 * [2025-01-11, 05:04:00](https://soylentnews.org/article.pl?sid=25/01/10/1534249&from=rss) - [Nvidia CEO: Quantum Computing is Still 20 Yrs Away](https://soylentnews.org/article.pl?sid=25/01/10/1534249&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-02, 18:54:00](https://soylentnews.org/article.pl?sid=25/01/01/1519256&from=rss) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://soylentnews.org/article.pl?sid=25/01/01/1519256&from=rss)
 * [2025-01-02, 14:11:00](https://soylentnews.org/article.pl?sid=25/01/01/156257&from=rss) - [38th Chaos Communication Congress (38C3) Presentations Online](https://soylentnews.org/article.pl?sid=25/01/01/156257&from=rss)
 * [2025-01-02, 13:08:00](https://soylentnews.org/breakingnews/article.pl?sid=25/01/02/1311218&from=rss) - [New Year's Day:  Car Drives Into Crowd in New Orleans and Tesla Cybertruck Explodes in Las Vegas](https://soylentnews.org/breakingnews/article.pl?sid=25/01/02/1311218&from=rss)
-* [2025-01-02, 09:27:00](https://soylentnews.org/article.pl?sid=25/01/01/1459230&from=rss) - [Do Kwon: Fugitive Cryptocrash Boss Finally Extradited to US](https://soylentnews.org/article.pl?sid=25/01/01/1459230&from=rss)
 
 ## [Archives](archives/index.md)
 
