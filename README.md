@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-12, 04:52:00](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss) - [Engineer Creates OpenAI-Powered Robotic Sentry Rifle](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss)
 * [2025-01-12, 00:05:00](https://soylentnews.org/article.pl?sid=25/01/10/1556235&from=rss) - [AI Unveils Strange Chip Designs, While Discovering New Functionalities](https://soylentnews.org/article.pl?sid=25/01/10/1556235&from=rss)
 * [2025-01-11, 19:21:00](https://soylentnews.org/article.pl?sid=25/01/10/1554200&from=rss) - [US Reports First Human Death Related To Bird Flu](https://soylentnews.org/article.pl?sid=25/01/10/1554200&from=rss)
 * [2025-01-11, 17:58:00](https://soylentnews.org/article.pl?sid=25/01/11/142218&from=rss) - [Gentrified Doom Remake Trades Chainsaw for Cheese Knife](https://soylentnews.org/article.pl?sid=25/01/11/142218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-03, 09:12:00](https://soylentnews.org/article.pl?sid=25/01/02/105233&from=rss) - [Chinese Organized Crime's Latest U.S. Target: Gift Cards](https://soylentnews.org/article.pl?sid=25/01/02/105233&from=rss)
 * [2025-01-03, 04:26:00](https://soylentnews.org/article.pl?sid=25/01/01/1532216&from=rss) - [Concerning Findings: Microplastics in the Air Could be Causing Cancer](https://soylentnews.org/article.pl?sid=25/01/01/1532216&from=rss)
 * [2025-01-02, 23:42:00](https://soylentnews.org/article.pl?sid=25/01/01/1523221&from=rss) - [ByteDance Plans to Sidestep U.S. Sanctions by Renting NVidia GPUs in the Cloud](https://soylentnews.org/article.pl?sid=25/01/01/1523221&from=rss)
-* [2025-01-02, 18:54:00](https://soylentnews.org/article.pl?sid=25/01/01/1519256&from=rss) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://soylentnews.org/article.pl?sid=25/01/01/1519256&from=rss)
 
 ## [Archives](archives/index.md)
 
