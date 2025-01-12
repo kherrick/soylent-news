@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-12, 19:06:00](https://soylentnews.org/article.pl?sid=25/01/11/1459220&from=rss) - [Former MoviePass CEO Pleads Guilty to Fraud, Faces Up to 25 Years in Prison](https://soylentnews.org/article.pl?sid=25/01/11/1459220&from=rss)
 * [2025-01-12, 14:23:00](https://soylentnews.org/article.pl?sid=25/01/11/1422220&from=rss) - [Kicking Datacenters' Drinking Habit is Nearly Impossible](https://soylentnews.org/article.pl?sid=25/01/11/1422220&from=rss)
 * [2025-01-12, 09:38:00](https://soylentnews.org/article.pl?sid=25/01/11/1411215&from=rss) - [Kids Can't Use Computers... and This is Why It Should Worry You (2013)](https://soylentnews.org/article.pl?sid=25/01/11/1411215&from=rss)
 * [2025-01-12, 04:52:00](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss) - [Engineer Creates OpenAI-Powered Robotic Sentry Rifle](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-03, 17:41:00](https://soylentnews.org/article.pl?sid=25/01/02/1025241&from=rss) - [Autism Prevalence Reaches 61.8 Million Globally, Study Shows](https://soylentnews.org/article.pl?sid=25/01/02/1025241&from=rss)
 * [2025-01-03, 12:53:00](https://soylentnews.org/article.pl?sid=25/01/02/1014249&from=rss) - [Reverse Engineering the Duco Connectivity Board: From Black Box to Home Assistant](https://soylentnews.org/article.pl?sid=25/01/02/1014249&from=rss)
 * [2025-01-03, 10:56:00](https://soylentnews.org/article.pl?sid=25/01/02/108200&from=rss) - [Rare Lego Sharks Surface](https://soylentnews.org/article.pl?sid=25/01/02/108200&from=rss)
-* [2025-01-03, 09:12:00](https://soylentnews.org/article.pl?sid=25/01/02/105233&from=rss) - [Chinese Organized Crime's Latest U.S. Target: Gift Cards](https://soylentnews.org/article.pl?sid=25/01/02/105233&from=rss)
 
 ## [Archives](archives/index.md)
 
