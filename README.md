@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-13, 09:17:00](https://soylentnews.org/article.pl?sid=25/01/12/1458219&from=rss) - [Inside the War Against Headlight Brightness](https://soylentnews.org/article.pl?sid=25/01/12/1458219&from=rss)
 * [2025-01-13, 04:34:00](https://soylentnews.org/article.pl?sid=25/01/12/1455259&from=rss) - [German Router Maker is Latest Company to Inadvertently Clarify the LGPL License](https://soylentnews.org/article.pl?sid=25/01/12/1455259&from=rss)
 * [2025-01-12, 23:48:00](https://soylentnews.org/article.pl?sid=25/01/12/1354247&from=rss) - [It's Remarkably Easy to Inject New Medical Misinformation Into LLMs](https://soylentnews.org/article.pl?sid=25/01/12/1354247&from=rss)
 * [2025-01-12, 19:06:00](https://soylentnews.org/article.pl?sid=25/01/11/1459220&from=rss) - [Former MoviePass CEO Pleads Guilty to Fraud, Faces Up to 25 Years in Prison](https://soylentnews.org/article.pl?sid=25/01/11/1459220&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-04, 07:58:00](https://soylentnews.org/article.pl?sid=25/01/03/1435247&from=rss) - [U.S. Treasury Confirms It Was Breached by China-Backed Hackers](https://soylentnews.org/article.pl?sid=25/01/03/1435247&from=rss)
 * [2025-01-04, 03:12:00](https://soylentnews.org/article.pl?sid=25/01/03/1433237&from=rss) - [Indiana Bakery Uses C64 as POS](https://soylentnews.org/article.pl?sid=25/01/03/1433237&from=rss)
 * [2025-01-03, 22:28:00](https://soylentnews.org/article.pl?sid=25/01/02/1030215&from=rss) - [Hidden Underground Hydrogen Reserves Could Power The Entire Earth For Centuries](https://soylentnews.org/article.pl?sid=25/01/02/1030215&from=rss)
-* [2025-01-03, 17:41:00](https://soylentnews.org/article.pl?sid=25/01/02/1025241&from=rss) - [Autism Prevalence Reaches 61.8 Million Globally, Study Shows](https://soylentnews.org/article.pl?sid=25/01/02/1025241&from=rss)
 
 ## [Archives](archives/index.md)
 
