@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-14, 13:57:00](https://soylentnews.org/article.pl?sid=25/01/13/199235&from=rss) - [TSMC's Arizona Fab 21 is Already Making 4nm Chips - Yield and Quality Reportedly on Par With Taiwan](https://soylentnews.org/article.pl?sid=25/01/13/199235&from=rss)
 * [2025-01-14, 09:09:00](https://soylentnews.org/article.pl?sid=25/01/13/0522231&from=rss) - [\"Forever Chemicals\" in Water and Wildlife](https://soylentnews.org/article.pl?sid=25/01/13/0522231&from=rss)
 * [2025-01-14, 04:22:00](https://soylentnews.org/article.pl?sid=25/01/13/0513203&from=rss) - [Google Researchers Can Create an AI That Thinks a Lot Like You After Just a Two-Hour Interview](https://soylentnews.org/article.pl?sid=25/01/13/0513203&from=rss)
 * [2025-01-13, 23:34:00](https://soylentnews.org/article.pl?sid=25/01/13/059201&from=rss) - [De-smarting the Marshall Uxbridge](https://soylentnews.org/article.pl?sid=25/01/13/059201&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-05, 12:23:00](https://soylentnews.org/article.pl?sid=25/01/04/2012210&from=rss) - [Cuneiform-Like Data Storage Tech Boasts Four Times the Density of Binary](https://soylentnews.org/article.pl?sid=25/01/04/2012210&from=rss)
 * [2025-01-05, 07:37:00](https://soylentnews.org/article.pl?sid=25/01/04/159246&from=rss) - [Scientists Claim Dark Energy Doesn't Exist and That Could Solve One of Universe's Biggest Mysteries](https://soylentnews.org/article.pl?sid=25/01/04/159246&from=rss)
 * [2025-01-05, 02:51:00](https://soylentnews.org/article.pl?sid=25/01/04/153244&from=rss) - [A Better DIY Seismometer Can Detect Faraway Earthquakes](https://soylentnews.org/article.pl?sid=25/01/04/153244&from=rss)
-* [2025-01-04, 22:07:00](https://soylentnews.org/article.pl?sid=25/01/04/040250&from=rss) - [NATO Plans to Build Satellite Links as Backups to Undersea Cables](https://soylentnews.org/article.pl?sid=25/01/04/040250&from=rss)
 
 ## [Archives](archives/index.md)
 
