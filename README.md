@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-13, 23:34:00](https://soylentnews.org/article.pl?sid=25/01/13/059201&from=rss) - [De-smarting the Marshall Uxbridge](https://soylentnews.org/article.pl?sid=25/01/13/059201&from=rss)
 * [2025-01-13, 18:49:00](https://soylentnews.org/article.pl?sid=25/01/13/051210&from=rss) - [Velvet Ants Have The Swiss Army Knife Of Venoms](https://soylentnews.org/article.pl?sid=25/01/13/051210&from=rss)
 * [2025-01-13, 14:04:00](https://soylentnews.org/article.pl?sid=25/01/12/2123210&from=rss) - [Researcher Turns Insecure License Plate Cameras Into Open Source Surveillance Tool](https://soylentnews.org/article.pl?sid=25/01/12/2123210&from=rss)
 * [2025-01-13, 09:17:00](https://soylentnews.org/article.pl?sid=25/01/12/1458219&from=rss) - [Inside the War Against Headlight Brightness](https://soylentnews.org/article.pl?sid=25/01/12/1458219&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-04, 22:07:00](https://soylentnews.org/article.pl?sid=25/01/04/040250&from=rss) - [NATO Plans to Build Satellite Links as Backups to Undersea Cables](https://soylentnews.org/article.pl?sid=25/01/04/040250&from=rss)
 * [2025-01-04, 17:24:00](https://soylentnews.org/article.pl?sid=25/01/03/1455239&from=rss) - [Esoteric: Learn about Structure Packing and Padding](https://soylentnews.org/article.pl?sid=25/01/03/1455239&from=rss)
 * [2025-01-04, 12:40:00](https://soylentnews.org/article.pl?sid=25/01/03/1451208&from=rss) - [Finnish Investigators Discover Anchor Drag Marks of \"Almost a Hundred Kilometers\" in Cable Case](https://soylentnews.org/article.pl?sid=25/01/03/1451208&from=rss)
-* [2025-01-04, 07:58:00](https://soylentnews.org/article.pl?sid=25/01/03/1435247&from=rss) - [U.S. Treasury Confirms It Was Breached by China-Backed Hackers](https://soylentnews.org/article.pl?sid=25/01/03/1435247&from=rss)
 
 ## [Archives](archives/index.md)
 
