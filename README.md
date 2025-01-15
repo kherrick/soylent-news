@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-15, 09:54:00](https://soylentnews.org/article.pl?sid=25/01/14/2015225&from=rss) - [Paleolithic Ingenuity: 13,000-Year-Old 3D Map Discovered in France](https://soylentnews.org/article.pl?sid=25/01/14/2015225&from=rss)
 * [2025-01-15, 04:07:00](https://soylentnews.org/article.pl?sid=25/01/13/1928254&from=rss) - [Bricking Teslas - Whose Auto is it Anyway?](https://soylentnews.org/article.pl?sid=25/01/13/1928254&from=rss)
 * [2025-01-14, 23:23:00](https://soylentnews.org/article.pl?sid=25/01/13/1921245&from=rss) - [Rational or Not? This Basic Math Question Took Decades to Answer.](https://soylentnews.org/article.pl?sid=25/01/13/1921245&from=rss)
 * [2025-01-14, 18:42:00](https://soylentnews.org/article.pl?sid=25/01/13/1912247&from=rss) - [Scientists Just Excavated An Unprecedented Specimen From Antarctica](https://soylentnews.org/article.pl?sid=25/01/13/1912247&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-06, 07:31:00](https://soylentnews.org/article.pl?sid=25/01/05/1732249&from=rss) - [Apple to Pay $95m to Settle Siri Listening Case](https://soylentnews.org/article.pl?sid=25/01/05/1732249&from=rss)
 * [2025-01-06, 02:47:00](https://soylentnews.org/article.pl?sid=25/01/05/1713232&from=rss) - [Canada Joins the Hunt for Rare Earths to Make Chips](https://soylentnews.org/article.pl?sid=25/01/05/1713232&from=rss)
 * [2025-01-05, 22:01:00](https://soylentnews.org/article.pl?sid=25/01/04/2054216&from=rss) - [California Judge Blocks Parts Of Social Media Youth Protection Bill](https://soylentnews.org/article.pl?sid=25/01/04/2054216&from=rss)
-* [2025-01-05, 17:13:00](https://soylentnews.org/article.pl?sid=25/01/04/2049207&from=rss) - [How Poop Could Help Feed the Planet](https://soylentnews.org/article.pl?sid=25/01/04/2049207&from=rss)
 
 ## [Archives](archives/index.md)
 
