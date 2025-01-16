@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2025-01-16, 09:36:00](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss) - [A Guide to Debouncing, or, How to Debounce a Contact in Two Easy Pages, by Jack Ganssle](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss)
+* [2025-01-16, 09:36:00](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss) - [A Guide to Debouncing, or, How to Debounce a Contact in Two Easy Pages](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss)
 * [2025-01-16, 04:50:00](https://soylentnews.org/article.pl?sid=25/01/15/0253204&from=rss) - [Completing the Oregon Trail If You Wait at a River for 14272 Years: A Study](https://soylentnews.org/article.pl?sid=25/01/15/0253204&from=rss)
 * [2025-01-16, 00:03:00](https://soylentnews.org/article.pl?sid=25/01/15/0244248&from=rss) - [Tech Trends and Breakthroughs of 2025](https://soylentnews.org/article.pl?sid=25/01/15/0244248&from=rss)
 * [2025-01-15, 19:21:00](https://soylentnews.org/article.pl?sid=25/01/15/022249&from=rss) - [Technology is Supposed to Decrease Teacher Burnout—It Can Sometimes Make It Worse](https://soylentnews.org/article.pl?sid=25/01/15/022249&from=rss)
