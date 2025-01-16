@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-16, 09:36:00](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss) - [A Guide to Debouncing, or, How to Debounce a Contact in Two Easy Pages, by Jack Ganssle](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss)
 * [2025-01-16, 04:50:00](https://soylentnews.org/article.pl?sid=25/01/15/0253204&from=rss) - [Completing the Oregon Trail If You Wait at a River for 14272 Years: A Study](https://soylentnews.org/article.pl?sid=25/01/15/0253204&from=rss)
 * [2025-01-16, 00:03:00](https://soylentnews.org/article.pl?sid=25/01/15/0244248&from=rss) - [Tech Trends and Breakthroughs of 2025](https://soylentnews.org/article.pl?sid=25/01/15/0244248&from=rss)
 * [2025-01-15, 19:21:00](https://soylentnews.org/article.pl?sid=25/01/15/022249&from=rss) - [Technology is Supposed to Decrease Teacher Burnout—It Can Sometimes Make It Worse](https://soylentnews.org/article.pl?sid=25/01/15/022249&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-07, 07:06:00](https://soylentnews.org/article.pl?sid=25/01/06/0931238&from=rss) - [Automobile Sales, Including EVs and Hybrids, Surge in 2024](https://soylentnews.org/article.pl?sid=25/01/06/0931238&from=rss)
 * [2025-01-07, 02:22:00](https://soylentnews.org/article.pl?sid=25/01/05/1850229&from=rss) - [‘Mystery Volcano’ that Erupted and Cooled Earth in 1831 has Finally Been Identified](https://soylentnews.org/article.pl?sid=25/01/05/1850229&from=rss)
 * [2025-01-06, 21:40:00](https://soylentnews.org/article.pl?sid=25/01/05/1833230&from=rss) - [Data Exposure at MyGiftCardSupply Highlights Risks of Digital ID Regulations](https://soylentnews.org/article.pl?sid=25/01/05/1833230&from=rss)
-* [2025-01-06, 16:55:00](https://soylentnews.org/article.pl?sid=25/01/05/1825234&from=rss) - [The Effects of ‘Brain Rot’: How Junk Content is Damaging Our Minds](https://soylentnews.org/article.pl?sid=25/01/05/1825234&from=rss)
 
 ## [Archives](archives/index.md)
 
