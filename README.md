@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-16, 04:50:00](https://soylentnews.org/article.pl?sid=25/01/15/0253204&from=rss) - [Completing the Oregon Trail If You Wait at a River for 14272 Years: A Study](https://soylentnews.org/article.pl?sid=25/01/15/0253204&from=rss)
 * [2025-01-16, 00:03:00](https://soylentnews.org/article.pl?sid=25/01/15/0244248&from=rss) - [Tech Trends and Breakthroughs of 2025](https://soylentnews.org/article.pl?sid=25/01/15/0244248&from=rss)
 * [2025-01-15, 19:21:00](https://soylentnews.org/article.pl?sid=25/01/15/022249&from=rss) - [Technology is Supposed to Decrease Teacher Burnout—It Can Sometimes Make It Worse](https://soylentnews.org/article.pl?sid=25/01/15/022249&from=rss)
 * [2025-01-15, 14:36:00](https://soylentnews.org/article.pl?sid=25/01/15/0147230&from=rss) - [High Court Ruling Ends Man's Hopes of Recovering $750M Bitcoin Hard Drive From a Welsh Landfill](https://soylentnews.org/article.pl?sid=25/01/15/0147230&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-07, 02:22:00](https://soylentnews.org/article.pl?sid=25/01/05/1850229&from=rss) - [‘Mystery Volcano’ that Erupted and Cooled Earth in 1831 has Finally Been Identified](https://soylentnews.org/article.pl?sid=25/01/05/1850229&from=rss)
 * [2025-01-06, 21:40:00](https://soylentnews.org/article.pl?sid=25/01/05/1833230&from=rss) - [Data Exposure at MyGiftCardSupply Highlights Risks of Digital ID Regulations](https://soylentnews.org/article.pl?sid=25/01/05/1833230&from=rss)
 * [2025-01-06, 16:55:00](https://soylentnews.org/article.pl?sid=25/01/05/1825234&from=rss) - [The Effects of ‘Brain Rot’: How Junk Content is Damaging Our Minds](https://soylentnews.org/article.pl?sid=25/01/05/1825234&from=rss)
-* [2025-01-06, 12:12:00](https://soylentnews.org/article.pl?sid=25/01/05/1821250&from=rss) - [Meta's AI Profiles Are Already Polluting Instagram and Facebook With Slop](https://soylentnews.org/article.pl?sid=25/01/05/1821250&from=rss)
 
 ## [Archives](archives/index.md)
 
