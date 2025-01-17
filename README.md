@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-17, 01:56:00](https://soylentnews.org/article.pl?sid=25/01/16/1049214&from=rss) - [Reversible Computing Escapes the Lab in 2025](https://soylentnews.org/article.pl?sid=25/01/16/1049214&from=rss)
 * [2025-01-16, 21:09:00](https://soylentnews.org/article.pl?sid=25/01/16/1043211&from=rss) - [FTC, States Sue Deere & Company to Protect Farmers from Unfair Corporate Tactics, High Repair Costs](https://soylentnews.org/article.pl?sid=25/01/16/1043211&from=rss)
 * [2025-01-16, 15:23:00](https://soylentnews.org/article.pl?sid=25/01/16/1024248&from=rss) - [Petition on EU Linux Operating System in Public Administrations](https://soylentnews.org/article.pl?sid=25/01/16/1024248&from=rss)
 * [2025-01-16, 09:36:00](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss) - [A Guide to Debouncing, or, How to Debounce a Contact in Two Easy Pages](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-07, 21:26:00](https://soylentnews.org/article.pl?sid=25/01/06/0956248&from=rss) - [Hackers Injected Malicious Code Into Several Chrome Extensions In Recent Attack](https://soylentnews.org/article.pl?sid=25/01/06/0956248&from=rss)
 * [2025-01-07, 16:41:00](https://soylentnews.org/article.pl?sid=25/01/06/0954247&from=rss) - [Hybrid Work a Cause of Techno-Stress: ‘You Have to be There All the Time’](https://soylentnews.org/article.pl?sid=25/01/06/0954247&from=rss)
 * [2025-01-07, 11:53:00](https://soylentnews.org/article.pl?sid=25/01/06/0936221&from=rss) - [MIT Scientists Pin Down The Origins Of A Fast Radio Burst](https://soylentnews.org/article.pl?sid=25/01/06/0936221&from=rss)
-* [2025-01-07, 07:06:00](https://soylentnews.org/article.pl?sid=25/01/06/0931238&from=rss) - [Automobile Sales, Including EVs and Hybrids, Surge in 2024](https://soylentnews.org/article.pl?sid=25/01/06/0931238&from=rss)
 
 ## [Archives](archives/index.md)
 
