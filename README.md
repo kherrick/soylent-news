@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-17, 11:12:00](https://soylentnews.org/article.pl?sid=25/01/16/1155210&from=rss) - [Ancient Genomes Reveal an Iron Age Society Centered on Women](https://soylentnews.org/article.pl?sid=25/01/16/1155210&from=rss)
 * [2025-01-17, 06:42:00](https://soylentnews.org/article.pl?sid=25/01/16/1151221&from=rss) - [Meta Takes Us a Step Closer to Star Trek's Universal Translator](https://soylentnews.org/article.pl?sid=25/01/16/1151221&from=rss)
 * [2025-01-17, 01:56:00](https://soylentnews.org/article.pl?sid=25/01/16/1049214&from=rss) - [Reversible Computing Escapes the Lab in 2025](https://soylentnews.org/article.pl?sid=25/01/16/1049214&from=rss)
 * [2025-01-16, 21:09:00](https://soylentnews.org/article.pl?sid=25/01/16/1043211&from=rss) - [FTC, States Sue Deere & Company to Protect Farmers from Unfair Corporate Tactics, High Repair Costs](https://soylentnews.org/article.pl?sid=25/01/16/1043211&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-08, 06:53:00](https://soylentnews.org/article.pl?sid=25/01/07/0412206&from=rss) - [Lead Pollution Likely Caused Widespread IQ Declines in Ancient Rome](https://soylentnews.org/article.pl?sid=25/01/07/0412206&from=rss)
 * [2025-01-08, 02:08:00](https://soylentnews.org/politics/article.pl?sid=25/01/07/0349249&from=rss) - [Neutered: Federal Court Strikes Down FCC Authority to Impose Net Neutrality Rules](https://soylentnews.org/politics/article.pl?sid=25/01/07/0349249&from=rss)
 * [2025-01-07, 21:26:00](https://soylentnews.org/article.pl?sid=25/01/06/0956248&from=rss) - [Hackers Injected Malicious Code Into Several Chrome Extensions In Recent Attack](https://soylentnews.org/article.pl?sid=25/01/06/0956248&from=rss)
-* [2025-01-07, 16:41:00](https://soylentnews.org/article.pl?sid=25/01/06/0954247&from=rss) - [Hybrid Work a Cause of Techno-Stress: ‘You Have to be There All the Time’](https://soylentnews.org/article.pl?sid=25/01/06/0954247&from=rss)
 
 ## [Archives](archives/index.md)
 
