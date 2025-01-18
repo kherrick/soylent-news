@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-18, 06:09:00](https://soylentnews.org/article.pl?sid=25/01/17/130231&from=rss) - [All-Optical Computer Unveiled With 100 GHz Clock Speed](https://soylentnews.org/article.pl?sid=25/01/17/130231&from=rss)
 * [2025-01-18, 01:26:00](https://soylentnews.org/article.pl?sid=25/01/17/0247216&from=rss) - [This PDF Contains a Playable Copy of Doom](https://soylentnews.org/article.pl?sid=25/01/17/0247216&from=rss)
 * [2025-01-17, 20:44:00](https://soylentnews.org/article.pl?sid=25/01/17/0245204&from=rss) - [Walgreens Replaced Fridge Doors With Smart Screens. It's Now a $200 Million Fiasco](https://soylentnews.org/article.pl?sid=25/01/17/0245204&from=rss)
 * [2025-01-17, 16:01:00](https://soylentnews.org/article.pl?sid=25/01/17/0242252&from=rss) - [Slashdot Begins Blocking Adblockers](https://soylentnews.org/article.pl?sid=25/01/17/0242252&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-09, 01:57:00](https://soylentnews.org/article.pl?sid=25/01/08/1225201&from=rss) - [Mediterranean Diet Linked to Improved Memory via Gut Bacteria Changes](https://soylentnews.org/article.pl?sid=25/01/08/1225201&from=rss)
 * [2025-01-08, 21:12:00](https://soylentnews.org/article.pl?sid=25/01/08/1213236&from=rss) - [Pornhub Pulls Out Of Florida, VPN Demand 'Surges 1150%' ](https://soylentnews.org/article.pl?sid=25/01/08/1213236&from=rss)
 * [2025-01-08, 16:24:00](https://soylentnews.org/article.pl?sid=25/01/07/0419230&from=rss) - [Biggest Privacy Erosion in 10 Years? On Google's Policy Change Towards Fingerprinting](https://soylentnews.org/article.pl?sid=25/01/07/0419230&from=rss)
-* [2025-01-08, 11:39:00](https://soylentnews.org/article.pl?sid=25/01/07/0416244&from=rss) - [Massive Space Debris Crashes Into Kenyan Village](https://soylentnews.org/article.pl?sid=25/01/07/0416244&from=rss)
 
 ## [Archives](archives/index.md)
 
