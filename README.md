@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-18, 14:59:00](https://soylentnews.org/article.pl?sid=25/01/17/190208&from=rss) - [Early, Prescient Document on the WWW](https://soylentnews.org/article.pl?sid=25/01/17/190208&from=rss)
 * [2025-01-18, 10:54:00](https://soylentnews.org/article.pl?sid=25/01/17/1311231&from=rss) - [New Ohio Law Allows Cops to Charge $75/Hr. to Process Body Cam Footage](https://soylentnews.org/article.pl?sid=25/01/17/1311231&from=rss)
 * [2025-01-18, 06:09:00](https://soylentnews.org/article.pl?sid=25/01/17/130231&from=rss) - [All-Optical Computer Unveiled With 100 GHz Clock Speed](https://soylentnews.org/article.pl?sid=25/01/17/130231&from=rss)
 * [2025-01-18, 01:26:00](https://soylentnews.org/article.pl?sid=25/01/17/0247216&from=rss) - [This PDF Contains a Playable Copy of Doom](https://soylentnews.org/article.pl?sid=25/01/17/0247216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-09, 11:24:00](https://soylentnews.org/article.pl?sid=25/01/08/1535234&from=rss) - [Iron-Nitride Magnets Eliminate Need for Rare Earths](https://soylentnews.org/article.pl?sid=25/01/08/1535234&from=rss)
 * [2025-01-09, 06:42:00](https://soylentnews.org/article.pl?sid=25/01/08/1228216&from=rss) - [Facebook Is Ditching “Fact-Checkers” and Going to Community Notes Similar to X](https://soylentnews.org/article.pl?sid=25/01/08/1228216&from=rss)
 * [2025-01-09, 01:57:00](https://soylentnews.org/article.pl?sid=25/01/08/1225201&from=rss) - [Mediterranean Diet Linked to Improved Memory via Gut Bacteria Changes](https://soylentnews.org/article.pl?sid=25/01/08/1225201&from=rss)
-* [2025-01-08, 21:12:00](https://soylentnews.org/article.pl?sid=25/01/08/1213236&from=rss) - [Pornhub Pulls Out Of Florida, VPN Demand 'Surges 1150%' ](https://soylentnews.org/article.pl?sid=25/01/08/1213236&from=rss)
 
 ## [Archives](archives/index.md)
 
