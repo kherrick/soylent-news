@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-19, 00:30:00](https://soylentnews.org/article.pl?sid=25/01/17/2142239&from=rss) - [New Chainmail-like Material Could be the Future of Armor](https://soylentnews.org/article.pl?sid=25/01/17/2142239&from=rss)
 * [2025-01-18, 19:42:00](https://soylentnews.org/article.pl?sid=25/01/17/1919207&from=rss) - [Samsung Could Use New Extra Thin  Battery Tech](https://soylentnews.org/article.pl?sid=25/01/17/1919207&from=rss)
 * [2025-01-18, 14:59:00](https://soylentnews.org/article.pl?sid=25/01/17/190208&from=rss) - [Early, Prescient Document on the WWW](https://soylentnews.org/article.pl?sid=25/01/17/190208&from=rss)
 * [2025-01-18, 10:54:00](https://soylentnews.org/article.pl?sid=25/01/17/1311231&from=rss) - [New Ohio Law Allows Cops to Charge $75/Hr. to Process Body Cam Footage](https://soylentnews.org/article.pl?sid=25/01/17/1311231&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-09, 20:56:00](https://soylentnews.org/article.pl?sid=25/01/08/1545217&from=rss) - [TSMC's Wafer Pricing Now $18,000 for a 3nm Wafer, Increased Over 3X in 10 Years](https://soylentnews.org/article.pl?sid=25/01/08/1545217&from=rss)
 * [2025-01-09, 16:10:00](https://soylentnews.org/article.pl?sid=25/01/08/1538244&from=rss) - [EU Court Fines European Commission for Breaching its Own Data Privacy Laws](https://soylentnews.org/article.pl?sid=25/01/08/1538244&from=rss)
 * [2025-01-09, 11:24:00](https://soylentnews.org/article.pl?sid=25/01/08/1535234&from=rss) - [Iron-Nitride Magnets Eliminate Need for Rare Earths](https://soylentnews.org/article.pl?sid=25/01/08/1535234&from=rss)
-* [2025-01-09, 06:42:00](https://soylentnews.org/article.pl?sid=25/01/08/1228216&from=rss) - [Facebook Is Ditching “Fact-Checkers” and Going to Community Notes Similar to X](https://soylentnews.org/article.pl?sid=25/01/08/1228216&from=rss)
 
 ## [Archives](archives/index.md)
 
