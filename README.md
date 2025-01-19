@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-19, 19:39:00](https://soylentnews.org/article.pl?sid=25/01/18/0042232&from=rss) - [Microsoft Change Removed From Linux Over Intel CPU Issues](https://soylentnews.org/article.pl?sid=25/01/18/0042232&from=rss)
 * [2025-01-19, 14:53:00](https://soylentnews.org/article.pl?sid=25/01/18/0037202&from=rss) - [Asimov's Laws of Robotics Need an Update for AI  Proposing a 4th Law of Robotics](https://soylentnews.org/article.pl?sid=25/01/18/0037202&from=rss)
 * [2025-01-19, 10:04:00](https://soylentnews.org/article.pl?sid=25/01/18/0031237&from=rss) - [GM Banned from Selling Your Driving Data for Five Years](https://soylentnews.org/article.pl?sid=25/01/18/0031237&from=rss)
 * [2025-01-19, 05:15:00](https://soylentnews.org/article.pl?sid=25/01/17/2154238&from=rss) - [EU Protests New US AI Chip Restrictions - Some Countries Face GPU Caps](https://soylentnews.org/article.pl?sid=25/01/17/2154238&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-10, 14:52:00](https://soylentnews.org/article.pl?sid=25/01/09/203218&from=rss) - [Now Telecoms Are Fighting Among Themselves Over Who Lies More About ‘Unlimited Data’](https://soylentnews.org/article.pl?sid=25/01/09/203218&from=rss)
 * [2025-01-10, 10:09:00](https://soylentnews.org/article.pl?sid=25/01/09/1353211&from=rss) - [Firescam Android Malware Masquerades As Telegram Premium App ](https://soylentnews.org/article.pl?sid=25/01/09/1353211&from=rss)
 * [2025-01-10, 06:23:00](https://soylentnews.org/article.pl?sid=25/01/09/1346256&from=rss) - [Ants Hold Grudges, Study Suggests](https://soylentnews.org/article.pl?sid=25/01/09/1346256&from=rss)
-* [2025-01-10, 01:40:00](https://soylentnews.org/article.pl?sid=25/01/09/1341227&from=rss) - [New Orleans Attacker Used Meta Ray-Bans To Plan The Massacre](https://soylentnews.org/article.pl?sid=25/01/09/1341227&from=rss)
 
 ## [Archives](archives/index.md)
 
