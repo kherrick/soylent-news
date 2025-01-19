@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-19, 10:04:00](https://soylentnews.org/article.pl?sid=25/01/18/0031237&from=rss) - [GM Banned from Selling Your Driving Data for Five Years](https://soylentnews.org/article.pl?sid=25/01/18/0031237&from=rss)
 * [2025-01-19, 05:15:00](https://soylentnews.org/article.pl?sid=25/01/17/2154238&from=rss) - [EU Protests New US AI Chip Restrictions - Some Countries Face GPU Caps](https://soylentnews.org/article.pl?sid=25/01/17/2154238&from=rss)
 * [2025-01-19, 00:30:00](https://soylentnews.org/article.pl?sid=25/01/17/2142239&from=rss) - [New Chainmail-Like Material Could be the Future of Armor](https://soylentnews.org/article.pl?sid=25/01/17/2142239&from=rss)
 * [2025-01-18, 19:42:00](https://soylentnews.org/article.pl?sid=25/01/17/1919207&from=rss) - [Samsung Could Use New Extra Thin  Battery Tech](https://soylentnews.org/article.pl?sid=25/01/17/1919207&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-10, 06:23:00](https://soylentnews.org/article.pl?sid=25/01/09/1346256&from=rss) - [Ants Hold Grudges, Study Suggests](https://soylentnews.org/article.pl?sid=25/01/09/1346256&from=rss)
 * [2025-01-10, 01:40:00](https://soylentnews.org/article.pl?sid=25/01/09/1341227&from=rss) - [New Orleans Attacker Used Meta Ray-Bans To Plan The Massacre](https://soylentnews.org/article.pl?sid=25/01/09/1341227&from=rss)
 * [2025-01-09, 20:56:00](https://soylentnews.org/article.pl?sid=25/01/08/1545217&from=rss) - [TSMC's Wafer Pricing Now $18,000 for a 3nm Wafer, Increased Over 3X in 10 Years](https://soylentnews.org/article.pl?sid=25/01/08/1545217&from=rss)
-* [2025-01-09, 16:10:00](https://soylentnews.org/article.pl?sid=25/01/08/1538244&from=rss) - [EU Court Fines European Commission for Breaching its Own Data Privacy Laws](https://soylentnews.org/article.pl?sid=25/01/08/1538244&from=rss)
 
 ## [Archives](archives/index.md)
 
