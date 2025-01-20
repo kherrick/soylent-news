@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-20, 09:52:00](https://soylentnews.org/article.pl?sid=25/01/19/1419253&from=rss) - [Google Begins Requiring JavaScript for Google Search](https://soylentnews.org/article.pl?sid=25/01/19/1419253&from=rss)
 * [2025-01-20, 05:07:00](https://soylentnews.org/article.pl?sid=25/01/19/1412241&from=rss) - [The Great Salt Lake is Dying, but These Scientists Have a Solution](https://soylentnews.org/article.pl?sid=25/01/19/1412241&from=rss)
 * [2025-01-20, 00:21:00](https://soylentnews.org/article.pl?sid=25/01/19/0348201&from=rss) - [Why Some DVLA Digital Services Don't Work at Night](https://soylentnews.org/article.pl?sid=25/01/19/0348201&from=rss)
 * [2025-01-19, 19:39:00](https://soylentnews.org/article.pl?sid=25/01/18/0042232&from=rss) - [Microsoft Change Removed From Linux Over Intel CPU Issues](https://soylentnews.org/article.pl?sid=25/01/18/0042232&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-11, 05:04:00](https://soylentnews.org/article.pl?sid=25/01/10/1534249&from=rss) - [Nvidia CEO: Quantum Computing is Still 20 Yrs Away](https://soylentnews.org/article.pl?sid=25/01/10/1534249&from=rss)
 * [2025-01-11, 00:20:00](https://soylentnews.org/article.pl?sid=25/01/10/1251228&from=rss) - [Chick-fil-A’s Lemon-Squeezing Robots Are Saving 10,000 Hours of Work](https://soylentnews.org/article.pl?sid=25/01/10/1251228&from=rss)
 * [2025-01-10, 19:35:00](https://soylentnews.org/article.pl?sid=25/01/10/1246225&from=rss) - [Eutelsat Oneweb Blames 366th Day for 48-Hour Date Disaster](https://soylentnews.org/article.pl?sid=25/01/10/1246225&from=rss)
-* [2025-01-10, 14:52:00](https://soylentnews.org/article.pl?sid=25/01/09/203218&from=rss) - [Now Telecoms Are Fighting Among Themselves Over Who Lies More About ‘Unlimited Data’](https://soylentnews.org/article.pl?sid=25/01/09/203218&from=rss)
 
 ## [Archives](archives/index.md)
 
