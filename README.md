@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-20, 19:24:00](https://soylentnews.org/article.pl?sid=25/01/20/0728225&from=rss) - [European Union Orders X to Hand Over Algorithm Documents](https://soylentnews.org/article.pl?sid=25/01/20/0728225&from=rss)
 * [2025-01-20, 14:38:00](https://soylentnews.org/article.pl?sid=25/01/20/0721219&from=rss) - ['ELIZA,' the World's 1st Chatbot, Was Just Resurrected From 60-Year-Old Computer Code](https://soylentnews.org/article.pl?sid=25/01/20/0721219&from=rss)
 * [2025-01-20, 09:52:00](https://soylentnews.org/article.pl?sid=25/01/19/1419253&from=rss) - [Google Begins Requiring JavaScript for Google Search](https://soylentnews.org/article.pl?sid=25/01/19/1419253&from=rss)
 * [2025-01-20, 05:07:00](https://soylentnews.org/article.pl?sid=25/01/19/1412241&from=rss) - [The Great Salt Lake is Dying, but These Scientists Have a Solution](https://soylentnews.org/article.pl?sid=25/01/19/1412241&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-11, 14:34:00](https://soylentnews.org/article.pl?sid=25/01/10/1547205&from=rss) - [How I Program With LLMs](https://soylentnews.org/article.pl?sid=25/01/10/1547205&from=rss)
 * [2025-01-11, 09:48:00](https://soylentnews.org/article.pl?sid=25/01/10/1528246&from=rss) - [Prepare for the New Season as a Fish Doorbell Ringer](https://soylentnews.org/article.pl?sid=25/01/10/1528246&from=rss)
 * [2025-01-11, 05:04:00](https://soylentnews.org/article.pl?sid=25/01/10/1534249&from=rss) - [Nvidia CEO: Quantum Computing is Still 20 Yrs Away](https://soylentnews.org/article.pl?sid=25/01/10/1534249&from=rss)
-* [2025-01-11, 00:20:00](https://soylentnews.org/article.pl?sid=25/01/10/1251228&from=rss) - [Chick-fil-A’s Lemon-Squeezing Robots Are Saving 10,000 Hours of Work](https://soylentnews.org/article.pl?sid=25/01/10/1251228&from=rss)
 
 ## [Archives](archives/index.md)
 
