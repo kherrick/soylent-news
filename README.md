@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-21, 04:56:00](https://soylentnews.org/article.pl?sid=25/01/20/2337224&from=rss) - [U.S. Satellites Reveal China's Solar Dominance](https://soylentnews.org/article.pl?sid=25/01/20/2337224&from=rss)
 * [2025-01-21, 00:09:00](https://soylentnews.org/article.pl?sid=25/01/20/0732227&from=rss) - [Mark Zuckerberg Plans To Lay Off An Additional Five Percent Of Meta's Workforce](https://soylentnews.org/article.pl?sid=25/01/20/0732227&from=rss)
 * [2025-01-20, 19:24:00](https://soylentnews.org/article.pl?sid=25/01/20/0728225&from=rss) - [European Union Orders X to Hand Over Algorithm Documents](https://soylentnews.org/article.pl?sid=25/01/20/0728225&from=rss)
 * [2025-01-20, 14:38:00](https://soylentnews.org/article.pl?sid=25/01/20/0721219&from=rss) - ['ELIZA,' the World's 1st Chatbot, Was Just Resurrected From 60-Year-Old Computer Code](https://soylentnews.org/article.pl?sid=25/01/20/0721219&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-11, 19:21:00](https://soylentnews.org/article.pl?sid=25/01/10/1554200&from=rss) - [US Reports First Human Death Related To Bird Flu](https://soylentnews.org/article.pl?sid=25/01/10/1554200&from=rss)
 * [2025-01-11, 17:58:00](https://soylentnews.org/article.pl?sid=25/01/11/142218&from=rss) - [Gentrified Doom Remake Trades Chainsaw for Cheese Knife](https://soylentnews.org/article.pl?sid=25/01/11/142218&from=rss)
 * [2025-01-11, 14:34:00](https://soylentnews.org/article.pl?sid=25/01/10/1547205&from=rss) - [How I Program With LLMs](https://soylentnews.org/article.pl?sid=25/01/10/1547205&from=rss)
-* [2025-01-11, 09:48:00](https://soylentnews.org/article.pl?sid=25/01/10/1528246&from=rss) - [Prepare for the New Season as a Fish Doorbell Ringer](https://soylentnews.org/article.pl?sid=25/01/10/1528246&from=rss)
 
 ## [Archives](archives/index.md)
 
