@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-21, 19:10:00](https://soylentnews.org/article.pl?sid=25/01/21/1311222&from=rss) - [DOJ Remotely Cleaned Thousands of Computers Infected With Chinese Malware](https://soylentnews.org/article.pl?sid=25/01/21/1311222&from=rss)
 * [2025-01-21, 14:24:00](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss) - [Spacecraft Captures Spectacularly Detailed Images Of Mercury's Hidden Surface](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss)
 * [2025-01-21, 09:39:00](https://soylentnews.org/article.pl?sid=25/01/21/0030206&from=rss) - [The Need for a Strategic Fact Reserve](https://soylentnews.org/article.pl?sid=25/01/21/0030206&from=rss)
 * [2025-01-21, 04:56:00](https://soylentnews.org/article.pl?sid=25/01/20/2337224&from=rss) - [U.S. Satellites Reveal China's Solar Dominance](https://soylentnews.org/article.pl?sid=25/01/20/2337224&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-12, 09:38:00](https://soylentnews.org/article.pl?sid=25/01/11/1411215&from=rss) - [Kids Can't Use Computers... and This is Why It Should Worry You (2013)](https://soylentnews.org/article.pl?sid=25/01/11/1411215&from=rss)
 * [2025-01-12, 04:52:00](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss) - [Engineer Creates OpenAI-Powered Robotic Sentry Rifle](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss)
 * [2025-01-12, 00:05:00](https://soylentnews.org/article.pl?sid=25/01/10/1556235&from=rss) - [AI Unveils Strange Chip Designs, While Discovering New Functionalities](https://soylentnews.org/article.pl?sid=25/01/10/1556235&from=rss)
-* [2025-01-11, 19:21:00](https://soylentnews.org/article.pl?sid=25/01/10/1554200&from=rss) - [US Reports First Human Death Related To Bird Flu](https://soylentnews.org/article.pl?sid=25/01/10/1554200&from=rss)
 
 ## [Archives](archives/index.md)
 
