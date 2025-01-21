@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-21, 14:24:00](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss) - [Spacecraft Captures Spectacularly Detailed Images Of Mercury's Hidden Surface](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss)
 * [2025-01-21, 09:39:00](https://soylentnews.org/article.pl?sid=25/01/21/0030206&from=rss) - [The Need for a Strategic Fact Reserve](https://soylentnews.org/article.pl?sid=25/01/21/0030206&from=rss)
 * [2025-01-21, 04:56:00](https://soylentnews.org/article.pl?sid=25/01/20/2337224&from=rss) - [U.S. Satellites Reveal China's Solar Dominance](https://soylentnews.org/article.pl?sid=25/01/20/2337224&from=rss)
 * [2025-01-21, 00:09:00](https://soylentnews.org/article.pl?sid=25/01/20/0732227&from=rss) - [Mark Zuckerberg Plans To Lay Off An Additional Five Percent Of Meta's Workforce](https://soylentnews.org/article.pl?sid=25/01/20/0732227&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-12, 04:52:00](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss) - [Engineer Creates OpenAI-Powered Robotic Sentry Rifle](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss)
 * [2025-01-12, 00:05:00](https://soylentnews.org/article.pl?sid=25/01/10/1556235&from=rss) - [AI Unveils Strange Chip Designs, While Discovering New Functionalities](https://soylentnews.org/article.pl?sid=25/01/10/1556235&from=rss)
 * [2025-01-11, 19:21:00](https://soylentnews.org/article.pl?sid=25/01/10/1554200&from=rss) - [US Reports First Human Death Related To Bird Flu](https://soylentnews.org/article.pl?sid=25/01/10/1554200&from=rss)
-* [2025-01-11, 17:58:00](https://soylentnews.org/article.pl?sid=25/01/11/142218&from=rss) - [Gentrified Doom Remake Trades Chainsaw for Cheese Knife](https://soylentnews.org/article.pl?sid=25/01/11/142218&from=rss)
 
 ## [Archives](archives/index.md)
 
