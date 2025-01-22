@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-21, 23:54:00](https://soylentnews.org/article.pl?sid=25/01/21/1315246&from=rss) - [TSMC Ends Contract With Singapore-Based Company Over Alleged Huawei Ties](https://soylentnews.org/article.pl?sid=25/01/21/1315246&from=rss)
 * [2025-01-21, 19:10:00](https://soylentnews.org/article.pl?sid=25/01/21/1311222&from=rss) - [DOJ Remotely Cleaned Thousands of Computers Infected With Chinese Malware](https://soylentnews.org/article.pl?sid=25/01/21/1311222&from=rss)
 * [2025-01-21, 14:24:00](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss) - [Spacecraft Captures Spectacularly Detailed Images Of Mercury's Hidden Surface](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss)
 * [2025-01-21, 09:39:00](https://soylentnews.org/article.pl?sid=25/01/21/0030206&from=rss) - [The Need for a Strategic Fact Reserve](https://soylentnews.org/article.pl?sid=25/01/21/0030206&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-12, 14:23:00](https://soylentnews.org/article.pl?sid=25/01/11/1422220&from=rss) - [Kicking Datacenters' Drinking Habit is Nearly Impossible](https://soylentnews.org/article.pl?sid=25/01/11/1422220&from=rss)
 * [2025-01-12, 09:38:00](https://soylentnews.org/article.pl?sid=25/01/11/1411215&from=rss) - [Kids Can't Use Computers... and This is Why It Should Worry You (2013)](https://soylentnews.org/article.pl?sid=25/01/11/1411215&from=rss)
 * [2025-01-12, 04:52:00](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss) - [Engineer Creates OpenAI-Powered Robotic Sentry Rifle](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss)
-* [2025-01-12, 00:05:00](https://soylentnews.org/article.pl?sid=25/01/10/1556235&from=rss) - [AI Unveils Strange Chip Designs, While Discovering New Functionalities](https://soylentnews.org/article.pl?sid=25/01/10/1556235&from=rss)
 
 ## [Archives](archives/index.md)
 
