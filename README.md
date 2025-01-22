@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-22, 04:37:00](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss) - [China to Pit 12,000 Humans Against Robots in World's First AI Marathon Race](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss)
 * [2025-01-21, 23:54:00](https://soylentnews.org/article.pl?sid=25/01/21/1315246&from=rss) - [TSMC Ends Contract With Singapore-Based Company Over Alleged Huawei Ties](https://soylentnews.org/article.pl?sid=25/01/21/1315246&from=rss)
 * [2025-01-21, 19:10:00](https://soylentnews.org/article.pl?sid=25/01/21/1311222&from=rss) - [DOJ Remotely Cleaned Thousands of Computers Infected With Chinese Malware](https://soylentnews.org/article.pl?sid=25/01/21/1311222&from=rss)
 * [2025-01-21, 14:24:00](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss) - [Spacecraft Captures Spectacularly Detailed Images Of Mercury's Hidden Surface](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-12, 19:06:00](https://soylentnews.org/article.pl?sid=25/01/11/1459220&from=rss) - [Former MoviePass CEO Pleads Guilty to Fraud, Faces Up to 25 Years in Prison](https://soylentnews.org/article.pl?sid=25/01/11/1459220&from=rss)
 * [2025-01-12, 14:23:00](https://soylentnews.org/article.pl?sid=25/01/11/1422220&from=rss) - [Kicking Datacenters' Drinking Habit is Nearly Impossible](https://soylentnews.org/article.pl?sid=25/01/11/1422220&from=rss)
 * [2025-01-12, 09:38:00](https://soylentnews.org/article.pl?sid=25/01/11/1411215&from=rss) - [Kids Can't Use Computers... and This is Why It Should Worry You (2013)](https://soylentnews.org/article.pl?sid=25/01/11/1411215&from=rss)
-* [2025-01-12, 04:52:00](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss) - [Engineer Creates OpenAI-Powered Robotic Sentry Rifle](https://soylentnews.org/article.pl?sid=25/01/10/162244&from=rss)
 
 ## [Archives](archives/index.md)
 
