@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-22, 19:51:00](https://soylentnews.org/article.pl?sid=25/01/21/1512214&from=rss) - [ISPs Must Offer Cheaper Internet To Low Income Households After Trying To Prevent It](https://soylentnews.org/article.pl?sid=25/01/21/1512214&from=rss)
 * [2025-01-22, 15:08:00](https://soylentnews.org/article.pl?sid=25/01/21/159259&from=rss) - [How Unix Spell Ran in 64kB RAM](https://soylentnews.org/article.pl?sid=25/01/21/159259&from=rss)
 * [2025-01-22, 09:22:00](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss) - [Reverse-Engineering a Carry-Lookahead Adder in the Pentium](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss)
 * [2025-01-22, 04:37:00](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss) - [China to Pit 12,000 Humans Against Robots in World's First AI Marathon Race](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-13, 09:17:00](https://soylentnews.org/article.pl?sid=25/01/12/1458219&from=rss) - [Inside the War Against Headlight Brightness](https://soylentnews.org/article.pl?sid=25/01/12/1458219&from=rss)
 * [2025-01-13, 04:34:00](https://soylentnews.org/article.pl?sid=25/01/12/1455259&from=rss) - [German Router Maker is Latest Company to Inadvertently Clarify the LGPL License](https://soylentnews.org/article.pl?sid=25/01/12/1455259&from=rss)
 * [2025-01-12, 23:48:00](https://soylentnews.org/article.pl?sid=25/01/12/1354247&from=rss) - [It's Remarkably Easy to Inject New Medical Misinformation Into LLMs](https://soylentnews.org/article.pl?sid=25/01/12/1354247&from=rss)
-* [2025-01-12, 19:06:00](https://soylentnews.org/article.pl?sid=25/01/11/1459220&from=rss) - [Former MoviePass CEO Pleads Guilty to Fraud, Faces Up to 25 Years in Prison](https://soylentnews.org/article.pl?sid=25/01/11/1459220&from=rss)
 
 ## [Archives](archives/index.md)
 
