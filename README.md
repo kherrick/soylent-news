@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-23, 19:38:00](https://soylentnews.org/article.pl?sid=25/01/23/0452251&from=rss) - [Microsoft To Force Windows 11 24H2 On Home And Pro Users](https://soylentnews.org/article.pl?sid=25/01/23/0452251&from=rss)
 * [2025-01-23, 14:53:00](https://soylentnews.org/article.pl?sid=25/01/22/1845245&from=rss) - [Mind Control? Scientists Have Discovered How to Use Nanoparticles to Remotely Control Behavior](https://soylentnews.org/article.pl?sid=25/01/22/1845245&from=rss)
 * [2025-01-23, 10:05:00](https://soylentnews.org/article.pl?sid=25/01/22/1845235&from=rss) - [TSMC Reportedly Pauses Production After Earthquake](https://soylentnews.org/article.pl?sid=25/01/22/1845235&from=rss)
 * [2025-01-23, 05:22:00](https://soylentnews.org/article.pl?sid=25/01/22/1835217&from=rss) - [Findings Challenge Assumption That AI Will Soon Replace Human Doctors](https://soylentnews.org/article.pl?sid=25/01/22/1835217&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-14, 09:09:00](https://soylentnews.org/article.pl?sid=25/01/13/0522231&from=rss) - [\"Forever Chemicals\" in Water and Wildlife](https://soylentnews.org/article.pl?sid=25/01/13/0522231&from=rss)
 * [2025-01-14, 04:22:00](https://soylentnews.org/article.pl?sid=25/01/13/0513203&from=rss) - [Google Researchers Can Create an AI That Thinks a Lot Like You After Just a Two-Hour Interview](https://soylentnews.org/article.pl?sid=25/01/13/0513203&from=rss)
 * [2025-01-13, 23:34:00](https://soylentnews.org/article.pl?sid=25/01/13/059201&from=rss) - [De-smarting the Marshall Uxbridge](https://soylentnews.org/article.pl?sid=25/01/13/059201&from=rss)
-* [2025-01-13, 18:49:00](https://soylentnews.org/article.pl?sid=25/01/13/051210&from=rss) - [Velvet Ants Have The Swiss Army Knife Of Venoms](https://soylentnews.org/article.pl?sid=25/01/13/051210&from=rss)
 
 ## [Archives](archives/index.md)
 
