@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-23, 10:05:00](https://soylentnews.org/article.pl?sid=25/01/22/1845235&from=rss) - [TSMC Reportedly Pauses Production After Earthquake](https://soylentnews.org/article.pl?sid=25/01/22/1845235&from=rss)
 * [2025-01-23, 05:22:00](https://soylentnews.org/article.pl?sid=25/01/22/1835217&from=rss) - [Findings Challenge Assumption That AI Will Soon Replace Human Doctors](https://soylentnews.org/article.pl?sid=25/01/22/1835217&from=rss)
 * [2025-01-23, 00:35:00](https://soylentnews.org/article.pl?sid=25/01/21/1517219&from=rss) - [Not Sure What Font to Choose? Typography Study Helps Find the Right Type](https://soylentnews.org/article.pl?sid=25/01/21/1517219&from=rss)
 * [2025-01-22, 19:51:00](https://soylentnews.org/article.pl?sid=25/01/21/1512214&from=rss) - [ISPs Must Offer Cheaper Internet To Low Income Households After Trying To Prevent It](https://soylentnews.org/article.pl?sid=25/01/21/1512214&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-13, 23:34:00](https://soylentnews.org/article.pl?sid=25/01/13/059201&from=rss) - [De-smarting the Marshall Uxbridge](https://soylentnews.org/article.pl?sid=25/01/13/059201&from=rss)
 * [2025-01-13, 18:49:00](https://soylentnews.org/article.pl?sid=25/01/13/051210&from=rss) - [Velvet Ants Have The Swiss Army Knife Of Venoms](https://soylentnews.org/article.pl?sid=25/01/13/051210&from=rss)
 * [2025-01-13, 14:04:00](https://soylentnews.org/article.pl?sid=25/01/12/2123210&from=rss) - [Researcher Turns Insecure License Plate Cameras Into Open Source Surveillance Tool](https://soylentnews.org/article.pl?sid=25/01/12/2123210&from=rss)
-* [2025-01-13, 09:17:00](https://soylentnews.org/article.pl?sid=25/01/12/1458219&from=rss) - [Inside the War Against Headlight Brightness](https://soylentnews.org/article.pl?sid=25/01/12/1458219&from=rss)
 
 ## [Archives](archives/index.md)
 
