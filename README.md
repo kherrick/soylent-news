@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-24, 05:07:00](https://soylentnews.org/article.pl?sid=25/01/23/0458201&from=rss) - [Time to Check My Tire Pressures...Hand Me That Hammer](https://soylentnews.org/article.pl?sid=25/01/23/0458201&from=rss)
 * [2025-01-24, 00:22:00](https://soylentnews.org/article.pl?sid=25/01/23/0454218&from=rss) - [Google Is Now the East India Company of the Internet](https://soylentnews.org/article.pl?sid=25/01/23/0454218&from=rss)
 * [2025-01-23, 19:38:00](https://soylentnews.org/article.pl?sid=25/01/23/0452251&from=rss) - [Microsoft To Force Windows 11 24H2 On Home And Pro Users](https://soylentnews.org/article.pl?sid=25/01/23/0452251&from=rss)
 * [2025-01-23, 14:53:00](https://soylentnews.org/article.pl?sid=25/01/22/1845245&from=rss) - [Mind Control? Scientists Have Discovered How to Use Nanoparticles to Remotely Control Behavior](https://soylentnews.org/article.pl?sid=25/01/22/1845245&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-14, 18:42:00](https://soylentnews.org/article.pl?sid=25/01/13/1912247&from=rss) - [Scientists Just Excavated An Unprecedented Specimen From Antarctica](https://soylentnews.org/article.pl?sid=25/01/13/1912247&from=rss)
 * [2025-01-14, 13:57:00](https://soylentnews.org/article.pl?sid=25/01/13/199235&from=rss) - [TSMC's Arizona Fab 21 is Already Making 4nm Chips - Yield and Quality Reportedly on Par With Taiwan](https://soylentnews.org/article.pl?sid=25/01/13/199235&from=rss)
 * [2025-01-14, 09:09:00](https://soylentnews.org/article.pl?sid=25/01/13/0522231&from=rss) - [\"Forever Chemicals\" in Water and Wildlife](https://soylentnews.org/article.pl?sid=25/01/13/0522231&from=rss)
-* [2025-01-14, 04:22:00](https://soylentnews.org/article.pl?sid=25/01/13/0513203&from=rss) - [Google Researchers Can Create an AI That Thinks a Lot Like You After Just a Two-Hour Interview](https://soylentnews.org/article.pl?sid=25/01/13/0513203&from=rss)
 
 ## [Archives](archives/index.md)
 
