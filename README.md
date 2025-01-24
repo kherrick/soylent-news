@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-24, 19:24:00](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss) - [Oyster Blood: A New Frontier in Fighting Infection](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss)
 * [2025-01-24, 14:38:00](https://soylentnews.org/article.pl?sid=25/01/23/1249227&from=rss) - [Chinese Salt Typhoon Hackers 1st Spotted on Federal Networks Under Another Name](https://soylentnews.org/article.pl?sid=25/01/23/1249227&from=rss)
 * [2025-01-24, 09:53:00](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss) - [New California Law Criminalizing AI Generated Child Porn Claims First Arrest](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss)
 * [2025-01-24, 05:07:00](https://soylentnews.org/article.pl?sid=25/01/23/0458201&from=rss) - [Time to Check My Tire Pressures...Hand Me That Hammer](https://soylentnews.org/article.pl?sid=25/01/23/0458201&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-15, 09:54:00](https://soylentnews.org/article.pl?sid=25/01/14/2015225&from=rss) - [Paleolithic Ingenuity: 13,000-Year-Old 3D Map Discovered in France](https://soylentnews.org/article.pl?sid=25/01/14/2015225&from=rss)
 * [2025-01-15, 04:07:00](https://soylentnews.org/article.pl?sid=25/01/13/1928254&from=rss) - [Bricking Teslas - Whose Auto is it Anyway?](https://soylentnews.org/article.pl?sid=25/01/13/1928254&from=rss)
 * [2025-01-14, 23:23:00](https://soylentnews.org/article.pl?sid=25/01/13/1921245&from=rss) - [Rational or Not? This Basic Math Question Took Decades to Answer.](https://soylentnews.org/article.pl?sid=25/01/13/1921245&from=rss)
-* [2025-01-14, 18:42:00](https://soylentnews.org/article.pl?sid=25/01/13/1912247&from=rss) - [Scientists Just Excavated An Unprecedented Specimen From Antarctica](https://soylentnews.org/article.pl?sid=25/01/13/1912247&from=rss)
 
 ## [Archives](archives/index.md)
 
