@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-25, 19:08:00](https://soylentnews.org/article.pl?sid=25/01/24/1325241&from=rss) - [How Many Sexes Are There?](https://soylentnews.org/article.pl?sid=25/01/24/1325241&from=rss)
 * [2025-01-25, 14:23:00](https://soylentnews.org/article.pl?sid=25/01/24/1324218&from=rss) - [Wine 10.0 Brings Arm Windows Apps to Linux, Still Isn't an Emulator](https://soylentnews.org/article.pl?sid=25/01/24/1324218&from=rss)
 * [2025-01-25, 09:40:00](https://soylentnews.org/article.pl?sid=25/01/24/1255245&from=rss) - [Trump Pardons Dark Web Silk Road Marketplace Founder Ross Ulbricht](https://soylentnews.org/article.pl?sid=25/01/24/1255245&from=rss)
 * [2025-01-25, 04:54:00](https://soylentnews.org/article.pl?sid=25/01/24/1251214&from=rss) - [Opinion: We Need to Protect the Protocol That Runs Bluesky](https://soylentnews.org/article.pl?sid=25/01/24/1251214&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-16, 09:36:00](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss) - [A Guide to Debouncing, or, How to Debounce a Contact in Two Easy Pages](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss)
 * [2025-01-16, 04:50:00](https://soylentnews.org/article.pl?sid=25/01/15/0253204&from=rss) - [Completing the Oregon Trail If You Wait at a River for 14272 Years: A Study](https://soylentnews.org/article.pl?sid=25/01/15/0253204&from=rss)
 * [2025-01-16, 00:03:00](https://soylentnews.org/article.pl?sid=25/01/15/0244248&from=rss) - [Tech Trends and Breakthroughs of 2025](https://soylentnews.org/article.pl?sid=25/01/15/0244248&from=rss)
-* [2025-01-15, 19:21:00](https://soylentnews.org/article.pl?sid=25/01/15/022249&from=rss) - [Technology is Supposed to Decrease Teacher Burnout—It Can Sometimes Make It Worse](https://soylentnews.org/article.pl?sid=25/01/15/022249&from=rss)
 
 ## [Archives](archives/index.md)
 
