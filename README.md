@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-26, 23:34:00](https://soylentnews.org/article.pl?sid=25/01/25/155223&from=rss) - [Florida Man Eats Diet of Butter, Cheese, Beef; Cholesterol Oozes From His Body](https://soylentnews.org/article.pl?sid=25/01/25/155223&from=rss)
 * [2025-01-26, 18:51:00](https://soylentnews.org/article.pl?sid=25/01/25/152224&from=rss) - [Real Datacenter Emissions Are A Dirty Secret](https://soylentnews.org/article.pl?sid=25/01/25/152224&from=rss)
 * [2025-01-26, 14:10:00](https://soylentnews.org/article.pl?sid=25/01/25/1456254&from=rss) - [Touchscreen Dashboards Have Finally Taken Over and Ruined Driving](https://soylentnews.org/article.pl?sid=25/01/25/1456254&from=rss)
 * [2025-01-26, 09:25:00](https://soylentnews.org/article.pl?sid=25/01/25/1448247&from=rss) - [“Project Mini Rack” Wants Make Your Mini-Homelab a Reality](https://soylentnews.org/article.pl?sid=25/01/25/1448247&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-17, 16:01:00](https://soylentnews.org/article.pl?sid=25/01/17/0242252&from=rss) - [Slashdot Begins Blocking Adblockers](https://soylentnews.org/article.pl?sid=25/01/17/0242252&from=rss)
 * [2025-01-17, 11:12:00](https://soylentnews.org/article.pl?sid=25/01/16/1155210&from=rss) - [Ancient Genomes Reveal an Iron Age Society Centered on Women](https://soylentnews.org/article.pl?sid=25/01/16/1155210&from=rss)
 * [2025-01-17, 06:42:00](https://soylentnews.org/article.pl?sid=25/01/16/1151221&from=rss) - [Meta Takes Us a Step Closer to Star Trek's Universal Translator](https://soylentnews.org/article.pl?sid=25/01/16/1151221&from=rss)
-* [2025-01-17, 01:56:00](https://soylentnews.org/article.pl?sid=25/01/16/1049214&from=rss) - [Reversible Computing Escapes the Lab in 2025](https://soylentnews.org/article.pl?sid=25/01/16/1049214&from=rss)
 
 ## [Archives](archives/index.md)
 
