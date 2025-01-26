@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-26, 09:25:00](https://soylentnews.org/article.pl?sid=25/01/25/1448247&from=rss) - [“Project Mini Rack” Wants Make Your Mini-Homelab a Reality](https://soylentnews.org/article.pl?sid=25/01/25/1448247&from=rss)
 * [2025-01-26, 04:38:00](https://soylentnews.org/article.pl?sid=25/01/24/2112249&from=rss) - [Anthropic Chief Says AI Could Surpass “Almost All Humans at Almost Everything” Shortly After 2027](https://soylentnews.org/article.pl?sid=25/01/24/2112249&from=rss)
 * [2025-01-25, 23:53:00](https://soylentnews.org/article.pl?sid=25/01/24/2110218&from=rss) - [Not an Asteroid, Just Elon's Car](https://soylentnews.org/article.pl?sid=25/01/24/2110218&from=rss)
 * [2025-01-25, 19:08:00](https://soylentnews.org/article.pl?sid=25/01/24/1325241&from=rss) - [How Many Sexes Are There?](https://soylentnews.org/article.pl?sid=25/01/24/1325241&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-17, 01:56:00](https://soylentnews.org/article.pl?sid=25/01/16/1049214&from=rss) - [Reversible Computing Escapes the Lab in 2025](https://soylentnews.org/article.pl?sid=25/01/16/1049214&from=rss)
 * [2025-01-16, 21:09:00](https://soylentnews.org/article.pl?sid=25/01/16/1043211&from=rss) - [FTC, States Sue Deere & Company to Protect Farmers from Unfair Corporate Tactics, High Repair Costs](https://soylentnews.org/article.pl?sid=25/01/16/1043211&from=rss)
 * [2025-01-16, 15:23:00](https://soylentnews.org/article.pl?sid=25/01/16/1024248&from=rss) - [Petition on EU Linux Operating System in Public Administrations](https://soylentnews.org/article.pl?sid=25/01/16/1024248&from=rss)
-* [2025-01-16, 09:36:00](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss) - [A Guide to Debouncing, or, How to Debounce a Contact in Two Easy Pages](https://soylentnews.org/article.pl?sid=25/01/15/0310219&from=rss)
 
 ## [Archives](archives/index.md)
 
