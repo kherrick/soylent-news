@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-27, 13:55:00](https://soylentnews.org/article.pl?sid=25/01/27/033246&from=rss) - [Think It Takes 21 Days to Form a Habit? Science Says Think Again](https://soylentnews.org/article.pl?sid=25/01/27/033246&from=rss)
 * [2025-01-27, 09:10:00](https://soylentnews.org/article.pl?sid=25/01/26/0453205&from=rss) - [Medical Device Company Suddenly Stops Hospitals From Fixing Machines Themselves](https://soylentnews.org/article.pl?sid=25/01/26/0453205&from=rss)
 * [2025-01-27, 04:22:00](https://soylentnews.org/article.pl?sid=25/01/26/0444214&from=rss) - [Mysterious Blobs Found Inside Cells Are Rewriting the Story of How Life Works](https://soylentnews.org/article.pl?sid=25/01/26/0444214&from=rss)
 * [2025-01-26, 23:34:00](https://soylentnews.org/article.pl?sid=25/01/25/155223&from=rss) - [Florida Man Eats Diet of Butter, Cheese, Beef; Cholesterol Oozes From His Body](https://soylentnews.org/article.pl?sid=25/01/25/155223&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-18, 06:09:00](https://soylentnews.org/article.pl?sid=25/01/17/130231&from=rss) - [All-Optical Computer Unveiled With 100 GHz Clock Speed](https://soylentnews.org/article.pl?sid=25/01/17/130231&from=rss)
 * [2025-01-18, 01:26:00](https://soylentnews.org/article.pl?sid=25/01/17/0247216&from=rss) - [This PDF Contains a Playable Copy of Doom](https://soylentnews.org/article.pl?sid=25/01/17/0247216&from=rss)
 * [2025-01-17, 20:44:00](https://soylentnews.org/article.pl?sid=25/01/17/0245204&from=rss) - [Walgreens Replaced Fridge Doors With Smart Screens. It's Now a $200 Million Fiasco](https://soylentnews.org/article.pl?sid=25/01/17/0245204&from=rss)
-* [2025-01-17, 16:01:00](https://soylentnews.org/article.pl?sid=25/01/17/0242252&from=rss) - [Slashdot Begins Blocking Adblockers](https://soylentnews.org/article.pl?sid=25/01/17/0242252&from=rss)
 
 ## [Archives](archives/index.md)
 
