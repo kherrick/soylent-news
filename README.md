@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-28, 04:14:00](https://soylentnews.org/article.pl?sid=25/01/27/0425254&from=rss) - [The Drunken Plagiarists: Working with Co-pilots](https://soylentnews.org/article.pl?sid=25/01/27/0425254&from=rss)
 * [2025-01-27, 23:30:00](https://soylentnews.org/article.pl?sid=25/01/27/0421239&from=rss) - [Data Breach Hitting PowerSchool Looks Very, Very Bad](https://soylentnews.org/article.pl?sid=25/01/27/0421239&from=rss)
 * [2025-01-27, 18:44:00](https://soylentnews.org/article.pl?sid=25/01/27/049209&from=rss) - [Sleeping Pills Stop the Brain’s System for Cleaning Out Waste](https://soylentnews.org/article.pl?sid=25/01/27/049209&from=rss)
 * [2025-01-27, 16:25:00](https://soylentnews.org/article.pl?sid=25/01/27/0416218&from=rss) - [Linux Kernel 6.13 Announced](https://soylentnews.org/article.pl?sid=25/01/27/0416218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-19, 00:30:00](https://soylentnews.org/article.pl?sid=25/01/17/2142239&from=rss) - [New Chainmail-Like Material Could be the Future of Armor](https://soylentnews.org/article.pl?sid=25/01/17/2142239&from=rss)
 * [2025-01-18, 19:42:00](https://soylentnews.org/article.pl?sid=25/01/17/1919207&from=rss) - [Samsung Could Use New Extra Thin  Battery Tech](https://soylentnews.org/article.pl?sid=25/01/17/1919207&from=rss)
 * [2025-01-18, 14:59:00](https://soylentnews.org/article.pl?sid=25/01/17/190208&from=rss) - [Early, Prescient Document on the WWW](https://soylentnews.org/article.pl?sid=25/01/17/190208&from=rss)
-* [2025-01-18, 10:54:00](https://soylentnews.org/article.pl?sid=25/01/17/1311231&from=rss) - [New Ohio Law Allows Cops to Charge $75/Hr. to Process Body Cam Footage](https://soylentnews.org/article.pl?sid=25/01/17/1311231&from=rss)
 
 ## [Archives](archives/index.md)
 
