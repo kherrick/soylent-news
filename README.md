@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-28, 18:31:00](https://soylentnews.org/article.pl?sid=25/01/27/1515223&from=rss) - [The Invalid 68030 Instruction That Accidentally Allowed the Mac Classic II to Successfully Boot Up](https://soylentnews.org/article.pl?sid=25/01/27/1515223&from=rss)
 * [2025-01-28, 13:45:00](https://soylentnews.org/article.pl?sid=25/01/27/0435244&from=rss) - [China's Second-Largest Foundry Hires Former Intel Executive to Lead Advanced Node Development](https://soylentnews.org/article.pl?sid=25/01/27/0435244&from=rss)
 * [2025-01-28, 09:01:00](https://soylentnews.org/article.pl?sid=25/01/27/0432230&from=rss) - [First-Ever Data Center On The Moon Set To Launch Next Month](https://soylentnews.org/article.pl?sid=25/01/27/0432230&from=rss)
 * [2025-01-28, 04:14:00](https://soylentnews.org/article.pl?sid=25/01/27/0425254&from=rss) - [The Drunken Plagiarists: Working with Co-pilots](https://soylentnews.org/article.pl?sid=25/01/27/0425254&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-19, 14:53:00](https://soylentnews.org/article.pl?sid=25/01/18/0037202&from=rss) - [Asimov's Laws of Robotics Need an Update for AI  Proposing a 4th Law of Robotics](https://soylentnews.org/article.pl?sid=25/01/18/0037202&from=rss)
 * [2025-01-19, 10:04:00](https://soylentnews.org/article.pl?sid=25/01/18/0031237&from=rss) - [GM Banned from Selling Your Driving Data for Five Years](https://soylentnews.org/article.pl?sid=25/01/18/0031237&from=rss)
 * [2025-01-19, 05:15:00](https://soylentnews.org/article.pl?sid=25/01/17/2154238&from=rss) - [EU Protests New US AI Chip Restrictions - Some Countries Face GPU Caps](https://soylentnews.org/article.pl?sid=25/01/17/2154238&from=rss)
-* [2025-01-19, 00:30:00](https://soylentnews.org/article.pl?sid=25/01/17/2142239&from=rss) - [New Chainmail-Like Material Could be the Future of Armor](https://soylentnews.org/article.pl?sid=25/01/17/2142239&from=rss)
 
 ## [Archives](archives/index.md)
 
