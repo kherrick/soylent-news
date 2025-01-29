@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-29, 04:03:00](https://soylentnews.org/article.pl?sid=25/01/27/172217&from=rss) - [5 Super Creepy New Technologies That Should Chill All Of Us To The Core](https://soylentnews.org/article.pl?sid=25/01/27/172217&from=rss)
 * [2025-01-28, 23:17:00](https://soylentnews.org/article.pl?sid=25/01/27/1659214&from=rss) - [Your Hollywood Career: How to Tell When the End Is Nigh](https://soylentnews.org/article.pl?sid=25/01/27/1659214&from=rss)
 * [2025-01-28, 18:31:00](https://soylentnews.org/article.pl?sid=25/01/27/1515223&from=rss) - [The Invalid 68030 Instruction That Accidentally Allowed the Mac Classic II to Successfully Boot Up](https://soylentnews.org/article.pl?sid=25/01/27/1515223&from=rss)
 * [2025-01-28, 13:45:00](https://soylentnews.org/article.pl?sid=25/01/27/0435244&from=rss) - [China's Second-Largest Foundry Hires Former Intel Executive to Lead Advanced Node Development](https://soylentnews.org/article.pl?sid=25/01/27/0435244&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-20, 00:21:00](https://soylentnews.org/article.pl?sid=25/01/19/0348201&from=rss) - [Why Some DVLA Digital Services Don't Work at Night](https://soylentnews.org/article.pl?sid=25/01/19/0348201&from=rss)
 * [2025-01-19, 19:39:00](https://soylentnews.org/article.pl?sid=25/01/18/0042232&from=rss) - [Microsoft Change Removed From Linux Over Intel CPU Issues](https://soylentnews.org/article.pl?sid=25/01/18/0042232&from=rss)
 * [2025-01-19, 14:53:00](https://soylentnews.org/article.pl?sid=25/01/18/0037202&from=rss) - [Asimov's Laws of Robotics Need an Update for AI  Proposing a 4th Law of Robotics](https://soylentnews.org/article.pl?sid=25/01/18/0037202&from=rss)
-* [2025-01-19, 10:04:00](https://soylentnews.org/article.pl?sid=25/01/18/0031237&from=rss) - [GM Banned from Selling Your Driving Data for Five Years](https://soylentnews.org/article.pl?sid=25/01/18/0031237&from=rss)
 
 ## [Archives](archives/index.md)
 
