@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-29, 18:17:00](https://soylentnews.org/article.pl?sid=25/01/28/0248223&from=rss) - [Linux is the Name That Shall Not be Spoken at Facebook](https://soylentnews.org/article.pl?sid=25/01/28/0248223&from=rss)
 * [2025-01-29, 13:33:00](https://soylentnews.org/article.pl?sid=25/01/28/0238221&from=rss) - [Backdoor Infecting VPNs Used “Magic Packets” for Stealth and Security](https://soylentnews.org/article.pl?sid=25/01/28/0238221&from=rss)
 * [2025-01-29, 08:49:00](https://soylentnews.org/article.pl?sid=25/01/27/177259&from=rss) - [How Good is Tesla Full Self Driving, by a Motor Trend Road Tester](https://soylentnews.org/article.pl?sid=25/01/27/177259&from=rss)
 * [2025-01-29, 04:03:00](https://soylentnews.org/article.pl?sid=25/01/27/172217&from=rss) - [5 Super Creepy New Technologies That Should Chill All Of Us To The Core](https://soylentnews.org/article.pl?sid=25/01/27/172217&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-20, 14:38:00](https://soylentnews.org/article.pl?sid=25/01/20/0721219&from=rss) - ['ELIZA,' the World's 1st Chatbot, Was Just Resurrected From 60-Year-Old Computer Code](https://soylentnews.org/article.pl?sid=25/01/20/0721219&from=rss)
 * [2025-01-20, 09:52:00](https://soylentnews.org/article.pl?sid=25/01/19/1419253&from=rss) - [Google Begins Requiring JavaScript for Google Search](https://soylentnews.org/article.pl?sid=25/01/19/1419253&from=rss)
 * [2025-01-20, 05:07:00](https://soylentnews.org/article.pl?sid=25/01/19/1412241&from=rss) - [The Great Salt Lake is Dying, but These Scientists Have a Solution](https://soylentnews.org/article.pl?sid=25/01/19/1412241&from=rss)
-* [2025-01-20, 00:21:00](https://soylentnews.org/article.pl?sid=25/01/19/0348201&from=rss) - [Why Some DVLA Digital Services Don't Work at Night](https://soylentnews.org/article.pl?sid=25/01/19/0348201&from=rss)
 
 ## [Archives](archives/index.md)
 
