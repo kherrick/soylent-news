@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-29, 13:33:00](https://soylentnews.org/article.pl?sid=25/01/28/0238221&from=rss) - [Backdoor Infecting VPNs Used “Magic Packets” for Stealth and Security](https://soylentnews.org/article.pl?sid=25/01/28/0238221&from=rss)
 * [2025-01-29, 08:49:00](https://soylentnews.org/article.pl?sid=25/01/27/177259&from=rss) - [How Good is Tesla Full Self Driving, by a Motor Trend Road Tester](https://soylentnews.org/article.pl?sid=25/01/27/177259&from=rss)
 * [2025-01-29, 04:03:00](https://soylentnews.org/article.pl?sid=25/01/27/172217&from=rss) - [5 Super Creepy New Technologies That Should Chill All Of Us To The Core](https://soylentnews.org/article.pl?sid=25/01/27/172217&from=rss)
 * [2025-01-28, 23:17:00](https://soylentnews.org/article.pl?sid=25/01/27/1659214&from=rss) - [Your Hollywood Career: How to Tell When the End Is Nigh](https://soylentnews.org/article.pl?sid=25/01/27/1659214&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-20, 09:52:00](https://soylentnews.org/article.pl?sid=25/01/19/1419253&from=rss) - [Google Begins Requiring JavaScript for Google Search](https://soylentnews.org/article.pl?sid=25/01/19/1419253&from=rss)
 * [2025-01-20, 05:07:00](https://soylentnews.org/article.pl?sid=25/01/19/1412241&from=rss) - [The Great Salt Lake is Dying, but These Scientists Have a Solution](https://soylentnews.org/article.pl?sid=25/01/19/1412241&from=rss)
 * [2025-01-20, 00:21:00](https://soylentnews.org/article.pl?sid=25/01/19/0348201&from=rss) - [Why Some DVLA Digital Services Don't Work at Night](https://soylentnews.org/article.pl?sid=25/01/19/0348201&from=rss)
-* [2025-01-19, 19:39:00](https://soylentnews.org/article.pl?sid=25/01/18/0042232&from=rss) - [Microsoft Change Removed From Linux Over Intel CPU Issues](https://soylentnews.org/article.pl?sid=25/01/18/0042232&from=rss)
 
 ## [Archives](archives/index.md)
 
