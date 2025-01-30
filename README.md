@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-01-30, 03:45:00](https://soylentnews.org/article.pl?sid=25/01/28/2222211&from=rss) - [Complexity Physics Finds Crucial Tipping Points in Chess Games](https://soylentnews.org/article.pl?sid=25/01/28/2222211&from=rss)
 * [2025-01-29, 23:02:00](https://soylentnews.org/article.pl?sid=25/01/28/0319228&from=rss) - [Millions of Subarus Could be Remotely Unlocked, Tracked Due to Security Flaws](https://soylentnews.org/article.pl?sid=25/01/28/0319228&from=rss)
 * [2025-01-29, 18:17:00](https://soylentnews.org/article.pl?sid=25/01/28/0248223&from=rss) - [Linux is the Name That Shall Not be Spoken at Facebook](https://soylentnews.org/article.pl?sid=25/01/28/0248223&from=rss)
 * [2025-01-29, 13:33:00](https://soylentnews.org/article.pl?sid=25/01/28/0238221&from=rss) - [Backdoor Infecting VPNs Used “Magic Packets” for Stealth and Security](https://soylentnews.org/article.pl?sid=25/01/28/0238221&from=rss)
@@ -49,7 +50,6 @@
 * [2025-01-21, 00:09:00](https://soylentnews.org/article.pl?sid=25/01/20/0732227&from=rss) - [Mark Zuckerberg Plans To Lay Off An Additional Five Percent Of Meta's Workforce](https://soylentnews.org/article.pl?sid=25/01/20/0732227&from=rss)
 * [2025-01-20, 19:24:00](https://soylentnews.org/article.pl?sid=25/01/20/0728225&from=rss) - [European Union Orders X to Hand Over Algorithm Documents](https://soylentnews.org/article.pl?sid=25/01/20/0728225&from=rss)
 * [2025-01-20, 14:38:00](https://soylentnews.org/article.pl?sid=25/01/20/0721219&from=rss) - ['ELIZA,' the World's 1st Chatbot, Was Just Resurrected From 60-Year-Old Computer Code](https://soylentnews.org/article.pl?sid=25/01/20/0721219&from=rss)
-* [2025-01-20, 09:52:00](https://soylentnews.org/article.pl?sid=25/01/19/1419253&from=rss) - [Google Begins Requiring JavaScript for Google Search](https://soylentnews.org/article.pl?sid=25/01/19/1419253&from=rss)
 
 ## [Archives](archives/index.md)
 
