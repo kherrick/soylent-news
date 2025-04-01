@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-01, 02:23:00](https://soylentnews.org/article.pl?sid=25/03/31/045231&from=rss) - [Word of the Day: Zwitterionic](https://soylentnews.org/article.pl?sid=25/03/31/045231&from=rss)
 * [2025-03-31, 21:37:00](https://soylentnews.org/article.pl?sid=25/03/31/042242&from=rss) - [NASA Early Galaxy Discovery Shines Light on 'Cosmic Dark Ages'](https://soylentnews.org/article.pl?sid=25/03/31/042242&from=rss)
 * [2025-03-31, 16:55:00](https://soylentnews.org/article.pl?sid=25/03/31/0349222&from=rss) - [The Practical Limitations of End-to-End Encryption](https://soylentnews.org/article.pl?sid=25/03/31/0349222&from=rss)
 * [2025-03-31, 12:09:00](https://soylentnews.org/article.pl?sid=25/03/31/0347227&from=rss) - [Elon Musk’s X Has a New Owner](https://soylentnews.org/article.pl?sid=25/03/31/0347227&from=rss)
@@ -49,7 +50,6 @@
 * [2025-03-23, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss) - [Linux Security Hardening Cache Randomization Was Inadvertently Using The Same Seed](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss)
 * [2025-03-22, 21:23:00](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss) - [A Dyson Swarm Made of Solar Panels Would Make Earth Uninhabitable](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss)
 * [2025-03-22, 16:39:00](https://soylentnews.org/article.pl?sid=25/03/21/0242250&from=rss) - [Researcher Trolls Microsoft Over Bug Disclosure Annoyance](https://soylentnews.org/article.pl?sid=25/03/21/0242250&from=rss)
-* [2025-03-22, 11:53:00](https://soylentnews.org/article.pl?sid=25/03/21/0236216&from=rss) - [Euro Techies Call for Sovereign Fund to Escape US Dependency](https://soylentnews.org/article.pl?sid=25/03/21/0236216&from=rss)
 
 ## [Archives](archives/index.md)
 
