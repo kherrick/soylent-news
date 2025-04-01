@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-01, 21:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1243220&from=rss) - [The Internet Oracle Has Pondered Your Question Deeply - Revisiting an Old Friend](https://soylentnews.org/article.pl?sid=25/03/31/1243220&from=rss)
 * [2025-04-01, 16:38:00](https://soylentnews.org/article.pl?sid=25/03/31/1218257&from=rss) - [Back to Cash: Life Without Money in Your Pocket is Not the Utopia Sweden Hoped](https://soylentnews.org/article.pl?sid=25/03/31/1218257&from=rss)
 * [2025-04-01, 11:55:00](https://soylentnews.org/article.pl?sid=25/04/01/0749220&from=rss) - [After Trump's Decree: Fight for US Funding for Tor, F-Droid and Let's Encrypt](https://soylentnews.org/article.pl?sid=25/04/01/0749220&from=rss)
 * [2025-04-01, 07:09:00](https://soylentnews.org/article.pl?sid=25/03/31/0411203&from=rss) - [Ending Remote Work Has Major Consequences for Women](https://soylentnews.org/article.pl?sid=25/03/31/0411203&from=rss)
@@ -49,7 +50,6 @@
 * [2025-03-23, 21:10:00](https://soylentnews.org/article.pl?sid=25/03/22/1921254&from=rss) - [First Stroke Rehabilitation Drug That Reestablishes Brain Connections Discovered in Mouse Model](https://soylentnews.org/article.pl?sid=25/03/22/1921254&from=rss)
 * [2025-03-23, 16:23:00](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss) - [Why Don't New Cars Come With Spare Tires Anymore?](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss)
 * [2025-03-23, 11:38:00](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss) - [US Court of Appeals Unanimously Denies Copyright Protection for AI-Created Images](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss)
-* [2025-03-23, 06:52:00](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss) - [Cloudflare Turns AI Against Itself With Endless Maze of Irrelevant Facts](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss)
 
 ## [Archives](archives/index.md)
 
