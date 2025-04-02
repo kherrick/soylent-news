@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-04-02](index.md)
+
+* [2025-04-02, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/31/1248211&from=rss) - [Microsoft's Killing Script Used to Avoid Microsoft Account in Windows 11](https://soylentnews.org/article.pl?sid=25/03/31/1248211&from=rss)
