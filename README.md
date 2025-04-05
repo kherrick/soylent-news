@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-05, 22:28:00](https://soylentnews.org/politics/article.pl?sid=25/04/04/0831206&from=rss) - [US To Squeeze Firms For Investment To Get Chips Act Cash](https://soylentnews.org/politics/article.pl?sid=25/04/04/0831206&from=rss)
 * [2025-04-05, 17:46:00](https://soylentnews.org/article.pl?sid=25/04/04/0827202&from=rss) - [Web 3.0 Requires Data Integrity](https://soylentnews.org/article.pl?sid=25/04/04/0827202&from=rss)
 * [2025-04-05, 15:03:00](https://soylentnews.org/article.pl?sid=25/04/04/0824242&from=rss) - [Two Guys From Andromeda Ship SpaceVenture After 13 Years](https://soylentnews.org/article.pl?sid=25/04/04/0824242&from=rss)
 * [2025-04-05, 12:54:00](https://soylentnews.org/article.pl?sid=25/04/04/081240&from=rss) - [Tracing the Thoughts of a Large Language Model](https://soylentnews.org/article.pl?sid=25/04/04/081240&from=rss)
@@ -49,7 +50,6 @@
 * [2025-03-28, 03:13:00](https://soylentnews.org/article.pl?sid=25/03/26/1635243&from=rss) - [Order to Chaos: The Fascinating Math That All Pedestrians Need to Know](https://soylentnews.org/article.pl?sid=25/03/26/1635243&from=rss)
 * [2025-03-27, 22:28:00](https://soylentnews.org/article.pl?sid=25/03/26/1631253&from=rss) - [Postel's Law and the Three Ring Circus](https://soylentnews.org/article.pl?sid=25/03/26/1631253&from=rss)
 * [2025-03-27, 17:46:00](https://soylentnews.org/article.pl?sid=25/03/26/1629222&from=rss) - [Eric Schmidt Suggests Countries Could Engage in Mutual Assured AI Malfunction (MAIM)](https://soylentnews.org/article.pl?sid=25/03/26/1629222&from=rss)
-* [2025-03-27, 13:02:00](https://soylentnews.org/article.pl?sid=25/03/26/1623212&from=rss) - [Is Your Job Making You Happy ?](https://soylentnews.org/article.pl?sid=25/03/26/1623212&from=rss)
 
 ## [Archives](archives/index.md)
 
