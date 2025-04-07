@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-07, 12:41:00](https://soylentnews.org/article.pl?sid=25/04/06/136221&from=rss) - [UK Threatens £100K-A-Day Fines Under New Cyber Bill](https://soylentnews.org/article.pl?sid=25/04/06/136221&from=rss)
 * [2025-04-07, 07:56:00](https://soylentnews.org/article.pl?sid=25/04/06/130257&from=rss) - [Cell Phone OPSEC for Border Crossings](https://soylentnews.org/article.pl?sid=25/04/06/130257&from=rss)
 * [2025-04-07, 03:10:00](https://soylentnews.org/article.pl?sid=25/04/06/1238211&from=rss) - [New Zealand Start-Up Aims to Take Space Transport to New Heights](https://soylentnews.org/article.pl?sid=25/04/06/1238211&from=rss)
 * [2025-04-06, 22:22:00](https://soylentnews.org/article.pl?sid=25/04/05/1917232&from=rss) - [Brain-Computer Interfaces Face a Critical Test](https://soylentnews.org/article.pl?sid=25/04/05/1917232&from=rss)
@@ -49,7 +50,6 @@
 * [2025-03-29, 17:17:00](https://soylentnews.org/article.pl?sid=25/03/28/1347215&from=rss) - [Nitisinone Makes Human Blood Lethal to Mosquitoes and Outlasts Ivermectin, Study Shows](https://soylentnews.org/article.pl?sid=25/03/28/1347215&from=rss)
 * [2025-03-29, 12:33:00](https://soylentnews.org/article.pl?sid=25/03/28/1215217&from=rss) - [Record-Breaking Explosion by Black Hole Spotted](https://soylentnews.org/article.pl?sid=25/03/28/1215217&from=rss)
 * [2025-03-29, 07:49:00](https://soylentnews.org/article.pl?sid=25/03/28/1210259&from=rss) - [Open Source Devs Are Fighting AI Crawlers With Cleverness and Vengeance](https://soylentnews.org/article.pl?sid=25/03/28/1210259&from=rss)
-* [2025-03-29, 03:00:00](https://soylentnews.org/article.pl?sid=25/03/28/122201&from=rss) - [Security Vulnerability Fixed in Firefox 136.0.4, Firefox ESR 128.8.1, Firefox ESR 115.21.1](https://soylentnews.org/article.pl?sid=25/03/28/122201&from=rss)
 
 ## [Archives](archives/index.md)
 
