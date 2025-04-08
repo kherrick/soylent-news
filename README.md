@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-08, 21:55:00](https://soylentnews.org/article.pl?sid=25/04/07/1511216&from=rss) - [No One Knows What the Hell an AI Agent is](https://soylentnews.org/article.pl?sid=25/04/07/1511216&from=rss)
 * [2025-04-08, 17:12:00](https://soylentnews.org/article.pl?sid=25/04/07/157225&from=rss) - [Is Homo Sapiens an Invasive Species?](https://soylentnews.org/article.pl?sid=25/04/07/157225&from=rss)
 * [2025-04-08, 12:23:00](https://soylentnews.org/article.pl?sid=25/04/07/154254&from=rss) - [NASA's Webb Exposes Complex Atmosphere of Starless Super-Jupiter](https://soylentnews.org/article.pl?sid=25/04/07/154254&from=rss)
 * [2025-04-08, 07:42:00](https://soylentnews.org/article.pl?sid=25/04/07/151226&from=rss) - [AMD Sets New Supercomputer Record, Runs CFD Simulation Over 25x Faster On Instinct Mi250X GPUs ](https://soylentnews.org/article.pl?sid=25/04/07/151226&from=rss)
@@ -49,7 +50,6 @@
 * [2025-03-31, 02:39:00](https://soylentnews.org/article.pl?sid=25/03/28/1410255&from=rss) - [23andMe Customers Struggle to Delete Their Data](https://soylentnews.org/article.pl?sid=25/03/28/1410255&from=rss)
 * [2025-03-30, 21:53:00](https://soylentnews.org/article.pl?sid=25/03/28/1431238&from=rss) - [New Utah Law Makes App Stores Responsible for Age Verification](https://soylentnews.org/article.pl?sid=25/03/28/1431238&from=rss)
 * [2025-03-30, 17:14:00](https://soylentnews.org/article.pl?sid=25/03/28/1425255&from=rss) - [DragonOS is a Lubuntu-Based Desktop Distro Which is Focused on Software Defined Radio (SDR)](https://soylentnews.org/article.pl?sid=25/03/28/1425255&from=rss)
-* [2025-03-30, 12:28:00](https://soylentnews.org/article.pl?sid=25/03/30/0940218&from=rss) - [I'm an American Software Developer and the \"Broligarchs\" Don't Speak for Me (or Anyone I Know.)](https://soylentnews.org/article.pl?sid=25/03/30/0940218&from=rss)
 
 ## [Archives](archives/index.md)
 
