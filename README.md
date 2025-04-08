@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-08, 07:42:00](https://soylentnews.org/article.pl?sid=25/04/07/151226&from=rss) - [AMD Sets New Supercomputer Record, Runs CFD Simulation Over 25x Faster On Instinct Mi250X GPUs ](https://soylentnews.org/article.pl?sid=25/04/07/151226&from=rss)
 * [2025-04-08, 02:56:00](https://soylentnews.org/article.pl?sid=25/04/07/0055209&from=rss) - [Earth May Have Had a Ring System 466 Million Years Ago](https://soylentnews.org/article.pl?sid=25/04/07/0055209&from=rss)
 * [2025-04-07, 22:11:00](https://soylentnews.org/article.pl?sid=25/04/06/198244&from=rss) - [Operating System for Quantum Networks is a First](https://soylentnews.org/article.pl?sid=25/04/06/198244&from=rss)
 * [2025-04-07, 17:26:00](https://soylentnews.org/article.pl?sid=25/04/06/193210&from=rss) - [Microsoft Analyzing Open-Source Bootloaders: Finding Vulnerabilities Faster With AI??](https://soylentnews.org/article.pl?sid=25/04/06/193210&from=rss)
@@ -49,7 +50,6 @@
 * [2025-03-30, 12:28:00](https://soylentnews.org/article.pl?sid=25/03/30/0940218&from=rss) - [I'm an American Software Developer and the \"Broligarchs\" Don't Speak for Me (or Anyone I Know.)](https://soylentnews.org/article.pl?sid=25/03/30/0940218&from=rss)
 * [2025-03-30, 07:42:00](https://soylentnews.org/article.pl?sid=25/03/28/146215&from=rss) - [A Tardigrade Protein Helped Reduce Radiation Damage In Mice](https://soylentnews.org/article.pl?sid=25/03/28/146215&from=rss)
 * [2025-03-30, 03:03:00](https://soylentnews.org/article.pl?sid=25/03/28/1353243&from=rss) - [Tor Network Status - A Pretty Yet Detailed Current List of Nodes and Type](https://soylentnews.org/article.pl?sid=25/03/28/1353243&from=rss)
-* [2025-03-29, 22:04:00](https://soylentnews.org/article.pl?sid=25/03/28/140245&from=rss) - [Certified Genuine Randomness](https://soylentnews.org/article.pl?sid=25/03/28/140245&from=rss)
 
 ## [Archives](archives/index.md)
 
