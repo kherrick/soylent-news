@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-09, 12:11:00](https://soylentnews.org/article.pl?sid=25/04/08/121246&from=rss) - [April 7 — Reflections on Twenty Years of Git](https://soylentnews.org/article.pl?sid=25/04/08/121246&from=rss)
 * [2025-04-09, 07:28:00](https://soylentnews.org/article.pl?sid=25/04/08/1159249&from=rss) - [Facial Recognition Tech, Developed With a Clear Purpose in Mind](https://soylentnews.org/article.pl?sid=25/04/08/1159249&from=rss)
 * [2025-04-09, 02:42:00](https://soylentnews.org/article.pl?sid=25/04/07/1513227&from=rss) - [Scientists Use Sound to Generate and Shape Water Waves](https://soylentnews.org/article.pl?sid=25/04/07/1513227&from=rss)
 * [2025-04-08, 21:55:00](https://soylentnews.org/article.pl?sid=25/04/07/1511216&from=rss) - [No One Knows What the Hell an AI Agent is](https://soylentnews.org/article.pl?sid=25/04/07/1511216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-03-31, 12:09:00](https://soylentnews.org/article.pl?sid=25/03/31/0347227&from=rss) - [Elon Musk’s X Has a New Owner](https://soylentnews.org/article.pl?sid=25/03/31/0347227&from=rss)
 * [2025-03-31, 07:24:00](https://soylentnews.org/article.pl?sid=25/03/31/0341226&from=rss) - [Apple and Google Face Billions in Liability From Trump's Tiktok Ban Delay](https://soylentnews.org/article.pl?sid=25/03/31/0341226&from=rss)
 * [2025-03-31, 06:00:00](https://soylentnews.org/article.pl?sid=25/03/28/1139202&from=rss) - [Soylent News Entering a New Phase](https://soylentnews.org/article.pl?sid=25/03/28/1139202&from=rss)
-* [2025-03-31, 02:39:00](https://soylentnews.org/article.pl?sid=25/03/28/1410255&from=rss) - [23andMe Customers Struggle to Delete Their Data](https://soylentnews.org/article.pl?sid=25/03/28/1410255&from=rss)
 
 ## [Archives](archives/index.md)
 
