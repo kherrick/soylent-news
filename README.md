@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-10, 16:38:00](https://soylentnews.org/article.pl?sid=25/04/09/154256&from=rss) - [Starving Dolphins In Florida Traced To Algae Bloom Fueled By Human Waste](https://soylentnews.org/article.pl?sid=25/04/09/154256&from=rss)
 * [2025-04-10, 11:52:00](https://soylentnews.org/article.pl?sid=25/04/09/152222&from=rss) - [How Do Bird Nests Stay Together? Researchers Unravel Entanglement Between Stiff, Straight Rods](https://soylentnews.org/article.pl?sid=25/04/09/152222&from=rss)
 * [2025-04-10, 07:05:00](https://soylentnews.org/article.pl?sid=25/04/09/1157227&from=rss) - [Another RTX 5090 Connector Melts Down, Reportedly Taking a PSU With It](https://soylentnews.org/article.pl?sid=25/04/09/1157227&from=rss)
 * [2025-04-10, 02:18:00](https://soylentnews.org/article.pl?sid=25/04/09/0034238&from=rss) - [Scientists Bring Dire Wolf Back From Extinction... Almost](https://soylentnews.org/article.pl?sid=25/04/09/0034238&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-01, 16:38:00](https://soylentnews.org/article.pl?sid=25/03/31/1218257&from=rss) - [Back to Cash: Life Without Money in Your Pocket is Not the Utopia Sweden Hoped](https://soylentnews.org/article.pl?sid=25/03/31/1218257&from=rss)
 * [2025-04-01, 11:55:00](https://soylentnews.org/article.pl?sid=25/04/01/0749220&from=rss) - [After Trump's Decree: Fight for US Funding for Tor, F-Droid and Let's Encrypt](https://soylentnews.org/article.pl?sid=25/04/01/0749220&from=rss)
 * [2025-04-01, 07:09:00](https://soylentnews.org/article.pl?sid=25/03/31/0411203&from=rss) - [Ending Remote Work Has Major Consequences for Women](https://soylentnews.org/article.pl?sid=25/03/31/0411203&from=rss)
-* [2025-04-01, 02:23:00](https://soylentnews.org/article.pl?sid=25/03/31/045231&from=rss) - [Word of the Day: Zwitterionic](https://soylentnews.org/article.pl?sid=25/03/31/045231&from=rss)
 
 ## [Archives](archives/index.md)
 
