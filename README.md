@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-11, 11:45:00](https://soylentnews.org/article.pl?sid=25/04/10/0256252&from=rss) - [Physicists Have Confirmed a New Mismatch Between Matter and Antimatter](https://soylentnews.org/article.pl?sid=25/04/10/0256252&from=rss)
 * [2025-04-11, 06:56:00](https://soylentnews.org/article.pl?sid=25/04/10/0249201&from=rss) - [Aptera Solar Assisted Car - 20 Year Update](https://soylentnews.org/article.pl?sid=25/04/10/0249201&from=rss)
 * [2025-04-11, 02:09:00](https://soylentnews.org/article.pl?sid=25/04/09/1511216&from=rss) - [Framework Halts Sales of Select Laptops in the US Amid Tariff Changes](https://soylentnews.org/article.pl?sid=25/04/09/1511216&from=rss)
 * [2025-04-10, 21:26:00](https://soylentnews.org/article.pl?sid=25/04/09/158225&from=rss) - [9 Rules for New Technology](https://soylentnews.org/article.pl?sid=25/04/09/158225&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-02, 11:38:00](https://soylentnews.org/article.pl?sid=25/03/31/1720218&from=rss) - [Study Reveals Tool Use in Tropical Fish Species](https://soylentnews.org/article.pl?sid=25/03/31/1720218&from=rss)
 * [2025-04-02, 06:53:00](https://soylentnews.org/article.pl?sid=25/03/31/1714219&from=rss) - [75% of US Scientists Who Answered Nature Poll Consider Leaving](https://soylentnews.org/article.pl?sid=25/03/31/1714219&from=rss)
 * [2025-04-02, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/31/1248211&from=rss) - [Microsoft's Killing Script Used to Avoid Microsoft Account in Windows 11](https://soylentnews.org/article.pl?sid=25/03/31/1248211&from=rss)
-* [2025-04-01, 21:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1243220&from=rss) - [The Internet Oracle Has Pondered Your Question Deeply - Revisiting an Old Friend](https://soylentnews.org/article.pl?sid=25/03/31/1243220&from=rss)
 
 ## [Archives](archives/index.md)
 
