@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-11, 02:09:00](https://soylentnews.org/article.pl?sid=25/04/09/1511216&from=rss) - [Framework Halts Sales of Select Laptops in the US Amid Tariff Changes](https://soylentnews.org/article.pl?sid=25/04/09/1511216&from=rss)
 * [2025-04-10, 21:26:00](https://soylentnews.org/article.pl?sid=25/04/09/158225&from=rss) - [9 Rules for New Technology](https://soylentnews.org/article.pl?sid=25/04/09/158225&from=rss)
 * [2025-04-10, 16:38:00](https://soylentnews.org/article.pl?sid=25/04/09/154256&from=rss) - [Starving Dolphins In Florida Traced To Algae Bloom Fueled By Human Waste](https://soylentnews.org/article.pl?sid=25/04/09/154256&from=rss)
 * [2025-04-10, 11:52:00](https://soylentnews.org/article.pl?sid=25/04/09/152222&from=rss) - [How Do Bird Nests Stay Together? Researchers Unravel Entanglement Between Stiff, Straight Rods](https://soylentnews.org/article.pl?sid=25/04/09/152222&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-02, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/31/1248211&from=rss) - [Microsoft's Killing Script Used to Avoid Microsoft Account in Windows 11](https://soylentnews.org/article.pl?sid=25/03/31/1248211&from=rss)
 * [2025-04-01, 21:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1243220&from=rss) - [The Internet Oracle Has Pondered Your Question Deeply - Revisiting an Old Friend](https://soylentnews.org/article.pl?sid=25/03/31/1243220&from=rss)
 * [2025-04-01, 16:38:00](https://soylentnews.org/article.pl?sid=25/03/31/1218257&from=rss) - [Back to Cash: Life Without Money in Your Pocket is Not the Utopia Sweden Hoped](https://soylentnews.org/article.pl?sid=25/03/31/1218257&from=rss)
-* [2025-04-01, 11:55:00](https://soylentnews.org/article.pl?sid=25/04/01/0749220&from=rss) - [After Trump's Decree: Fight for US Funding for Tor, F-Droid and Let's Encrypt](https://soylentnews.org/article.pl?sid=25/04/01/0749220&from=rss)
 
 ## [Archives](archives/index.md)
 
