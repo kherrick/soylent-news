@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/11/1143202&from=rss) - [AI Fueled Minority Report](https://soylentnews.org/article.pl?sid=25/04/11/1143202&from=rss)
 * [2025-04-11, 17:38:00](https://soylentnews.org/article.pl?sid=25/04/11/1330214&from=rss) - [Soylent News Could Use a stripe.js Module](https://soylentnews.org/article.pl?sid=25/04/11/1330214&from=rss)
 * [2025-04-11, 16:30:00](https://soylentnews.org/article.pl?sid=25/04/10/035221&from=rss) - [GlobalFoundries Mulls UMC Takeover in Effort Dubbed 'Project Ultron'](https://soylentnews.org/article.pl?sid=25/04/10/035221&from=rss)
 * [2025-04-11, 11:45:00](https://soylentnews.org/article.pl?sid=25/04/10/0256252&from=rss) - [Physicists Have Confirmed a New Mismatch Between Matter and Antimatter](https://soylentnews.org/article.pl?sid=25/04/10/0256252&from=rss)
