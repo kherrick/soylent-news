@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-11, 17:38:00](https://soylentnews.org/article.pl?sid=25/04/11/1330214&from=rss) - [Soylent News Could Use a stripe.js Module](https://soylentnews.org/article.pl?sid=25/04/11/1330214&from=rss)
 * [2025-04-11, 16:30:00](https://soylentnews.org/article.pl?sid=25/04/10/035221&from=rss) - [GlobalFoundries Mulls UMC Takeover in Effort Dubbed 'Project Ultron'](https://soylentnews.org/article.pl?sid=25/04/10/035221&from=rss)
 * [2025-04-11, 11:45:00](https://soylentnews.org/article.pl?sid=25/04/10/0256252&from=rss) - [Physicists Have Confirmed a New Mismatch Between Matter and Antimatter](https://soylentnews.org/article.pl?sid=25/04/10/0256252&from=rss)
 * [2025-04-11, 06:56:00](https://soylentnews.org/article.pl?sid=25/04/10/0249201&from=rss) - [Aptera Solar Assisted Car - 20 Year Update](https://soylentnews.org/article.pl?sid=25/04/10/0249201&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-02, 23:22:00](https://soylentnews.org/article.pl?sid=25/03/31/0416212&from=rss) - [FuguIta: OpenBSD Live CD - Celebrates Their 20th Anniversary!](https://soylentnews.org/article.pl?sid=25/03/31/0416212&from=rss)
 * [2025-04-02, 16:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1729253&from=rss) - [AI Search Engines Cite Incorrect News Sources at an Alarming 60% Rate, Study Says](https://soylentnews.org/article.pl?sid=25/03/31/1729253&from=rss)
 * [2025-04-02, 11:38:00](https://soylentnews.org/article.pl?sid=25/03/31/1720218&from=rss) - [Study Reveals Tool Use in Tropical Fish Species](https://soylentnews.org/article.pl?sid=25/03/31/1720218&from=rss)
-* [2025-04-02, 06:53:00](https://soylentnews.org/article.pl?sid=25/03/31/1714219&from=rss) - [75% of US Scientists Who Answered Nature Poll Consider Leaving](https://soylentnews.org/article.pl?sid=25/03/31/1714219&from=rss)
 
 ## [Archives](archives/index.md)
 
