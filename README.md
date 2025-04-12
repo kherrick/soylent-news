@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-12, 01:57:00](https://soylentnews.org/article.pl?sid=25/04/11/1149226&from=rss) - ['Doom Loops' Are Accelerating Climate Change—but We Can Break Them](https://soylentnews.org/article.pl?sid=25/04/11/1149226&from=rss)
 * [2025-04-11, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/11/1143202&from=rss) - [AI Fueled Minority Report](https://soylentnews.org/article.pl?sid=25/04/11/1143202&from=rss)
 * [2025-04-11, 17:38:00](https://soylentnews.org/article.pl?sid=25/04/11/1330214&from=rss) - [Soylent News Could Use a stripe.js Module](https://soylentnews.org/article.pl?sid=25/04/11/1330214&from=rss)
 * [2025-04-11, 16:30:00](https://soylentnews.org/article.pl?sid=25/04/10/035221&from=rss) - [GlobalFoundries Mulls UMC Takeover in Effort Dubbed 'Project Ultron'](https://soylentnews.org/article.pl?sid=25/04/10/035221&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-03, 08:52:00](https://soylentnews.org/article.pl?sid=25/04/02/034207&from=rss) - [First Orbital Rocket Launched From Mainland Europe Crashes After Takeoff](https://soylentnews.org/article.pl?sid=25/04/02/034207&from=rss)
 * [2025-04-03, 04:06:00](https://soylentnews.org/article.pl?sid=25/04/01/1135252&from=rss) - [Honeybee Deaths Surge in U.S.: 'Something Real Bad is Going on'](https://soylentnews.org/article.pl?sid=25/04/01/1135252&from=rss)
 * [2025-04-02, 23:22:00](https://soylentnews.org/article.pl?sid=25/03/31/0416212&from=rss) - [FuguIta: OpenBSD Live CD - Celebrates Their 20th Anniversary!](https://soylentnews.org/article.pl?sid=25/03/31/0416212&from=rss)
-* [2025-04-02, 16:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1729253&from=rss) - [AI Search Engines Cite Incorrect News Sources at an Alarming 60% Rate, Study Says](https://soylentnews.org/article.pl?sid=25/03/31/1729253&from=rss)
 
 ## [Archives](archives/index.md)
 
