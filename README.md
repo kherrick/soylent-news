@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-12, 11:28:00](https://soylentnews.org/article.pl?sid=25/04/11/1250234&from=rss) - [Mapping the Half-Billion Connections That Allow Mice to See](https://soylentnews.org/article.pl?sid=25/04/11/1250234&from=rss)
 * [2025-04-12, 06:43:00](https://soylentnews.org/article.pl?sid=25/04/11/1245213&from=rss) - [Commission Targets in-Game Currency in Children's Video Games](https://soylentnews.org/article.pl?sid=25/04/11/1245213&from=rss)
 * [2025-04-12, 01:57:00](https://soylentnews.org/article.pl?sid=25/04/11/1149226&from=rss) - ['Doom Loops' Are Accelerating Climate Change—but We Can Break Them](https://soylentnews.org/article.pl?sid=25/04/11/1149226&from=rss)
 * [2025-04-11, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/11/1143202&from=rss) - [AI Fueled Minority Report](https://soylentnews.org/article.pl?sid=25/04/11/1143202&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-03, 18:17:00](https://soylentnews.org/article.pl?sid=25/04/02/038211&from=rss) - [The April Fools Joke That Might Have Got Me Fired](https://soylentnews.org/article.pl?sid=25/04/02/038211&from=rss)
 * [2025-04-03, 13:35:00](https://soylentnews.org/article.pl?sid=25/04/02/036222&from=rss) - [News Outlets Fighting Back Against Distrust With \"Ethics Boxes\"??](https://soylentnews.org/article.pl?sid=25/04/02/036222&from=rss)
 * [2025-04-03, 08:52:00](https://soylentnews.org/article.pl?sid=25/04/02/034207&from=rss) - [First Orbital Rocket Launched From Mainland Europe Crashes After Takeoff](https://soylentnews.org/article.pl?sid=25/04/02/034207&from=rss)
-* [2025-04-03, 04:06:00](https://soylentnews.org/article.pl?sid=25/04/01/1135252&from=rss) - [Honeybee Deaths Surge in U.S.: 'Something Real Bad is Going on'](https://soylentnews.org/article.pl?sid=25/04/01/1135252&from=rss)
 
 ## [Archives](archives/index.md)
 
