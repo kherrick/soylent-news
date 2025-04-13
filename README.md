@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-13, 15:50:00](https://soylentnews.org/article.pl?sid=25/04/13/0312208&from=rss) - [Ubisoft Argues Players Don't Own Their Games in Wake of The Crew Lawsuit](https://soylentnews.org/article.pl?sid=25/04/13/0312208&from=rss)
 * [2025-04-13, 11:06:00](https://soylentnews.org/article.pl?sid=25/04/13/037236&from=rss) - [The U.S. is Building a Fuel Depot in Space](https://soylentnews.org/article.pl?sid=25/04/13/037236&from=rss)
 * [2025-04-13, 06:22:00](https://soylentnews.org/article.pl?sid=25/04/13/033235&from=rss) - [Germany, Ukraine Start Ramping Up Use of European Starlink Alternative](https://soylentnews.org/article.pl?sid=25/04/13/033235&from=rss)
 * [2025-04-13, 01:40:00](https://soylentnews.org/article.pl?sid=25/04/11/132246&from=rss) - [Brainpower Boosted by Tapping Out a Specific Rhythm, Study Finds](https://soylentnews.org/article.pl?sid=25/04/11/132246&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-04, 22:41:00](https://soylentnews.org/article.pl?sid=25/04/03/1326237&from=rss) - [How Perceptions Are Influenced by Expectations: Songbird Study Draws Parallels With Human Speech](https://soylentnews.org/article.pl?sid=25/04/03/1326237&from=rss)
 * [2025-04-04, 17:53:00](https://soylentnews.org/article.pl?sid=25/04/03/1319224&from=rss) - [Executive Order Aims to Make Mining the Primary Use of Public Lands at ‘As Many Sites As Possible’](https://soylentnews.org/article.pl?sid=25/04/03/1319224&from=rss)
 * [2025-04-04, 13:10:00](https://soylentnews.org/article.pl?sid=25/04/03/0151238&from=rss) - [Notes on the Pentium's Microcode Circuitry](https://soylentnews.org/article.pl?sid=25/04/03/0151238&from=rss)
-* [2025-04-04, 08:28:00](https://soylentnews.org/article.pl?sid=25/04/03/0149258&from=rss) - [What Drives Our Cravings for Food and Drink? Neurons in the Amygdala May Play a Key Role](https://soylentnews.org/article.pl?sid=25/04/03/0149258&from=rss)
 
 ## [Archives](archives/index.md)
 
