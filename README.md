@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/04/16/1146247&from=rss) - [MITRE Announced Funding for Common Vulnerabilities and Exposures (CVE) Program Ends 16-April-2025](https://soylentnews.org/article.pl?sid=25/04/16/1146247&from=rss)
 * [2025-04-16, 15:13:00](https://soylentnews.org/article.pl?sid=25/04/16/1143246&from=rss) - [Rooftop Solar PV Could Supply Two-Thirds of World's Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&from=rss)
 * [2025-04-16, 10:26:00](https://soylentnews.org/article.pl?sid=25/04/15/1018214&from=rss) - [Meeting Apple on Apple's Terms](https://soylentnews.org/article.pl?sid=25/04/15/1018214&from=rss)
 * [2025-04-16, 05:38:00](https://soylentnews.org/article.pl?sid=25/04/15/0119244&from=rss) - [Copilot Recall: Microsoft Rolls Out AI Screenshot Tool](https://soylentnews.org/article.pl?sid=25/04/15/0119244&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-07, 17:26:00](https://soylentnews.org/article.pl?sid=25/04/06/193210&from=rss) - [Microsoft Analyzing Open-Source Bootloaders: Finding Vulnerabilities Faster With AI??](https://soylentnews.org/article.pl?sid=25/04/06/193210&from=rss)
 * [2025-04-07, 12:41:00](https://soylentnews.org/article.pl?sid=25/04/06/136221&from=rss) - [UK Threatens £100K-A-Day Fines Under New Cyber Bill](https://soylentnews.org/article.pl?sid=25/04/06/136221&from=rss)
 * [2025-04-07, 07:56:00](https://soylentnews.org/article.pl?sid=25/04/06/130257&from=rss) - [Cell Phone OPSEC for Border Crossings](https://soylentnews.org/article.pl?sid=25/04/06/130257&from=rss)
-* [2025-04-07, 03:10:00](https://soylentnews.org/article.pl?sid=25/04/06/1238211&from=rss) - [New Zealand Start-Up Aims to Take Space Transport to New Heights](https://soylentnews.org/article.pl?sid=25/04/06/1238211&from=rss)
 
 ## [Archives](archives/index.md)
 
