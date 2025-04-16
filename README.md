@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-16, 15:13:00](https://soylentnews.org/article.pl?sid=25/04/16/1143246&from=rss) - [Rooftop Solar PV Could Supply Two-Thirds of World's Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&from=rss)
 * [2025-04-16, 10:26:00](https://soylentnews.org/article.pl?sid=25/04/15/1018214&from=rss) - [Meeting Apple on Apple's Terms](https://soylentnews.org/article.pl?sid=25/04/15/1018214&from=rss)
 * [2025-04-16, 05:38:00](https://soylentnews.org/article.pl?sid=25/04/15/0119244&from=rss) - [Copilot Recall: Microsoft Rolls Out AI Screenshot Tool](https://soylentnews.org/article.pl?sid=25/04/15/0119244&from=rss)
 * [2025-04-16, 00:49:00](https://soylentnews.org/article.pl?sid=25/04/15/0115256&from=rss) - [Cooling Chips With Lasers: Innovative Cooling Method Removes Heat Precisely From Hot Spots](https://soylentnews.org/article.pl?sid=25/04/15/0115256&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-07, 12:41:00](https://soylentnews.org/article.pl?sid=25/04/06/136221&from=rss) - [UK Threatens £100K-A-Day Fines Under New Cyber Bill](https://soylentnews.org/article.pl?sid=25/04/06/136221&from=rss)
 * [2025-04-07, 07:56:00](https://soylentnews.org/article.pl?sid=25/04/06/130257&from=rss) - [Cell Phone OPSEC for Border Crossings](https://soylentnews.org/article.pl?sid=25/04/06/130257&from=rss)
 * [2025-04-07, 03:10:00](https://soylentnews.org/article.pl?sid=25/04/06/1238211&from=rss) - [New Zealand Start-Up Aims to Take Space Transport to New Heights](https://soylentnews.org/article.pl?sid=25/04/06/1238211&from=rss)
-* [2025-04-06, 22:22:00](https://soylentnews.org/article.pl?sid=25/04/05/1917232&from=rss) - [Brain-Computer Interfaces Face a Critical Test](https://soylentnews.org/article.pl?sid=25/04/05/1917232&from=rss)
 
 ## [Archives](archives/index.md)
 
