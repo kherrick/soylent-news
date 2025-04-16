@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-16, 00:49:00](https://soylentnews.org/article.pl?sid=25/04/15/0115256&from=rss) - [Cooling Chips With Lasers: Innovative Cooling Method Removes Heat Precisely From Hot Spots](https://soylentnews.org/article.pl?sid=25/04/15/0115256&from=rss)
 * [2025-04-15, 20:04:00](https://soylentnews.org/article.pl?sid=25/04/14/0628227&from=rss) - [Microsoft is Digging its Own Grave With Windows 11, and It Has to Stop](https://soylentnews.org/article.pl?sid=25/04/14/0628227&from=rss)
 * [2025-04-15, 15:18:00](https://soylentnews.org/article.pl?sid=25/04/14/0619222&from=rss) - [NIST Finalizes Guidelines for Evaluating ‘Differential Privacy’ Guarantees to De-Identify Data](https://soylentnews.org/article.pl?sid=25/04/14/0619222&from=rss)
 * [2025-04-15, 10:33:00](https://soylentnews.org/article.pl?sid=25/04/14/0616220&from=rss) - [ChatGPT Now Lets Users Create Fake Images of Politicians--Tool Suggested Own Workarounds](https://soylentnews.org/article.pl?sid=25/04/14/0616220&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-06, 22:22:00](https://soylentnews.org/article.pl?sid=25/04/05/1917232&from=rss) - [Brain-Computer Interfaces Face a Critical Test](https://soylentnews.org/article.pl?sid=25/04/05/1917232&from=rss)
 * [2025-04-06, 17:34:00](https://soylentnews.org/article.pl?sid=25/04/05/1857225&from=rss) - [Rapidus to Begin Trial Production of its 2nm Process This Month](https://soylentnews.org/article.pl?sid=25/04/05/1857225&from=rss)
 * [2025-04-06, 12:47:00](https://soylentnews.org/article.pl?sid=25/04/05/1319211&from=rss) - [CISPE Pumps €1 Million Of Microsoft's Money Into Fulcrum](https://soylentnews.org/article.pl?sid=25/04/05/1319211&from=rss)
-* [2025-04-06, 08:02:00](https://soylentnews.org/article.pl?sid=25/04/05/1234244&from=rss) - [Open-Source Tool Designed To Throttle PC And Server Performance Based On Electricity Pricing](https://soylentnews.org/article.pl?sid=25/04/05/1234244&from=rss)
 
 ## [Archives](archives/index.md)
 
