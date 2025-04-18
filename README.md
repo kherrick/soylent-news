@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-18, 00:21:00](https://soylentnews.org/article.pl?sid=25/04/16/1843228&from=rss) - [Phase Two of Military AI Has Arrived](https://soylentnews.org/article.pl?sid=25/04/16/1843228&from=rss)
 * [2025-04-17, 19:42:00](https://soylentnews.org/article.pl?sid=25/04/16/1838216&from=rss) - [Disasters Spur Investment in Flood and Fire Risk Technology](https://soylentnews.org/article.pl?sid=25/04/16/1838216&from=rss)
 * [2025-04-17, 14:54:00](https://soylentnews.org/article.pl?sid=25/04/16/1816228&from=rss) - [AMD Set to Produce its CPU Chip at TSMC Plant in Arizona](https://soylentnews.org/article.pl?sid=25/04/16/1816228&from=rss)
 * [2025-04-17, 10:08:00](https://soylentnews.org/article.pl?sid=25/04/16/1155209&from=rss) - [OpenWrt 24.10.1 is Now Available](https://soylentnews.org/article.pl?sid=25/04/16/1155209&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-08, 21:55:00](https://soylentnews.org/article.pl?sid=25/04/07/1511216&from=rss) - [No One Knows What the Hell an AI Agent is](https://soylentnews.org/article.pl?sid=25/04/07/1511216&from=rss)
 * [2025-04-08, 17:12:00](https://soylentnews.org/article.pl?sid=25/04/07/157225&from=rss) - [Is Homo Sapiens an Invasive Species?](https://soylentnews.org/article.pl?sid=25/04/07/157225&from=rss)
 * [2025-04-08, 12:23:00](https://soylentnews.org/article.pl?sid=25/04/07/154254&from=rss) - [NASA's Webb Exposes Complex Atmosphere of Starless Super-Jupiter](https://soylentnews.org/article.pl?sid=25/04/07/154254&from=rss)
-* [2025-04-08, 07:42:00](https://soylentnews.org/article.pl?sid=25/04/07/151226&from=rss) - [AMD Sets New Supercomputer Record, Runs CFD Simulation Over 25x Faster On Instinct Mi250X GPUs ](https://soylentnews.org/article.pl?sid=25/04/07/151226&from=rss)
 
 ## [Archives](archives/index.md)
 
