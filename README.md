@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-18, 14:34:00](https://soylentnews.org/article.pl?sid=25/04/17/1336207&from=rss) - [The Friendship Recession: The Lost Art of Connecting](https://soylentnews.org/article.pl?sid=25/04/17/1336207&from=rss)
 * [2025-04-18, 09:52:00](https://soylentnews.org/article.pl?sid=25/04/16/1857229&from=rss) - [‘End of an Era’: The Last RadioShack in Maryland is Closing its Doors](https://soylentnews.org/article.pl?sid=25/04/16/1857229&from=rss)
 * [2025-04-18, 05:07:00](https://soylentnews.org/article.pl?sid=25/04/16/1849251&from=rss) - [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&from=rss)
 * [2025-04-18, 00:21:00](https://soylentnews.org/article.pl?sid=25/04/16/1843228&from=rss) - [Phase Two of Military AI Has Arrived](https://soylentnews.org/article.pl?sid=25/04/16/1843228&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-09, 12:11:00](https://soylentnews.org/article.pl?sid=25/04/08/121246&from=rss) - [April 7 — Reflections on Twenty Years of Git](https://soylentnews.org/article.pl?sid=25/04/08/121246&from=rss)
 * [2025-04-09, 07:28:00](https://soylentnews.org/article.pl?sid=25/04/08/1159249&from=rss) - [Facial Recognition Tech, Developed With a Clear Purpose in Mind](https://soylentnews.org/article.pl?sid=25/04/08/1159249&from=rss)
 * [2025-04-09, 02:42:00](https://soylentnews.org/article.pl?sid=25/04/07/1513227&from=rss) - [Scientists Use Sound to Generate and Shape Water Waves](https://soylentnews.org/article.pl?sid=25/04/07/1513227&from=rss)
-* [2025-04-08, 21:55:00](https://soylentnews.org/article.pl?sid=25/04/07/1511216&from=rss) - [No One Knows What the Hell an AI Agent is](https://soylentnews.org/article.pl?sid=25/04/07/1511216&from=rss)
 
 ## [Archives](archives/index.md)
 
