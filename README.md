@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-21, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/20/0513237&from=rss) - [Deepseek Open Source model Promotes Fast Innovation and Extensive Application in China](https://soylentnews.org/article.pl?sid=25/04/20/0513237&from=rss)
 * [2025-04-21, 16:28:00](https://soylentnews.org/article.pl?sid=25/04/20/059216&from=rss) - [The Universe Isn't Just Expanding—It May be Spinning](https://soylentnews.org/article.pl?sid=25/04/20/059216&from=rss)
 * [2025-04-21, 11:41:00](https://soylentnews.org/article.pl?sid=25/04/20/051250&from=rss) - [Google Introduces Firebase Studio, an End-to-End Platform That Builds Custom Apps in-Browser](https://soylentnews.org/article.pl?sid=25/04/20/051250&from=rss)
 * [2025-04-21, 09:52:00](https://soylentnews.org/breakingnews/article.pl?sid=25/04/21/0944225&from=rss) - [Pope Francis Has Died on Easter Monday Aged 88](https://soylentnews.org/breakingnews/article.pl?sid=25/04/21/0944225&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-12, 20:56:00](https://soylentnews.org/article.pl?sid=25/04/11/1259205&from=rss) - [How The Pentagon Is Adapting To China's Technological Rise](https://soylentnews.org/article.pl?sid=25/04/11/1259205&from=rss)
 * [2025-04-12, 16:11:00](https://soylentnews.org/article.pl?sid=25/04/11/1254254&from=rss) - [Rare Crystal Shape Found to Increase the Strength of 3D-Printed Metal](https://soylentnews.org/article.pl?sid=25/04/11/1254254&from=rss)
 * [2025-04-12, 11:28:00](https://soylentnews.org/article.pl?sid=25/04/11/1250234&from=rss) - [Mapping the Half-Billion Connections That Allow Mice to See](https://soylentnews.org/article.pl?sid=25/04/11/1250234&from=rss)
-* [2025-04-12, 06:43:00](https://soylentnews.org/article.pl?sid=25/04/11/1245213&from=rss) - [Commission Targets in-Game Currency in Children's Video Games](https://soylentnews.org/article.pl?sid=25/04/11/1245213&from=rss)
 
 ## [Archives](archives/index.md)
 
