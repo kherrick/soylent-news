@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-21, 11:41:00](https://soylentnews.org/article.pl?sid=25/04/20/051250&from=rss) - [Google Introduces Firebase Studio, an End-to-End Platform That Builds Custom Apps in-Browser](https://soylentnews.org/article.pl?sid=25/04/20/051250&from=rss)
 * [2025-04-21, 09:52:00](https://soylentnews.org/breakingnews/article.pl?sid=25/04/21/0944225&from=rss) - [Pope Francis Has Died on Easter Monday Aged 88](https://soylentnews.org/breakingnews/article.pl?sid=25/04/21/0944225&from=rss)
 * [2025-04-21, 06:53:00](https://soylentnews.org/article.pl?sid=25/04/20/0455204&from=rss) - [Intel Agrees to Sell Controlling Stake in Altera Chip Business](https://soylentnews.org/article.pl?sid=25/04/20/0455204&from=rss)
 * [2025-04-21, 02:08:00](https://soylentnews.org/article.pl?sid=25/04/20/0452238&from=rss) - [Google Has Illegal Advertising Monopoly, Judge Rules](https://soylentnews.org/article.pl?sid=25/04/20/0452238&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-12, 11:28:00](https://soylentnews.org/article.pl?sid=25/04/11/1250234&from=rss) - [Mapping the Half-Billion Connections That Allow Mice to See](https://soylentnews.org/article.pl?sid=25/04/11/1250234&from=rss)
 * [2025-04-12, 06:43:00](https://soylentnews.org/article.pl?sid=25/04/11/1245213&from=rss) - [Commission Targets in-Game Currency in Children's Video Games](https://soylentnews.org/article.pl?sid=25/04/11/1245213&from=rss)
 * [2025-04-12, 01:57:00](https://soylentnews.org/article.pl?sid=25/04/11/1149226&from=rss) - ['Doom Loops' Are Accelerating Climate Change—but We Can Break Them](https://soylentnews.org/article.pl?sid=25/04/11/1149226&from=rss)
-* [2025-04-11, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/11/1143202&from=rss) - [AI Fueled Minority Report](https://soylentnews.org/article.pl?sid=25/04/11/1143202&from=rss)
 
 ## [Archives](archives/index.md)
 
