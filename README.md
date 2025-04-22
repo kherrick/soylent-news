@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-22, 16:10:00](https://soylentnews.org/article.pl?sid=25/04/22/0023201&from=rss) - [Tesla Accused of Speeding Up Odometers So Their Warranties Expire Faster](https://soylentnews.org/article.pl?sid=25/04/22/0023201&from=rss)
 * [2025-04-22, 11:27:00](https://soylentnews.org/article.pl?sid=25/04/21/2227242&from=rss) - [Oldest Serving US Astronaut Returns to Earth on 70th Birthday](https://soylentnews.org/article.pl?sid=25/04/21/2227242&from=rss)
 * [2025-04-22, 06:44:00](https://soylentnews.org/article.pl?sid=25/04/21/2224243&from=rss) - [Scientists Can Tell Healthy And Cancerous Cells Apart By How They Move](https://soylentnews.org/article.pl?sid=25/04/21/2224243&from=rss)
 * [2025-04-22, 06:28:00](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&from=rss) - [ \"Only 2 submissions in the queue.\"](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-13, 20:35:00](https://soylentnews.org/article.pl?sid=25/04/13/0316216&from=rss) - [AI Marketing to Bypass Spam Filters](https://soylentnews.org/article.pl?sid=25/04/13/0316216&from=rss)
 * [2025-04-13, 15:50:00](https://soylentnews.org/article.pl?sid=25/04/13/0312208&from=rss) - [Ubisoft Argues Players Don't Own Their Games in Wake of The Crew Lawsuit](https://soylentnews.org/article.pl?sid=25/04/13/0312208&from=rss)
 * [2025-04-13, 11:06:00](https://soylentnews.org/article.pl?sid=25/04/13/037236&from=rss) - [The U.S. is Building a Fuel Depot in Space](https://soylentnews.org/article.pl?sid=25/04/13/037236&from=rss)
-* [2025-04-13, 06:22:00](https://soylentnews.org/article.pl?sid=25/04/13/033235&from=rss) - [Germany, Ukraine Start Ramping Up Use of European Starlink Alternative](https://soylentnews.org/article.pl?sid=25/04/13/033235&from=rss)
 
 ## [Archives](archives/index.md)
 
