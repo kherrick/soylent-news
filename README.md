@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-22, 06:28:00](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&from=rss) - [ \"Only 2 submissions in the queue.\"](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&from=rss)
 * [2025-04-22, 02:01:00](https://soylentnews.org/article.pl?sid=25/04/20/1820252&from=rss) - [Jim Zemlin on Taking a 'Portfolio Approach' to Linux Foundation Projects](https://soylentnews.org/article.pl?sid=25/04/20/1820252&from=rss)
 * [2025-04-21, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/20/0513237&from=rss) - [Deepseek Open Source model Promotes Fast Innovation and Extensive Application in China](https://soylentnews.org/article.pl?sid=25/04/20/0513237&from=rss)
 * [2025-04-21, 16:28:00](https://soylentnews.org/article.pl?sid=25/04/20/059216&from=rss) - [The Universe Isn't Just Expanding—It May be Spinning](https://soylentnews.org/article.pl?sid=25/04/20/059216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-13, 06:22:00](https://soylentnews.org/article.pl?sid=25/04/13/033235&from=rss) - [Germany, Ukraine Start Ramping Up Use of European Starlink Alternative](https://soylentnews.org/article.pl?sid=25/04/13/033235&from=rss)
 * [2025-04-13, 01:40:00](https://soylentnews.org/article.pl?sid=25/04/11/132246&from=rss) - [Brainpower Boosted by Tapping Out a Specific Rhythm, Study Finds](https://soylentnews.org/article.pl?sid=25/04/11/132246&from=rss)
 * [2025-04-12, 20:56:00](https://soylentnews.org/article.pl?sid=25/04/11/1259205&from=rss) - [How The Pentagon Is Adapting To China's Technological Rise](https://soylentnews.org/article.pl?sid=25/04/11/1259205&from=rss)
-* [2025-04-12, 16:11:00](https://soylentnews.org/article.pl?sid=25/04/11/1254254&from=rss) - [Rare Crystal Shape Found to Increase the Strength of 3D-Printed Metal](https://soylentnews.org/article.pl?sid=25/04/11/1254254&from=rss)
 
 ## [Archives](archives/index.md)
 
