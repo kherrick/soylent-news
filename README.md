@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-23, 01:42:00](https://soylentnews.org/article.pl?sid=25/04/22/0052214&from=rss) - [Cancer-Causing Arsenic is Building Up in the World's Rice](https://soylentnews.org/article.pl?sid=25/04/22/0052214&from=rss)
 * [2025-04-22, 20:57:00](https://soylentnews.org/article.pl?sid=25/04/22/0038216&from=rss) - [CA/Browser Forum Votes to Reduce the Maximum Validity Term of SSL/TLS Certs to 47 Days by 2029](https://soylentnews.org/article.pl?sid=25/04/22/0038216&from=rss)
 * [2025-04-22, 16:10:00](https://soylentnews.org/article.pl?sid=25/04/22/0023201&from=rss) - [Tesla Accused of Speeding Up Odometers So Their Warranties Expire Faster](https://soylentnews.org/article.pl?sid=25/04/22/0023201&from=rss)
 * [2025-04-22, 11:27:00](https://soylentnews.org/article.pl?sid=25/04/21/2227242&from=rss) - [Oldest Serving US Astronaut Returns to Earth on 70th Birthday](https://soylentnews.org/article.pl?sid=25/04/21/2227242&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-14, 06:10:00](https://soylentnews.org/article.pl?sid=25/04/13/0339214&from=rss) - [Galaxies in the Deep Universe Rotate in the Same Direction](https://soylentnews.org/article.pl?sid=25/04/13/0339214&from=rss)
 * [2025-04-14, 01:20:00](https://soylentnews.org/article.pl?sid=25/04/13/0327231&from=rss) - [Ukraine's Autonomous Killer Drones Defeat Electronic Warfare](https://soylentnews.org/article.pl?sid=25/04/13/0327231&from=rss)
 * [2025-04-13, 20:35:00](https://soylentnews.org/article.pl?sid=25/04/13/0316216&from=rss) - [AI Marketing to Bypass Spam Filters](https://soylentnews.org/article.pl?sid=25/04/13/0316216&from=rss)
-* [2025-04-13, 15:50:00](https://soylentnews.org/article.pl?sid=25/04/13/0312208&from=rss) - [Ubisoft Argues Players Don't Own Their Games in Wake of The Crew Lawsuit](https://soylentnews.org/article.pl?sid=25/04/13/0312208&from=rss)
 
 ## [Archives](archives/index.md)
 
