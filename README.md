@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-24, 01:26:00](https://soylentnews.org/article.pl?sid=25/04/23/0353259&from=rss) - [Lone Black Hole Discovered](https://soylentnews.org/article.pl?sid=25/04/23/0353259&from=rss)
 * [2025-04-23, 20:41:00](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss) - [Hosting a Blog on a Nintendo Wii](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss)
 * [2025-04-23, 15:56:00](https://soylentnews.org/article.pl?sid=25/04/22/015230&from=rss) - [Laser Stimulation of Photoreceptors Reveals New Colors](https://soylentnews.org/article.pl?sid=25/04/22/015230&from=rss)
 * [2025-04-23, 11:13:00](https://soylentnews.org/article.pl?sid=25/04/22/011227&from=rss) - [ChatGPT is Now a Potent Tool for Finding the Locations of Photos, Raising Doxxing Concerns](https://soylentnews.org/article.pl?sid=25/04/22/011227&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-15, 05:52:00](https://soylentnews.org/article.pl?sid=25/04/14/0612230&from=rss) - [Ethically Sourced “Spare” Human Bodies Could Revolutionize Medicine](https://soylentnews.org/article.pl?sid=25/04/14/0612230&from=rss)
 * [2025-04-15, 01:12:00](https://soylentnews.org/article.pl?sid=25/04/14/067223&from=rss) - [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&from=rss)
 * [2025-04-14, 20:23:00](https://soylentnews.org/article.pl?sid=25/04/14/0550254&from=rss) - [Aztecs Versus Mayans - Unwrapping History Clue by Clue](https://soylentnews.org/article.pl?sid=25/04/14/0550254&from=rss)
-* [2025-04-14, 15:39:00](https://soylentnews.org/article.pl?sid=25/04/14/0540259&from=rss) - [A Tricky Commodore PET Repair: Tracking Down 6 1/2 Bad Chips](https://soylentnews.org/article.pl?sid=25/04/14/0540259&from=rss)
 
 ## [Archives](archives/index.md)
 
