@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-24, 20:24:00](https://soylentnews.org/article.pl?sid=25/04/23/1538243&from=rss) - [C64 Demo Using Audio for Video and Vice Versa](https://soylentnews.org/article.pl?sid=25/04/23/1538243&from=rss)
 * [2025-04-24, 15:38:00](https://soylentnews.org/article.pl?sid=25/04/23/1521205&from=rss) - [Open Home passes 2 million homes equipped](https://soylentnews.org/article.pl?sid=25/04/23/1521205&from=rss)
 * [2025-04-24, 10:53:00](https://soylentnews.org/article.pl?sid=25/04/23/1515240&from=rss) - [Sophisticated Gmail Attack Highlights Dangers of Trusting Big Tech with Personal Data](https://soylentnews.org/article.pl?sid=25/04/23/1515240&from=rss)
 * [2025-04-24, 06:11:00](https://soylentnews.org/article.pl?sid=25/04/23/0422241&from=rss) - [World's First Drone System for Fighting Lightning Protects Cities and Infrastructure](https://soylentnews.org/article.pl?sid=25/04/23/0422241&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-16, 00:49:00](https://soylentnews.org/article.pl?sid=25/04/15/0115256&from=rss) - [Cooling Chips With Lasers: Innovative Cooling Method Removes Heat Precisely From Hot Spots](https://soylentnews.org/article.pl?sid=25/04/15/0115256&from=rss)
 * [2025-04-15, 20:04:00](https://soylentnews.org/article.pl?sid=25/04/14/0628227&from=rss) - [Microsoft is Digging its Own Grave With Windows 11, and It Has to Stop](https://soylentnews.org/article.pl?sid=25/04/14/0628227&from=rss)
 * [2025-04-15, 15:18:00](https://soylentnews.org/article.pl?sid=25/04/14/0619222&from=rss) - [NIST Finalizes Guidelines for Evaluating ‘Differential Privacy’ Guarantees to De-Identify Data](https://soylentnews.org/article.pl?sid=25/04/14/0619222&from=rss)
-* [2025-04-15, 10:33:00](https://soylentnews.org/article.pl?sid=25/04/14/0616220&from=rss) - [ChatGPT Now Lets Users Create Fake Images of Politicians--Tool Suggested Own Workarounds](https://soylentnews.org/article.pl?sid=25/04/14/0616220&from=rss)
 
 ## [Archives](archives/index.md)
 
