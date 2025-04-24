@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-24, 06:11:00](https://soylentnews.org/article.pl?sid=25/04/23/0422241&from=rss) - [World's First Drone System for Fighting Lightning Protects Cities and Infrastructure](https://soylentnews.org/article.pl?sid=25/04/23/0422241&from=rss)
 * [2025-04-24, 01:26:00](https://soylentnews.org/article.pl?sid=25/04/23/0353259&from=rss) - [Lone Black Hole Discovered](https://soylentnews.org/article.pl?sid=25/04/23/0353259&from=rss)
 * [2025-04-23, 20:41:00](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss) - [Hosting a Blog on a Nintendo Wii](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss)
 * [2025-04-23, 15:56:00](https://soylentnews.org/article.pl?sid=25/04/22/015230&from=rss) - [Laser Stimulation of Photoreceptors Reveals New Colors](https://soylentnews.org/article.pl?sid=25/04/22/015230&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-15, 10:33:00](https://soylentnews.org/article.pl?sid=25/04/14/0616220&from=rss) - [ChatGPT Now Lets Users Create Fake Images of Politicians--Tool Suggested Own Workarounds](https://soylentnews.org/article.pl?sid=25/04/14/0616220&from=rss)
 * [2025-04-15, 05:52:00](https://soylentnews.org/article.pl?sid=25/04/14/0612230&from=rss) - [Ethically Sourced “Spare” Human Bodies Could Revolutionize Medicine](https://soylentnews.org/article.pl?sid=25/04/14/0612230&from=rss)
 * [2025-04-15, 01:12:00](https://soylentnews.org/article.pl?sid=25/04/14/067223&from=rss) - [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&from=rss)
-* [2025-04-14, 20:23:00](https://soylentnews.org/article.pl?sid=25/04/14/0550254&from=rss) - [Aztecs Versus Mayans - Unwrapping History Clue by Clue](https://soylentnews.org/article.pl?sid=25/04/14/0550254&from=rss)
 
 ## [Archives](archives/index.md)
 
