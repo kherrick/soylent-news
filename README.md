@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-25, 20:20:00](https://soylentnews.org/article.pl?sid=25/04/24/0635218&from=rss) - [First SD Express 8.0 Memory Card From Adata Hits 1.6 GB/s Read Speeds](https://soylentnews.org/article.pl?sid=25/04/24/0635218&from=rss)
 * [2025-04-25, 15:34:00](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&from=rss) - [Harvard Stands Up for the First Amendment](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&from=rss)
 * [2025-04-25, 10:47:00](https://soylentnews.org/article.pl?sid=25/04/24/0626241&from=rss) - [Out-of-Balance Bacteria is Linked to Multiple Sclerosis − the Ratio Can Predict Severity of Disease](https://soylentnews.org/article.pl?sid=25/04/24/0626241&from=rss)
 * [2025-04-25, 06:02:00](https://soylentnews.org/article.pl?sid=25/04/24/0233226&from=rss) - [4chan May be Dead, but its Toxic Legacy Lives on](https://soylentnews.org/article.pl?sid=25/04/24/0233226&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-17, 00:39:00](https://soylentnews.org/article.pl?sid=25/04/16/1151239&from=rss) - [Dolphins Are Dying From Toxic Chemicals Banned Since the 1980s](https://soylentnews.org/article.pl?sid=25/04/16/1151239&from=rss)
 * [2025-04-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/04/16/1146247&from=rss) - [MITRE Announced Funding for Common Vulnerabilities and Exposures (CVE) Program Ends 16-April-2025](https://soylentnews.org/article.pl?sid=25/04/16/1146247&from=rss)
 * [2025-04-16, 15:13:00](https://soylentnews.org/article.pl?sid=25/04/16/1143246&from=rss) - [Rooftop Solar PV Could Supply Two-Thirds of World's Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&from=rss)
-* [2025-04-16, 10:26:00](https://soylentnews.org/article.pl?sid=25/04/15/1018214&from=rss) - [Meeting Apple on Apple's Terms](https://soylentnews.org/article.pl?sid=25/04/15/1018214&from=rss)
 
 ## [Archives](archives/index.md)
 
