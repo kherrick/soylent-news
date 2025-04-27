@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-27, 15:12:00](https://soylentnews.org/article.pl?sid=25/04/26/171205&from=rss) - [The EU is Implementing Energy Labels and Minimum Requirements for Phones and Tablets](https://soylentnews.org/article.pl?sid=25/04/26/171205&from=rss)
 * [2025-04-27, 10:30:00](https://soylentnews.org/article.pl?sid=25/04/26/1332253&from=rss) - [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://soylentnews.org/article.pl?sid=25/04/26/1332253&from=rss)
 * [2025-04-27, 05:43:00](https://soylentnews.org/article.pl?sid=25/04/26/1324227&from=rss) - [Post-Quantum Crypto: McEliece Standardization](https://soylentnews.org/article.pl?sid=25/04/26/1324227&from=rss)
 * [2025-04-27, 01:00:00](https://soylentnews.org/article.pl?sid=25/04/26/1322229&from=rss) - [Kennedy Promises Studies Using Private Health Data to Identify Factors That May Cause Autism](https://soylentnews.org/article.pl?sid=25/04/26/1322229&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/04/17/1348247&from=rss) - [States are Banning Forever Chemicals. Industry is Fighting Back](https://soylentnews.org/article.pl?sid=25/04/17/1348247&from=rss)
 * [2025-04-18, 14:34:00](https://soylentnews.org/article.pl?sid=25/04/17/1336207&from=rss) - [The Friendship Recession: The Lost Art of Connecting](https://soylentnews.org/article.pl?sid=25/04/17/1336207&from=rss)
 * [2025-04-18, 09:52:00](https://soylentnews.org/article.pl?sid=25/04/16/1857229&from=rss) - [‘End of an Era’: The Last RadioShack in Maryland is Closing its Doors](https://soylentnews.org/article.pl?sid=25/04/16/1857229&from=rss)
-* [2025-04-18, 05:07:00](https://soylentnews.org/article.pl?sid=25/04/16/1849251&from=rss) - [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&from=rss)
 
 ## [Archives](archives/index.md)
 
