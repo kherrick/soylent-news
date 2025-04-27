@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-27, 01:00:00](https://soylentnews.org/article.pl?sid=25/04/26/1322229&from=rss) - [Kennedy Promises Studies Using Private Health Data to Identify Factors That May Cause Autism](https://soylentnews.org/article.pl?sid=25/04/26/1322229&from=rss)
 * [2025-04-26, 20:12:00](https://soylentnews.org/article.pl?sid=25/04/25/0336217&from=rss) - [First Confirmed Footage of a Colossal Squid](https://soylentnews.org/article.pl?sid=25/04/25/0336217&from=rss)
 * [2025-04-26, 15:28:00](https://soylentnews.org/article.pl?sid=25/04/25/0329237&from=rss) - [The History of Timekeeping](https://soylentnews.org/article.pl?sid=25/04/25/0329237&from=rss)
 * [2025-04-26, 10:42:00](https://soylentnews.org/article.pl?sid=25/04/25/0327235&from=rss) - [Drawing a Line From the Gut Microbiome to Inflammation and Depression](https://soylentnews.org/article.pl?sid=25/04/25/0327235&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-18, 05:07:00](https://soylentnews.org/article.pl?sid=25/04/16/1849251&from=rss) - [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&from=rss)
 * [2025-04-18, 00:21:00](https://soylentnews.org/article.pl?sid=25/04/16/1843228&from=rss) - [Phase Two of Military AI Has Arrived](https://soylentnews.org/article.pl?sid=25/04/16/1843228&from=rss)
 * [2025-04-17, 19:42:00](https://soylentnews.org/article.pl?sid=25/04/16/1838216&from=rss) - [Disasters Spur Investment in Flood and Fire Risk Technology](https://soylentnews.org/article.pl?sid=25/04/16/1838216&from=rss)
-* [2025-04-17, 14:54:00](https://soylentnews.org/article.pl?sid=25/04/16/1816228&from=rss) - [AMD Set to Produce its CPU Chip at TSMC Plant in Arizona](https://soylentnews.org/article.pl?sid=25/04/16/1816228&from=rss)
 
 ## [Archives](archives/index.md)
 
