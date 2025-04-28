@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-28, 10:09:00](https://soylentnews.org/article.pl?sid=25/04/26/1734201&from=rss) - [Multi-Microbiome-Mashup](https://soylentnews.org/article.pl?sid=25/04/26/1734201&from=rss)
 * [2025-04-28, 05:23:00](https://soylentnews.org/article.pl?sid=25/04/26/1715246&from=rss) - [Windows 11’s Voice Typing Will Soon Let You Turn Off the ****ing Profanity Filter](https://soylentnews.org/article.pl?sid=25/04/26/1715246&from=rss)
 * [2025-04-28, 00:42:00](https://soylentnews.org/article.pl?sid=25/04/26/1713213&from=rss) - [Fedora Considers Dropping GNOME X11 Session From Repositories](https://soylentnews.org/article.pl?sid=25/04/26/1713213&from=rss)
 * [2025-04-27, 19:56:00](https://soylentnews.org/article.pl?sid=25/04/26/179216&from=rss) - [9-Mile-Thick Layer of Solid Diamonds May Lurk Beneath Mercury's Surface, Study Hints](https://soylentnews.org/article.pl?sid=25/04/26/179216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-19, 17:02:00](https://soylentnews.org/article.pl?sid=25/04/18/043228&from=rss) - [How a 1980s Toy Robot Arm Inspired Modern Robotics](https://soylentnews.org/article.pl?sid=25/04/18/043228&from=rss)
 * [2025-04-19, 12:19:00](https://soylentnews.org/article.pl?sid=25/04/18/040226&from=rss) - [Inside arXiv—the Most Transformative Platform in All of Science](https://soylentnews.org/article.pl?sid=25/04/18/040226&from=rss)
 * [2025-04-19, 08:37:00](https://soylentnews.org/article.pl?sid=25/04/18/0334256&from=rss) - [Vibe Coding _ !@#$% Kids! ](https://soylentnews.org/article.pl?sid=25/04/18/0334256&from=rss)
-* [2025-04-19, 04:53:00](https://soylentnews.org/article.pl?sid=25/04/18/0255244&from=rss) - [UK Founders Grow Frustrated Over Dearth of Funding: 'the Problem is Getting Worse'](https://soylentnews.org/article.pl?sid=25/04/18/0255244&from=rss)
 
 ## [Archives](archives/index.md)
 
