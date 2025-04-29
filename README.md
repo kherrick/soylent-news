@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-29, 10:01:00](https://soylentnews.org/article.pl?sid=25/04/29/0655255&from=rss) - [New Framework Suggests Stars Dissolve Into Neutrons to Forge Heavy Elements](https://soylentnews.org/article.pl?sid=25/04/29/0655255&from=rss)
 * [2025-04-29, 05:15:00](https://soylentnews.org/article.pl?sid=25/04/28/0428200&from=rss) - [Differential Equations and Urine](https://soylentnews.org/article.pl?sid=25/04/28/0428200&from=rss)
 * [2025-04-29, 00:28:00](https://soylentnews.org/article.pl?sid=25/04/28/0420232&from=rss) - [Ice Age Pyrotechnology: This is How Humans Made Fire Tens of Thousands of Years Ago](https://soylentnews.org/article.pl?sid=25/04/28/0420232&from=rss)
 * [2025-04-28, 19:41:00](https://soylentnews.org/article.pl?sid=25/04/28/044252&from=rss) - [$8 Billion of US Climate Tech Projects Have Been Canceled So Far in 2025](https://soylentnews.org/article.pl?sid=25/04/28/044252&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-20, 16:39:00](https://soylentnews.org/article.pl?sid=25/04/19/181213&from=rss) - [Some Tropical Trees Act as Lightning Rods to Fend Off Rivals](https://soylentnews.org/article.pl?sid=25/04/19/181213&from=rss)
 * [2025-04-20, 11:55:00](https://soylentnews.org/politics/article.pl?sid=25/04/19/1231231&from=rss) - [Spyware Maker NSO Group is Paving a Path Back Into Trump’s America](https://soylentnews.org/politics/article.pl?sid=25/04/19/1231231&from=rss)
 * [2025-04-20, 07:13:00](https://soylentnews.org/article.pl?sid=25/04/19/1214259&from=rss) - [Here's How a Satellite Ended Up as a Ghostly Apparition on Google Earth](https://soylentnews.org/article.pl?sid=25/04/19/1214259&from=rss)
-* [2025-04-20, 02:28:00](https://soylentnews.org/article.pl?sid=25/04/19/1211220&from=rss) - [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&from=rss)
 
 ## [Archives](archives/index.md)
 
