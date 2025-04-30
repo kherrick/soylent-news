@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-04-30](index.md)
+
+* [2025-04-30, 00:10:00](https://soylentnews.org/article.pl?sid=25/04/29/0840259&from=rss) - [The Agonizing Task of Turning Iberia's Power Back On](https://soylentnews.org/article.pl?sid=25/04/29/0840259&from=rss)

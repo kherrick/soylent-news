@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-30, 00:10:00](https://soylentnews.org/article.pl?sid=25/04/29/0840259&from=rss) - [The Agonizing Task of Turning Iberia's Power Back On](https://soylentnews.org/article.pl?sid=25/04/29/0840259&from=rss)
 * [2025-04-29, 19:26:00](https://soylentnews.org/article.pl?sid=25/04/29/0827244&from=rss) - [A New Kali Linux Archive Signing Key](https://soylentnews.org/article.pl?sid=25/04/29/0827244&from=rss)
 * [2025-04-29, 14:41:00](https://soylentnews.org/article.pl?sid=25/04/29/0824210&from=rss) - [AI-Powered, Non-Intrusive Terminal Assistant ](https://soylentnews.org/article.pl?sid=25/04/29/0824210&from=rss)
 * [2025-04-29, 10:01:00](https://soylentnews.org/article.pl?sid=25/04/29/0655255&from=rss) - [New Framework Suggests Stars Dissolve Into Neutrons to Forge Heavy Elements](https://soylentnews.org/article.pl?sid=25/04/29/0655255&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-21, 06:53:00](https://soylentnews.org/article.pl?sid=25/04/20/0455204&from=rss) - [Intel Agrees to Sell Controlling Stake in Altera Chip Business](https://soylentnews.org/article.pl?sid=25/04/20/0455204&from=rss)
 * [2025-04-21, 02:08:00](https://soylentnews.org/article.pl?sid=25/04/20/0452238&from=rss) - [Google Has Illegal Advertising Monopoly, Judge Rules](https://soylentnews.org/article.pl?sid=25/04/20/0452238&from=rss)
 * [2025-04-20, 21:22:00](https://soylentnews.org/article.pl?sid=25/04/19/183229&from=rss) - [Astronomers Say They’ve Recorded the Strongest Sign Yet of Life Beyond Earth](https://soylentnews.org/article.pl?sid=25/04/19/183229&from=rss)
-* [2025-04-20, 16:39:00](https://soylentnews.org/article.pl?sid=25/04/19/181213&from=rss) - [Some Tropical Trees Act as Lightning Rods to Fend Off Rivals](https://soylentnews.org/article.pl?sid=25/04/19/181213&from=rss)
 
 ## [Archives](archives/index.md)
 
