@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-04-30, 19:06:00](https://soylentnews.org/article.pl?sid=25/04/30/0157233&from=rss) - [Trinity Desktop Environment 14.1.4 Released](https://soylentnews.org/article.pl?sid=25/04/30/0157233&from=rss)
 * [2025-04-30, 14:23:00](https://soylentnews.org/article.pl?sid=25/04/30/0155235&from=rss) - [Volcanic Eruption Warnings Are Now Possible With Fiber-Optic Cables](https://soylentnews.org/article.pl?sid=25/04/30/0155235&from=rss)
 * [2025-04-30, 09:38:00](https://soylentnews.org/article.pl?sid=25/04/30/0150205&from=rss) - [Congress Passes TAKE IT DOWN Act](https://soylentnews.org/article.pl?sid=25/04/30/0150205&from=rss)
 * [2025-04-30, 04:54:00](https://soylentnews.org/article.pl?sid=25/04/30/0137239&from=rss) - [Europe Stays Tough on Tech Regulation](https://soylentnews.org/article.pl?sid=25/04/30/0137239&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-21, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/20/0513237&from=rss) - [Deepseek Open Source model Promotes Fast Innovation and Extensive Application in China](https://soylentnews.org/article.pl?sid=25/04/20/0513237&from=rss)
 * [2025-04-21, 16:28:00](https://soylentnews.org/article.pl?sid=25/04/20/059216&from=rss) - [The Universe Isn't Just Expanding—It May be Spinning](https://soylentnews.org/article.pl?sid=25/04/20/059216&from=rss)
 * [2025-04-21, 11:41:00](https://soylentnews.org/article.pl?sid=25/04/20/051250&from=rss) - [Google Introduces Firebase Studio, an End-to-End Platform That Builds Custom Apps in-Browser](https://soylentnews.org/article.pl?sid=25/04/20/051250&from=rss)
-* [2025-04-21, 09:52:00](https://soylentnews.org/breakingnews/article.pl?sid=25/04/21/0944225&from=rss) - [Pope Francis Has Died on Easter Monday Aged 88](https://soylentnews.org/breakingnews/article.pl?sid=25/04/21/0944225&from=rss)
 
 ## [Archives](archives/index.md)
 
