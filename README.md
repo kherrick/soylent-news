@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-01, 14:03:00](https://soylentnews.org/article.pl?sid=25/04/30/154230&from=rss) - [Fusion Reactor Called ‘Norm’ Could Outperform Everything We’ve Built So Far](https://soylentnews.org/article.pl?sid=25/04/30/154230&from=rss)
 * [2025-05-01, 09:21:00](https://soylentnews.org/article.pl?sid=25/04/30/0213229&from=rss) - [Here’s How We Might Generate Electricity From Rain](https://soylentnews.org/article.pl?sid=25/04/30/0213229&from=rss)
 * [2025-05-01, 04:34:00](https://soylentnews.org/article.pl?sid=25/04/30/025225&from=rss) - [Wired on Protecting Your Phone — and Your Privacy — at the US Border](https://soylentnews.org/article.pl?sid=25/04/30/025225&from=rss)
 * [2025-04-30, 23:48:00](https://soylentnews.org/article.pl?sid=25/04/30/022200&from=rss) - [Amazon's Starlink Rival Sees the First 27 Satellites Successfully Reach Low-Earth Orbit](https://soylentnews.org/article.pl?sid=25/04/30/022200&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-22, 11:27:00](https://soylentnews.org/article.pl?sid=25/04/21/2227242&from=rss) - [Oldest Serving US Astronaut Returns to Earth on 70th Birthday](https://soylentnews.org/article.pl?sid=25/04/21/2227242&from=rss)
 * [2025-04-22, 06:44:00](https://soylentnews.org/article.pl?sid=25/04/21/2224243&from=rss) - [Scientists Can Tell Healthy And Cancerous Cells Apart By How They Move](https://soylentnews.org/article.pl?sid=25/04/21/2224243&from=rss)
 * [2025-04-22, 06:28:00](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&from=rss) - [ \"Only 2 submissions in the queue.\"](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&from=rss)
-* [2025-04-22, 02:01:00](https://soylentnews.org/article.pl?sid=25/04/20/1820252&from=rss) - [Jim Zemlin on Taking a 'Portfolio Approach' to Linux Foundation Projects](https://soylentnews.org/article.pl?sid=25/04/20/1820252&from=rss)
 
 ## [Archives](archives/index.md)
 
