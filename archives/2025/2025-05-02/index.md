@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 23:10:00](https://soylentnews.org/article.pl?sid=25/05/02/064235&from=rss) - [Monty Python and the Holy Grail Turns 50](https://soylentnews.org/article.pl?sid=25/05/02/064235&from=rss)
 * [2025-05-02, 18:25:00](https://soylentnews.org/article.pl?sid=25/05/02/0551254&from=rss) - [Flying Squirrel-Inspired Drone With Foldable Wings Demonstrates High Maneuverability](https://soylentnews.org/article.pl?sid=25/05/02/0551254&from=rss)
 * [2025-05-02, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/02/0534212&from=rss) - [China's '2D' Chip Could Soon be Used to Make Silicon-Free Chips](https://soylentnews.org/article.pl?sid=25/05/02/0534212&from=rss)
 * [2025-05-02, 08:54:00](https://soylentnews.org/article.pl?sid=25/04/30/1527224&from=rss) - [A Gas Clump in the Milky Way’s Neighborhood Might be a ‘Dark Galaxy’](https://soylentnews.org/article.pl?sid=25/04/30/1527224&from=rss)
