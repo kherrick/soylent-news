@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-02, 04:13:00](https://soylentnews.org/article.pl?sid=25/04/30/1513218&from=rss) - [Google is Killing Software Support for Early Nest Thermostats](https://soylentnews.org/article.pl?sid=25/04/30/1513218&from=rss)
 * [2025-05-01, 23:32:00](https://soylentnews.org/article.pl?sid=25/04/30/1511234&from=rss) - [OIN Marks 20 Years Of Defending Linux And Open Source From Patent Trolls](https://soylentnews.org/article.pl?sid=25/04/30/1511234&from=rss)
 * [2025-05-01, 18:52:00](https://soylentnews.org/article.pl?sid=25/04/30/157220&from=rss) - [Left or Right Arm? New Research Reveals Why Vaccination Site Matters for Immune Response](https://soylentnews.org/article.pl?sid=25/04/30/157220&from=rss)
 * [2025-05-01, 14:03:00](https://soylentnews.org/article.pl?sid=25/04/30/154230&from=rss) - [Fusion Reactor Called ‘Norm’ Could Outperform Everything We’ve Built So Far](https://soylentnews.org/article.pl?sid=25/04/30/154230&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-23, 01:42:00](https://soylentnews.org/article.pl?sid=25/04/22/0052214&from=rss) - [Cancer-Causing Arsenic is Building Up in the World's Rice](https://soylentnews.org/article.pl?sid=25/04/22/0052214&from=rss)
 * [2025-04-22, 20:57:00](https://soylentnews.org/article.pl?sid=25/04/22/0038216&from=rss) - [CA/Browser Forum Votes to Reduce the Maximum Validity Term of SSL/TLS Certs to 47 Days by 2029](https://soylentnews.org/article.pl?sid=25/04/22/0038216&from=rss)
 * [2025-04-22, 16:10:00](https://soylentnews.org/article.pl?sid=25/04/22/0023201&from=rss) - [Tesla Accused of Speeding Up Odometers So Their Warranties Expire Faster](https://soylentnews.org/article.pl?sid=25/04/22/0023201&from=rss)
-* [2025-04-22, 11:27:00](https://soylentnews.org/article.pl?sid=25/04/21/2227242&from=rss) - [Oldest Serving US Astronaut Returns to Earth on 70th Birthday](https://soylentnews.org/article.pl?sid=25/04/21/2227242&from=rss)
 
 ## [Archives](archives/index.md)
 
