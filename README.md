@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-02, 18:25:00](https://soylentnews.org/article.pl?sid=25/05/02/0551254&from=rss) - [Flying Squirrel-Inspired Drone With Foldable Wings Demonstrates High Maneuverability](https://soylentnews.org/article.pl?sid=25/05/02/0551254&from=rss)
 * [2025-05-02, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/02/0534212&from=rss) - [China's '2D' Chip Could Soon be Used to Make Silicon-Free Chips](https://soylentnews.org/article.pl?sid=25/05/02/0534212&from=rss)
 * [2025-05-02, 08:54:00](https://soylentnews.org/article.pl?sid=25/04/30/1527224&from=rss) - [A Gas Clump in the Milky Way’s Neighborhood Might be a ‘Dark Galaxy’](https://soylentnews.org/article.pl?sid=25/04/30/1527224&from=rss)
 * [2025-05-02, 05:37:00](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&from=rss) - [janrinok - Resignation](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-23, 20:41:00](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss) - [Hosting a Blog on a Nintendo Wii](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss)
 * [2025-04-23, 15:56:00](https://soylentnews.org/article.pl?sid=25/04/22/015230&from=rss) - [Laser Stimulation of Photoreceptors Reveals New Colors](https://soylentnews.org/article.pl?sid=25/04/22/015230&from=rss)
 * [2025-04-23, 11:13:00](https://soylentnews.org/article.pl?sid=25/04/22/011227&from=rss) - [ChatGPT is Now a Potent Tool for Finding the Locations of Photos, Raising Doxxing Concerns](https://soylentnews.org/article.pl?sid=25/04/22/011227&from=rss)
-* [2025-04-23, 06:27:00](https://soylentnews.org/article.pl?sid=25/04/22/0055253&from=rss) - [Major Blow For Cheap Handhelds As Anbernic No Longer Ships To The US](https://soylentnews.org/article.pl?sid=25/04/22/0055253&from=rss)
 
 ## [Archives](archives/index.md)
 
