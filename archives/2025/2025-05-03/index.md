@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 08:37:00](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss) - [A Strange Phrase Keeps Turning Up in Scientific Papers, but Why?](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss)
 * [2025-05-03, 03:52:00](https://soylentnews.org/article.pl?sid=25/05/02/0710252&from=rss) - [\"Aerial Urination\"](https://soylentnews.org/article.pl?sid=25/05/02/0710252&from=rss)

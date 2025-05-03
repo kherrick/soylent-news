@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-03, 08:37:00](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss) - [A Strange Phrase Keeps Turning Up in Scientific Papers, but Why?](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss)
 * [2025-05-03, 03:52:00](https://soylentnews.org/article.pl?sid=25/05/02/0710252&from=rss) - [\"Aerial Urination\"](https://soylentnews.org/article.pl?sid=25/05/02/0710252&from=rss)
 * [2025-05-02, 23:10:00](https://soylentnews.org/article.pl?sid=25/05/02/064235&from=rss) - [Monty Python and the Holy Grail Turns 50](https://soylentnews.org/article.pl?sid=25/05/02/064235&from=rss)
 * [2025-05-02, 18:25:00](https://soylentnews.org/article.pl?sid=25/05/02/0551254&from=rss) - [Flying Squirrel-Inspired Drone With Foldable Wings Demonstrates High Maneuverability](https://soylentnews.org/article.pl?sid=25/05/02/0551254&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-24, 10:53:00](https://soylentnews.org/article.pl?sid=25/04/23/1515240&from=rss) - [Sophisticated Gmail Attack Highlights Dangers of Trusting Big Tech with Personal Data](https://soylentnews.org/article.pl?sid=25/04/23/1515240&from=rss)
 * [2025-04-24, 06:11:00](https://soylentnews.org/article.pl?sid=25/04/23/0422241&from=rss) - [World's First Drone System for Fighting Lightning Protects Cities and Infrastructure](https://soylentnews.org/article.pl?sid=25/04/23/0422241&from=rss)
 * [2025-04-24, 01:26:00](https://soylentnews.org/article.pl?sid=25/04/23/0353259&from=rss) - [Lone Black Hole Discovered](https://soylentnews.org/article.pl?sid=25/04/23/0353259&from=rss)
-* [2025-04-23, 20:41:00](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss) - [Hosting a Blog on a Nintendo Wii](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss)
 
 ## [Archives](archives/index.md)
 
