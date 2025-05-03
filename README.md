@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-03, 22:49:00](https://soylentnews.org/article.pl?sid=25/05/03/0218240&from=rss) - [Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search](https://soylentnews.org/article.pl?sid=25/05/03/0218240&from=rss)
 * [2025-05-03, 18:03:00](https://soylentnews.org/article.pl?sid=25/05/03/024229&from=rss) - [The 35th Anniversary of the Hubble Space Telescope](https://soylentnews.org/article.pl?sid=25/05/03/024229&from=rss)
 * [2025-05-03, 13:20:00](https://soylentnews.org/article.pl?sid=25/05/03/021233&from=rss) - [Let's Remember That Extraordinary Claims Need Extraordinary Evidence](https://soylentnews.org/article.pl?sid=25/05/03/021233&from=rss)
 * [2025-05-03, 08:37:00](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss) - [A Strange Phrase Keeps Turning Up in Scientific Papers, but Why?](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-25, 01:13:00](https://soylentnews.org/article.pl?sid=25/04/23/1540254&from=rss) - [Crosswalk Button Voices Altered](https://soylentnews.org/article.pl?sid=25/04/23/1540254&from=rss)
 * [2025-04-24, 20:24:00](https://soylentnews.org/article.pl?sid=25/04/23/1538243&from=rss) - [C64 Demo Using Audio for Video and Vice Versa](https://soylentnews.org/article.pl?sid=25/04/23/1538243&from=rss)
 * [2025-04-24, 15:38:00](https://soylentnews.org/article.pl?sid=25/04/23/1521205&from=rss) - [Open Home passes 2 million homes equipped](https://soylentnews.org/article.pl?sid=25/04/23/1521205&from=rss)
-* [2025-04-24, 10:53:00](https://soylentnews.org/article.pl?sid=25/04/23/1515240&from=rss) - [Sophisticated Gmail Attack Highlights Dangers of Trusting Big Tech with Personal Data](https://soylentnews.org/article.pl?sid=25/04/23/1515240&from=rss)
 
 ## [Archives](archives/index.md)
 
