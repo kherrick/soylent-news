@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 22:32:00](https://soylentnews.org/article.pl?sid=25/05/03/145213&from=rss) - [Why Do So Many Ai Company Logos Look Like Buttholes?](https://soylentnews.org/article.pl?sid=25/05/03/145213&from=rss)
 * [2025-05-04, 17:44:00](https://soylentnews.org/article.pl?sid=25/05/03/1359244&from=rss) - [Largest Imaging Spectro-Polarimeter Achieves First Light](https://soylentnews.org/article.pl?sid=25/05/03/1359244&from=rss)
 * [2025-05-04, 16:37:00](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&from=rss) - [janrinok - Resignation](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&from=rss)
 * [2025-05-04, 13:00:00](https://soylentnews.org/article.pl?sid=25/05/03/0340234&from=rss) - [Microsoft: Windows Server Hotpatching to Require Subscription](https://soylentnews.org/article.pl?sid=25/05/03/0340234&from=rss)
