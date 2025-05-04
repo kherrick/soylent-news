@@ -12,7 +12,6 @@
 * [2025-05-02, 18:25:00](https://soylentnews.org/article.pl?sid=25/05/02/0551254&from=rss) - [Flying Squirrel-Inspired Drone With Foldable Wings Demonstrates High Maneuverability](https://soylentnews.org/article.pl?sid=25/05/02/0551254&from=rss)
 * [2025-05-02, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/02/0534212&from=rss) - [China's '2D' Chip Could Soon be Used to Make Silicon-Free Chips](https://soylentnews.org/article.pl?sid=25/05/02/0534212&from=rss)
 * [2025-05-02, 08:54:00](https://soylentnews.org/article.pl?sid=25/04/30/1527224&from=rss) - [A Gas Clump in the Milky Way’s Neighborhood Might be a ‘Dark Galaxy’](https://soylentnews.org/article.pl?sid=25/04/30/1527224&from=rss)
-* [2025-05-02, 05:37:00](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&from=rss) - [janrinok - Resignation](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&from=rss)
 * [2025-05-02, 04:13:00](https://soylentnews.org/article.pl?sid=25/04/30/1513218&from=rss) - [Google is Killing Software Support for Early Nest Thermostats](https://soylentnews.org/article.pl?sid=25/04/30/1513218&from=rss)
 * [2025-05-01, 23:32:00](https://soylentnews.org/article.pl?sid=25/04/30/1511234&from=rss) - [OIN Marks 20 Years Of Defending Linux And Open Source From Patent Trolls](https://soylentnews.org/article.pl?sid=25/04/30/1511234&from=rss)
 * [2025-05-01, 18:52:00](https://soylentnews.org/article.pl?sid=25/04/30/157220&from=rss) - [Left or Right Arm? New Research Reveals Why Vaccination Site Matters for Immune Response](https://soylentnews.org/article.pl?sid=25/04/30/157220&from=rss)
@@ -50,6 +49,7 @@
 * [2025-04-25, 15:34:00](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&from=rss) - [Harvard Stands Up for the First Amendment](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&from=rss)
 * [2025-04-25, 10:47:00](https://soylentnews.org/article.pl?sid=25/04/24/0626241&from=rss) - [Out-of-Balance Bacteria is Linked to Multiple Sclerosis − the Ratio Can Predict Severity of Disease](https://soylentnews.org/article.pl?sid=25/04/24/0626241&from=rss)
 * [2025-04-25, 06:02:00](https://soylentnews.org/article.pl?sid=25/04/24/0233226&from=rss) - [4chan May be Dead, but its Toxic Legacy Lives on](https://soylentnews.org/article.pl?sid=25/04/24/0233226&from=rss)
+* [2025-04-25, 01:13:00](https://soylentnews.org/article.pl?sid=25/04/23/1540254&from=rss) - [Crosswalk Button Voices Altered](https://soylentnews.org/article.pl?sid=25/04/23/1540254&from=rss)
 
 ## [Archives](archives/index.md)
 
