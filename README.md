@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-05, 03:16:00](https://soylentnews.org/article.pl?sid=25/05/03/147205&from=rss) - [The Absurdly Complicated Circuitry for the 386 Processor's Registers](https://soylentnews.org/article.pl?sid=25/05/03/147205&from=rss)
 * [2025-05-04, 22:32:00](https://soylentnews.org/article.pl?sid=25/05/03/145213&from=rss) - [Why Do So Many AI Company Logos Look Like Buttholes?](https://soylentnews.org/article.pl?sid=25/05/03/145213&from=rss)
 * [2025-05-04, 17:44:00](https://soylentnews.org/article.pl?sid=25/05/03/1359244&from=rss) - [Largest Imaging Spectro-Polarimeter Achieves First Light](https://soylentnews.org/article.pl?sid=25/05/03/1359244&from=rss)
 * [2025-05-04, 16:37:00](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&from=rss) - [janrinok - Resignation](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-26, 05:55:00](https://soylentnews.org/article.pl?sid=25/04/25/0319203&from=rss) - [German Team Demonstrates Quantum Communication Over an Existing 254km Fibre Optic Network](https://soylentnews.org/article.pl?sid=25/04/25/0319203&from=rss)
 * [2025-04-26, 01:08:00](https://soylentnews.org/article.pl?sid=25/04/25/035210&from=rss) - [Matter Mediates Ultrastrong Coupling Between Light Particles](https://soylentnews.org/article.pl?sid=25/04/25/035210&from=rss)
 * [2025-04-25, 20:20:00](https://soylentnews.org/article.pl?sid=25/04/24/0635218&from=rss) - [First SD Express 8.0 Memory Card From Adata Hits 1.6 GB/s Read Speeds](https://soylentnews.org/article.pl?sid=25/04/24/0635218&from=rss)
-* [2025-04-25, 15:34:00](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&from=rss) - [Harvard Stands Up for the First Amendment](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&from=rss)
 
 ## [Archives](archives/index.md)
 
