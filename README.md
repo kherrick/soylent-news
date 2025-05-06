@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-06, 07:50:00](https://soylentnews.org/article.pl?sid=25/05/04/1840238&from=rss) - [Backstage Access: Spotify’s Dev Tools Side-Hustle is Growing Legs](https://soylentnews.org/article.pl?sid=25/05/04/1840238&from=rss)
 * [2025-05-06, 03:05:00](https://soylentnews.org/article.pl?sid=25/05/03/1953213&from=rss) - [Microsoft Finally Launches its Controversial Recall Feature](https://soylentnews.org/article.pl?sid=25/05/03/1953213&from=rss)
 * [2025-05-05, 22:18:00](https://soylentnews.org/article.pl?sid=25/05/03/1949215&from=rss) - [Software Dev Fortifies His Blog With 'Zip Bombs' - Attacking Bots Meet Their End With Software](https://soylentnews.org/article.pl?sid=25/05/03/1949215&from=rss)
 * [2025-05-05, 17:36:00](https://soylentnews.org/article.pl?sid=25/05/03/1941255&from=rss) - [Plastic-Eating Mealworms Native to Africa Discovered](https://soylentnews.org/article.pl?sid=25/05/03/1941255&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-27, 10:30:00](https://soylentnews.org/article.pl?sid=25/04/26/1332253&from=rss) - [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://soylentnews.org/article.pl?sid=25/04/26/1332253&from=rss)
 * [2025-04-27, 05:43:00](https://soylentnews.org/article.pl?sid=25/04/26/1324227&from=rss) - [Post-Quantum Crypto: McEliece Standardization](https://soylentnews.org/article.pl?sid=25/04/26/1324227&from=rss)
 * [2025-04-27, 01:00:00](https://soylentnews.org/article.pl?sid=25/04/26/1322229&from=rss) - [Kennedy Promises Studies Using Private Health Data to Identify Factors That May Cause Autism](https://soylentnews.org/article.pl?sid=25/04/26/1322229&from=rss)
-* [2025-04-26, 20:12:00](https://soylentnews.org/article.pl?sid=25/04/25/0336217&from=rss) - [First Confirmed Footage of a Colossal Squid](https://soylentnews.org/article.pl?sid=25/04/25/0336217&from=rss)
 
 ## [Archives](archives/index.md)
 
