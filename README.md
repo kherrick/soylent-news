@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-09, 21:19:00](https://soylentnews.org/article.pl?sid=25/05/08/1259227&from=rss) - [Software Bloat and Security: have we all Gone Mad?](https://soylentnews.org/article.pl?sid=25/05/08/1259227&from=rss)
 * [2025-05-09, 16:33:00](https://soylentnews.org/article.pl?sid=25/05/08/1156250&from=rss) - [The Future of Data Storage Might be Ceramic Glass That Can Last Thousands of Years](https://soylentnews.org/article.pl?sid=25/05/08/1156250&from=rss)
 * [2025-05-09, 11:46:00](https://soylentnews.org/article.pl?sid=25/05/08/1151256&from=rss) - [Federal Court Says Cell Tower Dumps Violate the Fourth Amendment](https://soylentnews.org/article.pl?sid=25/05/08/1151256&from=rss)
 * [2025-05-09, 07:01:00](https://soylentnews.org/article.pl?sid=25/05/07/2330241&from=rss) - [We Have Reached the “Severed Fingers and Abductions” Stage of the Crypto Revolution ](https://soylentnews.org/article.pl?sid=25/05/07/2330241&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-30, 19:06:00](https://soylentnews.org/article.pl?sid=25/04/30/0157233&from=rss) - [Trinity Desktop Environment 14.1.4 Released](https://soylentnews.org/article.pl?sid=25/04/30/0157233&from=rss)
 * [2025-04-30, 14:23:00](https://soylentnews.org/article.pl?sid=25/04/30/0155235&from=rss) - [Volcanic Eruption Warnings Are Now Possible With Fiber-Optic Cables](https://soylentnews.org/article.pl?sid=25/04/30/0155235&from=rss)
 * [2025-04-30, 09:38:00](https://soylentnews.org/article.pl?sid=25/04/30/0150205&from=rss) - [Congress Passes TAKE IT DOWN Act](https://soylentnews.org/article.pl?sid=25/04/30/0150205&from=rss)
-* [2025-04-30, 04:54:00](https://soylentnews.org/article.pl?sid=25/04/30/0137239&from=rss) - [Europe Stays Tough on Tech Regulation](https://soylentnews.org/article.pl?sid=25/04/30/0137239&from=rss)
 
 ## [Archives](archives/index.md)
 
