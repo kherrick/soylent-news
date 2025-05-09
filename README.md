@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-09, 02:14:00](https://soylentnews.org/article.pl?sid=25/05/07/1352238&from=rss) - [OpenSUSE Joins the End of 10 Campaign](https://soylentnews.org/article.pl?sid=25/05/07/1352238&from=rss)
 * [2025-05-08, 21:29:00](https://soylentnews.org/article.pl?sid=25/05/07/1350218&from=rss) - [Building Custom Atomic Distributions - a Step-by-Step Guide](https://soylentnews.org/article.pl?sid=25/05/07/1350218&from=rss)
 * [2025-05-08, 16:44:00](https://soylentnews.org/article.pl?sid=25/05/06/235250&from=rss) - [Nvidia Warns US AI Hardware Export Rules Could Backfire Empowering Huawei To Define Global Standards](https://soylentnews.org/article.pl?sid=25/05/06/235250&from=rss)
 * [2025-05-08, 12:00:00](https://soylentnews.org/article.pl?sid=25/05/06/2254241&from=rss) - [Hacker Breaches Telemessage System Used By US Officials, Raising Security Concerns](https://soylentnews.org/article.pl?sid=25/05/06/2254241&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-30, 00:10:00](https://soylentnews.org/article.pl?sid=25/04/29/0840259&from=rss) - [The Agonizing Task of Turning Iberia's Power Back On](https://soylentnews.org/article.pl?sid=25/04/29/0840259&from=rss)
 * [2025-04-29, 19:26:00](https://soylentnews.org/article.pl?sid=25/04/29/0827244&from=rss) - [A New Kali Linux Archive Signing Key](https://soylentnews.org/article.pl?sid=25/04/29/0827244&from=rss)
 * [2025-04-29, 14:41:00](https://soylentnews.org/article.pl?sid=25/04/29/0824210&from=rss) - [AI-Powered, Non-Intrusive Terminal Assistant ](https://soylentnews.org/article.pl?sid=25/04/29/0824210&from=rss)
-* [2025-04-29, 10:01:00](https://soylentnews.org/article.pl?sid=25/04/29/0655255&from=rss) - [New Framework Suggests Stars Dissolve Into Neutrons to Forge Heavy Elements](https://soylentnews.org/article.pl?sid=25/04/29/0655255&from=rss)
 
 ## [Archives](archives/index.md)
 
