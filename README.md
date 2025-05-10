@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-10, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/09/1123216&from=rss) - [Kuwait Declares Cryptocurrency Mining Illegal Amid Power Crisis Crackdown](https://soylentnews.org/article.pl?sid=25/05/09/1123216&from=rss)
 * [2025-05-10, 16:22:00](https://soylentnews.org/article.pl?sid=25/05/09/0353243&from=rss) - [Astronomers Used Old 'Maps' to Find What Could be a 9th Planet in Our Solar System](https://soylentnews.org/article.pl?sid=25/05/09/0353243&from=rss)
 * [2025-05-10, 11:36:00](https://soylentnews.org/article.pl?sid=25/05/09/0327207&from=rss) - [Washington the Eighth State to Pass ‘Right to Repair’ Law](https://soylentnews.org/article.pl?sid=25/05/09/0327207&from=rss)
 * [2025-05-10, 06:52:00](https://soylentnews.org/article.pl?sid=25/05/09/0324231&from=rss) - [Mathematical Beauty, Truth and Proof in the Age of AI](https://soylentnews.org/article.pl?sid=25/05/09/0324231&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-01, 18:52:00](https://soylentnews.org/article.pl?sid=25/04/30/157220&from=rss) - [Left or Right Arm? New Research Reveals Why Vaccination Site Matters for Immune Response](https://soylentnews.org/article.pl?sid=25/04/30/157220&from=rss)
 * [2025-05-01, 14:03:00](https://soylentnews.org/article.pl?sid=25/04/30/154230&from=rss) - [Fusion Reactor Called ‘Norm’ Could Outperform Everything We’ve Built So Far](https://soylentnews.org/article.pl?sid=25/04/30/154230&from=rss)
 * [2025-05-01, 09:21:00](https://soylentnews.org/article.pl?sid=25/04/30/0213229&from=rss) - [Here’s How We Might Generate Electricity From Rain](https://soylentnews.org/article.pl?sid=25/04/30/0213229&from=rss)
-* [2025-05-01, 04:34:00](https://soylentnews.org/article.pl?sid=25/04/30/025225&from=rss) - [Wired on Protecting Your Phone — and Your Privacy — at the US Border](https://soylentnews.org/article.pl?sid=25/04/30/025225&from=rss)
 
 ## [Archives](archives/index.md)
 
