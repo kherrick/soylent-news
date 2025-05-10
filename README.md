@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-10, 02:04:00](https://soylentnews.org/article.pl?sid=25/05/08/137234&from=rss) - [DOJ Confirms It Wants To Break Up Google's Advertising Tech Monopoly](https://soylentnews.org/article.pl?sid=25/05/08/137234&from=rss)
 * [2025-05-09, 21:19:00](https://soylentnews.org/article.pl?sid=25/05/08/1259227&from=rss) - [Software Bloat and Security: have we all Gone Mad?](https://soylentnews.org/article.pl?sid=25/05/08/1259227&from=rss)
 * [2025-05-09, 16:33:00](https://soylentnews.org/article.pl?sid=25/05/08/1156250&from=rss) - [The Future of Data Storage Might be Ceramic Glass That Can Last Thousands of Years](https://soylentnews.org/article.pl?sid=25/05/08/1156250&from=rss)
 * [2025-05-09, 11:46:00](https://soylentnews.org/article.pl?sid=25/05/08/1151256&from=rss) - [Federal Court Says Cell Tower Dumps Violate the Fourth Amendment](https://soylentnews.org/article.pl?sid=25/05/08/1151256&from=rss)
@@ -49,7 +50,6 @@
 * [2025-04-30, 23:48:00](https://soylentnews.org/article.pl?sid=25/04/30/022200&from=rss) - [Amazon's Starlink Rival Sees the First 27 Satellites Successfully Reach Low-Earth Orbit](https://soylentnews.org/article.pl?sid=25/04/30/022200&from=rss)
 * [2025-04-30, 19:06:00](https://soylentnews.org/article.pl?sid=25/04/30/0157233&from=rss) - [Trinity Desktop Environment 14.1.4 Released](https://soylentnews.org/article.pl?sid=25/04/30/0157233&from=rss)
 * [2025-04-30, 14:23:00](https://soylentnews.org/article.pl?sid=25/04/30/0155235&from=rss) - [Volcanic Eruption Warnings Are Now Possible With Fiber-Optic Cables](https://soylentnews.org/article.pl?sid=25/04/30/0155235&from=rss)
-* [2025-04-30, 09:38:00](https://soylentnews.org/article.pl?sid=25/04/30/0150205&from=rss) - [Congress Passes TAKE IT DOWN Act](https://soylentnews.org/article.pl?sid=25/04/30/0150205&from=rss)
 
 ## [Archives](archives/index.md)
 
