@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-11, 11:11:00](https://soylentnews.org/article.pl?sid=25/05/10/0031230&from=rss) - [Curl Project Founder Snaps over Deluge of Time-Sucking AI Slop Bug Reports](https://soylentnews.org/article.pl?sid=25/05/10/0031230&from=rss)
 * [2025-05-11, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/09/1729255&from=rss) - [Sunscreen Might Have Helped Early Humans Outlive Neanderthals](https://soylentnews.org/article.pl?sid=25/05/09/1729255&from=rss)
 * [2025-05-11, 01:49:00](https://soylentnews.org/article.pl?sid=25/05/09/1211227&from=rss) - [How Hungry Fat Cells Could Someday Starve Cancer to Death](https://soylentnews.org/article.pl?sid=25/05/09/1211227&from=rss)
 * [2025-05-10, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/09/1123216&from=rss) - [Kuwait Declares Cryptocurrency Mining Illegal Amid Power Crisis Crackdown](https://soylentnews.org/article.pl?sid=25/05/09/1123216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-02, 08:54:00](https://soylentnews.org/article.pl?sid=25/04/30/1527224&from=rss) - [A Gas Clump in the Milky Way’s Neighborhood Might be a ‘Dark Galaxy’](https://soylentnews.org/article.pl?sid=25/04/30/1527224&from=rss)
 * [2025-05-02, 04:13:00](https://soylentnews.org/article.pl?sid=25/04/30/1513218&from=rss) - [Google is Killing Software Support for Early Nest Thermostats](https://soylentnews.org/article.pl?sid=25/04/30/1513218&from=rss)
 * [2025-05-01, 23:32:00](https://soylentnews.org/article.pl?sid=25/04/30/1511234&from=rss) - [OIN Marks 20 Years Of Defending Linux And Open Source From Patent Trolls](https://soylentnews.org/article.pl?sid=25/04/30/1511234&from=rss)
-* [2025-05-01, 18:52:00](https://soylentnews.org/article.pl?sid=25/04/30/157220&from=rss) - [Left or Right Arm? New Research Reveals Why Vaccination Site Matters for Immune Response](https://soylentnews.org/article.pl?sid=25/04/30/157220&from=rss)
 
 ## [Archives](archives/index.md)
 
