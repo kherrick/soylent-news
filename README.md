@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-12, 06:12:00](https://soylentnews.org/article.pl?sid=25/05/11/1323217&from=rss) - [Into the Ethical AI Bush](https://soylentnews.org/article.pl?sid=25/05/11/1323217&from=rss)
 * [2025-05-12, 01:28:00](https://soylentnews.org/article.pl?sid=25/05/10/0222240&from=rss) - [Skype is Officially Dead](https://soylentnews.org/article.pl?sid=25/05/10/0222240&from=rss)
 * [2025-05-11, 20:43:00](https://soylentnews.org/article.pl?sid=25/05/10/0150220&from=rss) - [openSUSE Removes Deepin After Long String of Security Issues and Unauthorised Security Bypass](https://soylentnews.org/article.pl?sid=25/05/10/0150220&from=rss)
 * [2025-05-11, 15:58:00](https://soylentnews.org/article.pl?sid=25/05/10/0134211&from=rss) - [The Bayeux Penis Count](https://soylentnews.org/article.pl?sid=25/05/10/0134211&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-03, 03:52:00](https://soylentnews.org/article.pl?sid=25/05/02/0710252&from=rss) - [\"Aerial Urination\"](https://soylentnews.org/article.pl?sid=25/05/02/0710252&from=rss)
 * [2025-05-02, 23:10:00](https://soylentnews.org/article.pl?sid=25/05/02/064235&from=rss) - [Monty Python and the Holy Grail Turns 50](https://soylentnews.org/article.pl?sid=25/05/02/064235&from=rss)
 * [2025-05-02, 18:25:00](https://soylentnews.org/article.pl?sid=25/05/02/0551254&from=rss) - [Flying Squirrel-Inspired Drone With Foldable Wings Demonstrates High Maneuverability](https://soylentnews.org/article.pl?sid=25/05/02/0551254&from=rss)
-* [2025-05-02, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/02/0534212&from=rss) - [China's '2D' Chip Could Soon be Used to Make Silicon-Free Chips](https://soylentnews.org/article.pl?sid=25/05/02/0534212&from=rss)
 
 ## [Archives](archives/index.md)
 
