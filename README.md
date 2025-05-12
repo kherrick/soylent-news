@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-12, 15:46:00](https://soylentnews.org/article.pl?sid=25/05/11/1335239&from=rss) - [Urine-Powered Electrolysis Systems Offer Energy-Efficient Green Hydrogen Production](https://soylentnews.org/article.pl?sid=25/05/11/1335239&from=rss)
 * [2025-05-12, 10:57:00](https://soylentnews.org/article.pl?sid=25/05/11/1335201&from=rss) - [‘Tone Deaf’: US Tech Company Responsible for Global IT Outage to Cut Jobs and Use AI](https://soylentnews.org/article.pl?sid=25/05/11/1335201&from=rss)
 * [2025-05-12, 06:12:00](https://soylentnews.org/article.pl?sid=25/05/11/1323217&from=rss) - [Into the Ethical AI Bush](https://soylentnews.org/article.pl?sid=25/05/11/1323217&from=rss)
 * [2025-05-12, 01:28:00](https://soylentnews.org/article.pl?sid=25/05/10/0222240&from=rss) - [Skype is Officially Dead](https://soylentnews.org/article.pl?sid=25/05/10/0222240&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-03, 13:20:00](https://soylentnews.org/article.pl?sid=25/05/03/021233&from=rss) - [Let's Remember That Extraordinary Claims Need Extraordinary Evidence](https://soylentnews.org/article.pl?sid=25/05/03/021233&from=rss)
 * [2025-05-03, 08:37:00](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss) - [A Strange Phrase Keeps Turning Up in Scientific Papers, but Why?](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss)
 * [2025-05-03, 03:52:00](https://soylentnews.org/article.pl?sid=25/05/02/0710252&from=rss) - [\"Aerial Urination\"](https://soylentnews.org/article.pl?sid=25/05/02/0710252&from=rss)
-* [2025-05-02, 23:10:00](https://soylentnews.org/article.pl?sid=25/05/02/064235&from=rss) - [Monty Python and the Holy Grail Turns 50](https://soylentnews.org/article.pl?sid=25/05/02/064235&from=rss)
 
 ## [Archives](archives/index.md)
 
