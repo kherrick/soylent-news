@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-13, 01:16:00](https://soylentnews.org/article.pl?sid=25/05/11/1440209&from=rss) - [China's Daring Cloud Sample Mission to Venus](https://soylentnews.org/article.pl?sid=25/05/11/1440209&from=rss)
 * [2025-05-12, 19:33:00](https://soylentnews.org/article.pl?sid=25/05/11/1444208&from=rss) - [Reverse Engineering the 386 Processor's Prefetch Queue Circuitry](https://soylentnews.org/article.pl?sid=25/05/11/1444208&from=rss)
 * [2025-05-12, 15:46:00](https://soylentnews.org/article.pl?sid=25/05/11/1335239&from=rss) - [Urine-Powered Electrolysis Systems Offer Energy-Efficient Green Hydrogen Production](https://soylentnews.org/article.pl?sid=25/05/11/1335239&from=rss)
 * [2025-05-12, 10:57:00](https://soylentnews.org/article.pl?sid=25/05/11/1335201&from=rss) - [‘Tone Deaf’: US Tech Company Responsible for Global IT Outage to Cut Jobs and Use AI](https://soylentnews.org/article.pl?sid=25/05/11/1335201&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-03, 22:49:00](https://soylentnews.org/article.pl?sid=25/05/03/0218240&from=rss) - [Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search](https://soylentnews.org/article.pl?sid=25/05/03/0218240&from=rss)
 * [2025-05-03, 18:03:00](https://soylentnews.org/article.pl?sid=25/05/03/024229&from=rss) - [The 35th Anniversary of the Hubble Space Telescope](https://soylentnews.org/article.pl?sid=25/05/03/024229&from=rss)
 * [2025-05-03, 13:20:00](https://soylentnews.org/article.pl?sid=25/05/03/021233&from=rss) - [Let's Remember That Extraordinary Claims Need Extraordinary Evidence](https://soylentnews.org/article.pl?sid=25/05/03/021233&from=rss)
-* [2025-05-03, 08:37:00](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss) - [A Strange Phrase Keeps Turning Up in Scientific Papers, but Why?](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss)
 
 ## [Archives](archives/index.md)
 
