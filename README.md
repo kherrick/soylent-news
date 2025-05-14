@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-14, 20:13:00](https://soylentnews.org/article.pl?sid=25/05/14/0020240&from=rss) - [Ask Soylent: Insert Code Here](https://soylentnews.org/article.pl?sid=25/05/14/0020240&from=rss)
 * [2025-05-14, 15:30:00](https://soylentnews.org/article.pl?sid=25/05/13/1445228&from=rss) - [Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection](https://soylentnews.org/article.pl?sid=25/05/13/1445228&from=rss)
 * [2025-05-14, 10:37:00](https://soylentnews.org/article.pl?sid=25/05/13/0245205&from=rss) - [You Think Ransomware is Bad Now? Wait Until It Infects CPUs](https://soylentnews.org/article.pl?sid=25/05/13/0245205&from=rss)
 * [2025-05-14, 05:51:00](https://soylentnews.org/article.pl?sid=25/05/13/0234223&from=rss) - [The Viking Age is Undergoing a Revisionist Transformation](https://soylentnews.org/article.pl?sid=25/05/13/0234223&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-05, 12:43:00](https://soylentnews.org/article.pl?sid=25/05/03/1427232&from=rss) - [You Have Two Months Left to Update Your Old LG Phone](https://soylentnews.org/article.pl?sid=25/05/03/1427232&from=rss)
 * [2025-05-05, 08:04:00](https://soylentnews.org/article.pl?sid=25/05/03/1421205&from=rss) - [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&from=rss)
 * [2025-05-05, 03:16:00](https://soylentnews.org/article.pl?sid=25/05/03/147205&from=rss) - [The Absurdly Complicated Circuitry for the 386 Processor's Registers](https://soylentnews.org/article.pl?sid=25/05/03/147205&from=rss)
-* [2025-05-04, 22:32:00](https://soylentnews.org/article.pl?sid=25/05/03/145213&from=rss) - [Why Do So Many AI Company Logos Look Like Buttholes?](https://soylentnews.org/article.pl?sid=25/05/03/145213&from=rss)
 
 ## [Archives](archives/index.md)
 
