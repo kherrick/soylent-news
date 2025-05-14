@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-14, 01:04:00](https://soylentnews.org/article.pl?sid=25/05/13/020213&from=rss) - [Nvidia NeMo Microservices to Embed AI Agents in Workflows](https://soylentnews.org/article.pl?sid=25/05/13/020213&from=rss)
 * [2025-05-13, 20:19:00](https://soylentnews.org/article.pl?sid=25/05/13/0140243&from=rss) - [Wikipedia Launches Legal Challenge Against UK Government](https://soylentnews.org/article.pl?sid=25/05/13/0140243&from=rss)
 * [2025-05-13, 15:35:00](https://soylentnews.org/article.pl?sid=25/05/13/0133228&from=rss) - [Charting the Future of Biotechnology and AI](https://soylentnews.org/article.pl?sid=25/05/13/0133228&from=rss)
 * [2025-05-13, 10:46:00](https://soylentnews.org/article.pl?sid=25/05/12/1123248&from=rss) - [75 Zero-Days Exploited in 2024 With Focus on Enterprise Tech](https://soylentnews.org/article.pl?sid=25/05/12/1123248&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-04, 17:44:00](https://soylentnews.org/article.pl?sid=25/05/03/1359244&from=rss) - [Largest Imaging Spectro-Polarimeter Achieves First Light](https://soylentnews.org/article.pl?sid=25/05/03/1359244&from=rss)
 * [2025-05-04, 16:37:00](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&from=rss) - [janrinok - Resignation](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&from=rss)
 * [2025-05-04, 13:00:00](https://soylentnews.org/article.pl?sid=25/05/03/0340234&from=rss) - [Microsoft: Windows Server Hotpatching to Require Subscription](https://soylentnews.org/article.pl?sid=25/05/03/0340234&from=rss)
-* [2025-05-04, 08:12:00](https://soylentnews.org/article.pl?sid=25/05/03/0334239&from=rss) - [NASA's Perseverance Rover Just Had A Close Call On Mars ](https://soylentnews.org/article.pl?sid=25/05/03/0334239&from=rss)
 
 ## [Archives](archives/index.md)
 
