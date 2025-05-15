@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-15, 20:00:00](https://soylentnews.org/article.pl?sid=25/05/14/0440229&from=rss) - [\"Prompt Engineering\" Is No Longer A Job, But A Skill](https://soylentnews.org/article.pl?sid=25/05/14/0440229&from=rss)
 * [2025-05-15, 15:16:00](https://soylentnews.org/article.pl?sid=25/05/14/1148216&from=rss) - ['World's First' AMD GPU Driven Via USB3 - Tiny Corp Tests EGPUs on Apple Silicon, Linux and Windows](https://soylentnews.org/article.pl?sid=25/05/14/1148216&from=rss)
 * [2025-05-15, 10:30:00](https://soylentnews.org/article.pl?sid=25/05/14/1143244&from=rss) - [A New Lazarus Arises – for the Fourth Time – for Pascal Fans](https://soylentnews.org/article.pl?sid=25/05/14/1143244&from=rss)
 * [2025-05-15, 05:47:00](https://soylentnews.org/politics/article.pl?sid=25/05/14/1136218&from=rss) - [Copyright Office Thinks AI Companies Sometimes Stole Content](https://soylentnews.org/politics/article.pl?sid=25/05/14/1136218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-06, 12:37:00](https://soylentnews.org/article.pl?sid=25/05/05/0249236&from=rss) - [Soviet-Era Spacecraft Expected to Plunge Uncontrolled to Earth Next Week](https://soylentnews.org/article.pl?sid=25/05/05/0249236&from=rss)
 * [2025-05-06, 07:50:00](https://soylentnews.org/article.pl?sid=25/05/04/1840238&from=rss) - [Backstage Access: Spotify’s Dev Tools Side-Hustle is Growing Legs](https://soylentnews.org/article.pl?sid=25/05/04/1840238&from=rss)
 * [2025-05-06, 03:05:00](https://soylentnews.org/article.pl?sid=25/05/03/1953213&from=rss) - [Microsoft Finally Launches its Controversial Recall Feature](https://soylentnews.org/article.pl?sid=25/05/03/1953213&from=rss)
-* [2025-05-05, 22:18:00](https://soylentnews.org/article.pl?sid=25/05/03/1949215&from=rss) - [Software Dev Fortifies His Blog With 'Zip Bombs' - Attacking Bots Meet Their End With Software](https://soylentnews.org/article.pl?sid=25/05/03/1949215&from=rss)
 
 ## [Archives](archives/index.md)
 
