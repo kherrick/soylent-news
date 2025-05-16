@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-16, 15:01:00](https://soylentnews.org/article.pl?sid=25/05/14/2259213&from=rss) - [Why Bell Labs Worked](https://soylentnews.org/article.pl?sid=25/05/14/2259213&from=rss)
 * [2025-05-16, 10:20:00](https://soylentnews.org/article.pl?sid=25/05/15/0224241&from=rss) - [A Chemical in Plastics is Tied to Heart Disease Deaths](https://soylentnews.org/article.pl?sid=25/05/15/0224241&from=rss)
 * [2025-05-16, 05:32:00](https://soylentnews.org/article.pl?sid=25/05/15/0157228&from=rss) - [FTC Pushes The Enforcement Of Its 'Click-To-Cancel' Rule Back To July](https://soylentnews.org/article.pl?sid=25/05/15/0157228&from=rss)
 * [2025-05-16, 00:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0147219&from=rss) - [When Your Favorite Song Plays, Your Brain ‘Physically Embodies’ Music](https://soylentnews.org/article.pl?sid=25/05/15/0147219&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-07, 07:37:00](https://soylentnews.org/article.pl?sid=25/05/06/0312252&from=rss) - [Mathematicians Just Solved a 125-Year-Old Problem, Uniting 3 Theories in Physics](https://soylentnews.org/article.pl?sid=25/05/06/0312252&from=rss)
 * [2025-05-07, 02:51:00](https://soylentnews.org/article.pl?sid=25/05/06/032221&from=rss) - [PA’s Largest Coal Plant to Become 4.5GW Gas-Fired AI Hub](https://soylentnews.org/article.pl?sid=25/05/06/032221&from=rss)
 * [2025-05-06, 22:03:00](https://soylentnews.org/meta/article.pl?sid=25/05/06/0251212&from=rss) - [Who's in?](https://soylentnews.org/meta/article.pl?sid=25/05/06/0251212&from=rss)
-* [2025-05-06, 17:16:00](https://soylentnews.org/article.pl?sid=25/05/05/2311202&from=rss) - [Adventure – March 1980](https://soylentnews.org/article.pl?sid=25/05/05/2311202&from=rss)
 
 ## [Archives](archives/index.md)
 
