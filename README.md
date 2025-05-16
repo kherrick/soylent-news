@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-16, 05:32:00](https://soylentnews.org/article.pl?sid=25/05/15/0157228&from=rss) - [FTC Pushes The Enforcement Of Its 'Click-To-Cancel' Rule Back To July](https://soylentnews.org/article.pl?sid=25/05/15/0157228&from=rss)
 * [2025-05-16, 00:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0147219&from=rss) - [When Your Favorite Song Plays, Your Brain ‘Physically Embodies’ Music](https://soylentnews.org/article.pl?sid=25/05/15/0147219&from=rss)
 * [2025-05-15, 20:00:00](https://soylentnews.org/article.pl?sid=25/05/14/0440229&from=rss) - [\"Prompt Engineering\" Is No Longer A Job, But A Skill](https://soylentnews.org/article.pl?sid=25/05/14/0440229&from=rss)
 * [2025-05-15, 15:16:00](https://soylentnews.org/article.pl?sid=25/05/14/1148216&from=rss) - ['World's First' AMD GPU Driven Via USB3 - Tiny Corp Tests EGPUs on Apple Silicon, Linux and Windows](https://soylentnews.org/article.pl?sid=25/05/14/1148216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-06, 22:03:00](https://soylentnews.org/meta/article.pl?sid=25/05/06/0251212&from=rss) - [Who's in?](https://soylentnews.org/meta/article.pl?sid=25/05/06/0251212&from=rss)
 * [2025-05-06, 17:16:00](https://soylentnews.org/article.pl?sid=25/05/05/2311202&from=rss) - [Adventure – March 1980](https://soylentnews.org/article.pl?sid=25/05/05/2311202&from=rss)
 * [2025-05-06, 12:37:00](https://soylentnews.org/article.pl?sid=25/05/05/0249236&from=rss) - [Soviet-Era Spacecraft Expected to Plunge Uncontrolled to Earth Next Week](https://soylentnews.org/article.pl?sid=25/05/05/0249236&from=rss)
-* [2025-05-06, 07:50:00](https://soylentnews.org/article.pl?sid=25/05/04/1840238&from=rss) - [Backstage Access: Spotify’s Dev Tools Side-Hustle is Growing Legs](https://soylentnews.org/article.pl?sid=25/05/04/1840238&from=rss)
 
 ## [Archives](archives/index.md)
 
