@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-17, 00:31:00](https://soylentnews.org/article.pl?sid=25/05/16/0212240&from=rss) - [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&from=rss)
 * [2025-05-16, 19:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0827220&from=rss) - [Scientists Find Lead Really Can Be Turned Into Gold (With Help From The LHC)](https://soylentnews.org/article.pl?sid=25/05/15/0827220&from=rss)
 * [2025-05-16, 15:01:00](https://soylentnews.org/article.pl?sid=25/05/14/2259213&from=rss) - [Why Bell Labs Worked](https://soylentnews.org/article.pl?sid=25/05/14/2259213&from=rss)
 * [2025-05-16, 10:20:00](https://soylentnews.org/article.pl?sid=25/05/15/0224241&from=rss) - [A Chemical in Plastics is Tied to Heart Disease Deaths](https://soylentnews.org/article.pl?sid=25/05/15/0224241&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-07, 17:07:00](https://soylentnews.org/article.pl?sid=25/05/06/0338215&from=rss) - [UK Could Require Solar Panels on Most New Homes by 2027](https://soylentnews.org/article.pl?sid=25/05/06/0338215&from=rss)
 * [2025-05-07, 12:22:00](https://soylentnews.org/article.pl?sid=25/05/06/0334233&from=rss) - [Hackers Abuse IPv6 Networking Feature to Hijack Windows Software Updates](https://soylentnews.org/article.pl?sid=25/05/06/0334233&from=rss)
 * [2025-05-07, 07:37:00](https://soylentnews.org/article.pl?sid=25/05/06/0312252&from=rss) - [Mathematicians Just Solved a 125-Year-Old Problem, Uniting 3 Theories in Physics](https://soylentnews.org/article.pl?sid=25/05/06/0312252&from=rss)
-* [2025-05-07, 02:51:00](https://soylentnews.org/article.pl?sid=25/05/06/032221&from=rss) - [PA’s Largest Coal Plant to Become 4.5GW Gas-Fired AI Hub](https://soylentnews.org/article.pl?sid=25/05/06/032221&from=rss)
 
 ## [Archives](archives/index.md)
 

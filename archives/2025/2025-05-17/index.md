@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-17](index.md)
+
+* [2025-05-17, 00:31:00](https://soylentnews.org/article.pl?sid=25/05/16/0212240&from=rss) - [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&from=rss)
