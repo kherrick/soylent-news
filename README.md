@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-17, 05:15:00](https://soylentnews.org/article.pl?sid=25/05/16/0218214&from=rss) - [Bluetooth 6.1 Enhances Privacy With Randomized RPA Timing](https://soylentnews.org/article.pl?sid=25/05/16/0218214&from=rss)
 * [2025-05-17, 00:31:00](https://soylentnews.org/article.pl?sid=25/05/16/0212240&from=rss) - [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&from=rss)
 * [2025-05-16, 19:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0827220&from=rss) - [Scientists Find Lead Really Can Be Turned Into Gold (With Help From The LHC)](https://soylentnews.org/article.pl?sid=25/05/15/0827220&from=rss)
 * [2025-05-16, 15:01:00](https://soylentnews.org/article.pl?sid=25/05/14/2259213&from=rss) - [Why Bell Labs Worked](https://soylentnews.org/article.pl?sid=25/05/14/2259213&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-07, 21:55:00](https://soylentnews.org/article.pl?sid=25/05/06/0348250&from=rss) - [Scientists Build First-Ever 'Black Hole Bomb' Analog](https://soylentnews.org/article.pl?sid=25/05/06/0348250&from=rss)
 * [2025-05-07, 17:07:00](https://soylentnews.org/article.pl?sid=25/05/06/0338215&from=rss) - [UK Could Require Solar Panels on Most New Homes by 2027](https://soylentnews.org/article.pl?sid=25/05/06/0338215&from=rss)
 * [2025-05-07, 12:22:00](https://soylentnews.org/article.pl?sid=25/05/06/0334233&from=rss) - [Hackers Abuse IPv6 Networking Feature to Hijack Windows Software Updates](https://soylentnews.org/article.pl?sid=25/05/06/0334233&from=rss)
-* [2025-05-07, 07:37:00](https://soylentnews.org/article.pl?sid=25/05/06/0312252&from=rss) - [Mathematicians Just Solved a 125-Year-Old Problem, Uniting 3 Theories in Physics](https://soylentnews.org/article.pl?sid=25/05/06/0312252&from=rss)
 
 ## [Archives](archives/index.md)
 
