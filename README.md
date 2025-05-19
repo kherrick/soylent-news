@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-19, 14:24:00](https://soylentnews.org/article.pl?sid=25/05/18/145202&from=rss) - [UK Retail Sector Hit by Ransomware Spree](https://soylentnews.org/article.pl?sid=25/05/18/145202&from=rss)
 * [2025-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=25/05/18/135204&from=rss) - [How a New Type of AI is Helping Police Skirt Facial Recognition Bans](https://soylentnews.org/article.pl?sid=25/05/18/135204&from=rss)
 * [2025-05-19, 04:54:00](https://soylentnews.org/article.pl?sid=25/05/18/1255206&from=rss) - [The Day Grok Lost its Mind](https://soylentnews.org/article.pl?sid=25/05/18/1255206&from=rss)
 * [2025-05-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/05/18/1252203&from=rss) - [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-10, 06:52:00](https://soylentnews.org/article.pl?sid=25/05/09/0324231&from=rss) - [Mathematical Beauty, Truth and Proof in the Age of AI](https://soylentnews.org/article.pl?sid=25/05/09/0324231&from=rss)
 * [2025-05-10, 02:04:00](https://soylentnews.org/article.pl?sid=25/05/08/137234&from=rss) - [DOJ Confirms It Wants To Break Up Google's Advertising Tech Monopoly](https://soylentnews.org/article.pl?sid=25/05/08/137234&from=rss)
 * [2025-05-09, 21:19:00](https://soylentnews.org/article.pl?sid=25/05/08/1259227&from=rss) - [Software Bloat and Security: have we all Gone Mad?](https://soylentnews.org/article.pl?sid=25/05/08/1259227&from=rss)
-* [2025-05-09, 16:33:00](https://soylentnews.org/article.pl?sid=25/05/08/1156250&from=rss) - [The Future of Data Storage Might be Ceramic Glass That Can Last Thousands of Years](https://soylentnews.org/article.pl?sid=25/05/08/1156250&from=rss)
 
 ## [Archives](archives/index.md)
 
