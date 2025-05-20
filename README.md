@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-20, 09:16:00](https://soylentnews.org/article.pl?sid=25/05/19/0847257&from=rss) - [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&from=rss)
 * [2025-05-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/05/19/0231252&from=rss) - [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&from=rss)
 * [2025-05-19, 23:49:00](https://soylentnews.org/article.pl?sid=25/05/18/1411244&from=rss) - [Nextcloud Cries Foul Over Google Play Store App Rejection](https://soylentnews.org/article.pl?sid=25/05/18/1411244&from=rss)
 * [2025-05-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/05/18/148219&from=rss) - [The End of the Universe is Nigh!](https://soylentnews.org/article.pl?sid=25/05/18/148219&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-11, 01:49:00](https://soylentnews.org/article.pl?sid=25/05/09/1211227&from=rss) - [How Hungry Fat Cells Could Someday Starve Cancer to Death](https://soylentnews.org/article.pl?sid=25/05/09/1211227&from=rss)
 * [2025-05-10, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/09/1123216&from=rss) - [Kuwait Declares Cryptocurrency Mining Illegal Amid Power Crisis Crackdown](https://soylentnews.org/article.pl?sid=25/05/09/1123216&from=rss)
 * [2025-05-10, 16:22:00](https://soylentnews.org/article.pl?sid=25/05/09/0353243&from=rss) - [Astronomers Used Old 'Maps' to Find What Could be a 9th Planet in Our Solar System](https://soylentnews.org/article.pl?sid=25/05/09/0353243&from=rss)
-* [2025-05-10, 11:36:00](https://soylentnews.org/article.pl?sid=25/05/09/0327207&from=rss) - [Washington the Eighth State to Pass ‘Right to Repair’ Law](https://soylentnews.org/article.pl?sid=25/05/09/0327207&from=rss)
 
 ## [Archives](archives/index.md)
 
