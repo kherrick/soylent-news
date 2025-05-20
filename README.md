@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-20, 18:45:00](https://soylentnews.org/article.pl?sid=25/05/20/0737207&from=rss) - [Unlocking Voices: AR For Nonverbal Autism](https://soylentnews.org/article.pl?sid=25/05/20/0737207&from=rss)
 * [2025-05-20, 14:00:00](https://soylentnews.org/article.pl?sid=25/05/19/1851246&from=rss) - [Regeneron to Buy 23andMe Out of Bankruptcy for $256 Million](https://soylentnews.org/article.pl?sid=25/05/19/1851246&from=rss)
 * [2025-05-20, 09:16:00](https://soylentnews.org/article.pl?sid=25/05/19/0847257&from=rss) - [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&from=rss)
 * [2025-05-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/05/19/0231252&from=rss) - [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-11, 11:11:00](https://soylentnews.org/article.pl?sid=25/05/10/0031230&from=rss) - [Curl Project Founder Snaps over Deluge of Time-Sucking AI Slop Bug Reports](https://soylentnews.org/article.pl?sid=25/05/10/0031230&from=rss)
 * [2025-05-11, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/09/1729255&from=rss) - [Sunscreen Might Have Helped Early Humans Outlive Neanderthals](https://soylentnews.org/article.pl?sid=25/05/09/1729255&from=rss)
 * [2025-05-11, 01:49:00](https://soylentnews.org/article.pl?sid=25/05/09/1211227&from=rss) - [How Hungry Fat Cells Could Someday Starve Cancer to Death](https://soylentnews.org/article.pl?sid=25/05/09/1211227&from=rss)
-* [2025-05-10, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/09/1123216&from=rss) - [Kuwait Declares Cryptocurrency Mining Illegal Amid Power Crisis Crackdown](https://soylentnews.org/article.pl?sid=25/05/09/1123216&from=rss)
 
 ## [Archives](archives/index.md)
 
