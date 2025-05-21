@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-21, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/20/1143239&from=rss) - [Annual Tech Waste Footprint Per Person is 11.2 Kg](https://soylentnews.org/article.pl?sid=25/05/20/1143239&from=rss)
 * [2025-05-21, 08:58:00](https://soylentnews.org/article.pl?sid=25/05/20/1138240&from=rss) - [Apple is Developing Tech So Users Can Control Devices With Only Their Thoughts](https://soylentnews.org/article.pl?sid=25/05/20/1138240&from=rss)
 * [2025-05-21, 04:14:00](https://soylentnews.org/article.pl?sid=25/05/20/1136209&from=rss) - [AWS Claims That Britain Needs More Nuclear Power for AI Datacenters](https://soylentnews.org/article.pl?sid=25/05/20/1136209&from=rss)
 * [2025-05-20, 23:27:00](https://soylentnews.org/article.pl?sid=25/05/20/1131213&from=rss) - [New Intel CPU Flaws Leak Sensitive Data From Privileged Memory](https://soylentnews.org/article.pl?sid=25/05/20/1131213&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-12, 10:57:00](https://soylentnews.org/article.pl?sid=25/05/11/1335201&from=rss) - [‘Tone Deaf’: US Tech Company Responsible for Global IT Outage to Cut Jobs and Use AI](https://soylentnews.org/article.pl?sid=25/05/11/1335201&from=rss)
 * [2025-05-12, 06:12:00](https://soylentnews.org/article.pl?sid=25/05/11/1323217&from=rss) - [Into the Ethical AI Bush](https://soylentnews.org/article.pl?sid=25/05/11/1323217&from=rss)
 * [2025-05-12, 01:28:00](https://soylentnews.org/article.pl?sid=25/05/10/0222240&from=rss) - [Skype is Officially Dead](https://soylentnews.org/article.pl?sid=25/05/10/0222240&from=rss)
-* [2025-05-11, 20:43:00](https://soylentnews.org/article.pl?sid=25/05/10/0150220&from=rss) - [openSUSE Removes Deepin After Long String of Security Issues and Unauthorised Security Bypass](https://soylentnews.org/article.pl?sid=25/05/10/0150220&from=rss)
 
 ## [Archives](archives/index.md)
 
