@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-21, 23:11:00](https://soylentnews.org/article.pl?sid=25/05/21/127244&from=rss) - [Opinion: Unending Ransomware Attacks Are a Symptom, Not the Illness](https://soylentnews.org/article.pl?sid=25/05/21/127244&from=rss)
 * [2025-05-21, 18:29:00](https://soylentnews.org/article.pl?sid=25/05/21/1154206&from=rss) - [\"Big Surprise\": Astronomers Find Planet in Perpendicular Orbit Around Pair of Stars](https://soylentnews.org/article.pl?sid=25/05/21/1154206&from=rss)
 * [2025-05-21, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/20/1143239&from=rss) - [Annual Tech Waste Footprint Per Person is 11.2 Kg](https://soylentnews.org/article.pl?sid=25/05/20/1143239&from=rss)
 * [2025-05-21, 08:58:00](https://soylentnews.org/article.pl?sid=25/05/20/1138240&from=rss) - [Apple is Developing Tech So Users Can Control Devices With Only Their Thoughts](https://soylentnews.org/article.pl?sid=25/05/20/1138240&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-12, 19:33:00](https://soylentnews.org/article.pl?sid=25/05/11/1444208&from=rss) - [Reverse Engineering the 386 Processor's Prefetch Queue Circuitry](https://soylentnews.org/article.pl?sid=25/05/11/1444208&from=rss)
 * [2025-05-12, 15:46:00](https://soylentnews.org/article.pl?sid=25/05/11/1335239&from=rss) - [Urine-Powered Electrolysis Systems Offer Energy-Efficient Green Hydrogen Production](https://soylentnews.org/article.pl?sid=25/05/11/1335239&from=rss)
 * [2025-05-12, 10:57:00](https://soylentnews.org/article.pl?sid=25/05/11/1335201&from=rss) - [‘Tone Deaf’: US Tech Company Responsible for Global IT Outage to Cut Jobs and Use AI](https://soylentnews.org/article.pl?sid=25/05/11/1335201&from=rss)
-* [2025-05-12, 06:12:00](https://soylentnews.org/article.pl?sid=25/05/11/1323217&from=rss) - [Into the Ethical AI Bush](https://soylentnews.org/article.pl?sid=25/05/11/1323217&from=rss)
 
 ## [Archives](archives/index.md)
 
