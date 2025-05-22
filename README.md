@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-22, 08:42:00](https://soylentnews.org/article.pl?sid=25/05/21/1214206&from=rss) - [Italy Fines Thousands as Crackdown on Pirate IPTV Targets Viewers](https://soylentnews.org/article.pl?sid=25/05/21/1214206&from=rss)
 * [2025-05-22, 03:59:00](https://soylentnews.org/article.pl?sid=25/05/21/1210228&from=rss) - [Laser-Powered Fusion Experiment More Than Doubles its Power Output](https://soylentnews.org/article.pl?sid=25/05/21/1210228&from=rss)
 * [2025-05-21, 23:11:00](https://soylentnews.org/article.pl?sid=25/05/21/127244&from=rss) - [Opinion: Unending Ransomware Attacks Are a Symptom, Not the Illness](https://soylentnews.org/article.pl?sid=25/05/21/127244&from=rss)
 * [2025-05-21, 18:29:00](https://soylentnews.org/article.pl?sid=25/05/21/1154206&from=rss) - [\"Big Surprise\": Astronomers Find Planet in Perpendicular Orbit Around Pair of Stars](https://soylentnews.org/article.pl?sid=25/05/21/1154206&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-13, 06:01:00](https://soylentnews.org/article.pl?sid=25/05/12/1114249&from=rss) - [People Who Use AI at Work Are Perceived by Colleagues as Lazier and Less Competent, Study Finds](https://soylentnews.org/article.pl?sid=25/05/12/1114249&from=rss)
 * [2025-05-13, 01:16:00](https://soylentnews.org/article.pl?sid=25/05/11/1440209&from=rss) - [China's Daring Cloud Sample Mission to Venus](https://soylentnews.org/article.pl?sid=25/05/11/1440209&from=rss)
 * [2025-05-12, 19:33:00](https://soylentnews.org/article.pl?sid=25/05/11/1444208&from=rss) - [Reverse Engineering the 386 Processor's Prefetch Queue Circuitry](https://soylentnews.org/article.pl?sid=25/05/11/1444208&from=rss)
-* [2025-05-12, 15:46:00](https://soylentnews.org/article.pl?sid=25/05/11/1335239&from=rss) - [Urine-Powered Electrolysis Systems Offer Energy-Efficient Green Hydrogen Production](https://soylentnews.org/article.pl?sid=25/05/11/1335239&from=rss)
 
 ## [Archives](archives/index.md)
 
