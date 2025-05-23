@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-23, 13:17:00](https://soylentnews.org/article.pl?sid=25/05/22/1844251&from=rss) - [The US Has a New Most-Powerful Laser](https://soylentnews.org/article.pl?sid=25/05/22/1844251&from=rss)
 * [2025-05-23, 08:32:00](https://soylentnews.org/article.pl?sid=25/05/22/1217221&from=rss) - [Police Secretly Monitored New Orleans With Facial Recognition Cameras](https://soylentnews.org/article.pl?sid=25/05/22/1217221&from=rss)
 * [2025-05-23, 03:45:00](https://soylentnews.org/article.pl?sid=25/05/21/2216220&from=rss) - [UK Farmers Pray For Rain Amid Driest Spring Since 1852](https://soylentnews.org/article.pl?sid=25/05/21/2216220&from=rss)
 * [2025-05-22, 23:06:00](https://soylentnews.org/article.pl?sid=25/05/22/012214&from=rss) - [A Look at OpenAI From 2019](https://soylentnews.org/article.pl?sid=25/05/22/012214&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-14, 10:37:00](https://soylentnews.org/article.pl?sid=25/05/13/0245205&from=rss) - [You Think Ransomware is Bad Now? Wait Until It Infects CPUs](https://soylentnews.org/article.pl?sid=25/05/13/0245205&from=rss)
 * [2025-05-14, 05:51:00](https://soylentnews.org/article.pl?sid=25/05/13/0234223&from=rss) - [The Viking Age is Undergoing a Revisionist Transformation](https://soylentnews.org/article.pl?sid=25/05/13/0234223&from=rss)
 * [2025-05-14, 01:04:00](https://soylentnews.org/article.pl?sid=25/05/13/020213&from=rss) - [Nvidia NeMo Microservices to Embed AI Agents in Workflows](https://soylentnews.org/article.pl?sid=25/05/13/020213&from=rss)
-* [2025-05-13, 20:19:00](https://soylentnews.org/article.pl?sid=25/05/13/0140243&from=rss) - [Wikipedia Launches Legal Challenge Against UK Government](https://soylentnews.org/article.pl?sid=25/05/13/0140243&from=rss)
 
 ## [Archives](archives/index.md)
 
