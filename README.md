@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-24, 03:36:00](https://soylentnews.org/article.pl?sid=25/05/23/128247&from=rss) - [TSMC's US Factory Shows the Limits of Reshoring and Tariffs](https://soylentnews.org/article.pl?sid=25/05/23/128247&from=rss)
 * [2025-05-23, 22:49:00](https://soylentnews.org/article.pl?sid=25/05/23/1158226&from=rss) - [High Priority Exploits Fixed in Firefox and Chrome](https://soylentnews.org/article.pl?sid=25/05/23/1158226&from=rss)
 * [2025-05-23, 18:00:00](https://soylentnews.org/article.pl?sid=25/05/22/2134201&from=rss) - [A Nasa Mars Rover Looked Up At A Moody Sky. What It Saw Wasn't A Star. ](https://soylentnews.org/article.pl?sid=25/05/22/2134201&from=rss)
 * [2025-05-23, 13:17:00](https://soylentnews.org/article.pl?sid=25/05/22/1844251&from=rss) - [The US Has a New Most-Powerful Laser](https://soylentnews.org/article.pl?sid=25/05/22/1844251&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-15, 01:01:00](https://soylentnews.org/article.pl?sid=25/05/14/0413235&from=rss) - [New Way To Pull Uranium From Water Can Help China's Nuclear Power Push](https://soylentnews.org/article.pl?sid=25/05/14/0413235&from=rss)
 * [2025-05-14, 20:13:00](https://soylentnews.org/article.pl?sid=25/05/14/0020240&from=rss) - [Ask Soylent: Insert Code Here](https://soylentnews.org/article.pl?sid=25/05/14/0020240&from=rss)
 * [2025-05-14, 15:30:00](https://soylentnews.org/article.pl?sid=25/05/13/1445228&from=rss) - [Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection](https://soylentnews.org/article.pl?sid=25/05/13/1445228&from=rss)
-* [2025-05-14, 10:37:00](https://soylentnews.org/article.pl?sid=25/05/13/0245205&from=rss) - [You Think Ransomware is Bad Now? Wait Until It Infects CPUs](https://soylentnews.org/article.pl?sid=25/05/13/0245205&from=rss)
 
 ## [Archives](archives/index.md)
 
