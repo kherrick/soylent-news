@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-25](index.md)
+
+* [2025-05-25, 02:09:00](https://soylentnews.org/article.pl?sid=25/05/24/171234&from=rss) - [VPN Service Cancels Customers' Lifetime Subscriptions After Takeover](https://soylentnews.org/article.pl?sid=25/05/24/171234&from=rss)
