@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-25, 16:25:00](https://soylentnews.org/article.pl?sid=25/05/24/1730251&from=rss) - [The Roman Massacre That Never Happened](https://soylentnews.org/article.pl?sid=25/05/24/1730251&from=rss)
 * [2025-05-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/05/24/1718235&from=rss) - [The Pedestrians Who Abetted a Hawk’s Deadly Attack](https://soylentnews.org/article.pl?sid=25/05/24/1718235&from=rss)
 * [2025-05-25, 06:55:00](https://soylentnews.org/article.pl?sid=25/05/24/1716210&from=rss) - [Jupiter Was Formerly Twice Its Current Size and Had a Much Stronger Magnetic Field ](https://soylentnews.org/article.pl?sid=25/05/24/1716210&from=rss)
 * [2025-05-25, 02:09:00](https://soylentnews.org/article.pl?sid=25/05/24/171234&from=rss) - [VPN Service Cancels Customers' Lifetime Subscriptions After Takeover](https://soylentnews.org/article.pl?sid=25/05/24/171234&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-16, 15:01:00](https://soylentnews.org/article.pl?sid=25/05/14/2259213&from=rss) - [Why Bell Labs Worked](https://soylentnews.org/article.pl?sid=25/05/14/2259213&from=rss)
 * [2025-05-16, 10:20:00](https://soylentnews.org/article.pl?sid=25/05/15/0224241&from=rss) - [A Chemical in Plastics is Tied to Heart Disease Deaths](https://soylentnews.org/article.pl?sid=25/05/15/0224241&from=rss)
 * [2025-05-16, 05:32:00](https://soylentnews.org/article.pl?sid=25/05/15/0157228&from=rss) - [FTC Pushes The Enforcement Of Its 'Click-To-Cancel' Rule Back To July](https://soylentnews.org/article.pl?sid=25/05/15/0157228&from=rss)
-* [2025-05-16, 00:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0147219&from=rss) - [When Your Favorite Song Plays, Your Brain ‘Physically Embodies’ Music](https://soylentnews.org/article.pl?sid=25/05/15/0147219&from=rss)
 
 ## [Archives](archives/index.md)
 
