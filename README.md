@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-27, 06:43:00](https://soylentnews.org/article.pl?sid=25/05/27/0515241&from=rss) - [Scientists Discover Potential New Targets For Alzheimer’s Drugs](https://soylentnews.org/article.pl?sid=25/05/27/0515241&from=rss)
 * [2025-05-27, 01:53:00](https://soylentnews.org/article.pl?sid=25/05/25/2124211&from=rss) - [Google Brings Ads to AI Search](https://soylentnews.org/article.pl?sid=25/05/25/2124211&from=rss)
 * [2025-05-26, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/25/2119235&from=rss) - [The Sun is Producing Strong Solar Flares; Are There More Than Expected During This Solar Cycle?](https://soylentnews.org/article.pl?sid=25/05/25/2119235&from=rss)
 * [2025-05-26, 16:21:00](https://soylentnews.org/article.pl?sid=25/05/25/2059205&from=rss) - [Ex-NSA Listened to Scattered Spider's Calls: 'They're Good'](https://soylentnews.org/article.pl?sid=25/05/25/2059205&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-18, 05:12:00](https://soylentnews.org/article.pl?sid=25/05/16/1710236&from=rss) - [China's Hygon Details C86-5G: A 128-Core X86 CPU with Advanced Features and Four-Way SMT](https://soylentnews.org/article.pl?sid=25/05/16/1710236&from=rss)
 * [2025-05-18, 00:24:00](https://soylentnews.org/article.pl?sid=25/05/16/1648245&from=rss) - [Oniux by Tor: Isolating Linux Applications at the Kernel Level for Secure Connections](https://soylentnews.org/article.pl?sid=25/05/16/1648245&from=rss)
 * [2025-05-17, 19:39:00](https://soylentnews.org/article.pl?sid=25/05/16/0247204&from=rss) - [NCSC and Industry at Odds Over How to Tackle Shoddy Software](https://soylentnews.org/article.pl?sid=25/05/16/0247204&from=rss)
-* [2025-05-17, 14:50:00](https://soylentnews.org/article.pl?sid=25/05/16/0232204&from=rss) - [EU Bug Database Fully Operational as US Slashes Infosec](https://soylentnews.org/article.pl?sid=25/05/16/0232204&from=rss)
 
 ## [Archives](archives/index.md)
 
