@@ -1,5 +1,9 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-27, 01:53:00](https://soylentnews.org/article.pl?sid=25/05/25/2124211&from=rss) - [Google Brings Ads to AI Search](https://soylentnews.org/article.pl?sid=25/05/25/2124211&from=rss)
+* [2025-05-26, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/25/2119235&from=rss) - [The Sun is Producing Strong Solar Flares; Are There More Than Expected During This Solar Cycle?](https://soylentnews.org/article.pl?sid=25/05/25/2119235&from=rss)
+* [2025-05-26, 16:21:00](https://soylentnews.org/article.pl?sid=25/05/25/2059205&from=rss) - [Ex-NSA Listened to Scattered Spider's Calls: 'They're Good'](https://soylentnews.org/article.pl?sid=25/05/25/2059205&from=rss)
+* [2025-05-26, 11:36:00](https://soylentnews.org/article.pl?sid=25/05/25/1717211&from=rss) - [GitHub Copilot Angles for Promotion From Assistant to Agent](https://soylentnews.org/article.pl?sid=25/05/25/1717211&from=rss)
 * [2025-05-26, 06:48:00](https://soylentnews.org/article.pl?sid=25/05/25/0833214&from=rss) - [Positive Proof-of-Concept Experiments May Lead to the World's First Treatment for Celiac Disease](https://soylentnews.org/article.pl?sid=25/05/25/0833214&from=rss)
 * [2025-05-26, 02:00:00](https://soylentnews.org/article.pl?sid=25/05/24/1910230&from=rss) - [We did the Math on AI’s Energy Footprint. Here’s the Story you Haven’t Heard.](https://soylentnews.org/article.pl?sid=25/05/24/1910230&from=rss)
 * [2025-05-25, 21:11:00](https://soylentnews.org/article.pl?sid=25/05/24/1755248&from=rss) - [Evidence for 'Planet Nine' Lurking on the Fringes of the Solar System is Building](https://soylentnews.org/article.pl?sid=25/05/24/1755248&from=rss)
@@ -46,10 +50,6 @@
 * [2025-05-18, 00:24:00](https://soylentnews.org/article.pl?sid=25/05/16/1648245&from=rss) - [Oniux by Tor: Isolating Linux Applications at the Kernel Level for Secure Connections](https://soylentnews.org/article.pl?sid=25/05/16/1648245&from=rss)
 * [2025-05-17, 19:39:00](https://soylentnews.org/article.pl?sid=25/05/16/0247204&from=rss) - [NCSC and Industry at Odds Over How to Tackle Shoddy Software](https://soylentnews.org/article.pl?sid=25/05/16/0247204&from=rss)
 * [2025-05-17, 14:50:00](https://soylentnews.org/article.pl?sid=25/05/16/0232204&from=rss) - [EU Bug Database Fully Operational as US Slashes Infosec](https://soylentnews.org/article.pl?sid=25/05/16/0232204&from=rss)
-* [2025-05-17, 10:05:00](https://soylentnews.org/article.pl?sid=25/05/16/0227217&from=rss) - [A US Court Just Put Ownership of CRISPR Back in Play](https://soylentnews.org/article.pl?sid=25/05/16/0227217&from=rss)
-* [2025-05-17, 05:15:00](https://soylentnews.org/article.pl?sid=25/05/16/0218214&from=rss) - [Bluetooth 6.1 Enhances Privacy With Randomized RPA Timing](https://soylentnews.org/article.pl?sid=25/05/16/0218214&from=rss)
-* [2025-05-17, 00:31:00](https://soylentnews.org/article.pl?sid=25/05/16/0212240&from=rss) - [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&from=rss)
-* [2025-05-16, 19:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0827220&from=rss) - [Scientists Find Lead Really Can Be Turned Into Gold (With Help From The LHC)](https://soylentnews.org/article.pl?sid=25/05/15/0827220&from=rss)
 
 ## [Archives](archives/index.md)
 
