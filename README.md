@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-28, 20:49:00](https://soylentnews.org/article.pl?sid=25/05/27/2241220&from=rss) - [Intel Uncovers Alleged Embezzlement Involving Former Employee And Supplier](https://soylentnews.org/article.pl?sid=25/05/27/2241220&from=rss)
 * [2025-05-28, 16:04:00](https://soylentnews.org/article.pl?sid=25/05/27/2237231&from=rss) - [Telescope Upgrade Reveals Sun's \"Coronal Rain\" In Unprecedented Detail](https://soylentnews.org/article.pl?sid=25/05/27/2237231&from=rss)
 * [2025-05-28, 11:19:00](https://soylentnews.org/article.pl?sid=25/05/27/2233218&from=rss) - [iPhone Won't Be Made In US Anytime Soon: Analysts ](https://soylentnews.org/article.pl?sid=25/05/27/2233218&from=rss)
 * [2025-05-28, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/27/124252&from=rss) - [The CIA Used A Star Wars Fan Site To Secretly Communicate With Spies](https://soylentnews.org/article.pl?sid=25/05/27/124252&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/05/18/148219&from=rss) - [The End of the Universe is Nigh!](https://soylentnews.org/article.pl?sid=25/05/18/148219&from=rss)
 * [2025-05-19, 14:24:00](https://soylentnews.org/article.pl?sid=25/05/18/145202&from=rss) - [UK Retail Sector Hit by Ransomware Spree](https://soylentnews.org/article.pl?sid=25/05/18/145202&from=rss)
 * [2025-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=25/05/18/135204&from=rss) - [How a New Type of AI is Helping Police Skirt Facial Recognition Bans](https://soylentnews.org/article.pl?sid=25/05/18/135204&from=rss)
-* [2025-05-19, 04:54:00](https://soylentnews.org/article.pl?sid=25/05/18/1255206&from=rss) - [The Day Grok Lost its Mind](https://soylentnews.org/article.pl?sid=25/05/18/1255206&from=rss)
 
 ## [Archives](archives/index.md)
 
