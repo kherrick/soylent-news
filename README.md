@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-28, 01:47:00](https://soylentnews.org/article.pl?sid=25/05/27/120223&from=rss) - [Security News: Telemessage Worsens, Predicitive Patching, GoDaddy Incompetence, Credential DB Found](https://soylentnews.org/article.pl?sid=25/05/27/120223&from=rss)
 * [2025-05-27, 21:04:00](https://soylentnews.org/article.pl?sid=25/05/27/1135228&from=rss) - [Gabe Newell's Brain-Computer Interface Startup to Reveal First Chips Later This Year](https://soylentnews.org/article.pl?sid=25/05/27/1135228&from=rss)
 * [2025-05-27, 16:16:00](https://soylentnews.org/article.pl?sid=25/05/27/1132236&from=rss) - [Texas is Getting Ready to Ban Social Media for Anyone Under 18](https://soylentnews.org/article.pl?sid=25/05/27/1132236&from=rss)
 * [2025-05-27, 11:31:00](https://soylentnews.org/article.pl?sid=25/05/27/0520206&from=rss) - [Research Reveals 'Forever Chemicals' Present in Beer](https://soylentnews.org/article.pl?sid=25/05/27/0520206&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/05/18/1252203&from=rss) - [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&from=rss)
 * [2025-05-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/05/17/0548228&from=rss) - [U.S. Inks Bill to Force Geo-Tracking Tech for High-End Gaming and AI GPUs](https://soylentnews.org/article.pl?sid=25/05/17/0548228&from=rss)
 * [2025-05-18, 14:38:00](https://soylentnews.org/article.pl?sid=25/05/16/1759244&from=rss) - [NASA Keeps Ancient Voyager 1 Spacecraft Alive With Hail Mary Thruster Fix](https://soylentnews.org/article.pl?sid=25/05/16/1759244&from=rss)
-* [2025-05-18, 09:53:00](https://soylentnews.org/article.pl?sid=25/05/16/1754242&from=rss) - [White House Scraps Plan to Block Data Brokers From Selling Americans’ Sensitive Data](https://soylentnews.org/article.pl?sid=25/05/16/1754242&from=rss)
 
 ## [Archives](archives/index.md)
 
