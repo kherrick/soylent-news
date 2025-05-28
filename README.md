@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-28, 11:19:00](https://soylentnews.org/article.pl?sid=25/05/27/2233218&from=rss) - [iPhone Won't Be Made In US Anytime Soon: Analysts ](https://soylentnews.org/article.pl?sid=25/05/27/2233218&from=rss)
 * [2025-05-28, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/27/124252&from=rss) - [The CIA Used A Star Wars Fan Site To Secretly Communicate With Spies](https://soylentnews.org/article.pl?sid=25/05/27/124252&from=rss)
 * [2025-05-28, 01:47:00](https://soylentnews.org/article.pl?sid=25/05/27/120223&from=rss) - [Security News: Telemessage Worsens, Predictive Patching, GoDaddy Incompetence, Credential DB Found](https://soylentnews.org/article.pl?sid=25/05/27/120223&from=rss)
 * [2025-05-27, 21:04:00](https://soylentnews.org/article.pl?sid=25/05/27/1135228&from=rss) - [Gabe Newell's Brain-Computer Interface Startup to Reveal First Chips Later This Year](https://soylentnews.org/article.pl?sid=25/05/27/1135228&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=25/05/18/135204&from=rss) - [How a New Type of AI is Helping Police Skirt Facial Recognition Bans](https://soylentnews.org/article.pl?sid=25/05/18/135204&from=rss)
 * [2025-05-19, 04:54:00](https://soylentnews.org/article.pl?sid=25/05/18/1255206&from=rss) - [The Day Grok Lost its Mind](https://soylentnews.org/article.pl?sid=25/05/18/1255206&from=rss)
 * [2025-05-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/05/18/1252203&from=rss) - [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&from=rss)
-* [2025-05-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/05/17/0548228&from=rss) - [U.S. Inks Bill to Force Geo-Tracking Tech for High-End Gaming and AI GPUs](https://soylentnews.org/article.pl?sid=25/05/17/0548228&from=rss)
 
 ## [Archives](archives/index.md)
 
