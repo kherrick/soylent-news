@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-29, 06:15:00](https://soylentnews.org/article.pl?sid=25/05/28/0352254&from=rss) - [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&from=rss)
 * [2025-05-29, 01:30:00](https://soylentnews.org/article.pl?sid=25/05/27/2358202&from=rss) - [Humanoid AI-powered Robots Duke It Out In China Fight Competition](https://soylentnews.org/article.pl?sid=25/05/27/2358202&from=rss)
 * [2025-05-28, 20:49:00](https://soylentnews.org/article.pl?sid=25/05/27/2241220&from=rss) - [Intel Uncovers Alleged Embezzlement Involving Former Employee And Supplier](https://soylentnews.org/article.pl?sid=25/05/27/2241220&from=rss)
 * [2025-05-28, 16:04:00](https://soylentnews.org/article.pl?sid=25/05/27/2237231&from=rss) - [Telescope Upgrade Reveals Sun's \"Coronal Rain\" In Unprecedented Detail](https://soylentnews.org/article.pl?sid=25/05/27/2237231&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/05/19/0231252&from=rss) - [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&from=rss)
 * [2025-05-19, 23:49:00](https://soylentnews.org/article.pl?sid=25/05/18/1411244&from=rss) - [Nextcloud Cries Foul Over Google Play Store App Rejection](https://soylentnews.org/article.pl?sid=25/05/18/1411244&from=rss)
 * [2025-05-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/05/18/148219&from=rss) - [The End of the Universe is Nigh!](https://soylentnews.org/article.pl?sid=25/05/18/148219&from=rss)
-* [2025-05-19, 14:24:00](https://soylentnews.org/article.pl?sid=25/05/18/145202&from=rss) - [UK Retail Sector Hit by Ransomware Spree](https://soylentnews.org/article.pl?sid=25/05/18/145202&from=rss)
 
 ## [Archives](archives/index.md)
 
