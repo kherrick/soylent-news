@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-29, 20:30:00](https://soylentnews.org/article.pl?sid=25/05/29/0221209&from=rss) - [Russia is Still Swimming in New Intel and AMD Chips Thanks to Sanction \"Workarounds\"](https://soylentnews.org/article.pl?sid=25/05/29/0221209&from=rss)
 * [2025-05-29, 15:48:00](https://soylentnews.org/article.pl?sid=25/05/28/1749257&from=rss) - [University Of Arizona Scientists Unveil Breakthrough Petahertz-Speed Transistor](https://soylentnews.org/article.pl?sid=25/05/28/1749257&from=rss)
 * [2025-05-29, 11:06:00](https://soylentnews.org/article.pl?sid=25/05/28/1747229&from=rss) - [Some Signs of AI Model Collapse Begin to Reveal Themselves](https://soylentnews.org/article.pl?sid=25/05/28/1747229&from=rss)
 * [2025-05-29, 06:15:00](https://soylentnews.org/article.pl?sid=25/05/28/0352254&from=rss) - [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-20, 18:45:00](https://soylentnews.org/article.pl?sid=25/05/20/0737207&from=rss) - [Unlocking Voices: AR For Nonverbal Autism](https://soylentnews.org/article.pl?sid=25/05/20/0737207&from=rss)
 * [2025-05-20, 14:00:00](https://soylentnews.org/article.pl?sid=25/05/19/1851246&from=rss) - [Regeneron to Buy 23andMe Out of Bankruptcy for $256 Million](https://soylentnews.org/article.pl?sid=25/05/19/1851246&from=rss)
 * [2025-05-20, 09:16:00](https://soylentnews.org/article.pl?sid=25/05/19/0847257&from=rss) - [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&from=rss)
-* [2025-05-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/05/19/0231252&from=rss) - [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&from=rss)
 
 ## [Archives](archives/index.md)
 
