@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-31, 19:47:00](https://soylentnews.org/article.pl?sid=25/05/30/190238&from=rss) - [Overlooked Cells Might Explain The Human Brain’s Huge Storage Capacity](https://soylentnews.org/article.pl?sid=25/05/30/190238&from=rss)
 * [2025-05-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/05/30/1544203&from=rss) - [German Court Jails Volkswagen Execs Over Dieselgate Scandal](https://soylentnews.org/article.pl?sid=25/05/30/1544203&from=rss)
 * [2025-05-31, 10:19:00](https://soylentnews.org/article.pl?sid=25/05/30/0621214&from=rss) - [Microsoft Dumps AI Into Notepad as 'Copilot All the Things' Mania Takes Hold](https://soylentnews.org/article.pl?sid=25/05/30/0621214&from=rss)
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-22, 13:35:00](https://soylentnews.org/article.pl?sid=25/05/21/1543207&from=rss) - [Chicago Sun-Times Prints Summer Reading List Full of Fake Books](https://soylentnews.org/article.pl?sid=25/05/21/1543207&from=rss)
 * [2025-05-22, 08:42:00](https://soylentnews.org/article.pl?sid=25/05/21/1214206&from=rss) - [Italy Fines Thousands as Crackdown on Pirate IPTV Targets Viewers](https://soylentnews.org/article.pl?sid=25/05/21/1214206&from=rss)
 * [2025-05-22, 03:59:00](https://soylentnews.org/article.pl?sid=25/05/21/1210228&from=rss) - [Laser-Powered Fusion Experiment More Than Doubles its Power Output](https://soylentnews.org/article.pl?sid=25/05/21/1210228&from=rss)
-* [2025-05-21, 23:11:00](https://soylentnews.org/article.pl?sid=25/05/21/127244&from=rss) - [Opinion: Unending Ransomware Attacks Are a Symptom, Not the Illness](https://soylentnews.org/article.pl?sid=25/05/21/127244&from=rss)
 
 ## [Archives](archives/index.md)
 
