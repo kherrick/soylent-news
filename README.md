@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-05-31, 10:19:00](https://soylentnews.org/article.pl?sid=25/05/30/0621214&from=rss) - [Microsoft Dumps AI Into Notepad as 'Copilot All the Things' Mania Takes Hold](https://soylentnews.org/article.pl?sid=25/05/30/0621214&from=rss)
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&from=rss)
 * [2025-05-31, 00:49:00](https://soylentnews.org/article.pl?sid=25/05/30/0618221&from=rss) - [Stack Overflow's Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&from=rss)
 * [2025-05-30, 20:07:00](https://soylentnews.org/article.pl?sid=25/05/29/0642240&from=rss) - [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-22, 03:59:00](https://soylentnews.org/article.pl?sid=25/05/21/1210228&from=rss) - [Laser-Powered Fusion Experiment More Than Doubles its Power Output](https://soylentnews.org/article.pl?sid=25/05/21/1210228&from=rss)
 * [2025-05-21, 23:11:00](https://soylentnews.org/article.pl?sid=25/05/21/127244&from=rss) - [Opinion: Unending Ransomware Attacks Are a Symptom, Not the Illness](https://soylentnews.org/article.pl?sid=25/05/21/127244&from=rss)
 * [2025-05-21, 18:29:00](https://soylentnews.org/article.pl?sid=25/05/21/1154206&from=rss) - [\"Big Surprise\": Astronomers Find Planet in Perpendicular Orbit Around Pair of Stars](https://soylentnews.org/article.pl?sid=25/05/21/1154206&from=rss)
-* [2025-05-21, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/20/1143239&from=rss) - [Annual Tech Waste Footprint Per Person is 11.2 Kg](https://soylentnews.org/article.pl?sid=25/05/20/1143239&from=rss)
 
 ## [Archives](archives/index.md)
 
