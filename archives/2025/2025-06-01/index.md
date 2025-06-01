@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 21:00:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/01/2038209&from=rss) - [NOAA Issues a 'Severe' Solar Storm Alert, Auroras Expected at Lower Latitudes](https://soylentnews.org/breakingnews/article.pl?sid=25/06/01/2038209&from=rss)
 * [2025-06-01, 19:34:00](https://soylentnews.org/article.pl?sid=25/05/31/1945211&from=rss) - [Using HDMI EMI for Fast Wireless Data Transfer](https://soylentnews.org/article.pl?sid=25/05/31/1945211&from=rss)
 * [2025-06-01, 14:48:00](https://soylentnews.org/article.pl?sid=25/05/30/198205&from=rss) - [Victoria's Secret Website Laid Bare For Three Days After 'Security Incident'](https://soylentnews.org/article.pl?sid=25/05/30/198205&from=rss)
 * [2025-06-01, 10:03:00](https://soylentnews.org/article.pl?sid=25/05/31/1552206&from=rss) - [Trump Proposes Huge Reduction in National Science Foundation Funding](https://soylentnews.org/article.pl?sid=25/05/31/1552206&from=rss)

@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-01, 21:00:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/01/2038209&from=rss) - [NOAA Issues a 'Severe' Solar Storm Alert, Auroras Expected at Lower Latitudes](https://soylentnews.org/breakingnews/article.pl?sid=25/06/01/2038209&from=rss)
 * [2025-06-01, 19:34:00](https://soylentnews.org/article.pl?sid=25/05/31/1945211&from=rss) - [Using HDMI EMI for Fast Wireless Data Transfer](https://soylentnews.org/article.pl?sid=25/05/31/1945211&from=rss)
 * [2025-06-01, 14:48:00](https://soylentnews.org/article.pl?sid=25/05/30/198205&from=rss) - [Victoria's Secret Website Laid Bare For Three Days After 'Security Incident'](https://soylentnews.org/article.pl?sid=25/05/30/198205&from=rss)
 * [2025-06-01, 10:03:00](https://soylentnews.org/article.pl?sid=25/05/31/1552206&from=rss) - [Trump Proposes Huge Reduction in National Science Foundation Funding](https://soylentnews.org/article.pl?sid=25/05/31/1552206&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-23, 18:00:00](https://soylentnews.org/article.pl?sid=25/05/22/2134201&from=rss) - [A Nasa Mars Rover Looked Up At A Moody Sky. What It Saw Wasn't A Star. ](https://soylentnews.org/article.pl?sid=25/05/22/2134201&from=rss)
 * [2025-05-23, 13:17:00](https://soylentnews.org/article.pl?sid=25/05/22/1844251&from=rss) - [The US Has a New Most-Powerful Laser](https://soylentnews.org/article.pl?sid=25/05/22/1844251&from=rss)
 * [2025-05-23, 08:32:00](https://soylentnews.org/article.pl?sid=25/05/22/1217221&from=rss) - [Police Secretly Monitored New Orleans With Facial Recognition Cameras](https://soylentnews.org/article.pl?sid=25/05/22/1217221&from=rss)
-* [2025-05-23, 03:45:00](https://soylentnews.org/article.pl?sid=25/05/21/2216220&from=rss) - [UK Farmers Pray For Rain Amid Driest Spring Since 1852](https://soylentnews.org/article.pl?sid=25/05/21/2216220&from=rss)
 
 ## [Archives](archives/index.md)
 
