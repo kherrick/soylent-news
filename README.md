@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-02, 14:24:00](https://soylentnews.org/article.pl?sid=25/06/01/1517235&from=rss) - [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&from=rss)
 * [2025-06-02, 09:48:00](https://soylentnews.org/article.pl?sid=25/06/01/159251&from=rss) - [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&from=rss)
 * [2025-06-02, 05:00:00](https://soylentnews.org/article.pl?sid=25/06/01/151242&from=rss) - [Malware Reverse Engineering - Unraveling the Secrets of Encryption in Malware](https://soylentnews.org/article.pl?sid=25/06/01/151242&from=rss)
 * [2025-06-02, 00:16:00](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss) - [New JWST Observations of 'Trans-Neptunian Objects' Could Help Reveal Our Solar System's Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-24, 13:03:00](https://soylentnews.org/article.pl?sid=25/05/23/1218209&from=rss) - [All Living Things Emit Subtle Light Until They Die, Study Suggests](https://soylentnews.org/article.pl?sid=25/05/23/1218209&from=rss)
 * [2025-05-24, 08:20:00](https://soylentnews.org/article.pl?sid=25/05/23/1211234&from=rss) - [In Lawsuit Over Teen's Death, Judge Rejects Arguments That AI Chatbots Have Free Speech Rights](https://soylentnews.org/article.pl?sid=25/05/23/1211234&from=rss)
 * [2025-05-24, 03:36:00](https://soylentnews.org/article.pl?sid=25/05/23/128247&from=rss) - [TSMC's US Factory Shows the Limits of Reshoring and Tariffs](https://soylentnews.org/article.pl?sid=25/05/23/128247&from=rss)
-* [2025-05-23, 22:49:00](https://soylentnews.org/article.pl?sid=25/05/23/1158226&from=rss) - [High Priority Exploits Fixed in Firefox and Chrome](https://soylentnews.org/article.pl?sid=25/05/23/1158226&from=rss)
 
 ## [Archives](archives/index.md)
 
