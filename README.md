@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-02, 05:00:00](https://soylentnews.org/article.pl?sid=25/06/01/151242&from=rss) - [Malware Reverse Engineering - Unraveling the Secrets of Encryption in Malware](https://soylentnews.org/article.pl?sid=25/06/01/151242&from=rss)
 * [2025-06-02, 00:16:00](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss) - [New JWST Observations of 'Trans-Neptunian Objects' Could Help Reveal Our Solar System's Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss)
 * [2025-06-01, 21:00:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/01/2038209&from=rss) - [NOAA Issues a 'Severe' Solar Storm Alert, Auroras Expected at Lower Latitudes](https://soylentnews.org/breakingnews/article.pl?sid=25/06/01/2038209&from=rss)
 * [2025-06-01, 19:34:00](https://soylentnews.org/article.pl?sid=25/05/31/1945211&from=rss) - [Using HDMI EMI for Fast Wireless Data Transfer](https://soylentnews.org/article.pl?sid=25/05/31/1945211&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-24, 03:36:00](https://soylentnews.org/article.pl?sid=25/05/23/128247&from=rss) - [TSMC's US Factory Shows the Limits of Reshoring and Tariffs](https://soylentnews.org/article.pl?sid=25/05/23/128247&from=rss)
 * [2025-05-23, 22:49:00](https://soylentnews.org/article.pl?sid=25/05/23/1158226&from=rss) - [High Priority Exploits Fixed in Firefox and Chrome](https://soylentnews.org/article.pl?sid=25/05/23/1158226&from=rss)
 * [2025-05-23, 18:00:00](https://soylentnews.org/article.pl?sid=25/05/22/2134201&from=rss) - [A Nasa Mars Rover Looked Up At A Moody Sky. What It Saw Wasn't A Star. ](https://soylentnews.org/article.pl?sid=25/05/22/2134201&from=rss)
-* [2025-05-23, 13:17:00](https://soylentnews.org/article.pl?sid=25/05/22/1844251&from=rss) - [The US Has a New Most-Powerful Laser](https://soylentnews.org/article.pl?sid=25/05/22/1844251&from=rss)
 
 ## [Archives](archives/index.md)
 
