@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-03, 19:02:00](https://soylentnews.org/article.pl?sid=25/06/02/1755220&from=rss) - [The Workers Who Lost Their Jobs To AI](https://soylentnews.org/article.pl?sid=25/06/02/1755220&from=rss)
 * [2025-06-03, 14:17:00](https://soylentnews.org/article.pl?sid=25/06/02/1319210&from=rss) - [China To Ease Rare Earth Export Restrictions To Benefit Domestic And European Semiconductor Firms](https://soylentnews.org/article.pl?sid=25/06/02/1319210&from=rss)
 * [2025-06-03, 13:57:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/03/1339246&from=rss) - [Mount Etna Erupts as Large Plumes Rise From Italian Volcano](https://soylentnews.org/breakingnews/article.pl?sid=25/06/03/1339246&from=rss)
 * [2025-06-03, 09:30:00](https://soylentnews.org/article.pl?sid=25/06/01/1835204&from=rss) - [Mysterious Leaker Outs Conti Ransomware Kingpins](https://soylentnews.org/article.pl?sid=25/06/01/1835204&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-25, 21:11:00](https://soylentnews.org/article.pl?sid=25/05/24/1755248&from=rss) - [Evidence for 'Planet Nine' Lurking on the Fringes of the Solar System is Building](https://soylentnews.org/article.pl?sid=25/05/24/1755248&from=rss)
 * [2025-05-25, 16:25:00](https://soylentnews.org/article.pl?sid=25/05/24/1730251&from=rss) - [The Roman Massacre That Never Happened](https://soylentnews.org/article.pl?sid=25/05/24/1730251&from=rss)
 * [2025-05-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/05/24/1718235&from=rss) - [The Pedestrians Who Abetted a Hawk’s Deadly Attack](https://soylentnews.org/article.pl?sid=25/05/24/1718235&from=rss)
-* [2025-05-25, 06:55:00](https://soylentnews.org/article.pl?sid=25/05/24/1716210&from=rss) - [Jupiter Was Formerly Twice Its Current Size and Had a Much Stronger Magnetic Field ](https://soylentnews.org/article.pl?sid=25/05/24/1716210&from=rss)
 
 ## [Archives](archives/index.md)
 
