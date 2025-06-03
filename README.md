@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-03, 13:57:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/03/1339246&from=rss) - [Mount Etna Erupts as Large Plumes Rise From Italian Volcano](https://soylentnews.org/breakingnews/article.pl?sid=25/06/03/1339246&from=rss)
 * [2025-06-03, 09:30:00](https://soylentnews.org/article.pl?sid=25/06/01/1835204&from=rss) - [Mysterious Leaker Outs Conti Ransomware Kingpins](https://soylentnews.org/article.pl?sid=25/06/01/1835204&from=rss)
 * [2025-06-03, 04:42:00](https://soylentnews.org/article.pl?sid=25/06/01/1533234&from=rss) - [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&from=rss)
 * [2025-06-02, 23:54:00](https://soylentnews.org/article.pl?sid=25/06/01/1527223&from=rss) - [Intel Wins Crucial Verdict in Legal Fight Against Patent Troll VLSI](https://soylentnews.org/article.pl?sid=25/06/01/1527223&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/05/24/1718235&from=rss) - [The Pedestrians Who Abetted a Hawk’s Deadly Attack](https://soylentnews.org/article.pl?sid=25/05/24/1718235&from=rss)
 * [2025-05-25, 06:55:00](https://soylentnews.org/article.pl?sid=25/05/24/1716210&from=rss) - [Jupiter Was Formerly Twice Its Current Size and Had a Much Stronger Magnetic Field ](https://soylentnews.org/article.pl?sid=25/05/24/1716210&from=rss)
 * [2025-05-25, 02:09:00](https://soylentnews.org/article.pl?sid=25/05/24/171234&from=rss) - [VPN Service Cancels Customers' Lifetime Subscriptions After Takeover](https://soylentnews.org/article.pl?sid=25/05/24/171234&from=rss)
-* [2025-05-24, 22:24:00](https://soylentnews.org/article.pl?sid=25/05/23/1731218&from=rss) - [Be A Great Communicator To Progress In Engineering](https://soylentnews.org/article.pl?sid=25/05/23/1731218&from=rss)
 
 ## [Archives](archives/index.md)
 
