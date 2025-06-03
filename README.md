@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-02, 23:54:00](https://soylentnews.org/article.pl?sid=25/06/01/1527223&from=rss) - [Intel Wins Crucial Verdict in Legal Fight Against Patent Troll VLSI](https://soylentnews.org/article.pl?sid=25/06/01/1527223&from=rss)
 * [2025-06-02, 19:10:00](https://soylentnews.org/article.pl?sid=25/06/01/1523222&from=rss) - [120 Court Cases Have Been Caught With AI Hallucinations, According to New Database](https://soylentnews.org/article.pl?sid=25/06/01/1523222&from=rss)
 * [2025-06-02, 14:24:00](https://soylentnews.org/article.pl?sid=25/06/01/1517235&from=rss) - [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&from=rss)
 * [2025-06-02, 09:48:00](https://soylentnews.org/article.pl?sid=25/06/01/159251&from=rss) - [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-24, 22:24:00](https://soylentnews.org/article.pl?sid=25/05/23/1731218&from=rss) - [Be A Great Communicator To Progress In Engineering](https://soylentnews.org/article.pl?sid=25/05/23/1731218&from=rss)
 * [2025-05-24, 17:44:00](https://soylentnews.org/article.pl?sid=25/05/23/1716207&from=rss) - [EU-US Trade War Inevitable](https://soylentnews.org/article.pl?sid=25/05/23/1716207&from=rss)
 * [2025-05-24, 13:03:00](https://soylentnews.org/article.pl?sid=25/05/23/1218209&from=rss) - [All Living Things Emit Subtle Light Until They Die, Study Suggests](https://soylentnews.org/article.pl?sid=25/05/23/1218209&from=rss)
-* [2025-05-24, 08:20:00](https://soylentnews.org/article.pl?sid=25/05/23/1211234&from=rss) - [In Lawsuit Over Teen's Death, Judge Rejects Arguments That AI Chatbots Have Free Speech Rights](https://soylentnews.org/article.pl?sid=25/05/23/1211234&from=rss)
 
 ## [Archives](archives/index.md)
 
