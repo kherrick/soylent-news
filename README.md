@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-04, 18:45:00](https://soylentnews.org/article.pl?sid=25/06/03/1645240&from=rss) - [Trust, Attitudes and Use of Artificial Intelligence 2025](https://soylentnews.org/article.pl?sid=25/06/03/1645240&from=rss)
 * [2025-06-04, 14:04:00](https://soylentnews.org/article.pl?sid=25/06/03/1113216&from=rss) - [Model Context Protocol (MCP): What It is and Why It Matters](https://soylentnews.org/article.pl?sid=25/06/03/1113216&from=rss)
 * [2025-06-04, 09:23:00](https://soylentnews.org/article.pl?sid=25/06/03/0455214&from=rss) - [Fire Safety Concerns Spark New Battery Rules on Flights](https://soylentnews.org/article.pl?sid=25/06/03/0455214&from=rss)
 * [2025-06-04, 04:36:00](https://soylentnews.org/article.pl?sid=25/06/03/0447247&from=rss) - [Making Magnesium From Sea Water](https://soylentnews.org/article.pl?sid=25/06/03/0447247&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-26, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/25/2119235&from=rss) - [The Sun is Producing Strong Solar Flares; Are There More Than Expected During This Solar Cycle?](https://soylentnews.org/article.pl?sid=25/05/25/2119235&from=rss)
 * [2025-05-26, 16:21:00](https://soylentnews.org/article.pl?sid=25/05/25/2059205&from=rss) - [Ex-NSA Listened to Scattered Spider's Calls: 'They're Good'](https://soylentnews.org/article.pl?sid=25/05/25/2059205&from=rss)
 * [2025-05-26, 11:36:00](https://soylentnews.org/article.pl?sid=25/05/25/1717211&from=rss) - [GitHub Copilot Angles for Promotion From Assistant to Agent](https://soylentnews.org/article.pl?sid=25/05/25/1717211&from=rss)
-* [2025-05-26, 06:48:00](https://soylentnews.org/article.pl?sid=25/05/25/0833214&from=rss) - [Positive Proof-of-Concept Experiments May Lead to the World's First Treatment for Celiac Disease](https://soylentnews.org/article.pl?sid=25/05/25/0833214&from=rss)
 
 ## [Archives](archives/index.md)
 
