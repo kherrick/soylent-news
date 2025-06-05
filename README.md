@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-05, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/04/0117248&from=rss) - [Apple Must Pay 500M Euro Digital Markets Act Fine by July 26](https://soylentnews.org/article.pl?sid=25/06/04/0117248&from=rss)
 * [2025-06-04, 23:30:00](https://soylentnews.org/article.pl?sid=25/06/04/0110238&from=rss) - [In North Korea, Your Phone Secretly Takes Screenshots Every 5 Minutes for Government Surveillance](https://soylentnews.org/article.pl?sid=25/06/04/0110238&from=rss)
 * [2025-06-04, 18:45:00](https://soylentnews.org/article.pl?sid=25/06/03/1645240&from=rss) - [Trust, Attitudes and Use of Artificial Intelligence 2025](https://soylentnews.org/article.pl?sid=25/06/03/1645240&from=rss)
 * [2025-06-04, 14:04:00](https://soylentnews.org/article.pl?sid=25/06/03/1113216&from=rss) - [Model Context Protocol (MCP): What It is and Why It Matters](https://soylentnews.org/article.pl?sid=25/06/03/1113216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-27, 06:43:00](https://soylentnews.org/article.pl?sid=25/05/27/0515241&from=rss) - [Scientists Discover Potential New Targets For Alzheimer’s Drugs](https://soylentnews.org/article.pl?sid=25/05/27/0515241&from=rss)
 * [2025-05-27, 01:53:00](https://soylentnews.org/article.pl?sid=25/05/25/2124211&from=rss) - [Google Brings Ads to AI Search](https://soylentnews.org/article.pl?sid=25/05/25/2124211&from=rss)
 * [2025-05-26, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/25/2119235&from=rss) - [The Sun is Producing Strong Solar Flares; Are There More Than Expected During This Solar Cycle?](https://soylentnews.org/article.pl?sid=25/05/25/2119235&from=rss)
-* [2025-05-26, 16:21:00](https://soylentnews.org/article.pl?sid=25/05/25/2059205&from=rss) - [Ex-NSA Listened to Scattered Spider's Calls: 'They're Good'](https://soylentnews.org/article.pl?sid=25/05/25/2059205&from=rss)
 
 ## [Archives](archives/index.md)
 
