@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-06, 08:48:00](https://soylentnews.org/article.pl?sid=25/06/05/1051216&from=rss) - [The Far Side of the Moon May Host the World's Most Sensitive Telescope, Shielded From Interference](https://soylentnews.org/article.pl?sid=25/06/05/1051216&from=rss)
 * [2025-06-06, 03:59:00](https://soylentnews.org/article.pl?sid=25/06/04/2236200&from=rss) - [Spacex's Starship And Super Heavy Booster Crash](https://soylentnews.org/article.pl?sid=25/06/04/2236200&from=rss)
 * [2025-06-05, 23:14:00](https://soylentnews.org/article.pl?sid=25/06/04/2225230&from=rss) - [TSMC Is Once Again In Talks With US Officials Over A Possible Gigafab In The UAE](https://soylentnews.org/article.pl?sid=25/06/04/2225230&from=rss)
 * [2025-06-05, 18:29:00](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&from=rss) - [The Trump Administration's Plan for National Citizen Database is a Massive Threat to Civil Liberties](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-28, 11:19:00](https://soylentnews.org/article.pl?sid=25/05/27/2233218&from=rss) - [iPhone Won't Be Made In US Anytime Soon: Analysts ](https://soylentnews.org/article.pl?sid=25/05/27/2233218&from=rss)
 * [2025-05-28, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/27/124252&from=rss) - [The CIA Used A Star Wars Fan Site To Secretly Communicate With Spies](https://soylentnews.org/article.pl?sid=25/05/27/124252&from=rss)
 * [2025-05-28, 01:47:00](https://soylentnews.org/article.pl?sid=25/05/27/120223&from=rss) - [Security News: Telemessage Worsens, Predictive Patching, GoDaddy Incompetence, Credential DB Found](https://soylentnews.org/article.pl?sid=25/05/27/120223&from=rss)
-* [2025-05-27, 21:04:00](https://soylentnews.org/article.pl?sid=25/05/27/1135228&from=rss) - [Gabe Newell's Brain-Computer Interface Startup to Reveal First Chips Later This Year](https://soylentnews.org/article.pl?sid=25/05/27/1135228&from=rss)
 
 ## [Archives](archives/index.md)
 
