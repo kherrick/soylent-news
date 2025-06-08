@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-08, 08:12:00](https://soylentnews.org/article.pl?sid=25/06/07/123250&from=rss) - [UK Govt Study: Copilot AI Saved Workers 26 Minutes a Day](https://soylentnews.org/article.pl?sid=25/06/07/123250&from=rss)
 * [2025-06-08, 03:29:00](https://soylentnews.org/article.pl?sid=25/06/07/1155252&from=rss) - [Damage-Sensing and Self-Healing Artificial Muscles Heralded as Huge Step Forward in Robotics](https://soylentnews.org/article.pl?sid=25/06/07/1155252&from=rss)
 * [2025-06-07, 22:42:00](https://soylentnews.org/article.pl?sid=25/06/06/1411252&from=rss) - [Windows Users! Keep the Machine You've Got and Switch to Linux and Plasma](https://soylentnews.org/article.pl?sid=25/06/06/1411252&from=rss)
 * [2025-06-07, 18:02:00](https://soylentnews.org/article.pl?sid=25/06/06/0553236&from=rss) - [Mathematical Model Helps European Regions Set Suitable Targets to Close Gender Gaps](https://soylentnews.org/article.pl?sid=25/06/06/0553236&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-30, 15:25:00](https://soylentnews.org/article.pl?sid=25/05/29/0634252&from=rss) - [Bed Bugs Are Most Likely the First Human Pest, New Research Shows](https://soylentnews.org/article.pl?sid=25/05/29/0634252&from=rss)
 * [2025-05-30, 10:41:00](https://soylentnews.org/article.pl?sid=25/05/29/0338204&from=rss) - [5 Ways to Stop AI Cheating](https://soylentnews.org/article.pl?sid=25/05/29/0338204&from=rss)
 * [2025-05-30, 05:56:00](https://soylentnews.org/article.pl?sid=25/05/29/0334246&from=rss) - [Lenovo Caught Out by Trump's on-Again Off-Again Tariffs](https://soylentnews.org/article.pl?sid=25/05/29/0334246&from=rss)
-* [2025-05-30, 01:12:00](https://soylentnews.org/article.pl?sid=25/05/29/0327229&from=rss) - [How to Stop and Disable Unwanted Services From Linux System](https://soylentnews.org/article.pl?sid=25/05/29/0327229&from=rss)
 
 ## [Archives](archives/index.md)
 
