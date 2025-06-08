@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-08, 22:01:00](https://soylentnews.org/article.pl?sid=25/06/07/1357214&from=rss) - [Crypto Kidnapping Organiser Arrested in Morocco](https://soylentnews.org/article.pl?sid=25/06/07/1357214&from=rss)
 * [2025-06-08, 17:16:00](https://soylentnews.org/article.pl?sid=25/06/07/1218218&from=rss) - [Volvo is Introducing the First Multi-Adaptive Seatbelt Technology on the EX60 EV](https://soylentnews.org/article.pl?sid=25/06/07/1218218&from=rss)
 * [2025-06-08, 12:28:00](https://soylentnews.org/article.pl?sid=25/06/07/1211222&from=rss) - [Endangered Classic Mac Plastic Color Returns as 3D-Printer Filament](https://soylentnews.org/article.pl?sid=25/06/07/1211222&from=rss)
 * [2025-06-08, 08:12:00](https://soylentnews.org/article.pl?sid=25/06/07/123250&from=rss) - [UK Govt Study: Copilot AI Saved Workers 26 Minutes a Day](https://soylentnews.org/article.pl?sid=25/06/07/123250&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&from=rss)
 * [2025-05-31, 00:49:00](https://soylentnews.org/article.pl?sid=25/05/30/0618221&from=rss) - [Stack Overflow's Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&from=rss)
 * [2025-05-30, 20:07:00](https://soylentnews.org/article.pl?sid=25/05/29/0642240&from=rss) - [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&from=rss)
-* [2025-05-30, 15:25:00](https://soylentnews.org/article.pl?sid=25/05/29/0634252&from=rss) - [Bed Bugs Are Most Likely the First Human Pest, New Research Shows](https://soylentnews.org/article.pl?sid=25/05/29/0634252&from=rss)
 
 ## [Archives](archives/index.md)
 
