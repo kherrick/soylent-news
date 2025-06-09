@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-09, 21:45:00](https://soylentnews.org/article.pl?sid=25/06/08/1410212&from=rss) - [New Technologies Help Wood-Burning Stoves Burn More Efficiently, Produce Less Smoke](https://soylentnews.org/article.pl?sid=25/06/08/1410212&from=rss)
 * [2025-06-09, 16:58:00](https://soylentnews.org/article.pl?sid=25/06/08/142216&from=rss) - [Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74](https://soylentnews.org/article.pl?sid=25/06/08/142216&from=rss)
 * [2025-06-09, 12:11:00](https://soylentnews.org/article.pl?sid=25/06/08/0319228&from=rss) - [University Of Michigan Achieves First Human Brain Recording With Wireless Implant](https://soylentnews.org/article.pl?sid=25/06/08/0319228&from=rss)
 * [2025-06-09, 07:27:00](https://soylentnews.org/article.pl?sid=25/06/08/0311242&from=rss) - [Scientists Find New Markers To Identify Species From Fragments Of Fossilized Bone](https://soylentnews.org/article.pl?sid=25/06/08/0311242&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-01, 05:18:00](https://soylentnews.org/article.pl?sid=25/05/30/1851210&from=rss) - [Gallery Showcases The Dustiest, Grimiest PCs In Germany - 400 Images Of Fascinating Horror](https://soylentnews.org/article.pl?sid=25/05/30/1851210&from=rss)
 * [2025-06-01, 00:33:00](https://soylentnews.org/article.pl?sid=25/05/30/1846202&from=rss) - [China Hygon And Sugon Merge To Form Vertically Integrated Supercomputing Giant Against US Sanctions](https://soylentnews.org/article.pl?sid=25/05/30/1846202&from=rss)
 * [2025-05-31, 19:47:00](https://soylentnews.org/article.pl?sid=25/05/30/190238&from=rss) - [Overlooked Cells Might Explain The Human Brain’s Huge Storage Capacity](https://soylentnews.org/article.pl?sid=25/05/30/190238&from=rss)
-* [2025-05-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/05/30/1544203&from=rss) - [German Court Jails Volkswagen Execs Over Dieselgate Scandal](https://soylentnews.org/article.pl?sid=25/05/30/1544203&from=rss)
 
 ## [Archives](archives/index.md)
 
