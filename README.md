@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-09, 07:27:00](https://soylentnews.org/article.pl?sid=25/06/08/0311242&from=rss) - [Scientists Find New Markers To Identify Species From Fragments Of Fossilized Bone](https://soylentnews.org/article.pl?sid=25/06/08/0311242&from=rss)
 * [2025-06-09, 02:46:00](https://soylentnews.org/article.pl?sid=25/06/08/031256&from=rss) - [Are Dead Sea Scrolls Older Than We Thought?](https://soylentnews.org/article.pl?sid=25/06/08/031256&from=rss)
 * [2025-06-08, 22:01:00](https://soylentnews.org/article.pl?sid=25/06/07/1357214&from=rss) - [Crypto Kidnapping Organiser Arrested in Morocco](https://soylentnews.org/article.pl?sid=25/06/07/1357214&from=rss)
 * [2025-06-08, 17:16:00](https://soylentnews.org/article.pl?sid=25/06/07/1218218&from=rss) - [Volvo is Introducing the First Multi-Adaptive Seatbelt Technology on the EX60 EV](https://soylentnews.org/article.pl?sid=25/06/07/1218218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-05-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/05/30/1544203&from=rss) - [German Court Jails Volkswagen Execs Over Dieselgate Scandal](https://soylentnews.org/article.pl?sid=25/05/30/1544203&from=rss)
 * [2025-05-31, 10:19:00](https://soylentnews.org/article.pl?sid=25/05/30/0621214&from=rss) - [Microsoft Dumps AI Into Notepad as 'Copilot All the Things' Mania Takes Hold](https://soylentnews.org/article.pl?sid=25/05/30/0621214&from=rss)
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&from=rss)
-* [2025-05-31, 00:49:00](https://soylentnews.org/article.pl?sid=25/05/30/0618221&from=rss) - [Stack Overflow's Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&from=rss)
 
 ## [Archives](archives/index.md)
 
