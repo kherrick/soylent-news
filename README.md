@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-10, 07:19:00](https://soylentnews.org/article.pl?sid=25/06/09/1152234&from=rss) - [FDA Rushed Out Agency-Wide AI Tool](https://soylentnews.org/article.pl?sid=25/06/09/1152234&from=rss)
 * [2025-06-10, 02:31:00](https://soylentnews.org/article.pl?sid=25/06/08/1422259&from=rss) - [American Science & Surplus is Fighting for its Life and Here's Why You Should Care](https://soylentnews.org/article.pl?sid=25/06/08/1422259&from=rss)
 * [2025-06-09, 21:45:00](https://soylentnews.org/article.pl?sid=25/06/08/1410212&from=rss) - [New Technologies Help Wood-Burning Stoves Burn More Efficiently, Produce Less Smoke](https://soylentnews.org/article.pl?sid=25/06/08/1410212&from=rss)
 * [2025-06-09, 16:58:00](https://soylentnews.org/article.pl?sid=25/06/08/142216&from=rss) - [Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74](https://soylentnews.org/article.pl?sid=25/06/08/142216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-01, 14:48:00](https://soylentnews.org/article.pl?sid=25/05/30/198205&from=rss) - [Victoria's Secret Website Laid Bare For Three Days After 'Security Incident'](https://soylentnews.org/article.pl?sid=25/05/30/198205&from=rss)
 * [2025-06-01, 10:03:00](https://soylentnews.org/article.pl?sid=25/05/31/1552206&from=rss) - [Trump Proposes Huge Reduction in National Science Foundation Funding](https://soylentnews.org/article.pl?sid=25/05/31/1552206&from=rss)
 * [2025-06-01, 05:18:00](https://soylentnews.org/article.pl?sid=25/05/30/1851210&from=rss) - [Gallery Showcases The Dustiest, Grimiest PCs In Germany - 400 Images Of Fascinating Horror](https://soylentnews.org/article.pl?sid=25/05/30/1851210&from=rss)
-* [2025-06-01, 00:33:00](https://soylentnews.org/article.pl?sid=25/05/30/1846202&from=rss) - [China Hygon And Sugon Merge To Form Vertically Integrated Supercomputing Giant Against US Sanctions](https://soylentnews.org/article.pl?sid=25/05/30/1846202&from=rss)
 
 ## [Archives](archives/index.md)
 
