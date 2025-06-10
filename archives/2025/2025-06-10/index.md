@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 21:32:00](https://soylentnews.org/article.pl?sid=25/06/09/1724212&from=rss) - [The Linux Mint Team is Testing a New Application for Providing Fingerprint Authentication](https://soylentnews.org/article.pl?sid=25/06/09/1724212&from=rss)
 * [2025-06-10, 16:47:00](https://soylentnews.org/article.pl?sid=25/06/09/1718210&from=rss) - [Nice Ocean Conference You Have There](https://soylentnews.org/article.pl?sid=25/06/09/1718210&from=rss)
 * [2025-06-10, 12:07:00](https://soylentnews.org/article.pl?sid=25/06/09/1710253&from=rss) - [U.S. Immigration Authorities Are Adding Children's DNA to a Criminal Database](https://soylentnews.org/article.pl?sid=25/06/09/1710253&from=rss)
 * [2025-06-10, 07:19:00](https://soylentnews.org/article.pl?sid=25/06/09/1152234&from=rss) - [FDA Rushed Out Agency-Wide AI Tool](https://soylentnews.org/article.pl?sid=25/06/09/1152234&from=rss)
