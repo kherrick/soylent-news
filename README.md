@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-11, 02:14:00](https://soylentnews.org/article.pl?sid=25/06/10/1727213&from=rss) - [Ubuntu Dropping GNOME's X11 Session](https://soylentnews.org/article.pl?sid=25/06/10/1727213&from=rss)
 * [2025-06-10, 21:32:00](https://soylentnews.org/article.pl?sid=25/06/09/1724212&from=rss) - [The Linux Mint Team is Testing a New Application for Providing Fingerprint Authentication](https://soylentnews.org/article.pl?sid=25/06/09/1724212&from=rss)
 * [2025-06-10, 16:47:00](https://soylentnews.org/article.pl?sid=25/06/09/1718210&from=rss) - [Nice Ocean Conference You Have There](https://soylentnews.org/article.pl?sid=25/06/09/1718210&from=rss)
 * [2025-06-10, 12:07:00](https://soylentnews.org/article.pl?sid=25/06/09/1710253&from=rss) - [U.S. Immigration Authorities Are Adding Children's DNA to a Criminal Database](https://soylentnews.org/article.pl?sid=25/06/09/1710253&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-02, 05:00:00](https://soylentnews.org/article.pl?sid=25/06/01/151242&from=rss) - [Malware Reverse Engineering - Unraveling the Secrets of Encryption in Malware](https://soylentnews.org/article.pl?sid=25/06/01/151242&from=rss)
 * [2025-06-02, 00:16:00](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss) - [New JWST Observations of 'Trans-Neptunian Objects' Could Help Reveal Our Solar System's Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss)
 * [2025-06-01, 21:00:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/01/2038209&from=rss) - [NOAA Issues a 'Severe' Solar Storm Alert, Auroras Expected at Lower Latitudes](https://soylentnews.org/breakingnews/article.pl?sid=25/06/01/2038209&from=rss)
-* [2025-06-01, 19:34:00](https://soylentnews.org/article.pl?sid=25/05/31/1945211&from=rss) - [Using HDMI EMI for Fast Wireless Data Transfer](https://soylentnews.org/article.pl?sid=25/05/31/1945211&from=rss)
 
 ## [Archives](archives/index.md)
 
