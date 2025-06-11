@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 21:11:00](https://soylentnews.org/article.pl?sid=25/06/11/0136231&from=rss) - [New Way to Track Covertly Android Users](https://soylentnews.org/article.pl?sid=25/06/11/0136231&from=rss)
 * [2025-06-11, 16:26:00](https://soylentnews.org/article.pl?sid=25/06/11/0127250&from=rss) - [OpenAI Slams Court Order to Save All ChatGPT Logs, Including Deleted Chats](https://soylentnews.org/article.pl?sid=25/06/11/0127250&from=rss)
 * [2025-06-11, 11:40:00](https://soylentnews.org/article.pl?sid=25/06/11/0022207&from=rss) - [Hasta La Vista, Google Baby](https://soylentnews.org/article.pl?sid=25/06/11/0022207&from=rss)
 * [2025-06-11, 06:58:00](https://soylentnews.org/article.pl?sid=25/06/10/1731239&from=rss) - [‘We're Definitely on the Back Foot’: U.S. Risks Losing Fusion Energy Race to China, Industry Leaders](https://soylentnews.org/article.pl?sid=25/06/10/1731239&from=rss)
