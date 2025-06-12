@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-06-12](index.md)
+
+* [2025-06-12, 01:56:00](https://soylentnews.org/article.pl?sid=25/06/11/0154240&from=rss) - [The Bethesda Declaration](https://soylentnews.org/article.pl?sid=25/06/11/0154240&from=rss)
