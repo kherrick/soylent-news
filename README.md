@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-12, 11:31:00](https://soylentnews.org/article.pl?sid=25/06/10/2233256&from=rss) - [Dolphin LLM](https://soylentnews.org/article.pl?sid=25/06/10/2233256&from=rss)
 * [2025-06-12, 06:45:00](https://soylentnews.org/article.pl?sid=25/06/11/0156201&from=rss) - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://soylentnews.org/article.pl?sid=25/06/11/0156201&from=rss)
 * [2025-06-12, 01:56:00](https://soylentnews.org/article.pl?sid=25/06/11/0154240&from=rss) - [The Bethesda Declaration](https://soylentnews.org/article.pl?sid=25/06/11/0154240&from=rss)
 * [2025-06-11, 21:11:00](https://soylentnews.org/article.pl?sid=25/06/11/0136231&from=rss) - [New Way to Track Covertly Android Users](https://soylentnews.org/article.pl?sid=25/06/11/0136231&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-03, 13:57:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/03/1339246&from=rss) - [Mount Etna Erupts as Large Plumes Rise From Italian Volcano](https://soylentnews.org/breakingnews/article.pl?sid=25/06/03/1339246&from=rss)
 * [2025-06-03, 09:30:00](https://soylentnews.org/article.pl?sid=25/06/01/1835204&from=rss) - [Mysterious Leaker Outs Conti Ransomware Kingpins](https://soylentnews.org/article.pl?sid=25/06/01/1835204&from=rss)
 * [2025-06-03, 04:42:00](https://soylentnews.org/article.pl?sid=25/06/01/1533234&from=rss) - [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&from=rss)
-* [2025-06-02, 23:54:00](https://soylentnews.org/article.pl?sid=25/06/01/1527223&from=rss) - [Intel Wins Crucial Verdict in Legal Fight Against Patent Troll VLSI](https://soylentnews.org/article.pl?sid=25/06/01/1527223&from=rss)
 
 ## [Archives](archives/index.md)
 
