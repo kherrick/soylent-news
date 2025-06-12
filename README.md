@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-12, 21:01:00](https://soylentnews.org/article.pl?sid=25/06/11/1726256&from=rss) - [ChessGPT \"Wrecked\" by Atari 2600](https://soylentnews.org/article.pl?sid=25/06/11/1726256&from=rss)
 * [2025-06-12, 16:16:00](https://soylentnews.org/article.pl?sid=25/06/11/1627232&from=rss) - [Cyberattack Cripples North America's Largest Grocery Distributor, Threatening Supply Chain](https://soylentnews.org/article.pl?sid=25/06/11/1627232&from=rss)
 * [2025-06-12, 11:31:00](https://soylentnews.org/article.pl?sid=25/06/10/2233256&from=rss) - [Dolphin LLM](https://soylentnews.org/article.pl?sid=25/06/10/2233256&from=rss)
 * [2025-06-12, 06:45:00](https://soylentnews.org/article.pl?sid=25/06/11/0156201&from=rss) - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://soylentnews.org/article.pl?sid=25/06/11/0156201&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-03, 19:02:00](https://soylentnews.org/article.pl?sid=25/06/02/1755220&from=rss) - [The Workers Who Lost Their Jobs To AI](https://soylentnews.org/article.pl?sid=25/06/02/1755220&from=rss)
 * [2025-06-03, 14:17:00](https://soylentnews.org/article.pl?sid=25/06/02/1319210&from=rss) - [China To Ease Rare Earth Export Restrictions To Benefit Domestic And European Semiconductor Firms](https://soylentnews.org/article.pl?sid=25/06/02/1319210&from=rss)
 * [2025-06-03, 13:57:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/03/1339246&from=rss) - [Mount Etna Erupts as Large Plumes Rise From Italian Volcano](https://soylentnews.org/breakingnews/article.pl?sid=25/06/03/1339246&from=rss)
-* [2025-06-03, 09:30:00](https://soylentnews.org/article.pl?sid=25/06/01/1835204&from=rss) - [Mysterious Leaker Outs Conti Ransomware Kingpins](https://soylentnews.org/article.pl?sid=25/06/01/1835204&from=rss)
 
 ## [Archives](archives/index.md)
 
