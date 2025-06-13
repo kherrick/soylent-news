@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-06-13](index.md)
+
+* [2025-06-13, 01:43:00](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss) - [Making Hydrogen With Soda Cans and Seawater](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss)
