@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/06/13/0135229&from=rss) - [Starlink Shut Down on United Regional Jets - Reports of Radio Interference on Embraer E175](https://soylentnews.org/article.pl?sid=25/06/13/0135229&from=rss)
 * [2025-06-13, 11:13:00](https://soylentnews.org/article.pl?sid=25/06/13/0124202&from=rss) - [Google Brute-Force Attack Exposes Phone Numbers in Minutes](https://soylentnews.org/article.pl?sid=25/06/13/0124202&from=rss)
 * [2025-06-13, 06:29:00](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss) - [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss)
 * [2025-06-13, 01:43:00](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss) - [Making Hydrogen With Soda Cans and Seawater](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-04, 14:04:00](https://soylentnews.org/article.pl?sid=25/06/03/1113216&from=rss) - [Model Context Protocol (MCP): What It is and Why It Matters](https://soylentnews.org/article.pl?sid=25/06/03/1113216&from=rss)
 * [2025-06-04, 09:23:00](https://soylentnews.org/article.pl?sid=25/06/03/0455214&from=rss) - [Fire Safety Concerns Spark New Battery Rules on Flights](https://soylentnews.org/article.pl?sid=25/06/03/0455214&from=rss)
 * [2025-06-04, 04:36:00](https://soylentnews.org/article.pl?sid=25/06/03/0447247&from=rss) - [Making Magnesium From Sea Water](https://soylentnews.org/article.pl?sid=25/06/03/0447247&from=rss)
-* [2025-06-03, 23:47:00](https://soylentnews.org/article.pl?sid=25/06/03/0136212&from=rss) - [Texas Right To Repair Bill Passes, Heads To The Governor’s Desk](https://soylentnews.org/article.pl?sid=25/06/03/0136212&from=rss)
 
 ## [Archives](archives/index.md)
 
