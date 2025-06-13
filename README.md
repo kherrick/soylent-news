@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-13, 06:29:00](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss) - [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss)
 * [2025-06-13, 01:43:00](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss) - [Making Hydrogen With Soda Cans and Seawater](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss)
 * [2025-06-12, 21:01:00](https://soylentnews.org/article.pl?sid=25/06/11/1726256&from=rss) - [ChessGPT \"Wrecked\" by Atari 2600](https://soylentnews.org/article.pl?sid=25/06/11/1726256&from=rss)
 * [2025-06-12, 16:16:00](https://soylentnews.org/article.pl?sid=25/06/11/1627232&from=rss) - [Cyberattack Cripples North America's Largest Grocery Distributor, Threatening Supply Chain](https://soylentnews.org/article.pl?sid=25/06/11/1627232&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-04, 04:36:00](https://soylentnews.org/article.pl?sid=25/06/03/0447247&from=rss) - [Making Magnesium From Sea Water](https://soylentnews.org/article.pl?sid=25/06/03/0447247&from=rss)
 * [2025-06-03, 23:47:00](https://soylentnews.org/article.pl?sid=25/06/03/0136212&from=rss) - [Texas Right To Repair Bill Passes, Heads To The Governor’s Desk](https://soylentnews.org/article.pl?sid=25/06/03/0136212&from=rss)
 * [2025-06-03, 19:02:00](https://soylentnews.org/article.pl?sid=25/06/02/1755220&from=rss) - [The Workers Who Lost Their Jobs To AI](https://soylentnews.org/article.pl?sid=25/06/02/1755220&from=rss)
-* [2025-06-03, 14:17:00](https://soylentnews.org/article.pl?sid=25/06/02/1319210&from=rss) - [China To Ease Rare Earth Export Restrictions To Benefit Domestic And European Semiconductor Firms](https://soylentnews.org/article.pl?sid=25/06/02/1319210&from=rss)
 
 ## [Archives](archives/index.md)
 

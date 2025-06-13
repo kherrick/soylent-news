@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 06:29:00](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss) - [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss)
 * [2025-06-13, 01:43:00](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss) - [Making Hydrogen With Soda Cans and Seawater](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss)
