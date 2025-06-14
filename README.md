@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-14, 01:25:00](https://soylentnews.org/article.pl?sid=25/06/13/0146252&from=rss) - [Vital Chipmaking Software Access Restored to China After High-Level Call Between Trump/Xi Jinping](https://soylentnews.org/article.pl?sid=25/06/13/0146252&from=rss)
 * [2025-06-13, 20:41:00](https://soylentnews.org/article.pl?sid=25/06/13/0143245&from=rss) - [The Federal Government in the Age of Artificial Intelligence](https://soylentnews.org/article.pl?sid=25/06/13/0143245&from=rss)
 * [2025-06-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/06/13/0135229&from=rss) - [Starlink Shut Down on United Regional Jets - Reports of Radio Interference on Embraer E175](https://soylentnews.org/article.pl?sid=25/06/13/0135229&from=rss)
 * [2025-06-13, 11:13:00](https://soylentnews.org/article.pl?sid=25/06/13/0124202&from=rss) - [Google Brute-Force Attack Exposes Phone Numbers in Minutes](https://soylentnews.org/article.pl?sid=25/06/13/0124202&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-04, 23:30:00](https://soylentnews.org/article.pl?sid=25/06/04/0110238&from=rss) - [In North Korea, Your Phone Secretly Takes Screenshots Every 5 Minutes for Government Surveillance](https://soylentnews.org/article.pl?sid=25/06/04/0110238&from=rss)
 * [2025-06-04, 18:45:00](https://soylentnews.org/article.pl?sid=25/06/03/1645240&from=rss) - [Trust, Attitudes and Use of Artificial Intelligence 2025](https://soylentnews.org/article.pl?sid=25/06/03/1645240&from=rss)
 * [2025-06-04, 14:04:00](https://soylentnews.org/article.pl?sid=25/06/03/1113216&from=rss) - [Model Context Protocol (MCP): What It is and Why It Matters](https://soylentnews.org/article.pl?sid=25/06/03/1113216&from=rss)
-* [2025-06-04, 09:23:00](https://soylentnews.org/article.pl?sid=25/06/03/0455214&from=rss) - [Fire Safety Concerns Spark New Battery Rules on Flights](https://soylentnews.org/article.pl?sid=25/06/03/0455214&from=rss)
 
 ## [Archives](archives/index.md)
 
