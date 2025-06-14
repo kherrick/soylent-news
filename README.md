@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-14, 15:42:00](https://soylentnews.org/article.pl?sid=25/06/13/1243246&from=rss) - [Toyota Math: 9 Million EVs Are Just as Polluting as 27 Million Hybrids](https://soylentnews.org/article.pl?sid=25/06/13/1243246&from=rss)
 * [2025-06-14, 10:57:00](https://soylentnews.org/article.pl?sid=25/06/13/0159230&from=rss) - [Climate Change Is Coming For Your Cheese](https://soylentnews.org/article.pl?sid=25/06/13/0159230&from=rss)
 * [2025-06-14, 06:12:00](https://soylentnews.org/article.pl?sid=25/06/13/0152245&from=rss) - [Mistral Releases a Vibe Coding Client, Mistral Code](https://soylentnews.org/article.pl?sid=25/06/13/0152245&from=rss)
 * [2025-06-14, 01:25:00](https://soylentnews.org/article.pl?sid=25/06/13/0146252&from=rss) - [Vital Chipmaking Software Access Restored to China After High-Level Call Between Trump/Xi Jinping](https://soylentnews.org/article.pl?sid=25/06/13/0146252&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-05, 13:42:00](https://soylentnews.org/article.pl?sid=25/06/04/156228&from=rss) - [German Roads Thrown Into Chaos After Google Maps Mislabels Highways As Closed](https://soylentnews.org/article.pl?sid=25/06/04/156228&from=rss)
 * [2025-06-05, 09:00:00](https://soylentnews.org/article.pl?sid=25/06/04/0129202&from=rss) - [A New Sodium Metal Fuel Cell Could Help Clean Up Transportation](https://soylentnews.org/article.pl?sid=25/06/04/0129202&from=rss)
 * [2025-06-05, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/04/0117248&from=rss) - [Apple Must Pay 500M Euro Digital Markets Act Fine by July 26](https://soylentnews.org/article.pl?sid=25/06/04/0117248&from=rss)
-* [2025-06-04, 23:30:00](https://soylentnews.org/article.pl?sid=25/06/04/0110238&from=rss) - [In North Korea, Your Phone Secretly Takes Screenshots Every 5 Minutes for Government Surveillance](https://soylentnews.org/article.pl?sid=25/06/04/0110238&from=rss)
 
 ## [Archives](archives/index.md)
 
