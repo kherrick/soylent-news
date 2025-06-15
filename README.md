@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-15, 10:41:00](https://soylentnews.org/article.pl?sid=25/06/14/1623235&from=rss) - [RIP: Bill Atkinson, Co-Creator Of Apple Lisa And Mac](https://soylentnews.org/article.pl?sid=25/06/14/1623235&from=rss)
 * [2025-06-15, 05:57:00](https://soylentnews.org/article.pl?sid=25/06/14/1549226&from=rss) - [Navy Backs Right to Repair After $13B Carrier Goes Half-Fed](https://soylentnews.org/article.pl?sid=25/06/14/1549226&from=rss)
 * [2025-06-15, 01:13:00](https://soylentnews.org/article.pl?sid=25/06/14/1546217&from=rss) - [Stay Hungry,  Stay Foolish ... 20 Years on](https://soylentnews.org/article.pl?sid=25/06/14/1546217&from=rss)
 * [2025-06-14, 20:27:00](https://soylentnews.org/article.pl?sid=25/06/14/1315217&from=rss) - [Jupiter Takes Europe's HPC Crown in 793Pf Top500 Run](https://soylentnews.org/article.pl?sid=25/06/14/1315217&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-06, 08:48:00](https://soylentnews.org/article.pl?sid=25/06/05/1051216&from=rss) - [The Far Side of the Moon May Host the World's Most Sensitive Telescope, Shielded From Interference](https://soylentnews.org/article.pl?sid=25/06/05/1051216&from=rss)
 * [2025-06-06, 03:59:00](https://soylentnews.org/article.pl?sid=25/06/04/2236200&from=rss) - [Spacex's Starship And Super Heavy Booster Crash](https://soylentnews.org/article.pl?sid=25/06/04/2236200&from=rss)
 * [2025-06-05, 23:14:00](https://soylentnews.org/article.pl?sid=25/06/04/2225230&from=rss) - [TSMC Is Once Again In Talks With US Officials Over A Possible Gigafab In The UAE](https://soylentnews.org/article.pl?sid=25/06/04/2225230&from=rss)
-* [2025-06-05, 18:29:00](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&from=rss) - [The Trump Administration's Plan for National Citizen Database is a Massive Threat to Civil Liberties](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&from=rss)
 
 ## [Archives](archives/index.md)
 
