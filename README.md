@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-16, 00:58:00](https://soylentnews.org/article.pl?sid=25/06/15/1350208&from=rss) - [Massive Privacy Concern: Over 40,000 Security Cameras Are Streaming Unsecured Footage Worldwide](https://soylentnews.org/article.pl?sid=25/06/15/1350208&from=rss)
 * [2025-06-15, 20:12:00](https://soylentnews.org/article.pl?sid=25/06/15/0153218&from=rss) - [Nematode Tower Power](https://soylentnews.org/article.pl?sid=25/06/15/0153218&from=rss)
 * [2025-06-15, 15:26:00](https://soylentnews.org/article.pl?sid=25/06/15/0338222&from=rss) - [\"Impossible\" Particle That Hit Earth May Have Been Dark Matter](https://soylentnews.org/article.pl?sid=25/06/15/0338222&from=rss)
 * [2025-06-15, 10:41:00](https://soylentnews.org/article.pl?sid=25/06/14/1623235&from=rss) - [RIP: Bill Atkinson, Co-Creator Of Apple Lisa And Mac](https://soylentnews.org/article.pl?sid=25/06/14/1623235&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-06, 18:17:00](https://soylentnews.org/article.pl?sid=25/06/05/1218249&from=rss) - [European Commission: Make Europe Great Again for Startups](https://soylentnews.org/article.pl?sid=25/06/05/1218249&from=rss)
 * [2025-06-06, 16:03:00](https://soylentnews.org/article.pl?sid=25/06/06/1417217&from=rss) - [Japan's Resilience Moon Lander Has Crashed Into The Lunar Surface](https://soylentnews.org/article.pl?sid=25/06/06/1417217&from=rss)
 * [2025-06-06, 13:32:00](https://soylentnews.org/article.pl?sid=25/06/05/1054224&from=rss) - [TSMC's 2Nm Wafer Prices Hit $30,000 As SRAM Yields Reportedly Hit 90%](https://soylentnews.org/article.pl?sid=25/06/05/1054224&from=rss)
-* [2025-06-06, 08:48:00](https://soylentnews.org/article.pl?sid=25/06/05/1051216&from=rss) - [The Far Side of the Moon May Host the World's Most Sensitive Telescope, Shielded From Interference](https://soylentnews.org/article.pl?sid=25/06/05/1051216&from=rss)
 
 ## [Archives](archives/index.md)
 
