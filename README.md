@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/06/16/0057231&from=rss) - [Washington Post in Talks With Substack About Using its Writers](https://soylentnews.org/article.pl?sid=25/06/16/0057231&from=rss)
 * [2025-06-16, 15:11:00](https://soylentnews.org/article.pl?sid=25/06/16/0052252&from=rss) - [Huawei CEO Says Washington Has Exaggerated its Achievements, Saying the Company Isn't That Powerful](https://soylentnews.org/article.pl?sid=25/06/16/0052252&from=rss)
 * [2025-06-16, 10:25:00](https://soylentnews.org/article.pl?sid=25/06/15/145200&from=rss) - [Buried Under 2 Kilometers of Antarctic Ice, Scientists Find a 34-Million-Year-Old Lost World](https://soylentnews.org/article.pl?sid=25/06/15/145200&from=rss)
 * [2025-06-16, 05:41:00](https://soylentnews.org/article.pl?sid=25/06/15/1353252&from=rss) - [Photonic Processor Could Streamline 6G Wireless Signal Processing](https://soylentnews.org/article.pl?sid=25/06/15/1353252&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-07, 13:17:00](https://soylentnews.org/article.pl?sid=25/06/06/1139229&from=rss) - [Reality Check: Microsoft Azure CTO Pushes Back on AI Vibe Coding Hype, Sees ‘Upper Limit’](https://soylentnews.org/article.pl?sid=25/06/06/1139229&from=rss)
 * [2025-06-07, 08:30:00](https://soylentnews.org/article.pl?sid=25/06/06/111254&from=rss) - [Klarna CEO Says Company Will Use Humans to Offer VIP Customer Service](https://soylentnews.org/article.pl?sid=25/06/06/111254&from=rss)
 * [2025-06-07, 03:45:00](https://soylentnews.org/article.pl?sid=25/06/06/1057206&from=rss) - [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&from=rss)
-* [2025-06-06, 23:02:00](https://soylentnews.org/article.pl?sid=25/06/05/2347208&from=rss) - [X Changes its Terms to Bar Training of AI Models Using its Content](https://soylentnews.org/article.pl?sid=25/06/05/2347208&from=rss)
 
 ## [Archives](archives/index.md)
 
