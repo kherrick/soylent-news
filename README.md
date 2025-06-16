@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-16, 10:25:00](https://soylentnews.org/article.pl?sid=25/06/15/145200&from=rss) - [Buried Under 2 Kilometers of Antarctic Ice, Scientists Find a 34-Million-Year-Old Lost World](https://soylentnews.org/article.pl?sid=25/06/15/145200&from=rss)
 * [2025-06-16, 05:41:00](https://soylentnews.org/article.pl?sid=25/06/15/1353252&from=rss) - [Photonic Processor Could Streamline 6G Wireless Signal Processing](https://soylentnews.org/article.pl?sid=25/06/15/1353252&from=rss)
 * [2025-06-16, 00:58:00](https://soylentnews.org/article.pl?sid=25/06/15/1350208&from=rss) - [Massive Privacy Concern: Over 40,000 Security Cameras Are Streaming Unsecured Footage Worldwide](https://soylentnews.org/article.pl?sid=25/06/15/1350208&from=rss)
 * [2025-06-15, 20:12:00](https://soylentnews.org/article.pl?sid=25/06/15/0153218&from=rss) - [Nematode Tower Power](https://soylentnews.org/article.pl?sid=25/06/15/0153218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-07, 03:45:00](https://soylentnews.org/article.pl?sid=25/06/06/1057206&from=rss) - [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&from=rss)
 * [2025-06-06, 23:02:00](https://soylentnews.org/article.pl?sid=25/06/05/2347208&from=rss) - [X Changes its Terms to Bar Training of AI Models Using its Content](https://soylentnews.org/article.pl?sid=25/06/05/2347208&from=rss)
 * [2025-06-06, 18:17:00](https://soylentnews.org/article.pl?sid=25/06/05/1218249&from=rss) - [European Commission: Make Europe Great Again for Startups](https://soylentnews.org/article.pl?sid=25/06/05/1218249&from=rss)
-* [2025-06-06, 16:03:00](https://soylentnews.org/article.pl?sid=25/06/06/1417217&from=rss) - [Japan's Resilience Moon Lander Has Crashed Into The Lunar Surface](https://soylentnews.org/article.pl?sid=25/06/06/1417217&from=rss)
 
 ## [Archives](archives/index.md)
 
