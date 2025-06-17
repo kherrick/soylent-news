@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-17, 15:05:00](https://soylentnews.org/article.pl?sid=25/06/16/0136200&from=rss) - [4Chan Under Investigation by Uk Ofcom Over Online Safety Concerns](https://soylentnews.org/article.pl?sid=25/06/16/0136200&from=rss)
+* [2025-06-17, 14:52:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/17/1439252&from=rss) - [This Is Not A Drill](https://soylentnews.org/breakingnews/article.pl?sid=25/06/17/1439252&from=rss)
 * [2025-06-17, 10:18:00](https://soylentnews.org/article.pl?sid=25/06/16/0131240&from=rss) - [Behold the First Images of the Sun’s South Pole](https://soylentnews.org/article.pl?sid=25/06/16/0131240&from=rss)
 * [2025-06-17, 05:30:00](https://soylentnews.org/article.pl?sid=25/06/16/0115212&from=rss) - [Can We Stop Big Tech From Controlling the Internet With AI Agents?](https://soylentnews.org/article.pl?sid=25/06/16/0115212&from=rss)
 * [2025-06-17, 00:43:00](https://soylentnews.org/article.pl?sid=25/06/16/016221&from=rss) - [TSMC Slows Down Global Plans Due to Soft Demand, but Accelerates Arizona Fab Plans by Six Months](https://soylentnews.org/article.pl?sid=25/06/16/016221&from=rss)
@@ -48,8 +50,6 @@
 * [2025-06-08, 12:28:00](https://soylentnews.org/article.pl?sid=25/06/07/1211222&from=rss) - [Endangered Classic Mac Plastic Color Returns as 3D-Printer Filament](https://soylentnews.org/article.pl?sid=25/06/07/1211222&from=rss)
 * [2025-06-08, 08:12:00](https://soylentnews.org/article.pl?sid=25/06/07/123250&from=rss) - [UK Govt Study: Copilot AI Saved Workers 26 Minutes a Day](https://soylentnews.org/article.pl?sid=25/06/07/123250&from=rss)
 * [2025-06-08, 03:29:00](https://soylentnews.org/article.pl?sid=25/06/07/1155252&from=rss) - [Damage-Sensing and Self-Healing Artificial Muscles Heralded as Huge Step Forward in Robotics](https://soylentnews.org/article.pl?sid=25/06/07/1155252&from=rss)
-* [2025-06-07, 22:42:00](https://soylentnews.org/article.pl?sid=25/06/06/1411252&from=rss) - [Windows Users! Keep the Machine You've Got and Switch to Linux and Plasma](https://soylentnews.org/article.pl?sid=25/06/06/1411252&from=rss)
-* [2025-06-07, 18:02:00](https://soylentnews.org/article.pl?sid=25/06/06/0553236&from=rss) - [Mathematical Model Helps European Regions Set Suitable Targets to Close Gender Gaps](https://soylentnews.org/article.pl?sid=25/06/06/0553236&from=rss)
 
 ## [Archives](archives/index.md)
 
