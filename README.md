@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-17, 19:45:00](https://soylentnews.org/article.pl?sid=25/06/17/0358247&from=rss) - [You Don't Have to Almost Die to be Happy at Work, but It Helps](https://soylentnews.org/article.pl?sid=25/06/17/0358247&from=rss)
 * [2025-06-17, 15:05:00](https://soylentnews.org/article.pl?sid=25/06/16/0136200&from=rss) - [4Chan Under Investigation by Uk Ofcom Over Online Safety Concerns](https://soylentnews.org/article.pl?sid=25/06/16/0136200&from=rss)
 * [2025-06-17, 14:52:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/17/1439252&from=rss) - [This Is Not A Drill](https://soylentnews.org/breakingnews/article.pl?sid=25/06/17/1439252&from=rss)
 * [2025-06-17, 10:18:00](https://soylentnews.org/article.pl?sid=25/06/16/0131240&from=rss) - [Behold the First Images of the Sun’s South Pole](https://soylentnews.org/article.pl?sid=25/06/16/0131240&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-08, 17:16:00](https://soylentnews.org/article.pl?sid=25/06/07/1218218&from=rss) - [Volvo is Introducing the First Multi-Adaptive Seatbelt Technology on the EX60 EV](https://soylentnews.org/article.pl?sid=25/06/07/1218218&from=rss)
 * [2025-06-08, 12:28:00](https://soylentnews.org/article.pl?sid=25/06/07/1211222&from=rss) - [Endangered Classic Mac Plastic Color Returns as 3D-Printer Filament](https://soylentnews.org/article.pl?sid=25/06/07/1211222&from=rss)
 * [2025-06-08, 08:12:00](https://soylentnews.org/article.pl?sid=25/06/07/123250&from=rss) - [UK Govt Study: Copilot AI Saved Workers 26 Minutes a Day](https://soylentnews.org/article.pl?sid=25/06/07/123250&from=rss)
-* [2025-06-08, 03:29:00](https://soylentnews.org/article.pl?sid=25/06/07/1155252&from=rss) - [Damage-Sensing and Self-Healing Artificial Muscles Heralded as Huge Step Forward in Robotics](https://soylentnews.org/article.pl?sid=25/06/07/1155252&from=rss)
 
 ## [Archives](archives/index.md)
 
