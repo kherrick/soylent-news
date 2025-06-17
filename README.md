@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-17, 10:18:00](https://soylentnews.org/article.pl?sid=25/06/16/0131240&from=rss) - [Behold the First Images of the Sun’s South Pole](https://soylentnews.org/article.pl?sid=25/06/16/0131240&from=rss)
 * [2025-06-17, 05:30:00](https://soylentnews.org/article.pl?sid=25/06/16/0115212&from=rss) - [Can We Stop Big Tech From Controlling the Internet With AI Agents?](https://soylentnews.org/article.pl?sid=25/06/16/0115212&from=rss)
 * [2025-06-17, 00:43:00](https://soylentnews.org/article.pl?sid=25/06/16/016221&from=rss) - [TSMC Slows Down Global Plans Due to Soft Demand, but Accelerates Arizona Fab Plans by Six Months](https://soylentnews.org/article.pl?sid=25/06/16/016221&from=rss)
 * [2025-06-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/06/16/0057231&from=rss) - [Washington Post in Talks With Substack About Using its Writers](https://soylentnews.org/article.pl?sid=25/06/16/0057231&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-08, 03:29:00](https://soylentnews.org/article.pl?sid=25/06/07/1155252&from=rss) - [Damage-Sensing and Self-Healing Artificial Muscles Heralded as Huge Step Forward in Robotics](https://soylentnews.org/article.pl?sid=25/06/07/1155252&from=rss)
 * [2025-06-07, 22:42:00](https://soylentnews.org/article.pl?sid=25/06/06/1411252&from=rss) - [Windows Users! Keep the Machine You've Got and Switch to Linux and Plasma](https://soylentnews.org/article.pl?sid=25/06/06/1411252&from=rss)
 * [2025-06-07, 18:02:00](https://soylentnews.org/article.pl?sid=25/06/06/0553236&from=rss) - [Mathematical Model Helps European Regions Set Suitable Targets to Close Gender Gaps](https://soylentnews.org/article.pl?sid=25/06/06/0553236&from=rss)
-* [2025-06-07, 13:17:00](https://soylentnews.org/article.pl?sid=25/06/06/1139229&from=rss) - [Reality Check: Microsoft Azure CTO Pushes Back on AI Vibe Coding Hype, Sees ‘Upper Limit’](https://soylentnews.org/article.pl?sid=25/06/06/1139229&from=rss)
 
 ## [Archives](archives/index.md)
 
