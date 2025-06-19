@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2025-06-19, 05:08:00](https://soylentnews.org/politics/article.pl?sid=25/06/18/0130206&from=rss) - [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://soylentnews.org/politics/article.pl?sid=25/06/18/0130206&from=rss)
+* [2025-06-19, 05:08:00](https://soylentnews.org/article.pl?sid=25/06/18/0130206&from=rss) - [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://soylentnews.org/article.pl?sid=25/06/18/0130206&from=rss)
 * [2025-06-19, 00:22:00](https://soylentnews.org/article.pl?sid=25/06/18/0123206&from=rss) - [Honda Shows Low Speed, Narrow BEV for City Delivery](https://soylentnews.org/article.pl?sid=25/06/18/0123206&from=rss)
 * [2025-06-18, 19:38:00](https://soylentnews.org/article.pl?sid=25/06/18/0120221&from=rss) - [Trump's Cuts to NASA and the National Science Foundation Will Have Huge Consequences](https://soylentnews.org/article.pl?sid=25/06/18/0120221&from=rss)
 * [2025-06-18, 14:50:00](https://soylentnews.org/article.pl?sid=25/06/18/0115237&from=rss) - [Google's Advanced Protection Arrives on Android: Should You Use It?](https://soylentnews.org/article.pl?sid=25/06/18/0115237&from=rss)
