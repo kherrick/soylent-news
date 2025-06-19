@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-19, 00:22:00](https://soylentnews.org/article.pl?sid=25/06/18/0123206&from=rss) - [Honda Shows Low Speed, Narrow BEV for City Delivery](https://soylentnews.org/article.pl?sid=25/06/18/0123206&from=rss)
 * [2025-06-18, 19:38:00](https://soylentnews.org/article.pl?sid=25/06/18/0120221&from=rss) - [Trump's Cuts to NASA and the National Science Foundation Will Have Huge Consequences](https://soylentnews.org/article.pl?sid=25/06/18/0120221&from=rss)
 * [2025-06-18, 14:50:00](https://soylentnews.org/article.pl?sid=25/06/18/0115237&from=rss) - [Google's Advanced Protection Arrives on Android: Should You Use It?](https://soylentnews.org/article.pl?sid=25/06/18/0115237&from=rss)
 * [2025-06-18, 10:04:00](https://soylentnews.org/article.pl?sid=25/06/17/0655244&from=rss) - [The Effect of Physical Fitness on Mortality is Overestimated](https://soylentnews.org/article.pl?sid=25/06/17/0655244&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-09, 21:45:00](https://soylentnews.org/article.pl?sid=25/06/08/1410212&from=rss) - [New Technologies Help Wood-Burning Stoves Burn More Efficiently, Produce Less Smoke](https://soylentnews.org/article.pl?sid=25/06/08/1410212&from=rss)
 * [2025-06-09, 16:58:00](https://soylentnews.org/article.pl?sid=25/06/08/142216&from=rss) - [Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74](https://soylentnews.org/article.pl?sid=25/06/08/142216&from=rss)
 * [2025-06-09, 12:11:00](https://soylentnews.org/article.pl?sid=25/06/08/0319228&from=rss) - [University Of Michigan Achieves First Human Brain Recording With Wireless Implant](https://soylentnews.org/article.pl?sid=25/06/08/0319228&from=rss)
-* [2025-06-09, 07:27:00](https://soylentnews.org/article.pl?sid=25/06/08/0311242&from=rss) - [Scientists Find New Markers To Identify Species From Fragments Of Fossilized Bone](https://soylentnews.org/article.pl?sid=25/06/08/0311242&from=rss)
 
 ## [Archives](archives/index.md)
 
