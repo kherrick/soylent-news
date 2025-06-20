@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-20, 09:36:00](https://soylentnews.org/article.pl?sid=25/06/19/0919227&from=rss) - [Breakthrough Alzheimer's Drugs Too Pricey for UK's National Health Service](https://soylentnews.org/article.pl?sid=25/06/19/0919227&from=rss)
 * [2025-06-20, 04:55:00](https://soylentnews.org/article.pl?sid=25/06/18/1523244&from=rss) - [‘Net Zero’ Is Collapsing in U.S. States](https://soylentnews.org/article.pl?sid=25/06/18/1523244&from=rss)
 * [2025-06-20, 00:13:00](https://soylentnews.org/article.pl?sid=25/06/18/1445231&from=rss) - [Fermilab G-2 Collaboration Publishes Final Result](https://soylentnews.org/article.pl?sid=25/06/18/1445231&from=rss)
 * [2025-06-19, 19:23:00](https://soylentnews.org/article.pl?sid=25/06/18/1420200&from=rss) - [Welcome to the ‘Infinite Workday’ of 8 P.M. Meetings and Constant Messages](https://soylentnews.org/article.pl?sid=25/06/18/1420200&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-11, 06:58:00](https://soylentnews.org/article.pl?sid=25/06/10/1731239&from=rss) - [‘We're Definitely on the Back Foot’: U.S. Risks Losing Fusion Energy Race to China, Industry Leaders](https://soylentnews.org/article.pl?sid=25/06/10/1731239&from=rss)
 * [2025-06-11, 02:14:00](https://soylentnews.org/article.pl?sid=25/06/10/1727213&from=rss) - [Ubuntu Dropping GNOME's X11 Session](https://soylentnews.org/article.pl?sid=25/06/10/1727213&from=rss)
 * [2025-06-10, 21:32:00](https://soylentnews.org/article.pl?sid=25/06/09/1724212&from=rss) - [The Linux Mint Team is Testing a New Application for Providing Fingerprint Authentication](https://soylentnews.org/article.pl?sid=25/06/09/1724212&from=rss)
-* [2025-06-10, 16:47:00](https://soylentnews.org/article.pl?sid=25/06/09/1718210&from=rss) - [Nice Ocean Conference You Have There](https://soylentnews.org/article.pl?sid=25/06/09/1718210&from=rss)
 
 ## [Archives](archives/index.md)
 
