@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 23:54:00](https://soylentnews.org/article.pl?sid=25/06/19/2339244&from=rss) - [Women in Semiconductors: A Critical Workforce Need](https://soylentnews.org/article.pl?sid=25/06/19/2339244&from=rss)
 * [2025-06-20, 19:06:00](https://soylentnews.org/article.pl?sid=25/06/19/2331254&from=rss) - [SpaceX Rocket Explodes in New Setback to Elon Musk’s Mars Project](https://soylentnews.org/article.pl?sid=25/06/19/2331254&from=rss)
 * [2025-06-20, 14:21:00](https://soylentnews.org/article.pl?sid=25/06/19/2327225&from=rss) - [LibreOffice Adds Voice To 'Ditch Windows For Linux' Campaign](https://soylentnews.org/article.pl?sid=25/06/19/2327225&from=rss)
 * [2025-06-20, 09:36:00](https://soylentnews.org/article.pl?sid=25/06/19/0919227&from=rss) - [Breakthrough Alzheimer's Drugs Too Pricey for UK's National Health Service](https://soylentnews.org/article.pl?sid=25/06/19/0919227&from=rss)
