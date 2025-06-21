@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-21, 04:36:00](https://soylentnews.org/article.pl?sid=25/06/19/2318221&from=rss) - [German Government Moves Closer to Ditching Microsoft: \"We're Done With Teams!\"](https://soylentnews.org/article.pl?sid=25/06/19/2318221&from=rss)
 * [2025-06-20, 23:54:00](https://soylentnews.org/article.pl?sid=25/06/19/2339244&from=rss) - [Women in Semiconductors: A Critical Workforce Need](https://soylentnews.org/article.pl?sid=25/06/19/2339244&from=rss)
 * [2025-06-20, 19:06:00](https://soylentnews.org/article.pl?sid=25/06/19/2331254&from=rss) - [SpaceX Rocket Explodes in New Setback to Elon Musk’s Mars Project](https://soylentnews.org/article.pl?sid=25/06/19/2331254&from=rss)
 * [2025-06-20, 14:21:00](https://soylentnews.org/article.pl?sid=25/06/19/2327225&from=rss) - [LibreOffice Adds Voice To 'Ditch Windows For Linux' Campaign](https://soylentnews.org/article.pl?sid=25/06/19/2327225&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-12, 01:56:00](https://soylentnews.org/article.pl?sid=25/06/11/0154240&from=rss) - [The Bethesda Declaration](https://soylentnews.org/article.pl?sid=25/06/11/0154240&from=rss)
 * [2025-06-11, 21:11:00](https://soylentnews.org/article.pl?sid=25/06/11/0136231&from=rss) - [New Way to Track Covertly Android Users](https://soylentnews.org/article.pl?sid=25/06/11/0136231&from=rss)
 * [2025-06-11, 16:26:00](https://soylentnews.org/article.pl?sid=25/06/11/0127250&from=rss) - [OpenAI Slams Court Order to Save All ChatGPT Logs, Including Deleted Chats](https://soylentnews.org/article.pl?sid=25/06/11/0127250&from=rss)
-* [2025-06-11, 11:40:00](https://soylentnews.org/article.pl?sid=25/06/11/0022207&from=rss) - [Hasta La Vista, Google Baby](https://soylentnews.org/article.pl?sid=25/06/11/0022207&from=rss)
 
 ## [Archives](archives/index.md)
 
