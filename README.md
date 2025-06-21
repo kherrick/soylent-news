@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-21, 18:45:00](https://soylentnews.org/article.pl?sid=25/06/20/2250249&from=rss) - [The Russian FSB May Have Access to Telegram Messages](https://soylentnews.org/article.pl?sid=25/06/20/2250249&from=rss)
 * [2025-06-21, 14:09:00](https://soylentnews.org/article.pl?sid=25/06/19/2351241&from=rss) - [Penn State Research Team Builds 2D CMOS System](https://soylentnews.org/article.pl?sid=25/06/19/2351241&from=rss)
 * [2025-06-21, 09:23:00](https://soylentnews.org/article.pl?sid=25/06/19/2344222&from=rss) - [This is Your Brain on ChatGPT](https://soylentnews.org/article.pl?sid=25/06/19/2344222&from=rss)
 * [2025-06-21, 04:36:00](https://soylentnews.org/article.pl?sid=25/06/19/2318221&from=rss) - [German Government Moves Closer to Ditching Microsoft: \"We're Done With Teams!\"](https://soylentnews.org/article.pl?sid=25/06/19/2318221&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-12, 16:16:00](https://soylentnews.org/article.pl?sid=25/06/11/1627232&from=rss) - [Cyberattack Cripples North America's Largest Grocery Distributor, Threatening Supply Chain](https://soylentnews.org/article.pl?sid=25/06/11/1627232&from=rss)
 * [2025-06-12, 11:31:00](https://soylentnews.org/article.pl?sid=25/06/10/2233256&from=rss) - [Dolphin LLM](https://soylentnews.org/article.pl?sid=25/06/10/2233256&from=rss)
 * [2025-06-12, 06:45:00](https://soylentnews.org/article.pl?sid=25/06/11/0156201&from=rss) - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://soylentnews.org/article.pl?sid=25/06/11/0156201&from=rss)
-* [2025-06-12, 01:56:00](https://soylentnews.org/article.pl?sid=25/06/11/0154240&from=rss) - [The Bethesda Declaration](https://soylentnews.org/article.pl?sid=25/06/11/0154240&from=rss)
 
 ## [Archives](archives/index.md)
 
