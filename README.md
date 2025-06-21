@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-21, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/21/1225217&from=rss) - [Scientists Once Hoarded Pre-Nuclear Steel; Now We're Hoarding Pre-AI Content](https://soylentnews.org/article.pl?sid=25/06/21/1225217&from=rss)
 * [2025-06-21, 18:45:00](https://soylentnews.org/article.pl?sid=25/06/20/2250249&from=rss) - [The Russian FSB May Have Access to Telegram Messages](https://soylentnews.org/article.pl?sid=25/06/20/2250249&from=rss)
 * [2025-06-21, 14:09:00](https://soylentnews.org/article.pl?sid=25/06/19/2351241&from=rss) - [Penn State Research Team Builds 2D CMOS System](https://soylentnews.org/article.pl?sid=25/06/19/2351241&from=rss)
 * [2025-06-21, 09:23:00](https://soylentnews.org/article.pl?sid=25/06/19/2344222&from=rss) - [This is Your Brain on ChatGPT](https://soylentnews.org/article.pl?sid=25/06/19/2344222&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-12, 21:01:00](https://soylentnews.org/article.pl?sid=25/06/11/1726256&from=rss) - [ChessGPT \"Wrecked\" by Atari 2600](https://soylentnews.org/article.pl?sid=25/06/11/1726256&from=rss)
 * [2025-06-12, 16:16:00](https://soylentnews.org/article.pl?sid=25/06/11/1627232&from=rss) - [Cyberattack Cripples North America's Largest Grocery Distributor, Threatening Supply Chain](https://soylentnews.org/article.pl?sid=25/06/11/1627232&from=rss)
 * [2025-06-12, 11:31:00](https://soylentnews.org/article.pl?sid=25/06/10/2233256&from=rss) - [Dolphin LLM](https://soylentnews.org/article.pl?sid=25/06/10/2233256&from=rss)
-* [2025-06-12, 06:45:00](https://soylentnews.org/article.pl?sid=25/06/11/0156201&from=rss) - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://soylentnews.org/article.pl?sid=25/06/11/0156201&from=rss)
 
 ## [Archives](archives/index.md)
 
