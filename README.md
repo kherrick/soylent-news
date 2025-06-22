@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-22, 09:04:00](https://soylentnews.org/article.pl?sid=25/06/21/1928245&from=rss) - [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&from=rss)
 * [2025-06-22, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/21/137201&from=rss) - [Man’s Health Crashes After Getting Donated Kidney](https://soylentnews.org/article.pl?sid=25/06/21/137201&from=rss)
 * [2025-06-22, 03:00:00](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&from=rss) - [USA Bombs Iran's Nuclear Sites](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&from=rss)
 * [2025-06-21, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/21/1225217&from=rss) - [Scientists Once Hoarded Pre-Nuclear Steel; Now We're Hoarding Pre-AI Content](https://soylentnews.org/article.pl?sid=25/06/21/1225217&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-13, 11:13:00](https://soylentnews.org/article.pl?sid=25/06/13/0124202&from=rss) - [Google Brute-Force Attack Exposes Phone Numbers in Minutes](https://soylentnews.org/article.pl?sid=25/06/13/0124202&from=rss)
 * [2025-06-13, 06:29:00](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss) - [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss)
 * [2025-06-13, 01:43:00](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss) - [Making Hydrogen With Soda Cans and Seawater](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss)
-* [2025-06-12, 21:01:00](https://soylentnews.org/article.pl?sid=25/06/11/1726256&from=rss) - [ChessGPT \"Wrecked\" by Atari 2600](https://soylentnews.org/article.pl?sid=25/06/11/1726256&from=rss)
 
 ## [Archives](archives/index.md)
 
