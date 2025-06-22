@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-22, 18:35:00](https://soylentnews.org/article.pl?sid=25/06/22/0319216&from=rss) - [Book Documents the Rise and Fall of the Concept of the Private Life](https://soylentnews.org/article.pl?sid=25/06/22/0319216&from=rss)
 * [2025-06-22, 13:51:00](https://soylentnews.org/article.pl?sid=25/06/21/1934229&from=rss) - [Dr. Demento Announces Retirement From Radio After 55 Years](https://soylentnews.org/article.pl?sid=25/06/21/1934229&from=rss)
 * [2025-06-22, 09:04:00](https://soylentnews.org/article.pl?sid=25/06/21/1928245&from=rss) - [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&from=rss)
 * [2025-06-22, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/21/137201&from=rss) - [Man’s Health Crashes After Getting Donated Kidney](https://soylentnews.org/article.pl?sid=25/06/21/137201&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-13, 20:41:00](https://soylentnews.org/article.pl?sid=25/06/13/0143245&from=rss) - [The Federal Government in the Age of Artificial Intelligence](https://soylentnews.org/article.pl?sid=25/06/13/0143245&from=rss)
 * [2025-06-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/06/13/0135229&from=rss) - [Starlink Shut Down on United Regional Jets - Reports of Radio Interference on Embraer E175](https://soylentnews.org/article.pl?sid=25/06/13/0135229&from=rss)
 * [2025-06-13, 11:13:00](https://soylentnews.org/article.pl?sid=25/06/13/0124202&from=rss) - [Google Brute-Force Attack Exposes Phone Numbers in Minutes](https://soylentnews.org/article.pl?sid=25/06/13/0124202&from=rss)
-* [2025-06-13, 06:29:00](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss) - [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss)
 
 ## [Archives](archives/index.md)
 
