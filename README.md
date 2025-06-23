@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-23, 18:08:00](https://soylentnews.org/article.pl?sid=25/06/22/173242&from=rss) - [50 Years of JAWS](https://soylentnews.org/article.pl?sid=25/06/22/173242&from=rss)
 * [2025-06-23, 13:18:00](https://soylentnews.org/article.pl?sid=25/06/22/1649205&from=rss) - [Open Internet Stack: The EU Commission’s Vague Plans for Open Source](https://soylentnews.org/article.pl?sid=25/06/22/1649205&from=rss)
 * [2025-06-23, 08:34:00](https://soylentnews.org/article.pl?sid=25/06/22/0357239&from=rss) - [Astronomers Locate Universe's 'Missing' Matter in the Largest Cosmic Structures](https://soylentnews.org/article.pl?sid=25/06/22/0357239&from=rss)
 * [2025-06-23, 03:48:00](https://soylentnews.org/article.pl?sid=25/06/22/0341247&from=rss) - [The GPU 16-Pin Melting Fiasco Is Getting Ridiculous](https://soylentnews.org/article.pl?sid=25/06/22/0341247&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-14, 20:27:00](https://soylentnews.org/article.pl?sid=25/06/14/1315217&from=rss) - [Jupiter Takes Europe's HPC Crown in 793Pf Top500 Run](https://soylentnews.org/article.pl?sid=25/06/14/1315217&from=rss)
 * [2025-06-14, 15:42:00](https://soylentnews.org/article.pl?sid=25/06/13/1243246&from=rss) - [Toyota Math: 9 Million EVs Are Just as Polluting as 27 Million Hybrids](https://soylentnews.org/article.pl?sid=25/06/13/1243246&from=rss)
 * [2025-06-14, 10:57:00](https://soylentnews.org/article.pl?sid=25/06/13/0159230&from=rss) - [Climate Change Is Coming For Your Cheese](https://soylentnews.org/article.pl?sid=25/06/13/0159230&from=rss)
-* [2025-06-14, 06:12:00](https://soylentnews.org/article.pl?sid=25/06/13/0152245&from=rss) - [Mistral Releases a Vibe Coding Client, Mistral Code](https://soylentnews.org/article.pl?sid=25/06/13/0152245&from=rss)
 
 ## [Archives](archives/index.md)
 
