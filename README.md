@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-24, 03:36:00](https://soylentnews.org/article.pl?sid=25/06/22/1718247&from=rss) - [US Tech Czar: China Just Two Years Behind On Chip Design](https://soylentnews.org/article.pl?sid=25/06/22/1718247&from=rss)
 * [2025-06-23, 22:52:00](https://soylentnews.org/article.pl?sid=25/06/22/179210&from=rss) - [A Cracked Piece of Metal Self-Healed in Experiment That Stunned Scientists](https://soylentnews.org/article.pl?sid=25/06/22/179210&from=rss)
 * [2025-06-23, 19:09:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/23/1910209&from=rss) - [US and Allied Base  Al Udeid in Qatar Attacked](https://soylentnews.org/breakingnews/article.pl?sid=25/06/23/1910209&from=rss)
 * [2025-06-23, 18:08:00](https://soylentnews.org/article.pl?sid=25/06/22/173242&from=rss) - [50 Years of JAWS](https://soylentnews.org/article.pl?sid=25/06/22/173242&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-15, 10:41:00](https://soylentnews.org/article.pl?sid=25/06/14/1623235&from=rss) - [RIP: Bill Atkinson, Co-Creator Of Apple Lisa And Mac](https://soylentnews.org/article.pl?sid=25/06/14/1623235&from=rss)
 * [2025-06-15, 05:57:00](https://soylentnews.org/article.pl?sid=25/06/14/1549226&from=rss) - [Navy Backs Right to Repair After $13B Carrier Goes Half-Fed](https://soylentnews.org/article.pl?sid=25/06/14/1549226&from=rss)
 * [2025-06-15, 01:13:00](https://soylentnews.org/article.pl?sid=25/06/14/1546217&from=rss) - [Stay Hungry,  Stay Foolish ... 20 Years on](https://soylentnews.org/article.pl?sid=25/06/14/1546217&from=rss)
-* [2025-06-14, 20:27:00](https://soylentnews.org/article.pl?sid=25/06/14/1315217&from=rss) - [Jupiter Takes Europe's HPC Crown in 793Pf Top500 Run](https://soylentnews.org/article.pl?sid=25/06/14/1315217&from=rss)
 
 ## [Archives](archives/index.md)
 
