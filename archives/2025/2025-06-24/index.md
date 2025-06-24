@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 22:36:00](https://soylentnews.org/article.pl?sid=25/06/24/0032246&from=rss) - [Peru Gas Workers Find Thousand-Year-Old Mummy](https://soylentnews.org/article.pl?sid=25/06/24/0032246&from=rss)
 * [2025-06-24, 17:51:00](https://soylentnews.org/article.pl?sid=25/06/24/0030208&from=rss) - [Breathprints?](https://soylentnews.org/article.pl?sid=25/06/24/0030208&from=rss)
 * [2025-06-24, 13:09:00](https://soylentnews.org/article.pl?sid=25/06/24/0021200&from=rss) - [Cloudflare CEO Warns AI Crawlers and Summaries Are Eroding the Internet's Business Model](https://soylentnews.org/article.pl?sid=25/06/24/0021200&from=rss)
 * [2025-06-24, 08:23:00](https://soylentnews.org/article.pl?sid=25/06/23/194255&from=rss) - [Massive DDoS Attack Delivered 37.4Tb In 45 Seconds, Equivalent To 10,000 Hd Movies, To One Victim IP](https://soylentnews.org/article.pl?sid=25/06/23/194255&from=rss)
