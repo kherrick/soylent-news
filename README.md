@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-24, 17:51:00](https://soylentnews.org/article.pl?sid=25/06/24/0030208&from=rss) - [Breathprints?](https://soylentnews.org/article.pl?sid=25/06/24/0030208&from=rss)
 * [2025-06-24, 13:09:00](https://soylentnews.org/article.pl?sid=25/06/24/0021200&from=rss) - [Cloudflare CEO Warns AI Crawlers and Summaries Are Eroding the Internet's Business Model](https://soylentnews.org/article.pl?sid=25/06/24/0021200&from=rss)
 * [2025-06-24, 08:23:00](https://soylentnews.org/article.pl?sid=25/06/23/194255&from=rss) - [Massive DDoS Attack Delivered 37.4Tb In 45 Seconds, Equivalent To 10,000 Hd Movies, To One Victim IP](https://soylentnews.org/article.pl?sid=25/06/23/194255&from=rss)
 * [2025-06-24, 03:36:00](https://soylentnews.org/article.pl?sid=25/06/22/1718247&from=rss) - [US Tech Czar: China Just Two Years Behind On Chip Design](https://soylentnews.org/article.pl?sid=25/06/22/1718247&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-16, 00:58:00](https://soylentnews.org/article.pl?sid=25/06/15/1350208&from=rss) - [Massive Privacy Concern: Over 40,000 Security Cameras Are Streaming Unsecured Footage Worldwide](https://soylentnews.org/article.pl?sid=25/06/15/1350208&from=rss)
 * [2025-06-15, 20:12:00](https://soylentnews.org/article.pl?sid=25/06/15/0153218&from=rss) - [Nematode Tower Power](https://soylentnews.org/article.pl?sid=25/06/15/0153218&from=rss)
 * [2025-06-15, 15:26:00](https://soylentnews.org/article.pl?sid=25/06/15/0338222&from=rss) - [\"Impossible\" Particle That Hit Earth May Have Been Dark Matter](https://soylentnews.org/article.pl?sid=25/06/15/0338222&from=rss)
-* [2025-06-15, 10:41:00](https://soylentnews.org/article.pl?sid=25/06/14/1623235&from=rss) - [RIP: Bill Atkinson, Co-Creator Of Apple Lisa And Mac](https://soylentnews.org/article.pl?sid=25/06/14/1623235&from=rss)
 
 ## [Archives](archives/index.md)
 
