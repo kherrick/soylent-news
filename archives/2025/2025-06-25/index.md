@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-06-25](index.md)
+
+* [2025-06-25, 03:18:00](https://soylentnews.org/article.pl?sid=25/06/24/0039212&from=rss) - [BEV Battery Swapping in Shanghai](https://soylentnews.org/article.pl?sid=25/06/24/0039212&from=rss)
