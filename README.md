@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-25, 12:45:00](https://soylentnews.org/article.pl?sid=25/06/24/0336243&from=rss) - [Apple to Australians: You're Too Stupid to Choose Your Own Apps](https://soylentnews.org/article.pl?sid=25/06/24/0336243&from=rss)
 * [2025-06-25, 08:02:00](https://soylentnews.org/article.pl?sid=25/06/24/0044241&from=rss) - [UK Retail's Estimated Cyberattack Costs Pegged at $500M](https://soylentnews.org/article.pl?sid=25/06/24/0044241&from=rss)
 * [2025-06-25, 03:18:00](https://soylentnews.org/article.pl?sid=25/06/24/0039212&from=rss) - [BEV Battery Swapping in Shanghai](https://soylentnews.org/article.pl?sid=25/06/24/0039212&from=rss)
 * [2025-06-24, 22:36:00](https://soylentnews.org/article.pl?sid=25/06/24/0032246&from=rss) - [Peru Gas Workers Find Thousand-Year-Old Mummy](https://soylentnews.org/article.pl?sid=25/06/24/0032246&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/06/16/0057231&from=rss) - [Washington Post in Talks With Substack About Using its Writers](https://soylentnews.org/article.pl?sid=25/06/16/0057231&from=rss)
 * [2025-06-16, 15:11:00](https://soylentnews.org/article.pl?sid=25/06/16/0052252&from=rss) - [Huawei CEO Says Washington Has Exaggerated its Achievements, Saying the Company Isn't That Powerful](https://soylentnews.org/article.pl?sid=25/06/16/0052252&from=rss)
 * [2025-06-16, 10:25:00](https://soylentnews.org/article.pl?sid=25/06/15/145200&from=rss) - [Buried Under 2 Kilometers of Antarctic Ice, Scientists Find a 34-Million-Year-Old Lost World](https://soylentnews.org/article.pl?sid=25/06/15/145200&from=rss)
-* [2025-06-16, 05:41:00](https://soylentnews.org/article.pl?sid=25/06/15/1353252&from=rss) - [Photonic Processor Could Streamline 6G Wireless Signal Processing](https://soylentnews.org/article.pl?sid=25/06/15/1353252&from=rss)
 
 ## [Archives](archives/index.md)
 
