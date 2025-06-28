@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-28, 20:15:00](https://soylentnews.org/article.pl?sid=25/06/28/0137201&from=rss) - [Win11 Black Screen of Death update](https://soylentnews.org/article.pl?sid=25/06/28/0137201&from=rss)
+* [2025-06-28, 15:30:00](https://soylentnews.org/article.pl?sid=25/06/27/021255&from=rss) - [Sparcs Cubesats To Test Electrodynamic Tethers ](https://soylentnews.org/article.pl?sid=25/06/27/021255&from=rss)
 * [2025-06-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/06/26/1527200&from=rss) - [Canonical to Remove GPU Exploit Mitigation to Gain 20% Performance Boost](https://soylentnews.org/article.pl?sid=25/06/26/1527200&from=rss)
 * [2025-06-28, 07:03:00](https://soylentnews.org/article.pl?sid=25/06/26/158255&from=rss) - [Edit is Back](https://soylentnews.org/article.pl?sid=25/06/26/158255&from=rss)
 * [2025-06-28, 02:17:00](https://soylentnews.org/article.pl?sid=25/06/26/153208&from=rss) - [Trump Administration Moves to Count Crypto as a Federal Mortgage Asset](https://soylentnews.org/article.pl?sid=25/06/26/153208&from=rss)
@@ -48,8 +50,6 @@
 * [2025-06-20, 00:13:00](https://soylentnews.org/article.pl?sid=25/06/18/1445231&from=rss) - [Fermilab G-2 Collaboration Publishes Final Result](https://soylentnews.org/article.pl?sid=25/06/18/1445231&from=rss)
 * [2025-06-19, 19:23:00](https://soylentnews.org/article.pl?sid=25/06/18/1420200&from=rss) - [Welcome to the ‘Infinite Workday’ of 8 P.M. Meetings and Constant Messages](https://soylentnews.org/article.pl?sid=25/06/18/1420200&from=rss)
 * [2025-06-19, 14:39:00](https://soylentnews.org/article.pl?sid=25/06/18/1415223&from=rss) - [Marijuana to Treat Autism? Some Parents Say Yes](https://soylentnews.org/article.pl?sid=25/06/18/1415223&from=rss)
-* [2025-06-19, 09:54:00](https://soylentnews.org/article.pl?sid=25/06/18/0134253&from=rss) - [Reddit User Surprised When 1960s Computer Panel Emerged From Collapsed Family Garage](https://soylentnews.org/article.pl?sid=25/06/18/0134253&from=rss)
-* [2025-06-19, 05:08:00](https://soylentnews.org/article.pl?sid=25/06/18/0130206&from=rss) - [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://soylentnews.org/article.pl?sid=25/06/18/0130206&from=rss)
 
 ## [Archives](archives/index.md)
 
