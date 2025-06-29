@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/29/164217&from=rss) - [Work Begins to Create Artificial Human DNA From Scratch](https://soylentnews.org/article.pl?sid=25/06/29/164217&from=rss)
 * [2025-06-29, 18:50:00](https://soylentnews.org/article.pl?sid=25/06/29/1253258&from=rss) - [Why Countries Are Suddenly Broadcasting Their Spies’ Exploits](https://soylentnews.org/article.pl?sid=25/06/29/1253258&from=rss)
 * [2025-06-29, 14:05:00](https://soylentnews.org/article.pl?sid=25/06/29/0435239&from=rss) - [First Images From World's Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&from=rss)
 * [2025-06-29, 09:19:00](https://soylentnews.org/article.pl?sid=25/06/29/0430235&from=rss) - [Danish Copyright on Your Digital Representation](https://soylentnews.org/article.pl?sid=25/06/29/0430235&from=rss)
