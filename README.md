@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-06-30, 04:18:00](https://soylentnews.org/article.pl?sid=25/06/29/1610258&from=rss) - [At Last, We Are Discovering What Quantum Computers Will be Useful for](https://soylentnews.org/article.pl?sid=25/06/29/1610258&from=rss)
 * [2025-06-29, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/29/164217&from=rss) - [Work Begins to Create Artificial Human DNA From Scratch](https://soylentnews.org/article.pl?sid=25/06/29/164217&from=rss)
 * [2025-06-29, 18:50:00](https://soylentnews.org/article.pl?sid=25/06/29/1253258&from=rss) - [Why Countries Are Suddenly Broadcasting Their Spies’ Exploits](https://soylentnews.org/article.pl?sid=25/06/29/1253258&from=rss)
 * [2025-06-29, 14:05:00](https://soylentnews.org/article.pl?sid=25/06/29/0435239&from=rss) - [First Images From World's Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-21, 09:23:00](https://soylentnews.org/article.pl?sid=25/06/19/2344222&from=rss) - [This is Your Brain on ChatGPT](https://soylentnews.org/article.pl?sid=25/06/19/2344222&from=rss)
 * [2025-06-21, 04:36:00](https://soylentnews.org/article.pl?sid=25/06/19/2318221&from=rss) - [German Government Moves Closer to Ditching Microsoft: \"We're Done With Teams!\"](https://soylentnews.org/article.pl?sid=25/06/19/2318221&from=rss)
 * [2025-06-20, 23:54:00](https://soylentnews.org/article.pl?sid=25/06/19/2339244&from=rss) - [Women in Semiconductors: A Critical Workforce Need](https://soylentnews.org/article.pl?sid=25/06/19/2339244&from=rss)
-* [2025-06-20, 19:06:00](https://soylentnews.org/article.pl?sid=25/06/19/2331254&from=rss) - [SpaceX Rocket Explodes in New Setback to Elon Musk’s Mars Project](https://soylentnews.org/article.pl?sid=25/06/19/2331254&from=rss)
 
 ## [Archives](archives/index.md)
 
