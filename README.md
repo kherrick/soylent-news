@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-01, 22:53:00](https://soylentnews.org/article.pl?sid=25/06/30/1817206&from=rss) - [Ex-Nato Hacker: In Cyber, There’s No Such Thing As A Ceasefire](https://soylentnews.org/article.pl?sid=25/06/30/1817206&from=rss)
 * [2025-07-01, 18:12:00](https://soylentnews.org/article.pl?sid=25/06/30/1738246&from=rss) - [As AI Kills Search Traffic, Google Launches Offerwall to Boost Publisher Revenue](https://soylentnews.org/article.pl?sid=25/06/30/1738246&from=rss)
 * [2025-07-01, 13:28:00](https://soylentnews.org/article.pl?sid=25/06/30/1737227&from=rss) - [Facebook is Starting to Feed its AI With Private, Unpublished Photos](https://soylentnews.org/article.pl?sid=25/06/30/1737227&from=rss)
 * [2025-07-01, 08:42:00](https://soylentnews.org/article.pl?sid=25/06/30/1153228&from=rss) - [Bluetooth Flaws Could Let Hackers Spy Through Your Microphone](https://soylentnews.org/article.pl?sid=25/06/30/1153228&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-22, 23:20:00](https://soylentnews.org/article.pl?sid=25/06/22/0326239&from=rss) - [Gartner: ‘AI is Not Doing its Job and Should Leave Us Alone’](https://soylentnews.org/article.pl?sid=25/06/22/0326239&from=rss)
 * [2025-06-22, 18:35:00](https://soylentnews.org/article.pl?sid=25/06/22/0319216&from=rss) - [Book Documents the Rise and Fall of the Concept of the Private Life](https://soylentnews.org/article.pl?sid=25/06/22/0319216&from=rss)
 * [2025-06-22, 13:51:00](https://soylentnews.org/article.pl?sid=25/06/21/1934229&from=rss) - [Dr. Demento Announces Retirement From Radio After 55 Years](https://soylentnews.org/article.pl?sid=25/06/21/1934229&from=rss)
-* [2025-06-22, 09:04:00](https://soylentnews.org/article.pl?sid=25/06/21/1928245&from=rss) - [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&from=rss)
 
 ## [Archives](archives/index.md)
 
