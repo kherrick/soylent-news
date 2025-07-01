@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-01, 13:28:00](https://soylentnews.org/article.pl?sid=25/06/30/1737227&from=rss) - [Facebook is Starting to Feed its AI With Private, Unpublished Photos](https://soylentnews.org/article.pl?sid=25/06/30/1737227&from=rss)
 * [2025-07-01, 08:42:00](https://soylentnews.org/article.pl?sid=25/06/30/1153228&from=rss) - [Bluetooth Flaws Could Let Hackers Spy Through Your Microphone](https://soylentnews.org/article.pl?sid=25/06/30/1153228&from=rss)
 * [2025-07-01, 03:57:00](https://soylentnews.org/article.pl?sid=25/06/30/1149231&from=rss) - [CISA, NSA Repeat Call for Memory Safe Programming Languages](https://soylentnews.org/article.pl?sid=25/06/30/1149231&from=rss)
 * [2025-06-30, 23:13:00](https://soylentnews.org/article.pl?sid=25/06/30/0625204&from=rss) - [Group of Investors Represented by Youtuber Perifractic Buys Commodore](https://soylentnews.org/article.pl?sid=25/06/30/0625204&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-22, 13:51:00](https://soylentnews.org/article.pl?sid=25/06/21/1934229&from=rss) - [Dr. Demento Announces Retirement From Radio After 55 Years](https://soylentnews.org/article.pl?sid=25/06/21/1934229&from=rss)
 * [2025-06-22, 09:04:00](https://soylentnews.org/article.pl?sid=25/06/21/1928245&from=rss) - [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&from=rss)
 * [2025-06-22, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/21/137201&from=rss) - [Man’s Health Crashes After Getting Donated Kidney](https://soylentnews.org/article.pl?sid=25/06/21/137201&from=rss)
-* [2025-06-22, 03:00:00](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&from=rss) - [UPDATED: USA Bombs Iran's Nuclear Sites](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&from=rss)
 
 ## [Archives](archives/index.md)
 
