@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-01, 03:57:00](https://soylentnews.org/article.pl?sid=25/06/30/1149231&from=rss) - [CISA, NSA Repeat Call for Memory Safe Programming Languages](https://soylentnews.org/article.pl?sid=25/06/30/1149231&from=rss)
 * [2025-06-30, 23:13:00](https://soylentnews.org/article.pl?sid=25/06/30/0625204&from=rss) - [Group of Investors Represented by Youtuber Perifractic Buys Commodore](https://soylentnews.org/article.pl?sid=25/06/30/0625204&from=rss)
 * [2025-06-30, 18:30:00](https://soylentnews.org/article.pl?sid=25/06/30/0230251&from=rss) - [Scientists Unlock the Light-Bending Secrets of Squid Skin](https://soylentnews.org/article.pl?sid=25/06/30/0230251&from=rss)
 * [2025-06-30, 13:45:00](https://soylentnews.org/article.pl?sid=25/06/30/020252&from=rss) - [You Sound Like ChatGPT](https://soylentnews.org/article.pl?sid=25/06/30/020252&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-22, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/21/137201&from=rss) - [Man’s Health Crashes After Getting Donated Kidney](https://soylentnews.org/article.pl?sid=25/06/21/137201&from=rss)
 * [2025-06-22, 03:00:00](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&from=rss) - [UPDATED: USA Bombs Iran's Nuclear Sites](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&from=rss)
 * [2025-06-21, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/21/1225217&from=rss) - [Scientists Once Hoarded Pre-Nuclear Steel; Now We're Hoarding Pre-AI Content](https://soylentnews.org/article.pl?sid=25/06/21/1225217&from=rss)
-* [2025-06-21, 18:45:00](https://soylentnews.org/article.pl?sid=25/06/20/2250249&from=rss) - [The Russian FSB May Have Access to Telegram Messages](https://soylentnews.org/article.pl?sid=25/06/20/2250249&from=rss)
 
 ## [Archives](archives/index.md)
 
