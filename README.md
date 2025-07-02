@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-02, 13:17:00](https://soylentnews.org/article.pl?sid=25/07/02/0110229&from=rss) - [Mexican Drug Cartel Hacker Spied on FBI Official's Phone to Track and Kill Informants](https://soylentnews.org/article.pl?sid=25/07/02/0110229&from=rss)
 * [2025-07-02, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/01/0415211&from=rss) - [Genetic Study Reveals Humanity's Longest Migration](https://soylentnews.org/article.pl?sid=25/07/01/0415211&from=rss)
 * [2025-07-02, 04:59:00](https://soylentnews.org/meta/article.pl?sid=25/07/02/0418216&from=rss) - [Stripe Donations Back Online](https://soylentnews.org/meta/article.pl?sid=25/07/02/0418216&from=rss)
 * [2025-07-02, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/01/028205&from=rss) - [New Theory Proposes Time Has Three Dimensions, With Space as a Secondary Effect](https://soylentnews.org/article.pl?sid=25/07/01/028205&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-23, 18:08:00](https://soylentnews.org/article.pl?sid=25/06/22/173242&from=rss) - [50 Years of JAWS](https://soylentnews.org/article.pl?sid=25/06/22/173242&from=rss)
 * [2025-06-23, 13:18:00](https://soylentnews.org/article.pl?sid=25/06/22/1649205&from=rss) - [Open Internet Stack: The EU Commission’s Vague Plans for Open Source](https://soylentnews.org/article.pl?sid=25/06/22/1649205&from=rss)
 * [2025-06-23, 08:34:00](https://soylentnews.org/article.pl?sid=25/06/22/0357239&from=rss) - [Astronomers Locate Universe's 'Missing' Matter in the Largest Cosmic Structures](https://soylentnews.org/article.pl?sid=25/06/22/0357239&from=rss)
-* [2025-06-23, 03:48:00](https://soylentnews.org/article.pl?sid=25/06/22/0341247&from=rss) - [The GPU 16-Pin Melting Fiasco Is Getting Ridiculous](https://soylentnews.org/article.pl?sid=25/06/22/0341247&from=rss)
 
 ## [Archives](archives/index.md)
 
