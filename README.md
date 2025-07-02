@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-02, 22:50:00](https://soylentnews.org/article.pl?sid=25/07/02/1141208&from=rss) - [Fedora: Proposal for the Removal of i686 Withdrawn](https://soylentnews.org/article.pl?sid=25/07/02/1141208&from=rss)
 * [2025-07-02, 18:05:00](https://soylentnews.org/article.pl?sid=25/07/02/0734207&from=rss) - [Are Brother's Insecure Printers Illegal in the UK?](https://soylentnews.org/article.pl?sid=25/07/02/0734207&from=rss)
 * [2025-07-02, 13:17:00](https://soylentnews.org/article.pl?sid=25/07/02/0110229&from=rss) - [Mexican Drug Cartel Hacker Spied on FBI Official's Phone to Track and Kill Informants](https://soylentnews.org/article.pl?sid=25/07/02/0110229&from=rss)
 * [2025-07-02, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/01/0415211&from=rss) - [Genetic Study Reveals Humanity's Longest Migration](https://soylentnews.org/article.pl?sid=25/07/01/0415211&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-23, 22:52:00](https://soylentnews.org/article.pl?sid=25/06/22/179210&from=rss) - [A Cracked Piece of Metal Self-Healed in Experiment That Stunned Scientists](https://soylentnews.org/article.pl?sid=25/06/22/179210&from=rss)
 * [2025-06-23, 19:09:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/23/1910209&from=rss) - [US and Allied Base  Al Udeid in Qatar Attacked](https://soylentnews.org/breakingnews/article.pl?sid=25/06/23/1910209&from=rss)
 * [2025-06-23, 18:08:00](https://soylentnews.org/article.pl?sid=25/06/22/173242&from=rss) - [50 Years of JAWS](https://soylentnews.org/article.pl?sid=25/06/22/173242&from=rss)
-* [2025-06-23, 13:18:00](https://soylentnews.org/article.pl?sid=25/06/22/1649205&from=rss) - [Open Internet Stack: The EU Commission’s Vague Plans for Open Source](https://soylentnews.org/article.pl?sid=25/06/22/1649205&from=rss)
 
 ## [Archives](archives/index.md)
 
