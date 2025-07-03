@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-03, 12:11:00](https://soylentnews.org/article.pl?sid=25/07/02/1153235&from=rss) - [Deutsche Bahn Train Hits 405 km/h Without Falling to Bits](https://soylentnews.org/article.pl?sid=25/07/02/1153235&from=rss)
 * [2025-07-03, 08:16:00](https://soylentnews.org/article.pl?sid=25/07/02/1148257&from=rss) - [Arm-Based Servers to Grow 70% This Year](https://soylentnews.org/article.pl?sid=25/07/02/1148257&from=rss)
 * [2025-07-03, 03:33:00](https://soylentnews.org/article.pl?sid=25/07/02/1144216&from=rss) - [Bruce Schneier on How Cybersecurity Fears Affect Confidence in Voting Systems](https://soylentnews.org/article.pl?sid=25/07/02/1144216&from=rss)
 * [2025-07-02, 22:50:00](https://soylentnews.org/article.pl?sid=25/07/02/1141208&from=rss) - [Fedora: Proposal for the Removal of i686 Withdrawn](https://soylentnews.org/article.pl?sid=25/07/02/1141208&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-24, 13:09:00](https://soylentnews.org/article.pl?sid=25/06/24/0021200&from=rss) - [Cloudflare CEO Warns AI Crawlers and Summaries Are Eroding the Internet's Business Model](https://soylentnews.org/article.pl?sid=25/06/24/0021200&from=rss)
 * [2025-06-24, 08:23:00](https://soylentnews.org/article.pl?sid=25/06/23/194255&from=rss) - [Massive DDoS Attack Delivered 37.4Tb In 45 Seconds, Equivalent To 10,000 Hd Movies, To One Victim IP](https://soylentnews.org/article.pl?sid=25/06/23/194255&from=rss)
 * [2025-06-24, 03:36:00](https://soylentnews.org/article.pl?sid=25/06/22/1718247&from=rss) - [US Tech Czar: China Just Two Years Behind On Chip Design](https://soylentnews.org/article.pl?sid=25/06/22/1718247&from=rss)
-* [2025-06-23, 22:52:00](https://soylentnews.org/article.pl?sid=25/06/22/179210&from=rss) - [A Cracked Piece of Metal Self-Healed in Experiment That Stunned Scientists](https://soylentnews.org/article.pl?sid=25/06/22/179210&from=rss)
 
 ## [Archives](archives/index.md)
 
