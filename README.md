@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-04, 02:27:00](https://soylentnews.org/article.pl?sid=25/07/02/1640204&from=rss) - [China Could Be The World's Top Semiconductor Foundry Hub By 2030](https://soylentnews.org/article.pl?sid=25/07/02/1640204&from=rss)
 * [2025-07-03, 21:43:00](https://soylentnews.org/article.pl?sid=25/07/02/1636207&from=rss) - [Earthquake-Induced Electricity Offers Answer to Mystery of Gold Nugget Formation](https://soylentnews.org/article.pl?sid=25/07/02/1636207&from=rss)
 * [2025-07-03, 16:56:00](https://soylentnews.org/article.pl?sid=25/07/02/1214228&from=rss) - [Why the Sun is So Good at Evaporating Water](https://soylentnews.org/article.pl?sid=25/07/02/1214228&from=rss)
 * [2025-07-03, 12:11:00](https://soylentnews.org/article.pl?sid=25/07/02/1153235&from=rss) - [Deutsche Bahn Train Hits 405 km/h Without Falling to Bits](https://soylentnews.org/article.pl?sid=25/07/02/1153235&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-25, 03:18:00](https://soylentnews.org/article.pl?sid=25/06/24/0039212&from=rss) - [BEV Battery Swapping in Shanghai](https://soylentnews.org/article.pl?sid=25/06/24/0039212&from=rss)
 * [2025-06-24, 22:36:00](https://soylentnews.org/article.pl?sid=25/06/24/0032246&from=rss) - [Peru Gas Workers Find Thousand-Year-Old Mummy](https://soylentnews.org/article.pl?sid=25/06/24/0032246&from=rss)
 * [2025-06-24, 17:51:00](https://soylentnews.org/article.pl?sid=25/06/24/0030208&from=rss) - [Breathprints?](https://soylentnews.org/article.pl?sid=25/06/24/0030208&from=rss)
-* [2025-06-24, 13:09:00](https://soylentnews.org/article.pl?sid=25/06/24/0021200&from=rss) - [Cloudflare CEO Warns AI Crawlers and Summaries Are Eroding the Internet's Business Model](https://soylentnews.org/article.pl?sid=25/06/24/0021200&from=rss)
 
 ## [Archives](archives/index.md)
 
