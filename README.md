@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-06, 05:45:00](https://soylentnews.org/article.pl?sid=25/07/04/2251218&from=rss) - [Where Does Time Actually Come From?](https://soylentnews.org/article.pl?sid=25/07/04/2251218&from=rss)
 * [2025-07-06, 01:30:00](https://soylentnews.org/article.pl?sid=25/07/04/2154255&from=rss) - [On July 7 Google Gemini Will Have Access to Your Android Apps, Even If You Turned It Off](https://soylentnews.org/article.pl?sid=25/07/04/2154255&from=rss)
 * [2025-07-05, 21:12:00](https://soylentnews.org/article.pl?sid=25/07/03/1156244&from=rss) - [MASH - and the Loretta Swit Obituary](https://soylentnews.org/article.pl?sid=25/07/03/1156244&from=rss)
 * [2025-07-05, 16:26:00](https://soylentnews.org/article.pl?sid=25/07/03/1127224&from=rss) - [Release The Fish](https://soylentnews.org/article.pl?sid=25/07/03/1127224&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-27, 12:04:00](https://soylentnews.org/article.pl?sid=25/06/26/0225203&from=rss) - [An Updated PNG Spec](https://soylentnews.org/article.pl?sid=25/06/26/0225203&from=rss)
 * [2025-06-27, 07:14:00](https://soylentnews.org/article.pl?sid=25/06/26/0223205&from=rss) - [Modified Bacteria Convert Plastic Waste Into Pain Reliever](https://soylentnews.org/article.pl?sid=25/06/26/0223205&from=rss)
 * [2025-06-27, 02:29:00](https://soylentnews.org/article.pl?sid=25/06/26/0210246&from=rss) - [Why Geoengineering is No Longer a Complete Taboo for Scientists](https://soylentnews.org/article.pl?sid=25/06/26/0210246&from=rss)
-* [2025-06-26, 21:43:00](https://soylentnews.org/article.pl?sid=25/06/25/1717228&from=rss) - [Apple's A19 May Be Powerful, But Leans Towards Saving Power](https://soylentnews.org/article.pl?sid=25/06/25/1717228&from=rss)
 
 ## [Archives](archives/index.md)
 
