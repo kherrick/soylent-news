@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-07, 14:14:00](https://soylentnews.org/article.pl?sid=25/07/06/136235&from=rss) - [The Terrifying Truth About Why Tesla's Cars Keep Crashing](https://soylentnews.org/article.pl?sid=25/07/06/136235&from=rss)
 * [2025-07-07, 09:31:00](https://soylentnews.org/article.pl?sid=25/07/06/131253&from=rss) - [How to Fully Incapacitate Google Tag Manager and Why You Should (2022)](https://soylentnews.org/article.pl?sid=25/07/06/131253&from=rss)
 * [2025-07-07, 04:46:00](https://soylentnews.org/article.pl?sid=25/07/06/1250244&from=rss) - [CISPE Warns EU Against Over-Regulation of Water](https://soylentnews.org/article.pl?sid=25/07/06/1250244&from=rss)
 * [2025-07-07, 00:00:00](https://soylentnews.org/article.pl?sid=25/07/06/1241242&from=rss) - [Verizon Denies Legitimacy of 61 Million Records for Sale](https://soylentnews.org/article.pl?sid=25/07/06/1241242&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-28, 20:15:00](https://soylentnews.org/article.pl?sid=25/06/28/0137201&from=rss) - [Win11 Black Screen of Death update](https://soylentnews.org/article.pl?sid=25/06/28/0137201&from=rss)
 * [2025-06-28, 15:30:00](https://soylentnews.org/article.pl?sid=25/06/27/021255&from=rss) - [Sparcs Cubesats To Test Electrodynamic Tethers ](https://soylentnews.org/article.pl?sid=25/06/27/021255&from=rss)
 * [2025-06-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/06/26/1527200&from=rss) - [Canonical to Remove GPU Exploit Mitigation to Gain 20% Performance Boost](https://soylentnews.org/article.pl?sid=25/06/26/1527200&from=rss)
-* [2025-06-28, 07:03:00](https://soylentnews.org/article.pl?sid=25/06/26/158255&from=rss) - [Edit is Back](https://soylentnews.org/article.pl?sid=25/06/26/158255&from=rss)
 
 ## [Archives](archives/index.md)
 
