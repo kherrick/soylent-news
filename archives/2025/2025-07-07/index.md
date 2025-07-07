@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 18:58:00](https://soylentnews.org/article.pl?sid=25/07/06/1311241&from=rss) - [See How the Herpes Virus Reshapes Our Cells’ DNA in Just Eight Hours](https://soylentnews.org/article.pl?sid=25/07/06/1311241&from=rss)
 * [2025-07-07, 14:14:00](https://soylentnews.org/article.pl?sid=25/07/06/136235&from=rss) - [The Terrifying Truth About Why Tesla's Cars Keep Crashing](https://soylentnews.org/article.pl?sid=25/07/06/136235&from=rss)
 * [2025-07-07, 09:31:00](https://soylentnews.org/article.pl?sid=25/07/06/131253&from=rss) - [How to Fully Incapacitate Google Tag Manager and Why You Should (2022)](https://soylentnews.org/article.pl?sid=25/07/06/131253&from=rss)
 * [2025-07-07, 04:46:00](https://soylentnews.org/article.pl?sid=25/07/06/1250244&from=rss) - [CISPE Warns EU Against Over-Regulation of Water](https://soylentnews.org/article.pl?sid=25/07/06/1250244&from=rss)
