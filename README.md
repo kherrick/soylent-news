@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-07, 04:46:00](https://soylentnews.org/article.pl?sid=25/07/06/1250244&from=rss) - [CISPE Warns EU Against Over-Regulation of Water](https://soylentnews.org/article.pl?sid=25/07/06/1250244&from=rss)
 * [2025-07-07, 00:00:00](https://soylentnews.org/article.pl?sid=25/07/06/1241242&from=rss) - [Verizon Denies Legitimacy of 61 Million Records for Sale](https://soylentnews.org/article.pl?sid=25/07/06/1241242&from=rss)
 * [2025-07-06, 19:12:00](https://soylentnews.org/article.pl?sid=25/07/05/1910216&from=rss) - [Inside Elon Musk's Stellar Year at the Texas Capitol](https://soylentnews.org/article.pl?sid=25/07/05/1910216&from=rss)
 * [2025-07-06, 14:30:00](https://soylentnews.org/article.pl?sid=25/07/05/1341208&from=rss) - [Bezos-Funded Satellite Tracking Methane Emissions Loses Power in Space](https://soylentnews.org/article.pl?sid=25/07/05/1341208&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/06/26/1527200&from=rss) - [Canonical to Remove GPU Exploit Mitigation to Gain 20% Performance Boost](https://soylentnews.org/article.pl?sid=25/06/26/1527200&from=rss)
 * [2025-06-28, 07:03:00](https://soylentnews.org/article.pl?sid=25/06/26/158255&from=rss) - [Edit is Back](https://soylentnews.org/article.pl?sid=25/06/26/158255&from=rss)
 * [2025-06-28, 02:17:00](https://soylentnews.org/article.pl?sid=25/06/26/153208&from=rss) - [Trump Administration Moves to Count Crypto as a Federal Mortgage Asset](https://soylentnews.org/article.pl?sid=25/06/26/153208&from=rss)
-* [2025-06-27, 21:33:00](https://soylentnews.org/article.pl?sid=25/06/26/0234223&from=rss) - [A Solid-State Battery Breakthrough May be Taking Shape in Maryland](https://soylentnews.org/article.pl?sid=25/06/26/0234223&from=rss)
 
 ## [Archives](archives/index.md)
 
