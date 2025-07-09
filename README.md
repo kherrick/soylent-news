@@ -1,6 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2025-07-09, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/07/2215236&from=rss) - [Inside the British Lab Growing a Biological Computer](https://soylentnews.org/article.pl?sid=25/07/07/2215236&from=rss)
+* [2025-07-09, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/07/2242255&from=rss) - [Stop Killing Games Finally Reaches One Million Signature Milestone, but There's a Pretty Big Catch](https://soylentnews.org/article.pl?sid=25/07/07/2242255&from=rss)
+* [2025-07-09, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/07/2215236&from=rss) - [Inside the Australian Lab Growing a Biological Computer](https://soylentnews.org/article.pl?sid=25/07/07/2215236&from=rss)
 * [2025-07-08, 23:02:00](https://soylentnews.org/article.pl?sid=25/07/07/0143225&from=rss) - [A New Diabetes Treatment Could Free People From Insulin Injections](https://soylentnews.org/article.pl?sid=25/07/07/0143225&from=rss)
 * [2025-07-08, 18:11:00](https://soylentnews.org/article.pl?sid=25/07/07/0139229&from=rss) - [Why Don’t Bats Get Cancer? Researchers Discover Protection From Genes and Strong Immune Systems](https://soylentnews.org/article.pl?sid=25/07/07/0139229&from=rss)
 * [2025-07-08, 13:30:00](https://soylentnews.org/article.pl?sid=25/07/06/2318236&from=rss) - [The European Commission's Call for Technical Advisors: Save Privacy](https://soylentnews.org/article.pl?sid=25/07/06/2318236&from=rss)
@@ -49,7 +50,6 @@
 * [2025-06-30, 13:45:00](https://soylentnews.org/article.pl?sid=25/06/30/020252&from=rss) - [You Sound Like ChatGPT](https://soylentnews.org/article.pl?sid=25/06/30/020252&from=rss)
 * [2025-06-30, 09:03:00](https://soylentnews.org/article.pl?sid=25/06/29/1626204&from=rss) - [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&from=rss)
 * [2025-06-30, 04:18:00](https://soylentnews.org/article.pl?sid=25/06/29/1610258&from=rss) - [At Last, We Are Discovering What Quantum Computers Will be Useful for](https://soylentnews.org/article.pl?sid=25/06/29/1610258&from=rss)
-* [2025-06-29, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/29/164217&from=rss) - [Work Begins to Create Artificial Human DNA From Scratch](https://soylentnews.org/article.pl?sid=25/06/29/164217&from=rss)
 
 ## [Archives](archives/index.md)
 
