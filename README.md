@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-09, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/07/2215236&from=rss) - [Inside the British Lab Growing a Biological Computer](https://soylentnews.org/article.pl?sid=25/07/07/2215236&from=rss)
+* [2025-07-08, 23:02:00](https://soylentnews.org/article.pl?sid=25/07/07/0143225&from=rss) - [A New Diabetes Treatment Could Free People From Insulin Injections](https://soylentnews.org/article.pl?sid=25/07/07/0143225&from=rss)
 * [2025-07-08, 18:11:00](https://soylentnews.org/article.pl?sid=25/07/07/0139229&from=rss) - [Why Don’t Bats Get Cancer? Researchers Discover Protection From Genes and Strong Immune Systems](https://soylentnews.org/article.pl?sid=25/07/07/0139229&from=rss)
 * [2025-07-08, 13:30:00](https://soylentnews.org/article.pl?sid=25/07/06/2318236&from=rss) - [The European Commission's Call for Technical Advisors: Save Privacy](https://soylentnews.org/article.pl?sid=25/07/06/2318236&from=rss)
 * [2025-07-08, 08:45:00](https://soylentnews.org/article.pl?sid=25/07/06/2238227&from=rss) - [First Leisure Swim for Parisians Into the Seine in More Than a Century](https://soylentnews.org/article.pl?sid=25/07/06/2238227&from=rss)
@@ -48,8 +50,6 @@
 * [2025-06-30, 09:03:00](https://soylentnews.org/article.pl?sid=25/06/29/1626204&from=rss) - [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&from=rss)
 * [2025-06-30, 04:18:00](https://soylentnews.org/article.pl?sid=25/06/29/1610258&from=rss) - [At Last, We Are Discovering What Quantum Computers Will be Useful for](https://soylentnews.org/article.pl?sid=25/06/29/1610258&from=rss)
 * [2025-06-29, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/29/164217&from=rss) - [Work Begins to Create Artificial Human DNA From Scratch](https://soylentnews.org/article.pl?sid=25/06/29/164217&from=rss)
-* [2025-06-29, 18:50:00](https://soylentnews.org/article.pl?sid=25/06/29/1253258&from=rss) - [Why Countries Are Suddenly Broadcasting Their Spies’ Exploits](https://soylentnews.org/article.pl?sid=25/06/29/1253258&from=rss)
-* [2025-06-29, 14:05:00](https://soylentnews.org/article.pl?sid=25/06/29/0435239&from=rss) - [First Images From World's Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&from=rss)
 
 ## [Archives](archives/index.md)
 
