@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-10, 17:58:00](https://soylentnews.org/article.pl?sid=25/07/09/116236&from=rss) - [Earth is Going to Spin Much Faster Over the Next Few Months](https://soylentnews.org/article.pl?sid=25/07/09/116236&from=rss)
 * [2025-07-10, 13:14:00](https://soylentnews.org/article.pl?sid=25/07/09/1058230&from=rss) - [Compact GeV Proton Acceleration Using Ultra-Intense Lasers](https://soylentnews.org/article.pl?sid=25/07/09/1058230&from=rss)
 * [2025-07-10, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/08/2330230&from=rss) - [Shrinking Antarctic Sea Ice Is Warming The Ocean Faster Than Expected](https://soylentnews.org/article.pl?sid=25/07/08/2330230&from=rss)
 * [2025-07-10, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/08/1724218&from=rss) - [The Curious Rise of Giant Tablets on Wheels](https://soylentnews.org/article.pl?sid=25/07/08/1724218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-01, 22:53:00](https://soylentnews.org/article.pl?sid=25/06/30/1817206&from=rss) - [Ex-Nato Hacker: In Cyber, There’s No Such Thing As A Ceasefire](https://soylentnews.org/article.pl?sid=25/06/30/1817206&from=rss)
 * [2025-07-01, 18:12:00](https://soylentnews.org/article.pl?sid=25/06/30/1738246&from=rss) - [As AI Kills Search Traffic, Google Launches Offerwall to Boost Publisher Revenue](https://soylentnews.org/article.pl?sid=25/06/30/1738246&from=rss)
 * [2025-07-01, 13:28:00](https://soylentnews.org/article.pl?sid=25/06/30/1737227&from=rss) - [Facebook is Starting to Feed its AI With Private, Unpublished Photos](https://soylentnews.org/article.pl?sid=25/06/30/1737227&from=rss)
-* [2025-07-01, 08:42:00](https://soylentnews.org/article.pl?sid=25/06/30/1153228&from=rss) - [Bluetooth Flaws Could Let Hackers Spy Through Your Microphone](https://soylentnews.org/article.pl?sid=25/06/30/1153228&from=rss)
 
 ## [Archives](archives/index.md)
 
