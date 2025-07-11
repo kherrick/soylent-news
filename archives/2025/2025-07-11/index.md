@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 08:15:00](https://soylentnews.org/article.pl?sid=25/07/10/0029200&from=rss) - [Nvidia Has Become the World’s First Company Worth $4 Trillion](https://soylentnews.org/article.pl?sid=25/07/10/0029200&from=rss)
 * [2025-07-11, 03:30:00](https://soylentnews.org/article.pl?sid=25/07/10/0025232&from=rss) - [Apple Just Released an Interesting Coding Language Model](https://soylentnews.org/article.pl?sid=25/07/10/0025232&from=rss)
