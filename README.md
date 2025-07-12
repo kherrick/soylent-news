@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-12, 00:31:00](https://soylentnews.org/article.pl?sid=25/07/11/1218211&from=rss) - [Derinkuyu: A Subterranean Marvel of Ancient Engineering with  Capacity for 20,000 Inhabitants](https://soylentnews.org/article.pl?sid=25/07/11/1218211&from=rss)
 * [2025-07-11, 19:46:00](https://soylentnews.org/article.pl?sid=25/07/11/114218&from=rss) - [New Android TapTrap Attack Fools Users With Invisible UI Trick](https://soylentnews.org/article.pl?sid=25/07/11/114218&from=rss)
 * [2025-07-11, 15:02:00](https://soylentnews.org/article.pl?sid=25/07/11/0518225&from=rss) - [What is AGI? Nobody Agrees, and It's Tearing Microsoft and OpenAI Apart.](https://soylentnews.org/article.pl?sid=25/07/11/0518225&from=rss)
 * [2025-07-11, 08:15:00](https://soylentnews.org/article.pl?sid=25/07/10/0029200&from=rss) - [Nvidia Has Become the World’s First Company Worth $4 Trillion](https://soylentnews.org/article.pl?sid=25/07/10/0029200&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-02, 22:50:00](https://soylentnews.org/article.pl?sid=25/07/02/1141208&from=rss) - [Fedora: Proposal for the Removal of i686 Withdrawn](https://soylentnews.org/article.pl?sid=25/07/02/1141208&from=rss)
 * [2025-07-02, 18:05:00](https://soylentnews.org/article.pl?sid=25/07/02/0734207&from=rss) - [Are Brother's Insecure Printers Illegal in the UK?](https://soylentnews.org/article.pl?sid=25/07/02/0734207&from=rss)
 * [2025-07-02, 13:17:00](https://soylentnews.org/article.pl?sid=25/07/02/0110229&from=rss) - [Mexican Drug Cartel Hacker Spied on FBI Official's Phone to Track and Kill Informants](https://soylentnews.org/article.pl?sid=25/07/02/0110229&from=rss)
-* [2025-07-02, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/01/0415211&from=rss) - [Genetic Study Reveals Humanity's Longest Migration](https://soylentnews.org/article.pl?sid=25/07/01/0415211&from=rss)
 
 ## [Archives](archives/index.md)
 
