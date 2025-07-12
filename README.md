@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-12, 19:29:00](https://soylentnews.org/article.pl?sid=25/07/12/123235&from=rss) - [Semiconductor Industry Could Short Out as Copper Runs Dry](https://soylentnews.org/article.pl?sid=25/07/12/123235&from=rss)
 * [2025-07-12, 14:45:00](https://soylentnews.org/article.pl?sid=25/07/11/238234&from=rss) - [70,000 Years Ago Humans Underwent A Major Shift – That’s Why We Exist ](https://soylentnews.org/article.pl?sid=25/07/11/238234&from=rss)
 * [2025-07-12, 10:00:00](https://soylentnews.org/article.pl?sid=25/07/11/2237233&from=rss) - [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://soylentnews.org/article.pl?sid=25/07/11/2237233&from=rss)
 * [2025-07-12, 05:15:00](https://soylentnews.org/article.pl?sid=25/07/11/2226206&from=rss) - [CEO Claims Intel No Longer In The \"Top 10 Semiconductor Companies\" ](https://soylentnews.org/article.pl?sid=25/07/11/2226206&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-03, 16:56:00](https://soylentnews.org/article.pl?sid=25/07/02/1214228&from=rss) - [Why the Sun is So Good at Evaporating Water](https://soylentnews.org/article.pl?sid=25/07/02/1214228&from=rss)
 * [2025-07-03, 12:11:00](https://soylentnews.org/article.pl?sid=25/07/02/1153235&from=rss) - [Deutsche Bahn Train Hits 405 km/h Without Falling to Bits](https://soylentnews.org/article.pl?sid=25/07/02/1153235&from=rss)
 * [2025-07-03, 08:16:00](https://soylentnews.org/article.pl?sid=25/07/02/1148257&from=rss) - [Arm-Based Servers to Grow 70% This Year](https://soylentnews.org/article.pl?sid=25/07/02/1148257&from=rss)
-* [2025-07-03, 03:33:00](https://soylentnews.org/article.pl?sid=25/07/02/1144216&from=rss) - [Bruce Schneier on How Cybersecurity Fears Affect Confidence in Voting Systems](https://soylentnews.org/article.pl?sid=25/07/02/1144216&from=rss)
 
 ## [Archives](archives/index.md)
 
