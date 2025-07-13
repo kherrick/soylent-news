@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-13, 19:15:00](https://soylentnews.org/article.pl?sid=25/07/12/1336231&from=rss) - [Zombie Fabs Plague China's Chipmaking Ambitions, Failures Burning Tens of Billions of Dollars](https://soylentnews.org/article.pl?sid=25/07/12/1336231&from=rss)
 * [2025-07-13, 14:28:00](https://soylentnews.org/article.pl?sid=25/07/12/1251234&from=rss) - [Man's Ghastly Festering Ulcer Stumps Doctors—Until They Cut Out a Wedge of Flesh](https://soylentnews.org/article.pl?sid=25/07/12/1251234&from=rss)
 * [2025-07-13, 09:40:00](https://soylentnews.org/article.pl?sid=25/07/12/1244241&from=rss) - [This Glitchy, Error-Prone Tool Could Get You Deported](https://soylentnews.org/article.pl?sid=25/07/12/1244241&from=rss)
 * [2025-07-13, 04:56:00](https://soylentnews.org/article.pl?sid=25/07/12/1237201&from=rss) - [Experts Say It is Unlikely You Will See a Moa Any Time Soon](https://soylentnews.org/article.pl?sid=25/07/12/1237201&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-04, 11:57:00](https://soylentnews.org/article.pl?sid=25/07/02/1648236&from=rss) - [Two Years Later, Meta is Making DMs on Threads Official](https://soylentnews.org/article.pl?sid=25/07/02/1648236&from=rss)
 * [2025-07-04, 07:11:00](https://soylentnews.org/article.pl?sid=25/07/02/1645202&from=rss) - [Norwegian Northern Lights Operational ](https://soylentnews.org/article.pl?sid=25/07/02/1645202&from=rss)
 * [2025-07-04, 05:35:00](https://soylentnews.org/meta/article.pl?sid=25/07/04/0527252&from=rss) - [Happy Independence Day !!!](https://soylentnews.org/meta/article.pl?sid=25/07/04/0527252&from=rss)
-* [2025-07-04, 02:27:00](https://soylentnews.org/article.pl?sid=25/07/02/1640204&from=rss) - [China Could Be The World's Top Semiconductor Foundry Hub By 2030](https://soylentnews.org/article.pl?sid=25/07/02/1640204&from=rss)
 
 ## [Archives](archives/index.md)
 
