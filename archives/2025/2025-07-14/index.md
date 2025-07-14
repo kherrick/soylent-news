@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 23:30:00](https://soylentnews.org/article.pl?sid=25/07/13/232209&from=rss) - [Supporting Mission-Driven Space Innovation, For Earth And Beyond](https://soylentnews.org/article.pl?sid=25/07/13/232209&from=rss)
 * [2025-07-14, 18:45:00](https://soylentnews.org/article.pl?sid=25/07/13/044254&from=rss) - [China Claims Big Advances In Classical And Quantum Computers](https://soylentnews.org/article.pl?sid=25/07/13/044254&from=rss)
 * [2025-07-14, 14:00:00](https://soylentnews.org/article.pl?sid=25/07/13/014215&from=rss) - [AMD Discloses New CPU Flaws that can Enable Data Leaks via Timing Attacks](https://soylentnews.org/article.pl?sid=25/07/13/014215&from=rss)
 * [2025-07-14, 09:15:00](https://soylentnews.org/article.pl?sid=25/07/13/0039240&from=rss) - ['Positive Review Only': Researchers Hide AI Prompts in Papers](https://soylentnews.org/article.pl?sid=25/07/13/0039240&from=rss)
