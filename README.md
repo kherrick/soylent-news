@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-14, 18:45:00](https://soylentnews.org/article.pl?sid=25/07/13/044254&from=rss) - [China Claims Big Advances In Classical And Quantum Computers](https://soylentnews.org/article.pl?sid=25/07/13/044254&from=rss)
 * [2025-07-14, 14:00:00](https://soylentnews.org/article.pl?sid=25/07/13/014215&from=rss) - [AMD Discloses New CPU Flaws that can Enable Data Leaks via Timing Attacks](https://soylentnews.org/article.pl?sid=25/07/13/014215&from=rss)
 * [2025-07-14, 09:15:00](https://soylentnews.org/article.pl?sid=25/07/13/0039240&from=rss) - ['Positive Review Only': Researchers Hide AI Prompts in Papers](https://soylentnews.org/article.pl?sid=25/07/13/0039240&from=rss)
 * [2025-07-14, 04:30:00](https://soylentnews.org/article.pl?sid=25/07/13/0024234&from=rss) - [The Foolproof Way to Win Any Lottery, According to Maths](https://soylentnews.org/article.pl?sid=25/07/13/0024234&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-05, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/03/1124254&from=rss) - [Candidatus Sukunaarchaeum Mirabile is a Novel Archaeon With an Unprecedentedly Small Genome](https://soylentnews.org/article.pl?sid=25/07/03/1124254&from=rss)
 * [2025-07-05, 07:00:00](https://soylentnews.org/article.pl?sid=25/07/03/0247205&from=rss) - [Canada Orders Chinese CCTV Biz Hikvision To Quit The Country](https://soylentnews.org/article.pl?sid=25/07/03/0247205&from=rss)
 * [2025-07-05, 02:15:00](https://soylentnews.org/article.pl?sid=25/07/03/0230247&from=rss) - [North Koreans Posing As Remote Workers stole $1M ](https://soylentnews.org/article.pl?sid=25/07/03/0230247&from=rss)
-* [2025-07-04, 21:23:00](https://soylentnews.org/article.pl?sid=25/07/02/170202&from=rss) - [Mess is Best: Disordered Structure of Battery-Like Devices Improves Performance](https://soylentnews.org/article.pl?sid=25/07/02/170202&from=rss)
 
 ## [Archives](archives/index.md)
 
