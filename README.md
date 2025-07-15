@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-15, 03:15:00](https://soylentnews.org/article.pl?sid=25/07/14/0413203&from=rss) - [Physicists Start To Pin Down How Stars Forge Heavy Atoms](https://soylentnews.org/article.pl?sid=25/07/14/0413203&from=rss)
 * [2025-07-14, 23:30:00](https://soylentnews.org/article.pl?sid=25/07/13/232209&from=rss) - [Supporting Mission-Driven Space Innovation, For Earth And Beyond](https://soylentnews.org/article.pl?sid=25/07/13/232209&from=rss)
 * [2025-07-14, 18:45:00](https://soylentnews.org/article.pl?sid=25/07/13/044254&from=rss) - [China Claims Big Advances In Classical And Quantum Computers](https://soylentnews.org/article.pl?sid=25/07/13/044254&from=rss)
 * [2025-07-14, 14:00:00](https://soylentnews.org/article.pl?sid=25/07/13/014215&from=rss) - [AMD Discloses New CPU Flaws that can Enable Data Leaks via Timing Attacks](https://soylentnews.org/article.pl?sid=25/07/13/014215&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-05, 21:12:00](https://soylentnews.org/article.pl?sid=25/07/03/1156244&from=rss) - [MASH - and the Loretta Swit Obituary](https://soylentnews.org/article.pl?sid=25/07/03/1156244&from=rss)
 * [2025-07-05, 16:26:00](https://soylentnews.org/article.pl?sid=25/07/03/1127224&from=rss) - [Release The Fish](https://soylentnews.org/article.pl?sid=25/07/03/1127224&from=rss)
 * [2025-07-05, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/03/1124254&from=rss) - [Candidatus Sukunaarchaeum Mirabile is a Novel Archaeon With an Unprecedentedly Small Genome](https://soylentnews.org/article.pl?sid=25/07/03/1124254&from=rss)
-* [2025-07-05, 07:00:00](https://soylentnews.org/article.pl?sid=25/07/03/0247205&from=rss) - [Canada Orders Chinese CCTV Biz Hikvision To Quit The Country](https://soylentnews.org/article.pl?sid=25/07/03/0247205&from=rss)
 
 ## [Archives](archives/index.md)
 
