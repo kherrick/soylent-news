@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-16, 16:53:00](https://soylentnews.org/article.pl?sid=25/07/15/1528250&from=rss) - [Texas Governor Says His Emails With Elon Musk are Too ‘Intimate or Embarrassing’ to Release](https://soylentnews.org/article.pl?sid=25/07/15/1528250&from=rss)
 * [2025-07-16, 12:15:00](https://soylentnews.org/article.pl?sid=25/07/15/0229246&from=rss) - [Secretive Chinese Satellite Emerges in Surprising Orbit After 6-Day Vanishing Act](https://soylentnews.org/article.pl?sid=25/07/15/0229246&from=rss)
 * [2025-07-16, 07:34:00](https://soylentnews.org/article.pl?sid=25/07/14/1828216&from=rss) - [Stopping The Rot When Good Software Goes Bad Means New Rules](https://soylentnews.org/article.pl?sid=25/07/14/1828216&from=rss)
 * [2025-07-16, 02:51:00](https://soylentnews.org/article.pl?sid=25/07/14/1819237&from=rss) - [GPS On The Fritz? Britain And France Plot A Backup Plan](https://soylentnews.org/article.pl?sid=25/07/14/1819237&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-07, 09:31:00](https://soylentnews.org/article.pl?sid=25/07/06/131253&from=rss) - [How to Fully Incapacitate Google Tag Manager and Why You Should (2022)](https://soylentnews.org/article.pl?sid=25/07/06/131253&from=rss)
 * [2025-07-07, 04:46:00](https://soylentnews.org/article.pl?sid=25/07/06/1250244&from=rss) - [CISPE Warns EU Against Over-Regulation of Water](https://soylentnews.org/article.pl?sid=25/07/06/1250244&from=rss)
 * [2025-07-07, 00:00:00](https://soylentnews.org/article.pl?sid=25/07/06/1241242&from=rss) - [Verizon Denies Legitimacy of 61 Million Records for Sale](https://soylentnews.org/article.pl?sid=25/07/06/1241242&from=rss)
-* [2025-07-06, 19:12:00](https://soylentnews.org/article.pl?sid=25/07/05/1910216&from=rss) - [Inside Elon Musk's Stellar Year at the Texas Capitol](https://soylentnews.org/article.pl?sid=25/07/05/1910216&from=rss)
 
 ## [Archives](archives/index.md)
 
