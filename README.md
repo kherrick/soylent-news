@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-18, 11:26:00](https://soylentnews.org/article.pl?sid=25/07/17/127255&from=rss) - [Intel Axes Thousands of Technicians and Engineers in Sweeping U.S. Layoffs](https://soylentnews.org/article.pl?sid=25/07/17/127255&from=rss)
 * [2025-07-18, 06:49:00](https://soylentnews.org/article.pl?sid=25/07/17/124242&from=rss) - [Engineering the Origin of the Wheel](https://soylentnews.org/article.pl?sid=25/07/17/124242&from=rss)
 * [2025-07-18, 02:05:00](https://soylentnews.org/article.pl?sid=25/07/17/1148204&from=rss) - [Nvidia Chips Become the First GPUs to Fall to Rowhammer Bit-Flip Attacks](https://soylentnews.org/article.pl?sid=25/07/17/1148204&from=rss)
 * [2025-07-17, 21:14:00](https://soylentnews.org/article.pl?sid=25/07/16/188244&from=rss) - [Belkin Shows Tech Firms Getting Too Comfortable With Bricking Customers’ Stuff](https://soylentnews.org/article.pl?sid=25/07/16/188244&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-09, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/07/2215236&from=rss) - [Inside the Australian Lab Growing a Biological Computer](https://soylentnews.org/article.pl?sid=25/07/07/2215236&from=rss)
 * [2025-07-08, 23:02:00](https://soylentnews.org/article.pl?sid=25/07/07/0143225&from=rss) - [A New Diabetes Treatment Could Free People From Insulin Injections](https://soylentnews.org/article.pl?sid=25/07/07/0143225&from=rss)
 * [2025-07-08, 18:11:00](https://soylentnews.org/article.pl?sid=25/07/07/0139229&from=rss) - [Why Don’t Bats Get Cancer? Researchers Discover Protection From Genes and Strong Immune Systems](https://soylentnews.org/article.pl?sid=25/07/07/0139229&from=rss)
-* [2025-07-08, 13:30:00](https://soylentnews.org/article.pl?sid=25/07/06/2318236&from=rss) - [The European Commission's Call for Technical Advisors: Save Privacy](https://soylentnews.org/article.pl?sid=25/07/06/2318236&from=rss)
 
 ## [Archives](archives/index.md)
 
