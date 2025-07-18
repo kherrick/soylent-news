@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-18, 02:05:00](https://soylentnews.org/article.pl?sid=25/07/17/1148204&from=rss) - [Nvidia Chips Become the First GPUs to Fall to Rowhammer Bit-Flip Attacks](https://soylentnews.org/article.pl?sid=25/07/17/1148204&from=rss)
 * [2025-07-17, 21:14:00](https://soylentnews.org/article.pl?sid=25/07/16/188244&from=rss) - [Belkin Shows Tech Firms Getting Too Comfortable With Bricking Customers’ Stuff](https://soylentnews.org/article.pl?sid=25/07/16/188244&from=rss)
 * [2025-07-17, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/16/182208&from=rss) - [Holographic Ribbon Aims To Oust Magnetic Tape With 50-Year Life Span And 200Tb Per Cartridge](https://soylentnews.org/article.pl?sid=25/07/16/182208&from=rss)
 * [2025-07-17, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/16/1758241&from=rss) - [AI Slows Down Some Experienced Software Developers](https://soylentnews.org/article.pl?sid=25/07/16/1758241&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-08, 18:11:00](https://soylentnews.org/article.pl?sid=25/07/07/0139229&from=rss) - [Why Don’t Bats Get Cancer? Researchers Discover Protection From Genes and Strong Immune Systems](https://soylentnews.org/article.pl?sid=25/07/07/0139229&from=rss)
 * [2025-07-08, 13:30:00](https://soylentnews.org/article.pl?sid=25/07/06/2318236&from=rss) - [The European Commission's Call for Technical Advisors: Save Privacy](https://soylentnews.org/article.pl?sid=25/07/06/2318236&from=rss)
 * [2025-07-08, 08:45:00](https://soylentnews.org/article.pl?sid=25/07/06/2238227&from=rss) - [First Leisure Swim for Parisians Into the Seine in More Than a Century](https://soylentnews.org/article.pl?sid=25/07/06/2238227&from=rss)
-* [2025-07-08, 04:31:00](https://soylentnews.org/article.pl?sid=25/07/06/1323229&from=rss) - [UK Eyes New Laws Over Cable Sabotage](https://soylentnews.org/article.pl?sid=25/07/06/1323229&from=rss)
 
 ## [Archives](archives/index.md)
 
