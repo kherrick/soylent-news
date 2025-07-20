@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-20, 20:35:00](https://soylentnews.org/article.pl?sid=25/07/19/1342209&from=rss) - [Iran Seeks Three Cloud Providers To Power Its Government](https://soylentnews.org/article.pl?sid=25/07/19/1342209&from=rss)
 * [2025-07-20, 19:12:00](https://soylentnews.org/article.pl?sid=25/07/20/1854256&from=rss) - [Remote Access Trojan (RAT) Found in the AUR (Arch Linux User Repository)](https://soylentnews.org/article.pl?sid=25/07/20/1854256&from=rss)
 * [2025-07-20, 15:49:00](https://soylentnews.org/article.pl?sid=25/07/19/123202&from=rss) - [Intel Has Discontinued Clear Linux, Effective Immediately](https://soylentnews.org/article.pl?sid=25/07/19/123202&from=rss)
 * [2025-07-20, 11:04:00](https://soylentnews.org/article.pl?sid=25/07/19/0033258&from=rss) - [The Latest Windows PCs Remember Everything](https://soylentnews.org/article.pl?sid=25/07/19/0033258&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-11, 19:46:00](https://soylentnews.org/article.pl?sid=25/07/11/114218&from=rss) - [New Android TapTrap Attack Fools Users With Invisible UI Trick](https://soylentnews.org/article.pl?sid=25/07/11/114218&from=rss)
 * [2025-07-11, 15:02:00](https://soylentnews.org/article.pl?sid=25/07/11/0518225&from=rss) - [What is AGI? Nobody Agrees, and It's Tearing Microsoft and OpenAI Apart.](https://soylentnews.org/article.pl?sid=25/07/11/0518225&from=rss)
 * [2025-07-11, 08:15:00](https://soylentnews.org/article.pl?sid=25/07/10/0029200&from=rss) - [Nvidia Has Become the World’s First Company Worth $4 Trillion](https://soylentnews.org/article.pl?sid=25/07/10/0029200&from=rss)
-* [2025-07-11, 03:30:00](https://soylentnews.org/article.pl?sid=25/07/10/0025232&from=rss) - [Apple Just Released an Interesting Coding Language Model](https://soylentnews.org/article.pl?sid=25/07/10/0025232&from=rss)
 
 ## [Archives](archives/index.md)
 
