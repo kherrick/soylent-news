@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-20, 06:18:00](https://soylentnews.org/article.pl?sid=25/07/19/0023239&from=rss) - [Infographic: Every Microsoft Acquisition Since 1986](https://soylentnews.org/article.pl?sid=25/07/19/0023239&from=rss)
 * [2025-07-20, 01:33:00](https://soylentnews.org/article.pl?sid=25/07/18/2350226&from=rss) - [Is Tor Trustworthy and Safe?](https://soylentnews.org/article.pl?sid=25/07/18/2350226&from=rss)
 * [2025-07-19, 20:33:00](https://soylentnews.org/article.pl?sid=25/07/18/0948223&from=rss) - [The Fascinating Science of Pain – and Why Everyone Feels it Differently](https://soylentnews.org/article.pl?sid=25/07/18/0948223&from=rss)
 * [2025-07-19, 15:50:00](https://soylentnews.org/article.pl?sid=25/07/18/0939219&from=rss) - [FuguIta: OpenBSD Live CD - Desktop Environment Demo Version with XFCE v.4.20.0](https://soylentnews.org/article.pl?sid=25/07/18/0939219&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-10, 22:43:00](https://soylentnews.org/article.pl?sid=25/07/09/1114240&from=rss) - [AI is Scraping the Web, but the Web is Fighting Back](https://soylentnews.org/article.pl?sid=25/07/09/1114240&from=rss)
 * [2025-07-10, 17:58:00](https://soylentnews.org/article.pl?sid=25/07/09/116236&from=rss) - [Earth is Going to Spin Much Faster Over the Next Few Months](https://soylentnews.org/article.pl?sid=25/07/09/116236&from=rss)
 * [2025-07-10, 13:14:00](https://soylentnews.org/article.pl?sid=25/07/09/1058230&from=rss) - [Compact GeV Proton Acceleration Using Ultra-Intense Lasers](https://soylentnews.org/article.pl?sid=25/07/09/1058230&from=rss)
-* [2025-07-10, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/08/2330230&from=rss) - [Shrinking Antarctic Sea Ice Is Warming The Ocean Faster Than Expected](https://soylentnews.org/article.pl?sid=25/07/08/2330230&from=rss)
 
 ## [Archives](archives/index.md)
 

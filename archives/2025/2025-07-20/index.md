@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 06:18:00](https://soylentnews.org/article.pl?sid=25/07/19/0023239&from=rss) - [Infographic: Every Microsoft Acquisition Since 1986](https://soylentnews.org/article.pl?sid=25/07/19/0023239&from=rss)
 * [2025-07-20, 01:33:00](https://soylentnews.org/article.pl?sid=25/07/18/2350226&from=rss) - [Is Tor Trustworthy and Safe?](https://soylentnews.org/article.pl?sid=25/07/18/2350226&from=rss)
