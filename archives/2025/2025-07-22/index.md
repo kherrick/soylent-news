@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 20:09:00](https://soylentnews.org/article.pl?sid=25/07/21/2142206&from=rss) - [Popular Sugar Substitute Linked to Brain Cell Damage and Stroke Risk](https://soylentnews.org/article.pl?sid=25/07/21/2142206&from=rss)
 * [2025-07-22, 18:48:00](https://soylentnews.org/article.pl?sid=25/07/22/1846202&from=rss) - [RIP - Ozzy Osborne](https://soylentnews.org/article.pl?sid=25/07/22/1846202&from=rss)
 * [2025-07-22, 15:22:00](https://soylentnews.org/article.pl?sid=25/07/21/2130213&from=rss) - [A Strange Fossil at the Edge of the Solar System Just Shook Up Planet Nine Theories](https://soylentnews.org/article.pl?sid=25/07/21/2130213&from=rss)
 * [2025-07-22, 10:33:00](https://soylentnews.org/article.pl?sid=25/07/21/1642237&from=rss) - [Microsoft Says It Will No Longer Use Engineers in China for Department of Defense Work](https://soylentnews.org/article.pl?sid=25/07/21/1642237&from=rss)
