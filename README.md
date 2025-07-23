@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-23, 10:24:00](https://soylentnews.org/article.pl?sid=25/07/22/079200&from=rss) - [The Atomic Bomb Marker Inside Your Body](https://soylentnews.org/article.pl?sid=25/07/22/079200&from=rss)
 * [2025-07-23, 05:35:00](https://soylentnews.org/article.pl?sid=25/07/22/074257&from=rss) - [Matson Suspends Shipping EVs Citing Hazards of Lithium-ion Batteries](https://soylentnews.org/article.pl?sid=25/07/22/074257&from=rss)
 * [2025-07-23, 00:54:00](https://soylentnews.org/article.pl?sid=25/07/21/225220&from=rss) - [11,000-Year-Old Feast Uncovered: Why Hunters Hauled Wild Boars Across Mountains](https://soylentnews.org/article.pl?sid=25/07/21/225220&from=rss)
 * [2025-07-22, 20:09:00](https://soylentnews.org/article.pl?sid=25/07/21/2142206&from=rss) - [Popular Sugar Substitute Linked to Brain Cell Damage and Stroke Risk](https://soylentnews.org/article.pl?sid=25/07/21/2142206&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-14, 14:00:00](https://soylentnews.org/article.pl?sid=25/07/13/014215&from=rss) - [AMD Discloses New CPU Flaws that can Enable Data Leaks via Timing Attacks](https://soylentnews.org/article.pl?sid=25/07/13/014215&from=rss)
 * [2025-07-14, 09:15:00](https://soylentnews.org/article.pl?sid=25/07/13/0039240&from=rss) - ['Positive Review Only': Researchers Hide AI Prompts in Papers](https://soylentnews.org/article.pl?sid=25/07/13/0039240&from=rss)
 * [2025-07-14, 04:30:00](https://soylentnews.org/article.pl?sid=25/07/13/0024234&from=rss) - [The Foolproof Way to Win Any Lottery, According to Maths](https://soylentnews.org/article.pl?sid=25/07/13/0024234&from=rss)
-* [2025-07-13, 23:45:00](https://soylentnews.org/article.pl?sid=25/07/13/008207&from=rss) - [1960s Schools Experiment That Created a New Alphabet and Left Thousands of Children Unable to Spell](https://soylentnews.org/article.pl?sid=25/07/13/008207&from=rss)
 
 ## [Archives](archives/index.md)
 
