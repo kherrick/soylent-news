@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-23, 00:54:00](https://soylentnews.org/article.pl?sid=25/07/21/225220&from=rss) - [11,000-Year-Old Feast Uncovered: Why Hunters Hauled Wild Boars Across Mountains](https://soylentnews.org/article.pl?sid=25/07/21/225220&from=rss)
 * [2025-07-22, 20:09:00](https://soylentnews.org/article.pl?sid=25/07/21/2142206&from=rss) - [Popular Sugar Substitute Linked to Brain Cell Damage and Stroke Risk](https://soylentnews.org/article.pl?sid=25/07/21/2142206&from=rss)
 * [2025-07-22, 18:48:00](https://soylentnews.org/article.pl?sid=25/07/22/1846202&from=rss) - [RIP - Ozzy Osborne](https://soylentnews.org/article.pl?sid=25/07/22/1846202&from=rss)
 * [2025-07-22, 15:22:00](https://soylentnews.org/article.pl?sid=25/07/21/2130213&from=rss) - [A Strange Fossil at the Edge of the Solar System Just Shook Up Planet Nine Theories](https://soylentnews.org/article.pl?sid=25/07/21/2130213&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-14, 04:30:00](https://soylentnews.org/article.pl?sid=25/07/13/0024234&from=rss) - [The Foolproof Way to Win Any Lottery, According to Maths](https://soylentnews.org/article.pl?sid=25/07/13/0024234&from=rss)
 * [2025-07-13, 23:45:00](https://soylentnews.org/article.pl?sid=25/07/13/008207&from=rss) - [1960s Schools Experiment That Created a New Alphabet and Left Thousands of Children Unable to Spell](https://soylentnews.org/article.pl?sid=25/07/13/008207&from=rss)
 * [2025-07-13, 19:15:00](https://soylentnews.org/article.pl?sid=25/07/12/1336231&from=rss) - [Zombie Fabs Plague China's Chipmaking Ambitions, Failures Burning Tens of Billions of Dollars](https://soylentnews.org/article.pl?sid=25/07/12/1336231&from=rss)
-* [2025-07-13, 14:28:00](https://soylentnews.org/article.pl?sid=25/07/12/1251234&from=rss) - [Man's Ghastly Festering Ulcer Stumps Doctors—Until They Cut Out a Wedge of Flesh](https://soylentnews.org/article.pl?sid=25/07/12/1251234&from=rss)
 
 ## [Archives](archives/index.md)
 
