@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-25, 14:44:00](https://soylentnews.org/article.pl?sid=25/07/24/1036232&from=rss) - [Doctors Used Music Instead of Medication for Dementia Treatment](https://soylentnews.org/article.pl?sid=25/07/24/1036232&from=rss)
 * [2025-07-25, 10:01:00](https://soylentnews.org/article.pl?sid=25/07/24/1032215&from=rss) - [Welcome to DebConf25 - the 26th Debian Linux Conference](https://soylentnews.org/article.pl?sid=25/07/24/1032215&from=rss)
 * [2025-07-25, 05:17:00](https://soylentnews.org/article.pl?sid=25/07/24/1027254&from=rss) - ['I Destroyed Months of Your Work in Seconds' Says AI Coding Tool ](https://soylentnews.org/article.pl?sid=25/07/24/1027254&from=rss)
 * [2025-07-25, 00:28:00](https://soylentnews.org/article.pl?sid=25/07/24/1023256&from=rss) - [How the Space Shuttles Were Given Better Names Thanks to Star Trek](https://soylentnews.org/article.pl?sid=25/07/24/1023256&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-16, 21:33:00](https://soylentnews.org/article.pl?sid=25/07/15/1642247&from=rss) - [Nvidia CEO says China's Military Will Avoid U.S. AI Tech](https://soylentnews.org/article.pl?sid=25/07/15/1642247&from=rss)
 * [2025-07-16, 16:53:00](https://soylentnews.org/article.pl?sid=25/07/15/1528250&from=rss) - [Texas Governor Says His Emails With Elon Musk are Too ‘Intimate or Embarrassing’ to Release](https://soylentnews.org/article.pl?sid=25/07/15/1528250&from=rss)
 * [2025-07-16, 12:15:00](https://soylentnews.org/article.pl?sid=25/07/15/0229246&from=rss) - [Secretive Chinese Satellite Emerges in Surprising Orbit After 6-Day Vanishing Act](https://soylentnews.org/article.pl?sid=25/07/15/0229246&from=rss)
-* [2025-07-16, 07:34:00](https://soylentnews.org/article.pl?sid=25/07/14/1828216&from=rss) - [Stopping The Rot When Good Software Goes Bad Means New Rules](https://soylentnews.org/article.pl?sid=25/07/14/1828216&from=rss)
 
 ## [Archives](archives/index.md)
 
