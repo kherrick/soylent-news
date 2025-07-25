@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 05:17:00](https://soylentnews.org/article.pl?sid=25/07/24/1027254&from=rss) - ['I Destroyed Months of Your Work in Seconds' Says AI Coding Tool ](https://soylentnews.org/article.pl?sid=25/07/24/1027254&from=rss)
 * [2025-07-25, 00:28:00](https://soylentnews.org/article.pl?sid=25/07/24/1023256&from=rss) - [How the Space Shuttles Were Given Better Names Thanks to Star Trek](https://soylentnews.org/article.pl?sid=25/07/24/1023256&from=rss)
