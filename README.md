@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-26, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/26/0131222&from=rss) - [AI Industry's Size Obsession Is Killing ROI, Engineer Argues](https://soylentnews.org/article.pl?sid=25/07/26/0131222&from=rss)
 * [2025-07-26, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/25/0534229&from=rss) - [Work Less, Feel Better](https://soylentnews.org/article.pl?sid=25/07/25/0534229&from=rss)
 * [2025-07-26, 06:58:00](https://soylentnews.org/article.pl?sid=25/07/25/0511234&from=rss) - [Debian Linux \"Trixie\" is Planned to Release on August 9](https://soylentnews.org/article.pl?sid=25/07/25/0511234&from=rss)
 * [2025-07-26, 02:14:00](https://soylentnews.org/article.pl?sid=25/07/25/055215&from=rss) - [Low(er) Price Tesla Announced](https://soylentnews.org/article.pl?sid=25/07/25/055215&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-17, 21:14:00](https://soylentnews.org/article.pl?sid=25/07/16/188244&from=rss) - [Belkin Shows Tech Firms Getting Too Comfortable With Bricking Customers’ Stuff](https://soylentnews.org/article.pl?sid=25/07/16/188244&from=rss)
 * [2025-07-17, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/16/182208&from=rss) - [Holographic Ribbon Aims To Oust Magnetic Tape With 50-Year Life Span And 200Tb Per Cartridge](https://soylentnews.org/article.pl?sid=25/07/16/182208&from=rss)
 * [2025-07-17, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/16/1758241&from=rss) - [AI Slows Down Some Experienced Software Developers](https://soylentnews.org/article.pl?sid=25/07/16/1758241&from=rss)
-* [2025-07-17, 07:07:00](https://soylentnews.org/article.pl?sid=25/07/16/1725249&from=rss) - [Industrial Waste is Turning Into Rock in Just Decades, Study Suggests](https://soylentnews.org/article.pl?sid=25/07/16/1725249&from=rss)
 
 ## [Archives](archives/index.md)
 
