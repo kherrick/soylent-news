@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-07-26](index.md)
+
+* [2025-07-26, 02:14:00](https://soylentnews.org/article.pl?sid=25/07/25/055215&from=rss) - [Low(er) Price Tesla Announced](https://soylentnews.org/article.pl?sid=25/07/25/055215&from=rss)
