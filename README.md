@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-27, 02:06:00](https://soylentnews.org/article.pl?sid=25/07/26/0146240&from=rss) - [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&from=rss)
 * [2025-07-26, 21:19:00](https://soylentnews.org/article.pl?sid=25/07/26/0136203&from=rss) - [Tesla Continues Slide As Musk Warns Of \"Rough Quarters\" Ahead](https://soylentnews.org/article.pl?sid=25/07/26/0136203&from=rss)
 * [2025-07-26, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/26/0131222&from=rss) - [AI Industry's Size Obsession Is Killing ROI, Engineer Argues](https://soylentnews.org/article.pl?sid=25/07/26/0131222&from=rss)
 * [2025-07-26, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/25/0534229&from=rss) - [Work Less, Feel Better](https://soylentnews.org/article.pl?sid=25/07/25/0534229&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-18, 06:49:00](https://soylentnews.org/article.pl?sid=25/07/17/124242&from=rss) - [Engineering the Origin of the Wheel](https://soylentnews.org/article.pl?sid=25/07/17/124242&from=rss)
 * [2025-07-18, 02:05:00](https://soylentnews.org/article.pl?sid=25/07/17/1148204&from=rss) - [Nvidia Chips Become the First GPUs to Fall to Rowhammer Bit-Flip Attacks](https://soylentnews.org/article.pl?sid=25/07/17/1148204&from=rss)
 * [2025-07-17, 21:14:00](https://soylentnews.org/article.pl?sid=25/07/16/188244&from=rss) - [Belkin Shows Tech Firms Getting Too Comfortable With Bricking Customers’ Stuff](https://soylentnews.org/article.pl?sid=25/07/16/188244&from=rss)
-* [2025-07-17, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/16/182208&from=rss) - [Holographic Ribbon Aims To Oust Magnetic Tape With 50-Year Life Span And 200Tb Per Cartridge](https://soylentnews.org/article.pl?sid=25/07/16/182208&from=rss)
 
 ## [Archives](archives/index.md)
 
