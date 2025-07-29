@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-29, 07:27:00](https://soylentnews.org/article.pl?sid=25/07/27/0228236&from=rss) - [Discovery Alert: Flaring Star, Toasted Planet](https://soylentnews.org/article.pl?sid=25/07/27/0228236&from=rss)
 * [2025-07-29, 02:40:00](https://soylentnews.org/article.pl?sid=25/07/26/1945219&from=rss) - [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&from=rss)
 * [2025-07-28, 22:00:00](https://soylentnews.org/article.pl?sid=25/07/26/1935251&from=rss) - [As Site Blocking Is Increasing, European Commission Subtly Slaps Down Italy’s Piracy Shield](https://soylentnews.org/article.pl?sid=25/07/26/1935251&from=rss)
 * [2025-07-28, 17:11:00](https://soylentnews.org/article.pl?sid=25/07/26/1924256&from=rss) - [AMD CEO Says U.S.-Made TSMC Chips Are More Expensive, But Worth It](https://soylentnews.org/article.pl?sid=25/07/26/1924256&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-20, 11:04:00](https://soylentnews.org/article.pl?sid=25/07/19/0033258&from=rss) - [The Latest Windows PCs Remember Everything](https://soylentnews.org/article.pl?sid=25/07/19/0033258&from=rss)
 * [2025-07-20, 06:18:00](https://soylentnews.org/article.pl?sid=25/07/19/0023239&from=rss) - [Infographic: Every Microsoft Acquisition Since 1986](https://soylentnews.org/article.pl?sid=25/07/19/0023239&from=rss)
 * [2025-07-20, 01:33:00](https://soylentnews.org/article.pl?sid=25/07/18/2350226&from=rss) - [Is Tor Trustworthy and Safe?](https://soylentnews.org/article.pl?sid=25/07/18/2350226&from=rss)
-* [2025-07-19, 20:33:00](https://soylentnews.org/article.pl?sid=25/07/18/0948223&from=rss) - [The Fascinating Science of Pain – and Why Everyone Feels it Differently](https://soylentnews.org/article.pl?sid=25/07/18/0948223&from=rss)
 
 ## [Archives](archives/index.md)
 
