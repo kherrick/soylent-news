@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-07-31, 21:10:00](https://soylentnews.org/article.pl?sid=25/07/30/0143216&from=rss) - [Meta Pirated and Seeded Porn for Years to Train AI, Lawsuit Says](https://soylentnews.org/article.pl?sid=25/07/30/0143216&from=rss)
 * [2025-07-31, 16:29:00](https://soylentnews.org/article.pl?sid=25/07/30/0133228&from=rss) - [Why We Need a Right Not to be Manipulated](https://soylentnews.org/article.pl?sid=25/07/30/0133228&from=rss)
 * [2025-07-31, 11:45:00](https://soylentnews.org/article.pl?sid=25/07/30/0127251&from=rss) - [We Are Undergoing Unprecedented Loss of Freshwater Across the Planet](https://soylentnews.org/article.pl?sid=25/07/30/0127251&from=rss)
 * [2025-07-31, 07:01:00](https://soylentnews.org/article.pl?sid=25/07/30/0121254&from=rss) - [Manuel Moreale on Why Blogs Matter](https://soylentnews.org/article.pl?sid=25/07/30/0121254&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-22, 18:48:00](https://soylentnews.org/article.pl?sid=25/07/22/1846202&from=rss) - [RIP - Ozzy Osborne](https://soylentnews.org/article.pl?sid=25/07/22/1846202&from=rss)
 * [2025-07-22, 15:22:00](https://soylentnews.org/article.pl?sid=25/07/21/2130213&from=rss) - [A Strange Fossil at the Edge of the Solar System Just Shook Up Planet Nine Theories](https://soylentnews.org/article.pl?sid=25/07/21/2130213&from=rss)
 * [2025-07-22, 10:33:00](https://soylentnews.org/article.pl?sid=25/07/21/1642237&from=rss) - [Microsoft Says It Will No Longer Use Engineers in China for Department of Defense Work](https://soylentnews.org/article.pl?sid=25/07/21/1642237&from=rss)
-* [2025-07-22, 05:47:00](https://soylentnews.org/article.pl?sid=25/07/21/1617239&from=rss) - [Thelonious Monk, the Teenage Weirdo, and the Battle Over a Lost Sonic Masterpiece](https://soylentnews.org/article.pl?sid=25/07/21/1617239&from=rss)
 
 ## [Archives](archives/index.md)
 
