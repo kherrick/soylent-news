@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-01, 11:24:00](https://soylentnews.org/article.pl?sid=25/07/30/1457215&from=rss) - [From Apple to Greek Defense Start-up](https://soylentnews.org/article.pl?sid=25/07/30/1457215&from=rss)
 * [2025-08-01, 06:41:00](https://soylentnews.org/article.pl?sid=25/07/30/1450258&from=rss) - [X37B is Set to Launch and Test Quantum Navigation Technology](https://soylentnews.org/article.pl?sid=25/07/30/1450258&from=rss)
 * [2025-08-01, 01:55:00](https://soylentnews.org/article.pl?sid=25/07/30/1438215&from=rss) - [Anthropic Unveils New Rate Limits to Curb Claude Code Power Users](https://soylentnews.org/article.pl?sid=25/07/30/1438215&from=rss)
 * [2025-07-31, 21:10:00](https://soylentnews.org/article.pl?sid=25/07/30/0143216&from=rss) - [Meta Pirated and Seeded Porn for Years to Train AI, Lawsuit Says](https://soylentnews.org/article.pl?sid=25/07/30/0143216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-23, 05:35:00](https://soylentnews.org/article.pl?sid=25/07/22/074257&from=rss) - [Matson Suspends Shipping EVs Citing Hazards of Lithium-ion Batteries](https://soylentnews.org/article.pl?sid=25/07/22/074257&from=rss)
 * [2025-07-23, 00:54:00](https://soylentnews.org/article.pl?sid=25/07/21/225220&from=rss) - [11,000-Year-Old Feast Uncovered: Why Hunters Hauled Wild Boars Across Mountains](https://soylentnews.org/article.pl?sid=25/07/21/225220&from=rss)
 * [2025-07-22, 20:09:00](https://soylentnews.org/article.pl?sid=25/07/21/2142206&from=rss) - [Popular Sugar Substitute Linked to Brain Cell Damage and Stroke Risk](https://soylentnews.org/article.pl?sid=25/07/21/2142206&from=rss)
-* [2025-07-22, 18:48:00](https://soylentnews.org/article.pl?sid=25/07/22/1846202&from=rss) - [RIP - Ozzy Osborne](https://soylentnews.org/article.pl?sid=25/07/22/1846202&from=rss)
 
 ## [Archives](archives/index.md)
 
