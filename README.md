@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-02, 15:53:00](https://soylentnews.org/article.pl?sid=25/08/01/1511227&from=rss) - [Microsoft Bans LibreOffice Developer's Account Without Warning, Rejects Appeal](https://soylentnews.org/article.pl?sid=25/08/01/1511227&from=rss)
 * [2025-08-02, 11:08:00](https://soylentnews.org/article.pl?sid=25/08/01/1139259&from=rss) - [Radioactive Wasp Nest Found at Site Where US Once Made Nuclear Bombs](https://soylentnews.org/article.pl?sid=25/08/01/1139259&from=rss)
 * [2025-08-02, 06:20:00](https://soylentnews.org/article.pl?sid=25/08/01/0126209&from=rss) - [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&from=rss)
 * [2025-08-02, 01:37:00](https://soylentnews.org/article.pl?sid=25/08/01/0118232&from=rss) - [Microsoft Research Tries to Predict Jobs Most Impacted (i.e., Lost) by AI](https://soylentnews.org/article.pl?sid=25/08/01/0118232&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-24, 10:11:00](https://soylentnews.org/article.pl?sid=25/07/23/1253202&from=rss) - [Fearful of AI-Generated Grant Proposals, NIH Limits Scientists to Six Applications Per Year](https://soylentnews.org/article.pl?sid=25/07/23/1253202&from=rss)
 * [2025-07-24, 05:28:00](https://soylentnews.org/article.pl?sid=25/07/23/1249230&from=rss) - [A Surveillance Vendor Was Caught Exploiting a New SS7 Attack to Track People's Phone Locations](https://soylentnews.org/article.pl?sid=25/07/23/1249230&from=rss)
 * [2025-07-24, 00:39:00](https://soylentnews.org/article.pl?sid=25/07/23/1254253&from=rss) - [UPDATED: SharePoint Vulnerability With 9.8 Severity Rating Under Exploit Across Globe](https://soylentnews.org/article.pl?sid=25/07/23/1254253&from=rss)
-* [2025-07-23, 19:54:00](https://soylentnews.org/article.pl?sid=25/07/22/0833233&from=rss) - [Conversations Between LLMs Could Automate the Creation of Exploits, Study Shows](https://soylentnews.org/article.pl?sid=25/07/22/0833233&from=rss)
 
 ## [Archives](archives/index.md)
 
