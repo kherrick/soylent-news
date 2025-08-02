@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-02, 11:08:00](https://soylentnews.org/article.pl?sid=25/08/01/1139259&from=rss) - [Radioactive Wasp Nest Found at Site Where US Once Made Nuclear Bombs](https://soylentnews.org/article.pl?sid=25/08/01/1139259&from=rss)
 * [2025-08-02, 06:20:00](https://soylentnews.org/article.pl?sid=25/08/01/0126209&from=rss) - [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&from=rss)
 * [2025-08-02, 01:37:00](https://soylentnews.org/article.pl?sid=25/08/01/0118232&from=rss) - [Microsoft Research Tries to Predict Jobs Most Impacted (i.e., Lost) by AI](https://soylentnews.org/article.pl?sid=25/08/01/0118232&from=rss)
 * [2025-08-01, 20:52:00](https://soylentnews.org/article.pl?sid=25/07/30/1511218&from=rss) - [Intel Confirms It Will Dramatically Cut Its Workforce By The End Of 2025](https://soylentnews.org/article.pl?sid=25/07/30/1511218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-24, 05:28:00](https://soylentnews.org/article.pl?sid=25/07/23/1249230&from=rss) - [A Surveillance Vendor Was Caught Exploiting a New SS7 Attack to Track People's Phone Locations](https://soylentnews.org/article.pl?sid=25/07/23/1249230&from=rss)
 * [2025-07-24, 00:39:00](https://soylentnews.org/article.pl?sid=25/07/23/1254253&from=rss) - [UPDATED: SharePoint Vulnerability With 9.8 Severity Rating Under Exploit Across Globe](https://soylentnews.org/article.pl?sid=25/07/23/1254253&from=rss)
 * [2025-07-23, 19:54:00](https://soylentnews.org/article.pl?sid=25/07/22/0833233&from=rss) - [Conversations Between LLMs Could Automate the Creation of Exploits, Study Shows](https://soylentnews.org/article.pl?sid=25/07/22/0833233&from=rss)
-* [2025-07-23, 15:10:00](https://soylentnews.org/article.pl?sid=25/07/22/0822201&from=rss) - [Microsoft Wants to Find Out Why Windows 11 is So Slow](https://soylentnews.org/article.pl?sid=25/07/22/0822201&from=rss)
 
 ## [Archives](archives/index.md)
 
