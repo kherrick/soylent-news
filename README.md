@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-04, 05:47:00](https://soylentnews.org/article.pl?sid=25/08/02/2145230&from=rss) - [Kali Linux Can Now Run in Apple Containers on macOS Systems](https://soylentnews.org/article.pl?sid=25/08/02/2145230&from=rss)
 * [2025-08-04, 01:02:00](https://soylentnews.org/article.pl?sid=25/08/02/1318209&from=rss) - [Subliminal Learning: Language Models Transmit Behavioral Traits Via Hidden Signals in Data](https://soylentnews.org/article.pl?sid=25/08/02/1318209&from=rss)
 * [2025-08-03, 20:21:00](https://soylentnews.org/article.pl?sid=25/08/02/1252242&from=rss) - [Hacker Plants Three Strains Of Malware In A Steam Early Access Game Called Chemia](https://soylentnews.org/article.pl?sid=25/08/02/1252242&from=rss)
 * [2025-08-03, 15:35:00](https://soylentnews.org/article.pl?sid=25/08/02/1248204&from=rss) - [Hackers on Planet Earth (HOPE) In Person and Virtual Tickets Being Sold!](https://soylentnews.org/article.pl?sid=25/08/02/1248204&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-25, 21:31:00](https://soylentnews.org/article.pl?sid=25/07/25/0459237&from=rss) - [NASA Scientist Finds Predicted Companion Star to Betelgeuse - NASA](https://soylentnews.org/article.pl?sid=25/07/25/0459237&from=rss)
 * [2025-07-25, 14:44:00](https://soylentnews.org/article.pl?sid=25/07/24/1036232&from=rss) - [Doctors Used Music Instead of Medication for Dementia Treatment](https://soylentnews.org/article.pl?sid=25/07/24/1036232&from=rss)
 * [2025-07-25, 10:01:00](https://soylentnews.org/article.pl?sid=25/07/24/1032215&from=rss) - [Welcome to DebConf25 - the 26th Debian Linux Conference](https://soylentnews.org/article.pl?sid=25/07/24/1032215&from=rss)
-* [2025-07-25, 05:17:00](https://soylentnews.org/article.pl?sid=25/07/24/1027254&from=rss) - ['I Destroyed Months of Your Work in Seconds' Says AI Coding Tool ](https://soylentnews.org/article.pl?sid=25/07/24/1027254&from=rss)
 
 ## [Archives](archives/index.md)
 
