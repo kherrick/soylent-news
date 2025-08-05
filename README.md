@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-05, 14:54:00](https://soylentnews.org/article.pl?sid=25/08/03/2140229&from=rss) - [China Forms AI Alliances To Cut U.S. Tech Reliance](https://soylentnews.org/article.pl?sid=25/08/03/2140229&from=rss)
 * [2025-08-05, 10:03:00](https://soylentnews.org/article.pl?sid=25/08/03/2136209&from=rss) - [Solid-State Batteries Charge in 3 Minutes:  Why Aren't They in Your Phones and Cars Yet?](https://soylentnews.org/article.pl?sid=25/08/03/2136209&from=rss)
 * [2025-08-05, 05:22:00](https://soylentnews.org/article.pl?sid=25/08/03/0242234&from=rss) - [Ousted Vaccine Panel Members Say Rigorous Science is Being Abandoned](https://soylentnews.org/article.pl?sid=25/08/03/0242234&from=rss)
 * [2025-08-05, 00:40:00](https://soylentnews.org/article.pl?sid=25/08/03/0225206&from=rss) - [World News: United Nations Report Finds UN Reports Aren’t Widely Read](https://soylentnews.org/article.pl?sid=25/08/03/0225206&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-27, 06:50:00](https://soylentnews.org/article.pl?sid=25/07/26/0153214&from=rss) - [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&from=rss)
 * [2025-07-27, 02:06:00](https://soylentnews.org/article.pl?sid=25/07/26/0146240&from=rss) - [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&from=rss)
 * [2025-07-26, 21:19:00](https://soylentnews.org/article.pl?sid=25/07/26/0136203&from=rss) - [Tesla Continues Slide As Musk Warns Of \"Rough Quarters\" Ahead](https://soylentnews.org/article.pl?sid=25/07/26/0136203&from=rss)
-* [2025-07-26, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/26/0131222&from=rss) - [AI Industry's Size Obsession Is Killing ROI, Engineer Argues](https://soylentnews.org/article.pl?sid=25/07/26/0131222&from=rss)
 
 ## [Archives](archives/index.md)
 
