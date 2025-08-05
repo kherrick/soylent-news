@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-05, 00:40:00](https://soylentnews.org/article.pl?sid=25/08/03/0225206&from=rss) - [World News: United Nations Report Finds UN Reports Aren’t Widely Read](https://soylentnews.org/article.pl?sid=25/08/03/0225206&from=rss)
 * [2025-08-04, 20:00:00](https://soylentnews.org/article.pl?sid=25/08/03/0219201&from=rss) - [Brain Scans Reveal Parahippocampal Cortex Thinning in Those with Depression and Neuroticism](https://soylentnews.org/article.pl?sid=25/08/03/0219201&from=rss)
 * [2025-08-04, 15:15:00](https://soylentnews.org/article.pl?sid=25/08/03/026228&from=rss) - [Clouds, Sub Cables, Report No Impact From Monster Quake](https://soylentnews.org/article.pl?sid=25/08/03/026228&from=rss)
 * [2025-08-04, 10:33:00](https://soylentnews.org/article.pl?sid=25/08/02/2149227&from=rss) - [Coffee Prices Rise as U.S. Imposes Tariffs on Top Exporter Brazil](https://soylentnews.org/article.pl?sid=25/08/02/2149227&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-26, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/26/0131222&from=rss) - [AI Industry's Size Obsession Is Killing ROI, Engineer Argues](https://soylentnews.org/article.pl?sid=25/07/26/0131222&from=rss)
 * [2025-07-26, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/25/0534229&from=rss) - [Work Less, Feel Better](https://soylentnews.org/article.pl?sid=25/07/25/0534229&from=rss)
 * [2025-07-26, 06:58:00](https://soylentnews.org/article.pl?sid=25/07/25/0511234&from=rss) - [Debian Linux \"Trixie\" is Planned to Release on August 9](https://soylentnews.org/article.pl?sid=25/07/25/0511234&from=rss)
-* [2025-07-26, 02:14:00](https://soylentnews.org/article.pl?sid=25/07/25/055215&from=rss) - [Low(er) Price Tesla Announced](https://soylentnews.org/article.pl?sid=25/07/25/055215&from=rss)
 
 ## [Archives](archives/index.md)
 
