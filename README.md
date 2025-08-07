@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-07, 19:07:00](https://soylentnews.org/article.pl?sid=25/08/06/1129217&from=rss) - [U.S. Semiconductor Design Company Fined $140 Million Over China Dealings](https://soylentnews.org/article.pl?sid=25/08/06/1129217&from=rss)
 * [2025-08-07, 14:22:00](https://soylentnews.org/article.pl?sid=25/08/06/1123237&from=rss) - [AWS Deleted a 10-Year Account and All Data Without Warning](https://soylentnews.org/article.pl?sid=25/08/06/1123237&from=rss)
 * [2025-08-07, 09:33:00](https://soylentnews.org/article.pl?sid=25/08/05/1550247&from=rss) - [Underwater Robot Draws in Millions of Viewers](https://soylentnews.org/article.pl?sid=25/08/05/1550247&from=rss)
 * [2025-08-07, 04:51:00](https://soylentnews.org/article.pl?sid=25/08/05/151223&from=rss) - [Infrared Contact Lens Helps People See in the Dark, Even With Their Eyes Closed](https://soylentnews.org/article.pl?sid=25/08/05/151223&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-29, 12:15:00](https://soylentnews.org/article.pl?sid=25/07/27/0234226&from=rss) - [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&from=rss)
 * [2025-07-29, 07:27:00](https://soylentnews.org/article.pl?sid=25/07/27/0228236&from=rss) - [Discovery Alert: Flaring Star, Toasted Planet](https://soylentnews.org/article.pl?sid=25/07/27/0228236&from=rss)
 * [2025-07-29, 02:40:00](https://soylentnews.org/article.pl?sid=25/07/26/1945219&from=rss) - [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&from=rss)
-* [2025-07-28, 22:00:00](https://soylentnews.org/article.pl?sid=25/07/26/1935251&from=rss) - [As Site Blocking Is Increasing, European Commission Subtly Slaps Down Italy’s Piracy Shield](https://soylentnews.org/article.pl?sid=25/07/26/1935251&from=rss)
 
 ## [Archives](archives/index.md)
 
