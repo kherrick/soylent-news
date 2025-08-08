@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-08, 23:35:00](https://soylentnews.org/article.pl?sid=25/08/08/0056210&from=rss) - [RFK Jr Cancels $500m in mRNA Vaccine Development in the US](https://soylentnews.org/article.pl?sid=25/08/08/0056210&from=rss)
 * [2025-08-08, 18:50:00](https://soylentnews.org/article.pl?sid=25/08/07/1131203&from=rss) - [More Malware Uploaded to Arch Linux AUR](https://soylentnews.org/article.pl?sid=25/08/07/1131203&from=rss)
 * [2025-08-08, 14:05:00](https://soylentnews.org/article.pl?sid=25/08/07/0255247&from=rss) - [Ubuntu Replacing wget With wcurl](https://soylentnews.org/article.pl?sid=25/08/07/0255247&from=rss)
 * [2025-08-08, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/07/0248239&from=rss) - [Hiding Secret Codes in Light Can Protect Against Fake Videos](https://soylentnews.org/article.pl?sid=25/08/07/0248239&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-30, 16:48:00](https://soylentnews.org/article.pl?sid=25/07/29/0611252&from=rss) - [NASA’s Webb Finds Possible 'Direct Collapse' Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&from=rss)
 * [2025-07-30, 11:57:00](https://soylentnews.org/article.pl?sid=25/07/28/1538201&from=rss) - [EU-US Draft 15Pc Tariff Agreement Appears To Include Pharma, Chips](https://soylentnews.org/article.pl?sid=25/07/28/1538201&from=rss)
 * [2025-07-30, 07:13:00](https://soylentnews.org/article.pl?sid=25/07/28/1533222&from=rss) - [China Advances Toward Tech Independence With New Homegrown 6nm Gaming And AI GPUs](https://soylentnews.org/article.pl?sid=25/07/28/1533222&from=rss)
-* [2025-07-30, 02:32:00](https://soylentnews.org/article.pl?sid=25/07/28/1524227&from=rss) - [Nasa May Lose Close To 4,000 Employees After Latest Deferred Resignation Round](https://soylentnews.org/article.pl?sid=25/07/28/1524227&from=rss)
 
 ## [Archives](archives/index.md)
 
