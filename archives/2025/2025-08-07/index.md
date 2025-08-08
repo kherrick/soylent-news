@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 23:52:00](https://soylentnews.org/article.pl?sid=25/08/06/1435231&from=rss) - [OpenAI Announces Two “gpt-oss” Open AI Models, and You Can Download Them Today](https://soylentnews.org/article.pl?sid=25/08/06/1435231&from=rss)
 * [2025-08-07, 19:07:00](https://soylentnews.org/article.pl?sid=25/08/06/1129217&from=rss) - [U.S. Semiconductor Design Company Fined $140 Million Over China Dealings](https://soylentnews.org/article.pl?sid=25/08/06/1129217&from=rss)
 * [2025-08-07, 14:22:00](https://soylentnews.org/article.pl?sid=25/08/06/1123237&from=rss) - [AWS Deleted a 10-Year Account and All Data Without Warning](https://soylentnews.org/article.pl?sid=25/08/06/1123237&from=rss)
 * [2025-08-07, 09:33:00](https://soylentnews.org/article.pl?sid=25/08/05/1550247&from=rss) - [Underwater Robot Draws in Millions of Viewers](https://soylentnews.org/article.pl?sid=25/08/05/1550247&from=rss)
