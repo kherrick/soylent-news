@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-09, 13:48:00](https://soylentnews.org/article.pl?sid=25/08/08/047222&from=rss) - [Hacker Summer Camp: What to Expect From BSides, Black Hat, and DEF CON](https://soylentnews.org/article.pl?sid=25/08/08/047222&from=rss)
 * [2025-08-09, 09:02:00](https://soylentnews.org/article.pl?sid=25/08/08/0353246&from=rss) - [An Ohio Couple Welcomes a Baby Boy From a Nearly 31-Year-Old Frozen Embryo](https://soylentnews.org/article.pl?sid=25/08/08/0353246&from=rss)
 * [2025-08-09, 04:16:00](https://soylentnews.org/article.pl?sid=25/08/08/0113247&from=rss) - [KubeSphere Kills Open Source Edition](https://soylentnews.org/article.pl?sid=25/08/08/0113247&from=rss)
 * [2025-08-08, 23:35:00](https://soylentnews.org/article.pl?sid=25/08/08/0056210&from=rss) - [RFK Jr Cancels $500m in mRNA Vaccine Development in the US](https://soylentnews.org/article.pl?sid=25/08/08/0056210&from=rss)
@@ -49,7 +50,6 @@
 * [2025-07-31, 07:01:00](https://soylentnews.org/article.pl?sid=25/07/30/0121254&from=rss) - [Manuel Moreale on Why Blogs Matter](https://soylentnews.org/article.pl?sid=25/07/30/0121254&from=rss)
 * [2025-07-31, 02:17:00](https://soylentnews.org/article.pl?sid=25/07/30/0113232&from=rss) - [FreeBSD 15.0’S Installer to Gain Option to Install a Full KDE Plasma Desktop Environment](https://soylentnews.org/article.pl?sid=25/07/30/0113232&from=rss)
 * [2025-07-30, 21:32:00](https://soylentnews.org/article.pl?sid=25/07/29/1652215&from=rss) - [OpenAI’s ChatGPT Agent Casually Clicks Through “I am not a robot” Verification Test](https://soylentnews.org/article.pl?sid=25/07/29/1652215&from=rss)
-* [2025-07-30, 16:48:00](https://soylentnews.org/article.pl?sid=25/07/29/0611252&from=rss) - [NASA’s Webb Finds Possible 'Direct Collapse' Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&from=rss)
 
 ## [Archives](archives/index.md)
 
