@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-10, 13:12:00](https://soylentnews.org/article.pl?sid=25/08/09/0853200&from=rss) - [Oh No, Wavy Dave! Robot Crustacean Waves at Fiddler Crabs for Science, Has a Bad Time](https://soylentnews.org/article.pl?sid=25/08/09/0853200&from=rss)
 * [2025-08-10, 08:28:00](https://soylentnews.org/article.pl?sid=25/08/09/0850232&from=rss) - [Japanese Scientists Develop Artificial Blood](https://soylentnews.org/article.pl?sid=25/08/09/0850232&from=rss)
 * [2025-08-10, 03:45:00](https://soylentnews.org/article.pl?sid=25/08/09/0847239&from=rss) - [Denmark Zoo: Donate Unwanted Pets to Feed Predators and Imitate ‘Natural Food Chain’](https://soylentnews.org/article.pl?sid=25/08/09/0847239&from=rss)
 * [2025-08-09, 23:01:00](https://soylentnews.org/article.pl?sid=25/08/09/0123224&from=rss) - [Personalized Pricing Has Spread Across Many Industries. Here's How Consumers Can Avoid It](https://soylentnews.org/article.pl?sid=25/08/09/0123224&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-01, 06:41:00](https://soylentnews.org/article.pl?sid=25/07/30/1450258&from=rss) - [X37B is Set to Launch and Test Quantum Navigation Technology](https://soylentnews.org/article.pl?sid=25/07/30/1450258&from=rss)
 * [2025-08-01, 01:55:00](https://soylentnews.org/article.pl?sid=25/07/30/1438215&from=rss) - [Anthropic Unveils New Rate Limits to Curb Claude Code Power Users](https://soylentnews.org/article.pl?sid=25/07/30/1438215&from=rss)
 * [2025-07-31, 21:10:00](https://soylentnews.org/article.pl?sid=25/07/30/0143216&from=rss) - [Meta Pirated and Seeded Porn for Years to Train AI, Lawsuit Says](https://soylentnews.org/article.pl?sid=25/07/30/0143216&from=rss)
-* [2025-07-31, 16:29:00](https://soylentnews.org/article.pl?sid=25/07/30/0133228&from=rss) - [Why We Need a Right Not to be Manipulated](https://soylentnews.org/article.pl?sid=25/07/30/0133228&from=rss)
 
 ## [Archives](archives/index.md)
 
