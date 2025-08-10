@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-10, 23:45:00](https://soylentnews.org/article.pl?sid=25/08/09/188231&from=rss) - [Is Perrier as Pure as it Claims? The Bottled Water Scandal Gripping France](https://soylentnews.org/article.pl?sid=25/08/09/188231&from=rss)
 * [2025-08-10, 18:57:00](https://soylentnews.org/article.pl?sid=25/08/09/091234&from=rss) - [Man Swaps His Salt for Sodium Bromide—and Suffers Psychosis](https://soylentnews.org/article.pl?sid=25/08/09/091234&from=rss)
 * [2025-08-10, 13:12:00](https://soylentnews.org/article.pl?sid=25/08/09/0853200&from=rss) - [Oh No, Wavy Dave! Robot Crustacean Waves at Fiddler Crabs for Science, Has a Bad Time](https://soylentnews.org/article.pl?sid=25/08/09/0853200&from=rss)
 * [2025-08-10, 08:28:00](https://soylentnews.org/article.pl?sid=25/08/09/0850232&from=rss) - [Japanese Scientists Develop Artificial Blood](https://soylentnews.org/article.pl?sid=25/08/09/0850232&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-01, 16:12:00](https://soylentnews.org/politics/article.pl?sid=25/07/30/158210&from=rss) - [Trump Caving on Nvidia H20 Export Curbs May Disrupt His Bigger Trade War](https://soylentnews.org/politics/article.pl?sid=25/07/30/158210&from=rss)
 * [2025-08-01, 11:24:00](https://soylentnews.org/article.pl?sid=25/07/30/1457215&from=rss) - [From Apple to Greek Defense Start-up](https://soylentnews.org/article.pl?sid=25/07/30/1457215&from=rss)
 * [2025-08-01, 06:41:00](https://soylentnews.org/article.pl?sid=25/07/30/1450258&from=rss) - [X37B is Set to Launch and Test Quantum Navigation Technology](https://soylentnews.org/article.pl?sid=25/07/30/1450258&from=rss)
-* [2025-08-01, 01:55:00](https://soylentnews.org/article.pl?sid=25/07/30/1438215&from=rss) - [Anthropic Unveils New Rate Limits to Curb Claude Code Power Users](https://soylentnews.org/article.pl?sid=25/07/30/1438215&from=rss)
 
 ## [Archives](archives/index.md)
 
