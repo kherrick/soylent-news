@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-12, 13:42:00](https://soylentnews.org/article.pl?sid=25/08/10/233218&from=rss) - [Coding Error Blamed After Parts of Constitution Disappear From US Website](https://soylentnews.org/article.pl?sid=25/08/10/233218&from=rss)
 * [2025-08-12, 08:55:00](https://soylentnews.org/article.pl?sid=25/08/10/2217254&from=rss) - [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&from=rss)
 * [2025-08-12, 04:14:00](https://soylentnews.org/article.pl?sid=25/08/10/1521232&from=rss) - [Here’s How Deepfake Vishing Attacks Work, and Why They Can Be Hard to Detect](https://soylentnews.org/article.pl?sid=25/08/10/1521232&from=rss)
 * [2025-08-11, 23:28:00](https://soylentnews.org/article.pl?sid=25/08/10/1038254&from=rss) - [Quantum \"Schrödinger's Cat\" Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-03, 15:35:00](https://soylentnews.org/article.pl?sid=25/08/02/1248204&from=rss) - [Hackers on Planet Earth (HOPE) In Person and Virtual Tickets Being Sold!](https://soylentnews.org/article.pl?sid=25/08/02/1248204&from=rss)
 * [2025-08-03, 10:50:00](https://soylentnews.org/article.pl?sid=25/08/02/1242221&from=rss) - [Linux Kernel 6.16 Lands With 38 Million Lines of Code](https://soylentnews.org/article.pl?sid=25/08/02/1242221&from=rss)
 * [2025-08-03, 06:05:00](https://soylentnews.org/article.pl?sid=25/08/02/0446236&from=rss) - [Domino's Deploys Boston Dynamics' Robot Dog To Deliver Pizza And Fend Off Seagulls On Beaches](https://soylentnews.org/article.pl?sid=25/08/02/0446236&from=rss)
-* [2025-08-03, 01:22:00](https://soylentnews.org/article.pl?sid=25/08/01/2222237&from=rss) - [Hackers Steal Driver's Licenses, Private Data of Women Who Signed up for App that Lets Them Rate Men](https://soylentnews.org/article.pl?sid=25/08/01/2222237&from=rss)
 
 ## [Archives](archives/index.md)
 
