@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-12, 04:14:00](https://soylentnews.org/article.pl?sid=25/08/10/1521232&from=rss) - [Here’s How Deepfake Vishing Attacks Work, and Why They Can Be Hard to Detect](https://soylentnews.org/article.pl?sid=25/08/10/1521232&from=rss)
 * [2025-08-11, 23:28:00](https://soylentnews.org/article.pl?sid=25/08/10/1038254&from=rss) - [Quantum \"Schrödinger's Cat\" Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&from=rss)
 * [2025-08-11, 18:45:00](https://soylentnews.org/article.pl?sid=25/08/10/1036210&from=rss) - [Asian Hornet’s Unique Buzz May Hold Secret to Containing Invasive Species](https://soylentnews.org/article.pl?sid=25/08/10/1036210&from=rss)
 * [2025-08-11, 14:14:00](https://soylentnews.org/article.pl?sid=25/08/11/145224&from=rss) - [RIP: Dame Stephanie 'Steve' Shirley, Technology Pioneer, Dies Aged 91](https://soylentnews.org/article.pl?sid=25/08/11/145224&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-03, 06:05:00](https://soylentnews.org/article.pl?sid=25/08/02/0446236&from=rss) - [Domino's Deploys Boston Dynamics' Robot Dog To Deliver Pizza And Fend Off Seagulls On Beaches](https://soylentnews.org/article.pl?sid=25/08/02/0446236&from=rss)
 * [2025-08-03, 01:22:00](https://soylentnews.org/article.pl?sid=25/08/01/2222237&from=rss) - [Hackers Steal Driver's Licenses, Private Data of Women Who Signed up for App that Lets Them Rate Men](https://soylentnews.org/article.pl?sid=25/08/01/2222237&from=rss)
 * [2025-08-02, 20:35:00](https://soylentnews.org/article.pl?sid=25/08/01/1517221&from=rss) - [Modern Tattooers Meet Their Ancient Match with the Ice Mummies of Siberia](https://soylentnews.org/article.pl?sid=25/08/01/1517221&from=rss)
-* [2025-08-02, 15:53:00](https://soylentnews.org/article.pl?sid=25/08/01/1511227&from=rss) - [Microsoft Bans LibreOffice Developer's Account Without Warning, Rejects Appeal](https://soylentnews.org/article.pl?sid=25/08/01/1511227&from=rss)
 
 ## [Archives](archives/index.md)
 
