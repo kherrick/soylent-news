@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 22:56:00](https://soylentnews.org/article.pl?sid=25/08/12/1737238&from=rss) - [Microsoft Sued for Discontinuing Windows 10 Support](https://soylentnews.org/article.pl?sid=25/08/12/1737238&from=rss)
 * [2025-08-13, 18:10:00](https://soylentnews.org/article.pl?sid=25/08/12/1155214&from=rss) - [Oracle VirtualBox Licensing Tweak Lies in Wait for Unwary](https://soylentnews.org/article.pl?sid=25/08/12/1155214&from=rss)
 * [2025-08-13, 13:22:00](https://soylentnews.org/article.pl?sid=25/08/12/1147242&from=rss) - [Smartwatches Offer Little Insight Into Stress Levels, Researchers Find](https://soylentnews.org/article.pl?sid=25/08/12/1147242&from=rss)
 * [2025-08-13, 08:34:00](https://soylentnews.org/article.pl?sid=25/08/12/1137226&from=rss) - [Small Clouds Out as VMware Again Changes Partner Program](https://soylentnews.org/article.pl?sid=25/08/12/1137226&from=rss)
