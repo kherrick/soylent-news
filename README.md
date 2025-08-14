@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-14, 03:37:00](https://soylentnews.org/article.pl?sid=25/08/12/180244&from=rss) - [Debian 13 \"Trixie\" and Debian \"Hurd 2025\" Released](https://soylentnews.org/article.pl?sid=25/08/12/180244&from=rss)
 * [2025-08-13, 22:56:00](https://soylentnews.org/article.pl?sid=25/08/12/1737238&from=rss) - [Microsoft Sued for Discontinuing Windows 10 Support](https://soylentnews.org/article.pl?sid=25/08/12/1737238&from=rss)
 * [2025-08-13, 18:10:00](https://soylentnews.org/article.pl?sid=25/08/12/1155214&from=rss) - [Oracle VirtualBox Licensing Tweak Lies in Wait for Unwary](https://soylentnews.org/article.pl?sid=25/08/12/1155214&from=rss)
 * [2025-08-13, 13:22:00](https://soylentnews.org/article.pl?sid=25/08/12/1147242&from=rss) - [Smartwatches Offer Little Insight Into Stress Levels, Researchers Find](https://soylentnews.org/article.pl?sid=25/08/12/1147242&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-05, 05:22:00](https://soylentnews.org/article.pl?sid=25/08/03/0242234&from=rss) - [Ousted Vaccine Panel Members Say Rigorous Science is Being Abandoned](https://soylentnews.org/article.pl?sid=25/08/03/0242234&from=rss)
 * [2025-08-05, 00:40:00](https://soylentnews.org/article.pl?sid=25/08/03/0225206&from=rss) - [World News: United Nations Report Finds UN Reports Aren’t Widely Read](https://soylentnews.org/article.pl?sid=25/08/03/0225206&from=rss)
 * [2025-08-04, 20:00:00](https://soylentnews.org/article.pl?sid=25/08/03/0219201&from=rss) - [Brain Scans Reveal Parahippocampal Cortex Thinning in Those with Depression and Neuroticism](https://soylentnews.org/article.pl?sid=25/08/03/0219201&from=rss)
-* [2025-08-04, 15:15:00](https://soylentnews.org/article.pl?sid=25/08/03/026228&from=rss) - [Clouds, Sub Cables, Report No Impact From Monster Quake](https://soylentnews.org/article.pl?sid=25/08/03/026228&from=rss)
 
 ## [Archives](archives/index.md)
 

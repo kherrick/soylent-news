@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-08-14](index.md)
+
+* [2025-08-14, 03:37:00](https://soylentnews.org/article.pl?sid=25/08/12/180244&from=rss) - [Debian 13 \"Trixie\" and Debian \"Hurd 2025\" Released](https://soylentnews.org/article.pl?sid=25/08/12/180244&from=rss)
