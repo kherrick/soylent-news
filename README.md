@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-14, 13:03:00](https://soylentnews.org/article.pl?sid=25/08/13/1139229&from=rss) - [Microsoft Recall Exposes Passwords and Banking Data](https://soylentnews.org/article.pl?sid=25/08/13/1139229&from=rss)
 * [2025-08-14, 08:22:00](https://soylentnews.org/article.pl?sid=25/08/13/1127246&from=rss) - [Reddit Bars Internet Archive From its Website, Sparking Access Concerns](https://soylentnews.org/article.pl?sid=25/08/13/1127246&from=rss)
 * [2025-08-14, 03:37:00](https://soylentnews.org/article.pl?sid=25/08/12/180244&from=rss) - [Debian 13 \"Trixie\" and Debian \"Hurd 2025\" Released](https://soylentnews.org/article.pl?sid=25/08/12/180244&from=rss)
 * [2025-08-13, 22:56:00](https://soylentnews.org/article.pl?sid=25/08/12/1737238&from=rss) - [Microsoft Sued for Discontinuing Windows 10 Support](https://soylentnews.org/article.pl?sid=25/08/12/1737238&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-05, 14:54:00](https://soylentnews.org/article.pl?sid=25/08/03/2140229&from=rss) - [China Forms AI Alliances To Cut U.S. Tech Reliance](https://soylentnews.org/article.pl?sid=25/08/03/2140229&from=rss)
 * [2025-08-05, 10:03:00](https://soylentnews.org/article.pl?sid=25/08/03/2136209&from=rss) - [Solid-State Batteries Charge in 3 Minutes:  Why Aren't They in Your Phones and Cars Yet?](https://soylentnews.org/article.pl?sid=25/08/03/2136209&from=rss)
 * [2025-08-05, 05:22:00](https://soylentnews.org/article.pl?sid=25/08/03/0242234&from=rss) - [Ousted Vaccine Panel Members Say Rigorous Science is Being Abandoned](https://soylentnews.org/article.pl?sid=25/08/03/0242234&from=rss)
-* [2025-08-05, 00:40:00](https://soylentnews.org/article.pl?sid=25/08/03/0225206&from=rss) - [World News: United Nations Report Finds UN Reports Aren’t Widely Read](https://soylentnews.org/article.pl?sid=25/08/03/0225206&from=rss)
 
 ## [Archives](archives/index.md)
 
