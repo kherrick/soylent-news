@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-15, 17:35:00](https://soylentnews.org/article.pl?sid=25/08/13/1633213&from=rss) - [Half of US Adults Now Use AI—but Views on How to Regulate the Technology Vary Widely by State](https://soylentnews.org/article.pl?sid=25/08/13/1633213&from=rss)
 * [2025-08-15, 12:51:00](https://soylentnews.org/article.pl?sid=25/08/13/1629233&from=rss) - [Awesome Wooden Pixel Display](https://soylentnews.org/article.pl?sid=25/08/13/1629233&from=rss)
 * [2025-08-15, 08:07:00](https://soylentnews.org/article.pl?sid=25/08/13/1625217&from=rss) - [Culture Influences Men's Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&from=rss)
 * [2025-08-15, 03:20:00](https://soylentnews.org/article.pl?sid=25/08/13/1621256&from=rss) - [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-06, 19:20:00](https://soylentnews.org/article.pl?sid=25/08/05/1446223&from=rss) - [Russian Volcano Erupts for First Time in Centuries](https://soylentnews.org/article.pl?sid=25/08/05/1446223&from=rss)
 * [2025-08-06, 14:37:00](https://soylentnews.org/article.pl?sid=25/08/05/1441236&from=rss) - [Inspired by Astronauts, Researchers Use High-Tech Pants to Uncover Heart Issues on MRI](https://soylentnews.org/article.pl?sid=25/08/05/1441236&from=rss)
 * [2025-08-06, 09:58:00](https://soylentnews.org/article.pl?sid=25/08/05/1150228&from=rss) - [Space's Spinning Enigma: A ‘Unicorn’ Object Defies Astrophysics](https://soylentnews.org/article.pl?sid=25/08/05/1150228&from=rss)
-* [2025-08-06, 05:08:00](https://soylentnews.org/article.pl?sid=25/08/05/0156215&from=rss) - [AI and the Democratization of Cybercrime](https://soylentnews.org/article.pl?sid=25/08/05/0156215&from=rss)
 
 ## [Archives](archives/index.md)
 
