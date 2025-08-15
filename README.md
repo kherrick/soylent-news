@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-15, 03:20:00](https://soylentnews.org/article.pl?sid=25/08/13/1621256&from=rss) - [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&from=rss)
 * [2025-08-14, 22:37:00](https://soylentnews.org/article.pl?sid=25/08/13/1347256&from=rss) - [Joint Polar System METOP-SGA1 Launched](https://soylentnews.org/article.pl?sid=25/08/13/1347256&from=rss)
 * [2025-08-14, 17:52:00](https://soylentnews.org/article.pl?sid=25/08/13/1344242&from=rss) - [AOL is Discontinuing its Dial-Up Service](https://soylentnews.org/article.pl?sid=25/08/13/1344242&from=rss)
 * [2025-08-14, 13:03:00](https://soylentnews.org/article.pl?sid=25/08/13/1139229&from=rss) - [Microsoft Recall Exposes Passwords and Banking Data](https://soylentnews.org/article.pl?sid=25/08/13/1139229&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-06, 05:08:00](https://soylentnews.org/article.pl?sid=25/08/05/0156215&from=rss) - [AI and the Democratization of Cybercrime](https://soylentnews.org/article.pl?sid=25/08/05/0156215&from=rss)
 * [2025-08-06, 00:25:00](https://soylentnews.org/article.pl?sid=25/08/05/0152249&from=rss) - [Christiaan Huygens and the Scientific Secrets of Saturn](https://soylentnews.org/article.pl?sid=25/08/05/0152249&from=rss)
 * [2025-08-05, 19:40:00](https://soylentnews.org/article.pl?sid=25/08/04/0644251&from=rss) - [ChatGPT Users Shocked to Learn Their Chats Were in Google Search Results](https://soylentnews.org/article.pl?sid=25/08/04/0644251&from=rss)
-* [2025-08-05, 14:54:00](https://soylentnews.org/article.pl?sid=25/08/03/2140229&from=rss) - [China Forms AI Alliances To Cut U.S. Tech Reliance](https://soylentnews.org/article.pl?sid=25/08/03/2140229&from=rss)
 
 ## [Archives](archives/index.md)
 
