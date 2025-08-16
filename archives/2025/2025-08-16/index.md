@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 22:07:00](https://soylentnews.org/article.pl?sid=25/08/16/008232&from=rss) - [Americans Who ‘Learned To Code’ At Obama’s Behest Can’t Find Jobs Now](https://soylentnews.org/article.pl?sid=25/08/16/008232&from=rss)
 * [2025-08-16, 17:23:00](https://soylentnews.org/article.pl?sid=25/08/15/2243238&from=rss) - [On its Fifth Try, SpaceX Manages Launch of Competitor Amazon's Satellites](https://soylentnews.org/article.pl?sid=25/08/15/2243238&from=rss)
 * [2025-08-16, 12:34:00](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&from=rss) - [Trump Administration Considering US Government Purchase of Stake in Intel](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&from=rss)
 * [2025-08-16, 07:48:00](https://soylentnews.org/article.pl?sid=25/08/15/1320204&from=rss) - [In Trial, People Lost Twice as Much Weight by Ditching Ultraprocessed Food](https://soylentnews.org/article.pl?sid=25/08/15/1320204&from=rss)
