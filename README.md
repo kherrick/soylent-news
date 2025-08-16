@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-16, 03:07:00](https://soylentnews.org/article.pl?sid=25/08/15/1316257&from=rss) - [Many Countries Banned From Using PayPal for Steam Games in Latest Payment Processor Drama](https://soylentnews.org/article.pl?sid=25/08/15/1316257&from=rss)
 * [2025-08-15, 22:22:00](https://soylentnews.org/article.pl?sid=25/08/15/0813246&from=rss) - [Internal Meta Guidelines for AI Permit \"Sensual\" Discussions With Children](https://soylentnews.org/article.pl?sid=25/08/15/0813246&from=rss)
 * [2025-08-15, 17:35:00](https://soylentnews.org/article.pl?sid=25/08/13/1633213&from=rss) - [Half of US Adults Now Use AI—but Views on How to Regulate the Technology Vary Widely by State](https://soylentnews.org/article.pl?sid=25/08/13/1633213&from=rss)
 * [2025-08-15, 12:51:00](https://soylentnews.org/article.pl?sid=25/08/13/1629233&from=rss) - [Awesome Wooden Pixel Display](https://soylentnews.org/article.pl?sid=25/08/13/1629233&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-07, 04:51:00](https://soylentnews.org/article.pl?sid=25/08/05/151223&from=rss) - [Infrared Contact Lens Helps People See in the Dark, Even With Their Eyes Closed](https://soylentnews.org/article.pl?sid=25/08/05/151223&from=rss)
 * [2025-08-07, 00:07:00](https://soylentnews.org/article.pl?sid=25/08/05/1452205&from=rss) - [Plague: A Newly Discovered PAM-Based Backdoor for Linux](https://soylentnews.org/article.pl?sid=25/08/05/1452205&from=rss)
 * [2025-08-06, 19:20:00](https://soylentnews.org/article.pl?sid=25/08/05/1446223&from=rss) - [Russian Volcano Erupts for First Time in Centuries](https://soylentnews.org/article.pl?sid=25/08/05/1446223&from=rss)
-* [2025-08-06, 14:37:00](https://soylentnews.org/article.pl?sid=25/08/05/1441236&from=rss) - [Inspired by Astronauts, Researchers Use High-Tech Pants to Uncover Heart Issues on MRI](https://soylentnews.org/article.pl?sid=25/08/05/1441236&from=rss)
 
 ## [Archives](archives/index.md)
 
