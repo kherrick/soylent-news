@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-17, 17:08:00](https://soylentnews.org/article.pl?sid=25/08/17/0238238&from=rss) - [Air Pollution Filters Help Scientists Produce First UK Wildlife Survey Using eDNA](https://soylentnews.org/article.pl?sid=25/08/17/0238238&from=rss)
 * [2025-08-17, 12:21:00](https://soylentnews.org/article.pl?sid=25/08/17/0227231&from=rss) - [Massive Magnets Are on the Move: Repurposing Electromagnets for Research](https://soylentnews.org/article.pl?sid=25/08/17/0227231&from=rss)
 * [2025-08-17, 07:34:00](https://soylentnews.org/article.pl?sid=25/08/16/1255244&from=rss) - [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&from=rss)
 * [2025-08-17, 02:47:00](https://soylentnews.org/article.pl?sid=25/08/16/0019213&from=rss) - [Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement](https://soylentnews.org/article.pl?sid=25/08/16/0019213&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-08, 18:50:00](https://soylentnews.org/article.pl?sid=25/08/07/1131203&from=rss) - [More Malware Uploaded to Arch Linux AUR](https://soylentnews.org/article.pl?sid=25/08/07/1131203&from=rss)
 * [2025-08-08, 14:05:00](https://soylentnews.org/article.pl?sid=25/08/07/0255247&from=rss) - [Ubuntu Replacing wget With wcurl](https://soylentnews.org/article.pl?sid=25/08/07/0255247&from=rss)
 * [2025-08-08, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/07/0248239&from=rss) - [Hiding Secret Codes in Light Can Protect Against Fake Videos](https://soylentnews.org/article.pl?sid=25/08/07/0248239&from=rss)
-* [2025-08-08, 04:35:00](https://soylentnews.org/article.pl?sid=25/08/06/235236&from=rss) - [China's Solar Giants Quietly Shed a Third of Their Workforces Last Year](https://soylentnews.org/article.pl?sid=25/08/06/235236&from=rss)
 
 ## [Archives](archives/index.md)
 
