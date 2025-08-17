@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-17, 02:47:00](https://soylentnews.org/article.pl?sid=25/08/16/0019213&from=rss) - [Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement](https://soylentnews.org/article.pl?sid=25/08/16/0019213&from=rss)
 * [2025-08-16, 22:07:00](https://soylentnews.org/article.pl?sid=25/08/16/008232&from=rss) - [Americans Who ‘Learned To Code’ At Obama’s Behest Can’t Find Jobs Now](https://soylentnews.org/article.pl?sid=25/08/16/008232&from=rss)
 * [2025-08-16, 17:23:00](https://soylentnews.org/article.pl?sid=25/08/15/2243238&from=rss) - [On its Fifth Try, SpaceX Manages Launch of Competitor Amazon's Satellites](https://soylentnews.org/article.pl?sid=25/08/15/2243238&from=rss)
 * [2025-08-16, 12:34:00](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&from=rss) - [Trump Administration Considering US Government Purchase of Stake in Intel](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-08, 04:35:00](https://soylentnews.org/article.pl?sid=25/08/06/235236&from=rss) - [China's Solar Giants Quietly Shed a Third of Their Workforces Last Year](https://soylentnews.org/article.pl?sid=25/08/06/235236&from=rss)
 * [2025-08-07, 23:52:00](https://soylentnews.org/article.pl?sid=25/08/06/1435231&from=rss) - [OpenAI Announces Two “gpt-oss” Open AI Models, and You Can Download Them Today](https://soylentnews.org/article.pl?sid=25/08/06/1435231&from=rss)
 * [2025-08-07, 19:07:00](https://soylentnews.org/article.pl?sid=25/08/06/1129217&from=rss) - [U.S. Semiconductor Design Company Fined $140 Million Over China Dealings](https://soylentnews.org/article.pl?sid=25/08/06/1129217&from=rss)
-* [2025-08-07, 14:22:00](https://soylentnews.org/article.pl?sid=25/08/06/1123237&from=rss) - [AWS Deleted a 10-Year Account and All Data Without Warning](https://soylentnews.org/article.pl?sid=25/08/06/1123237&from=rss)
 
 ## [Archives](archives/index.md)
 
