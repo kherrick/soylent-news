@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-18, 12:05:00](https://soylentnews.org/article.pl?sid=25/08/17/1234239&from=rss) - [Toothpaste Made From Hair Provides Natural Root to Repair Teeth](https://soylentnews.org/article.pl?sid=25/08/17/1234239&from=rss)
 * [2025-08-18, 07:21:00](https://soylentnews.org/article.pl?sid=25/08/17/1246229&from=rss) - [Firefox’s New “AI” Features Cause CPU Spikes and Battery Drain](https://soylentnews.org/article.pl?sid=25/08/17/1246229&from=rss)
 * [2025-08-18, 02:36:00](https://soylentnews.org/article.pl?sid=25/08/17/1237215&from=rss) - [Blackhole Bounce - New Universes](https://soylentnews.org/article.pl?sid=25/08/17/1237215&from=rss)
 * [2025-08-17, 21:53:00](https://soylentnews.org/article.pl?sid=25/08/17/1310222&from=rss) - [What’s a Smut Peddler to Do These Days?](https://soylentnews.org/article.pl?sid=25/08/17/1310222&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-09, 13:48:00](https://soylentnews.org/article.pl?sid=25/08/08/047222&from=rss) - [Hacker Summer Camp: What to Expect From BSides, Black Hat, and DEF CON](https://soylentnews.org/article.pl?sid=25/08/08/047222&from=rss)
 * [2025-08-09, 09:02:00](https://soylentnews.org/article.pl?sid=25/08/08/0353246&from=rss) - [An Ohio Couple Welcomes a Baby Boy From a Nearly 31-Year-Old Frozen Embryo](https://soylentnews.org/article.pl?sid=25/08/08/0353246&from=rss)
 * [2025-08-09, 04:16:00](https://soylentnews.org/article.pl?sid=25/08/08/0113247&from=rss) - [KubeSphere Kills Open Source Edition](https://soylentnews.org/article.pl?sid=25/08/08/0113247&from=rss)
-* [2025-08-08, 23:35:00](https://soylentnews.org/article.pl?sid=25/08/08/0056210&from=rss) - [RFK Jr Cancels $500m in mRNA Vaccine Development in the US](https://soylentnews.org/article.pl?sid=25/08/08/0056210&from=rss)
 
 ## [Archives](archives/index.md)
 
