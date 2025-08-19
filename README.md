@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-19, 16:35:00](https://soylentnews.org/article.pl?sid=25/08/19/0044229&from=rss) - [Federal Court Filing System Hit in Sweeping Hack](https://soylentnews.org/article.pl?sid=25/08/19/0044229&from=rss)
 * [2025-08-19, 11:53:00](https://soylentnews.org/article.pl?sid=25/08/19/0039216&from=rss) - [Charged Drops Don't Splash](https://soylentnews.org/article.pl?sid=25/08/19/0039216&from=rss)
 * [2025-08-19, 07:05:00](https://soylentnews.org/article.pl?sid=25/08/18/126258&from=rss) - [Scientists 3D Print Inside a Living Cell](https://soylentnews.org/article.pl?sid=25/08/18/126258&from=rss)
 * [2025-08-19, 02:20:00](https://soylentnews.org/article.pl?sid=25/08/18/122222&from=rss) - [Wikipedia Loses Challenge Against Online Safety Act, but the Door is Open for a Challenge](https://soylentnews.org/article.pl?sid=25/08/18/122222&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-10, 18:57:00](https://soylentnews.org/article.pl?sid=25/08/09/091234&from=rss) - [Man Swaps His Salt for Sodium Bromide—and Suffers Psychosis](https://soylentnews.org/article.pl?sid=25/08/09/091234&from=rss)
 * [2025-08-10, 13:12:00](https://soylentnews.org/article.pl?sid=25/08/09/0853200&from=rss) - [Oh No, Wavy Dave! Robot Crustacean Waves at Fiddler Crabs for Science, Has a Bad Time](https://soylentnews.org/article.pl?sid=25/08/09/0853200&from=rss)
 * [2025-08-10, 08:28:00](https://soylentnews.org/article.pl?sid=25/08/09/0850232&from=rss) - [Japanese Scientists Develop Artificial Blood](https://soylentnews.org/article.pl?sid=25/08/09/0850232&from=rss)
-* [2025-08-10, 03:45:00](https://soylentnews.org/article.pl?sid=25/08/09/0847239&from=rss) - [Denmark Zoo: Donate Unwanted Pets to Feed Predators and Imitate ‘Natural Food Chain’](https://soylentnews.org/article.pl?sid=25/08/09/0847239&from=rss)
 
 ## [Archives](archives/index.md)
 
