@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-20, 21:08:00](https://soylentnews.org/article.pl?sid=25/08/20/0149227&from=rss) - [Whoops, They Did It Again](https://soylentnews.org/article.pl?sid=25/08/20/0149227&from=rss)
 * [2025-08-20, 16:22:00](https://soylentnews.org/article.pl?sid=25/08/20/0132257&from=rss) - [The Big Slow Church Move](https://soylentnews.org/article.pl?sid=25/08/20/0132257&from=rss)
 * [2025-08-20, 11:35:00](https://soylentnews.org/article.pl?sid=25/08/20/0125237&from=rss) - [How Chefs and Scientists Are Using Kombucha and Kimchi to Study Microbiology](https://soylentnews.org/article.pl?sid=25/08/20/0125237&from=rss)
 * [2025-08-20, 06:48:00](https://soylentnews.org/article.pl?sid=25/08/19/1550241&from=rss) - [Scientists Say Tool Can Sniff 5G Traffic, Launch 'Attacks' Without Using Rogue Base Stations](https://soylentnews.org/article.pl?sid=25/08/19/1550241&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-11, 18:45:00](https://soylentnews.org/article.pl?sid=25/08/10/1036210&from=rss) - [Asian Hornet’s Unique Buzz May Hold Secret to Containing Invasive Species](https://soylentnews.org/article.pl?sid=25/08/10/1036210&from=rss)
 * [2025-08-11, 14:14:00](https://soylentnews.org/article.pl?sid=25/08/11/145224&from=rss) - [RIP: Dame Stephanie 'Steve' Shirley, Technology Pioneer, Dies Aged 91](https://soylentnews.org/article.pl?sid=25/08/11/145224&from=rss)
 * [2025-08-11, 14:01:00](https://soylentnews.org/article.pl?sid=25/08/09/1958210&from=rss) - [CalyxOS: The Pause That Wasn't](https://soylentnews.org/article.pl?sid=25/08/09/1958210&from=rss)
-* [2025-08-11, 09:11:00](https://soylentnews.org/article.pl?sid=25/08/09/1827235&from=rss) - [Americans, Be Warned: Lessons From Reddit’s Chaotic UK Age Verification Rollout](https://soylentnews.org/article.pl?sid=25/08/09/1827235&from=rss)
 
 ## [Archives](archives/index.md)
 
