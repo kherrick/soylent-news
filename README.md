@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-20, 11:35:00](https://soylentnews.org/article.pl?sid=25/08/20/0125237&from=rss) - [How Chefs and Scientists Are Using Kombucha and Kimchi to Study Microbiology](https://soylentnews.org/article.pl?sid=25/08/20/0125237&from=rss)
 * [2025-08-20, 06:48:00](https://soylentnews.org/article.pl?sid=25/08/19/1550241&from=rss) - [Scientists Say Tool Can Sniff 5G Traffic, Launch 'Attacks' Without Using Rogue Base Stations](https://soylentnews.org/article.pl?sid=25/08/19/1550241&from=rss)
 * [2025-08-20, 02:06:00](https://soylentnews.org/article.pl?sid=25/08/19/1547232&from=rss) - [Can’t Pay, Won’t Pay: Impoverished Streaming Services are Driving Viewers Back to Piracy](https://soylentnews.org/article.pl?sid=25/08/19/1547232&from=rss)
 * [2025-08-19, 21:21:00](https://soylentnews.org/article.pl?sid=25/08/19/0050215&from=rss) - [Attorneys General, HCA Settle Over Nurse Training Repayment Provisions](https://soylentnews.org/article.pl?sid=25/08/19/0050215&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-11, 14:01:00](https://soylentnews.org/article.pl?sid=25/08/09/1958210&from=rss) - [CalyxOS: The Pause That Wasn't](https://soylentnews.org/article.pl?sid=25/08/09/1958210&from=rss)
 * [2025-08-11, 09:11:00](https://soylentnews.org/article.pl?sid=25/08/09/1827235&from=rss) - [Americans, Be Warned: Lessons From Reddit’s Chaotic UK Age Verification Rollout](https://soylentnews.org/article.pl?sid=25/08/09/1827235&from=rss)
 * [2025-08-11, 05:14:00](https://soylentnews.org/article.pl?sid=25/08/11/0456211&from=rss) - [RIP: James Lovell Dead at 97](https://soylentnews.org/article.pl?sid=25/08/11/0456211&from=rss)
-* [2025-08-11, 04:34:00](https://soylentnews.org/article.pl?sid=25/08/09/1818247&from=rss) - [WinRAR zero-day Exploited to Plant Malware on Archive Extraction](https://soylentnews.org/article.pl?sid=25/08/09/1818247&from=rss)
 
 ## [Archives](archives/index.md)
 
