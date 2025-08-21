@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-21, 16:09:00](https://soylentnews.org/article.pl?sid=25/08/20/1743213&from=rss) - [Physics of Badminton’s New Killer Spin Serve](https://soylentnews.org/article.pl?sid=25/08/20/1743213&from=rss)
 * [2025-08-21, 11:24:00](https://soylentnews.org/article.pl?sid=25/08/20/1736217&from=rss) - [Mozilla Warns Germany Could Declare Ad Blockers Illegal](https://soylentnews.org/article.pl?sid=25/08/20/1736217&from=rss)
 * [2025-08-21, 06:38:00](https://soylentnews.org/article.pl?sid=25/08/20/033241&from=rss) - [If AI Takes Most of Our Jobs, Money as We Know It Will be Over. What Then?](https://soylentnews.org/article.pl?sid=25/08/20/033241&from=rss)
 * [2025-08-21, 01:52:00](https://soylentnews.org/article.pl?sid=25/08/20/0153218&from=rss) - [A Treatise on AI Chatbots Undermining the Enlightenment](https://soylentnews.org/article.pl?sid=25/08/20/0153218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-12, 13:42:00](https://soylentnews.org/article.pl?sid=25/08/10/233218&from=rss) - [Coding Error Blamed After Parts of Constitution Disappear From US Website](https://soylentnews.org/article.pl?sid=25/08/10/233218&from=rss)
 * [2025-08-12, 08:55:00](https://soylentnews.org/article.pl?sid=25/08/10/2217254&from=rss) - [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&from=rss)
 * [2025-08-12, 04:14:00](https://soylentnews.org/article.pl?sid=25/08/10/1521232&from=rss) - [Here’s How Deepfake Vishing Attacks Work, and Why They Can Be Hard to Detect](https://soylentnews.org/article.pl?sid=25/08/10/1521232&from=rss)
-* [2025-08-11, 23:28:00](https://soylentnews.org/article.pl?sid=25/08/10/1038254&from=rss) - [Quantum \"Schrödinger's Cat\" Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&from=rss)
 
 ## [Archives](archives/index.md)
 
