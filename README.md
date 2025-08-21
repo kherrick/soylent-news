@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-21, 06:38:00](https://soylentnews.org/article.pl?sid=25/08/20/033241&from=rss) - [If AI Takes Most of Our Jobs, Money as We Know It Will be Over. What Then?](https://soylentnews.org/article.pl?sid=25/08/20/033241&from=rss)
 * [2025-08-21, 01:52:00](https://soylentnews.org/article.pl?sid=25/08/20/0153218&from=rss) - [A Treatise on AI Chatbots Undermining the Enlightenment](https://soylentnews.org/article.pl?sid=25/08/20/0153218&from=rss)
 * [2025-08-20, 21:08:00](https://soylentnews.org/article.pl?sid=25/08/20/0149227&from=rss) - [Whoops, They Did It Again](https://soylentnews.org/article.pl?sid=25/08/20/0149227&from=rss)
 * [2025-08-20, 16:22:00](https://soylentnews.org/article.pl?sid=25/08/20/0132257&from=rss) - [The Big Slow Church Move](https://soylentnews.org/article.pl?sid=25/08/20/0132257&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-12, 04:14:00](https://soylentnews.org/article.pl?sid=25/08/10/1521232&from=rss) - [Here’s How Deepfake Vishing Attacks Work, and Why They Can Be Hard to Detect](https://soylentnews.org/article.pl?sid=25/08/10/1521232&from=rss)
 * [2025-08-11, 23:28:00](https://soylentnews.org/article.pl?sid=25/08/10/1038254&from=rss) - [Quantum \"Schrödinger's Cat\" Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&from=rss)
 * [2025-08-11, 18:45:00](https://soylentnews.org/article.pl?sid=25/08/10/1036210&from=rss) - [Asian Hornet’s Unique Buzz May Hold Secret to Containing Invasive Species](https://soylentnews.org/article.pl?sid=25/08/10/1036210&from=rss)
-* [2025-08-11, 14:14:00](https://soylentnews.org/article.pl?sid=25/08/11/145224&from=rss) - [RIP: Dame Stephanie 'Steve' Shirley, Technology Pioneer, Dies Aged 91](https://soylentnews.org/article.pl?sid=25/08/11/145224&from=rss)
 
 ## [Archives](archives/index.md)
 
