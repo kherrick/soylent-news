@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-22, 01:35:00](https://soylentnews.org/article.pl?sid=25/08/20/2242220&from=rss) - [We Need to Become Unoptomizable](https://soylentnews.org/article.pl?sid=25/08/20/2242220&from=rss)
 * [2025-08-21, 20:49:00](https://soylentnews.org/article.pl?sid=25/08/20/1759228&from=rss) - [Uncovering the Fraudsters and Their Schemes Responsible for Polluting the Scientific Literature](https://soylentnews.org/article.pl?sid=25/08/20/1759228&from=rss)
 * [2025-08-21, 16:09:00](https://soylentnews.org/article.pl?sid=25/08/20/1743213&from=rss) - [Physics of Badminton’s New Killer Spin Serve](https://soylentnews.org/article.pl?sid=25/08/20/1743213&from=rss)
 * [2025-08-21, 11:24:00](https://soylentnews.org/article.pl?sid=25/08/20/1736217&from=rss) - [Mozilla Warns Germany Could Declare Ad Blockers Illegal](https://soylentnews.org/article.pl?sid=25/08/20/1736217&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-12, 23:08:00](https://soylentnews.org/article.pl?sid=25/08/12/0419218&from=rss) - [Using a Fan Can Make Older Adults Hotter in a Dry Heat](https://soylentnews.org/article.pl?sid=25/08/12/0419218&from=rss)
 * [2025-08-12, 18:25:00](https://soylentnews.org/article.pl?sid=25/08/11/2227259&from=rss) - [Post-Quantum Cryptography Advice Added to OpenSSH Website](https://soylentnews.org/article.pl?sid=25/08/11/2227259&from=rss)
 * [2025-08-12, 13:42:00](https://soylentnews.org/article.pl?sid=25/08/10/233218&from=rss) - [Coding Error Blamed After Parts of Constitution Disappear From US Website](https://soylentnews.org/article.pl?sid=25/08/10/233218&from=rss)
-* [2025-08-12, 08:55:00](https://soylentnews.org/article.pl?sid=25/08/10/2217254&from=rss) - [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&from=rss)
 
 ## [Archives](archives/index.md)
 
