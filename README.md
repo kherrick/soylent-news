@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-22, 20:39:00](https://soylentnews.org/article.pl?sid=25/08/21/1213229&from=rss) - [Tree Species Face Unprecedented Climate Shifts Across Their Ranges](https://soylentnews.org/article.pl?sid=25/08/21/1213229&from=rss)
 * [2025-08-22, 15:56:00](https://soylentnews.org/article.pl?sid=25/08/21/123255&from=rss) - [Adult Sites Are Stashing Exploit Code Inside Racy .svg Files](https://soylentnews.org/article.pl?sid=25/08/21/123255&from=rss)
 * [2025-08-22, 11:11:00](https://soylentnews.org/article.pl?sid=25/08/21/1154233&from=rss) - [Teenagers Are Choosing to Study STEM Subjects. It's a Sign of the Times](https://soylentnews.org/article.pl?sid=25/08/21/1154233&from=rss)
 * [2025-08-22, 06:22:00](https://soylentnews.org/article.pl?sid=25/08/20/2255245&from=rss) - [VW Introduces Monthly Subscription to Increase Car Power](https://soylentnews.org/article.pl?sid=25/08/20/2255245&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-13, 18:10:00](https://soylentnews.org/article.pl?sid=25/08/12/1155214&from=rss) - [Oracle VirtualBox Licensing Tweak Lies in Wait for Unwary](https://soylentnews.org/article.pl?sid=25/08/12/1155214&from=rss)
 * [2025-08-13, 13:22:00](https://soylentnews.org/article.pl?sid=25/08/12/1147242&from=rss) - [Smartwatches Offer Little Insight Into Stress Levels, Researchers Find](https://soylentnews.org/article.pl?sid=25/08/12/1147242&from=rss)
 * [2025-08-13, 08:34:00](https://soylentnews.org/article.pl?sid=25/08/12/1137226&from=rss) - [Small Clouds Out as VMware Again Changes Partner Program](https://soylentnews.org/article.pl?sid=25/08/12/1137226&from=rss)
-* [2025-08-13, 03:51:00](https://soylentnews.org/article.pl?sid=25/08/12/0427247&from=rss) - [OpenAI Will Not Disclose GPT-5’s Energy Use. It Could be Higher Than Past Models](https://soylentnews.org/article.pl?sid=25/08/12/0427247&from=rss)
 
 ## [Archives](archives/index.md)
 

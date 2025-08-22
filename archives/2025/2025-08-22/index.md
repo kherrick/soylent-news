@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 20:39:00](https://soylentnews.org/article.pl?sid=25/08/21/1213229&from=rss) - [Tree Species Face Unprecedented Climate Shifts Across Their Ranges](https://soylentnews.org/article.pl?sid=25/08/21/1213229&from=rss)
 * [2025-08-22, 15:56:00](https://soylentnews.org/article.pl?sid=25/08/21/123255&from=rss) - [Adult Sites Are Stashing Exploit Code Inside Racy .svg Files](https://soylentnews.org/article.pl?sid=25/08/21/123255&from=rss)
 * [2025-08-22, 11:11:00](https://soylentnews.org/article.pl?sid=25/08/21/1154233&from=rss) - [Teenagers Are Choosing to Study STEM Subjects. It's a Sign of the Times](https://soylentnews.org/article.pl?sid=25/08/21/1154233&from=rss)
 * [2025-08-22, 06:22:00](https://soylentnews.org/article.pl?sid=25/08/20/2255245&from=rss) - [VW Introduces Monthly Subscription to Increase Car Power](https://soylentnews.org/article.pl?sid=25/08/20/2255245&from=rss)
