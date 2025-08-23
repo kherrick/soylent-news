@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-23, 15:35:00](https://soylentnews.org/article.pl?sid=25/08/22/0547201&from=rss) - [Congressman Proposes Bringing Back Letters of Marque for Cyber Privateers](https://soylentnews.org/article.pl?sid=25/08/22/0547201&from=rss)
 * [2025-08-23, 11:00:00](https://soylentnews.org/article.pl?sid=25/08/22/0544206&from=rss) - [Heat-Styling Hair Care Products Release Billions of Nanoparticles That Can Accumulate in Lungs](https://soylentnews.org/article.pl?sid=25/08/22/0544206&from=rss)
 * [2025-08-23, 06:10:00](https://soylentnews.org/article.pl?sid=25/08/22/019206&from=rss) - [New Research Ferments the Perfect Recipe for Fine Chocolate Flavour](https://soylentnews.org/article.pl?sid=25/08/22/019206&from=rss)
 * [2025-08-23, 01:25:00](https://soylentnews.org/article.pl?sid=25/08/22/010203&from=rss) - [T-Mobile Claimed Selling Location Data Without Consent is Legal—Judges Disagree](https://soylentnews.org/article.pl?sid=25/08/22/010203&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-14, 13:03:00](https://soylentnews.org/article.pl?sid=25/08/13/1139229&from=rss) - [Microsoft Recall Exposes Passwords and Banking Data](https://soylentnews.org/article.pl?sid=25/08/13/1139229&from=rss)
 * [2025-08-14, 08:22:00](https://soylentnews.org/article.pl?sid=25/08/13/1127246&from=rss) - [Reddit Bars Internet Archive From its Website, Sparking Access Concerns](https://soylentnews.org/article.pl?sid=25/08/13/1127246&from=rss)
 * [2025-08-14, 03:37:00](https://soylentnews.org/article.pl?sid=25/08/12/180244&from=rss) - [Debian 13 \"Trixie\" and Debian \"Hurd 2025\" Released](https://soylentnews.org/article.pl?sid=25/08/12/180244&from=rss)
-* [2025-08-13, 22:56:00](https://soylentnews.org/article.pl?sid=25/08/12/1737238&from=rss) - [Microsoft Sued for Discontinuing Windows 10 Support](https://soylentnews.org/article.pl?sid=25/08/12/1737238&from=rss)
 
 ## [Archives](archives/index.md)
 
