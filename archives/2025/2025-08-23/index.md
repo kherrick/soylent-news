@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-08-23](index.md)
 
+* [2025-08-23, 06:10:00](https://soylentnews.org/article.pl?sid=25/08/22/019206&from=rss) - [New Research Ferments the Perfect Recipe for Fine Chocolate Flavour](https://soylentnews.org/article.pl?sid=25/08/22/019206&from=rss)
 * [2025-08-23, 01:25:00](https://soylentnews.org/article.pl?sid=25/08/22/010203&from=rss) - [T-Mobile Claimed Selling Location Data Without Consent is Legal—Judges Disagree](https://soylentnews.org/article.pl?sid=25/08/22/010203&from=rss)
