@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-24, 10:36:00](https://soylentnews.org/article.pl?sid=25/08/22/079224&from=rss) - [Turning the Lights Back on](https://soylentnews.org/article.pl?sid=25/08/22/079224&from=rss)
 * [2025-08-24, 05:52:00](https://soylentnews.org/article.pl?sid=25/08/22/073206&from=rss) - [Scientists Develop Interface That ‘Reads’ Thoughts From Speech-Impaired Patients](https://soylentnews.org/article.pl?sid=25/08/22/073206&from=rss)
 * [2025-08-24, 01:12:00](https://soylentnews.org/article.pl?sid=25/08/22/0656227&from=rss) - [AWS CEO Says Using AI to Replace Junior Staff is 'Dumbest Thing I've Ever Heard'](https://soylentnews.org/article.pl?sid=25/08/22/0656227&from=rss)
 * [2025-08-23, 20:25:00](https://soylentnews.org/article.pl?sid=25/08/22/0551243&from=rss) - [Webb Discovers a New Moon Orbiting Uranus](https://soylentnews.org/article.pl?sid=25/08/22/0551243&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-15, 08:07:00](https://soylentnews.org/article.pl?sid=25/08/13/1625217&from=rss) - [Culture Influences Men's Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&from=rss)
 * [2025-08-15, 03:20:00](https://soylentnews.org/article.pl?sid=25/08/13/1621256&from=rss) - [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&from=rss)
 * [2025-08-14, 22:37:00](https://soylentnews.org/article.pl?sid=25/08/13/1347256&from=rss) - [Joint Polar System METOP-SGA1 Launched](https://soylentnews.org/article.pl?sid=25/08/13/1347256&from=rss)
-* [2025-08-14, 17:52:00](https://soylentnews.org/article.pl?sid=25/08/13/1344242&from=rss) - [AOL is Discontinuing its Dial-Up Service](https://soylentnews.org/article.pl?sid=25/08/13/1344242&from=rss)
 
 ## [Archives](archives/index.md)
 
