@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-25, 14:59:00](https://soylentnews.org/article.pl?sid=25/08/24/2253216&from=rss) - [What Happens When AI Comes for Our Fonts?](https://soylentnews.org/article.pl?sid=25/08/24/2253216&from=rss)
 * [2025-08-25, 10:15:00](https://soylentnews.org/article.pl?sid=25/08/24/136245&from=rss) - [NASA Challenge Winners Cook Up New Industry Developments](https://soylentnews.org/article.pl?sid=25/08/24/136245&from=rss)
 * [2025-08-25, 05:30:00](https://soylentnews.org/article.pl?sid=25/08/24/1253242&from=rss) - [Radio Waves Can Strengthen Sense of Smell](https://soylentnews.org/article.pl?sid=25/08/24/1253242&from=rss)
 * [2025-08-25, 00:50:00](https://soylentnews.org/article.pl?sid=25/08/23/2218218&from=rss) - [Creative Commons Becomes an Official UNESCO NGO Partner](https://soylentnews.org/article.pl?sid=25/08/23/2218218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-16, 12:34:00](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&from=rss) - [Trump Administration Considering US Government Purchase of Stake in Intel](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&from=rss)
 * [2025-08-16, 07:48:00](https://soylentnews.org/article.pl?sid=25/08/15/1320204&from=rss) - [In Trial, People Lost Twice as Much Weight by Ditching Ultraprocessed Food](https://soylentnews.org/article.pl?sid=25/08/15/1320204&from=rss)
 * [2025-08-16, 03:07:00](https://soylentnews.org/article.pl?sid=25/08/15/1316257&from=rss) - [Many Countries Banned From Using PayPal for Steam Games in Latest Payment Processor Drama](https://soylentnews.org/article.pl?sid=25/08/15/1316257&from=rss)
-* [2025-08-15, 22:22:00](https://soylentnews.org/article.pl?sid=25/08/15/0813246&from=rss) - [Internal Meta Guidelines for AI Permit \"Sensual\" Discussions With Children](https://soylentnews.org/article.pl?sid=25/08/15/0813246&from=rss)
 
 ## [Archives](archives/index.md)
 
