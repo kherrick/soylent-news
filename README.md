@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-25, 00:50:00](https://soylentnews.org/article.pl?sid=25/08/23/2218218&from=rss) - [Creative Commons Becomes an Official UNESCO NGO Partner](https://soylentnews.org/article.pl?sid=25/08/23/2218218&from=rss)
 * [2025-08-24, 20:03:00](https://soylentnews.org/article.pl?sid=25/08/23/2216200&from=rss) - [U.S. Government Now Holds 10% Stake in Intel](https://soylentnews.org/article.pl?sid=25/08/23/2216200&from=rss)
 * [2025-08-24, 15:18:00](https://soylentnews.org/article.pl?sid=25/08/23/1053236&from=rss) - [‘Quiet Cracking’ is Spreading in Offices: Half of Workers are at Breaking Point](https://soylentnews.org/article.pl?sid=25/08/23/1053236&from=rss)
 * [2025-08-24, 10:36:00](https://soylentnews.org/article.pl?sid=25/08/22/079224&from=rss) - [Turning the Lights Back on](https://soylentnews.org/article.pl?sid=25/08/22/079224&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-15, 22:22:00](https://soylentnews.org/article.pl?sid=25/08/15/0813246&from=rss) - [Internal Meta Guidelines for AI Permit \"Sensual\" Discussions With Children](https://soylentnews.org/article.pl?sid=25/08/15/0813246&from=rss)
 * [2025-08-15, 17:35:00](https://soylentnews.org/article.pl?sid=25/08/13/1633213&from=rss) - [Half of US Adults Now Use AI—but Views on How to Regulate the Technology Vary Widely by State](https://soylentnews.org/article.pl?sid=25/08/13/1633213&from=rss)
 * [2025-08-15, 12:51:00](https://soylentnews.org/article.pl?sid=25/08/13/1629233&from=rss) - [Awesome Wooden Pixel Display](https://soylentnews.org/article.pl?sid=25/08/13/1629233&from=rss)
-* [2025-08-15, 08:07:00](https://soylentnews.org/article.pl?sid=25/08/13/1625217&from=rss) - [Culture Influences Men's Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&from=rss)
 
 ## [Archives](archives/index.md)
 
