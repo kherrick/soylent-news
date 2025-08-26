@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 19:33:00](https://soylentnews.org/article.pl?sid=25/08/26/0056205&from=rss) - [Kelp Forests in Marine Protected Areas are More Resilient to Marine Heatwaves](https://soylentnews.org/article.pl?sid=25/08/26/0056205&from=rss)
 * [2025-08-26, 14:49:00](https://soylentnews.org/article.pl?sid=25/08/26/0050212&from=rss) - [Canadian EV Sales Collapse by 35% as Gas Car Purchases Surge](https://soylentnews.org/article.pl?sid=25/08/26/0050212&from=rss)
 * [2025-08-26, 10:02:00](https://soylentnews.org/article.pl?sid=25/08/25/197208&from=rss) - [Does 3I/ATLAS Generate its Own Light?](https://soylentnews.org/article.pl?sid=25/08/25/197208&from=rss)
 * [2025-08-26, 05:16:00](https://soylentnews.org/article.pl?sid=25/08/25/1248228&from=rss) - [Revolutionary AI Tech Breathes Life Into Virtual Companion Animals](https://soylentnews.org/article.pl?sid=25/08/25/1248228&from=rss)
