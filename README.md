@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-26, 10:02:00](https://soylentnews.org/article.pl?sid=25/08/25/197208&from=rss) - [Does 3I/ATLAS Generate its Own Light?](https://soylentnews.org/article.pl?sid=25/08/25/197208&from=rss)
 * [2025-08-26, 05:16:00](https://soylentnews.org/article.pl?sid=25/08/25/1248228&from=rss) - [Revolutionary AI Tech Breathes Life Into Virtual Companion Animals](https://soylentnews.org/article.pl?sid=25/08/25/1248228&from=rss)
 * [2025-08-26, 00:31:00](https://soylentnews.org/article.pl?sid=25/08/25/1234216&from=rss) - [Oops! Earendel, Most Distant Star Ever Discovered, May Not Actually be a Star](https://soylentnews.org/article.pl?sid=25/08/25/1234216&from=rss)
 * [2025-08-25, 19:45:00](https://soylentnews.org/article.pl?sid=25/08/25/0225208&from=rss) - [The 8,000-Year History of Great Salt Lake and its Watershed is Recorded in Sediments](https://soylentnews.org/article.pl?sid=25/08/25/0225208&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-17, 07:34:00](https://soylentnews.org/article.pl?sid=25/08/16/1255244&from=rss) - [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&from=rss)
 * [2025-08-17, 02:47:00](https://soylentnews.org/article.pl?sid=25/08/16/0019213&from=rss) - [Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement](https://soylentnews.org/article.pl?sid=25/08/16/0019213&from=rss)
 * [2025-08-16, 22:07:00](https://soylentnews.org/article.pl?sid=25/08/16/008232&from=rss) - [Americans Who ‘Learned To Code’ At Obama’s Behest Can’t Find Jobs Now](https://soylentnews.org/article.pl?sid=25/08/16/008232&from=rss)
-* [2025-08-16, 17:23:00](https://soylentnews.org/article.pl?sid=25/08/15/2243238&from=rss) - [On its Fifth Try, SpaceX Manages Launch of Competitor Amazon's Satellites](https://soylentnews.org/article.pl?sid=25/08/15/2243238&from=rss)
 
 ## [Archives](archives/index.md)
 
