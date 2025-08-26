@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-26, 00:31:00](https://soylentnews.org/article.pl?sid=25/08/25/1234216&from=rss) - [Oops! Earendel, Most Distant Star Ever Discovered, May Not Actually be a Star](https://soylentnews.org/article.pl?sid=25/08/25/1234216&from=rss)
 * [2025-08-25, 19:45:00](https://soylentnews.org/article.pl?sid=25/08/25/0225208&from=rss) - [The 8,000-Year History of Great Salt Lake and its Watershed is Recorded in Sediments](https://soylentnews.org/article.pl?sid=25/08/25/0225208&from=rss)
 * [2025-08-25, 14:59:00](https://soylentnews.org/article.pl?sid=25/08/24/2253216&from=rss) - [What Happens When AI Comes for Our Fonts?](https://soylentnews.org/article.pl?sid=25/08/24/2253216&from=rss)
 * [2025-08-25, 10:15:00](https://soylentnews.org/article.pl?sid=25/08/24/136245&from=rss) - [NASA Challenge Winners Cook Up New Industry Developments](https://soylentnews.org/article.pl?sid=25/08/24/136245&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-16, 22:07:00](https://soylentnews.org/article.pl?sid=25/08/16/008232&from=rss) - [Americans Who ‘Learned To Code’ At Obama’s Behest Can’t Find Jobs Now](https://soylentnews.org/article.pl?sid=25/08/16/008232&from=rss)
 * [2025-08-16, 17:23:00](https://soylentnews.org/article.pl?sid=25/08/15/2243238&from=rss) - [On its Fifth Try, SpaceX Manages Launch of Competitor Amazon's Satellites](https://soylentnews.org/article.pl?sid=25/08/15/2243238&from=rss)
 * [2025-08-16, 12:34:00](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&from=rss) - [Trump Administration Considering US Government Purchase of Stake in Intel](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&from=rss)
-* [2025-08-16, 07:48:00](https://soylentnews.org/article.pl?sid=25/08/15/1320204&from=rss) - [In Trial, People Lost Twice as Much Weight by Ditching Ultraprocessed Food](https://soylentnews.org/article.pl?sid=25/08/15/1320204&from=rss)
 
 ## [Archives](archives/index.md)
 
