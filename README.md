@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-27, 00:16:00](https://soylentnews.org/article.pl?sid=25/08/26/0059245&from=rss) - [Twenty Years After Katrina: How Levee Failures Changed America](https://soylentnews.org/article.pl?sid=25/08/26/0059245&from=rss)
 * [2025-08-26, 19:33:00](https://soylentnews.org/article.pl?sid=25/08/26/0056205&from=rss) - [Kelp Forests in Marine Protected Areas are More Resilient to Marine Heatwaves](https://soylentnews.org/article.pl?sid=25/08/26/0056205&from=rss)
 * [2025-08-26, 14:49:00](https://soylentnews.org/article.pl?sid=25/08/26/0050212&from=rss) - [Canadian EV Sales Collapse by 35% as Gas Car Purchases Surge](https://soylentnews.org/article.pl?sid=25/08/26/0050212&from=rss)
 * [2025-08-26, 10:02:00](https://soylentnews.org/article.pl?sid=25/08/25/197208&from=rss) - [Does 3I/ATLAS Generate its Own Light?](https://soylentnews.org/article.pl?sid=25/08/25/197208&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-17, 21:53:00](https://soylentnews.org/article.pl?sid=25/08/17/1310222&from=rss) - [What’s a Smut Peddler to Do These Days?](https://soylentnews.org/article.pl?sid=25/08/17/1310222&from=rss)
 * [2025-08-17, 17:08:00](https://soylentnews.org/article.pl?sid=25/08/17/0238238&from=rss) - [Air Pollution Filters Help Scientists Produce First UK Wildlife Survey Using eDNA](https://soylentnews.org/article.pl?sid=25/08/17/0238238&from=rss)
 * [2025-08-17, 12:21:00](https://soylentnews.org/article.pl?sid=25/08/17/0227231&from=rss) - [Massive Magnets Are on the Move: Repurposing Electromagnets for Research](https://soylentnews.org/article.pl?sid=25/08/17/0227231&from=rss)
-* [2025-08-17, 07:34:00](https://soylentnews.org/article.pl?sid=25/08/16/1255244&from=rss) - [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&from=rss)
 
 ## [Archives](archives/index.md)
 
