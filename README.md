@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-27, 19:22:00](https://soylentnews.org/article.pl?sid=25/08/27/1222255&from=rss) - [Google Will Require Developer Verification to Install Android Apps, Including Sideloading](https://soylentnews.org/article.pl?sid=25/08/27/1222255&from=rss)
 * [2025-08-27, 14:34:00](https://soylentnews.org/article.pl?sid=25/08/26/1126243&from=rss) - [Postal Services Around the World Suspend Deliveries to US: How Will It Affect You?](https://soylentnews.org/article.pl?sid=25/08/26/1126243&from=rss)
 * [2025-08-27, 09:48:00](https://soylentnews.org/article.pl?sid=25/08/26/1117241&from=rss) - [Scientists Pioneer Sustainable Carbon Capture From Shrimp Waste](https://soylentnews.org/article.pl?sid=25/08/26/1117241&from=rss)
 * [2025-08-27, 05:03:00](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&from=rss) - [Trump Threatens Taxes, Bans, for Nations That Tax Big Tech](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-18, 16:48:00](https://soylentnews.org/article.pl?sid=25/08/18/1141215&from=rss) - [Radioactive Water From UK Nuclear Bomb Base Leaked Into Sea, Files Show](https://soylentnews.org/article.pl?sid=25/08/18/1141215&from=rss)
 * [2025-08-18, 12:05:00](https://soylentnews.org/article.pl?sid=25/08/17/1234239&from=rss) - [Toothpaste Made From Hair Provides Natural Root to Repair Teeth](https://soylentnews.org/article.pl?sid=25/08/17/1234239&from=rss)
 * [2025-08-18, 07:21:00](https://soylentnews.org/article.pl?sid=25/08/17/1246229&from=rss) - [Firefox’s New “AI” Features Cause CPU Spikes and Battery Drain](https://soylentnews.org/article.pl?sid=25/08/17/1246229&from=rss)
-* [2025-08-18, 02:36:00](https://soylentnews.org/article.pl?sid=25/08/17/1237215&from=rss) - [Blackhole Bounce - New Universes](https://soylentnews.org/article.pl?sid=25/08/17/1237215&from=rss)
 
 ## [Archives](archives/index.md)
 
