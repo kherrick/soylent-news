@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-28, 04:52:00](https://soylentnews.org/article.pl?sid=25/08/27/1232257&from=rss) - [Science Marches on](https://soylentnews.org/article.pl?sid=25/08/27/1232257&from=rss)
 * [2025-08-28, 00:04:00](https://soylentnews.org/article.pl?sid=25/08/27/1225221&from=rss) - [Xz Format Inadequate for General Use](https://soylentnews.org/article.pl?sid=25/08/27/1225221&from=rss)
 * [2025-08-27, 19:22:00](https://soylentnews.org/article.pl?sid=25/08/27/1222255&from=rss) - [Google Will Require Developer Verification to Install Android Apps, Including Sideloading](https://soylentnews.org/article.pl?sid=25/08/27/1222255&from=rss)
 * [2025-08-27, 14:34:00](https://soylentnews.org/article.pl?sid=25/08/26/1126243&from=rss) - [Postal Services Around the World Suspend Deliveries to US: How Will It Affect You?](https://soylentnews.org/article.pl?sid=25/08/26/1126243&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-19, 02:20:00](https://soylentnews.org/article.pl?sid=25/08/18/122222&from=rss) - [Wikipedia Loses Challenge Against Online Safety Act, but the Door is Open for a Challenge](https://soylentnews.org/article.pl?sid=25/08/18/122222&from=rss)
 * [2025-08-18, 21:33:00](https://soylentnews.org/article.pl?sid=25/08/18/1144234&from=rss) - [A Tale of Two Distros: One Outgoing and One Incoming](https://soylentnews.org/article.pl?sid=25/08/18/1144234&from=rss)
 * [2025-08-18, 16:48:00](https://soylentnews.org/article.pl?sid=25/08/18/1141215&from=rss) - [Radioactive Water From UK Nuclear Bomb Base Leaked Into Sea, Files Show](https://soylentnews.org/article.pl?sid=25/08/18/1141215&from=rss)
-* [2025-08-18, 12:05:00](https://soylentnews.org/article.pl?sid=25/08/17/1234239&from=rss) - [Toothpaste Made From Hair Provides Natural Root to Repair Teeth](https://soylentnews.org/article.pl?sid=25/08/17/1234239&from=rss)
 
 ## [Archives](archives/index.md)
 
