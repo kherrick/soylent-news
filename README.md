@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-28, 19:10:00](https://soylentnews.org/article.pl?sid=25/08/27/1455216&from=rss) - [SpaceX’s Latest Dragon Mission Will Breathe More Fire at the Space Station](https://soylentnews.org/article.pl?sid=25/08/27/1455216&from=rss)
 * [2025-08-28, 14:22:00](https://soylentnews.org/article.pl?sid=25/08/27/1449220&from=rss) - [How the Cavefish Lost its Eyes— Again and Again](https://soylentnews.org/article.pl?sid=25/08/27/1449220&from=rss)
 * [2025-08-28, 09:34:00](https://soylentnews.org/article.pl?sid=25/08/27/2323243&from=rss) - [An Empty Strip and Fewer Tips: is Las Vegas in Trouble?](https://soylentnews.org/article.pl?sid=25/08/27/2323243&from=rss)
 * [2025-08-28, 04:52:00](https://soylentnews.org/article.pl?sid=25/08/27/1232257&from=rss) - [Science Marches on](https://soylentnews.org/article.pl?sid=25/08/27/1232257&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-19, 16:35:00](https://soylentnews.org/article.pl?sid=25/08/19/0044229&from=rss) - [Federal Court Filing System Hit in Sweeping Hack](https://soylentnews.org/article.pl?sid=25/08/19/0044229&from=rss)
 * [2025-08-19, 11:53:00](https://soylentnews.org/article.pl?sid=25/08/19/0039216&from=rss) - [Charged Drops Don't Splash](https://soylentnews.org/article.pl?sid=25/08/19/0039216&from=rss)
 * [2025-08-19, 07:05:00](https://soylentnews.org/article.pl?sid=25/08/18/126258&from=rss) - [Scientists 3D Print Inside a Living Cell](https://soylentnews.org/article.pl?sid=25/08/18/126258&from=rss)
-* [2025-08-19, 02:20:00](https://soylentnews.org/article.pl?sid=25/08/18/122222&from=rss) - [Wikipedia Loses Challenge Against Online Safety Act, but the Door is Open for a Challenge](https://soylentnews.org/article.pl?sid=25/08/18/122222&from=rss)
 
 ## [Archives](archives/index.md)
 
