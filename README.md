@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-29, 23:35:00](https://soylentnews.org/article.pl?sid=25/08/27/1236219&from=rss) - [Punycode - an Overview by a Soylentil](https://soylentnews.org/article.pl?sid=25/08/27/1236219&from=rss)
 * [2025-08-29, 18:51:00](https://soylentnews.org/article.pl?sid=25/08/28/1853258&from=rss) - [Linux Foundation Says Yes to NoSQL Via DocumentDB](https://soylentnews.org/article.pl?sid=25/08/28/1853258&from=rss)
 * [2025-08-29, 14:07:00](https://soylentnews.org/article.pl?sid=25/08/28/1849238&from=rss) - [Large Reasoning Models Hitting Limits, Say Apple Researchers](https://soylentnews.org/article.pl?sid=25/08/28/1849238&from=rss)
 * [2025-08-29, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/28/1843236&from=rss) - [Breathwork Can Induce Altered States of Consciousness](https://soylentnews.org/article.pl?sid=25/08/28/1843236&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-20, 16:22:00](https://soylentnews.org/article.pl?sid=25/08/20/0132257&from=rss) - [The Big Slow Church Move](https://soylentnews.org/article.pl?sid=25/08/20/0132257&from=rss)
 * [2025-08-20, 11:35:00](https://soylentnews.org/article.pl?sid=25/08/20/0125237&from=rss) - [How Chefs and Scientists Are Using Kombucha and Kimchi to Study Microbiology](https://soylentnews.org/article.pl?sid=25/08/20/0125237&from=rss)
 * [2025-08-20, 06:48:00](https://soylentnews.org/article.pl?sid=25/08/19/1550241&from=rss) - [Scientists Say Tool Can Sniff 5G Traffic, Launch 'Attacks' Without Using Rogue Base Stations](https://soylentnews.org/article.pl?sid=25/08/19/1550241&from=rss)
-* [2025-08-20, 02:06:00](https://soylentnews.org/article.pl?sid=25/08/19/1547232&from=rss) - [Can’t Pay, Won’t Pay: Impoverished Streaming Services are Driving Viewers Back to Piracy](https://soylentnews.org/article.pl?sid=25/08/19/1547232&from=rss)
 
 ## [Archives](archives/index.md)
 
