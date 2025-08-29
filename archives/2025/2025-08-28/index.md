@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 23:59:00](https://soylentnews.org/article.pl?sid=25/08/28/1211212&from=rss) - [Microsoft's Windows 95 Release Was 30 Years Ago, the First Time Software Was a Pop Culture Smash](https://soylentnews.org/article.pl?sid=25/08/28/1211212&from=rss)
 * [2025-08-28, 19:10:00](https://soylentnews.org/article.pl?sid=25/08/27/1455216&from=rss) - [SpaceX’s Latest Dragon Mission Will Breathe More Fire at the Space Station](https://soylentnews.org/article.pl?sid=25/08/27/1455216&from=rss)
 * [2025-08-28, 14:22:00](https://soylentnews.org/article.pl?sid=25/08/27/1449220&from=rss) - [How the Cavefish Lost its Eyes— Again and Again](https://soylentnews.org/article.pl?sid=25/08/27/1449220&from=rss)
 * [2025-08-28, 09:34:00](https://soylentnews.org/article.pl?sid=25/08/27/2323243&from=rss) - [An Empty Strip and Fewer Tips: is Las Vegas in Trouble?](https://soylentnews.org/article.pl?sid=25/08/27/2323243&from=rss)
