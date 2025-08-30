@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-30, 13:51:00](https://soylentnews.org/article.pl?sid=25/08/29/0536231&from=rss) - [US Attorneys General Tell AI Companies They 'Will be Held Accountable' for Child Safety Failures](https://soylentnews.org/article.pl?sid=25/08/29/0536231&from=rss)
 * [2025-08-30, 09:04:00](https://soylentnews.org/article.pl?sid=25/08/29/0527204&from=rss) - [ADAS (Driver Assist) Gen 2 From BMW](https://soylentnews.org/article.pl?sid=25/08/29/0527204&from=rss)
 * [2025-08-30, 04:21:00](https://soylentnews.org/article.pl?sid=25/08/29/0523215&from=rss) - [A Gentle Introduction to CP/M](https://soylentnews.org/article.pl?sid=25/08/29/0523215&from=rss)
 * [2025-08-29, 23:35:00](https://soylentnews.org/article.pl?sid=25/08/27/1236219&from=rss) - [Punycode - an Overview by a Soylentil](https://soylentnews.org/article.pl?sid=25/08/27/1236219&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-21, 06:38:00](https://soylentnews.org/article.pl?sid=25/08/20/033241&from=rss) - [If AI Takes Most of Our Jobs, Money as We Know It Will be Over. What Then?](https://soylentnews.org/article.pl?sid=25/08/20/033241&from=rss)
 * [2025-08-21, 01:52:00](https://soylentnews.org/article.pl?sid=25/08/20/0153218&from=rss) - [A Treatise on AI Chatbots Undermining the Enlightenment](https://soylentnews.org/article.pl?sid=25/08/20/0153218&from=rss)
 * [2025-08-20, 21:08:00](https://soylentnews.org/article.pl?sid=25/08/20/0149227&from=rss) - [Whoops, They Did It Again](https://soylentnews.org/article.pl?sid=25/08/20/0149227&from=rss)
-* [2025-08-20, 16:22:00](https://soylentnews.org/article.pl?sid=25/08/20/0132257&from=rss) - [The Big Slow Church Move](https://soylentnews.org/article.pl?sid=25/08/20/0132257&from=rss)
 
 ## [Archives](archives/index.md)
 
