@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-31, 13:38:00](https://soylentnews.org/article.pl?sid=25/08/30/1419247&from=rss) - [A New Security Flaw in TheTruthSpy Phone Spyware is Putting Victims at Risk](https://soylentnews.org/article.pl?sid=25/08/30/1419247&from=rss)
 * [2025-08-31, 08:47:00](https://soylentnews.org/article.pl?sid=25/08/29/2355251&from=rss) - [Transport for London (TfL) Asks Mobile Users to Wear Headphones](https://soylentnews.org/article.pl?sid=25/08/29/2355251&from=rss)
 * [2025-08-31, 03:59:00](https://soylentnews.org/article.pl?sid=25/08/29/2346225&from=rss) - [Scientists Produce Quantum Entanglement-like Results Without Entangled Particles](https://soylentnews.org/article.pl?sid=25/08/29/2346225&from=rss)
 * [2025-08-30, 23:14:00](https://soylentnews.org/article.pl?sid=25/08/29/2330255&from=rss) - [Rare Quadruple Star System May Solve the Mystery of Brown Dwarfs](https://soylentnews.org/article.pl?sid=25/08/29/2330255&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-22, 06:22:00](https://soylentnews.org/article.pl?sid=25/08/20/2255245&from=rss) - [VW Introduces Monthly Subscription to Increase Car Power](https://soylentnews.org/article.pl?sid=25/08/20/2255245&from=rss)
 * [2025-08-22, 01:35:00](https://soylentnews.org/article.pl?sid=25/08/20/2242220&from=rss) - [We Need to Become Unoptomizable](https://soylentnews.org/article.pl?sid=25/08/20/2242220&from=rss)
 * [2025-08-21, 20:49:00](https://soylentnews.org/article.pl?sid=25/08/20/1759228&from=rss) - [Uncovering the Fraudsters and Their Schemes Responsible for Polluting the Scientific Literature](https://soylentnews.org/article.pl?sid=25/08/20/1759228&from=rss)
-* [2025-08-21, 16:09:00](https://soylentnews.org/article.pl?sid=25/08/20/1743213&from=rss) - [Physics of Badminton’s New Killer Spin Serve](https://soylentnews.org/article.pl?sid=25/08/20/1743213&from=rss)
 
 ## [Archives](archives/index.md)
 
