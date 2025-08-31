@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-08-31, 23:13:00](https://soylentnews.org/article.pl?sid=25/08/30/1445255&from=rss) - [Elon Musk Says xAI Has Open Sourced Grok 2.5](https://soylentnews.org/article.pl?sid=25/08/30/1445255&from=rss)
 * [2025-08-31, 18:25:00](https://soylentnews.org/article.pl?sid=25/08/30/1427217&from=rss) - [US Military's X-37B Spaceplane Stays Relevant With Launch of Another Mission](https://soylentnews.org/article.pl?sid=25/08/30/1427217&from=rss)
 * [2025-08-31, 13:38:00](https://soylentnews.org/article.pl?sid=25/08/30/1419247&from=rss) - [A New Security Flaw in TheTruthSpy Phone Spyware is Putting Victims at Risk](https://soylentnews.org/article.pl?sid=25/08/30/1419247&from=rss)
 * [2025-08-31, 08:47:00](https://soylentnews.org/article.pl?sid=25/08/29/2355251&from=rss) - [Transport for London (TfL) Asks Mobile Users to Wear Headphones](https://soylentnews.org/article.pl?sid=25/08/29/2355251&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-22, 15:56:00](https://soylentnews.org/article.pl?sid=25/08/21/123255&from=rss) - [Adult Sites Are Stashing Exploit Code Inside Racy .svg Files](https://soylentnews.org/article.pl?sid=25/08/21/123255&from=rss)
 * [2025-08-22, 11:11:00](https://soylentnews.org/article.pl?sid=25/08/21/1154233&from=rss) - [Teenagers Are Choosing to Study STEM Subjects. It's a Sign of the Times](https://soylentnews.org/article.pl?sid=25/08/21/1154233&from=rss)
 * [2025-08-22, 06:22:00](https://soylentnews.org/article.pl?sid=25/08/20/2255245&from=rss) - [VW Introduces Monthly Subscription to Increase Car Power](https://soylentnews.org/article.pl?sid=25/08/20/2255245&from=rss)
-* [2025-08-22, 01:35:00](https://soylentnews.org/article.pl?sid=25/08/20/2242220&from=rss) - [We Need to Become Unoptomizable](https://soylentnews.org/article.pl?sid=25/08/20/2242220&from=rss)
 
 ## [Archives](archives/index.md)
 
