@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 13:32:00](https://soylentnews.org/article.pl?sid=25/08/31/1353201&from=rss) - [Massive Data Breach: Google Warns 2.5 Billion Gmail Users](https://soylentnews.org/article.pl?sid=25/08/31/1353201&from=rss)
 * [2025-09-01, 08:44:00](https://soylentnews.org/article.pl?sid=25/08/30/1515239&from=rss) - [Medical Cannabis Fails the Long-Term Test: 58% of Patients Quit Within a Year](https://soylentnews.org/article.pl?sid=25/08/30/1515239&from=rss)
 * [2025-09-01, 04:01:00](https://soylentnews.org/article.pl?sid=25/08/30/157235&from=rss) - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://soylentnews.org/article.pl?sid=25/08/30/157235&from=rss)
