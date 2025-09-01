@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-01, 08:44:00](https://soylentnews.org/article.pl?sid=25/08/30/1515239&from=rss) - [Medical Cannabis Fails the Long-Term Test: 58% of Patients Quit Within a Year](https://soylentnews.org/article.pl?sid=25/08/30/1515239&from=rss)
 * [2025-09-01, 04:01:00](https://soylentnews.org/article.pl?sid=25/08/30/157235&from=rss) - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://soylentnews.org/article.pl?sid=25/08/30/157235&from=rss)
 * [2025-08-31, 23:13:00](https://soylentnews.org/article.pl?sid=25/08/30/1445255&from=rss) - [Elon Musk Says xAI Has Open Sourced Grok 2.5](https://soylentnews.org/article.pl?sid=25/08/30/1445255&from=rss)
 * [2025-08-31, 18:25:00](https://soylentnews.org/article.pl?sid=25/08/30/1427217&from=rss) - [US Military's X-37B Spaceplane Stays Relevant With Launch of Another Mission](https://soylentnews.org/article.pl?sid=25/08/30/1427217&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-23, 01:25:00](https://soylentnews.org/article.pl?sid=25/08/22/010203&from=rss) - [T-Mobile Claimed Selling Location Data Without Consent is Legal—Judges Disagree](https://soylentnews.org/article.pl?sid=25/08/22/010203&from=rss)
 * [2025-08-22, 20:39:00](https://soylentnews.org/article.pl?sid=25/08/21/1213229&from=rss) - [Tree Species Face Unprecedented Climate Shifts Across Their Ranges](https://soylentnews.org/article.pl?sid=25/08/21/1213229&from=rss)
 * [2025-08-22, 15:56:00](https://soylentnews.org/article.pl?sid=25/08/21/123255&from=rss) - [Adult Sites Are Stashing Exploit Code Inside Racy .svg Files](https://soylentnews.org/article.pl?sid=25/08/21/123255&from=rss)
-* [2025-08-22, 11:11:00](https://soylentnews.org/article.pl?sid=25/08/21/1154233&from=rss) - [Teenagers Are Choosing to Study STEM Subjects. It's a Sign of the Times](https://soylentnews.org/article.pl?sid=25/08/21/1154233&from=rss)
 
 ## [Archives](archives/index.md)
 
