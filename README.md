@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-02, 03:44:00](https://soylentnews.org/article.pl?sid=25/08/31/1416227&from=rss) - [AMD Roadmap Leak Points to Zen 6 Mobile CPUs in 2027](https://soylentnews.org/article.pl?sid=25/08/31/1416227&from=rss)
 * [2025-09-01, 23:04:00](https://soylentnews.org/article.pl?sid=25/08/31/146226&from=rss) - [AI Crawlers Destroying Websites in Hunger for Content](https://soylentnews.org/article.pl?sid=25/08/31/146226&from=rss)
 * [2025-09-01, 18:14:00](https://soylentnews.org/article.pl?sid=25/08/31/1355250&from=rss) - [Tesla Denied Having Fatal Crash Data Until a Hacker Found It](https://soylentnews.org/article.pl?sid=25/08/31/1355250&from=rss)
 * [2025-09-01, 13:32:00](https://soylentnews.org/article.pl?sid=25/08/31/1353201&from=rss) - [Massive Data Breach: Google Warns 2.5 Billion Gmail Users](https://soylentnews.org/article.pl?sid=25/08/31/1353201&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-23, 20:25:00](https://soylentnews.org/article.pl?sid=25/08/22/0551243&from=rss) - [Webb Discovers a New Moon Orbiting Uranus](https://soylentnews.org/article.pl?sid=25/08/22/0551243&from=rss)
 * [2025-08-23, 15:35:00](https://soylentnews.org/article.pl?sid=25/08/22/0547201&from=rss) - [Congressman Proposes Bringing Back Letters of Marque for Cyber Privateers](https://soylentnews.org/article.pl?sid=25/08/22/0547201&from=rss)
 * [2025-08-23, 11:00:00](https://soylentnews.org/article.pl?sid=25/08/22/0544206&from=rss) - [Heat-Styling Hair Care Products Release Billions of Nanoparticles That Can Accumulate in Lungs](https://soylentnews.org/article.pl?sid=25/08/22/0544206&from=rss)
-* [2025-08-23, 06:10:00](https://soylentnews.org/article.pl?sid=25/08/22/019206&from=rss) - [New Research Ferments the Perfect Recipe for Fine Chocolate Flavour](https://soylentnews.org/article.pl?sid=25/08/22/019206&from=rss)
 
 ## [Archives](archives/index.md)
 
