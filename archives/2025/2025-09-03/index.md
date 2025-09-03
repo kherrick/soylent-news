@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 22:27:00](https://soylentnews.org/article.pl?sid=25/09/02/192213&from=rss) - [CRLite: Fast, Private, and Comprehensive Certificate Revocation Checking in Firefox](https://soylentnews.org/article.pl?sid=25/09/02/192213&from=rss)
 * [2025-09-03, 17:44:00](https://soylentnews.org/article.pl?sid=25/09/02/1855227&from=rss) - [Microsoft Can't Guarantee Data Sovereignty – OVHcloud Says 'We Told You So'](https://soylentnews.org/article.pl?sid=25/09/02/1855227&from=rss)
 * [2025-09-03, 13:01:00](https://soylentnews.org/article.pl?sid=25/09/02/1851257&from=rss) - [Fascinating New Psychology Research Shows How Music Shapes Imagination](https://soylentnews.org/article.pl?sid=25/09/02/1851257&from=rss)
 * [2025-09-03, 10:26:00](https://soylentnews.org/article.pl?sid=25/09/03/0230242&from=rss) - [We Fed People a Milkshake With 130g of Fat to See What It Did to Their Brains](https://soylentnews.org/article.pl?sid=25/09/03/0230242&from=rss)
