@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-04, 03:14:00](https://soylentnews.org/article.pl?sid=25/09/03/0216228&from=rss) - [People Who Believe in Conspiracy Theories Process Information Differently at the Neural Level](https://soylentnews.org/article.pl?sid=25/09/03/0216228&from=rss)
 * [2025-09-03, 22:27:00](https://soylentnews.org/article.pl?sid=25/09/02/192213&from=rss) - [CRLite: Fast, Private, and Comprehensive Certificate Revocation Checking in Firefox](https://soylentnews.org/article.pl?sid=25/09/02/192213&from=rss)
 * [2025-09-03, 17:44:00](https://soylentnews.org/article.pl?sid=25/09/02/1855227&from=rss) - [Microsoft Can't Guarantee Data Sovereignty – OVHcloud Says 'We Told You So'](https://soylentnews.org/article.pl?sid=25/09/02/1855227&from=rss)
 * [2025-09-03, 13:01:00](https://soylentnews.org/article.pl?sid=25/09/02/1851257&from=rss) - [Fascinating New Psychology Research Shows How Music Shapes Imagination](https://soylentnews.org/article.pl?sid=25/09/02/1851257&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-26, 00:31:00](https://soylentnews.org/article.pl?sid=25/08/25/1234216&from=rss) - [Oops! Earendel, Most Distant Star Ever Discovered, May Not Actually be a Star](https://soylentnews.org/article.pl?sid=25/08/25/1234216&from=rss)
 * [2025-08-25, 19:45:00](https://soylentnews.org/article.pl?sid=25/08/25/0225208&from=rss) - [The 8,000-Year History of Great Salt Lake and its Watershed is Recorded in Sediments](https://soylentnews.org/article.pl?sid=25/08/25/0225208&from=rss)
 * [2025-08-25, 14:59:00](https://soylentnews.org/article.pl?sid=25/08/24/2253216&from=rss) - [What Happens When AI Comes for Our Fonts?](https://soylentnews.org/article.pl?sid=25/08/24/2253216&from=rss)
-* [2025-08-25, 10:15:00](https://soylentnews.org/article.pl?sid=25/08/24/136245&from=rss) - [NASA Challenge Winners Cook Up New Industry Developments](https://soylentnews.org/article.pl?sid=25/08/24/136245&from=rss)
 
 ## [Archives](archives/index.md)
 
