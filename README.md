@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-05, 17:13:00](https://soylentnews.org/article.pl?sid=25/09/04/150221&from=rss) - [Nvidia Blasts Proposed US Bill That Would Force It to Give American Buyers First Option](https://soylentnews.org/article.pl?sid=25/09/04/150221&from=rss)
 * [2025-09-05, 12:28:00](https://soylentnews.org/article.pl?sid=25/09/04/0430216&from=rss) - [Stressed Ice Generates Electricity, Researchers Find](https://soylentnews.org/article.pl?sid=25/09/04/0430216&from=rss)
 * [2025-09-05, 07:47:00](https://soylentnews.org/article.pl?sid=25/09/04/0419219&from=rss) - [Google Won't Have to Sell Chrome, Judge Rules](https://soylentnews.org/article.pl?sid=25/09/04/0419219&from=rss)
 * [2025-09-05, 03:03:00](https://soylentnews.org/article.pl?sid=25/09/04/0414246&from=rss) - [U.S. Gov't Revokes TSMC's Authorization to Ship Tools to its Fabs in China](https://soylentnews.org/article.pl?sid=25/09/04/0414246&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-27, 14:34:00](https://soylentnews.org/article.pl?sid=25/08/26/1126243&from=rss) - [Postal Services Around the World Suspend Deliveries to US: How Will It Affect You?](https://soylentnews.org/article.pl?sid=25/08/26/1126243&from=rss)
 * [2025-08-27, 09:48:00](https://soylentnews.org/article.pl?sid=25/08/26/1117241&from=rss) - [Scientists Pioneer Sustainable Carbon Capture From Shrimp Waste](https://soylentnews.org/article.pl?sid=25/08/26/1117241&from=rss)
 * [2025-08-27, 05:03:00](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&from=rss) - [Trump Threatens Taxes, Bans, for Nations That Tax Big Tech](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&from=rss)
-* [2025-08-27, 00:16:00](https://soylentnews.org/article.pl?sid=25/08/26/0059245&from=rss) - [Twenty Years After Katrina: How Levee Failures Changed America](https://soylentnews.org/article.pl?sid=25/08/26/0059245&from=rss)
 
 ## [Archives](archives/index.md)
 
