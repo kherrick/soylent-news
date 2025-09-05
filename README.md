@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-05, 07:47:00](https://soylentnews.org/article.pl?sid=25/09/04/0419219&from=rss) - [Google Won't Have to Sell Chrome, Judge Rules](https://soylentnews.org/article.pl?sid=25/09/04/0419219&from=rss)
 * [2025-09-05, 03:03:00](https://soylentnews.org/article.pl?sid=25/09/04/0414246&from=rss) - [U.S. Gov't Revokes TSMC's Authorization to Ship Tools to its Fabs in China](https://soylentnews.org/article.pl?sid=25/09/04/0414246&from=rss)
 * [2025-09-04, 22:16:00](https://soylentnews.org/article.pl?sid=25/09/04/048238&from=rss) - [Scammers Will Try to Trick You Into Filling Out Google Forms. Don’t Fall for It](https://soylentnews.org/article.pl?sid=25/09/04/048238&from=rss)
 * [2025-09-04, 17:29:00](https://soylentnews.org/article.pl?sid=25/09/04/0350224&from=rss) - [Passkeys Are Incompatible With Open-Source Software](https://soylentnews.org/article.pl?sid=25/09/04/0350224&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-27, 05:03:00](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&from=rss) - [Trump Threatens Taxes, Bans, for Nations That Tax Big Tech](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&from=rss)
 * [2025-08-27, 00:16:00](https://soylentnews.org/article.pl?sid=25/08/26/0059245&from=rss) - [Twenty Years After Katrina: How Levee Failures Changed America](https://soylentnews.org/article.pl?sid=25/08/26/0059245&from=rss)
 * [2025-08-26, 19:33:00](https://soylentnews.org/article.pl?sid=25/08/26/0056205&from=rss) - [Kelp Forests in Marine Protected Areas are More Resilient to Marine Heatwaves](https://soylentnews.org/article.pl?sid=25/08/26/0056205&from=rss)
-* [2025-08-26, 14:49:00](https://soylentnews.org/article.pl?sid=25/08/26/0050212&from=rss) - [Canadian EV Sales Collapse by 35% as Gas Car Purchases Surge](https://soylentnews.org/article.pl?sid=25/08/26/0050212&from=rss)
 
 ## [Archives](archives/index.md)
 
