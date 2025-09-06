@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-06, 21:42:00](https://soylentnews.org/article.pl?sid=25/09/05/0544216&from=rss) - [Bill Gates’ 48-Year-Old Microsoft 6502 BASIC Goes Open Source](https://soylentnews.org/article.pl?sid=25/09/05/0544216&from=rss)
 * [2025-09-06, 16:59:00](https://soylentnews.org/article.pl?sid=25/09/05/0540222&from=rss) - [Jury Orders Google to Pay $425 Million for Unlawfully Tracking Millions of Users](https://soylentnews.org/article.pl?sid=25/09/05/0540222&from=rss)
 * [2025-09-06, 12:13:00](https://soylentnews.org/article.pl?sid=25/09/05/0536245&from=rss) - [China Likely to Land on Moon Before US Does Again](https://soylentnews.org/article.pl?sid=25/09/05/0536245&from=rss)
 * [2025-09-06, 07:29:00](https://soylentnews.org/article.pl?sid=25/09/05/0527230&from=rss) - [New Hollow-Core Fiber Outperforms Glass, Pushing Data Closer to Light Speed](https://soylentnews.org/article.pl?sid=25/09/05/0527230&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-28, 19:10:00](https://soylentnews.org/article.pl?sid=25/08/27/1455216&from=rss) - [SpaceX’s Latest Dragon Mission Will Breathe More Fire at the Space Station](https://soylentnews.org/article.pl?sid=25/08/27/1455216&from=rss)
 * [2025-08-28, 14:22:00](https://soylentnews.org/article.pl?sid=25/08/27/1449220&from=rss) - [How the Cavefish Lost its Eyes— Again and Again](https://soylentnews.org/article.pl?sid=25/08/27/1449220&from=rss)
 * [2025-08-28, 09:34:00](https://soylentnews.org/article.pl?sid=25/08/27/2323243&from=rss) - [An Empty Strip and Fewer Tips: is Las Vegas in Trouble?](https://soylentnews.org/article.pl?sid=25/08/27/2323243&from=rss)
-* [2025-08-28, 04:52:00](https://soylentnews.org/article.pl?sid=25/08/27/1232257&from=rss) - [Science Marches on](https://soylentnews.org/article.pl?sid=25/08/27/1232257&from=rss)
 
 ## [Archives](archives/index.md)
 
