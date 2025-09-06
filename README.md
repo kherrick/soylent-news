@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-06, 02:45:00](https://soylentnews.org/article.pl?sid=25/09/05/0259211&from=rss) - [The Fight Against Labeling Long-Term Streaming Rentals as “Purchases” You “Buy”](https://soylentnews.org/article.pl?sid=25/09/05/0259211&from=rss)
 * [2025-09-05, 21:57:00](https://soylentnews.org/article.pl?sid=25/09/04/155234&from=rss) - [M365 Copilot Fails to Up Productivity in UK Government Trial](https://soylentnews.org/article.pl?sid=25/09/04/155234&from=rss)
 * [2025-09-05, 17:13:00](https://soylentnews.org/article.pl?sid=25/09/04/150221&from=rss) - [Nvidia Blasts Proposed US Bill That Would Force It to Give American Buyers First Option](https://soylentnews.org/article.pl?sid=25/09/04/150221&from=rss)
 * [2025-09-05, 12:28:00](https://soylentnews.org/article.pl?sid=25/09/04/0430216&from=rss) - [Stressed Ice Generates Electricity, Researchers Find](https://soylentnews.org/article.pl?sid=25/09/04/0430216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-28, 00:04:00](https://soylentnews.org/article.pl?sid=25/08/27/1225221&from=rss) - [Xz Format Inadequate for General Use](https://soylentnews.org/article.pl?sid=25/08/27/1225221&from=rss)
 * [2025-08-27, 19:22:00](https://soylentnews.org/article.pl?sid=25/08/27/1222255&from=rss) - [Google Will Require Developer Verification to Install Android Apps, Including Sideloading](https://soylentnews.org/article.pl?sid=25/08/27/1222255&from=rss)
 * [2025-08-27, 14:34:00](https://soylentnews.org/article.pl?sid=25/08/26/1126243&from=rss) - [Postal Services Around the World Suspend Deliveries to US: How Will It Affect You?](https://soylentnews.org/article.pl?sid=25/08/26/1126243&from=rss)
-* [2025-08-27, 09:48:00](https://soylentnews.org/article.pl?sid=25/08/26/1117241&from=rss) - [Scientists Pioneer Sustainable Carbon Capture From Shrimp Waste](https://soylentnews.org/article.pl?sid=25/08/26/1117241&from=rss)
 
 ## [Archives](archives/index.md)
 
