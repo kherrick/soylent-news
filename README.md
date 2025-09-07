@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-07, 11:56:00](https://soylentnews.org/article.pl?sid=25/09/06/1527240&from=rss) - [France Fines Google, SHEIN for Undercooked Cookie Policies](https://soylentnews.org/article.pl?sid=25/09/06/1527240&from=rss)
 * [2025-09-07, 07:11:00](https://soylentnews.org/article.pl?sid=25/09/06/1514247&from=rss) - [Nvidia's Next-Gen AI Chip Could Be Double  the Price of H20 If China Export is Approved](https://soylentnews.org/article.pl?sid=25/09/06/1514247&from=rss)
 * [2025-09-07, 02:27:00](https://soylentnews.org/article.pl?sid=25/09/06/1510251&from=rss) - [Porsche's New Cayenne Will Charge Itself Like No Other EV](https://soylentnews.org/article.pl?sid=25/09/06/1510251&from=rss)
 * [2025-09-06, 21:42:00](https://soylentnews.org/article.pl?sid=25/09/05/0544216&from=rss) - [Bill Gates’ 48-Year-Old Microsoft 6502 BASIC Goes Open Source](https://soylentnews.org/article.pl?sid=25/09/05/0544216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-29, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/28/1843236&from=rss) - [Breathwork Can Induce Altered States of Consciousness](https://soylentnews.org/article.pl?sid=25/08/28/1843236&from=rss)
 * [2025-08-29, 04:43:00](https://soylentnews.org/article.pl?sid=25/08/28/1214205&from=rss) - [Mercedes Demonstrates Five Minute BEV Charging While Setting Speed Records](https://soylentnews.org/article.pl?sid=25/08/28/1214205&from=rss)
 * [2025-08-28, 23:59:00](https://soylentnews.org/article.pl?sid=25/08/28/1211212&from=rss) - [Microsoft's Windows 95 Release Was 30 Years Ago, the First Time Software Was a Pop Culture Smash](https://soylentnews.org/article.pl?sid=25/08/28/1211212&from=rss)
-* [2025-08-28, 19:10:00](https://soylentnews.org/article.pl?sid=25/08/27/1455216&from=rss) - [SpaceX’s Latest Dragon Mission Will Breathe More Fire at the Space Station](https://soylentnews.org/article.pl?sid=25/08/27/1455216&from=rss)
 
 ## [Archives](archives/index.md)
 
