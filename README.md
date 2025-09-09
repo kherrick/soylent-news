@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-09, 15:59:00](https://soylentnews.org/article.pl?sid=25/09/08/1810222&from=rss) - [Multiple Undersea Cable Cuts in the Red Sea, Hampering Internet Performance](https://soylentnews.org/article.pl?sid=25/09/08/1810222&from=rss)
 * [2025-09-09, 11:14:00](https://soylentnews.org/article.pl?sid=25/09/08/1210241&from=rss) - [Recreating 'The Magnificient Ambersons' With AI](https://soylentnews.org/article.pl?sid=25/09/08/1210241&from=rss)
 * [2025-09-09, 06:27:00](https://soylentnews.org/article.pl?sid=25/09/08/128200&from=rss) - [The World's Largest Iceberg is Rapidly Breaking Apart and Melting Away](https://soylentnews.org/article.pl?sid=25/09/08/128200&from=rss)
 * [2025-09-09, 01:39:00](https://soylentnews.org/article.pl?sid=25/09/08/0254218&from=rss) - [Mazda Patents Six-Stroke Gas Engine](https://soylentnews.org/article.pl?sid=25/09/08/0254218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-08-31, 13:38:00](https://soylentnews.org/article.pl?sid=25/08/30/1419247&from=rss) - [A New Security Flaw in TheTruthSpy Phone Spyware is Putting Victims at Risk](https://soylentnews.org/article.pl?sid=25/08/30/1419247&from=rss)
 * [2025-08-31, 08:47:00](https://soylentnews.org/article.pl?sid=25/08/29/2355251&from=rss) - [Transport for London (TfL) Asks Mobile Users to Wear Headphones](https://soylentnews.org/article.pl?sid=25/08/29/2355251&from=rss)
 * [2025-08-31, 03:59:00](https://soylentnews.org/article.pl?sid=25/08/29/2346225&from=rss) - [Scientists Produce Quantum Entanglement-like Results Without Entangled Particles](https://soylentnews.org/article.pl?sid=25/08/29/2346225&from=rss)
-* [2025-08-30, 23:14:00](https://soylentnews.org/article.pl?sid=25/08/29/2330255&from=rss) - [Rare Quadruple Star System May Solve the Mystery of Brown Dwarfs](https://soylentnews.org/article.pl?sid=25/08/29/2330255&from=rss)
 
 ## [Archives](archives/index.md)
 
