@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-10, 06:13:00](https://soylentnews.org/article.pl?sid=25/09/09/1559244&from=rss) - [Congress and Trump May Compromise on the SLS Rocket by Axing its Costly Upper Stage](https://soylentnews.org/article.pl?sid=25/09/09/1559244&from=rss)
 * [2025-09-10, 01:28:00](https://soylentnews.org/article.pl?sid=25/09/09/1229205&from=rss) - [Your Red is My Red, at Least to Our Brains](https://soylentnews.org/article.pl?sid=25/09/09/1229205&from=rss)
 * [2025-09-09, 20:43:00](https://soylentnews.org/article.pl?sid=25/09/08/1814241&from=rss) - [Microsoft Software Reselling Dispute Heads Back to UK Court](https://soylentnews.org/article.pl?sid=25/09/08/1814241&from=rss)
 * [2025-09-09, 15:59:00](https://soylentnews.org/article.pl?sid=25/09/08/1810222&from=rss) - [Multiple Undersea Cable Cuts in the Red Sea, Hampering Internet Performance](https://soylentnews.org/article.pl?sid=25/09/08/1810222&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-01, 04:01:00](https://soylentnews.org/article.pl?sid=25/08/30/157235&from=rss) - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://soylentnews.org/article.pl?sid=25/08/30/157235&from=rss)
 * [2025-08-31, 23:13:00](https://soylentnews.org/article.pl?sid=25/08/30/1445255&from=rss) - [Elon Musk Says xAI Has Open Sourced Grok 2.5](https://soylentnews.org/article.pl?sid=25/08/30/1445255&from=rss)
 * [2025-08-31, 18:25:00](https://soylentnews.org/article.pl?sid=25/08/30/1427217&from=rss) - [US Military's X-37B Spaceplane Stays Relevant With Launch of Another Mission](https://soylentnews.org/article.pl?sid=25/08/30/1427217&from=rss)
-* [2025-08-31, 13:38:00](https://soylentnews.org/article.pl?sid=25/08/30/1419247&from=rss) - [A New Security Flaw in TheTruthSpy Phone Spyware is Putting Victims at Risk](https://soylentnews.org/article.pl?sid=25/08/30/1419247&from=rss)
 
 ## [Archives](archives/index.md)
 
