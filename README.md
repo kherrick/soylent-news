@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-10, 15:44:00](https://soylentnews.org/article.pl?sid=25/09/10/0055209&from=rss) - [Ubuntu Software Repositories Unavailable or Slow for Multiple Days Due to Outage](https://soylentnews.org/article.pl?sid=25/09/10/0055209&from=rss)
 * [2025-09-10, 10:57:00](https://soylentnews.org/article.pl?sid=25/09/10/0052200&from=rss) - [Amazon's Project Kuiper Signs Up JetBlue as its First Airline Customer to Use its Satellite Internet](https://soylentnews.org/article.pl?sid=25/09/10/0052200&from=rss)
 * [2025-09-10, 06:13:00](https://soylentnews.org/article.pl?sid=25/09/09/1559244&from=rss) - [Congress and Trump May Compromise on the SLS Rocket by Axing its Costly Upper Stage](https://soylentnews.org/article.pl?sid=25/09/09/1559244&from=rss)
 * [2025-09-10, 01:28:00](https://soylentnews.org/article.pl?sid=25/09/09/1229205&from=rss) - [Your Red is My Red, at Least to Our Brains](https://soylentnews.org/article.pl?sid=25/09/09/1229205&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-01, 13:32:00](https://soylentnews.org/article.pl?sid=25/08/31/1353201&from=rss) - [Massive Data Breach: Google Warns 2.5 Billion Gmail Users](https://soylentnews.org/article.pl?sid=25/08/31/1353201&from=rss)
 * [2025-09-01, 08:44:00](https://soylentnews.org/article.pl?sid=25/08/30/1515239&from=rss) - [Medical Cannabis Fails the Long-Term Test: 58% of Patients Quit Within a Year](https://soylentnews.org/article.pl?sid=25/08/30/1515239&from=rss)
 * [2025-09-01, 04:01:00](https://soylentnews.org/article.pl?sid=25/08/30/157235&from=rss) - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://soylentnews.org/article.pl?sid=25/08/30/157235&from=rss)
-* [2025-08-31, 23:13:00](https://soylentnews.org/article.pl?sid=25/08/30/1445255&from=rss) - [Elon Musk Says xAI Has Open Sourced Grok 2.5](https://soylentnews.org/article.pl?sid=25/08/30/1445255&from=rss)
 
 ## [Archives](archives/index.md)
 
