@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-12, 10:33:00](https://soylentnews.org/article.pl?sid=25/09/10/2236210&from=rss) - [This is the First Time Scientists Have Seen Decision Making in a Brain](https://soylentnews.org/article.pl?sid=25/09/10/2236210&from=rss)
 * [2025-09-12, 05:46:00](https://soylentnews.org/article.pl?sid=25/09/10/2228216&from=rss) - [Scientists Discover ‘Clearest Sign’ Yet of Life on Mars](https://soylentnews.org/article.pl?sid=25/09/10/2228216&from=rss)
 * [2025-09-12, 01:01:00](https://soylentnews.org/article.pl?sid=25/09/10/2225205&from=rss) - [Unicode version 17.0.0 Released ](https://soylentnews.org/article.pl?sid=25/09/10/2225205&from=rss)
 * [2025-09-11, 20:16:00](https://soylentnews.org/article.pl?sid=25/09/10/0627237&from=rss) - [Scientists Create Solar Cells That Generate Energy From Indoor Light at Record Efficiency](https://soylentnews.org/article.pl?sid=25/09/10/0627237&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-03, 08:17:00](https://soylentnews.org/article.pl?sid=25/09/02/1848251&from=rss) - [DUPE - China Turns on Giant Neutrino Detector](https://soylentnews.org/article.pl?sid=25/09/02/1848251&from=rss)
 * [2025-09-03, 03:31:00](https://soylentnews.org/article.pl?sid=25/09/02/0359228&from=rss) - [Artificial Toy Story: Do AI-Powered Toys Take the Life Out of Playtime?](https://soylentnews.org/article.pl?sid=25/09/02/0359228&from=rss)
 * [2025-09-02, 22:46:00](https://soylentnews.org/article.pl?sid=25/09/02/0144236&from=rss) - [World’s Largest Neutrino Detector Switches On](https://soylentnews.org/article.pl?sid=25/09/02/0144236&from=rss)
-* [2025-09-02, 17:59:00](https://soylentnews.org/article.pl?sid=25/09/01/0031222&from=rss) - [New Paper Finds Cases of \"AI Psychosis\" Manifesting Differently From Schizophrenia](https://soylentnews.org/article.pl?sid=25/09/01/0031222&from=rss)
 
 ## [Archives](archives/index.md)
 
