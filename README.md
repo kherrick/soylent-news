@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-12, 19:58:00](https://soylentnews.org/article.pl?sid=25/09/11/036213&from=rss) - [LIGO's Sharpest Detection Yet Confirms Famous Stephen Hawking Theory](https://soylentnews.org/article.pl?sid=25/09/11/036213&from=rss)
 * [2025-09-12, 15:13:00](https://soylentnews.org/article.pl?sid=25/09/11/0256255&from=rss) - [Dead Internet Theory Lives: One Out of Three of You is a Bot](https://soylentnews.org/article.pl?sid=25/09/11/0256255&from=rss)
 * [2025-09-12, 10:33:00](https://soylentnews.org/article.pl?sid=25/09/10/2236210&from=rss) - [This is the First Time Scientists Have Seen Decision Making in a Brain](https://soylentnews.org/article.pl?sid=25/09/10/2236210&from=rss)
 * [2025-09-12, 05:46:00](https://soylentnews.org/article.pl?sid=25/09/10/2228216&from=rss) - [Scientists Discover ‘Clearest Sign’ Yet of Life on Mars](https://soylentnews.org/article.pl?sid=25/09/10/2228216&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-03, 13:01:00](https://soylentnews.org/article.pl?sid=25/09/02/1851257&from=rss) - [Fascinating New Psychology Research Shows How Music Shapes Imagination](https://soylentnews.org/article.pl?sid=25/09/02/1851257&from=rss)
 * [2025-09-03, 10:26:00](https://soylentnews.org/article.pl?sid=25/09/03/0230242&from=rss) - [We Fed People a Milkshake With 130g of Fat to See What It Did to Their Brains](https://soylentnews.org/article.pl?sid=25/09/03/0230242&from=rss)
 * [2025-09-03, 08:17:00](https://soylentnews.org/article.pl?sid=25/09/02/1848251&from=rss) - [DUPE - China Turns on Giant Neutrino Detector](https://soylentnews.org/article.pl?sid=25/09/02/1848251&from=rss)
-* [2025-09-03, 03:31:00](https://soylentnews.org/article.pl?sid=25/09/02/0359228&from=rss) - [Artificial Toy Story: Do AI-Powered Toys Take the Life Out of Playtime?](https://soylentnews.org/article.pl?sid=25/09/02/0359228&from=rss)
 
 ## [Archives](archives/index.md)
 
