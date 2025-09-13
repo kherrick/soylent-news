@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-13, 10:10:00](https://soylentnews.org/article.pl?sid=25/09/11/0338253&from=rss) - [AI's Free Web Scraping Days May be Over, Thanks to This New Licensing Protocol](https://soylentnews.org/article.pl?sid=25/09/11/0338253&from=rss)
 * [2025-09-13, 05:24:00](https://soylentnews.org/article.pl?sid=25/09/11/0325209&from=rss) - [Scientists Urge EU Governments to Reject Chat Control Rules](https://soylentnews.org/article.pl?sid=25/09/11/0325209&from=rss)
 * [2025-09-13, 00:42:00](https://soylentnews.org/article.pl?sid=25/09/11/0310226&from=rss) - [ASML Invests €1.3bn in AI Company Mistral](https://soylentnews.org/article.pl?sid=25/09/11/0310226&from=rss)
 * [2025-09-12, 19:58:00](https://soylentnews.org/article.pl?sid=25/09/11/036213&from=rss) - [LIGO's Sharpest Detection Yet Confirms Famous Stephen Hawking Theory](https://soylentnews.org/article.pl?sid=25/09/11/036213&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-04, 03:14:00](https://soylentnews.org/article.pl?sid=25/09/03/0216228&from=rss) - [People Who Believe in Conspiracy Theories Process Information Differently at the Neural Level](https://soylentnews.org/article.pl?sid=25/09/03/0216228&from=rss)
 * [2025-09-03, 22:27:00](https://soylentnews.org/article.pl?sid=25/09/02/192213&from=rss) - [CRLite: Fast, Private, and Comprehensive Certificate Revocation Checking in Firefox](https://soylentnews.org/article.pl?sid=25/09/02/192213&from=rss)
 * [2025-09-03, 17:44:00](https://soylentnews.org/article.pl?sid=25/09/02/1855227&from=rss) - [Microsoft Can't Guarantee Data Sovereignty – OVHcloud Says 'We Told You So'](https://soylentnews.org/article.pl?sid=25/09/02/1855227&from=rss)
-* [2025-09-03, 13:01:00](https://soylentnews.org/article.pl?sid=25/09/02/1851257&from=rss) - [Fascinating New Psychology Research Shows How Music Shapes Imagination](https://soylentnews.org/article.pl?sid=25/09/02/1851257&from=rss)
 
 ## [Archives](archives/index.md)
 
