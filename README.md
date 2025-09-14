@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-14, 10:00:00](https://soylentnews.org/article.pl?sid=25/09/13/1342246&from=rss) - [Big Clouds Scramble Over EU Data Act and Data Transfers](https://soylentnews.org/article.pl?sid=25/09/13/1342246&from=rss)
 * [2025-09-14, 05:14:00](https://soylentnews.org/article.pl?sid=25/09/13/1330226&from=rss) - [Fingerspitzengefühl](https://soylentnews.org/article.pl?sid=25/09/13/1330226&from=rss)
 * [2025-09-14, 00:26:00](https://soylentnews.org/article.pl?sid=25/09/13/135241&from=rss) - [Senator Blasts Microsoft for Making Default Windows Vulnerable to “Kerberoasting”](https://soylentnews.org/article.pl?sid=25/09/13/135241&from=rss)
 * [2025-09-13, 19:40:00](https://soylentnews.org/article.pl?sid=25/09/13/0018206&from=rss) - [Physicists Made a Time Crystal We Can Actually See](https://soylentnews.org/article.pl?sid=25/09/13/0018206&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-05, 03:03:00](https://soylentnews.org/article.pl?sid=25/09/04/0414246&from=rss) - [U.S. Gov't Revokes TSMC's Authorization to Ship Tools to its Fabs in China](https://soylentnews.org/article.pl?sid=25/09/04/0414246&from=rss)
 * [2025-09-04, 22:16:00](https://soylentnews.org/article.pl?sid=25/09/04/048238&from=rss) - [Scammers Will Try to Trick You Into Filling Out Google Forms. Don’t Fall for It](https://soylentnews.org/article.pl?sid=25/09/04/048238&from=rss)
 * [2025-09-04, 17:29:00](https://soylentnews.org/article.pl?sid=25/09/04/0350224&from=rss) - [Passkeys Are Incompatible With Open-Source Software](https://soylentnews.org/article.pl?sid=25/09/04/0350224&from=rss)
-* [2025-09-04, 12:44:00](https://soylentnews.org/article.pl?sid=25/09/03/0226210&from=rss) - [Get Ready for Plastic Blood](https://soylentnews.org/article.pl?sid=25/09/03/0226210&from=rss)
 
 ## [Archives](archives/index.md)
 
