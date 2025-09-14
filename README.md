@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-14, 00:26:00](https://soylentnews.org/article.pl?sid=25/09/13/135241&from=rss) - [Senator Blasts Microsoft for Making Default Windows Vulnerable to “Kerberoasting”](https://soylentnews.org/article.pl?sid=25/09/13/135241&from=rss)
 * [2025-09-13, 19:40:00](https://soylentnews.org/article.pl?sid=25/09/13/0018206&from=rss) - [Physicists Made a Time Crystal We Can Actually See](https://soylentnews.org/article.pl?sid=25/09/13/0018206&from=rss)
 * [2025-09-13, 14:51:00](https://soylentnews.org/article.pl?sid=25/09/13/003254&from=rss) - [$142 Upgrade Kit and Spare Modules Turn Nvidia RTX 4090 24GB to 48GB AI Card](https://soylentnews.org/article.pl?sid=25/09/13/003254&from=rss)
 * [2025-09-13, 10:10:00](https://soylentnews.org/article.pl?sid=25/09/11/0338253&from=rss) - [AI's Free Web Scraping Days May be Over, Thanks to This New Licensing Protocol](https://soylentnews.org/article.pl?sid=25/09/11/0338253&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-04, 17:29:00](https://soylentnews.org/article.pl?sid=25/09/04/0350224&from=rss) - [Passkeys Are Incompatible With Open-Source Software](https://soylentnews.org/article.pl?sid=25/09/04/0350224&from=rss)
 * [2025-09-04, 12:44:00](https://soylentnews.org/article.pl?sid=25/09/03/0226210&from=rss) - [Get Ready for Plastic Blood](https://soylentnews.org/article.pl?sid=25/09/03/0226210&from=rss)
 * [2025-09-04, 07:57:00](https://soylentnews.org/article.pl?sid=25/09/03/0223245&from=rss) - [Nearly 40% of Nvidia's Revenue Tied to Two Mystery Customers, Filing Shows](https://soylentnews.org/article.pl?sid=25/09/03/0223245&from=rss)
-* [2025-09-04, 03:14:00](https://soylentnews.org/article.pl?sid=25/09/03/0216228&from=rss) - [People Who Believe in Conspiracy Theories Process Information Differently at the Neural Level](https://soylentnews.org/article.pl?sid=25/09/03/0216228&from=rss)
 
 ## [Archives](archives/index.md)
 
