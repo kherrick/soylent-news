@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-15, 00:19:00](https://soylentnews.org/article.pl?sid=25/09/14/0032249&from=rss) - [Newly Released Video at House UFO Hearing Appears to Show U.S. Missile Striking and Bouncing Off Orb](https://soylentnews.org/article.pl?sid=25/09/14/0032249&from=rss)
 * [2025-09-14, 19:39:00](https://soylentnews.org/article.pl?sid=25/09/14/0024209&from=rss) - [Scientists Stunned as Tiny Algae Keep Moving Inside Arctic Ice](https://soylentnews.org/article.pl?sid=25/09/14/0024209&from=rss)
 * [2025-09-14, 14:49:00](https://soylentnews.org/article.pl?sid=25/09/13/1842215&from=rss) - [Bronze Age Britons Threw Massive Ragers With Food and Friends From Far Away](https://soylentnews.org/article.pl?sid=25/09/13/1842215&from=rss)
 * [2025-09-14, 10:00:00](https://soylentnews.org/article.pl?sid=25/09/13/1342246&from=rss) - [Big Clouds Scramble Over EU Data Act and Data Transfers](https://soylentnews.org/article.pl?sid=25/09/13/1342246&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-05, 17:13:00](https://soylentnews.org/article.pl?sid=25/09/04/150221&from=rss) - [Nvidia Blasts Proposed US Bill That Would Force It to Give American Buyers First Option](https://soylentnews.org/article.pl?sid=25/09/04/150221&from=rss)
 * [2025-09-05, 12:28:00](https://soylentnews.org/article.pl?sid=25/09/04/0430216&from=rss) - [Stressed Ice Generates Electricity, Researchers Find](https://soylentnews.org/article.pl?sid=25/09/04/0430216&from=rss)
 * [2025-09-05, 07:47:00](https://soylentnews.org/article.pl?sid=25/09/04/0419219&from=rss) - [Google Won't Have to Sell Chrome, Judge Rules](https://soylentnews.org/article.pl?sid=25/09/04/0419219&from=rss)
-* [2025-09-05, 03:03:00](https://soylentnews.org/article.pl?sid=25/09/04/0414246&from=rss) - [U.S. Gov't Revokes TSMC's Authorization to Ship Tools to its Fabs in China](https://soylentnews.org/article.pl?sid=25/09/04/0414246&from=rss)
 
 ## [Archives](archives/index.md)
 
