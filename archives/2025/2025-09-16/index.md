@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 23:36:00](https://soylentnews.org/article.pl?sid=25/09/16/0314240&from=rss) - [When It Comes to US AI Rules, There's Too Many Cooks](https://soylentnews.org/article.pl?sid=25/09/16/0314240&from=rss)
 * [2025-09-16, 18:52:00](https://soylentnews.org/article.pl?sid=25/09/16/035221&from=rss) - [Google Cut Managers by 35%: Inside Pichai’s Layoffs Overhaul](https://soylentnews.org/article.pl?sid=25/09/16/035221&from=rss)
 * [2025-09-16, 15:20:00](https://soylentnews.org/breakingnews/article.pl?sid=25/09/16/1516209&from=rss) - [RIP Robert Redford (89)](https://soylentnews.org/breakingnews/article.pl?sid=25/09/16/1516209&from=rss)
 * [2025-09-16, 14:10:00](https://soylentnews.org/article.pl?sid=25/09/15/1937219&from=rss) - [Real-Time Observation of Magnet Switching in a Single Atom](https://soylentnews.org/article.pl?sid=25/09/15/1937219&from=rss)
