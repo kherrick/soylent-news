@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-16, 14:10:00](https://soylentnews.org/article.pl?sid=25/09/15/1937219&from=rss) - [Real-Time Observation of Magnet Switching in a Single Atom](https://soylentnews.org/article.pl?sid=25/09/15/1937219&from=rss)
 * [2025-09-16, 09:24:00](https://soylentnews.org/article.pl?sid=25/09/15/1928240&from=rss) - [Pentagon Begins Deploying New Satellite Network to Link Sensors With Shooters](https://soylentnews.org/article.pl?sid=25/09/15/1928240&from=rss)
 * [2025-09-16, 04:38:00](https://soylentnews.org/article.pl?sid=25/09/15/1921210&from=rss) - [Solar Pacifiers: Influence of the Planets May Subdue Solar Activity](https://soylentnews.org/article.pl?sid=25/09/15/1921210&from=rss)
 * [2025-09-15, 23:54:00](https://soylentnews.org/article.pl?sid=25/09/15/1215255&from=rss) - [New Apple-Funded Program Teaches Manufacturing to US Firms](https://soylentnews.org/article.pl?sid=25/09/15/1215255&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-07, 07:11:00](https://soylentnews.org/article.pl?sid=25/09/06/1514247&from=rss) - [Nvidia's Next-Gen AI Chip Could Be Double  the Price of H20 If China Export is Approved](https://soylentnews.org/article.pl?sid=25/09/06/1514247&from=rss)
 * [2025-09-07, 02:27:00](https://soylentnews.org/article.pl?sid=25/09/06/1510251&from=rss) - [Porsche's New Cayenne Will Charge Itself Like No Other EV](https://soylentnews.org/article.pl?sid=25/09/06/1510251&from=rss)
 * [2025-09-06, 21:42:00](https://soylentnews.org/article.pl?sid=25/09/05/0544216&from=rss) - [Bill Gates’ 48-Year-Old Microsoft 6502 BASIC Goes Open Source](https://soylentnews.org/article.pl?sid=25/09/05/0544216&from=rss)
-* [2025-09-06, 16:59:00](https://soylentnews.org/article.pl?sid=25/09/05/0540222&from=rss) - [Jury Orders Google to Pay $425 Million for Unlawfully Tracking Millions of Users](https://soylentnews.org/article.pl?sid=25/09/05/0540222&from=rss)
 
 ## [Archives](archives/index.md)
 
