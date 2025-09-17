@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-17, 05:15:00](https://soylentnews.org/article.pl?sid=25/09/16/1158208&from=rss) - [Boeing Faces $3.1M Fine for Door Plug Blowout, Hundreds of Safety Violations](https://soylentnews.org/article.pl?sid=25/09/16/1158208&from=rss)
 * [2025-09-16, 23:36:00](https://soylentnews.org/article.pl?sid=25/09/16/0314240&from=rss) - [When It Comes to US AI Rules, There's Too Many Cooks](https://soylentnews.org/article.pl?sid=25/09/16/0314240&from=rss)
 * [2025-09-16, 18:52:00](https://soylentnews.org/article.pl?sid=25/09/16/035221&from=rss) - [Google Cut Managers by 35%: Inside Pichai’s Layoffs Overhaul](https://soylentnews.org/article.pl?sid=25/09/16/035221&from=rss)
 * [2025-09-16, 15:20:00](https://soylentnews.org/breakingnews/article.pl?sid=25/09/16/1516209&from=rss) - [RIP Robert Redford (89)](https://soylentnews.org/breakingnews/article.pl?sid=25/09/16/1516209&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-08, 02:00:00](https://soylentnews.org/article.pl?sid=25/09/07/0222253&from=rss) - [Microsoft Shows Off its Latest Analog Optical Computer](https://soylentnews.org/article.pl?sid=25/09/07/0222253&from=rss)
 * [2025-09-07, 21:26:00](https://soylentnews.org/article.pl?sid=25/09/07/005257&from=rss) - [This Unlikely Chemical Could be a Powerful Weapon Against Climate Change](https://soylentnews.org/article.pl?sid=25/09/07/005257&from=rss)
 * [2025-09-07, 16:47:00](https://soylentnews.org/article.pl?sid=25/09/07/001206&from=rss) - [What the Hell is Going on Right Now?](https://soylentnews.org/article.pl?sid=25/09/07/001206&from=rss)
-* [2025-09-07, 11:56:00](https://soylentnews.org/article.pl?sid=25/09/06/1527240&from=rss) - [France Fines Google, SHEIN for Undercooked Cookie Policies](https://soylentnews.org/article.pl?sid=25/09/06/1527240&from=rss)
 
 ## [Archives](archives/index.md)
 
