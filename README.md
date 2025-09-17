@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-17, 14:40:00](https://soylentnews.org/article.pl?sid=25/09/17/0355211&from=rss) - [Stealth Radio Hides Signal in Background Noise to Protect Drone Pilots](https://soylentnews.org/article.pl?sid=25/09/17/0355211&from=rss)
 * [2025-09-17, 09:59:00](https://soylentnews.org/article.pl?sid=25/09/16/1159239&from=rss) - [The Varnish Cache Project Will Soon be Called the Vinyl Cache Project](https://soylentnews.org/article.pl?sid=25/09/16/1159239&from=rss)
 * [2025-09-17, 05:15:00](https://soylentnews.org/article.pl?sid=25/09/16/1158208&from=rss) - [Boeing Faces $3.1M Fine for Door Plug Blowout, Hundreds of Safety Violations](https://soylentnews.org/article.pl?sid=25/09/16/1158208&from=rss)
 * [2025-09-16, 23:36:00](https://soylentnews.org/article.pl?sid=25/09/16/0314240&from=rss) - [When It Comes to US AI Rules, There's Too Many Cooks](https://soylentnews.org/article.pl?sid=25/09/16/0314240&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-08, 11:25:00](https://soylentnews.org/article.pl?sid=25/09/07/1358242&from=rss) - [New China-Aligned Crew Poisons Windows Servers for SEO Fraud](https://soylentnews.org/article.pl?sid=25/09/07/1358242&from=rss)
 * [2025-09-08, 06:43:00](https://soylentnews.org/article.pl?sid=25/09/07/1352214&from=rss) - [Trump Family's Crypto Token Just Made Them $5 Billion Richer](https://soylentnews.org/article.pl?sid=25/09/07/1352214&from=rss)
 * [2025-09-08, 02:00:00](https://soylentnews.org/article.pl?sid=25/09/07/0222253&from=rss) - [Microsoft Shows Off its Latest Analog Optical Computer](https://soylentnews.org/article.pl?sid=25/09/07/0222253&from=rss)
-* [2025-09-07, 21:26:00](https://soylentnews.org/article.pl?sid=25/09/07/005257&from=rss) - [This Unlikely Chemical Could be a Powerful Weapon Against Climate Change](https://soylentnews.org/article.pl?sid=25/09/07/005257&from=rss)
 
 ## [Archives](archives/index.md)
 
