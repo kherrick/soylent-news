@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-19, 04:41:00](https://soylentnews.org/article.pl?sid=25/09/17/2233242&from=rss) - [The Oldest Known Mummies Have Been Found](https://soylentnews.org/article.pl?sid=25/09/17/2233242&from=rss)
 * [2025-09-18, 23:56:00](https://soylentnews.org/article.pl?sid=25/09/17/1730237&from=rss) - [GNOME 49 Arrives This Week](https://soylentnews.org/article.pl?sid=25/09/17/1730237&from=rss)
 * [2025-09-18, 19:12:00](https://soylentnews.org/article.pl?sid=25/09/17/1723242&from=rss) - [China Bans Nvidia's AI Chips](https://soylentnews.org/article.pl?sid=25/09/17/1723242&from=rss)
 * [2025-09-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/09/17/1720215&from=rss) - [Modular Nuclear Reactors Sound Great, but Won't be Ready Any Time Soon](https://soylentnews.org/article.pl?sid=25/09/17/1720215&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-10, 01:28:00](https://soylentnews.org/article.pl?sid=25/09/09/1229205&from=rss) - [Your Red is My Red, at Least to Our Brains](https://soylentnews.org/article.pl?sid=25/09/09/1229205&from=rss)
 * [2025-09-09, 20:43:00](https://soylentnews.org/article.pl?sid=25/09/08/1814241&from=rss) - [Microsoft Software Reselling Dispute Heads Back to UK Court](https://soylentnews.org/article.pl?sid=25/09/08/1814241&from=rss)
 * [2025-09-09, 15:59:00](https://soylentnews.org/article.pl?sid=25/09/08/1810222&from=rss) - [Multiple Undersea Cable Cuts in the Red Sea, Hampering Internet Performance](https://soylentnews.org/article.pl?sid=25/09/08/1810222&from=rss)
-* [2025-09-09, 11:14:00](https://soylentnews.org/article.pl?sid=25/09/08/1210241&from=rss) - [Recreating 'The Magnificient Ambersons' With AI](https://soylentnews.org/article.pl?sid=25/09/08/1210241&from=rss)
 
 ## [Archives](archives/index.md)
 
