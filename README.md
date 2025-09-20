@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-20, 09:21:00](https://soylentnews.org/article.pl?sid=25/09/19/0435227&from=rss) - [L.A. Man Sentenced to 14 Days in Prison for Accidentally Crashing Drone Into Firefighting Plane](https://soylentnews.org/article.pl?sid=25/09/19/0435227&from=rss)
 * [2025-09-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/09/19/0433202&from=rss) - [Feds Launch Investigation Into Faulty Tesla Doors](https://soylentnews.org/article.pl?sid=25/09/19/0433202&from=rss)
 * [2025-09-19, 23:52:00](https://soylentnews.org/article.pl?sid=25/09/19/0423216&from=rss) - [Ban Social Media for Under 15s, Says French Report Warning of TikTok Dangers](https://soylentnews.org/article.pl?sid=25/09/19/0423216&from=rss)
 * [2025-09-19, 19:03:00](https://soylentnews.org/article.pl?sid=25/09/19/0416215&from=rss) - [Latest FSR 4 Source Code 'Leak' Lets You Run AMD's AI Upscaling Tech on Nearly Any GPU](https://soylentnews.org/article.pl?sid=25/09/19/0416215&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-11, 06:05:00](https://soylentnews.org/article.pl?sid=25/09/10/0436239&from=rss) - [Tiny11 Builder Update Lets Users Strip Copilot and Other Bloat From Windows 11](https://soylentnews.org/article.pl?sid=25/09/10/0436239&from=rss)
 * [2025-09-11, 01:19:00](https://soylentnews.org/article.pl?sid=25/09/10/0431231&from=rss) - [48 Years Ago, Voyager 1 Left Earth](https://soylentnews.org/article.pl?sid=25/09/10/0431231&from=rss)
 * [2025-09-10, 20:29:00](https://soylentnews.org/article.pl?sid=25/09/10/0113202&from=rss) - [Scientists Turned Plastic Trash Into a Material That Eats Carbon](https://soylentnews.org/article.pl?sid=25/09/10/0113202&from=rss)
-* [2025-09-10, 15:44:00](https://soylentnews.org/article.pl?sid=25/09/10/0055209&from=rss) - [Ubuntu Software Repositories Unavailable or Slow for Multiple Days Due to Outage](https://soylentnews.org/article.pl?sid=25/09/10/0055209&from=rss)
 
 ## [Archives](archives/index.md)
 
