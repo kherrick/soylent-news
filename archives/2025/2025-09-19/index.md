@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 23:52:00](https://soylentnews.org/article.pl?sid=25/09/19/0423216&from=rss) - [Ban Social Media for Under 15s, Says French Report Warning of TikTok Dangers](https://soylentnews.org/article.pl?sid=25/09/19/0423216&from=rss)
 * [2025-09-19, 19:03:00](https://soylentnews.org/article.pl?sid=25/09/19/0416215&from=rss) - [Latest FSR 4 Source Code 'Leak' Lets You Run AMD's AI Upscaling Tech on Nearly Any GPU](https://soylentnews.org/article.pl?sid=25/09/19/0416215&from=rss)
 * [2025-09-19, 14:16:00](https://soylentnews.org/article.pl?sid=25/09/19/048212&from=rss) - [Has the Apple iPhone Air Killed Off the Sim Card?](https://soylentnews.org/article.pl?sid=25/09/19/048212&from=rss)
 * [2025-09-19, 09:29:00](https://soylentnews.org/article.pl?sid=25/09/18/185203&from=rss) - [New Bill Aims to Block Both Online Adult Content and VPNs](https://soylentnews.org/article.pl?sid=25/09/18/185203&from=rss)
