@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-21, 04:22:00](https://soylentnews.org/article.pl?sid=25/09/20/0333256&from=rss) - [IG Nobel 2025 winners](https://soylentnews.org/article.pl?sid=25/09/20/0333256&from=rss)
 * [2025-09-20, 23:38:00](https://soylentnews.org/article.pl?sid=25/09/19/0459228&from=rss) - [Education Report Calling for Ethical AI Use Contains Over 15 Fake Sources](https://soylentnews.org/article.pl?sid=25/09/19/0459228&from=rss)
 * [2025-09-20, 18:51:00](https://soylentnews.org/article.pl?sid=25/09/19/0456242&from=rss) - [Scientists: It's Do or Die Time for America's Primacy Exploring the Solar System](https://soylentnews.org/article.pl?sid=25/09/19/0456242&from=rss)
 * [2025-09-20, 14:07:00](https://soylentnews.org/article.pl?sid=25/09/19/0444244&from=rss) - [Nobody Wanted This: Samsung Fridges are Getting Ads](https://soylentnews.org/article.pl?sid=25/09/19/0444244&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-12, 01:01:00](https://soylentnews.org/article.pl?sid=25/09/10/2225205&from=rss) - [Unicode version 17.0.0 Released ](https://soylentnews.org/article.pl?sid=25/09/10/2225205&from=rss)
 * [2025-09-11, 20:16:00](https://soylentnews.org/article.pl?sid=25/09/10/0627237&from=rss) - [Scientists Create Solar Cells That Generate Energy From Indoor Light at Record Efficiency](https://soylentnews.org/article.pl?sid=25/09/10/0627237&from=rss)
 * [2025-09-11, 15:34:00](https://soylentnews.org/article.pl?sid=25/09/10/0624239&from=rss) - [Meta Reportedly Suppressed Research About How Dangerous its VR Headsets Are for Kids](https://soylentnews.org/article.pl?sid=25/09/10/0624239&from=rss)
-* [2025-09-11, 10:51:00](https://soylentnews.org/article.pl?sid=25/09/10/0619236&from=rss) - [Cannabis Might be Messing With Female Fertility](https://soylentnews.org/article.pl?sid=25/09/10/0619236&from=rss)
 
 ## [Archives](archives/index.md)
 
