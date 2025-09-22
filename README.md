@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-22, 04:07:00](https://soylentnews.org/article.pl?sid=25/09/21/1419259&from=rss) - [AI Can Forecast Your Future Health – Just Like the Weather](https://soylentnews.org/article.pl?sid=25/09/21/1419259&from=rss)
 * [2025-09-21, 23:23:00](https://soylentnews.org/article.pl?sid=25/09/21/0028219&from=rss) - [When Non-Avian Dinosaurs Went Extinct, the Earth Changed](https://soylentnews.org/article.pl?sid=25/09/21/0028219&from=rss)
 * [2025-09-21, 18:44:00](https://soylentnews.org/article.pl?sid=25/09/21/009253&from=rss) - [Half a Million Screens go Dark . . .](https://soylentnews.org/article.pl?sid=25/09/21/009253&from=rss)
 * [2025-09-21, 13:57:00](https://soylentnews.org/article.pl?sid=25/09/20/0338224&from=rss) - [Netscape Navigator 2.0 Was Released 30 years Ago](https://soylentnews.org/article.pl?sid=25/09/20/0338224&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-13, 00:42:00](https://soylentnews.org/article.pl?sid=25/09/11/0310226&from=rss) - [ASML Invests €1.3bn in AI Company Mistral](https://soylentnews.org/article.pl?sid=25/09/11/0310226&from=rss)
 * [2025-09-12, 19:58:00](https://soylentnews.org/article.pl?sid=25/09/11/036213&from=rss) - [LIGO's Sharpest Detection Yet Confirms Famous Stephen Hawking Theory](https://soylentnews.org/article.pl?sid=25/09/11/036213&from=rss)
 * [2025-09-12, 15:13:00](https://soylentnews.org/article.pl?sid=25/09/11/0256255&from=rss) - [Dead Internet Theory Lives: One Out of Three of You is a Bot](https://soylentnews.org/article.pl?sid=25/09/11/0256255&from=rss)
-* [2025-09-12, 10:33:00](https://soylentnews.org/article.pl?sid=25/09/10/2236210&from=rss) - [This is the First Time Scientists Have Seen Decision Making in a Brain](https://soylentnews.org/article.pl?sid=25/09/10/2236210&from=rss)
 
 ## [Archives](archives/index.md)
 
