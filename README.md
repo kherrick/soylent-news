@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-22, 13:40:00](https://soylentnews.org/article.pl?sid=25/09/21/1430243&from=rss) - [Electronic Locks Have Backdoors, Too](https://soylentnews.org/article.pl?sid=25/09/21/1430243&from=rss)
 * [2025-09-22, 08:53:00](https://soylentnews.org/article.pl?sid=25/09/21/1427240&from=rss) - [Rare Apple-1 With Storied Ownership Fetched Over $500,000 at Auction](https://soylentnews.org/article.pl?sid=25/09/21/1427240&from=rss)
 * [2025-09-22, 04:07:00](https://soylentnews.org/article.pl?sid=25/09/21/1419259&from=rss) - [AI Can Forecast Your Future Health – Just Like the Weather](https://soylentnews.org/article.pl?sid=25/09/21/1419259&from=rss)
 * [2025-09-21, 23:23:00](https://soylentnews.org/article.pl?sid=25/09/21/0028219&from=rss) - [When Non-Avian Dinosaurs Went Extinct, the Earth Changed](https://soylentnews.org/article.pl?sid=25/09/21/0028219&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-13, 10:10:00](https://soylentnews.org/article.pl?sid=25/09/11/0338253&from=rss) - [AI's Free Web Scraping Days May be Over, Thanks to This New Licensing Protocol](https://soylentnews.org/article.pl?sid=25/09/11/0338253&from=rss)
 * [2025-09-13, 05:24:00](https://soylentnews.org/article.pl?sid=25/09/11/0325209&from=rss) - [Scientists Urge EU Governments to Reject Chat Control Rules](https://soylentnews.org/article.pl?sid=25/09/11/0325209&from=rss)
 * [2025-09-13, 00:42:00](https://soylentnews.org/article.pl?sid=25/09/11/0310226&from=rss) - [ASML Invests €1.3bn in AI Company Mistral](https://soylentnews.org/article.pl?sid=25/09/11/0310226&from=rss)
-* [2025-09-12, 19:58:00](https://soylentnews.org/article.pl?sid=25/09/11/036213&from=rss) - [LIGO's Sharpest Detection Yet Confirms Famous Stephen Hawking Theory](https://soylentnews.org/article.pl?sid=25/09/11/036213&from=rss)
 
 ## [Archives](archives/index.md)
 
