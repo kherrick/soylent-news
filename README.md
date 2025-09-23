@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-23, 08:35:00](https://soylentnews.org/article.pl?sid=25/09/21/2243223&from=rss) - [We Risk a Deluge of AI-Written ‘Science’ Pushing Corporate Interests](https://soylentnews.org/article.pl?sid=25/09/21/2243223&from=rss)
 * [2025-09-23, 03:52:00](https://soylentnews.org/article.pl?sid=25/09/21/2234254&from=rss) - [Something Extremely Strange is Happening at the Event Horizon of This Supermassive Blackhole](https://soylentnews.org/article.pl?sid=25/09/21/2234254&from=rss)
 * [2025-09-22, 23:08:00](https://soylentnews.org/article.pl?sid=25/09/21/2230245&from=rss) - [OpenAI's Research on AI Models Deliberately Lying is Wild](https://soylentnews.org/article.pl?sid=25/09/21/2230245&from=rss)
 * [2025-09-22, 18:23:00](https://soylentnews.org/article.pl?sid=25/09/21/1435205&from=rss) - [Online Book:  The Pattern Language of Software Architecture](https://soylentnews.org/article.pl?sid=25/09/21/1435205&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-14, 05:14:00](https://soylentnews.org/article.pl?sid=25/09/13/1330226&from=rss) - [Fingerspitzengefühl](https://soylentnews.org/article.pl?sid=25/09/13/1330226&from=rss)
 * [2025-09-14, 00:26:00](https://soylentnews.org/article.pl?sid=25/09/13/135241&from=rss) - [Senator Blasts Microsoft for Making Default Windows Vulnerable to “Kerberoasting”](https://soylentnews.org/article.pl?sid=25/09/13/135241&from=rss)
 * [2025-09-13, 19:40:00](https://soylentnews.org/article.pl?sid=25/09/13/0018206&from=rss) - [Physicists Made a Time Crystal We Can Actually See](https://soylentnews.org/article.pl?sid=25/09/13/0018206&from=rss)
-* [2025-09-13, 14:51:00](https://soylentnews.org/article.pl?sid=25/09/13/003254&from=rss) - [$142 Upgrade Kit and Spare Modules Turn Nvidia RTX 4090 24GB to 48GB AI Card](https://soylentnews.org/article.pl?sid=25/09/13/003254&from=rss)
 
 ## [Archives](archives/index.md)
 
