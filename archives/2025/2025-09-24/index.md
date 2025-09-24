@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
+* [2025-09-24, 13:02:00](https://soylentnews.org/article.pl?sid=25/09/23/066237&from=rss) - [Why do Some Gamers Invert Their Controls?](https://soylentnews.org/article.pl?sid=25/09/23/066237&from=rss)
 * [2025-09-24, 08:16:00](https://soylentnews.org/article.pl?sid=25/09/23/0557257&from=rss) - ['a Black Hole of Energy Use': Meta's Massive AI Data Center is Stressing Out a Louisiana Community](https://soylentnews.org/article.pl?sid=25/09/23/0557257&from=rss)
 * [2025-09-24, 03:35:00](https://soylentnews.org/article.pl?sid=25/09/23/0552218&from=rss) - [When Cancer Targets the Young](https://soylentnews.org/article.pl?sid=25/09/23/0552218&from=rss)
