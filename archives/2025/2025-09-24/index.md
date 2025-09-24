@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-24](index.md)
+
+* [2025-09-24, 03:35:00](https://soylentnews.org/article.pl?sid=25/09/23/0552218&from=rss) - [When Cancer Targets the Young](https://soylentnews.org/article.pl?sid=25/09/23/0552218&from=rss)
