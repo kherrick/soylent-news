@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-27, 10:41:00](https://soylentnews.org/article.pl?sid=25/09/26/2314203&from=rss) - [Magma Displacement Triggered Tens of Thousands of Earthquakes, Santorini Swarm Study Finds](https://soylentnews.org/article.pl?sid=25/09/26/2314203&from=rss)
 * [2025-09-27, 05:56:00](https://soylentnews.org/article.pl?sid=25/09/26/239227&from=rss) - [China's Latest GPU Arrives With Claims of CUDA Compatibility and RT Support](https://soylentnews.org/article.pl?sid=25/09/26/239227&from=rss)
 * [2025-09-27, 01:06:00](https://soylentnews.org/article.pl?sid=25/09/26/1437222&from=rss) - [How India's Unplanned Hydropower Dams and Tunnels Are Disrupting Himalayan Landscapes](https://soylentnews.org/article.pl?sid=25/09/26/1437222&from=rss)
 * [2025-09-26, 20:20:00](https://soylentnews.org/article.pl?sid=25/09/26/1433207&from=rss) - [American Kids Can’t Read or Do Math Anymore](https://soylentnews.org/article.pl?sid=25/09/26/1433207&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-18, 04:59:00](https://soylentnews.org/article.pl?sid=25/09/17/0421208&from=rss) - [Northrop Grumman's New Spacecraft is a Real Chonker](https://soylentnews.org/article.pl?sid=25/09/17/0421208&from=rss)
 * [2025-09-18, 00:11:00](https://soylentnews.org/article.pl?sid=25/09/17/0413255&from=rss) - [Chinese AI Chip Market: Nvidia Violates Antitrust and Tencent Produces Locally](https://soylentnews.org/article.pl?sid=25/09/17/0413255&from=rss)
 * [2025-09-17, 19:28:00](https://soylentnews.org/article.pl?sid=25/09/17/040212&from=rss) - [Hacker Breaks Into on-Campus Smart Washing Machines](https://soylentnews.org/article.pl?sid=25/09/17/040212&from=rss)
-* [2025-09-17, 14:40:00](https://soylentnews.org/article.pl?sid=25/09/17/0355211&from=rss) - [Stealth Radio Hides Signal in Background Noise to Protect Drone Pilots](https://soylentnews.org/article.pl?sid=25/09/17/0355211&from=rss)
 
 ## [Archives](archives/index.md)
 
