@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-27, 01:06:00](https://soylentnews.org/article.pl?sid=25/09/26/1437222&from=rss) - [How India's Unplanned Hydropower Dams and Tunnels Are Disrupting Himalayan Landscapes](https://soylentnews.org/article.pl?sid=25/09/26/1437222&from=rss)
 * [2025-09-26, 20:20:00](https://soylentnews.org/article.pl?sid=25/09/26/1433207&from=rss) - [American Kids Can’t Read or Do Math Anymore](https://soylentnews.org/article.pl?sid=25/09/26/1433207&from=rss)
 * [2025-09-26, 15:35:00](https://soylentnews.org/article.pl?sid=25/09/26/1416257&from=rss) - [More Than Half of World's Coastal Settlements Retreating From Rising Seas, Study Shows](https://soylentnews.org/article.pl?sid=25/09/26/1416257&from=rss)
 * [2025-09-26, 10:53:00](https://soylentnews.org/article.pl?sid=25/09/26/1047223&from=rss) - [Huntington's Disease Successfully Treated for First Time](https://soylentnews.org/article.pl?sid=25/09/26/1047223&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-17, 19:28:00](https://soylentnews.org/article.pl?sid=25/09/17/040212&from=rss) - [Hacker Breaks Into on-Campus Smart Washing Machines](https://soylentnews.org/article.pl?sid=25/09/17/040212&from=rss)
 * [2025-09-17, 14:40:00](https://soylentnews.org/article.pl?sid=25/09/17/0355211&from=rss) - [Stealth Radio Hides Signal in Background Noise to Protect Drone Pilots](https://soylentnews.org/article.pl?sid=25/09/17/0355211&from=rss)
 * [2025-09-17, 09:59:00](https://soylentnews.org/article.pl?sid=25/09/16/1159239&from=rss) - [The Varnish Cache Project Will Soon be Called the Vinyl Cache Project](https://soylentnews.org/article.pl?sid=25/09/16/1159239&from=rss)
-* [2025-09-17, 05:15:00](https://soylentnews.org/article.pl?sid=25/09/16/1158208&from=rss) - [Boeing Faces $3.1M Fine for Door Plug Blowout, Hundreds of Safety Violations](https://soylentnews.org/article.pl?sid=25/09/16/1158208&from=rss)
 
 ## [Archives](archives/index.md)
 

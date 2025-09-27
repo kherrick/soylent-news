@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-27](index.md)
+
+* [2025-09-27, 01:06:00](https://soylentnews.org/article.pl?sid=25/09/26/1437222&from=rss) - [How India's Unplanned Hydropower Dams and Tunnels Are Disrupting Himalayan Landscapes](https://soylentnews.org/article.pl?sid=25/09/26/1437222&from=rss)
