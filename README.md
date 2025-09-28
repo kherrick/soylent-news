@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-28, 05:44:00](https://soylentnews.org/article.pl?sid=25/09/27/1329235&from=rss) - [Consumer Reports Slams Microsoft for Windows 10 Mess, Urges Extension of Free Updates](https://soylentnews.org/article.pl?sid=25/09/27/1329235&from=rss)
 * [2025-09-28, 00:56:00](https://soylentnews.org/article.pl?sid=25/09/27/1318227&from=rss) - [Airlines Seen as Vulnerable After Confirmed Ransomware Cyberattack, Suspect Arrested](https://soylentnews.org/article.pl?sid=25/09/27/1318227&from=rss)
 * [2025-09-27, 20:13:00](https://soylentnews.org/article.pl?sid=25/09/27/1254248&from=rss) - [How AI is Subsidized by Your Utility Bills and Drives Copper Prices](https://soylentnews.org/article.pl?sid=25/09/27/1254248&from=rss)
 * [2025-09-27, 15:27:00](https://soylentnews.org/article.pl?sid=25/09/26/2326219&from=rss) - [Cloudflare DDoSed Itself With React UseEffect Hook Blunder](https://soylentnews.org/article.pl?sid=25/09/26/2326219&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-18, 23:56:00](https://soylentnews.org/article.pl?sid=25/09/17/1730237&from=rss) - [GNOME 49 Arrives This Week](https://soylentnews.org/article.pl?sid=25/09/17/1730237&from=rss)
 * [2025-09-18, 19:12:00](https://soylentnews.org/article.pl?sid=25/09/17/1723242&from=rss) - [China Bans Nvidia's AI Chips](https://soylentnews.org/article.pl?sid=25/09/17/1723242&from=rss)
 * [2025-09-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/09/17/1720215&from=rss) - [Modular Nuclear Reactors Sound Great, but Won't be Ready Any Time Soon](https://soylentnews.org/article.pl?sid=25/09/17/1720215&from=rss)
-* [2025-09-18, 09:43:00](https://soylentnews.org/article.pl?sid=25/09/17/1714242&from=rss) - ['Beyond EUV' Chipmaking Tech Pushes Soft X-Ray Lithography Closer to Challenging Hyper-NA EUV](https://soylentnews.org/article.pl?sid=25/09/17/1714242&from=rss)
 
 ## [Archives](archives/index.md)
 
