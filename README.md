@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-28, 10:29:00](https://soylentnews.org/article.pl?sid=25/09/27/1340248&from=rss) - [US Intel Officials “Concerned” China Will Soon Master Reusable Launch](https://soylentnews.org/article.pl?sid=25/09/27/1340248&from=rss)
 * [2025-09-28, 05:44:00](https://soylentnews.org/article.pl?sid=25/09/27/1329235&from=rss) - [Consumer Reports Slams Microsoft for Windows 10 Mess, Urges Extension of Free Updates](https://soylentnews.org/article.pl?sid=25/09/27/1329235&from=rss)
 * [2025-09-28, 00:56:00](https://soylentnews.org/article.pl?sid=25/09/27/1318227&from=rss) - [Airlines Seen as Vulnerable After Confirmed Ransomware Cyberattack, Suspect Arrested](https://soylentnews.org/article.pl?sid=25/09/27/1318227&from=rss)
 * [2025-09-27, 20:13:00](https://soylentnews.org/article.pl?sid=25/09/27/1254248&from=rss) - [How AI is Subsidized by Your Utility Bills and Drives Copper Prices](https://soylentnews.org/article.pl?sid=25/09/27/1254248&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-19, 04:41:00](https://soylentnews.org/article.pl?sid=25/09/17/2233242&from=rss) - [The Oldest Known Mummies Have Been Found](https://soylentnews.org/article.pl?sid=25/09/17/2233242&from=rss)
 * [2025-09-18, 23:56:00](https://soylentnews.org/article.pl?sid=25/09/17/1730237&from=rss) - [GNOME 49 Arrives This Week](https://soylentnews.org/article.pl?sid=25/09/17/1730237&from=rss)
 * [2025-09-18, 19:12:00](https://soylentnews.org/article.pl?sid=25/09/17/1723242&from=rss) - [China Bans Nvidia's AI Chips](https://soylentnews.org/article.pl?sid=25/09/17/1723242&from=rss)
-* [2025-09-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/09/17/1720215&from=rss) - [Modular Nuclear Reactors Sound Great, but Won't be Ready Any Time Soon](https://soylentnews.org/article.pl?sid=25/09/17/1720215&from=rss)
 
 ## [Archives](archives/index.md)
 
