@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-29, 10:17:00](https://soylentnews.org/article.pl?sid=25/09/28/008233&from=rss) - [Physicists Nearly Double Speed of Superconducting Qubit Readout in Quantum Computers](https://soylentnews.org/article.pl?sid=25/09/28/008233&from=rss)
 * [2025-09-29, 05:35:00](https://soylentnews.org/article.pl?sid=25/09/28/006252&from=rss) - [The Cyber Vulnerabilities Lurking in CRM Systems](https://soylentnews.org/article.pl?sid=25/09/28/006252&from=rss)
 * [2025-09-29, 00:49:00](https://soylentnews.org/article.pl?sid=25/09/27/141202&from=rss) - [This Experimental Computer Chip Reuses Energy](https://soylentnews.org/article.pl?sid=25/09/27/141202&from=rss)
 * [2025-09-28, 20:01:00](https://soylentnews.org/article.pl?sid=25/09/27/1352245&from=rss) - [US Uncovers 100,000 SIM Cards That Could Have “Shut Down” NYC Cell Network](https://soylentnews.org/article.pl?sid=25/09/27/1352245&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/09/19/0433202&from=rss) - [Feds Launch Investigation Into Faulty Tesla Doors](https://soylentnews.org/article.pl?sid=25/09/19/0433202&from=rss)
 * [2025-09-19, 23:52:00](https://soylentnews.org/article.pl?sid=25/09/19/0423216&from=rss) - [Ban Social Media for Under 15s, Says French Report Warning of TikTok Dangers](https://soylentnews.org/article.pl?sid=25/09/19/0423216&from=rss)
 * [2025-09-19, 19:03:00](https://soylentnews.org/article.pl?sid=25/09/19/0416215&from=rss) - [Latest FSR 4 Source Code 'Leak' Lets You Run AMD's AI Upscaling Tech on Nearly Any GPU](https://soylentnews.org/article.pl?sid=25/09/19/0416215&from=rss)
-* [2025-09-19, 14:16:00](https://soylentnews.org/article.pl?sid=25/09/19/048212&from=rss) - [Has the Apple iPhone Air Killed Off the Sim Card?](https://soylentnews.org/article.pl?sid=25/09/19/048212&from=rss)
 
 ## [Archives](archives/index.md)
 
