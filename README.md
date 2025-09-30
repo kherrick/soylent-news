@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-30, 00:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0053249&from=rss) - [EA is Reportedly About to be Sold in a Record-Setting $50 Billion Buyout](https://soylentnews.org/article.pl?sid=25/09/29/0053249&from=rss)
 * [2025-09-29, 19:46:00](https://soylentnews.org/article.pl?sid=25/09/28/0016247&from=rss) - [New World Screwworm Parasite Detected in Northern Mexico Near US Border](https://soylentnews.org/article.pl?sid=25/09/28/0016247&from=rss)
 * [2025-09-29, 15:02:00](https://soylentnews.org/article.pl?sid=25/09/28/0015236&from=rss) - [8,000 years of Human Activities Aave Caused Wild Animals to Shrink and Domestic Animals to Grow](https://soylentnews.org/article.pl?sid=25/09/28/0015236&from=rss)
 * [2025-09-29, 10:17:00](https://soylentnews.org/article.pl?sid=25/09/28/008233&from=rss) - [Physicists Nearly Double Speed of Superconducting Qubit Readout in Quantum Computers](https://soylentnews.org/article.pl?sid=25/09/28/008233&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-20, 18:51:00](https://soylentnews.org/article.pl?sid=25/09/19/0456242&from=rss) - [Scientists: It's Do or Die Time for America's Primacy Exploring the Solar System](https://soylentnews.org/article.pl?sid=25/09/19/0456242&from=rss)
 * [2025-09-20, 14:07:00](https://soylentnews.org/article.pl?sid=25/09/19/0444244&from=rss) - [Nobody Wanted This: Samsung Fridges are Getting Ads](https://soylentnews.org/article.pl?sid=25/09/19/0444244&from=rss)
 * [2025-09-20, 09:21:00](https://soylentnews.org/article.pl?sid=25/09/19/0435227&from=rss) - [L.A. Man Sentenced to 14 Days in Prison for Accidentally Crashing Drone Into Firefighting Plane](https://soylentnews.org/article.pl?sid=25/09/19/0435227&from=rss)
-* [2025-09-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/09/19/0433202&from=rss) - [Feds Launch Investigation Into Faulty Tesla Doors](https://soylentnews.org/article.pl?sid=25/09/19/0433202&from=rss)
 
 ## [Archives](archives/index.md)
 
