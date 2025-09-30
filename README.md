@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-09-30, 19:24:00](https://soylentnews.org/article.pl?sid=25/09/29/0124238&from=rss) - [Details Beginning to Emerge About Australia's Social Media Ban](https://soylentnews.org/article.pl?sid=25/09/29/0124238&from=rss)
 * [2025-09-30, 14:39:00](https://soylentnews.org/article.pl?sid=25/09/29/0111207&from=rss) - [Forty Years of Commitment to Software Freedom](https://soylentnews.org/article.pl?sid=25/09/29/0111207&from=rss)
 * [2025-09-30, 09:57:00](https://soylentnews.org/article.pl?sid=25/09/29/018254&from=rss) - [OpenAI and Nvidia’s $100B AI Plan Will Require Power Equal to 10 Nuclear Reactors](https://soylentnews.org/article.pl?sid=25/09/29/018254&from=rss)
 * [2025-09-30, 05:15:00](https://soylentnews.org/article.pl?sid=25/09/29/0055259&from=rss) - [Think Twice Before Abandoning X11. Wayland Breaks Everything!](https://soylentnews.org/article.pl?sid=25/09/29/0055259&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-21, 13:57:00](https://soylentnews.org/article.pl?sid=25/09/20/0338224&from=rss) - [Netscape Navigator 2.0 Was Released 30 years Ago](https://soylentnews.org/article.pl?sid=25/09/20/0338224&from=rss)
 * [2025-09-21, 09:08:00](https://soylentnews.org/article.pl?sid=25/09/20/0336240&from=rss) - [Brazil's Payment System Puts Credit Card Firms to the Test](https://soylentnews.org/article.pl?sid=25/09/20/0336240&from=rss)
 * [2025-09-21, 04:22:00](https://soylentnews.org/article.pl?sid=25/09/20/0333256&from=rss) - [IG Nobel 2025 winners](https://soylentnews.org/article.pl?sid=25/09/20/0333256&from=rss)
-* [2025-09-20, 23:38:00](https://soylentnews.org/article.pl?sid=25/09/19/0459228&from=rss) - [Education Report Calling for Ethical AI Use Contains Over 15 Fake Sources](https://soylentnews.org/article.pl?sid=25/09/19/0459228&from=rss)
 
 ## [Archives](archives/index.md)
 
