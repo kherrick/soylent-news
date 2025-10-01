@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-01, 14:15:00](https://soylentnews.org/article.pl?sid=25/09/30/0336248&from=rss) - [Claude's New AI File Creation Feature Ships With Deep Security Risks Built in](https://soylentnews.org/article.pl?sid=25/09/30/0336248&from=rss)
 * [2025-10-01, 09:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0143218&from=rss) - [Shopify Engages in Hostile Takeover of RubyGems and Bundler](https://soylentnews.org/article.pl?sid=25/09/29/0143218&from=rss)
 * [2025-10-01, 04:49:00](https://soylentnews.org/article.pl?sid=25/09/29/0130236&from=rss) - [Workslop - the Result of Too Much Clueless AI](https://soylentnews.org/article.pl?sid=25/09/29/0130236&from=rss)
 * [2025-10-01, 00:05:00](https://soylentnews.org/article.pl?sid=25/09/29/0126248&from=rss) - [Inequality in Agri-Food Chains: Global South Produces the Food, the Global North Keeps the Wealth](https://soylentnews.org/article.pl?sid=25/09/29/0126248&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-22, 08:53:00](https://soylentnews.org/article.pl?sid=25/09/21/1427240&from=rss) - [Rare Apple-1 With Storied Ownership Fetched Over $500,000 at Auction](https://soylentnews.org/article.pl?sid=25/09/21/1427240&from=rss)
 * [2025-09-22, 04:07:00](https://soylentnews.org/article.pl?sid=25/09/21/1419259&from=rss) - [AI Can Forecast Your Future Health – Just Like the Weather](https://soylentnews.org/article.pl?sid=25/09/21/1419259&from=rss)
 * [2025-09-21, 23:23:00](https://soylentnews.org/article.pl?sid=25/09/21/0028219&from=rss) - [When Non-Avian Dinosaurs Went Extinct, the Earth Changed](https://soylentnews.org/article.pl?sid=25/09/21/0028219&from=rss)
-* [2025-09-21, 18:44:00](https://soylentnews.org/article.pl?sid=25/09/21/009253&from=rss) - [Half a Million Screens go Dark . . .](https://soylentnews.org/article.pl?sid=25/09/21/009253&from=rss)
 
 ## [Archives](archives/index.md)
 
