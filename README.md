@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-01, 00:05:00](https://soylentnews.org/article.pl?sid=25/09/29/0126248&from=rss) - [Inequality in Agri-Food Chains: Global South Produces the Food, the Global North Keeps the Wealth](https://soylentnews.org/article.pl?sid=25/09/29/0126248&from=rss)
 * [2025-09-30, 19:24:00](https://soylentnews.org/article.pl?sid=25/09/29/0124238&from=rss) - [Details Beginning to Emerge About Australia's Social Media Ban](https://soylentnews.org/article.pl?sid=25/09/29/0124238&from=rss)
 * [2025-09-30, 14:39:00](https://soylentnews.org/article.pl?sid=25/09/29/0111207&from=rss) - [Forty Years of Commitment to Software Freedom](https://soylentnews.org/article.pl?sid=25/09/29/0111207&from=rss)
 * [2025-09-30, 09:57:00](https://soylentnews.org/article.pl?sid=25/09/29/018254&from=rss) - [OpenAI and Nvidia’s $100B AI Plan Will Require Power Equal to 10 Nuclear Reactors](https://soylentnews.org/article.pl?sid=25/09/29/018254&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-21, 18:44:00](https://soylentnews.org/article.pl?sid=25/09/21/009253&from=rss) - [Half a Million Screens go Dark . . .](https://soylentnews.org/article.pl?sid=25/09/21/009253&from=rss)
 * [2025-09-21, 13:57:00](https://soylentnews.org/article.pl?sid=25/09/20/0338224&from=rss) - [Netscape Navigator 2.0 Was Released 30 years Ago](https://soylentnews.org/article.pl?sid=25/09/20/0338224&from=rss)
 * [2025-09-21, 09:08:00](https://soylentnews.org/article.pl?sid=25/09/20/0336240&from=rss) - [Brazil's Payment System Puts Credit Card Firms to the Test](https://soylentnews.org/article.pl?sid=25/09/20/0336240&from=rss)
-* [2025-09-21, 04:22:00](https://soylentnews.org/article.pl?sid=25/09/20/0333256&from=rss) - [IG Nobel 2025 winners](https://soylentnews.org/article.pl?sid=25/09/20/0333256&from=rss)
 
 ## [Archives](archives/index.md)
 
