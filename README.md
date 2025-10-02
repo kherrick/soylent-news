@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-02, 23:35:00](https://soylentnews.org/article.pl?sid=25/09/30/1336240&from=rss) - [Mix Insect, Plant and Cultivated Proteins for Healthier, Greener, Tastier Food, Say Experts](https://soylentnews.org/article.pl?sid=25/09/30/1336240&from=rss)
 * [2025-10-02, 18:46:00](https://soylentnews.org/article.pl?sid=25/09/30/1328225&from=rss) - [Complex Knots Can Actually be Easier to Untie Than Simple Ones](https://soylentnews.org/article.pl?sid=25/09/30/1328225&from=rss)
 * [2025-10-02, 14:03:00](https://soylentnews.org/article.pl?sid=25/09/30/1323239&from=rss) - [Huawei’s Ternary Logic Breakthrough: a Game-Changer or Just Hype?](https://soylentnews.org/article.pl?sid=25/09/30/1323239&from=rss)
 * [2025-10-02, 09:16:00](https://soylentnews.org/article.pl?sid=25/09/30/1249215&from=rss) - [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-23, 18:06:00](https://soylentnews.org/article.pl?sid=25/09/22/1156248&from=rss) - [Scientists Found 7,000-Year-Old Mummies in the Desert That Don't Share DNA With Modern Humans](https://soylentnews.org/article.pl?sid=25/09/22/1156248&from=rss)
 * [2025-09-23, 13:24:00](https://soylentnews.org/article.pl?sid=25/09/21/2249222&from=rss) - [Deaths From Flesh-Eating Bacteria are on the Rise. Who is at Risk?](https://soylentnews.org/article.pl?sid=25/09/21/2249222&from=rss)
 * [2025-09-23, 08:35:00](https://soylentnews.org/article.pl?sid=25/09/21/2243223&from=rss) - [We Risk a Deluge of AI-Written ‘Science’ Pushing Corporate Interests](https://soylentnews.org/article.pl?sid=25/09/21/2243223&from=rss)
-* [2025-09-23, 03:52:00](https://soylentnews.org/article.pl?sid=25/09/21/2234254&from=rss) - [Something Extremely Strange is Happening at the Event Horizon of This Supermassive Blackhole](https://soylentnews.org/article.pl?sid=25/09/21/2234254&from=rss)
 
 ## [Archives](archives/index.md)
 
