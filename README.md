@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-03, 13:51:00](https://soylentnews.org/article.pl?sid=25/10/02/1054255&from=rss) - [Photodiode Design Using Germanium Solves Key Challenge in on-Chip Light Monitoring](https://soylentnews.org/article.pl?sid=25/10/02/1054255&from=rss)
 * [2025-10-03, 09:06:00](https://soylentnews.org/article.pl?sid=25/10/02/1052258&from=rss) - [ICE to Buy Tool that Tracks Locations of Hundreds of Millions of Phones](https://soylentnews.org/article.pl?sid=25/10/02/1052258&from=rss)
 * [2025-10-03, 04:21:00](https://soylentnews.org/article.pl?sid=25/10/01/2332257&from=rss) - [AI Coding is Massively Overhyped, Report Finds](https://soylentnews.org/article.pl?sid=25/10/01/2332257&from=rss)
 * [2025-10-02, 23:35:00](https://soylentnews.org/article.pl?sid=25/09/30/1336240&from=rss) - [Mix Insect, Plant and Cultivated Proteins for Healthier, Greener, Tastier Food, Say Experts](https://soylentnews.org/article.pl?sid=25/09/30/1336240&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-24, 08:16:00](https://soylentnews.org/article.pl?sid=25/09/23/0557257&from=rss) - ['a Black Hole of Energy Use': Meta's Massive AI Data Center is Stressing Out a Louisiana Community](https://soylentnews.org/article.pl?sid=25/09/23/0557257&from=rss)
 * [2025-09-24, 03:35:00](https://soylentnews.org/article.pl?sid=25/09/23/0552218&from=rss) - [When Cancer Targets the Young](https://soylentnews.org/article.pl?sid=25/09/23/0552218&from=rss)
 * [2025-09-23, 22:48:00](https://soylentnews.org/article.pl?sid=25/09/22/2131204&from=rss) - [Porsche EV Roll-Out Delay Deals $6 Billion Hit to Parent Volkswagen](https://soylentnews.org/article.pl?sid=25/09/22/2131204&from=rss)
-* [2025-09-23, 18:06:00](https://soylentnews.org/article.pl?sid=25/09/22/1156248&from=rss) - [Scientists Found 7,000-Year-Old Mummies in the Desert That Don't Share DNA With Modern Humans](https://soylentnews.org/article.pl?sid=25/09/22/1156248&from=rss)
 
 ## [Archives](archives/index.md)
 
