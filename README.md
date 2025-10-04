@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-04, 18:17:00](https://soylentnews.org/article.pl?sid=25/10/03/1516247&from=rss) - [How Charlie Brown Captured the US Psyche](https://soylentnews.org/article.pl?sid=25/10/03/1516247&from=rss)
 * [2025-10-04, 13:33:00](https://soylentnews.org/article.pl?sid=25/10/02/1413244&from=rss) - [Scientists Catch a Shark Threesome on Camera](https://soylentnews.org/article.pl?sid=25/10/02/1413244&from=rss)
 * [2025-10-04, 08:07:00](https://soylentnews.org/article.pl?sid=25/10/02/1410217&from=rss) - [Far Side of the Moon May be Colder Than the Near Side, Lunar Rocks Suggest](https://soylentnews.org/article.pl?sid=25/10/02/1410217&from=rss)
 * [2025-10-04, 04:01:00](https://soylentnews.org/article.pl?sid=25/10/02/146250&from=rss) - [The Armed Forces of Austria Upgrade to LibreOffice and the OpenDocument Format](https://soylentnews.org/article.pl?sid=25/10/02/146250&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/09/25/0014257&from=rss) - [The Ganges River is Drying at an Unprecedented Rate](https://soylentnews.org/article.pl?sid=25/09/25/0014257&from=rss)
 * [2025-09-25, 07:01:00](https://soylentnews.org/article.pl?sid=25/09/24/122235&from=rss) - [Nvidia's $100 Billion Investment in OpenAI Raises Big Antitrust Concerns](https://soylentnews.org/article.pl?sid=25/09/24/122235&from=rss)
 * [2025-09-25, 03:16:00](https://soylentnews.org/article.pl?sid=25/09/24/1152227&from=rss) - [The End of EU-Imposed Cookie Consent Pop-Ups Could be Nigh](https://soylentnews.org/article.pl?sid=25/09/24/1152227&from=rss)
-* [2025-09-24, 22:36:00](https://soylentnews.org/article.pl?sid=25/09/24/1148218&from=rss) - [Cloudflare is Sponsoring Ladybird and Omarchy](https://soylentnews.org/article.pl?sid=25/09/24/1148218&from=rss)
 
 ## [Archives](archives/index.md)
 
