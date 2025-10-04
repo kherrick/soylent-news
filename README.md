@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-04, 08:07:00](https://soylentnews.org/article.pl?sid=25/10/02/1410217&from=rss) - [Far Side of the Moon May be Colder Than the Near Side, Lunar Rocks Suggest](https://soylentnews.org/article.pl?sid=25/10/02/1410217&from=rss)
 * [2025-10-04, 04:01:00](https://soylentnews.org/article.pl?sid=25/10/02/146250&from=rss) - [The Armed Forces of Austria Upgrade to LibreOffice and the OpenDocument Format](https://soylentnews.org/article.pl?sid=25/10/02/146250&from=rss)
 * [2025-10-03, 23:18:00](https://soylentnews.org/article.pl?sid=25/10/02/1231211&from=rss) - [NASA Boss Says US Should Have ‘Village’ on Moon in a Decade](https://soylentnews.org/article.pl?sid=25/10/02/1231211&from=rss)
 * [2025-10-03, 18:34:00](https://soylentnews.org/article.pl?sid=25/10/02/1226238&from=rss) - [CISA Warns of Critical Linux Sudo Flaw Exploited in Attacks](https://soylentnews.org/article.pl?sid=25/10/02/1226238&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-25, 03:16:00](https://soylentnews.org/article.pl?sid=25/09/24/1152227&from=rss) - [The End of EU-Imposed Cookie Consent Pop-Ups Could be Nigh](https://soylentnews.org/article.pl?sid=25/09/24/1152227&from=rss)
 * [2025-09-24, 22:36:00](https://soylentnews.org/article.pl?sid=25/09/24/1148218&from=rss) - [Cloudflare is Sponsoring Ladybird and Omarchy](https://soylentnews.org/article.pl?sid=25/09/24/1148218&from=rss)
 * [2025-09-24, 17:48:00](https://soylentnews.org/article.pl?sid=25/09/23/0616240&from=rss) - [How Billions of Hacked Mosquitoes and a Vaccine Could Beat the Deadly Dengue Virus](https://soylentnews.org/article.pl?sid=25/09/23/0616240&from=rss)
-* [2025-09-24, 13:02:00](https://soylentnews.org/article.pl?sid=25/09/23/066237&from=rss) - [Why do Some Gamers Invert Their Controls?](https://soylentnews.org/article.pl?sid=25/09/23/066237&from=rss)
 
 ## [Archives](archives/index.md)
 
