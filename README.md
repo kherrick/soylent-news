@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-06, 22:31:00](https://soylentnews.org/article.pl?sid=25/10/05/1935200&from=rss) - [Earth's Crust is Tearing Apart Off the Pacific Northwest—and That's Not Necessarily Bad News](https://soylentnews.org/article.pl?sid=25/10/05/1935200&from=rss)
 * [2025-10-06, 17:44:00](https://soylentnews.org/article.pl?sid=25/10/05/1356208&from=rss) - [Flock’s Gunshot Detection Microphones Will Start Listening for Human Voices](https://soylentnews.org/article.pl?sid=25/10/05/1356208&from=rss)
 * [2025-10-06, 12:59:00](https://soylentnews.org/article.pl?sid=25/10/05/0119224&from=rss) - [JWST Finds an Exoplanet Around a Pulsar Whose Atmosphere is All Carbon](https://soylentnews.org/article.pl?sid=25/10/05/0119224&from=rss)
 * [2025-10-06, 08:13:00](https://soylentnews.org/article.pl?sid=25/10/05/0111221&from=rss) - [How Can We Keep Livestock Safe as Wolves Return?](https://soylentnews.org/article.pl?sid=25/10/05/0111221&from=rss)
@@ -49,7 +50,6 @@
 * [2025-09-27, 20:13:00](https://soylentnews.org/article.pl?sid=25/09/27/1254248&from=rss) - [How AI is Subsidized by Your Utility Bills and Drives Copper Prices](https://soylentnews.org/article.pl?sid=25/09/27/1254248&from=rss)
 * [2025-09-27, 15:27:00](https://soylentnews.org/article.pl?sid=25/09/26/2326219&from=rss) - [Cloudflare DDoSed Itself With React UseEffect Hook Blunder](https://soylentnews.org/article.pl?sid=25/09/26/2326219&from=rss)
 * [2025-09-27, 10:41:00](https://soylentnews.org/article.pl?sid=25/09/26/2314203&from=rss) - [Magma Displacement Triggered Tens of Thousands of Earthquakes, Santorini Swarm Study Finds](https://soylentnews.org/article.pl?sid=25/09/26/2314203&from=rss)
-* [2025-09-27, 05:56:00](https://soylentnews.org/article.pl?sid=25/09/26/239227&from=rss) - [China's Latest GPU Arrives With Claims of CUDA Compatibility and RT Support](https://soylentnews.org/article.pl?sid=25/09/26/239227&from=rss)
 
 ## [Archives](archives/index.md)
 

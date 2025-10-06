@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 22:31:00](https://soylentnews.org/article.pl?sid=25/10/05/1935200&from=rss) - [Earth's Crust is Tearing Apart Off the Pacific Northwest—and That's Not Necessarily Bad News](https://soylentnews.org/article.pl?sid=25/10/05/1935200&from=rss)
 * [2025-10-06, 17:44:00](https://soylentnews.org/article.pl?sid=25/10/05/1356208&from=rss) - [Flock’s Gunshot Detection Microphones Will Start Listening for Human Voices](https://soylentnews.org/article.pl?sid=25/10/05/1356208&from=rss)
 * [2025-10-06, 12:59:00](https://soylentnews.org/article.pl?sid=25/10/05/0119224&from=rss) - [JWST Finds an Exoplanet Around a Pulsar Whose Atmosphere is All Carbon](https://soylentnews.org/article.pl?sid=25/10/05/0119224&from=rss)
 * [2025-10-06, 08:13:00](https://soylentnews.org/article.pl?sid=25/10/05/0111221&from=rss) - [How Can We Keep Livestock Safe as Wolves Return?](https://soylentnews.org/article.pl?sid=25/10/05/0111221&from=rss)
