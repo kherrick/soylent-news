@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 07:44:00](https://soylentnews.org/article.pl?sid=25/10/05/2326245&from=rss) - [First Dark Matter Sub-Halo Found in the Milky Way](https://soylentnews.org/article.pl?sid=25/10/05/2326245&from=rss)
 * [2025-10-08, 03:03:00](https://soylentnews.org/article.pl?sid=25/10/06/1151211&from=rss) - [Instagram Says It is Not Listening to Users’ Microphones to Serve Ads](https://soylentnews.org/article.pl?sid=25/10/06/1151211&from=rss)
