@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-10, 11:11:00](https://soylentnews.org/breakingnews/article.pl?sid=25/10/10/1053212&from=rss) - [Nobel Prizes 2025 - Venezuelan Opposition Leader María Corina Machado Awarded Peace Prize](https://soylentnews.org/breakingnews/article.pl?sid=25/10/10/1053212&from=rss)
 * [2025-10-10, 07:03:00](https://soylentnews.org/article.pl?sid=25/10/09/2356204&from=rss) - [Windows 7 Usage Jumps as Users Refuse to Upgrade to Windows 11 in Wake of Windows 10 End of Support](https://soylentnews.org/article.pl?sid=25/10/09/2356204&from=rss)
 * [2025-10-10, 02:21:00](https://soylentnews.org/article.pl?sid=25/10/07/2334243&from=rss) - [Are VPNs Under Attack? an Anti-Censorship Group Speaks Out](https://soylentnews.org/article.pl?sid=25/10/07/2334243&from=rss)
 * [2025-10-09, 21:43:00](https://soylentnews.org/article.pl?sid=25/10/07/2330231&from=rss) - [Here's the Real Reason Endurance Sank](https://soylentnews.org/article.pl?sid=25/10/07/2330231&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-01, 09:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0143218&from=rss) - [Shopify Engages in Hostile Takeover of RubyGems and Bundler](https://soylentnews.org/article.pl?sid=25/09/29/0143218&from=rss)
 * [2025-10-01, 04:49:00](https://soylentnews.org/article.pl?sid=25/09/29/0130236&from=rss) - [Workslop - the Result of Too Much Clueless AI](https://soylentnews.org/article.pl?sid=25/09/29/0130236&from=rss)
 * [2025-10-01, 00:05:00](https://soylentnews.org/article.pl?sid=25/09/29/0126248&from=rss) - [Inequality in Agri-Food Chains: Global South Produces the Food, the Global North Keeps the Wealth](https://soylentnews.org/article.pl?sid=25/09/29/0126248&from=rss)
-* [2025-09-30, 19:24:00](https://soylentnews.org/article.pl?sid=25/09/29/0124238&from=rss) - [Details Beginning to Emerge About Australia's Social Media Ban](https://soylentnews.org/article.pl?sid=25/09/29/0124238&from=rss)
 
 ## [Archives](archives/index.md)
 
