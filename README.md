@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-10, 21:14:00](https://soylentnews.org/article.pl?sid=25/10/10/1055230&from=rss) - [Qualcomm Buys Arduino](https://soylentnews.org/article.pl?sid=25/10/10/1055230&from=rss)
 * [2025-10-10, 16:31:00](https://soylentnews.org/article.pl?sid=25/10/10/003237&from=rss) - [Ocean CO2 Becomes Sustainable Plastic, Thanks to Modified Microbes](https://soylentnews.org/article.pl?sid=25/10/10/003237&from=rss)
 * [2025-10-10, 11:47:00](https://soylentnews.org/article.pl?sid=25/10/10/000255&from=rss) - [The Transistor Was Patented 75 Years Ago Today](https://soylentnews.org/article.pl?sid=25/10/10/000255&from=rss)
 * [2025-10-10, 11:11:00](https://soylentnews.org/breakingnews/article.pl?sid=25/10/10/1053212&from=rss) - [Nobel Prizes 2025 - Venezuelan Opposition Leader María Corina Machado Awarded Peace Prize](https://soylentnews.org/breakingnews/article.pl?sid=25/10/10/1053212&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-01, 23:47:00](https://soylentnews.org/article.pl?sid=25/09/30/0349204&from=rss) - [Explainer: Why a Decades Old Architecture Decision is Impeding the Power of AI Computing](https://soylentnews.org/article.pl?sid=25/09/30/0349204&from=rss)
 * [2025-10-01, 19:02:00](https://soylentnews.org/article.pl?sid=25/09/30/0346236&from=rss) - [This Black Hole Flipped its Magnetic Field](https://soylentnews.org/article.pl?sid=25/09/30/0346236&from=rss)
 * [2025-10-01, 14:15:00](https://soylentnews.org/article.pl?sid=25/09/30/0336248&from=rss) - [Claude's New AI File Creation Feature Ships With Deep Security Risks Built in](https://soylentnews.org/article.pl?sid=25/09/30/0336248&from=rss)
-* [2025-10-01, 09:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0143218&from=rss) - [Shopify Engages in Hostile Takeover of RubyGems and Bundler](https://soylentnews.org/article.pl?sid=25/09/29/0143218&from=rss)
 
 ## [Archives](archives/index.md)
 
