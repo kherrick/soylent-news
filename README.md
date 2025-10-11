@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-11, 16:13:00](https://soylentnews.org/article.pl?sid=25/10/10/2347235&from=rss) - [MIT Rejects Trump's “Compact for Academic Excellence in Higher Education\"](https://soylentnews.org/article.pl?sid=25/10/10/2347235&from=rss)
 * [2025-10-11, 11:28:00](https://soylentnews.org/article.pl?sid=25/10/10/1114256&from=rss) - [Baseload Power is Functionally Extinct](https://soylentnews.org/article.pl?sid=25/10/10/1114256&from=rss)
 * [2025-10-11, 06:42:00](https://soylentnews.org/article.pl?sid=25/10/10/113245&from=rss) - [2024 Computer History Museum Interview With Ken Thompson](https://soylentnews.org/article.pl?sid=25/10/10/113245&from=rss)
 * [2025-10-11, 02:01:00](https://soylentnews.org/article.pl?sid=25/10/10/110237&from=rss) - [The Great Software Quality Collapse: How We Normalized Catastrophe](https://soylentnews.org/article.pl?sid=25/10/10/110237&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-02, 18:46:00](https://soylentnews.org/article.pl?sid=25/09/30/1328225&from=rss) - [Complex Knots Can Actually be Easier to Untie Than Simple Ones](https://soylentnews.org/article.pl?sid=25/09/30/1328225&from=rss)
 * [2025-10-02, 14:03:00](https://soylentnews.org/article.pl?sid=25/09/30/1323239&from=rss) - [Huawei’s Ternary Logic Breakthrough: a Game-Changer or Just Hype?](https://soylentnews.org/article.pl?sid=25/09/30/1323239&from=rss)
 * [2025-10-02, 09:16:00](https://soylentnews.org/article.pl?sid=25/09/30/1249215&from=rss) - [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&from=rss)
-* [2025-10-02, 04:31:00](https://soylentnews.org/article.pl?sid=25/09/30/0352206&from=rss) - [Scientists Unlock Secret to Thick, Stable Beer Foams](https://soylentnews.org/article.pl?sid=25/09/30/0352206&from=rss)
 
 ## [Archives](archives/index.md)
 
