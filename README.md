@@ -1,7 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2025-10-11, 11:28:00](https://soylentnews.org/article.pl?sid=25/10/10/1114256&from=rss) - [Baseload Power is Functionally Extinct](https://soylentnews.org/article.pl?sid=25/10/10/1114256&from=rss)
-* [2025-10-11, 06:42:00](https://soylentnews.org/article.pl?sid=25/10/10/113245&from=rss) - [2024 Computer History Museum Inteview With Ken Thompson](https://soylentnews.org/article.pl?sid=25/10/10/113245&from=rss)
+* [2025-10-11, 06:42:00](https://soylentnews.org/article.pl?sid=25/10/10/113245&from=rss) - [2024 Computer History Museum Interview With Ken Thompson](https://soylentnews.org/article.pl?sid=25/10/10/113245&from=rss)
 * [2025-10-11, 02:01:00](https://soylentnews.org/article.pl?sid=25/10/10/110237&from=rss) - [The Great Software Quality Collapse: How We Normalized Catastrophe](https://soylentnews.org/article.pl?sid=25/10/10/110237&from=rss)
 * [2025-10-10, 21:14:00](https://soylentnews.org/article.pl?sid=25/10/10/1055230&from=rss) - [Qualcomm Buys Arduino](https://soylentnews.org/article.pl?sid=25/10/10/1055230&from=rss)
 * [2025-10-10, 16:31:00](https://soylentnews.org/article.pl?sid=25/10/10/003237&from=rss) - [Ocean CO2 Becomes Sustainable Plastic, Thanks to Modified Microbes](https://soylentnews.org/article.pl?sid=25/10/10/003237&from=rss)
