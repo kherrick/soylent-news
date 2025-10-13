@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/10/12/1437218&from=rss) - [Nuclear Bombs on Drones: The Next Arms Race That Has Experts 'Very Concerned'](https://soylentnews.org/article.pl?sid=25/10/12/1437218&from=rss)
 * [2025-10-13, 11:12:00](https://soylentnews.org/article.pl?sid=25/10/12/1414249&from=rss) - [Here's How to See Two Newly Discovered Comets This Month](https://soylentnews.org/article.pl?sid=25/10/12/1414249&from=rss)
 * [2025-10-13, 06:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1411214&from=rss) - [Companies Are Making the Same Mistake With AI That Tesla Made With Robots](https://soylentnews.org/article.pl?sid=25/10/12/1411214&from=rss)
 * [2025-10-13, 01:39:00](https://soylentnews.org/article.pl?sid=25/10/12/141230&from=rss) - [Using a Litter Box to Determine a Cat's Health](https://soylentnews.org/article.pl?sid=25/10/12/141230&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-04, 18:17:00](https://soylentnews.org/article.pl?sid=25/10/03/1516247&from=rss) - [How Charlie Brown Captured the US Psyche](https://soylentnews.org/article.pl?sid=25/10/03/1516247&from=rss)
 * [2025-10-04, 13:33:00](https://soylentnews.org/article.pl?sid=25/10/02/1413244&from=rss) - [Scientists Catch a Shark Threesome on Camera](https://soylentnews.org/article.pl?sid=25/10/02/1413244&from=rss)
 * [2025-10-04, 08:07:00](https://soylentnews.org/article.pl?sid=25/10/02/1410217&from=rss) - [Far Side of the Moon May be Colder Than the Near Side, Lunar Rocks Suggest](https://soylentnews.org/article.pl?sid=25/10/02/1410217&from=rss)
-* [2025-10-04, 04:01:00](https://soylentnews.org/article.pl?sid=25/10/02/146250&from=rss) - [The Armed Forces of Austria Upgrade to LibreOffice and the OpenDocument Format](https://soylentnews.org/article.pl?sid=25/10/02/146250&from=rss)
 
 ## [Archives](archives/index.md)
 
