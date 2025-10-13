@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-13, 01:39:00](https://soylentnews.org/article.pl?sid=25/10/12/141230&from=rss) - [Using a Litter Box to Determine a Cat's Health](https://soylentnews.org/article.pl?sid=25/10/12/141230&from=rss)
 * [2025-10-12, 20:50:00](https://soylentnews.org/article.pl?sid=25/10/12/0052201&from=rss) - [The FCC Will Allow ABC, CBS, FOX, & NBC TV Stations Decide When Switch to ATSC 3.0](https://soylentnews.org/article.pl?sid=25/10/12/0052201&from=rss)
 * [2025-10-12, 16:05:00](https://soylentnews.org/article.pl?sid=25/10/11/148201&from=rss) - [“Like Putting on Glasses for the First Time”—How AI Improves Earthquake Detection](https://soylentnews.org/article.pl?sid=25/10/11/148201&from=rss)
 * [2025-10-12, 11:20:00](https://soylentnews.org/article.pl?sid=25/10/11/143225&from=rss) - [Starlink Burns Up One to Two Satellites a Day](https://soylentnews.org/article.pl?sid=25/10/11/143225&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-04, 04:01:00](https://soylentnews.org/article.pl?sid=25/10/02/146250&from=rss) - [The Armed Forces of Austria Upgrade to LibreOffice and the OpenDocument Format](https://soylentnews.org/article.pl?sid=25/10/02/146250&from=rss)
 * [2025-10-03, 23:18:00](https://soylentnews.org/article.pl?sid=25/10/02/1231211&from=rss) - [NASA Boss Says US Should Have ‘Village’ on Moon in a Decade](https://soylentnews.org/article.pl?sid=25/10/02/1231211&from=rss)
 * [2025-10-03, 18:34:00](https://soylentnews.org/article.pl?sid=25/10/02/1226238&from=rss) - [CISA Warns of Critical Linux Sudo Flaw Exploited in Attacks](https://soylentnews.org/article.pl?sid=25/10/02/1226238&from=rss)
-* [2025-10-03, 13:51:00](https://soylentnews.org/article.pl?sid=25/10/02/1054255&from=rss) - [Photodiode Design Using Germanium Solves Key Challenge in on-Chip Light Monitoring](https://soylentnews.org/article.pl?sid=25/10/02/1054255&from=rss)
 
 ## [Archives](archives/index.md)
 
