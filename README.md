@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-14, 06:11:00](https://soylentnews.org/article.pl?sid=25/10/12/1454236&from=rss) - [Salesforce Hacked With Threat to Release 1 Billion Customer Records](https://soylentnews.org/article.pl?sid=25/10/12/1454236&from=rss)
 * [2025-10-14, 01:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1446251&from=rss) - [When the US Gov't Built High Quality Housing for Workers...](https://soylentnews.org/article.pl?sid=25/10/12/1446251&from=rss)
 * [2025-10-13, 20:41:00](https://soylentnews.org/article.pl?sid=25/10/12/1442253&from=rss) - [What Past Education Tech Failures Can Teach Us About the Future of AI in Schools](https://soylentnews.org/article.pl?sid=25/10/12/1442253&from=rss)
 * [2025-10-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/10/12/1437218&from=rss) - [Nuclear Bombs on Drones: The Next Arms Race That Has Experts 'Very Concerned'](https://soylentnews.org/article.pl?sid=25/10/12/1437218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-05, 08:26:00](https://soylentnews.org/article.pl?sid=25/10/04/0347255&from=rss) - [Meta Advertisment Based on AI Chats](https://soylentnews.org/article.pl?sid=25/10/04/0347255&from=rss)
 * [2025-10-05, 03:45:00](https://soylentnews.org/article.pl?sid=25/10/04/0342221&from=rss) - [Hosting a WebSite on a Disposable Vape](https://soylentnews.org/article.pl?sid=25/10/04/0342221&from=rss)
 * [2025-10-04, 23:00:00](https://soylentnews.org/article.pl?sid=25/10/04/0327256&from=rss) - [OpenNvidia Could Become the AI Generation's WinTel](https://soylentnews.org/article.pl?sid=25/10/04/0327256&from=rss)
-* [2025-10-04, 18:17:00](https://soylentnews.org/article.pl?sid=25/10/03/1516247&from=rss) - [How Charlie Brown Captured the US Psyche](https://soylentnews.org/article.pl?sid=25/10/03/1516247&from=rss)
 
 ## [Archives](archives/index.md)
 
