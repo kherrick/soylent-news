@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-14](index.md)
+
+* [2025-10-14, 01:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1446251&from=rss) - [When the US Gov't Built High Quality Housing for Workers...](https://soylentnews.org/article.pl?sid=25/10/12/1446251&from=rss)

@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-14, 01:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1446251&from=rss) - [When the US Gov't Built High Quality Housing for Workers...](https://soylentnews.org/article.pl?sid=25/10/12/1446251&from=rss)
 * [2025-10-13, 20:41:00](https://soylentnews.org/article.pl?sid=25/10/12/1442253&from=rss) - [What Past Education Tech Failures Can Teach Us About the Future of AI in Schools](https://soylentnews.org/article.pl?sid=25/10/12/1442253&from=rss)
 * [2025-10-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/10/12/1437218&from=rss) - [Nuclear Bombs on Drones: The Next Arms Race That Has Experts 'Very Concerned'](https://soylentnews.org/article.pl?sid=25/10/12/1437218&from=rss)
 * [2025-10-13, 11:12:00](https://soylentnews.org/article.pl?sid=25/10/12/1414249&from=rss) - [Here's How to See Two Newly Discovered Comets This Month](https://soylentnews.org/article.pl?sid=25/10/12/1414249&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-05, 03:45:00](https://soylentnews.org/article.pl?sid=25/10/04/0342221&from=rss) - [Hosting a WebSite on a Disposable Vape](https://soylentnews.org/article.pl?sid=25/10/04/0342221&from=rss)
 * [2025-10-04, 23:00:00](https://soylentnews.org/article.pl?sid=25/10/04/0327256&from=rss) - [OpenNvidia Could Become the AI Generation's WinTel](https://soylentnews.org/article.pl?sid=25/10/04/0327256&from=rss)
 * [2025-10-04, 18:17:00](https://soylentnews.org/article.pl?sid=25/10/03/1516247&from=rss) - [How Charlie Brown Captured the US Psyche](https://soylentnews.org/article.pl?sid=25/10/03/1516247&from=rss)
-* [2025-10-04, 13:33:00](https://soylentnews.org/article.pl?sid=25/10/02/1413244&from=rss) - [Scientists Catch a Shark Threesome on Camera](https://soylentnews.org/article.pl?sid=25/10/02/1413244&from=rss)
 
 ## [Archives](archives/index.md)
 
