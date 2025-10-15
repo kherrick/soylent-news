@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-15, 01:02:00](https://soylentnews.org/article.pl?sid=25/10/13/1447222&from=rss) - [Scientists Studied Ayahuasca Users—What They Found About Death](https://soylentnews.org/article.pl?sid=25/10/13/1447222&from=rss)
 * [2025-10-14, 20:20:00](https://soylentnews.org/article.pl?sid=25/10/13/0325250&from=rss) - [A Unique Case of a Woman With Male Chromosomes in Her Blood](https://soylentnews.org/article.pl?sid=25/10/13/0325250&from=rss)
 * [2025-10-14, 15:34:00](https://soylentnews.org/article.pl?sid=25/10/13/0319211&from=rss) - [OpenAI and AMD Announce Multibillion-Dollar Partnership](https://soylentnews.org/article.pl?sid=25/10/13/0319211&from=rss)
 * [2025-10-14, 10:51:00](https://soylentnews.org/article.pl?sid=25/10/13/0313201&from=rss) - [Cambridge University to Rescue Data Trapped on Old Floppy Disks](https://soylentnews.org/article.pl?sid=25/10/13/0313201&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-05, 22:43:00](https://soylentnews.org/article.pl?sid=25/10/04/1856221&from=rss) - [Historic First: Scientists Turn Light Into Supersolid](https://soylentnews.org/article.pl?sid=25/10/04/1856221&from=rss)
 * [2025-10-05, 18:02:00](https://soylentnews.org/politics/article.pl?sid=25/10/04/195256&from=rss) - [Taiwan Pressured to Move 50% of Chip Production to US or Lose Protection](https://soylentnews.org/politics/article.pl?sid=25/10/04/195256&from=rss)
 * [2025-10-05, 16:03:00](https://soylentnews.org/meta/article.pl?sid=25/10/05/162227&from=rss) - [The Site is Experiencing 50x Problems](https://soylentnews.org/meta/article.pl?sid=25/10/05/162227&from=rss)
-* [2025-10-05, 13:16:00](https://soylentnews.org/article.pl?sid=25/10/04/1858242&from=rss) - [First Wolf-Dog Hybrid Confirmed in Greece](https://soylentnews.org/article.pl?sid=25/10/04/1858242&from=rss)
 
 ## [Archives](archives/index.md)
 
