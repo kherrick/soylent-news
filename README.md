@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-16, 19:48:00](https://soylentnews.org/article.pl?sid=25/10/15/0422232&from=rss) - [Western Executives Who Visit China are Coming Back Terrified](https://soylentnews.org/article.pl?sid=25/10/15/0422232&from=rss)
 * [2025-10-16, 15:03:00](https://soylentnews.org/article.pl?sid=25/10/14/1737233&from=rss) - [New Method is the Fastest Way to Find the Best Routes](https://soylentnews.org/article.pl?sid=25/10/14/1737233&from=rss)
 * [2025-10-16, 10:18:00](https://soylentnews.org/article.pl?sid=25/10/14/1729247&from=rss) - [Microsoft Restricts IE Mode Access in Edge After Zero-Day Attacks](https://soylentnews.org/article.pl?sid=25/10/14/1729247&from=rss)
 * [2025-10-16, 05:37:00](https://soylentnews.org/article.pl?sid=25/10/14/069243&from=rss) - [Wild Honeybees Now Officially Listed as Endangered in the EU](https://soylentnews.org/article.pl?sid=25/10/14/069243&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-07, 17:32:00](https://soylentnews.org/article.pl?sid=25/10/06/1143245&from=rss) - [US-Made Leonidas Microwave Weapon Takes Down 49 Drones With a Single Blast](https://soylentnews.org/article.pl?sid=25/10/06/1143245&from=rss)
 * [2025-10-07, 12:49:00](https://soylentnews.org/article.pl?sid=25/10/05/2320242&from=rss) - [Twisted Graphene Reveals Double-Dome Superconductivity Controlled by Electric Field](https://soylentnews.org/article.pl?sid=25/10/05/2320242&from=rss)
 * [2025-10-07, 07:58:00](https://soylentnews.org/article.pl?sid=25/10/05/201242&from=rss) - [Harvard Researchers Develop First Ever Continuously Operating Quantum Computer](https://soylentnews.org/article.pl?sid=25/10/05/201242&from=rss)
-* [2025-10-07, 03:16:00](https://soylentnews.org/article.pl?sid=25/10/05/1955231&from=rss) - [Venture Capital Valuations of AI Startups Surge and Raise Fears of an AI Bubble Forming](https://soylentnews.org/article.pl?sid=25/10/05/1955231&from=rss)
 
 ## [Archives](archives/index.md)
 
