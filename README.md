@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-16, 05:37:00](https://soylentnews.org/article.pl?sid=25/10/14/069243&from=rss) - [Wild Honeybees Now Officially Listed as Endangered in the EU](https://soylentnews.org/article.pl?sid=25/10/14/069243&from=rss)
 * [2025-10-16, 00:54:00](https://soylentnews.org/article.pl?sid=25/10/13/233212&from=rss) - [97% of Companies Struggle to Prove AI's ROI - but These 5 Expert Tips Can Help](https://soylentnews.org/article.pl?sid=25/10/13/233212&from=rss)
 * [2025-10-15, 20:03:00](https://soylentnews.org/article.pl?sid=25/10/13/2254230&from=rss) - [Green Solvents Could Unlock Plant Protein From Rapeseed Waste](https://soylentnews.org/article.pl?sid=25/10/13/2254230&from=rss)
 * [2025-10-15, 15:20:00](https://soylentnews.org/article.pl?sid=25/10/13/171230&from=rss) - [Interstellar Object is Spraying Something Weird, Scientists Find](https://soylentnews.org/article.pl?sid=25/10/13/171230&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-07, 03:16:00](https://soylentnews.org/article.pl?sid=25/10/05/1955231&from=rss) - [Venture Capital Valuations of AI Startups Surge and Raise Fears of an AI Bubble Forming](https://soylentnews.org/article.pl?sid=25/10/05/1955231&from=rss)
 * [2025-10-06, 22:31:00](https://soylentnews.org/article.pl?sid=25/10/05/1935200&from=rss) - [Earth's Crust is Tearing Apart Off the Pacific Northwest—and That's Not Necessarily Bad News](https://soylentnews.org/article.pl?sid=25/10/05/1935200&from=rss)
 * [2025-10-06, 17:44:00](https://soylentnews.org/article.pl?sid=25/10/05/1356208&from=rss) - [Flock’s Gunshot Detection Microphones Will Start Listening for Human Voices](https://soylentnews.org/article.pl?sid=25/10/05/1356208&from=rss)
-* [2025-10-06, 12:59:00](https://soylentnews.org/article.pl?sid=25/10/05/0119224&from=rss) - [JWST Finds an Exoplanet Around a Pulsar Whose Atmosphere is All Carbon](https://soylentnews.org/article.pl?sid=25/10/05/0119224&from=rss)
 
 ## [Archives](archives/index.md)
 
