@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-18, 00:18:00](https://soylentnews.org/article.pl?sid=25/10/16/1534249&from=rss) - [FSF Librephone](https://soylentnews.org/article.pl?sid=25/10/16/1534249&from=rss)
 * [2025-10-17, 19:33:00](https://soylentnews.org/article.pl?sid=25/10/16/0136252&from=rss) - [First Device Based on 'Optical Thermodynamics' Can Route Light Without Switches](https://soylentnews.org/article.pl?sid=25/10/16/0136252&from=rss)
 * [2025-10-17, 14:48:00](https://soylentnews.org/article.pl?sid=25/10/16/0130242&from=rss) - [How Science, Understanding, and Capitalism Super-Charged Human Growth](https://soylentnews.org/article.pl?sid=25/10/16/0130242&from=rss)
 * [2025-10-17, 10:00:00](https://soylentnews.org/article.pl?sid=25/10/16/0122209&from=rss) - [Nanoplastics Detected in Farm Animal Cells: Study Warns of Possible Human Consequences](https://soylentnews.org/article.pl?sid=25/10/16/0122209&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-08, 21:58:00](https://soylentnews.org/article.pl?sid=25/10/06/1313245&from=rss) - [Google Clarifies That Owners Will Still Be Able To Sideload Unverified Apps](https://soylentnews.org/article.pl?sid=25/10/06/1313245&from=rss)
 * [2025-10-08, 17:14:00](https://soylentnews.org/article.pl?sid=25/10/06/1314255&from=rss) - [Ultra-Thin Sodium Films Offer Low-Cost Alternative to Gold and Silver in Optical Technologies](https://soylentnews.org/article.pl?sid=25/10/06/1314255&from=rss)
 * [2025-10-08, 12:31:00](https://soylentnews.org/article.pl?sid=25/10/06/1158252&from=rss) - [Apple Removes ICE Tracking Apps After Pressure by Trump Administration](https://soylentnews.org/article.pl?sid=25/10/06/1158252&from=rss)
-* [2025-10-08, 07:44:00](https://soylentnews.org/article.pl?sid=25/10/05/2326245&from=rss) - [First Dark Matter Sub-Halo Found in the Milky Way](https://soylentnews.org/article.pl?sid=25/10/05/2326245&from=rss)
 
 ## [Archives](archives/index.md)
 
