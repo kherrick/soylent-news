@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-19, 04:48:00](https://soylentnews.org/article.pl?sid=25/10/17/1219257&from=rss) - [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&from=rss)
 * [2025-10-19, 00:01:00](https://soylentnews.org/article.pl?sid=25/10/18/1745254&from=rss) - [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&from=rss)
 * [2025-10-18, 19:16:00](https://soylentnews.org/article.pl?sid=25/10/16/1547215&from=rss) - [GM to Take $1.6 Billion Hit as It Scales Back Electric Vehicle Operations](https://soylentnews.org/article.pl?sid=25/10/16/1547215&from=rss)
 * [2025-10-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/10/16/1545234&from=rss) - [Thousands of Customers Imperiled After Nation-State Ransacks F5’s Network](https://soylentnews.org/article.pl?sid=25/10/16/1545234&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-10, 02:21:00](https://soylentnews.org/article.pl?sid=25/10/07/2334243&from=rss) - [Are VPNs Under Attack? an Anti-Censorship Group Speaks Out](https://soylentnews.org/article.pl?sid=25/10/07/2334243&from=rss)
 * [2025-10-09, 21:43:00](https://soylentnews.org/article.pl?sid=25/10/07/2330231&from=rss) - [Here's the Real Reason Endurance Sank](https://soylentnews.org/article.pl?sid=25/10/07/2330231&from=rss)
 * [2025-10-09, 16:55:00](https://soylentnews.org/article.pl?sid=25/10/07/2326258&from=rss) - [Forensic Test Recovers Fingerprints From Fired Ammunition Casings Despite Intense Heat](https://soylentnews.org/article.pl?sid=25/10/07/2326258&from=rss)
-* [2025-10-09, 12:13:00](https://soylentnews.org/article.pl?sid=25/10/06/1337206&from=rss) - [UK Submarine Cable Security is All at Sea](https://soylentnews.org/article.pl?sid=25/10/06/1337206&from=rss)
 
 ## [Archives](archives/index.md)
 
