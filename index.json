@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 18:58:00",
+      "https://soylentnews.org/article.pl?sid=25/10/18/1822203&from=rss"
+    ],
+    [
+      "Oops! It's a Kernel Stack Use-After-Free: Exploiting NVIDIA's GPU Linux Drivers",
+      "https://soylentnews.org/article.pl?sid=25/10/18/1822203&from=rss"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 17:39:00",
       "https://soylentnews.org/meta/article.pl?sid=25/10/20/098210&from=rss"
     ],
@@ -487,16 +497,6 @@
     [
       "2024 Computer History Museum Interview With Ken Thompson",
       "https://soylentnews.org/article.pl?sid=25/10/10/113245&from=rss"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 02:01:00",
-      "https://soylentnews.org/article.pl?sid=25/10/10/110237&from=rss"
-    ],
-    [
-      "The Great Software Quality Collapse: How We Normalized Catastrophe",
-      "https://soylentnews.org/article.pl?sid=25/10/10/110237&from=rss"
     ]
   ]
 ]
