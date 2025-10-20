@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-20, 23:40:00](https://soylentnews.org/article.pl?sid=25/10/20/0111228&from=rss) - [Russia, AI and the Future of Disinformation Warfare](https://soylentnews.org/article.pl?sid=25/10/20/0111228&from=rss)
 * [2025-10-20, 18:58:00](https://soylentnews.org/article.pl?sid=25/10/18/1822203&from=rss) - [Oops! It's a Kernel Stack Use-After-Free: Exploiting NVIDIA's GPU Linux Drivers](https://soylentnews.org/article.pl?sid=25/10/18/1822203&from=rss)
 * [2025-10-20, 17:39:00](https://soylentnews.org/meta/article.pl?sid=25/10/20/098210&from=rss) - [Soylent Update](https://soylentnews.org/meta/article.pl?sid=25/10/20/098210&from=rss)
 * [2025-10-20, 14:08:00](https://soylentnews.org/article.pl?sid=25/10/18/180239&from=rss) - [Quantum Crystals Offer a Blueprint for the Future of Computing and Chemistry](https://soylentnews.org/article.pl?sid=25/10/18/180239&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-11, 20:58:00](https://soylentnews.org/article.pl?sid=25/10/10/2354242&from=rss) - [The Real (Economic) AI Apocalypse is Nigh](https://soylentnews.org/article.pl?sid=25/10/10/2354242&from=rss)
 * [2025-10-11, 16:13:00](https://soylentnews.org/article.pl?sid=25/10/10/2347235&from=rss) - [MIT Rejects Trump's “Compact for Academic Excellence in Higher Education\"](https://soylentnews.org/article.pl?sid=25/10/10/2347235&from=rss)
 * [2025-10-11, 11:28:00](https://soylentnews.org/article.pl?sid=25/10/10/1114256&from=rss) - [Baseload Power is Functionally Extinct](https://soylentnews.org/article.pl?sid=25/10/10/1114256&from=rss)
-* [2025-10-11, 06:42:00](https://soylentnews.org/article.pl?sid=25/10/10/113245&from=rss) - [2024 Computer History Museum Interview With Ken Thompson](https://soylentnews.org/article.pl?sid=25/10/10/113245&from=rss)
 
 ## [Archives](archives/index.md)
 
