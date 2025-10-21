@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-21, 09:15:00](https://soylentnews.org/article.pl?sid=25/10/20/1236216&from=rss) - [Lifespan of AI Chips: The $300 Billion Question](https://soylentnews.org/article.pl?sid=25/10/20/1236216&from=rss)
 * [2025-10-21, 04:27:00](https://soylentnews.org/article.pl?sid=25/10/20/1229240&from=rss) - [GNOME Has a New Security Threat Scanner Powered by VirusTotal](https://soylentnews.org/article.pl?sid=25/10/20/1229240&from=rss)
 * [2025-10-20, 23:40:00](https://soylentnews.org/article.pl?sid=25/10/20/0111228&from=rss) - [Russia, AI and the Future of Disinformation Warfare](https://soylentnews.org/article.pl?sid=25/10/20/0111228&from=rss)
 * [2025-10-20, 18:58:00](https://soylentnews.org/article.pl?sid=25/10/18/1822203&from=rss) - [Oops! It's a Kernel Stack Use-After-Free: Exploiting NVIDIA's GPU Linux Drivers](https://soylentnews.org/article.pl?sid=25/10/18/1822203&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-12, 06:37:00](https://soylentnews.org/article.pl?sid=25/10/11/1348219&from=rss) - [Discord Customer Service Data Breached; Government-ID Images, and User Details Stolen](https://soylentnews.org/article.pl?sid=25/10/11/1348219&from=rss)
 * [2025-10-12, 01:47:00](https://soylentnews.org/article.pl?sid=25/10/11/1340244&from=rss) - [Covert Eavesdropping Through Computer Mice - the \"Mic-E-Mouse\"](https://soylentnews.org/article.pl?sid=25/10/11/1340244&from=rss)
 * [2025-10-11, 20:58:00](https://soylentnews.org/article.pl?sid=25/10/10/2354242&from=rss) - [The Real (Economic) AI Apocalypse is Nigh](https://soylentnews.org/article.pl?sid=25/10/10/2354242&from=rss)
-* [2025-10-11, 16:13:00](https://soylentnews.org/article.pl?sid=25/10/10/2347235&from=rss) - [MIT Rejects Trump's “Compact for Academic Excellence in Higher Education\"](https://soylentnews.org/article.pl?sid=25/10/10/2347235&from=rss)
 
 ## [Archives](archives/index.md)
 
