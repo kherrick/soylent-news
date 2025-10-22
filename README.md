@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-22, 04:11:00](https://soylentnews.org/article.pl?sid=25/10/21/1223202&from=rss) - [Bitcoin Mining is Making People Sick](https://soylentnews.org/article.pl?sid=25/10/21/1223202&from=rss)
 * [2025-10-21, 23:26:00](https://soylentnews.org/article.pl?sid=25/10/21/1218221&from=rss) - [Amazon Error Creates Massive Internet Outage](https://soylentnews.org/article.pl?sid=25/10/21/1218221&from=rss)
 * [2025-10-21, 18:41:00](https://soylentnews.org/article.pl?sid=25/10/20/2129245&from=rss) - [Are We Living in a Golden Age of Stupidity?](https://soylentnews.org/article.pl?sid=25/10/20/2129245&from=rss)
 * [2025-10-21, 13:57:00](https://soylentnews.org/article.pl?sid=25/10/20/1245230&from=rss) - [Drone Tech Company DroneShield to Build 13m Facility in Australia](https://soylentnews.org/article.pl?sid=25/10/20/1245230&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-13, 01:39:00](https://soylentnews.org/article.pl?sid=25/10/12/141230&from=rss) - [Using a Litter Box to Determine a Cat's Health](https://soylentnews.org/article.pl?sid=25/10/12/141230&from=rss)
 * [2025-10-12, 20:50:00](https://soylentnews.org/article.pl?sid=25/10/12/0052201&from=rss) - [The FCC Will Allow ABC, CBS, FOX, & NBC TV Stations Decide When Switch to ATSC 3.0](https://soylentnews.org/article.pl?sid=25/10/12/0052201&from=rss)
 * [2025-10-12, 16:05:00](https://soylentnews.org/article.pl?sid=25/10/11/148201&from=rss) - [“Like Putting on Glasses for the First Time”—How AI Improves Earthquake Detection](https://soylentnews.org/article.pl?sid=25/10/11/148201&from=rss)
-* [2025-10-12, 11:20:00](https://soylentnews.org/article.pl?sid=25/10/11/143225&from=rss) - [Starlink Burns Up One to Two Satellites a Day](https://soylentnews.org/article.pl?sid=25/10/11/143225&from=rss)
 
 ## [Archives](archives/index.md)
 
