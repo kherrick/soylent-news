@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-22, 23:09:00](https://soylentnews.org/article.pl?sid=25/10/22/032220&from=rss) - [Hackers Exploit Cisco SNMP Flaw to Deploy Rootkit on Switches](https://soylentnews.org/article.pl?sid=25/10/22/032220&from=rss)
 * [2025-10-22, 18:27:00](https://soylentnews.org/article.pl?sid=25/10/21/1918224&from=rss) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&from=rss)
 * [2025-10-22, 13:42:00](https://soylentnews.org/article.pl?sid=25/10/21/198229&from=rss) - [He Co-founded Wikipedia, Now He Says the Site Needs a Radical Change](https://soylentnews.org/article.pl?sid=25/10/21/198229&from=rss)
 * [2025-10-22, 08:58:00](https://soylentnews.org/article.pl?sid=25/10/21/1229253&from=rss) - [A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones](https://soylentnews.org/article.pl?sid=25/10/21/1229253&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-13, 20:41:00](https://soylentnews.org/article.pl?sid=25/10/12/1442253&from=rss) - [What Past Education Tech Failures Can Teach Us About the Future of AI in Schools](https://soylentnews.org/article.pl?sid=25/10/12/1442253&from=rss)
 * [2025-10-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/10/12/1437218&from=rss) - [Nuclear Bombs on Drones: The Next Arms Race That Has Experts 'Very Concerned'](https://soylentnews.org/article.pl?sid=25/10/12/1437218&from=rss)
 * [2025-10-13, 11:12:00](https://soylentnews.org/article.pl?sid=25/10/12/1414249&from=rss) - [Here's How to See Two Newly Discovered Comets This Month](https://soylentnews.org/article.pl?sid=25/10/12/1414249&from=rss)
-* [2025-10-13, 06:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1411214&from=rss) - [Companies Are Making the Same Mistake With AI That Tesla Made With Robots](https://soylentnews.org/article.pl?sid=25/10/12/1411214&from=rss)
 
 ## [Archives](archives/index.md)
 
