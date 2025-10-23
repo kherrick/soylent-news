@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-23, 08:36:00](https://soylentnews.org/article.pl?sid=25/10/22/0317230&from=rss) - [OpenAI Launches Atlas Browser](https://soylentnews.org/article.pl?sid=25/10/22/0317230&from=rss)
 * [2025-10-23, 03:54:00](https://soylentnews.org/article.pl?sid=25/10/22/0311232&from=rss) - [Apple Pioneer Bill Atkinson Was a Secret Evangelist of the ‘God Molecule’](https://soylentnews.org/article.pl?sid=25/10/22/0311232&from=rss)
 * [2025-10-22, 23:09:00](https://soylentnews.org/article.pl?sid=25/10/22/032220&from=rss) - [Hackers Exploit Cisco SNMP Flaw to Deploy Rootkit on Switches](https://soylentnews.org/article.pl?sid=25/10/22/032220&from=rss)
 * [2025-10-22, 18:27:00](https://soylentnews.org/article.pl?sid=25/10/21/1918224&from=rss) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-14, 06:11:00](https://soylentnews.org/article.pl?sid=25/10/12/1454236&from=rss) - [Salesforce Hacked With Threat to Release 1 Billion Customer Records](https://soylentnews.org/article.pl?sid=25/10/12/1454236&from=rss)
 * [2025-10-14, 01:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1446251&from=rss) - [When the US Gov't Built High Quality Housing for Workers...](https://soylentnews.org/article.pl?sid=25/10/12/1446251&from=rss)
 * [2025-10-13, 20:41:00](https://soylentnews.org/article.pl?sid=25/10/12/1442253&from=rss) - [What Past Education Tech Failures Can Teach Us About the Future of AI in Schools](https://soylentnews.org/article.pl?sid=25/10/12/1442253&from=rss)
-* [2025-10-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/10/12/1437218&from=rss) - [Nuclear Bombs on Drones: The Next Arms Race That Has Experts 'Very Concerned'](https://soylentnews.org/article.pl?sid=25/10/12/1437218&from=rss)
 
 ## [Archives](archives/index.md)
 
