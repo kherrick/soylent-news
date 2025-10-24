@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-24, 08:15:00](https://soylentnews.org/article.pl?sid=25/10/23/0943213&from=rss) - [New Evidence for Oceans of Water Deep in the Earth](https://soylentnews.org/article.pl?sid=25/10/23/0943213&from=rss)
 * [2025-10-24, 03:32:00](https://soylentnews.org/article.pl?sid=25/10/23/0934206&from=rss) - [OpenBSD 7.8 Released](https://soylentnews.org/article.pl?sid=25/10/23/0934206&from=rss)
 * [2025-10-23, 22:45:00](https://soylentnews.org/article.pl?sid=25/10/23/0020211&from=rss) - [Why Did NASA’s Chief Just Shake Up the Agency’s Plans to Land on the Moon?](https://soylentnews.org/article.pl?sid=25/10/23/0020211&from=rss)
 * [2025-10-23, 18:00:00](https://soylentnews.org/article.pl?sid=25/10/23/0012248&from=rss) - [Apple Ups the Reward for Finding Major Exploits to $2 Million](https://soylentnews.org/article.pl?sid=25/10/23/0012248&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-15, 05:51:00](https://soylentnews.org/article.pl?sid=25/10/13/1457221&from=rss) - [Warp Speed! How Some Galaxies Can Move Away From Us Faster Than Light](https://soylentnews.org/article.pl?sid=25/10/13/1457221&from=rss)
 * [2025-10-15, 01:02:00](https://soylentnews.org/article.pl?sid=25/10/13/1447222&from=rss) - [Scientists Studied Ayahuasca Users—What They Found About Death](https://soylentnews.org/article.pl?sid=25/10/13/1447222&from=rss)
 * [2025-10-14, 20:20:00](https://soylentnews.org/article.pl?sid=25/10/13/0325250&from=rss) - [A Unique Case of a Woman With Male Chromosomes in Her Blood](https://soylentnews.org/article.pl?sid=25/10/13/0325250&from=rss)
-* [2025-10-14, 15:34:00](https://soylentnews.org/article.pl?sid=25/10/13/0319211&from=rss) - [OpenAI and AMD Announce Multibillion-Dollar Partnership](https://soylentnews.org/article.pl?sid=25/10/13/0319211&from=rss)
 
 ## [Archives](archives/index.md)
 
