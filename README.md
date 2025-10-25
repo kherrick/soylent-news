@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-25, 03:12:00](https://soylentnews.org/article.pl?sid=25/10/24/0053217&from=rss) - [People Regret Buying Amazon Smart Displays After Being Bombarded With Ads](https://soylentnews.org/article.pl?sid=25/10/24/0053217&from=rss)
 * [2025-10-24, 22:24:00](https://soylentnews.org/article.pl?sid=25/10/23/106247&from=rss) - [It Wasn't Space Debris That Struck a United Airlines Plane](https://soylentnews.org/article.pl?sid=25/10/23/106247&from=rss)
 * [2025-10-24, 17:46:00](https://soylentnews.org/article.pl?sid=25/10/23/0958229&from=rss) - [Leading OpenAI Researcher Announced a GPT-5 Math Breakthrough That Never Happened](https://soylentnews.org/article.pl?sid=25/10/23/0958229&from=rss)
 * [2025-10-24, 13:03:00](https://soylentnews.org/article.pl?sid=25/10/23/0954231&from=rss) - [AWS Outage Exposes Achilles Heel: Central Control Plane](https://soylentnews.org/article.pl?sid=25/10/23/0954231&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-16, 00:54:00](https://soylentnews.org/article.pl?sid=25/10/13/233212&from=rss) - [97% of Companies Struggle to Prove AI's ROI - but These 5 Expert Tips Can Help](https://soylentnews.org/article.pl?sid=25/10/13/233212&from=rss)
 * [2025-10-15, 20:03:00](https://soylentnews.org/article.pl?sid=25/10/13/2254230&from=rss) - [Green Solvents Could Unlock Plant Protein From Rapeseed Waste](https://soylentnews.org/article.pl?sid=25/10/13/2254230&from=rss)
 * [2025-10-15, 15:20:00](https://soylentnews.org/article.pl?sid=25/10/13/171230&from=rss) - [Interstellar Object is Spraying Something Weird, Scientists Find](https://soylentnews.org/article.pl?sid=25/10/13/171230&from=rss)
-* [2025-10-15, 10:35:00](https://soylentnews.org/article.pl?sid=25/10/13/1540238&from=rss) - [Nobel Economics Prize Goes to 3 Researchers for Explaining Innovation-Driven Economic Growth](https://soylentnews.org/article.pl?sid=25/10/13/1540238&from=rss)
 
 ## [Archives](archives/index.md)
 

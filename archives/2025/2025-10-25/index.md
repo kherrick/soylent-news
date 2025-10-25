@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-25](index.md)
+
+* [2025-10-25, 03:12:00](https://soylentnews.org/article.pl?sid=25/10/24/0053217&from=rss) - [People Regret Buying Amazon Smart Displays After Being Bombarded With Ads](https://soylentnews.org/article.pl?sid=25/10/24/0053217&from=rss)
