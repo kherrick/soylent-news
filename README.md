@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-26, 02:53:00](https://soylentnews.org/article.pl?sid=25/10/25/137224&from=rss) - [Suspected Salt Typhoon Spies Lurking in European Telco](https://soylentnews.org/article.pl?sid=25/10/25/137224&from=rss)
 * [2025-10-25, 22:07:00](https://soylentnews.org/article.pl?sid=25/10/24/1522227&from=rss) - [Meet Mico, Microsoft's AI Version of Clippy](https://soylentnews.org/article.pl?sid=25/10/24/1522227&from=rss)
 * [2025-10-25, 17:22:00](https://soylentnews.org/article.pl?sid=25/10/24/1519253&from=rss) - [Data Centers Turn to Commercial Aircraft Jet Engines Bolted Onto Trailers as AI Power Crunch Bites](https://soylentnews.org/article.pl?sid=25/10/24/1519253&from=rss)
 * [2025-10-25, 12:38:00](https://soylentnews.org/article.pl?sid=25/10/24/014202&from=rss) - [Breaking Down Rare Earth Element Magnets for Recycling](https://soylentnews.org/article.pl?sid=25/10/24/014202&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-17, 00:30:00](https://soylentnews.org/article.pl?sid=25/10/16/0112201&from=rss) - [Drones Rain Fire on Crowd in Southern China](https://soylentnews.org/article.pl?sid=25/10/16/0112201&from=rss)
 * [2025-10-16, 19:48:00](https://soylentnews.org/article.pl?sid=25/10/15/0422232&from=rss) - [Western Executives Who Visit China are Coming Back Terrified](https://soylentnews.org/article.pl?sid=25/10/15/0422232&from=rss)
 * [2025-10-16, 15:03:00](https://soylentnews.org/article.pl?sid=25/10/14/1737233&from=rss) - [New Method is the Fastest Way to Find the Best Routes](https://soylentnews.org/article.pl?sid=25/10/14/1737233&from=rss)
-* [2025-10-16, 10:18:00](https://soylentnews.org/article.pl?sid=25/10/14/1729247&from=rss) - [Microsoft Restricts IE Mode Access in Edge After Zero-Day Attacks](https://soylentnews.org/article.pl?sid=25/10/14/1729247&from=rss)
 
 ## [Archives](archives/index.md)
 
