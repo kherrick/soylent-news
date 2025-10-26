@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-26, 12:16:00](https://soylentnews.org/article.pl?sid=25/10/25/1458239&from=rss) - [71 Samsung Devices Can Not Longer be Used in Australia From November 2025](https://soylentnews.org/article.pl?sid=25/10/25/1458239&from=rss)
 * [2025-10-26, 07:35:00](https://soylentnews.org/article.pl?sid=25/10/25/1321248&from=rss) - [Cache Poisoning Vulnerabilities Found in 2 DNS Resolving Apps](https://soylentnews.org/article.pl?sid=25/10/25/1321248&from=rss)
 * [2025-10-26, 02:53:00](https://soylentnews.org/article.pl?sid=25/10/25/137224&from=rss) - [Suspected Salt Typhoon Spies Lurking in European Telco](https://soylentnews.org/article.pl?sid=25/10/25/137224&from=rss)
 * [2025-10-25, 22:07:00](https://soylentnews.org/article.pl?sid=25/10/24/1522227&from=rss) - [Meet Mico, Microsoft's AI Version of Clippy](https://soylentnews.org/article.pl?sid=25/10/24/1522227&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-17, 10:00:00](https://soylentnews.org/article.pl?sid=25/10/16/0122209&from=rss) - [Nanoplastics Detected in Farm Animal Cells: Study Warns of Possible Human Consequences](https://soylentnews.org/article.pl?sid=25/10/16/0122209&from=rss)
 * [2025-10-17, 05:16:00](https://soylentnews.org/article.pl?sid=25/10/16/0117201&from=rss) - [Elon Musk Plans to Take on Wikipedia With 'Grokipedia'](https://soylentnews.org/article.pl?sid=25/10/16/0117201&from=rss)
 * [2025-10-17, 00:30:00](https://soylentnews.org/article.pl?sid=25/10/16/0112201&from=rss) - [Drones Rain Fire on Crowd in Southern China](https://soylentnews.org/article.pl?sid=25/10/16/0112201&from=rss)
-* [2025-10-16, 19:48:00](https://soylentnews.org/article.pl?sid=25/10/15/0422232&from=rss) - [Western Executives Who Visit China are Coming Back Terrified](https://soylentnews.org/article.pl?sid=25/10/15/0422232&from=rss)
 
 ## [Archives](archives/index.md)
 
