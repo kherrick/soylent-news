@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-27, 21:28:00](https://soylentnews.org/article.pl?sid=25/10/26/0953209&from=rss) - [Google Has a Useful Quantum Algorithm That Outperforms a Supercomputer](https://soylentnews.org/article.pl?sid=25/10/26/0953209&from=rss)
 * [2025-10-27, 18:59:00](https://soylentnews.org/article.pl?sid=25/10/26/0946227&from=rss) - [The Nikon Comedy Wildlife Awards](https://soylentnews.org/article.pl?sid=25/10/26/0946227&from=rss)
 * [2025-10-27, 16:41:00](https://soylentnews.org/article.pl?sid=25/10/26/0939214&from=rss) - [The Glaring Security Risks With AI Browser Agents](https://soylentnews.org/article.pl?sid=25/10/26/0939214&from=rss)
 * [2025-10-27, 11:55:00](https://soylentnews.org/article.pl?sid=25/10/26/0837220&from=rss) - [December Microsoft Teams Update to Automatically Report User Location](https://soylentnews.org/article.pl?sid=25/10/26/0837220&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-19, 00:01:00](https://soylentnews.org/article.pl?sid=25/10/18/1745254&from=rss) - [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&from=rss)
 * [2025-10-18, 19:16:00](https://soylentnews.org/article.pl?sid=25/10/16/1547215&from=rss) - [GM to Take $1.6 Billion Hit as It Scales Back Electric Vehicle Operations](https://soylentnews.org/article.pl?sid=25/10/16/1547215&from=rss)
 * [2025-10-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/10/16/1545234&from=rss) - [Thousands of Customers Imperiled After Nation-State Ransacks F5’s Network](https://soylentnews.org/article.pl?sid=25/10/16/1545234&from=rss)
-* [2025-10-18, 09:43:00](https://soylentnews.org/article.pl?sid=25/10/16/1543247&from=rss) - [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&from=rss)
 
 ## [Archives](archives/index.md)
 
