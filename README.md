@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/10/26/1320231&from=rss) - [Similarities Between How Humans and LLMs Represent Language](https://soylentnews.org/article.pl?sid=25/10/26/1320231&from=rss)
 * [2025-10-28, 07:04:00](https://soylentnews.org/politics/article.pl?sid=25/10/26/134258&from=rss) - [Trump Eyes Government Control of Quantum Computing Firms With Intel-Like Deals](https://soylentnews.org/politics/article.pl?sid=25/10/26/134258&from=rss)
 * [2025-10-28, 02:18:00](https://soylentnews.org/article.pl?sid=25/10/26/122218&from=rss) - [ESA Astronauts Take to Helicopters for Moon Landing Training](https://soylentnews.org/article.pl?sid=25/10/26/122218&from=rss)
 * [2025-10-27, 21:28:00](https://soylentnews.org/article.pl?sid=25/10/26/0953209&from=rss) - [Google Has a Useful Quantum Algorithm That Outperforms a Supercomputer](https://soylentnews.org/article.pl?sid=25/10/26/0953209&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-19, 14:22:00](https://soylentnews.org/article.pl?sid=25/10/18/000230&from=rss) - [Is AI Running Out of Training Data?](https://soylentnews.org/article.pl?sid=25/10/18/000230&from=rss)
 * [2025-10-19, 09:36:00](https://soylentnews.org/article.pl?sid=25/10/17/2341221&from=rss) - [New Psychology Research Looks at Why We Help Our Friends When They Need It](https://soylentnews.org/article.pl?sid=25/10/17/2341221&from=rss)
 * [2025-10-19, 04:48:00](https://soylentnews.org/article.pl?sid=25/10/17/1219257&from=rss) - [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&from=rss)
-* [2025-10-19, 00:01:00](https://soylentnews.org/article.pl?sid=25/10/18/1745254&from=rss) - [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&from=rss)
 
 ## [Archives](archives/index.md)
 
