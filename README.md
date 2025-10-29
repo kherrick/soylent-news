@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-29, 06:52:00](https://soylentnews.org/article.pl?sid=25/10/28/1243217&from=rss) - [Australia Denies Exception for AI Data Hoovering in Copyright Review](https://soylentnews.org/article.pl?sid=25/10/28/1243217&from=rss)
 * [2025-10-29, 02:03:00](https://soylentnews.org/article.pl?sid=25/10/28/1234216&from=rss) - [OpenAI Aims for Deep MacOS Integration With Acquisition of Software Applications Incorporated](https://soylentnews.org/article.pl?sid=25/10/28/1234216&from=rss)
 * [2025-10-28, 21:15:00](https://soylentnews.org/article.pl?sid=25/10/28/1214217&from=rss) - [Nvidia's US Chip Production Remains Constrained by Packaging](https://soylentnews.org/article.pl?sid=25/10/28/1214217&from=rss)
 * [2025-10-28, 16:28:00](https://soylentnews.org/article.pl?sid=25/10/28/121253&from=rss) - [China's Salt Typhoon Exploited SharePoint to Hit Govts](https://soylentnews.org/article.pl?sid=25/10/28/121253&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-20, 09:26:00](https://soylentnews.org/article.pl?sid=25/10/18/1749235&from=rss) - [JPMorgan Requires Staff to Hand Over Biometric Data to Access New Headquarters](https://soylentnews.org/article.pl?sid=25/10/18/1749235&from=rss)
 * [2025-10-20, 04:41:00](https://soylentnews.org/article.pl?sid=25/10/16/1551203&from=rss) - [Tech Billionaires Seem to be Doom Prepping. Should We All be Worried?](https://soylentnews.org/article.pl?sid=25/10/16/1551203&from=rss)
 * [2025-10-19, 23:52:00](https://soylentnews.org/article.pl?sid=25/10/18/004205&from=rss) - [Poverty in Australia Increases to 1 in 7 People, According to Report](https://soylentnews.org/article.pl?sid=25/10/18/004205&from=rss)
-* [2025-10-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/10/18/002218&from=rss) - [Windows 11 Update Breaks Localhost, Prompting Mass Uninstall Workaround](https://soylentnews.org/article.pl?sid=25/10/18/002218&from=rss)
 
 ## [Archives](archives/index.md)
 
