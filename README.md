@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-30, 02:02:00](https://soylentnews.org/article.pl?sid=25/10/29/1242215&from=rss) - [Windows 11 Adds Dark Mode Dialogs for Run and Folder Options](https://soylentnews.org/article.pl?sid=25/10/29/1242215&from=rss)
 * [2025-10-29, 21:19:00](https://soylentnews.org/article.pl?sid=25/10/28/2219246&from=rss) - [25 years [...]: ISS in Real Time captures quarter-century on space station](https://soylentnews.org/article.pl?sid=25/10/28/2219246&from=rss)
 * [2025-10-29, 16:32:00](https://soylentnews.org/article.pl?sid=25/10/28/2218214&from=rss) - [ASML Launches Revolutionary Lithography Scanner for Advanced 3D Chip Packaging](https://soylentnews.org/article.pl?sid=25/10/28/2218214&from=rss)
 * [2025-10-29, 11:34:00](https://soylentnews.org/article.pl?sid=25/10/28/2214245&from=rss) - [An Autonomous Car for Consumers? Lucid Says It's Happening.](https://soylentnews.org/article.pl?sid=25/10/28/2214245&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-20, 23:40:00](https://soylentnews.org/article.pl?sid=25/10/20/0111228&from=rss) - [Russia, AI and the Future of Disinformation Warfare](https://soylentnews.org/article.pl?sid=25/10/20/0111228&from=rss)
 * [2025-10-20, 18:58:00](https://soylentnews.org/article.pl?sid=25/10/18/1822203&from=rss) - [Oops! It's a Kernel Stack Use-After-Free: Exploiting NVIDIA's GPU Linux Drivers](https://soylentnews.org/article.pl?sid=25/10/18/1822203&from=rss)
 * [2025-10-20, 17:39:00](https://soylentnews.org/meta/article.pl?sid=25/10/20/098210&from=rss) - [Soylent Update](https://soylentnews.org/meta/article.pl?sid=25/10/20/098210&from=rss)
-* [2025-10-20, 14:08:00](https://soylentnews.org/article.pl?sid=25/10/18/180239&from=rss) - [Quantum Crystals Offer a Blueprint for the Future of Computing and Chemistry](https://soylentnews.org/article.pl?sid=25/10/18/180239&from=rss)
 
 ## [Archives](archives/index.md)
 
