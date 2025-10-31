@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-10-31, 16:13:00](https://soylentnews.org/article.pl?sid=25/10/30/1156208&from=rss) - [Red Hat and Other Distros to Provide Easy Access to NVIDIA CUDA Tools](https://soylentnews.org/article.pl?sid=25/10/30/1156208&from=rss)
 * [2025-10-31, 11:25:00](https://soylentnews.org/article.pl?sid=25/10/30/0038222&from=rss) - [Deep Antarctic Waters Hold Geometric Communities of Fish Nests](https://soylentnews.org/article.pl?sid=25/10/30/0038222&from=rss)
 * [2025-10-31, 06:36:00](https://soylentnews.org/article.pl?sid=25/10/30/0034203&from=rss) - [China Submerges a Data Center in the Ocean to Conserve Water, is That Even a Good Idea?](https://soylentnews.org/article.pl?sid=25/10/30/0034203&from=rss)
 * [2025-10-31, 01:42:00](https://soylentnews.org/article.pl?sid=25/10/30/0024205&from=rss) - [US EV Sales Will Collapse 60% In October, J.D. Power Forecasts](https://soylentnews.org/article.pl?sid=25/10/30/0024205&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-22, 18:27:00](https://soylentnews.org/article.pl?sid=25/10/21/1918224&from=rss) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&from=rss)
 * [2025-10-22, 13:42:00](https://soylentnews.org/article.pl?sid=25/10/21/198229&from=rss) - [He Co-founded Wikipedia, Now He Says the Site Needs a Radical Change](https://soylentnews.org/article.pl?sid=25/10/21/198229&from=rss)
 * [2025-10-22, 08:58:00](https://soylentnews.org/article.pl?sid=25/10/21/1229253&from=rss) - [A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones](https://soylentnews.org/article.pl?sid=25/10/21/1229253&from=rss)
-* [2025-10-22, 04:11:00](https://soylentnews.org/article.pl?sid=25/10/21/1223202&from=rss) - [Bitcoin Mining is Making People Sick](https://soylentnews.org/article.pl?sid=25/10/21/1223202&from=rss)
 
 ## [Archives](archives/index.md)
 
