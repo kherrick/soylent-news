@@ -1,7 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
 * [2025-10-31, 06:36:00](https://soylentnews.org/article.pl?sid=25/10/30/0034203&from=rss) - [China Submerges a Data Center in the Ocean to Conserve Water, is That Even a Good Idea?](https://soylentnews.org/article.pl?sid=25/10/30/0034203&from=rss)
-* [2025-10-31, 01:42:00](https://soylentnews.org/article.pl?sid=25/10/30/0024205&from=rss) - [EV Sales Will Collapse 60% In October, J.D. Power Forecasts](https://soylentnews.org/article.pl?sid=25/10/30/0024205&from=rss)
+* [2025-10-31, 01:42:00](https://soylentnews.org/article.pl?sid=25/10/30/0024205&from=rss) - [US EV Sales Will Collapse 60% In October, J.D. Power Forecasts](https://soylentnews.org/article.pl?sid=25/10/30/0024205&from=rss)
 * [2025-10-30, 21:00:00](https://soylentnews.org/article.pl?sid=25/10/29/1336246&from=rss) - [AI-Powered Search Engines Rely on “Less Popular” Sources, Researchers Find](https://soylentnews.org/article.pl?sid=25/10/29/1336246&from=rss)
 * [2025-10-30, 16:12:00](https://soylentnews.org/article.pl?sid=25/10/29/1333243&from=rss) - [Fedora Linux 43 Officially Released, Now Available for Download](https://soylentnews.org/article.pl?sid=25/10/29/1333243&from=rss)
 * [2025-10-30, 14:15:00](https://soylentnews.org/meta/article.pl?sid=25/10/28/1721210&from=rss) - [Trial of Journal Flagging - Analysis and Actions](https://soylentnews.org/meta/article.pl?sid=25/10/28/1721210&from=rss)
