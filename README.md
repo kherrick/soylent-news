@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-01, 01:41:00](https://soylentnews.org/article.pl?sid=25/10/31/1232227&from=rss) - [Quantum Mechanics Trumps the Second Law of Thermodynamics at the Atomic Scale](https://soylentnews.org/article.pl?sid=25/10/31/1232227&from=rss)
 * [2025-10-31, 20:57:00](https://soylentnews.org/article.pl?sid=25/10/30/1428231&from=rss) - [Tor Browser 15.0 Anonymous Web Browser Is Out Based on Firefox 140 ESR Series](https://soylentnews.org/article.pl?sid=25/10/30/1428231&from=rss)
 * [2025-10-31, 16:13:00](https://soylentnews.org/article.pl?sid=25/10/30/1156208&from=rss) - [Red Hat and Other Distros to Provide Easy Access to NVIDIA CUDA Tools](https://soylentnews.org/article.pl?sid=25/10/30/1156208&from=rss)
 * [2025-10-31, 11:25:00](https://soylentnews.org/article.pl?sid=25/10/30/0038222&from=rss) - [Deep Antarctic Waters Hold Geometric Communities of Fish Nests](https://soylentnews.org/article.pl?sid=25/10/30/0038222&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-23, 03:54:00](https://soylentnews.org/article.pl?sid=25/10/22/0311232&from=rss) - [Apple Pioneer Bill Atkinson Was a Secret Evangelist of the ‘God Molecule’](https://soylentnews.org/article.pl?sid=25/10/22/0311232&from=rss)
 * [2025-10-22, 23:09:00](https://soylentnews.org/article.pl?sid=25/10/22/032220&from=rss) - [Hackers Exploit Cisco SNMP Flaw to Deploy Rootkit on Switches](https://soylentnews.org/article.pl?sid=25/10/22/032220&from=rss)
 * [2025-10-22, 18:27:00](https://soylentnews.org/article.pl?sid=25/10/21/1918224&from=rss) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&from=rss)
-* [2025-10-22, 13:42:00](https://soylentnews.org/article.pl?sid=25/10/21/198229&from=rss) - [He Co-founded Wikipedia, Now He Says the Site Needs a Radical Change](https://soylentnews.org/article.pl?sid=25/10/21/198229&from=rss)
 
 ## [Archives](archives/index.md)
 
