@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-01, 11:11:00](https://soylentnews.org/article.pl?sid=25/10/31/1242232&from=rss) - [ICE and CBP Agents Are Scanning Peoples’ Faces on the Street to Verify Citizenship](https://soylentnews.org/article.pl?sid=25/10/31/1242232&from=rss)
 * [2025-11-01, 06:27:00](https://soylentnews.org/article.pl?sid=25/10/31/1238201&from=rss) - [Nearly 90% of Windows Games Now Run on Linux](https://soylentnews.org/article.pl?sid=25/10/31/1238201&from=rss)
 * [2025-11-01, 01:41:00](https://soylentnews.org/article.pl?sid=25/10/31/1232227&from=rss) - [Quantum Mechanics Trumps the Second Law of Thermodynamics at the Atomic Scale](https://soylentnews.org/article.pl?sid=25/10/31/1232227&from=rss)
 * [2025-10-31, 20:57:00](https://soylentnews.org/article.pl?sid=25/10/30/1428231&from=rss) - [Tor Browser 15.0 Anonymous Web Browser Is Out Based on Firefox 140 ESR Series](https://soylentnews.org/article.pl?sid=25/10/30/1428231&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-23, 13:19:00](https://soylentnews.org/article.pl?sid=25/10/22/126221&from=rss) - [Europe's Plan to Ditch US Tech Giants is Built on Open Source - and It's Gaining Steam](https://soylentnews.org/article.pl?sid=25/10/22/126221&from=rss)
 * [2025-10-23, 08:36:00](https://soylentnews.org/article.pl?sid=25/10/22/0317230&from=rss) - [OpenAI Launches Atlas Browser](https://soylentnews.org/article.pl?sid=25/10/22/0317230&from=rss)
 * [2025-10-23, 03:54:00](https://soylentnews.org/article.pl?sid=25/10/22/0311232&from=rss) - [Apple Pioneer Bill Atkinson Was a Secret Evangelist of the ‘God Molecule’](https://soylentnews.org/article.pl?sid=25/10/22/0311232&from=rss)
-* [2025-10-22, 23:09:00](https://soylentnews.org/article.pl?sid=25/10/22/032220&from=rss) - [Hackers Exploit Cisco SNMP Flaw to Deploy Rootkit on Switches](https://soylentnews.org/article.pl?sid=25/10/22/032220&from=rss)
 
 ## [Archives](archives/index.md)
 
