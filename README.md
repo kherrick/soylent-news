@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-02, 06:07:00](https://soylentnews.org/article.pl?sid=25/11/01/1239234&from=rss) - [Spinning Up an Onion Mirror is Stupid Easy](https://soylentnews.org/article.pl?sid=25/11/01/1239234&from=rss)
 * [2025-11-02, 01:26:00](https://soylentnews.org/article.pl?sid=25/10/31/1858243&from=rss) - [‘Spaceballs 2’ Starts Production](https://soylentnews.org/article.pl?sid=25/10/31/1858243&from=rss)
 * [2025-11-01, 20:39:00](https://soylentnews.org/article.pl?sid=25/10/31/1854228&from=rss) - [China Releases 'UBIOS' Standard to Replace UEFI](https://soylentnews.org/article.pl?sid=25/10/31/1854228&from=rss)
 * [2025-11-01, 15:55:00](https://soylentnews.org/article.pl?sid=25/10/31/1847233&from=rss) - [Nvidia Reveals Vera Rubin Superchip for the First Time](https://soylentnews.org/article.pl?sid=25/10/31/1847233&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-24, 08:15:00](https://soylentnews.org/article.pl?sid=25/10/23/0943213&from=rss) - [New Evidence for Oceans of Water Deep in the Earth](https://soylentnews.org/article.pl?sid=25/10/23/0943213&from=rss)
 * [2025-10-24, 03:32:00](https://soylentnews.org/article.pl?sid=25/10/23/0934206&from=rss) - [OpenBSD 7.8 Released](https://soylentnews.org/article.pl?sid=25/10/23/0934206&from=rss)
 * [2025-10-23, 22:45:00](https://soylentnews.org/article.pl?sid=25/10/23/0020211&from=rss) - [Why Did NASA’s Chief Just Shake Up the Agency’s Plans to Land on the Moon?](https://soylentnews.org/article.pl?sid=25/10/23/0020211&from=rss)
-* [2025-10-23, 18:00:00](https://soylentnews.org/article.pl?sid=25/10/23/0012248&from=rss) - [Apple Ups the Reward for Finding Major Exploits to $2 Million](https://soylentnews.org/article.pl?sid=25/10/23/0012248&from=rss)
 
 ## [Archives](archives/index.md)
 
