@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-03, 19:53:00](https://soylentnews.org/article.pl?sid=25/11/02/0832213&from=rss) - [October's Research Roundup: 6 Cool Science Stories We Almost Missed](https://soylentnews.org/article.pl?sid=25/11/02/0832213&from=rss)
 * [2025-11-03, 15:10:00](https://soylentnews.org/article.pl?sid=25/11/01/2018214&from=rss) - [Qilin Ransomware Abuses WSL to Run Linux Encryptors in Windows](https://soylentnews.org/article.pl?sid=25/11/01/2018214&from=rss)
 * [2025-11-03, 10:25:00](https://soylentnews.org/article.pl?sid=25/11/02/0835217&from=rss) - [Nvidia Hits Record $5 Trillion Mark as CEO Dismisses AI Bubble Concerns](https://soylentnews.org/article.pl?sid=25/11/02/0835217&from=rss)
 * [2025-11-03, 05:40:00](https://soylentnews.org/article.pl?sid=25/11/01/1951249&from=rss) - [Massive Surge of NFC Relay Malware Steals Europeans’ Credit Cards](https://soylentnews.org/article.pl?sid=25/11/01/1951249&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-25, 22:07:00](https://soylentnews.org/article.pl?sid=25/10/24/1522227&from=rss) - [Meet Mico, Microsoft's AI Version of Clippy](https://soylentnews.org/article.pl?sid=25/10/24/1522227&from=rss)
 * [2025-10-25, 17:22:00](https://soylentnews.org/article.pl?sid=25/10/24/1519253&from=rss) - [Data Centers Turn to Commercial Aircraft Jet Engines Bolted Onto Trailers as AI Power Crunch Bites](https://soylentnews.org/article.pl?sid=25/10/24/1519253&from=rss)
 * [2025-10-25, 12:38:00](https://soylentnews.org/article.pl?sid=25/10/24/014202&from=rss) - [Breaking Down Rare Earth Element Magnets for Recycling](https://soylentnews.org/article.pl?sid=25/10/24/014202&from=rss)
-* [2025-10-25, 07:54:00](https://soylentnews.org/article.pl?sid=25/10/24/0058210&from=rss) - [Latvian Police Bust European Cybercrime Ring and Arrest Seven Suspects](https://soylentnews.org/article.pl?sid=25/10/24/0058210&from=rss)
 
 ## [Archives](archives/index.md)
 
