@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-03, 01:00:00](https://soylentnews.org/article.pl?sid=25/11/01/1944249&from=rss) - [AI Review Paper Slop Changing Moderation Policy at arXiv CS](https://soylentnews.org/article.pl?sid=25/11/01/1944249&from=rss)
 * [2025-11-02, 20:20:00](https://soylentnews.org/article.pl?sid=25/11/01/1849207&from=rss) - [Meta: Pirated Adult Film Downloads Were For “Personal Use,” Not AI Training](https://soylentnews.org/article.pl?sid=25/11/01/1849207&from=rss)
 * [2025-11-02, 15:39:00](https://soylentnews.org/article.pl?sid=25/11/01/1652253&from=rss) - [CISA: High-Severity Linux Flaw Now Exploited by Ransomware Gangs](https://soylentnews.org/article.pl?sid=25/11/01/1652253&from=rss)
 * [2025-11-02, 10:56:00](https://soylentnews.org/article.pl?sid=25/11/01/1648226&from=rss) - [Bonfire of the Vanities](https://soylentnews.org/article.pl?sid=25/11/01/1648226&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-25, 03:12:00](https://soylentnews.org/article.pl?sid=25/10/24/0053217&from=rss) - [People Regret Buying Amazon Smart Displays After Being Bombarded With Ads](https://soylentnews.org/article.pl?sid=25/10/24/0053217&from=rss)
 * [2025-10-24, 22:24:00](https://soylentnews.org/article.pl?sid=25/10/23/106247&from=rss) - [It Wasn't Space Debris That Struck a United Airlines Plane](https://soylentnews.org/article.pl?sid=25/10/23/106247&from=rss)
 * [2025-10-24, 17:46:00](https://soylentnews.org/article.pl?sid=25/10/23/0958229&from=rss) - [Leading OpenAI Researcher Announced a GPT-5 Math Breakthrough That Never Happened](https://soylentnews.org/article.pl?sid=25/10/23/0958229&from=rss)
-* [2025-10-24, 13:03:00](https://soylentnews.org/article.pl?sid=25/10/23/0954231&from=rss) - [AWS Outage Exposes Achilles Heel: Central Control Plane](https://soylentnews.org/article.pl?sid=25/10/23/0954231&from=rss)
 
 ## [Archives](archives/index.md)
 
