@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-04, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/03/0140258&from=rss) - [Matrix Collapses: Mathematics Proves the Universe Cannot be a Computer Simulation](https://soylentnews.org/article.pl?sid=25/11/03/0140258&from=rss)
 * [2025-11-04, 14:52:00](https://soylentnews.org/article.pl?sid=25/11/03/0135217&from=rss) - [Las Vegas Police Debut the World's First Tesla Cybertruck Patrol Fleet](https://soylentnews.org/article.pl?sid=25/11/03/0135217&from=rss)
 * [2025-11-04, 10:08:00](https://soylentnews.org/article.pl?sid=25/11/02/2015201&from=rss) - [Tesla's ‘Robotaxis' Keep Crashing-Even With Human ‘Safety Monitors' Onboard](https://soylentnews.org/article.pl?sid=25/11/02/2015201&from=rss)
 * [2025-11-04, 05:23:00](https://soylentnews.org/article.pl?sid=25/11/02/2011253&from=rss) - [Once Again, Chat Control Flails After Strong Public Pressure](https://soylentnews.org/article.pl?sid=25/11/02/2011253&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-26, 21:40:00](https://soylentnews.org/article.pl?sid=25/10/26/0047211&from=rss) - [F-150 Lightning Production Halted Indefinitely As Ford Bets On Gas Trucks Again](https://soylentnews.org/article.pl?sid=25/10/26/0047211&from=rss)
 * [2025-10-26, 17:00:00](https://soylentnews.org/article.pl?sid=25/10/26/0037211&from=rss) - [Dutch seizure of Nexperia followed US pressure over Chinese CEO](https://soylentnews.org/article.pl?sid=25/10/26/0037211&from=rss)
 * [2025-10-26, 12:16:00](https://soylentnews.org/article.pl?sid=25/10/25/1458239&from=rss) - [71 Samsung Devices Can Not Longer be Used in Australia From November 2025](https://soylentnews.org/article.pl?sid=25/10/25/1458239&from=rss)
-* [2025-10-26, 07:35:00](https://soylentnews.org/article.pl?sid=25/10/25/1321248&from=rss) - [Cache Poisoning Vulnerabilities Found in 2 DNS Resolving Apps](https://soylentnews.org/article.pl?sid=25/10/25/1321248&from=rss)
 
 ## [Archives](archives/index.md)
 
