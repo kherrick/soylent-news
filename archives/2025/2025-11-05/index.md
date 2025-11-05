@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 19:28:00](https://soylentnews.org/article.pl?sid=25/11/04/0220218&from=rss) - [Debian Introduces Rust Toolchain Dependencies to Apt](https://soylentnews.org/article.pl?sid=25/11/04/0220218&from=rss)
 * [2025-11-05, 14:41:00](https://soylentnews.org/article.pl?sid=25/11/04/0214241&from=rss) - [We're About to Find Many More Interstellar Interlopers—Here's How to Visit One](https://soylentnews.org/article.pl?sid=25/11/04/0214241&from=rss)
 * [2025-11-05, 09:55:00](https://soylentnews.org/article.pl?sid=25/11/04/025235&from=rss) - [Bats Eat the Birds They Pluck From the Sky While on the Wing](https://soylentnews.org/article.pl?sid=25/11/04/025235&from=rss)
 * [2025-11-05, 05:06:00](https://soylentnews.org/article.pl?sid=25/11/04/0147220&from=rss) - [SUSE to Include Agentic AI in SLE 16](https://soylentnews.org/article.pl?sid=25/11/04/0147220&from=rss)
