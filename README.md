@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-05, 05:06:00](https://soylentnews.org/article.pl?sid=25/11/04/0147220&from=rss) - [SUSE to Include Agentic AI in SLE 16](https://soylentnews.org/article.pl?sid=25/11/04/0147220&from=rss)
 * [2025-11-05, 00:22:00](https://soylentnews.org/article.pl?sid=25/11/03/0150212&from=rss) - [Company Remote Kills Robo Vacuum](https://soylentnews.org/article.pl?sid=25/11/03/0150212&from=rss)
 * [2025-11-04, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/03/0140258&from=rss) - [Matrix Collapses: Mathematics Proves the Universe Cannot be a Computer Simulation](https://soylentnews.org/article.pl?sid=25/11/03/0140258&from=rss)
 * [2025-11-04, 14:52:00](https://soylentnews.org/article.pl?sid=25/11/03/0135217&from=rss) - [Las Vegas Police Debut the World's First Tesla Cybertruck Patrol Fleet](https://soylentnews.org/article.pl?sid=25/11/03/0135217&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-27, 07:11:00](https://soylentnews.org/article.pl?sid=25/10/26/0117201&from=rss) - [Alibaba Cloud Says It Cut Nvidia AI GPU Use by 82% With New Pooling System](https://soylentnews.org/article.pl?sid=25/10/26/0117201&from=rss)
 * [2025-10-27, 02:30:00](https://soylentnews.org/article.pl?sid=25/10/26/010215&from=rss) - [Beginner’s Guide to Malware Analysis and Reverse Engineering](https://soylentnews.org/article.pl?sid=25/10/26/010215&from=rss)
 * [2025-10-26, 21:40:00](https://soylentnews.org/article.pl?sid=25/10/26/0047211&from=rss) - [F-150 Lightning Production Halted Indefinitely As Ford Bets On Gas Trucks Again](https://soylentnews.org/article.pl?sid=25/10/26/0047211&from=rss)
-* [2025-10-26, 17:00:00](https://soylentnews.org/article.pl?sid=25/10/26/0037211&from=rss) - [Dutch seizure of Nexperia followed US pressure over Chinese CEO](https://soylentnews.org/article.pl?sid=25/10/26/0037211&from=rss)
 
 ## [Archives](archives/index.md)
 
