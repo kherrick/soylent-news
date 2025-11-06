@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-06, 14:31:00](https://soylentnews.org/article.pl?sid=25/11/05/1242201&from=rss) - [Canada Says Hacktivists Breached Water and Energy Facilities](https://soylentnews.org/article.pl?sid=25/11/05/1242201&from=rss)
 * [2025-11-06, 09:42:00](https://soylentnews.org/article.pl?sid=25/11/05/1236251&from=rss) - [What Happened to Running What You Wanted on Your Own Machine?](https://soylentnews.org/article.pl?sid=25/11/05/1236251&from=rss)
 * [2025-11-06, 05:00:00](https://soylentnews.org/article.pl?sid=25/11/04/0243254&from=rss) - [World's Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&from=rss)
 * [2025-11-06, 00:14:00](https://soylentnews.org/article.pl?sid=25/11/04/0228209&from=rss) - [Powered by Mushrooms, Living Computers Are on the Rise](https://soylentnews.org/article.pl?sid=25/11/04/0228209&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/10/26/1320231&from=rss) - [Similarities Between How Humans and LLMs Represent Language](https://soylentnews.org/article.pl?sid=25/10/26/1320231&from=rss)
 * [2025-10-28, 07:04:00](https://soylentnews.org/politics/article.pl?sid=25/10/26/134258&from=rss) - [Trump Eyes Government Control of Quantum Computing Firms With Intel-Like Deals](https://soylentnews.org/politics/article.pl?sid=25/10/26/134258&from=rss)
 * [2025-10-28, 02:18:00](https://soylentnews.org/article.pl?sid=25/10/26/122218&from=rss) - [ESA Astronauts Take to Helicopters for Moon Landing Training](https://soylentnews.org/article.pl?sid=25/10/26/122218&from=rss)
-* [2025-10-27, 21:28:00](https://soylentnews.org/article.pl?sid=25/10/26/0953209&from=rss) - [Google Has a Useful Quantum Algorithm That Outperforms a Supercomputer](https://soylentnews.org/article.pl?sid=25/10/26/0953209&from=rss)
 
 ## [Archives](archives/index.md)
 
