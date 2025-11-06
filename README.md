@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-06, 00:14:00](https://soylentnews.org/article.pl?sid=25/11/04/0228209&from=rss) - [Powered by Mushrooms, Living Computers Are on the Rise](https://soylentnews.org/article.pl?sid=25/11/04/0228209&from=rss)
 * [2025-11-05, 19:28:00](https://soylentnews.org/article.pl?sid=25/11/04/0220218&from=rss) - [Debian Introduces Rust Toolchain Dependencies to Apt](https://soylentnews.org/article.pl?sid=25/11/04/0220218&from=rss)
 * [2025-11-05, 14:41:00](https://soylentnews.org/article.pl?sid=25/11/04/0214241&from=rss) - [We're About to Find Many More Interstellar Interlopers—Here's How to Visit One](https://soylentnews.org/article.pl?sid=25/11/04/0214241&from=rss)
 * [2025-11-05, 09:55:00](https://soylentnews.org/article.pl?sid=25/11/04/025235&from=rss) - [Bats Eat the Birds They Pluck From the Sky While on the Wing](https://soylentnews.org/article.pl?sid=25/11/04/025235&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-27, 21:28:00](https://soylentnews.org/article.pl?sid=25/10/26/0953209&from=rss) - [Google Has a Useful Quantum Algorithm That Outperforms a Supercomputer](https://soylentnews.org/article.pl?sid=25/10/26/0953209&from=rss)
 * [2025-10-27, 18:59:00](https://soylentnews.org/article.pl?sid=25/10/26/0946227&from=rss) - [The Nikon Comedy Wildlife Awards](https://soylentnews.org/article.pl?sid=25/10/26/0946227&from=rss)
 * [2025-10-27, 16:41:00](https://soylentnews.org/article.pl?sid=25/10/26/0939214&from=rss) - [The Glaring Security Risks With AI Browser Agents](https://soylentnews.org/article.pl?sid=25/10/26/0939214&from=rss)
-* [2025-10-27, 11:55:00](https://soylentnews.org/article.pl?sid=25/10/26/0837220&from=rss) - [December Microsoft Teams Update to Automatically Report User Location](https://soylentnews.org/article.pl?sid=25/10/26/0837220&from=rss)
 
 ## [Archives](archives/index.md)
 
