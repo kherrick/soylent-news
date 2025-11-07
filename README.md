@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-07, 00:01:00](https://soylentnews.org/article.pl?sid=25/11/06/0331241&from=rss) - [GNOME Mutter Now \"Completely Drops the Whole X11 Backend\"](https://soylentnews.org/article.pl?sid=25/11/06/0331241&from=rss)
 * [2025-11-06, 19:17:00](https://soylentnews.org/article.pl?sid=25/11/05/1530214&from=rss) - [Tiny Electric Motor is as Powerful as Four Tesla Motors Put Together](https://soylentnews.org/article.pl?sid=25/11/05/1530214&from=rss)
 * [2025-11-06, 14:31:00](https://soylentnews.org/article.pl?sid=25/11/05/1242201&from=rss) - [Canada Says Hacktivists Breached Water and Energy Facilities](https://soylentnews.org/article.pl?sid=25/11/05/1242201&from=rss)
 * [2025-11-06, 09:42:00](https://soylentnews.org/article.pl?sid=25/11/05/1236251&from=rss) - [What Happened to Running What You Wanted on Your Own Machine?](https://soylentnews.org/article.pl?sid=25/11/05/1236251&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-28, 21:15:00](https://soylentnews.org/article.pl?sid=25/10/28/1214217&from=rss) - [Nvidia's US Chip Production Remains Constrained by Packaging](https://soylentnews.org/article.pl?sid=25/10/28/1214217&from=rss)
 * [2025-10-28, 16:28:00](https://soylentnews.org/article.pl?sid=25/10/28/121253&from=rss) - [China's Salt Typhoon Exploited SharePoint to Hit Govts](https://soylentnews.org/article.pl?sid=25/10/28/121253&from=rss)
 * [2025-10-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/10/26/1320231&from=rss) - [Similarities Between How Humans and LLMs Represent Language](https://soylentnews.org/article.pl?sid=25/10/26/1320231&from=rss)
-* [2025-10-28, 07:04:00](https://soylentnews.org/politics/article.pl?sid=25/10/26/134258&from=rss) - [Trump Eyes Government Control of Quantum Computing Firms With Intel-Like Deals](https://soylentnews.org/politics/article.pl?sid=25/10/26/134258&from=rss)
 
 ## [Archives](archives/index.md)
 
