@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-07, 09:28:00](https://soylentnews.org/article.pl?sid=25/11/05/1549218&from=rss) - [Australian Law To Require EV Cars To Be Noisy For Blind People](https://soylentnews.org/article.pl?sid=25/11/05/1549218&from=rss)
 * [2025-11-07, 04:46:00](https://soylentnews.org/article.pl?sid=25/11/05/1540235&from=rss) - [7 Basic Science Discoveries That Changed the World](https://soylentnews.org/article.pl?sid=25/11/05/1540235&from=rss)
 * [2025-11-07, 00:01:00](https://soylentnews.org/article.pl?sid=25/11/06/0331241&from=rss) - [GNOME Mutter Now \"Completely Drops the Whole X11 Backend\"](https://soylentnews.org/article.pl?sid=25/11/06/0331241&from=rss)
 * [2025-11-06, 19:17:00](https://soylentnews.org/article.pl?sid=25/11/05/1530214&from=rss) - [Tiny Electric Motor is as Powerful as Four Tesla Motors Put Together](https://soylentnews.org/article.pl?sid=25/11/05/1530214&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-29, 06:52:00](https://soylentnews.org/article.pl?sid=25/10/28/1243217&from=rss) - [Australia Denies Exception for AI Data Hoovering in Copyright Review](https://soylentnews.org/article.pl?sid=25/10/28/1243217&from=rss)
 * [2025-10-29, 02:03:00](https://soylentnews.org/article.pl?sid=25/10/28/1234216&from=rss) - [OpenAI Aims for Deep MacOS Integration With Acquisition of Software Applications Incorporated](https://soylentnews.org/article.pl?sid=25/10/28/1234216&from=rss)
 * [2025-10-28, 21:15:00](https://soylentnews.org/article.pl?sid=25/10/28/1214217&from=rss) - [Nvidia's US Chip Production Remains Constrained by Packaging](https://soylentnews.org/article.pl?sid=25/10/28/1214217&from=rss)
-* [2025-10-28, 16:28:00](https://soylentnews.org/article.pl?sid=25/10/28/121253&from=rss) - [China's Salt Typhoon Exploited SharePoint to Hit Govts](https://soylentnews.org/article.pl?sid=25/10/28/121253&from=rss)
 
 ## [Archives](archives/index.md)
 
