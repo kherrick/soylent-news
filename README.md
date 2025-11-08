@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-08, 04:19:00](https://soylentnews.org/article.pl?sid=25/11/06/0710228&from=rss) - [Study Concludes Cybersecurity Training Doesn't Work](https://soylentnews.org/article.pl?sid=25/11/06/0710228&from=rss)
 * [2025-11-07, 23:35:00](https://soylentnews.org/article.pl?sid=25/11/06/0317205&from=rss) - [Developer Warns Users That Fake Download Site is Hosting Windows 11 Upgrade Bypass Tool](https://soylentnews.org/article.pl?sid=25/11/06/0317205&from=rss)
 * [2025-11-07, 18:53:00](https://soylentnews.org/article.pl?sid=25/11/06/0311253&from=rss) - [LM8560, the Eternal Chip From the 1980 Years](https://soylentnews.org/article.pl?sid=25/11/06/0311253&from=rss)
 * [2025-11-07, 14:09:00](https://soylentnews.org/article.pl?sid=25/11/06/0257203&from=rss) - [Ubuntu Certification Now Available Through Canonical Academy](https://soylentnews.org/article.pl?sid=25/11/06/0257203&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-30, 02:02:00](https://soylentnews.org/article.pl?sid=25/10/29/1242215&from=rss) - [Windows 11 Adds Dark Mode Dialogs for Run and Folder Options](https://soylentnews.org/article.pl?sid=25/10/29/1242215&from=rss)
 * [2025-10-29, 21:19:00](https://soylentnews.org/article.pl?sid=25/10/28/2219246&from=rss) - [25 years [...]: ISS in Real Time captures quarter-century on space station](https://soylentnews.org/article.pl?sid=25/10/28/2219246&from=rss)
 * [2025-10-29, 16:32:00](https://soylentnews.org/article.pl?sid=25/10/28/2218214&from=rss) - [ASML Launches Revolutionary Lithography Scanner for Advanced 3D Chip Packaging](https://soylentnews.org/article.pl?sid=25/10/28/2218214&from=rss)
-* [2025-10-29, 11:34:00](https://soylentnews.org/article.pl?sid=25/10/28/2214245&from=rss) - [An Autonomous Car for Consumers? Lucid Says It's Happening.](https://soylentnews.org/article.pl?sid=25/10/28/2214245&from=rss)
 
 ## [Archives](archives/index.md)
 
