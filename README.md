@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-09, 08:46:00](https://soylentnews.org/article.pl?sid=25/11/07/032255&from=rss) - [Nvidia Will Help Build 7 AI Supercomputers for DoE](https://soylentnews.org/article.pl?sid=25/11/07/032255&from=rss)
 * [2025-11-09, 04:10:00](https://soylentnews.org/article.pl?sid=25/11/07/0255249&from=rss) - [Gen Z is Ditching the Tie for a Toolbelt, and it’s the Smartest Rebellion Yet](https://soylentnews.org/article.pl?sid=25/11/07/0255249&from=rss)
 * [2025-11-08, 23:18:00](https://soylentnews.org/article.pl?sid=25/11/06/0740218&from=rss) - [Does Academia Need a Wake Up Call on Wikibooks?](https://soylentnews.org/article.pl?sid=25/11/06/0740218&from=rss)
 * [2025-11-08, 18:34:00](https://soylentnews.org/article.pl?sid=25/11/06/0735234&from=rss) - [OpenAI Looking for Taxpayers to Bail Them Out If the Bubble Bursts](https://soylentnews.org/article.pl?sid=25/11/06/0735234&from=rss)
@@ -49,7 +50,6 @@
 * [2025-10-31, 01:42:00](https://soylentnews.org/article.pl?sid=25/10/30/0024205&from=rss) - [US EV Sales Will Collapse 60% In October, J.D. Power Forecasts](https://soylentnews.org/article.pl?sid=25/10/30/0024205&from=rss)
 * [2025-10-30, 21:00:00](https://soylentnews.org/article.pl?sid=25/10/29/1336246&from=rss) - [AI-Powered Search Engines Rely on “Less Popular” Sources, Researchers Find](https://soylentnews.org/article.pl?sid=25/10/29/1336246&from=rss)
 * [2025-10-30, 16:12:00](https://soylentnews.org/article.pl?sid=25/10/29/1333243&from=rss) - [Fedora Linux 43 Officially Released, Now Available for Download](https://soylentnews.org/article.pl?sid=25/10/29/1333243&from=rss)
-* [2025-10-30, 14:15:00](https://soylentnews.org/meta/article.pl?sid=25/10/28/1721210&from=rss) - [Trial of Journal Flagging - Analysis and Actions](https://soylentnews.org/meta/article.pl?sid=25/10/28/1721210&from=rss)
 
 ## [Archives](archives/index.md)
 
