@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-10, 13:00:00](https://soylentnews.org/article.pl?sid=25/11/08/2122221&from=rss) - [Plumbing the Universe for Dark Matter](https://soylentnews.org/article.pl?sid=25/11/08/2122221&from=rss)
 * [2025-11-10, 08:21:00](https://soylentnews.org/article.pl?sid=25/11/08/214219&from=rss) - [The Chemistry Behind That Pricey Cup of Civet Coffee](https://soylentnews.org/article.pl?sid=25/11/08/214219&from=rss)
 * [2025-11-10, 03:47:00](https://soylentnews.org/article.pl?sid=25/11/08/1723229&from=rss) - [Blame game over Air India crash goes on](https://soylentnews.org/article.pl?sid=25/11/08/1723229&from=rss)
 * [2025-11-09, 23:06:00](https://soylentnews.org/article.pl?sid=25/11/08/1721215&from=rss) - [The 2026 Farmers’ Almanac Will Be Its Last Edition](https://soylentnews.org/article.pl?sid=25/11/08/1721215&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-01, 06:27:00](https://soylentnews.org/article.pl?sid=25/10/31/1238201&from=rss) - [Nearly 90% of Windows Games Now Run on Linux](https://soylentnews.org/article.pl?sid=25/10/31/1238201&from=rss)
 * [2025-11-01, 01:41:00](https://soylentnews.org/article.pl?sid=25/10/31/1232227&from=rss) - [Quantum Mechanics Trumps the Second Law of Thermodynamics at the Atomic Scale](https://soylentnews.org/article.pl?sid=25/10/31/1232227&from=rss)
 * [2025-10-31, 20:57:00](https://soylentnews.org/article.pl?sid=25/10/30/1428231&from=rss) - [Tor Browser 15.0 Anonymous Web Browser Is Out Based on Firefox 140 ESR Series](https://soylentnews.org/article.pl?sid=25/10/30/1428231&from=rss)
-* [2025-10-31, 16:13:00](https://soylentnews.org/article.pl?sid=25/10/30/1156208&from=rss) - [Red Hat and Other Distros to Provide Easy Access to NVIDIA CUDA Tools](https://soylentnews.org/article.pl?sid=25/10/30/1156208&from=rss)
 
 ## [Archives](archives/index.md)
 
