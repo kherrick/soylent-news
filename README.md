@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-11, 17:18:00](https://soylentnews.org/article.pl?sid=25/11/10/1130222&from=rss) - [New Physical Attacks Are Quickly Diluting Secure Enclave Defenses From Nvidia, AMD, and Intel](https://soylentnews.org/article.pl?sid=25/11/10/1130222&from=rss)
 * [2025-11-11, 12:37:00](https://soylentnews.org/article.pl?sid=25/11/09/141240&from=rss) - [Watch Out for These Recent Windows and NPM Vulnerabilities](https://soylentnews.org/article.pl?sid=25/11/09/141240&from=rss)
 * [2025-11-11, 07:50:00](https://soylentnews.org/article.pl?sid=25/11/09/1352235&from=rss) - [UK Carriers to Block Spoofed Phone Numbers in Fraud Crackdown](https://soylentnews.org/article.pl?sid=25/11/09/1352235&from=rss)
 * [2025-11-11, 03:04:00](https://soylentnews.org/article.pl?sid=25/11/09/1338227&from=rss) - [AI Sets Up Kodak Moment for Global Consultants](https://soylentnews.org/article.pl?sid=25/11/09/1338227&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-02, 10:56:00](https://soylentnews.org/article.pl?sid=25/11/01/1648226&from=rss) - [Bonfire of the Vanities](https://soylentnews.org/article.pl?sid=25/11/01/1648226&from=rss)
 * [2025-11-02, 06:07:00](https://soylentnews.org/article.pl?sid=25/11/01/1239234&from=rss) - [Spinning Up an Onion Mirror is Stupid Easy](https://soylentnews.org/article.pl?sid=25/11/01/1239234&from=rss)
 * [2025-11-02, 01:26:00](https://soylentnews.org/article.pl?sid=25/10/31/1858243&from=rss) - [‘Spaceballs 2’ Starts Production](https://soylentnews.org/article.pl?sid=25/10/31/1858243&from=rss)
-* [2025-11-01, 20:39:00](https://soylentnews.org/article.pl?sid=25/10/31/1854228&from=rss) - [China Releases 'UBIOS' Standard to Replace UEFI](https://soylentnews.org/article.pl?sid=25/10/31/1854228&from=rss)
 
 ## [Archives](archives/index.md)
 
