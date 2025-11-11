@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-11, 07:50:00](https://soylentnews.org/article.pl?sid=25/11/09/1352235&from=rss) - [UK Carriers to Block Spoofed Phone Numbers in Fraud Crackdown](https://soylentnews.org/article.pl?sid=25/11/09/1352235&from=rss)
 * [2025-11-11, 03:04:00](https://soylentnews.org/article.pl?sid=25/11/09/1338227&from=rss) - [AI Sets Up Kodak Moment for Global Consultants](https://soylentnews.org/article.pl?sid=25/11/09/1338227&from=rss)
 * [2025-11-10, 22:22:00](https://soylentnews.org/article.pl?sid=25/11/08/2137231&from=rss) - [EBikes Banned from NSW Trains Due To Fire Hazard](https://soylentnews.org/article.pl?sid=25/11/08/2137231&from=rss)
 * [2025-11-10, 17:40:00](https://soylentnews.org/article.pl?sid=25/11/08/2128227&from=rss) - [Australian Wine Industry Battles Fakes With Smart Bottle Caps](https://soylentnews.org/article.pl?sid=25/11/08/2128227&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-02, 01:26:00](https://soylentnews.org/article.pl?sid=25/10/31/1858243&from=rss) - [‘Spaceballs 2’ Starts Production](https://soylentnews.org/article.pl?sid=25/10/31/1858243&from=rss)
 * [2025-11-01, 20:39:00](https://soylentnews.org/article.pl?sid=25/10/31/1854228&from=rss) - [China Releases 'UBIOS' Standard to Replace UEFI](https://soylentnews.org/article.pl?sid=25/10/31/1854228&from=rss)
 * [2025-11-01, 15:55:00](https://soylentnews.org/article.pl?sid=25/10/31/1847233&from=rss) - [Nvidia Reveals Vera Rubin Superchip for the First Time](https://soylentnews.org/article.pl?sid=25/10/31/1847233&from=rss)
-* [2025-11-01, 11:11:00](https://soylentnews.org/article.pl?sid=25/10/31/1242232&from=rss) - [ICE and CBP Agents Are Scanning Peoples’ Faces on the Street to Verify Citizenship](https://soylentnews.org/article.pl?sid=25/10/31/1242232&from=rss)
 
 ## [Archives](archives/index.md)
 
