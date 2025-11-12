@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-12, 21:49:00](https://soylentnews.org/article.pl?sid=25/11/10/1942230&from=rss) - [Brewing Controversy: How Coffee Sparked Fierce Debate in the 16th-Century](https://soylentnews.org/article.pl?sid=25/11/10/1942230&from=rss)
 * [2025-11-12, 17:05:00](https://soylentnews.org/article.pl?sid=25/11/10/1939208&from=rss) - [NASA Confirms Voyager Spacecraft Has Encountered a “Wall of Fire” at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&from=rss)
 * [2025-11-12, 12:24:00](https://soylentnews.org/article.pl?sid=25/11/10/1931219&from=rss) - [FBI Tries to Unmask Owner of Infamous Archive.is Site](https://soylentnews.org/article.pl?sid=25/11/10/1931219&from=rss)
 * [2025-11-12, 07:34:00](https://soylentnews.org/article.pl?sid=25/11/10/1925212&from=rss) - [Trinity Desktop Environment R14.1.5 Released with Support for Debian Trixie](https://soylentnews.org/article.pl?sid=25/11/10/1925212&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-03, 15:10:00](https://soylentnews.org/article.pl?sid=25/11/01/2018214&from=rss) - [Qilin Ransomware Abuses WSL to Run Linux Encryptors in Windows](https://soylentnews.org/article.pl?sid=25/11/01/2018214&from=rss)
 * [2025-11-03, 10:25:00](https://soylentnews.org/article.pl?sid=25/11/02/0835217&from=rss) - [Nvidia Hits Record $5 Trillion Mark as CEO Dismisses AI Bubble Concerns](https://soylentnews.org/article.pl?sid=25/11/02/0835217&from=rss)
 * [2025-11-03, 05:40:00](https://soylentnews.org/article.pl?sid=25/11/01/1951249&from=rss) - [Massive Surge of NFC Relay Malware Steals Europeans’ Credit Cards](https://soylentnews.org/article.pl?sid=25/11/01/1951249&from=rss)
-* [2025-11-03, 01:00:00](https://soylentnews.org/article.pl?sid=25/11/01/1944249&from=rss) - [AI Review Paper Slop Changing Moderation Policy at arXiv CS](https://soylentnews.org/article.pl?sid=25/11/01/1944249&from=rss)
 
 ## [Archives](archives/index.md)
 
