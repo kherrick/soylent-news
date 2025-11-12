@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 07:34:00](https://soylentnews.org/article.pl?sid=25/11/10/1925212&from=rss) - [Trinity Desktop Environment R14.1.5 Released with Support for Debian Trixie](https://soylentnews.org/article.pl?sid=25/11/10/1925212&from=rss)
 * [2025-11-12, 02:51:00](https://soylentnews.org/article.pl?sid=25/11/10/122217&from=rss) - [The Art and Science of Negotiation](https://soylentnews.org/article.pl?sid=25/11/10/122217&from=rss)
