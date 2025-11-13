@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-13, 11:57:00](https://soylentnews.org/article.pl?sid=25/11/11/0337247&from=rss) - [Want to be More Persuasive? Talk With Your Hands, Study Finds](https://soylentnews.org/article.pl?sid=25/11/11/0337247&from=rss)
 * [2025-11-13, 07:05:00](https://soylentnews.org/article.pl?sid=25/11/11/0336223&from=rss) - [Hyundai's New EV Training Center Opens Amid Market Turmoil](https://soylentnews.org/article.pl?sid=25/11/11/0336223&from=rss)
 * [2025-11-13, 02:33:00](https://soylentnews.org/article.pl?sid=25/11/11/0334251&from=rss) - [Sun: First Glimpse of Polar Magnetic Field in Motion](https://soylentnews.org/article.pl?sid=25/11/11/0334251&from=rss)
 * [2025-11-12, 21:49:00](https://soylentnews.org/article.pl?sid=25/11/10/1942230&from=rss) - [Brewing Controversy: How Coffee Sparked Fierce Debate in the 16th-Century](https://soylentnews.org/article.pl?sid=25/11/10/1942230&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-04, 05:23:00](https://soylentnews.org/article.pl?sid=25/11/02/2011253&from=rss) - [Once Again, Chat Control Flails After Strong Public Pressure](https://soylentnews.org/article.pl?sid=25/11/02/2011253&from=rss)
 * [2025-11-04, 00:39:00](https://soylentnews.org/article.pl?sid=25/11/01/2010247&from=rss) - [Cyber Exec with Lavish Lifestyle Charged with Selling Secrets to Russia](https://soylentnews.org/article.pl?sid=25/11/01/2010247&from=rss)
 * [2025-11-03, 19:53:00](https://soylentnews.org/article.pl?sid=25/11/02/0832213&from=rss) - [October's Research Roundup: 6 Cool Science Stories We Almost Missed](https://soylentnews.org/article.pl?sid=25/11/02/0832213&from=rss)
-* [2025-11-03, 15:10:00](https://soylentnews.org/article.pl?sid=25/11/01/2018214&from=rss) - [Qilin Ransomware Abuses WSL to Run Linux Encryptors in Windows](https://soylentnews.org/article.pl?sid=25/11/01/2018214&from=rss)
 
 ## [Archives](archives/index.md)
 
