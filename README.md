@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-13, 21:23:00](https://soylentnews.org/article.pl?sid=25/11/12/1214254&from=rss) - [Google's Gemini Deep Research Can Now Read Your Gmail and Rummage Through Google Drive](https://soylentnews.org/article.pl?sid=25/11/12/1214254&from=rss)
 * [2025-11-13, 16:41:00](https://soylentnews.org/article.pl?sid=25/11/12/124239&from=rss) - [Microsoft Task Manager Bug Spawns New Processes](https://soylentnews.org/article.pl?sid=25/11/12/124239&from=rss)
 * [2025-11-13, 11:57:00](https://soylentnews.org/article.pl?sid=25/11/11/0337247&from=rss) - [Want to be More Persuasive? Talk With Your Hands, Study Finds](https://soylentnews.org/article.pl?sid=25/11/11/0337247&from=rss)
 * [2025-11-13, 07:05:00](https://soylentnews.org/article.pl?sid=25/11/11/0336223&from=rss) - [Hyundai's New EV Training Center Opens Amid Market Turmoil](https://soylentnews.org/article.pl?sid=25/11/11/0336223&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-04, 14:52:00](https://soylentnews.org/article.pl?sid=25/11/03/0135217&from=rss) - [Las Vegas Police Debut the World's First Tesla Cybertruck Patrol Fleet](https://soylentnews.org/article.pl?sid=25/11/03/0135217&from=rss)
 * [2025-11-04, 10:08:00](https://soylentnews.org/article.pl?sid=25/11/02/2015201&from=rss) - [Tesla's ‘Robotaxis' Keep Crashing-Even With Human ‘Safety Monitors' Onboard](https://soylentnews.org/article.pl?sid=25/11/02/2015201&from=rss)
 * [2025-11-04, 05:23:00](https://soylentnews.org/article.pl?sid=25/11/02/2011253&from=rss) - [Once Again, Chat Control Flails After Strong Public Pressure](https://soylentnews.org/article.pl?sid=25/11/02/2011253&from=rss)
-* [2025-11-04, 00:39:00](https://soylentnews.org/article.pl?sid=25/11/01/2010247&from=rss) - [Cyber Exec with Lavish Lifestyle Charged with Selling Secrets to Russia](https://soylentnews.org/article.pl?sid=25/11/01/2010247&from=rss)
 
 ## [Archives](archives/index.md)
 
