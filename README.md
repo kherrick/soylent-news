@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-15, 06:36:00](https://soylentnews.org/article.pl?sid=25/11/13/0410238&from=rss) - [Brussels Knifes Privacy to Feed the AI Boom](https://soylentnews.org/article.pl?sid=25/11/13/0410238&from=rss)
 * [2025-11-15, 01:54:00](https://soylentnews.org/article.pl?sid=25/11/13/0359225&from=rss) - [How to Declutter, Quiet Down, and Take the AI Out of Windows 11 25H2](https://soylentnews.org/article.pl?sid=25/11/13/0359225&from=rss)
 * [2025-11-14, 21:12:00](https://soylentnews.org/article.pl?sid=25/11/13/0353240&from=rss) - [What Do We Do If SETI is Successful?](https://soylentnews.org/article.pl?sid=25/11/13/0353240&from=rss)
 * [2025-11-14, 16:31:00](https://soylentnews.org/article.pl?sid=25/11/13/0325258&from=rss) - [Google Confirms AI Search Will Have Ads, but They May Look Different](https://soylentnews.org/article.pl?sid=25/11/13/0325258&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-06, 00:14:00](https://soylentnews.org/article.pl?sid=25/11/04/0228209&from=rss) - [Powered by Mushrooms, Living Computers Are on the Rise](https://soylentnews.org/article.pl?sid=25/11/04/0228209&from=rss)
 * [2025-11-05, 19:28:00](https://soylentnews.org/article.pl?sid=25/11/04/0220218&from=rss) - [Debian Introduces Rust Toolchain Dependencies to Apt](https://soylentnews.org/article.pl?sid=25/11/04/0220218&from=rss)
 * [2025-11-05, 14:41:00](https://soylentnews.org/article.pl?sid=25/11/04/0214241&from=rss) - [We're About to Find Many More Interstellar Interlopers—Here's How to Visit One](https://soylentnews.org/article.pl?sid=25/11/04/0214241&from=rss)
-* [2025-11-05, 09:55:00](https://soylentnews.org/article.pl?sid=25/11/04/025235&from=rss) - [Bats Eat the Birds They Pluck From the Sky While on the Wing](https://soylentnews.org/article.pl?sid=25/11/04/025235&from=rss)
 
 ## [Archives](archives/index.md)
 
