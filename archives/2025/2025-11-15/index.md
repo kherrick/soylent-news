@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-15](index.md)
 
+* [2025-11-15, 20:51:00](https://soylentnews.org/article.pl?sid=25/11/13/2136225&from=rss) - [Lego: The Final Frontier. Star Trek's First Set Beams Down in 3,600 Pieces](https://soylentnews.org/article.pl?sid=25/11/13/2136225&from=rss)
 * [2025-11-15, 16:08:00](https://soylentnews.org/article.pl?sid=25/11/13/2125207&from=rss) - [New Project Brings Strong Linux Compatibility to More Classic Windows Games](https://soylentnews.org/article.pl?sid=25/11/13/2125207&from=rss)
 * [2025-11-15, 11:23:00](https://soylentnews.org/article.pl?sid=25/11/13/2130222&from=rss) - [Gary McKinnon: He Was Looking for Aliens - and Became the No. 1 Enemy of the State](https://soylentnews.org/article.pl?sid=25/11/13/2130222&from=rss)
 * [2025-11-15, 06:36:00](https://soylentnews.org/article.pl?sid=25/11/13/0410238&from=rss) - [Brussels Knifes Privacy to Feed the AI Boom](https://soylentnews.org/article.pl?sid=25/11/13/0410238&from=rss)
