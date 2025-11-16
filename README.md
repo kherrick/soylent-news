@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-16, 20:28:00](https://soylentnews.org/article.pl?sid=25/11/15/0726208&from=rss) - [Youtube Ads - Legal Advice Required](https://soylentnews.org/article.pl?sid=25/11/15/0726208&from=rss)
 * [2025-11-16, 15:45:00](https://soylentnews.org/article.pl?sid=25/11/15/0419235&from=rss) - [This Rare ‘Mad Honey’ is Only Found in Two Places in the World](https://soylentnews.org/article.pl?sid=25/11/15/0419235&from=rss)
 * [2025-11-16, 10:58:00](https://soylentnews.org/article.pl?sid=25/11/15/045217&from=rss) - [AI Resistance: Who Says No to AI and Why?](https://soylentnews.org/article.pl?sid=25/11/15/045217&from=rss)
 * [2025-11-16, 06:17:00](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss) - [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-07, 14:09:00](https://soylentnews.org/article.pl?sid=25/11/06/0257203&from=rss) - [Ubuntu Certification Now Available Through Canonical Academy](https://soylentnews.org/article.pl?sid=25/11/06/0257203&from=rss)
 * [2025-11-07, 09:28:00](https://soylentnews.org/article.pl?sid=25/11/05/1549218&from=rss) - [Australian Law To Require EV Cars To Be Noisy For Blind People](https://soylentnews.org/article.pl?sid=25/11/05/1549218&from=rss)
 * [2025-11-07, 04:46:00](https://soylentnews.org/article.pl?sid=25/11/05/1540235&from=rss) - [7 Basic Science Discoveries That Changed the World](https://soylentnews.org/article.pl?sid=25/11/05/1540235&from=rss)
-* [2025-11-07, 00:01:00](https://soylentnews.org/article.pl?sid=25/11/06/0331241&from=rss) - [GNOME Mutter Now \"Completely Drops the Whole X11 Backend\"](https://soylentnews.org/article.pl?sid=25/11/06/0331241&from=rss)
 
 ## [Archives](archives/index.md)
 
