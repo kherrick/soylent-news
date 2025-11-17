@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-17, 06:01:00](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss) - [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss)
 * [2025-11-17, 01:14:00](https://soylentnews.org/article.pl?sid=25/11/15/0741250&from=rss) - [Devuan Version 6.0 \"Excalibur\" is Available Now](https://soylentnews.org/article.pl?sid=25/11/15/0741250&from=rss)
 * [2025-11-16, 20:28:00](https://soylentnews.org/article.pl?sid=25/11/15/0726208&from=rss) - [Youtube Ads - Legal Advice Required](https://soylentnews.org/article.pl?sid=25/11/15/0726208&from=rss)
 * [2025-11-16, 15:45:00](https://soylentnews.org/article.pl?sid=25/11/15/0419235&from=rss) - [This Rare ‘Mad Honey’ is Only Found in Two Places in the World](https://soylentnews.org/article.pl?sid=25/11/15/0419235&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-07, 23:35:00](https://soylentnews.org/article.pl?sid=25/11/06/0317205&from=rss) - [Developer Warns Users That Fake Download Site is Hosting Windows 11 Upgrade Bypass Tool](https://soylentnews.org/article.pl?sid=25/11/06/0317205&from=rss)
 * [2025-11-07, 18:53:00](https://soylentnews.org/article.pl?sid=25/11/06/0311253&from=rss) - [LM8560, the Eternal Chip From the 1980 Years](https://soylentnews.org/article.pl?sid=25/11/06/0311253&from=rss)
 * [2025-11-07, 14:09:00](https://soylentnews.org/article.pl?sid=25/11/06/0257203&from=rss) - [Ubuntu Certification Now Available Through Canonical Academy](https://soylentnews.org/article.pl?sid=25/11/06/0257203&from=rss)
-* [2025-11-07, 09:28:00](https://soylentnews.org/article.pl?sid=25/11/05/1549218&from=rss) - [Australian Law To Require EV Cars To Be Noisy For Blind People](https://soylentnews.org/article.pl?sid=25/11/05/1549218&from=rss)
 
 ## [Archives](archives/index.md)
 
