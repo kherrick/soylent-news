@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-17, 15:33:00](https://soylentnews.org/article.pl?sid=25/11/16/1317229&from=rss) - [Lawmakers Want to Ban VPNs—And They Have No Idea What They're Doing](https://soylentnews.org/article.pl?sid=25/11/16/1317229&from=rss)
 * [2025-11-17, 10:44:00](https://soylentnews.org/article.pl?sid=25/11/16/1316249&from=rss) - [NVIDIA 580.105.08 Linux Graphics Driver Released With a New Environment Variable](https://soylentnews.org/article.pl?sid=25/11/16/1316249&from=rss)
 * [2025-11-17, 06:01:00](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss) - [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss)
 * [2025-11-17, 01:14:00](https://soylentnews.org/article.pl?sid=25/11/15/0741250&from=rss) - [Devuan Version 6.0 \"Excalibur\" is Available Now](https://soylentnews.org/article.pl?sid=25/11/15/0741250&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-08, 09:06:00](https://soylentnews.org/article.pl?sid=25/11/06/0715239&from=rss) - [Uncle Sam Wants to Scan Your Iris and Collect Your DNA, Citizen or Not](https://soylentnews.org/article.pl?sid=25/11/06/0715239&from=rss)
 * [2025-11-08, 04:19:00](https://soylentnews.org/article.pl?sid=25/11/06/0710228&from=rss) - [Study Concludes Cybersecurity Training Doesn't Work](https://soylentnews.org/article.pl?sid=25/11/06/0710228&from=rss)
 * [2025-11-07, 23:35:00](https://soylentnews.org/article.pl?sid=25/11/06/0317205&from=rss) - [Developer Warns Users That Fake Download Site is Hosting Windows 11 Upgrade Bypass Tool](https://soylentnews.org/article.pl?sid=25/11/06/0317205&from=rss)
-* [2025-11-07, 18:53:00](https://soylentnews.org/article.pl?sid=25/11/06/0311253&from=rss) - [LM8560, the Eternal Chip From the 1980 Years](https://soylentnews.org/article.pl?sid=25/11/06/0311253&from=rss)
 
 ## [Archives](archives/index.md)
 
