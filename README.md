@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-18, 19:47:00](https://soylentnews.org/article.pl?sid=25/11/17/119215&from=rss) - [DHS Offers “Disturbing New Excuses” to Seize Kids’ Biometric Data, Expert Says](https://soylentnews.org/article.pl?sid=25/11/17/119215&from=rss)
 * [2025-11-18, 15:04:00](https://soylentnews.org/article.pl?sid=25/11/17/0246249&from=rss) - [The Data Center Resistance Has Arrived](https://soylentnews.org/article.pl?sid=25/11/17/0246249&from=rss)
 * [2025-11-18, 10:23:00](https://soylentnews.org/article.pl?sid=25/11/17/0243214&from=rss) - [Google Settlement With Epic Caps Play Store Fees, Boosts Other Android App Stores](https://soylentnews.org/article.pl?sid=25/11/17/0243214&from=rss)
 * [2025-11-18, 05:37:00](https://soylentnews.org/article.pl?sid=25/11/17/0240210&from=rss) - [Nvidia’s Jensen Huang: China will Surpass U.S. in AI Race Through ENERGY](https://soylentnews.org/article.pl?sid=25/11/17/0240210&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-09, 13:35:00](https://soylentnews.org/article.pl?sid=25/11/07/036254&from=rss) - [Ford CEO Jim Farley strikes a Cautious Tone on Apple’s New CarPlay Ultra](https://soylentnews.org/article.pl?sid=25/11/07/036254&from=rss)
 * [2025-11-09, 08:46:00](https://soylentnews.org/article.pl?sid=25/11/07/032255&from=rss) - [Nvidia Will Help Build 7 AI Supercomputers for DoE](https://soylentnews.org/article.pl?sid=25/11/07/032255&from=rss)
 * [2025-11-09, 04:10:00](https://soylentnews.org/article.pl?sid=25/11/07/0255249&from=rss) - [Gen Z is Ditching the Tie for a Toolbelt, and it’s the Smartest Rebellion Yet](https://soylentnews.org/article.pl?sid=25/11/07/0255249&from=rss)
-* [2025-11-08, 23:18:00](https://soylentnews.org/article.pl?sid=25/11/06/0740218&from=rss) - [Does Academia Need a Wake Up Call on Wikibooks?](https://soylentnews.org/article.pl?sid=25/11/06/0740218&from=rss)
 
 ## [Archives](archives/index.md)
 
