@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-19, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/18/113239&from=rss) - [Big Tech Wants Direct Access to Our Brains](https://soylentnews.org/article.pl?sid=25/11/18/113239&from=rss)
 * [2025-11-19, 14:49:00](https://soylentnews.org/article.pl?sid=25/11/18/0121255&from=rss) - [FPGA Based IBM-PC-XT](https://soylentnews.org/article.pl?sid=25/11/18/0121255&from=rss)
 * [2025-11-19, 10:01:00](https://soylentnews.org/article.pl?sid=25/11/18/0113223&from=rss) - [Canonical Extends Ubuntu Support to 15 Years](https://soylentnews.org/article.pl?sid=25/11/18/0113223&from=rss)
 * [2025-11-19, 05:16:00](https://soylentnews.org/article.pl?sid=25/11/18/018202&from=rss) - [Mozilla Unveils Plans for New 'AI Window' Browsing Mode in Firefox, Opens Signups](https://soylentnews.org/article.pl?sid=25/11/18/018202&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-10, 13:00:00](https://soylentnews.org/article.pl?sid=25/11/08/2122221&from=rss) - [Plumbing the Universe for Dark Matter](https://soylentnews.org/article.pl?sid=25/11/08/2122221&from=rss)
 * [2025-11-10, 08:21:00](https://soylentnews.org/article.pl?sid=25/11/08/214219&from=rss) - [The Chemistry Behind That Pricey Cup of Civet Coffee](https://soylentnews.org/article.pl?sid=25/11/08/214219&from=rss)
 * [2025-11-10, 03:47:00](https://soylentnews.org/article.pl?sid=25/11/08/1723229&from=rss) - [Blame game over Air India crash goes on](https://soylentnews.org/article.pl?sid=25/11/08/1723229&from=rss)
-* [2025-11-09, 23:06:00](https://soylentnews.org/article.pl?sid=25/11/08/1721215&from=rss) - [The 2026 Farmers’ Almanac Will Be Its Last Edition](https://soylentnews.org/article.pl?sid=25/11/08/1721215&from=rss)
 
 ## [Archives](archives/index.md)
 
