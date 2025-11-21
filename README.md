@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-21, 00:07:00](https://soylentnews.org/article.pl?sid=25/11/19/0138242&from=rss) - [Is Perplexity the First AI Unicorn to Fail?](https://soylentnews.org/article.pl?sid=25/11/19/0138242&from=rss)
 * [2025-11-20, 19:15:00](https://soylentnews.org/article.pl?sid=25/11/18/1216240&from=rss) - [Turris Releases Their New Omnia NG Router](https://soylentnews.org/article.pl?sid=25/11/18/1216240&from=rss)
 * [2025-11-20, 14:37:00](https://soylentnews.org/article.pl?sid=25/11/18/1212257&from=rss) - [Many Hard Leetcode Problems Are Easy Constraint Problems](https://soylentnews.org/article.pl?sid=25/11/18/1212257&from=rss)
 * [2025-11-20, 09:52:00](https://soylentnews.org/article.pl?sid=25/11/18/1210237&from=rss) - [Floating Solar Panels Show Promise, but Environmental Impacts Vary by Location](https://soylentnews.org/article.pl?sid=25/11/18/1210237&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-11, 17:18:00](https://soylentnews.org/article.pl?sid=25/11/10/1130222&from=rss) - [New Physical Attacks Are Quickly Diluting Secure Enclave Defenses From Nvidia, AMD, and Intel](https://soylentnews.org/article.pl?sid=25/11/10/1130222&from=rss)
 * [2025-11-11, 12:37:00](https://soylentnews.org/article.pl?sid=25/11/09/141240&from=rss) - [Watch Out for These Recent Windows and NPM Vulnerabilities](https://soylentnews.org/article.pl?sid=25/11/09/141240&from=rss)
 * [2025-11-11, 07:50:00](https://soylentnews.org/article.pl?sid=25/11/09/1352235&from=rss) - [UK Carriers to Block Spoofed Phone Numbers in Fraud Crackdown](https://soylentnews.org/article.pl?sid=25/11/09/1352235&from=rss)
-* [2025-11-11, 03:04:00](https://soylentnews.org/article.pl?sid=25/11/09/1338227&from=rss) - [AI Sets Up Kodak Moment for Global Consultants](https://soylentnews.org/article.pl?sid=25/11/09/1338227&from=rss)
 
 ## [Archives](archives/index.md)
 
