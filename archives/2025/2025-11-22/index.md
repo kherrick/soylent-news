@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
+* [2025-11-22, 23:41:00](https://soylentnews.org/article.pl?sid=25/11/21/1952206&from=rss) - [Icelandic is in Danger of Dying Out Because of AI and English-Language Media, Says Former PM](https://soylentnews.org/article.pl?sid=25/11/21/1952206&from=rss)
 * [2025-11-22, 18:58:00](https://soylentnews.org/article.pl?sid=25/11/21/1949232&from=rss) - [First Large-Scale VR Use in the Classroom Extends the Boundaries of Education](https://soylentnews.org/article.pl?sid=25/11/21/1949232&from=rss)
 * [2025-11-22, 14:09:00](https://soylentnews.org/article.pl?sid=25/11/21/1211233&from=rss) - [Microsoft Warns its New “AI” Agents in Windows Can Install Malware](https://soylentnews.org/article.pl?sid=25/11/21/1211233&from=rss)
 * [2025-11-22, 09:24:00](https://soylentnews.org/article.pl?sid=25/11/21/1346236&from=rss) - [\"Walk My AI Walk\", a #1 AI Country Song](https://soylentnews.org/article.pl?sid=25/11/21/1346236&from=rss)
