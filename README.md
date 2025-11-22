@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-21, 23:54:00](https://soylentnews.org/article.pl?sid=25/11/21/1340237&from=rss) - [Kaspersky Antivirus is Now Available for Linux. Will You Use It?](https://soylentnews.org/article.pl?sid=25/11/21/1340237&from=rss)
 * [2025-11-21, 19:10:00](https://soylentnews.org/article.pl?sid=25/11/21/1348200&from=rss) - [Google Chrome Bug Exploited as an 0-Day - Patch Now or Risk Full System Compromise](https://soylentnews.org/article.pl?sid=25/11/21/1348200&from=rss)
 * [2025-11-21, 14:23:00](https://soylentnews.org/article.pl?sid=25/11/20/1344214&from=rss) - [China Cuts Open New Robot on Stage to Prove Authenticity](https://soylentnews.org/article.pl?sid=25/11/20/1344214&from=rss)
 * [2025-11-21, 09:34:00](https://soylentnews.org/article.pl?sid=25/11/19/0144249&from=rss) - [Needy Software](https://soylentnews.org/article.pl?sid=25/11/19/0144249&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-12, 17:05:00](https://soylentnews.org/article.pl?sid=25/11/10/1939208&from=rss) - [NASA Confirms Voyager Spacecraft Has Encountered a “Wall of Fire” at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&from=rss)
 * [2025-11-12, 12:24:00](https://soylentnews.org/article.pl?sid=25/11/10/1931219&from=rss) - [FBI Tries to Unmask Owner of Infamous Archive.is Site](https://soylentnews.org/article.pl?sid=25/11/10/1931219&from=rss)
 * [2025-11-12, 07:34:00](https://soylentnews.org/article.pl?sid=25/11/10/1925212&from=rss) - [Trinity Desktop Environment R14.1.5 Released with Support for Debian Trixie](https://soylentnews.org/article.pl?sid=25/11/10/1925212&from=rss)
-* [2025-11-12, 02:51:00](https://soylentnews.org/article.pl?sid=25/11/10/122217&from=rss) - [The Art and Science of Negotiation](https://soylentnews.org/article.pl?sid=25/11/10/122217&from=rss)
 
 ## [Archives](archives/index.md)
 
