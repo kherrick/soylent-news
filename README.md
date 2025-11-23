@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-23, 09:10:00](https://soylentnews.org/article.pl?sid=25/11/21/201212&from=rss) - [Ancient Egyptians Likely Used Opiates Regularly](https://soylentnews.org/article.pl?sid=25/11/21/201212&from=rss)
 * [2025-11-23, 04:24:00](https://soylentnews.org/article.pl?sid=25/11/21/1957207&from=rss) - [Mercury Pollution in Marine Mammals is Increasing, New Study Finds](https://soylentnews.org/article.pl?sid=25/11/21/1957207&from=rss)
 * [2025-11-22, 23:41:00](https://soylentnews.org/article.pl?sid=25/11/21/1952206&from=rss) - [Icelandic is in Danger of Dying Out Because of AI and English-Language Media, Says Former PM](https://soylentnews.org/article.pl?sid=25/11/21/1952206&from=rss)
 * [2025-11-22, 18:58:00](https://soylentnews.org/article.pl?sid=25/11/21/1949232&from=rss) - [First Large-Scale VR Use in the Classroom Extends the Boundaries of Education](https://soylentnews.org/article.pl?sid=25/11/21/1949232&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-14, 02:12:00](https://soylentnews.org/article.pl?sid=25/11/13/033247&from=rss) - [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&from=rss)
 * [2025-11-13, 21:23:00](https://soylentnews.org/article.pl?sid=25/11/12/1214254&from=rss) - [Google's Gemini Deep Research Can Now Read Your Gmail and Rummage Through Google Drive](https://soylentnews.org/article.pl?sid=25/11/12/1214254&from=rss)
 * [2025-11-13, 16:41:00](https://soylentnews.org/article.pl?sid=25/11/12/124239&from=rss) - [Microsoft Task Manager Bug Spawns New Processes](https://soylentnews.org/article.pl?sid=25/11/12/124239&from=rss)
-* [2025-11-13, 11:57:00](https://soylentnews.org/article.pl?sid=25/11/11/0337247&from=rss) - [Want to be More Persuasive? Talk With Your Hands, Study Finds](https://soylentnews.org/article.pl?sid=25/11/11/0337247&from=rss)
 
 ## [Archives](archives/index.md)
 
