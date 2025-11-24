@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-24, 04:09:00](https://soylentnews.org/article.pl?sid=25/11/23/0241222&from=rss) - [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&from=rss)
 * [2025-11-23, 23:26:00](https://soylentnews.org/article.pl?sid=25/11/23/0237208&from=rss) - [US Gives Local Police a Face-Scanning App Similar to One Used by ICE Agents](https://soylentnews.org/article.pl?sid=25/11/23/0237208&from=rss)
 * [2025-11-23, 18:36:00](https://soylentnews.org/article.pl?sid=25/11/23/0229254&from=rss) - [U.S. Spy Agency Releases Amelia Earhart Records](https://soylentnews.org/article.pl?sid=25/11/23/0229254&from=rss)
 * [2025-11-23, 13:52:00](https://soylentnews.org/article.pl?sid=25/11/21/203250&from=rss) - [Maybe That's Not Liquid Water on Mars After All](https://soylentnews.org/article.pl?sid=25/11/21/203250&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-14, 21:12:00](https://soylentnews.org/article.pl?sid=25/11/13/0353240&from=rss) - [What Do We Do If SETI is Successful?](https://soylentnews.org/article.pl?sid=25/11/13/0353240&from=rss)
 * [2025-11-14, 16:31:00](https://soylentnews.org/article.pl?sid=25/11/13/0325258&from=rss) - [Google Confirms AI Search Will Have Ads, but They May Look Different](https://soylentnews.org/article.pl?sid=25/11/13/0325258&from=rss)
 * [2025-11-14, 11:47:00](https://soylentnews.org/article.pl?sid=25/11/13/0318258&from=rss) - [Russian Hackers Abuse Hyper-V to Hide Malware in Linux VMs](https://soylentnews.org/article.pl?sid=25/11/13/0318258&from=rss)
-* [2025-11-14, 06:59:00](https://soylentnews.org/article.pl?sid=25/11/13/0314253&from=rss) - [Your Worn-Out Keyboard Keys Reveal More About You Than You Think](https://soylentnews.org/article.pl?sid=25/11/13/0314253&from=rss)
 
 ## [Archives](archives/index.md)
 
