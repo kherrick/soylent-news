@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-24, 18:27:00](https://soylentnews.org/article.pl?sid=25/11/23/1349258&from=rss) - [Thieves Want Your iPhone, Not Your Android](https://soylentnews.org/article.pl?sid=25/11/23/1349258&from=rss)
 * [2025-11-24, 13:42:00](https://soylentnews.org/article.pl?sid=25/11/23/0254204&from=rss) - [Magician Forgets Password to His Own Hand After RFID Chip Implant](https://soylentnews.org/article.pl?sid=25/11/23/0254204&from=rss)
 * [2025-11-24, 08:53:00](https://soylentnews.org/article.pl?sid=25/11/23/0244245&from=rss) - [First-Ever Full Earth System Simulation Provides New Tool to Understand Climate Change](https://soylentnews.org/article.pl?sid=25/11/23/0244245&from=rss)
 * [2025-11-24, 04:09:00](https://soylentnews.org/article.pl?sid=25/11/23/0241222&from=rss) - [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-15, 11:23:00](https://soylentnews.org/article.pl?sid=25/11/13/2130222&from=rss) - [Gary McKinnon: He Was Looking for Aliens - and Became the No. 1 Enemy of the State](https://soylentnews.org/article.pl?sid=25/11/13/2130222&from=rss)
 * [2025-11-15, 06:36:00](https://soylentnews.org/article.pl?sid=25/11/13/0410238&from=rss) - [Brussels Knifes Privacy to Feed the AI Boom](https://soylentnews.org/article.pl?sid=25/11/13/0410238&from=rss)
 * [2025-11-15, 01:54:00](https://soylentnews.org/article.pl?sid=25/11/13/0359225&from=rss) - [How to Declutter, Quiet Down, and Take the AI Out of Windows 11 25H2](https://soylentnews.org/article.pl?sid=25/11/13/0359225&from=rss)
-* [2025-11-14, 21:12:00](https://soylentnews.org/article.pl?sid=25/11/13/0353240&from=rss) - [What Do We Do If SETI is Successful?](https://soylentnews.org/article.pl?sid=25/11/13/0353240&from=rss)
 
 ## [Archives](archives/index.md)
 
