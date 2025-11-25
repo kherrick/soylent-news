@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-25, 13:28:00](https://soylentnews.org/article.pl?sid=25/11/23/2222225&from=rss) - [Scientists Now Know That Bees Can Process Time, a First in Insects](https://soylentnews.org/article.pl?sid=25/11/23/2222225&from=rss)
 * [2025-11-25, 08:41:00](https://soylentnews.org/article.pl?sid=25/11/23/2216237&from=rss) - [I Set a Trap to Catch My Students Cheating With AI and the Results Were Shocking](https://soylentnews.org/article.pl?sid=25/11/23/2216237&from=rss)
 * [2025-11-25, 04:00:00](https://soylentnews.org/article.pl?sid=25/11/23/2211220&from=rss) - [Researchers Find Simple Way to Destroy PFAS on Activated Carbon](https://soylentnews.org/article.pl?sid=25/11/23/2211220&from=rss)
 * [2025-11-24, 23:16:00](https://soylentnews.org/article.pl?sid=25/11/23/1458223&from=rss) - [Ring's New Feature Turns Your Doorbell Into a Biometric Spy](https://soylentnews.org/article.pl?sid=25/11/23/1458223&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-16, 06:17:00](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss) - [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss)
 * [2025-11-16, 01:36:00](https://soylentnews.org/article.pl?sid=25/11/15/0341210&from=rss) - [FreeBSD: Reproducible Rootless Builds and Moving From Windows to This Linux Chaos Alternative](https://soylentnews.org/article.pl?sid=25/11/15/0341210&from=rss)
 * [2025-11-15, 20:51:00](https://soylentnews.org/article.pl?sid=25/11/13/2136225&from=rss) - [Lego: The Final Frontier. Star Trek's First Set Beams Down in 3,600 Pieces](https://soylentnews.org/article.pl?sid=25/11/13/2136225&from=rss)
-* [2025-11-15, 16:08:00](https://soylentnews.org/article.pl?sid=25/11/13/2125207&from=rss) - [New Project Brings Strong Linux Compatibility to More Classic Windows Games](https://soylentnews.org/article.pl?sid=25/11/13/2125207&from=rss)
 
 ## [Archives](archives/index.md)
 
