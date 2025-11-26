@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-26, 08:24:00](https://soylentnews.org/article.pl?sid=25/11/24/2255253&from=rss) - [Zork I, II, and III go Open Source](https://soylentnews.org/article.pl?sid=25/11/24/2255253&from=rss)
 * [2025-11-26, 03:41:00](https://soylentnews.org/article.pl?sid=25/11/24/2253234&from=rss) - [HP and Dell Disable HEVC Support Built Into Their Laptops’ CPUs](https://soylentnews.org/article.pl?sid=25/11/24/2253234&from=rss)
 * [2025-11-25, 22:57:00](https://soylentnews.org/article.pl?sid=25/11/24/2248217&from=rss) - [Is Matrix Multiplication Ugly?](https://soylentnews.org/article.pl?sid=25/11/24/2248217&from=rss)
 * [2025-11-25, 18:12:00](https://soylentnews.org/article.pl?sid=25/11/23/2227204&from=rss) - [In 1982, a Physics Joke Gone Wrong Sparked the Invention of the Emoticon](https://soylentnews.org/article.pl?sid=25/11/23/2227204&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-17, 01:14:00](https://soylentnews.org/article.pl?sid=25/11/15/0741250&from=rss) - [Devuan Version 6.0 \"Excalibur\" is Available Now](https://soylentnews.org/article.pl?sid=25/11/15/0741250&from=rss)
 * [2025-11-16, 20:28:00](https://soylentnews.org/article.pl?sid=25/11/15/0726208&from=rss) - [Youtube Ads - Legal Advice Required](https://soylentnews.org/article.pl?sid=25/11/15/0726208&from=rss)
 * [2025-11-16, 15:45:00](https://soylentnews.org/article.pl?sid=25/11/15/0419235&from=rss) - [This Rare ‘Mad Honey’ is Only Found in Two Places in the World](https://soylentnews.org/article.pl?sid=25/11/15/0419235&from=rss)
-* [2025-11-16, 10:58:00](https://soylentnews.org/article.pl?sid=25/11/15/045217&from=rss) - [AI Resistance: Who Says No to AI and Why?](https://soylentnews.org/article.pl?sid=25/11/15/045217&from=rss)
 
 ## [Archives](archives/index.md)
 
