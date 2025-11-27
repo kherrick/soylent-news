@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-27, 03:26:00](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss) - [Bitcoin Mining Needs Regulatory Legislation](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss)
 * [2025-11-26, 22:43:00](https://soylentnews.org/article.pl?sid=25/11/24/234230&from=rss) - [The Escape Room Challenge: How One Person's Narcissism Can Undermine a Whole Team](https://soylentnews.org/article.pl?sid=25/11/24/234230&from=rss)
 * [2025-11-26, 17:55:00](https://soylentnews.org/article.pl?sid=25/11/24/232236&from=rss) - [Mozilla Resolves 21-Year-Old Bug, Adds Full XDG Directory Support](https://soylentnews.org/article.pl?sid=25/11/24/232236&from=rss)
 * [2025-11-26, 13:11:00](https://soylentnews.org/article.pl?sid=25/11/24/230252&from=rss) - [The Reshoring Initiative - Real Reasons to Bring Jobs Back to USA From Asia](https://soylentnews.org/article.pl?sid=25/11/24/230252&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-17, 20:14:00](https://soylentnews.org/article.pl?sid=25/11/16/1329214&from=rss) - [Microsoft: the Company Doesn't Have Enough Electricity to Install All the AI GPUs in its Inventory](https://soylentnews.org/article.pl?sid=25/11/16/1329214&from=rss)
 * [2025-11-17, 15:33:00](https://soylentnews.org/article.pl?sid=25/11/16/1317229&from=rss) - [Lawmakers Want to Ban VPNs—And They Have No Idea What They're Doing](https://soylentnews.org/article.pl?sid=25/11/16/1317229&from=rss)
 * [2025-11-17, 10:44:00](https://soylentnews.org/article.pl?sid=25/11/16/1316249&from=rss) - [NVIDIA 580.105.08 Linux Graphics Driver Released With a New Environment Variable](https://soylentnews.org/article.pl?sid=25/11/16/1316249&from=rss)
-* [2025-11-17, 06:01:00](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss) - [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss)
 
 ## [Archives](archives/index.md)
 
