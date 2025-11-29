@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-29, 21:56:00](https://soylentnews.org/article.pl?sid=25/11/29/2035258&from=rss) - [Valve Announces the Steam Frame: 'A New Way to Play Your Entire Steam Library'](https://soylentnews.org/article.pl?sid=25/11/29/2035258&from=rss)
 * [2025-11-29, 21:16:00](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss) - [Bitcoin Mining Needs Regulatory Legislation](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss)
 * [2025-11-29, 20:53:00](https://soylentnews.org/article.pl?sid=25/11/29/2053221&from=rss) - [Re-releasing Stories in Queue](https://soylentnews.org/article.pl?sid=25/11/29/2053221&from=rss)
 * [2025-11-29, 12:26:00](https://soylentnews.org/article.pl?sid=25/11/26/2246256&from=rss) - [This Linux OS Has Got a Million Downloads Since Windows 10 Support Ended](https://soylentnews.org/article.pl?sid=25/11/26/2246256&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-19, 00:31:00](https://soylentnews.org/article.pl?sid=25/11/18/014241&from=rss) - [Raccoons Are Showing Early Signs of Domestication](https://soylentnews.org/article.pl?sid=25/11/18/014241&from=rss)
 * [2025-11-18, 19:47:00](https://soylentnews.org/article.pl?sid=25/11/17/119215&from=rss) - [DHS Offers “Disturbing New Excuses” to Seize Kids’ Biometric Data, Expert Says](https://soylentnews.org/article.pl?sid=25/11/17/119215&from=rss)
 * [2025-11-18, 15:04:00](https://soylentnews.org/article.pl?sid=25/11/17/0246249&from=rss) - [The Data Center Resistance Has Arrived](https://soylentnews.org/article.pl?sid=25/11/17/0246249&from=rss)
-* [2025-11-18, 10:23:00](https://soylentnews.org/article.pl?sid=25/11/17/0243214&from=rss) - [Google Settlement With Epic Caps Play Store Fees, Boosts Other Android App Stores](https://soylentnews.org/article.pl?sid=25/11/17/0243214&from=rss)
 
 ## [Archives](archives/index.md)
 

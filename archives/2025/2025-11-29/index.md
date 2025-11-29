@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 21:56:00](https://soylentnews.org/article.pl?sid=25/11/29/2035258&from=rss) - [Valve Announces the Steam Frame: 'A New Way to Play Your Entire Steam Library'](https://soylentnews.org/article.pl?sid=25/11/29/2035258&from=rss)
 * [2025-11-29, 21:16:00](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss) - [Bitcoin Mining Needs Regulatory Legislation](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss)
 * [2025-11-29, 20:53:00](https://soylentnews.org/article.pl?sid=25/11/29/2053221&from=rss) - [Re-releasing Stories in Queue](https://soylentnews.org/article.pl?sid=25/11/29/2053221&from=rss)
 * [2025-11-29, 12:26:00](https://soylentnews.org/article.pl?sid=25/11/26/2246256&from=rss) - [This Linux OS Has Got a Million Downloads Since Windows 10 Support Ended](https://soylentnews.org/article.pl?sid=25/11/26/2246256&from=rss)
