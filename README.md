@@ -1,7 +1,8 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-29, 20:53:00](https://soylentnews.org/article.pl?sid=25/11/29/2053221&from=rss) - [Re-releasing Stories in Queue](https://soylentnews.org/article.pl?sid=25/11/29/2053221&from=rss)
 * [2025-11-29, 12:26:00](https://soylentnews.org/article.pl?sid=25/11/26/2246256&from=rss) - [This Linux OS Has Got a Million Downloads Since Windows 10 Support Ended](https://soylentnews.org/article.pl?sid=25/11/26/2246256&from=rss)
-* [2025-11-29, 07:43:00](https://soylentnews.org/article.pl?sid=25/11/26/2245225&from=rss) - [Americans with four-year degrees now comprise a record 25% of unemployed workers](https://soylentnews.org/article.pl?sid=25/11/26/2245225&from=rss)
+* [2025-11-29, 07:43:00](https://soylentnews.org/article.pl?sid=25/11/26/2245225&from=rss) - [Americans With Four-Year Degrees Now Comprise a Record 25% of Unemployed Workers](https://soylentnews.org/article.pl?sid=25/11/26/2245225&from=rss)
 * [2025-11-29, 02:58:00](https://soylentnews.org/article.pl?sid=25/11/26/2239240&from=rss) - [China Launches Shenzhou-22 Early for Stranded Space Station Crew](https://soylentnews.org/article.pl?sid=25/11/26/2239240&from=rss)
 * [2025-11-28, 22:06:00](https://soylentnews.org/article.pl?sid=25/11/26/2238205&from=rss) - [Cryptology Firm Cancels Elections After Losing Encryption Key](https://soylentnews.org/article.pl?sid=25/11/26/2238205&from=rss)
 * [2025-11-28, 17:21:00](https://soylentnews.org/article.pl?sid=25/11/26/1555213&from=rss) - [Rust For Linux Kernel Co-Maintainer Formally Steps Down](https://soylentnews.org/article.pl?sid=25/11/26/1555213&from=rss)
@@ -11,8 +12,6 @@
 * [2025-11-27, 22:23:00](https://soylentnews.org/article.pl?sid=25/11/25/1521238&from=rss) - [Horse Virus EHV-1 Outbreak Spreads to Eight Texas Counties: Two Horses Have Died](https://soylentnews.org/article.pl?sid=25/11/25/1521238&from=rss)
 * [2025-11-27, 17:38:00](https://soylentnews.org/article.pl?sid=25/11/25/1517228&from=rss) - [Scientists Unveil Breakthrough Low-Temperature Fuel Cell That Could Revolutionize Hydrogen Power](https://soylentnews.org/article.pl?sid=25/11/25/1517228&from=rss)
 * [2025-11-27, 12:53:00](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss) - [Myths About Rapid Spread of the Black Death Influenced by Single “Literary Tale”](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss)
-* [2025-11-27, 08:10:00](https://soylentnews.org/article.pl?sid=25/11/25/1512241&from=rss) - [A Rare GM EV1 Saved From The Crusher is Going to be Driveable Again](https://soylentnews.org/article.pl?sid=25/11/25/1512241&from=rss)
-* [2025-11-27, 03:26:00](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss) - [Bitcoin Mining Needs Regulatory Legislation](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss)
 * [2025-11-26, 22:43:00](https://soylentnews.org/article.pl?sid=25/11/24/234230&from=rss) - [The Escape Room Challenge: How One Person's Narcissism Can Undermine a Whole Team](https://soylentnews.org/article.pl?sid=25/11/24/234230&from=rss)
 * [2025-11-26, 17:55:00](https://soylentnews.org/article.pl?sid=25/11/24/232236&from=rss) - [Mozilla Resolves 21-Year-Old Bug, Adds Full XDG Directory Support](https://soylentnews.org/article.pl?sid=25/11/24/232236&from=rss)
 * [2025-11-26, 13:11:00](https://soylentnews.org/article.pl?sid=25/11/24/230252&from=rss) - [The Reshoring Initiative - Real Reasons to Bring Jobs Back to USA From Asia](https://soylentnews.org/article.pl?sid=25/11/24/230252&from=rss)
@@ -50,6 +49,7 @@
 * [2025-11-20, 05:04:00](https://soylentnews.org/article.pl?sid=25/11/18/125234&from=rss) - [The Intel 4004 Was the First Microprocessor, Right? ](https://soylentnews.org/article.pl?sid=25/11/18/125234&from=rss)
 * [2025-11-20, 00:18:00](https://soylentnews.org/article.pl?sid=25/11/18/120241&from=rss) - [Full Metal Modine](https://soylentnews.org/article.pl?sid=25/11/18/120241&from=rss)
 * [2025-11-19, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/18/113239&from=rss) - [Big Tech Wants Direct Access to Our Brains](https://soylentnews.org/article.pl?sid=25/11/18/113239&from=rss)
+* [2025-11-19, 14:49:00](https://soylentnews.org/article.pl?sid=25/11/18/0121255&from=rss) - [FPGA Based IBM-PC-XT](https://soylentnews.org/article.pl?sid=25/11/18/0121255&from=rss)
 
 ## [Archives](archives/index.md)
 
