@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-30, 02:23:00](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss) - [Myths About Rapid Spread of the Black Death Influenced by Single “Literary Tale”](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss)
 * [2025-11-30, 00:05:00](https://soylentnews.org/article.pl?sid=25/11/25/1512241&from=rss) - [A Rare GM EV1 Saved From The Crusher is Going to be Driveable Again](https://soylentnews.org/article.pl?sid=25/11/25/1512241&from=rss)
 * [2025-11-29, 21:56:00](https://soylentnews.org/article.pl?sid=25/11/29/2035258&from=rss) - [Valve Announces the Steam Frame: 'A New Way to Play Your Entire Steam Library'](https://soylentnews.org/article.pl?sid=25/11/29/2035258&from=rss)
 * [2025-11-29, 21:16:00](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss) - [Bitcoin Mining Needs Regulatory Legislation](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-19, 10:01:00](https://soylentnews.org/article.pl?sid=25/11/18/0113223&from=rss) - [Canonical Extends Ubuntu Support to 15 Years](https://soylentnews.org/article.pl?sid=25/11/18/0113223&from=rss)
 * [2025-11-19, 05:16:00](https://soylentnews.org/article.pl?sid=25/11/18/018202&from=rss) - [Mozilla Unveils Plans for New 'AI Window' Browsing Mode in Firefox, Opens Signups](https://soylentnews.org/article.pl?sid=25/11/18/018202&from=rss)
 * [2025-11-19, 00:31:00](https://soylentnews.org/article.pl?sid=25/11/18/014241&from=rss) - [Raccoons Are Showing Early Signs of Domestication](https://soylentnews.org/article.pl?sid=25/11/18/014241&from=rss)
-* [2025-11-18, 19:47:00](https://soylentnews.org/article.pl?sid=25/11/17/119215&from=rss) - [DHS Offers “Disturbing New Excuses” to Seize Kids’ Biometric Data, Expert Says](https://soylentnews.org/article.pl?sid=25/11/17/119215&from=rss)
 
 ## [Archives](archives/index.md)
 
