@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-11-30, 06:53:00](https://soylentnews.org/article.pl?sid=25/11/25/1521238&from=rss) - [Horse Virus EHV-1 Outbreak Spreads to Eight Texas Counties: Two Horses Have Died](https://soylentnews.org/article.pl?sid=25/11/25/1521238&from=rss)
 * [2025-11-30, 04:38:00](https://soylentnews.org/article.pl?sid=25/11/25/1517228&from=rss) - [Scientists Unveil Breakthrough Low-Temperature Fuel Cell That Could Revolutionize Hydrogen Power](https://soylentnews.org/article.pl?sid=25/11/25/1517228&from=rss)
 * [2025-11-30, 02:23:00](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss) - [Myths About Rapid Spread of the Black Death Influenced by Single “Literary Tale”](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss)
 * [2025-11-30, 00:05:00](https://soylentnews.org/article.pl?sid=25/11/25/1512241&from=rss) - [A Rare GM EV1 Saved From The Crusher is Going to be Driveable Again](https://soylentnews.org/article.pl?sid=25/11/25/1512241&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-19, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/18/113239&from=rss) - [Big Tech Wants Direct Access to Our Brains](https://soylentnews.org/article.pl?sid=25/11/18/113239&from=rss)
 * [2025-11-19, 14:49:00](https://soylentnews.org/article.pl?sid=25/11/18/0121255&from=rss) - [FPGA Based IBM-PC-XT](https://soylentnews.org/article.pl?sid=25/11/18/0121255&from=rss)
 * [2025-11-19, 10:01:00](https://soylentnews.org/article.pl?sid=25/11/18/0113223&from=rss) - [Canonical Extends Ubuntu Support to 15 Years](https://soylentnews.org/article.pl?sid=25/11/18/0113223&from=rss)
-* [2025-11-19, 05:16:00](https://soylentnews.org/article.pl?sid=25/11/18/018202&from=rss) - [Mozilla Unveils Plans for New 'AI Window' Browsing Mode in Firefox, Opens Signups](https://soylentnews.org/article.pl?sid=25/11/18/018202&from=rss)
 
 ## [Archives](archives/index.md)
 
