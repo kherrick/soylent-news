@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 21:34:00](https://soylentnews.org/article.pl?sid=25/11/30/0218206&from=rss) - [AI-Induced Psychosis: The Danger of Humans and Machines Hallucinating Together](https://soylentnews.org/article.pl?sid=25/11/30/0218206&from=rss)
 * [2025-11-30, 16:51:00](https://soylentnews.org/article.pl?sid=25/11/26/1555213&from=rss) - [Rust for Linux Kernel Co-Maintainer Formally Steps Down](https://soylentnews.org/article.pl?sid=25/11/26/1555213&from=rss)
 * [2025-11-30, 14:17:00](https://soylentnews.org/article.pl?sid=25/11/26/1550227&from=rss) - [Tor Switches to New Counter Galois Onion Relay Encryption Algorithm](https://soylentnews.org/article.pl?sid=25/11/26/1550227&from=rss)
 * [2025-11-30, 11:43:00](https://soylentnews.org/article.pl?sid=25/11/26/149224&from=rss) - [Beijing Unveils Supercritical CO2 Turbine That Could Upend Power Tech](https://soylentnews.org/article.pl?sid=25/11/26/149224&from=rss)
