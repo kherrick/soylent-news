@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-01, 02:20:00](https://soylentnews.org/article.pl?sid=25/11/30/0224246&from=rss) - [Particle Accelerator Waste Could Help Produce Cancer-Fighting Materials](https://soylentnews.org/article.pl?sid=25/11/30/0224246&from=rss)
 * [2025-11-30, 21:34:00](https://soylentnews.org/article.pl?sid=25/11/30/0218206&from=rss) - [AI-Induced Psychosis: The Danger of Humans and Machines Hallucinating Together](https://soylentnews.org/article.pl?sid=25/11/30/0218206&from=rss)
 * [2025-11-30, 16:51:00](https://soylentnews.org/article.pl?sid=25/11/26/1555213&from=rss) - [Rust for Linux Kernel Co-Maintainer Formally Steps Down](https://soylentnews.org/article.pl?sid=25/11/26/1555213&from=rss)
 * [2025-11-30, 14:17:00](https://soylentnews.org/article.pl?sid=25/11/26/1550227&from=rss) - [Tor Switches to New Counter Galois Onion Relay Encryption Algorithm](https://soylentnews.org/article.pl?sid=25/11/26/1550227&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-21, 00:07:00](https://soylentnews.org/article.pl?sid=25/11/19/0138242&from=rss) - [Is Perplexity the First AI Unicorn to Fail?](https://soylentnews.org/article.pl?sid=25/11/19/0138242&from=rss)
 * [2025-11-20, 19:15:00](https://soylentnews.org/article.pl?sid=25/11/18/1216240&from=rss) - [Turris Releases Their New Omnia NG Router](https://soylentnews.org/article.pl?sid=25/11/18/1216240&from=rss)
 * [2025-11-20, 14:37:00](https://soylentnews.org/article.pl?sid=25/11/18/1212257&from=rss) - [Many Hard Leetcode Problems Are Easy Constraint Problems](https://soylentnews.org/article.pl?sid=25/11/18/1212257&from=rss)
-* [2025-11-20, 09:52:00](https://soylentnews.org/article.pl?sid=25/11/18/1210237&from=rss) - [Floating Solar Panels Show Promise, but Environmental Impacts Vary by Location](https://soylentnews.org/article.pl?sid=25/11/18/1210237&from=rss)
 
 ## [Archives](archives/index.md)
 
