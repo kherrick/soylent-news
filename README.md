@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-01, 16:40:00](https://soylentnews.org/article.pl?sid=25/11/30/0244232&from=rss) - [Pebble, the E-Ink Smartwatch That Refuses to Die, Just Went Fully Open Source](https://soylentnews.org/article.pl?sid=25/11/30/0244232&from=rss)
 * [2025-12-01, 11:51:00](https://soylentnews.org/article.pl?sid=25/11/30/0234208&from=rss) - [ClamAV Signature Retirement Announcement](https://soylentnews.org/article.pl?sid=25/11/30/0234208&from=rss)
 * [2025-12-01, 07:07:00](https://soylentnews.org/article.pl?sid=25/11/30/0229203&from=rss) - [Roblox to Use AI for User Age Identification but Aus Government Wants More](https://soylentnews.org/article.pl?sid=25/11/30/0229203&from=rss)
 * [2025-12-01, 02:20:00](https://soylentnews.org/article.pl?sid=25/11/30/0224246&from=rss) - [Particle Accelerator Waste Could Help Produce Cancer-Fighting Materials](https://soylentnews.org/article.pl?sid=25/11/30/0224246&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-21, 14:23:00](https://soylentnews.org/article.pl?sid=25/11/20/1344214&from=rss) - [China Cuts Open New Robot on Stage to Prove Authenticity](https://soylentnews.org/article.pl?sid=25/11/20/1344214&from=rss)
 * [2025-11-21, 09:34:00](https://soylentnews.org/article.pl?sid=25/11/19/0144249&from=rss) - [Needy Software](https://soylentnews.org/article.pl?sid=25/11/19/0144249&from=rss)
 * [2025-11-21, 04:45:00](https://soylentnews.org/article.pl?sid=25/11/19/0140243&from=rss) - [Software Developers Show Less Constructive Scepticism When Using AI Assistants](https://soylentnews.org/article.pl?sid=25/11/19/0140243&from=rss)
-* [2025-11-21, 00:07:00](https://soylentnews.org/article.pl?sid=25/11/19/0138242&from=rss) - [Is Perplexity the First AI Unicorn to Fail?](https://soylentnews.org/article.pl?sid=25/11/19/0138242&from=rss)
 
 ## [Archives](archives/index.md)
 
