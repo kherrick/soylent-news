@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-01, 11:51:00](https://soylentnews.org/article.pl?sid=25/11/30/0234208&from=rss) - [ClamAV Signature Retirement Announcement](https://soylentnews.org/article.pl?sid=25/11/30/0234208&from=rss)
 * [2025-12-01, 07:07:00](https://soylentnews.org/article.pl?sid=25/11/30/0229203&from=rss) - [Roblox to Use AI for User Age Identification but Aus Government Wants More](https://soylentnews.org/article.pl?sid=25/11/30/0229203&from=rss)
 * [2025-12-01, 02:20:00](https://soylentnews.org/article.pl?sid=25/11/30/0224246&from=rss) - [Particle Accelerator Waste Could Help Produce Cancer-Fighting Materials](https://soylentnews.org/article.pl?sid=25/11/30/0224246&from=rss)
 * [2025-11-30, 21:34:00](https://soylentnews.org/article.pl?sid=25/11/30/0218206&from=rss) - [AI-Induced Psychosis: The Danger of Humans and Machines Hallucinating Together](https://soylentnews.org/article.pl?sid=25/11/30/0218206&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-21, 09:34:00](https://soylentnews.org/article.pl?sid=25/11/19/0144249&from=rss) - [Needy Software](https://soylentnews.org/article.pl?sid=25/11/19/0144249&from=rss)
 * [2025-11-21, 04:45:00](https://soylentnews.org/article.pl?sid=25/11/19/0140243&from=rss) - [Software Developers Show Less Constructive Scepticism When Using AI Assistants](https://soylentnews.org/article.pl?sid=25/11/19/0140243&from=rss)
 * [2025-11-21, 00:07:00](https://soylentnews.org/article.pl?sid=25/11/19/0138242&from=rss) - [Is Perplexity the First AI Unicorn to Fail?](https://soylentnews.org/article.pl?sid=25/11/19/0138242&from=rss)
-* [2025-11-20, 19:15:00](https://soylentnews.org/article.pl?sid=25/11/18/1216240&from=rss) - [Turris Releases Their New Omnia NG Router](https://soylentnews.org/article.pl?sid=25/11/18/1216240&from=rss)
 
 ## [Archives](archives/index.md)
 
