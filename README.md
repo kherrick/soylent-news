@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-02, 16:22:00](https://soylentnews.org/article.pl?sid=25/12/01/0413229&from=rss) - [Major Software Version Releases for Blender and Bottles](https://soylentnews.org/article.pl?sid=25/12/01/0413229&from=rss)
 * [2025-12-02, 11:40:00](https://soylentnews.org/article.pl?sid=25/12/01/043228&from=rss) - [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&from=rss)
 * [2025-12-02, 06:57:00](https://soylentnews.org/article.pl?sid=25/12/01/0350249&from=rss) - [Billion-Dollar AI Chip Deal Between Google and Meta Could be on the Cards](https://soylentnews.org/article.pl?sid=25/12/01/0350249&from=rss)
 * [2025-12-02, 02:09:00](https://soylentnews.org/article.pl?sid=25/12/01/0343223&from=rss) - [Ukraine First Country in Europe to Get Starlink Satellite Phone Service](https://soylentnews.org/article.pl?sid=25/12/01/0343223&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-22, 14:09:00](https://soylentnews.org/article.pl?sid=25/11/21/1211233&from=rss) - [Microsoft Warns its New “AI” Agents in Windows Can Install Malware](https://soylentnews.org/article.pl?sid=25/11/21/1211233&from=rss)
 * [2025-11-22, 09:24:00](https://soylentnews.org/article.pl?sid=25/11/21/1346236&from=rss) - [\"Walk My AI Walk\", a #1 AI Country Song](https://soylentnews.org/article.pl?sid=25/11/21/1346236&from=rss)
 * [2025-11-22, 04:42:00](https://soylentnews.org/article.pl?sid=25/11/21/1342241&from=rss) - [Join the the Newest Social Network and Party Like its 1987](https://soylentnews.org/article.pl?sid=25/11/21/1342241&from=rss)
-* [2025-11-21, 23:54:00](https://soylentnews.org/article.pl?sid=25/11/21/1340237&from=rss) - [Kaspersky Antivirus is Now Available for Linux. Will You Use It?](https://soylentnews.org/article.pl?sid=25/11/21/1340237&from=rss)
 
 ## [Archives](archives/index.md)
 
