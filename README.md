@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-03, 01:53:00](https://soylentnews.org/article.pl?sid=25/12/01/0716216&from=rss) - [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&from=rss)
 * [2025-12-02, 21:29:00](https://soylentnews.org/article.pl?sid=25/12/01/0713251&from=rss) - [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&from=rss)
 * [2025-12-02, 16:22:00](https://soylentnews.org/article.pl?sid=25/12/01/0413229&from=rss) - [Major Software Version Releases for Blender and Bottles](https://soylentnews.org/article.pl?sid=25/12/01/0413229&from=rss)
 * [2025-12-02, 11:40:00](https://soylentnews.org/article.pl?sid=25/12/01/043228&from=rss) - [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-22, 23:41:00](https://soylentnews.org/article.pl?sid=25/11/21/1952206&from=rss) - [Icelandic is in Danger of Dying Out Because of AI and English-Language Media, Says Former PM](https://soylentnews.org/article.pl?sid=25/11/21/1952206&from=rss)
 * [2025-11-22, 18:58:00](https://soylentnews.org/article.pl?sid=25/11/21/1949232&from=rss) - [First Large-Scale VR Use in the Classroom Extends the Boundaries of Education](https://soylentnews.org/article.pl?sid=25/11/21/1949232&from=rss)
 * [2025-11-22, 14:09:00](https://soylentnews.org/article.pl?sid=25/11/21/1211233&from=rss) - [Microsoft Warns its New “AI” Agents in Windows Can Install Malware](https://soylentnews.org/article.pl?sid=25/11/21/1211233&from=rss)
-* [2025-11-22, 09:24:00](https://soylentnews.org/article.pl?sid=25/11/21/1346236&from=rss) - [\"Walk My AI Walk\", a #1 AI Country Song](https://soylentnews.org/article.pl?sid=25/11/21/1346236&from=rss)
 
 ## [Archives](archives/index.md)
 
