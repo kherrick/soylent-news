@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 20:49:00](https://soylentnews.org/article.pl?sid=25/12/02/1141208&from=rss) - [Rapidus to Start Construction on 1.4nm Fab in 2027 — R&D on Node Begins Next Year](https://soylentnews.org/article.pl?sid=25/12/02/1141208&from=rss)
 * [2025-12-03, 16:02:00](https://soylentnews.org/article.pl?sid=25/12/01/0724224&from=rss) - [openSUSE Tumbleweed to update GRUB package and enable full disk encryption](https://soylentnews.org/article.pl?sid=25/12/01/0724224&from=rss)
 * [2025-12-03, 11:20:00](https://soylentnews.org/article.pl?sid=25/12/01/0721253&from=rss) - [Bright Orange Life-Form Could Point to New Dino Discoveries](https://soylentnews.org/article.pl?sid=25/12/01/0721253&from=rss)
 * [2025-12-03, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/01/0719241&from=rss) - [Dell: About 1 Billion PCs Will Not or Cannot be Upgraded to Windows 11](https://soylentnews.org/article.pl?sid=25/12/01/0719241&from=rss)
