@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-04, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/03/0225225&from=rss) - [Datacenters in Space Are a Terrible, Horrible, No Good Idea.](https://soylentnews.org/article.pl?sid=25/12/03/0225225&from=rss)
 * [2025-12-04, 06:17:00](https://soylentnews.org/article.pl?sid=25/12/03/0223207&from=rss) - [Flock Uses Overseas Gig Workers to Build its Surveillance AI](https://soylentnews.org/article.pl?sid=25/12/03/0223207&from=rss)
 * [2025-12-04, 01:36:00](https://soylentnews.org/article.pl?sid=25/12/02/1148202&from=rss) - [KDE to Drop X11 Session in KDE Plasma 6.8](https://soylentnews.org/article.pl?sid=25/12/02/1148202&from=rss)
 * [2025-12-03, 20:49:00](https://soylentnews.org/article.pl?sid=25/12/02/1141208&from=rss) - [Rapidus to Start Construction on 1.4nm Fab in 2027 — R&D on Node Begins Next Year](https://soylentnews.org/article.pl?sid=25/12/02/1141208&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-24, 08:53:00](https://soylentnews.org/article.pl?sid=25/11/23/0244245&from=rss) - [First-Ever Full Earth System Simulation Provides New Tool to Understand Climate Change](https://soylentnews.org/article.pl?sid=25/11/23/0244245&from=rss)
 * [2025-11-24, 04:09:00](https://soylentnews.org/article.pl?sid=25/11/23/0241222&from=rss) - [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&from=rss)
 * [2025-11-23, 23:26:00](https://soylentnews.org/article.pl?sid=25/11/23/0237208&from=rss) - [US Gives Local Police a Face-Scanning App Similar to One Used by ICE Agents](https://soylentnews.org/article.pl?sid=25/11/23/0237208&from=rss)
-* [2025-11-23, 18:36:00](https://soylentnews.org/article.pl?sid=25/11/23/0229254&from=rss) - [U.S. Spy Agency Releases Amelia Earhart Records](https://soylentnews.org/article.pl?sid=25/11/23/0229254&from=rss)
 
 ## [Archives](archives/index.md)
 
