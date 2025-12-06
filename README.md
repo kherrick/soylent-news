@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-06, 02:12:00](https://soylentnews.org/article.pl?sid=25/12/04/1133216&from=rss) - [Raspberry Pi Launches 1GB Model at $45, Temporarily Raises Prices on Higher-Capacity Boards](https://soylentnews.org/article.pl?sid=25/12/04/1133216&from=rss)
 * [2025-12-05, 21:24:00](https://soylentnews.org/article.pl?sid=25/12/04/1131220&from=rss) - [Supreme Court Hears Case That Could Trigger Big Crackdown on Internet Piracy](https://soylentnews.org/article.pl?sid=25/12/04/1131220&from=rss)
 * [2025-12-05, 15:39:00](https://soylentnews.org/article.pl?sid=25/12/03/1710234&from=rss) - [Oracle's Credit Risk is Spiking as Wall Street Asks How It's Going to Pay for All That AI](https://soylentnews.org/article.pl?sid=25/12/03/1710234&from=rss)
 * [2025-12-05, 10:54:00](https://soylentnews.org/article.pl?sid=25/12/03/178224&from=rss) - [Dotcom Survivor Syndrome – How Perl’s Early Success Created the Seeds of Its Downfall](https://soylentnews.org/article.pl?sid=25/12/03/178224&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-25, 22:57:00](https://soylentnews.org/article.pl?sid=25/11/24/2248217&from=rss) - [Is Matrix Multiplication Ugly?](https://soylentnews.org/article.pl?sid=25/11/24/2248217&from=rss)
 * [2025-11-25, 18:12:00](https://soylentnews.org/article.pl?sid=25/11/23/2227204&from=rss) - [In 1982, a Physics Joke Gone Wrong Sparked the Invention of the Emoticon](https://soylentnews.org/article.pl?sid=25/11/23/2227204&from=rss)
 * [2025-11-25, 13:28:00](https://soylentnews.org/article.pl?sid=25/11/23/2222225&from=rss) - [Scientists Now Know That Bees Can Process Time, a First in Insects](https://soylentnews.org/article.pl?sid=25/11/23/2222225&from=rss)
-* [2025-11-25, 08:41:00](https://soylentnews.org/article.pl?sid=25/11/23/2216237&from=rss) - [I Set a Trap to Catch My Students Cheating With AI and the Results Were Shocking](https://soylentnews.org/article.pl?sid=25/11/23/2216237&from=rss)
 
 ## [Archives](archives/index.md)
 
