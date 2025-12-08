@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-08, 15:45:00](https://soylentnews.org/article.pl?sid=25/12/07/1521257&from=rss) - [Soaring DDR5 Prices Lead to Falling Motherboard Sales and Calls for Gamers to Boycott RAM](https://soylentnews.org/article.pl?sid=25/12/07/1521257&from=rss)
 * [2025-12-08, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/07/1514234&from=rss) - [Debian's APT Will Require a Rust Compiler](https://soylentnews.org/article.pl?sid=25/12/07/1514234&from=rss)
 * [2025-12-08, 06:24:00](https://soylentnews.org/article.pl?sid=25/12/07/1510243&from=rss) - [New Jolla Phone Now Available for Pre-Order as an Independent Linux Phone](https://soylentnews.org/article.pl?sid=25/12/07/1510243&from=rss)
 * [2025-12-08, 02:06:00](https://soylentnews.org/article.pl?sid=25/12/08/0147224&from=rss) - [Recreating the Lost SDK for a 42-Year-Old Operating System: VisiCorp Visi on](https://soylentnews.org/article.pl?sid=25/12/08/0147224&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-30, 02:23:00](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss) - [Myths About Rapid Spread of the Black Death Influenced by Single “Literary Tale”](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss)
 * [2025-11-30, 00:05:00](https://soylentnews.org/article.pl?sid=25/11/25/1512241&from=rss) - [A Rare GM EV1 Saved From The Crusher is Going to be Driveable Again](https://soylentnews.org/article.pl?sid=25/11/25/1512241&from=rss)
 * [2025-11-29, 21:56:00](https://soylentnews.org/article.pl?sid=25/11/29/2035258&from=rss) - [Valve Announces the Steam Frame: 'A New Way to Play Your Entire Steam Library'](https://soylentnews.org/article.pl?sid=25/11/29/2035258&from=rss)
-* [2025-11-29, 21:16:00](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss) - [Bitcoin Mining Needs Regulatory Legislation](https://soylentnews.org/article.pl?sid=25/11/25/157251&from=rss)
 
 ## [Archives](archives/index.md)
 
