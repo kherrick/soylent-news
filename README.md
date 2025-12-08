@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-08, 01:38:00](https://soylentnews.org/article.pl?sid=25/12/06/1419220&from=rss) - [Waymo Drives Straight Into Active Police Scene, Ignores Chaos](https://soylentnews.org/article.pl?sid=25/12/06/1419220&from=rss)
 * [2025-12-07, 20:50:00](https://soylentnews.org/article.pl?sid=25/12/06/1415242&from=rss) - [Syntax Hacking: Researchers Discover Sentence Structure Can Bypass AI Safety Rules](https://soylentnews.org/article.pl?sid=25/12/06/1415242&from=rss)
 * [2025-12-07, 16:07:00](https://soylentnews.org/article.pl?sid=25/12/06/140210&from=rss) - [Why People Keep Flocking to Linux in 2025 (and It's Not Just to Escape Windows)](https://soylentnews.org/article.pl?sid=25/12/06/140210&from=rss)
 * [2025-12-07, 11:26:00](https://soylentnews.org/article.pl?sid=25/12/05/0735244&from=rss) - [UW Nobel Winner's Lab Releases Most Powerful Protein Design Tool Yet](https://soylentnews.org/article.pl?sid=25/12/05/0735244&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-29, 20:53:00](https://soylentnews.org/article.pl?sid=25/11/29/2053221&from=rss) - [Re-releasing Stories in Queue](https://soylentnews.org/article.pl?sid=25/11/29/2053221&from=rss)
 * [2025-11-29, 12:26:00](https://soylentnews.org/article.pl?sid=25/11/26/2246256&from=rss) - [This Linux OS Has Got a Million Downloads Since Windows 10 Support Ended](https://soylentnews.org/article.pl?sid=25/11/26/2246256&from=rss)
 * [2025-11-29, 07:43:00](https://soylentnews.org/article.pl?sid=25/11/26/2245225&from=rss) - [Americans With Four-Year Degrees Now Comprise a Record 25% of Unemployed Workers](https://soylentnews.org/article.pl?sid=25/11/26/2245225&from=rss)
-* [2025-11-29, 02:58:00](https://soylentnews.org/article.pl?sid=25/11/26/2239240&from=rss) - [China Launches Shenzhou-22 Early for Stranded Space Station Crew](https://soylentnews.org/article.pl?sid=25/11/26/2239240&from=rss)
 
 ## [Archives](archives/index.md)
 
