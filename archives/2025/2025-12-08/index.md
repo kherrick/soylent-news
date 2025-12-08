@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 02:06:00](https://soylentnews.org/article.pl?sid=25/12/08/0147224&from=rss) - [Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://soylentnews.org/article.pl?sid=25/12/08/0147224&from=rss)
 * [2025-12-08, 01:38:00](https://soylentnews.org/article.pl?sid=25/12/06/1419220&from=rss) - [Waymo Drives Straight Into Active Police Scene, Ignores Chaos](https://soylentnews.org/article.pl?sid=25/12/06/1419220&from=rss)
