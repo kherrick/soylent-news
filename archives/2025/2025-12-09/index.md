@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 20:23:00](https://soylentnews.org/article.pl?sid=25/12/08/0455213&from=rss) - [Samsung's First Tri-Fold Phone is Here: Everything You Need to Know](https://soylentnews.org/article.pl?sid=25/12/08/0455213&from=rss)
 * [2025-12-09, 15:39:00](https://soylentnews.org/article.pl?sid=25/12/08/0152232&from=rss) - [Complex Life Started Nearly a Billion Years Earlier Than We Thought](https://soylentnews.org/article.pl?sid=25/12/08/0152232&from=rss)
 * [2025-12-09, 10:51:00](https://soylentnews.org/article.pl?sid=25/12/08/0146206&from=rss) - [US Wants Laws to Force App Store Age Checks, Despite Apple's Existing Protections](https://soylentnews.org/article.pl?sid=25/12/08/0146206&from=rss)
 * [2025-12-09, 06:03:00](https://soylentnews.org/article.pl?sid=25/12/08/0143259&from=rss) - [Common Desktop Environment \"CDE\" 2.5.3 Released After Two Years](https://soylentnews.org/article.pl?sid=25/12/08/0143259&from=rss)

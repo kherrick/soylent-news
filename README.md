@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-09, 20:23:00](https://soylentnews.org/article.pl?sid=25/12/08/0455213&from=rss) - [Samsung's First Tri-Fold Phone is Here: Everything You Need to Know](https://soylentnews.org/article.pl?sid=25/12/08/0455213&from=rss)
 * [2025-12-09, 15:39:00](https://soylentnews.org/article.pl?sid=25/12/08/0152232&from=rss) - [Complex Life Started Nearly a Billion Years Earlier Than We Thought](https://soylentnews.org/article.pl?sid=25/12/08/0152232&from=rss)
 * [2025-12-09, 10:51:00](https://soylentnews.org/article.pl?sid=25/12/08/0146206&from=rss) - [US Wants Laws to Force App Store Age Checks, Despite Apple's Existing Protections](https://soylentnews.org/article.pl?sid=25/12/08/0146206&from=rss)
 * [2025-12-09, 06:03:00](https://soylentnews.org/article.pl?sid=25/12/08/0143259&from=rss) - [Common Desktop Environment \"CDE\" 2.5.3 Released After Two Years](https://soylentnews.org/article.pl?sid=25/12/08/0143259&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-30, 16:51:00](https://soylentnews.org/article.pl?sid=25/11/26/1555213&from=rss) - [Rust for Linux Kernel Co-Maintainer Formally Steps Down](https://soylentnews.org/article.pl?sid=25/11/26/1555213&from=rss)
 * [2025-11-30, 14:17:00](https://soylentnews.org/article.pl?sid=25/11/26/1550227&from=rss) - [Tor Switches to New Counter Galois Onion Relay Encryption Algorithm](https://soylentnews.org/article.pl?sid=25/11/26/1550227&from=rss)
 * [2025-11-30, 11:43:00](https://soylentnews.org/article.pl?sid=25/11/26/149224&from=rss) - [Beijing Unveils Supercritical CO2 Turbine That Could Upend Power Tech](https://soylentnews.org/article.pl?sid=25/11/26/149224&from=rss)
-* [2025-11-30, 09:12:00](https://soylentnews.org/article.pl?sid=25/11/26/1415217&from=rss) - [The Unpowered SSDs in Your Drawer Are Slowly Losing Your Data](https://soylentnews.org/article.pl?sid=25/11/26/1415217&from=rss)
 
 ## [Archives](archives/index.md)
 
