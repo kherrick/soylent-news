@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-09, 06:03:00](https://soylentnews.org/article.pl?sid=25/12/08/0143259&from=rss) - [Common Desktop Environment \"CDE\" 2.5.3 Released After Two Years](https://soylentnews.org/article.pl?sid=25/12/08/0143259&from=rss)
 * [2025-12-09, 01:21:00](https://soylentnews.org/article.pl?sid=25/12/07/1532244&from=rss) - [Improved Truncated Wigner Approximation Makes Quantum Calcs on Classical Computers More Accessible](https://soylentnews.org/article.pl?sid=25/12/07/1532244&from=rss)
 * [2025-12-08, 20:34:00](https://soylentnews.org/article.pl?sid=25/12/07/1527246&from=rss) - [San Francisco Sues Nation's Top Food Manufacturers Over Ultraprocessed Foods](https://soylentnews.org/article.pl?sid=25/12/07/1527246&from=rss)
 * [2025-12-08, 15:45:00](https://soylentnews.org/article.pl?sid=25/12/07/1521257&from=rss) - [Soaring DDR5 Prices Lead to Falling Motherboard Sales and Calls for Gamers to Boycott RAM](https://soylentnews.org/article.pl?sid=25/12/07/1521257&from=rss)
@@ -49,7 +50,6 @@
 * [2025-11-30, 09:12:00](https://soylentnews.org/article.pl?sid=25/11/26/1415217&from=rss) - [The Unpowered SSDs in Your Drawer Are Slowly Losing Your Data](https://soylentnews.org/article.pl?sid=25/11/26/1415217&from=rss)
 * [2025-11-30, 06:53:00](https://soylentnews.org/article.pl?sid=25/11/25/1521238&from=rss) - [Horse Virus EHV-1 Outbreak Spreads to Eight Texas Counties: Two Horses Have Died](https://soylentnews.org/article.pl?sid=25/11/25/1521238&from=rss)
 * [2025-11-30, 04:38:00](https://soylentnews.org/article.pl?sid=25/11/25/1517228&from=rss) - [Scientists Unveil Breakthrough Low-Temperature Fuel Cell That Could Revolutionize Hydrogen Power](https://soylentnews.org/article.pl?sid=25/11/25/1517228&from=rss)
-* [2025-11-30, 02:23:00](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss) - [Myths About Rapid Spread of the Black Death Influenced by Single “Literary Tale”](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss)
 
 ## [Archives](archives/index.md)
 
