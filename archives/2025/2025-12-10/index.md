@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 05:52:00](https://soylentnews.org/article.pl?sid=25/12/08/1611257&from=rss) - [Zig Quits GitHub, Says Microsoft's AI Obsession Has Ruined the Service](https://soylentnews.org/article.pl?sid=25/12/08/1611257&from=rss)
 * [2025-12-10, 01:09:00](https://soylentnews.org/article.pl?sid=25/12/08/0456233&from=rss) - [This Cellular Trick Helps Cancer Spread, but Could Also Stop It](https://soylentnews.org/article.pl?sid=25/12/08/0456233&from=rss)
