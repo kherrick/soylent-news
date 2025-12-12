@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-12, 05:22:00](https://soylentnews.org/article.pl?sid=25/12/10/2256226&from=rss) - [Pebble Index 01 Arrives as a Private Open Source Voice Capture Ring](https://soylentnews.org/article.pl?sid=25/12/10/2256226&from=rss)
 * [2025-12-12, 00:39:00](https://soylentnews.org/article.pl?sid=25/12/10/2252241&from=rss) - [Russia Says It Might Build its Own Linux Community After Removal of Several Kernel Maintainers](https://soylentnews.org/article.pl?sid=25/12/10/2252241&from=rss)
 * [2025-12-11, 19:56:00](https://soylentnews.org/article.pl?sid=25/12/10/2248258&from=rss) - [ER Doctors Are Sounding the Alarm on a Fast-Growing Cannabis Illness](https://soylentnews.org/article.pl?sid=25/12/10/2248258&from=rss)
 * [2025-12-11, 15:07:00](https://soylentnews.org/article.pl?sid=25/12/10/1242208&from=rss) - [AI Favors Texts Written by Other AIs, Even When They're Worse Than Human Ones](https://soylentnews.org/article.pl?sid=25/12/10/1242208&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-03, 01:53:00](https://soylentnews.org/article.pl?sid=25/12/01/0716216&from=rss) - [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&from=rss)
 * [2025-12-02, 21:29:00](https://soylentnews.org/article.pl?sid=25/12/01/0713251&from=rss) - [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&from=rss)
 * [2025-12-02, 16:22:00](https://soylentnews.org/article.pl?sid=25/12/01/0413229&from=rss) - [Major Software Version Releases for Blender and Bottles](https://soylentnews.org/article.pl?sid=25/12/01/0413229&from=rss)
-* [2025-12-02, 11:40:00](https://soylentnews.org/article.pl?sid=25/12/01/043228&from=rss) - [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&from=rss)
 
 ## [Archives](archives/index.md)
 
