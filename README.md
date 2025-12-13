@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-13, 14:37:00](https://soylentnews.org/article.pl?sid=25/12/11/0916209&from=rss) - [Germany Might Have Just Saved Gas Engines From a European Ban](https://soylentnews.org/article.pl?sid=25/12/11/0916209&from=rss)
 * [2025-12-13, 09:52:00](https://soylentnews.org/article.pl?sid=25/12/11/0910257&from=rss) - [Space Shuttle Lessons: Backtracks Can Create Breakthroughs](https://soylentnews.org/article.pl?sid=25/12/11/0910257&from=rss)
 * [2025-12-13, 05:05:00](https://soylentnews.org/article.pl?sid=25/12/11/092209&from=rss) - [USA Wants Your Social Media History If You Visit](https://soylentnews.org/article.pl?sid=25/12/11/092209&from=rss)
 * [2025-12-13, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/11/023241&from=rss) - [Man Dies of Rabies After Kidney Transplant From Donor Who Saved Kitten From Skunk](https://soylentnews.org/article.pl?sid=25/12/11/023241&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-04, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/03/0225225&from=rss) - [Datacenters in Space Are a Terrible, Horrible, No Good Idea.](https://soylentnews.org/article.pl?sid=25/12/03/0225225&from=rss)
 * [2025-12-04, 06:17:00](https://soylentnews.org/article.pl?sid=25/12/03/0223207&from=rss) - [Flock Uses Overseas Gig Workers to Build its Surveillance AI](https://soylentnews.org/article.pl?sid=25/12/03/0223207&from=rss)
 * [2025-12-04, 01:36:00](https://soylentnews.org/article.pl?sid=25/12/02/1148202&from=rss) - [KDE to Drop X11 Session in KDE Plasma 6.8](https://soylentnews.org/article.pl?sid=25/12/02/1148202&from=rss)
-* [2025-12-03, 20:49:00](https://soylentnews.org/article.pl?sid=25/12/02/1141208&from=rss) - [Rapidus to Start Construction on 1.4nm Fab in 2027 — R&D on Node Begins Next Year](https://soylentnews.org/article.pl?sid=25/12/02/1141208&from=rss)
 
 ## [Archives](archives/index.md)
 
