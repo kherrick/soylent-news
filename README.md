@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-14, 09:36:00](https://soylentnews.org/article.pl?sid=25/12/13/0329247&from=rss) - [Ultra-Thin Nanomembrane Device Forms Soft, Seamless Interface With Living Tissue](https://soylentnews.org/article.pl?sid=25/12/13/0329247&from=rss)
 * [2025-12-14, 04:46:00](https://soylentnews.org/article.pl?sid=25/12/13/0323237&from=rss) - [When It All Comes Crashing Down: The Aftermath of the AI Boom](https://soylentnews.org/article.pl?sid=25/12/13/0323237&from=rss)
 * [2025-12-14, 00:04:00](https://soylentnews.org/article.pl?sid=25/12/13/0314229&from=rss) - [A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code](https://soylentnews.org/article.pl?sid=25/12/13/0314229&from=rss)
 * [2025-12-13, 19:23:00](https://soylentnews.org/article.pl?sid=25/12/11/0919226&from=rss) - [Scientists Finally Uncover Why the World’s Most Common Heart Drug Causes Muscle Pain](https://soylentnews.org/article.pl?sid=25/12/11/0919226&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-05, 06:01:00](https://soylentnews.org/article.pl?sid=25/12/03/173255&from=rss) - [Space CEO Explains Why He Believes Private Space Stations Are a Viable Business](https://soylentnews.org/article.pl?sid=25/12/03/173255&from=rss)
 * [2025-12-05, 01:24:00](https://soylentnews.org/article.pl?sid=25/12/03/1319210&from=rss) - [Linux First, Windows Later! Dell Launches Qualcomm NPU Laptop on Linux Before Windows](https://soylentnews.org/article.pl?sid=25/12/03/1319210&from=rss)
 * [2025-12-04, 20:42:00](https://soylentnews.org/article.pl?sid=25/12/03/1255251&from=rss) - [Netflix Quietly Drops Support for Casting to Most TVs](https://soylentnews.org/article.pl?sid=25/12/03/1255251&from=rss)
-* [2025-12-04, 15:53:00](https://soylentnews.org/article.pl?sid=25/12/03/1244208&from=rss) - [Google's Gemini 3 Jailbroken in Minutes, and the Fallout is Alarming](https://soylentnews.org/article.pl?sid=25/12/03/1244208&from=rss)
 
 ## [Archives](archives/index.md)
 
