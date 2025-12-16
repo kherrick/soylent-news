@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 18:27:00](https://soylentnews.org/article.pl?sid=25/12/15/018209&from=rss) - [New Review Highlights Urgent Need for Worldwide Smell Screening](https://soylentnews.org/article.pl?sid=25/12/15/018209&from=rss)
 * [2025-12-16, 13:45:00](https://soylentnews.org/article.pl?sid=25/12/15/016245&from=rss) - [Kali Linux 2025.4 Ethical Hacking Distro Released With KDE Plasma 6.5, GNOME 49](https://soylentnews.org/article.pl?sid=25/12/15/016245&from=rss)
 * [2025-12-16, 09:02:00](https://soylentnews.org/article.pl?sid=25/12/15/014215&from=rss) - [Scientists Discover Early Alzheimer's Warning Sign Hiding in Routine Brain Scans](https://soylentnews.org/article.pl?sid=25/12/15/014215&from=rss)
 * [2025-12-16, 04:15:00](https://soylentnews.org/article.pl?sid=25/12/13/1648208&from=rss) - [U.S. Approves First Device to Treat Depression With Brain Stimulation at Home](https://soylentnews.org/article.pl?sid=25/12/13/1648208&from=rss)

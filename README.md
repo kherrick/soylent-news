@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-16, 18:27:00](https://soylentnews.org/article.pl?sid=25/12/15/018209&from=rss) - [New Review Highlights Urgent Need for Worldwide Smell Screening](https://soylentnews.org/article.pl?sid=25/12/15/018209&from=rss)
 * [2025-12-16, 13:45:00](https://soylentnews.org/article.pl?sid=25/12/15/016245&from=rss) - [Kali Linux 2025.4 Ethical Hacking Distro Released With KDE Plasma 6.5, GNOME 49](https://soylentnews.org/article.pl?sid=25/12/15/016245&from=rss)
 * [2025-12-16, 09:02:00](https://soylentnews.org/article.pl?sid=25/12/15/014215&from=rss) - [Scientists Discover Early Alzheimer's Warning Sign Hiding in Routine Brain Scans](https://soylentnews.org/article.pl?sid=25/12/15/014215&from=rss)
 * [2025-12-16, 04:15:00](https://soylentnews.org/article.pl?sid=25/12/13/1648208&from=rss) - [U.S. Approves First Device to Treat Depression With Brain Stimulation at Home](https://soylentnews.org/article.pl?sid=25/12/13/1648208&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-07, 16:07:00](https://soylentnews.org/article.pl?sid=25/12/06/140210&from=rss) - [Why People Keep Flocking to Linux in 2025 (and It's Not Just to Escape Windows)](https://soylentnews.org/article.pl?sid=25/12/06/140210&from=rss)
 * [2025-12-07, 11:26:00](https://soylentnews.org/article.pl?sid=25/12/05/0735244&from=rss) - [UW Nobel Winner's Lab Releases Most Powerful Protein Design Tool Yet](https://soylentnews.org/article.pl?sid=25/12/05/0735244&from=rss)
 * [2025-12-07, 06:42:00](https://soylentnews.org/article.pl?sid=25/12/05/0733258&from=rss) - [FreeBSD 15.0 Released With Pkgbase - and With It Come Several Major Changes](https://soylentnews.org/article.pl?sid=25/12/05/0733258&from=rss)
-* [2025-12-07, 01:59:00](https://soylentnews.org/article.pl?sid=25/12/05/0730234&from=rss) - [IBM CEO Warns That Ongoing Trillion-Dollar AI Data Center Buildout is Unsustainable](https://soylentnews.org/article.pl?sid=25/12/05/0730234&from=rss)
 
 ## [Archives](archives/index.md)
 
