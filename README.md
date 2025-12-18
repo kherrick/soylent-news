@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-18, 03:46:00](https://soylentnews.org/article.pl?sid=25/12/17/0147256&from=rss) - [After 50 Years, MIT Chemists Finally Synthesize Elusive Anti-Cancer Compound](https://soylentnews.org/article.pl?sid=25/12/17/0147256&from=rss)
 * [2025-12-17, 23:01:00](https://soylentnews.org/article.pl?sid=25/12/16/0745203&from=rss) - [This Group Pays Bounties to Repair Broken Devices—Even If the Fix Breaks the Law](https://soylentnews.org/article.pl?sid=25/12/16/0745203&from=rss)
 * [2025-12-17, 18:18:00](https://soylentnews.org/article.pl?sid=25/12/16/0740251&from=rss) - [Norovirus Cases Surging in U.S.](https://soylentnews.org/article.pl?sid=25/12/16/0740251&from=rss)
 * [2025-12-17, 13:34:00](https://soylentnews.org/article.pl?sid=25/12/16/0735240&from=rss) - [Verizon Refused to Unlock Man's iPhone, So He Sued the Carrier and Won](https://soylentnews.org/article.pl?sid=25/12/16/0735240&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-08, 20:34:00](https://soylentnews.org/article.pl?sid=25/12/07/1527246&from=rss) - [San Francisco Sues Nation's Top Food Manufacturers Over Ultraprocessed Foods](https://soylentnews.org/article.pl?sid=25/12/07/1527246&from=rss)
 * [2025-12-08, 15:45:00](https://soylentnews.org/article.pl?sid=25/12/07/1521257&from=rss) - [Soaring DDR5 Prices Lead to Falling Motherboard Sales and Calls for Gamers to Boycott RAM](https://soylentnews.org/article.pl?sid=25/12/07/1521257&from=rss)
 * [2025-12-08, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/07/1514234&from=rss) - [Debian's APT Will Require a Rust Compiler](https://soylentnews.org/article.pl?sid=25/12/07/1514234&from=rss)
-* [2025-12-08, 06:24:00](https://soylentnews.org/article.pl?sid=25/12/07/1510243&from=rss) - [New Jolla Phone Now Available for Pre-Order as an Independent Linux Phone](https://soylentnews.org/article.pl?sid=25/12/07/1510243&from=rss)
 
 ## [Archives](archives/index.md)
 
