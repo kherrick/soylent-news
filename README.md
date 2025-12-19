@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-19, 13:21:00](https://soylentnews.org/article.pl?sid=25/12/18/044218&from=rss) - [UK to “Encourage” Apple and Google to Put Nudity-Blocking Systems on Phones](https://soylentnews.org/article.pl?sid=25/12/18/044218&from=rss)
 * [2025-12-19, 08:14:00](https://soylentnews.org/article.pl?sid=25/12/18/0358200&from=rss) - [Google Translate expands live translation to all earbuds on Android](https://soylentnews.org/article.pl?sid=25/12/18/0358200&from=rss)
 * [2025-12-19, 08:11:00](https://soylentnews.org/article.pl?sid=25/12/18/0353210&from=rss) - [British Billboards Are Watching You](https://soylentnews.org/article.pl?sid=25/12/18/0353210&from=rss)
 * [2025-12-19, 03:37:00](https://soylentnews.org/article.pl?sid=25/12/17/0218212&from=rss) - [UK Strengthens Subsea Cables Against Russian Interference](https://soylentnews.org/article.pl?sid=25/12/17/0218212&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-10, 10:43:00](https://soylentnews.org/article.pl?sid=25/12/08/1614203&from=rss) - [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&from=rss)
 * [2025-12-10, 05:52:00](https://soylentnews.org/article.pl?sid=25/12/08/1611257&from=rss) - [Zig Quits GitHub, Says Microsoft's AI Obsession Has Ruined the Service](https://soylentnews.org/article.pl?sid=25/12/08/1611257&from=rss)
 * [2025-12-10, 01:09:00](https://soylentnews.org/article.pl?sid=25/12/08/0456233&from=rss) - [This Cellular Trick Helps Cancer Spread, but Could Also Stop It](https://soylentnews.org/article.pl?sid=25/12/08/0456233&from=rss)
-* [2025-12-09, 20:23:00](https://soylentnews.org/article.pl?sid=25/12/08/0455213&from=rss) - [Samsung's First Tri-Fold Phone is Here: Everything You Need to Know](https://soylentnews.org/article.pl?sid=25/12/08/0455213&from=rss)
 
 ## [Archives](archives/index.md)
 
