@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-19, 08:14:00](https://soylentnews.org/article.pl?sid=25/12/18/0358200&from=rss) - [Google Translate expands live translation to all earbuds on Android](https://soylentnews.org/article.pl?sid=25/12/18/0358200&from=rss)
+* [2025-12-19, 08:11:00](https://soylentnews.org/article.pl?sid=25/12/18/0353210&from=rss) - [British Billboards Are Watching You](https://soylentnews.org/article.pl?sid=25/12/18/0353210&from=rss)
 * [2025-12-19, 03:37:00](https://soylentnews.org/article.pl?sid=25/12/17/0218212&from=rss) - [UK Strengthens Subsea Cables Against Russian Interference](https://soylentnews.org/article.pl?sid=25/12/17/0218212&from=rss)
 * [2025-12-18, 22:51:00](https://soylentnews.org/article.pl?sid=25/12/17/027253&from=rss) - [Forget Flowers: These Ancient Plants Attract Pollinators by Getting Hot](https://soylentnews.org/article.pl?sid=25/12/17/027253&from=rss)
 * [2025-12-18, 18:04:00](https://soylentnews.org/article.pl?sid=25/12/17/0155253&from=rss) - [Foxconn is Building a Massive Factory in KY, but Probably Not for Apple](https://soylentnews.org/article.pl?sid=25/12/17/0155253&from=rss)
@@ -48,8 +50,6 @@
 * [2025-12-10, 05:52:00](https://soylentnews.org/article.pl?sid=25/12/08/1611257&from=rss) - [Zig Quits GitHub, Says Microsoft's AI Obsession Has Ruined the Service](https://soylentnews.org/article.pl?sid=25/12/08/1611257&from=rss)
 * [2025-12-10, 01:09:00](https://soylentnews.org/article.pl?sid=25/12/08/0456233&from=rss) - [This Cellular Trick Helps Cancer Spread, but Could Also Stop It](https://soylentnews.org/article.pl?sid=25/12/08/0456233&from=rss)
 * [2025-12-09, 20:23:00](https://soylentnews.org/article.pl?sid=25/12/08/0455213&from=rss) - [Samsung's First Tri-Fold Phone is Here: Everything You Need to Know](https://soylentnews.org/article.pl?sid=25/12/08/0455213&from=rss)
-* [2025-12-09, 15:39:00](https://soylentnews.org/article.pl?sid=25/12/08/0152232&from=rss) - [Complex Life Started Nearly a Billion Years Earlier Than We Thought](https://soylentnews.org/article.pl?sid=25/12/08/0152232&from=rss)
-* [2025-12-09, 10:51:00](https://soylentnews.org/article.pl?sid=25/12/08/0146206&from=rss) - [US Wants Laws to Force App Store Age Checks, Despite Apple's Existing Protections](https://soylentnews.org/article.pl?sid=25/12/08/0146206&from=rss)
 
 ## [Archives](archives/index.md)
 
