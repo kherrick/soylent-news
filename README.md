@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-20, 03:27:00](https://soylentnews.org/article.pl?sid=25/12/18/139231&from=rss) - [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&from=rss)
 * [2025-12-19, 22:43:00](https://soylentnews.org/article.pl?sid=25/12/18/133249&from=rss) - [Mozilla's New CEO: Firefox Will Become an “AI Browser”](https://soylentnews.org/article.pl?sid=25/12/18/133249&from=rss)
 * [2025-12-19, 17:55:00](https://soylentnews.org/article.pl?sid=25/12/18/046237&from=rss) - [Resolving to Spend Less Time on Your Smartphone? Understanding Your Travel Habits Can Help](https://soylentnews.org/article.pl?sid=25/12/18/046237&from=rss)
 * [2025-12-19, 13:21:00](https://soylentnews.org/article.pl?sid=25/12/18/044218&from=rss) - [UK to “Encourage” Apple and Google to Put Nudity-Blocking Systems on Phones](https://soylentnews.org/article.pl?sid=25/12/18/044218&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-11, 00:52:00](https://soylentnews.org/article.pl?sid=25/12/10/027248&from=rss) - [Chattanooga's Municipal Fiber Network Has Delivered $5.3 Billion in Community Benefits](https://soylentnews.org/article.pl?sid=25/12/10/027248&from=rss)
 * [2025-12-10, 20:11:00](https://soylentnews.org/article.pl?sid=25/12/10/023246&from=rss) - [Planned Satellite Constellations May Swamp Future Orbiting Telescopes](https://soylentnews.org/article.pl?sid=25/12/10/023246&from=rss)
 * [2025-12-10, 15:25:00](https://soylentnews.org/article.pl?sid=25/12/08/1621249&from=rss) - [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&from=rss)
-* [2025-12-10, 10:43:00](https://soylentnews.org/article.pl?sid=25/12/08/1614203&from=rss) - [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&from=rss)
 
 ## [Archives](archives/index.md)
 
