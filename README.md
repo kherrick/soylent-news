@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-21, 17:36:00](https://soylentnews.org/article.pl?sid=25/12/20/1428203&from=rss) - [The Secret Life of Moles: What They're Really Up to Underground](https://soylentnews.org/article.pl?sid=25/12/20/1428203&from=rss)
 * [2025-12-21, 12:49:00](https://soylentnews.org/article.pl?sid=25/12/20/0114215&from=rss) - [Public Domain Day 2026](https://soylentnews.org/article.pl?sid=25/12/20/0114215&from=rss)
 * [2025-12-21, 08:08:00](https://soylentnews.org/article.pl?sid=25/12/20/0110218&from=rss) - [Home Depot Exposed Access to Internal Systems for a Year](https://soylentnews.org/article.pl?sid=25/12/20/0110218&from=rss)
 * [2025-12-21, 04:40:00](https://soylentnews.org/article.pl?sid=25/12/20/016256&from=rss) - [Ventoy 1.1.09 Released With Experimental Btrfs Support](https://soylentnews.org/article.pl?sid=25/12/20/016256&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-12, 19:36:00](https://soylentnews.org/article.pl?sid=25/12/11/0157235&from=rss) - [ICEBlock App Sues Trump Administration for Censorship and 'Unlawful Threats'](https://soylentnews.org/article.pl?sid=25/12/11/0157235&from=rss)
 * [2025-12-12, 14:54:00](https://soylentnews.org/article.pl?sid=25/12/11/0150219&from=rss) - [Ubuntu to Offer AMD ROCm Packages for AI Processing](https://soylentnews.org/article.pl?sid=25/12/11/0150219&from=rss)
 * [2025-12-12, 10:07:00](https://soylentnews.org/article.pl?sid=25/12/10/2258243&from=rss) - [Porsche Panic in Russia as Pricey Status Symbols Forget How to Car](https://soylentnews.org/article.pl?sid=25/12/10/2258243&from=rss)
-* [2025-12-12, 05:22:00](https://soylentnews.org/article.pl?sid=25/12/10/2256226&from=rss) - [Pebble Index 01 Arrives as a Private Open Source Voice Capture Ring](https://soylentnews.org/article.pl?sid=25/12/10/2256226&from=rss)
 
 ## [Archives](archives/index.md)
 
