@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 22:18:00](https://soylentnews.org/article.pl?sid=25/12/20/1439207&from=rss) - [Google's New 'Disco' Browser Turns Tabs Into Custom Web Apps](https://soylentnews.org/article.pl?sid=25/12/20/1439207&from=rss)
 * [2025-12-21, 17:36:00](https://soylentnews.org/article.pl?sid=25/12/20/1428203&from=rss) - [The Secret Life of Moles: What They're Really Up to Underground](https://soylentnews.org/article.pl?sid=25/12/20/1428203&from=rss)
 * [2025-12-21, 12:49:00](https://soylentnews.org/article.pl?sid=25/12/20/0114215&from=rss) - [Public Domain Day 2026](https://soylentnews.org/article.pl?sid=25/12/20/0114215&from=rss)
 * [2025-12-21, 08:08:00](https://soylentnews.org/article.pl?sid=25/12/20/0110218&from=rss) - [Home Depot Exposed Access to Internal Systems for a Year](https://soylentnews.org/article.pl?sid=25/12/20/0110218&from=rss)
