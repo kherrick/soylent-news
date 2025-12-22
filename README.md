@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-22, 12:32:00](https://soylentnews.org/article.pl?sid=25/12/20/1453248&from=rss) - [North Korean Infiltrator Caught Working in Amazon IT Department Thanks to Keystroke Lag](https://soylentnews.org/article.pl?sid=25/12/20/1453248&from=rss)
 * [2025-12-22, 07:47:00](https://soylentnews.org/article.pl?sid=25/12/20/1449230&from=rss) - [Google is Shutting Down its Dark Web Report Feature in January](https://soylentnews.org/article.pl?sid=25/12/20/1449230&from=rss)
 * [2025-12-22, 03:04:00](https://soylentnews.org/article.pl?sid=25/12/20/1446230&from=rss) - [Senators Count the Shady Ways Data Centers Pass Energy Costs on to Americans](https://soylentnews.org/article.pl?sid=25/12/20/1446230&from=rss)
 * [2025-12-21, 22:18:00](https://soylentnews.org/article.pl?sid=25/12/20/1439207&from=rss) - [Google's New 'Disco' Browser Turns Tabs Into Custom Web Apps](https://soylentnews.org/article.pl?sid=25/12/20/1439207&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-13, 14:37:00](https://soylentnews.org/article.pl?sid=25/12/11/0916209&from=rss) - [Germany Might Have Just Saved Gas Engines From a European Ban](https://soylentnews.org/article.pl?sid=25/12/11/0916209&from=rss)
 * [2025-12-13, 09:52:00](https://soylentnews.org/article.pl?sid=25/12/11/0910257&from=rss) - [Space Shuttle Lessons: Backtracks Can Create Breakthroughs](https://soylentnews.org/article.pl?sid=25/12/11/0910257&from=rss)
 * [2025-12-13, 05:05:00](https://soylentnews.org/article.pl?sid=25/12/11/092209&from=rss) - [USA Wants Your Social Media History If You Visit](https://soylentnews.org/article.pl?sid=25/12/11/092209&from=rss)
-* [2025-12-13, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/11/023241&from=rss) - [Man Dies of Rabies After Kidney Transplant From Donor Who Saved Kitten From Skunk](https://soylentnews.org/article.pl?sid=25/12/11/023241&from=rss)
 
 ## [Archives](archives/index.md)
 
