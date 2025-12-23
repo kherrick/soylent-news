@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-23, 16:57:00](https://soylentnews.org/article.pl?sid=25/12/22/0029209&from=rss) - [A Better Zip Bomb](https://soylentnews.org/article.pl?sid=25/12/22/0029209&from=rss)
 * [2025-12-23, 12:14:00](https://soylentnews.org/article.pl?sid=25/12/21/0921233&from=rss) - [Titan's Slushy Oceans](https://soylentnews.org/article.pl?sid=25/12/21/0921233&from=rss)
 * [2025-12-23, 07:31:00](https://soylentnews.org/article.pl?sid=25/12/21/0918231&from=rss) - [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&from=rss)
 * [2025-12-23, 02:44:00](https://soylentnews.org/article.pl?sid=25/12/21/0915233&from=rss) - [Creating Apps Like Signal or WhatsApp Could be 'Hostile Activity,' Claims UK Watchdog](https://soylentnews.org/article.pl?sid=25/12/21/0915233&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-14, 19:11:00](https://soylentnews.org/article.pl?sid=25/12/13/0439237&from=rss) - [Big Tech Joins Forces With Linux Foundation to Standardize AI Agents](https://soylentnews.org/article.pl?sid=25/12/13/0439237&from=rss)
 * [2025-12-14, 14:26:00](https://soylentnews.org/article.pl?sid=25/12/13/0429235&from=rss) - [Calibre Now Integrated With AI](https://soylentnews.org/article.pl?sid=25/12/13/0429235&from=rss)
 * [2025-12-14, 09:36:00](https://soylentnews.org/article.pl?sid=25/12/13/0329247&from=rss) - [Ultra-Thin Nanomembrane Device Forms Soft, Seamless Interface With Living Tissue](https://soylentnews.org/article.pl?sid=25/12/13/0329247&from=rss)
-* [2025-12-14, 04:46:00](https://soylentnews.org/article.pl?sid=25/12/13/0323237&from=rss) - [When It All Comes Crashing Down: The Aftermath of the AI Boom](https://soylentnews.org/article.pl?sid=25/12/13/0323237&from=rss)
 
 ## [Archives](archives/index.md)
 
