@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-25, 16:27:00](https://soylentnews.org/article.pl?sid=25/12/22/1755209&from=rss) - [Trump Signs Executive Order Reclassifying Cannabis, Opening Door to Broader Weed Access](https://soylentnews.org/article.pl?sid=25/12/22/1755209&from=rss)
 * [2025-12-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/12/22/1751236&from=rss) - [Danish Postal Service to Stop Delivering Letters After 400 Years](https://soylentnews.org/article.pl?sid=25/12/22/1751236&from=rss)
 * [2025-12-25, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/22/1749222&from=rss) - [Cosmic Crash Caught on Camera](https://soylentnews.org/article.pl?sid=25/12/22/1749222&from=rss)
 * [2025-12-25, 02:15:00](https://soylentnews.org/article.pl?sid=25/12/22/1747232&from=rss) - [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-16, 18:27:00](https://soylentnews.org/article.pl?sid=25/12/15/018209&from=rss) - [New Review Highlights Urgent Need for Worldwide Smell Screening](https://soylentnews.org/article.pl?sid=25/12/15/018209&from=rss)
 * [2025-12-16, 13:45:00](https://soylentnews.org/article.pl?sid=25/12/15/016245&from=rss) - [Kali Linux 2025.4 Ethical Hacking Distro Released With KDE Plasma 6.5, GNOME 49](https://soylentnews.org/article.pl?sid=25/12/15/016245&from=rss)
 * [2025-12-16, 09:02:00](https://soylentnews.org/article.pl?sid=25/12/15/014215&from=rss) - [Scientists Discover Early Alzheimer's Warning Sign Hiding in Routine Brain Scans](https://soylentnews.org/article.pl?sid=25/12/15/014215&from=rss)
-* [2025-12-16, 04:15:00](https://soylentnews.org/article.pl?sid=25/12/13/1648208&from=rss) - [U.S. Approves First Device to Treat Depression With Brain Stimulation at Home](https://soylentnews.org/article.pl?sid=25/12/13/1648208&from=rss)
 
 ## [Archives](archives/index.md)
 
