@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-26, 01:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0426211&from=rss) - [Pennsylvania High Court Rules Police Can Access Google Searches Without Warrant](https://soylentnews.org/article.pl?sid=25/12/23/0426211&from=rss)
 * [2025-12-25, 21:13:00](https://soylentnews.org/article.pl?sid=25/12/22/1756237&from=rss) - [In-Car Touchscreens Are Way More Distracting Than We First Thought, Says New Study](https://soylentnews.org/article.pl?sid=25/12/22/1756237&from=rss)
 * [2025-12-25, 16:27:00](https://soylentnews.org/article.pl?sid=25/12/22/1755209&from=rss) - [Trump Signs Executive Order Reclassifying Cannabis, Opening Door to Broader Weed Access](https://soylentnews.org/article.pl?sid=25/12/22/1755209&from=rss)
 * [2025-12-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/12/22/1751236&from=rss) - [Danish Postal Service to Stop Delivering Letters After 400 Years](https://soylentnews.org/article.pl?sid=25/12/22/1751236&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-17, 04:03:00](https://soylentnews.org/article.pl?sid=25/12/16/0718227&from=rss) - [Australians Install 100,000 Home Battery Systems in 17 Weeks, and They Are Getting Bigger](https://soylentnews.org/article.pl?sid=25/12/16/0718227&from=rss)
 * [2025-12-16, 23:18:00](https://soylentnews.org/article.pl?sid=25/12/15/0110223&from=rss) - [Breaking a 50-Year Law: New Evidence Challenges Fundamental Black Hole Physics](https://soylentnews.org/article.pl?sid=25/12/15/0110223&from=rss)
 * [2025-12-16, 18:27:00](https://soylentnews.org/article.pl?sid=25/12/15/018209&from=rss) - [New Review Highlights Urgent Need for Worldwide Smell Screening](https://soylentnews.org/article.pl?sid=25/12/15/018209&from=rss)
-* [2025-12-16, 13:45:00](https://soylentnews.org/article.pl?sid=25/12/15/016245&from=rss) - [Kali Linux 2025.4 Ethical Hacking Distro Released With KDE Plasma 6.5, GNOME 49](https://soylentnews.org/article.pl?sid=25/12/15/016245&from=rss)
 
 ## [Archives](archives/index.md)
 
