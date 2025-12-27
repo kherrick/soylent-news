@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-27, 01:40:00](https://soylentnews.org/article.pl?sid=25/12/25/2154252&from=rss) - [MIT Reveals How High-Fat Diets Quietly Prime the Liver for Cancer](https://soylentnews.org/article.pl?sid=25/12/25/2154252&from=rss)
 * [2025-12-26, 20:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0437256&from=rss) - [Disaster After Disaster: Do We Have Enough Raw Materials to 'Build Back Better?'](https://soylentnews.org/article.pl?sid=25/12/23/0437256&from=rss)
 * [2025-12-26, 18:01:00](https://soylentnews.org/article.pl?sid=25/12/26/1546258&from=rss) - [Options to Break Free From Smart TV Ads and Tracking](https://soylentnews.org/article.pl?sid=25/12/26/1546258&from=rss)
 * [2025-12-26, 16:12:00](https://soylentnews.org/article.pl?sid=25/12/23/0432237&from=rss) - [Reddit challenges AUS Social Media law in court](https://soylentnews.org/article.pl?sid=25/12/23/0432237&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-18, 08:38:00](https://soylentnews.org/article.pl?sid=25/12/17/0149259&from=rss) - [Ford Cancels Electric F-150](https://soylentnews.org/article.pl?sid=25/12/17/0149259&from=rss)
 * [2025-12-18, 03:46:00](https://soylentnews.org/article.pl?sid=25/12/17/0147256&from=rss) - [After 50 Years, MIT Chemists Finally Synthesize Elusive Anti-Cancer Compound](https://soylentnews.org/article.pl?sid=25/12/17/0147256&from=rss)
 * [2025-12-17, 23:01:00](https://soylentnews.org/article.pl?sid=25/12/16/0745203&from=rss) - [This Group Pays Bounties to Repair Broken Devices—Even If the Fix Breaks the Law](https://soylentnews.org/article.pl?sid=25/12/16/0745203&from=rss)
-* [2025-12-17, 18:18:00](https://soylentnews.org/article.pl?sid=25/12/16/0740251&from=rss) - [Norovirus Cases Surging in U.S.](https://soylentnews.org/article.pl?sid=25/12/16/0740251&from=rss)
 
 ## [Archives](archives/index.md)
 
