@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-28, 06:19:00](https://soylentnews.org/article.pl?sid=25/12/26/1958223&from=rss) - [Texas Sues TV Makers for Taking Screenshots of What People Watch](https://soylentnews.org/article.pl?sid=25/12/26/1958223&from=rss)
 * [2025-12-28, 01:33:00](https://soylentnews.org/article.pl?sid=25/12/26/1946250&from=rss) - [Who Sets the Doomsday Clock?](https://soylentnews.org/article.pl?sid=25/12/26/1946250&from=rss)
 * [2025-12-27, 20:44:00](https://soylentnews.org/article.pl?sid=25/12/25/226213&from=rss) - [Night Waking Impacts Cognitive Performance Regardless of Sleep Duration](https://soylentnews.org/article.pl?sid=25/12/25/226213&from=rss)
 * [2025-12-27, 15:53:00](https://soylentnews.org/article.pl?sid=25/12/25/224204&from=rss) - [EU Offers UK Early Gift: Data Adequacy Until 2031](https://soylentnews.org/article.pl?sid=25/12/25/224204&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-19, 08:14:00](https://soylentnews.org/article.pl?sid=25/12/18/0358200&from=rss) - [Google Translate expands live translation to all earbuds on Android](https://soylentnews.org/article.pl?sid=25/12/18/0358200&from=rss)
 * [2025-12-19, 08:11:00](https://soylentnews.org/article.pl?sid=25/12/18/0353210&from=rss) - [British Billboards Are Watching You](https://soylentnews.org/article.pl?sid=25/12/18/0353210&from=rss)
 * [2025-12-19, 03:37:00](https://soylentnews.org/article.pl?sid=25/12/17/0218212&from=rss) - [UK Strengthens Subsea Cables Against Russian Interference](https://soylentnews.org/article.pl?sid=25/12/17/0218212&from=rss)
-* [2025-12-18, 22:51:00](https://soylentnews.org/article.pl?sid=25/12/17/027253&from=rss) - [Forget Flowers: These Ancient Plants Attract Pollinators by Getting Hot](https://soylentnews.org/article.pl?sid=25/12/17/027253&from=rss)
 
 ## [Archives](archives/index.md)
 
