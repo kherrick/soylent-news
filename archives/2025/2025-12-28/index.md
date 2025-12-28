@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-12-28](index.md)
+
+* [2025-12-28, 01:33:00](https://soylentnews.org/article.pl?sid=25/12/26/1946250&from=rss) - [Who Sets the Doomsday Clock?](https://soylentnews.org/article.pl?sid=25/12/26/1946250&from=rss)
