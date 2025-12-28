@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-28, 17:00:00](https://soylentnews.org/article.pl?sid=25/12/28/1357214&from=rss) - [The 39th Chaos Communication Congress (39C3) Taking Place Now in Hamburg Through 30 Dec 2025](https://soylentnews.org/article.pl?sid=25/12/28/1357214&from=rss)
 * [2025-12-28, 15:49:00](https://soylentnews.org/article.pl?sid=25/12/26/2015254&from=rss) - [How OpenAI is Using GPT-5 Codex to Improve the AI Tool Itself](https://soylentnews.org/article.pl?sid=25/12/26/2015254&from=rss)
 * [2025-12-28, 11:02:00](https://soylentnews.org/article.pl?sid=25/12/26/205213&from=rss) - [Will AI Kill All the Lawyers?](https://soylentnews.org/article.pl?sid=25/12/26/205213&from=rss)
 * [2025-12-28, 06:19:00](https://soylentnews.org/article.pl?sid=25/12/26/1958223&from=rss) - [Texas Sues TV Makers for Taking Screenshots of What People Watch](https://soylentnews.org/article.pl?sid=25/12/26/1958223&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-19, 22:43:00](https://soylentnews.org/article.pl?sid=25/12/18/133249&from=rss) - [Mozilla's New CEO: Firefox Will Become an “AI Browser”](https://soylentnews.org/article.pl?sid=25/12/18/133249&from=rss)
 * [2025-12-19, 17:55:00](https://soylentnews.org/article.pl?sid=25/12/18/046237&from=rss) - [Resolving to Spend Less Time on Your Smartphone? Understanding Your Travel Habits Can Help](https://soylentnews.org/article.pl?sid=25/12/18/046237&from=rss)
 * [2025-12-19, 13:21:00](https://soylentnews.org/article.pl?sid=25/12/18/044218&from=rss) - [UK to “Encourage” Apple and Google to Put Nudity-Blocking Systems on Phones](https://soylentnews.org/article.pl?sid=25/12/18/044218&from=rss)
-* [2025-12-19, 08:14:00](https://soylentnews.org/article.pl?sid=25/12/18/0358200&from=rss) - [Google Translate expands live translation to all earbuds on Android](https://soylentnews.org/article.pl?sid=25/12/18/0358200&from=rss)
 
 ## [Archives](archives/index.md)
 
