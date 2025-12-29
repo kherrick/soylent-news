@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-29, 10:52:00](https://soylentnews.org/article.pl?sid=25/12/27/235226&from=rss) - [How Recent is \"Recent\"?](https://soylentnews.org/article.pl?sid=25/12/27/235226&from=rss)
 * [2025-12-29, 06:09:00](https://soylentnews.org/article.pl?sid=25/12/27/230209&from=rss) - [Microsoft To Replace All C/C++ With Rust By 2030](https://soylentnews.org/article.pl?sid=25/12/27/230209&from=rss)
 * [2025-12-29, 01:17:00](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss) - [Why Swearing Makes You Stronger](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss)
 * [2025-12-28, 20:37:00](https://soylentnews.org/article.pl?sid=25/12/26/2021243&from=rss) - [Your Car's Web Browser May be on the Road to Cyber Ruin](https://soylentnews.org/article.pl?sid=25/12/26/2021243&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-20, 17:44:00](https://soylentnews.org/article.pl?sid=25/12/19/0524257&from=rss) - [Nissan Adds Hearing Test and Custom Equilization to Car Audio](https://soylentnews.org/article.pl?sid=25/12/19/0524257&from=rss)
 * [2025-12-20, 12:57:00](https://soylentnews.org/article.pl?sid=25/12/19/0522251&from=rss) - [iRobot Swept Into Bankruptcy](https://soylentnews.org/article.pl?sid=25/12/19/0522251&from=rss)
 * [2025-12-20, 08:17:00](https://soylentnews.org/article.pl?sid=25/12/19/0429209&from=rss) - [Google Releases its New Google Sans Flex Font as Open Source](https://soylentnews.org/article.pl?sid=25/12/19/0429209&from=rss)
-* [2025-12-20, 03:27:00](https://soylentnews.org/article.pl?sid=25/12/18/139231&from=rss) - [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&from=rss)
 
 ## [Archives](archives/index.md)
 
