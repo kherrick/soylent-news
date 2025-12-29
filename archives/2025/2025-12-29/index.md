@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-12-29](index.md)
+
+* [2025-12-29, 01:17:00](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss) - [Why Swearing Makes You Stronger](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss)

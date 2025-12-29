@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-29, 01:17:00](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss) - [Why Swearing Makes You Stronger](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss)
 * [2025-12-28, 20:37:00](https://soylentnews.org/article.pl?sid=25/12/26/2021243&from=rss) - [Your Car's Web Browser May be on the Road to Cyber Ruin](https://soylentnews.org/article.pl?sid=25/12/26/2021243&from=rss)
 * [2025-12-28, 17:00:00](https://soylentnews.org/article.pl?sid=25/12/28/1357214&from=rss) - [The 39th Chaos Communication Congress (39C3) Taking Place Now in Hamburg Through 30 Dec 2025](https://soylentnews.org/article.pl?sid=25/12/28/1357214&from=rss)
 * [2025-12-28, 15:49:00](https://soylentnews.org/article.pl?sid=25/12/26/2015254&from=rss) - [How OpenAI is Using GPT-5 Codex to Improve the AI Tool Itself](https://soylentnews.org/article.pl?sid=25/12/26/2015254&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-20, 08:17:00](https://soylentnews.org/article.pl?sid=25/12/19/0429209&from=rss) - [Google Releases its New Google Sans Flex Font as Open Source](https://soylentnews.org/article.pl?sid=25/12/19/0429209&from=rss)
 * [2025-12-20, 03:27:00](https://soylentnews.org/article.pl?sid=25/12/18/139231&from=rss) - [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&from=rss)
 * [2025-12-19, 22:43:00](https://soylentnews.org/article.pl?sid=25/12/18/133249&from=rss) - [Mozilla's New CEO: Firefox Will Become an “AI Browser”](https://soylentnews.org/article.pl?sid=25/12/18/133249&from=rss)
-* [2025-12-19, 17:55:00](https://soylentnews.org/article.pl?sid=25/12/18/046237&from=rss) - [Resolving to Spend Less Time on Your Smartphone? Understanding Your Travel Habits Can Help](https://soylentnews.org/article.pl?sid=25/12/18/046237&from=rss)
 
 ## [Archives](archives/index.md)
 
