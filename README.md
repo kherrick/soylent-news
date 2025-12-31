@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2025-12-31, 05:35:00](https://soylentnews.org/article.pl?sid=25/12/29/1748200&from=rss) - [Spotify Disables Accounts After Open-Source Group Scrapes 86 Million Songs From Platform](https://soylentnews.org/article.pl?sid=25/12/29/1748200&from=rss)
 * [2025-12-31, 00:53:00](https://soylentnews.org/article.pl?sid=25/12/29/1742252&from=rss) - [Is Proton Leaving Switzerland? \"Legal Uncertainty\" of Proposed Surveillance Laws Would be the Reason](https://soylentnews.org/article.pl?sid=25/12/29/1742252&from=rss)
 * [2025-12-30, 20:04:00](https://soylentnews.org/article.pl?sid=25/12/28/1123222&from=rss) - [Beware of OpenAI's 'Grantwashing' on AI Harms](https://soylentnews.org/article.pl?sid=25/12/28/1123222&from=rss)
 * [2025-12-30, 15:23:00](https://soylentnews.org/article.pl?sid=25/12/28/1121243&from=rss) - [First Ever Version of UNIX Written in C is Running Again](https://soylentnews.org/article.pl?sid=25/12/28/1121243&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-22, 07:47:00](https://soylentnews.org/article.pl?sid=25/12/20/1449230&from=rss) - [Google is Shutting Down its Dark Web Report Feature in January](https://soylentnews.org/article.pl?sid=25/12/20/1449230&from=rss)
 * [2025-12-22, 03:04:00](https://soylentnews.org/article.pl?sid=25/12/20/1446230&from=rss) - [Senators Count the Shady Ways Data Centers Pass Energy Costs on to Americans](https://soylentnews.org/article.pl?sid=25/12/20/1446230&from=rss)
 * [2025-12-21, 22:18:00](https://soylentnews.org/article.pl?sid=25/12/20/1439207&from=rss) - [Google's New 'Disco' Browser Turns Tabs Into Custom Web Apps](https://soylentnews.org/article.pl?sid=25/12/20/1439207&from=rss)
-* [2025-12-21, 17:36:00](https://soylentnews.org/article.pl?sid=25/12/20/1428203&from=rss) - [The Secret Life of Moles: What They're Really Up to Underground](https://soylentnews.org/article.pl?sid=25/12/20/1428203&from=rss)
 
 ## [Archives](archives/index.md)
 
