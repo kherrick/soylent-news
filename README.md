@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-01, 10:03:00](https://soylentnews.org/article.pl?sid=25/12/31/026206&from=rss) - [D7VK Reaches Version 1.1 and Adds New Frontend and Experimental Direct3D 6 Support](https://soylentnews.org/article.pl?sid=25/12/31/026206&from=rss)
+* [2026-01-01, 10:02:00](https://soylentnews.org/article.pl?sid=25/12/31/022234&from=rss) - [Study Reveals Just How Much AI Slop is on YouTube](https://soylentnews.org/article.pl?sid=25/12/31/022234&from=rss)
 * [2026-01-01, 05:15:00](https://soylentnews.org/article.pl?sid=25/12/31/020219&from=rss) - [US Insurance Giant Aflac Says Hackers Stole Personal and Health Data of 22.6 Million People](https://soylentnews.org/article.pl?sid=25/12/31/020219&from=rss)
 * [2026-01-01, 00:37:00](https://soylentnews.org/article.pl?sid=25/12/31/0148238&from=rss) - [Not Everyone Reads the Room the Same](https://soylentnews.org/article.pl?sid=25/12/31/0148238&from=rss)
 * [2026-01-01, 00:00:00](https://soylentnews.org/article.pl?sid=25/12/31/0616216&from=rss) - [Happy New Year 2026 !](https://soylentnews.org/article.pl?sid=25/12/31/0616216&from=rss)
@@ -48,8 +50,6 @@
 * [2025-12-23, 21:41:00](https://soylentnews.org/article.pl?sid=25/12/22/0032258&from=rss) - [Firefox Will Ship With an “AI Kill Switch” to Completely Disable All AI Features](https://soylentnews.org/article.pl?sid=25/12/22/0032258&from=rss)
 * [2025-12-23, 16:57:00](https://soylentnews.org/article.pl?sid=25/12/22/0029209&from=rss) - [A Better Zip Bomb](https://soylentnews.org/article.pl?sid=25/12/22/0029209&from=rss)
 * [2025-12-23, 12:14:00](https://soylentnews.org/article.pl?sid=25/12/21/0921233&from=rss) - [Titan's Slushy Oceans](https://soylentnews.org/article.pl?sid=25/12/21/0921233&from=rss)
-* [2025-12-23, 07:31:00](https://soylentnews.org/article.pl?sid=25/12/21/0918231&from=rss) - [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&from=rss)
-* [2025-12-23, 02:44:00](https://soylentnews.org/article.pl?sid=25/12/21/0915233&from=rss) - [Creating Apps Like Signal or WhatsApp Could be 'Hostile Activity,' Claims UK Watchdog](https://soylentnews.org/article.pl?sid=25/12/21/0915233&from=rss)
 
 ## [Archives](archives/index.md)
 
