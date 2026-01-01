@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-01, 00:37:00](https://soylentnews.org/article.pl?sid=25/12/31/0148238&from=rss) - [Not Everyone Reads the Room the Same](https://soylentnews.org/article.pl?sid=25/12/31/0148238&from=rss)
+* [2026-01-01, 00:00:00](https://soylentnews.org/article.pl?sid=25/12/31/0616216&from=rss) - [Happy New Year 2026 !](https://soylentnews.org/article.pl?sid=25/12/31/0616216&from=rss)
 * [2025-12-31, 19:46:00](https://soylentnews.org/article.pl?sid=25/12/29/1810235&from=rss) - [Jolla's Community Linux Phone Surpasses its Funding Goal](https://soylentnews.org/article.pl?sid=25/12/29/1810235&from=rss)
 * [2025-12-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/12/29/185233&from=rss) - [Closure of US Institute Will Do Immense Harm to Climate Research](https://soylentnews.org/article.pl?sid=25/12/29/185233&from=rss)
 * [2025-12-31, 10:20:00](https://soylentnews.org/article.pl?sid=25/12/29/1752203&from=rss) - [Company Plans to Build Swarm of 4,000 Giant Mirrors in Low Earth Orbit to “Sell Sunlight\" at Night](https://soylentnews.org/article.pl?sid=25/12/29/1752203&from=rss)
@@ -48,11 +50,10 @@
 * [2025-12-23, 07:31:00](https://soylentnews.org/article.pl?sid=25/12/21/0918231&from=rss) - [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&from=rss)
 * [2025-12-23, 02:44:00](https://soylentnews.org/article.pl?sid=25/12/21/0915233&from=rss) - [Creating Apps Like Signal or WhatsApp Could be 'Hostile Activity,' Claims UK Watchdog](https://soylentnews.org/article.pl?sid=25/12/21/0915233&from=rss)
 * [2025-12-22, 22:02:00](https://soylentnews.org/article.pl?sid=25/12/21/099243&from=rss) - [Communities Are Rising Up Against Data Centers — and Winning](https://soylentnews.org/article.pl?sid=25/12/21/099243&from=rss)
-* [2025-12-22, 17:17:00](https://soylentnews.org/article.pl?sid=25/12/21/0855202&from=rss) - [Where Do Microplastics Go Once They Sink Into the Ocean?](https://soylentnews.org/article.pl?sid=25/12/21/0855202&from=rss)
-* [2025-12-22, 12:32:00](https://soylentnews.org/article.pl?sid=25/12/20/1453248&from=rss) - [North Korean Infiltrator Caught Working in Amazon IT Department Thanks to Keystroke Lag](https://soylentnews.org/article.pl?sid=25/12/20/1453248&from=rss)
 
 ## [Archives](archives/index.md)
 
+* [2026](archives/2026/index.md)
 * [2025](archives/2025/index.md)
 * [2024](archives/2024/index.md)
 * [2023](archives/2023/index.md)
