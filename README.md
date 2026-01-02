@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-02, 09:48:00](https://soylentnews.org/article.pl?sid=25/12/31/1850201&from=rss) - [A Built-in Odometer: New Study Reveals How the Brain Measures Distance](https://soylentnews.org/article.pl?sid=25/12/31/1850201&from=rss)
 * [2026-01-02, 05:05:00](https://soylentnews.org/article.pl?sid=25/12/31/1846257&from=rss) - [39C3: Multiple Vulnerabilities in GnuPG and Other Cryptographic Tools](https://soylentnews.org/article.pl?sid=25/12/31/1846257&from=rss)
 * [2026-01-02, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/31/1843231&from=rss) - [Funding Agencies Can End Profit-First Science Publishing](https://soylentnews.org/article.pl?sid=25/12/31/1843231&from=rss)
 * [2026-01-01, 19:38:00](https://soylentnews.org/article.pl?sid=25/12/31/029210&from=rss) - [Aging Immune Cells May Rewrite Their Own DNA to Stay Inflammatory](https://soylentnews.org/article.pl?sid=25/12/31/029210&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-24, 21:30:00](https://soylentnews.org/article.pl?sid=25/12/22/1741226&from=rss) - [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&from=rss)
 * [2025-12-24, 16:45:00](https://soylentnews.org/article.pl?sid=25/12/22/0125252&from=rss) - [Nvidia Plans Heavy Cuts to GPU Supply in Early 2026](https://soylentnews.org/article.pl?sid=25/12/22/0125252&from=rss)
 * [2025-12-24, 11:52:00](https://soylentnews.org/article.pl?sid=25/12/22/0124250&from=rss) - [Is Talented Youth Nurtured the Wrong Way? Top Performers Develop Differently Than Assumed](https://soylentnews.org/article.pl?sid=25/12/22/0124250&from=rss)
-* [2025-12-24, 07:10:00](https://soylentnews.org/article.pl?sid=25/12/22/0121248&from=rss) - [Ford EV Battery Joint Venture Plant Lays Off All Workers](https://soylentnews.org/article.pl?sid=25/12/22/0121248&from=rss)
 
 ## [Archives](archives/index.md)
 
