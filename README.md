@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-03, 14:19:00](https://soylentnews.org/article.pl?sid=26/01/02/0051241&from=rss) - [Start-Up Proposes Scaled Up AI Data Center 'Active Radio Cable' Connectivity](https://soylentnews.org/article.pl?sid=26/01/02/0051241&from=rss)
 * [2026-01-03, 09:30:00](https://soylentnews.org/article.pl?sid=26/01/02/0043212&from=rss) - [Thousands of Servers Exposed as MongoBleed Vulnerability Exploited](https://soylentnews.org/article.pl?sid=26/01/02/0043212&from=rss)
 * [2026-01-03, 04:45:00](https://soylentnews.org/article.pl?sid=26/01/02/0038241&from=rss) - [QNX Releases New Desktop-Focused Image: QNX 8.0 With Xfce on Wayland](https://soylentnews.org/article.pl?sid=26/01/02/0038241&from=rss)
 * [2026-01-03, 00:04:00](https://soylentnews.org/article.pl?sid=25/12/31/194236&from=rss) - [For Computational Devices, Talk Isn't Cheap](https://soylentnews.org/article.pl?sid=25/12/31/194236&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-26, 01:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0426211&from=rss) - [Pennsylvania High Court Rules Police Can Access Google Searches Without Warrant](https://soylentnews.org/article.pl?sid=25/12/23/0426211&from=rss)
 * [2025-12-25, 21:13:00](https://soylentnews.org/article.pl?sid=25/12/22/1756237&from=rss) - [In-Car Touchscreens Are Way More Distracting Than We First Thought, Says New Study](https://soylentnews.org/article.pl?sid=25/12/22/1756237&from=rss)
 * [2025-12-25, 16:27:00](https://soylentnews.org/article.pl?sid=25/12/22/1755209&from=rss) - [Trump Signs Executive Order Reclassifying Cannabis, Opening Door to Broader Weed Access](https://soylentnews.org/article.pl?sid=25/12/22/1755209&from=rss)
-* [2025-12-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/12/22/1751236&from=rss) - [Danish Postal Service to Stop Delivering Letters After 400 Years](https://soylentnews.org/article.pl?sid=25/12/22/1751236&from=rss)
 
 ## [Archives](archives/index.md)
 
