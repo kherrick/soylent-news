@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-03](index.md)
 
+* [2026-01-03, 23:48:00](https://soylentnews.org/article.pl?sid=26/01/02/0059210&from=rss) - [Scientists Outline How to Control Light at the Atomic Scale Using Polaritons](https://soylentnews.org/article.pl?sid=26/01/02/0059210&from=rss)
 * [2026-01-03, 19:04:00](https://soylentnews.org/article.pl?sid=26/01/02/0056200&from=rss) - [UK Company Shoots a 1,000-Degree Furnace Into Space to Study Off-World Chip Manufacturing](https://soylentnews.org/article.pl?sid=26/01/02/0056200&from=rss)
 * [2026-01-03, 14:19:00](https://soylentnews.org/article.pl?sid=26/01/02/0051241&from=rss) - [Start-Up Proposes Scaled Up AI Data Center 'Active Radio Cable' Connectivity](https://soylentnews.org/article.pl?sid=26/01/02/0051241&from=rss)
 * [2026-01-03, 09:30:00](https://soylentnews.org/article.pl?sid=26/01/02/0043212&from=rss) - [Thousands of Servers Exposed as MongoBleed Vulnerability Exploited](https://soylentnews.org/article.pl?sid=26/01/02/0043212&from=rss)
