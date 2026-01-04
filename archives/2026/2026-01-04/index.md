@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 23:36:00](https://soylentnews.org/article.pl?sid=26/01/02/0549225&from=rss) - [He Made Beer That's Also a Vaccine. Now Controversy is Brewing](https://soylentnews.org/article.pl?sid=26/01/02/0549225&from=rss)
 * [2026-01-04, 18:52:00](https://soylentnews.org/article.pl?sid=26/01/02/0544211&from=rss) - [HP-UX Hits End-of-Life](https://soylentnews.org/article.pl?sid=26/01/02/0544211&from=rss)
 * [2026-01-04, 14:06:00](https://soylentnews.org/article.pl?sid=26/01/02/018201&from=rss) - [Americans Lost $333 Million to Bitcoin ATM Fraud in 2025](https://soylentnews.org/article.pl?sid=26/01/02/018201&from=rss)
 * [2026-01-04, 09:22:00](https://soylentnews.org/article.pl?sid=26/01/02/016205&from=rss) - [Large Hadron Collider Upgrade](https://soylentnews.org/article.pl?sid=26/01/02/016205&from=rss)
