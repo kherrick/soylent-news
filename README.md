@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-04, 14:06:00](https://soylentnews.org/article.pl?sid=26/01/02/018201&from=rss) - [Americans Lost $333 Million to Bitcoin ATM Fraud in 2025](https://soylentnews.org/article.pl?sid=26/01/02/018201&from=rss)
 * [2026-01-04, 09:22:00](https://soylentnews.org/article.pl?sid=26/01/02/016205&from=rss) - [Large Hadron Collider Upgrade](https://soylentnews.org/article.pl?sid=26/01/02/016205&from=rss)
 * [2026-01-04, 04:34:00](https://soylentnews.org/article.pl?sid=26/01/02/010257&from=rss) - [Ozempic is Changing the Foods Americans Buy](https://soylentnews.org/article.pl?sid=26/01/02/010257&from=rss)
 * [2026-01-03, 23:48:00](https://soylentnews.org/article.pl?sid=26/01/02/0059210&from=rss) - [Scientists Outline How to Control Light at the Atomic Scale Using Polaritons](https://soylentnews.org/article.pl?sid=26/01/02/0059210&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-26, 20:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0437256&from=rss) - [Disaster After Disaster: Do We Have Enough Raw Materials to 'Build Back Better?'](https://soylentnews.org/article.pl?sid=25/12/23/0437256&from=rss)
 * [2025-12-26, 18:01:00](https://soylentnews.org/article.pl?sid=25/12/26/1546258&from=rss) - [Options to Break Free From Smart TV Ads and Tracking](https://soylentnews.org/article.pl?sid=25/12/26/1546258&from=rss)
 * [2025-12-26, 16:12:00](https://soylentnews.org/article.pl?sid=25/12/23/0432237&from=rss) - [Reddit challenges AUS Social Media law in court](https://soylentnews.org/article.pl?sid=25/12/23/0432237&from=rss)
-* [2025-12-26, 11:20:00](https://soylentnews.org/article.pl?sid=25/12/23/0431239&from=rss) - [Climate Misinformation is Becoming a National Security Threat. Canada Isn't Ready for It](https://soylentnews.org/article.pl?sid=25/12/23/0431239&from=rss)
 
 ## [Archives](archives/index.md)
 
