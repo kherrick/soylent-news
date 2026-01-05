@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-05, 23:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1627244&from=rss) - [The Worst CPUs Ever Made](https://soylentnews.org/article.pl?sid=26/01/02/1627244&from=rss)
 * [2026-01-05, 18:37:00](https://soylentnews.org/article.pl?sid=26/01/02/1618258&from=rss) - [Parkinson's is the Canary in the Coal Mine Warning Us That Our Environment is Sick](https://soylentnews.org/article.pl?sid=26/01/02/1618258&from=rss)
 * [2026-01-05, 13:53:00](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&from=rss) - [U.S. Allows TSMC to Import Chipmaking Equipment to its China Fabs](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&from=rss)
 * [2026-01-05, 09:03:00](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss) - [How Do We Hold Companies Accountable for \"Do as I Say, Not as I Do\" Security Practices?](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-28, 06:19:00](https://soylentnews.org/article.pl?sid=25/12/26/1958223&from=rss) - [Texas Sues TV Makers for Taking Screenshots of What People Watch](https://soylentnews.org/article.pl?sid=25/12/26/1958223&from=rss)
 * [2025-12-28, 01:33:00](https://soylentnews.org/article.pl?sid=25/12/26/1946250&from=rss) - [Who Sets the Doomsday Clock?](https://soylentnews.org/article.pl?sid=25/12/26/1946250&from=rss)
 * [2025-12-27, 20:44:00](https://soylentnews.org/article.pl?sid=25/12/25/226213&from=rss) - [Night Waking Impacts Cognitive Performance Regardless of Sleep Duration](https://soylentnews.org/article.pl?sid=25/12/25/226213&from=rss)
-* [2025-12-27, 15:53:00](https://soylentnews.org/article.pl?sid=25/12/25/224204&from=rss) - [EU Offers UK Early Gift: Data Adequacy Until 2031](https://soylentnews.org/article.pl?sid=25/12/25/224204&from=rss)
 
 ## [Archives](archives/index.md)
 

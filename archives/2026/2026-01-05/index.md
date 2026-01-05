@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 23:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1627244&from=rss) - [The Worst CPUs Ever Made](https://soylentnews.org/article.pl?sid=26/01/02/1627244&from=rss)
 * [2026-01-05, 18:37:00](https://soylentnews.org/article.pl?sid=26/01/02/1618258&from=rss) - [Parkinson's is the Canary in the Coal Mine Warning Us That Our Environment is Sick](https://soylentnews.org/article.pl?sid=26/01/02/1618258&from=rss)
 * [2026-01-05, 13:53:00](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&from=rss) - [U.S. Allows TSMC to Import Chipmaking Equipment to its China Fabs](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&from=rss)
 * [2026-01-05, 09:03:00](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss) - [How Do We Hold Companies Accountable for \"Do as I Say, Not as I Do\" Security Practices?](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss)
