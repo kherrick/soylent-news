@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-05, 04:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1613215&from=rss) - [In 1962, a Geologist Went Into a Cave. 2 Months Later, He'd Accidentally Invented a New Field](https://soylentnews.org/article.pl?sid=26/01/02/1613215&from=rss)
 * [2026-01-04, 23:36:00](https://soylentnews.org/article.pl?sid=26/01/02/0549225&from=rss) - [He Made Beer That's Also a Vaccine. Now Controversy is Brewing](https://soylentnews.org/article.pl?sid=26/01/02/0549225&from=rss)
 * [2026-01-04, 18:52:00](https://soylentnews.org/article.pl?sid=26/01/02/0544211&from=rss) - [HP-UX Hits End-of-Life](https://soylentnews.org/article.pl?sid=26/01/02/0544211&from=rss)
 * [2026-01-04, 14:06:00](https://soylentnews.org/article.pl?sid=26/01/02/018201&from=rss) - [Americans Lost $333 Million to Bitcoin ATM Fraud in 2025](https://soylentnews.org/article.pl?sid=26/01/02/018201&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-27, 11:16:00](https://soylentnews.org/article.pl?sid=25/12/25/222237&from=rss) - [Science Sleuths Raise Concerns About Scores of Bioengineering Papers](https://soylentnews.org/article.pl?sid=25/12/25/222237&from=rss)
 * [2025-12-27, 06:25:00](https://soylentnews.org/article.pl?sid=25/12/25/2156225&from=rss) - [We May Never be Able to Tell If AI Becomes Conscious, Argues Philosopher](https://soylentnews.org/article.pl?sid=25/12/25/2156225&from=rss)
 * [2025-12-27, 01:40:00](https://soylentnews.org/article.pl?sid=25/12/25/2154252&from=rss) - [MIT Reveals How High-Fat Diets Quietly Prime the Liver for Cancer](https://soylentnews.org/article.pl?sid=25/12/25/2154252&from=rss)
-* [2025-12-26, 20:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0437256&from=rss) - [Disaster After Disaster: Do We Have Enough Raw Materials to 'Build Back Better?'](https://soylentnews.org/article.pl?sid=25/12/23/0437256&from=rss)
 
 ## [Archives](archives/index.md)
 
