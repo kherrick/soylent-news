@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-05, 13:53:00](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&from=rss) - [U.S. Allows TSMC to Import Chipmaking Equipment to its China Fabs](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&from=rss)
 * [2026-01-05, 09:03:00](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss) - [How Do We Hold Companies Accountable for \"Do as I Say, Not as I Do\" Security Practices?](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss)
 * [2026-01-05, 04:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1613215&from=rss) - [In 1962, a Geologist Went Into a Cave. 2 Months Later, He'd Accidentally Invented a New Field](https://soylentnews.org/article.pl?sid=26/01/02/1613215&from=rss)
 * [2026-01-04, 23:36:00](https://soylentnews.org/article.pl?sid=26/01/02/0549225&from=rss) - [He Made Beer That's Also a Vaccine. Now Controversy is Brewing](https://soylentnews.org/article.pl?sid=26/01/02/0549225&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-27, 20:44:00](https://soylentnews.org/article.pl?sid=25/12/25/226213&from=rss) - [Night Waking Impacts Cognitive Performance Regardless of Sleep Duration](https://soylentnews.org/article.pl?sid=25/12/25/226213&from=rss)
 * [2025-12-27, 15:53:00](https://soylentnews.org/article.pl?sid=25/12/25/224204&from=rss) - [EU Offers UK Early Gift: Data Adequacy Until 2031](https://soylentnews.org/article.pl?sid=25/12/25/224204&from=rss)
 * [2025-12-27, 11:16:00](https://soylentnews.org/article.pl?sid=25/12/25/222237&from=rss) - [Science Sleuths Raise Concerns About Scores of Bioengineering Papers](https://soylentnews.org/article.pl?sid=25/12/25/222237&from=rss)
-* [2025-12-27, 06:25:00](https://soylentnews.org/article.pl?sid=25/12/25/2156225&from=rss) - [We May Never be Able to Tell If AI Becomes Conscious, Argues Philosopher](https://soylentnews.org/article.pl?sid=25/12/25/2156225&from=rss)
 
 ## [Archives](archives/index.md)
 
