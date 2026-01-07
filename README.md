@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-07, 18:00:00](https://soylentnews.org/article.pl?sid=26/01/06/0740234&from=rss) - [China Leads Research in 90% of Crucial Technologies](https://soylentnews.org/article.pl?sid=26/01/06/0740234&from=rss)
 * [2026-01-07, 13:17:00](https://soylentnews.org/article.pl?sid=26/01/06/0727248&from=rss) - [Stingless Bees from the Amazon Granted Legal Rights in World First](https://soylentnews.org/article.pl?sid=26/01/06/0727248&from=rss)
 * [2026-01-07, 08:31:00](https://soylentnews.org/article.pl?sid=26/01/06/0722246&from=rss) - [Lisuan's G100 Series Has Reportedly Begun Shipping Out to Customers in First Batch of Deliveries](https://soylentnews.org/article.pl?sid=26/01/06/0722246&from=rss)
 * [2026-01-07, 03:47:00](https://soylentnews.org/article.pl?sid=26/01/05/1230257&from=rss) - [China Mandates 50% Domestic Equipment Rule for Chipmakers](https://soylentnews.org/article.pl?sid=26/01/05/1230257&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-29, 20:25:00](https://soylentnews.org/article.pl?sid=25/12/27/2318230&from=rss) - [Engineer Turns E-Ink Tablet Into Computer Monitor in Linux](https://soylentnews.org/article.pl?sid=25/12/27/2318230&from=rss)
 * [2025-12-29, 15:36:00](https://soylentnews.org/article.pl?sid=25/12/27/239245&from=rss) - [LG Forces TV Owners to Use Microsoft ‘AI’ Copilot App You Can't Uninstall and Nobody Asked for](https://soylentnews.org/article.pl?sid=25/12/27/239245&from=rss)
 * [2025-12-29, 10:52:00](https://soylentnews.org/article.pl?sid=25/12/27/235226&from=rss) - [How Recent is \"Recent\"?](https://soylentnews.org/article.pl?sid=25/12/27/235226&from=rss)
-* [2025-12-29, 06:09:00](https://soylentnews.org/article.pl?sid=25/12/27/230209&from=rss) - [Microsoft's Research Dream to Replace All C/C++ With Rust by 2030](https://soylentnews.org/article.pl?sid=25/12/27/230209&from=rss)
 
 ## [Archives](archives/index.md)
 
