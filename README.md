@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-07, 03:47:00](https://soylentnews.org/article.pl?sid=26/01/05/1230257&from=rss) - [China Mandates 50% Domestic Equipment Rule for Chipmakers](https://soylentnews.org/article.pl?sid=26/01/05/1230257&from=rss)
 * [2026-01-06, 23:01:00](https://soylentnews.org/article.pl?sid=26/01/05/1222243&from=rss) - [Blu-Ray Hits 20 Years Old, and It Isn't Dead Yet](https://soylentnews.org/article.pl?sid=26/01/05/1222243&from=rss)
 * [2026-01-06, 18:19:00](https://soylentnews.org/article.pl?sid=26/01/03/0139235&from=rss) - [Strengthening Asphalt Roads With a Unique Green Ingredient: Algae](https://soylentnews.org/article.pl?sid=26/01/03/0139235&from=rss)
 * [2026-01-06, 13:37:00](https://soylentnews.org/article.pl?sid=26/01/03/0137246&from=rss) - [Venus Cloud Research Highlights Value of Combining Light and Polarization Measurements](https://soylentnews.org/article.pl?sid=26/01/03/0137246&from=rss)
@@ -49,7 +50,6 @@
 * [2025-12-29, 06:09:00](https://soylentnews.org/article.pl?sid=25/12/27/230209&from=rss) - [Microsoft's Research Dream to Replace All C/C++ With Rust by 2030](https://soylentnews.org/article.pl?sid=25/12/27/230209&from=rss)
 * [2025-12-29, 01:17:00](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss) - [Why Swearing Makes You Stronger](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss)
 * [2025-12-28, 20:37:00](https://soylentnews.org/article.pl?sid=25/12/26/2021243&from=rss) - [Your Car's Web Browser May be on the Road to Cyber Ruin](https://soylentnews.org/article.pl?sid=25/12/26/2021243&from=rss)
-* [2025-12-28, 17:00:00](https://soylentnews.org/article.pl?sid=25/12/28/1357214&from=rss) - [The 39th Chaos Communication Congress (39C3) Taking Place Now in Hamburg Through 30 Dec 2025](https://soylentnews.org/article.pl?sid=25/12/28/1357214&from=rss)
 
 ## [Archives](archives/index.md)
 
