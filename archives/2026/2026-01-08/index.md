@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 22:38:00](https://soylentnews.org/article.pl?sid=26/01/06/1123219&from=rss) - [Ford Wants to Turn Your Sun Visor Into a Head-Up Display](https://soylentnews.org/article.pl?sid=26/01/06/1123219&from=rss)
 * [2026-01-08, 17:53:00](https://soylentnews.org/article.pl?sid=26/01/06/1120251&from=rss) - [The French University Where Spies Go for Training](https://soylentnews.org/article.pl?sid=26/01/06/1120251&from=rss)
 * [2026-01-08, 13:08:00](https://soylentnews.org/article.pl?sid=26/01/06/1049201&from=rss) - [A Post-American, Enshittification-Resistant Internet](https://soylentnews.org/article.pl?sid=26/01/06/1049201&from=rss)
 * [2026-01-08, 08:19:00](https://soylentnews.org/article.pl?sid=26/01/06/1042201&from=rss) - [The Search for Gravitons: Modifying Gravity Waves With Light](https://soylentnews.org/article.pl?sid=26/01/06/1042201&from=rss)
