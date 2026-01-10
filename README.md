@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-10, 22:10:00](https://soylentnews.org/article.pl?sid=26/01/09/1828213&from=rss) - [Busting the 5 Biggest Myths About Renewable Energy](https://soylentnews.org/article.pl?sid=26/01/09/1828213&from=rss)
 * [2026-01-10, 17:27:00](https://soylentnews.org/article.pl?sid=26/01/09/1824225&from=rss) - [Bali Wants Three Months of Bank Account Statements to Visit ](https://soylentnews.org/article.pl?sid=26/01/09/1824225&from=rss)
 * [2026-01-10, 12:42:00](https://soylentnews.org/article.pl?sid=26/01/09/1822241&from=rss) - [Microsoft Silently Kills Windows and Office Phone Activation and Forces Online Activation](https://soylentnews.org/article.pl?sid=26/01/09/1822241&from=rss)
 * [2026-01-10, 07:53:00](https://soylentnews.org/article.pl?sid=26/01/09/1820256&from=rss) - [Renowned Mathematician Joel David Hamkins Declares AI Models Useless for Solving Math](https://soylentnews.org/article.pl?sid=26/01/09/1820256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-01, 14:46:00](https://soylentnews.org/article.pl?sid=25/12/31/027237&from=rss) - [Bye-Bye Microplastics: New Plastic is Recyclable and Fully Ocean-Degradable](https://soylentnews.org/article.pl?sid=25/12/31/027237&from=rss)
 * [2026-01-01, 10:03:00](https://soylentnews.org/article.pl?sid=25/12/31/026206&from=rss) - [D7VK Reaches Version 1.1 and Adds New Frontend and Experimental Direct3D 6 Support](https://soylentnews.org/article.pl?sid=25/12/31/026206&from=rss)
 * [2026-01-01, 10:02:00](https://soylentnews.org/article.pl?sid=25/12/31/022234&from=rss) - [Study Reveals Just How Much AI Slop is on YouTube](https://soylentnews.org/article.pl?sid=25/12/31/022234&from=rss)
-* [2026-01-01, 05:15:00](https://soylentnews.org/article.pl?sid=25/12/31/020219&from=rss) - [US Insurance Giant Aflac Says Hackers Stole Personal and Health Data of 22.6 Million People](https://soylentnews.org/article.pl?sid=25/12/31/020219&from=rss)
 
 ## [Archives](archives/index.md)
 
