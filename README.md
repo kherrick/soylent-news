@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-10, 03:09:00](https://soylentnews.org/article.pl?sid=26/01/08/0331227&from=rss) - [The Nation's Strictest Privacy Law Just Took Effect, to Data Brokers’ Chagrin](https://soylentnews.org/article.pl?sid=26/01/08/0331227&from=rss)
 * [2026-01-09, 22:20:00](https://soylentnews.org/article.pl?sid=26/01/08/0325201&from=rss) - [Scientists Found a Way to Help the Brain Bounce Back From Alzheimer's](https://soylentnews.org/article.pl?sid=26/01/08/0325201&from=rss)
 * [2026-01-09, 17:36:00](https://soylentnews.org/article.pl?sid=26/01/08/0319211&from=rss) - [Palo Alto Networks Security-Intel Boss Calls AI Agents 2026'S Biggest Insider Threat](https://soylentnews.org/article.pl?sid=26/01/08/0319211&from=rss)
 * [2026-01-09, 12:53:00](https://soylentnews.org/article.pl?sid=26/01/07/1246247&from=rss) - [OpenAI Bets Big on Audio as Silicon Valley Declares War on Screens](https://soylentnews.org/article.pl?sid=26/01/07/1246247&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-01, 00:37:00](https://soylentnews.org/article.pl?sid=25/12/31/0148238&from=rss) - [Not Everyone Reads the Room the Same](https://soylentnews.org/article.pl?sid=25/12/31/0148238&from=rss)
 * [2026-01-01, 00:00:00](https://soylentnews.org/article.pl?sid=25/12/31/0616216&from=rss) - [Happy New Year 2026 !](https://soylentnews.org/article.pl?sid=25/12/31/0616216&from=rss)
 * [2025-12-31, 19:46:00](https://soylentnews.org/article.pl?sid=25/12/29/1810235&from=rss) - [Jolla's Community Linux Phone Surpasses its Funding Goal](https://soylentnews.org/article.pl?sid=25/12/29/1810235&from=rss)
-* [2025-12-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/12/29/185233&from=rss) - [Closure of US Institute Will Do Immense Harm to Climate Research](https://soylentnews.org/article.pl?sid=25/12/29/185233&from=rss)
 
 ## [Archives](archives/index.md)
 
