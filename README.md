@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-11, 12:26:00](https://soylentnews.org/article.pl?sid=26/01/10/019216&from=rss) - [Finding Runaway Stars to Help Map Dark Matter in the Milky Way](https://soylentnews.org/article.pl?sid=26/01/10/019216&from=rss)
 * [2026-01-11, 07:24:00](https://soylentnews.org/article.pl?sid=26/01/10/015202&from=rss) - [Virginia's Datacenter Tax Breaks Cost State $1.6B in 2025](https://soylentnews.org/article.pl?sid=26/01/10/015202&from=rss)
 * [2026-01-11, 02:54:00](https://soylentnews.org/article.pl?sid=26/01/09/1830221&from=rss) - [Some People Get Drunk Without Drinking and Scientists Finally Know Why](https://soylentnews.org/article.pl?sid=26/01/09/1830221&from=rss)
 * [2026-01-10, 22:10:00](https://soylentnews.org/article.pl?sid=26/01/09/1828213&from=rss) - [Busting the 5 Biggest Myths About Renewable Energy](https://soylentnews.org/article.pl?sid=26/01/09/1828213&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-02, 05:05:00](https://soylentnews.org/article.pl?sid=25/12/31/1846257&from=rss) - [39C3: Multiple Vulnerabilities in GnuPG and Other Cryptographic Tools](https://soylentnews.org/article.pl?sid=25/12/31/1846257&from=rss)
 * [2026-01-02, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/31/1843231&from=rss) - [Funding Agencies Can End Profit-First Science Publishing](https://soylentnews.org/article.pl?sid=25/12/31/1843231&from=rss)
 * [2026-01-01, 19:38:00](https://soylentnews.org/article.pl?sid=25/12/31/029210&from=rss) - [Aging Immune Cells May Rewrite Their Own DNA to Stay Inflammatory](https://soylentnews.org/article.pl?sid=25/12/31/029210&from=rss)
-* [2026-01-01, 14:46:00](https://soylentnews.org/article.pl?sid=25/12/31/027237&from=rss) - [Bye-Bye Microplastics: New Plastic is Recyclable and Fully Ocean-Degradable](https://soylentnews.org/article.pl?sid=25/12/31/027237&from=rss)
 
 ## [Archives](archives/index.md)
 
