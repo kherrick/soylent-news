@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-12, 07:11:00](https://soylentnews.org/article.pl?sid=26/01/10/227243&from=rss) - [Scientists Discover Ancient Bees Built Nests Inside Animal Bones](https://soylentnews.org/article.pl?sid=26/01/10/227243&from=rss)
 * [2026-01-12, 02:33:00](https://soylentnews.org/article.pl?sid=26/01/10/2158258&from=rss) - [Bose Open-Sources its SoundTouch Home Theater Smart Speakers Ahead of End-of-Life](https://soylentnews.org/article.pl?sid=26/01/10/2158258&from=rss)
 * [2026-01-11, 21:52:00](https://soylentnews.org/article.pl?sid=26/01/10/0115240&from=rss) - [Dell Reveals People Don't Care About AI in PCs – and a New Truly Embarrassing Windows 11 Fail ](https://soylentnews.org/article.pl?sid=26/01/10/0115240&from=rss)
 * [2026-01-11, 17:13:00](https://soylentnews.org/article.pl?sid=26/01/10/0111244&from=rss) - [Your Daily Cup of Tea Could Help Fight Heart Disease, Cancer, Aging, and More](https://soylentnews.org/article.pl?sid=26/01/10/0111244&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-03, 00:04:00](https://soylentnews.org/article.pl?sid=25/12/31/194236&from=rss) - [For Computational Devices, Talk Isn't Cheap](https://soylentnews.org/article.pl?sid=25/12/31/194236&from=rss)
 * [2026-01-02, 19:18:00](https://soylentnews.org/article.pl?sid=25/12/31/190247&from=rss) - [FDA Officially Confirms Kava is a Food Under Federal Law](https://soylentnews.org/article.pl?sid=25/12/31/190247&from=rss)
 * [2026-01-02, 14:35:00](https://soylentnews.org/article.pl?sid=25/12/31/1856202&from=rss) - [Irish Gov’t to Push for European Union to Ban Anonymous Social Media Accounts](https://soylentnews.org/article.pl?sid=25/12/31/1856202&from=rss)
-* [2026-01-02, 09:48:00](https://soylentnews.org/article.pl?sid=25/12/31/1850201&from=rss) - [A Built-in Odometer: New Study Reveals How the Brain Measures Distance](https://soylentnews.org/article.pl?sid=25/12/31/1850201&from=rss)
 
 ## [Archives](archives/index.md)
 
