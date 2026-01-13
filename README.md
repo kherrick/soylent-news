@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-13, 11:26:00](https://soylentnews.org/article.pl?sid=26/01/12/0127259&from=rss) - [A 2,000-Year-Old Fingerprint May Solve Mystery of Scandinavia's Oldest Wooden Boat](https://soylentnews.org/article.pl?sid=26/01/12/0127259&from=rss)
 * [2026-01-13, 06:45:00](https://soylentnews.org/article.pl?sid=26/01/12/0126219&from=rss) - [How Doubting Your Doubts May Increase Commitment to Goals](https://soylentnews.org/article.pl?sid=26/01/12/0126219&from=rss)
 * [2026-01-13, 01:52:00](https://soylentnews.org/article.pl?sid=26/01/12/013252&from=rss) - [The Book Only Gets 3 Stars, but is Considered Great Literature](https://soylentnews.org/article.pl?sid=26/01/12/013252&from=rss)
 * [2026-01-12, 21:11:00](https://soylentnews.org/article.pl?sid=26/01/10/2227246&from=rss) - [NASA Postponed ISS Spacewalk Over Medical Issue, Crew Will Return Early](https://soylentnews.org/article.pl?sid=26/01/10/2227246&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-04, 04:34:00](https://soylentnews.org/article.pl?sid=26/01/02/010257&from=rss) - [Ozempic is Changing the Foods Americans Buy](https://soylentnews.org/article.pl?sid=26/01/02/010257&from=rss)
 * [2026-01-03, 23:48:00](https://soylentnews.org/article.pl?sid=26/01/02/0059210&from=rss) - [Scientists Outline How to Control Light at the Atomic Scale Using Polaritons](https://soylentnews.org/article.pl?sid=26/01/02/0059210&from=rss)
 * [2026-01-03, 19:04:00](https://soylentnews.org/article.pl?sid=26/01/02/0056200&from=rss) - [UK Company Shoots a 1,000-Degree Furnace Into Space to Study Off-World Chip Manufacturing](https://soylentnews.org/article.pl?sid=26/01/02/0056200&from=rss)
-* [2026-01-03, 14:19:00](https://soylentnews.org/article.pl?sid=26/01/02/0051241&from=rss) - [Start-Up Proposes Scaled Up AI Data Center 'Active Radio Cable' Connectivity](https://soylentnews.org/article.pl?sid=26/01/02/0051241&from=rss)
 
 ## [Archives](archives/index.md)
 
