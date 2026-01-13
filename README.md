@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-13, 01:52:00](https://soylentnews.org/article.pl?sid=26/01/12/013252&from=rss) - [The Book Only Gets 3 Stars, but is Considered Great Literature](https://soylentnews.org/article.pl?sid=26/01/12/013252&from=rss)
 * [2026-01-12, 21:11:00](https://soylentnews.org/article.pl?sid=26/01/10/2227246&from=rss) - [NASA Postponed ISS Spacewalk Over Medical Issue, Crew Will Return Early](https://soylentnews.org/article.pl?sid=26/01/10/2227246&from=rss)
 * [2026-01-12, 16:38:00](https://soylentnews.org/article.pl?sid=26/01/10/2218252&from=rss) - [Very Tough Microbes May Help Us Cement Our Future on Mars](https://soylentnews.org/article.pl?sid=26/01/10/2218252&from=rss)
 * [2026-01-12, 12:00:00](https://soylentnews.org/article.pl?sid=26/01/10/2213252&from=rss) - [Oceans Are Struggling To Absorb Carbon As Microplastics Flood Their Waters](https://soylentnews.org/article.pl?sid=26/01/10/2213252&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-03, 19:04:00](https://soylentnews.org/article.pl?sid=26/01/02/0056200&from=rss) - [UK Company Shoots a 1,000-Degree Furnace Into Space to Study Off-World Chip Manufacturing](https://soylentnews.org/article.pl?sid=26/01/02/0056200&from=rss)
 * [2026-01-03, 14:19:00](https://soylentnews.org/article.pl?sid=26/01/02/0051241&from=rss) - [Start-Up Proposes Scaled Up AI Data Center 'Active Radio Cable' Connectivity](https://soylentnews.org/article.pl?sid=26/01/02/0051241&from=rss)
 * [2026-01-03, 09:30:00](https://soylentnews.org/article.pl?sid=26/01/02/0043212&from=rss) - [Thousands of Servers Exposed as MongoBleed Vulnerability Exploited](https://soylentnews.org/article.pl?sid=26/01/02/0043212&from=rss)
-* [2026-01-03, 04:45:00](https://soylentnews.org/article.pl?sid=26/01/02/0038241&from=rss) - [QNX Releases New Desktop-Focused Image: QNX 8.0 With Xfce on Wayland](https://soylentnews.org/article.pl?sid=26/01/02/0038241&from=rss)
 
 ## [Archives](archives/index.md)
 
