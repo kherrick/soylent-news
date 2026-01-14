@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-14, 01:41:00](https://soylentnews.org/article.pl?sid=26/01/12/0137238&from=rss) - [Volkswagen is Bringing Physical Buttons Back to the Dashboard With the Polo EV](https://soylentnews.org/article.pl?sid=26/01/12/0137238&from=rss)
 * [2026-01-13, 20:52:00](https://soylentnews.org/article.pl?sid=26/01/12/0132243&from=rss) - [A Sit-Stand Ratio ‘Sweet Spot’ May Boost Office Productivity](https://soylentnews.org/article.pl?sid=26/01/12/0132243&from=rss)
 * [2026-01-13, 16:19:00](https://soylentnews.org/article.pl?sid=26/01/12/0131237&from=rss) - [Poul-Henning Kamp's Feedback to the EU on Digital Sovereignty](https://soylentnews.org/article.pl?sid=26/01/12/0131237&from=rss)
 * [2026-01-13, 11:26:00](https://soylentnews.org/article.pl?sid=26/01/12/0127259&from=rss) - [A 2,000-Year-Old Fingerprint May Solve Mystery of Scandinavia's Oldest Wooden Boat](https://soylentnews.org/article.pl?sid=26/01/12/0127259&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-04, 18:52:00](https://soylentnews.org/article.pl?sid=26/01/02/0544211&from=rss) - [HP-UX Hits End-of-Life](https://soylentnews.org/article.pl?sid=26/01/02/0544211&from=rss)
 * [2026-01-04, 14:06:00](https://soylentnews.org/article.pl?sid=26/01/02/018201&from=rss) - [Americans Lost $333 Million to Bitcoin ATM Fraud in 2025](https://soylentnews.org/article.pl?sid=26/01/02/018201&from=rss)
 * [2026-01-04, 09:22:00](https://soylentnews.org/article.pl?sid=26/01/02/016205&from=rss) - [Large Hadron Collider Upgrade](https://soylentnews.org/article.pl?sid=26/01/02/016205&from=rss)
-* [2026-01-04, 04:34:00](https://soylentnews.org/article.pl?sid=26/01/02/010257&from=rss) - [Ozempic is Changing the Foods Americans Buy](https://soylentnews.org/article.pl?sid=26/01/02/010257&from=rss)
 
 ## [Archives](archives/index.md)
 
