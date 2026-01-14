@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-14, 06:24:00](https://soylentnews.org/article.pl?sid=26/01/12/1835207&from=rss) - [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&from=rss)
 * [2026-01-14, 01:41:00](https://soylentnews.org/article.pl?sid=26/01/12/0137238&from=rss) - [Volkswagen is Bringing Physical Buttons Back to the Dashboard With the Polo EV](https://soylentnews.org/article.pl?sid=26/01/12/0137238&from=rss)
 * [2026-01-13, 20:52:00](https://soylentnews.org/article.pl?sid=26/01/12/0132243&from=rss) - [A Sit-Stand Ratio ‘Sweet Spot’ May Boost Office Productivity](https://soylentnews.org/article.pl?sid=26/01/12/0132243&from=rss)
 * [2026-01-13, 16:19:00](https://soylentnews.org/article.pl?sid=26/01/12/0131237&from=rss) - [Poul-Henning Kamp's Feedback to the EU on Digital Sovereignty](https://soylentnews.org/article.pl?sid=26/01/12/0131237&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-04, 23:36:00](https://soylentnews.org/article.pl?sid=26/01/02/0549225&from=rss) - [He Made Beer That's Also a Vaccine. Now Controversy is Brewing](https://soylentnews.org/article.pl?sid=26/01/02/0549225&from=rss)
 * [2026-01-04, 18:52:00](https://soylentnews.org/article.pl?sid=26/01/02/0544211&from=rss) - [HP-UX Hits End-of-Life](https://soylentnews.org/article.pl?sid=26/01/02/0544211&from=rss)
 * [2026-01-04, 14:06:00](https://soylentnews.org/article.pl?sid=26/01/02/018201&from=rss) - [Americans Lost $333 Million to Bitcoin ATM Fraud in 2025](https://soylentnews.org/article.pl?sid=26/01/02/018201&from=rss)
-* [2026-01-04, 09:22:00](https://soylentnews.org/article.pl?sid=26/01/02/016205&from=rss) - [Large Hadron Collider Upgrade](https://soylentnews.org/article.pl?sid=26/01/02/016205&from=rss)
 
 ## [Archives](archives/index.md)
 
