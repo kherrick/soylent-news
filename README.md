@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-14, 20:33:00](https://soylentnews.org/article.pl?sid=26/01/12/1844243&from=rss) - [Tech Bloggers Switching From Windows to Linux](https://soylentnews.org/article.pl?sid=26/01/12/1844243&from=rss)
 * [2026-01-14, 15:49:00](https://soylentnews.org/article.pl?sid=26/01/12/1840204&from=rss) - [China Expected to Approve H200 Imports in Early 2026, Report Claims](https://soylentnews.org/article.pl?sid=26/01/12/1840204&from=rss)
 * [2026-01-14, 11:06:00](https://soylentnews.org/article.pl?sid=26/01/12/1838234&from=rss) - [Some Dogs Eavesdrop on Their Owners to Learn New Words](https://soylentnews.org/article.pl?sid=26/01/12/1838234&from=rss)
 * [2026-01-14, 06:24:00](https://soylentnews.org/article.pl?sid=26/01/12/1835207&from=rss) - [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-05, 13:53:00](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&from=rss) - [U.S. Allows TSMC to Import Chipmaking Equipment to its China Fabs](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&from=rss)
 * [2026-01-05, 09:03:00](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss) - [How Do We Hold Companies Accountable for \"Do as I Say, Not as I Do\" Security Practices?](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss)
 * [2026-01-05, 04:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1613215&from=rss) - [In 1962, a Geologist Went Into a Cave. 2 Months Later, He'd Accidentally Invented a New Field](https://soylentnews.org/article.pl?sid=26/01/02/1613215&from=rss)
-* [2026-01-04, 23:36:00](https://soylentnews.org/article.pl?sid=26/01/02/0549225&from=rss) - [He Made Beer That's Also a Vaccine. Now Controversy is Brewing](https://soylentnews.org/article.pl?sid=26/01/02/0549225&from=rss)
 
 ## [Archives](archives/index.md)
 
