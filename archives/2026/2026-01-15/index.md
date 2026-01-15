@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
+* [2026-01-15, 20:17:00](https://soylentnews.org/article.pl?sid=26/01/13/1616210&from=rss) - [GNOME Dev Gives Fans of Linux's Middle-Click Paste the Middle Finger](https://soylentnews.org/article.pl?sid=26/01/13/1616210&from=rss)
 * [2026-01-15, 15:31:00](https://soylentnews.org/article.pl?sid=26/01/13/1612200&from=rss) - [Cray Customer Service – Memories (1979 to 2014) by Charles Clark](https://soylentnews.org/article.pl?sid=26/01/13/1612200&from=rss)
 * [2026-01-15, 10:50:00](https://soylentnews.org/article.pl?sid=26/01/13/166232&from=rss) - [A Fix for Frost: Engineers Use Electricity to Zap Ice Without Heat or Chemicals](https://soylentnews.org/article.pl?sid=26/01/13/166232&from=rss)
 * [2026-01-15, 06:12:00](https://soylentnews.org/article.pl?sid=26/01/13/161243&from=rss) - [Resuscitating a 1934 Briggs & Stratton Washing Machine Engine](https://soylentnews.org/article.pl?sid=26/01/13/161243&from=rss)
