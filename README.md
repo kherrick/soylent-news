@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-15, 02:48:00](https://soylentnews.org/article.pl?sid=26/01/15/0129228&from=rss) - [RIP - 'Dilbert' Creator Scott Adams Dies at 68 After Prostate Cancer Battle](https://soylentnews.org/article.pl?sid=26/01/15/0129228&from=rss)
 * [2026-01-15, 01:25:00](https://soylentnews.org/article.pl?sid=26/01/12/1846246&from=rss) - [The AIdigest.org's AI Village](https://soylentnews.org/article.pl?sid=26/01/12/1846246&from=rss)
 * [2026-01-14, 20:33:00](https://soylentnews.org/article.pl?sid=26/01/12/1844243&from=rss) - [Tech Bloggers Switching From Windows to Linux](https://soylentnews.org/article.pl?sid=26/01/12/1844243&from=rss)
 * [2026-01-14, 15:49:00](https://soylentnews.org/article.pl?sid=26/01/12/1840204&from=rss) - [China Expected to Approve H200 Imports in Early 2026, Report Claims](https://soylentnews.org/article.pl?sid=26/01/12/1840204&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-05, 23:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1627244&from=rss) - [The Worst CPUs Ever Made](https://soylentnews.org/article.pl?sid=26/01/02/1627244&from=rss)
 * [2026-01-05, 18:37:00](https://soylentnews.org/article.pl?sid=26/01/02/1618258&from=rss) - [Parkinson's is the Canary in the Coal Mine Warning Us That Our Environment is Sick](https://soylentnews.org/article.pl?sid=26/01/02/1618258&from=rss)
 * [2026-01-05, 13:53:00](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&from=rss) - [U.S. Allows TSMC to Import Chipmaking Equipment to its China Fabs](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&from=rss)
-* [2026-01-05, 09:03:00](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss) - [How Do We Hold Companies Accountable for \"Do as I Say, Not as I Do\" Security Practices?](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss)
 
 ## [Archives](archives/index.md)
 
