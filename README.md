@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-19, 09:45:00](https://soylentnews.org/article.pl?sid=26/01/18/0037250&from=rss) - [AI and the Corporate Capture of Knowledge](https://soylentnews.org/article.pl?sid=26/01/18/0037250&from=rss)
 * [2026-01-19, 05:03:00](https://soylentnews.org/article.pl?sid=26/01/17/2355208&from=rss) - [AWS Flips Switch on Euro Cloud as Customers Fret About Digital Sovereignty](https://soylentnews.org/article.pl?sid=26/01/17/2355208&from=rss)
 * [2026-01-19, 00:22:00](https://soylentnews.org/article.pl?sid=26/01/18/003211&from=rss) - [Are You Dead?](https://soylentnews.org/article.pl?sid=26/01/18/003211&from=rss)
 * [2026-01-18, 19:30:00](https://soylentnews.org/article.pl?sid=26/01/18/001228&from=rss) - [How Screwed is Generation Alpha, and the Generations Which Will Depend on Them?](https://soylentnews.org/article.pl?sid=26/01/18/001228&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-10, 07:53:00](https://soylentnews.org/article.pl?sid=26/01/09/1820256&from=rss) - [Renowned Mathematician Joel David Hamkins Declares AI Models Useless for Solving Math](https://soylentnews.org/article.pl?sid=26/01/09/1820256&from=rss)
 * [2026-01-10, 03:09:00](https://soylentnews.org/article.pl?sid=26/01/08/0331227&from=rss) - [The Nation's Strictest Privacy Law Just Took Effect, to Data Brokers’ Chagrin](https://soylentnews.org/article.pl?sid=26/01/08/0331227&from=rss)
 * [2026-01-09, 22:20:00](https://soylentnews.org/article.pl?sid=26/01/08/0325201&from=rss) - [Scientists Found a Way to Help the Brain Bounce Back From Alzheimer's](https://soylentnews.org/article.pl?sid=26/01/08/0325201&from=rss)
-* [2026-01-09, 17:36:00](https://soylentnews.org/article.pl?sid=26/01/08/0319211&from=rss) - [Palo Alto Networks Security-Intel Boss Calls AI Agents 2026'S Biggest Insider Threat](https://soylentnews.org/article.pl?sid=26/01/08/0319211&from=rss)
 
 ## [Archives](archives/index.md)
 
