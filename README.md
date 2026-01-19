@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-19, 19:11:00](https://soylentnews.org/article.pl?sid=26/01/18/0042202&from=rss) - [Linux Mint 22.3 “Zena” is Now Available for Download, Here's What's New](https://soylentnews.org/article.pl?sid=26/01/18/0042202&from=rss)
 * [2026-01-19, 14:38:00](https://soylentnews.org/article.pl?sid=26/01/18/0040215&from=rss) - [Anything-Goes “Anyons” May be at the Root of Surprising Quantum Experiments](https://soylentnews.org/article.pl?sid=26/01/18/0040215&from=rss)
 * [2026-01-19, 09:45:00](https://soylentnews.org/article.pl?sid=26/01/18/0037250&from=rss) - [AI and the Corporate Capture of Knowledge](https://soylentnews.org/article.pl?sid=26/01/18/0037250&from=rss)
 * [2026-01-19, 05:03:00](https://soylentnews.org/article.pl?sid=26/01/17/2355208&from=rss) - [AWS Flips Switch on Euro Cloud as Customers Fret About Digital Sovereignty](https://soylentnews.org/article.pl?sid=26/01/17/2355208&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-10, 17:27:00](https://soylentnews.org/article.pl?sid=26/01/09/1824225&from=rss) - [Bali Wants Three Months of Bank Account Statements to Visit ](https://soylentnews.org/article.pl?sid=26/01/09/1824225&from=rss)
 * [2026-01-10, 12:42:00](https://soylentnews.org/article.pl?sid=26/01/09/1822241&from=rss) - [Microsoft Silently Kills Windows and Office Phone Activation and Forces Online Activation](https://soylentnews.org/article.pl?sid=26/01/09/1822241&from=rss)
 * [2026-01-10, 07:53:00](https://soylentnews.org/article.pl?sid=26/01/09/1820256&from=rss) - [Renowned Mathematician Joel David Hamkins Declares AI Models Useless for Solving Math](https://soylentnews.org/article.pl?sid=26/01/09/1820256&from=rss)
-* [2026-01-10, 03:09:00](https://soylentnews.org/article.pl?sid=26/01/08/0331227&from=rss) - [The Nation's Strictest Privacy Law Just Took Effect, to Data Brokers’ Chagrin](https://soylentnews.org/article.pl?sid=26/01/08/0331227&from=rss)
 
 ## [Archives](archives/index.md)
 
