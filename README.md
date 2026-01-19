@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-19, 00:22:00](https://soylentnews.org/article.pl?sid=26/01/18/003211&from=rss) - [Are You Dead?](https://soylentnews.org/article.pl?sid=26/01/18/003211&from=rss)
 * [2026-01-18, 19:30:00](https://soylentnews.org/article.pl?sid=26/01/18/001228&from=rss) - [How Screwed is Generation Alpha, and the Generations Which Will Depend on Them?](https://soylentnews.org/article.pl?sid=26/01/18/001228&from=rss)
 * [2026-01-18, 14:50:00](https://soylentnews.org/article.pl?sid=26/01/17/055254&from=rss) - [Hobby FPV Drone Developer Breaks 400mph Limit With New World Record](https://soylentnews.org/article.pl?sid=26/01/17/055254&from=rss)
 * [2026-01-18, 10:03:00](https://soylentnews.org/article.pl?sid=26/01/17/0457243&from=rss) - [Sorry, Eh](https://soylentnews.org/article.pl?sid=26/01/17/0457243&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-09, 22:20:00](https://soylentnews.org/article.pl?sid=26/01/08/0325201&from=rss) - [Scientists Found a Way to Help the Brain Bounce Back From Alzheimer's](https://soylentnews.org/article.pl?sid=26/01/08/0325201&from=rss)
 * [2026-01-09, 17:36:00](https://soylentnews.org/article.pl?sid=26/01/08/0319211&from=rss) - [Palo Alto Networks Security-Intel Boss Calls AI Agents 2026'S Biggest Insider Threat](https://soylentnews.org/article.pl?sid=26/01/08/0319211&from=rss)
 * [2026-01-09, 12:53:00](https://soylentnews.org/article.pl?sid=26/01/07/1246247&from=rss) - [OpenAI Bets Big on Audio as Silicon Valley Declares War on Screens](https://soylentnews.org/article.pl?sid=26/01/07/1246247&from=rss)
-* [2026-01-09, 08:07:00](https://soylentnews.org/article.pl?sid=26/01/07/1228222&from=rss) - [While the World Cools on EVs, Norway Pushes to 96% Electric Sales](https://soylentnews.org/article.pl?sid=26/01/07/1228222&from=rss)
 
 ## [Archives](archives/index.md)
 
