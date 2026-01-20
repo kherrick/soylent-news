@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-20, 14:22:00](https://soylentnews.org/article.pl?sid=26/01/19/046252&from=rss) - [Mosquitoes' Thirst for Human Blood Has Increased as Biodiversity Loss Worsens](https://soylentnews.org/article.pl?sid=26/01/19/046252&from=rss)
 * [2026-01-20, 09:34:00](https://soylentnews.org/article.pl?sid=26/01/19/0357224&from=rss) - [New Studies Can Explain Why Comet 3I/Atlas Isn't an Alien (Probably)](https://soylentnews.org/article.pl?sid=26/01/19/0357224&from=rss)
 * [2026-01-20, 04:44:00](https://soylentnews.org/article.pl?sid=26/01/18/0044243&from=rss) - [Stellantis Drops Jeep, Chrysler Plug-in Hybrids Amid EV Sales Slowdown](https://soylentnews.org/article.pl?sid=26/01/18/0044243&from=rss)
 * [2026-01-20, 00:02:00](https://soylentnews.org/article.pl?sid=26/01/18/0043231&from=rss) - [Anthropologists Offer New Evidence of Bipedalism in Long-Debated Fossil Discovery](https://soylentnews.org/article.pl?sid=26/01/18/0043231&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-11, 12:26:00](https://soylentnews.org/article.pl?sid=26/01/10/019216&from=rss) - [Finding Runaway Stars to Help Map Dark Matter in the Milky Way](https://soylentnews.org/article.pl?sid=26/01/10/019216&from=rss)
 * [2026-01-11, 07:24:00](https://soylentnews.org/article.pl?sid=26/01/10/015202&from=rss) - [Virginia's Datacenter Tax Breaks Cost State $1.6B in 2025](https://soylentnews.org/article.pl?sid=26/01/10/015202&from=rss)
 * [2026-01-11, 02:54:00](https://soylentnews.org/article.pl?sid=26/01/09/1830221&from=rss) - [Some People Get Drunk Without Drinking and Scientists Finally Know Why](https://soylentnews.org/article.pl?sid=26/01/09/1830221&from=rss)
-* [2026-01-10, 22:10:00](https://soylentnews.org/article.pl?sid=26/01/09/1828213&from=rss) - [Busting the 5 Biggest Myths About Renewable Energy](https://soylentnews.org/article.pl?sid=26/01/09/1828213&from=rss)
 
 ## [Archives](archives/index.md)
 
