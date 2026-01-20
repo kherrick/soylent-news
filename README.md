@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-20, 09:34:00](https://soylentnews.org/article.pl?sid=26/01/19/0357224&from=rss) - [New Studies Can Explain Why Comet 3I/Atlas Isn't an Alien (Probably)](https://soylentnews.org/article.pl?sid=26/01/19/0357224&from=rss)
 * [2026-01-20, 04:44:00](https://soylentnews.org/article.pl?sid=26/01/18/0044243&from=rss) - [Stellantis Drops Jeep, Chrysler Plug-in Hybrids Amid EV Sales Slowdown](https://soylentnews.org/article.pl?sid=26/01/18/0044243&from=rss)
 * [2026-01-20, 00:02:00](https://soylentnews.org/article.pl?sid=26/01/18/0043231&from=rss) - [Anthropologists Offer New Evidence of Bipedalism in Long-Debated Fossil Discovery](https://soylentnews.org/article.pl?sid=26/01/18/0043231&from=rss)
 * [2026-01-19, 19:11:00](https://soylentnews.org/article.pl?sid=26/01/18/0042202&from=rss) - [Linux Mint 22.3 “Zena” is Now Available for Download, Here's What's New](https://soylentnews.org/article.pl?sid=26/01/18/0042202&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-11, 07:24:00](https://soylentnews.org/article.pl?sid=26/01/10/015202&from=rss) - [Virginia's Datacenter Tax Breaks Cost State $1.6B in 2025](https://soylentnews.org/article.pl?sid=26/01/10/015202&from=rss)
 * [2026-01-11, 02:54:00](https://soylentnews.org/article.pl?sid=26/01/09/1830221&from=rss) - [Some People Get Drunk Without Drinking and Scientists Finally Know Why](https://soylentnews.org/article.pl?sid=26/01/09/1830221&from=rss)
 * [2026-01-10, 22:10:00](https://soylentnews.org/article.pl?sid=26/01/09/1828213&from=rss) - [Busting the 5 Biggest Myths About Renewable Energy](https://soylentnews.org/article.pl?sid=26/01/09/1828213&from=rss)
-* [2026-01-10, 17:27:00](https://soylentnews.org/article.pl?sid=26/01/09/1824225&from=rss) - [Bali Wants Three Months of Bank Account Statements to Visit ](https://soylentnews.org/article.pl?sid=26/01/09/1824225&from=rss)
 
 ## [Archives](archives/index.md)
 
