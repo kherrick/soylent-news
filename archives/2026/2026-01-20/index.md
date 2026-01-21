@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 23:51:00](https://soylentnews.org/article.pl?sid=26/01/19/166239&from=rss) - [Building the World's First Graviton Detector](https://soylentnews.org/article.pl?sid=26/01/19/166239&from=rss)
 * [2026-01-20, 19:06:00](https://soylentnews.org/article.pl?sid=26/01/19/0533234&from=rss) - [China's Wind Farms Are Doing a Lot More Than Generating Electricity](https://soylentnews.org/article.pl?sid=26/01/19/0533234&from=rss)
 * [2026-01-20, 14:22:00](https://soylentnews.org/article.pl?sid=26/01/19/046252&from=rss) - [Mosquitoes' Thirst for Human Blood Has Increased as Biodiversity Loss Worsens](https://soylentnews.org/article.pl?sid=26/01/19/046252&from=rss)
 * [2026-01-20, 09:34:00](https://soylentnews.org/article.pl?sid=26/01/19/0357224&from=rss) - [New Studies Can Explain Why Comet 3I/Atlas Isn't an Alien (Probably)](https://soylentnews.org/article.pl?sid=26/01/19/0357224&from=rss)
