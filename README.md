@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-21, 04:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1613240&from=rss) - [Proton VPN Kills Off Legacy OpenVPN Configs in Push for Better Security](https://soylentnews.org/article.pl?sid=26/01/19/1613240&from=rss)
 * [2026-01-20, 23:51:00](https://soylentnews.org/article.pl?sid=26/01/19/166239&from=rss) - [Building the World's First Graviton Detector](https://soylentnews.org/article.pl?sid=26/01/19/166239&from=rss)
 * [2026-01-20, 19:06:00](https://soylentnews.org/article.pl?sid=26/01/19/0533234&from=rss) - [China's Wind Farms Are Doing a Lot More Than Generating Electricity](https://soylentnews.org/article.pl?sid=26/01/19/0533234&from=rss)
 * [2026-01-20, 14:22:00](https://soylentnews.org/article.pl?sid=26/01/19/046252&from=rss) - [Mosquitoes' Thirst for Human Blood Has Increased as Biodiversity Loss Worsens](https://soylentnews.org/article.pl?sid=26/01/19/046252&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-12, 02:33:00](https://soylentnews.org/article.pl?sid=26/01/10/2158258&from=rss) - [Bose Open-Sources its SoundTouch Home Theater Smart Speakers Ahead of End-of-Life](https://soylentnews.org/article.pl?sid=26/01/10/2158258&from=rss)
 * [2026-01-11, 21:52:00](https://soylentnews.org/article.pl?sid=26/01/10/0115240&from=rss) - [Dell Reveals People Don't Care About AI in PCs – and a New Truly Embarrassing Windows 11 Fail ](https://soylentnews.org/article.pl?sid=26/01/10/0115240&from=rss)
 * [2026-01-11, 17:13:00](https://soylentnews.org/article.pl?sid=26/01/10/0111244&from=rss) - [Your Daily Cup of Tea Could Help Fight Heart Disease, Cancer, Aging, and More](https://soylentnews.org/article.pl?sid=26/01/10/0111244&from=rss)
-* [2026-01-11, 12:26:00](https://soylentnews.org/article.pl?sid=26/01/10/019216&from=rss) - [Finding Runaway Stars to Help Map Dark Matter in the Milky Way](https://soylentnews.org/article.pl?sid=26/01/10/019216&from=rss)
 
 ## [Archives](archives/index.md)
 
