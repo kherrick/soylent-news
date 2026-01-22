@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-22, 13:46:00](https://soylentnews.org/article.pl?sid=26/01/21/0147238&from=rss) - [AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools](https://soylentnews.org/article.pl?sid=26/01/21/0147238&from=rss)
 * [2026-01-22, 09:07:00](https://soylentnews.org/article.pl?sid=26/01/21/0141201&from=rss) - [France Records More Deaths Than Births for First Time Since End of Second World War](https://soylentnews.org/article.pl?sid=26/01/21/0141201&from=rss)
 * [2026-01-22, 04:16:00](https://soylentnews.org/article.pl?sid=26/01/21/0136237&from=rss) - [Professors Issue Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&from=rss)
 * [2026-01-21, 23:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1628204&from=rss) - [The Science That Casts Doubt on Claims About Microplastics](https://soylentnews.org/article.pl?sid=26/01/19/1628204&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-13, 11:26:00](https://soylentnews.org/article.pl?sid=26/01/12/0127259&from=rss) - [A 2,000-Year-Old Fingerprint May Solve Mystery of Scandinavia's Oldest Wooden Boat](https://soylentnews.org/article.pl?sid=26/01/12/0127259&from=rss)
 * [2026-01-13, 06:45:00](https://soylentnews.org/article.pl?sid=26/01/12/0126219&from=rss) - [How Doubting Your Doubts May Increase Commitment to Goals](https://soylentnews.org/article.pl?sid=26/01/12/0126219&from=rss)
 * [2026-01-13, 01:52:00](https://soylentnews.org/article.pl?sid=26/01/12/013252&from=rss) - [The Book Only Gets 3 Stars, but is Considered Great Literature](https://soylentnews.org/article.pl?sid=26/01/12/013252&from=rss)
-* [2026-01-12, 21:11:00](https://soylentnews.org/article.pl?sid=26/01/10/2227246&from=rss) - [NASA Postponed ISS Spacewalk Over Medical Issue, Crew Will Return Early](https://soylentnews.org/article.pl?sid=26/01/10/2227246&from=rss)
 
 ## [Archives](archives/index.md)
 
