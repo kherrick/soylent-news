@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-23, 13:45:00](https://soylentnews.org/article.pl?sid=26/01/22/1141230&from=rss) - [Physics of Foam Strangely Resembles AI Training](https://soylentnews.org/article.pl?sid=26/01/22/1141230&from=rss)
 * [2026-01-23, 08:59:00](https://soylentnews.org/article.pl?sid=26/01/22/0422248&from=rss) - [Wikipedia Volunteers Spent Years Cataloging AI Tells. Now There's a Plugin to Avoid Them.](https://soylentnews.org/article.pl?sid=26/01/22/0422248&from=rss)
 * [2026-01-23, 04:12:00](https://soylentnews.org/article.pl?sid=26/01/22/043242&from=rss) - [Nvidia Wanted Pirated Book Stash Access](https://soylentnews.org/article.pl?sid=26/01/22/043242&from=rss)
 * [2026-01-22, 23:28:00](https://soylentnews.org/article.pl?sid=26/01/22/0355223&from=rss) - [Textbooks Were Wrong: Human Hair Doesn't Grow the Way Scientists Thought](https://soylentnews.org/article.pl?sid=26/01/22/0355223&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-14, 11:06:00](https://soylentnews.org/article.pl?sid=26/01/12/1838234&from=rss) - [Some Dogs Eavesdrop on Their Owners to Learn New Words](https://soylentnews.org/article.pl?sid=26/01/12/1838234&from=rss)
 * [2026-01-14, 06:24:00](https://soylentnews.org/article.pl?sid=26/01/12/1835207&from=rss) - [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&from=rss)
 * [2026-01-14, 01:41:00](https://soylentnews.org/article.pl?sid=26/01/12/0137238&from=rss) - [Volkswagen is Bringing Physical Buttons Back to the Dashboard With the Polo EV](https://soylentnews.org/article.pl?sid=26/01/12/0137238&from=rss)
-* [2026-01-13, 20:52:00](https://soylentnews.org/article.pl?sid=26/01/12/0132243&from=rss) - [A Sit-Stand Ratio ‘Sweet Spot’ May Boost Office Productivity](https://soylentnews.org/article.pl?sid=26/01/12/0132243&from=rss)
 
 ## [Archives](archives/index.md)
 
