@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-24, 04:01:00](https://soylentnews.org/article.pl?sid=26/01/22/121252&from=rss) - [When Order Matters: How A Single DNS Change Broke The Internet For Millions](https://soylentnews.org/article.pl?sid=26/01/22/121252&from=rss)
 * [2026-01-23, 23:16:00](https://soylentnews.org/article.pl?sid=26/01/22/1148259&from=rss) - [Caltech-Led Team Finds New Superconducting State](https://soylentnews.org/article.pl?sid=26/01/22/1148259&from=rss)
 * [2026-01-23, 18:32:00](https://soylentnews.org/article.pl?sid=26/01/22/1144249&from=rss) - [Starlink in Iran: How the Regime Jams the Service and What Helps Against It](https://soylentnews.org/article.pl?sid=26/01/22/1144249&from=rss)
 * [2026-01-23, 13:45:00](https://soylentnews.org/article.pl?sid=26/01/22/1141230&from=rss) - [Physics of Foam Strangely Resembles AI Training](https://soylentnews.org/article.pl?sid=26/01/22/1141230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-15, 01:25:00](https://soylentnews.org/article.pl?sid=26/01/12/1846246&from=rss) - [The AIdigest.org's AI Village](https://soylentnews.org/article.pl?sid=26/01/12/1846246&from=rss)
 * [2026-01-14, 20:33:00](https://soylentnews.org/article.pl?sid=26/01/12/1844243&from=rss) - [Tech Bloggers Switching From Windows to Linux](https://soylentnews.org/article.pl?sid=26/01/12/1844243&from=rss)
 * [2026-01-14, 15:49:00](https://soylentnews.org/article.pl?sid=26/01/12/1840204&from=rss) - [China Expected to Approve H200 Imports in Early 2026, Report Claims](https://soylentnews.org/article.pl?sid=26/01/12/1840204&from=rss)
-* [2026-01-14, 11:06:00](https://soylentnews.org/article.pl?sid=26/01/12/1838234&from=rss) - [Some Dogs Eavesdrop on Their Owners to Learn New Words](https://soylentnews.org/article.pl?sid=26/01/12/1838234&from=rss)
 
 ## [Archives](archives/index.md)
 
