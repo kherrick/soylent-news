@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-25, 03:38:00](https://soylentnews.org/article.pl?sid=26/01/24/019242&from=rss) - [How Greenwashing Creates 'False Stability' for Companies](https://soylentnews.org/article.pl?sid=26/01/24/019242&from=rss)
 * [2026-01-24, 22:54:00](https://soylentnews.org/article.pl?sid=26/01/23/1016236&from=rss) - [Ancient “Mosaic” Fossils Found in Morocco Challenge the Timeline of Human Evolution](https://soylentnews.org/article.pl?sid=26/01/23/1016236&from=rss)
 * [2026-01-24, 18:11:00](https://soylentnews.org/article.pl?sid=26/01/23/1010250&from=rss) - [Micron Acquires PSMC Fab Site in Taiwan for $1.8 Billion](https://soylentnews.org/article.pl?sid=26/01/23/1010250&from=rss)
 * [2026-01-24, 13:25:00](https://soylentnews.org/article.pl?sid=26/01/23/1012244&from=rss) - [Hygienic Conditions in Pompeii's Early Baths Were Poor](https://soylentnews.org/article.pl?sid=26/01/23/1012244&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-15, 20:17:00](https://soylentnews.org/article.pl?sid=26/01/13/1616210&from=rss) - [GNOME Dev Gives Fans of Linux's Middle-Click Paste the Middle Finger](https://soylentnews.org/article.pl?sid=26/01/13/1616210&from=rss)
 * [2026-01-15, 15:31:00](https://soylentnews.org/article.pl?sid=26/01/13/1612200&from=rss) - [Cray Customer Service – Memories (1979 to 2014) by Charles Clark](https://soylentnews.org/article.pl?sid=26/01/13/1612200&from=rss)
 * [2026-01-15, 10:50:00](https://soylentnews.org/article.pl?sid=26/01/13/166232&from=rss) - [A Fix for Frost: Engineers Use Electricity to Zap Ice Without Heat or Chemicals](https://soylentnews.org/article.pl?sid=26/01/13/166232&from=rss)
-* [2026-01-15, 06:12:00](https://soylentnews.org/article.pl?sid=26/01/13/161243&from=rss) - [Resuscitating a 1934 Briggs & Stratton Washing Machine Engine](https://soylentnews.org/article.pl?sid=26/01/13/161243&from=rss)
 
 ## [Archives](archives/index.md)
 
