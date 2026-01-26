@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-01-26](index.md)
+
+* [2026-01-26, 03:26:00](https://soylentnews.org/article.pl?sid=26/01/25/0429246&from=rss) - [UK MPs Call for AI Stress Testing in Financial Services](https://soylentnews.org/article.pl?sid=26/01/25/0429246&from=rss)
