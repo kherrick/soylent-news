@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-26, 07:11:00](https://soylentnews.org/article.pl?sid=26/01/25/0432221&from=rss) - [Attackers Find a New Way to Share Malicious Snap Packages](https://soylentnews.org/article.pl?sid=26/01/25/0432221&from=rss)
 * [2026-01-26, 03:26:00](https://soylentnews.org/article.pl?sid=26/01/25/0429246&from=rss) - [UK MPs Call for AI Stress Testing in Financial Services](https://soylentnews.org/article.pl?sid=26/01/25/0429246&from=rss)
 * [2026-01-25, 22:36:00](https://soylentnews.org/article.pl?sid=26/01/24/0116243&from=rss) - [Microsoft Gave FBI a Set of BitLocker Encryption Keys to Unlock Suspects’ Laptops](https://soylentnews.org/article.pl?sid=26/01/24/0116243&from=rss)
 * [2026-01-25, 17:53:00](https://soylentnews.org/article.pl?sid=26/01/24/0114253&from=rss) - [This May Be The Grossest Eye Pic Ever—but the Cause is What’s Truly Horrifying](https://soylentnews.org/article.pl?sid=26/01/24/0114253&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-17, 00:42:00](https://soylentnews.org/article.pl?sid=26/01/16/0215254&from=rss) - [X Didn't Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It](https://soylentnews.org/article.pl?sid=26/01/16/0215254&from=rss)
 * [2026-01-16, 20:00:00](https://soylentnews.org/article.pl?sid=26/01/16/0211255&from=rss) - [Meta to Cut More than 1,000 Jobs as its Shifts Focus to AI Wearables](https://soylentnews.org/article.pl?sid=26/01/16/0211255&from=rss)
 * [2026-01-16, 15:23:00](https://soylentnews.org/article.pl?sid=26/01/16/029237&from=rss) - [You Need A Kitchen Slide Rule](https://soylentnews.org/article.pl?sid=26/01/16/029237&from=rss)
-* [2026-01-16, 10:30:00](https://soylentnews.org/article.pl?sid=26/01/14/2313236&from=rss) - [Over Half a Million Windows Users are Switching to Linux](https://soylentnews.org/article.pl?sid=26/01/14/2313236&from=rss)
 
 ## [Archives](archives/index.md)
 
