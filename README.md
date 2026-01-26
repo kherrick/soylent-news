@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-26, 16:38:00](https://soylentnews.org/article.pl?sid=26/01/25/1312202&from=rss) - [Snover.exit()](https://soylentnews.org/article.pl?sid=26/01/25/1312202&from=rss)
 * [2026-01-26, 11:55:00](https://soylentnews.org/article.pl?sid=26/01/25/0439223&from=rss) - [Starlink Now Uses Customers' Personal Data for AI Training](https://soylentnews.org/article.pl?sid=26/01/25/0439223&from=rss)
 * [2026-01-26, 07:11:00](https://soylentnews.org/article.pl?sid=26/01/25/0432221&from=rss) - [Attackers Find a New Way to Share Malicious Snap Packages](https://soylentnews.org/article.pl?sid=26/01/25/0432221&from=rss)
 * [2026-01-26, 03:26:00](https://soylentnews.org/article.pl?sid=26/01/25/0429246&from=rss) - [UK MPs Call for AI Stress Testing in Financial Services](https://soylentnews.org/article.pl?sid=26/01/25/0429246&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-17, 10:18:00](https://soylentnews.org/article.pl?sid=26/01/17/0220205&from=rss) - [Researchers Expose WHILL Wheelchair Safety Risks Via Remote Hacking](https://soylentnews.org/article.pl?sid=26/01/17/0220205&from=rss)
 * [2026-01-17, 05:30:00](https://soylentnews.org/article.pl?sid=26/01/16/0510252&from=rss) - [Signal Creator Moxie Marlinspike Wants to Do for AI What He Did for Messaging](https://soylentnews.org/article.pl?sid=26/01/16/0510252&from=rss)
 * [2026-01-17, 00:42:00](https://soylentnews.org/article.pl?sid=26/01/16/0215254&from=rss) - [X Didn't Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It](https://soylentnews.org/article.pl?sid=26/01/16/0215254&from=rss)
-* [2026-01-16, 20:00:00](https://soylentnews.org/article.pl?sid=26/01/16/0211255&from=rss) - [Meta to Cut More than 1,000 Jobs as its Shifts Focus to AI Wearables](https://soylentnews.org/article.pl?sid=26/01/16/0211255&from=rss)
 
 ## [Archives](archives/index.md)
 
