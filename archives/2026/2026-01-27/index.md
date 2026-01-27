@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-01-27](index.md)
+
+* [2026-01-27, 02:08:00](https://soylentnews.org/article.pl?sid=26/01/25/1410231&from=rss) - [Elon Musk Restarts Dojo3 'Space' Supercomputer Project As AI5 Chip Design Gets In 'Good Shape'](https://soylentnews.org/article.pl?sid=26/01/25/1410231&from=rss)
