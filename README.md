@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-27, 06:54:00](https://soylentnews.org/article.pl?sid=26/01/25/1419203&from=rss) - [The Hidden Complexity Crisis: When Simple Radio Buttons Require 200+ Lines of Code](https://soylentnews.org/article.pl?sid=26/01/25/1419203&from=rss)
 * [2026-01-27, 02:08:00](https://soylentnews.org/article.pl?sid=26/01/25/1410231&from=rss) - [Elon Musk Restarts Dojo3 'Space' Supercomputer Project As AI5 Chip Design Gets In 'Good Shape'](https://soylentnews.org/article.pl?sid=26/01/25/1410231&from=rss)
 * [2026-01-26, 21:19:00](https://soylentnews.org/article.pl?sid=26/01/25/145215&from=rss) - [Apple's Enshittification Moment: How the App Store is Quietly Abandoning User Trust](https://soylentnews.org/article.pl?sid=26/01/25/145215&from=rss)
 * [2026-01-26, 16:38:00](https://soylentnews.org/article.pl?sid=26/01/25/1312202&from=rss) - [Snover.exit()](https://soylentnews.org/article.pl?sid=26/01/25/1312202&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-18, 00:29:00](https://soylentnews.org/article.pl?sid=26/01/17/0434215&from=rss) - [Wormholes May Not Exist—We've Found They Reveal Something Deeper About Time and the Universe](https://soylentnews.org/article.pl?sid=26/01/17/0434215&from=rss)
 * [2026-01-17, 19:43:00](https://soylentnews.org/article.pl?sid=26/01/17/0229252&from=rss) - ['Society Cannot Function If No One is Accountable for AI' — Jaron Lanier](https://soylentnews.org/article.pl?sid=26/01/17/0229252&from=rss)
 * [2026-01-17, 15:00:00](https://soylentnews.org/article.pl?sid=26/01/17/0222224&from=rss) - [Why Flies Matter, Their Vital Role in Ecosystems, and Surprising Diversity](https://soylentnews.org/article.pl?sid=26/01/17/0222224&from=rss)
-* [2026-01-17, 10:18:00](https://soylentnews.org/article.pl?sid=26/01/17/0220205&from=rss) - [Researchers Expose WHILL Wheelchair Safety Risks Via Remote Hacking](https://soylentnews.org/article.pl?sid=26/01/17/0220205&from=rss)
 
 ## [Archives](archives/index.md)
 
