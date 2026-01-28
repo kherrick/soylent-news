@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-28, 06:27:00](https://soylentnews.org/article.pl?sid=26/01/26/192227&from=rss) - [Design Your Next Building Out of Bamboo](https://soylentnews.org/article.pl?sid=26/01/26/192227&from=rss)
 * [2026-01-28, 01:42:00](https://soylentnews.org/article.pl?sid=26/01/26/191227&from=rss) - [North Sea Winds Of Change](https://soylentnews.org/article.pl?sid=26/01/26/191227&from=rss)
 * [2026-01-27, 21:02:00](https://soylentnews.org/article.pl?sid=26/01/26/1857242&from=rss) - [Proton VPN Reveals Major Linux Makeover](https://soylentnews.org/article.pl?sid=26/01/26/1857242&from=rss)
 * [2026-01-27, 16:19:00](https://soylentnews.org/article.pl?sid=26/01/26/1850245&from=rss) - [80386 Multiplication and Division](https://soylentnews.org/article.pl?sid=26/01/26/1850245&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-19, 00:22:00](https://soylentnews.org/article.pl?sid=26/01/18/003211&from=rss) - [Are You Dead?](https://soylentnews.org/article.pl?sid=26/01/18/003211&from=rss)
 * [2026-01-18, 19:30:00](https://soylentnews.org/article.pl?sid=26/01/18/001228&from=rss) - [How Screwed is Generation Alpha, and the Generations Which Will Depend on Them?](https://soylentnews.org/article.pl?sid=26/01/18/001228&from=rss)
 * [2026-01-18, 14:50:00](https://soylentnews.org/article.pl?sid=26/01/17/055254&from=rss) - [Hobby FPV Drone Developer Breaks 400mph Limit With New World Record](https://soylentnews.org/article.pl?sid=26/01/17/055254&from=rss)
-* [2026-01-18, 10:03:00](https://soylentnews.org/article.pl?sid=26/01/17/0457243&from=rss) - [Sorry, Eh](https://soylentnews.org/article.pl?sid=26/01/17/0457243&from=rss)
 
 ## [Archives](archives/index.md)
 
