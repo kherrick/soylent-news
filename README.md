@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-28, 20:39:00](https://soylentnews.org/article.pl?sid=26/01/26/1911209&from=rss) - [The Return of Digg, and the Proliferation of Cancel Culture](https://soylentnews.org/article.pl?sid=26/01/26/1911209&from=rss)
 * [2026-01-28, 15:55:00](https://soylentnews.org/article.pl?sid=26/01/26/197234&from=rss) - [Socializing Alone: The Downside of Communication Technology](https://soylentnews.org/article.pl?sid=26/01/26/197234&from=rss)
 * [2026-01-28, 11:13:00](https://soylentnews.org/article.pl?sid=26/01/26/195201&from=rss) - [TSMC Says AI Demand is “Endless” After Record Q4 Earnings](https://soylentnews.org/article.pl?sid=26/01/26/195201&from=rss)
 * [2026-01-28, 06:27:00](https://soylentnews.org/article.pl?sid=26/01/26/192227&from=rss) - [Design Your Next Building Out of Bamboo](https://soylentnews.org/article.pl?sid=26/01/26/192227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-19, 14:38:00](https://soylentnews.org/article.pl?sid=26/01/18/0040215&from=rss) - [Anything-Goes “Anyons” May be at the Root of Surprising Quantum Experiments](https://soylentnews.org/article.pl?sid=26/01/18/0040215&from=rss)
 * [2026-01-19, 09:45:00](https://soylentnews.org/article.pl?sid=26/01/18/0037250&from=rss) - [AI and the Corporate Capture of Knowledge](https://soylentnews.org/article.pl?sid=26/01/18/0037250&from=rss)
 * [2026-01-19, 05:03:00](https://soylentnews.org/article.pl?sid=26/01/17/2355208&from=rss) - [AWS Flips Switch on Euro Cloud as Customers Fret About Digital Sovereignty](https://soylentnews.org/article.pl?sid=26/01/17/2355208&from=rss)
-* [2026-01-19, 00:22:00](https://soylentnews.org/article.pl?sid=26/01/18/003211&from=rss) - [Are You Dead?](https://soylentnews.org/article.pl?sid=26/01/18/003211&from=rss)
 
 ## [Archives](archives/index.md)
 
