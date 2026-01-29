@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-29, 15:40:00](https://soylentnews.org/article.pl?sid=26/01/27/0515229&from=rss) - [Microsoft Admits Windows 11 Update Is Nuking System Drives, but There's A 'Limited Number Of Reports](https://soylentnews.org/article.pl?sid=26/01/27/0515229&from=rss)
 * [2026-01-29, 10:59:00](https://soylentnews.org/article.pl?sid=26/01/27/0441241&from=rss) - [Breakthrough Wireless Transceiver Transmits Data 24 Times Faster Than 5G Connections](https://soylentnews.org/article.pl?sid=26/01/27/0441241&from=rss)
 * [2026-01-29, 06:11:00](https://soylentnews.org/article.pl?sid=26/01/27/0433200&from=rss) - [Red Dwarfs are Too Dim to Generate Complex Life](https://soylentnews.org/article.pl?sid=26/01/27/0433200&from=rss)
 * [2026-01-29, 01:30:00](https://soylentnews.org/article.pl?sid=26/01/27/0352207&from=rss) - [AI is Already Writing Almost One-Third of New Software Code](https://soylentnews.org/article.pl?sid=26/01/27/0352207&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-20, 09:34:00](https://soylentnews.org/article.pl?sid=26/01/19/0357224&from=rss) - [New Studies Can Explain Why Comet 3I/Atlas Isn't an Alien (Probably)](https://soylentnews.org/article.pl?sid=26/01/19/0357224&from=rss)
 * [2026-01-20, 04:44:00](https://soylentnews.org/article.pl?sid=26/01/18/0044243&from=rss) - [Stellantis Drops Jeep, Chrysler Plug-in Hybrids Amid EV Sales Slowdown](https://soylentnews.org/article.pl?sid=26/01/18/0044243&from=rss)
 * [2026-01-20, 00:02:00](https://soylentnews.org/article.pl?sid=26/01/18/0043231&from=rss) - [Anthropologists Offer New Evidence of Bipedalism in Long-Debated Fossil Discovery](https://soylentnews.org/article.pl?sid=26/01/18/0043231&from=rss)
-* [2026-01-19, 19:11:00](https://soylentnews.org/article.pl?sid=26/01/18/0042202&from=rss) - [Linux Mint 22.3 “Zena” is Now Available for Download, Here's What's New](https://soylentnews.org/article.pl?sid=26/01/18/0042202&from=rss)
 
 ## [Archives](archives/index.md)
 
