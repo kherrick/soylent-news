@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-29, 06:11:00](https://soylentnews.org/article.pl?sid=26/01/27/0433200&from=rss) - [Red Dwarfs are Too Dim to Generate Complex Life](https://soylentnews.org/article.pl?sid=26/01/27/0433200&from=rss)
 * [2026-01-29, 01:30:00](https://soylentnews.org/article.pl?sid=26/01/27/0352207&from=rss) - [AI is Already Writing Almost One-Third of New Software Code](https://soylentnews.org/article.pl?sid=26/01/27/0352207&from=rss)
 * [2026-01-28, 20:39:00](https://soylentnews.org/article.pl?sid=26/01/26/1911209&from=rss) - [The Return of Digg, and the Proliferation of Cancel Culture](https://soylentnews.org/article.pl?sid=26/01/26/1911209&from=rss)
 * [2026-01-28, 15:55:00](https://soylentnews.org/article.pl?sid=26/01/26/197234&from=rss) - [Socializing Alone: The Downside of Communication Technology](https://soylentnews.org/article.pl?sid=26/01/26/197234&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-20, 00:02:00](https://soylentnews.org/article.pl?sid=26/01/18/0043231&from=rss) - [Anthropologists Offer New Evidence of Bipedalism in Long-Debated Fossil Discovery](https://soylentnews.org/article.pl?sid=26/01/18/0043231&from=rss)
 * [2026-01-19, 19:11:00](https://soylentnews.org/article.pl?sid=26/01/18/0042202&from=rss) - [Linux Mint 22.3 “Zena” is Now Available for Download, Here's What's New](https://soylentnews.org/article.pl?sid=26/01/18/0042202&from=rss)
 * [2026-01-19, 14:38:00](https://soylentnews.org/article.pl?sid=26/01/18/0040215&from=rss) - [Anything-Goes “Anyons” May be at the Root of Surprising Quantum Experiments](https://soylentnews.org/article.pl?sid=26/01/18/0040215&from=rss)
-* [2026-01-19, 09:45:00](https://soylentnews.org/article.pl?sid=26/01/18/0037250&from=rss) - [AI and the Corporate Capture of Knowledge](https://soylentnews.org/article.pl?sid=26/01/18/0037250&from=rss)
 
 ## [Archives](archives/index.md)
 
