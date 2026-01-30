@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-30, 15:38:00](https://soylentnews.org/article.pl?sid=26/01/28/2248256&from=rss) - [Salty Facts: Takeaways Have More Salt Than Labels Claim](https://soylentnews.org/article.pl?sid=26/01/28/2248256&from=rss)
 * [2026-01-30, 10:46:00](https://soylentnews.org/article.pl?sid=26/01/28/2247217&from=rss) - [Executives Keep Overestimating AI Benefits](https://soylentnews.org/article.pl?sid=26/01/28/2247217&from=rss)
 * [2026-01-30, 06:10:00](https://soylentnews.org/article.pl?sid=26/01/28/2241225&from=rss) - [Musk's X Releases Source Code for Platform's Algorithm](https://soylentnews.org/article.pl?sid=26/01/28/2241225&from=rss)
 * [2026-01-30, 01:15:00](https://soylentnews.org/article.pl?sid=26/01/28/2237224&from=rss) - [For the Price of Netflix, Crooks Can Rent AI Crime Ops](https://soylentnews.org/article.pl?sid=26/01/28/2237224&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-21, 09:20:00](https://soylentnews.org/article.pl?sid=26/01/19/1615238&from=rss) - [The Places We Make Memories Help Us Inscribe Them](https://soylentnews.org/article.pl?sid=26/01/19/1615238&from=rss)
 * [2026-01-21, 04:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1613240&from=rss) - [Proton VPN Kills Off Legacy OpenVPN Configs in Push for Better Security](https://soylentnews.org/article.pl?sid=26/01/19/1613240&from=rss)
 * [2026-01-20, 23:51:00](https://soylentnews.org/article.pl?sid=26/01/19/166239&from=rss) - [Building the World's First Graviton Detector](https://soylentnews.org/article.pl?sid=26/01/19/166239&from=rss)
-* [2026-01-20, 19:06:00](https://soylentnews.org/article.pl?sid=26/01/19/0533234&from=rss) - [China's Wind Farms Are Doing a Lot More Than Generating Electricity](https://soylentnews.org/article.pl?sid=26/01/19/0533234&from=rss)
 
 ## [Archives](archives/index.md)
 
