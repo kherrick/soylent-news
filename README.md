@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-30, 01:15:00](https://soylentnews.org/article.pl?sid=26/01/28/2237224&from=rss) - [For the Price of Netflix, Crooks Can Rent AI Crime Ops](https://soylentnews.org/article.pl?sid=26/01/28/2237224&from=rss)
 * [2026-01-29, 20:30:00](https://soylentnews.org/article.pl?sid=26/01/27/0538204&from=rss) - [Four Arrested Following $1.6 Million NFT Heist in the Netherlands](https://soylentnews.org/article.pl?sid=26/01/27/0538204&from=rss)
 * [2026-01-29, 15:40:00](https://soylentnews.org/article.pl?sid=26/01/27/0515229&from=rss) - [Microsoft Admits Windows 11 Update Is Nuking System Drives but There's 'A Limited Number Of Reports'](https://soylentnews.org/article.pl?sid=26/01/27/0515229&from=rss)
 * [2026-01-29, 10:59:00](https://soylentnews.org/article.pl?sid=26/01/27/0441241&from=rss) - [Breakthrough Wireless Transceiver Transmits Data 24 Times Faster Than 5G Connections](https://soylentnews.org/article.pl?sid=26/01/27/0441241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-20, 19:06:00](https://soylentnews.org/article.pl?sid=26/01/19/0533234&from=rss) - [China's Wind Farms Are Doing a Lot More Than Generating Electricity](https://soylentnews.org/article.pl?sid=26/01/19/0533234&from=rss)
 * [2026-01-20, 14:22:00](https://soylentnews.org/article.pl?sid=26/01/19/046252&from=rss) - [Mosquitoes' Thirst for Human Blood Has Increased as Biodiversity Loss Worsens](https://soylentnews.org/article.pl?sid=26/01/19/046252&from=rss)
 * [2026-01-20, 09:34:00](https://soylentnews.org/article.pl?sid=26/01/19/0357224&from=rss) - [New Studies Can Explain Why Comet 3I/Atlas Isn't an Alien (Probably)](https://soylentnews.org/article.pl?sid=26/01/19/0357224&from=rss)
-* [2026-01-20, 04:44:00](https://soylentnews.org/article.pl?sid=26/01/18/0044243&from=rss) - [Stellantis Drops Jeep, Chrysler Plug-in Hybrids Amid EV Sales Slowdown](https://soylentnews.org/article.pl?sid=26/01/18/0044243&from=rss)
 
 ## [Archives](archives/index.md)
 
