@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-01-31, 19:43:00](https://soylentnews.org/article.pl?sid=26/01/30/1620239&from=rss) - [Linux after Linus?](https://soylentnews.org/article.pl?sid=26/01/30/1620239&from=rss)
 * [2026-01-31, 15:00:00](https://soylentnews.org/article.pl?sid=26/01/30/0637214&from=rss) - [ Notes on the Intel 8086 Processor's Arithmetic-logic Unit ](https://soylentnews.org/article.pl?sid=26/01/30/0637214&from=rss)
 * [2026-01-31, 10:19:00](https://soylentnews.org/article.pl?sid=26/01/30/0627240&from=rss) - [Signal President Warns AI Agents Are Making Encryption Irrelevant](https://soylentnews.org/article.pl?sid=26/01/30/0627240&from=rss)
 * [2026-01-31, 05:42:00](https://soylentnews.org/article.pl?sid=26/01/30/0623217&from=rss) - [Remembering the YF-23 Stealth Fighter](https://soylentnews.org/article.pl?sid=26/01/30/0623217&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-22, 13:46:00](https://soylentnews.org/article.pl?sid=26/01/21/0147238&from=rss) - [AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools](https://soylentnews.org/article.pl?sid=26/01/21/0147238&from=rss)
 * [2026-01-22, 09:07:00](https://soylentnews.org/article.pl?sid=26/01/21/0141201&from=rss) - [France Records More Deaths Than Births for First Time Since End of Second World War](https://soylentnews.org/article.pl?sid=26/01/21/0141201&from=rss)
 * [2026-01-22, 04:16:00](https://soylentnews.org/article.pl?sid=26/01/21/0136237&from=rss) - [Professors Issue Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&from=rss)
-* [2026-01-21, 23:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1628204&from=rss) - [The Science That Casts Doubt on Claims About Microplastics](https://soylentnews.org/article.pl?sid=26/01/19/1628204&from=rss)
 
 ## [Archives](archives/index.md)
 
