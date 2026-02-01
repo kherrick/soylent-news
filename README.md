@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-01, 19:30:00](https://soylentnews.org/article.pl?sid=26/01/31/0151243&from=rss) - [Motor Trend - Car Dealer Confidential](https://soylentnews.org/article.pl?sid=26/01/31/0151243&from=rss)
 * [2026-02-01, 14:45:00](https://soylentnews.org/article.pl?sid=26/01/31/0148226&from=rss) - [Voyager 2's Close Encounter With Uranus Wasn't in the Official Plan](https://soylentnews.org/article.pl?sid=26/01/31/0148226&from=rss)
 * [2026-02-01, 09:59:00](https://soylentnews.org/article.pl?sid=26/01/31/014212&from=rss) - [How Often Do AI Chatbots Lead Users Down a Harmful Path?](https://soylentnews.org/article.pl?sid=26/01/31/014212&from=rss)
 * [2026-02-01, 05:15:00](https://soylentnews.org/article.pl?sid=26/01/31/0058200&from=rss) - [The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack](https://soylentnews.org/article.pl?sid=26/01/31/0058200&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-23, 13:45:00](https://soylentnews.org/article.pl?sid=26/01/22/1141230&from=rss) - [Physics of Foam Strangely Resembles AI Training](https://soylentnews.org/article.pl?sid=26/01/22/1141230&from=rss)
 * [2026-01-23, 08:59:00](https://soylentnews.org/article.pl?sid=26/01/22/0422248&from=rss) - [Wikipedia Volunteers Spent Years Cataloging AI Tells. Now There's a Plugin to Avoid Them.](https://soylentnews.org/article.pl?sid=26/01/22/0422248&from=rss)
 * [2026-01-23, 04:12:00](https://soylentnews.org/article.pl?sid=26/01/22/043242&from=rss) - [Nvidia Wanted Pirated Book Stash Access](https://soylentnews.org/article.pl?sid=26/01/22/043242&from=rss)
-* [2026-01-22, 23:28:00](https://soylentnews.org/article.pl?sid=26/01/22/0355223&from=rss) - [Textbooks Were Wrong: Human Hair Doesn't Grow the Way Scientists Thought](https://soylentnews.org/article.pl?sid=26/01/22/0355223&from=rss)
 
 ## [Archives](archives/index.md)
 
