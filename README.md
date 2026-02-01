@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-01, 05:15:00](https://soylentnews.org/article.pl?sid=26/01/31/0058200&from=rss) - [The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack](https://soylentnews.org/article.pl?sid=26/01/31/0058200&from=rss)
 * [2026-02-01, 00:24:00](https://soylentnews.org/article.pl?sid=26/01/31/0054256&from=rss) - [Researchers Use D&D to Test AI's Long-Term Decision-Making Abilities](https://soylentnews.org/article.pl?sid=26/01/31/0054256&from=rss)
 * [2026-01-31, 19:43:00](https://soylentnews.org/article.pl?sid=26/01/30/1620239&from=rss) - [Linux after Linus?](https://soylentnews.org/article.pl?sid=26/01/30/1620239&from=rss)
 * [2026-01-31, 15:00:00](https://soylentnews.org/article.pl?sid=26/01/30/0637214&from=rss) - [ Notes on the Intel 8086 Processor's Arithmetic-logic Unit ](https://soylentnews.org/article.pl?sid=26/01/30/0637214&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-22, 23:28:00](https://soylentnews.org/article.pl?sid=26/01/22/0355223&from=rss) - [Textbooks Were Wrong: Human Hair Doesn't Grow the Way Scientists Thought](https://soylentnews.org/article.pl?sid=26/01/22/0355223&from=rss)
 * [2026-01-22, 18:40:00](https://soylentnews.org/article.pl?sid=26/01/21/0150257&from=rss) - [Cows Use Tools](https://soylentnews.org/article.pl?sid=26/01/21/0150257&from=rss)
 * [2026-01-22, 13:46:00](https://soylentnews.org/article.pl?sid=26/01/21/0147238&from=rss) - [AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools](https://soylentnews.org/article.pl?sid=26/01/21/0147238&from=rss)
-* [2026-01-22, 09:07:00](https://soylentnews.org/article.pl?sid=26/01/21/0141201&from=rss) - [France Records More Deaths Than Births for First Time Since End of Second World War](https://soylentnews.org/article.pl?sid=26/01/21/0141201&from=rss)
 
 ## [Archives](archives/index.md)
 
