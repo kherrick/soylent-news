@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-02-01](index.md)
+
+* [2026-02-01, 00:24:00](https://soylentnews.org/article.pl?sid=26/01/31/0054256&from=rss) - [Researchers Use D&D to Test AI's Long-Term Decision-Making Abilities](https://soylentnews.org/article.pl?sid=26/01/31/0054256&from=rss)
