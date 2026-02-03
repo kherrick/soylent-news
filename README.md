@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-03, 04:43:00](https://soylentnews.org/article.pl?sid=26/02/01/1912232&from=rss) - [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&from=rss)
 * [2026-02-02, 23:58:00](https://soylentnews.org/article.pl?sid=26/02/01/199225&from=rss) - [Tim Berners-Lee  Wants to Save the Web](https://soylentnews.org/article.pl?sid=26/02/01/199225&from=rss)
 * [2026-02-02, 19:12:00](https://soylentnews.org/article.pl?sid=26/02/01/196206&from=rss) - [ReactOS Turns 30](https://soylentnews.org/article.pl?sid=26/02/01/196206&from=rss)
 * [2026-02-02, 14:28:00](https://soylentnews.org/article.pl?sid=26/02/01/194207&from=rss) - [Discovery Challenges Assumptions About the Structure of Language](https://soylentnews.org/article.pl?sid=26/02/01/194207&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-24, 22:54:00](https://soylentnews.org/article.pl?sid=26/01/23/1016236&from=rss) - [Ancient “Mosaic” Fossils Found in Morocco Challenge the Timeline of Human Evolution](https://soylentnews.org/article.pl?sid=26/01/23/1016236&from=rss)
 * [2026-01-24, 18:11:00](https://soylentnews.org/article.pl?sid=26/01/23/1010250&from=rss) - [Micron Acquires PSMC Fab Site in Taiwan for $1.8 Billion](https://soylentnews.org/article.pl?sid=26/01/23/1010250&from=rss)
 * [2026-01-24, 13:25:00](https://soylentnews.org/article.pl?sid=26/01/23/1012244&from=rss) - [Hygienic Conditions in Pompeii's Early Baths Were Poor](https://soylentnews.org/article.pl?sid=26/01/23/1012244&from=rss)
-* [2026-01-24, 08:42:00](https://soylentnews.org/article.pl?sid=26/01/22/124243&from=rss) - [A Billiard Ball as a Universal Computation Machine](https://soylentnews.org/article.pl?sid=26/01/22/124243&from=rss)
 
 ## [Archives](archives/index.md)
 
