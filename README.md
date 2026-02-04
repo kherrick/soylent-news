@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-04, 04:34:00](https://soylentnews.org/article.pl?sid=26/02/02/0110236&from=rss) - [Research Team Reports Breakthrough in Pancreatic Cancer Treatment](https://soylentnews.org/article.pl?sid=26/02/02/0110236&from=rss)
 * [2026-02-03, 23:47:00](https://soylentnews.org/article.pl?sid=26/02/02/0050216&from=rss) - [ChatGPT Wrote “Goodnight Moon” Suicide Lullaby for Man Who Later Killed Himself](https://soylentnews.org/article.pl?sid=26/02/02/0050216&from=rss)
 * [2026-02-03, 19:04:00](https://soylentnews.org/article.pl?sid=26/02/02/0036232&from=rss) - [NASA Assembling a Formal Anomaly Review Board for Maven](https://soylentnews.org/article.pl?sid=26/02/02/0036232&from=rss)
 * [2026-02-03, 14:17:00](https://soylentnews.org/article.pl?sid=26/02/02/0029236&from=rss) - [France Moves Government Departments Off Zoom and MS Teams Onto Homegrown Visio](https://soylentnews.org/article.pl?sid=26/02/02/0029236&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-25, 22:36:00](https://soylentnews.org/article.pl?sid=26/01/24/0116243&from=rss) - [Microsoft Gave FBI a Set of BitLocker Encryption Keys to Unlock Suspects’ Laptops](https://soylentnews.org/article.pl?sid=26/01/24/0116243&from=rss)
 * [2026-01-25, 17:53:00](https://soylentnews.org/article.pl?sid=26/01/24/0114253&from=rss) - [This May Be The Grossest Eye Pic Ever—but the Cause is What’s Truly Horrifying](https://soylentnews.org/article.pl?sid=26/01/24/0114253&from=rss)
 * [2026-01-25, 13:02:00](https://soylentnews.org/article.pl?sid=26/01/24/0112225&from=rss) - [OpenAI Rolls Out Ads in ChatGPT as Expenses Skyrocket](https://soylentnews.org/article.pl?sid=26/01/24/0112225&from=rss)
-* [2026-01-25, 08:30:00](https://soylentnews.org/article.pl?sid=26/01/24/0110242&from=rss) - [Major River Deltas Are Sinking Faster Than Sea-Level Rise](https://soylentnews.org/article.pl?sid=26/01/24/0110242&from=rss)
 
 ## [Archives](archives/index.md)
 
