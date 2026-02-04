@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-04, 18:47:00](https://soylentnews.org/article.pl?sid=26/02/02/1438258&from=rss) - [Cooler Bedroom Temperatures Help the Heart Recover During Sleep](https://soylentnews.org/article.pl?sid=26/02/02/1438258&from=rss)
 * [2026-02-04, 14:00:00](https://soylentnews.org/communityreviews/article.pl?sid=26/02/01/0325230&from=rss) - [Review of iwStack.com](https://soylentnews.org/communityreviews/article.pl?sid=26/02/01/0325230&from=rss)
 * [2026-02-04, 09:16:00](https://soylentnews.org/article.pl?sid=26/02/02/1228214&from=rss) - [When 20-Year-Old Bill Gates Fought the 'Thieves' Who Stole His First Code](https://soylentnews.org/article.pl?sid=26/02/02/1228214&from=rss)
 * [2026-02-04, 04:34:00](https://soylentnews.org/article.pl?sid=26/02/02/0110236&from=rss) - [Research Team Reports Breakthrough in Pancreatic Cancer Treatment](https://soylentnews.org/article.pl?sid=26/02/02/0110236&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-26, 11:55:00](https://soylentnews.org/article.pl?sid=26/01/25/0439223&from=rss) - [Starlink Now Uses Customers' Personal Data for AI Training](https://soylentnews.org/article.pl?sid=26/01/25/0439223&from=rss)
 * [2026-01-26, 07:11:00](https://soylentnews.org/article.pl?sid=26/01/25/0432221&from=rss) - [Attackers Find a New Way to Share Malicious Snap Packages](https://soylentnews.org/article.pl?sid=26/01/25/0432221&from=rss)
 * [2026-01-26, 03:26:00](https://soylentnews.org/article.pl?sid=26/01/25/0429246&from=rss) - [UK MPs Call for AI Stress Testing in Financial Services](https://soylentnews.org/article.pl?sid=26/01/25/0429246&from=rss)
-* [2026-01-25, 22:36:00](https://soylentnews.org/article.pl?sid=26/01/24/0116243&from=rss) - [Microsoft Gave FBI a Set of BitLocker Encryption Keys to Unlock Suspects’ Laptops](https://soylentnews.org/article.pl?sid=26/01/24/0116243&from=rss)
 
 ## [Archives](archives/index.md)
 
