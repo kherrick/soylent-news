@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-05, 09:02:00](https://soylentnews.org/article.pl?sid=26/02/02/1453203&from=rss) - [Exploring How Gut Bacteria Alter the Flavor of Black Ivory Coffee Beans](https://soylentnews.org/article.pl?sid=26/02/02/1453203&from=rss)
 * [2026-02-05, 04:15:00](https://soylentnews.org/article.pl?sid=26/02/02/1450223&from=rss) - [Autonomous Cars Vulnerable to Prompt Injection](https://soylentnews.org/article.pl?sid=26/02/02/1450223&from=rss)
 * [2026-02-04, 23:31:00](https://soylentnews.org/article.pl?sid=26/02/02/1443223&from=rss) - [The UK Government Gets It Spectacularly Wrong On AI](https://soylentnews.org/article.pl?sid=26/02/02/1443223&from=rss)
 * [2026-02-04, 18:47:00](https://soylentnews.org/article.pl?sid=26/02/02/1438258&from=rss) - [Cooler Bedroom Temperatures Help the Heart Recover During Sleep](https://soylentnews.org/article.pl?sid=26/02/02/1438258&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-27, 02:08:00](https://soylentnews.org/article.pl?sid=26/01/25/1410231&from=rss) - [Elon Musk Restarts Dojo3 'Space' Supercomputer Project As AI5 Chip Design Gets In 'Good Shape'](https://soylentnews.org/article.pl?sid=26/01/25/1410231&from=rss)
 * [2026-01-26, 21:19:00](https://soylentnews.org/article.pl?sid=26/01/25/145215&from=rss) - [Apple's Enshittification Moment: How the App Store is Quietly Abandoning User Trust](https://soylentnews.org/article.pl?sid=26/01/25/145215&from=rss)
 * [2026-01-26, 16:38:00](https://soylentnews.org/article.pl?sid=26/01/25/1312202&from=rss) - [Snover.exit()](https://soylentnews.org/article.pl?sid=26/01/25/1312202&from=rss)
-* [2026-01-26, 11:55:00](https://soylentnews.org/article.pl?sid=26/01/25/0439223&from=rss) - [Starlink Now Uses Customers' Personal Data for AI Training](https://soylentnews.org/article.pl?sid=26/01/25/0439223&from=rss)
 
 ## [Archives](archives/index.md)
 
