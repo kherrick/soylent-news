@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-05, 23:17:00](https://soylentnews.org/article.pl?sid=26/02/03/0318252&from=rss) - [Overly Involved Parents May Hold Their Kids Back Professionally](https://soylentnews.org/article.pl?sid=26/02/03/0318252&from=rss)
 * [2026-02-05, 18:29:00](https://soylentnews.org/article.pl?sid=26/02/03/0317238&from=rss) - [The Brain’s Response To A Heart Attack May Worsen Recovery](https://soylentnews.org/article.pl?sid=26/02/03/0317238&from=rss)
 * [2026-02-05, 13:43:00](https://soylentnews.org/article.pl?sid=26/02/02/1520246&from=rss) - [Amutable: Systemd Creator Lennart Poettering Launches New Linux Security Venture](https://soylentnews.org/article.pl?sid=26/02/02/1520246&from=rss)
 * [2026-02-05, 11:46:00](https://soylentnews.org/article.pl?sid=26/02/02/150245&from=rss) - [RIP Didier Spaier](https://soylentnews.org/article.pl?sid=26/02/02/150245&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-27, 21:02:00](https://soylentnews.org/article.pl?sid=26/01/26/1857242&from=rss) - [Proton VPN Reveals Major Linux Makeover](https://soylentnews.org/article.pl?sid=26/01/26/1857242&from=rss)
 * [2026-01-27, 16:19:00](https://soylentnews.org/article.pl?sid=26/01/26/1850245&from=rss) - [80386 Multiplication and Division](https://soylentnews.org/article.pl?sid=26/01/26/1850245&from=rss)
 * [2026-01-27, 11:39:00](https://soylentnews.org/article.pl?sid=26/01/25/1435251&from=rss) - [Microsoft CEO Says AI Needs to Have Wider Impact or Risk Quickly Losing \"Social Permission\"](https://soylentnews.org/article.pl?sid=26/01/25/1435251&from=rss)
-* [2026-01-27, 06:54:00](https://soylentnews.org/article.pl?sid=26/01/25/1419203&from=rss) - [The Hidden Complexity Crisis: When Simple Radio Buttons Require 200+ Lines of Code](https://soylentnews.org/article.pl?sid=26/01/25/1419203&from=rss)
 
 ## [Archives](archives/index.md)
 
