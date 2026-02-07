@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-07, 03:28:00](https://soylentnews.org/article.pl?sid=26/02/06/031244&from=rss) - [AI Agents Now Have Their Own Reddit-Style Social Network, and It's Getting Weird Fast](https://soylentnews.org/article.pl?sid=26/02/06/031244&from=rss)
 * [2026-02-06, 22:45:00](https://soylentnews.org/article.pl?sid=26/02/06/0248203&from=rss) - [The TV Industry Finally Concedes That the Future May Not be in 8K](https://soylentnews.org/article.pl?sid=26/02/06/0248203&from=rss)
 * [2026-02-06, 18:00:00](https://soylentnews.org/article.pl?sid=26/02/05/133201&from=rss) - [GNU Hurd is \"Almost There\" With X86_64, SMP & ~75% of Debian Packages Building](https://soylentnews.org/article.pl?sid=26/02/05/133201&from=rss)
 * [2026-02-06, 13:11:00](https://soylentnews.org/article.pl?sid=26/02/05/1252238&from=rss) - [Oracle May Lay Off 30,000 and Sell Healthcare Division to Fund AI Buildout](https://soylentnews.org/article.pl?sid=26/02/05/1252238&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-29, 01:30:00](https://soylentnews.org/article.pl?sid=26/01/27/0352207&from=rss) - [AI is Already Writing Almost One-Third of New Software Code](https://soylentnews.org/article.pl?sid=26/01/27/0352207&from=rss)
 * [2026-01-28, 20:39:00](https://soylentnews.org/article.pl?sid=26/01/26/1911209&from=rss) - [The Return of Digg, and the Proliferation of Cancel Culture](https://soylentnews.org/article.pl?sid=26/01/26/1911209&from=rss)
 * [2026-01-28, 15:55:00](https://soylentnews.org/article.pl?sid=26/01/26/197234&from=rss) - [Socializing Alone: The Downside of Communication Technology](https://soylentnews.org/article.pl?sid=26/01/26/197234&from=rss)
-* [2026-01-28, 11:13:00](https://soylentnews.org/article.pl?sid=26/01/26/195201&from=rss) - [TSMC Says AI Demand is “Endless” After Record Q4 Earnings](https://soylentnews.org/article.pl?sid=26/01/26/195201&from=rss)
 
 ## [Archives](archives/index.md)
 
