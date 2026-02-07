@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 08:16:00](https://soylentnews.org/article.pl?sid=26/02/06/038224&from=rss) - [US Spy Satellite Agency Declassifies High-Flying Cold War Listening Post](https://soylentnews.org/article.pl?sid=26/02/06/038224&from=rss)
 * [2026-02-07, 03:28:00](https://soylentnews.org/article.pl?sid=26/02/06/031244&from=rss) - [AI Agents Now Have Their Own Reddit-Style Social Network, and It's Getting Weird Fast](https://soylentnews.org/article.pl?sid=26/02/06/031244&from=rss)
