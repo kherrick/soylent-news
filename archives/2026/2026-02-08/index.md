@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 23:12:00](https://soylentnews.org/article.pl?sid=26/02/07/0338257&from=rss) - [Russian Spy Satellites Have Intercepted EU Communications Satellites](https://soylentnews.org/article.pl?sid=26/02/07/0338257&from=rss)
 * [2026-02-08, 17:24:00](https://soylentnews.org/article.pl?sid=26/02/07/0328238&from=rss) - [Lessons from China’s Delicate Dance of Censorship and Expression](https://soylentnews.org/article.pl?sid=26/02/07/0328238&from=rss)
 * [2026-02-08, 12:38:00](https://soylentnews.org/article.pl?sid=26/02/07/0323222&from=rss) - [Linux From Scratch Abandoning SysVinit Support](https://soylentnews.org/article.pl?sid=26/02/07/0323222&from=rss)
 * [2026-02-08, 07:57:00](https://soylentnews.org/article.pl?sid=26/02/07/009242&from=rss) - [Self-Driving Cars In ‘Difficult Driving Situations’ Are Guided By Random Filipinos Overseas](https://soylentnews.org/article.pl?sid=26/02/07/009242&from=rss)

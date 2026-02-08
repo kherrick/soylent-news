@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-08, 23:12:00](https://soylentnews.org/article.pl?sid=26/02/07/0338257&from=rss) - [Russian Spy Satellites Have Intercepted EU Communications Satellites](https://soylentnews.org/article.pl?sid=26/02/07/0338257&from=rss)
 * [2026-02-08, 17:24:00](https://soylentnews.org/article.pl?sid=26/02/07/0328238&from=rss) - [Lessons from China’s Delicate Dance of Censorship and Expression](https://soylentnews.org/article.pl?sid=26/02/07/0328238&from=rss)
 * [2026-02-08, 12:38:00](https://soylentnews.org/article.pl?sid=26/02/07/0323222&from=rss) - [Linux From Scratch Abandoning SysVinit Support](https://soylentnews.org/article.pl?sid=26/02/07/0323222&from=rss)
 * [2026-02-08, 07:57:00](https://soylentnews.org/article.pl?sid=26/02/07/009242&from=rss) - [Self-Driving Cars In ‘Difficult Driving Situations’ Are Guided By Random Filipinos Overseas](https://soylentnews.org/article.pl?sid=26/02/07/009242&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-30, 20:22:00](https://soylentnews.org/article.pl?sid=26/01/28/2253239&from=rss) - [A Look at Potential Problems with Future AI](https://soylentnews.org/article.pl?sid=26/01/28/2253239&from=rss)
 * [2026-01-30, 15:38:00](https://soylentnews.org/article.pl?sid=26/01/28/2248256&from=rss) - [Salty Facts: Takeaways Have More Salt Than Labels Claim](https://soylentnews.org/article.pl?sid=26/01/28/2248256&from=rss)
 * [2026-01-30, 10:46:00](https://soylentnews.org/article.pl?sid=26/01/28/2247217&from=rss) - [Executives Keep Overestimating AI Benefits](https://soylentnews.org/article.pl?sid=26/01/28/2247217&from=rss)
-* [2026-01-30, 06:10:00](https://soylentnews.org/article.pl?sid=26/01/28/2241225&from=rss) - [Musk's X Releases Source Code for Platform's Algorithm](https://soylentnews.org/article.pl?sid=26/01/28/2241225&from=rss)
 
 ## [Archives](archives/index.md)
 
