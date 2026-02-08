@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-08, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/07/006217&from=rss) - [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://soylentnews.org/article.pl?sid=26/02/07/006217&from=rss)
 * [2026-02-07, 22:21:00](https://soylentnews.org/article.pl?sid=26/02/07/004218&from=rss) - [France Might Seek Restrictions on VPN Use in Campaign to Keep Minors Off Social Media](https://soylentnews.org/article.pl?sid=26/02/07/004218&from=rss)
 * [2026-02-07, 17:49:00](https://soylentnews.org/article.pl?sid=26/02/06/2359259&from=rss) - [Used EVs Currently Offer Car Buyers Lowest Lifetime Cost of Ownership](https://soylentnews.org/article.pl?sid=26/02/06/2359259&from=rss)
 * [2026-02-07, 12:59:00](https://soylentnews.org/article.pl?sid=26/02/06/0310232&from=rss) - [The World Factbook Shut Down Unceremonously](https://soylentnews.org/article.pl?sid=26/02/06/0310232&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-30, 01:15:00](https://soylentnews.org/article.pl?sid=26/01/28/2237224&from=rss) - [For the Price of Netflix, Crooks Can Rent AI Crime Ops](https://soylentnews.org/article.pl?sid=26/01/28/2237224&from=rss)
 * [2026-01-29, 20:30:00](https://soylentnews.org/article.pl?sid=26/01/27/0538204&from=rss) - [Four Arrested Following $1.6 Million NFT Heist in the Netherlands](https://soylentnews.org/article.pl?sid=26/01/27/0538204&from=rss)
 * [2026-01-29, 15:40:00](https://soylentnews.org/article.pl?sid=26/01/27/0515229&from=rss) - [Microsoft Admits Windows 11 Update Is Nuking System Drives but There's 'A Limited Number Of Reports'](https://soylentnews.org/article.pl?sid=26/01/27/0515229&from=rss)
-* [2026-01-29, 10:59:00](https://soylentnews.org/article.pl?sid=26/01/27/0441241&from=rss) - [Breakthrough Wireless Transceiver Transmits Data 24 Times Faster Than 5G Connections](https://soylentnews.org/article.pl?sid=26/01/27/0441241&from=rss)
 
 ## [Archives](archives/index.md)
 
