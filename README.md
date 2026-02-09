@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-09, 12:24:00](https://soylentnews.org/article.pl?sid=26/02/08/0226226&from=rss) - [Vibe Coding is Killing Open Source Software](https://soylentnews.org/article.pl?sid=26/02/08/0226226&from=rss)
 * [2026-02-09, 08:39:00](https://soylentnews.org/article.pl?sid=26/02/07/0352243&from=rss) - [The AI productivity trap: Why your Best Engineers are Getting Slower](https://soylentnews.org/article.pl?sid=26/02/07/0352243&from=rss)
 * [2026-02-09, 03:54:00](https://soylentnews.org/article.pl?sid=26/02/07/0347222&from=rss) - [FBI Stymied by Apple's Lockdown Mode After Seizing Journalist's iPhone](https://soylentnews.org/article.pl?sid=26/02/07/0347222&from=rss)
 * [2026-02-08, 23:12:00](https://soylentnews.org/article.pl?sid=26/02/07/0338257&from=rss) - [Russian Spy Satellites Have Intercepted EU Communications Satellites](https://soylentnews.org/article.pl?sid=26/02/07/0338257&from=rss)
@@ -49,7 +50,6 @@
 * [2026-01-31, 10:19:00](https://soylentnews.org/article.pl?sid=26/01/30/0627240&from=rss) - [Signal President Warns AI Agents Are Making Encryption Irrelevant](https://soylentnews.org/article.pl?sid=26/01/30/0627240&from=rss)
 * [2026-01-31, 05:42:00](https://soylentnews.org/article.pl?sid=26/01/30/0623217&from=rss) - [Remembering the YF-23 Stealth Fighter](https://soylentnews.org/article.pl?sid=26/01/30/0623217&from=rss)
 * [2026-01-31, 01:01:00](https://soylentnews.org/article.pl?sid=26/01/30/068202&from=rss) - [County Pays $600,000 to Pentesters It Arrested for Assessing Courthouse Security](https://soylentnews.org/article.pl?sid=26/01/30/068202&from=rss)
-* [2026-01-30, 20:22:00](https://soylentnews.org/article.pl?sid=26/01/28/2253239&from=rss) - [A Look at Potential Problems with Future AI](https://soylentnews.org/article.pl?sid=26/01/28/2253239&from=rss)
 
 ## [Archives](archives/index.md)
 
