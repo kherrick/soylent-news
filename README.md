@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-10, 06:22:00](https://soylentnews.org/article.pl?sid=26/02/09/0524218&from=rss) - [Microsoft Releases Urgent Office Patch While Russian-State Hackers Pounce](https://soylentnews.org/article.pl?sid=26/02/09/0524218&from=rss)
 * [2026-02-10, 01:38:00](https://soylentnews.org/article.pl?sid=26/02/09/0519218&from=rss) - [A Fresh Look at IBM 3270 Information Display System](https://soylentnews.org/article.pl?sid=26/02/09/0519218&from=rss)
 * [2026-02-09, 20:54:00](https://soylentnews.org/article.pl?sid=26/02/09/0514240&from=rss) - [New York Lawmakers Introduce Bill That Aims to Halt Data Center Development for Three Years](https://soylentnews.org/article.pl?sid=26/02/09/0514240&from=rss)
 * [2026-02-09, 16:09:00](https://soylentnews.org/article.pl?sid=26/02/08/0232241&from=rss) - [Taking a Second to Change the Time](https://soylentnews.org/article.pl?sid=26/02/08/0232241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-01, 05:15:00](https://soylentnews.org/article.pl?sid=26/01/31/0058200&from=rss) - [The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack](https://soylentnews.org/article.pl?sid=26/01/31/0058200&from=rss)
 * [2026-02-01, 00:24:00](https://soylentnews.org/article.pl?sid=26/01/31/0054256&from=rss) - [Researchers Use D&D to Test AI's Long-Term Decision-Making Abilities](https://soylentnews.org/article.pl?sid=26/01/31/0054256&from=rss)
 * [2026-01-31, 19:43:00](https://soylentnews.org/article.pl?sid=26/01/30/1620239&from=rss) - [Linux after Linus?](https://soylentnews.org/article.pl?sid=26/01/30/1620239&from=rss)
-* [2026-01-31, 15:00:00](https://soylentnews.org/article.pl?sid=26/01/30/0637214&from=rss) - [ Notes on the Intel 8086 Processor's Arithmetic-logic Unit ](https://soylentnews.org/article.pl?sid=26/01/30/0637214&from=rss)
 
 ## [Archives](archives/index.md)
 
