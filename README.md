@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-11, 06:05:00](https://soylentnews.org/article.pl?sid=26/02/10/0257251&from=rss) - [Microsoft Does Something Useful, Adds Sysmon to Windows](https://soylentnews.org/article.pl?sid=26/02/10/0257251&from=rss)
 * [2026-02-11, 01:20:00](https://soylentnews.org/article.pl?sid=26/02/10/0251250&from=rss) - [Ask SN - \"Opt-Out Signal Honored\" - Screen Message](https://soylentnews.org/article.pl?sid=26/02/10/0251250&from=rss)
 * [2026-02-10, 20:33:00](https://soylentnews.org/article.pl?sid=26/02/09/1936243&from=rss) - [AI.Com's $85 Million Super Bowl Ad Campaign Falls Foul as Traffic Crashes Servers](https://soylentnews.org/article.pl?sid=26/02/09/1936243&from=rss)
 * [2026-02-10, 15:50:00](https://soylentnews.org/article.pl?sid=26/02/09/1922203&from=rss) - [Linux Kernel 6.19 is Released and the Next Version is Confirmed to be 7.0](https://soylentnews.org/article.pl?sid=26/02/09/1922203&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-02, 04:57:00](https://soylentnews.org/article.pl?sid=26/01/31/0217249&from=rss) - [Scientists Baffled at Mysterious Ancient Creature That Doesn't Fit on the Tree of Life as We Know It](https://soylentnews.org/article.pl?sid=26/01/31/0217249&from=rss)
 * [2026-02-02, 00:11:00](https://soylentnews.org/article.pl?sid=26/01/31/024237&from=rss) - [Processor Arm Race Heats Up as Nvidia Could Soon Challenge Intel, Amd and Apple With its N1X Laptop](https://soylentnews.org/article.pl?sid=26/01/31/024237&from=rss)
 * [2026-02-01, 19:30:00](https://soylentnews.org/article.pl?sid=26/01/31/0151243&from=rss) - [Motor Trend - Car Dealer Confidential](https://soylentnews.org/article.pl?sid=26/01/31/0151243&from=rss)
-* [2026-02-01, 14:45:00](https://soylentnews.org/article.pl?sid=26/01/31/0148226&from=rss) - [Voyager 2's Close Encounter With Uranus Wasn't in the Official Plan](https://soylentnews.org/article.pl?sid=26/01/31/0148226&from=rss)
 
 ## [Archives](archives/index.md)
 
