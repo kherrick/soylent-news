@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-12, 05:48:00](https://soylentnews.org/article.pl?sid=26/02/10/0830234&from=rss) - [MIT Scientists Build Terahertz Microscope That Reveals Hidden Superconducting Motion](https://soylentnews.org/article.pl?sid=26/02/10/0830234&from=rss)
 * [2026-02-12, 01:07:00](https://soylentnews.org/politics/article.pl?sid=26/02/10/0826224&from=rss) - [EU Interferes In Its Own Elections And Ours, Say US Tech Bros](https://soylentnews.org/politics/article.pl?sid=26/02/10/0826224&from=rss)
 * [2026-02-11, 20:23:00](https://soylentnews.org/article.pl?sid=26/02/10/0820248&from=rss) - [After a $26 Billion Hit, Stellantis Shifts Focus Back to What Buyers Want](https://soylentnews.org/article.pl?sid=26/02/10/0820248&from=rss)
 * [2026-02-11, 15:37:00](https://soylentnews.org/article.pl?sid=26/02/10/0818222&from=rss) - [Discord Will Require a Face Scan or ID for Full Access Next Month](https://soylentnews.org/article.pl?sid=26/02/10/0818222&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-03, 04:43:00](https://soylentnews.org/article.pl?sid=26/02/01/1912232&from=rss) - [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&from=rss)
 * [2026-02-02, 23:58:00](https://soylentnews.org/article.pl?sid=26/02/01/199225&from=rss) - [Tim Berners-Lee  Wants to Save the Web](https://soylentnews.org/article.pl?sid=26/02/01/199225&from=rss)
 * [2026-02-02, 19:12:00](https://soylentnews.org/article.pl?sid=26/02/01/196206&from=rss) - [ReactOS Turns 30](https://soylentnews.org/article.pl?sid=26/02/01/196206&from=rss)
-* [2026-02-02, 14:28:00](https://soylentnews.org/article.pl?sid=26/02/01/194207&from=rss) - [Discovery Challenges Assumptions About the Structure of Language](https://soylentnews.org/article.pl?sid=26/02/01/194207&from=rss)
 
 ## [Archives](archives/index.md)
 
