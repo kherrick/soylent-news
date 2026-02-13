@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-13, 19:51:00](https://soylentnews.org/article.pl?sid=26/02/13/0612228&from=rss) - [80386 Barrel Shifter](https://soylentnews.org/article.pl?sid=26/02/13/0612228&from=rss)
 * [2026-02-13, 15:08:00](https://soylentnews.org/article.pl?sid=26/02/13/0611200&from=rss) - [Taiwan Tells Uncle Sam its Chip Ecosystem Ain't Going Anywhere](https://soylentnews.org/article.pl?sid=26/02/13/0611200&from=rss)
 * [2026-02-13, 10:26:00](https://soylentnews.org/article.pl?sid=26/02/12/0346212&from=rss) - [New Critique Debunks Claim That Trees Can Sense a Solar Eclipse](https://soylentnews.org/article.pl?sid=26/02/12/0346212&from=rss)
 * [2026-02-13, 05:38:00](https://soylentnews.org/article.pl?sid=26/02/12/0319239&from=rss) - [Google Recovers “Deleted” Nest Video in High-Profile Abduction Case](https://soylentnews.org/article.pl?sid=26/02/12/0319239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-04, 18:47:00](https://soylentnews.org/article.pl?sid=26/02/02/1438258&from=rss) - [Cooler Bedroom Temperatures Help the Heart Recover During Sleep](https://soylentnews.org/article.pl?sid=26/02/02/1438258&from=rss)
 * [2026-02-04, 14:00:00](https://soylentnews.org/communityreviews/article.pl?sid=26/02/01/0325230&from=rss) - [Review of iwStack.com](https://soylentnews.org/communityreviews/article.pl?sid=26/02/01/0325230&from=rss)
 * [2026-02-04, 09:16:00](https://soylentnews.org/article.pl?sid=26/02/02/1228214&from=rss) - [When 20-Year-Old Bill Gates Fought the 'Thieves' Who Stole His First Code](https://soylentnews.org/article.pl?sid=26/02/02/1228214&from=rss)
-* [2026-02-04, 04:34:00](https://soylentnews.org/article.pl?sid=26/02/02/0110236&from=rss) - [Research Team Reports Breakthrough in Pancreatic Cancer Treatment](https://soylentnews.org/article.pl?sid=26/02/02/0110236&from=rss)
 
 ## [Archives](archives/index.md)
 
