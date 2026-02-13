@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 05:38:00](https://soylentnews.org/article.pl?sid=26/02/12/0319239&from=rss) - [Google Recovers “Deleted” Nest Video in High-Profile Abduction Case](https://soylentnews.org/article.pl?sid=26/02/12/0319239&from=rss)
 * [2026-02-13, 00:47:00](https://soylentnews.org/article.pl?sid=26/02/12/0318206&from=rss) - [SpaceX is Pivoting to Focus on a Moon Base Before Mars](https://soylentnews.org/article.pl?sid=26/02/12/0318206&from=rss)
