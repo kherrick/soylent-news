@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-14, 05:19:00](https://soylentnews.org/article.pl?sid=26/02/13/1231209&from=rss) - [AMD Rockets Past 35% Market Share in Desktop PC Market as Intel's Share Loss Accelerates](https://soylentnews.org/article.pl?sid=26/02/13/1231209&from=rss)
 * [2026-02-14, 00:34:00](https://soylentnews.org/article.pl?sid=26/02/13/0615203&from=rss) - [El Paso Airport Closed After Military Used New Anti-Drone Laser to Zap Party Balloon](https://soylentnews.org/article.pl?sid=26/02/13/0615203&from=rss)
 * [2026-02-13, 19:51:00](https://soylentnews.org/article.pl?sid=26/02/13/0612228&from=rss) - [80386 Barrel Shifter](https://soylentnews.org/article.pl?sid=26/02/13/0612228&from=rss)
 * [2026-02-13, 15:08:00](https://soylentnews.org/article.pl?sid=26/02/13/0611200&from=rss) - [Taiwan Tells Uncle Sam its Chip Ecosystem Ain't Going Anywhere](https://soylentnews.org/article.pl?sid=26/02/13/0611200&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-05, 04:15:00](https://soylentnews.org/article.pl?sid=26/02/02/1450223&from=rss) - [Autonomous Cars Vulnerable to Prompt Injection](https://soylentnews.org/article.pl?sid=26/02/02/1450223&from=rss)
 * [2026-02-04, 23:31:00](https://soylentnews.org/article.pl?sid=26/02/02/1443223&from=rss) - [The UK Government Gets It Spectacularly Wrong On AI](https://soylentnews.org/article.pl?sid=26/02/02/1443223&from=rss)
 * [2026-02-04, 18:47:00](https://soylentnews.org/article.pl?sid=26/02/02/1438258&from=rss) - [Cooler Bedroom Temperatures Help the Heart Recover During Sleep](https://soylentnews.org/article.pl?sid=26/02/02/1438258&from=rss)
-* [2026-02-04, 14:00:00](https://soylentnews.org/communityreviews/article.pl?sid=26/02/01/0325230&from=rss) - [Review of iwStack.com](https://soylentnews.org/communityreviews/article.pl?sid=26/02/01/0325230&from=rss)
 
 ## [Archives](archives/index.md)
 
