@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-15, 19:20:00](https://soylentnews.org/article.pl?sid=26/02/14/014205&from=rss) - [Claude Opus 4.6 Spends $20K Trying to Write a C Compiler](https://soylentnews.org/article.pl?sid=26/02/14/014205&from=rss)
 * [2026-02-15, 14:35:00](https://soylentnews.org/article.pl?sid=26/02/14/0057218&from=rss) - [5 Linux Servers That Let You Ditch the Public Cloud and Reclaim Your Privacy](https://soylentnews.org/article.pl?sid=26/02/14/0057218&from=rss)
 * [2026-02-15, 09:42:00](https://soylentnews.org/article.pl?sid=26/02/14/0053238&from=rss) - [Hiroshima Scientists Crack the Code for 3D Printing Tungsten Carbide](https://soylentnews.org/article.pl?sid=26/02/14/0053238&from=rss)
 * [2026-02-15, 05:11:00](https://soylentnews.org/article.pl?sid=26/02/14/0052214&from=rss) - [Ford Posts $11.1 Billion Net Loss in Fourth Quarter as EV Losses, Tariffs Weigh](https://soylentnews.org/article.pl?sid=26/02/14/0052214&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-06, 13:11:00](https://soylentnews.org/article.pl?sid=26/02/05/1252238&from=rss) - [Oracle May Lay Off 30,000 and Sell Healthcare Division to Fund AI Buildout](https://soylentnews.org/article.pl?sid=26/02/05/1252238&from=rss)
 * [2026-02-06, 08:21:00](https://soylentnews.org/article.pl?sid=26/02/03/0322237&from=rss) - [How to Bypass a Parallel Port Dongle](https://soylentnews.org/article.pl?sid=26/02/03/0322237&from=rss)
 * [2026-02-06, 03:59:00](https://soylentnews.org/article.pl?sid=26/02/03/0321201&from=rss) - [Notepad++ update feature hijacked by Chinese state hackers for months](https://soylentnews.org/article.pl?sid=26/02/03/0321201&from=rss)
-* [2026-02-05, 23:17:00](https://soylentnews.org/article.pl?sid=26/02/03/0318252&from=rss) - [Overly Involved Parents May Hold Their Kids Back Professionally](https://soylentnews.org/article.pl?sid=26/02/03/0318252&from=rss)
 
 ## [Archives](archives/index.md)
 
