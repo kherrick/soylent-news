@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-16, 14:12:00](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&from=rss) - [Europe's $24 Trillion Breakup With Visa and Mastercard](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&from=rss)
 * [2026-02-16, 09:31:00](https://soylentnews.org/article.pl?sid=26/02/14/0455240&from=rss) - [Ubisoft Workers Strike in Protest of Job Cuts and Return-to-Office Mandate](https://soylentnews.org/article.pl?sid=26/02/14/0455240&from=rss)
 * [2026-02-16, 04:45:00](https://soylentnews.org/article.pl?sid=26/02/14/0452212&from=rss) - [Anthropic Launches New Model That Spots Zero Days](https://soylentnews.org/article.pl?sid=26/02/14/0452212&from=rss)
 * [2026-02-16, 00:35:00](https://soylentnews.org/article.pl?sid=26/02/14/0517216&from=rss) - [Astronomers Discover the Surprising Reason for a Star's Disappearance](https://soylentnews.org/article.pl?sid=26/02/14/0517216&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-07, 12:59:00](https://soylentnews.org/article.pl?sid=26/02/06/0310232&from=rss) - [The World Factbook Shut Down Unceremonously](https://soylentnews.org/article.pl?sid=26/02/06/0310232&from=rss)
 * [2026-02-07, 08:16:00](https://soylentnews.org/article.pl?sid=26/02/06/038224&from=rss) - [US Spy Satellite Agency Declassifies High-Flying Cold War Listening Post](https://soylentnews.org/article.pl?sid=26/02/06/038224&from=rss)
 * [2026-02-07, 03:28:00](https://soylentnews.org/article.pl?sid=26/02/06/031244&from=rss) - [AI Agents Now Have Their Own Reddit-Style Social Network, and It's Getting Weird Fast](https://soylentnews.org/article.pl?sid=26/02/06/031244&from=rss)
-* [2026-02-06, 22:45:00](https://soylentnews.org/article.pl?sid=26/02/06/0248203&from=rss) - [The TV Industry Finally Concedes That the Future May Not be in 8K](https://soylentnews.org/article.pl?sid=26/02/06/0248203&from=rss)
 
 ## [Archives](archives/index.md)
 
