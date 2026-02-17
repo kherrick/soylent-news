@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 23:43:00](https://soylentnews.org/article.pl?sid=26/02/14/0525257&from=rss) - [Why Are Criminals Stealing Used Cooking Oil From Scotland's Chip Shops?](https://soylentnews.org/article.pl?sid=26/02/14/0525257&from=rss)
 * [2026-02-16, 18:58:00](https://soylentnews.org/article.pl?sid=26/02/14/0521202&from=rss) - [John Carmack Proposes Fiber-Optic Loops as High-Speed AI Cache](https://soylentnews.org/article.pl?sid=26/02/14/0521202&from=rss)
 * [2026-02-16, 14:12:00](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&from=rss) - [Europe's $24 Trillion Breakup With Visa and Mastercard](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&from=rss)
 * [2026-02-16, 09:31:00](https://soylentnews.org/article.pl?sid=26/02/14/0455240&from=rss) - [Ubisoft Workers Strike in Protest of Job Cuts and Return-to-Office Mandate](https://soylentnews.org/article.pl?sid=26/02/14/0455240&from=rss)

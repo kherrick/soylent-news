@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-16, 23:43:00](https://soylentnews.org/article.pl?sid=26/02/14/0525257&from=rss) - [Why Are Criminals Stealing Used Cooking Oil From Scotland's Chip Shops?](https://soylentnews.org/article.pl?sid=26/02/14/0525257&from=rss)
 * [2026-02-16, 18:58:00](https://soylentnews.org/article.pl?sid=26/02/14/0521202&from=rss) - [John Carmack Proposes Fiber-Optic Loops as High-Speed AI Cache](https://soylentnews.org/article.pl?sid=26/02/14/0521202&from=rss)
 * [2026-02-16, 14:12:00](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&from=rss) - [Europe's $24 Trillion Breakup With Visa and Mastercard](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&from=rss)
 * [2026-02-16, 09:31:00](https://soylentnews.org/article.pl?sid=26/02/14/0455240&from=rss) - [Ubisoft Workers Strike in Protest of Job Cuts and Return-to-Office Mandate](https://soylentnews.org/article.pl?sid=26/02/14/0455240&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-07, 22:21:00](https://soylentnews.org/article.pl?sid=26/02/07/004218&from=rss) - [France Might Seek Restrictions on VPN Use in Campaign to Keep Minors Off Social Media](https://soylentnews.org/article.pl?sid=26/02/07/004218&from=rss)
 * [2026-02-07, 17:49:00](https://soylentnews.org/article.pl?sid=26/02/06/2359259&from=rss) - [Used EVs Currently Offer Car Buyers Lowest Lifetime Cost of Ownership](https://soylentnews.org/article.pl?sid=26/02/06/2359259&from=rss)
 * [2026-02-07, 12:59:00](https://soylentnews.org/article.pl?sid=26/02/06/0310232&from=rss) - [The World Factbook Shut Down Unceremonously](https://soylentnews.org/article.pl?sid=26/02/06/0310232&from=rss)
-* [2026-02-07, 08:16:00](https://soylentnews.org/article.pl?sid=26/02/06/038224&from=rss) - [US Spy Satellite Agency Declassifies High-Flying Cold War Listening Post](https://soylentnews.org/article.pl?sid=26/02/06/038224&from=rss)
 
 ## [Archives](archives/index.md)
 
