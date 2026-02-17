@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-17, 23:27:00](https://soylentnews.org/article.pl?sid=26/02/16/2248253&from=rss) - [How the GNU C Compiler Became the Clippy of Cryptography](https://soylentnews.org/article.pl?sid=26/02/16/2248253&from=rss)
 * [2026-02-17, 18:46:00](https://soylentnews.org/article.pl?sid=26/02/16/2246259&from=rss) - [Why We Sleep Poorly in New Environments: A Brain Circuit That Keeps Animals Awake](https://soylentnews.org/article.pl?sid=26/02/16/2246259&from=rss)
 * [2026-02-17, 13:57:00](https://soylentnews.org/article.pl?sid=26/02/15/2340202&from=rss) - [AI Could Wipe Out Most White-Collar Jobs Within 12 Months, Microsoft AI Chief Warns](https://soylentnews.org/article.pl?sid=26/02/15/2340202&from=rss)
 * [2026-02-17, 09:11:00](https://soylentnews.org/article.pl?sid=26/02/15/2333213&from=rss) - [\"ICE Out of Our Faces Act\" Would Ban ICE and CBP Use of Facial Recognition](https://soylentnews.org/article.pl?sid=26/02/15/2333213&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-08, 23:12:00](https://soylentnews.org/article.pl?sid=26/02/07/0338257&from=rss) - [Russian Spy Satellites Have Intercepted EU Communications Satellites](https://soylentnews.org/article.pl?sid=26/02/07/0338257&from=rss)
 * [2026-02-08, 17:24:00](https://soylentnews.org/article.pl?sid=26/02/07/0328238&from=rss) - [Lessons from China’s Delicate Dance of Censorship and Expression](https://soylentnews.org/article.pl?sid=26/02/07/0328238&from=rss)
 * [2026-02-08, 12:38:00](https://soylentnews.org/article.pl?sid=26/02/07/0323222&from=rss) - [Linux From Scratch Abandoning SysVinit Support](https://soylentnews.org/article.pl?sid=26/02/07/0323222&from=rss)
-* [2026-02-08, 07:57:00](https://soylentnews.org/article.pl?sid=26/02/07/009242&from=rss) - [Self-Driving Cars In ‘Difficult Driving Situations’ Are Guided By Random Filipinos Overseas](https://soylentnews.org/article.pl?sid=26/02/07/009242&from=rss)
 
 ## [Archives](archives/index.md)
 
