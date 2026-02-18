@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-18, 18:21:00](https://soylentnews.org/article.pl?sid=26/02/17/1842234&from=rss) - [This Bonobo Just Did Something Scientists Thought Only Humans Could Do](https://soylentnews.org/article.pl?sid=26/02/17/1842234&from=rss)
 * [2026-02-18, 13:39:00](https://soylentnews.org/article.pl?sid=26/02/17/1321256&from=rss) - [A Fluid Can Store Solar Energy and Then Release It as Heat Months Later](https://soylentnews.org/article.pl?sid=26/02/17/1321256&from=rss)
 * [2026-02-18, 08:57:00](https://soylentnews.org/article.pl?sid=26/02/17/1319222&from=rss) - [New ClickFix Attack Abuses Nslookup to Retrieve PowerShell Payload Via DNS](https://soylentnews.org/article.pl?sid=26/02/17/1319222&from=rss)
 * [2026-02-18, 04:09:00](https://soylentnews.org/article.pl?sid=26/02/16/2249254&from=rss) - [Instruction Decoding in the Intel 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/02/16/2249254&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-09, 16:09:00](https://soylentnews.org/article.pl?sid=26/02/08/0232241&from=rss) - [Taking a Second to Change the Time](https://soylentnews.org/article.pl?sid=26/02/08/0232241&from=rss)
 * [2026-02-09, 12:24:00](https://soylentnews.org/article.pl?sid=26/02/08/0226226&from=rss) - [Vibe Coding is Killing Open Source Software](https://soylentnews.org/article.pl?sid=26/02/08/0226226&from=rss)
 * [2026-02-09, 08:39:00](https://soylentnews.org/article.pl?sid=26/02/07/0352243&from=rss) - [The AI productivity trap: Why your Best Engineers are Getting Slower](https://soylentnews.org/article.pl?sid=26/02/07/0352243&from=rss)
-* [2026-02-09, 03:54:00](https://soylentnews.org/article.pl?sid=26/02/07/0347222&from=rss) - [FBI Stymied by Apple's Lockdown Mode After Seizing Journalist's iPhone](https://soylentnews.org/article.pl?sid=26/02/07/0347222&from=rss)
 
 ## [Archives](archives/index.md)
 
