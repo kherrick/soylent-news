@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-18, 08:57:00](https://soylentnews.org/article.pl?sid=26/02/17/1319222&from=rss) - [New ClickFix Attack Abuses Nslookup to Retrieve PowerShell Payload Via DNS](https://soylentnews.org/article.pl?sid=26/02/17/1319222&from=rss)
 * [2026-02-18, 04:09:00](https://soylentnews.org/article.pl?sid=26/02/16/2249254&from=rss) - [Instruction Decoding in the Intel 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/02/16/2249254&from=rss)
 * [2026-02-17, 23:27:00](https://soylentnews.org/article.pl?sid=26/02/16/2248253&from=rss) - [How the GNU C Compiler Became the Clippy of Cryptography](https://soylentnews.org/article.pl?sid=26/02/16/2248253&from=rss)
 * [2026-02-17, 18:46:00](https://soylentnews.org/article.pl?sid=26/02/16/2246259&from=rss) - [Why We Sleep Poorly in New Environments: A Brain Circuit That Keeps Animals Awake](https://soylentnews.org/article.pl?sid=26/02/16/2246259&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-09, 08:39:00](https://soylentnews.org/article.pl?sid=26/02/07/0352243&from=rss) - [The AI productivity trap: Why your Best Engineers are Getting Slower](https://soylentnews.org/article.pl?sid=26/02/07/0352243&from=rss)
 * [2026-02-09, 03:54:00](https://soylentnews.org/article.pl?sid=26/02/07/0347222&from=rss) - [FBI Stymied by Apple's Lockdown Mode After Seizing Journalist's iPhone](https://soylentnews.org/article.pl?sid=26/02/07/0347222&from=rss)
 * [2026-02-08, 23:12:00](https://soylentnews.org/article.pl?sid=26/02/07/0338257&from=rss) - [Russian Spy Satellites Have Intercepted EU Communications Satellites](https://soylentnews.org/article.pl?sid=26/02/07/0338257&from=rss)
-* [2026-02-08, 17:24:00](https://soylentnews.org/article.pl?sid=26/02/07/0328238&from=rss) - [Lessons from China’s Delicate Dance of Censorship and Expression](https://soylentnews.org/article.pl?sid=26/02/07/0328238&from=rss)
 
 ## [Archives](archives/index.md)
 
