@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-20, 22:40:00](https://soylentnews.org/article.pl?sid=26/02/19/1712216&from=rss) - [Bacteria Frozen Inside 5,000-Year-Old Ice Cave is Crazy Resistant to Antibiotics ](https://soylentnews.org/article.pl?sid=26/02/19/1712216&from=rss)
 * [2026-02-20, 17:56:00](https://soylentnews.org/article.pl?sid=26/02/19/178226&from=rss) - [OpenClaw Security Fears Lead Meta, Other AI Firms to Restrict its Use](https://soylentnews.org/article.pl?sid=26/02/19/178226&from=rss)
 * [2026-02-20, 13:13:00](https://soylentnews.org/article.pl?sid=26/02/19/1613238&from=rss) - [Texas Sues Wi-Fi Router Maker Over Alleged China Links](https://soylentnews.org/article.pl?sid=26/02/19/1613238&from=rss)
 * [2026-02-20, 08:25:00](https://soylentnews.org/article.pl?sid=26/02/19/1617210&from=rss) - [Data Centres Consider Backing Uranium Projects, NexGen CEO Says](https://soylentnews.org/article.pl?sid=26/02/19/1617210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-11, 20:23:00](https://soylentnews.org/article.pl?sid=26/02/10/0820248&from=rss) - [After a $26 Billion Hit, Stellantis Shifts Focus Back to What Buyers Want](https://soylentnews.org/article.pl?sid=26/02/10/0820248&from=rss)
 * [2026-02-11, 15:37:00](https://soylentnews.org/article.pl?sid=26/02/10/0818222&from=rss) - [Discord Will Require a Face Scan or ID for Full Access Next Month](https://soylentnews.org/article.pl?sid=26/02/10/0818222&from=rss)
 * [2026-02-11, 10:53:00](https://soylentnews.org/article.pl?sid=26/02/10/036255&from=rss) - [Newly Discovered Sungrazing Comet C/2026 A1 (MAPS) Could be the Brightest of the Year](https://soylentnews.org/article.pl?sid=26/02/10/036255&from=rss)
-* [2026-02-11, 06:05:00](https://soylentnews.org/article.pl?sid=26/02/10/0257251&from=rss) - [Microsoft Does Something Useful, Adds Sysmon to Windows](https://soylentnews.org/article.pl?sid=26/02/10/0257251&from=rss)
 
 ## [Archives](archives/index.md)
 

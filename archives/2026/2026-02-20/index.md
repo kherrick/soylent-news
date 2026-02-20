@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 22:40:00](https://soylentnews.org/article.pl?sid=26/02/19/1712216&from=rss) - [Bacteria Frozen Inside 5,000-Year-Old Ice Cave is Crazy Resistant to Antibiotics ](https://soylentnews.org/article.pl?sid=26/02/19/1712216&from=rss)
 * [2026-02-20, 17:56:00](https://soylentnews.org/article.pl?sid=26/02/19/178226&from=rss) - [OpenClaw Security Fears Lead Meta, Other AI Firms to Restrict its Use](https://soylentnews.org/article.pl?sid=26/02/19/178226&from=rss)
 * [2026-02-20, 13:13:00](https://soylentnews.org/article.pl?sid=26/02/19/1613238&from=rss) - [Texas Sues Wi-Fi Router Maker Over Alleged China Links](https://soylentnews.org/article.pl?sid=26/02/19/1613238&from=rss)
 * [2026-02-20, 08:25:00](https://soylentnews.org/article.pl?sid=26/02/19/1617210&from=rss) - [Data Centres Consider Backing Uranium Projects, NexGen CEO Says](https://soylentnews.org/article.pl?sid=26/02/19/1617210&from=rss)
