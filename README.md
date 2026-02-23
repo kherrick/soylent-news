@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-23, 17:07:00](https://soylentnews.org/article.pl?sid=26/02/22/1311241&from=rss) - [Goodbye Paper Vehicle Titles – Illinois State is Making Digital Mandatory](https://soylentnews.org/article.pl?sid=26/02/22/1311241&from=rss)
 * [2026-02-23, 12:22:00](https://soylentnews.org/article.pl?sid=26/02/22/139236&from=rss) - [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&from=rss)
 * [2026-02-23, 07:41:00](https://soylentnews.org/article.pl?sid=26/02/22/1259218&from=rss) - [Privacy Is Not a Price You Pay for Growth](https://soylentnews.org/article.pl?sid=26/02/22/1259218&from=rss)
 * [2026-02-23, 02:55:00](https://soylentnews.org/article.pl?sid=26/02/22/1256215&from=rss) - [Pink Noise Reduces REM Sleep and May Harm Sleep Quality](https://soylentnews.org/article.pl?sid=26/02/22/1256215&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-14, 14:50:00](https://soylentnews.org/article.pl?sid=26/02/13/1241210&from=rss) - [AI-Generated Text is Overwhelming Institutions – Setting Off a No-Win ‘Arms Race’ With AI Detectors](https://soylentnews.org/article.pl?sid=26/02/13/1241210&from=rss)
 * [2026-02-14, 10:06:00](https://soylentnews.org/article.pl?sid=26/02/13/1238248&from=rss) - [Wikipedia May Remove Nearly 700,000 Links After Archive.today DDoS Fallout](https://soylentnews.org/article.pl?sid=26/02/13/1238248&from=rss)
 * [2026-02-14, 05:19:00](https://soylentnews.org/article.pl?sid=26/02/13/1231209&from=rss) - [AMD Rockets Past 35% Market Share in Desktop PC Market as Intel's Share Loss Accelerates](https://soylentnews.org/article.pl?sid=26/02/13/1231209&from=rss)
-* [2026-02-14, 00:34:00](https://soylentnews.org/article.pl?sid=26/02/13/0615203&from=rss) - [El Paso Airport Closed After Military Used New Anti-Drone Laser to Zap Party Balloon](https://soylentnews.org/article.pl?sid=26/02/13/0615203&from=rss)
 
 ## [Archives](archives/index.md)
 
