@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-23, 02:55:00](https://soylentnews.org/article.pl?sid=26/02/22/1256215&from=rss) - [Pink Noise Reduces REM Sleep and May Harm Sleep Quality](https://soylentnews.org/article.pl?sid=26/02/22/1256215&from=rss)
 * [2026-02-22, 22:10:00](https://soylentnews.org/article.pl?sid=26/02/21/1350257&from=rss) - [Richard Stallman: The Legend of Software Freedom That Saved the World](https://soylentnews.org/article.pl?sid=26/02/21/1350257&from=rss)
 * [2026-02-22, 17:28:00](https://soylentnews.org/article.pl?sid=26/02/21/1339255&from=rss) - [NASA Releases Starliner Failures Report as It Preps for March Launch of Artemis 2](https://soylentnews.org/article.pl?sid=26/02/21/1339255&from=rss)
 * [2026-02-22, 12:41:00](https://soylentnews.org/article.pl?sid=26/02/21/1334230&from=rss) - [Microsoft's New Windows 11 Speed Test is Just a Link to Ookla's Speedtest Via Bing](https://soylentnews.org/article.pl?sid=26/02/21/1334230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-14, 00:34:00](https://soylentnews.org/article.pl?sid=26/02/13/0615203&from=rss) - [El Paso Airport Closed After Military Used New Anti-Drone Laser to Zap Party Balloon](https://soylentnews.org/article.pl?sid=26/02/13/0615203&from=rss)
 * [2026-02-13, 19:51:00](https://soylentnews.org/article.pl?sid=26/02/13/0612228&from=rss) - [80386 Barrel Shifter](https://soylentnews.org/article.pl?sid=26/02/13/0612228&from=rss)
 * [2026-02-13, 15:08:00](https://soylentnews.org/article.pl?sid=26/02/13/0611200&from=rss) - [Taiwan Tells Uncle Sam its Chip Ecosystem Ain't Going Anywhere](https://soylentnews.org/article.pl?sid=26/02/13/0611200&from=rss)
-* [2026-02-13, 10:26:00](https://soylentnews.org/article.pl?sid=26/02/12/0346212&from=rss) - [New Critique Debunks Claim That Trees Can Sense a Solar Eclipse](https://soylentnews.org/article.pl?sid=26/02/12/0346212&from=rss)
 
 ## [Archives](archives/index.md)
 
