@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-24, 02:37:00](https://soylentnews.org/article.pl?sid=26/02/23/0050217&from=rss) - [Why Are Tatooine Planets Rare? Blame General Relativity](https://soylentnews.org/article.pl?sid=26/02/23/0050217&from=rss)
 * [2026-02-23, 21:53:00](https://soylentnews.org/article.pl?sid=26/02/22/1313253&from=rss) - [How Digitally Sovereign is Your Organization? This Red Hat Tool Can Tell You in Minutes](https://soylentnews.org/article.pl?sid=26/02/22/1313253&from=rss)
 * [2026-02-23, 17:07:00](https://soylentnews.org/article.pl?sid=26/02/22/1311241&from=rss) - [Goodbye Paper Vehicle Titles – Illinois State is Making Digital Mandatory](https://soylentnews.org/article.pl?sid=26/02/22/1311241&from=rss)
 * [2026-02-23, 12:22:00](https://soylentnews.org/article.pl?sid=26/02/22/139236&from=rss) - [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-15, 00:10:00](https://soylentnews.org/article.pl?sid=26/02/14/0050248&from=rss) - [We Finally Know How the Most Common Types of Planets Are Created](https://soylentnews.org/article.pl?sid=26/02/14/0050248&from=rss)
 * [2026-02-14, 19:34:00](https://soylentnews.org/article.pl?sid=26/02/13/1246200&from=rss) - ['Another Dark Day': Users Slam Microsoft Over Polyglot Notebooks Deprecation](https://soylentnews.org/article.pl?sid=26/02/13/1246200&from=rss)
 * [2026-02-14, 14:50:00](https://soylentnews.org/article.pl?sid=26/02/13/1241210&from=rss) - [AI-Generated Text is Overwhelming Institutions – Setting Off a No-Win ‘Arms Race’ With AI Detectors](https://soylentnews.org/article.pl?sid=26/02/13/1241210&from=rss)
-* [2026-02-14, 10:06:00](https://soylentnews.org/article.pl?sid=26/02/13/1238248&from=rss) - [Wikipedia May Remove Nearly 700,000 Links After Archive.today DDoS Fallout](https://soylentnews.org/article.pl?sid=26/02/13/1238248&from=rss)
 
 ## [Archives](archives/index.md)
 
