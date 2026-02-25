@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-25, 02:26:00](https://soylentnews.org/article.pl?sid=26/02/24/0420243&from=rss) - [AI Apps on the Google Play Store Are Leaking Customer Data and Photos](https://soylentnews.org/article.pl?sid=26/02/24/0420243&from=rss)
 * [2026-02-24, 21:41:00](https://soylentnews.org/politics/article.pl?sid=26/02/23/103249&from=rss) - [OS-Level Age Verification in Proposed Legislation in Colorado](https://soylentnews.org/politics/article.pl?sid=26/02/23/103249&from=rss)
 * [2026-02-24, 16:56:00](https://soylentnews.org/article.pl?sid=26/02/23/0959244&from=rss) - [Is This Glass Square the Long, Long Future of Data Storage ?](https://soylentnews.org/article.pl?sid=26/02/23/0959244&from=rss)
 * [2026-02-24, 12:09:00](https://soylentnews.org/article.pl?sid=26/02/23/010246&from=rss) - [Two Days of Oatmeal Reduce Cholesterol Level](https://soylentnews.org/article.pl?sid=26/02/23/010246&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-16, 00:01:00](https://soylentnews.org/article.pl?sid=26/02/13/1649236&from=rss) - [Happy Birthday SoylentNews - 12 Years Old!](https://soylentnews.org/article.pl?sid=26/02/13/1649236&from=rss)
 * [2026-02-15, 19:20:00](https://soylentnews.org/article.pl?sid=26/02/14/014205&from=rss) - [Claude Opus 4.6 Spends $20K Trying to Write a C Compiler](https://soylentnews.org/article.pl?sid=26/02/14/014205&from=rss)
 * [2026-02-15, 14:35:00](https://soylentnews.org/article.pl?sid=26/02/14/0057218&from=rss) - [5 Linux Servers That Let You Ditch the Public Cloud and Reclaim Your Privacy](https://soylentnews.org/article.pl?sid=26/02/14/0057218&from=rss)
-* [2026-02-15, 09:42:00](https://soylentnews.org/article.pl?sid=26/02/14/0053238&from=rss) - [Hiroshima Scientists Crack the Code for 3D Printing Tungsten Carbide](https://soylentnews.org/article.pl?sid=26/02/14/0053238&from=rss)
 
 ## [Archives](archives/index.md)
 
