@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-26, 11:48:00](https://soylentnews.org/article.pl?sid=26/02/25/1551209&from=rss) - [Michael Pollan Says AI May 'Think' — but It Will Never be Conscious](https://soylentnews.org/article.pl?sid=26/02/25/1551209&from=rss)
 * [2026-02-26, 07:06:00](https://soylentnews.org/article.pl?sid=26/02/25/1546252&from=rss) - [80386 Protection](https://soylentnews.org/article.pl?sid=26/02/25/1546252&from=rss)
 * [2026-02-26, 02:20:00](https://soylentnews.org/article.pl?sid=26/02/25/1544219&from=rss) - [AI Bot Seemingly Shames Developer for Rejected Pull Request](https://soylentnews.org/article.pl?sid=26/02/25/1544219&from=rss)
 * [2026-02-25, 21:35:00](https://soylentnews.org/article.pl?sid=26/02/24/0734201&from=rss) - [AI Agent Throws LAN Party](https://soylentnews.org/article.pl?sid=26/02/24/0734201&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-17, 04:28:00](https://soylentnews.org/article.pl?sid=26/02/15/2326234&from=rss) - [Self-Driving Cars, Drones Hijacked by Custom Road Signs](https://soylentnews.org/article.pl?sid=26/02/15/2326234&from=rss)
 * [2026-02-16, 23:43:00](https://soylentnews.org/article.pl?sid=26/02/14/0525257&from=rss) - [Why Are Criminals Stealing Used Cooking Oil From Scotland's Chip Shops?](https://soylentnews.org/article.pl?sid=26/02/14/0525257&from=rss)
 * [2026-02-16, 18:58:00](https://soylentnews.org/article.pl?sid=26/02/14/0521202&from=rss) - [John Carmack Proposes Fiber-Optic Loops as High-Speed AI Cache](https://soylentnews.org/article.pl?sid=26/02/14/0521202&from=rss)
-* [2026-02-16, 14:12:00](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&from=rss) - [Europe's $24 Trillion Breakup With Visa and Mastercard](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&from=rss)
 
 ## [Archives](archives/index.md)
 
