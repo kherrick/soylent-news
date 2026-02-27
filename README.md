@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-02-27, 20:58:00](https://soylentnews.org/article.pl?sid=26/02/26/0429221&from=rss) - [UK Government Upgrades Drones, Deploys Joystick Tweakers to Catch Illegal Dumpers](https://soylentnews.org/article.pl?sid=26/02/26/0429221&from=rss)
 * [2026-02-27, 16:14:00](https://soylentnews.org/politics/article.pl?sid=26/02/26/0417224&from=rss) - [The Political Effects of Xitter’s Feed Algorithm](https://soylentnews.org/politics/article.pl?sid=26/02/26/0417224&from=rss)
 * [2026-02-27, 11:30:00](https://soylentnews.org/article.pl?sid=26/02/26/0411234&from=rss) - [AMD's Next-Gen Ryzen 10000 Desktop CPUs Rumored to Come in Seven Different Configs](https://soylentnews.org/article.pl?sid=26/02/26/0411234&from=rss)
 * [2026-02-27, 06:47:00](https://soylentnews.org/article.pl?sid=26/02/26/049239&from=rss) - [NASA Officially Classifies Boeing Starliner Failure as a Maximum-Level Type A Mishap](https://soylentnews.org/article.pl?sid=26/02/26/049239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-18, 13:39:00](https://soylentnews.org/article.pl?sid=26/02/17/1321256&from=rss) - [A Fluid Can Store Solar Energy and Then Release It as Heat Months Later](https://soylentnews.org/article.pl?sid=26/02/17/1321256&from=rss)
 * [2026-02-18, 08:57:00](https://soylentnews.org/article.pl?sid=26/02/17/1319222&from=rss) - [New ClickFix Attack Abuses Nslookup to Retrieve PowerShell Payload Via DNS](https://soylentnews.org/article.pl?sid=26/02/17/1319222&from=rss)
 * [2026-02-18, 04:09:00](https://soylentnews.org/article.pl?sid=26/02/16/2249254&from=rss) - [Instruction Decoding in the Intel 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/02/16/2249254&from=rss)
-* [2026-02-17, 23:27:00](https://soylentnews.org/article.pl?sid=26/02/16/2248253&from=rss) - [How the GNU C Compiler Became the Clippy of Cryptography](https://soylentnews.org/article.pl?sid=26/02/16/2248253&from=rss)
 
 ## [Archives](archives/index.md)
 
