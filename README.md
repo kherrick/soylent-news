@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-01, 10:52:00](https://soylentnews.org/article.pl?sid=26/02/28/0452245&from=rss) - [Human Brain Cells on a Chip Learned to Play Doom in a Week](https://soylentnews.org/article.pl?sid=26/02/28/0452245&from=rss)
 * [2026-03-01, 06:10:00](https://soylentnews.org/article.pl?sid=26/02/28/022210&from=rss) - [Block Lays Off 40% Of Workforce As It Goes All-In On AI Tools](https://soylentnews.org/article.pl?sid=26/02/28/022210&from=rss)
 * [2026-03-01, 01:27:00](https://soylentnews.org/article.pl?sid=26/02/28/0158247&from=rss) - [The US Military Just Made History With A C-17 Plane & A Nuclear Reactor](https://soylentnews.org/article.pl?sid=26/02/28/0158247&from=rss)
 * [2026-02-28, 20:41:00](https://soylentnews.org/article.pl?sid=26/02/28/0151255&from=rss) - [OpenAI Secures Record $110 Billion Funding Round Backed By Amazon, Nvidia, and SoftBank](https://soylentnews.org/article.pl?sid=26/02/28/0151255&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-20, 03:49:00](https://soylentnews.org/article.pl?sid=26/02/19/1610250&from=rss) - [Password Managers Less Secure Than Promised](https://soylentnews.org/article.pl?sid=26/02/19/1610250&from=rss)
 * [2026-02-19, 22:56:00](https://soylentnews.org/article.pl?sid=26/02/18/0737205&from=rss) - [Streaming Service Crunchyroll Raises Prices Weeks After Killing its Free Tier](https://soylentnews.org/article.pl?sid=26/02/18/0737205&from=rss)
 * [2026-02-19, 18:10:00](https://soylentnews.org/article.pl?sid=26/02/18/0735220&from=rss) - [Ring Cancels Flock Deal After Dystopian Super Bowl Ad Prompts Mass Outrage](https://soylentnews.org/article.pl?sid=26/02/18/0735220&from=rss)
-* [2026-02-19, 13:24:00](https://soylentnews.org/article.pl?sid=26/02/18/0145204&from=rss) - [What in the World Is Going on in Our Public Schools?](https://soylentnews.org/article.pl?sid=26/02/18/0145204&from=rss)
 
 ## [Archives](archives/index.md)
 
