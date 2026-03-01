@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-01, 06:10:00](https://soylentnews.org/article.pl?sid=26/02/28/022210&from=rss) - [Block Lays Off 40% Of Workforce As It Goes All-In On AI Tools](https://soylentnews.org/article.pl?sid=26/02/28/022210&from=rss)
 * [2026-03-01, 01:27:00](https://soylentnews.org/article.pl?sid=26/02/28/0158247&from=rss) - [The US Military Just Made History With A C-17 Plane & A Nuclear Reactor](https://soylentnews.org/article.pl?sid=26/02/28/0158247&from=rss)
 * [2026-02-28, 20:41:00](https://soylentnews.org/article.pl?sid=26/02/28/0151255&from=rss) - [OpenAI Secures Record $110 Billion Funding Round Backed By Amazon, Nvidia, and SoftBank](https://soylentnews.org/article.pl?sid=26/02/28/0151255&from=rss)
 * [2026-02-28, 15:59:00](https://soylentnews.org/article.pl?sid=26/02/28/0150248&from=rss) - [OsmAnd's Faster Offline Navigation](https://soylentnews.org/article.pl?sid=26/02/28/0150248&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-19, 22:56:00](https://soylentnews.org/article.pl?sid=26/02/18/0737205&from=rss) - [Streaming Service Crunchyroll Raises Prices Weeks After Killing its Free Tier](https://soylentnews.org/article.pl?sid=26/02/18/0737205&from=rss)
 * [2026-02-19, 18:10:00](https://soylentnews.org/article.pl?sid=26/02/18/0735220&from=rss) - [Ring Cancels Flock Deal After Dystopian Super Bowl Ad Prompts Mass Outrage](https://soylentnews.org/article.pl?sid=26/02/18/0735220&from=rss)
 * [2026-02-19, 13:24:00](https://soylentnews.org/article.pl?sid=26/02/18/0145204&from=rss) - [What in the World Is Going on in Our Public Schools?](https://soylentnews.org/article.pl?sid=26/02/18/0145204&from=rss)
-* [2026-02-19, 08:32:00](https://soylentnews.org/article.pl?sid=26/02/18/0143232&from=rss) - [Western Digital Has No More HDD Capacity Left, as CEO Reveals Massive AI Deals](https://soylentnews.org/article.pl?sid=26/02/18/0143232&from=rss)
 
 ## [Archives](archives/index.md)
 
