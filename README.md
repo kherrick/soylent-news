@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-02, 05:58:00](https://soylentnews.org/article.pl?sid=26/03/01/071226&from=rss) - [Researchers Discover Massive Wi-Fi Vulnerability Affecting Multiple Access Points](https://soylentnews.org/article.pl?sid=26/03/01/071226&from=rss)
 * [2026-03-02, 01:11:00](https://soylentnews.org/article.pl?sid=26/03/01/0653215&from=rss) - [Removable Batteries in Mobile Phones May be Making a Comeback](https://soylentnews.org/article.pl?sid=26/03/01/0653215&from=rss)
 * [2026-03-01, 20:22:00](https://soylentnews.org/article.pl?sid=26/02/28/0817218&from=rss) - [Neanderthals Seemed To Have A Thing For Modern Human Women](https://soylentnews.org/article.pl?sid=26/02/28/0817218&from=rss)
 * [2026-03-01, 15:37:00](https://soylentnews.org/article.pl?sid=26/02/28/0811223&from=rss) - [US States Are Getting Tougher on Drivers Who Refuse to Move Over](https://soylentnews.org/article.pl?sid=26/02/28/0811223&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-20, 22:40:00](https://soylentnews.org/article.pl?sid=26/02/19/1712216&from=rss) - [Bacteria Frozen Inside 5,000-Year-Old Ice Cave is Crazy Resistant to Antibiotics ](https://soylentnews.org/article.pl?sid=26/02/19/1712216&from=rss)
 * [2026-02-20, 17:56:00](https://soylentnews.org/article.pl?sid=26/02/19/178226&from=rss) - [OpenClaw Security Fears Lead Meta, Other AI Firms to Restrict its Use](https://soylentnews.org/article.pl?sid=26/02/19/178226&from=rss)
 * [2026-02-20, 13:13:00](https://soylentnews.org/article.pl?sid=26/02/19/1613238&from=rss) - [Texas Sues Wi-Fi Router Maker Over Alleged China Links](https://soylentnews.org/article.pl?sid=26/02/19/1613238&from=rss)
-* [2026-02-20, 08:25:00](https://soylentnews.org/article.pl?sid=26/02/19/1617210&from=rss) - [Data Centres Consider Backing Uranium Projects, NexGen CEO Says](https://soylentnews.org/article.pl?sid=26/02/19/1617210&from=rss)
 
 ## [Archives](archives/index.md)
 
