@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-03, 10:28:00](https://soylentnews.org/article.pl?sid=26/03/02/2018219&from=rss) - [Satellites Found a 'Brown Ribbon' Near Africa – Now Scientists Are Sounding Alarms](https://soylentnews.org/article.pl?sid=26/03/02/2018219&from=rss)
 * [2026-03-03, 05:43:00](https://soylentnews.org/article.pl?sid=26/03/02/2014218&from=rss) - [Datacenters in Space Are a Terrible, Horrible, No Good Idea.](https://soylentnews.org/article.pl?sid=26/03/02/2014218&from=rss)
 * [2026-03-03, 00:58:00](https://soylentnews.org/article.pl?sid=26/03/02/1659243&from=rss) - [Cleaner Ship Fuel is Reducing Lightning in Key Shipping Lanes](https://soylentnews.org/article.pl?sid=26/03/02/1659243&from=rss)
 * [2026-03-02, 20:12:00](https://soylentnews.org/article.pl?sid=26/03/01/0744215&from=rss) - [Hail Protection Using Solar Panels](https://soylentnews.org/article.pl?sid=26/03/01/0744215&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-22, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/21/1322208&from=rss) - [Mechanochemical Breakthrough Unlocks Cheap, Safe, Powdered Hydrogen](https://soylentnews.org/article.pl?sid=26/02/21/1322208&from=rss)
 * [2026-02-21, 22:32:00](https://soylentnews.org/article.pl?sid=26/02/21/137227&from=rss) - [Did We Just See a Black Hole Explode?](https://soylentnews.org/article.pl?sid=26/02/21/137227&from=rss)
 * [2026-02-21, 17:49:00](https://soylentnews.org/article.pl?sid=26/02/21/0130244&from=rss) - [AIRD -  a New Term for Workers Freaking Out Over Being Replaced by AI](https://soylentnews.org/article.pl?sid=26/02/21/0130244&from=rss)
-* [2026-02-21, 12:55:00](https://soylentnews.org/article.pl?sid=26/02/21/0126215&from=rss) - [Hackers Expose Age-Verification Software Powering Surveillance Web](https://soylentnews.org/article.pl?sid=26/02/21/0126215&from=rss)
 
 ## [Archives](archives/index.md)
 
