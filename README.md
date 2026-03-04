@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-04, 00:30:00](https://soylentnews.org/article.pl?sid=26/03/03/021249&from=rss) - [Entry-Level PC Market To ‘Disappear’ By 2028 — Rising Memory Prices Pile More Strain On Consumer PC ](https://soylentnews.org/article.pl?sid=26/03/03/021249&from=rss)
 * [2026-03-03, 19:54:00](https://soylentnews.org/article.pl?sid=26/03/02/2022221&from=rss) - [Across Cultures, People Combine Reference Frames to Orient Themselves](https://soylentnews.org/article.pl?sid=26/03/02/2022221&from=rss)
 * [2026-03-03, 15:13:00](https://soylentnews.org/article.pl?sid=26/03/02/2020204&from=rss) - [Pathways to a Fair Technological Future](https://soylentnews.org/article.pl?sid=26/03/02/2020204&from=rss)
 * [2026-03-03, 10:28:00](https://soylentnews.org/article.pl?sid=26/03/02/2018219&from=rss) - [Satellites Found a 'Brown Ribbon' Near Africa – Now Scientists Are Sounding Alarms](https://soylentnews.org/article.pl?sid=26/03/02/2018219&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-22, 17:28:00](https://soylentnews.org/article.pl?sid=26/02/21/1339255&from=rss) - [NASA Releases Starliner Failures Report as It Preps for March Launch of Artemis 2](https://soylentnews.org/article.pl?sid=26/02/21/1339255&from=rss)
 * [2026-02-22, 12:41:00](https://soylentnews.org/article.pl?sid=26/02/21/1334230&from=rss) - [Microsoft's New Windows 11 Speed Test is Just a Link to Ookla's Speedtest Via Bing](https://soylentnews.org/article.pl?sid=26/02/21/1334230&from=rss)
 * [2026-02-22, 07:59:00](https://soylentnews.org/article.pl?sid=26/02/21/1326214&from=rss) - [It's Time to Get Rid of Networked Cameras](https://soylentnews.org/article.pl?sid=26/02/21/1326214&from=rss)
-* [2026-02-22, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/21/1322208&from=rss) - [Mechanochemical Breakthrough Unlocks Cheap, Safe, Powdered Hydrogen](https://soylentnews.org/article.pl?sid=26/02/21/1322208&from=rss)
 
 ## [Archives](archives/index.md)
 
