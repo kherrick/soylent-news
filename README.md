@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-04, 14:53:00](https://soylentnews.org/article.pl?sid=26/03/04/1318201&from=rss) - [LLMs Can Unmask Pseudonymous Users at Scale With Surprising Accuracy](https://soylentnews.org/article.pl?sid=26/03/04/1318201&from=rss)
 * [2026-03-04, 10:07:00](https://soylentnews.org/article.pl?sid=26/03/04/077205&from=rss) - [Medical Journal the Lancet Blasts RFK Jr.’s Health Work as a Failure](https://soylentnews.org/article.pl?sid=26/03/04/077205&from=rss)
 * [2026-03-04, 05:22:00](https://soylentnews.org/article.pl?sid=26/03/03/029259&from=rss) - ['Cancel ChatGPT': AI Boycott Surges After OpenAI-Pentagon Military Deal](https://soylentnews.org/article.pl?sid=26/03/03/029259&from=rss)
 * [2026-03-04, 00:30:00](https://soylentnews.org/article.pl?sid=26/03/03/021249&from=rss) - [Entry-Level PC Market To ‘Disappear’ By 2028 — Rising Memory Prices Pile More Strain On Consumer PC ](https://soylentnews.org/article.pl?sid=26/03/03/021249&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-23, 07:41:00](https://soylentnews.org/article.pl?sid=26/02/22/1259218&from=rss) - [Privacy Is Not a Price You Pay for Growth](https://soylentnews.org/article.pl?sid=26/02/22/1259218&from=rss)
 * [2026-02-23, 02:55:00](https://soylentnews.org/article.pl?sid=26/02/22/1256215&from=rss) - [Pink Noise Reduces REM Sleep and May Harm Sleep Quality](https://soylentnews.org/article.pl?sid=26/02/22/1256215&from=rss)
 * [2026-02-22, 22:10:00](https://soylentnews.org/article.pl?sid=26/02/21/1350257&from=rss) - [Richard Stallman: The Legend of Software Freedom That Saved the World](https://soylentnews.org/article.pl?sid=26/02/21/1350257&from=rss)
-* [2026-02-22, 17:28:00](https://soylentnews.org/article.pl?sid=26/02/21/1339255&from=rss) - [NASA Releases Starliner Failures Report as It Preps for March Launch of Artemis 2](https://soylentnews.org/article.pl?sid=26/02/21/1339255&from=rss)
 
 ## [Archives](archives/index.md)
 
