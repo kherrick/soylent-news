@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-05, 10:52:00](https://soylentnews.org/article.pl?sid=26/03/05/0732251&from=rss) - [Drones Attack Several AWS Middle East Region Data Centers Amid Iran War, Leading to Outages](https://soylentnews.org/article.pl?sid=26/03/05/0732251&from=rss)
 * [2026-03-05, 06:11:00](https://soylentnews.org/article.pl?sid=26/03/05/0523208&from=rss) - [No Fooling: NASA Targets April 1 for Artemis II Launch to the Moon](https://soylentnews.org/article.pl?sid=26/03/05/0523208&from=rss)
 * [2026-03-05, 00:23:00](https://soylentnews.org/article.pl?sid=26/03/04/1535231&from=rss) - [Anonymous Credentials: an Illustrated Primer](https://soylentnews.org/article.pl?sid=26/03/04/1535231&from=rss)
 * [2026-03-04, 19:39:00](https://soylentnews.org/article.pl?sid=26/03/04/1320238&from=rss) - [Small Web, IndieWeb, Gemini… a Guide to the Retro-Web](https://soylentnews.org/article.pl?sid=26/03/04/1320238&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-24, 02:37:00](https://soylentnews.org/article.pl?sid=26/02/23/0050217&from=rss) - [Why Are Tatooine Planets Rare? Blame General Relativity](https://soylentnews.org/article.pl?sid=26/02/23/0050217&from=rss)
 * [2026-02-23, 21:53:00](https://soylentnews.org/article.pl?sid=26/02/22/1313253&from=rss) - [How Digitally Sovereign is Your Organization? This Red Hat Tool Can Tell You in Minutes](https://soylentnews.org/article.pl?sid=26/02/22/1313253&from=rss)
 * [2026-02-23, 17:07:00](https://soylentnews.org/article.pl?sid=26/02/22/1311241&from=rss) - [Goodbye Paper Vehicle Titles – Illinois State is Making Digital Mandatory](https://soylentnews.org/article.pl?sid=26/02/22/1311241&from=rss)
-* [2026-02-23, 12:22:00](https://soylentnews.org/article.pl?sid=26/02/22/139236&from=rss) - [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&from=rss)
 
 ## [Archives](archives/index.md)
 
