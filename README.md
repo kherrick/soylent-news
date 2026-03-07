@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-07, 10:21:00](https://soylentnews.org/article.pl?sid=26/03/06/1335212&from=rss) - [What Crystals Older Than the Sun Reveal About the Start of the Solar System](https://soylentnews.org/article.pl?sid=26/03/06/1335212&from=rss)
 * [2026-03-07, 05:40:00](https://soylentnews.org/article.pl?sid=26/03/06/1321207&from=rss) - [Holy C Batman, He Built an Operating System!](https://soylentnews.org/article.pl?sid=26/03/06/1321207&from=rss)
 * [2026-03-07, 00:53:00](https://soylentnews.org/article.pl?sid=26/03/05/2316254&from=rss) - [vscreen: A Real Browser for AI Agents, Streamed Live via WebRTC](https://soylentnews.org/article.pl?sid=26/03/05/2316254&from=rss)
 * [2026-03-06, 20:11:00](https://soylentnews.org/article.pl?sid=26/03/05/233230&from=rss) - [Reminder:  VPNs Can't Make You Anonymous Online](https://soylentnews.org/article.pl?sid=26/03/05/233230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-26, 02:20:00](https://soylentnews.org/article.pl?sid=26/02/25/1544219&from=rss) - [AI Bot Seemingly Shames Developer for Rejected Pull Request](https://soylentnews.org/article.pl?sid=26/02/25/1544219&from=rss)
 * [2026-02-25, 21:35:00](https://soylentnews.org/article.pl?sid=26/02/24/0734201&from=rss) - [AI Agent Throws LAN Party](https://soylentnews.org/article.pl?sid=26/02/24/0734201&from=rss)
 * [2026-02-25, 16:37:00](https://soylentnews.org/article.pl?sid=26/02/24/0444250&from=rss) - [Astronomers Identify a Galaxy Made Almost Entirely of Dark Matter](https://soylentnews.org/article.pl?sid=26/02/24/0444250&from=rss)
-* [2026-02-25, 11:55:00](https://soylentnews.org/article.pl?sid=26/02/24/0437208&from=rss) - [China Remains Embedded in US Energy Networks 'for the Purpose of Taking It Down'](https://soylentnews.org/article.pl?sid=26/02/24/0437208&from=rss)
 
 ## [Archives](archives/index.md)
 
