@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-08, 05:24:00](https://soylentnews.org/article.pl?sid=26/03/06/1541249&from=rss) - [Lawsuit: Google Gemini Sent Man on Violent Missions, Set Suicide “Countdown”](https://soylentnews.org/article.pl?sid=26/03/06/1541249&from=rss)
 * [2026-03-08, 00:39:00](https://soylentnews.org/article.pl?sid=26/03/06/1538243&from=rss) - [Clueless Cops Post Seized Crypto Wallet Password. $5M Quickly Stolen.](https://soylentnews.org/article.pl?sid=26/03/06/1538243&from=rss)
 * [2026-03-07, 19:55:00](https://soylentnews.org/article.pl?sid=26/03/06/1533251&from=rss) - [Congress Extends ISS and Tells NASA to Get Moving on Private Space Stations](https://soylentnews.org/article.pl?sid=26/03/06/1533251&from=rss)
 * [2026-03-07, 15:07:00](https://soylentnews.org/article.pl?sid=26/03/06/1338239&from=rss) - [Starlink Mobile Teases ‘5G Speeds From Space With 100X the Data Density’](https://soylentnews.org/article.pl?sid=26/03/06/1338239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-26, 21:17:00](https://soylentnews.org/article.pl?sid=26/02/25/1612247&from=rss) - [Tesla 'Robotaxi' Adds 5 More Crashes in Austin in a Month](https://soylentnews.org/article.pl?sid=26/02/25/1612247&from=rss)
 * [2026-02-26, 16:34:00](https://soylentnews.org/article.pl?sid=26/02/25/1553206&from=rss) - [SpaceX's Faulty Falcon Spewed Massive Lithium Plume Over Europe, Say Scientists](https://soylentnews.org/article.pl?sid=26/02/25/1553206&from=rss)
 * [2026-02-26, 11:48:00](https://soylentnews.org/article.pl?sid=26/02/25/1551209&from=rss) - [Michael Pollan Says AI May 'Think' — but It Will Never be Conscious](https://soylentnews.org/article.pl?sid=26/02/25/1551209&from=rss)
-* [2026-02-26, 07:06:00](https://soylentnews.org/article.pl?sid=26/02/25/1546252&from=rss) - [80386 Protection](https://soylentnews.org/article.pl?sid=26/02/25/1546252&from=rss)
 
 ## [Archives](archives/index.md)
 
