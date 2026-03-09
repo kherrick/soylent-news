@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-09, 09:52:00](https://soylentnews.org/article.pl?sid=26/03/07/1635228&from=rss) - [Claude Code Deletes Developers' Production Setup, Including its Database and Snapshots](https://soylentnews.org/article.pl?sid=26/03/07/1635228&from=rss)
 * [2026-03-09, 05:10:00](https://soylentnews.org/article.pl?sid=26/03/07/1632227&from=rss) - [Open Source Registries Don't Have Enough Money to Implement Basic Security](https://soylentnews.org/article.pl?sid=26/03/07/1632227&from=rss)
 * [2026-03-09, 00:24:00](https://soylentnews.org/article.pl?sid=26/03/07/1629233&from=rss) - [Roundup:  OS-level Age Verification Laws](https://soylentnews.org/article.pl?sid=26/03/07/1629233&from=rss)
 * [2026-03-08, 19:41:00](https://soylentnews.org/article.pl?sid=26/03/07/1624228&from=rss) - [‘What Matters More To Employers, Education Or Experience?’ Asks AI Expert](https://soylentnews.org/article.pl?sid=26/03/07/1624228&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-28, 01:40:00](https://soylentnews.org/article.pl?sid=26/02/27/2217216&from=rss) - [Hackers Expose the Massive Surveillance Stack Hiding Inside Your “Age Verification” Check](https://soylentnews.org/article.pl?sid=26/02/27/2217216&from=rss)
 * [2026-02-27, 20:58:00](https://soylentnews.org/article.pl?sid=26/02/26/0429221&from=rss) - [UK Government Upgrades Drones, Deploys Joystick Tweakers to Catch Illegal Dumpers](https://soylentnews.org/article.pl?sid=26/02/26/0429221&from=rss)
 * [2026-02-27, 16:14:00](https://soylentnews.org/politics/article.pl?sid=26/02/26/0417224&from=rss) - [The Political Effects of Xitter’s Feed Algorithm](https://soylentnews.org/politics/article.pl?sid=26/02/26/0417224&from=rss)
-* [2026-02-27, 11:30:00](https://soylentnews.org/article.pl?sid=26/02/26/0411234&from=rss) - [AMD's Next-Gen Ryzen 10000 Desktop CPUs Rumored to Come in Seven Different Configs](https://soylentnews.org/article.pl?sid=26/02/26/0411234&from=rss)
 
 ## [Archives](archives/index.md)
 
