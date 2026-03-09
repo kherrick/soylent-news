@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-09, 05:10:00](https://soylentnews.org/article.pl?sid=26/03/07/1632227&from=rss) - [Open Source Registries Don't Have Enough Money to Implement Basic Security](https://soylentnews.org/article.pl?sid=26/03/07/1632227&from=rss)
 * [2026-03-09, 00:24:00](https://soylentnews.org/article.pl?sid=26/03/07/1629233&from=rss) - [Roundup:  OS-level Age Verification Laws](https://soylentnews.org/article.pl?sid=26/03/07/1629233&from=rss)
 * [2026-03-08, 19:41:00](https://soylentnews.org/article.pl?sid=26/03/07/1624228&from=rss) - [‘What Matters More To Employers, Education Or Experience?’ Asks AI Expert](https://soylentnews.org/article.pl?sid=26/03/07/1624228&from=rss)
 * [2026-03-08, 14:57:00](https://soylentnews.org/politics/article.pl?sid=26/03/06/1549257&from=rss) - [Tech Industry is in Tariff Hell, Even If Refunds Are Automated](https://soylentnews.org/politics/article.pl?sid=26/03/06/1549257&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-27, 20:58:00](https://soylentnews.org/article.pl?sid=26/02/26/0429221&from=rss) - [UK Government Upgrades Drones, Deploys Joystick Tweakers to Catch Illegal Dumpers](https://soylentnews.org/article.pl?sid=26/02/26/0429221&from=rss)
 * [2026-02-27, 16:14:00](https://soylentnews.org/politics/article.pl?sid=26/02/26/0417224&from=rss) - [The Political Effects of Xitter’s Feed Algorithm](https://soylentnews.org/politics/article.pl?sid=26/02/26/0417224&from=rss)
 * [2026-02-27, 11:30:00](https://soylentnews.org/article.pl?sid=26/02/26/0411234&from=rss) - [AMD's Next-Gen Ryzen 10000 Desktop CPUs Rumored to Come in Seven Different Configs](https://soylentnews.org/article.pl?sid=26/02/26/0411234&from=rss)
-* [2026-02-27, 06:47:00](https://soylentnews.org/article.pl?sid=26/02/26/049239&from=rss) - [NASA Officially Classifies Boeing Starliner Failure as a Maximum-Level Type A Mishap](https://soylentnews.org/article.pl?sid=26/02/26/049239&from=rss)
 
 ## [Archives](archives/index.md)
 
