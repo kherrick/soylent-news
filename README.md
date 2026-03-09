@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-09, 19:20:00](https://soylentnews.org/article.pl?sid=26/03/08/1456250&from=rss) - [The New European Office Suite is a Private, Open-Source Alternative](https://soylentnews.org/article.pl?sid=26/03/08/1456250&from=rss)
 * [2026-03-09, 14:35:00](https://soylentnews.org/article.pl?sid=26/03/08/1446203&from=rss) - [Time Zones vs. Mean Solar Time](https://soylentnews.org/article.pl?sid=26/03/08/1446203&from=rss)
 * [2026-03-09, 09:52:00](https://soylentnews.org/article.pl?sid=26/03/07/1635228&from=rss) - [Claude Code Deletes Developers' Production Setup, Including its Database and Snapshots](https://soylentnews.org/article.pl?sid=26/03/07/1635228&from=rss)
 * [2026-03-09, 05:10:00](https://soylentnews.org/article.pl?sid=26/03/07/1632227&from=rss) - [Open Source Registries Don't Have Enough Money to Implement Basic Security](https://soylentnews.org/article.pl?sid=26/03/07/1632227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-02-28, 11:11:00](https://soylentnews.org/article.pl?sid=26/02/27/2232251&from=rss) - [Why LLM-Generated Passwords Are Dangerously Insecure](https://soylentnews.org/article.pl?sid=26/02/27/2232251&from=rss)
 * [2026-02-28, 06:30:00](https://soylentnews.org/article.pl?sid=26/02/27/2224202&from=rss) - [A Hacker Used Claude to Breach Mexico's Government and Steal 150GB of Data](https://soylentnews.org/article.pl?sid=26/02/27/2224202&from=rss)
 * [2026-02-28, 01:40:00](https://soylentnews.org/article.pl?sid=26/02/27/2217216&from=rss) - [Hackers Expose the Massive Surveillance Stack Hiding Inside Your “Age Verification” Check](https://soylentnews.org/article.pl?sid=26/02/27/2217216&from=rss)
-* [2026-02-27, 20:58:00](https://soylentnews.org/article.pl?sid=26/02/26/0429221&from=rss) - [UK Government Upgrades Drones, Deploys Joystick Tweakers to Catch Illegal Dumpers](https://soylentnews.org/article.pl?sid=26/02/26/0429221&from=rss)
 
 ## [Archives](archives/index.md)
 
