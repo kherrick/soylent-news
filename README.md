@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-11, 09:17:00](https://soylentnews.org/article.pl?sid=26/03/09/1451208&from=rss) - [The Cybertruck is More Explosive Than the Ford Pinto](https://soylentnews.org/article.pl?sid=26/03/09/1451208&from=rss)
 * [2026-03-11, 04:32:00](https://soylentnews.org/article.pl?sid=26/03/09/096203&from=rss) - [Ancient Clay Hidden Under Japan Caused Rupture That Triggered the 2011 Earthquake and Tsunami](https://soylentnews.org/article.pl?sid=26/03/09/096203&from=rss)
 * [2026-03-10, 23:43:00](https://soylentnews.org/article.pl?sid=26/03/09/094202&from=rss) - [Norwegian Gov't Consumer Watchdog Calls Out ‘Enshittification’ of Video Games, Connected Devices](https://soylentnews.org/article.pl?sid=26/03/09/094202&from=rss)
 * [2026-03-10, 18:57:00](https://soylentnews.org/article.pl?sid=26/03/09/0859227&from=rss) - [The Slow Death of the Power User](https://soylentnews.org/article.pl?sid=26/03/09/0859227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-02, 01:11:00](https://soylentnews.org/article.pl?sid=26/03/01/0653215&from=rss) - [Removable Batteries in Mobile Phones May be Making a Comeback](https://soylentnews.org/article.pl?sid=26/03/01/0653215&from=rss)
 * [2026-03-01, 20:22:00](https://soylentnews.org/article.pl?sid=26/02/28/0817218&from=rss) - [Neanderthals Seemed To Have A Thing For Modern Human Women](https://soylentnews.org/article.pl?sid=26/02/28/0817218&from=rss)
 * [2026-03-01, 15:37:00](https://soylentnews.org/article.pl?sid=26/02/28/0811223&from=rss) - [US States Are Getting Tougher on Drivers Who Refuse to Move Over](https://soylentnews.org/article.pl?sid=26/02/28/0811223&from=rss)
-* [2026-03-01, 10:52:00](https://soylentnews.org/article.pl?sid=26/02/28/0452245&from=rss) - [Human Brain Cells on a Chip Learned to Play Doom in a Week](https://soylentnews.org/article.pl?sid=26/02/28/0452245&from=rss)
 
 ## [Archives](archives/index.md)
 
