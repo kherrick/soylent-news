@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-11, 23:36:00](https://soylentnews.org/article.pl?sid=26/03/11/0138245&from=rss) - [Iranian Drone Strikes Hit Three AWS Data Centers in the UAE and Bahrain](https://soylentnews.org/article.pl?sid=26/03/11/0138245&from=rss)
 * [2026-03-11, 18:54:00](https://soylentnews.org/article.pl?sid=26/03/11/0441214&from=rss) - [An Unexpected Discovery Just Uncovered Metals Tech Companies Are Desperate for](https://soylentnews.org/article.pl?sid=26/03/11/0441214&from=rss)
 * [2026-03-11, 14:03:00](https://soylentnews.org/article.pl?sid=26/03/09/1454227&from=rss) - [Trump Gets Data Center Companies to Pledge to Pay for Power Generation](https://soylentnews.org/article.pl?sid=26/03/09/1454227&from=rss)
 * [2026-03-11, 09:17:00](https://soylentnews.org/article.pl?sid=26/03/09/1451208&from=rss) - [The Cybertruck is More Explosive Than the Ford Pinto](https://soylentnews.org/article.pl?sid=26/03/09/1451208&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-02, 15:23:00](https://soylentnews.org/article.pl?sid=26/03/01/0737210&from=rss) - [Whoops: US Military Laser Strike Takes Down CBP Drone Near Mexican Border](https://soylentnews.org/article.pl?sid=26/03/01/0737210&from=rss)
 * [2026-03-02, 10:41:00](https://soylentnews.org/article.pl?sid=26/03/01/0728237&from=rss) - [Trump Bans Anthropic AI From Federal Agencies While OpenAI Eager to Fill the Void](https://soylentnews.org/article.pl?sid=26/03/01/0728237&from=rss)
 * [2026-03-02, 05:58:00](https://soylentnews.org/article.pl?sid=26/03/01/071226&from=rss) - [Researchers Discover Massive Wi-Fi Vulnerability Affecting Multiple Access Points](https://soylentnews.org/article.pl?sid=26/03/01/071226&from=rss)
-* [2026-03-02, 01:11:00](https://soylentnews.org/article.pl?sid=26/03/01/0653215&from=rss) - [Removable Batteries in Mobile Phones May be Making a Comeback](https://soylentnews.org/article.pl?sid=26/03/01/0653215&from=rss)
 
 ## [Archives](archives/index.md)
 
