@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-11, 18:54:00](https://soylentnews.org/article.pl?sid=26/03/11/0441214&from=rss) - [An Unexpected Discovery Just Uncovered Metals Tech Companies Are Desperate for](https://soylentnews.org/article.pl?sid=26/03/11/0441214&from=rss)
 * [2026-03-11, 14:03:00](https://soylentnews.org/article.pl?sid=26/03/09/1454227&from=rss) - [Trump Gets Data Center Companies to Pledge to Pay for Power Generation](https://soylentnews.org/article.pl?sid=26/03/09/1454227&from=rss)
 * [2026-03-11, 09:17:00](https://soylentnews.org/article.pl?sid=26/03/09/1451208&from=rss) - [The Cybertruck is More Explosive Than the Ford Pinto](https://soylentnews.org/article.pl?sid=26/03/09/1451208&from=rss)
 * [2026-03-11, 04:32:00](https://soylentnews.org/article.pl?sid=26/03/09/096203&from=rss) - [Ancient Clay Hidden Under Japan Caused Rupture That Triggered the 2011 Earthquake and Tsunami](https://soylentnews.org/article.pl?sid=26/03/09/096203&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-02, 10:41:00](https://soylentnews.org/article.pl?sid=26/03/01/0728237&from=rss) - [Trump Bans Anthropic AI From Federal Agencies While OpenAI Eager to Fill the Void](https://soylentnews.org/article.pl?sid=26/03/01/0728237&from=rss)
 * [2026-03-02, 05:58:00](https://soylentnews.org/article.pl?sid=26/03/01/071226&from=rss) - [Researchers Discover Massive Wi-Fi Vulnerability Affecting Multiple Access Points](https://soylentnews.org/article.pl?sid=26/03/01/071226&from=rss)
 * [2026-03-02, 01:11:00](https://soylentnews.org/article.pl?sid=26/03/01/0653215&from=rss) - [Removable Batteries in Mobile Phones May be Making a Comeback](https://soylentnews.org/article.pl?sid=26/03/01/0653215&from=rss)
-* [2026-03-01, 20:22:00](https://soylentnews.org/article.pl?sid=26/02/28/0817218&from=rss) - [Neanderthals Seemed To Have A Thing For Modern Human Women](https://soylentnews.org/article.pl?sid=26/02/28/0817218&from=rss)
 
 ## [Archives](archives/index.md)
 
