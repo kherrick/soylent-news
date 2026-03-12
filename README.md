@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-12, 09:11:00](https://soylentnews.org/article.pl?sid=26/03/11/0450209&from=rss) - [Why the US is Using a Cheap Iranian Drone Against the Country Itself](https://soylentnews.org/article.pl?sid=26/03/11/0450209&from=rss)
 * [2026-03-12, 04:23:00](https://soylentnews.org/article.pl?sid=26/03/11/0135252&from=rss) - [Are Consumers Doomed to Pay More for Electricity Due to Data Center Buildouts?](https://soylentnews.org/article.pl?sid=26/03/11/0135252&from=rss)
 * [2026-03-11, 23:36:00](https://soylentnews.org/article.pl?sid=26/03/11/0138245&from=rss) - [Iranian Drone Strikes Hit Three AWS Data Centers in the UAE and Bahrain](https://soylentnews.org/article.pl?sid=26/03/11/0138245&from=rss)
 * [2026-03-11, 18:54:00](https://soylentnews.org/article.pl?sid=26/03/11/0441214&from=rss) - [An Unexpected Discovery Just Uncovered Metals Tech Companies Are Desperate for](https://soylentnews.org/article.pl?sid=26/03/11/0441214&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-03, 00:58:00](https://soylentnews.org/article.pl?sid=26/03/02/1659243&from=rss) - [Cleaner Ship Fuel is Reducing Lightning in Key Shipping Lanes](https://soylentnews.org/article.pl?sid=26/03/02/1659243&from=rss)
 * [2026-03-02, 20:12:00](https://soylentnews.org/article.pl?sid=26/03/01/0744215&from=rss) - [Hail Protection Using Solar Panels](https://soylentnews.org/article.pl?sid=26/03/01/0744215&from=rss)
 * [2026-03-02, 15:23:00](https://soylentnews.org/article.pl?sid=26/03/01/0737210&from=rss) - [Whoops: US Military Laser Strike Takes Down CBP Drone Near Mexican Border](https://soylentnews.org/article.pl?sid=26/03/01/0737210&from=rss)
-* [2026-03-02, 10:41:00](https://soylentnews.org/article.pl?sid=26/03/01/0728237&from=rss) - [Trump Bans Anthropic AI From Federal Agencies While OpenAI Eager to Fill the Void](https://soylentnews.org/article.pl?sid=26/03/01/0728237&from=rss)
 
 ## [Archives](archives/index.md)
 
