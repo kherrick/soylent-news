@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 23:23:00](https://soylentnews.org/article.pl?sid=26/03/11/164207&from=rss) - [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&from=rss)
 * [2026-03-12, 18:39:00](https://soylentnews.org/article.pl?sid=26/03/11/163209&from=rss) - [OpenAI's Massive Stargate Data Center Canceled as Firm Can't Reach Terms With Oracle](https://soylentnews.org/article.pl?sid=26/03/11/163209&from=rss)
 * [2026-03-12, 13:57:00](https://soylentnews.org/article.pl?sid=26/03/11/1558207&from=rss) - [Digital Targeting Creeps Out Customers](https://soylentnews.org/article.pl?sid=26/03/11/1558207&from=rss)
 * [2026-03-12, 09:11:00](https://soylentnews.org/article.pl?sid=26/03/11/0450209&from=rss) - [Why the US is Using a Cheap Iranian Drone Against the Country Itself](https://soylentnews.org/article.pl?sid=26/03/11/0450209&from=rss)
