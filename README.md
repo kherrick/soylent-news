@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-14, 03:51:00](https://soylentnews.org/article.pl?sid=26/03/13/0413211&from=rss) - [As Frank Yeary Retires From Intel, the Company Picks an Engineer to Chair its Board](https://soylentnews.org/article.pl?sid=26/03/13/0413211&from=rss)
 * [2026-03-13, 23:02:00](https://soylentnews.org/article.pl?sid=26/03/12/1111206&from=rss) - [After Outages, Amazon to Make Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&from=rss)
 * [2026-03-13, 18:19:00](https://soylentnews.org/article.pl?sid=26/03/12/1023220&from=rss) - [Online Intelligence Dashboards (Aka, More AI Slop?)](https://soylentnews.org/article.pl?sid=26/03/12/1023220&from=rss)
 * [2026-03-13, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/12/1011221&from=rss) - [LEGO's 0.002mm Specification and It's Implications for Manufacturing](https://soylentnews.org/article.pl?sid=26/03/12/1011221&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-04, 19:39:00](https://soylentnews.org/article.pl?sid=26/03/04/1320238&from=rss) - [Small Web, IndieWeb, Gemini… a Guide to the Retro-Web](https://soylentnews.org/article.pl?sid=26/03/04/1320238&from=rss)
 * [2026-03-04, 14:53:00](https://soylentnews.org/article.pl?sid=26/03/04/1318201&from=rss) - [LLMs Can Unmask Pseudonymous Users at Scale With Surprising Accuracy](https://soylentnews.org/article.pl?sid=26/03/04/1318201&from=rss)
 * [2026-03-04, 10:07:00](https://soylentnews.org/article.pl?sid=26/03/04/077205&from=rss) - [Medical Journal the Lancet Blasts RFK Jr.’s Health Work as a Failure](https://soylentnews.org/article.pl?sid=26/03/04/077205&from=rss)
-* [2026-03-04, 05:22:00](https://soylentnews.org/article.pl?sid=26/03/03/029259&from=rss) - ['Cancel ChatGPT': AI Boycott Surges After OpenAI-Pentagon Military Deal](https://soylentnews.org/article.pl?sid=26/03/03/029259&from=rss)
 
 ## [Archives](archives/index.md)
 
