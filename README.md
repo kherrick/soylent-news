@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-14, 13:19:00](https://soylentnews.org/article.pl?sid=26/03/13/0430253&from=rss) - [Adobe Plunges to 7 Year Low on CEO Resignation, Muted Forecast](https://soylentnews.org/article.pl?sid=26/03/13/0430253&from=rss)
 * [2026-03-14, 08:38:00](https://soylentnews.org/article.pl?sid=26/03/13/0421208&from=rss) - [14,000 Routers Are Infected by Malware That's Highly Resistant to Takedowns](https://soylentnews.org/article.pl?sid=26/03/13/0421208&from=rss)
 * [2026-03-14, 03:51:00](https://soylentnews.org/article.pl?sid=26/03/13/0413211&from=rss) - [As Frank Yeary Retires From Intel, the Company Picks an Engineer to Chair its Board](https://soylentnews.org/article.pl?sid=26/03/13/0413211&from=rss)
 * [2026-03-13, 23:02:00](https://soylentnews.org/article.pl?sid=26/03/12/1111206&from=rss) - [After Outages, Amazon to Make Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-05, 06:11:00](https://soylentnews.org/article.pl?sid=26/03/05/0523208&from=rss) - [No Fooling: NASA Targets April 1 for Artemis II Launch to the Moon](https://soylentnews.org/article.pl?sid=26/03/05/0523208&from=rss)
 * [2026-03-05, 00:23:00](https://soylentnews.org/article.pl?sid=26/03/04/1535231&from=rss) - [Anonymous Credentials: an Illustrated Primer](https://soylentnews.org/article.pl?sid=26/03/04/1535231&from=rss)
 * [2026-03-04, 19:39:00](https://soylentnews.org/article.pl?sid=26/03/04/1320238&from=rss) - [Small Web, IndieWeb, Gemini… a Guide to the Retro-Web](https://soylentnews.org/article.pl?sid=26/03/04/1320238&from=rss)
-* [2026-03-04, 14:53:00](https://soylentnews.org/article.pl?sid=26/03/04/1318201&from=rss) - [LLMs Can Unmask Pseudonymous Users at Scale With Surprising Accuracy](https://soylentnews.org/article.pl?sid=26/03/04/1318201&from=rss)
 
 ## [Archives](archives/index.md)
 
