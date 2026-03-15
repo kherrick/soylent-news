@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-15, 14:00:00](https://soylentnews.org/article.pl?sid=26/03/14/1740249&from=rss) - [New Study Challenges Notion That Aging Means Decline, Finds Many Older Adults Improve Over Time](https://soylentnews.org/article.pl?sid=26/03/14/1740249&from=rss)
 * [2026-03-15, 09:20:00](https://soylentnews.org/article.pl?sid=26/03/14/0932244&from=rss) - [OpenAI Wants Everyone To Have A Monthly AI Bill](https://soylentnews.org/article.pl?sid=26/03/14/0932244&from=rss)
 * [2026-03-15, 04:37:00](https://soylentnews.org/article.pl?sid=26/03/14/0928215&from=rss) - [Why Are Some Animal and Human Signals Honest, While Others Are Deceptive?](https://soylentnews.org/article.pl?sid=26/03/14/0928215&from=rss)
 * [2026-03-14, 22:52:00](https://soylentnews.org/article.pl?sid=26/03/13/0443231&from=rss) - [A 1,300-Pound NASA Satellite Just Made a Fiery Return to Earth](https://soylentnews.org/article.pl?sid=26/03/13/0443231&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-06, 05:58:00](https://soylentnews.org/article.pl?sid=26/03/05/1850205&from=rss) - [DOS Memory Management](https://soylentnews.org/article.pl?sid=26/03/05/1850205&from=rss)
 * [2026-03-06, 01:10:00](https://soylentnews.org/article.pl?sid=26/03/05/1846224&from=rss) - [Micron Sampling First 256GB SOCAMM2 Memory Packages — 2TB of RAM Per CPU for Datacenters](https://soylentnews.org/article.pl?sid=26/03/05/1846224&from=rss)
 * [2026-03-05, 20:25:00](https://soylentnews.org/article.pl?sid=26/03/05/0529259&from=rss) - [To Update Blobs or Not to Update Blobs](https://soylentnews.org/article.pl?sid=26/03/05/0529259&from=rss)
-* [2026-03-05, 15:42:00](https://soylentnews.org/article.pl?sid=26/03/05/0714212&from=rss) - [AI Art Isn't Art, or Copyrightable Art Anyway](https://soylentnews.org/article.pl?sid=26/03/05/0714212&from=rss)
 
 ## [Archives](archives/index.md)
 
