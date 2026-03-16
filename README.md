@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-16, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/15/1319251&from=rss) - [Why the World's Militaries Are Scrambling to Create Their Own Starlink](https://soylentnews.org/article.pl?sid=26/03/15/1319251&from=rss)
 * [2026-03-16, 08:55:00](https://soylentnews.org/article.pl?sid=26/03/15/0111236&from=rss) - [Iran Conflict Delays Meta's 2Africa Undersea Cable Project — Cable Layer Declares Force Majeure](https://soylentnews.org/article.pl?sid=26/03/15/0111236&from=rss)
 * [2026-03-16, 04:07:00](https://soylentnews.org/article.pl?sid=26/03/15/016219&from=rss) - [Nvidia Is Reportedly Planning Its Own Open Source OpenClaw Competitor](https://soylentnews.org/article.pl?sid=26/03/15/016219&from=rss)
 * [2026-03-15, 23:35:00](https://soylentnews.org/article.pl?sid=26/03/14/1755235&from=rss) - [How Much Sleep Do Teens Get? Six-Seven Hours](https://soylentnews.org/article.pl?sid=26/03/14/1755235&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-07, 05:40:00](https://soylentnews.org/article.pl?sid=26/03/06/1321207&from=rss) - [Holy C Batman, He Built an Operating System!](https://soylentnews.org/article.pl?sid=26/03/06/1321207&from=rss)
 * [2026-03-07, 00:53:00](https://soylentnews.org/article.pl?sid=26/03/05/2316254&from=rss) - [vscreen: A Real Browser for AI Agents, Streamed Live via WebRTC](https://soylentnews.org/article.pl?sid=26/03/05/2316254&from=rss)
 * [2026-03-06, 20:11:00](https://soylentnews.org/article.pl?sid=26/03/05/233230&from=rss) - [Reminder:  VPNs Can't Make You Anonymous Online](https://soylentnews.org/article.pl?sid=26/03/05/233230&from=rss)
-* [2026-03-06, 15:30:00](https://soylentnews.org/article.pl?sid=26/03/05/2246218&from=rss) - [Destroyed Servers and DoS Attacks: What Can Happen When OpenClaw AI Agents Interact](https://soylentnews.org/article.pl?sid=26/03/05/2246218&from=rss)
 
 ## [Archives](archives/index.md)
 
