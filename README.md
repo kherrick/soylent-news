@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-16, 04:07:00](https://soylentnews.org/article.pl?sid=26/03/15/016219&from=rss) - [Nvidia Is Reportedly Planning Its Own Open Source OpenClaw Competitor](https://soylentnews.org/article.pl?sid=26/03/15/016219&from=rss)
 * [2026-03-15, 23:35:00](https://soylentnews.org/article.pl?sid=26/03/14/1755235&from=rss) - [How Much Sleep Do Teens Get? Six-Seven Hours](https://soylentnews.org/article.pl?sid=26/03/14/1755235&from=rss)
 * [2026-03-15, 18:51:00](https://soylentnews.org/article.pl?sid=26/03/14/1750228&from=rss) - [AI Medical Advice - Both Sides](https://soylentnews.org/article.pl?sid=26/03/14/1750228&from=rss)
 * [2026-03-15, 14:00:00](https://soylentnews.org/article.pl?sid=26/03/14/1740249&from=rss) - [New Study Challenges Notion That Aging Means Decline, Finds Many Older Adults Improve Over Time](https://soylentnews.org/article.pl?sid=26/03/14/1740249&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-06, 20:11:00](https://soylentnews.org/article.pl?sid=26/03/05/233230&from=rss) - [Reminder:  VPNs Can't Make You Anonymous Online](https://soylentnews.org/article.pl?sid=26/03/05/233230&from=rss)
 * [2026-03-06, 15:30:00](https://soylentnews.org/article.pl?sid=26/03/05/2246218&from=rss) - [Destroyed Servers and DoS Attacks: What Can Happen When OpenClaw AI Agents Interact](https://soylentnews.org/article.pl?sid=26/03/05/2246218&from=rss)
 * [2026-03-06, 10:43:00](https://soylentnews.org/article.pl?sid=26/03/05/1853251&from=rss) - [As Moon Interest Heats Up, Two Companies Unveil Plans for a Lunar \"Harvester\"](https://soylentnews.org/article.pl?sid=26/03/05/1853251&from=rss)
-* [2026-03-06, 05:58:00](https://soylentnews.org/article.pl?sid=26/03/05/1850205&from=rss) - [DOS Memory Management](https://soylentnews.org/article.pl?sid=26/03/05/1850205&from=rss)
 
 ## [Archives](archives/index.md)
 
