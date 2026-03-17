@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-17, 13:23:00](https://soylentnews.org/article.pl?sid=26/03/16/1353215&from=rss) - [IBM, Sonic Delay Lines, and the History of the 80×24 Display](https://soylentnews.org/article.pl?sid=26/03/16/1353215&from=rss)
 * [2026-03-17, 08:38:00](https://soylentnews.org/article.pl?sid=26/03/15/1351230&from=rss) - [Magnetars Drag Spacetime to Power Superluminous Supernovae](https://soylentnews.org/article.pl?sid=26/03/15/1351230&from=rss)
 * [2026-03-17, 03:57:00](https://soylentnews.org/article.pl?sid=26/03/15/1339231&from=rss) - [Musk Fails To Block California Data Disclosure Law He Fears Will Ruin XAI](https://soylentnews.org/article.pl?sid=26/03/15/1339231&from=rss)
 * [2026-03-16, 23:09:00](https://soylentnews.org/article.pl?sid=26/03/15/1330233&from=rss) - [11-Month Old Russian Outfit Claims It Has Developed 16-Core and 32-Core Processors, Flaunts Cyrillic](https://soylentnews.org/article.pl?sid=26/03/15/1330233&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-08, 05:24:00](https://soylentnews.org/article.pl?sid=26/03/06/1541249&from=rss) - [Lawsuit: Google Gemini Sent Man on Violent Missions, Set Suicide “Countdown”](https://soylentnews.org/article.pl?sid=26/03/06/1541249&from=rss)
 * [2026-03-08, 00:39:00](https://soylentnews.org/article.pl?sid=26/03/06/1538243&from=rss) - [Clueless Cops Post Seized Crypto Wallet Password. $5M Quickly Stolen.](https://soylentnews.org/article.pl?sid=26/03/06/1538243&from=rss)
 * [2026-03-07, 19:55:00](https://soylentnews.org/article.pl?sid=26/03/06/1533251&from=rss) - [Congress Extends ISS and Tells NASA to Get Moving on Private Space Stations](https://soylentnews.org/article.pl?sid=26/03/06/1533251&from=rss)
-* [2026-03-07, 15:07:00](https://soylentnews.org/article.pl?sid=26/03/06/1338239&from=rss) - [Starlink Mobile Teases ‘5G Speeds From Space With 100X the Data Density’](https://soylentnews.org/article.pl?sid=26/03/06/1338239&from=rss)
 
 ## [Archives](archives/index.md)
 
