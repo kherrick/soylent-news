@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-17, 03:57:00](https://soylentnews.org/article.pl?sid=26/03/15/1339231&from=rss) - [Musk Fails To Block California Data Disclosure Law He Fears Will Ruin XAI](https://soylentnews.org/article.pl?sid=26/03/15/1339231&from=rss)
 * [2026-03-16, 23:09:00](https://soylentnews.org/article.pl?sid=26/03/15/1330233&from=rss) - [11-Month Old Russian Outfit Claims It Has Developed 16-Core and 32-Core Processors, Flaunts Cyrillic](https://soylentnews.org/article.pl?sid=26/03/15/1330233&from=rss)
 * [2026-03-16, 18:26:00](https://soylentnews.org/article.pl?sid=26/03/15/1328200&from=rss) - [Google Fiber Will be Sold to Private Equity Firm and Merge With Cable Company](https://soylentnews.org/article.pl?sid=26/03/15/1328200&from=rss)
 * [2026-03-16, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/15/1319251&from=rss) - [Why the World's Militaries Are Scrambling to Create Their Own Starlink](https://soylentnews.org/article.pl?sid=26/03/15/1319251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-07, 19:55:00](https://soylentnews.org/article.pl?sid=26/03/06/1533251&from=rss) - [Congress Extends ISS and Tells NASA to Get Moving on Private Space Stations](https://soylentnews.org/article.pl?sid=26/03/06/1533251&from=rss)
 * [2026-03-07, 15:07:00](https://soylentnews.org/article.pl?sid=26/03/06/1338239&from=rss) - [Starlink Mobile Teases ‘5G Speeds From Space With 100X the Data Density’](https://soylentnews.org/article.pl?sid=26/03/06/1338239&from=rss)
 * [2026-03-07, 10:21:00](https://soylentnews.org/article.pl?sid=26/03/06/1335212&from=rss) - [What Crystals Older Than the Sun Reveal About the Start of the Solar System](https://soylentnews.org/article.pl?sid=26/03/06/1335212&from=rss)
-* [2026-03-07, 05:40:00](https://soylentnews.org/article.pl?sid=26/03/06/1321207&from=rss) - [Holy C Batman, He Built an Operating System!](https://soylentnews.org/article.pl?sid=26/03/06/1321207&from=rss)
 
 ## [Archives](archives/index.md)
 
