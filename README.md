@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-18, 03:36:00](https://soylentnews.org/article.pl?sid=26/03/17/0827224&from=rss) - [Apocalyptic Beliefs Are No Longer Fringe—and They're Shaping How People Respond](https://soylentnews.org/article.pl?sid=26/03/17/0827224&from=rss)
 * [2026-03-17, 22:53:00](https://soylentnews.org/article.pl?sid=26/03/16/140213&from=rss) - [Porsche Puts Its Faith Back in Internal Combustion Engines](https://soylentnews.org/article.pl?sid=26/03/16/140213&from=rss)
 * [2026-03-17, 18:08:00](https://soylentnews.org/article.pl?sid=26/03/16/1356204&from=rss) - [Meta is Ending Instagram Direct Message End-to-End Encryption](https://soylentnews.org/article.pl?sid=26/03/16/1356204&from=rss)
 * [2026-03-17, 13:23:00](https://soylentnews.org/article.pl?sid=26/03/16/1353215&from=rss) - [IBM, Sonic Delay Lines, and the History of the 80×24 Display](https://soylentnews.org/article.pl?sid=26/03/16/1353215&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-08, 19:41:00](https://soylentnews.org/article.pl?sid=26/03/07/1624228&from=rss) - [‘What Matters More To Employers, Education Or Experience?’ Asks AI Expert](https://soylentnews.org/article.pl?sid=26/03/07/1624228&from=rss)
 * [2026-03-08, 14:57:00](https://soylentnews.org/politics/article.pl?sid=26/03/06/1549257&from=rss) - [Tech Industry is in Tariff Hell, Even If Refunds Are Automated](https://soylentnews.org/politics/article.pl?sid=26/03/06/1549257&from=rss)
 * [2026-03-08, 10:13:00](https://soylentnews.org/article.pl?sid=26/03/06/1545254&from=rss) - [Would Aliens Do Physics, or is Science a Human Invention?](https://soylentnews.org/article.pl?sid=26/03/06/1545254&from=rss)
-* [2026-03-08, 05:24:00](https://soylentnews.org/article.pl?sid=26/03/06/1541249&from=rss) - [Lawsuit: Google Gemini Sent Man on Violent Missions, Set Suicide “Countdown”](https://soylentnews.org/article.pl?sid=26/03/06/1541249&from=rss)
 
 ## [Archives](archives/index.md)
 
