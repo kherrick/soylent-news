@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-19, 17:38:00](https://soylentnews.org/article.pl?sid=26/03/18/1530220&from=rss) - [Predicted by Einstein 100 Years Ago, This Cosmic Phenomenon Has Finally Been Observed](https://soylentnews.org/article.pl?sid=26/03/18/1530220&from=rss)
 * [2026-03-19, 12:53:00](https://soylentnews.org/article.pl?sid=26/03/18/1524211&from=rss) - [100 Years Later, Where is Robert Goddard's First Liquid-Fuel Rocket?](https://soylentnews.org/article.pl?sid=26/03/18/1524211&from=rss)
 * [2026-03-19, 08:08:00](https://soylentnews.org/article.pl?sid=26/03/18/1522208&from=rss) - [The Science of How Fireflies Stay in Sync](https://soylentnews.org/article.pl?sid=26/03/18/1522208&from=rss)
 * [2026-03-19, 03:23:00](https://soylentnews.org/article.pl?sid=26/03/17/0844255&from=rss) - [Humanities in the Machine](https://soylentnews.org/article.pl?sid=26/03/17/0844255&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-10, 09:29:00](https://soylentnews.org/article.pl?sid=26/03/08/1510201&from=rss) - [In 1985 Maxell Built a Bunch of Life-Size Robots for its Bad Floppy Ad](https://soylentnews.org/article.pl?sid=26/03/08/1510201&from=rss)
 * [2026-03-10, 04:47:00](https://soylentnews.org/article.pl?sid=26/03/08/157253&from=rss) - [Sam Altman Wonders: Should the Government Nationalize AGI?](https://soylentnews.org/article.pl?sid=26/03/08/157253&from=rss)
 * [2026-03-10, 00:02:00](https://soylentnews.org/article.pl?sid=26/03/08/154256&from=rss) - [Charter Gets FCC Permission to Buy Cox and Become Largest ISP in the US](https://soylentnews.org/article.pl?sid=26/03/08/154256&from=rss)
-* [2026-03-09, 19:20:00](https://soylentnews.org/article.pl?sid=26/03/08/1456250&from=rss) - [The New European Office Suite is a Private, Open-Source Alternative](https://soylentnews.org/article.pl?sid=26/03/08/1456250&from=rss)
 
 ## [Archives](archives/index.md)
 
