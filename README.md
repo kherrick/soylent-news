@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-20, 12:46:00](https://soylentnews.org/article.pl?sid=26/03/19/0318230&from=rss) - [Elon Musk Says His Chipmaking 'Terafab Project' Venture Will Launch in Seven Days](https://soylentnews.org/article.pl?sid=26/03/19/0318230&from=rss)
 * [2026-03-20, 07:57:00](https://soylentnews.org/article.pl?sid=26/03/19/0310236&from=rss) - [Massive Interpol Operation Takes Down 45,000 Ip Addresses and Leads to 94 Arrests](https://soylentnews.org/article.pl?sid=26/03/19/0310236&from=rss)
 * [2026-03-20, 03:11:00](https://soylentnews.org/article.pl?sid=26/03/19/035202&from=rss) - [The Ongoing Strait of Hormuz Blockage Will Impact the Semiconductor and AI Industries](https://soylentnews.org/article.pl?sid=26/03/19/035202&from=rss)
 * [2026-03-19, 22:23:00](https://soylentnews.org/article.pl?sid=26/03/19/0258237&from=rss) - [Over Fifteen Years Later, Microsoft Morged My Diagram](https://soylentnews.org/article.pl?sid=26/03/19/0258237&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-11, 04:32:00](https://soylentnews.org/article.pl?sid=26/03/09/096203&from=rss) - [Ancient Clay Hidden Under Japan Caused Rupture That Triggered the 2011 Earthquake and Tsunami](https://soylentnews.org/article.pl?sid=26/03/09/096203&from=rss)
 * [2026-03-10, 23:43:00](https://soylentnews.org/article.pl?sid=26/03/09/094202&from=rss) - [Norwegian Gov't Consumer Watchdog Calls Out ‘Enshittification’ of Video Games, Connected Devices](https://soylentnews.org/article.pl?sid=26/03/09/094202&from=rss)
 * [2026-03-10, 18:57:00](https://soylentnews.org/article.pl?sid=26/03/09/0859227&from=rss) - [The Slow Death of the Power User](https://soylentnews.org/article.pl?sid=26/03/09/0859227&from=rss)
-* [2026-03-10, 14:10:00](https://soylentnews.org/article.pl?sid=26/03/08/1511250&from=rss) - [Indigenous Peoples in the Amazon and Australia Share Some Ancestry](https://soylentnews.org/article.pl?sid=26/03/08/1511250&from=rss)
 
 ## [Archives](archives/index.md)
 
