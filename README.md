@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-21, 17:22:00](https://soylentnews.org/article.pl?sid=26/03/19/203221&from=rss) - [Nvidia Resumes Manufacturing of H200 Chips for China, CEO Says](https://soylentnews.org/article.pl?sid=26/03/19/203221&from=rss)
 * [2026-03-21, 12:40:00](https://soylentnews.org/article.pl?sid=26/03/19/201233&from=rss) - [Tundra Tongue: The Science Behind a Very Cold Mistake](https://soylentnews.org/article.pl?sid=26/03/19/201233&from=rss)
 * [2026-03-21, 07:55:00](https://soylentnews.org/article.pl?sid=26/03/19/1958201&from=rss) - [Afroman Wins 'Lemon Pound Cake' Lawsuit Over Raid-Turned-Music-Video](https://soylentnews.org/article.pl?sid=26/03/19/1958201&from=rss)
 * [2026-03-21, 03:07:00](https://soylentnews.org/article.pl?sid=26/03/19/1638217&from=rss) - [How Should We Define Mathematical Beauty in the AI Age?](https://soylentnews.org/article.pl?sid=26/03/19/1638217&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-12, 09:11:00](https://soylentnews.org/article.pl?sid=26/03/11/0450209&from=rss) - [Why the US is Using a Cheap Iranian Drone Against the Country Itself](https://soylentnews.org/article.pl?sid=26/03/11/0450209&from=rss)
 * [2026-03-12, 04:23:00](https://soylentnews.org/article.pl?sid=26/03/11/0135252&from=rss) - [Are Consumers Doomed to Pay More for Electricity Due to Data Center Buildouts?](https://soylentnews.org/article.pl?sid=26/03/11/0135252&from=rss)
 * [2026-03-11, 23:36:00](https://soylentnews.org/article.pl?sid=26/03/11/0138245&from=rss) - [Iranian Drone Strikes Hit Three AWS Data Centers in the UAE and Bahrain](https://soylentnews.org/article.pl?sid=26/03/11/0138245&from=rss)
-* [2026-03-11, 18:54:00](https://soylentnews.org/article.pl?sid=26/03/11/0441214&from=rss) - [An Unexpected Discovery Just Uncovered Metals Tech Companies Are Desperate for](https://soylentnews.org/article.pl?sid=26/03/11/0441214&from=rss)
 
 ## [Archives](archives/index.md)
 
