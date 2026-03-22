@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-22, 12:22:00](https://soylentnews.org/article.pl?sid=26/03/21/1337239&from=rss) - [Analysis From West Point Warns That Strait of Hormuz Blockade Will Strangle US Defense Industry](https://soylentnews.org/article.pl?sid=26/03/21/1337239&from=rss)
 * [2026-03-22, 07:37:00](https://soylentnews.org/article.pl?sid=26/03/21/1319201&from=rss) - [This Fungus Can Make Water Freeze](https://soylentnews.org/article.pl?sid=26/03/21/1319201&from=rss)
 * [2026-03-22, 02:52:00](https://soylentnews.org/article.pl?sid=26/03/19/208240&from=rss) - [Tech Hobbyist Makes Shoulder-Mounted Guided Missile Prototype With $96 In Parts And A 3D Printer](https://soylentnews.org/article.pl?sid=26/03/19/208240&from=rss)
 * [2026-03-21, 22:07:00](https://soylentnews.org/article.pl?sid=26/03/19/205228&from=rss) - [Nearly Half of UK Adults Happy to Use ChatGPT as a Counsellor](https://soylentnews.org/article.pl?sid=26/03/19/205228&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-13, 04:09:00](https://soylentnews.org/article.pl?sid=26/03/11/2010247&from=rss) - [Ig Nobels Ceremony Moves to Europe Over Security Concerns](https://soylentnews.org/article.pl?sid=26/03/11/2010247&from=rss)
 * [2026-03-12, 23:23:00](https://soylentnews.org/article.pl?sid=26/03/11/164207&from=rss) - [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&from=rss)
 * [2026-03-12, 18:39:00](https://soylentnews.org/article.pl?sid=26/03/11/163209&from=rss) - [OpenAI's Massive Stargate Data Center Canceled as Firm Can't Reach Terms With Oracle](https://soylentnews.org/article.pl?sid=26/03/11/163209&from=rss)
-* [2026-03-12, 13:57:00](https://soylentnews.org/article.pl?sid=26/03/11/1558207&from=rss) - [Digital Targeting Creeps Out Customers](https://soylentnews.org/article.pl?sid=26/03/11/1558207&from=rss)
 
 ## [Archives](archives/index.md)
 
