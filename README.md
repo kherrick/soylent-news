@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-22, 21:54:00](https://soylentnews.org/article.pl?sid=26/03/21/1345242&from=rss) - [Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester](https://soylentnews.org/article.pl?sid=26/03/21/1345242&from=rss)
 * [2026-03-22, 17:09:00](https://soylentnews.org/article.pl?sid=26/03/21/1339251&from=rss) - [Wayland Set the Linux Desktop Back by 10 Years](https://soylentnews.org/article.pl?sid=26/03/21/1339251&from=rss)
 * [2026-03-22, 12:22:00](https://soylentnews.org/article.pl?sid=26/03/21/1337239&from=rss) - [Analysis From West Point Warns That Strait of Hormuz Blockade Will Strangle US Defense Industry](https://soylentnews.org/article.pl?sid=26/03/21/1337239&from=rss)
 * [2026-03-22, 07:37:00](https://soylentnews.org/article.pl?sid=26/03/21/1319201&from=rss) - [This Fungus Can Make Water Freeze](https://soylentnews.org/article.pl?sid=26/03/21/1319201&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-13, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/12/1011221&from=rss) - [LEGO's 0.002mm Specification and It's Implications for Manufacturing](https://soylentnews.org/article.pl?sid=26/03/12/1011221&from=rss)
 * [2026-03-13, 08:52:00](https://soylentnews.org/article.pl?sid=26/03/12/107259&from=rss) - [Infinity Train Got 14.5 MWh Battery That, Ideally, Never Needs Charging](https://soylentnews.org/article.pl?sid=26/03/12/107259&from=rss)
 * [2026-03-13, 04:09:00](https://soylentnews.org/article.pl?sid=26/03/11/2010247&from=rss) - [Ig Nobels Ceremony Moves to Europe Over Security Concerns](https://soylentnews.org/article.pl?sid=26/03/11/2010247&from=rss)
-* [2026-03-12, 23:23:00](https://soylentnews.org/article.pl?sid=26/03/11/164207&from=rss) - [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&from=rss)
 
 ## [Archives](archives/index.md)
 
