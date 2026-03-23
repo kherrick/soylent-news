@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-23, 17:02:00](https://soylentnews.org/article.pl?sid=26/03/22/1833208&from=rss) - [Workers Who Love ‘Synergizing Paradigms’ Might be Bad at Their Jobs](https://soylentnews.org/article.pl?sid=26/03/22/1833208&from=rss)
 * [2026-03-23, 12:17:00](https://soylentnews.org/article.pl?sid=26/03/22/1822230&from=rss) - [Concerns Due to TrueNAS Moving its Build Repository to Private Servers](https://soylentnews.org/article.pl?sid=26/03/22/1822230&from=rss)
 * [2026-03-23, 07:32:00](https://soylentnews.org/article.pl?sid=26/03/21/1413247&from=rss) - [Moltbook Was Peak AI Theater](https://soylentnews.org/article.pl?sid=26/03/21/1413247&from=rss)
 * [2026-03-23, 02:42:00](https://soylentnews.org/article.pl?sid=26/03/21/145246&from=rss) - [Commission Says EU Inc Will be in Place by End of 2026](https://soylentnews.org/article.pl?sid=26/03/21/145246&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-14, 08:38:00](https://soylentnews.org/article.pl?sid=26/03/13/0421208&from=rss) - [14,000 Routers Are Infected by Malware That's Highly Resistant to Takedowns](https://soylentnews.org/article.pl?sid=26/03/13/0421208&from=rss)
 * [2026-03-14, 03:51:00](https://soylentnews.org/article.pl?sid=26/03/13/0413211&from=rss) - [As Frank Yeary Retires From Intel, the Company Picks an Engineer to Chair its Board](https://soylentnews.org/article.pl?sid=26/03/13/0413211&from=rss)
 * [2026-03-13, 23:02:00](https://soylentnews.org/article.pl?sid=26/03/12/1111206&from=rss) - [After Outages, Amazon to Make Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&from=rss)
-* [2026-03-13, 18:19:00](https://soylentnews.org/article.pl?sid=26/03/12/1023220&from=rss) - [Online Intelligence Dashboards (Aka, More AI Slop?)](https://soylentnews.org/article.pl?sid=26/03/12/1023220&from=rss)
 
 ## [Archives](archives/index.md)
 
