@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-24, 07:21:00](https://soylentnews.org/article.pl?sid=26/03/23/0055212&from=rss) - [Nvidia is Trying to Make a Computer for Orbital AI Data Centers](https://soylentnews.org/article.pl?sid=26/03/23/0055212&from=rss)
 * [2026-03-24, 02:34:00](https://soylentnews.org/article.pl?sid=26/03/23/0028246&from=rss) - [Never Mind Band-Aids, Neanderthals Had Antiseptic Birch Tar](https://soylentnews.org/article.pl?sid=26/03/23/0028246&from=rss)
 * [2026-03-23, 21:47:00](https://soylentnews.org/article.pl?sid=26/03/22/1834242&from=rss) - [Big Tech’s Security Problem Just Hit Gaming](https://soylentnews.org/article.pl?sid=26/03/22/1834242&from=rss)
 * [2026-03-23, 17:02:00](https://soylentnews.org/article.pl?sid=26/03/22/1833208&from=rss) - [Workers Who Love ‘Synergizing Paradigms’ Might be Bad at Their Jobs](https://soylentnews.org/article.pl?sid=26/03/22/1833208&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-14, 22:52:00](https://soylentnews.org/article.pl?sid=26/03/13/0443231&from=rss) - [A 1,300-Pound NASA Satellite Just Made a Fiery Return to Earth](https://soylentnews.org/article.pl?sid=26/03/13/0443231&from=rss)
 * [2026-03-14, 18:06:00](https://soylentnews.org/article.pl?sid=26/03/13/0438246&from=rss) - [Americans Are Quietly Installing DIY Solar to Fight Skyrocketing Energy Bills](https://soylentnews.org/article.pl?sid=26/03/13/0438246&from=rss)
 * [2026-03-14, 13:19:00](https://soylentnews.org/article.pl?sid=26/03/13/0430253&from=rss) - [Adobe Plunges to 7 Year Low on CEO Resignation, Muted Forecast](https://soylentnews.org/article.pl?sid=26/03/13/0430253&from=rss)
-* [2026-03-14, 08:38:00](https://soylentnews.org/article.pl?sid=26/03/13/0421208&from=rss) - [14,000 Routers Are Infected by Malware That's Highly Resistant to Takedowns](https://soylentnews.org/article.pl?sid=26/03/13/0421208&from=rss)
 
 ## [Archives](archives/index.md)
 
