@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-25, 07:08:00](https://soylentnews.org/article.pl?sid=26/03/23/1543235&from=rss) - [The FBI is Buying Americans’ Location Data](https://soylentnews.org/article.pl?sid=26/03/23/1543235&from=rss)
 * [2026-03-25, 02:23:00](https://soylentnews.org/article.pl?sid=26/03/23/0124221&from=rss) - [Particle Discovered at CERN Solves a 20-Year-Old Mystery](https://soylentnews.org/article.pl?sid=26/03/23/0124221&from=rss)
 * [2026-03-24, 21:36:00](https://soylentnews.org/article.pl?sid=26/03/23/0118220&from=rss) - [FBI Surveils Russia’s Elite Agents Through Google Translate Logs](https://soylentnews.org/article.pl?sid=26/03/23/0118220&from=rss)
 * [2026-03-24, 16:55:00](https://soylentnews.org/article.pl?sid=26/03/23/0110201&from=rss) - [Cloudflare Appeals Piracy Shield Fine, Hopes to Kill Italy's Site-Blocking Law](https://soylentnews.org/article.pl?sid=26/03/23/0110201&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-15, 23:35:00](https://soylentnews.org/article.pl?sid=26/03/14/1755235&from=rss) - [How Much Sleep Do Teens Get? Six-Seven Hours](https://soylentnews.org/article.pl?sid=26/03/14/1755235&from=rss)
 * [2026-03-15, 18:51:00](https://soylentnews.org/article.pl?sid=26/03/14/1750228&from=rss) - [AI Medical Advice - Both Sides](https://soylentnews.org/article.pl?sid=26/03/14/1750228&from=rss)
 * [2026-03-15, 14:00:00](https://soylentnews.org/article.pl?sid=26/03/14/1740249&from=rss) - [New Study Challenges Notion That Aging Means Decline, Finds Many Older Adults Improve Over Time](https://soylentnews.org/article.pl?sid=26/03/14/1740249&from=rss)
-* [2026-03-15, 09:20:00](https://soylentnews.org/article.pl?sid=26/03/14/0932244&from=rss) - [OpenAI Wants Everyone To Have A Monthly AI Bill](https://soylentnews.org/article.pl?sid=26/03/14/0932244&from=rss)
 
 ## [Archives](archives/index.md)
 
