@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-26, 02:12:00](https://soylentnews.org/article.pl?sid=26/03/23/163239&from=rss) - [NASA Sets 'Impossible' Ground Rules for Relocation of 'Flown Space Vehicle'](https://soylentnews.org/article.pl?sid=26/03/23/163239&from=rss)
 * [2026-03-25, 21:26:00](https://soylentnews.org/article.pl?sid=26/03/23/1558231&from=rss) - [The 49MB Web Page](https://soylentnews.org/article.pl?sid=26/03/23/1558231&from=rss)
 * [2026-03-25, 16:41:00](https://soylentnews.org/article.pl?sid=26/03/23/1555204&from=rss) - [OpenAI Delays AI Porn Feature Over Safety Uproar](https://soylentnews.org/article.pl?sid=26/03/23/1555204&from=rss)
 * [2026-03-25, 11:55:00](https://soylentnews.org/article.pl?sid=26/03/23/1550203&from=rss) - [I Hacked ChatGPT and Google's AI](https://soylentnews.org/article.pl?sid=26/03/23/1550203&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-16, 18:26:00](https://soylentnews.org/article.pl?sid=26/03/15/1328200&from=rss) - [Google Fiber Will be Sold to Private Equity Firm and Merge With Cable Company](https://soylentnews.org/article.pl?sid=26/03/15/1328200&from=rss)
 * [2026-03-16, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/15/1319251&from=rss) - [Why the World's Militaries Are Scrambling to Create Their Own Starlink](https://soylentnews.org/article.pl?sid=26/03/15/1319251&from=rss)
 * [2026-03-16, 08:55:00](https://soylentnews.org/article.pl?sid=26/03/15/0111236&from=rss) - [Iran Conflict Delays Meta's 2Africa Undersea Cable Project — Cable Layer Declares Force Majeure](https://soylentnews.org/article.pl?sid=26/03/15/0111236&from=rss)
-* [2026-03-16, 04:07:00](https://soylentnews.org/article.pl?sid=26/03/15/016219&from=rss) - [Nvidia Is Reportedly Planning Its Own Open Source OpenClaw Competitor](https://soylentnews.org/article.pl?sid=26/03/15/016219&from=rss)
 
 ## [Archives](archives/index.md)
 
