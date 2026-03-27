@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-27, 16:03:00](https://soylentnews.org/article.pl?sid=26/03/26/0225217&from=rss) - [Palantir Trial Plugs Into UK Financial Watchdog's Data Trove](https://soylentnews.org/article.pl?sid=26/03/26/0225217&from=rss)
 * [2026-03-27, 11:20:00](https://soylentnews.org/article.pl?sid=26/03/26/0220234&from=rss) - [Amid Fuel Crunch, Cuban Mechanic Converts Car to Run on Charcoal](https://soylentnews.org/article.pl?sid=26/03/26/0220234&from=rss)
 * [2026-03-27, 06:38:00](https://soylentnews.org/article.pl?sid=26/03/26/0219214&from=rss) - [The US Bans All New Foreign-Made Network Routers](https://soylentnews.org/article.pl?sid=26/03/26/0219214&from=rss)
 * [2026-03-27, 01:55:00](https://soylentnews.org/article.pl?sid=26/03/26/0217248&from=rss) - [TCL's German QLED Ban Puts Pressure on TV Brands to be More Honest About QDs](https://soylentnews.org/article.pl?sid=26/03/26/0217248&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-18, 08:21:00](https://soylentnews.org/article.pl?sid=26/03/17/0828240&from=rss) - [Research Shows How Lost Memories Can be Reactivated](https://soylentnews.org/article.pl?sid=26/03/17/0828240&from=rss)
 * [2026-03-18, 03:36:00](https://soylentnews.org/article.pl?sid=26/03/17/0827224&from=rss) - [Apocalyptic Beliefs Are No Longer Fringe—and They're Shaping How People Respond](https://soylentnews.org/article.pl?sid=26/03/17/0827224&from=rss)
 * [2026-03-17, 22:53:00](https://soylentnews.org/article.pl?sid=26/03/16/140213&from=rss) - [Porsche Puts Its Faith Back in Internal Combustion Engines](https://soylentnews.org/article.pl?sid=26/03/16/140213&from=rss)
-* [2026-03-17, 18:08:00](https://soylentnews.org/article.pl?sid=26/03/16/1356204&from=rss) - [Meta is Ending Instagram Direct Message End-to-End Encryption](https://soylentnews.org/article.pl?sid=26/03/16/1356204&from=rss)
 
 ## [Archives](archives/index.md)
 
