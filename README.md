@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-28, 21:34:00](https://soylentnews.org/article.pl?sid=26/03/27/0310204&from=rss) - [Age Checks Creep Into Linux, systemd Locks It in, Developer Defends Himself](https://soylentnews.org/article.pl?sid=26/03/27/0310204&from=rss)
 * [2026-03-28, 16:51:00](https://soylentnews.org/article.pl?sid=26/03/26/0657232&from=rss) - [CERN Scientists Burn AI Into Silicon to Stem Data Deluge](https://soylentnews.org/article.pl?sid=26/03/26/0657232&from=rss)
 * [2026-03-28, 12:09:00](https://soylentnews.org/article.pl?sid=26/03/26/0650221&from=rss) - [Elon Musk Wants to Build 50 Times More Chips Than the World Currently Produces, Using 'New Physics'](https://soylentnews.org/article.pl?sid=26/03/26/0650221&from=rss)
 * [2026-03-28, 07:24:00](https://soylentnews.org/article.pl?sid=26/03/26/0645257&from=rss) - [Australia to Datacenter Operators: BYO Energy, Pay Your Way, Build Green, or Stay Home](https://soylentnews.org/article.pl?sid=26/03/26/0645257&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-19, 12:53:00](https://soylentnews.org/article.pl?sid=26/03/18/1524211&from=rss) - [100 Years Later, Where is Robert Goddard's First Liquid-Fuel Rocket?](https://soylentnews.org/article.pl?sid=26/03/18/1524211&from=rss)
 * [2026-03-19, 08:08:00](https://soylentnews.org/article.pl?sid=26/03/18/1522208&from=rss) - [The Science of How Fireflies Stay in Sync](https://soylentnews.org/article.pl?sid=26/03/18/1522208&from=rss)
 * [2026-03-19, 03:23:00](https://soylentnews.org/article.pl?sid=26/03/17/0844255&from=rss) - [Humanities in the Machine](https://soylentnews.org/article.pl?sid=26/03/17/0844255&from=rss)
-* [2026-03-18, 22:38:00](https://soylentnews.org/article.pl?sid=26/03/17/0839217&from=rss) - [Chimps’ Love for Crystals Could Help Us Understand Our Own Ancestors’ Fascination With Gems](https://soylentnews.org/article.pl?sid=26/03/17/0839217&from=rss)
 
 ## [Archives](archives/index.md)
 
