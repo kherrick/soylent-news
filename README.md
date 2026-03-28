@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-28, 07:24:00](https://soylentnews.org/article.pl?sid=26/03/26/0645257&from=rss) - [Australia to Datacenter Operators: BYO Energy, Pay Your Way, Build Green, or Stay Home](https://soylentnews.org/article.pl?sid=26/03/26/0645257&from=rss)
 * [2026-03-28, 02:36:00](https://soylentnews.org/article.pl?sid=26/03/26/0644236&from=rss) - [An Uncontrolled Experiment in Atmospheric Chemistry](https://soylentnews.org/article.pl?sid=26/03/26/0644236&from=rss)
 * [2026-03-27, 21:50:00](https://soylentnews.org/article.pl?sid=26/03/26/0634229&from=rss) - [Concerns Raised Over Shahed Kamikaze Drone Listings on Alibaba](https://soylentnews.org/article.pl?sid=26/03/26/0634229&from=rss)
 * [2026-03-27, 16:03:00](https://soylentnews.org/article.pl?sid=26/03/26/0225217&from=rss) - [Palantir Trial Plugs Into UK Financial Watchdog's Data Trove](https://soylentnews.org/article.pl?sid=26/03/26/0225217&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-18, 22:38:00](https://soylentnews.org/article.pl?sid=26/03/17/0839217&from=rss) - [Chimps’ Love for Crystals Could Help Us Understand Our Own Ancestors’ Fascination With Gems](https://soylentnews.org/article.pl?sid=26/03/17/0839217&from=rss)
 * [2026-03-18, 17:54:00](https://soylentnews.org/politics/article.pl?sid=26/03/17/0835230&from=rss) - [FCC Chairman Threatens To Revoke TV Licenses Over Iran Coverage](https://soylentnews.org/politics/article.pl?sid=26/03/17/0835230&from=rss)
 * [2026-03-18, 13:04:00](https://soylentnews.org/article.pl?sid=26/03/17/0831246&from=rss) - [Woman Sneezes Out Maggots After Fly Larvae Get Trapped in Her Deviated Septum](https://soylentnews.org/article.pl?sid=26/03/17/0831246&from=rss)
-* [2026-03-18, 08:21:00](https://soylentnews.org/article.pl?sid=26/03/17/0828240&from=rss) - [Research Shows How Lost Memories Can be Reactivated](https://soylentnews.org/article.pl?sid=26/03/17/0828240&from=rss)
 
 ## [Archives](archives/index.md)
 
