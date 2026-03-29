@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-29, 21:26:00](https://soylentnews.org/article.pl?sid=26/03/28/0347204&from=rss) - [A 32-Year-Old Bug Walks Into a Telnet Server](https://soylentnews.org/article.pl?sid=26/03/28/0347204&from=rss)
 * [2026-03-29, 16:32:00](https://soylentnews.org/article.pl?sid=26/03/28/0345249&from=rss) - [Google is Now Changing News Headlines – Without Permission](https://soylentnews.org/article.pl?sid=26/03/28/0345249&from=rss)
 * [2026-03-29, 11:52:00](https://soylentnews.org/article.pl?sid=26/03/27/0334236&from=rss) - [Pilot Didn't Mind NASA's Experimental Plane Doesnt Have a Front Window](https://soylentnews.org/article.pl?sid=26/03/27/0334236&from=rss)
 * [2026-03-29, 07:03:00](https://soylentnews.org/article.pl?sid=26/03/27/0325254&from=rss) - [Someone Forked systemd to Strip Out Its Age Verification Support](https://soylentnews.org/article.pl?sid=26/03/27/0325254&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-20, 12:46:00](https://soylentnews.org/article.pl?sid=26/03/19/0318230&from=rss) - [Elon Musk Says His Chipmaking 'Terafab Project' Venture Will Launch in Seven Days](https://soylentnews.org/article.pl?sid=26/03/19/0318230&from=rss)
 * [2026-03-20, 07:57:00](https://soylentnews.org/article.pl?sid=26/03/19/0310236&from=rss) - [Massive Interpol Operation Takes Down 45,000 Ip Addresses and Leads to 94 Arrests](https://soylentnews.org/article.pl?sid=26/03/19/0310236&from=rss)
 * [2026-03-20, 03:11:00](https://soylentnews.org/article.pl?sid=26/03/19/035202&from=rss) - [The Ongoing Strait of Hormuz Blockage Will Impact the Semiconductor and AI Industries](https://soylentnews.org/article.pl?sid=26/03/19/035202&from=rss)
-* [2026-03-19, 22:23:00](https://soylentnews.org/article.pl?sid=26/03/19/0258237&from=rss) - [Over Fifteen Years Later, Microsoft Morged My Diagram](https://soylentnews.org/article.pl?sid=26/03/19/0258237&from=rss)
 
 ## [Archives](archives/index.md)
 
