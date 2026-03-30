@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-30, 11:40:00](https://soylentnews.org/article.pl?sid=26/03/29/1321221&from=rss) - [I Decompiled the White House's New App](https://soylentnews.org/article.pl?sid=26/03/29/1321221&from=rss)
 * [2026-03-30, 06:50:00](https://soylentnews.org/article.pl?sid=26/03/28/0354240&from=rss) - [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&from=rss)
 * [2026-03-30, 02:07:00](https://soylentnews.org/article.pl?sid=26/03/28/0349246&from=rss) - [Google Unveils TurboQuant, a New AI Memory Compression Algorithm](https://soylentnews.org/article.pl?sid=26/03/28/0349246&from=rss)
 * [2026-03-29, 21:26:00](https://soylentnews.org/article.pl?sid=26/03/28/0347204&from=rss) - [A 32-Year-Old Bug Walks Into a Telnet Server](https://soylentnews.org/article.pl?sid=26/03/28/0347204&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-21, 03:07:00](https://soylentnews.org/article.pl?sid=26/03/19/1638217&from=rss) - [How Should We Define Mathematical Beauty in the AI Age?](https://soylentnews.org/article.pl?sid=26/03/19/1638217&from=rss)
 * [2026-03-20, 22:15:00](https://soylentnews.org/article.pl?sid=26/03/19/1636248&from=rss) - [Invisible Malicious Code Attacks 151 GitHub Repos And VS Code — Glassworm Attack Uses Blockchain](https://soylentnews.org/article.pl?sid=26/03/19/1636248&from=rss)
 * [2026-03-20, 17:53:00](https://soylentnews.org/article.pl?sid=26/03/19/1635218&from=rss) - [Researchers Played Music to Cells – Aggressiveness of Laryngeal Cancer Decreased](https://soylentnews.org/article.pl?sid=26/03/19/1635218&from=rss)
-* [2026-03-20, 12:46:00](https://soylentnews.org/article.pl?sid=26/03/19/0318230&from=rss) - [Elon Musk Says His Chipmaking 'Terafab Project' Venture Will Launch in Seven Days](https://soylentnews.org/article.pl?sid=26/03/19/0318230&from=rss)
 
 ## [Archives](archives/index.md)
 
