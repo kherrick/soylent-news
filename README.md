@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-30, 21:12:00](https://soylentnews.org/article.pl?sid=26/03/29/1333211&from=rss) - [Over Half of UK Businesses Have No Idea How Fast They Could Stop AI in a Crisis](https://soylentnews.org/article.pl?sid=26/03/29/1333211&from=rss)
 * [2026-03-30, 16:25:00](https://soylentnews.org/article.pl?sid=26/03/29/1329244&from=rss) - [Water Has a Newfound ‘Critical Point’ That May Help Explain its Quirks](https://soylentnews.org/article.pl?sid=26/03/29/1329244&from=rss)
 * [2026-03-30, 11:40:00](https://soylentnews.org/article.pl?sid=26/03/29/1321221&from=rss) - [I Decompiled the White House's New App](https://soylentnews.org/article.pl?sid=26/03/29/1321221&from=rss)
 * [2026-03-30, 06:50:00](https://soylentnews.org/article.pl?sid=26/03/28/0354240&from=rss) - [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-21, 12:40:00](https://soylentnews.org/article.pl?sid=26/03/19/201233&from=rss) - [Tundra Tongue: The Science Behind a Very Cold Mistake](https://soylentnews.org/article.pl?sid=26/03/19/201233&from=rss)
 * [2026-03-21, 07:55:00](https://soylentnews.org/article.pl?sid=26/03/19/1958201&from=rss) - [Afroman Wins 'Lemon Pound Cake' Lawsuit Over Raid-Turned-Music-Video](https://soylentnews.org/article.pl?sid=26/03/19/1958201&from=rss)
 * [2026-03-21, 03:07:00](https://soylentnews.org/article.pl?sid=26/03/19/1638217&from=rss) - [How Should We Define Mathematical Beauty in the AI Age?](https://soylentnews.org/article.pl?sid=26/03/19/1638217&from=rss)
-* [2026-03-20, 22:15:00](https://soylentnews.org/article.pl?sid=26/03/19/1636248&from=rss) - [Invisible Malicious Code Attacks 151 GitHub Repos And VS Code — Glassworm Attack Uses Blockchain](https://soylentnews.org/article.pl?sid=26/03/19/1636248&from=rss)
 
 ## [Archives](archives/index.md)
 
