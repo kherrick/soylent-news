@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-03-31, 18:13:00](https://soylentnews.org/article.pl?sid=26/03/30/1454213&from=rss) - [Number of AI Chatbots Ignoring Human Instructions is Increasing  ](https://soylentnews.org/article.pl?sid=26/03/30/1454213&from=rss)
 * [2026-03-31, 11:25:00](https://soylentnews.org/article.pl?sid=26/03/30/0239206&from=rss) - [Court Temporarily Blocks US Government From Labeling Anthropic as a 'Supply Chain Risk'](https://soylentnews.org/article.pl?sid=26/03/30/0239206&from=rss)
 * [2026-03-31, 06:42:00](https://soylentnews.org/article.pl?sid=26/03/30/0233201&from=rss) - [Touchscreens, Long Nails, and an Experimental Polish](https://soylentnews.org/article.pl?sid=26/03/30/0233201&from=rss)
 * [2026-03-31, 01:56:00](https://soylentnews.org/article.pl?sid=26/03/29/1343212&from=rss) - [Are US-Based VPN Users at Risk of Being Treated as Foreign Surveillance Targets?](https://soylentnews.org/article.pl?sid=26/03/29/1343212&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-22, 07:37:00](https://soylentnews.org/article.pl?sid=26/03/21/1319201&from=rss) - [This Fungus Can Make Water Freeze](https://soylentnews.org/article.pl?sid=26/03/21/1319201&from=rss)
 * [2026-03-22, 02:52:00](https://soylentnews.org/article.pl?sid=26/03/19/208240&from=rss) - [Tech Hobbyist Makes Shoulder-Mounted Guided Missile Prototype With $96 In Parts And A 3D Printer](https://soylentnews.org/article.pl?sid=26/03/19/208240&from=rss)
 * [2026-03-21, 22:07:00](https://soylentnews.org/article.pl?sid=26/03/19/205228&from=rss) - [Nearly Half of UK Adults Happy to Use ChatGPT as a Counsellor](https://soylentnews.org/article.pl?sid=26/03/19/205228&from=rss)
-* [2026-03-21, 17:22:00](https://soylentnews.org/article.pl?sid=26/03/19/203221&from=rss) - [Nvidia Resumes Manufacturing of H200 Chips for China, CEO Says](https://soylentnews.org/article.pl?sid=26/03/19/203221&from=rss)
 
 ## [Archives](archives/index.md)
 
