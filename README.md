@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-01, 17:53:00](https://soylentnews.org/article.pl?sid=26/03/30/1513241&from=rss) - [How Graphene Oxide Kills Bacteria While Sparing Human Cells](https://soylentnews.org/article.pl?sid=26/03/30/1513241&from=rss)
+* [2026-04-01, 17:32:00](https://soylentnews.org/article.pl?sid=26/04/01/1726213&from=rss) - [Artemis II Mission is About to Fly Humans to the Moon — Here's the Science They'll Do](https://soylentnews.org/article.pl?sid=26/04/01/1726213&from=rss)
 * [2026-04-01, 13:12:00](https://soylentnews.org/article.pl?sid=26/03/30/159237&from=rss) - [US Foreign Router Ban Criticized for Being ‘Industrial Policy Disguised as Cybersecurity’](https://soylentnews.org/article.pl?sid=26/03/30/159237&from=rss)
 * [2026-04-01, 08:32:00](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss) - [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss)
 * [2026-04-01, 03:44:00](https://soylentnews.org/article.pl?sid=26/03/30/151240&from=rss) - [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&from=rss)
@@ -48,8 +50,6 @@
 * [2026-03-23, 12:17:00](https://soylentnews.org/article.pl?sid=26/03/22/1822230&from=rss) - [Concerns Due to TrueNAS Moving its Build Repository to Private Servers](https://soylentnews.org/article.pl?sid=26/03/22/1822230&from=rss)
 * [2026-03-23, 07:32:00](https://soylentnews.org/article.pl?sid=26/03/21/1413247&from=rss) - [Moltbook Was Peak AI Theater](https://soylentnews.org/article.pl?sid=26/03/21/1413247&from=rss)
 * [2026-03-23, 02:42:00](https://soylentnews.org/article.pl?sid=26/03/21/145246&from=rss) - [Commission Says EU Inc Will be in Place by End of 2026](https://soylentnews.org/article.pl?sid=26/03/21/145246&from=rss)
-* [2026-03-22, 21:54:00](https://soylentnews.org/article.pl?sid=26/03/21/1345242&from=rss) - [Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester](https://soylentnews.org/article.pl?sid=26/03/21/1345242&from=rss)
-* [2026-03-22, 17:09:00](https://soylentnews.org/article.pl?sid=26/03/21/1339251&from=rss) - [Wayland Set the Linux Desktop Back by 10 Years](https://soylentnews.org/article.pl?sid=26/03/21/1339251&from=rss)
 
 ## [Archives](archives/index.md)
 
