@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-01, 03:44:00](https://soylentnews.org/article.pl?sid=26/03/30/151240&from=rss) - [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&from=rss)
 * [2026-03-31, 23:01:00](https://soylentnews.org/article.pl?sid=26/03/30/1458237&from=rss) - [China's Not Thrilled its AI Experts Want to Leave the Country](https://soylentnews.org/article.pl?sid=26/03/30/1458237&from=rss)
 * [2026-03-31, 18:13:00](https://soylentnews.org/article.pl?sid=26/03/30/1454213&from=rss) - [Number of AI Chatbots Ignoring Human Instructions is Increasing  ](https://soylentnews.org/article.pl?sid=26/03/30/1454213&from=rss)
 * [2026-03-31, 11:25:00](https://soylentnews.org/article.pl?sid=26/03/30/0239206&from=rss) - [Court Temporarily Blocks US Government From Labeling Anthropic as a 'Supply Chain Risk'](https://soylentnews.org/article.pl?sid=26/03/30/0239206&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-22, 17:09:00](https://soylentnews.org/article.pl?sid=26/03/21/1339251&from=rss) - [Wayland Set the Linux Desktop Back by 10 Years](https://soylentnews.org/article.pl?sid=26/03/21/1339251&from=rss)
 * [2026-03-22, 12:22:00](https://soylentnews.org/article.pl?sid=26/03/21/1337239&from=rss) - [Analysis From West Point Warns That Strait of Hormuz Blockade Will Strangle US Defense Industry](https://soylentnews.org/article.pl?sid=26/03/21/1337239&from=rss)
 * [2026-03-22, 07:37:00](https://soylentnews.org/article.pl?sid=26/03/21/1319201&from=rss) - [This Fungus Can Make Water Freeze](https://soylentnews.org/article.pl?sid=26/03/21/1319201&from=rss)
-* [2026-03-22, 02:52:00](https://soylentnews.org/article.pl?sid=26/03/19/208240&from=rss) - [Tech Hobbyist Makes Shoulder-Mounted Guided Missile Prototype With $96 In Parts And A 3D Printer](https://soylentnews.org/article.pl?sid=26/03/19/208240&from=rss)
 
 ## [Archives](archives/index.md)
 
