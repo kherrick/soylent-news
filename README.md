@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-02, 12:42:00](https://soylentnews.org/article.pl?sid=26/03/31/147230&from=rss) - [Euro-Office is a Free, Open-Source Alternative to Microsoft 365 and Google Docs](https://soylentnews.org/article.pl?sid=26/03/31/147230&from=rss)
 * [2026-04-02, 08:13:00](https://soylentnews.org/article.pl?sid=26/03/31/1354212&from=rss) - [World's smallest QR code, smaller than bacteria, could store data for centuries  ](https://soylentnews.org/article.pl?sid=26/03/31/1354212&from=rss)
 * [2026-04-02, 03:09:00](https://soylentnews.org/article.pl?sid=26/03/31/1352230&from=rss) - [Google Won't Block Loading Unverified Apps, but Adds Friction to the Process](https://soylentnews.org/article.pl?sid=26/03/31/1352230&from=rss)
 * [2026-04-01, 22:34:00](https://soylentnews.org/article.pl?sid=26/03/30/1515244&from=rss) - [Tails Linux 7.6 Released: Introduces Automatic Tor Bridges to Bypass Censorship](https://soylentnews.org/article.pl?sid=26/03/30/1515244&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-24, 07:21:00](https://soylentnews.org/article.pl?sid=26/03/23/0055212&from=rss) - [Nvidia is Trying to Make a Computer for Orbital AI Data Centers](https://soylentnews.org/article.pl?sid=26/03/23/0055212&from=rss)
 * [2026-03-24, 02:34:00](https://soylentnews.org/article.pl?sid=26/03/23/0028246&from=rss) - [Never Mind Band-Aids, Neanderthals Had Antiseptic Birch Tar](https://soylentnews.org/article.pl?sid=26/03/23/0028246&from=rss)
 * [2026-03-23, 21:47:00](https://soylentnews.org/article.pl?sid=26/03/22/1834242&from=rss) - [Big Tech’s Security Problem Just Hit Gaming](https://soylentnews.org/article.pl?sid=26/03/22/1834242&from=rss)
-* [2026-03-23, 17:02:00](https://soylentnews.org/article.pl?sid=26/03/22/1833208&from=rss) - [Workers Who Love ‘Synergizing Paradigms’ Might be Bad at Their Jobs](https://soylentnews.org/article.pl?sid=26/03/22/1833208&from=rss)
 
 ## [Archives](archives/index.md)
 
