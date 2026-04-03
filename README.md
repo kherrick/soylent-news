@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-03, 02:31:00](https://soylentnews.org/article.pl?sid=26/03/31/1431219&from=rss) - [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&from=rss)
 * [2026-04-02, 21:41:00](https://soylentnews.org/article.pl?sid=26/03/31/1413235&from=rss) - [Why October 1, 2026, Could be the Day SSL/TLS Certificates 'Break the Internet'](https://soylentnews.org/article.pl?sid=26/03/31/1413235&from=rss)
 * [2026-04-02, 17:00:00](https://soylentnews.org/article.pl?sid=26/03/31/140207&from=rss) - [Ubuntu MATE Founder Martin Wimpress Steps Back After 12 Years](https://soylentnews.org/article.pl?sid=26/03/31/140207&from=rss)
 * [2026-04-02, 12:42:00](https://soylentnews.org/article.pl?sid=26/03/31/147230&from=rss) - [Euro-Office is a Free, Open-Source Alternative to Microsoft 365 and Google Docs](https://soylentnews.org/article.pl?sid=26/03/31/147230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-24, 21:36:00](https://soylentnews.org/article.pl?sid=26/03/23/0118220&from=rss) - [FBI Surveils Russia’s Elite Agents Through Google Translate Logs](https://soylentnews.org/article.pl?sid=26/03/23/0118220&from=rss)
 * [2026-03-24, 16:55:00](https://soylentnews.org/article.pl?sid=26/03/23/0110201&from=rss) - [Cloudflare Appeals Piracy Shield Fine, Hopes to Kill Italy's Site-Blocking Law](https://soylentnews.org/article.pl?sid=26/03/23/0110201&from=rss)
 * [2026-03-24, 12:10:00](https://soylentnews.org/article.pl?sid=26/03/23/013259&from=rss) - [Musk's Tactic of Blaming Users for Grok Sex Images May be Foiled by EU Law](https://soylentnews.org/article.pl?sid=26/03/23/013259&from=rss)
-* [2026-03-24, 07:21:00](https://soylentnews.org/article.pl?sid=26/03/23/0055212&from=rss) - [Nvidia is Trying to Make a Computer for Orbital AI Data Centers](https://soylentnews.org/article.pl?sid=26/03/23/0055212&from=rss)
 
 ## [Archives](archives/index.md)
 
