@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-03, 16:43:00](https://soylentnews.org/article.pl?sid=26/04/02/0214254&from=rss) - [Google Has a Secret Reference Desk. Here's How to Use It.](https://soylentnews.org/article.pl?sid=26/04/02/0214254&from=rss)
 * [2026-04-03, 12:00:00](https://soylentnews.org/article.pl?sid=26/03/31/1458218&from=rss) - [Attorney Hit With Historic Fine for Citing AI-Generated Cases](https://soylentnews.org/article.pl?sid=26/03/31/1458218&from=rss)
 * [2026-04-03, 07:17:00](https://soylentnews.org/article.pl?sid=26/03/31/1439256&from=rss) - [Wikipedia Has Banned AI-Generated Articles](https://soylentnews.org/article.pl?sid=26/03/31/1439256&from=rss)
 * [2026-04-03, 02:31:00](https://soylentnews.org/article.pl?sid=26/03/31/1431219&from=rss) - [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-25, 11:55:00](https://soylentnews.org/article.pl?sid=26/03/23/1550203&from=rss) - [I Hacked ChatGPT and Google's AI](https://soylentnews.org/article.pl?sid=26/03/23/1550203&from=rss)
 * [2026-03-25, 07:08:00](https://soylentnews.org/article.pl?sid=26/03/23/1543235&from=rss) - [The FBI is Buying Americans’ Location Data](https://soylentnews.org/article.pl?sid=26/03/23/1543235&from=rss)
 * [2026-03-25, 02:23:00](https://soylentnews.org/article.pl?sid=26/03/23/0124221&from=rss) - [Particle Discovered at CERN Solves a 20-Year-Old Mystery](https://soylentnews.org/article.pl?sid=26/03/23/0124221&from=rss)
-* [2026-03-24, 21:36:00](https://soylentnews.org/article.pl?sid=26/03/23/0118220&from=rss) - [FBI Surveils Russia’s Elite Agents Through Google Translate Logs](https://soylentnews.org/article.pl?sid=26/03/23/0118220&from=rss)
 
 ## [Archives](archives/index.md)
 
