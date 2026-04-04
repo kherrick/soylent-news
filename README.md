@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-04, 07:04:00](https://soylentnews.org/article.pl?sid=26/04/02/0226234&from=rss) - [GitHub to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&from=rss)
 * [2026-04-04, 02:11:00](https://soylentnews.org/article.pl?sid=26/04/02/0224235&from=rss) - [Quo Vadis, Humanitas?](https://soylentnews.org/article.pl?sid=26/04/02/0224235&from=rss)
 * [2026-04-03, 21:35:00](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss) - [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss)
 * [2026-04-03, 16:43:00](https://soylentnews.org/article.pl?sid=26/04/02/0214254&from=rss) - [Google Has a Secret Reference Desk. Here's How to Use It.](https://soylentnews.org/article.pl?sid=26/04/02/0214254&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-26, 02:12:00](https://soylentnews.org/article.pl?sid=26/03/23/163239&from=rss) - [NASA Sets 'Impossible' Ground Rules for Relocation of 'Flown Space Vehicle'](https://soylentnews.org/article.pl?sid=26/03/23/163239&from=rss)
 * [2026-03-25, 21:26:00](https://soylentnews.org/article.pl?sid=26/03/23/1558231&from=rss) - [The 49MB Web Page](https://soylentnews.org/article.pl?sid=26/03/23/1558231&from=rss)
 * [2026-03-25, 16:41:00](https://soylentnews.org/article.pl?sid=26/03/23/1555204&from=rss) - [OpenAI Delays AI Porn Feature Over Safety Uproar](https://soylentnews.org/article.pl?sid=26/03/23/1555204&from=rss)
-* [2026-03-25, 11:55:00](https://soylentnews.org/article.pl?sid=26/03/23/1550203&from=rss) - [I Hacked ChatGPT and Google's AI](https://soylentnews.org/article.pl?sid=26/03/23/1550203&from=rss)
 
 ## [Archives](archives/index.md)
 
