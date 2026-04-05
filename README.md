@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-05, 21:04:00](https://soylentnews.org/article.pl?sid=26/04/04/0231228&from=rss) - [‘Shockingly Bad’: Nissan Leaf Drivers Voice Anger Over App Shutdown](https://soylentnews.org/article.pl?sid=26/04/04/0231228&from=rss)
 * [2026-04-05, 16:13:00](https://soylentnews.org/article.pl?sid=26/04/04/0228218&from=rss) - [Data Centers Causing Huge Temperature Spikes for Miles Around Them, Study Suggests](https://soylentnews.org/article.pl?sid=26/04/04/0228218&from=rss)
 * [2026-04-05, 11:41:00](https://soylentnews.org/article.pl?sid=26/04/04/0223207&from=rss) - [Security Researchers Scoured the Web and Found Hundreds of Valid API Keys](https://soylentnews.org/article.pl?sid=26/04/04/0223207&from=rss)
 * [2026-04-05, 06:49:00](https://soylentnews.org/article.pl?sid=26/04/03/040255&from=rss) - [VitruvianOS 0.3 Debuts as Haiku-Inspired Linux OS Without X11 or Wayland](https://soylentnews.org/article.pl?sid=26/04/03/040255&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-27, 21:50:00](https://soylentnews.org/article.pl?sid=26/03/26/0634229&from=rss) - [Concerns Raised Over Shahed Kamikaze Drone Listings on Alibaba](https://soylentnews.org/article.pl?sid=26/03/26/0634229&from=rss)
 * [2026-03-27, 16:03:00](https://soylentnews.org/article.pl?sid=26/03/26/0225217&from=rss) - [Palantir Trial Plugs Into UK Financial Watchdog's Data Trove](https://soylentnews.org/article.pl?sid=26/03/26/0225217&from=rss)
 * [2026-03-27, 11:20:00](https://soylentnews.org/article.pl?sid=26/03/26/0220234&from=rss) - [Amid Fuel Crunch, Cuban Mechanic Converts Car to Run on Charcoal](https://soylentnews.org/article.pl?sid=26/03/26/0220234&from=rss)
-* [2026-03-27, 06:38:00](https://soylentnews.org/article.pl?sid=26/03/26/0219214&from=rss) - [The US Bans All New Foreign-Made Network Routers](https://soylentnews.org/article.pl?sid=26/03/26/0219214&from=rss)
 
 ## [Archives](archives/index.md)
 
