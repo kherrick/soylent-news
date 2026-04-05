@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-05, 06:49:00](https://soylentnews.org/article.pl?sid=26/04/03/040255&from=rss) - [VitruvianOS 0.3 Debuts as Haiku-Inspired Linux OS Without X11 or Wayland](https://soylentnews.org/article.pl?sid=26/04/03/040255&from=rss)
 * [2026-04-05, 05:37:00](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&from=rss) - [2nd Crew Member of F15E Has Been Rescued.](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&from=rss)
 * [2026-04-05, 02:02:00](https://soylentnews.org/article.pl?sid=26/04/03/0357220&from=rss) - [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&from=rss)
 * [2026-04-04, 21:18:00](https://soylentnews.org/article.pl?sid=26/04/03/0351210&from=rss) - [Apple Requires Device-Level Age Verification in the UK Now. Could the US Be Next?](https://soylentnews.org/article.pl?sid=26/04/03/0351210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-27, 06:38:00](https://soylentnews.org/article.pl?sid=26/03/26/0219214&from=rss) - [The US Bans All New Foreign-Made Network Routers](https://soylentnews.org/article.pl?sid=26/03/26/0219214&from=rss)
 * [2026-03-27, 01:55:00](https://soylentnews.org/article.pl?sid=26/03/26/0217248&from=rss) - [TCL's German QLED Ban Puts Pressure on TV Brands to be More Honest About QDs](https://soylentnews.org/article.pl?sid=26/03/26/0217248&from=rss)
 * [2026-03-26, 21:05:00](https://soylentnews.org/article.pl?sid=26/03/25/2355253&from=rss) - [Supreme Court Says Internet Service Provider Isn't Liable for Bootlegged Music Downloads](https://soylentnews.org/article.pl?sid=26/03/25/2355253&from=rss)
-* [2026-03-26, 16:23:00](https://soylentnews.org/article.pl?sid=26/03/25/2344247&from=rss) - [Tech Employees Are Reportedly Being Evaluated by How Fast They Burn Through LLM Tokens](https://soylentnews.org/article.pl?sid=26/03/25/2344247&from=rss)
 
 ## [Archives](archives/index.md)
 
