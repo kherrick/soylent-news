@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-06, 16:11:00](https://soylentnews.org/article.pl?sid=26/04/05/0226201&from=rss) - [Claude Source Code Leaked?  But Watch Out for What You Might be Downloading](https://soylentnews.org/article.pl?sid=26/04/05/0226201&from=rss)
 * [2026-04-06, 11:23:00](https://soylentnews.org/article.pl?sid=26/04/05/0214222&from=rss) - [Fossils Reveal Many Complex Animals Existed Before the Cambrian Explosion](https://soylentnews.org/article.pl?sid=26/04/05/0214222&from=rss)
 * [2026-04-06, 06:35:00](https://soylentnews.org/article.pl?sid=26/04/05/026223&from=rss) - [AMD's New Desktop CPU Oozes Cache Out of All 16 Cores](https://soylentnews.org/article.pl?sid=26/04/05/026223&from=rss)
 * [2026-04-06, 01:54:00](https://soylentnews.org/article.pl?sid=26/04/05/021235&from=rss) - [The 'Engineering of Addiction'  - 3 Ways Meta and YouTube Are Claimed to Have Harmed  Users](https://soylentnews.org/article.pl?sid=26/04/05/021235&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-28, 16:51:00](https://soylentnews.org/article.pl?sid=26/03/26/0657232&from=rss) - [CERN Scientists Burn AI Into Silicon to Stem Data Deluge](https://soylentnews.org/article.pl?sid=26/03/26/0657232&from=rss)
 * [2026-03-28, 12:09:00](https://soylentnews.org/article.pl?sid=26/03/26/0650221&from=rss) - [Elon Musk Wants to Build 50 Times More Chips Than the World Currently Produces, Using 'New Physics'](https://soylentnews.org/article.pl?sid=26/03/26/0650221&from=rss)
 * [2026-03-28, 07:24:00](https://soylentnews.org/article.pl?sid=26/03/26/0645257&from=rss) - [Australia to Datacenter Operators: BYO Energy, Pay Your Way, Build Green, or Stay Home](https://soylentnews.org/article.pl?sid=26/03/26/0645257&from=rss)
-* [2026-03-28, 02:36:00](https://soylentnews.org/article.pl?sid=26/03/26/0644236&from=rss) - [An Uncontrolled Experiment in Atmospheric Chemistry](https://soylentnews.org/article.pl?sid=26/03/26/0644236&from=rss)
 
 ## [Archives](archives/index.md)
 
