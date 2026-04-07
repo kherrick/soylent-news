@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-07, 11:01:00](https://soylentnews.org/article.pl?sid=26/04/05/0852233&from=rss) - [$500 Fiber Optic HDMI Cable Delivers Flawless 48 Gbps Performance Across a Staggering 990 Feet](https://soylentnews.org/article.pl?sid=26/04/05/0852233&from=rss)
 * [2026-04-07, 06:18:00](https://soylentnews.org/article.pl?sid=26/04/05/0849255&from=rss) - [The Brain Uses Eye Movements to See in 3D](https://soylentnews.org/article.pl?sid=26/04/05/0849255&from=rss)
 * [2026-04-07, 01:33:00](https://soylentnews.org/article.pl?sid=26/04/05/0335237&from=rss) - [RIP Mac Pro: Apple Officially Kills its Tower Computer](https://soylentnews.org/article.pl?sid=26/04/05/0335237&from=rss)
 * [2026-04-06, 20:52:00](https://soylentnews.org/article.pl?sid=26/04/05/0233233&from=rss) - [Pentagon Formalizes Palantir's Maven AI as a Core Military System With Multi-Year Funding](https://soylentnews.org/article.pl?sid=26/04/05/0233233&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-29, 11:52:00](https://soylentnews.org/article.pl?sid=26/03/27/0334236&from=rss) - [Pilot Didn't Mind NASA's Experimental Plane Doesnt Have a Front Window](https://soylentnews.org/article.pl?sid=26/03/27/0334236&from=rss)
 * [2026-03-29, 07:03:00](https://soylentnews.org/article.pl?sid=26/03/27/0325254&from=rss) - [Someone Forked systemd to Strip Out Its Age Verification Support](https://soylentnews.org/article.pl?sid=26/03/27/0325254&from=rss)
 * [2026-03-29, 02:18:00](https://soylentnews.org/article.pl?sid=26/03/27/0319208&from=rss) - [Nvidia CEO Jensen Huang Says ‘I Think We've Achieved AGI’](https://soylentnews.org/article.pl?sid=26/03/27/0319208&from=rss)
-* [2026-03-28, 21:34:00](https://soylentnews.org/article.pl?sid=26/03/27/0310204&from=rss) - [Age Checks Creep Into Linux, systemd Locks It in, Developer Defends Himself](https://soylentnews.org/article.pl?sid=26/03/27/0310204&from=rss)
 
 ## [Archives](archives/index.md)
 
