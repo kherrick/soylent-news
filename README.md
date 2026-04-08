@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-08, 05:56:00](https://soylentnews.org/article.pl?sid=26/04/06/2247253&from=rss) - [Democracy Was Not Just a Greco-Roman Affair in the Ancient World](https://soylentnews.org/article.pl?sid=26/04/06/2247253&from=rss)
 * [2026-04-08, 01:12:00](https://soylentnews.org/article.pl?sid=26/04/06/2246200&from=rss) - [Astronomers Say Recent Rash of Meteor Sightings ‘Warrants Serious Investigation’](https://soylentnews.org/article.pl?sid=26/04/06/2246200&from=rss)
 * [2026-04-07, 20:28:00](https://soylentnews.org/article.pl?sid=26/04/05/0859242&from=rss) - [Google's New Compression Drastically Shrinks AI Memory Use While Quietly Speeding Up Performance](https://soylentnews.org/article.pl?sid=26/04/05/0859242&from=rss)
 * [2026-04-07, 15:43:00](https://soylentnews.org/article.pl?sid=26/04/05/0854218&from=rss) - [When Earth's Magnetic Field Took its Time Flipping](https://soylentnews.org/article.pl?sid=26/04/05/0854218&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-30, 06:50:00](https://soylentnews.org/article.pl?sid=26/03/28/0354240&from=rss) - [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&from=rss)
 * [2026-03-30, 02:07:00](https://soylentnews.org/article.pl?sid=26/03/28/0349246&from=rss) - [Google Unveils TurboQuant, a New AI Memory Compression Algorithm](https://soylentnews.org/article.pl?sid=26/03/28/0349246&from=rss)
 * [2026-03-29, 21:26:00](https://soylentnews.org/article.pl?sid=26/03/28/0347204&from=rss) - [A 32-Year-Old Bug Walks Into a Telnet Server](https://soylentnews.org/article.pl?sid=26/03/28/0347204&from=rss)
-* [2026-03-29, 16:32:00](https://soylentnews.org/article.pl?sid=26/03/28/0345249&from=rss) - [Google is Now Changing News Headlines – Without Permission](https://soylentnews.org/article.pl?sid=26/03/28/0345249&from=rss)
 
 ## [Archives](archives/index.md)
 
