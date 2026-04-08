@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 20:11:00](https://soylentnews.org/article.pl?sid=26/04/06/234206&from=rss) - [Sweden Goes Back to Basics, Swapping Screens for Books in the Classroom](https://soylentnews.org/article.pl?sid=26/04/06/234206&from=rss)
 * [2026-04-08, 10:48:00](https://soylentnews.org/article.pl?sid=26/04/06/2256234&from=rss) - [The Three Ways Big Tech Made The Human Mind Weaker](https://soylentnews.org/article.pl?sid=26/04/06/2256234&from=rss)
 * [2026-04-08, 05:56:00](https://soylentnews.org/article.pl?sid=26/04/06/2247253&from=rss) - [Democracy Was Not Just a Greco-Roman Affair in the Ancient World](https://soylentnews.org/article.pl?sid=26/04/06/2247253&from=rss)
 * [2026-04-08, 01:12:00](https://soylentnews.org/article.pl?sid=26/04/06/2246200&from=rss) - [Astronomers Say Recent Rash of Meteor Sightings ‘Warrants Serious Investigation’](https://soylentnews.org/article.pl?sid=26/04/06/2246200&from=rss)
