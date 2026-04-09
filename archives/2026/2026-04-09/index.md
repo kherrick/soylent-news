@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 05:38:00](https://soylentnews.org/article.pl?sid=26/04/07/2126219&from=rss) - [Big Tech Knows New AI Models Ripe For Cyberattacks — But Plans To Release Them Anyway](https://soylentnews.org/article.pl?sid=26/04/07/2126219&from=rss)
 * [2026-04-09, 00:56:00](https://soylentnews.org/article.pl?sid=26/04/07/2124219&from=rss) - [OkCupid Gave 3M Users’ Photos to AI Firm, FTC Says](https://soylentnews.org/article.pl?sid=26/04/07/2124219&from=rss)

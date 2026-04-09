@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-09, 05:38:00](https://soylentnews.org/article.pl?sid=26/04/07/2126219&from=rss) - [Big Tech Knows New AI Models Ripe For Cyberattacks — But Plans To Release Them Anyway](https://soylentnews.org/article.pl?sid=26/04/07/2126219&from=rss)
 * [2026-04-09, 00:56:00](https://soylentnews.org/article.pl?sid=26/04/07/2124219&from=rss) - [OkCupid Gave 3M Users’ Photos to AI Firm, FTC Says](https://soylentnews.org/article.pl?sid=26/04/07/2124219&from=rss)
 * [2026-04-08, 20:11:00](https://soylentnews.org/article.pl?sid=26/04/06/234206&from=rss) - [Sweden Goes Back to Basics, Swapping Screens for Books in the Classroom](https://soylentnews.org/article.pl?sid=26/04/06/234206&from=rss)
 * [2026-04-08, 10:48:00](https://soylentnews.org/article.pl?sid=26/04/06/2256234&from=rss) - [The Three Ways Big Tech Made The Human Mind Weaker](https://soylentnews.org/article.pl?sid=26/04/06/2256234&from=rss)
@@ -49,7 +50,6 @@
 * [2026-03-31, 01:56:00](https://soylentnews.org/article.pl?sid=26/03/29/1343212&from=rss) - [Are US-Based VPN Users at Risk of Being Treated as Foreign Surveillance Targets?](https://soylentnews.org/article.pl?sid=26/03/29/1343212&from=rss)
 * [2026-03-30, 21:12:00](https://soylentnews.org/article.pl?sid=26/03/29/1333211&from=rss) - [Over Half of UK Businesses Have No Idea How Fast They Could Stop AI in a Crisis](https://soylentnews.org/article.pl?sid=26/03/29/1333211&from=rss)
 * [2026-03-30, 16:25:00](https://soylentnews.org/article.pl?sid=26/03/29/1329244&from=rss) - [Water Has a Newfound ‘Critical Point’ That May Help Explain its Quirks](https://soylentnews.org/article.pl?sid=26/03/29/1329244&from=rss)
-* [2026-03-30, 11:40:00](https://soylentnews.org/article.pl?sid=26/03/29/1321221&from=rss) - [I Decompiled the White House's New App](https://soylentnews.org/article.pl?sid=26/03/29/1321221&from=rss)
 
 ## [Archives](archives/index.md)
 
