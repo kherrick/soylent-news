@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-10, 14:53:00](https://soylentnews.org/article.pl?sid=26/04/09/065206&from=rss) - [Debian’s APT 3.2 Released with History, Undo, Redo, and Rollback Support](https://soylentnews.org/article.pl?sid=26/04/09/065206&from=rss)
 * [2026-04-10, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/08/1917256&from=rss) - [Researchers Discover How to Dampen Electronic Noise Using Nanowires](https://soylentnews.org/article.pl?sid=26/04/08/1917256&from=rss)
 * [2026-04-10, 05:23:00](https://soylentnews.org/article.pl?sid=26/04/08/1916208&from=rss) - [White House Seeks Deep NASA Cuts as Artemis II Breaks Spaceflight Record](https://soylentnews.org/article.pl?sid=26/04/08/1916208&from=rss)
 * [2026-04-10, 00:37:00](https://soylentnews.org/article.pl?sid=26/04/08/1912232&from=rss) - ['Voorhees Law' Explains Why the Slower Car Often Catches up](https://soylentnews.org/article.pl?sid=26/04/08/1912232&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-01, 13:12:00](https://soylentnews.org/article.pl?sid=26/03/30/159237&from=rss) - [US Foreign Router Ban Criticized for Being ‘Industrial Policy Disguised as Cybersecurity’](https://soylentnews.org/article.pl?sid=26/03/30/159237&from=rss)
 * [2026-04-01, 08:32:00](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss) - [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss)
 * [2026-04-01, 03:44:00](https://soylentnews.org/article.pl?sid=26/03/30/151240&from=rss) - [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&from=rss)
-* [2026-03-31, 23:01:00](https://soylentnews.org/article.pl?sid=26/03/30/1458237&from=rss) - [China's Not Thrilled its AI Experts Want to Leave the Country](https://soylentnews.org/article.pl?sid=26/03/30/1458237&from=rss)
 
 ## [Archives](archives/index.md)
 
