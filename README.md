@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-10, 05:23:00](https://soylentnews.org/article.pl?sid=26/04/08/1916208&from=rss) - [White House Seeks Deep NASA Cuts as Artemis II Breaks Spaceflight Record](https://soylentnews.org/article.pl?sid=26/04/08/1916208&from=rss)
 * [2026-04-10, 00:37:00](https://soylentnews.org/article.pl?sid=26/04/08/1912232&from=rss) - ['Voorhees Law' Explains Why the Slower Car Often Catches up](https://soylentnews.org/article.pl?sid=26/04/08/1912232&from=rss)
 * [2026-04-09, 19:52:00](https://soylentnews.org/article.pl?sid=26/04/08/198248&from=rss) - [Testing Suggests Google's AI Overviews Tell Millions of Lies Per Hour](https://soylentnews.org/article.pl?sid=26/04/08/198248&from=rss)
 * [2026-04-09, 15:05:00](https://soylentnews.org/article.pl?sid=26/04/08/197218&from=rss) - [Social Media is Virtually Useless for Publishers to Attract Readers](https://soylentnews.org/article.pl?sid=26/04/08/197218&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-01, 03:44:00](https://soylentnews.org/article.pl?sid=26/03/30/151240&from=rss) - [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&from=rss)
 * [2026-03-31, 23:01:00](https://soylentnews.org/article.pl?sid=26/03/30/1458237&from=rss) - [China's Not Thrilled its AI Experts Want to Leave the Country](https://soylentnews.org/article.pl?sid=26/03/30/1458237&from=rss)
 * [2026-03-31, 18:13:00](https://soylentnews.org/article.pl?sid=26/03/30/1454213&from=rss) - [Number of AI Chatbots Ignoring Human Instructions is Increasing  ](https://soylentnews.org/article.pl?sid=26/03/30/1454213&from=rss)
-* [2026-03-31, 11:25:00](https://soylentnews.org/article.pl?sid=26/03/30/0239206&from=rss) - [Court Temporarily Blocks US Government From Labeling Anthropic as a 'Supply Chain Risk'](https://soylentnews.org/article.pl?sid=26/03/30/0239206&from=rss)
 
 ## [Archives](archives/index.md)
 
