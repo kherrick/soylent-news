@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-11, 09:50:00](https://soylentnews.org/article.pl?sid=26/04/10/0254231&from=rss) - [Toward Cheaper, Cleaner Hydrogen Production](https://soylentnews.org/article.pl?sid=26/04/10/0254231&from=rss)
 * [2026-04-11, 05:09:00](https://soylentnews.org/article.pl?sid=26/04/10/0250211&from=rss) - [Honda Hits Brakes On EV Rollout Amid Rising Losses](https://soylentnews.org/article.pl?sid=26/04/10/0250211&from=rss)
 * [2026-04-11, 00:27:00](https://soylentnews.org/article.pl?sid=26/04/10/0248230&from=rss) - [Ancient Rocks Reveal Evidence of the First Continents and Crust Recycling Processes on Earth](https://soylentnews.org/article.pl?sid=26/04/10/0248230&from=rss)
 * [2026-04-10, 19:36:00](https://soylentnews.org/article.pl?sid=26/04/09/067240&from=rss) - [Adobe Secretly Modifies Your Hosts File for the Stupidest Reason](https://soylentnews.org/article.pl?sid=26/04/09/067240&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-02, 03:09:00](https://soylentnews.org/article.pl?sid=26/03/31/1352230&from=rss) - [Google Won't Block Loading Unverified Apps, but Adds Friction to the Process](https://soylentnews.org/article.pl?sid=26/03/31/1352230&from=rss)
 * [2026-04-01, 22:34:00](https://soylentnews.org/article.pl?sid=26/03/30/1515244&from=rss) - [Tails Linux 7.6 Released: Introduces Automatic Tor Bridges to Bypass Censorship](https://soylentnews.org/article.pl?sid=26/03/30/1515244&from=rss)
 * [2026-04-01, 17:53:00](https://soylentnews.org/article.pl?sid=26/03/30/1513241&from=rss) - [How Graphene Oxide Kills Bacteria While Sparing Human Cells](https://soylentnews.org/article.pl?sid=26/03/30/1513241&from=rss)
-* [2026-04-01, 17:32:00](https://soylentnews.org/article.pl?sid=26/04/01/1726213&from=rss) - [Artemis II Mission is About to Fly Humans to the Moon — Here's the Science They'll Do](https://soylentnews.org/article.pl?sid=26/04/01/1726213&from=rss)
 
 ## [Archives](archives/index.md)
 
