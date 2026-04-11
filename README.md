@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-11, 00:27:00](https://soylentnews.org/article.pl?sid=26/04/10/0248230&from=rss) - [Ancient Rocks Reveal Evidence of the First Continents and Crust Recycling Processes on Earth](https://soylentnews.org/article.pl?sid=26/04/10/0248230&from=rss)
 * [2026-04-10, 19:36:00](https://soylentnews.org/article.pl?sid=26/04/09/067240&from=rss) - [Adobe Secretly Modifies Your Hosts File for the Stupidest Reason](https://soylentnews.org/article.pl?sid=26/04/09/067240&from=rss)
 * [2026-04-10, 14:53:00](https://soylentnews.org/article.pl?sid=26/04/09/065206&from=rss) - [Debian’s APT 3.2 Released with History, Undo, Redo, and Rollback Support](https://soylentnews.org/article.pl?sid=26/04/09/065206&from=rss)
 * [2026-04-10, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/08/1917256&from=rss) - [Researchers Discover How to Dampen Electronic Noise Using Nanowires](https://soylentnews.org/article.pl?sid=26/04/08/1917256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-01, 17:53:00](https://soylentnews.org/article.pl?sid=26/03/30/1513241&from=rss) - [How Graphene Oxide Kills Bacteria While Sparing Human Cells](https://soylentnews.org/article.pl?sid=26/03/30/1513241&from=rss)
 * [2026-04-01, 17:32:00](https://soylentnews.org/article.pl?sid=26/04/01/1726213&from=rss) - [Artemis II Mission is About to Fly Humans to the Moon — Here's the Science They'll Do](https://soylentnews.org/article.pl?sid=26/04/01/1726213&from=rss)
 * [2026-04-01, 13:12:00](https://soylentnews.org/article.pl?sid=26/03/30/159237&from=rss) - [US Foreign Router Ban Criticized for Being ‘Industrial Policy Disguised as Cybersecurity’](https://soylentnews.org/article.pl?sid=26/03/30/159237&from=rss)
-* [2026-04-01, 08:32:00](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss) - [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss)
 
 ## [Archives](archives/index.md)
 
