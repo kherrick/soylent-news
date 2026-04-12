@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-12, 14:15:00](https://soylentnews.org/article.pl?sid=26/04/11/037238&from=rss) - [Dad Stuck in Support Nightmare After Teen Lied About Age on Discord](https://soylentnews.org/article.pl?sid=26/04/11/037238&from=rss)
 * [2026-04-12, 09:33:00](https://soylentnews.org/article.pl?sid=26/04/11/0256207&from=rss) - [Federal Cyber Experts Called Microsoft's Cloud a “Pile of Sh*T,” Approved It Anyway](https://soylentnews.org/article.pl?sid=26/04/11/0256207&from=rss)
 * [2026-04-12, 04:44:00](https://soylentnews.org/article.pl?sid=26/04/11/0245252&from=rss) - [3D Printing a Motor--Some First Steps](https://soylentnews.org/article.pl?sid=26/04/11/0245252&from=rss)
 * [2026-04-12, 00:03:00](https://soylentnews.org/article.pl?sid=26/04/11/0242235&from=rss) - [This New 'Laughing Rat' Malware Will Steal Your Data, Hack Your Systems, and Laugh at You](https://soylentnews.org/article.pl?sid=26/04/11/0242235&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-03, 07:17:00](https://soylentnews.org/article.pl?sid=26/03/31/1439256&from=rss) - [Wikipedia Has Banned AI-Generated Articles](https://soylentnews.org/article.pl?sid=26/03/31/1439256&from=rss)
 * [2026-04-03, 02:31:00](https://soylentnews.org/article.pl?sid=26/03/31/1431219&from=rss) - [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&from=rss)
 * [2026-04-02, 21:41:00](https://soylentnews.org/article.pl?sid=26/03/31/1413235&from=rss) - [Why October 1, 2026, Could be the Day SSL/TLS Certificates 'Break the Internet'](https://soylentnews.org/article.pl?sid=26/03/31/1413235&from=rss)
-* [2026-04-02, 17:00:00](https://soylentnews.org/article.pl?sid=26/03/31/140207&from=rss) - [Ubuntu MATE Founder Martin Wimpress Steps Back After 12 Years](https://soylentnews.org/article.pl?sid=26/03/31/140207&from=rss)
 
 ## [Archives](archives/index.md)
 
