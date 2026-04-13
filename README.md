@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-13, 09:24:00](https://soylentnews.org/article.pl?sid=26/04/12/1147250&from=rss) - [Cloudflare and GoDaddy Team Up to Curb AI Bot Brigades](https://soylentnews.org/article.pl?sid=26/04/12/1147250&from=rss)
 * [2026-04-13, 04:35:00](https://soylentnews.org/article.pl?sid=26/04/11/0355254&from=rss) - [Little Snitch for Linux Released!](https://soylentnews.org/article.pl?sid=26/04/11/0355254&from=rss)
 * [2026-04-12, 23:48:00](https://soylentnews.org/article.pl?sid=26/04/11/0321245&from=rss) - ['Dead End': Radical 20-Year Study Reveals Genetic Cloning Hits a Limit](https://soylentnews.org/article.pl?sid=26/04/11/0321245&from=rss)
 * [2026-04-12, 19:02:00](https://soylentnews.org/article.pl?sid=26/04/11/0313203&from=rss) - [Tech Industry Lays Off Nearly 80,000 Employees in the First Quarter of 2026 (Almost 50% Due to AI)](https://soylentnews.org/article.pl?sid=26/04/11/0313203&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-04, 02:11:00](https://soylentnews.org/article.pl?sid=26/04/02/0224235&from=rss) - [Quo Vadis, Humanitas?](https://soylentnews.org/article.pl?sid=26/04/02/0224235&from=rss)
 * [2026-04-03, 21:35:00](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss) - [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss)
 * [2026-04-03, 16:43:00](https://soylentnews.org/article.pl?sid=26/04/02/0214254&from=rss) - [Google Has a Secret Reference Desk. Here's How to Use It.](https://soylentnews.org/article.pl?sid=26/04/02/0214254&from=rss)
-* [2026-04-03, 12:00:00](https://soylentnews.org/article.pl?sid=26/03/31/1458218&from=rss) - [Attorney Hit With Historic Fine for Citing AI-Generated Cases](https://soylentnews.org/article.pl?sid=26/03/31/1458218&from=rss)
 
 ## [Archives](archives/index.md)
 
