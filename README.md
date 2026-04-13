@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-13, 14:11:00](https://soylentnews.org/article.pl?sid=26/04/12/1154237&from=rss) - [Intel Introduces its Own Neural Compression Technology With a Fallback Mode That Works on All GPUs](https://soylentnews.org/article.pl?sid=26/04/12/1154237&from=rss)
 * [2026-04-13, 09:24:00](https://soylentnews.org/article.pl?sid=26/04/12/1147250&from=rss) - [Cloudflare and GoDaddy Team Up to Curb AI Bot Brigades](https://soylentnews.org/article.pl?sid=26/04/12/1147250&from=rss)
 * [2026-04-13, 04:35:00](https://soylentnews.org/article.pl?sid=26/04/11/0355254&from=rss) - [Little Snitch for Linux Released!](https://soylentnews.org/article.pl?sid=26/04/11/0355254&from=rss)
 * [2026-04-12, 23:48:00](https://soylentnews.org/article.pl?sid=26/04/11/0321245&from=rss) - ['Dead End': Radical 20-Year Study Reveals Genetic Cloning Hits a Limit](https://soylentnews.org/article.pl?sid=26/04/11/0321245&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-04, 07:04:00](https://soylentnews.org/article.pl?sid=26/04/02/0226234&from=rss) - [GitHub to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&from=rss)
 * [2026-04-04, 02:11:00](https://soylentnews.org/article.pl?sid=26/04/02/0224235&from=rss) - [Quo Vadis, Humanitas?](https://soylentnews.org/article.pl?sid=26/04/02/0224235&from=rss)
 * [2026-04-03, 21:35:00](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss) - [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss)
-* [2026-04-03, 16:43:00](https://soylentnews.org/article.pl?sid=26/04/02/0214254&from=rss) - [Google Has a Secret Reference Desk. Here's How to Use It.](https://soylentnews.org/article.pl?sid=26/04/02/0214254&from=rss)
 
 ## [Archives](archives/index.md)
 
