@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-14, 14:02:00](https://soylentnews.org/article.pl?sid=26/04/12/173259&from=rss) - [Tea: A Stimulant That Made the Modern World ](https://soylentnews.org/article.pl?sid=26/04/12/173259&from=rss)
 * [2026-04-14, 09:12:00](https://soylentnews.org/article.pl?sid=26/04/12/170258&from=rss) - [Linux Kernel Maintainers Are Following Through on Removing Intel 486 Support](https://soylentnews.org/article.pl?sid=26/04/12/170258&from=rss)
 * [2026-04-14, 04:29:00](https://soylentnews.org/article.pl?sid=26/04/12/170200&from=rss) - [Startup Secures $30 Million Contract to 3D Print Jet Engines for the USAF](https://soylentnews.org/article.pl?sid=26/04/12/170200&from=rss)
 * [2026-04-13, 23:44:00](https://soylentnews.org/article.pl?sid=26/04/12/1524251&from=rss) - [Human Echolocation Works Step by Step](https://soylentnews.org/article.pl?sid=26/04/12/1524251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-05, 05:37:00](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&from=rss) - [2nd Crew Member of F15E Has Been Rescued.](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&from=rss)
 * [2026-04-05, 02:02:00](https://soylentnews.org/article.pl?sid=26/04/03/0357220&from=rss) - [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&from=rss)
 * [2026-04-04, 21:18:00](https://soylentnews.org/article.pl?sid=26/04/03/0351210&from=rss) - [Apple Requires Device-Level Age Verification in the UK Now. Could the US Be Next?](https://soylentnews.org/article.pl?sid=26/04/03/0351210&from=rss)
-* [2026-04-04, 16:34:00](https://soylentnews.org/article.pl?sid=26/04/03/0343222&from=rss) - [Artemis 2 - Roundup](https://soylentnews.org/article.pl?sid=26/04/03/0343222&from=rss)
 
 ## [Archives](archives/index.md)
 
