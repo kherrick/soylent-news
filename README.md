@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-14, 04:29:00](https://soylentnews.org/article.pl?sid=26/04/12/170200&from=rss) - [Startup Secures $30 Million Contract to 3D Print Jet Engines for the USAF](https://soylentnews.org/article.pl?sid=26/04/12/170200&from=rss)
 * [2026-04-13, 23:44:00](https://soylentnews.org/article.pl?sid=26/04/12/1524251&from=rss) - [Human Echolocation Works Step by Step](https://soylentnews.org/article.pl?sid=26/04/12/1524251&from=rss)
 * [2026-04-13, 18:54:00](https://soylentnews.org/article.pl?sid=26/04/12/1522257&from=rss) - [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://soylentnews.org/article.pl?sid=26/04/12/1522257&from=rss)
 * [2026-04-13, 14:11:00](https://soylentnews.org/article.pl?sid=26/04/12/1154237&from=rss) - [Intel Introduces its Own Neural Compression Technology With a Fallback Mode That Works on All GPUs](https://soylentnews.org/article.pl?sid=26/04/12/1154237&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-04, 21:18:00](https://soylentnews.org/article.pl?sid=26/04/03/0351210&from=rss) - [Apple Requires Device-Level Age Verification in the UK Now. Could the US Be Next?](https://soylentnews.org/article.pl?sid=26/04/03/0351210&from=rss)
 * [2026-04-04, 16:34:00](https://soylentnews.org/article.pl?sid=26/04/03/0343222&from=rss) - [Artemis 2 - Roundup](https://soylentnews.org/article.pl?sid=26/04/03/0343222&from=rss)
 * [2026-04-04, 11:46:00](https://soylentnews.org/article.pl?sid=26/04/03/0327238&from=rss) - [Sony Shuts Down Nearly Its Entire Memory Card Business Due to Flash Shortage](https://soylentnews.org/article.pl?sid=26/04/03/0327238&from=rss)
-* [2026-04-04, 07:04:00](https://soylentnews.org/article.pl?sid=26/04/02/0226234&from=rss) - [GitHub to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&from=rss)
 
 ## [Archives](archives/index.md)
 
