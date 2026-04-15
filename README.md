@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-15, 09:07:00](https://soylentnews.org/article.pl?sid=26/04/14/049220&from=rss) - [Linux Lays Down the Law on AI-Generated Code](https://soylentnews.org/article.pl?sid=26/04/14/049220&from=rss)
 * [2026-04-15, 04:22:00](https://soylentnews.org/article.pl?sid=26/04/14/043205&from=rss) - [The AI Great Leap Forward](https://soylentnews.org/article.pl?sid=26/04/14/043205&from=rss)
 * [2026-04-14, 23:35:00](https://soylentnews.org/article.pl?sid=26/04/14/0256247&from=rss) - [Missouri Town Fires Half its City Council Over Data Center Deal](https://soylentnews.org/article.pl?sid=26/04/14/0256247&from=rss)
 * [2026-04-14, 18:53:00](https://soylentnews.org/article.pl?sid=26/04/14/0235214&from=rss) - [Original Task Manager Was Only 80KB So It Could Run Smoothly on 90s Computers](https://soylentnews.org/article.pl?sid=26/04/14/0235214&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-05, 21:04:00](https://soylentnews.org/article.pl?sid=26/04/04/0231228&from=rss) - [‘Shockingly Bad’: Nissan Leaf Drivers Voice Anger Over App Shutdown](https://soylentnews.org/article.pl?sid=26/04/04/0231228&from=rss)
 * [2026-04-05, 16:13:00](https://soylentnews.org/article.pl?sid=26/04/04/0228218&from=rss) - [Data Centers Causing Huge Temperature Spikes for Miles Around Them, Study Suggests](https://soylentnews.org/article.pl?sid=26/04/04/0228218&from=rss)
 * [2026-04-05, 11:41:00](https://soylentnews.org/article.pl?sid=26/04/04/0223207&from=rss) - [Security Researchers Scoured the Web and Found Hundreds of Valid API Keys](https://soylentnews.org/article.pl?sid=26/04/04/0223207&from=rss)
-* [2026-04-05, 06:49:00](https://soylentnews.org/article.pl?sid=26/04/03/040255&from=rss) - [VitruvianOS 0.3 Debuts as Haiku-Inspired Linux OS Without X11 or Wayland](https://soylentnews.org/article.pl?sid=26/04/03/040255&from=rss)
 
 ## [Archives](archives/index.md)
 
