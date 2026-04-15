@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 23:20:00](https://soylentnews.org/article.pl?sid=26/04/15/021231&from=rss) - [Blaming Kids for Poor Security](https://soylentnews.org/article.pl?sid=26/04/15/021231&from=rss)
 * [2026-04-15, 18:37:00](https://soylentnews.org/article.pl?sid=26/04/15/0158227&from=rss) - [South Korea's Telecom Giants Surprise 7 Million Users With Unlimited, Universal Internet](https://soylentnews.org/article.pl?sid=26/04/15/0158227&from=rss)
 * [2026-04-15, 13:52:00](https://soylentnews.org/article.pl?sid=26/04/14/0413241&from=rss) - [Electrode Technology Achieves 86% Efficiency for Converting CO₂ Into Plastic Precursors](https://soylentnews.org/article.pl?sid=26/04/14/0413241&from=rss)
 * [2026-04-15, 09:07:00](https://soylentnews.org/article.pl?sid=26/04/14/049220&from=rss) - [Linux Lays Down the Law on AI-Generated Code](https://soylentnews.org/article.pl?sid=26/04/14/049220&from=rss)
