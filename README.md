@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-16, 18:20:00](https://soylentnews.org/article.pl?sid=26/04/15/1535223&from=rss) - [US Appeals Court Declares 158-Year-Old Home Distilling Ban Unconstitutional](https://soylentnews.org/article.pl?sid=26/04/15/1535223&from=rss)
 * [2026-04-16, 13:36:00](https://soylentnews.org/article.pl?sid=26/04/15/0217209&from=rss) - [AI Token Freeloaders Manipulating Customer Support Bots](https://soylentnews.org/article.pl?sid=26/04/15/0217209&from=rss)
 * [2026-04-16, 08:52:00](https://soylentnews.org/communityreviews/article.pl?sid=26/04/15/0214204&from=rss) - [OpenAI Says Elon Musk is ‘Injecting Chaos’ With Recent Legal Maneuver](https://soylentnews.org/communityreviews/article.pl?sid=26/04/15/0214204&from=rss)
 * [2026-04-16, 04:05:00](https://soylentnews.org/article.pl?sid=26/04/15/028227&from=rss) - [This Memory Chip Survives Temperatures Hotter Than Lava](https://soylentnews.org/article.pl?sid=26/04/15/028227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-07, 06:18:00](https://soylentnews.org/article.pl?sid=26/04/05/0849255&from=rss) - [The Brain Uses Eye Movements to See in 3D](https://soylentnews.org/article.pl?sid=26/04/05/0849255&from=rss)
 * [2026-04-07, 01:33:00](https://soylentnews.org/article.pl?sid=26/04/05/0335237&from=rss) - [RIP Mac Pro: Apple Officially Kills its Tower Computer](https://soylentnews.org/article.pl?sid=26/04/05/0335237&from=rss)
 * [2026-04-06, 20:52:00](https://soylentnews.org/article.pl?sid=26/04/05/0233233&from=rss) - [Pentagon Formalizes Palantir's Maven AI as a Core Military System With Multi-Year Funding](https://soylentnews.org/article.pl?sid=26/04/05/0233233&from=rss)
-* [2026-04-06, 16:11:00](https://soylentnews.org/article.pl?sid=26/04/05/0226201&from=rss) - [Claude Source Code Leaked?  But Watch Out for What You Might be Downloading](https://soylentnews.org/article.pl?sid=26/04/05/0226201&from=rss)
 
 ## [Archives](archives/index.md)
 
