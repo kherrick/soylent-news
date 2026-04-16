@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-16, 08:52:00](https://soylentnews.org/communityreviews/article.pl?sid=26/04/15/0214204&from=rss) - [OpenAI Says Elon Musk is ‘Injecting Chaos’ With Recent Legal Maneuver](https://soylentnews.org/communityreviews/article.pl?sid=26/04/15/0214204&from=rss)
 * [2026-04-16, 04:05:00](https://soylentnews.org/article.pl?sid=26/04/15/028227&from=rss) - [This Memory Chip Survives Temperatures Hotter Than Lava](https://soylentnews.org/article.pl?sid=26/04/15/028227&from=rss)
 * [2026-04-15, 23:20:00](https://soylentnews.org/article.pl?sid=26/04/15/021231&from=rss) - [Blaming Kids for Poor Security](https://soylentnews.org/article.pl?sid=26/04/15/021231&from=rss)
 * [2026-04-15, 18:37:00](https://soylentnews.org/article.pl?sid=26/04/15/0158227&from=rss) - [South Korea's Telecom Giants Surprise 7 Million Users With Unlimited, Universal Internet](https://soylentnews.org/article.pl?sid=26/04/15/0158227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-06, 20:52:00](https://soylentnews.org/article.pl?sid=26/04/05/0233233&from=rss) - [Pentagon Formalizes Palantir's Maven AI as a Core Military System With Multi-Year Funding](https://soylentnews.org/article.pl?sid=26/04/05/0233233&from=rss)
 * [2026-04-06, 16:11:00](https://soylentnews.org/article.pl?sid=26/04/05/0226201&from=rss) - [Claude Source Code Leaked?  But Watch Out for What You Might be Downloading](https://soylentnews.org/article.pl?sid=26/04/05/0226201&from=rss)
 * [2026-04-06, 11:23:00](https://soylentnews.org/article.pl?sid=26/04/05/0214222&from=rss) - [Fossils Reveal Many Complex Animals Existed Before the Cambrian Explosion](https://soylentnews.org/article.pl?sid=26/04/05/0214222&from=rss)
-* [2026-04-06, 06:35:00](https://soylentnews.org/article.pl?sid=26/04/05/026223&from=rss) - [AMD's New Desktop CPU Oozes Cache Out of All 16 Cores](https://soylentnews.org/article.pl?sid=26/04/05/026223&from=rss)
 
 ## [Archives](archives/index.md)
 
