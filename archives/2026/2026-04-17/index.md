@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
+* [2026-04-17, 08:36:00](https://soylentnews.org/article.pl?sid=26/04/15/1727239&from=rss) - [Meta Zuckerberg Becomes the New Clippy](https://soylentnews.org/article.pl?sid=26/04/15/1727239&from=rss)
 * [2026-04-17, 03:52:00](https://soylentnews.org/article.pl?sid=26/04/15/1723257&from=rss) - [Ukraine's Military Robot Surge Aims to Offset Drone Risks to Humans](https://soylentnews.org/article.pl?sid=26/04/15/1723257&from=rss)
