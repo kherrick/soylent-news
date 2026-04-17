@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-17, 18:06:00](https://soylentnews.org/article.pl?sid=26/04/16/1137236&from=rss) - [Physicists Think They've Resolved the Proton Size Puzzle](https://soylentnews.org/article.pl?sid=26/04/16/1137236&from=rss)
 * [2026-04-17, 13:20:00](https://soylentnews.org/article.pl?sid=26/04/15/1730255&from=rss) - [Claude Mythos Preview Has Officially Frightened the British](https://soylentnews.org/article.pl?sid=26/04/15/1730255&from=rss)
 * [2026-04-17, 08:36:00](https://soylentnews.org/article.pl?sid=26/04/15/1727239&from=rss) - [Meta Zuckerberg Becomes the New Clippy](https://soylentnews.org/article.pl?sid=26/04/15/1727239&from=rss)
 * [2026-04-17, 03:52:00](https://soylentnews.org/article.pl?sid=26/04/15/1723257&from=rss) - [Ukraine's Military Robot Surge Aims to Offset Drone Risks to Humans](https://soylentnews.org/article.pl?sid=26/04/15/1723257&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-08, 05:56:00](https://soylentnews.org/article.pl?sid=26/04/06/2247253&from=rss) - [Democracy Was Not Just a Greco-Roman Affair in the Ancient World](https://soylentnews.org/article.pl?sid=26/04/06/2247253&from=rss)
 * [2026-04-08, 01:12:00](https://soylentnews.org/article.pl?sid=26/04/06/2246200&from=rss) - [Astronomers Say Recent Rash of Meteor Sightings ‘Warrants Serious Investigation’](https://soylentnews.org/article.pl?sid=26/04/06/2246200&from=rss)
 * [2026-04-07, 20:28:00](https://soylentnews.org/article.pl?sid=26/04/05/0859242&from=rss) - [Google's New Compression Drastically Shrinks AI Memory Use While Quietly Speeding Up Performance](https://soylentnews.org/article.pl?sid=26/04/05/0859242&from=rss)
-* [2026-04-07, 15:43:00](https://soylentnews.org/article.pl?sid=26/04/05/0854218&from=rss) - [When Earth's Magnetic Field Took its Time Flipping](https://soylentnews.org/article.pl?sid=26/04/05/0854218&from=rss)
 
 ## [Archives](archives/index.md)
 
