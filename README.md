@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-18, 03:30:00](https://soylentnews.org/article.pl?sid=26/04/17/0318245&from=rss) - [IPv6 Adoption Reaches 50% - The Long Journey Toward Internet's Next Generation](https://soylentnews.org/article.pl?sid=26/04/17/0318245&from=rss)
 * [2026-04-17, 22:50:00](https://soylentnews.org/article.pl?sid=26/04/16/1142203&from=rss) - [Back Button Hijacking to be Penalised in Google Crackdown](https://soylentnews.org/article.pl?sid=26/04/16/1142203&from=rss)
 * [2026-04-17, 18:06:00](https://soylentnews.org/article.pl?sid=26/04/16/1137236&from=rss) - [Physicists Think They've Resolved the Proton Size Puzzle](https://soylentnews.org/article.pl?sid=26/04/16/1137236&from=rss)
 * [2026-04-17, 13:20:00](https://soylentnews.org/article.pl?sid=26/04/15/1730255&from=rss) - [Claude Mythos Preview Has Officially Frightened the British](https://soylentnews.org/article.pl?sid=26/04/15/1730255&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-08, 20:11:00](https://soylentnews.org/article.pl?sid=26/04/06/234206&from=rss) - [Sweden Goes Back to Basics, Swapping Screens for Books in the Classroom](https://soylentnews.org/article.pl?sid=26/04/06/234206&from=rss)
 * [2026-04-08, 10:48:00](https://soylentnews.org/article.pl?sid=26/04/06/2256234&from=rss) - [The Three Ways Big Tech Made The Human Mind Weaker](https://soylentnews.org/article.pl?sid=26/04/06/2256234&from=rss)
 * [2026-04-08, 05:56:00](https://soylentnews.org/article.pl?sid=26/04/06/2247253&from=rss) - [Democracy Was Not Just a Greco-Roman Affair in the Ancient World](https://soylentnews.org/article.pl?sid=26/04/06/2247253&from=rss)
-* [2026-04-08, 01:12:00](https://soylentnews.org/article.pl?sid=26/04/06/2246200&from=rss) - [Astronomers Say Recent Rash of Meteor Sightings ‘Warrants Serious Investigation’](https://soylentnews.org/article.pl?sid=26/04/06/2246200&from=rss)
 
 ## [Archives](archives/index.md)
 
