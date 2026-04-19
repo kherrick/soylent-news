@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-19, 17:34:00](https://soylentnews.org/article.pl?sid=26/04/18/195238&from=rss) - [Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories](https://soylentnews.org/article.pl?sid=26/04/18/195238&from=rss)
 * [2026-04-19, 12:51:00](https://soylentnews.org/article.pl?sid=26/04/18/192211&from=rss) - [The \"Passive Income\" Trap Ate a Generation of Entrepreneurs](https://soylentnews.org/article.pl?sid=26/04/18/192211&from=rss)
 * [2026-04-19, 08:03:00](https://soylentnews.org/article.pl?sid=26/04/18/1855201&from=rss) - [Why the Phrase 'Super El Niño' Makes Australian Climate Scientists Roll Their Eyes](https://soylentnews.org/article.pl?sid=26/04/18/1855201&from=rss)
 * [2026-04-19, 03:14:00](https://soylentnews.org/article.pl?sid=26/04/18/1847221&from=rss) - [Irish Bog Plant Revives Ancient Remedy as a New Weapon Vs Superbugs](https://soylentnews.org/article.pl?sid=26/04/18/1847221&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-10, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/08/1917256&from=rss) - [Researchers Discover How to Dampen Electronic Noise Using Nanowires](https://soylentnews.org/article.pl?sid=26/04/08/1917256&from=rss)
 * [2026-04-10, 05:23:00](https://soylentnews.org/article.pl?sid=26/04/08/1916208&from=rss) - [White House Seeks Deep NASA Cuts as Artemis II Breaks Spaceflight Record](https://soylentnews.org/article.pl?sid=26/04/08/1916208&from=rss)
 * [2026-04-10, 00:37:00](https://soylentnews.org/article.pl?sid=26/04/08/1912232&from=rss) - ['Voorhees Law' Explains Why the Slower Car Often Catches up](https://soylentnews.org/article.pl?sid=26/04/08/1912232&from=rss)
-* [2026-04-09, 19:52:00](https://soylentnews.org/article.pl?sid=26/04/08/198248&from=rss) - [Testing Suggests Google's AI Overviews Tell Millions of Lies Per Hour](https://soylentnews.org/article.pl?sid=26/04/08/198248&from=rss)
 
 ## [Archives](archives/index.md)
 
