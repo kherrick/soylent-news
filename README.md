@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-20, 07:43:00](https://soylentnews.org/article.pl?sid=26/04/18/2354201&from=rss) - [How Two Motorola Transistors Became the World's Default NPNs](https://soylentnews.org/article.pl?sid=26/04/18/2354201&from=rss)
 * [2026-04-20, 03:01:00](https://soylentnews.org/article.pl?sid=26/04/18/2352244&from=rss) - [10 Math Books That Sharpen Your Thinking](https://soylentnews.org/article.pl?sid=26/04/18/2352244&from=rss)
 * [2026-04-19, 22:16:00](https://soylentnews.org/article.pl?sid=26/04/18/2348241&from=rss) - [“TotalRecall Reloaded” Tool Finds a Side Entrance to the Windows 11 Recall Database](https://soylentnews.org/article.pl?sid=26/04/18/2348241&from=rss)
 * [2026-04-19, 17:34:00](https://soylentnews.org/article.pl?sid=26/04/18/195238&from=rss) - [Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories](https://soylentnews.org/article.pl?sid=26/04/18/195238&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-11, 00:27:00](https://soylentnews.org/article.pl?sid=26/04/10/0248230&from=rss) - [Ancient Rocks Reveal Evidence of the First Continents and Crust Recycling Processes on Earth](https://soylentnews.org/article.pl?sid=26/04/10/0248230&from=rss)
 * [2026-04-10, 19:36:00](https://soylentnews.org/article.pl?sid=26/04/09/067240&from=rss) - [Adobe Secretly Modifies Your Hosts File for the Stupidest Reason](https://soylentnews.org/article.pl?sid=26/04/09/067240&from=rss)
 * [2026-04-10, 14:53:00](https://soylentnews.org/article.pl?sid=26/04/09/065206&from=rss) - [Debian’s APT 3.2 Released with History, Undo, Redo, and Rollback Support](https://soylentnews.org/article.pl?sid=26/04/09/065206&from=rss)
-* [2026-04-10, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/08/1917256&from=rss) - [Researchers Discover How to Dampen Electronic Noise Using Nanowires](https://soylentnews.org/article.pl?sid=26/04/08/1917256&from=rss)
 
 ## [Archives](archives/index.md)
 
