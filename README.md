@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-20, 17:16:00](https://soylentnews.org/article.pl?sid=26/04/19/1147228&from=rss) - [How Much Does Chatbot Bias Influence Users? A Lot, It Turns Out](https://soylentnews.org/article.pl?sid=26/04/19/1147228&from=rss)
 * [2026-04-20, 12:29:00](https://soylentnews.org/article.pl?sid=26/04/19/000236&from=rss) - [Russia Hits European Thermal Power Plant in Attempted ‘Destructive’ Cyberattack](https://soylentnews.org/article.pl?sid=26/04/19/000236&from=rss)
 * [2026-04-20, 07:43:00](https://soylentnews.org/article.pl?sid=26/04/18/2354201&from=rss) - [How Two Motorola Transistors Became the World's Default NPNs](https://soylentnews.org/article.pl?sid=26/04/18/2354201&from=rss)
 * [2026-04-20, 03:01:00](https://soylentnews.org/article.pl?sid=26/04/18/2352244&from=rss) - [10 Math Books That Sharpen Your Thinking](https://soylentnews.org/article.pl?sid=26/04/18/2352244&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-11, 09:50:00](https://soylentnews.org/article.pl?sid=26/04/10/0254231&from=rss) - [Toward Cheaper, Cleaner Hydrogen Production](https://soylentnews.org/article.pl?sid=26/04/10/0254231&from=rss)
 * [2026-04-11, 05:09:00](https://soylentnews.org/article.pl?sid=26/04/10/0250211&from=rss) - [Honda Hits Brakes On EV Rollout Amid Rising Losses](https://soylentnews.org/article.pl?sid=26/04/10/0250211&from=rss)
 * [2026-04-11, 00:27:00](https://soylentnews.org/article.pl?sid=26/04/10/0248230&from=rss) - [Ancient Rocks Reveal Evidence of the First Continents and Crust Recycling Processes on Earth](https://soylentnews.org/article.pl?sid=26/04/10/0248230&from=rss)
-* [2026-04-10, 19:36:00](https://soylentnews.org/article.pl?sid=26/04/09/067240&from=rss) - [Adobe Secretly Modifies Your Hosts File for the Stupidest Reason](https://soylentnews.org/article.pl?sid=26/04/09/067240&from=rss)
 
 ## [Archives](archives/index.md)
 
