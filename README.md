@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-21, 07:32:00](https://soylentnews.org/article.pl?sid=26/04/19/125219&from=rss) - [Chinese Carmaker Patents Voice-Controlled 'in-Vehicle Toilet'](https://soylentnews.org/article.pl?sid=26/04/19/125219&from=rss)
 * [2026-04-21, 02:47:00](https://soylentnews.org/article.pl?sid=26/04/19/120245&from=rss) - [In the Face of Rampant AI, is ‘Data Poisoning’ a New Form of Civil Disobedience?](https://soylentnews.org/article.pl?sid=26/04/19/120245&from=rss)
 * [2026-04-20, 22:02:00](https://soylentnews.org/article.pl?sid=26/04/19/1148259&from=rss) - [The Quiet Colossus](https://soylentnews.org/article.pl?sid=26/04/19/1148259&from=rss)
 * [2026-04-20, 17:16:00](https://soylentnews.org/article.pl?sid=26/04/19/1147228&from=rss) - [How Much Does Chatbot Bias Influence Users? A Lot, It Turns Out](https://soylentnews.org/article.pl?sid=26/04/19/1147228&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-12, 00:03:00](https://soylentnews.org/article.pl?sid=26/04/11/0242235&from=rss) - [This New 'Laughing Rat' Malware Will Steal Your Data, Hack Your Systems, and Laugh at You](https://soylentnews.org/article.pl?sid=26/04/11/0242235&from=rss)
 * [2026-04-11, 19:18:00](https://soylentnews.org/article.pl?sid=26/04/10/0259257&from=rss) - [EFF is Leaving X](https://soylentnews.org/article.pl?sid=26/04/10/0259257&from=rss)
 * [2026-04-11, 14:35:00](https://soylentnews.org/article.pl?sid=26/04/10/0256206&from=rss) - [Standard Model of Particle Physics Verified to One Trillionth Accuracy](https://soylentnews.org/article.pl?sid=26/04/10/0256206&from=rss)
-* [2026-04-11, 09:50:00](https://soylentnews.org/article.pl?sid=26/04/10/0254231&from=rss) - [Toward Cheaper, Cleaner Hydrogen Production](https://soylentnews.org/article.pl?sid=26/04/10/0254231&from=rss)
 
 ## [Archives](archives/index.md)
 
