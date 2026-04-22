@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-22, 21:39:00](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss) - [How Museums Can Use Biomolecular Archaeology to Bring Ancient Scents to Life](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss)
 * [2026-04-22, 16:53:00](https://soylentnews.org/article.pl?sid=26/04/20/0241235&from=rss) - [Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law](https://soylentnews.org/article.pl?sid=26/04/20/0241235&from=rss)
 * [2026-04-22, 12:09:00](https://soylentnews.org/article.pl?sid=26/04/20/0233208&from=rss) - [Sperm Whales Speak With a Complex Alphabet and Even Have ‘Vowels,’ Study Finds](https://soylentnews.org/article.pl?sid=26/04/20/0233208&from=rss)
 * [2026-04-22, 07:27:00](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss) - [The Friction We Forgot](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-13, 14:11:00](https://soylentnews.org/article.pl?sid=26/04/12/1154237&from=rss) - [Intel Introduces its Own Neural Compression Technology With a Fallback Mode That Works on All GPUs](https://soylentnews.org/article.pl?sid=26/04/12/1154237&from=rss)
 * [2026-04-13, 09:24:00](https://soylentnews.org/article.pl?sid=26/04/12/1147250&from=rss) - [Cloudflare and GoDaddy Team Up to Curb AI Bot Brigades](https://soylentnews.org/article.pl?sid=26/04/12/1147250&from=rss)
 * [2026-04-13, 04:35:00](https://soylentnews.org/article.pl?sid=26/04/11/0355254&from=rss) - [Little Snitch for Linux Released!](https://soylentnews.org/article.pl?sid=26/04/11/0355254&from=rss)
-* [2026-04-12, 23:48:00](https://soylentnews.org/article.pl?sid=26/04/11/0321245&from=rss) - ['Dead End': Radical 20-Year Study Reveals Genetic Cloning Hits a Limit](https://soylentnews.org/article.pl?sid=26/04/11/0321245&from=rss)
 
 ## [Archives](archives/index.md)
 
