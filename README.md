@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-22, 07:27:00](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss) - [The Friction We Forgot](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss)
 * [2026-04-22, 02:34:00](https://soylentnews.org/article.pl?sid=26/04/20/0228241&from=rss) - [Total Solar Eclipse Led to Seismic Quiet for Cities Within its Path](https://soylentnews.org/article.pl?sid=26/04/20/0228241&from=rss)
 * [2026-04-21, 21:50:00](https://soylentnews.org/article.pl?sid=26/04/19/1341258&from=rss) - [A Fresh Scar on the Moon: Newly Discovered Crater Reveals Recent Impact](https://soylentnews.org/article.pl?sid=26/04/19/1341258&from=rss)
 * [2026-04-21, 17:05:00](https://soylentnews.org/article.pl?sid=26/04/19/1338217&from=rss) - [Europol Launches Operation PowerOFF — Warns 75,000 DDoS Users and Takes Down 53 Domains](https://soylentnews.org/article.pl?sid=26/04/19/1338217&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-12, 23:48:00](https://soylentnews.org/article.pl?sid=26/04/11/0321245&from=rss) - ['Dead End': Radical 20-Year Study Reveals Genetic Cloning Hits a Limit](https://soylentnews.org/article.pl?sid=26/04/11/0321245&from=rss)
 * [2026-04-12, 19:02:00](https://soylentnews.org/article.pl?sid=26/04/11/0313203&from=rss) - [Tech Industry Lays Off Nearly 80,000 Employees in the First Quarter of 2026 (Almost 50% Due to AI)](https://soylentnews.org/article.pl?sid=26/04/11/0313203&from=rss)
 * [2026-04-12, 14:15:00](https://soylentnews.org/article.pl?sid=26/04/11/037238&from=rss) - [Dad Stuck in Support Nightmare After Teen Lied About Age on Discord](https://soylentnews.org/article.pl?sid=26/04/11/037238&from=rss)
-* [2026-04-12, 09:33:00](https://soylentnews.org/article.pl?sid=26/04/11/0256207&from=rss) - [Federal Cyber Experts Called Microsoft's Cloud a “Pile of Sh*T,” Approved It Anyway](https://soylentnews.org/article.pl?sid=26/04/11/0256207&from=rss)
 
 ## [Archives](archives/index.md)
 
