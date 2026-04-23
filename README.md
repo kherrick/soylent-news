@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-23, 11:50:00](https://soylentnews.org/article.pl?sid=26/04/22/023218&from=rss) - [Bluetooth Tracker Hidden in a Postcard and Mailed to a Warship Exposed its Location](https://soylentnews.org/article.pl?sid=26/04/22/023218&from=rss)
 * [2026-04-23, 07:07:00](https://soylentnews.org/article.pl?sid=26/04/21/2358226&from=rss) - [The NAND Gate of Continuous Math](https://soylentnews.org/article.pl?sid=26/04/21/2358226&from=rss)
 * [2026-04-23, 02:22:00](https://soylentnews.org/article.pl?sid=26/04/21/2355256&from=rss) - [WebinarTV’s Rampant Scraping of Online Meetings ](https://soylentnews.org/article.pl?sid=26/04/21/2355256&from=rss)
 * [2026-04-22, 21:39:00](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss) - [How Museums Can Use Biomolecular Archaeology to Bring Ancient Scents to Life](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-14, 04:29:00](https://soylentnews.org/article.pl?sid=26/04/12/170200&from=rss) - [Startup Secures $30 Million Contract to 3D Print Jet Engines for the USAF](https://soylentnews.org/article.pl?sid=26/04/12/170200&from=rss)
 * [2026-04-13, 23:44:00](https://soylentnews.org/article.pl?sid=26/04/12/1524251&from=rss) - [Human Echolocation Works Step by Step](https://soylentnews.org/article.pl?sid=26/04/12/1524251&from=rss)
 * [2026-04-13, 18:54:00](https://soylentnews.org/article.pl?sid=26/04/12/1522257&from=rss) - [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://soylentnews.org/article.pl?sid=26/04/12/1522257&from=rss)
-* [2026-04-13, 14:11:00](https://soylentnews.org/article.pl?sid=26/04/12/1154237&from=rss) - [Intel Introduces its Own Neural Compression Technology With a Fallback Mode That Works on All GPUs](https://soylentnews.org/article.pl?sid=26/04/12/1154237&from=rss)
 
 ## [Archives](archives/index.md)
 
