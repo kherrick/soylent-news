@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-24, 06:51:00](https://soylentnews.org/article.pl?sid=26/04/23/1139251&from=rss) - [NASA Inspector Fears New Spacesuits Won't be Ready for Moon Landing](https://soylentnews.org/article.pl?sid=26/04/23/1139251&from=rss)
 * [2026-04-24, 02:05:00](https://soylentnews.org/article.pl?sid=26/04/23/1118227&from=rss) - [Linux 7.1 Will Have an Optional New NTFS Driver](https://soylentnews.org/article.pl?sid=26/04/23/1118227&from=rss)
 * [2026-04-23, 21:21:00](https://soylentnews.org/article.pl?sid=26/04/23/1112242&from=rss) - [Scientists Load Quantum Computer With First Complete Genome to Crack Biology's 'Impossible' Puzzle](https://soylentnews.org/article.pl?sid=26/04/23/1112242&from=rss)
 * [2026-04-23, 16:34:00](https://soylentnews.org/article.pl?sid=26/04/22/0215210&from=rss) - [Europe's EV Sales Jump 51% as Iran War Sends Gasoline Prices Soaring](https://soylentnews.org/article.pl?sid=26/04/22/0215210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-14, 23:35:00](https://soylentnews.org/article.pl?sid=26/04/14/0256247&from=rss) - [Missouri Town Fires Half its City Council Over Data Center Deal](https://soylentnews.org/article.pl?sid=26/04/14/0256247&from=rss)
 * [2026-04-14, 18:53:00](https://soylentnews.org/article.pl?sid=26/04/14/0235214&from=rss) - [Original Task Manager Was Only 80KB So It Could Run Smoothly on 90s Computers](https://soylentnews.org/article.pl?sid=26/04/14/0235214&from=rss)
 * [2026-04-14, 14:02:00](https://soylentnews.org/article.pl?sid=26/04/12/173259&from=rss) - [Tea: A Stimulant That Made the Modern World ](https://soylentnews.org/article.pl?sid=26/04/12/173259&from=rss)
-* [2026-04-14, 09:12:00](https://soylentnews.org/article.pl?sid=26/04/12/170258&from=rss) - [Linux Kernel Maintainers Are Following Through on Removing Intel 486 Support](https://soylentnews.org/article.pl?sid=26/04/12/170258&from=rss)
 
 ## [Archives](archives/index.md)
 
