@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-24, 16:22:00](https://soylentnews.org/article.pl?sid=26/04/24/0045252&from=rss) - [They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants in](https://soylentnews.org/article.pl?sid=26/04/24/0045252&from=rss)
 * [2026-04-24, 11:32:00](https://soylentnews.org/article.pl?sid=26/04/23/1143221&from=rss) - [This Pasta Sauce Wants to Record Your Family](https://soylentnews.org/article.pl?sid=26/04/23/1143221&from=rss)
 * [2026-04-24, 06:51:00](https://soylentnews.org/article.pl?sid=26/04/23/1139251&from=rss) - [NASA Inspector Fears New Spacesuits Won't be Ready for Moon Landing](https://soylentnews.org/article.pl?sid=26/04/23/1139251&from=rss)
 * [2026-04-24, 02:05:00](https://soylentnews.org/article.pl?sid=26/04/23/1118227&from=rss) - [Linux 7.1 Will Have an Optional New NTFS Driver](https://soylentnews.org/article.pl?sid=26/04/23/1118227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-15, 09:07:00](https://soylentnews.org/article.pl?sid=26/04/14/049220&from=rss) - [Linux Lays Down the Law on AI-Generated Code](https://soylentnews.org/article.pl?sid=26/04/14/049220&from=rss)
 * [2026-04-15, 04:22:00](https://soylentnews.org/article.pl?sid=26/04/14/043205&from=rss) - [The AI Great Leap Forward](https://soylentnews.org/article.pl?sid=26/04/14/043205&from=rss)
 * [2026-04-14, 23:35:00](https://soylentnews.org/article.pl?sid=26/04/14/0256247&from=rss) - [Missouri Town Fires Half its City Council Over Data Center Deal](https://soylentnews.org/article.pl?sid=26/04/14/0256247&from=rss)
-* [2026-04-14, 18:53:00](https://soylentnews.org/article.pl?sid=26/04/14/0235214&from=rss) - [Original Task Manager Was Only 80KB So It Could Run Smoothly on 90s Computers](https://soylentnews.org/article.pl?sid=26/04/14/0235214&from=rss)
 
 ## [Archives](archives/index.md)
 
