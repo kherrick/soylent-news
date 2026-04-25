@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-25, 16:08:00](https://soylentnews.org/article.pl?sid=26/04/24/1232232&from=rss) - [Contrary to Popular Superstition, AES 128 is Just Fine in a Post](https://soylentnews.org/article.pl?sid=26/04/24/1232232&from=rss)
 * [2026-04-25, 11:22:00](https://soylentnews.org/article.pl?sid=26/04/24/1227222&from=rss) - [France Keeps Breaking the Internet to Stop Piracy, Even Though It's Not Working](https://soylentnews.org/article.pl?sid=26/04/24/1227222&from=rss)
 * [2026-04-25, 06:38:00](https://soylentnews.org/article.pl?sid=26/04/24/1220209&from=rss) - [Physicists Witness Pinpricks of Darkness Moving Faster Than the Speed of Light ‪](https://soylentnews.org/article.pl?sid=26/04/24/1220209&from=rss)
 * [2026-04-25, 01:56:00](https://soylentnews.org/article.pl?sid=26/04/24/0247228&from=rss) - [Linux Mint Plans for Longer Development Cycle](https://soylentnews.org/article.pl?sid=26/04/24/0247228&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-16, 08:52:00](https://soylentnews.org/communityreviews/article.pl?sid=26/04/15/0214204&from=rss) - [OpenAI Says Elon Musk is ‘Injecting Chaos’ With Recent Legal Maneuver](https://soylentnews.org/communityreviews/article.pl?sid=26/04/15/0214204&from=rss)
 * [2026-04-16, 04:05:00](https://soylentnews.org/article.pl?sid=26/04/15/028227&from=rss) - [This Memory Chip Survives Temperatures Hotter Than Lava](https://soylentnews.org/article.pl?sid=26/04/15/028227&from=rss)
 * [2026-04-15, 23:20:00](https://soylentnews.org/article.pl?sid=26/04/15/021231&from=rss) - [Blaming Kids for Poor Security](https://soylentnews.org/article.pl?sid=26/04/15/021231&from=rss)
-* [2026-04-15, 18:37:00](https://soylentnews.org/article.pl?sid=26/04/15/0158227&from=rss) - [South Korea's Telecom Giants Surprise 7 Million Users With Unlimited, Universal Internet](https://soylentnews.org/article.pl?sid=26/04/15/0158227&from=rss)
 
 ## [Archives](archives/index.md)
 
