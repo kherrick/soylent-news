@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-25, 01:56:00](https://soylentnews.org/article.pl?sid=26/04/24/0247228&from=rss) - [Linux Mint Plans for Longer Development Cycle](https://soylentnews.org/article.pl?sid=26/04/24/0247228&from=rss)
 * [2026-04-24, 21:08:00](https://soylentnews.org/article.pl?sid=26/04/24/0051247&from=rss) - [With Navigating Nematodes, Scientists Map Out How Brains Implement Behaviors](https://soylentnews.org/article.pl?sid=26/04/24/0051247&from=rss)
 * [2026-04-24, 16:22:00](https://soylentnews.org/article.pl?sid=26/04/24/0045252&from=rss) - [They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants in](https://soylentnews.org/article.pl?sid=26/04/24/0045252&from=rss)
 * [2026-04-24, 11:32:00](https://soylentnews.org/article.pl?sid=26/04/23/1143221&from=rss) - [This Pasta Sauce Wants to Record Your Family](https://soylentnews.org/article.pl?sid=26/04/23/1143221&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-15, 18:37:00](https://soylentnews.org/article.pl?sid=26/04/15/0158227&from=rss) - [South Korea's Telecom Giants Surprise 7 Million Users With Unlimited, Universal Internet](https://soylentnews.org/article.pl?sid=26/04/15/0158227&from=rss)
 * [2026-04-15, 13:52:00](https://soylentnews.org/article.pl?sid=26/04/14/0413241&from=rss) - [Electrode Technology Achieves 86% Efficiency for Converting CO₂ Into Plastic Precursors](https://soylentnews.org/article.pl?sid=26/04/14/0413241&from=rss)
 * [2026-04-15, 09:07:00](https://soylentnews.org/article.pl?sid=26/04/14/049220&from=rss) - [Linux Lays Down the Law on AI-Generated Code](https://soylentnews.org/article.pl?sid=26/04/14/049220&from=rss)
-* [2026-04-15, 04:22:00](https://soylentnews.org/article.pl?sid=26/04/14/043205&from=rss) - [The AI Great Leap Forward](https://soylentnews.org/article.pl?sid=26/04/14/043205&from=rss)
 
 ## [Archives](archives/index.md)
 
