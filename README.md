@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-26, 15:53:00](https://soylentnews.org/article.pl?sid=26/04/25/1332245&from=rss) - [The Surprising Origin of 4 Features That Superglue Kids and Adults to Screens](https://soylentnews.org/article.pl?sid=26/04/25/1332245&from=rss)
 * [2026-04-26, 11:05:00](https://soylentnews.org/article.pl?sid=26/04/24/1514234&from=rss) - [A New Liquid Battery Stores Solar Heat for Weeks](https://soylentnews.org/article.pl?sid=26/04/24/1514234&from=rss)
 * [2026-04-26, 06:20:00](https://soylentnews.org/article.pl?sid=26/04/24/1241239&from=rss) - [European Civil Servants Are Being Forced Off WhatsApp](https://soylentnews.org/article.pl?sid=26/04/24/1241239&from=rss)
 * [2026-04-26, 01:36:00](https://soylentnews.org/article.pl?sid=26/04/24/1238217&from=rss) - [The Dumbest Hack of the Year Exposed a Very Real Problem](https://soylentnews.org/article.pl?sid=26/04/24/1238217&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-17, 08:36:00](https://soylentnews.org/article.pl?sid=26/04/15/1727239&from=rss) - [Meta Zuckerberg Becomes the New Clippy](https://soylentnews.org/article.pl?sid=26/04/15/1727239&from=rss)
 * [2026-04-17, 03:52:00](https://soylentnews.org/article.pl?sid=26/04/15/1723257&from=rss) - [Ukraine's Military Robot Surge Aims to Offset Drone Risks to Humans](https://soylentnews.org/article.pl?sid=26/04/15/1723257&from=rss)
 * [2026-04-16, 23:07:00](https://soylentnews.org/article.pl?sid=26/04/15/1539246&from=rss) - [The Entity That Has Been Watching Bitcoin for 14 Years](https://soylentnews.org/article.pl?sid=26/04/15/1539246&from=rss)
-* [2026-04-16, 18:20:00](https://soylentnews.org/article.pl?sid=26/04/15/1535223&from=rss) - [US Appeals Court Declares 158-Year-Old Home Distilling Ban Unconstitutional](https://soylentnews.org/article.pl?sid=26/04/15/1535223&from=rss)
 
 ## [Archives](archives/index.md)
 
