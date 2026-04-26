@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-26, 06:20:00](https://soylentnews.org/article.pl?sid=26/04/24/1241239&from=rss) - [European Civil Servants Are Being Forced Off WhatsApp](https://soylentnews.org/article.pl?sid=26/04/24/1241239&from=rss)
 * [2026-04-26, 01:36:00](https://soylentnews.org/article.pl?sid=26/04/24/1238217&from=rss) - [The Dumbest Hack of the Year Exposed a Very Real Problem](https://soylentnews.org/article.pl?sid=26/04/24/1238217&from=rss)
 * [2026-04-25, 20:54:00](https://soylentnews.org/article.pl?sid=26/04/24/1234243&from=rss) - [US Wants Rare Earth Independence From China — but Can DARPA Actually Make It Work?](https://soylentnews.org/article.pl?sid=26/04/24/1234243&from=rss)
 * [2026-04-25, 16:08:00](https://soylentnews.org/article.pl?sid=26/04/24/1232232&from=rss) - [Contrary to Popular Superstition, AES 128 is Just Fine in a Post](https://soylentnews.org/article.pl?sid=26/04/24/1232232&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-16, 23:07:00](https://soylentnews.org/article.pl?sid=26/04/15/1539246&from=rss) - [The Entity That Has Been Watching Bitcoin for 14 Years](https://soylentnews.org/article.pl?sid=26/04/15/1539246&from=rss)
 * [2026-04-16, 18:20:00](https://soylentnews.org/article.pl?sid=26/04/15/1535223&from=rss) - [US Appeals Court Declares 158-Year-Old Home Distilling Ban Unconstitutional](https://soylentnews.org/article.pl?sid=26/04/15/1535223&from=rss)
 * [2026-04-16, 13:36:00](https://soylentnews.org/article.pl?sid=26/04/15/0217209&from=rss) - [AI Token Freeloaders Manipulating Customer Support Bots](https://soylentnews.org/article.pl?sid=26/04/15/0217209&from=rss)
-* [2026-04-16, 08:52:00](https://soylentnews.org/communityreviews/article.pl?sid=26/04/15/0214204&from=rss) - [OpenAI Says Elon Musk is ‘Injecting Chaos’ With Recent Legal Maneuver](https://soylentnews.org/communityreviews/article.pl?sid=26/04/15/0214204&from=rss)
 
 ## [Archives](archives/index.md)
 
