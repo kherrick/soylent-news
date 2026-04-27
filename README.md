@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-27, 10:49:00](https://soylentnews.org/article.pl?sid=26/04/25/1736211&from=rss) - [Surveillance Pricing Set to be Banned in Maryland. Could This be the End of the Predatory Retail?](https://soylentnews.org/article.pl?sid=26/04/25/1736211&from=rss)
 * [2026-04-27, 06:04:00](https://soylentnews.org/article.pl?sid=26/04/25/1727249&from=rss) - [NASA's Curiosity Rover Found Promising Organic Chemicals on Mars](https://soylentnews.org/article.pl?sid=26/04/25/1727249&from=rss)
 * [2026-04-27, 01:20:00](https://soylentnews.org/article.pl?sid=26/04/25/1722204&from=rss) - [The Newest Influencer Health Hack? Nicotine](https://soylentnews.org/article.pl?sid=26/04/25/1722204&from=rss)
 * [2026-04-26, 20:34:00](https://soylentnews.org/article.pl?sid=26/04/25/1336233&from=rss) - [Chinese Scientists Aim to Save Moore's Law by Mass-Growing 2D Materials That 'Outclass Silicon'](https://soylentnews.org/article.pl?sid=26/04/25/1336233&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-18, 03:30:00](https://soylentnews.org/article.pl?sid=26/04/17/0318245&from=rss) - [IPv6 Adoption Reaches 50% - The Long Journey Toward Internet's Next Generation](https://soylentnews.org/article.pl?sid=26/04/17/0318245&from=rss)
 * [2026-04-17, 22:50:00](https://soylentnews.org/article.pl?sid=26/04/16/1142203&from=rss) - [Back Button Hijacking to be Penalised in Google Crackdown](https://soylentnews.org/article.pl?sid=26/04/16/1142203&from=rss)
 * [2026-04-17, 18:06:00](https://soylentnews.org/article.pl?sid=26/04/16/1137236&from=rss) - [Physicists Think They've Resolved the Proton Size Puzzle](https://soylentnews.org/article.pl?sid=26/04/16/1137236&from=rss)
-* [2026-04-17, 13:20:00](https://soylentnews.org/article.pl?sid=26/04/15/1730255&from=rss) - [Claude Mythos Preview Has Officially Frightened the British](https://soylentnews.org/article.pl?sid=26/04/15/1730255&from=rss)
 
 ## [Archives](archives/index.md)
 
