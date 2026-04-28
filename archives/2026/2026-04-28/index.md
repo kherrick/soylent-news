@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-28](index.md)
 
+* [2026-04-28, 18:40:00](https://soylentnews.org/article.pl?sid=26/04/26/1853229&from=rss) - [Someone Made a Windows 95 Subsystem for Linux](https://soylentnews.org/article.pl?sid=26/04/26/1853229&from=rss)
 * [2026-04-28, 14:00:00](https://soylentnews.org/article.pl?sid=26/04/26/1758257&from=rss) - [Raccoons Solve Puzzles for the Fun of It](https://soylentnews.org/article.pl?sid=26/04/26/1758257&from=rss)
 * [2026-04-28, 09:22:00](https://soylentnews.org/article.pl?sid=26/04/26/1740233&from=rss) - [A Sun is Not Required to Generate Conditions Suitable for Life on Exoplanet Moons](https://soylentnews.org/article.pl?sid=26/04/26/1740233&from=rss)
 * [2026-04-28, 05:46:00](https://soylentnews.org/article.pl?sid=26/04/26/1727213&from=rss) - [Electric Field Tunes Vibrations to Ease Heat Transfer](https://soylentnews.org/article.pl?sid=26/04/26/1727213&from=rss)
