@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-28, 14:00:00](https://soylentnews.org/article.pl?sid=26/04/26/1758257&from=rss) - [Raccoons Solve Puzzles for the Fun of It](https://soylentnews.org/article.pl?sid=26/04/26/1758257&from=rss)
 * [2026-04-28, 09:22:00](https://soylentnews.org/article.pl?sid=26/04/26/1740233&from=rss) - [A Sun is Not Required to Generate Conditions Suitable for Life on Exoplanet Moons](https://soylentnews.org/article.pl?sid=26/04/26/1740233&from=rss)
 * [2026-04-28, 05:46:00](https://soylentnews.org/article.pl?sid=26/04/26/1727213&from=rss) - [Electric Field Tunes Vibrations to Ease Heat Transfer](https://soylentnews.org/article.pl?sid=26/04/26/1727213&from=rss)
 * [2026-04-28, 01:04:00](https://soylentnews.org/article.pl?sid=26/04/26/0035245&from=rss) - [Why Do I Feel Like, Somebody's Watching Me?](https://soylentnews.org/article.pl?sid=26/04/26/0035245&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-19, 08:03:00](https://soylentnews.org/article.pl?sid=26/04/18/1855201&from=rss) - [Why the Phrase 'Super El Niño' Makes Australian Climate Scientists Roll Their Eyes](https://soylentnews.org/article.pl?sid=26/04/18/1855201&from=rss)
 * [2026-04-19, 03:14:00](https://soylentnews.org/article.pl?sid=26/04/18/1847221&from=rss) - [Irish Bog Plant Revives Ancient Remedy as a New Weapon Vs Superbugs](https://soylentnews.org/article.pl?sid=26/04/18/1847221&from=rss)
 * [2026-04-18, 22:26:00](https://soylentnews.org/article.pl?sid=26/04/17/0348237&from=rss) - [Netgear Routers Seemingly Won't be Banned in the US After All](https://soylentnews.org/article.pl?sid=26/04/17/0348237&from=rss)
-* [2026-04-18, 17:42:00](https://soylentnews.org/article.pl?sid=26/04/17/0337240&from=rss) - [Scientists Invented a Fake Disease. AI Told People It Was Real](https://soylentnews.org/article.pl?sid=26/04/17/0337240&from=rss)
 
 ## [Archives](archives/index.md)
 
