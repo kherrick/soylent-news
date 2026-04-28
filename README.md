@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-28, 01:04:00](https://soylentnews.org/article.pl?sid=26/04/26/0035245&from=rss) - [Why Do I Feel Like, Somebody's Watching Me?](https://soylentnews.org/article.pl?sid=26/04/26/0035245&from=rss)
 * [2026-04-27, 20:20:00](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&from=rss) - [Big Tech Group Jumps The Gun On Unreleased Bill, Raising Questions About Cozy Ties With Lawmakers](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&from=rss)
 * [2026-04-27, 15:33:00](https://soylentnews.org/article.pl?sid=26/04/26/0029226&from=rss) - [Privacy Email Service Tuta Now Also Has Cloud Storage with Quantum-Resistant Encryption](https://soylentnews.org/article.pl?sid=26/04/26/0029226&from=rss)
 * [2026-04-27, 10:49:00](https://soylentnews.org/article.pl?sid=26/04/25/1736211&from=rss) - [Surveillance Pricing Set to be Banned in Maryland. Could This be the End of the Predatory Retail?](https://soylentnews.org/article.pl?sid=26/04/25/1736211&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-18, 17:42:00](https://soylentnews.org/article.pl?sid=26/04/17/0337240&from=rss) - [Scientists Invented a Fake Disease. AI Told People It Was Real](https://soylentnews.org/article.pl?sid=26/04/17/0337240&from=rss)
 * [2026-04-18, 12:54:00](https://soylentnews.org/article.pl?sid=26/04/17/0336248&from=rss) - [Online Response to the Attack on Sam Altman's House Shows a Generational Divide](https://soylentnews.org/article.pl?sid=26/04/17/0336248&from=rss)
 * [2026-04-18, 08:12:00](https://soylentnews.org/article.pl?sid=26/04/17/0326235&from=rss) - [Meet Orpheus—a Hopper Mission Built to Hunt for Life in Martian Volcanoes](https://soylentnews.org/article.pl?sid=26/04/17/0326235&from=rss)
-* [2026-04-18, 03:30:00](https://soylentnews.org/article.pl?sid=26/04/17/0318245&from=rss) - [IPv6 Adoption Reaches 50% - The Long Journey Toward Internet's Next Generation](https://soylentnews.org/article.pl?sid=26/04/17/0318245&from=rss)
 
 ## [Archives](archives/index.md)
 
