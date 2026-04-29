@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-29, 15:41:00](https://soylentnews.org/article.pl?sid=26/04/28/0558247&from=rss) - [Antarctica Just Saw the Fastest Glacier Collapse Ever Recorded](https://soylentnews.org/article.pl?sid=26/04/28/0558247&from=rss)
 * [2026-04-29, 10:54:00](https://soylentnews.org/article.pl?sid=26/04/28/0555211&from=rss) - [Meta Signs Multibillion-Dollar Deal With Amazon to Use its CPU Chips for AI](https://soylentnews.org/article.pl?sid=26/04/28/0555211&from=rss)
 * [2026-04-29, 06:09:00](https://soylentnews.org/article.pl?sid=26/04/28/0551255&from=rss) - [Firefox Has Quietly Integrated Brave's Adblock Engine](https://soylentnews.org/article.pl?sid=26/04/28/0551255&from=rss)
 * [2026-04-29, 01:26:00](https://soylentnews.org/article.pl?sid=26/04/28/0547234&from=rss) - [NASA Shut Down Voyager 1 Science Instrument After Unexpected Power Drop](https://soylentnews.org/article.pl?sid=26/04/28/0547234&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-20, 07:43:00](https://soylentnews.org/article.pl?sid=26/04/18/2354201&from=rss) - [How Two Motorola Transistors Became the World's Default NPNs](https://soylentnews.org/article.pl?sid=26/04/18/2354201&from=rss)
 * [2026-04-20, 03:01:00](https://soylentnews.org/article.pl?sid=26/04/18/2352244&from=rss) - [10 Math Books That Sharpen Your Thinking](https://soylentnews.org/article.pl?sid=26/04/18/2352244&from=rss)
 * [2026-04-19, 22:16:00](https://soylentnews.org/article.pl?sid=26/04/18/2348241&from=rss) - [“TotalRecall Reloaded” Tool Finds a Side Entrance to the Windows 11 Recall Database](https://soylentnews.org/article.pl?sid=26/04/18/2348241&from=rss)
-* [2026-04-19, 17:34:00](https://soylentnews.org/article.pl?sid=26/04/18/195238&from=rss) - [Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories](https://soylentnews.org/article.pl?sid=26/04/18/195238&from=rss)
 
 ## [Archives](archives/index.md)
 
