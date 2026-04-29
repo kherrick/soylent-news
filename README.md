@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-29, 06:09:00](https://soylentnews.org/article.pl?sid=26/04/28/0551255&from=rss) - [Firefox Has Quietly Integrated Brave's Adblock Engine](https://soylentnews.org/article.pl?sid=26/04/28/0551255&from=rss)
 * [2026-04-29, 01:26:00](https://soylentnews.org/article.pl?sid=26/04/28/0547234&from=rss) - [NASA Shut Down Voyager 1 Science Instrument After Unexpected Power Drop](https://soylentnews.org/article.pl?sid=26/04/28/0547234&from=rss)
 * [2026-04-28, 18:40:00](https://soylentnews.org/article.pl?sid=26/04/26/1853229&from=rss) - [Someone Made a Windows 95 Subsystem for Linux](https://soylentnews.org/article.pl?sid=26/04/26/1853229&from=rss)
 * [2026-04-28, 14:00:00](https://soylentnews.org/article.pl?sid=26/04/26/1758257&from=rss) - [Raccoons Solve Puzzles for the Fun of It](https://soylentnews.org/article.pl?sid=26/04/26/1758257&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-19, 22:16:00](https://soylentnews.org/article.pl?sid=26/04/18/2348241&from=rss) - [“TotalRecall Reloaded” Tool Finds a Side Entrance to the Windows 11 Recall Database](https://soylentnews.org/article.pl?sid=26/04/18/2348241&from=rss)
 * [2026-04-19, 17:34:00](https://soylentnews.org/article.pl?sid=26/04/18/195238&from=rss) - [Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories](https://soylentnews.org/article.pl?sid=26/04/18/195238&from=rss)
 * [2026-04-19, 12:51:00](https://soylentnews.org/article.pl?sid=26/04/18/192211&from=rss) - [The \"Passive Income\" Trap Ate a Generation of Entrepreneurs](https://soylentnews.org/article.pl?sid=26/04/18/192211&from=rss)
-* [2026-04-19, 08:03:00](https://soylentnews.org/article.pl?sid=26/04/18/1855201&from=rss) - [Why the Phrase 'Super El Niño' Makes Australian Climate Scientists Roll Their Eyes](https://soylentnews.org/article.pl?sid=26/04/18/1855201&from=rss)
 
 ## [Archives](archives/index.md)
 
