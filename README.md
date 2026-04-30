@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-04-30, 10:38:00](https://soylentnews.org/article.pl?sid=26/04/28/0620241&from=rss) - [NASAs Incredible New Telescope Will Offer an Atlas of the Universe](https://soylentnews.org/article.pl?sid=26/04/28/0620241&from=rss)
 * [2026-04-30, 05:53:00](https://soylentnews.org/article.pl?sid=26/04/28/0613243&from=rss) - [Microsoft Reportedly Looking at Rebasing Azure Linux on Fedora](https://soylentnews.org/article.pl?sid=26/04/28/0613243&from=rss)
 * [2026-04-30, 01:08:00](https://soylentnews.org/article.pl?sid=26/04/28/0610224&from=rss) - [China's Biggest Streaming Platform Wants Most of its New Films to be AI-Generated](https://soylentnews.org/article.pl?sid=26/04/28/0610224&from=rss)
 * [2026-04-29, 20:22:00](https://soylentnews.org/article.pl?sid=26/04/28/062230&from=rss) - [Tails Linux 7.7 Anonymous Distro Adds Detection of Outdated Secure Boot Certificates](https://soylentnews.org/article.pl?sid=26/04/28/062230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-21, 02:47:00](https://soylentnews.org/article.pl?sid=26/04/19/120245&from=rss) - [In the Face of Rampant AI, is ‘Data Poisoning’ a New Form of Civil Disobedience?](https://soylentnews.org/article.pl?sid=26/04/19/120245&from=rss)
 * [2026-04-20, 22:02:00](https://soylentnews.org/article.pl?sid=26/04/19/1148259&from=rss) - [The Quiet Colossus](https://soylentnews.org/article.pl?sid=26/04/19/1148259&from=rss)
 * [2026-04-20, 17:16:00](https://soylentnews.org/article.pl?sid=26/04/19/1147228&from=rss) - [How Much Does Chatbot Bias Influence Users? A Lot, It Turns Out](https://soylentnews.org/article.pl?sid=26/04/19/1147228&from=rss)
-* [2026-04-20, 12:29:00](https://soylentnews.org/article.pl?sid=26/04/19/000236&from=rss) - [Russia Hits European Thermal Power Plant in Attempted ‘Destructive’ Cyberattack](https://soylentnews.org/article.pl?sid=26/04/19/000236&from=rss)
 
 ## [Archives](archives/index.md)
 
