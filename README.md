@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-01, 00:58:00](https://soylentnews.org/article.pl?sid=26/04/30/0223202&from=rss) - [Your Phone is About to Stop Being Yours. Keep Android Open!](https://soylentnews.org/article.pl?sid=26/04/30/0223202&from=rss)
+* [2026-04-30, 20:13:00](https://soylentnews.org/article.pl?sid=26/04/29/1243245&from=rss) - [Gone in Nine Seconds](https://soylentnews.org/article.pl?sid=26/04/29/1243245&from=rss)
 * [2026-04-30, 15:24:00](https://soylentnews.org/article.pl?sid=26/04/29/1156248&from=rss) - [Electrical Current Might be the Key to a Better Cup of Coffee](https://soylentnews.org/article.pl?sid=26/04/29/1156248&from=rss)
 * [2026-04-30, 10:38:00](https://soylentnews.org/article.pl?sid=26/04/28/0620241&from=rss) - [NASAs Incredible New Telescope Will Offer an Atlas of the Universe](https://soylentnews.org/article.pl?sid=26/04/28/0620241&from=rss)
 * [2026-04-30, 05:53:00](https://soylentnews.org/article.pl?sid=26/04/28/0613243&from=rss) - [Microsoft Reportedly Looking at Rebasing Azure Linux on Fedora](https://soylentnews.org/article.pl?sid=26/04/28/0613243&from=rss)
@@ -48,8 +50,6 @@
 * [2026-04-21, 17:05:00](https://soylentnews.org/article.pl?sid=26/04/19/1338217&from=rss) - [Europol Launches Operation PowerOFF — Warns 75,000 DDoS Users and Takes Down 53 Domains](https://soylentnews.org/article.pl?sid=26/04/19/1338217&from=rss)
 * [2026-04-21, 12:19:00](https://soylentnews.org/article.pl?sid=26/04/19/1333258&from=rss) - [Soviet CDs and CD Players Existed, and They Were Strange](https://soylentnews.org/article.pl?sid=26/04/19/1333258&from=rss)
 * [2026-04-21, 07:32:00](https://soylentnews.org/article.pl?sid=26/04/19/125219&from=rss) - [Chinese Carmaker Patents Voice-Controlled 'in-Vehicle Toilet'](https://soylentnews.org/article.pl?sid=26/04/19/125219&from=rss)
-* [2026-04-21, 02:47:00](https://soylentnews.org/article.pl?sid=26/04/19/120245&from=rss) - [In the Face of Rampant AI, is ‘Data Poisoning’ a New Form of Civil Disobedience?](https://soylentnews.org/article.pl?sid=26/04/19/120245&from=rss)
-* [2026-04-20, 22:02:00](https://soylentnews.org/article.pl?sid=26/04/19/1148259&from=rss) - [The Quiet Colossus](https://soylentnews.org/article.pl?sid=26/04/19/1148259&from=rss)
 
 ## [Archives](archives/index.md)
 

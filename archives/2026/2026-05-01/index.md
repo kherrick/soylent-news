@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-05-01](index.md)
+
+* [2026-05-01, 00:58:00](https://soylentnews.org/article.pl?sid=26/04/30/0223202&from=rss) - [Your Phone is About to Stop Being Yours. Keep Android Open!](https://soylentnews.org/article.pl?sid=26/04/30/0223202&from=rss)
