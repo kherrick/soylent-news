@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 19:55:00](https://soylentnews.org/article.pl?sid=26/04/30/1227212&from=rss) - [Colorado's Anti-Repair Bill is Dead](https://soylentnews.org/article.pl?sid=26/04/30/1227212&from=rss)
 * [2026-05-01, 15:11:00](https://soylentnews.org/article.pl?sid=26/04/30/0232227&from=rss) - [Vibe Coding Will Break Your Company      ](https://soylentnews.org/article.pl?sid=26/04/30/0232227&from=rss)
 * [2026-05-01, 10:25:00](https://soylentnews.org/article.pl?sid=26/04/30/0229207&from=rss) - [Google Ad Income Per User - With Demographic Breakdown](https://soylentnews.org/article.pl?sid=26/04/30/0229207&from=rss)
 * [2026-05-01, 05:41:00](https://soylentnews.org/article.pl?sid=26/04/30/0224241&from=rss) - [Microsoft Pushes Out Experienced American Talent to Fuel AI Ambitions](https://soylentnews.org/article.pl?sid=26/04/30/0224241&from=rss)
