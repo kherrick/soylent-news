@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-01, 15:11:00](https://soylentnews.org/article.pl?sid=26/04/30/0232227&from=rss) - [Vibe Coding Will Break Your Company      ](https://soylentnews.org/article.pl?sid=26/04/30/0232227&from=rss)
 * [2026-05-01, 10:25:00](https://soylentnews.org/article.pl?sid=26/04/30/0229207&from=rss) - [Google Ad Income Per User - With Demographic Breakdown](https://soylentnews.org/article.pl?sid=26/04/30/0229207&from=rss)
 * [2026-05-01, 05:41:00](https://soylentnews.org/article.pl?sid=26/04/30/0224241&from=rss) - [Microsoft Pushes Out Experienced American Talent to Fuel AI Ambitions](https://soylentnews.org/article.pl?sid=26/04/30/0224241&from=rss)
 * [2026-05-01, 00:58:00](https://soylentnews.org/article.pl?sid=26/04/30/0223202&from=rss) - [Your Phone is About to Stop Being Yours. Keep Android Open!](https://soylentnews.org/article.pl?sid=26/04/30/0223202&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-22, 07:27:00](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss) - [The Friction We Forgot](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss)
 * [2026-04-22, 02:34:00](https://soylentnews.org/article.pl?sid=26/04/20/0228241&from=rss) - [Total Solar Eclipse Led to Seismic Quiet for Cities Within its Path](https://soylentnews.org/article.pl?sid=26/04/20/0228241&from=rss)
 * [2026-04-21, 21:50:00](https://soylentnews.org/article.pl?sid=26/04/19/1341258&from=rss) - [A Fresh Scar on the Moon: Newly Discovered Crater Reveals Recent Impact](https://soylentnews.org/article.pl?sid=26/04/19/1341258&from=rss)
-* [2026-04-21, 17:05:00](https://soylentnews.org/article.pl?sid=26/04/19/1338217&from=rss) - [Europol Launches Operation PowerOFF — Warns 75,000 DDoS Users and Takes Down 53 Domains](https://soylentnews.org/article.pl?sid=26/04/19/1338217&from=rss)
 
 ## [Archives](archives/index.md)
 
