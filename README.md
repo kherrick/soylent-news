@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-02, 00:38:00](https://soylentnews.org/article.pl?sid=26/04/30/1229213&from=rss) - [How Linux 7.0 Broke PostgreSQL](https://soylentnews.org/article.pl?sid=26/04/30/1229213&from=rss)
 * [2026-05-01, 19:55:00](https://soylentnews.org/article.pl?sid=26/04/30/1227212&from=rss) - [Colorado's Anti-Repair Bill is Dead](https://soylentnews.org/article.pl?sid=26/04/30/1227212&from=rss)
 * [2026-05-01, 15:11:00](https://soylentnews.org/article.pl?sid=26/04/30/0232227&from=rss) - [Vibe Coding Will Break Your Company      ](https://soylentnews.org/article.pl?sid=26/04/30/0232227&from=rss)
 * [2026-05-01, 10:25:00](https://soylentnews.org/article.pl?sid=26/04/30/0229207&from=rss) - [Google Ad Income Per User - With Demographic Breakdown](https://soylentnews.org/article.pl?sid=26/04/30/0229207&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-22, 16:53:00](https://soylentnews.org/article.pl?sid=26/04/20/0241235&from=rss) - [Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law](https://soylentnews.org/article.pl?sid=26/04/20/0241235&from=rss)
 * [2026-04-22, 12:09:00](https://soylentnews.org/article.pl?sid=26/04/20/0233208&from=rss) - [Sperm Whales Speak With a Complex Alphabet and Even Have ‘Vowels,’ Study Finds](https://soylentnews.org/article.pl?sid=26/04/20/0233208&from=rss)
 * [2026-04-22, 07:27:00](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss) - [The Friction We Forgot](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss)
-* [2026-04-22, 02:34:00](https://soylentnews.org/article.pl?sid=26/04/20/0228241&from=rss) - [Total Solar Eclipse Led to Seismic Quiet for Cities Within its Path](https://soylentnews.org/article.pl?sid=26/04/20/0228241&from=rss)
 
 ## [Archives](archives/index.md)
 
