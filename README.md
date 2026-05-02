@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-02, 05:21:00](https://soylentnews.org/article.pl?sid=26/04/30/1235210&from=rss) - [Google and Pentagon Reportedly Agree on Deal for ‘Any Lawful’ Use of AI](https://soylentnews.org/article.pl?sid=26/04/30/1235210&from=rss)
 * [2026-05-02, 00:38:00](https://soylentnews.org/article.pl?sid=26/04/30/1229213&from=rss) - [How Linux 7.0 Broke PostgreSQL](https://soylentnews.org/article.pl?sid=26/04/30/1229213&from=rss)
 * [2026-05-01, 19:55:00](https://soylentnews.org/article.pl?sid=26/04/30/1227212&from=rss) - [Colorado's Anti-Repair Bill is Dead](https://soylentnews.org/article.pl?sid=26/04/30/1227212&from=rss)
 * [2026-05-01, 15:11:00](https://soylentnews.org/article.pl?sid=26/04/30/0232227&from=rss) - [Vibe Coding Will Break Your Company      ](https://soylentnews.org/article.pl?sid=26/04/30/0232227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-22, 21:39:00](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss) - [How Museums Can Use Biomolecular Archaeology to Bring Ancient Scents to Life](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss)
 * [2026-04-22, 16:53:00](https://soylentnews.org/article.pl?sid=26/04/20/0241235&from=rss) - [Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law](https://soylentnews.org/article.pl?sid=26/04/20/0241235&from=rss)
 * [2026-04-22, 12:09:00](https://soylentnews.org/article.pl?sid=26/04/20/0233208&from=rss) - [Sperm Whales Speak With a Complex Alphabet and Even Have ‘Vowels,’ Study Finds](https://soylentnews.org/article.pl?sid=26/04/20/0233208&from=rss)
-* [2026-04-22, 07:27:00](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss) - [The Friction We Forgot](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss)
 
 ## [Archives](archives/index.md)
 
