@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-02, 14:56:00](https://soylentnews.org/article.pl?sid=26/05/01/0637252&from=rss) - [Linux Cryptographic Code Flaw Offers Fast Route to Root](https://soylentnews.org/article.pl?sid=26/05/01/0637252&from=rss)
 * [2026-05-02, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/30/1239239&from=rss) - [Apple Wants to Kill Your Time Capsule, but They Run NetBSD So They Can't](https://soylentnews.org/article.pl?sid=26/04/30/1239239&from=rss)
 * [2026-05-02, 05:21:00](https://soylentnews.org/article.pl?sid=26/04/30/1235210&from=rss) - [Google and Pentagon Reportedly Agree on Deal for ‘Any Lawful’ Use of AI](https://soylentnews.org/article.pl?sid=26/04/30/1235210&from=rss)
 * [2026-05-02, 00:38:00](https://soylentnews.org/article.pl?sid=26/04/30/1229213&from=rss) - [How Linux 7.0 Broke PostgreSQL](https://soylentnews.org/article.pl?sid=26/04/30/1229213&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-23, 07:07:00](https://soylentnews.org/article.pl?sid=26/04/21/2358226&from=rss) - [The NAND Gate of Continuous Math](https://soylentnews.org/article.pl?sid=26/04/21/2358226&from=rss)
 * [2026-04-23, 02:22:00](https://soylentnews.org/article.pl?sid=26/04/21/2355256&from=rss) - [WebinarTV’s Rampant Scraping of Online Meetings ](https://soylentnews.org/article.pl?sid=26/04/21/2355256&from=rss)
 * [2026-04-22, 21:39:00](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss) - [How Museums Can Use Biomolecular Archaeology to Bring Ancient Scents to Life](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss)
-* [2026-04-22, 16:53:00](https://soylentnews.org/article.pl?sid=26/04/20/0241235&from=rss) - [Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law](https://soylentnews.org/article.pl?sid=26/04/20/0241235&from=rss)
 
 ## [Archives](archives/index.md)
 
