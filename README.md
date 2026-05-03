@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-03, 00:27:00](https://soylentnews.org/article.pl?sid=26/05/01/0648229&from=rss) - [The Resurrected Commodore 64 is Getting a Facelift Like the Original](https://soylentnews.org/article.pl?sid=26/05/01/0648229&from=rss)
 * [2026-05-02, 19:42:00](https://soylentnews.org/article.pl?sid=26/05/01/0645211&from=rss) - [Drone Pilot Makes US Rescind No-Fly Zones Around Unmarked, Moving ICE Vehicles](https://soylentnews.org/article.pl?sid=26/05/01/0645211&from=rss)
 * [2026-05-02, 14:56:00](https://soylentnews.org/article.pl?sid=26/05/01/0637252&from=rss) - [Linux Cryptographic Code Flaw Offers Fast Route to Root](https://soylentnews.org/article.pl?sid=26/05/01/0637252&from=rss)
 * [2026-05-02, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/30/1239239&from=rss) - [Apple Wants to Kill Your Time Capsule, but They Run NetBSD So They Can't](https://soylentnews.org/article.pl?sid=26/04/30/1239239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-23, 16:34:00](https://soylentnews.org/article.pl?sid=26/04/22/0215210&from=rss) - [Europe's EV Sales Jump 51% as Iran War Sends Gasoline Prices Soaring](https://soylentnews.org/article.pl?sid=26/04/22/0215210&from=rss)
 * [2026-04-23, 11:50:00](https://soylentnews.org/article.pl?sid=26/04/22/023218&from=rss) - [Bluetooth Tracker Hidden in a Postcard and Mailed to a Warship Exposed its Location](https://soylentnews.org/article.pl?sid=26/04/22/023218&from=rss)
 * [2026-04-23, 07:07:00](https://soylentnews.org/article.pl?sid=26/04/21/2358226&from=rss) - [The NAND Gate of Continuous Math](https://soylentnews.org/article.pl?sid=26/04/21/2358226&from=rss)
-* [2026-04-23, 02:22:00](https://soylentnews.org/article.pl?sid=26/04/21/2355256&from=rss) - [WebinarTV’s Rampant Scraping of Online Meetings ](https://soylentnews.org/article.pl?sid=26/04/21/2355256&from=rss)
 
 ## [Archives](archives/index.md)
 
