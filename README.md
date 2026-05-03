@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-03, 19:19:00](https://soylentnews.org/article.pl?sid=26/05/01/079248&from=rss) - [The Linux Kernel Tree About to Hit 40 Million Lines, AMD Driver Above 6 Million Lines](https://soylentnews.org/article.pl?sid=26/05/01/079248&from=rss)
 * [2026-05-03, 14:35:00](https://soylentnews.org/article.pl?sid=26/05/01/078213&from=rss) - [There's a Good Reason Semi Trucks Don't Use V8s](https://soylentnews.org/article.pl?sid=26/05/01/078213&from=rss)
 * [2026-05-03, 09:52:00](https://soylentnews.org/article.pl?sid=26/05/01/073236&from=rss) - [Ghostty Is Leaving GitHub - Ghostty Developer Loses Confidence in GitHub’s Reliability](https://soylentnews.org/article.pl?sid=26/05/01/073236&from=rss)
 * [2026-05-03, 05:10:00](https://soylentnews.org/article.pl?sid=26/05/01/0658214&from=rss) - [Round Up of Latest OS and Browser Releases](https://soylentnews.org/article.pl?sid=26/05/01/0658214&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-24, 11:32:00](https://soylentnews.org/article.pl?sid=26/04/23/1143221&from=rss) - [This Pasta Sauce Wants to Record Your Family](https://soylentnews.org/article.pl?sid=26/04/23/1143221&from=rss)
 * [2026-04-24, 06:51:00](https://soylentnews.org/article.pl?sid=26/04/23/1139251&from=rss) - [NASA Inspector Fears New Spacesuits Won't be Ready for Moon Landing](https://soylentnews.org/article.pl?sid=26/04/23/1139251&from=rss)
 * [2026-04-24, 02:05:00](https://soylentnews.org/article.pl?sid=26/04/23/1118227&from=rss) - [Linux 7.1 Will Have an Optional New NTFS Driver](https://soylentnews.org/article.pl?sid=26/04/23/1118227&from=rss)
-* [2026-04-23, 21:21:00](https://soylentnews.org/article.pl?sid=26/04/23/1112242&from=rss) - [Scientists Load Quantum Computer With First Complete Genome to Crack Biology's 'Impossible' Puzzle](https://soylentnews.org/article.pl?sid=26/04/23/1112242&from=rss)
 
 ## [Archives](archives/index.md)
 
