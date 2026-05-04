@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-04, 14:20:00](https://soylentnews.org/article.pl?sid=26/05/03/0252239&from=rss) - [Zambia Cancels Global Digital Freedoms Conference Days Before Start](https://soylentnews.org/article.pl?sid=26/05/03/0252239&from=rss)
 * [2026-05-04, 09:39:00](https://soylentnews.org/article.pl?sid=26/05/03/0232241&from=rss) - [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&from=rss)
 * [2026-05-04, 04:52:00](https://soylentnews.org/article.pl?sid=26/05/03/0223205&from=rss) - [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&from=rss)
 * [2026-05-04, 00:09:00](https://soylentnews.org/article.pl?sid=26/05/03/020241&from=rss) - [Ask.com Closes](https://soylentnews.org/article.pl?sid=26/05/03/020241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-25, 06:38:00](https://soylentnews.org/article.pl?sid=26/04/24/1220209&from=rss) - [Physicists Witness Pinpricks of Darkness Moving Faster Than the Speed of Light ‪](https://soylentnews.org/article.pl?sid=26/04/24/1220209&from=rss)
 * [2026-04-25, 01:56:00](https://soylentnews.org/article.pl?sid=26/04/24/0247228&from=rss) - [Linux Mint Plans for Longer Development Cycle](https://soylentnews.org/article.pl?sid=26/04/24/0247228&from=rss)
 * [2026-04-24, 21:08:00](https://soylentnews.org/article.pl?sid=26/04/24/0051247&from=rss) - [With Navigating Nematodes, Scientists Map Out How Brains Implement Behaviors](https://soylentnews.org/article.pl?sid=26/04/24/0051247&from=rss)
-* [2026-04-24, 16:22:00](https://soylentnews.org/article.pl?sid=26/04/24/0045252&from=rss) - [They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants in](https://soylentnews.org/article.pl?sid=26/04/24/0045252&from=rss)
 
 ## [Archives](archives/index.md)
 
