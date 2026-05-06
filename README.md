@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-06, 18:45:00](https://soylentnews.org/article.pl?sid=26/05/06/0347215&from=rss) - [Scientists Stunned by New Organic Molecules Found on Mars](https://soylentnews.org/article.pl?sid=26/05/06/0347215&from=rss)
 * [2026-05-06, 13:58:00](https://soylentnews.org/article.pl?sid=26/05/05/1130201&from=rss) - [Samsung & Intel Considered as Alternatives to TSMC for Apple Silicon Production](https://soylentnews.org/article.pl?sid=26/05/05/1130201&from=rss)
 * [2026-05-06, 09:15:00](https://soylentnews.org/article.pl?sid=26/05/05/1125244&from=rss) - [Chinese EVs Can Now Project Movies From Their Headlights](https://soylentnews.org/article.pl?sid=26/05/05/1125244&from=rss)
 * [2026-05-06, 04:31:00](https://soylentnews.org/article.pl?sid=26/05/05/1123232&from=rss) - [Toyota Built a $10 Billion Private Utopia—What's Going on in There?](https://soylentnews.org/article.pl?sid=26/05/05/1123232&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-27, 10:49:00](https://soylentnews.org/article.pl?sid=26/04/25/1736211&from=rss) - [Surveillance Pricing Set to be Banned in Maryland. Could This be the End of the Predatory Retail?](https://soylentnews.org/article.pl?sid=26/04/25/1736211&from=rss)
 * [2026-04-27, 06:04:00](https://soylentnews.org/article.pl?sid=26/04/25/1727249&from=rss) - [NASA's Curiosity Rover Found Promising Organic Chemicals on Mars](https://soylentnews.org/article.pl?sid=26/04/25/1727249&from=rss)
 * [2026-04-27, 01:20:00](https://soylentnews.org/article.pl?sid=26/04/25/1722204&from=rss) - [The Newest Influencer Health Hack? Nicotine](https://soylentnews.org/article.pl?sid=26/04/25/1722204&from=rss)
-* [2026-04-26, 20:34:00](https://soylentnews.org/article.pl?sid=26/04/25/1336233&from=rss) - [Chinese Scientists Aim to Save Moore's Law by Mass-Growing 2D Materials That 'Outclass Silicon'](https://soylentnews.org/article.pl?sid=26/04/25/1336233&from=rss)
 
 ## [Archives](archives/index.md)
 
