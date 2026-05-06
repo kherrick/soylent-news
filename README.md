@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-05, 23:42:00](https://soylentnews.org/article.pl?sid=26/05/04/1443241&from=rss) - [Someone Turned a PS5 Into a Linux Gaming PC, and It Actually Works](https://soylentnews.org/article.pl?sid=26/05/04/1443241&from=rss)
 * [2026-05-05, 18:50:00](https://soylentnews.org/article.pl?sid=26/05/04/1440249&from=rss) - [AI Makes Granular Pricing Easier, but Consumer Psychology May Make It Less Profitable](https://soylentnews.org/article.pl?sid=26/05/04/1440249&from=rss)
 * [2026-05-05, 14:08:00](https://soylentnews.org/article.pl?sid=26/05/04/1439238&from=rss) - [Round Up of Latest OS and Software Releases](https://soylentnews.org/article.pl?sid=26/05/04/1439238&from=rss)
 * [2026-05-05, 09:25:00](https://soylentnews.org/article.pl?sid=26/05/04/1436227&from=rss) - [New Report Highlights Fructose as a Key Driver of Metabolic Disease](https://soylentnews.org/article.pl?sid=26/05/04/1436227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-26, 15:53:00](https://soylentnews.org/article.pl?sid=26/04/25/1332245&from=rss) - [The Surprising Origin of 4 Features That Superglue Kids and Adults to Screens](https://soylentnews.org/article.pl?sid=26/04/25/1332245&from=rss)
 * [2026-04-26, 11:05:00](https://soylentnews.org/article.pl?sid=26/04/24/1514234&from=rss) - [A New Liquid Battery Stores Solar Heat for Weeks](https://soylentnews.org/article.pl?sid=26/04/24/1514234&from=rss)
 * [2026-04-26, 06:20:00](https://soylentnews.org/article.pl?sid=26/04/24/1241239&from=rss) - [European Civil Servants Are Being Forced Off WhatsApp](https://soylentnews.org/article.pl?sid=26/04/24/1241239&from=rss)
-* [2026-04-26, 01:36:00](https://soylentnews.org/article.pl?sid=26/04/24/1238217&from=rss) - [The Dumbest Hack of the Year Exposed a Very Real Problem](https://soylentnews.org/article.pl?sid=26/04/24/1238217&from=rss)
 
 ## [Archives](archives/index.md)
 
