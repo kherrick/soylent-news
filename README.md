@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-06, 09:15:00](https://soylentnews.org/article.pl?sid=26/05/05/1125244&from=rss) - [Chinese EVs Can Now Project Movies From Their Headlights](https://soylentnews.org/article.pl?sid=26/05/05/1125244&from=rss)
 * [2026-05-06, 04:31:00](https://soylentnews.org/article.pl?sid=26/05/05/1123232&from=rss) - [Toyota Built a $10 Billion Private Utopia—What's Going on in There?](https://soylentnews.org/article.pl?sid=26/05/05/1123232&from=rss)
 * [2026-05-05, 23:42:00](https://soylentnews.org/article.pl?sid=26/05/04/1443241&from=rss) - [Someone Turned a PS5 Into a Linux Gaming PC, and It Actually Works](https://soylentnews.org/article.pl?sid=26/05/04/1443241&from=rss)
 * [2026-05-05, 18:50:00](https://soylentnews.org/article.pl?sid=26/05/04/1440249&from=rss) - [AI Makes Granular Pricing Easier, but Consumer Psychology May Make It Less Profitable](https://soylentnews.org/article.pl?sid=26/05/04/1440249&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-27, 01:20:00](https://soylentnews.org/article.pl?sid=26/04/25/1722204&from=rss) - [The Newest Influencer Health Hack? Nicotine](https://soylentnews.org/article.pl?sid=26/04/25/1722204&from=rss)
 * [2026-04-26, 20:34:00](https://soylentnews.org/article.pl?sid=26/04/25/1336233&from=rss) - [Chinese Scientists Aim to Save Moore's Law by Mass-Growing 2D Materials That 'Outclass Silicon'](https://soylentnews.org/article.pl?sid=26/04/25/1336233&from=rss)
 * [2026-04-26, 15:53:00](https://soylentnews.org/article.pl?sid=26/04/25/1332245&from=rss) - [The Surprising Origin of 4 Features That Superglue Kids and Adults to Screens](https://soylentnews.org/article.pl?sid=26/04/25/1332245&from=rss)
-* [2026-04-26, 11:05:00](https://soylentnews.org/article.pl?sid=26/04/24/1514234&from=rss) - [A New Liquid Battery Stores Solar Heat for Weeks](https://soylentnews.org/article.pl?sid=26/04/24/1514234&from=rss)
 
 ## [Archives](archives/index.md)
 
