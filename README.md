@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-07, 13:43:00](https://soylentnews.org/article.pl?sid=26/05/06/1719213&from=rss) - [The US Just Found Enough Lithium To Rival China - Now Comes The Hard Part](https://soylentnews.org/article.pl?sid=26/05/06/1719213&from=rss)
 * [2026-05-07, 09:00:00](https://soylentnews.org/article.pl?sid=26/05/06/045204&from=rss) - [Employees Are Now More Dangerous to Their Company Than External Hackers](https://soylentnews.org/article.pl?sid=26/05/06/045204&from=rss)
 * [2026-05-07, 04:13:00](https://soylentnews.org/article.pl?sid=26/05/06/0356228&from=rss) - [Utah Will Ban VPN Use to Circumvent Age Verification](https://soylentnews.org/article.pl?sid=26/05/06/0356228&from=rss)
 * [2026-05-06, 23:30:00](https://soylentnews.org/article.pl?sid=26/05/06/0351248&from=rss) - [OpenAI Explains the \"codex-goblins\" Problem](https://soylentnews.org/article.pl?sid=26/05/06/0351248&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-28, 05:46:00](https://soylentnews.org/article.pl?sid=26/04/26/1727213&from=rss) - [Electric Field Tunes Vibrations to Ease Heat Transfer](https://soylentnews.org/article.pl?sid=26/04/26/1727213&from=rss)
 * [2026-04-28, 01:04:00](https://soylentnews.org/article.pl?sid=26/04/26/0035245&from=rss) - [Why Do I Feel Like, Somebody's Watching Me?](https://soylentnews.org/article.pl?sid=26/04/26/0035245&from=rss)
 * [2026-04-27, 20:20:00](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&from=rss) - [Big Tech Group Jumps The Gun On Unreleased Bill, Raising Questions About Cozy Ties With Lawmakers](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&from=rss)
-* [2026-04-27, 15:33:00](https://soylentnews.org/article.pl?sid=26/04/26/0029226&from=rss) - [Privacy Email Service Tuta Now Also Has Cloud Storage with Quantum-Resistant Encryption](https://soylentnews.org/article.pl?sid=26/04/26/0029226&from=rss)
 
 ## [Archives](archives/index.md)
 
