@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-07, 04:13:00](https://soylentnews.org/article.pl?sid=26/05/06/0356228&from=rss) - [Utah Will Ban VPN Use to Circumvent Age Verification](https://soylentnews.org/article.pl?sid=26/05/06/0356228&from=rss)
 * [2026-05-06, 23:30:00](https://soylentnews.org/article.pl?sid=26/05/06/0351248&from=rss) - [OpenAI Explains the \"codex-goblins\" Problem](https://soylentnews.org/article.pl?sid=26/05/06/0351248&from=rss)
 * [2026-05-06, 18:45:00](https://soylentnews.org/article.pl?sid=26/05/06/0347215&from=rss) - [Scientists Stunned by New Organic Molecules Found on Mars](https://soylentnews.org/article.pl?sid=26/05/06/0347215&from=rss)
 * [2026-05-06, 13:58:00](https://soylentnews.org/article.pl?sid=26/05/05/1130201&from=rss) - [Samsung & Intel Considered as Alternatives to TSMC for Apple Silicon Production](https://soylentnews.org/article.pl?sid=26/05/05/1130201&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-27, 20:20:00](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&from=rss) - [Big Tech Group Jumps The Gun On Unreleased Bill, Raising Questions About Cozy Ties With Lawmakers](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&from=rss)
 * [2026-04-27, 15:33:00](https://soylentnews.org/article.pl?sid=26/04/26/0029226&from=rss) - [Privacy Email Service Tuta Now Also Has Cloud Storage with Quantum-Resistant Encryption](https://soylentnews.org/article.pl?sid=26/04/26/0029226&from=rss)
 * [2026-04-27, 10:49:00](https://soylentnews.org/article.pl?sid=26/04/25/1736211&from=rss) - [Surveillance Pricing Set to be Banned in Maryland. Could This be the End of the Predatory Retail?](https://soylentnews.org/article.pl?sid=26/04/25/1736211&from=rss)
-* [2026-04-27, 06:04:00](https://soylentnews.org/article.pl?sid=26/04/25/1727249&from=rss) - [NASA's Curiosity Rover Found Promising Organic Chemicals on Mars](https://soylentnews.org/article.pl?sid=26/04/25/1727249&from=rss)
 
 ## [Archives](archives/index.md)
 
