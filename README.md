@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-08, 08:49:00](https://soylentnews.org/article.pl?sid=26/05/07/0149246&from=rss) - [Nissan Redirects Mississippi Jobs To Trucks, SUVs Now](https://soylentnews.org/article.pl?sid=26/05/07/0149246&from=rss)
 * [2026-05-08, 03:57:00](https://soylentnews.org/article.pl?sid=26/05/07/0148227&from=rss) - [ Making Wooden Skis by Hand](https://soylentnews.org/article.pl?sid=26/05/07/0148227&from=rss)
 * [2026-05-07, 23:14:00](https://soylentnews.org/article.pl?sid=26/05/06/1722250&from=rss) - [Taiwan Cops Say Student's Radio Kit Brought Bullet Trains to a Standstill](https://soylentnews.org/article.pl?sid=26/05/06/1722250&from=rss)
 * [2026-05-07, 18:29:00](https://soylentnews.org/article.pl?sid=26/05/06/1720223&from=rss) - [The RAM Crisis Isn't Going Anywhere: Micron CEO Warns AI Will Need More Memory](https://soylentnews.org/article.pl?sid=26/05/06/1720223&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-29, 01:26:00](https://soylentnews.org/article.pl?sid=26/04/28/0547234&from=rss) - [NASA Shut Down Voyager 1 Science Instrument After Unexpected Power Drop](https://soylentnews.org/article.pl?sid=26/04/28/0547234&from=rss)
 * [2026-04-28, 18:40:00](https://soylentnews.org/article.pl?sid=26/04/26/1853229&from=rss) - [Someone Made a Windows 95 Subsystem for Linux](https://soylentnews.org/article.pl?sid=26/04/26/1853229&from=rss)
 * [2026-04-28, 14:00:00](https://soylentnews.org/article.pl?sid=26/04/26/1758257&from=rss) - [Raccoons Solve Puzzles for the Fun of It](https://soylentnews.org/article.pl?sid=26/04/26/1758257&from=rss)
-* [2026-04-28, 09:22:00](https://soylentnews.org/article.pl?sid=26/04/26/1740233&from=rss) - [A Sun is Not Required to Generate Conditions Suitable for Life on Exoplanet Moons](https://soylentnews.org/article.pl?sid=26/04/26/1740233&from=rss)
 
 ## [Archives](archives/index.md)
 
