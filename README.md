@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-09, 08:34:00](https://soylentnews.org/article.pl?sid=26/05/08/1121205&from=rss) - [Trump Administration Considers Mandatory Pre-Release Vetting of AI Models](https://soylentnews.org/article.pl?sid=26/05/08/1121205&from=rss)
 * [2026-05-09, 03:48:00](https://soylentnews.org/article.pl?sid=26/05/08/1111240&from=rss) - [Widely Used Daemon Tools Disk App Backdoored in Monthlong Supply-Chain Attack](https://soylentnews.org/article.pl?sid=26/05/08/1111240&from=rss)
 * [2026-05-08, 23:03:00](https://soylentnews.org/article.pl?sid=26/05/08/113258&from=rss) - [Mozilla Says 271 Vulnerabilities Found by Mythos Have “Almost No False Positives”](https://soylentnews.org/article.pl?sid=26/05/08/113258&from=rss)
 * [2026-05-08, 18:14:00](https://soylentnews.org/article.pl?sid=26/05/07/0154202&from=rss) - [Starbucks CEO Defends $9 Coffee: ‘A Really Affordable Premium Experience’](https://soylentnews.org/article.pl?sid=26/05/07/0154202&from=rss)
@@ -49,7 +50,6 @@
 * [2026-04-30, 01:08:00](https://soylentnews.org/article.pl?sid=26/04/28/0610224&from=rss) - [China's Biggest Streaming Platform Wants Most of its New Films to be AI-Generated](https://soylentnews.org/article.pl?sid=26/04/28/0610224&from=rss)
 * [2026-04-29, 20:22:00](https://soylentnews.org/article.pl?sid=26/04/28/062230&from=rss) - [Tails Linux 7.7 Anonymous Distro Adds Detection of Outdated Secure Boot Certificates](https://soylentnews.org/article.pl?sid=26/04/28/062230&from=rss)
 * [2026-04-29, 15:41:00](https://soylentnews.org/article.pl?sid=26/04/28/0558247&from=rss) - [Antarctica Just Saw the Fastest Glacier Collapse Ever Recorded](https://soylentnews.org/article.pl?sid=26/04/28/0558247&from=rss)
-* [2026-04-29, 10:54:00](https://soylentnews.org/article.pl?sid=26/04/28/0555211&from=rss) - [Meta Signs Multibillion-Dollar Deal With Amazon to Use its CPU Chips for AI](https://soylentnews.org/article.pl?sid=26/04/28/0555211&from=rss)
 
 ## [Archives](archives/index.md)
 
