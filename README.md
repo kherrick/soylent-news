@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-10, 08:21:00](https://soylentnews.org/article.pl?sid=26/05/09/1056215&from=rss) - [Apple Agrees to Pay iPhone Owners $250 Million for Not Delivering AI Siri](https://soylentnews.org/article.pl?sid=26/05/09/1056215&from=rss)
 * [2026-05-10, 03:33:00](https://soylentnews.org/article.pl?sid=26/05/09/1054212&from=rss) - [Chocolate Factory Strikes Again (and Again, and Again, and ...)](https://soylentnews.org/article.pl?sid=26/05/09/1054212&from=rss)
 * [2026-05-09, 22:51:00](https://soylentnews.org/article.pl?sid=26/05/09/1052226&from=rss) - [Meta Is Dying](https://soylentnews.org/article.pl?sid=26/05/09/1052226&from=rss)
 * [2026-05-09, 18:03:00](https://soylentnews.org/article.pl?sid=26/05/09/0813214&from=rss) - [Russia's Censor Body, Roskomnadzor, Wants to Block 92% of VPN Apps by 2030](https://soylentnews.org/article.pl?sid=26/05/09/0813214&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-01, 00:58:00](https://soylentnews.org/article.pl?sid=26/04/30/0223202&from=rss) - [Your Phone is About to Stop Being Yours. Keep Android Open!](https://soylentnews.org/article.pl?sid=26/04/30/0223202&from=rss)
 * [2026-04-30, 20:13:00](https://soylentnews.org/article.pl?sid=26/04/29/1243245&from=rss) - [Gone in Nine Seconds](https://soylentnews.org/article.pl?sid=26/04/29/1243245&from=rss)
 * [2026-04-30, 15:24:00](https://soylentnews.org/article.pl?sid=26/04/29/1156248&from=rss) - [Electrical Current Might be the Key to a Better Cup of Coffee](https://soylentnews.org/article.pl?sid=26/04/29/1156248&from=rss)
-* [2026-04-30, 10:38:00](https://soylentnews.org/article.pl?sid=26/04/28/0620241&from=rss) - [NASAs Incredible New Telescope Will Offer an Atlas of the Universe](https://soylentnews.org/article.pl?sid=26/04/28/0620241&from=rss)
 
 ## [Archives](archives/index.md)
 
