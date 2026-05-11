@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-11, 08:04:00](https://soylentnews.org/article.pl?sid=26/05/10/0245229&from=rss) - [After 100 Years, Scientists Uncover Hidden Rule Governing Cosmic Rays](https://soylentnews.org/article.pl?sid=26/05/10/0245229&from=rss)
 * [2026-05-11, 03:21:00](https://soylentnews.org/article.pl?sid=26/05/10/0243229&from=rss) - [Google Chrome Downloading 4GB AI Model to Your Device Without Asking Re-Downloads When You Delete It](https://soylentnews.org/article.pl?sid=26/05/10/0243229&from=rss)
 * [2026-05-10, 22:37:00](https://soylentnews.org/article.pl?sid=26/05/09/118251&from=rss) - [Researcher Shows Edge Browser Stores Saved Passwords in Plaintext](https://soylentnews.org/article.pl?sid=26/05/09/118251&from=rss)
 * [2026-05-10, 17:52:00](https://soylentnews.org/article.pl?sid=26/05/09/116230&from=rss) - [Huawei Braces for $12 Billion in AI Chip Revenue Driven by Homegrown AI Model Demand](https://soylentnews.org/article.pl?sid=26/05/09/116230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-02, 00:38:00](https://soylentnews.org/article.pl?sid=26/04/30/1229213&from=rss) - [How Linux 7.0 Broke PostgreSQL](https://soylentnews.org/article.pl?sid=26/04/30/1229213&from=rss)
 * [2026-05-01, 19:55:00](https://soylentnews.org/article.pl?sid=26/04/30/1227212&from=rss) - [Colorado's Anti-Repair Bill is Dead](https://soylentnews.org/article.pl?sid=26/04/30/1227212&from=rss)
 * [2026-05-01, 15:11:00](https://soylentnews.org/article.pl?sid=26/04/30/0232227&from=rss) - [Vibe Coding Will Break Your Company      ](https://soylentnews.org/article.pl?sid=26/04/30/0232227&from=rss)
-* [2026-05-01, 10:25:00](https://soylentnews.org/article.pl?sid=26/04/30/0229207&from=rss) - [Google Ad Income Per User - With Demographic Breakdown](https://soylentnews.org/article.pl?sid=26/04/30/0229207&from=rss)
 
 ## [Archives](archives/index.md)
 
