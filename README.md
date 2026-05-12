@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-12, 22:06:00](https://soylentnews.org/article.pl?sid=26/05/11/1323253&from=rss) - [Scientists Identify a Hidden Blood Particle Linked to Higher Risk of Stroke and Death](https://soylentnews.org/article.pl?sid=26/05/11/1323253&from=rss)
 * [2026-05-12, 17:24:00](https://soylentnews.org/article.pl?sid=26/05/11/1325244&from=rss) - [Kdenlive 26.04.1 Video Editor Fixes Serious Project File Security Flaw](https://soylentnews.org/article.pl?sid=26/05/11/1325244&from=rss)
 * [2026-05-12, 12:41:00](https://soylentnews.org/article.pl?sid=26/05/11/1328203&from=rss) - [Everyone's a Loser in Strait of Hormuz Game That Simulates Global Crisis](https://soylentnews.org/article.pl?sid=26/05/11/1328203&from=rss)
 * [2026-05-12, 07:54:00](https://soylentnews.org/article.pl?sid=26/05/11/1321256&from=rss) - [Link Between Pollinators and Diverse Landscapes is a Two-Way Street](https://soylentnews.org/article.pl?sid=26/05/11/1321256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-03, 14:35:00](https://soylentnews.org/article.pl?sid=26/05/01/078213&from=rss) - [There's a Good Reason Semi Trucks Don't Use V8s](https://soylentnews.org/article.pl?sid=26/05/01/078213&from=rss)
 * [2026-05-03, 09:52:00](https://soylentnews.org/article.pl?sid=26/05/01/073236&from=rss) - [Ghostty Is Leaving GitHub - Ghostty Developer Loses Confidence in GitHub’s Reliability](https://soylentnews.org/article.pl?sid=26/05/01/073236&from=rss)
 * [2026-05-03, 05:10:00](https://soylentnews.org/article.pl?sid=26/05/01/0658214&from=rss) - [Round Up of Latest OS and Browser Releases](https://soylentnews.org/article.pl?sid=26/05/01/0658214&from=rss)
-* [2026-05-03, 00:27:00](https://soylentnews.org/article.pl?sid=26/05/01/0648229&from=rss) - [The Resurrected Commodore 64 is Getting a Facelift Like the Original](https://soylentnews.org/article.pl?sid=26/05/01/0648229&from=rss)
 
 ## [Archives](archives/index.md)
 
