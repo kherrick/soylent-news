@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-05-12](index.md)
+
+* [2026-05-12, 03:09:00](https://soylentnews.org/article.pl?sid=26/05/11/041243&from=rss) - [Could the Universe's Hidden Shape Solve One of Physics’ Biggest Mysteries?](https://soylentnews.org/article.pl?sid=26/05/11/041243&from=rss)
