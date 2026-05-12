@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-12, 07:54:00](https://soylentnews.org/article.pl?sid=26/05/11/1321256&from=rss) - [Link Between Pollinators and Diverse Landscapes is a Two-Way Street](https://soylentnews.org/article.pl?sid=26/05/11/1321256&from=rss)
 * [2026-05-12, 03:09:00](https://soylentnews.org/article.pl?sid=26/05/11/041243&from=rss) - [Could the Universe's Hidden Shape Solve One of Physics’ Biggest Mysteries?](https://soylentnews.org/article.pl?sid=26/05/11/041243&from=rss)
 * [2026-05-11, 22:21:00](https://soylentnews.org/article.pl?sid=26/05/11/0353247&from=rss) - [Here's What Has To Happen If NASA Wants To Land On The Moon Every Month](https://soylentnews.org/article.pl?sid=26/05/11/0353247&from=rss)
 * [2026-05-11, 17:39:00](https://soylentnews.org/article.pl?sid=26/05/11/0344219&from=rss) - [Lenovo and Dell Are Now Funding the Service That Ships Firmware to Millions of Linux Devices](https://soylentnews.org/article.pl?sid=26/05/11/0344219&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-03, 00:27:00](https://soylentnews.org/article.pl?sid=26/05/01/0648229&from=rss) - [The Resurrected Commodore 64 is Getting a Facelift Like the Original](https://soylentnews.org/article.pl?sid=26/05/01/0648229&from=rss)
 * [2026-05-02, 19:42:00](https://soylentnews.org/article.pl?sid=26/05/01/0645211&from=rss) - [Drone Pilot Makes US Rescind No-Fly Zones Around Unmarked, Moving ICE Vehicles](https://soylentnews.org/article.pl?sid=26/05/01/0645211&from=rss)
 * [2026-05-02, 14:56:00](https://soylentnews.org/article.pl?sid=26/05/01/0637252&from=rss) - [Linux Cryptographic Code Flaw Offers Fast Route to Root](https://soylentnews.org/article.pl?sid=26/05/01/0637252&from=rss)
-* [2026-05-02, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/30/1239239&from=rss) - [Apple Wants to Kill Your Time Capsule, but They Run NetBSD So They Can't](https://soylentnews.org/article.pl?sid=26/04/30/1239239&from=rss)
 
 ## [Archives](archives/index.md)
 
