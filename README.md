@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-13, 17:07:00](https://soylentnews.org/article.pl?sid=26/05/11/148254&from=rss) - [Louis Rossmann Tells 3D Printer Maker Bambu Lab To ‘Go (Bleep) Yourself’ Over Its Threatened Lawsuit](https://soylentnews.org/article.pl?sid=26/05/11/148254&from=rss)
 * [2026-05-13, 12:21:00](https://soylentnews.org/article.pl?sid=26/05/11/146201&from=rss) - [LLMs Are Different and LLMs Are the Same](https://soylentnews.org/article.pl?sid=26/05/11/146201&from=rss)
 * [2026-05-13, 07:35:00](https://soylentnews.org/article.pl?sid=26/05/11/1331243&from=rss) - [A Simple Way of Making Hydrogen From Alcohol by Using Iron and UV Light](https://soylentnews.org/article.pl?sid=26/05/11/1331243&from=rss)
 * [2026-05-13, 02:49:00](https://soylentnews.org/article.pl?sid=26/05/11/1329241&from=rss) - [MIT Researchers Revive 40-Year-Old Triangular Zipper Concept Now Made Possible by 3D Printing](https://soylentnews.org/article.pl?sid=26/05/11/1329241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-04, 09:39:00](https://soylentnews.org/article.pl?sid=26/05/03/0232241&from=rss) - [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&from=rss)
 * [2026-05-04, 04:52:00](https://soylentnews.org/article.pl?sid=26/05/03/0223205&from=rss) - [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&from=rss)
 * [2026-05-04, 00:09:00](https://soylentnews.org/article.pl?sid=26/05/03/020241&from=rss) - [Ask.com Closes](https://soylentnews.org/article.pl?sid=26/05/03/020241&from=rss)
-* [2026-05-03, 19:19:00](https://soylentnews.org/article.pl?sid=26/05/01/079248&from=rss) - [The Linux Kernel Tree About to Hit 40 Million Lines, AMD Driver Above 6 Million Lines](https://soylentnews.org/article.pl?sid=26/05/01/079248&from=rss)
 
 ## [Archives](archives/index.md)
 
