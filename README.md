@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-14, 05:23:00](https://soylentnews.org/article.pl?sid=26/05/13/215223&from=rss) - [“Cannot be Explained” – New Ultra Stainless Steel Stuns Researchers](https://soylentnews.org/article.pl?sid=26/05/13/215223&from=rss)
 * [2026-05-14, 00:35:00](https://soylentnews.org/article.pl?sid=26/05/13/2054254&from=rss) - [What's Up With UPSs?](https://soylentnews.org/article.pl?sid=26/05/13/2054254&from=rss)
 * [2026-05-13, 19:51:00](https://soylentnews.org/article.pl?sid=26/05/13/191214&from=rss) - [Workers Pay the Price of Burnout. Should Employers Cover the Cost?](https://soylentnews.org/article.pl?sid=26/05/13/191214&from=rss)
 * [2026-05-13, 17:07:00](https://soylentnews.org/article.pl?sid=26/05/11/148254&from=rss) - [Louis Rossmann Tells 3D Printer Maker Bambu Lab To ‘Go (Bleep) Yourself’ Over Its Threatened Lawsuit](https://soylentnews.org/article.pl?sid=26/05/11/148254&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-04, 23:56:00](https://soylentnews.org/article.pl?sid=26/05/04/1427214&from=rss) - [Anthropic Secretly Installs Spyware When You Install Claude Desktop](https://soylentnews.org/article.pl?sid=26/05/04/1427214&from=rss)
 * [2026-05-04, 19:07:00](https://soylentnews.org/article.pl?sid=26/05/03/0258243&from=rss) - [NHS Goes to War Against Open Source](https://soylentnews.org/article.pl?sid=26/05/03/0258243&from=rss)
 * [2026-05-04, 14:20:00](https://soylentnews.org/article.pl?sid=26/05/03/0252239&from=rss) - [Zambia Cancels Global Digital Freedoms Conference Days Before Start](https://soylentnews.org/article.pl?sid=26/05/03/0252239&from=rss)
-* [2026-05-04, 09:39:00](https://soylentnews.org/article.pl?sid=26/05/03/0232241&from=rss) - [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&from=rss)
 
 ## [Archives](archives/index.md)
 
