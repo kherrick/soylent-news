@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-14, 14:54:00](https://soylentnews.org/article.pl?sid=26/05/14/0258245&from=rss) - [Both Fedora and Ubuntu Will Get AI Support – Soon](https://soylentnews.org/article.pl?sid=26/05/14/0258245&from=rss)
 * [2026-05-14, 10:06:00](https://soylentnews.org/article.pl?sid=26/05/14/0248229&from=rss) - [Google Says Hackers Used AI to Develop a Major Security Flaw](https://soylentnews.org/article.pl?sid=26/05/14/0248229&from=rss)
 * [2026-05-14, 05:23:00](https://soylentnews.org/article.pl?sid=26/05/13/215223&from=rss) - [“Cannot be Explained” – New Ultra Stainless Steel Stuns Researchers](https://soylentnews.org/article.pl?sid=26/05/13/215223&from=rss)
 * [2026-05-14, 00:35:00](https://soylentnews.org/article.pl?sid=26/05/13/2054254&from=rss) - [What's Up With UPSs?](https://soylentnews.org/article.pl?sid=26/05/13/2054254&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-05, 09:25:00](https://soylentnews.org/article.pl?sid=26/05/04/1436227&from=rss) - [New Report Highlights Fructose as a Key Driver of Metabolic Disease](https://soylentnews.org/article.pl?sid=26/05/04/1436227&from=rss)
 * [2026-05-05, 04:41:00](https://soylentnews.org/article.pl?sid=26/05/04/1434244&from=rss) - [Canonical’s Ubuntu Servers Go Down as Hackers Demand Direct Talks](https://soylentnews.org/article.pl?sid=26/05/04/1434244&from=rss)
 * [2026-05-04, 23:56:00](https://soylentnews.org/article.pl?sid=26/05/04/1427214&from=rss) - [Anthropic Secretly Installs Spyware When You Install Claude Desktop](https://soylentnews.org/article.pl?sid=26/05/04/1427214&from=rss)
-* [2026-05-04, 19:07:00](https://soylentnews.org/article.pl?sid=26/05/03/0258243&from=rss) - [NHS Goes to War Against Open Source](https://soylentnews.org/article.pl?sid=26/05/03/0258243&from=rss)
 
 ## [Archives](archives/index.md)
 
