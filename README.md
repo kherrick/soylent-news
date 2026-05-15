@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-15, 09:59:00](https://soylentnews.org/article.pl?sid=26/05/14/0321244&from=rss) - [The Great Zombification: AI in the Ivory Tower](https://soylentnews.org/article.pl?sid=26/05/14/0321244&from=rss)
 * [2026-05-15, 05:16:00](https://soylentnews.org/article.pl?sid=26/05/14/0316205&from=rss) - [The New Wild West of AI Kids’ Toys](https://soylentnews.org/article.pl?sid=26/05/14/0316205&from=rss)
 * [2026-05-15, 00:25:00](https://soylentnews.org/article.pl?sid=26/05/14/0239217&from=rss) - [Scientists Solve 100-Year-Old Schrödinger Mystery About Color Perception](https://soylentnews.org/article.pl?sid=26/05/14/0239217&from=rss)
 * [2026-05-14, 19:41:00](https://soylentnews.org/article.pl?sid=26/05/14/032218&from=rss) - [GM Agrees to Pay $12.75 Million to Settle California Lawsuit Over Misuse of Customers' Driving Data](https://soylentnews.org/article.pl?sid=26/05/14/032218&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-06, 04:31:00](https://soylentnews.org/article.pl?sid=26/05/05/1123232&from=rss) - [Toyota Built a $10 Billion Private Utopia—What's Going on in There?](https://soylentnews.org/article.pl?sid=26/05/05/1123232&from=rss)
 * [2026-05-05, 23:42:00](https://soylentnews.org/article.pl?sid=26/05/04/1443241&from=rss) - [Someone Turned a PS5 Into a Linux Gaming PC, and It Actually Works](https://soylentnews.org/article.pl?sid=26/05/04/1443241&from=rss)
 * [2026-05-05, 18:50:00](https://soylentnews.org/article.pl?sid=26/05/04/1440249&from=rss) - [AI Makes Granular Pricing Easier, but Consumer Psychology May Make It Less Profitable](https://soylentnews.org/article.pl?sid=26/05/04/1440249&from=rss)
-* [2026-05-05, 14:08:00](https://soylentnews.org/article.pl?sid=26/05/04/1439238&from=rss) - [Round Up of Latest OS and Software Releases](https://soylentnews.org/article.pl?sid=26/05/04/1439238&from=rss)
 
 ## [Archives](archives/index.md)
 
