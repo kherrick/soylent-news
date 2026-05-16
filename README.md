@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-16, 09:40:00](https://soylentnews.org/article.pl?sid=26/05/15/1911234&from=rss) - [Open Source Package With 1 Million Monthly Downloads Stole User Credentials](https://soylentnews.org/article.pl?sid=26/05/15/1911234&from=rss)
 * [2026-05-16, 04:58:00](https://soylentnews.org/article.pl?sid=26/05/15/199214&from=rss) - [NASA Pushes Mars Helicopter Rotors Past the Speed of Sound for the First Time Ever](https://soylentnews.org/article.pl?sid=26/05/15/199214&from=rss)
 * [2026-05-16, 00:12:00](https://soylentnews.org/article.pl?sid=26/05/15/197229&from=rss) - [Tails Linux 7.7.3 Emergency Release Fixes Dirty Frag Vulnerability](https://soylentnews.org/article.pl?sid=26/05/15/197229&from=rss)
 * [2026-05-15, 19:24:00](https://soylentnews.org/article.pl?sid=26/05/15/194258&from=rss) - [A Wikipedia Clone Built on AI Hallucinations is Here to Hasten Along the Death of the Internet](https://soylentnews.org/article.pl?sid=26/05/15/194258&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-07, 04:13:00](https://soylentnews.org/article.pl?sid=26/05/06/0356228&from=rss) - [Utah Will Ban VPN Use to Circumvent Age Verification](https://soylentnews.org/article.pl?sid=26/05/06/0356228&from=rss)
 * [2026-05-06, 23:30:00](https://soylentnews.org/article.pl?sid=26/05/06/0351248&from=rss) - [OpenAI Explains the \"codex-goblins\" Problem](https://soylentnews.org/article.pl?sid=26/05/06/0351248&from=rss)
 * [2026-05-06, 18:45:00](https://soylentnews.org/article.pl?sid=26/05/06/0347215&from=rss) - [Scientists Stunned by New Organic Molecules Found on Mars](https://soylentnews.org/article.pl?sid=26/05/06/0347215&from=rss)
-* [2026-05-06, 13:58:00](https://soylentnews.org/article.pl?sid=26/05/05/1130201&from=rss) - [Samsung & Intel Considered as Alternatives to TSMC for Apple Silicon Production](https://soylentnews.org/article.pl?sid=26/05/05/1130201&from=rss)
 
 ## [Archives](archives/index.md)
 
