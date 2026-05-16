@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-16, 19:17:00](https://soylentnews.org/article.pl?sid=26/05/16/009242&from=rss) - [HP Stuffed a PC Into a Keyboard. We Took it for a Spin](https://soylentnews.org/article.pl?sid=26/05/16/009242&from=rss)
 * [2026-05-16, 14:28:00](https://soylentnews.org/article.pl?sid=26/05/16/006216&from=rss) - [1,300-Year-Old Secret: Lost Medieval Manuscript Finally Found Hiding in Plain Sight](https://soylentnews.org/article.pl?sid=26/05/16/006216&from=rss)
 * [2026-05-16, 09:40:00](https://soylentnews.org/article.pl?sid=26/05/15/1911234&from=rss) - [Open Source Package With 1 Million Monthly Downloads Stole User Credentials](https://soylentnews.org/article.pl?sid=26/05/15/1911234&from=rss)
 * [2026-05-16, 04:58:00](https://soylentnews.org/article.pl?sid=26/05/15/199214&from=rss) - [NASA Pushes Mars Helicopter Rotors Past the Speed of Sound for the First Time Ever](https://soylentnews.org/article.pl?sid=26/05/15/199214&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-07, 13:43:00](https://soylentnews.org/article.pl?sid=26/05/06/1719213&from=rss) - [The US Just Found Enough Lithium To Rival China - Now Comes The Hard Part](https://soylentnews.org/article.pl?sid=26/05/06/1719213&from=rss)
 * [2026-05-07, 09:00:00](https://soylentnews.org/article.pl?sid=26/05/06/045204&from=rss) - [Employees Are Now More Dangerous to Their Company Than External Hackers](https://soylentnews.org/article.pl?sid=26/05/06/045204&from=rss)
 * [2026-05-07, 04:13:00](https://soylentnews.org/article.pl?sid=26/05/06/0356228&from=rss) - [Utah Will Ban VPN Use to Circumvent Age Verification](https://soylentnews.org/article.pl?sid=26/05/06/0356228&from=rss)
-* [2026-05-06, 23:30:00](https://soylentnews.org/article.pl?sid=26/05/06/0351248&from=rss) - [OpenAI Explains the \"codex-goblins\" Problem](https://soylentnews.org/article.pl?sid=26/05/06/0351248&from=rss)
 
 ## [Archives](archives/index.md)
 
