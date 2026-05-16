@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-16, 00:12:00](https://soylentnews.org/article.pl?sid=26/05/15/197229&from=rss) - [Tails Linux 7.7.3 Emergency Release Fixes Dirty Frag Vulnerability](https://soylentnews.org/article.pl?sid=26/05/15/197229&from=rss)
 * [2026-05-15, 19:24:00](https://soylentnews.org/article.pl?sid=26/05/15/194258&from=rss) - [A Wikipedia Clone Built on AI Hallucinations is Here to Hasten Along the Death of the Internet](https://soylentnews.org/article.pl?sid=26/05/15/194258&from=rss)
 * [2026-05-15, 14:45:00](https://soylentnews.org/article.pl?sid=26/05/14/0327203&from=rss) - [Linux Kernel Maintainers Pitch Emergency Killswitch After CopyFail and Dirty Frag Chaos](https://soylentnews.org/article.pl?sid=26/05/14/0327203&from=rss)
 * [2026-05-15, 09:59:00](https://soylentnews.org/article.pl?sid=26/05/14/0321244&from=rss) - [The Great Zombification: AI in the Ivory Tower](https://soylentnews.org/article.pl?sid=26/05/14/0321244&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-06, 18:45:00](https://soylentnews.org/article.pl?sid=26/05/06/0347215&from=rss) - [Scientists Stunned by New Organic Molecules Found on Mars](https://soylentnews.org/article.pl?sid=26/05/06/0347215&from=rss)
 * [2026-05-06, 13:58:00](https://soylentnews.org/article.pl?sid=26/05/05/1130201&from=rss) - [Samsung & Intel Considered as Alternatives to TSMC for Apple Silicon Production](https://soylentnews.org/article.pl?sid=26/05/05/1130201&from=rss)
 * [2026-05-06, 09:15:00](https://soylentnews.org/article.pl?sid=26/05/05/1125244&from=rss) - [Chinese EVs Can Now Project Movies From Their Headlights](https://soylentnews.org/article.pl?sid=26/05/05/1125244&from=rss)
-* [2026-05-06, 04:31:00](https://soylentnews.org/article.pl?sid=26/05/05/1123232&from=rss) - [Toyota Built a $10 Billion Private Utopia—What's Going on in There?](https://soylentnews.org/article.pl?sid=26/05/05/1123232&from=rss)
 
 ## [Archives](archives/index.md)
 
