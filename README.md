@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-17, 14:03:00](https://soylentnews.org/article.pl?sid=26/05/17/0146201&from=rss) - [A Security Researcher Says Microsoft Secretly Built a Backdoor into BitLocker](https://soylentnews.org/article.pl?sid=26/05/17/0146201&from=rss)
 * [2026-05-17, 09:23:00](https://soylentnews.org/article.pl?sid=26/05/16/0314220&from=rss) - [EVs Cause Honda’s First Ever Money-Losing Year in the US](https://soylentnews.org/article.pl?sid=26/05/16/0314220&from=rss)
 * [2026-05-17, 04:43:00](https://soylentnews.org/article.pl?sid=26/05/16/0015203&from=rss) - [Here's Why European Cars Can't Use American Engine Oil](https://soylentnews.org/article.pl?sid=26/05/16/0015203&from=rss)
 * [2026-05-16, 23:51:00](https://soylentnews.org/article.pl?sid=26/05/16/0013231&from=rss) - [AISLE Discovers CVE-2026-42511: a 21-Year-Old FreeBSD Remote Command Execution Vulnerability](https://soylentnews.org/article.pl?sid=26/05/16/0013231&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-08, 08:49:00](https://soylentnews.org/article.pl?sid=26/05/07/0149246&from=rss) - [Nissan Redirects Mississippi Jobs To Trucks, SUVs Now](https://soylentnews.org/article.pl?sid=26/05/07/0149246&from=rss)
 * [2026-05-08, 03:57:00](https://soylentnews.org/article.pl?sid=26/05/07/0148227&from=rss) - [ Making Wooden Skis by Hand](https://soylentnews.org/article.pl?sid=26/05/07/0148227&from=rss)
 * [2026-05-07, 23:14:00](https://soylentnews.org/article.pl?sid=26/05/06/1722250&from=rss) - [Taiwan Cops Say Student's Radio Kit Brought Bullet Trains to a Standstill](https://soylentnews.org/article.pl?sid=26/05/06/1722250&from=rss)
-* [2026-05-07, 18:29:00](https://soylentnews.org/article.pl?sid=26/05/06/1720223&from=rss) - [The RAM Crisis Isn't Going Anywhere: Micron CEO Warns AI Will Need More Memory](https://soylentnews.org/article.pl?sid=26/05/06/1720223&from=rss)
 
 ## [Archives](archives/index.md)
 
