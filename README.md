@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-17, 09:23:00](https://soylentnews.org/article.pl?sid=26/05/16/0314220&from=rss) - [EVs Cause Honda’s First Ever Money-Losing Year in the US](https://soylentnews.org/article.pl?sid=26/05/16/0314220&from=rss)
 * [2026-05-17, 04:43:00](https://soylentnews.org/article.pl?sid=26/05/16/0015203&from=rss) - [Here's Why European Cars Can't Use American Engine Oil](https://soylentnews.org/article.pl?sid=26/05/16/0015203&from=rss)
 * [2026-05-16, 23:51:00](https://soylentnews.org/article.pl?sid=26/05/16/0013231&from=rss) - [AISLE Discovers CVE-2026-42511: a 21-Year-Old FreeBSD Remote Command Execution Vulnerability](https://soylentnews.org/article.pl?sid=26/05/16/0013231&from=rss)
 * [2026-05-16, 19:17:00](https://soylentnews.org/article.pl?sid=26/05/16/009242&from=rss) - [HP Stuffed a PC Into a Keyboard. We Took it for a Spin](https://soylentnews.org/article.pl?sid=26/05/16/009242&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-08, 03:57:00](https://soylentnews.org/article.pl?sid=26/05/07/0148227&from=rss) - [ Making Wooden Skis by Hand](https://soylentnews.org/article.pl?sid=26/05/07/0148227&from=rss)
 * [2026-05-07, 23:14:00](https://soylentnews.org/article.pl?sid=26/05/06/1722250&from=rss) - [Taiwan Cops Say Student's Radio Kit Brought Bullet Trains to a Standstill](https://soylentnews.org/article.pl?sid=26/05/06/1722250&from=rss)
 * [2026-05-07, 18:29:00](https://soylentnews.org/article.pl?sid=26/05/06/1720223&from=rss) - [The RAM Crisis Isn't Going Anywhere: Micron CEO Warns AI Will Need More Memory](https://soylentnews.org/article.pl?sid=26/05/06/1720223&from=rss)
-* [2026-05-07, 13:43:00](https://soylentnews.org/article.pl?sid=26/05/06/1719213&from=rss) - [The US Just Found Enough Lithium To Rival China - Now Comes The Hard Part](https://soylentnews.org/article.pl?sid=26/05/06/1719213&from=rss)
 
 ## [Archives](archives/index.md)
 
