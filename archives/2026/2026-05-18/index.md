@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 09:05:00](https://soylentnews.org/article.pl?sid=26/05/17/1229217&from=rss) - [The Context Window Has Been Shattered: Subquadratic Debuts a 12-Million-Token Window](https://soylentnews.org/article.pl?sid=26/05/17/1229217&from=rss)
 * [2026-05-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/05/17/0153208&from=rss) - [SteamOS Scared Microsoft Into Making Windows Less Like Windows](https://soylentnews.org/article.pl?sid=26/05/17/0153208&from=rss)
