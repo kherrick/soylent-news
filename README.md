@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-18, 18:37:00](https://soylentnews.org/article.pl?sid=26/05/17/1359222&from=rss) - [What Will It Take to Modernize the US Power Grid?](https://soylentnews.org/article.pl?sid=26/05/17/1359222&from=rss)
 * [2026-05-18, 13:51:00](https://soylentnews.org/article.pl?sid=26/05/17/1346233&from=rss) - [China Court Rules Against Job Cut From AI](https://soylentnews.org/article.pl?sid=26/05/17/1346233&from=rss)
 * [2026-05-18, 09:05:00](https://soylentnews.org/article.pl?sid=26/05/17/1229217&from=rss) - [The Context Window Has Been Shattered: Subquadratic Debuts a 12-Million-Token Window](https://soylentnews.org/article.pl?sid=26/05/17/1229217&from=rss)
 * [2026-05-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/05/17/0153208&from=rss) - [SteamOS Scared Microsoft Into Making Windows Less Like Windows](https://soylentnews.org/article.pl?sid=26/05/17/0153208&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-09, 13:19:00](https://soylentnews.org/article.pl?sid=26/05/08/1125252&from=rss) - [This New “Sound Laser” Could Measure Gravity With Stunning Precision](https://soylentnews.org/article.pl?sid=26/05/08/1125252&from=rss)
 * [2026-05-09, 08:34:00](https://soylentnews.org/article.pl?sid=26/05/08/1121205&from=rss) - [Trump Administration Considers Mandatory Pre-Release Vetting of AI Models](https://soylentnews.org/article.pl?sid=26/05/08/1121205&from=rss)
 * [2026-05-09, 03:48:00](https://soylentnews.org/article.pl?sid=26/05/08/1111240&from=rss) - [Widely Used Daemon Tools Disk App Backdoored in Monthlong Supply-Chain Attack](https://soylentnews.org/article.pl?sid=26/05/08/1111240&from=rss)
-* [2026-05-08, 23:03:00](https://soylentnews.org/article.pl?sid=26/05/08/113258&from=rss) - [Mozilla Says 271 Vulnerabilities Found by Mythos Have “Almost No False Positives”](https://soylentnews.org/article.pl?sid=26/05/08/113258&from=rss)
 
 ## [Archives](archives/index.md)
 
