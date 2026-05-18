@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-18, 23:22:00](https://soylentnews.org/article.pl?sid=26/05/17/144228&from=rss) - [Huge Landslide Created a 500-Meter-High Tsunami in a Major Tourist Area](https://soylentnews.org/article.pl?sid=26/05/17/144228&from=rss)
 * [2026-05-18, 18:37:00](https://soylentnews.org/article.pl?sid=26/05/17/1359222&from=rss) - [What Will It Take to Modernize the US Power Grid?](https://soylentnews.org/article.pl?sid=26/05/17/1359222&from=rss)
 * [2026-05-18, 13:51:00](https://soylentnews.org/article.pl?sid=26/05/17/1346233&from=rss) - [China Court Rules Against Job Cut From AI](https://soylentnews.org/article.pl?sid=26/05/17/1346233&from=rss)
 * [2026-05-18, 09:05:00](https://soylentnews.org/article.pl?sid=26/05/17/1229217&from=rss) - [The Context Window Has Been Shattered: Subquadratic Debuts a 12-Million-Token Window](https://soylentnews.org/article.pl?sid=26/05/17/1229217&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-09, 18:03:00](https://soylentnews.org/article.pl?sid=26/05/09/0813214&from=rss) - [Russia's Censor Body, Roskomnadzor, Wants to Block 92% of VPN Apps by 2030](https://soylentnews.org/article.pl?sid=26/05/09/0813214&from=rss)
 * [2026-05-09, 13:19:00](https://soylentnews.org/article.pl?sid=26/05/08/1125252&from=rss) - [This New “Sound Laser” Could Measure Gravity With Stunning Precision](https://soylentnews.org/article.pl?sid=26/05/08/1125252&from=rss)
 * [2026-05-09, 08:34:00](https://soylentnews.org/article.pl?sid=26/05/08/1121205&from=rss) - [Trump Administration Considers Mandatory Pre-Release Vetting of AI Models](https://soylentnews.org/article.pl?sid=26/05/08/1121205&from=rss)
-* [2026-05-09, 03:48:00](https://soylentnews.org/article.pl?sid=26/05/08/1111240&from=rss) - [Widely Used Daemon Tools Disk App Backdoored in Monthlong Supply-Chain Attack](https://soylentnews.org/article.pl?sid=26/05/08/1111240&from=rss)
 
 ## [Archives](archives/index.md)
 
