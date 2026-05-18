@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/05/17/0153208&from=rss) - [SteamOS Scared Microsoft Into Making Windows Less Like Windows](https://soylentnews.org/article.pl?sid=26/05/17/0153208&from=rss)
 * [2026-05-17, 23:37:00](https://soylentnews.org/article.pl?sid=26/05/17/0150209&from=rss) - [Scientists May Have Discovered How Parkinson’s Disease Spreads Through the Brain](https://soylentnews.org/article.pl?sid=26/05/17/0150209&from=rss)
 * [2026-05-17, 18:56:00](https://soylentnews.org/article.pl?sid=26/05/17/0147228&from=rss) - [Removing the Modem and GPS From My 2024 RAV4 Hybrid](https://soylentnews.org/article.pl?sid=26/05/17/0147228&from=rss)
 * [2026-05-17, 14:03:00](https://soylentnews.org/article.pl?sid=26/05/17/0146201&from=rss) - [A Security Researcher Says Microsoft Secretly Built a Backdoor into BitLocker](https://soylentnews.org/article.pl?sid=26/05/17/0146201&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-08, 23:03:00](https://soylentnews.org/article.pl?sid=26/05/08/113258&from=rss) - [Mozilla Says 271 Vulnerabilities Found by Mythos Have “Almost No False Positives”](https://soylentnews.org/article.pl?sid=26/05/08/113258&from=rss)
 * [2026-05-08, 18:14:00](https://soylentnews.org/article.pl?sid=26/05/07/0154202&from=rss) - [Starbucks CEO Defends $9 Coffee: ‘A Really Affordable Premium Experience’](https://soylentnews.org/article.pl?sid=26/05/07/0154202&from=rss)
 * [2026-05-08, 13:35:00](https://soylentnews.org/article.pl?sid=26/05/07/0152233&from=rss) - [Astronomers Pin Down the Origins of a Planetary Odd Couple](https://soylentnews.org/article.pl?sid=26/05/07/0152233&from=rss)
-* [2026-05-08, 08:49:00](https://soylentnews.org/article.pl?sid=26/05/07/0149246&from=rss) - [Nissan Redirects Mississippi Jobs To Trucks, SUVs Now](https://soylentnews.org/article.pl?sid=26/05/07/0149246&from=rss)
 
 ## [Archives](archives/index.md)
 

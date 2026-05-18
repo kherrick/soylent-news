@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-05-18](index.md)
+
+* [2026-05-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/05/17/0153208&from=rss) - [SteamOS Scared Microsoft Into Making Windows Less Like Windows](https://soylentnews.org/article.pl?sid=26/05/17/0153208&from=rss)
