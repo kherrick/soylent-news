@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-19](index.md)
 
+* [2026-05-19, 18:26:00](https://soylentnews.org/article.pl?sid=26/05/18/174235&from=rss) - [Short Interview with Vint Cerf at El País](https://soylentnews.org/article.pl?sid=26/05/18/174235&from=rss)
 * [2026-05-19, 13:41:00](https://soylentnews.org/article.pl?sid=26/05/17/1438201&from=rss) - [Your Doctor is Most Likely Consulting This Free AI Chatbot](https://soylentnews.org/article.pl?sid=26/05/17/1438201&from=rss)
 * [2026-05-19, 08:56:00](https://soylentnews.org/article.pl?sid=26/05/17/1429249&from=rss) - [AI Data Centers Face Increasing Complaints About Inaudible but 'Felt' Infrasound](https://soylentnews.org/article.pl?sid=26/05/17/1429249&from=rss)
 * [2026-05-19, 04:09:00](https://soylentnews.org/article.pl?sid=26/05/17/1424241&from=rss) - [A Simple Blood Test Could Predict Your Odds of Living Longer With Surprising Accuracy](https://soylentnews.org/article.pl?sid=26/05/17/1424241&from=rss)
