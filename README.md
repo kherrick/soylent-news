@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-19, 08:56:00](https://soylentnews.org/article.pl?sid=26/05/17/1429249&from=rss) - [AI Data Centers Face Increasing Complaints About Inaudible but 'Felt' Infrasound](https://soylentnews.org/article.pl?sid=26/05/17/1429249&from=rss)
 * [2026-05-19, 04:09:00](https://soylentnews.org/article.pl?sid=26/05/17/1424241&from=rss) - [A Simple Blood Test Could Predict Your Odds of Living Longer With Surprising Accuracy](https://soylentnews.org/article.pl?sid=26/05/17/1424241&from=rss)
 * [2026-05-18, 23:22:00](https://soylentnews.org/article.pl?sid=26/05/17/144228&from=rss) - [Huge Landslide Created a 500-Meter-High Tsunami in a Major Tourist Area](https://soylentnews.org/article.pl?sid=26/05/17/144228&from=rss)
 * [2026-05-18, 18:37:00](https://soylentnews.org/article.pl?sid=26/05/17/1359222&from=rss) - [What Will It Take to Modernize the US Power Grid?](https://soylentnews.org/article.pl?sid=26/05/17/1359222&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-10, 03:33:00](https://soylentnews.org/article.pl?sid=26/05/09/1054212&from=rss) - [Chocolate Factory Strikes Again (and Again, and Again, and ...)](https://soylentnews.org/article.pl?sid=26/05/09/1054212&from=rss)
 * [2026-05-09, 22:51:00](https://soylentnews.org/article.pl?sid=26/05/09/1052226&from=rss) - [Meta Is Dying](https://soylentnews.org/article.pl?sid=26/05/09/1052226&from=rss)
 * [2026-05-09, 18:03:00](https://soylentnews.org/article.pl?sid=26/05/09/0813214&from=rss) - [Russia's Censor Body, Roskomnadzor, Wants to Block 92% of VPN Apps by 2030](https://soylentnews.org/article.pl?sid=26/05/09/0813214&from=rss)
-* [2026-05-09, 13:19:00](https://soylentnews.org/article.pl?sid=26/05/08/1125252&from=rss) - [This New “Sound Laser” Could Measure Gravity With Stunning Precision](https://soylentnews.org/article.pl?sid=26/05/08/1125252&from=rss)
 
 ## [Archives](archives/index.md)
 
