@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-20, 18:06:00",
+      "https://soylentnews.org/article.pl?sid=26/05/19/0438213&from=rss"
+    ],
+    [
+      "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+      "https://soylentnews.org/article.pl?sid=26/05/19/0438213&from=rss"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 13:19:00",
       "https://soylentnews.org/article.pl?sid=26/05/18/1730215&from=rss"
     ],
@@ -487,16 +497,6 @@
     [
       "Google Chrome Downloading 4GB AI Model to Your Device Without Asking Re-Downloads When You Delete It",
       "https://soylentnews.org/article.pl?sid=26/05/10/0243229&from=rss"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 22:37:00",
-      "https://soylentnews.org/article.pl?sid=26/05/09/118251&from=rss"
-    ],
-    [
-      "Researcher Shows Edge Browser Stores Saved Passwords in Plaintext",
-      "https://soylentnews.org/article.pl?sid=26/05/09/118251&from=rss"
     ]
   ]
 ]
