@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 22:51:00](https://soylentnews.org/article.pl?sid=26/05/19/0444246&from=rss) - [Software Developers Say AI Is Rotting Their Brains](https://soylentnews.org/article.pl?sid=26/05/19/0444246&from=rss)
 * [2026-05-20, 18:06:00](https://soylentnews.org/article.pl?sid=26/05/19/0438213&from=rss) - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://soylentnews.org/article.pl?sid=26/05/19/0438213&from=rss)
 * [2026-05-20, 13:19:00](https://soylentnews.org/article.pl?sid=26/05/18/1730215&from=rss) - [NASA's Psyche Spacecraft Just Got An Assist From Mars On The Way To Its Asteroid Namesake](https://soylentnews.org/article.pl?sid=26/05/18/1730215&from=rss)
 * [2026-05-20, 08:34:00](https://soylentnews.org/article.pl?sid=26/05/18/1728202&from=rss) - [Texas County Passes Data Center Ban for Rural Areas for a Year](https://soylentnews.org/article.pl?sid=26/05/18/1728202&from=rss)
