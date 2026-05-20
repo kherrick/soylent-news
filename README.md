@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-20, 18:06:00](https://soylentnews.org/article.pl?sid=26/05/19/0438213&from=rss) - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://soylentnews.org/article.pl?sid=26/05/19/0438213&from=rss)
 * [2026-05-20, 13:19:00](https://soylentnews.org/article.pl?sid=26/05/18/1730215&from=rss) - [NASA's Psyche Spacecraft Just Got An Assist From Mars On The Way To Its Asteroid Namesake](https://soylentnews.org/article.pl?sid=26/05/18/1730215&from=rss)
 * [2026-05-20, 08:34:00](https://soylentnews.org/article.pl?sid=26/05/18/1728202&from=rss) - [Texas County Passes Data Center Ban for Rural Areas for a Year](https://soylentnews.org/article.pl?sid=26/05/18/1728202&from=rss)
 * [2026-05-20, 03:51:00](https://soylentnews.org/article.pl?sid=26/05/18/1714233&from=rss) - [Cell Phone Users Can't Stop Incriminating Themselves](https://soylentnews.org/article.pl?sid=26/05/18/1714233&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-11, 12:55:00](https://soylentnews.org/article.pl?sid=26/05/10/0248240&from=rss) - [Survey Shows That 47% Oppose the Construction of New AI Data Centers in Their Neighborhood](https://soylentnews.org/article.pl?sid=26/05/10/0248240&from=rss)
 * [2026-05-11, 08:04:00](https://soylentnews.org/article.pl?sid=26/05/10/0245229&from=rss) - [After 100 Years, Scientists Uncover Hidden Rule Governing Cosmic Rays](https://soylentnews.org/article.pl?sid=26/05/10/0245229&from=rss)
 * [2026-05-11, 03:21:00](https://soylentnews.org/article.pl?sid=26/05/10/0243229&from=rss) - [Google Chrome Downloading 4GB AI Model to Your Device Without Asking Re-Downloads When You Delete It](https://soylentnews.org/article.pl?sid=26/05/10/0243229&from=rss)
-* [2026-05-10, 22:37:00](https://soylentnews.org/article.pl?sid=26/05/09/118251&from=rss) - [Researcher Shows Edge Browser Stores Saved Passwords in Plaintext](https://soylentnews.org/article.pl?sid=26/05/09/118251&from=rss)
 
 ## [Archives](archives/index.md)
 
