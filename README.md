@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-20, 03:51:00](https://soylentnews.org/article.pl?sid=26/05/18/1714233&from=rss) - [Cell Phone Users Can't Stop Incriminating Themselves](https://soylentnews.org/article.pl?sid=26/05/18/1714233&from=rss)
 * [2026-05-19, 23:05:00](https://soylentnews.org/article.pl?sid=26/05/18/175251&from=rss) - [Exposure to Burn Injuries Played Key Role in Shaping Human Evolution](https://soylentnews.org/article.pl?sid=26/05/18/175251&from=rss)
 * [2026-05-19, 18:26:00](https://soylentnews.org/article.pl?sid=26/05/18/174235&from=rss) - [Short Interview with Vint Cerf at El País](https://soylentnews.org/article.pl?sid=26/05/18/174235&from=rss)
 * [2026-05-19, 13:41:00](https://soylentnews.org/article.pl?sid=26/05/17/1438201&from=rss) - [Your Doctor is Most Likely Consulting This Free AI Chatbot](https://soylentnews.org/article.pl?sid=26/05/17/1438201&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-10, 22:37:00](https://soylentnews.org/article.pl?sid=26/05/09/118251&from=rss) - [Researcher Shows Edge Browser Stores Saved Passwords in Plaintext](https://soylentnews.org/article.pl?sid=26/05/09/118251&from=rss)
 * [2026-05-10, 17:52:00](https://soylentnews.org/article.pl?sid=26/05/09/116230&from=rss) - [Huawei Braces for $12 Billion in AI Chip Revenue Driven by Homegrown AI Model Demand](https://soylentnews.org/article.pl?sid=26/05/09/116230&from=rss)
 * [2026-05-10, 13:05:00](https://soylentnews.org/article.pl?sid=26/05/09/114230&from=rss) - [The French Administrative Supreme Court Rules Against HADOPI in Favor of La Quadrature Du Net](https://soylentnews.org/article.pl?sid=26/05/09/114230&from=rss)
-* [2026-05-10, 08:21:00](https://soylentnews.org/article.pl?sid=26/05/09/1056215&from=rss) - [Apple Agrees to Pay iPhone Owners $250 Million for Not Delivering AI Siri](https://soylentnews.org/article.pl?sid=26/05/09/1056215&from=rss)
 
 ## [Archives](archives/index.md)
 
