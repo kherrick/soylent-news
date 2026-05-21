@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-21, 22:34:00](https://soylentnews.org/article.pl?sid=26/05/19/1728216&from=rss) - [Iran Demands Big Tech Pay Fees For Undersea Internet Cables In Strait Of Hormuz](https://soylentnews.org/article.pl?sid=26/05/19/1728216&from=rss)
 * [2026-05-21, 17:51:00](https://soylentnews.org/article.pl?sid=26/05/19/1726205&from=rss) - [Physicists at Odds Over Greatest Physics Mysteries](https://soylentnews.org/article.pl?sid=26/05/19/1726205&from=rss)
 * [2026-05-21, 13:03:00](https://soylentnews.org/article.pl?sid=26/05/19/1720228&from=rss) - [Barnes & Noble CEO Backs Selling AI-Written Books in Stores](https://soylentnews.org/article.pl?sid=26/05/19/1720228&from=rss)
 * [2026-05-21, 08:17:00](https://soylentnews.org/article.pl?sid=26/05/19/1718231&from=rss) - [PlayStation Plus to Raise Monthly Subscription Fee](https://soylentnews.org/article.pl?sid=26/05/19/1718231&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-12, 17:24:00](https://soylentnews.org/article.pl?sid=26/05/11/1325244&from=rss) - [Kdenlive 26.04.1 Video Editor Fixes Serious Project File Security Flaw](https://soylentnews.org/article.pl?sid=26/05/11/1325244&from=rss)
 * [2026-05-12, 12:41:00](https://soylentnews.org/article.pl?sid=26/05/11/1328203&from=rss) - [Everyone's a Loser in Strait of Hormuz Game That Simulates Global Crisis](https://soylentnews.org/article.pl?sid=26/05/11/1328203&from=rss)
 * [2026-05-12, 07:54:00](https://soylentnews.org/article.pl?sid=26/05/11/1321256&from=rss) - [Link Between Pollinators and Diverse Landscapes is a Two-Way Street](https://soylentnews.org/article.pl?sid=26/05/11/1321256&from=rss)
-* [2026-05-12, 03:09:00](https://soylentnews.org/article.pl?sid=26/05/11/041243&from=rss) - [Could the Universe's Hidden Shape Solve One of Physics’ Biggest Mysteries?](https://soylentnews.org/article.pl?sid=26/05/11/041243&from=rss)
 
 ## [Archives](archives/index.md)
 
