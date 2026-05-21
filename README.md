@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-21, 03:36:00](https://soylentnews.org/article.pl?sid=26/05/19/1128257&from=rss) - [Casimir Force Co-Opted to Generate Free Energy, Midichlorians Not Included](https://soylentnews.org/article.pl?sid=26/05/19/1128257&from=rss)
 * [2026-05-20, 22:51:00](https://soylentnews.org/article.pl?sid=26/05/19/0444246&from=rss) - [Software Developers Say AI Is Rotting Their Brains](https://soylentnews.org/article.pl?sid=26/05/19/0444246&from=rss)
 * [2026-05-20, 18:06:00](https://soylentnews.org/article.pl?sid=26/05/19/0438213&from=rss) - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://soylentnews.org/article.pl?sid=26/05/19/0438213&from=rss)
 * [2026-05-20, 13:19:00](https://soylentnews.org/article.pl?sid=26/05/18/1730215&from=rss) - [NASA's Psyche Spacecraft Just Got An Assist From Mars On The Way To Its Asteroid Namesake](https://soylentnews.org/article.pl?sid=26/05/18/1730215&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-11, 22:21:00](https://soylentnews.org/article.pl?sid=26/05/11/0353247&from=rss) - [Here's What Has To Happen If NASA Wants To Land On The Moon Every Month](https://soylentnews.org/article.pl?sid=26/05/11/0353247&from=rss)
 * [2026-05-11, 17:39:00](https://soylentnews.org/article.pl?sid=26/05/11/0344219&from=rss) - [Lenovo and Dell Are Now Funding the Service That Ships Firmware to Millions of Linux Devices](https://soylentnews.org/article.pl?sid=26/05/11/0344219&from=rss)
 * [2026-05-11, 12:55:00](https://soylentnews.org/article.pl?sid=26/05/10/0248240&from=rss) - [Survey Shows That 47% Oppose the Construction of New AI Data Centers in Their Neighborhood](https://soylentnews.org/article.pl?sid=26/05/10/0248240&from=rss)
-* [2026-05-11, 08:04:00](https://soylentnews.org/article.pl?sid=26/05/10/0245229&from=rss) - [After 100 Years, Scientists Uncover Hidden Rule Governing Cosmic Rays](https://soylentnews.org/article.pl?sid=26/05/10/0245229&from=rss)
 
 ## [Archives](archives/index.md)
 
