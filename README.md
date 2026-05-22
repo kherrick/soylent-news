@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-22, 08:01:00](https://soylentnews.org/article.pl?sid=26/05/21/042230&from=rss) - [Jury Dismisses All Claims in Elon Musk's Lawsuit Against OpenAI CEO Sam Altman](https://soylentnews.org/article.pl?sid=26/05/21/042230&from=rss)
 * [2026-05-22, 03:19:00](https://soylentnews.org/article.pl?sid=26/05/19/1855242&from=rss) - [Microsoft Surprises With its First Server Linux Distribution: Azure Linux 4.0](https://soylentnews.org/article.pl?sid=26/05/19/1855242&from=rss)
 * [2026-05-21, 22:34:00](https://soylentnews.org/article.pl?sid=26/05/19/1728216&from=rss) - [Iran Demands Big Tech Pay Fees For Undersea Internet Cables In Strait Of Hormuz](https://soylentnews.org/article.pl?sid=26/05/19/1728216&from=rss)
 * [2026-05-21, 17:51:00](https://soylentnews.org/article.pl?sid=26/05/19/1726205&from=rss) - [Physicists at Odds Over Greatest Physics Mysteries](https://soylentnews.org/article.pl?sid=26/05/19/1726205&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-13, 02:49:00](https://soylentnews.org/article.pl?sid=26/05/11/1329241&from=rss) - [MIT Researchers Revive 40-Year-Old Triangular Zipper Concept Now Made Possible by 3D Printing](https://soylentnews.org/article.pl?sid=26/05/11/1329241&from=rss)
 * [2026-05-12, 22:06:00](https://soylentnews.org/article.pl?sid=26/05/11/1323253&from=rss) - [Scientists Identify a Hidden Blood Particle Linked to Higher Risk of Stroke and Death](https://soylentnews.org/article.pl?sid=26/05/11/1323253&from=rss)
 * [2026-05-12, 17:24:00](https://soylentnews.org/article.pl?sid=26/05/11/1325244&from=rss) - [Kdenlive 26.04.1 Video Editor Fixes Serious Project File Security Flaw](https://soylentnews.org/article.pl?sid=26/05/11/1325244&from=rss)
-* [2026-05-12, 12:41:00](https://soylentnews.org/article.pl?sid=26/05/11/1328203&from=rss) - [Everyone's a Loser in Strait of Hormuz Game That Simulates Global Crisis](https://soylentnews.org/article.pl?sid=26/05/11/1328203&from=rss)
 
 ## [Archives](archives/index.md)
 
