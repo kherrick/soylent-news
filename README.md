@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-23, 12:35:00](https://soylentnews.org/article.pl?sid=26/05/22/0314250&from=rss) - [What Do Gödel's Incompleteness Theorems Truly Mean?](https://soylentnews.org/article.pl?sid=26/05/22/0314250&from=rss)
 * [2026-05-23, 07:46:00](https://soylentnews.org/article.pl?sid=26/05/22/032239&from=rss) - [Amazon is Shutting Down Support for Older Kindles Soon. Here's How You Can Save Yours](https://soylentnews.org/article.pl?sid=26/05/22/032239&from=rss)
 * [2026-05-23, 03:04:00](https://soylentnews.org/article.pl?sid=26/05/22/0247218&from=rss) - [AI Data Centers Trigger Massive 'Irreversible' 76% Electricity Price Spike in Largest US Region](https://soylentnews.org/article.pl?sid=26/05/22/0247218&from=rss)
 * [2026-05-22, 22:15:00](https://soylentnews.org/article.pl?sid=26/05/22/0239256&from=rss) - [Pompeii Victim ID'd as a Likely Doctor](https://soylentnews.org/article.pl?sid=26/05/22/0239256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-14, 05:23:00](https://soylentnews.org/article.pl?sid=26/05/13/215223&from=rss) - [“Cannot be Explained” – New Ultra Stainless Steel Stuns Researchers](https://soylentnews.org/article.pl?sid=26/05/13/215223&from=rss)
 * [2026-05-14, 00:35:00](https://soylentnews.org/article.pl?sid=26/05/13/2054254&from=rss) - [What's Up With UPSs?](https://soylentnews.org/article.pl?sid=26/05/13/2054254&from=rss)
 * [2026-05-13, 19:51:00](https://soylentnews.org/article.pl?sid=26/05/13/191214&from=rss) - [Workers Pay the Price of Burnout. Should Employers Cover the Cost?](https://soylentnews.org/article.pl?sid=26/05/13/191214&from=rss)
-* [2026-05-13, 17:07:00](https://soylentnews.org/article.pl?sid=26/05/11/148254&from=rss) - [Louis Rossmann Tells 3D Printer Maker Bambu Lab To ‘Go (Bleep) Yourself’ Over Its Threatened Lawsuit](https://soylentnews.org/article.pl?sid=26/05/11/148254&from=rss)
 
 ## [Archives](archives/index.md)
 
