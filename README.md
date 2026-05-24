@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-24, 17:12:00](https://soylentnews.org/article.pl?sid=26/05/23/1259209&from=rss) - [1 in 5 Brits Think AI Layoffs Could Trigger Civil Unrest](https://soylentnews.org/article.pl?sid=26/05/23/1259209&from=rss)
 * [2026-05-24, 12:24:00](https://soylentnews.org/article.pl?sid=26/05/23/1239233&from=rss) - [The US Space Enterprise is Desperately Waiting for Starship—Will It Finally Deliver?](https://soylentnews.org/article.pl?sid=26/05/23/1239233&from=rss)
 * [2026-05-24, 07:42:00](https://soylentnews.org/article.pl?sid=26/05/23/1223236&from=rss) - [Baidu Says the Quiet Part Out Loud – You Can't Build AI Infrastructure, So Clouds Can Cash in](https://soylentnews.org/article.pl?sid=26/05/23/1223236&from=rss)
 * [2026-05-24, 02:53:00](https://soylentnews.org/article.pl?sid=26/05/23/1216212&from=rss) - [Silicon Valley Wants to Put a Chip in Your Brain](https://soylentnews.org/article.pl?sid=26/05/23/1216212&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-15, 09:59:00](https://soylentnews.org/article.pl?sid=26/05/14/0321244&from=rss) - [The Great Zombification: AI in the Ivory Tower](https://soylentnews.org/article.pl?sid=26/05/14/0321244&from=rss)
 * [2026-05-15, 05:16:00](https://soylentnews.org/article.pl?sid=26/05/14/0316205&from=rss) - [The New Wild West of AI Kids’ Toys](https://soylentnews.org/article.pl?sid=26/05/14/0316205&from=rss)
 * [2026-05-15, 00:25:00](https://soylentnews.org/article.pl?sid=26/05/14/0239217&from=rss) - [Scientists Solve 100-Year-Old Schrödinger Mystery About Color Perception](https://soylentnews.org/article.pl?sid=26/05/14/0239217&from=rss)
-* [2026-05-14, 19:41:00](https://soylentnews.org/article.pl?sid=26/05/14/032218&from=rss) - [GM Agrees to Pay $12.75 Million to Settle California Lawsuit Over Misuse of Customers' Driving Data](https://soylentnews.org/article.pl?sid=26/05/14/032218&from=rss)
 
 ## [Archives](archives/index.md)
 
