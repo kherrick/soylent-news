@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-24, 02:53:00](https://soylentnews.org/article.pl?sid=26/05/23/1216212&from=rss) - [Silicon Valley Wants to Put a Chip in Your Brain](https://soylentnews.org/article.pl?sid=26/05/23/1216212&from=rss)
 * [2026-05-23, 22:08:00](https://soylentnews.org/article.pl?sid=26/05/22/0553256&from=rss) - [Coding After AI - Are Humans Still Good Enough for Software Development?](https://soylentnews.org/article.pl?sid=26/05/22/0553256&from=rss)
 * [2026-05-23, 17:20:00](https://soylentnews.org/article.pl?sid=26/05/22/0545221&from=rss) - [In Stunning Display Of Stupid, Secret CISA Credentials Found In Public GitHub Repo](https://soylentnews.org/article.pl?sid=26/05/22/0545221&from=rss)
 * [2026-05-23, 12:35:00](https://soylentnews.org/article.pl?sid=26/05/22/0314250&from=rss) - [What Do Gödel's Incompleteness Theorems Truly Mean?](https://soylentnews.org/article.pl?sid=26/05/22/0314250&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-14, 19:41:00](https://soylentnews.org/article.pl?sid=26/05/14/032218&from=rss) - [GM Agrees to Pay $12.75 Million to Settle California Lawsuit Over Misuse of Customers' Driving Data](https://soylentnews.org/article.pl?sid=26/05/14/032218&from=rss)
 * [2026-05-14, 14:54:00](https://soylentnews.org/article.pl?sid=26/05/14/0258245&from=rss) - [Both Fedora and Ubuntu Will Get AI Support – Soon](https://soylentnews.org/article.pl?sid=26/05/14/0258245&from=rss)
 * [2026-05-14, 10:06:00](https://soylentnews.org/article.pl?sid=26/05/14/0248229&from=rss) - [Google Says Hackers Used AI to Develop a Major Security Flaw](https://soylentnews.org/article.pl?sid=26/05/14/0248229&from=rss)
-* [2026-05-14, 05:23:00](https://soylentnews.org/article.pl?sid=26/05/13/215223&from=rss) - [“Cannot be Explained” – New Ultra Stainless Steel Stuns Researchers](https://soylentnews.org/article.pl?sid=26/05/13/215223&from=rss)
 
 ## [Archives](archives/index.md)
 
