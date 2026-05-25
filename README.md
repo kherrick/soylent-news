@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-25, 17:08:00](https://soylentnews.org/article.pl?sid=26/05/24/1316229&from=rss) - [The Big AI Companies Are Going to See Their Margins Disappear](https://soylentnews.org/article.pl?sid=26/05/24/1316229&from=rss)
 * [2026-05-25, 12:18:00](https://soylentnews.org/article.pl?sid=26/05/24/136257&from=rss) - [Uncle Sam's Next Big Supercomputer Might Use Something More Exotic Than GPUs](https://soylentnews.org/article.pl?sid=26/05/24/136257&from=rss)
 * [2026-05-25, 07:28:00](https://soylentnews.org/politics/article.pl?sid=26/05/24/1253249&from=rss) - [China Says 'World's First' Offshore Wind-Powered Underwater Data Center Has Entered Full Operation](https://soylentnews.org/politics/article.pl?sid=26/05/24/1253249&from=rss)
 * [2026-05-25, 02:46:00](https://soylentnews.org/article.pl?sid=26/05/24/1247208&from=rss) - [Bots be Sorting](https://soylentnews.org/article.pl?sid=26/05/24/1247208&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-16, 09:40:00](https://soylentnews.org/article.pl?sid=26/05/15/1911234&from=rss) - [Open Source Package With 1 Million Monthly Downloads Stole User Credentials](https://soylentnews.org/article.pl?sid=26/05/15/1911234&from=rss)
 * [2026-05-16, 04:58:00](https://soylentnews.org/article.pl?sid=26/05/15/199214&from=rss) - [NASA Pushes Mars Helicopter Rotors Past the Speed of Sound for the First Time Ever](https://soylentnews.org/article.pl?sid=26/05/15/199214&from=rss)
 * [2026-05-16, 00:12:00](https://soylentnews.org/article.pl?sid=26/05/15/197229&from=rss) - [Tails Linux 7.7.3 Emergency Release Fixes Dirty Frag Vulnerability](https://soylentnews.org/article.pl?sid=26/05/15/197229&from=rss)
-* [2026-05-15, 19:24:00](https://soylentnews.org/article.pl?sid=26/05/15/194258&from=rss) - [A Wikipedia Clone Built on AI Hallucinations is Here to Hasten Along the Death of the Internet](https://soylentnews.org/article.pl?sid=26/05/15/194258&from=rss)
 
 ## [Archives](archives/index.md)
 
