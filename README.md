@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-26, 16:54:00](https://soylentnews.org/article.pl?sid=26/05/25/157204&from=rss) - [FBI Seeks US-Wide Access to License Plate Cameras, Wants \"Data in Near Real Time\"](https://soylentnews.org/article.pl?sid=26/05/25/157204&from=rss)
 * [2026-05-26, 12:07:00](https://soylentnews.org/article.pl?sid=26/05/25/150246&from=rss) - [Europe Tests Laser Links As Satellite Comms Outgrow Radio](https://soylentnews.org/article.pl?sid=26/05/25/150246&from=rss)
 * [2026-05-26, 07:23:00](https://soylentnews.org/article.pl?sid=26/05/25/1437228&from=rss) - [EU Taps Sweden's EQT to Manage Major €5Bn Scale-Up Europe Fund](https://soylentnews.org/article.pl?sid=26/05/25/1437228&from=rss)
 * [2026-05-26, 02:39:00](https://soylentnews.org/article.pl?sid=26/05/25/1430256&from=rss) - [The Coolest Record Player Ever Made](https://soylentnews.org/article.pl?sid=26/05/25/1430256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-17, 09:23:00](https://soylentnews.org/article.pl?sid=26/05/16/0314220&from=rss) - [EVs Cause Honda’s First Ever Money-Losing Year in the US](https://soylentnews.org/article.pl?sid=26/05/16/0314220&from=rss)
 * [2026-05-17, 04:43:00](https://soylentnews.org/article.pl?sid=26/05/16/0015203&from=rss) - [Here's Why European Cars Can't Use American Engine Oil](https://soylentnews.org/article.pl?sid=26/05/16/0015203&from=rss)
 * [2026-05-16, 23:51:00](https://soylentnews.org/article.pl?sid=26/05/16/0013231&from=rss) - [AISLE Discovers CVE-2026-42511: a 21-Year-Old FreeBSD Remote Command Execution Vulnerability](https://soylentnews.org/article.pl?sid=26/05/16/0013231&from=rss)
-* [2026-05-16, 19:17:00](https://soylentnews.org/article.pl?sid=26/05/16/009242&from=rss) - [HP Stuffed a PC Into a Keyboard. We Took it for a Spin](https://soylentnews.org/article.pl?sid=26/05/16/009242&from=rss)
 
 ## [Archives](archives/index.md)
 
