@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-26, 02:39:00](https://soylentnews.org/article.pl?sid=26/05/25/1430256&from=rss) - [The Coolest Record Player Ever Made](https://soylentnews.org/article.pl?sid=26/05/25/1430256&from=rss)
 * [2026-05-25, 21:57:00](https://soylentnews.org/article.pl?sid=26/05/24/1319237&from=rss) - [Torvalds Says AI Bug Hunters Have Made Linux Security Mailing List ‘Almost Entirely Unmanageable'](https://soylentnews.org/article.pl?sid=26/05/24/1319237&from=rss)
 * [2026-05-25, 17:08:00](https://soylentnews.org/article.pl?sid=26/05/24/1316229&from=rss) - [The Big AI Companies Are Going to See Their Margins Disappear](https://soylentnews.org/article.pl?sid=26/05/24/1316229&from=rss)
 * [2026-05-25, 12:18:00](https://soylentnews.org/article.pl?sid=26/05/24/136257&from=rss) - [Uncle Sam's Next Big Supercomputer Might Use Something More Exotic Than GPUs](https://soylentnews.org/article.pl?sid=26/05/24/136257&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-16, 19:17:00](https://soylentnews.org/article.pl?sid=26/05/16/009242&from=rss) - [HP Stuffed a PC Into a Keyboard. We Took it for a Spin](https://soylentnews.org/article.pl?sid=26/05/16/009242&from=rss)
 * [2026-05-16, 14:28:00](https://soylentnews.org/article.pl?sid=26/05/16/006216&from=rss) - [1,300-Year-Old Secret: Lost Medieval Manuscript Finally Found Hiding in Plain Sight](https://soylentnews.org/article.pl?sid=26/05/16/006216&from=rss)
 * [2026-05-16, 09:40:00](https://soylentnews.org/article.pl?sid=26/05/15/1911234&from=rss) - [Open Source Package With 1 Million Monthly Downloads Stole User Credentials](https://soylentnews.org/article.pl?sid=26/05/15/1911234&from=rss)
-* [2026-05-16, 04:58:00](https://soylentnews.org/article.pl?sid=26/05/15/199214&from=rss) - [NASA Pushes Mars Helicopter Rotors Past the Speed of Sound for the First Time Ever](https://soylentnews.org/article.pl?sid=26/05/15/199214&from=rss)
 
 ## [Archives](archives/index.md)
 
