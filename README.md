@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-28, 06:53:00](https://soylentnews.org/article.pl?sid=26/05/26/1722203&from=rss) - [5 Ways Pope Leo Says AI Could Warp Humanity](https://soylentnews.org/article.pl?sid=26/05/26/1722203&from=rss)
 * [2026-05-28, 02:03:00](https://soylentnews.org/article.pl?sid=26/05/26/1718219&from=rss) - [Power Prices to Fall for Most Customers, With Bigger Drops for Businesses](https://soylentnews.org/article.pl?sid=26/05/26/1718219&from=rss)
 * [2026-05-27, 21:19:00](https://soylentnews.org/article.pl?sid=26/05/26/179259&from=rss) - [Nature Might Have a Universal Rhythm](https://soylentnews.org/article.pl?sid=26/05/26/179259&from=rss)
 * [2026-05-27, 16:35:00](https://soylentnews.org/article.pl?sid=26/05/26/0146250&from=rss) - [In Addition to Space Stations, Vast Says It Will Now Build High-Power Satellites](https://soylentnews.org/article.pl?sid=26/05/26/0146250&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-18, 23:22:00](https://soylentnews.org/article.pl?sid=26/05/17/144228&from=rss) - [Huge Landslide Created a 500-Meter-High Tsunami in a Major Tourist Area](https://soylentnews.org/article.pl?sid=26/05/17/144228&from=rss)
 * [2026-05-18, 18:37:00](https://soylentnews.org/article.pl?sid=26/05/17/1359222&from=rss) - [What Will It Take to Modernize the US Power Grid?](https://soylentnews.org/article.pl?sid=26/05/17/1359222&from=rss)
 * [2026-05-18, 13:51:00](https://soylentnews.org/article.pl?sid=26/05/17/1346233&from=rss) - [China Court Rules Against Job Cut From AI](https://soylentnews.org/article.pl?sid=26/05/17/1346233&from=rss)
-* [2026-05-18, 09:05:00](https://soylentnews.org/article.pl?sid=26/05/17/1229217&from=rss) - [The Context Window Has Been Shattered: Subquadratic Debuts a 12-Million-Token Window](https://soylentnews.org/article.pl?sid=26/05/17/1229217&from=rss)
 
 ## [Archives](archives/index.md)
 
