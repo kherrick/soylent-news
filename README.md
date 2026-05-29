@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-29, 13:11:00](https://soylentnews.org/article.pl?sid=26/05/29/022223&from=rss) - [The Boring Internet - the Internet You Grew Up on Isn't Dying](https://soylentnews.org/article.pl?sid=26/05/29/022223&from=rss)
 * [2026-05-29, 08:29:00](https://soylentnews.org/article.pl?sid=26/05/28/1232210&from=rss) - [HP Now Sponsoring The Linux Vendor Firmware Service / Fwupd](https://soylentnews.org/article.pl?sid=26/05/28/1232210&from=rss)
 * [2026-05-29, 03:47:00](https://soylentnews.org/article.pl?sid=26/05/28/1228205&from=rss) - [ESA Boss Tires of Being Dragged Around by NASA Mood Swings](https://soylentnews.org/article.pl?sid=26/05/28/1228205&from=rss)
 * [2026-05-28, 21:00:00](https://soylentnews.org/article.pl?sid=26/05/26/1729236&from=rss) - [Why Mosquitoes Swarm Your Head: They're Following Signals, Not Each Other](https://soylentnews.org/article.pl?sid=26/05/26/1729236&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-20, 03:51:00](https://soylentnews.org/article.pl?sid=26/05/18/1714233&from=rss) - [Cell Phone Users Can't Stop Incriminating Themselves](https://soylentnews.org/article.pl?sid=26/05/18/1714233&from=rss)
 * [2026-05-19, 23:05:00](https://soylentnews.org/article.pl?sid=26/05/18/175251&from=rss) - [Exposure to Burn Injuries Played Key Role in Shaping Human Evolution](https://soylentnews.org/article.pl?sid=26/05/18/175251&from=rss)
 * [2026-05-19, 18:26:00](https://soylentnews.org/article.pl?sid=26/05/18/174235&from=rss) - [Short Interview with Vint Cerf at El País](https://soylentnews.org/article.pl?sid=26/05/18/174235&from=rss)
-* [2026-05-19, 13:41:00](https://soylentnews.org/article.pl?sid=26/05/17/1438201&from=rss) - [Your Doctor is Most Likely Consulting This Free AI Chatbot](https://soylentnews.org/article.pl?sid=26/05/17/1438201&from=rss)
 
 ## [Archives](archives/index.md)
 
