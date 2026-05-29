@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-29, 03:47:00](https://soylentnews.org/article.pl?sid=26/05/28/1228205&from=rss) - [ESA Boss Tires of Being Dragged Around by NASA Mood Swings](https://soylentnews.org/article.pl?sid=26/05/28/1228205&from=rss)
 * [2026-05-28, 21:00:00](https://soylentnews.org/article.pl?sid=26/05/26/1729236&from=rss) - [Why Mosquitoes Swarm Your Head: They're Following Signals, Not Each Other](https://soylentnews.org/article.pl?sid=26/05/26/1729236&from=rss)
 * [2026-05-28, 16:16:00](https://soylentnews.org/article.pl?sid=26/05/26/1726257&from=rss) - [California Moves To Exempt Linux From Its Upcoming Age-Verification Law After Backlash](https://soylentnews.org/article.pl?sid=26/05/26/1726257&from=rss)
 * [2026-05-28, 11:34:00](https://soylentnews.org/article.pl?sid=26/05/26/1725241&from=rss) - [Researchers Issue Warning About using WiFi Routers as Surveillance Tech](https://soylentnews.org/article.pl?sid=26/05/26/1725241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-19, 18:26:00](https://soylentnews.org/article.pl?sid=26/05/18/174235&from=rss) - [Short Interview with Vint Cerf at El País](https://soylentnews.org/article.pl?sid=26/05/18/174235&from=rss)
 * [2026-05-19, 13:41:00](https://soylentnews.org/article.pl?sid=26/05/17/1438201&from=rss) - [Your Doctor is Most Likely Consulting This Free AI Chatbot](https://soylentnews.org/article.pl?sid=26/05/17/1438201&from=rss)
 * [2026-05-19, 08:56:00](https://soylentnews.org/article.pl?sid=26/05/17/1429249&from=rss) - [AI Data Centers Face Increasing Complaints About Inaudible but 'Felt' Infrasound](https://soylentnews.org/article.pl?sid=26/05/17/1429249&from=rss)
-* [2026-05-19, 04:09:00](https://soylentnews.org/article.pl?sid=26/05/17/1424241&from=rss) - [A Simple Blood Test Could Predict Your Odds of Living Longer With Surprising Accuracy](https://soylentnews.org/article.pl?sid=26/05/17/1424241&from=rss)
 
 ## [Archives](archives/index.md)
 
