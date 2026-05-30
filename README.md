@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-30, 22:23:00](https://soylentnews.org/article.pl?sid=26/05/29/1511219&from=rss) - [The LLM Permission Slip](https://soylentnews.org/article.pl?sid=26/05/29/1511219&from=rss)
 * [2026-05-30, 17:38:00](https://soylentnews.org/article.pl?sid=26/05/29/159239&from=rss) - [Researchers Develop A New Process To Get Lithium Out Of Rocks](https://soylentnews.org/article.pl?sid=26/05/29/159239&from=rss)
 * [2026-05-30, 12:52:00](https://soylentnews.org/article.pl?sid=26/05/29/155242&from=rss) - [Finding a Parking Spot in Pyongyang-Chinese Cars in N. Korea](https://soylentnews.org/article.pl?sid=26/05/29/155242&from=rss)
 * [2026-05-30, 08:02:00](https://soylentnews.org/article.pl?sid=26/05/29/152259&from=rss) - [AI Code Increasingly Leads to Production Failures](https://soylentnews.org/article.pl?sid=26/05/29/152259&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-21, 13:03:00](https://soylentnews.org/article.pl?sid=26/05/19/1720228&from=rss) - [Barnes & Noble CEO Backs Selling AI-Written Books in Stores](https://soylentnews.org/article.pl?sid=26/05/19/1720228&from=rss)
 * [2026-05-21, 08:17:00](https://soylentnews.org/article.pl?sid=26/05/19/1718231&from=rss) - [PlayStation Plus to Raise Monthly Subscription Fee](https://soylentnews.org/article.pl?sid=26/05/19/1718231&from=rss)
 * [2026-05-21, 03:36:00](https://soylentnews.org/article.pl?sid=26/05/19/1128257&from=rss) - [Casimir Force Co-Opted to Generate Free Energy, Midichlorians Not Included](https://soylentnews.org/article.pl?sid=26/05/19/1128257&from=rss)
-* [2026-05-20, 22:51:00](https://soylentnews.org/article.pl?sid=26/05/19/0444246&from=rss) - [Software Developers Say AI Is Rotting Their Brains](https://soylentnews.org/article.pl?sid=26/05/19/0444246&from=rss)
 
 ## [Archives](archives/index.md)
 
