@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-30, 03:19:00](https://soylentnews.org/article.pl?sid=26/05/29/0212218&from=rss) - [Google Search is Becoming Something Fundamentally Different](https://soylentnews.org/article.pl?sid=26/05/29/0212218&from=rss)
 * [2026-05-29, 22:36:00](https://soylentnews.org/article.pl?sid=26/05/29/028217&from=rss) - [Chinese GPU Maker Sells Out Over 30,000 Gaming GPUs Within 48 Hours Despite Lukewarm Benchmarks](https://soylentnews.org/article.pl?sid=26/05/29/028217&from=rss)
 * [2026-05-29, 17:53:00](https://soylentnews.org/article.pl?sid=26/05/29/024230&from=rss) - [(Next Step in the) NASA Moon Base Revealed](https://soylentnews.org/article.pl?sid=26/05/29/024230&from=rss)
 * [2026-05-29, 13:11:00](https://soylentnews.org/article.pl?sid=26/05/29/022223&from=rss) - [The Boring Internet - the Internet You Grew Up on Isn't Dying](https://soylentnews.org/article.pl?sid=26/05/29/022223&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-20, 18:06:00](https://soylentnews.org/article.pl?sid=26/05/19/0438213&from=rss) - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://soylentnews.org/article.pl?sid=26/05/19/0438213&from=rss)
 * [2026-05-20, 13:19:00](https://soylentnews.org/article.pl?sid=26/05/18/1730215&from=rss) - [NASA's Psyche Spacecraft Just Got An Assist From Mars On The Way To Its Asteroid Namesake](https://soylentnews.org/article.pl?sid=26/05/18/1730215&from=rss)
 * [2026-05-20, 08:34:00](https://soylentnews.org/article.pl?sid=26/05/18/1728202&from=rss) - [Texas County Passes Data Center Ban for Rural Areas for a Year](https://soylentnews.org/article.pl?sid=26/05/18/1728202&from=rss)
-* [2026-05-20, 03:51:00](https://soylentnews.org/article.pl?sid=26/05/18/1714233&from=rss) - [Cell Phone Users Can't Stop Incriminating Themselves](https://soylentnews.org/article.pl?sid=26/05/18/1714233&from=rss)
 
 ## [Archives](archives/index.md)
 
