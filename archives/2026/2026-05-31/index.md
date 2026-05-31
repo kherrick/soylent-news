@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 22:00:00](https://soylentnews.org/article.pl?sid=26/05/31/0233244&from=rss) - [The End of American Science](https://soylentnews.org/article.pl?sid=26/05/31/0233244&from=rss)
 * [2026-05-31, 17:18:00](https://soylentnews.org/article.pl?sid=26/05/30/1431200&from=rss) - [This AI Compressed 'All Human Cooking' Into 2 Megabytes](https://soylentnews.org/article.pl?sid=26/05/30/1431200&from=rss)
 * [2026-05-31, 12:36:00](https://soylentnews.org/article.pl?sid=26/05/30/1418232&from=rss) - [Blue Origin's New Glenn Rocket Explodes on its Launchpad](https://soylentnews.org/article.pl?sid=26/05/30/1418232&from=rss)
 * [2026-05-31, 07:54:00](https://soylentnews.org/article.pl?sid=26/05/30/1415220&from=rss) - [What is a Dickover?](https://soylentnews.org/article.pl?sid=26/05/30/1415220&from=rss)
