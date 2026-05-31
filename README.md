@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-05-31, 12:36:00](https://soylentnews.org/article.pl?sid=26/05/30/1418232&from=rss) - [Blue Origin's New Glenn Rocket Explodes on its Launchpad](https://soylentnews.org/article.pl?sid=26/05/30/1418232&from=rss)
 * [2026-05-31, 07:54:00](https://soylentnews.org/article.pl?sid=26/05/30/1415220&from=rss) - [What is a Dickover?](https://soylentnews.org/article.pl?sid=26/05/30/1415220&from=rss)
 * [2026-05-31, 03:09:00](https://soylentnews.org/article.pl?sid=26/05/29/1513233&from=rss) - [‘AI Washing’: Firms Are Scrambling to Rebrand Themselves as Tech-Focused](https://soylentnews.org/article.pl?sid=26/05/29/1513233&from=rss)
 * [2026-05-30, 22:23:00](https://soylentnews.org/article.pl?sid=26/05/29/1511219&from=rss) - [The LLM Permission Slip](https://soylentnews.org/article.pl?sid=26/05/29/1511219&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-22, 03:19:00](https://soylentnews.org/article.pl?sid=26/05/19/1855242&from=rss) - [Microsoft Surprises With its First Server Linux Distribution: Azure Linux 4.0](https://soylentnews.org/article.pl?sid=26/05/19/1855242&from=rss)
 * [2026-05-21, 22:34:00](https://soylentnews.org/article.pl?sid=26/05/19/1728216&from=rss) - [Iran Demands Big Tech Pay Fees For Undersea Internet Cables In Strait Of Hormuz](https://soylentnews.org/article.pl?sid=26/05/19/1728216&from=rss)
 * [2026-05-21, 17:51:00](https://soylentnews.org/article.pl?sid=26/05/19/1726205&from=rss) - [Physicists at Odds Over Greatest Physics Mysteries](https://soylentnews.org/article.pl?sid=26/05/19/1726205&from=rss)
-* [2026-05-21, 13:03:00](https://soylentnews.org/article.pl?sid=26/05/19/1720228&from=rss) - [Barnes & Noble CEO Backs Selling AI-Written Books in Stores](https://soylentnews.org/article.pl?sid=26/05/19/1720228&from=rss)
 
 ## [Archives](archives/index.md)
 
