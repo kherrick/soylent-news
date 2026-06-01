@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-01, 22:54:00](https://soylentnews.org/article.pl?sid=26/06/01/027245&from=rss) - [After $2.5 Billion Supermicro Smuggling Bust, Nvidia CEO Urges Company To Fix Export Compliance](https://soylentnews.org/article.pl?sid=26/06/01/027245&from=rss)
 * [2026-06-01, 17:12:00](https://soylentnews.org/article.pl?sid=26/06/01/023237&from=rss) - [Bezos Rocket Fell Short After Cryogenic Leak Cut Engine Thrust](https://soylentnews.org/article.pl?sid=26/06/01/023237&from=rss)
 * [2026-06-01, 12:19:00](https://soylentnews.org/article.pl?sid=26/06/01/021214&from=rss) - [Drone Breaks World Speed Record With 453 Mph In Test Run](https://soylentnews.org/article.pl?sid=26/06/01/021214&from=rss)
 * [2026-06-01, 07:37:00](https://soylentnews.org/article.pl?sid=26/05/31/0238226&from=rss) - [Japanese Space Agency Names Arrival Date For BepiColombo Mercury Mission](https://soylentnews.org/article.pl?sid=26/05/31/0238226&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-23, 12:35:00](https://soylentnews.org/article.pl?sid=26/05/22/0314250&from=rss) - [What Do Gödel's Incompleteness Theorems Truly Mean?](https://soylentnews.org/article.pl?sid=26/05/22/0314250&from=rss)
 * [2026-05-23, 07:46:00](https://soylentnews.org/article.pl?sid=26/05/22/032239&from=rss) - [Amazon is Shutting Down Support for Older Kindles Soon. Here's How You Can Save Yours](https://soylentnews.org/article.pl?sid=26/05/22/032239&from=rss)
 * [2026-05-23, 03:04:00](https://soylentnews.org/article.pl?sid=26/05/22/0247218&from=rss) - [AI Data Centers Trigger Massive 'Irreversible' 76% Electricity Price Spike in Largest US Region](https://soylentnews.org/article.pl?sid=26/05/22/0247218&from=rss)
-* [2026-05-22, 22:15:00](https://soylentnews.org/article.pl?sid=26/05/22/0239256&from=rss) - [Pompeii Victim ID'd as a Likely Doctor](https://soylentnews.org/article.pl?sid=26/05/22/0239256&from=rss)
 
 ## [Archives](archives/index.md)
 
