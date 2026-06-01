@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-01, 17:12:00](https://soylentnews.org/article.pl?sid=26/06/01/023237&from=rss) - [Bezos Rocket Fell Short After Cryogenic Leak Cut Engine Thrust](https://soylentnews.org/article.pl?sid=26/06/01/023237&from=rss)
+* [2026-06-01, 12:19:00](https://soylentnews.org/article.pl?sid=26/06/01/021214&from=rss) - [Drone Breaks World Speed Record With 453 Mph In Test Run](https://soylentnews.org/article.pl?sid=26/06/01/021214&from=rss)
 * [2026-06-01, 07:37:00](https://soylentnews.org/article.pl?sid=26/05/31/0238226&from=rss) - [Japanese Space Agency Names Arrival Date For BepiColombo Mercury Mission](https://soylentnews.org/article.pl?sid=26/05/31/0238226&from=rss)
 * [2026-06-01, 02:58:00](https://soylentnews.org/article.pl?sid=26/05/31/0236235&from=rss) - [Microcode Inside the Intel 8087 Floating-point Chip: Register Exchange ](https://soylentnews.org/article.pl?sid=26/05/31/0236235&from=rss)
 * [2026-05-31, 22:00:00](https://soylentnews.org/article.pl?sid=26/05/31/0233244&from=rss) - [The End of American Science](https://soylentnews.org/article.pl?sid=26/05/31/0233244&from=rss)
@@ -48,8 +50,6 @@
 * [2026-05-23, 07:46:00](https://soylentnews.org/article.pl?sid=26/05/22/032239&from=rss) - [Amazon is Shutting Down Support for Older Kindles Soon. Here's How You Can Save Yours](https://soylentnews.org/article.pl?sid=26/05/22/032239&from=rss)
 * [2026-05-23, 03:04:00](https://soylentnews.org/article.pl?sid=26/05/22/0247218&from=rss) - [AI Data Centers Trigger Massive 'Irreversible' 76% Electricity Price Spike in Largest US Region](https://soylentnews.org/article.pl?sid=26/05/22/0247218&from=rss)
 * [2026-05-22, 22:15:00](https://soylentnews.org/article.pl?sid=26/05/22/0239256&from=rss) - [Pompeii Victim ID'd as a Likely Doctor](https://soylentnews.org/article.pl?sid=26/05/22/0239256&from=rss)
-* [2026-05-22, 17:27:00](https://soylentnews.org/article.pl?sid=26/05/22/0231209&from=rss) - [Space Factories Edge Closer After Experimental Capsule Survives Hypersonic Landing](https://soylentnews.org/article.pl?sid=26/05/22/0231209&from=rss)
-* [2026-05-22, 12:43:00](https://soylentnews.org/article.pl?sid=26/05/22/0225208&from=rss) - [Intel Tells PC Makers to Adopt 18A CPUs or Lose Their Supply](https://soylentnews.org/article.pl?sid=26/05/22/0225208&from=rss)
 
 ## [Archives](archives/index.md)
 
