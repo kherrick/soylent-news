@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-01, 07:37:00](https://soylentnews.org/article.pl?sid=26/05/31/0238226&from=rss) - [Japanese Space Agency Names Arrival Date For BepiColombo Mercury Mission](https://soylentnews.org/article.pl?sid=26/05/31/0238226&from=rss)
 * [2026-06-01, 02:58:00](https://soylentnews.org/article.pl?sid=26/05/31/0236235&from=rss) - [Microcode Inside the Intel 8087 Floating-point Chip: Register Exchange ](https://soylentnews.org/article.pl?sid=26/05/31/0236235&from=rss)
 * [2026-05-31, 22:00:00](https://soylentnews.org/article.pl?sid=26/05/31/0233244&from=rss) - [The End of American Science](https://soylentnews.org/article.pl?sid=26/05/31/0233244&from=rss)
 * [2026-05-31, 17:18:00](https://soylentnews.org/article.pl?sid=26/05/30/1431200&from=rss) - [This AI Compressed 'All Human Cooking' Into 2 Megabytes](https://soylentnews.org/article.pl?sid=26/05/30/1431200&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-22, 22:15:00](https://soylentnews.org/article.pl?sid=26/05/22/0239256&from=rss) - [Pompeii Victim ID'd as a Likely Doctor](https://soylentnews.org/article.pl?sid=26/05/22/0239256&from=rss)
 * [2026-05-22, 17:27:00](https://soylentnews.org/article.pl?sid=26/05/22/0231209&from=rss) - [Space Factories Edge Closer After Experimental Capsule Survives Hypersonic Landing](https://soylentnews.org/article.pl?sid=26/05/22/0231209&from=rss)
 * [2026-05-22, 12:43:00](https://soylentnews.org/article.pl?sid=26/05/22/0225208&from=rss) - [Intel Tells PC Makers to Adopt 18A CPUs or Lose Their Supply](https://soylentnews.org/article.pl?sid=26/05/22/0225208&from=rss)
-* [2026-05-22, 08:01:00](https://soylentnews.org/article.pl?sid=26/05/21/042230&from=rss) - [Jury Dismisses All Claims in Elon Musk's Lawsuit Against OpenAI CEO Sam Altman](https://soylentnews.org/article.pl?sid=26/05/21/042230&from=rss)
 
 ## [Archives](archives/index.md)
 
