@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-02, 08:24:00](https://soylentnews.org/article.pl?sid=26/06/01/1138224&from=rss) - [Researcher Develops 'Spray-On' Stealth Coating For Drones](https://soylentnews.org/article.pl?sid=26/06/01/1138224&from=rss)
+* [2026-06-02, 06:29:00](https://soylentnews.org/meta/article.pl?sid=26/06/02/0621229&from=rss) - [Please see kolie's journal!](https://soylentnews.org/meta/article.pl?sid=26/06/02/0621229&from=rss)
 * [2026-06-02, 03:39:00](https://soylentnews.org/article.pl?sid=26/06/01/1131223&from=rss) - [CIFSwitch Vulnerability Exposes Some Linux Distros to Local Root Access](https://soylentnews.org/article.pl?sid=26/06/01/1131223&from=rss)
 * [2026-06-01, 22:54:00](https://soylentnews.org/article.pl?sid=26/06/01/027245&from=rss) - [After $2.5 Billion Supermicro Smuggling Bust, Nvidia CEO Urges Company To Fix Export Compliance](https://soylentnews.org/article.pl?sid=26/06/01/027245&from=rss)
 * [2026-06-01, 17:12:00](https://soylentnews.org/article.pl?sid=26/06/01/023237&from=rss) - [Bezos Rocket Fell Short After Cryogenic Leak Cut Engine Thrust](https://soylentnews.org/article.pl?sid=26/06/01/023237&from=rss)
@@ -48,8 +50,6 @@
 * [2026-05-24, 02:53:00](https://soylentnews.org/article.pl?sid=26/05/23/1216212&from=rss) - [Silicon Valley Wants to Put a Chip in Your Brain](https://soylentnews.org/article.pl?sid=26/05/23/1216212&from=rss)
 * [2026-05-23, 22:08:00](https://soylentnews.org/article.pl?sid=26/05/22/0553256&from=rss) - [Coding After AI - Are Humans Still Good Enough for Software Development?](https://soylentnews.org/article.pl?sid=26/05/22/0553256&from=rss)
 * [2026-05-23, 17:20:00](https://soylentnews.org/article.pl?sid=26/05/22/0545221&from=rss) - [In Stunning Display Of Stupid, Secret CISA Credentials Found In Public GitHub Repo](https://soylentnews.org/article.pl?sid=26/05/22/0545221&from=rss)
-* [2026-05-23, 12:35:00](https://soylentnews.org/article.pl?sid=26/05/22/0314250&from=rss) - [What Do Gödel's Incompleteness Theorems Truly Mean?](https://soylentnews.org/article.pl?sid=26/05/22/0314250&from=rss)
-* [2026-05-23, 07:46:00](https://soylentnews.org/article.pl?sid=26/05/22/032239&from=rss) - [Amazon is Shutting Down Support for Older Kindles Soon. Here's How You Can Save Yours](https://soylentnews.org/article.pl?sid=26/05/22/032239&from=rss)
 
 ## [Archives](archives/index.md)
 
