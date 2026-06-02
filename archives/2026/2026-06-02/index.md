@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-02](index.md)
 
+* [2026-06-02, 22:37:00](https://soylentnews.org/article.pl?sid=26/06/01/120212&from=rss) - [Researchers Say They Can Spy on Your Browsing by Measuring SSD Activity Through a Browser API](https://soylentnews.org/article.pl?sid=26/06/01/120212&from=rss)
 * [2026-06-02, 17:52:00](https://soylentnews.org/article.pl?sid=26/06/01/1154226&from=rss) - [Rust Will Save Linux From AI, Says Greg Kroah-Hartman](https://soylentnews.org/article.pl?sid=26/06/01/1154226&from=rss)
 * [2026-06-02, 13:07:00](https://soylentnews.org/politics/article.pl?sid=26/06/01/1149213&from=rss) - [US Law Enforcement Warns of \"Anti-Tech Extremism\" as AI Hatred Grows](https://soylentnews.org/politics/article.pl?sid=26/06/01/1149213&from=rss)
 * [2026-06-02, 08:24:00](https://soylentnews.org/article.pl?sid=26/06/01/1138224&from=rss) - [Researcher Develops 'Spray-On' Stealth Coating For Drones](https://soylentnews.org/article.pl?sid=26/06/01/1138224&from=rss)
