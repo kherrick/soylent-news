@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-03, 08:03:00](https://soylentnews.org/article.pl?sid=26/06/02/0356255&from=rss) - [Musk Says US Military Suicide Drones Used Starlink In Violation Of SpaceX Rules](https://soylentnews.org/article.pl?sid=26/06/02/0356255&from=rss)
 * [2026-06-03, 03:21:00](https://soylentnews.org/article.pl?sid=26/06/02/0353213&from=rss) - [Play it again, hand...](https://soylentnews.org/article.pl?sid=26/06/02/0353213&from=rss)
 * [2026-06-02, 22:37:00](https://soylentnews.org/article.pl?sid=26/06/01/120212&from=rss) - [Researchers Say They Can Spy on Your Browsing by Measuring SSD Activity Through a Browser API](https://soylentnews.org/article.pl?sid=26/06/01/120212&from=rss)
 * [2026-06-02, 17:52:00](https://soylentnews.org/article.pl?sid=26/06/01/1154226&from=rss) - [Rust Will Save Linux From AI, Says Greg Kroah-Hartman](https://soylentnews.org/article.pl?sid=26/06/01/1154226&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-25, 02:46:00](https://soylentnews.org/article.pl?sid=26/05/24/1247208&from=rss) - [Bots be Sorting](https://soylentnews.org/article.pl?sid=26/05/24/1247208&from=rss)
 * [2026-05-24, 22:00:00](https://soylentnews.org/article.pl?sid=26/05/23/2053216&from=rss) - [Prankster Posts Real Monet Painting, Tells People It's AI](https://soylentnews.org/article.pl?sid=26/05/23/2053216&from=rss)
 * [2026-05-24, 17:12:00](https://soylentnews.org/article.pl?sid=26/05/23/1259209&from=rss) - [1 in 5 Brits Think AI Layoffs Could Trigger Civil Unrest](https://soylentnews.org/article.pl?sid=26/05/23/1259209&from=rss)
-* [2026-05-24, 12:24:00](https://soylentnews.org/article.pl?sid=26/05/23/1239233&from=rss) - [The US Space Enterprise is Desperately Waiting for Starship—Will It Finally Deliver?](https://soylentnews.org/article.pl?sid=26/05/23/1239233&from=rss)
 
 ## [Archives](archives/index.md)
 
