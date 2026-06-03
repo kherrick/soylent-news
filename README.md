@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-03, 17:34:00](https://soylentnews.org/article.pl?sid=26/06/02/060223&from=rss) - [The USS Gerald R. Ford's Next Mission is as a Floating Nuclear Power Plant](https://soylentnews.org/article.pl?sid=26/06/02/060223&from=rss)
 * [2026-06-03, 12:57:00](https://soylentnews.org/article.pl?sid=26/06/02/0359202&from=rss) - [Perplexity AI Says 'You Can't Copyright Facts' In Defense Against CNN Copyright Suit](https://soylentnews.org/article.pl?sid=26/06/02/0359202&from=rss)
 * [2026-06-03, 08:03:00](https://soylentnews.org/article.pl?sid=26/06/02/0356255&from=rss) - [Musk Says US Military Suicide Drones Used Starlink In Violation Of SpaceX Rules](https://soylentnews.org/article.pl?sid=26/06/02/0356255&from=rss)
 * [2026-06-03, 03:21:00](https://soylentnews.org/article.pl?sid=26/06/02/0353213&from=rss) - [Play it again, hand...](https://soylentnews.org/article.pl?sid=26/06/02/0353213&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-25, 12:18:00](https://soylentnews.org/article.pl?sid=26/05/24/136257&from=rss) - [Uncle Sam's Next Big Supercomputer Might Use Something More Exotic Than GPUs](https://soylentnews.org/article.pl?sid=26/05/24/136257&from=rss)
 * [2026-05-25, 07:28:00](https://soylentnews.org/politics/article.pl?sid=26/05/24/1253249&from=rss) - [China Says 'World's First' Offshore Wind-Powered Underwater Data Center Has Entered Full Operation](https://soylentnews.org/politics/article.pl?sid=26/05/24/1253249&from=rss)
 * [2026-05-25, 02:46:00](https://soylentnews.org/article.pl?sid=26/05/24/1247208&from=rss) - [Bots be Sorting](https://soylentnews.org/article.pl?sid=26/05/24/1247208&from=rss)
-* [2026-05-24, 22:00:00](https://soylentnews.org/article.pl?sid=26/05/23/2053216&from=rss) - [Prankster Posts Real Monet Painting, Tells People It's AI](https://soylentnews.org/article.pl?sid=26/05/23/2053216&from=rss)
 
 ## [Archives](archives/index.md)
 
