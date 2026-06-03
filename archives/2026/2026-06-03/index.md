@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-03](index.md)
+
+* [2026-06-03, 03:21:00](https://soylentnews.org/article.pl?sid=26/06/02/0353213&from=rss) - [Play it again, hand...](https://soylentnews.org/article.pl?sid=26/06/02/0353213&from=rss)
