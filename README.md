@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-04, 17:26:00](https://soylentnews.org/article.pl?sid=26/06/02/1958258&from=rss) - [Election Interlopers Register 5K+ Domains, Hope To Catch Some Voting Phish](https://soylentnews.org/article.pl?sid=26/06/02/1958258&from=rss)
 * [2026-06-04, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/02/0713224&from=rss) - [Moderna Gets $50 Million To Develop MRNA Ebola Vaccine Against Bundibugyo](https://soylentnews.org/article.pl?sid=26/06/02/0713224&from=rss)
 * [2026-06-04, 07:58:00](https://soylentnews.org/article.pl?sid=26/06/02/0711209&from=rss) - [Angry Devs Vow To Flee GitHub Copilot As Metered Billing Takes Hold](https://soylentnews.org/article.pl?sid=26/06/02/0711209&from=rss)
 * [2026-06-04, 03:14:00](https://soylentnews.org/article.pl?sid=26/06/02/077231&from=rss) - [Distrowatch Celebrates its 25th Anniversary](https://soylentnews.org/article.pl?sid=26/06/02/077231&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-26, 12:07:00](https://soylentnews.org/article.pl?sid=26/05/25/150246&from=rss) - [Europe Tests Laser Links As Satellite Comms Outgrow Radio](https://soylentnews.org/article.pl?sid=26/05/25/150246&from=rss)
 * [2026-05-26, 07:23:00](https://soylentnews.org/article.pl?sid=26/05/25/1437228&from=rss) - [EU Taps Sweden's EQT to Manage Major €5Bn Scale-Up Europe Fund](https://soylentnews.org/article.pl?sid=26/05/25/1437228&from=rss)
 * [2026-05-26, 02:39:00](https://soylentnews.org/article.pl?sid=26/05/25/1430256&from=rss) - [The Coolest Record Player Ever Made](https://soylentnews.org/article.pl?sid=26/05/25/1430256&from=rss)
-* [2026-05-25, 21:57:00](https://soylentnews.org/article.pl?sid=26/05/24/1319237&from=rss) - [Torvalds Says AI Bug Hunters Have Made Linux Security Mailing List ‘Almost Entirely Unmanageable'](https://soylentnews.org/article.pl?sid=26/05/24/1319237&from=rss)
 
 ## [Archives](archives/index.md)
 
