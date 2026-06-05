@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-05, 07:37:00](https://soylentnews.org/article.pl?sid=26/06/05/0051235&from=rss) - [‘Bots have now passed human traffic online,’ Cloudflare Boss Laments    ](https://soylentnews.org/article.pl?sid=26/06/05/0051235&from=rss)
 * [2026-06-05, 02:52:00](https://soylentnews.org/article.pl?sid=26/06/04/1033248&from=rss) - [Troops’ Phones Gave Away Location Data to Foreign Adversaries](https://soylentnews.org/article.pl?sid=26/06/04/1033248&from=rss)
 * [2026-06-04, 22:08:00](https://soylentnews.org/article.pl?sid=26/06/04/1030202&from=rss) - [DuckDuckGo Installs Are Up 30% as Users Reject Being ‘Force-Fed’ Google's AI Search](https://soylentnews.org/article.pl?sid=26/06/04/1030202&from=rss)
 * [2026-06-04, 17:26:00](https://soylentnews.org/article.pl?sid=26/06/02/1958258&from=rss) - [Election Interlopers Register 5K+ Domains, Hope To Catch Some Voting Phish](https://soylentnews.org/article.pl?sid=26/06/02/1958258&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-27, 02:24:00](https://soylentnews.org/article.pl?sid=26/05/25/1525251&from=rss) - [AI Sackings Reach New Zealand, Which Will Use It to Eject 14 Percent of Government Staff](https://soylentnews.org/article.pl?sid=26/05/25/1525251&from=rss)
 * [2026-05-26, 21:38:00](https://soylentnews.org/article.pl?sid=26/05/25/1522231&from=rss) - [After Decades on Linux, FreeBSD Finally Gave Me a Reason to Switch Operating Systems](https://soylentnews.org/article.pl?sid=26/05/25/1522231&from=rss)
 * [2026-05-26, 16:54:00](https://soylentnews.org/article.pl?sid=26/05/25/157204&from=rss) - [FBI Seeks US-Wide Access to License Plate Cameras, Wants \"Data in Near Real Time\"](https://soylentnews.org/article.pl?sid=26/05/25/157204&from=rss)
-* [2026-05-26, 12:07:00](https://soylentnews.org/article.pl?sid=26/05/25/150246&from=rss) - [Europe Tests Laser Links As Satellite Comms Outgrow Radio](https://soylentnews.org/article.pl?sid=26/05/25/150246&from=rss)
 
 ## [Archives](archives/index.md)
 
