@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-05, 17:07:00](https://soylentnews.org/article.pl?sid=26/06/05/010227&from=rss) - [Ohio Hits Pause On Datacenter Tax Breaks Draining Its Coffers](https://soylentnews.org/article.pl?sid=26/06/05/010227&from=rss)
 * [2026-06-05, 12:21:00](https://soylentnews.org/article.pl?sid=26/06/05/0055245&from=rss) - [The Newest Instagram \"Exploit\" is the Goofiest I've Seen](https://soylentnews.org/article.pl?sid=26/06/05/0055245&from=rss)
 * [2026-06-05, 07:37:00](https://soylentnews.org/article.pl?sid=26/06/05/0051235&from=rss) - [‘Bots have now passed human traffic online,’ Cloudflare Boss Laments    ](https://soylentnews.org/article.pl?sid=26/06/05/0051235&from=rss)
 * [2026-06-05, 02:52:00](https://soylentnews.org/article.pl?sid=26/06/04/1033248&from=rss) - [Troops’ Phones Gave Away Location Data to Foreign Adversaries](https://soylentnews.org/article.pl?sid=26/06/04/1033248&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-27, 11:52:00](https://soylentnews.org/article.pl?sid=26/05/26/0145204&from=rss) - [With 'The Mandalorian and Grogu' Out, Can 'Star Wars' Ever Feel Like a Big-Screen Event Again?](https://soylentnews.org/article.pl?sid=26/05/26/0145204&from=rss)
 * [2026-05-27, 07:05:00](https://soylentnews.org/article.pl?sid=26/05/26/0141244&from=rss) - [Google Antigravity 2.0 Forced Update Strips Code Editor, Leaves Developers With a Chat Window](https://soylentnews.org/article.pl?sid=26/05/26/0141244&from=rss)
 * [2026-05-27, 02:24:00](https://soylentnews.org/article.pl?sid=26/05/25/1525251&from=rss) - [AI Sackings Reach New Zealand, Which Will Use It to Eject 14 Percent of Government Staff](https://soylentnews.org/article.pl?sid=26/05/25/1525251&from=rss)
-* [2026-05-26, 21:38:00](https://soylentnews.org/article.pl?sid=26/05/25/1522231&from=rss) - [After Decades on Linux, FreeBSD Finally Gave Me a Reason to Switch Operating Systems](https://soylentnews.org/article.pl?sid=26/05/25/1522231&from=rss)
 
 ## [Archives](archives/index.md)
 
