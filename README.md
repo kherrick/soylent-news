@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-06, 07:25:00](https://soylentnews.org/article.pl?sid=26/06/05/1142243&from=rss) - [Blue Origin CEO Says New Glenn Will Fly Again Before the Year Ends](https://soylentnews.org/article.pl?sid=26/06/05/1142243&from=rss)
 * [2026-06-06, 02:37:00](https://soylentnews.org/article.pl?sid=26/06/05/1139233&from=rss) - [Illinois Passes Landmark AI Regulation Law](https://soylentnews.org/article.pl?sid=26/06/05/1139233&from=rss)
 * [2026-06-05, 21:56:00](https://soylentnews.org/article.pl?sid=26/06/05/019244&from=rss) - [Dozens Of Red Hat Packages Backdoored Through Its Official NPM Channel](https://soylentnews.org/article.pl?sid=26/06/05/019244&from=rss)
 * [2026-06-05, 17:07:00](https://soylentnews.org/article.pl?sid=26/06/05/010227&from=rss) - [Ohio Hits Pause On Datacenter Tax Breaks Draining Its Coffers](https://soylentnews.org/article.pl?sid=26/06/05/010227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-28, 02:03:00](https://soylentnews.org/article.pl?sid=26/05/26/1718219&from=rss) - [Power Prices to Fall for Most Customers, With Bigger Drops for Businesses](https://soylentnews.org/article.pl?sid=26/05/26/1718219&from=rss)
 * [2026-05-27, 21:19:00](https://soylentnews.org/article.pl?sid=26/05/26/179259&from=rss) - [Nature Might Have a Universal Rhythm](https://soylentnews.org/article.pl?sid=26/05/26/179259&from=rss)
 * [2026-05-27, 16:35:00](https://soylentnews.org/article.pl?sid=26/05/26/0146250&from=rss) - [In Addition to Space Stations, Vast Says It Will Now Build High-Power Satellites](https://soylentnews.org/article.pl?sid=26/05/26/0146250&from=rss)
-* [2026-05-27, 11:52:00](https://soylentnews.org/article.pl?sid=26/05/26/0145204&from=rss) - [With 'The Mandalorian and Grogu' Out, Can 'Star Wars' Ever Feel Like a Big-Screen Event Again?](https://soylentnews.org/article.pl?sid=26/05/26/0145204&from=rss)
 
 ## [Archives](archives/index.md)
 
