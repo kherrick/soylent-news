@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-06, 21:43:00](https://soylentnews.org/article.pl?sid=26/06/06/1157219&from=rss) - [Bumblebees Show Advanced Problem-solving Skills in New Experiment ](https://soylentnews.org/article.pl?sid=26/06/06/1157219&from=rss)
 * [2026-06-06, 16:59:00](https://soylentnews.org/article.pl?sid=26/06/05/1150257&from=rss) - [US Firms Still Dominate Chip Subsidies](https://soylentnews.org/article.pl?sid=26/06/05/1150257&from=rss)
 * [2026-06-06, 12:10:00](https://soylentnews.org/article.pl?sid=26/06/05/1147236&from=rss) - [How Human Error Became a Weapon Against Large Language Models](https://soylentnews.org/article.pl?sid=26/06/05/1147236&from=rss)
 * [2026-06-06, 07:25:00](https://soylentnews.org/article.pl?sid=26/06/05/1142243&from=rss) - [Blue Origin CEO Says New Glenn Will Fly Again Before the Year Ends](https://soylentnews.org/article.pl?sid=26/06/05/1142243&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-28, 16:16:00](https://soylentnews.org/article.pl?sid=26/05/26/1726257&from=rss) - [California Moves To Exempt Linux From Its Upcoming Age-Verification Law After Backlash](https://soylentnews.org/article.pl?sid=26/05/26/1726257&from=rss)
 * [2026-05-28, 11:34:00](https://soylentnews.org/article.pl?sid=26/05/26/1725241&from=rss) - [Researchers Issue Warning About using WiFi Routers as Surveillance Tech](https://soylentnews.org/article.pl?sid=26/05/26/1725241&from=rss)
 * [2026-05-28, 06:53:00](https://soylentnews.org/article.pl?sid=26/05/26/1722203&from=rss) - [5 Ways Pope Leo Says AI Could Warp Humanity](https://soylentnews.org/article.pl?sid=26/05/26/1722203&from=rss)
-* [2026-05-28, 02:03:00](https://soylentnews.org/article.pl?sid=26/05/26/1718219&from=rss) - [Power Prices to Fall for Most Customers, With Bigger Drops for Businesses](https://soylentnews.org/article.pl?sid=26/05/26/1718219&from=rss)
 
 ## [Archives](archives/index.md)
 
