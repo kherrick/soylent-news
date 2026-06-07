@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 07:19:00](https://soylentnews.org/article.pl?sid=26/06/06/1335249&from=rss) - [Anthropic Eyes an IPO as Big Tech's AI Cash Crunch Comes for Wall Street](https://soylentnews.org/article.pl?sid=26/06/06/1335249&from=rss)
 * [2026-06-07, 02:31:00](https://soylentnews.org/article.pl?sid=26/06/06/1323219&from=rss) - [Why Do Jets Use Generators Instead of Alternators?](https://soylentnews.org/article.pl?sid=26/06/06/1323219&from=rss)
