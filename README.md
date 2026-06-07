@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-07, 12:07:00](https://soylentnews.org/article.pl?sid=26/06/06/1338226&from=rss) - [Small Modular Nuclear Reactor Reaches Criticality in First Test](https://soylentnews.org/article.pl?sid=26/06/06/1338226&from=rss)
 * [2026-06-07, 07:19:00](https://soylentnews.org/article.pl?sid=26/06/06/1335249&from=rss) - [Anthropic Eyes an IPO as Big Tech's AI Cash Crunch Comes for Wall Street](https://soylentnews.org/article.pl?sid=26/06/06/1335249&from=rss)
 * [2026-06-07, 02:31:00](https://soylentnews.org/article.pl?sid=26/06/06/1323219&from=rss) - [Why Do Jets Use Generators Instead of Alternators?](https://soylentnews.org/article.pl?sid=26/06/06/1323219&from=rss)
 * [2026-06-06, 21:43:00](https://soylentnews.org/article.pl?sid=26/06/06/1157219&from=rss) - [Bumblebees Show Advanced Problem-solving Skills in New Experiment ](https://soylentnews.org/article.pl?sid=26/06/06/1157219&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-29, 08:29:00](https://soylentnews.org/article.pl?sid=26/05/28/1232210&from=rss) - [HP Now Sponsoring The Linux Vendor Firmware Service / Fwupd](https://soylentnews.org/article.pl?sid=26/05/28/1232210&from=rss)
 * [2026-05-29, 03:47:00](https://soylentnews.org/article.pl?sid=26/05/28/1228205&from=rss) - [ESA Boss Tires of Being Dragged Around by NASA Mood Swings](https://soylentnews.org/article.pl?sid=26/05/28/1228205&from=rss)
 * [2026-05-28, 21:00:00](https://soylentnews.org/article.pl?sid=26/05/26/1729236&from=rss) - [Why Mosquitoes Swarm Your Head: They're Following Signals, Not Each Other](https://soylentnews.org/article.pl?sid=26/05/26/1729236&from=rss)
-* [2026-05-28, 16:16:00](https://soylentnews.org/article.pl?sid=26/05/26/1726257&from=rss) - [California Moves To Exempt Linux From Its Upcoming Age-Verification Law After Backlash](https://soylentnews.org/article.pl?sid=26/05/26/1726257&from=rss)
 
 ## [Archives](archives/index.md)
 
