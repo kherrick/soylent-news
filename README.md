@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-08, 02:20:00](https://soylentnews.org/article.pl?sid=26/06/06/1850206&from=rss) - [AI Data Centers' Extreme Memory Consumption Threatens Other Industries](https://soylentnews.org/article.pl?sid=26/06/06/1850206&from=rss)
 * [2026-06-07, 21:36:00](https://soylentnews.org/article.pl?sid=26/06/06/1848239&from=rss) - [After 11 Years At Mars, NASA's MAVEN Spacecraft Went Out With A Whisper](https://soylentnews.org/article.pl?sid=26/06/06/1848239&from=rss)
 * [2026-06-07, 16:53:00](https://soylentnews.org/article.pl?sid=26/06/06/1843238&from=rss) - [The 1N4148: The Signal Diode That Ended Up Everywhere ](https://soylentnews.org/article.pl?sid=26/06/06/1843238&from=rss)
 * [2026-06-07, 12:07:00](https://soylentnews.org/article.pl?sid=26/06/06/1338226&from=rss) - [Small Modular Nuclear Reactor Reaches Criticality in First Test](https://soylentnews.org/article.pl?sid=26/06/06/1338226&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-29, 22:36:00](https://soylentnews.org/article.pl?sid=26/05/29/028217&from=rss) - [Chinese GPU Maker Sells Out Over 30,000 Gaming GPUs Within 48 Hours Despite Lukewarm Benchmarks](https://soylentnews.org/article.pl?sid=26/05/29/028217&from=rss)
 * [2026-05-29, 17:53:00](https://soylentnews.org/article.pl?sid=26/05/29/024230&from=rss) - [(Next Step in the) NASA Moon Base Revealed](https://soylentnews.org/article.pl?sid=26/05/29/024230&from=rss)
 * [2026-05-29, 13:11:00](https://soylentnews.org/article.pl?sid=26/05/29/022223&from=rss) - [The Boring Internet - the Internet You Grew Up on Isn't Dying](https://soylentnews.org/article.pl?sid=26/05/29/022223&from=rss)
-* [2026-05-29, 08:29:00](https://soylentnews.org/article.pl?sid=26/05/28/1232210&from=rss) - [HP Now Sponsoring The Linux Vendor Firmware Service / Fwupd](https://soylentnews.org/article.pl?sid=26/05/28/1232210&from=rss)
 
 ## [Archives](archives/index.md)
 

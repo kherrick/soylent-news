@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-08](index.md)
+
+* [2026-06-08, 02:20:00](https://soylentnews.org/article.pl?sid=26/06/06/1850206&from=rss) - [AI Data Centers' Extreme Memory Consumption Threatens Other Industries](https://soylentnews.org/article.pl?sid=26/06/06/1850206&from=rss)
