@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-09, 21:07:00](https://soylentnews.org/article.pl?sid=26/06/08/1131238&from=rss) - [Raspberry Pi's Profits Are Up. So is its DRAM Bill](https://soylentnews.org/article.pl?sid=26/06/08/1131238&from=rss)
 * [2026-06-09, 16:20:00](https://soylentnews.org/article.pl?sid=26/06/07/2331246&from=rss) - [Canada's Next-Gen AWACS/Surveillance Planes Won't Be Coming From The USA](https://soylentnews.org/article.pl?sid=26/06/07/2331246&from=rss)
 * [2026-06-09, 11:32:00](https://soylentnews.org/article.pl?sid=26/06/07/2330212&from=rss) - [Code Reveals Meta Smart Glasses Can Use 'Faceprint' Tracking, Raising Privacy Alarms](https://soylentnews.org/article.pl?sid=26/06/07/2330212&from=rss)
 * [2026-06-09, 06:50:00](https://soylentnews.org/article.pl?sid=26/06/07/2321211&from=rss) - [Datacenters May Face One-Year Ban In NY](https://soylentnews.org/article.pl?sid=26/06/07/2321211&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-31, 17:18:00](https://soylentnews.org/article.pl?sid=26/05/30/1431200&from=rss) - [This AI Compressed 'All Human Cooking' Into 2 Megabytes](https://soylentnews.org/article.pl?sid=26/05/30/1431200&from=rss)
 * [2026-05-31, 12:36:00](https://soylentnews.org/article.pl?sid=26/05/30/1418232&from=rss) - [Blue Origin's New Glenn Rocket Explodes on its Launchpad](https://soylentnews.org/article.pl?sid=26/05/30/1418232&from=rss)
 * [2026-05-31, 07:54:00](https://soylentnews.org/article.pl?sid=26/05/30/1415220&from=rss) - [What is a Dickover?](https://soylentnews.org/article.pl?sid=26/05/30/1415220&from=rss)
-* [2026-05-31, 03:09:00](https://soylentnews.org/article.pl?sid=26/05/29/1513233&from=rss) - [‘AI Washing’: Firms Are Scrambling to Rebrand Themselves as Tech-Focused](https://soylentnews.org/article.pl?sid=26/05/29/1513233&from=rss)
 
 ## [Archives](archives/index.md)
 
