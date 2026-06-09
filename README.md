@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-09, 02:06:00](https://soylentnews.org/article.pl?sid=26/06/07/2319243&from=rss) - [How A USB-Connected Speaker Can Infect A PC Without Ever Being Touched](https://soylentnews.org/article.pl?sid=26/06/07/2319243&from=rss)
 * [2026-06-08, 21:21:00](https://soylentnews.org/article.pl?sid=26/06/07/1853208&from=rss) - [UK Exam Watchdog Frets Over Smart Specs Turning GCSEs Into Google Searches](https://soylentnews.org/article.pl?sid=26/06/07/1853208&from=rss)
 * [2026-06-08, 16:35:00](https://soylentnews.org/article.pl?sid=26/06/06/1857242&from=rss) - [Giant Data Center Plan Cut 50% Amid Protests - \"We Pissed Off A Lot Of People\"](https://soylentnews.org/article.pl?sid=26/06/06/1857242&from=rss)
 * [2026-06-08, 11:51:00](https://soylentnews.org/article.pl?sid=26/06/06/1854248&from=rss) - [Safety Officials Finally Have A Good Idea Of What A Big Rocket Explosion Can Do](https://soylentnews.org/article.pl?sid=26/06/06/1854248&from=rss)
@@ -49,7 +50,6 @@
 * [2026-05-30, 22:23:00](https://soylentnews.org/article.pl?sid=26/05/29/1511219&from=rss) - [The LLM Permission Slip](https://soylentnews.org/article.pl?sid=26/05/29/1511219&from=rss)
 * [2026-05-30, 17:38:00](https://soylentnews.org/article.pl?sid=26/05/29/159239&from=rss) - [Researchers Develop A New Process To Get Lithium Out Of Rocks](https://soylentnews.org/article.pl?sid=26/05/29/159239&from=rss)
 * [2026-05-30, 12:52:00](https://soylentnews.org/article.pl?sid=26/05/29/155242&from=rss) - [Finding a Parking Spot in Pyongyang-Chinese Cars in N. Korea](https://soylentnews.org/article.pl?sid=26/05/29/155242&from=rss)
-* [2026-05-30, 08:02:00](https://soylentnews.org/article.pl?sid=26/05/29/152259&from=rss) - [AI Code Increasingly Leads to Production Failures](https://soylentnews.org/article.pl?sid=26/05/29/152259&from=rss)
 
 ## [Archives](archives/index.md)
 
