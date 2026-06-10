@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-10](index.md)
+
+* [2026-06-10, 01:53:00](https://soylentnews.org/article.pl?sid=26/06/08/1134218&from=rss) - [NASA's Nancy Grace Roman Space Telescope is Set to Launch on August 30](https://soylentnews.org/article.pl?sid=26/06/08/1134218&from=rss)
