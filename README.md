@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-10, 16:01:00](https://soylentnews.org/article.pl?sid=26/06/10/0054230&from=rss) - [UC Faculty Demand a Return to SAT Tests for STEM Applicants](https://soylentnews.org/article.pl?sid=26/06/10/0054230&from=rss)
 * [2026-06-10, 11:25:00](https://soylentnews.org/article.pl?sid=26/06/09/1118255&from=rss) - [Russia's New ‘Starlink‑Style’ Rassvet Fleet Launches](https://soylentnews.org/article.pl?sid=26/06/09/1118255&from=rss)
 * [2026-06-10, 06:35:00](https://soylentnews.org/article.pl?sid=26/06/08/123201&from=rss) - ['Please Do Not Vibe F--- Up This Software': Broken Backups Spark AI Coding Row in Rsync Project](https://soylentnews.org/article.pl?sid=26/06/08/123201&from=rss)
 * [2026-06-10, 01:53:00](https://soylentnews.org/article.pl?sid=26/06/08/1134218&from=rss) - [NASA's Nancy Grace Roman Space Telescope is Set to Launch on August 30](https://soylentnews.org/article.pl?sid=26/06/08/1134218&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-01, 12:19:00](https://soylentnews.org/article.pl?sid=26/06/01/021214&from=rss) - [Drone Breaks World Speed Record With 453 Mph In Test Run](https://soylentnews.org/article.pl?sid=26/06/01/021214&from=rss)
 * [2026-06-01, 07:37:00](https://soylentnews.org/article.pl?sid=26/05/31/0238226&from=rss) - [Japanese Space Agency Names Arrival Date For BepiColombo Mercury Mission](https://soylentnews.org/article.pl?sid=26/05/31/0238226&from=rss)
 * [2026-06-01, 02:58:00](https://soylentnews.org/article.pl?sid=26/05/31/0236235&from=rss) - [Microcode Inside the Intel 8087 Floating-point Chip: Register Exchange ](https://soylentnews.org/article.pl?sid=26/05/31/0236235&from=rss)
-* [2026-05-31, 22:00:00](https://soylentnews.org/article.pl?sid=26/05/31/0233244&from=rss) - [The End of American Science](https://soylentnews.org/article.pl?sid=26/05/31/0233244&from=rss)
 
 ## [Archives](archives/index.md)
 
