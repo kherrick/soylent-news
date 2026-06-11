@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-11, 10:58:00](https://soylentnews.org/article.pl?sid=26/06/10/1134227&from=rss) - [Google Signs $920M Monthly Compute Deal With SpaceX ](https://soylentnews.org/article.pl?sid=26/06/10/1134227&from=rss)
 * [2026-06-11, 06:13:00](https://soylentnews.org/article.pl?sid=26/06/10/1126222&from=rss) - [Canonical Sends Ubuntu Into the AI Agent Era](https://soylentnews.org/article.pl?sid=26/06/10/1126222&from=rss)
 * [2026-06-11, 01:30:00](https://soylentnews.org/article.pl?sid=26/06/10/1111258&from=rss) - [S&P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic](https://soylentnews.org/article.pl?sid=26/06/10/1111258&from=rss)
 * [2026-06-10, 20:44:00](https://soylentnews.org/article.pl?sid=26/06/10/116251&from=rss) - [Cyberdecks Are Having a Moment, Rejecting Big Tech Surveillance With Style and Substance](https://soylentnews.org/article.pl?sid=26/06/10/116251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-02, 06:29:00](https://soylentnews.org/meta/article.pl?sid=26/06/02/0621229&from=rss) - [Please see kolie's journal!](https://soylentnews.org/meta/article.pl?sid=26/06/02/0621229&from=rss)
 * [2026-06-02, 03:39:00](https://soylentnews.org/article.pl?sid=26/06/01/1131223&from=rss) - [CIFSwitch Vulnerability Exposes Some Linux Distros to Local Root Access](https://soylentnews.org/article.pl?sid=26/06/01/1131223&from=rss)
 * [2026-06-01, 22:54:00](https://soylentnews.org/article.pl?sid=26/06/01/027245&from=rss) - [After $2.5 Billion Supermicro Smuggling Bust, Nvidia CEO Urges Company To Fix Export Compliance](https://soylentnews.org/article.pl?sid=26/06/01/027245&from=rss)
-* [2026-06-01, 17:12:00](https://soylentnews.org/article.pl?sid=26/06/01/023237&from=rss) - [Bezos Rocket Fell Short After Cryogenic Leak Cut Engine Thrust](https://soylentnews.org/article.pl?sid=26/06/01/023237&from=rss)
 
 ## [Archives](archives/index.md)
 
