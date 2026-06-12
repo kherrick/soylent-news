@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-12, 20:12:00](https://soylentnews.org/article.pl?sid=26/06/12/1133204&from=rss) - [Finland Deploys New System to Detect Threats to Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/12/1133204&from=rss)
 * [2026-06-12, 15:29:00](https://soylentnews.org/article.pl?sid=26/06/11/0213228&from=rss) - [Google Liable for AI Overview Falsehoods](https://soylentnews.org/article.pl?sid=26/06/11/0213228&from=rss)
 * [2026-06-12, 10:43:00](https://soylentnews.org/article.pl?sid=26/06/11/022206&from=rss) - [You Can Now Get a Religious Exemption From Using AI at Work](https://soylentnews.org/article.pl?sid=26/06/11/022206&from=rss)
 * [2026-06-12, 05:51:00](https://soylentnews.org/article.pl?sid=26/06/11/027248&from=rss) - [Lexar Regional Manager Says That RAM Prices Are Expected To Double By The End Of The Year ](https://soylentnews.org/article.pl?sid=26/06/11/027248&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-03, 12:57:00](https://soylentnews.org/article.pl?sid=26/06/02/0359202&from=rss) - [Perplexity AI Says 'You Can't Copyright Facts' In Defense Against CNN Copyright Suit](https://soylentnews.org/article.pl?sid=26/06/02/0359202&from=rss)
 * [2026-06-03, 08:03:00](https://soylentnews.org/article.pl?sid=26/06/02/0356255&from=rss) - [Musk Says US Military Suicide Drones Used Starlink In Violation Of SpaceX Rules](https://soylentnews.org/article.pl?sid=26/06/02/0356255&from=rss)
 * [2026-06-03, 03:21:00](https://soylentnews.org/article.pl?sid=26/06/02/0353213&from=rss) - [Play it again, hand...](https://soylentnews.org/article.pl?sid=26/06/02/0353213&from=rss)
-* [2026-06-02, 22:37:00](https://soylentnews.org/article.pl?sid=26/06/01/120212&from=rss) - [Researchers Say They Can Spy on Your Browsing by Measuring SSD Activity Through a Browser API](https://soylentnews.org/article.pl?sid=26/06/01/120212&from=rss)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 20:12:00](https://soylentnews.org/article.pl?sid=26/06/12/1133204&from=rss) - [Finland Deploys New System to Detect Threats to Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/12/1133204&from=rss)
 * [2026-06-12, 15:29:00](https://soylentnews.org/article.pl?sid=26/06/11/0213228&from=rss) - [Google Liable for AI Overview Falsehoods](https://soylentnews.org/article.pl?sid=26/06/11/0213228&from=rss)
 * [2026-06-12, 10:43:00](https://soylentnews.org/article.pl?sid=26/06/11/022206&from=rss) - [You Can Now Get a Religious Exemption From Using AI at Work](https://soylentnews.org/article.pl?sid=26/06/11/022206&from=rss)
 * [2026-06-12, 05:51:00](https://soylentnews.org/article.pl?sid=26/06/11/027248&from=rss) - [Lexar Regional Manager Says That RAM Prices Are Expected To Double By The End Of The Year ](https://soylentnews.org/article.pl?sid=26/06/11/027248&from=rss)
