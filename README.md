@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-12, 01:18:00](https://soylentnews.org/article.pl?sid=26/06/11/020204&from=rss) - [62 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&from=rss)
 * [2026-06-11, 20:28:00](https://soylentnews.org/article.pl?sid=26/06/10/186244&from=rss) - [World’s First Wind-powered Underwater Datacentre Starts Operating in China](https://soylentnews.org/article.pl?sid=26/06/10/186244&from=rss)
 * [2026-06-11, 15:43:00](https://soylentnews.org/article.pl?sid=26/06/10/183253&from=rss) - [Donut Labs Much Reported 'Solid-State Sodium Ion Battery' Appears to be Lithium Ion, After All](https://soylentnews.org/article.pl?sid=26/06/10/183253&from=rss)
 * [2026-06-11, 10:58:00](https://soylentnews.org/article.pl?sid=26/06/10/1134227&from=rss) - [Google Signs $920M Monthly Compute Deal With SpaceX ](https://soylentnews.org/article.pl?sid=26/06/10/1134227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-02, 17:52:00](https://soylentnews.org/article.pl?sid=26/06/01/1154226&from=rss) - [Rust Will Save Linux From AI, Says Greg Kroah-Hartman](https://soylentnews.org/article.pl?sid=26/06/01/1154226&from=rss)
 * [2026-06-02, 13:07:00](https://soylentnews.org/politics/article.pl?sid=26/06/01/1149213&from=rss) - [US Law Enforcement Warns of \"Anti-Tech Extremism\" as AI Hatred Grows](https://soylentnews.org/politics/article.pl?sid=26/06/01/1149213&from=rss)
 * [2026-06-02, 08:24:00](https://soylentnews.org/article.pl?sid=26/06/01/1138224&from=rss) - [Researcher Develops 'Spray-On' Stealth Coating For Drones](https://soylentnews.org/article.pl?sid=26/06/01/1138224&from=rss)
-* [2026-06-02, 06:29:00](https://soylentnews.org/meta/article.pl?sid=26/06/02/0621229&from=rss) - [Please see kolie's journal!](https://soylentnews.org/meta/article.pl?sid=26/06/02/0621229&from=rss)
 
 ## [Archives](archives/index.md)
 
