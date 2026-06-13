@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-13, 10:25:00](https://soylentnews.org/article.pl?sid=26/06/12/1337219&from=rss) - [Officials Powerless to Stop 8 New Data Centers That Could Transform Small Texas County](https://soylentnews.org/article.pl?sid=26/06/12/1337219&from=rss)
 * [2026-06-13, 05:39:00](https://soylentnews.org/article.pl?sid=26/06/12/1141258&from=rss) - [Cities Can't Figure Out How to Turn Off Flock Cameras, So They're Using Trash Bags](https://soylentnews.org/article.pl?sid=26/06/12/1141258&from=rss)
 * [2026-06-13, 00:56:00](https://soylentnews.org/article.pl?sid=26/06/12/1136247&from=rss) - [Yoti Flagged a Playstation User to Authorities for Running GrapheneOS on Their Phone](https://soylentnews.org/article.pl?sid=26/06/12/1136247&from=rss)
 * [2026-06-12, 20:12:00](https://soylentnews.org/article.pl?sid=26/06/12/1133204&from=rss) - [Finland Deploys New System to Detect Threats to Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/12/1133204&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-04, 03:14:00](https://soylentnews.org/article.pl?sid=26/06/02/077231&from=rss) - [Distrowatch Celebrates its 25th Anniversary](https://soylentnews.org/article.pl?sid=26/06/02/077231&from=rss)
 * [2026-06-03, 22:26:00](https://soylentnews.org/article.pl?sid=26/06/02/062240&from=rss) - [An OpenAI Model Solved A Famous Math Problem That Stumped Humans For 80 Years](https://soylentnews.org/article.pl?sid=26/06/02/062240&from=rss)
 * [2026-06-03, 17:34:00](https://soylentnews.org/article.pl?sid=26/06/02/060223&from=rss) - [The USS Gerald R. Ford's Next Mission is as a Floating Nuclear Power Plant](https://soylentnews.org/article.pl?sid=26/06/02/060223&from=rss)
-* [2026-06-03, 12:57:00](https://soylentnews.org/article.pl?sid=26/06/02/0359202&from=rss) - [Perplexity AI Says 'You Can't Copyright Facts' In Defense Against CNN Copyright Suit](https://soylentnews.org/article.pl?sid=26/06/02/0359202&from=rss)
 
 ## [Archives](archives/index.md)
 
