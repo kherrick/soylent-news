@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-14, 05:20:00](https://soylentnews.org/article.pl?sid=26/06/13/1424211&from=rss) - [“Atomic Arch”: Nearly 900 AUR Packages Backdoored with an Infostealer and eBPF Rootkit](https://soylentnews.org/article.pl?sid=26/06/13/1424211&from=rss)
 * [2026-06-14, 00:37:00](https://soylentnews.org/article.pl?sid=26/06/12/178256&from=rss) - [ASML Becomes Europe's Most Valuable Company Ever As Analysts Bet On Higher EUV Output](https://soylentnews.org/article.pl?sid=26/06/12/178256&from=rss)
 * [2026-06-13, 19:54:00](https://soylentnews.org/article.pl?sid=26/06/12/1645227&from=rss) - [Intel Intro'd ‘The First Processor In The X86 Series And The First 8086 Microprocessor’ On This Day](https://soylentnews.org/article.pl?sid=26/06/12/1645227&from=rss)
 * [2026-06-13, 15:08:00](https://soylentnews.org/article.pl?sid=26/06/12/1339210&from=rss) - [Researchers Put AI Chatbots in Charge of a Simulated World. This One Destroyed Everything in 4 Days](https://soylentnews.org/article.pl?sid=26/06/12/1339210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-04, 22:08:00](https://soylentnews.org/article.pl?sid=26/06/04/1030202&from=rss) - [DuckDuckGo Installs Are Up 30% as Users Reject Being ‘Force-Fed’ Google's AI Search](https://soylentnews.org/article.pl?sid=26/06/04/1030202&from=rss)
 * [2026-06-04, 17:26:00](https://soylentnews.org/article.pl?sid=26/06/02/1958258&from=rss) - [Election Interlopers Register 5K+ Domains, Hope To Catch Some Voting Phish](https://soylentnews.org/article.pl?sid=26/06/02/1958258&from=rss)
 * [2026-06-04, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/02/0713224&from=rss) - [Moderna Gets $50 Million To Develop MRNA Ebola Vaccine Against Bundibugyo](https://soylentnews.org/article.pl?sid=26/06/02/0713224&from=rss)
-* [2026-06-04, 07:58:00](https://soylentnews.org/article.pl?sid=26/06/02/0711209&from=rss) - [Angry Devs Vow To Flee GitHub Copilot As Metered Billing Takes Hold](https://soylentnews.org/article.pl?sid=26/06/02/0711209&from=rss)
 
 ## [Archives](archives/index.md)
 
