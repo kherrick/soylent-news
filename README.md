@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-14, 14:47:00](https://soylentnews.org/article.pl?sid=26/06/13/1530216&from=rss) - [Scientists Gave an Octopus a Mirror. Here’s What Happened Next ](https://soylentnews.org/article.pl?sid=26/06/13/1530216&from=rss)
 * [2026-06-14, 10:03:00](https://soylentnews.org/article.pl?sid=26/06/13/1438234&from=rss) - [Tests Suggest Russian Satellites Can Jam GPS on a Continental Scale](https://soylentnews.org/article.pl?sid=26/06/13/1438234&from=rss)
 * [2026-06-14, 05:20:00](https://soylentnews.org/article.pl?sid=26/06/13/1424211&from=rss) - [“Atomic Arch”: Nearly 900 AUR Packages Backdoored with an Infostealer and eBPF Rootkit](https://soylentnews.org/article.pl?sid=26/06/13/1424211&from=rss)
 * [2026-06-14, 00:37:00](https://soylentnews.org/article.pl?sid=26/06/12/178256&from=rss) - [ASML Becomes Europe's Most Valuable Company Ever As Analysts Bet On Higher EUV Output](https://soylentnews.org/article.pl?sid=26/06/12/178256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-05, 07:37:00](https://soylentnews.org/article.pl?sid=26/06/05/0051235&from=rss) - [‘Bots have now passed human traffic online,’ Cloudflare Boss Laments    ](https://soylentnews.org/article.pl?sid=26/06/05/0051235&from=rss)
 * [2026-06-05, 02:52:00](https://soylentnews.org/article.pl?sid=26/06/04/1033248&from=rss) - [Troops’ Phones Gave Away Location Data to Foreign Adversaries](https://soylentnews.org/article.pl?sid=26/06/04/1033248&from=rss)
 * [2026-06-04, 22:08:00](https://soylentnews.org/article.pl?sid=26/06/04/1030202&from=rss) - [DuckDuckGo Installs Are Up 30% as Users Reject Being ‘Force-Fed’ Google's AI Search](https://soylentnews.org/article.pl?sid=26/06/04/1030202&from=rss)
-* [2026-06-04, 17:26:00](https://soylentnews.org/article.pl?sid=26/06/02/1958258&from=rss) - [Election Interlopers Register 5K+ Domains, Hope To Catch Some Voting Phish](https://soylentnews.org/article.pl?sid=26/06/02/1958258&from=rss)
 
 ## [Archives](archives/index.md)
 
