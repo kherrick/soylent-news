@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-15, 05:08:00](https://soylentnews.org/article.pl?sid=26/06/14/1916201&from=rss) - [The Adder at the Heart of Intel's 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/06/14/1916201&from=rss)
 * [2026-06-15, 00:23:00](https://soylentnews.org/article.pl?sid=26/06/14/1914203&from=rss) - [Physicists Refute Famous 2025 Study Claiming Daylight Saving Time Poses Severe Health Risks](https://soylentnews.org/article.pl?sid=26/06/14/1914203&from=rss)
 * [2026-06-14, 19:35:00](https://soylentnews.org/article.pl?sid=26/06/13/1539217&from=rss) - [How Can Technical Solutions Expose Mass Surveillance?](https://soylentnews.org/article.pl?sid=26/06/13/1539217&from=rss)
 * [2026-06-14, 14:47:00](https://soylentnews.org/article.pl?sid=26/06/13/1530216&from=rss) - [Scientists Gave an Octopus a Mirror. Here’s What Happened Next ](https://soylentnews.org/article.pl?sid=26/06/13/1530216&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-05, 21:56:00](https://soylentnews.org/article.pl?sid=26/06/05/019244&from=rss) - [Dozens Of Red Hat Packages Backdoored Through Its Official NPM Channel](https://soylentnews.org/article.pl?sid=26/06/05/019244&from=rss)
 * [2026-06-05, 17:07:00](https://soylentnews.org/article.pl?sid=26/06/05/010227&from=rss) - [Ohio Hits Pause On Datacenter Tax Breaks Draining Its Coffers](https://soylentnews.org/article.pl?sid=26/06/05/010227&from=rss)
 * [2026-06-05, 12:21:00](https://soylentnews.org/article.pl?sid=26/06/05/0055245&from=rss) - [The Newest Instagram \"Exploit\" is the Goofiest I've Seen](https://soylentnews.org/article.pl?sid=26/06/05/0055245&from=rss)
-* [2026-06-05, 07:37:00](https://soylentnews.org/article.pl?sid=26/06/05/0051235&from=rss) - [‘Bots have now passed human traffic online,’ Cloudflare Boss Laments    ](https://soylentnews.org/article.pl?sid=26/06/05/0051235&from=rss)
 
 ## [Archives](archives/index.md)
 
