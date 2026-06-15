@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-15, 14:31:00](https://soylentnews.org/article.pl?sid=26/06/15/0013216&from=rss) - [Influential Study Touting ChatGPT in Education Retracted Over Red Flags](https://soylentnews.org/article.pl?sid=26/06/15/0013216&from=rss)
 * [2026-06-15, 09:53:00](https://soylentnews.org/article.pl?sid=26/06/14/1921229&from=rss) - [In First, California City Overwhelmingly Votes to Permanently Ban Datacenters](https://soylentnews.org/article.pl?sid=26/06/14/1921229&from=rss)
 * [2026-06-15, 05:08:00](https://soylentnews.org/article.pl?sid=26/06/14/1916201&from=rss) - [The Adder at the Heart of Intel's 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/06/14/1916201&from=rss)
 * [2026-06-15, 00:23:00](https://soylentnews.org/article.pl?sid=26/06/14/1914203&from=rss) - [Physicists Refute Famous 2025 Study Claiming Daylight Saving Time Poses Severe Health Risks](https://soylentnews.org/article.pl?sid=26/06/14/1914203&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-06, 07:25:00](https://soylentnews.org/article.pl?sid=26/06/05/1142243&from=rss) - [Blue Origin CEO Says New Glenn Will Fly Again Before the Year Ends](https://soylentnews.org/article.pl?sid=26/06/05/1142243&from=rss)
 * [2026-06-06, 02:37:00](https://soylentnews.org/article.pl?sid=26/06/05/1139233&from=rss) - [Illinois Passes Landmark AI Regulation Law](https://soylentnews.org/article.pl?sid=26/06/05/1139233&from=rss)
 * [2026-06-05, 21:56:00](https://soylentnews.org/article.pl?sid=26/06/05/019244&from=rss) - [Dozens Of Red Hat Packages Backdoored Through Its Official NPM Channel](https://soylentnews.org/article.pl?sid=26/06/05/019244&from=rss)
-* [2026-06-05, 17:07:00](https://soylentnews.org/article.pl?sid=26/06/05/010227&from=rss) - [Ohio Hits Pause On Datacenter Tax Breaks Draining Its Coffers](https://soylentnews.org/article.pl?sid=26/06/05/010227&from=rss)
 
 ## [Archives](archives/index.md)
 
