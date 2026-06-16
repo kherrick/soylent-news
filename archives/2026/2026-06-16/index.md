@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-16](index.md)
+
+* [2026-06-16, 00:05:00](https://soylentnews.org/article.pl?sid=26/06/15/0022216&from=rss) - [Anthropic Warns Claude AI Is Building Itself Faster Than Expected](https://soylentnews.org/article.pl?sid=26/06/15/0022216&from=rss)
