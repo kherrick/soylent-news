@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-16, 23:50:00](https://soylentnews.org/article.pl?sid=26/06/16/0051200&from=rss) - [Rivian Is Reusing Its Own Car Batteries In A Very Resourceful Way](https://soylentnews.org/article.pl?sid=26/06/16/0051200&from=rss)
 * [2026-06-16, 19:08:00](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&from=rss) - [US Solar and Storage Defy Political Hostility to Dominate Q1 Power Installations](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&from=rss)
 * [2026-06-16, 14:22:00](https://soylentnews.org/article.pl?sid=26/06/15/0335259&from=rss) - [AI Agents Favored $1,500 Sponsored Flights Over $500 Alternatives](https://soylentnews.org/article.pl?sid=26/06/15/0335259&from=rss)
 * [2026-06-16, 09:37:00](https://soylentnews.org/article.pl?sid=26/06/15/0328205&from=rss) - [Intel Reportedly Preparing Surprise Return to DDR4 Systems With 'Raptor Lake Next'](https://soylentnews.org/article.pl?sid=26/06/15/0328205&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-07, 16:53:00](https://soylentnews.org/article.pl?sid=26/06/06/1843238&from=rss) - [The 1N4148: The Signal Diode That Ended Up Everywhere ](https://soylentnews.org/article.pl?sid=26/06/06/1843238&from=rss)
 * [2026-06-07, 12:07:00](https://soylentnews.org/article.pl?sid=26/06/06/1338226&from=rss) - [Small Modular Nuclear Reactor Reaches Criticality in First Test](https://soylentnews.org/article.pl?sid=26/06/06/1338226&from=rss)
 * [2026-06-07, 07:19:00](https://soylentnews.org/article.pl?sid=26/06/06/1335249&from=rss) - [Anthropic Eyes an IPO as Big Tech's AI Cash Crunch Comes for Wall Street](https://soylentnews.org/article.pl?sid=26/06/06/1335249&from=rss)
-* [2026-06-07, 02:31:00](https://soylentnews.org/article.pl?sid=26/06/06/1323219&from=rss) - [Why Do Jets Use Generators Instead of Alternators?](https://soylentnews.org/article.pl?sid=26/06/06/1323219&from=rss)
 
 ## [Archives](archives/index.md)
 
