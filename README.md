@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-17, 18:52:00](https://soylentnews.org/article.pl?sid=26/06/16/1144213&from=rss) - [U.S. Gov't Orders Anthropic to Disable its Newest AI Models and Restrict Foreigner Use](https://soylentnews.org/article.pl?sid=26/06/16/1144213&from=rss)
 * [2026-06-17, 14:08:00](https://soylentnews.org/article.pl?sid=26/06/16/1139240&from=rss) - [Brick Your Phone Temporarily to Aid Fiction-Maxxing](https://soylentnews.org/article.pl?sid=26/06/16/1139240&from=rss)
 * [2026-06-17, 09:25:00](https://soylentnews.org/article.pl?sid=26/06/16/0055252&from=rss) - [EU Auto Giants Call For 'Made In Europe' Incentives Amid Rising Chinese Competition](https://soylentnews.org/article.pl?sid=26/06/16/0055252&from=rss)
 * [2026-06-17, 04:33:00](https://soylentnews.org/article.pl?sid=26/06/16/0054257&from=rss) - [Man Jailed for a Month Despite Flock Showing He Was 5 Miles From Crime Scene](https://soylentnews.org/article.pl?sid=26/06/16/0054257&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-08, 11:51:00](https://soylentnews.org/article.pl?sid=26/06/06/1854248&from=rss) - [Safety Officials Finally Have A Good Idea Of What A Big Rocket Explosion Can Do](https://soylentnews.org/article.pl?sid=26/06/06/1854248&from=rss)
 * [2026-06-08, 07:07:00](https://soylentnews.org/article.pl?sid=26/06/06/1851230&from=rss) - [The Floppy Disk Patent Was Granted Today In 1972 — When 80KB Took Up 8 Inches And Were Really Floppy](https://soylentnews.org/article.pl?sid=26/06/06/1851230&from=rss)
 * [2026-06-08, 02:20:00](https://soylentnews.org/article.pl?sid=26/06/06/1850206&from=rss) - [AI Data Centers' Extreme Memory Consumption Threatens Other Industries](https://soylentnews.org/article.pl?sid=26/06/06/1850206&from=rss)
-* [2026-06-07, 21:36:00](https://soylentnews.org/article.pl?sid=26/06/06/1848239&from=rss) - [After 11 Years At Mars, NASA's MAVEN Spacecraft Went Out With A Whisper](https://soylentnews.org/article.pl?sid=26/06/06/1848239&from=rss)
 
 ## [Archives](archives/index.md)
 
