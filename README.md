@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-18, 09:08:00](https://soylentnews.org/article.pl?sid=26/06/17/1140258&from=rss) - [France's Digital Sovereignty Push is Struggling to Escape the Microsoft Gravity Well](https://soylentnews.org/article.pl?sid=26/06/17/1140258&from=rss)
 * [2026-06-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/06/17/0045227&from=rss) - [Why Not yserver? It’s Xserver, But Rust-y.](https://soylentnews.org/article.pl?sid=26/06/17/0045227&from=rss)
 * [2026-06-17, 23:35:00](https://soylentnews.org/article.pl?sid=26/06/16/122242&from=rss) - [Threads of Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System](https://soylentnews.org/article.pl?sid=26/06/16/122242&from=rss)
 * [2026-06-17, 18:52:00](https://soylentnews.org/article.pl?sid=26/06/16/1144213&from=rss) - [U.S. Gov't Orders Anthropic to Disable its Newest AI Models and Restrict Foreigner Use](https://soylentnews.org/article.pl?sid=26/06/16/1144213&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-09, 02:06:00](https://soylentnews.org/article.pl?sid=26/06/07/2319243&from=rss) - [How A USB-Connected Speaker Can Infect A PC Without Ever Being Touched](https://soylentnews.org/article.pl?sid=26/06/07/2319243&from=rss)
 * [2026-06-08, 21:21:00](https://soylentnews.org/article.pl?sid=26/06/07/1853208&from=rss) - [UK Exam Watchdog Frets Over Smart Specs Turning GCSEs Into Google Searches](https://soylentnews.org/article.pl?sid=26/06/07/1853208&from=rss)
 * [2026-06-08, 16:35:00](https://soylentnews.org/article.pl?sid=26/06/06/1857242&from=rss) - [Giant Data Center Plan Cut 50% Amid Protests - \"We Pissed Off A Lot Of People\"](https://soylentnews.org/article.pl?sid=26/06/06/1857242&from=rss)
-* [2026-06-08, 11:51:00](https://soylentnews.org/article.pl?sid=26/06/06/1854248&from=rss) - [Safety Officials Finally Have A Good Idea Of What A Big Rocket Explosion Can Do](https://soylentnews.org/article.pl?sid=26/06/06/1854248&from=rss)
 
 ## [Archives](archives/index.md)
 
