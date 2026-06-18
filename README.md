@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-18, 18:43:00](https://soylentnews.org/article.pl?sid=26/06/17/1519239&from=rss) - [Finland Charges Russian Captain And Crew Member Of Ship Suspected Of Damaging Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/17/1519239&from=rss)
 * [2026-06-18, 13:53:00](https://soylentnews.org/article.pl?sid=26/06/17/1517231&from=rss) - [Heart Protection From COVID Shots Remains Amid Updates, Study Finds](https://soylentnews.org/article.pl?sid=26/06/17/1517231&from=rss)
 * [2026-06-18, 09:08:00](https://soylentnews.org/article.pl?sid=26/06/17/1140258&from=rss) - [France's Digital Sovereignty Push is Struggling to Escape the Microsoft Gravity Well](https://soylentnews.org/article.pl?sid=26/06/17/1140258&from=rss)
 * [2026-06-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/06/17/0045227&from=rss) - [Why Not yserver? It’s Xserver, But Rust-y.](https://soylentnews.org/article.pl?sid=26/06/17/0045227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-09, 11:32:00](https://soylentnews.org/article.pl?sid=26/06/07/2330212&from=rss) - [Code Reveals Meta Smart Glasses Can Use 'Faceprint' Tracking, Raising Privacy Alarms](https://soylentnews.org/article.pl?sid=26/06/07/2330212&from=rss)
 * [2026-06-09, 06:50:00](https://soylentnews.org/article.pl?sid=26/06/07/2321211&from=rss) - [Datacenters May Face One-Year Ban In NY](https://soylentnews.org/article.pl?sid=26/06/07/2321211&from=rss)
 * [2026-06-09, 02:06:00](https://soylentnews.org/article.pl?sid=26/06/07/2319243&from=rss) - [How A USB-Connected Speaker Can Infect A PC Without Ever Being Touched](https://soylentnews.org/article.pl?sid=26/06/07/2319243&from=rss)
-* [2026-06-08, 21:21:00](https://soylentnews.org/article.pl?sid=26/06/07/1853208&from=rss) - [UK Exam Watchdog Frets Over Smart Specs Turning GCSEs Into Google Searches](https://soylentnews.org/article.pl?sid=26/06/07/1853208&from=rss)
 
 ## [Archives](archives/index.md)
 
