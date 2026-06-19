@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-19, 16:46:00](https://soylentnews.org/article.pl?sid=26/06/19/1210211&from=rss) - [Cockroaches Scurry Around With Thousands of Pieces of Bacterial Genomes](https://soylentnews.org/article.pl?sid=26/06/19/1210211&from=rss)
 * [2026-06-19, 12:00:00](https://soylentnews.org/article.pl?sid=26/06/19/120238&from=rss) - [A Chinese Rocket Breaks Apart Dangerously Close to the Starlink Constellation](https://soylentnews.org/article.pl?sid=26/06/19/120238&from=rss)
 * [2026-06-18, 23:24:00](https://soylentnews.org/article.pl?sid=26/06/17/1523237&from=rss) - [Linux Kernel 7.1 Sends Intel 486 Support To Silicon Heaven](https://soylentnews.org/article.pl?sid=26/06/17/1523237&from=rss)
 * [2026-06-18, 18:43:00](https://soylentnews.org/article.pl?sid=26/06/17/1519239&from=rss) - [Finland Charges Russian Captain And Crew Member Of Ship Suspected Of Damaging Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/17/1519239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-10, 01:53:00](https://soylentnews.org/article.pl?sid=26/06/08/1134218&from=rss) - [NASA's Nancy Grace Roman Space Telescope is Set to Launch on August 30](https://soylentnews.org/article.pl?sid=26/06/08/1134218&from=rss)
 * [2026-06-09, 21:07:00](https://soylentnews.org/article.pl?sid=26/06/08/1131238&from=rss) - [Raspberry Pi's Profits Are Up. So is its DRAM Bill](https://soylentnews.org/article.pl?sid=26/06/08/1131238&from=rss)
 * [2026-06-09, 16:20:00](https://soylentnews.org/article.pl?sid=26/06/07/2331246&from=rss) - [Canada's Next-Gen AWACS/Surveillance Planes Won't Be Coming From The USA](https://soylentnews.org/article.pl?sid=26/06/07/2331246&from=rss)
-* [2026-06-09, 11:32:00](https://soylentnews.org/article.pl?sid=26/06/07/2330212&from=rss) - [Code Reveals Meta Smart Glasses Can Use 'Faceprint' Tracking, Raising Privacy Alarms](https://soylentnews.org/article.pl?sid=26/06/07/2330212&from=rss)
 
 ## [Archives](archives/index.md)
 
