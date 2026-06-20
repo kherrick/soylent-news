@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-20, 07:57:00](https://soylentnews.org/article.pl?sid=26/06/19/1219225&from=rss) - [The Challenges of Typesetting Arabic Script](https://soylentnews.org/article.pl?sid=26/06/19/1219225&from=rss)
 * [2026-06-20, 02:14:00](https://soylentnews.org/article.pl?sid=26/06/19/1216220&from=rss) - [NASA Management Wants a Word and Won't Say Why](https://soylentnews.org/article.pl?sid=26/06/19/1216220&from=rss)
 * [2026-06-19, 21:31:00](https://soylentnews.org/article.pl?sid=26/06/19/1212211&from=rss) - [The FBI Built its Own Replica Small Town to Simulate Real-World Cyberattacks](https://soylentnews.org/article.pl?sid=26/06/19/1212211&from=rss)
 * [2026-06-19, 16:46:00](https://soylentnews.org/article.pl?sid=26/06/19/1210211&from=rss) - [Cockroaches Scurry Around With Thousands of Pieces of Bacterial Genomes](https://soylentnews.org/article.pl?sid=26/06/19/1210211&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-10, 16:01:00](https://soylentnews.org/article.pl?sid=26/06/10/0054230&from=rss) - [UC Faculty Demand a Return to SAT Tests for STEM Applicants](https://soylentnews.org/article.pl?sid=26/06/10/0054230&from=rss)
 * [2026-06-10, 11:25:00](https://soylentnews.org/article.pl?sid=26/06/09/1118255&from=rss) - [Russia's New ‘Starlink‑Style’ Rassvet Fleet Launches](https://soylentnews.org/article.pl?sid=26/06/09/1118255&from=rss)
 * [2026-06-10, 06:35:00](https://soylentnews.org/article.pl?sid=26/06/08/123201&from=rss) - ['Please Do Not Vibe F--- Up This Software': Broken Backups Spark AI Coding Row in Rsync Project](https://soylentnews.org/article.pl?sid=26/06/08/123201&from=rss)
-* [2026-06-10, 01:53:00](https://soylentnews.org/article.pl?sid=26/06/08/1134218&from=rss) - [NASA's Nancy Grace Roman Space Telescope is Set to Launch on August 30](https://soylentnews.org/article.pl?sid=26/06/08/1134218&from=rss)
 
 ## [Archives](archives/index.md)
 
