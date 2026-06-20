@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-20, 17:30:00](https://soylentnews.org/article.pl?sid=26/06/19/1232209&from=rss) - [NASA Said Nyet to Roscosmos Plan to Cut Into Leaky ISS Segment](https://soylentnews.org/article.pl?sid=26/06/19/1232209&from=rss)
 * [2026-06-20, 12:45:00](https://soylentnews.org/article.pl?sid=26/06/19/1228210&from=rss) - [Critical Copilot Vulnerability Allowed Hackers to Steal 2FA Code From Users](https://soylentnews.org/article.pl?sid=26/06/19/1228210&from=rss)
 * [2026-06-20, 07:57:00](https://soylentnews.org/article.pl?sid=26/06/19/1219225&from=rss) - [The Challenges of Typesetting Arabic Script](https://soylentnews.org/article.pl?sid=26/06/19/1219225&from=rss)
 * [2026-06-20, 02:14:00](https://soylentnews.org/article.pl?sid=26/06/19/1216220&from=rss) - [NASA Management Wants a Word and Won't Say Why](https://soylentnews.org/article.pl?sid=26/06/19/1216220&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-11, 01:30:00](https://soylentnews.org/article.pl?sid=26/06/10/1111258&from=rss) - [S&P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic](https://soylentnews.org/article.pl?sid=26/06/10/1111258&from=rss)
 * [2026-06-10, 20:44:00](https://soylentnews.org/article.pl?sid=26/06/10/116251&from=rss) - [Cyberdecks Are Having a Moment, Rejecting Big Tech Surveillance With Style and Substance](https://soylentnews.org/article.pl?sid=26/06/10/116251&from=rss)
 * [2026-06-10, 16:01:00](https://soylentnews.org/article.pl?sid=26/06/10/0054230&from=rss) - [UC Faculty Demand a Return to SAT Tests for STEM Applicants](https://soylentnews.org/article.pl?sid=26/06/10/0054230&from=rss)
-* [2026-06-10, 11:25:00](https://soylentnews.org/article.pl?sid=26/06/09/1118255&from=rss) - [Russia's New ‘Starlink‑Style’ Rassvet Fleet Launches](https://soylentnews.org/article.pl?sid=26/06/09/1118255&from=rss)
 
 ## [Archives](archives/index.md)
 
