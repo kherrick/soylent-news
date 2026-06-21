@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-21, 22:02:00](https://soylentnews.org/article.pl?sid=26/06/20/0543245&from=rss) - [Chinese Fab SMIC's 7nm Metal Pitch Beats Intel 18A but Lags 38% on Density, Teardown Finds](https://soylentnews.org/article.pl?sid=26/06/20/0543245&from=rss)
 * [2026-06-21, 17:17:00](https://soylentnews.org/article.pl?sid=26/06/20/0538252&from=rss) - [Bruce Scheier's Thoughts on Banning AI Models](https://soylentnews.org/article.pl?sid=26/06/20/0538252&from=rss)
 * [2026-06-21, 12:29:00](https://soylentnews.org/article.pl?sid=26/06/20/0534212&from=rss) - [NHS Palantir Claims Face Scrutiny After Data Suggests Uneven Results](https://soylentnews.org/article.pl?sid=26/06/20/0534212&from=rss)
 * [2026-06-21, 07:42:00](https://soylentnews.org/article.pl?sid=26/06/20/0145259&from=rss) - [Cyberattack Sees Crops Kept In The Ground](https://soylentnews.org/article.pl?sid=26/06/20/0145259&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-12, 05:51:00](https://soylentnews.org/article.pl?sid=26/06/11/027248&from=rss) - [Lexar Regional Manager Says That RAM Prices Are Expected To Double By The End Of The Year ](https://soylentnews.org/article.pl?sid=26/06/11/027248&from=rss)
 * [2026-06-12, 01:18:00](https://soylentnews.org/article.pl?sid=26/06/11/020204&from=rss) - [62 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&from=rss)
 * [2026-06-11, 20:28:00](https://soylentnews.org/article.pl?sid=26/06/10/186244&from=rss) - [DUPE: World’s First Wind-powered Underwater Datacentre Starts Operating in China](https://soylentnews.org/article.pl?sid=26/06/10/186244&from=rss)
-* [2026-06-11, 15:43:00](https://soylentnews.org/article.pl?sid=26/06/10/183253&from=rss) - [Donut Labs Much Reported 'Solid-State Sodium Ion Battery' Appears to be Lithium Ion, After All](https://soylentnews.org/article.pl?sid=26/06/10/183253&from=rss)
 
 ## [Archives](archives/index.md)
 
