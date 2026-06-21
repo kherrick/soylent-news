@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-21, 02:56:00](https://soylentnews.org/article.pl?sid=26/06/20/0140256&from=rss) - [Red Hat Gives Ubuntu A Bootc Up The Backside At Canonical Shindig](https://soylentnews.org/article.pl?sid=26/06/20/0140256&from=rss)
 * [2026-06-20, 22:14:00](https://soylentnews.org/article.pl?sid=26/06/20/0135207&from=rss) - [Where to Find the Colors Your Screen Can’t Show You](https://soylentnews.org/article.pl?sid=26/06/20/0135207&from=rss)
 * [2026-06-20, 17:30:00](https://soylentnews.org/article.pl?sid=26/06/19/1232209&from=rss) - [NASA Said Nyet to Roscosmos Plan to Cut Into Leaky ISS Segment](https://soylentnews.org/article.pl?sid=26/06/19/1232209&from=rss)
 * [2026-06-20, 12:45:00](https://soylentnews.org/article.pl?sid=26/06/19/1228210&from=rss) - [Critical Copilot Vulnerability Allowed Hackers to Steal 2FA Code From Users](https://soylentnews.org/article.pl?sid=26/06/19/1228210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-11, 10:58:00](https://soylentnews.org/article.pl?sid=26/06/10/1134227&from=rss) - [Google Signs $920M Monthly Compute Deal With SpaceX ](https://soylentnews.org/article.pl?sid=26/06/10/1134227&from=rss)
 * [2026-06-11, 06:13:00](https://soylentnews.org/article.pl?sid=26/06/10/1126222&from=rss) - [Canonical Sends Ubuntu Into the AI Agent Era](https://soylentnews.org/article.pl?sid=26/06/10/1126222&from=rss)
 * [2026-06-11, 01:30:00](https://soylentnews.org/article.pl?sid=26/06/10/1111258&from=rss) - [S&P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic](https://soylentnews.org/article.pl?sid=26/06/10/1111258&from=rss)
-* [2026-06-10, 20:44:00](https://soylentnews.org/article.pl?sid=26/06/10/116251&from=rss) - [Cyberdecks Are Having a Moment, Rejecting Big Tech Surveillance With Style and Substance](https://soylentnews.org/article.pl?sid=26/06/10/116251&from=rss)
 
 ## [Archives](archives/index.md)
 
