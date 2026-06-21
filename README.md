@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-21, 12:29:00](https://soylentnews.org/article.pl?sid=26/06/20/0534212&from=rss) - [NHS Palantir Claims Face Scrutiny After Data Suggests Uneven Results](https://soylentnews.org/article.pl?sid=26/06/20/0534212&from=rss)
 * [2026-06-21, 07:42:00](https://soylentnews.org/article.pl?sid=26/06/20/0145259&from=rss) - [Cyberattack Sees Crops Kept In The Ground](https://soylentnews.org/article.pl?sid=26/06/20/0145259&from=rss)
 * [2026-06-21, 02:56:00](https://soylentnews.org/article.pl?sid=26/06/20/0140256&from=rss) - [Red Hat Gives Ubuntu A Bootc Up The Backside At Canonical Shindig](https://soylentnews.org/article.pl?sid=26/06/20/0140256&from=rss)
 * [2026-06-20, 22:14:00](https://soylentnews.org/article.pl?sid=26/06/20/0135207&from=rss) - [Where to Find the Colors Your Screen Can’t Show You](https://soylentnews.org/article.pl?sid=26/06/20/0135207&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-11, 20:28:00](https://soylentnews.org/article.pl?sid=26/06/10/186244&from=rss) - [DUPE: World’s First Wind-powered Underwater Datacentre Starts Operating in China](https://soylentnews.org/article.pl?sid=26/06/10/186244&from=rss)
 * [2026-06-11, 15:43:00](https://soylentnews.org/article.pl?sid=26/06/10/183253&from=rss) - [Donut Labs Much Reported 'Solid-State Sodium Ion Battery' Appears to be Lithium Ion, After All](https://soylentnews.org/article.pl?sid=26/06/10/183253&from=rss)
 * [2026-06-11, 10:58:00](https://soylentnews.org/article.pl?sid=26/06/10/1134227&from=rss) - [Google Signs $920M Monthly Compute Deal With SpaceX ](https://soylentnews.org/article.pl?sid=26/06/10/1134227&from=rss)
-* [2026-06-11, 06:13:00](https://soylentnews.org/article.pl?sid=26/06/10/1126222&from=rss) - [Canonical Sends Ubuntu Into the AI Agent Era](https://soylentnews.org/article.pl?sid=26/06/10/1126222&from=rss)
 
 ## [Archives](archives/index.md)
 
