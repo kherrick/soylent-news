@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-22, 12:13:00](https://soylentnews.org/article.pl?sid=26/06/21/2015236&from=rss) - [16-Year-Old SATA II SSD Survives 1 Petabyte of Writes](https://soylentnews.org/article.pl?sid=26/06/21/2015236&from=rss)
 * [2026-06-22, 07:30:00](https://soylentnews.org/article.pl?sid=26/06/21/205254&from=rss) - [Python Dev Saved From Disaster by Intuition...and AI](https://soylentnews.org/article.pl?sid=26/06/21/205254&from=rss)
 * [2026-06-22, 02:47:00](https://soylentnews.org/article.pl?sid=26/06/20/0542204&from=rss) - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://soylentnews.org/article.pl?sid=26/06/20/0542204&from=rss)
 * [2026-06-21, 22:02:00](https://soylentnews.org/article.pl?sid=26/06/20/0543245&from=rss) - [Chinese Fab SMIC's 7nm Metal Pitch Beats Intel 18A but Lags 38% on Density, Teardown Finds](https://soylentnews.org/article.pl?sid=26/06/20/0543245&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-12, 20:12:00](https://soylentnews.org/article.pl?sid=26/06/12/1133204&from=rss) - [Finland Deploys New System to Detect Threats to Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/12/1133204&from=rss)
 * [2026-06-12, 15:29:00](https://soylentnews.org/article.pl?sid=26/06/11/0213228&from=rss) - [Google Liable for AI Overview Falsehoods](https://soylentnews.org/article.pl?sid=26/06/11/0213228&from=rss)
 * [2026-06-12, 10:43:00](https://soylentnews.org/article.pl?sid=26/06/11/022206&from=rss) - [You Can Now Get a Religious Exemption From Using AI at Work](https://soylentnews.org/article.pl?sid=26/06/11/022206&from=rss)
-* [2026-06-12, 05:51:00](https://soylentnews.org/article.pl?sid=26/06/11/027248&from=rss) - [Lexar Regional Manager Says That RAM Prices Are Expected To Double By The End Of The Year ](https://soylentnews.org/article.pl?sid=26/06/11/027248&from=rss)
 
 ## [Archives](archives/index.md)
 
