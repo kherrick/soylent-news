@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-23, 02:22:00](https://soylentnews.org/article.pl?sid=26/06/22/029235&from=rss) - [Ozempic Literally Came From a Monster – And It's Not Alone](https://soylentnews.org/article.pl?sid=26/06/22/029235&from=rss)
 * [2026-06-22, 21:37:00](https://soylentnews.org/article.pl?sid=26/06/21/2032230&from=rss) - [Non-x86 Servers Now Nearly Half the Market](https://soylentnews.org/article.pl?sid=26/06/21/2032230&from=rss)
 * [2026-06-22, 16:54:00](https://soylentnews.org/article.pl?sid=26/06/21/2026240&from=rss) - [A Bold Satellite Rescue Mission Came Together in Record Time, but Will It Work?](https://soylentnews.org/article.pl?sid=26/06/21/2026240&from=rss)
 * [2026-06-22, 12:13:00](https://soylentnews.org/article.pl?sid=26/06/21/2015236&from=rss) - [16-Year-Old SATA II SSD Survives 1 Petabyte of Writes](https://soylentnews.org/article.pl?sid=26/06/21/2015236&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-13, 10:25:00](https://soylentnews.org/article.pl?sid=26/06/12/1337219&from=rss) - [Officials Powerless to Stop 8 New Data Centers That Could Transform Small Texas County](https://soylentnews.org/article.pl?sid=26/06/12/1337219&from=rss)
 * [2026-06-13, 05:39:00](https://soylentnews.org/article.pl?sid=26/06/12/1141258&from=rss) - [Cities Can't Figure Out How to Turn Off Flock Cameras, So They're Using Trash Bags](https://soylentnews.org/article.pl?sid=26/06/12/1141258&from=rss)
 * [2026-06-13, 00:56:00](https://soylentnews.org/article.pl?sid=26/06/12/1136247&from=rss) - [Yoti Flagged a Playstation User to Authorities for Running GrapheneOS on Their Phone](https://soylentnews.org/article.pl?sid=26/06/12/1136247&from=rss)
-* [2026-06-12, 20:12:00](https://soylentnews.org/article.pl?sid=26/06/12/1133204&from=rss) - [Finland Deploys New System to Detect Threats to Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/12/1133204&from=rss)
 
 ## [Archives](archives/index.md)
 
