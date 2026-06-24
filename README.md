@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-24, 02:07:00](https://soylentnews.org/article.pl?sid=26/06/23/0928218&from=rss) - [GM Replaces Over 1,000 Detroit Workers With Just 50 Robots](https://soylentnews.org/article.pl?sid=26/06/23/0928218&from=rss)
 * [2026-06-23, 21:24:00](https://soylentnews.org/article.pl?sid=26/06/23/0925237&from=rss) - [We Treat the Eight-hour Day as an Acceptable Day's Work ....](https://soylentnews.org/article.pl?sid=26/06/23/0925237&from=rss)
 * [2026-06-23, 16:38:00](https://soylentnews.org/article.pl?sid=26/06/22/039226&from=rss) - [AI Economics for Dummies](https://soylentnews.org/article.pl?sid=26/06/22/039226&from=rss)
 * [2026-06-23, 11:54:00](https://soylentnews.org/article.pl?sid=26/06/22/038218&from=rss) - [Leaked Financial Docs Show OpenAI Is Losing Billions Of Dollars A Year](https://soylentnews.org/article.pl?sid=26/06/22/038218&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-14, 10:03:00](https://soylentnews.org/article.pl?sid=26/06/13/1438234&from=rss) - [Tests Suggest Russian Satellites Can Jam GPS on a Continental Scale](https://soylentnews.org/article.pl?sid=26/06/13/1438234&from=rss)
 * [2026-06-14, 05:20:00](https://soylentnews.org/article.pl?sid=26/06/13/1424211&from=rss) - [“Atomic Arch”: Nearly 900 AUR Packages Backdoored with an Infostealer and eBPF Rootkit](https://soylentnews.org/article.pl?sid=26/06/13/1424211&from=rss)
 * [2026-06-14, 00:37:00](https://soylentnews.org/article.pl?sid=26/06/12/178256&from=rss) - [ASML Becomes Europe's Most Valuable Company Ever As Analysts Bet On Higher EUV Output](https://soylentnews.org/article.pl?sid=26/06/12/178256&from=rss)
-* [2026-06-13, 19:54:00](https://soylentnews.org/article.pl?sid=26/06/12/1645227&from=rss) - [Intel Intro'd ‘The First Processor In The X86 Series And The First 8086 Microprocessor’ On This Day](https://soylentnews.org/article.pl?sid=26/06/12/1645227&from=rss)
 
 ## [Archives](archives/index.md)
 
