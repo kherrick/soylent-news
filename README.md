@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-26, 03:24:00](https://soylentnews.org/article.pl?sid=26/06/25/046226&from=rss) - [Beats Studio Buds Flaw Could Let Nearby Attackers Eavesdrop on Users](https://soylentnews.org/article.pl?sid=26/06/25/046226&from=rss)
 * [2026-06-25, 22:37:00](https://soylentnews.org/article.pl?sid=26/06/25/0348249&from=rss) - [Interplanetary Fossil Find?](https://soylentnews.org/article.pl?sid=26/06/25/0348249&from=rss)
 * [2026-06-25, 17:54:00](https://soylentnews.org/article.pl?sid=26/06/25/0345250&from=rss) - [Cory Doctorow on the Right — and Wrong — Way to Criticize AI](https://soylentnews.org/article.pl?sid=26/06/25/0345250&from=rss)
 * [2026-06-25, 13:10:00](https://soylentnews.org/article.pl?sid=26/06/25/0341243&from=rss) - [Die Analysis of the 8087 Math Coprocessor's Fast Bit Shifter](https://soylentnews.org/article.pl?sid=26/06/25/0341243&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-16, 09:37:00](https://soylentnews.org/article.pl?sid=26/06/15/0328205&from=rss) - [Intel Reportedly Preparing Surprise Return to DDR4 Systems With 'Raptor Lake Next'](https://soylentnews.org/article.pl?sid=26/06/15/0328205&from=rss)
 * [2026-06-16, 04:51:00](https://soylentnews.org/article.pl?sid=26/06/15/0017250&from=rss) - [What 'Emotional Labor' Actually Means — and How Starbucks is Testing its Limits](https://soylentnews.org/article.pl?sid=26/06/15/0017250&from=rss)
 * [2026-06-16, 00:05:00](https://soylentnews.org/article.pl?sid=26/06/15/0022216&from=rss) - [Anthropic Warns Claude AI Is Building Itself Faster Than Expected](https://soylentnews.org/article.pl?sid=26/06/15/0022216&from=rss)
-* [2026-06-15, 19:24:00](https://soylentnews.org/article.pl?sid=26/06/15/0016203&from=rss) - [How did Atari Apply Side Art to Arcade Cabinets?](https://soylentnews.org/article.pl?sid=26/06/15/0016203&from=rss)
 
 ## [Archives](archives/index.md)
 
