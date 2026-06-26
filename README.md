@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-26, 12:55:00](https://soylentnews.org/article.pl?sid=26/06/25/0441233&from=rss) - [The Database That Refused to Die: How Postgres Survived its Own Creators](https://soylentnews.org/article.pl?sid=26/06/25/0441233&from=rss)
 * [2026-06-26, 08:06:00](https://soylentnews.org/article.pl?sid=26/06/25/0430237&from=rss) - [As China Looms, Taiwan Makes More Drones for Defense and the US Military](https://soylentnews.org/article.pl?sid=26/06/25/0430237&from=rss)
 * [2026-06-26, 03:24:00](https://soylentnews.org/article.pl?sid=26/06/25/046226&from=rss) - [Beats Studio Buds Flaw Could Let Nearby Attackers Eavesdrop on Users](https://soylentnews.org/article.pl?sid=26/06/25/046226&from=rss)
 * [2026-06-25, 22:37:00](https://soylentnews.org/article.pl?sid=26/06/25/0348249&from=rss) - [Interplanetary Fossil Find?](https://soylentnews.org/article.pl?sid=26/06/25/0348249&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-16, 19:08:00](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&from=rss) - [US Solar and Storage Defy Political Hostility to Dominate Q1 Power Installations](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&from=rss)
 * [2026-06-16, 14:22:00](https://soylentnews.org/article.pl?sid=26/06/15/0335259&from=rss) - [AI Agents Favored $1,500 Sponsored Flights Over $500 Alternatives](https://soylentnews.org/article.pl?sid=26/06/15/0335259&from=rss)
 * [2026-06-16, 09:37:00](https://soylentnews.org/article.pl?sid=26/06/15/0328205&from=rss) - [Intel Reportedly Preparing Surprise Return to DDR4 Systems With 'Raptor Lake Next'](https://soylentnews.org/article.pl?sid=26/06/15/0328205&from=rss)
-* [2026-06-16, 04:51:00](https://soylentnews.org/article.pl?sid=26/06/15/0017250&from=rss) - [What 'Emotional Labor' Actually Means — and How Starbucks is Testing its Limits](https://soylentnews.org/article.pl?sid=26/06/15/0017250&from=rss)
 
 ## [Archives](archives/index.md)
 
