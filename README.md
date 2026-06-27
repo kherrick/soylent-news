@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-27, 22:10:00](https://soylentnews.org/article.pl?sid=26/06/26/1431252&from=rss) - [Cloudflare Teams Up With Big Browsers to Help Websites Tell Welcome From Unwelcome Visitors](https://soylentnews.org/article.pl?sid=26/06/26/1431252&from=rss)
 * [2026-06-27, 19:47:00](https://soylentnews.org/article.pl?sid=26/06/26/1429216&from=rss) - [OpenC6 BIOS Project Brings PC-Like Firmware to ESP32-C6 MCU](https://soylentnews.org/article.pl?sid=26/06/26/1429216&from=rss)
 * [2026-06-27, 17:24:00](https://soylentnews.org/article.pl?sid=26/06/26/1425225&from=rss) - [Goalkeepers Beware: Trionda World Cup Ball Hits ‘Crisis’ Point at Certain Speed](https://soylentnews.org/article.pl?sid=26/06/26/1425225&from=rss)
 * [2026-06-27, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/26/1420245&from=rss) - [The Memory Crisis Is Getting So Bad That Even Retro RAM Prices Are Becoming Ridiculous](https://soylentnews.org/article.pl?sid=26/06/26/1420245&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-18, 09:08:00](https://soylentnews.org/article.pl?sid=26/06/17/1140258&from=rss) - [France's Digital Sovereignty Push is Struggling to Escape the Microsoft Gravity Well](https://soylentnews.org/article.pl?sid=26/06/17/1140258&from=rss)
 * [2026-06-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/06/17/0045227&from=rss) - [Why Not yserver? It’s Xserver, But Rust-y.](https://soylentnews.org/article.pl?sid=26/06/17/0045227&from=rss)
 * [2026-06-17, 23:35:00](https://soylentnews.org/article.pl?sid=26/06/16/122242&from=rss) - [Threads of Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System](https://soylentnews.org/article.pl?sid=26/06/16/122242&from=rss)
-* [2026-06-17, 18:52:00](https://soylentnews.org/article.pl?sid=26/06/16/1144213&from=rss) - [U.S. Gov't Orders Anthropic to Disable its Newest AI Models and Restrict Foreigner Use](https://soylentnews.org/article.pl?sid=26/06/16/1144213&from=rss)
 
 ## [Archives](archives/index.md)
 
