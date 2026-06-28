@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-28, 17:01:00](https://soylentnews.org/article.pl?sid=26/06/27/1825233&from=rss) - [How Do Airbags Deploy So Quickly in a Crash? The Physics, Explained](https://soylentnews.org/article.pl?sid=26/06/27/1825233&from=rss)
 * [2026-06-28, 12:19:00](https://soylentnews.org/article.pl?sid=26/06/27/1820224&from=rss) - [‘Cost Me the Election’: Data Centers Trigger Voter Backlash](https://soylentnews.org/article.pl?sid=26/06/27/1820224&from=rss)
 * [2026-06-28, 07:36:00](https://soylentnews.org/article.pl?sid=26/06/27/1818212&from=rss) - [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&from=rss)
 * [2026-06-28, 02:54:00](https://soylentnews.org/article.pl?sid=26/06/27/1815209&from=rss) - [ASML Denies US Government Report That its EUV Chipmaking Tool Was Shipped to China](https://soylentnews.org/article.pl?sid=26/06/27/1815209&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-19, 12:00:00](https://soylentnews.org/article.pl?sid=26/06/19/120238&from=rss) - [A Chinese Rocket Breaks Apart Dangerously Close to the Starlink Constellation](https://soylentnews.org/article.pl?sid=26/06/19/120238&from=rss)
 * [2026-06-18, 23:24:00](https://soylentnews.org/article.pl?sid=26/06/17/1523237&from=rss) - [Linux Kernel 7.1 Sends Intel 486 Support To Silicon Heaven](https://soylentnews.org/article.pl?sid=26/06/17/1523237&from=rss)
 * [2026-06-18, 18:43:00](https://soylentnews.org/article.pl?sid=26/06/17/1519239&from=rss) - [Finland Charges Russian Captain And Crew Member Of Ship Suspected Of Damaging Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/17/1519239&from=rss)
-* [2026-06-18, 13:53:00](https://soylentnews.org/article.pl?sid=26/06/17/1517231&from=rss) - [Heart Protection From COVID Shots Remains Amid Updates, Study Finds](https://soylentnews.org/article.pl?sid=26/06/17/1517231&from=rss)
 
 ## [Archives](archives/index.md)
 
