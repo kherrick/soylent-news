@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-28, 07:36:00](https://soylentnews.org/article.pl?sid=26/06/27/1818212&from=rss) - [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&from=rss)
 * [2026-06-28, 02:54:00](https://soylentnews.org/article.pl?sid=26/06/27/1815209&from=rss) - [ASML Denies US Government Report That its EUV Chipmaking Tool Was Shipped to China](https://soylentnews.org/article.pl?sid=26/06/27/1815209&from=rss)
 * [2026-06-27, 22:10:00](https://soylentnews.org/article.pl?sid=26/06/26/1431252&from=rss) - [Cloudflare Teams Up With Big Browsers to Help Websites Tell Welcome From Unwelcome Visitors](https://soylentnews.org/article.pl?sid=26/06/26/1431252&from=rss)
 * [2026-06-27, 19:47:00](https://soylentnews.org/article.pl?sid=26/06/26/1429216&from=rss) - [OpenC6 BIOS Project Brings PC-Like Firmware to ESP32-C6 MCU](https://soylentnews.org/article.pl?sid=26/06/26/1429216&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-18, 18:43:00](https://soylentnews.org/article.pl?sid=26/06/17/1519239&from=rss) - [Finland Charges Russian Captain And Crew Member Of Ship Suspected Of Damaging Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/17/1519239&from=rss)
 * [2026-06-18, 13:53:00](https://soylentnews.org/article.pl?sid=26/06/17/1517231&from=rss) - [Heart Protection From COVID Shots Remains Amid Updates, Study Finds](https://soylentnews.org/article.pl?sid=26/06/17/1517231&from=rss)
 * [2026-06-18, 09:08:00](https://soylentnews.org/article.pl?sid=26/06/17/1140258&from=rss) - [France's Digital Sovereignty Push is Struggling to Escape the Microsoft Gravity Well](https://soylentnews.org/article.pl?sid=26/06/17/1140258&from=rss)
-* [2026-06-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/06/17/0045227&from=rss) - [Why Not yserver? It’s Xserver, But Rust-y.](https://soylentnews.org/article.pl?sid=26/06/17/0045227&from=rss)
 
 ## [Archives](archives/index.md)
 
