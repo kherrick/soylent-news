@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-29, 16:48:00](https://soylentnews.org/article.pl?sid=26/06/28/1820239&from=rss) - [Brits Still Reckon Big Tech Isn't Paying Enough Tax](https://soylentnews.org/article.pl?sid=26/06/28/1820239&from=rss)
 * [2026-06-29, 12:02:00](https://soylentnews.org/article.pl?sid=26/06/28/1816241&from=rss) - [Five Eyes Spooks Warn AI Means Infosec Incidents Can Become 'Major Operational and Financial Crises'](https://soylentnews.org/article.pl?sid=26/06/28/1816241&from=rss)
 * [2026-06-29, 07:16:00](https://soylentnews.org/article.pl?sid=26/06/28/188242&from=rss) - [SK Telecom Named as the Korean Carrier at the Center of Anthropic's Mythos Export Controls](https://soylentnews.org/article.pl?sid=26/06/28/188242&from=rss)
 * [2026-06-29, 02:32:00](https://soylentnews.org/article.pl?sid=26/06/28/183229&from=rss) - [Photoshop Now Censors Your Art as You Edit](https://soylentnews.org/article.pl?sid=26/06/28/183229&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-20, 12:45:00](https://soylentnews.org/article.pl?sid=26/06/19/1228210&from=rss) - [Critical Copilot Vulnerability Allowed Hackers to Steal 2FA Code From Users](https://soylentnews.org/article.pl?sid=26/06/19/1228210&from=rss)
 * [2026-06-20, 07:57:00](https://soylentnews.org/article.pl?sid=26/06/19/1219225&from=rss) - [The Challenges of Typesetting Arabic Script](https://soylentnews.org/article.pl?sid=26/06/19/1219225&from=rss)
 * [2026-06-20, 02:14:00](https://soylentnews.org/article.pl?sid=26/06/19/1216220&from=rss) - [NASA Management Wants a Word and Won't Say Why](https://soylentnews.org/article.pl?sid=26/06/19/1216220&from=rss)
-* [2026-06-19, 21:31:00](https://soylentnews.org/article.pl?sid=26/06/19/1212211&from=rss) - [The FBI Built its Own Replica Small Town to Simulate Real-World Cyberattacks](https://soylentnews.org/article.pl?sid=26/06/19/1212211&from=rss)
 
 ## [Archives](archives/index.md)
 
