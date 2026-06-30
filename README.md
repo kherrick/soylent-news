@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-06-30, 02:18:00](https://soylentnews.org/article.pl?sid=26/06/29/1844208&from=rss) - [The Boeing 747 Begins Its Final Descent](https://soylentnews.org/article.pl?sid=26/06/29/1844208&from=rss)
 * [2026-06-29, 21:33:00](https://soylentnews.org/article.pl?sid=26/06/28/1824219&from=rss) - [Administration Tells US Techies It Expects American Quantum Computer by 2028](https://soylentnews.org/article.pl?sid=26/06/28/1824219&from=rss)
 * [2026-06-29, 16:48:00](https://soylentnews.org/article.pl?sid=26/06/28/1820239&from=rss) - [Brits Still Reckon Big Tech Isn't Paying Enough Tax](https://soylentnews.org/article.pl?sid=26/06/28/1820239&from=rss)
 * [2026-06-29, 12:02:00](https://soylentnews.org/article.pl?sid=26/06/28/1816241&from=rss) - [Five Eyes Spooks Warn AI Means Infosec Incidents Can Become 'Major Operational and Financial Crises'](https://soylentnews.org/article.pl?sid=26/06/28/1816241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-20, 22:14:00](https://soylentnews.org/article.pl?sid=26/06/20/0135207&from=rss) - [Where to Find the Colors Your Screen Can’t Show You](https://soylentnews.org/article.pl?sid=26/06/20/0135207&from=rss)
 * [2026-06-20, 17:30:00](https://soylentnews.org/article.pl?sid=26/06/19/1232209&from=rss) - [NASA Said Nyet to Roscosmos Plan to Cut Into Leaky ISS Segment](https://soylentnews.org/article.pl?sid=26/06/19/1232209&from=rss)
 * [2026-06-20, 12:45:00](https://soylentnews.org/article.pl?sid=26/06/19/1228210&from=rss) - [Critical Copilot Vulnerability Allowed Hackers to Steal 2FA Code From Users](https://soylentnews.org/article.pl?sid=26/06/19/1228210&from=rss)
-* [2026-06-20, 07:57:00](https://soylentnews.org/article.pl?sid=26/06/19/1219225&from=rss) - [The Challenges of Typesetting Arabic Script](https://soylentnews.org/article.pl?sid=26/06/19/1219225&from=rss)
 
 ## [Archives](archives/index.md)
 
