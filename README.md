@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-01, 16:20:00](https://soylentnews.org/article.pl?sid=26/06/30/0941251&from=rss) - [Australia's Floating Solar Panels Solve Two Resource Problems at Once](https://soylentnews.org/article.pl?sid=26/06/30/0941251&from=rss)
 * [2026-07-01, 11:38:00](https://soylentnews.org/article.pl?sid=26/06/30/0939227&from=rss) - [PlayStation Removes Over 500 Purchased Movies](https://soylentnews.org/article.pl?sid=26/06/30/0939227&from=rss)
 * [2026-07-01, 06:51:00](https://soylentnews.org/article.pl?sid=26/06/30/0934235&from=rss) - [Lenovo Says The 'RAMageddon' Is The New Normal, Outlines Survival Guide](https://soylentnews.org/article.pl?sid=26/06/30/0934235&from=rss)
 * [2026-07-01, 02:10:00](https://soylentnews.org/article.pl?sid=26/06/30/0929204&from=rss) - [Scientists Build a Better Pixel Capable of Emitting and Receiving Light](https://soylentnews.org/article.pl?sid=26/06/30/0929204&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-22, 12:13:00](https://soylentnews.org/article.pl?sid=26/06/21/2015236&from=rss) - [16-Year-Old SATA II SSD Survives 1 Petabyte of Writes](https://soylentnews.org/article.pl?sid=26/06/21/2015236&from=rss)
 * [2026-06-22, 07:30:00](https://soylentnews.org/article.pl?sid=26/06/21/205254&from=rss) - [Python Dev Saved From Disaster by Intuition...and AI](https://soylentnews.org/article.pl?sid=26/06/21/205254&from=rss)
 * [2026-06-22, 02:47:00](https://soylentnews.org/article.pl?sid=26/06/20/0542204&from=rss) - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://soylentnews.org/article.pl?sid=26/06/20/0542204&from=rss)
-* [2026-06-21, 22:02:00](https://soylentnews.org/article.pl?sid=26/06/20/0543245&from=rss) - [Chinese Fab SMIC's 7nm Metal Pitch Beats Intel 18A but Lags 38% on Density, Teardown Finds](https://soylentnews.org/article.pl?sid=26/06/20/0543245&from=rss)
 
 ## [Archives](archives/index.md)
 
