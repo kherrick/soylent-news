@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-01, 06:51:00](https://soylentnews.org/article.pl?sid=26/06/30/0934235&from=rss) - [Lenovo Says The 'RAMageddon' Is The New Normal, Outlines Survival Guide](https://soylentnews.org/article.pl?sid=26/06/30/0934235&from=rss)
 * [2026-07-01, 02:10:00](https://soylentnews.org/article.pl?sid=26/06/30/0929204&from=rss) - [Scientists Build a Better Pixel Capable of Emitting and Receiving Light](https://soylentnews.org/article.pl?sid=26/06/30/0929204&from=rss)
 * [2026-06-30, 21:25:00](https://soylentnews.org/article.pl?sid=26/06/29/191210&from=rss) - [I Built A Whole-Home Ad Blocker With A $7 ESP32-S3 Board - And It Took Just Minutes](https://soylentnews.org/article.pl?sid=26/06/29/191210&from=rss)
 * [2026-06-30, 16:41:00](https://soylentnews.org/article.pl?sid=26/06/29/1852228&from=rss) - [Ford Rehires ‘Gray Beard’ Engineers After AI Falls Short](https://soylentnews.org/article.pl?sid=26/06/29/1852228&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-22, 02:47:00](https://soylentnews.org/article.pl?sid=26/06/20/0542204&from=rss) - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://soylentnews.org/article.pl?sid=26/06/20/0542204&from=rss)
 * [2026-06-21, 22:02:00](https://soylentnews.org/article.pl?sid=26/06/20/0543245&from=rss) - [Chinese Fab SMIC's 7nm Metal Pitch Beats Intel 18A but Lags 38% on Density, Teardown Finds](https://soylentnews.org/article.pl?sid=26/06/20/0543245&from=rss)
 * [2026-06-21, 17:17:00](https://soylentnews.org/article.pl?sid=26/06/20/0538252&from=rss) - [Bruce Scheier's Thoughts on Banning AI Models](https://soylentnews.org/article.pl?sid=26/06/20/0538252&from=rss)
-* [2026-06-21, 12:29:00](https://soylentnews.org/article.pl?sid=26/06/20/0534212&from=rss) - [NHS Palantir Claims Face Scrutiny After Data Suggests Uneven Results](https://soylentnews.org/article.pl?sid=26/06/20/0534212&from=rss)
 
 ## [Archives](archives/index.md)
 
