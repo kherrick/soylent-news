@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-02, 20:40:00](https://soylentnews.org/article.pl?sid=26/07/01/0621219&from=rss) - [NASA Tests An In-Orbit Refueling Device For Deep Space Missions](https://soylentnews.org/article.pl?sid=26/07/01/0621219&from=rss)
 * [2026-07-02, 15:58:00](https://soylentnews.org/article.pl?sid=26/07/01/0619241&from=rss) - [Remote-Controlled Cockroach Swarm Can Now Breathe Underwater](https://soylentnews.org/article.pl?sid=26/07/01/0619241&from=rss)
 * [2026-07-02, 11:13:00](https://soylentnews.org/article.pl?sid=26/07/01/0613242&from=rss) - [Supreme Court Ruling Guts Government’s Use Of Geofence Warrants](https://soylentnews.org/article.pl?sid=26/07/01/0613242&from=rss)
 * [2026-07-02, 06:31:00](https://soylentnews.org/article.pl?sid=26/07/01/0611205&from=rss) - [FreeBSD Vs. Linux: the Eternal Open-Source Showdown](https://soylentnews.org/article.pl?sid=26/07/01/0611205&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-23, 16:38:00](https://soylentnews.org/article.pl?sid=26/06/22/039226&from=rss) - [AI Economics for Dummies](https://soylentnews.org/article.pl?sid=26/06/22/039226&from=rss)
 * [2026-06-23, 11:54:00](https://soylentnews.org/article.pl?sid=26/06/22/038218&from=rss) - [Leaked Financial Docs Show OpenAI Is Losing Billions Of Dollars A Year](https://soylentnews.org/article.pl?sid=26/06/22/038218&from=rss)
 * [2026-06-23, 07:03:00](https://soylentnews.org/article.pl?sid=26/06/22/034203&from=rss) - [Think That Conversation Will be Boring? Science Says Think Again](https://soylentnews.org/article.pl?sid=26/06/22/034203&from=rss)
-* [2026-06-23, 02:22:00](https://soylentnews.org/article.pl?sid=26/06/22/029235&from=rss) - [Ozempic Literally Came From a Monster – And It's Not Alone](https://soylentnews.org/article.pl?sid=26/06/22/029235&from=rss)
 
 ## [Archives](archives/index.md)
 
