@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-07-02](index.md)
+
+* [2026-07-02, 01:47:00](https://soylentnews.org/article.pl?sid=26/07/01/0552223&from=rss) - [Prompt Injection as Role Confusion](https://soylentnews.org/article.pl?sid=26/07/01/0552223&from=rss)
