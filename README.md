@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-03, 15:49:00](https://soylentnews.org/article.pl?sid=26/07/02/058229&from=rss) - [Polestar Faces A Ban On Selling Its EVs In The US](https://soylentnews.org/article.pl?sid=26/07/02/058229&from=rss)
 * [2026-07-03, 10:57:00](https://soylentnews.org/article.pl?sid=26/07/02/0458244&from=rss) - [UN AI Great Risks and Rewards](https://soylentnews.org/article.pl?sid=26/07/02/0458244&from=rss)
 * [2026-07-03, 06:14:00](https://soylentnews.org/article.pl?sid=26/07/02/0455216&from=rss) - [Six-part Series from the Internet Archive on Vanishing Culture](https://soylentnews.org/article.pl?sid=26/07/02/0455216&from=rss)
 * [2026-07-03, 01:21:00](https://soylentnews.org/article.pl?sid=26/07/02/0453224&from=rss) - [How to Burst the AI Bubble: Strike at its Roots](https://soylentnews.org/article.pl?sid=26/07/02/0453224&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-24, 11:42:00](https://soylentnews.org/article.pl?sid=26/06/23/0934229&from=rss) - [Crypto Clipper Spreads Over USB and Communicates Over Tor](https://soylentnews.org/article.pl?sid=26/06/23/0934229&from=rss)
 * [2026-06-24, 06:54:00](https://soylentnews.org/article.pl?sid=26/06/23/0931228&from=rss) - [Intel And AMD's New ACE CPU Extensions Bring An Efficient AI-Oriented Instruction Set To X86](https://soylentnews.org/article.pl?sid=26/06/23/0931228&from=rss)
 * [2026-06-24, 02:07:00](https://soylentnews.org/article.pl?sid=26/06/23/0928218&from=rss) - [GM Replaces Over 1,000 Detroit Workers With Just 50 Robots](https://soylentnews.org/article.pl?sid=26/06/23/0928218&from=rss)
-* [2026-06-23, 21:24:00](https://soylentnews.org/article.pl?sid=26/06/23/0925237&from=rss) - [We Treat the Eight-hour Day as an Acceptable Day's Work ....](https://soylentnews.org/article.pl?sid=26/06/23/0925237&from=rss)
 
 ## [Archives](archives/index.md)
 
