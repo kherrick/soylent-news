@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-04, 05:54:00](https://soylentnews.org/article.pl?sid=26/07/02/1516223&from=rss) - [Engineer Open-Sources DIY Radar System That's 95% Cheaper Than $250,000 Commercial Offerings, Has 20](https://soylentnews.org/article.pl?sid=26/07/02/1516223&from=rss)
 * [2026-07-04, 04:16:00](https://soylentnews.org/article.pl?sid=26/07/02/1521222&from=rss) - [Americans!  Enjoy Your 4th July Celebrations](https://soylentnews.org/article.pl?sid=26/07/02/1521222&from=rss)
 * [2026-07-04, 01:13:00](https://soylentnews.org/article.pl?sid=26/07/02/1510239&from=rss) - [It's Time to Step Up and Have Your Say for Science](https://soylentnews.org/article.pl?sid=26/07/02/1510239&from=rss)
 * [2026-07-03, 20:29:00](https://soylentnews.org/article.pl?sid=26/07/02/0510215&from=rss) - [Bombshell Lawsuit Alleges that RAM Manufacturers are Colluding to Drive Up Prices](https://soylentnews.org/article.pl?sid=26/07/02/0510215&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-25, 08:28:00](https://soylentnews.org/article.pl?sid=26/06/25/0339211&from=rss) - [Nvidia's New AI Racks Run on 45°C Liquid Cooling](https://soylentnews.org/article.pl?sid=26/06/25/0339211&from=rss)
 * [2026-06-25, 03:45:00](https://soylentnews.org/article.pl?sid=26/06/25/0336221&from=rss) - [Brave Gives Linux Users Its Stripped Down Origin Browser for Free](https://soylentnews.org/article.pl?sid=26/06/25/0336221&from=rss)
 * [2026-06-24, 21:10:00](https://soylentnews.org/article.pl?sid=26/06/23/0949209&from=rss) - [Russian Satellites Cosmos 2546 Have Been Jamming GPS Signals Across Europe](https://soylentnews.org/article.pl?sid=26/06/23/0949209&from=rss)
-* [2026-06-24, 16:25:00](https://soylentnews.org/article.pl?sid=26/06/23/0941229&from=rss) - [Voyager 1 Will Cross The 1 Light-Day Threshold On November 18, 2026](https://soylentnews.org/article.pl?sid=26/06/23/0941229&from=rss)
 
 ## [Archives](archives/index.md)
 
