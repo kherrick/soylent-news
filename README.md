@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-04, 15:24:00](https://soylentnews.org/article.pl?sid=26/07/02/1526221&from=rss) - [Oomwoo is a New Open-Source Robot Vacuum You Can 3D Print Yourself](https://soylentnews.org/article.pl?sid=26/07/02/1526221&from=rss)
 * [2026-07-04, 10:42:00](https://soylentnews.org/article.pl?sid=26/07/02/1523206&from=rss) - [Sony Announces End of PlayStation Discs, Parts of Digital Store in the Same Day](https://soylentnews.org/article.pl?sid=26/07/02/1523206&from=rss)
 * [2026-07-04, 05:54:00](https://soylentnews.org/article.pl?sid=26/07/02/1516223&from=rss) - [Engineer Open-Sources DIY Radar System That's 95% Cheaper Than $250,000 Commercial Offerings, Has 20](https://soylentnews.org/article.pl?sid=26/07/02/1516223&from=rss)
 * [2026-07-04, 04:16:00](https://soylentnews.org/article.pl?sid=26/07/02/1521222&from=rss) - [Americans!  Enjoy Your 4th July Celebrations](https://soylentnews.org/article.pl?sid=26/07/02/1521222&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-25, 17:54:00](https://soylentnews.org/article.pl?sid=26/06/25/0345250&from=rss) - [Cory Doctorow on the Right — and Wrong — Way to Criticize AI](https://soylentnews.org/article.pl?sid=26/06/25/0345250&from=rss)
 * [2026-06-25, 13:10:00](https://soylentnews.org/article.pl?sid=26/06/25/0341243&from=rss) - [Die Analysis of the 8087 Math Coprocessor's Fast Bit Shifter](https://soylentnews.org/article.pl?sid=26/06/25/0341243&from=rss)
 * [2026-06-25, 08:28:00](https://soylentnews.org/article.pl?sid=26/06/25/0339211&from=rss) - [Nvidia's New AI Racks Run on 45°C Liquid Cooling](https://soylentnews.org/article.pl?sid=26/06/25/0339211&from=rss)
-* [2026-06-25, 03:45:00](https://soylentnews.org/article.pl?sid=26/06/25/0336221&from=rss) - [Brave Gives Linux Users Its Stripped Down Origin Browser for Free](https://soylentnews.org/article.pl?sid=26/06/25/0336221&from=rss)
 
 ## [Archives](archives/index.md)
 
