@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-05, 00:48:00](https://soylentnews.org/article.pl?sid=26/07/04/0643229&from=rss) - [Large Hadron Collider Goes Offline to Make Room for its Enhanced Successor](https://soylentnews.org/article.pl?sid=26/07/04/0643229&from=rss)
 * [2026-07-04, 20:05:00](https://soylentnews.org/article.pl?sid=26/07/02/1531208&from=rss) - [NASA Unsure Boeing Starliner Will Ever Be Certified For Human Flight](https://soylentnews.org/article.pl?sid=26/07/02/1531208&from=rss)
 * [2026-07-04, 15:24:00](https://soylentnews.org/article.pl?sid=26/07/02/1526221&from=rss) - [Oomwoo is a New Open-Source Robot Vacuum You Can 3D Print Yourself](https://soylentnews.org/article.pl?sid=26/07/02/1526221&from=rss)
 * [2026-07-04, 10:42:00](https://soylentnews.org/article.pl?sid=26/07/02/1523206&from=rss) - [Sony Announces End of PlayStation Discs, Parts of Digital Store in the Same Day](https://soylentnews.org/article.pl?sid=26/07/02/1523206&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-26, 03:24:00](https://soylentnews.org/article.pl?sid=26/06/25/046226&from=rss) - [Beats Studio Buds Flaw Could Let Nearby Attackers Eavesdrop on Users](https://soylentnews.org/article.pl?sid=26/06/25/046226&from=rss)
 * [2026-06-25, 22:37:00](https://soylentnews.org/article.pl?sid=26/06/25/0348249&from=rss) - [Interplanetary Fossil Find?](https://soylentnews.org/article.pl?sid=26/06/25/0348249&from=rss)
 * [2026-06-25, 17:54:00](https://soylentnews.org/article.pl?sid=26/06/25/0345250&from=rss) - [Cory Doctorow on the Right — and Wrong — Way to Criticize AI](https://soylentnews.org/article.pl?sid=26/06/25/0345250&from=rss)
-* [2026-06-25, 13:10:00](https://soylentnews.org/article.pl?sid=26/06/25/0341243&from=rss) - [Die Analysis of the 8087 Math Coprocessor's Fast Bit Shifter](https://soylentnews.org/article.pl?sid=26/06/25/0341243&from=rss)
 
 ## [Archives](archives/index.md)
 
