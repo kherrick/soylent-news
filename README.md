@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-05, 23:35:00](https://soylentnews.org/article.pl?sid=26/07/04/0717219&from=rss) - [What the US Was Like in the 1920s](https://soylentnews.org/article.pl?sid=26/07/04/0717219&from=rss)
 * [2026-07-05, 18:52:00](https://soylentnews.org/article.pl?sid=26/07/04/0714213&from=rss) - [Raspberry Pi OS Gets a New Kernel but Apparently Not a New Version Number](https://soylentnews.org/article.pl?sid=26/07/04/0714213&from=rss)
 * [2026-07-05, 14:02:00](https://soylentnews.org/article.pl?sid=26/07/04/074205&from=rss) - [61% of US Adults Use AI for Health Information Now - Up From 2% in 2024](https://soylentnews.org/article.pl?sid=26/07/04/074205&from=rss)
 * [2026-07-05, 09:21:00](https://soylentnews.org/article.pl?sid=26/07/04/0653237&from=rss) - [It's Looking Like a Hot, Messy Summer for Security Teams as AI Finds Hidden Vulnerabilities](https://soylentnews.org/article.pl?sid=26/07/04/0653237&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-27, 03:13:00](https://soylentnews.org/article.pl?sid=26/06/26/1415219&from=rss) - [Pluralistic: Spying on Kids to Save Kids From Spying is Very, Very Stupid](https://soylentnews.org/article.pl?sid=26/06/26/1415219&from=rss)
 * [2026-06-26, 22:26:00](https://soylentnews.org/article.pl?sid=26/06/25/0459200&from=rss) - [Day-to-Day Cyber Disruptions Driving Loss for SMEs, Finds Report](https://soylentnews.org/article.pl?sid=26/06/25/0459200&from=rss)
 * [2026-06-26, 17:44:00](https://soylentnews.org/article.pl?sid=26/06/25/0445223&from=rss) - [Automakers Could Stop Selling Cars in California Rather Than Comply With Tracking Laws](https://soylentnews.org/article.pl?sid=26/06/25/0445223&from=rss)
-* [2026-06-26, 12:55:00](https://soylentnews.org/article.pl?sid=26/06/25/0441233&from=rss) - [The Database That Refused to Die: How Postgres Survived its Own Creators](https://soylentnews.org/article.pl?sid=26/06/25/0441233&from=rss)
 
 ## [Archives](archives/index.md)
 
