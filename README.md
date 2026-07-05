@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-05, 14:02:00](https://soylentnews.org/article.pl?sid=26/07/04/074205&from=rss) - [61% of US Adults Use AI for Health Information Now - Up From 2% in 2024](https://soylentnews.org/article.pl?sid=26/07/04/074205&from=rss)
 * [2026-07-05, 09:21:00](https://soylentnews.org/article.pl?sid=26/07/04/0653237&from=rss) - [It's Looking Like a Hot, Messy Summer for Security Teams as AI Finds Hidden Vulnerabilities](https://soylentnews.org/article.pl?sid=26/07/04/0653237&from=rss)
 * [2026-07-05, 05:34:00](https://soylentnews.org/article.pl?sid=26/07/04/0645204&from=rss) - [10 Medieval Inventions That Shaped the Modern World](https://soylentnews.org/article.pl?sid=26/07/04/0645204&from=rss)
 * [2026-07-05, 00:48:00](https://soylentnews.org/article.pl?sid=26/07/04/0643229&from=rss) - [Large Hadron Collider Goes Offline to Make Room for its Enhanced Successor](https://soylentnews.org/article.pl?sid=26/07/04/0643229&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-26, 17:44:00](https://soylentnews.org/article.pl?sid=26/06/25/0445223&from=rss) - [Automakers Could Stop Selling Cars in California Rather Than Comply With Tracking Laws](https://soylentnews.org/article.pl?sid=26/06/25/0445223&from=rss)
 * [2026-06-26, 12:55:00](https://soylentnews.org/article.pl?sid=26/06/25/0441233&from=rss) - [The Database That Refused to Die: How Postgres Survived its Own Creators](https://soylentnews.org/article.pl?sid=26/06/25/0441233&from=rss)
 * [2026-06-26, 08:06:00](https://soylentnews.org/article.pl?sid=26/06/25/0430237&from=rss) - [As China Looms, Taiwan Makes More Drones for Defense and the US Military](https://soylentnews.org/article.pl?sid=26/06/25/0430237&from=rss)
-* [2026-06-26, 03:24:00](https://soylentnews.org/article.pl?sid=26/06/25/046226&from=rss) - [Beats Studio Buds Flaw Could Let Nearby Attackers Eavesdrop on Users](https://soylentnews.org/article.pl?sid=26/06/25/046226&from=rss)
 
 ## [Archives](archives/index.md)
 
