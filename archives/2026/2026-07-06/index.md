@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 23:04:00](https://soylentnews.org/article.pl?sid=26/07/05/1921216&from=rss) - [David Rosenthal on the LLM Negative Feedback Loop](https://soylentnews.org/article.pl?sid=26/07/05/1921216&from=rss)
 * [2026-07-06, 18:23:00](https://soylentnews.org/article.pl?sid=26/07/05/1917212&from=rss) - [Travel like it's 0 AD. ](https://soylentnews.org/article.pl?sid=26/07/05/1917212&from=rss)
 * [2026-07-06, 13:42:00](https://soylentnews.org/article.pl?sid=26/07/05/1911206&from=rss) - [Modern Life May be Outpacing the Human Mind](https://soylentnews.org/article.pl?sid=26/07/05/1911206&from=rss)
 * [2026-07-06, 09:00:00](https://soylentnews.org/article.pl?sid=26/07/05/092233&from=rss) - [New Law Could Let Tesla Ship Cars With No Brake Pedals Installed](https://soylentnews.org/article.pl?sid=26/07/05/092233&from=rss)
