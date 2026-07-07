@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-07, 22:44:00](https://soylentnews.org/article.pl?sid=26/07/05/2151242&from=rss) - [New Attack Provides One More Reason Why AI Browsers Are A Bad Idea](https://soylentnews.org/article.pl?sid=26/07/05/2151242&from=rss)
 * [2026-07-07, 18:00:00](https://soylentnews.org/article.pl?sid=26/07/05/2125258&from=rss) - [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&from=rss)
 * [2026-07-07, 13:13:00](https://soylentnews.org/article.pl?sid=26/07/05/2113231&from=rss) - [NetNut Cracked As Google And FBI Target 2 Million-Device Botnet](https://soylentnews.org/article.pl?sid=26/07/05/2113231&from=rss)
 * [2026-07-07, 08:34:00](https://soylentnews.org/article.pl?sid=26/07/05/1926209&from=rss) - [Amazon is Ready to Deploy the LEO Satellite Broadband Service](https://soylentnews.org/article.pl?sid=26/07/05/1926209&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-28, 21:48:00](https://soylentnews.org/article.pl?sid=26/06/27/1833254&from=rss) - [Acoustic Mapping App Uses Thousands of Networked Old Android Phones to Hunt Shahed Drones](https://soylentnews.org/article.pl?sid=26/06/27/1833254&from=rss)
 * [2026-06-28, 17:01:00](https://soylentnews.org/article.pl?sid=26/06/27/1825233&from=rss) - [How Do Airbags Deploy So Quickly in a Crash? The Physics, Explained](https://soylentnews.org/article.pl?sid=26/06/27/1825233&from=rss)
 * [2026-06-28, 12:19:00](https://soylentnews.org/article.pl?sid=26/06/27/1820224&from=rss) - [‘Cost Me the Election’: Data Centers Trigger Voter Backlash](https://soylentnews.org/article.pl?sid=26/06/27/1820224&from=rss)
-* [2026-06-28, 07:36:00](https://soylentnews.org/article.pl?sid=26/06/27/1818212&from=rss) - [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&from=rss)
 
 ## [Archives](archives/index.md)
 
