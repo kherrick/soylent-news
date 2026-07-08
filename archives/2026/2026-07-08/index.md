@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 08:05:00](https://soylentnews.org/article.pl?sid=26/07/06/1957237&from=rss) - [South Korea to Spend $1T on More Memory Chip Production and Humanoid Robots](https://soylentnews.org/article.pl?sid=26/07/06/1957237&from=rss)
 * [2026-07-08, 03:21:00](https://soylentnews.org/article.pl?sid=26/07/05/222222&from=rss) - [Google Loses Final Appeal Over $4.7 Billion EU Android Antitrust Fine](https://soylentnews.org/article.pl?sid=26/07/05/222222&from=rss)

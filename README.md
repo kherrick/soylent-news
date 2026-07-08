@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-08, 08:05:00](https://soylentnews.org/article.pl?sid=26/07/06/1957237&from=rss) - [South Korea to Spend $1T on More Memory Chip Production and Humanoid Robots](https://soylentnews.org/article.pl?sid=26/07/06/1957237&from=rss)
 * [2026-07-08, 03:21:00](https://soylentnews.org/article.pl?sid=26/07/05/222222&from=rss) - [Google Loses Final Appeal Over $4.7 Billion EU Android Antitrust Fine](https://soylentnews.org/article.pl?sid=26/07/05/222222&from=rss)
 * [2026-07-07, 22:44:00](https://soylentnews.org/article.pl?sid=26/07/05/2151242&from=rss) - [New Attack Provides One More Reason Why AI Browsers Are A Bad Idea](https://soylentnews.org/article.pl?sid=26/07/05/2151242&from=rss)
 * [2026-07-07, 18:00:00](https://soylentnews.org/article.pl?sid=26/07/05/2125258&from=rss) - [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-29, 07:16:00](https://soylentnews.org/article.pl?sid=26/06/28/188242&from=rss) - [SK Telecom Named as the Korean Carrier at the Center of Anthropic's Mythos Export Controls](https://soylentnews.org/article.pl?sid=26/06/28/188242&from=rss)
 * [2026-06-29, 02:32:00](https://soylentnews.org/article.pl?sid=26/06/28/183229&from=rss) - [Photoshop Now Censors Your Art as You Edit](https://soylentnews.org/article.pl?sid=26/06/28/183229&from=rss)
 * [2026-06-28, 21:48:00](https://soylentnews.org/article.pl?sid=26/06/27/1833254&from=rss) - [Acoustic Mapping App Uses Thousands of Networked Old Android Phones to Hunt Shahed Drones](https://soylentnews.org/article.pl?sid=26/06/27/1833254&from=rss)
-* [2026-06-28, 17:01:00](https://soylentnews.org/article.pl?sid=26/06/27/1825233&from=rss) - [How Do Airbags Deploy So Quickly in a Crash? The Physics, Explained](https://soylentnews.org/article.pl?sid=26/06/27/1825233&from=rss)
 
 ## [Archives](archives/index.md)
 
