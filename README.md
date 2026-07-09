@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-09, 22:06:00](https://soylentnews.org/article.pl?sid=26/07/08/0159235&from=rss) - [Interoception:  the Sense of How You Feel Inside](https://soylentnews.org/article.pl?sid=26/07/08/0159235&from=rss)
 * [2026-07-09, 17:23:00](https://soylentnews.org/article.pl?sid=26/07/08/0155211&from=rss) - [NASA May Send A Backup, Nuclear-Powered Mars Rover To The Moon](https://soylentnews.org/article.pl?sid=26/07/08/0155211&from=rss)
 * [2026-07-09, 12:32:00](https://soylentnews.org/article.pl?sid=26/07/08/0153215&from=rss) - [The Twenty-Ninth International Obfuscated C Code Contest is back](https://soylentnews.org/article.pl?sid=26/07/08/0153215&from=rss)
 * [2026-07-09, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/08/0151252&from=rss) - [The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire](https://soylentnews.org/article.pl?sid=26/07/08/0151252&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-30, 21:25:00](https://soylentnews.org/article.pl?sid=26/06/29/191210&from=rss) - [I Built A Whole-Home Ad Blocker With A $7 ESP32-S3 Board - And It Took Just Minutes](https://soylentnews.org/article.pl?sid=26/06/29/191210&from=rss)
 * [2026-06-30, 16:41:00](https://soylentnews.org/article.pl?sid=26/06/29/1852228&from=rss) - [Ford Rehires ‘Gray Beard’ Engineers After AI Falls Short](https://soylentnews.org/article.pl?sid=26/06/29/1852228&from=rss)
 * [2026-06-30, 11:49:00](https://soylentnews.org/article.pl?sid=26/06/29/1850225&from=rss) - [Intel's Next-Gen 52-Core Nova Lake CPU Could Pull Up To 474W — May Need Three 8-Pin Power Connectors](https://soylentnews.org/article.pl?sid=26/06/29/1850225&from=rss)
-* [2026-06-30, 07:05:00](https://soylentnews.org/article.pl?sid=26/06/29/1848249&from=rss) - [Mark Zuckerberg Is Selflessly Building Yet Another Horrible Product Nobody Asked For](https://soylentnews.org/article.pl?sid=26/06/29/1848249&from=rss)
 
 ## [Archives](archives/index.md)
 
