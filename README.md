@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-09, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/08/0151252&from=rss) - [The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire](https://soylentnews.org/article.pl?sid=26/07/08/0151252&from=rss)
 * [2026-07-09, 03:08:00](https://soylentnews.org/article.pl?sid=26/07/08/0149218&from=rss) - [Rats Show Empathy, According to Model](https://soylentnews.org/article.pl?sid=26/07/08/0149218&from=rss)
 * [2026-07-08, 22:22:00](https://soylentnews.org/article.pl?sid=26/07/08/0147225&from=rss) - [Kernel Anti-Cheat Digital Restrictions Management Technology Is an Overreach](https://soylentnews.org/article.pl?sid=26/07/08/0147225&from=rss)
 * [2026-07-08, 17:37:00](https://soylentnews.org/article.pl?sid=26/07/06/2010203&from=rss) - [Zombie ‘Who Owns Unix?’ Lawsuit Comes Alive Again](https://soylentnews.org/article.pl?sid=26/07/06/2010203&from=rss)
@@ -49,7 +50,6 @@
 * [2026-06-30, 07:05:00](https://soylentnews.org/article.pl?sid=26/06/29/1848249&from=rss) - [Mark Zuckerberg Is Selflessly Building Yet Another Horrible Product Nobody Asked For](https://soylentnews.org/article.pl?sid=26/06/29/1848249&from=rss)
 * [2026-06-30, 02:18:00](https://soylentnews.org/article.pl?sid=26/06/29/1844208&from=rss) - [The Boeing 747 Begins Its Final Descent](https://soylentnews.org/article.pl?sid=26/06/29/1844208&from=rss)
 * [2026-06-29, 21:33:00](https://soylentnews.org/article.pl?sid=26/06/28/1824219&from=rss) - [Administration Tells US Techies It Expects American Quantum Computer by 2028](https://soylentnews.org/article.pl?sid=26/06/28/1824219&from=rss)
-* [2026-06-29, 16:48:00](https://soylentnews.org/article.pl?sid=26/06/28/1820239&from=rss) - [Brits Still Reckon Big Tech Isn't Paying Enough Tax](https://soylentnews.org/article.pl?sid=26/06/28/1820239&from=rss)
 
 ## [Archives](archives/index.md)
 
