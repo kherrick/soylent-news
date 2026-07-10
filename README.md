@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-10, 07:30:00](https://soylentnews.org/article.pl?sid=26/07/09/0335227&from=rss) - [Record-Breaking Ocean Drilling Reveals Why Japan's 2011 Tsunami Was So Deadly](https://soylentnews.org/article.pl?sid=26/07/09/0335227&from=rss)
 * [2026-07-10, 02:46:00](https://soylentnews.org/article.pl?sid=26/07/09/0329217&from=rss) - [Bethesda, Id Software Reportedly Hit Hard by Microsoft Layoffs](https://soylentnews.org/article.pl?sid=26/07/09/0329217&from=rss)
 * [2026-07-09, 22:06:00](https://soylentnews.org/article.pl?sid=26/07/08/0159235&from=rss) - [Interoception:  the Sense of How You Feel Inside](https://soylentnews.org/article.pl?sid=26/07/08/0159235&from=rss)
 * [2026-07-09, 17:23:00](https://soylentnews.org/article.pl?sid=26/07/08/0155211&from=rss) - [NASA May Send A Backup, Nuclear-Powered Mars Rover To The Moon](https://soylentnews.org/article.pl?sid=26/07/08/0155211&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-01, 06:51:00](https://soylentnews.org/article.pl?sid=26/06/30/0934235&from=rss) - [Lenovo Says The 'RAMageddon' Is The New Normal, Outlines Survival Guide](https://soylentnews.org/article.pl?sid=26/06/30/0934235&from=rss)
 * [2026-07-01, 02:10:00](https://soylentnews.org/article.pl?sid=26/06/30/0929204&from=rss) - [Scientists Build a Better Pixel Capable of Emitting and Receiving Light](https://soylentnews.org/article.pl?sid=26/06/30/0929204&from=rss)
 * [2026-06-30, 21:25:00](https://soylentnews.org/article.pl?sid=26/06/29/191210&from=rss) - [I Built A Whole-Home Ad Blocker With A $7 ESP32-S3 Board - And It Took Just Minutes](https://soylentnews.org/article.pl?sid=26/06/29/191210&from=rss)
-* [2026-06-30, 16:41:00](https://soylentnews.org/article.pl?sid=26/06/29/1852228&from=rss) - [Ford Rehires ‘Gray Beard’ Engineers After AI Falls Short](https://soylentnews.org/article.pl?sid=26/06/29/1852228&from=rss)
 
 ## [Archives](archives/index.md)
 
