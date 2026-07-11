@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-11, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/10/0919216&from=rss) - [Secure Unix Ancestor KSOS Did Type Safety Before Rust Made It Cool](https://soylentnews.org/article.pl?sid=26/07/10/0919216&from=rss)
 * [2026-07-11, 07:41:00](https://soylentnews.org/article.pl?sid=26/07/10/0916227&from=rss) - [Scientists Discover the Deep Sleep Circuit That Builds Muscle, Burns Fat, and Boosts the Brain](https://soylentnews.org/article.pl?sid=26/07/10/0916227&from=rss)
 * [2026-07-11, 02:54:00](https://soylentnews.org/article.pl?sid=26/07/09/1625207&from=rss) - [Suspecting AI Cheating, Ivy League Prof Ordered an in-Person Final; Scores Fell 50%](https://soylentnews.org/article.pl?sid=26/07/09/1625207&from=rss)
 * [2026-07-10, 21:44:00](https://soylentnews.org/article.pl?sid=26/07/09/0348202&from=rss) - [Qualcomm Buys Lattner's Modular for Almost $4bn](https://soylentnews.org/article.pl?sid=26/07/09/0348202&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-02, 11:13:00](https://soylentnews.org/article.pl?sid=26/07/01/0613242&from=rss) - [Supreme Court Ruling Guts Government’s Use Of Geofence Warrants](https://soylentnews.org/article.pl?sid=26/07/01/0613242&from=rss)
 * [2026-07-02, 06:31:00](https://soylentnews.org/article.pl?sid=26/07/01/0611205&from=rss) - [FreeBSD Vs. Linux: the Eternal Open-Source Showdown](https://soylentnews.org/article.pl?sid=26/07/01/0611205&from=rss)
 * [2026-07-02, 01:47:00](https://soylentnews.org/article.pl?sid=26/07/01/0552223&from=rss) - [Prompt Injection as Role Confusion](https://soylentnews.org/article.pl?sid=26/07/01/0552223&from=rss)
-* [2026-07-01, 21:05:00](https://soylentnews.org/article.pl?sid=26/06/30/0946220&from=rss) - [Malaysia Ponders Regulating Management of IP Addresses](https://soylentnews.org/article.pl?sid=26/06/30/0946220&from=rss)
 
 ## [Archives](archives/index.md)
 
