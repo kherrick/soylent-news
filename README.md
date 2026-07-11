@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-11, 17:07:00](https://soylentnews.org/article.pl?sid=26/07/10/0939213&from=rss) - [Geopolitical Tensions Are Complicating Research Efforts in the Norwegian Archipelago of Svalbar](https://soylentnews.org/article.pl?sid=26/07/10/0939213&from=rss)
 * [2026-07-11, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/10/0919216&from=rss) - [Secure Unix Ancestor KSOS Did Type Safety Before Rust Made It Cool](https://soylentnews.org/article.pl?sid=26/07/10/0919216&from=rss)
 * [2026-07-11, 07:41:00](https://soylentnews.org/article.pl?sid=26/07/10/0916227&from=rss) - [Scientists Discover the Deep Sleep Circuit That Builds Muscle, Burns Fat, and Boosts the Brain](https://soylentnews.org/article.pl?sid=26/07/10/0916227&from=rss)
 * [2026-07-11, 02:54:00](https://soylentnews.org/article.pl?sid=26/07/09/1625207&from=rss) - [Suspecting AI Cheating, Ivy League Prof Ordered an in-Person Final; Scores Fell 50%](https://soylentnews.org/article.pl?sid=26/07/09/1625207&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-02, 15:58:00](https://soylentnews.org/article.pl?sid=26/07/01/0619241&from=rss) - [Remote-Controlled Cockroach Swarm Can Now Breathe Underwater](https://soylentnews.org/article.pl?sid=26/07/01/0619241&from=rss)
 * [2026-07-02, 11:13:00](https://soylentnews.org/article.pl?sid=26/07/01/0613242&from=rss) - [Supreme Court Ruling Guts Government’s Use Of Geofence Warrants](https://soylentnews.org/article.pl?sid=26/07/01/0613242&from=rss)
 * [2026-07-02, 06:31:00](https://soylentnews.org/article.pl?sid=26/07/01/0611205&from=rss) - [FreeBSD Vs. Linux: the Eternal Open-Source Showdown](https://soylentnews.org/article.pl?sid=26/07/01/0611205&from=rss)
-* [2026-07-02, 01:47:00](https://soylentnews.org/article.pl?sid=26/07/01/0552223&from=rss) - [Prompt Injection as Role Confusion](https://soylentnews.org/article.pl?sid=26/07/01/0552223&from=rss)
 
 ## [Archives](archives/index.md)
 
