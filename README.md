@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-11, 02:54:00](https://soylentnews.org/article.pl?sid=26/07/09/1625207&from=rss) - [Suspecting AI Cheating, Ivy League Prof Ordered an in-Person Final; Scores Fell 50%](https://soylentnews.org/article.pl?sid=26/07/09/1625207&from=rss)
 * [2026-07-10, 21:44:00](https://soylentnews.org/article.pl?sid=26/07/09/0348202&from=rss) - [Qualcomm Buys Lattner's Modular for Almost $4bn](https://soylentnews.org/article.pl?sid=26/07/09/0348202&from=rss)
 * [2026-07-10, 17:01:00](https://soylentnews.org/article.pl?sid=26/07/09/0343224&from=rss) - [Alibaba Bans Anthropic's Claude Code After an Alleged Hidden China-Detection Backdoor is Uncovered](https://soylentnews.org/article.pl?sid=26/07/09/0343224&from=rss)
 * [2026-07-10, 12:17:00](https://soylentnews.org/article.pl?sid=26/07/09/0339222&from=rss) - [Back to Basics, or Masm. Writing a Tiny Notepad for W11.](https://soylentnews.org/article.pl?sid=26/07/09/0339222&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-02, 01:47:00](https://soylentnews.org/article.pl?sid=26/07/01/0552223&from=rss) - [Prompt Injection as Role Confusion](https://soylentnews.org/article.pl?sid=26/07/01/0552223&from=rss)
 * [2026-07-01, 21:05:00](https://soylentnews.org/article.pl?sid=26/06/30/0946220&from=rss) - [Malaysia Ponders Regulating Management of IP Addresses](https://soylentnews.org/article.pl?sid=26/06/30/0946220&from=rss)
 * [2026-07-01, 16:20:00](https://soylentnews.org/article.pl?sid=26/06/30/0941251&from=rss) - [Australia's Floating Solar Panels Solve Two Resource Problems at Once](https://soylentnews.org/article.pl?sid=26/06/30/0941251&from=rss)
-* [2026-07-01, 11:38:00](https://soylentnews.org/article.pl?sid=26/06/30/0939227&from=rss) - [PlayStation Removes Over 500 Purchased Movies](https://soylentnews.org/article.pl?sid=26/06/30/0939227&from=rss)
 
 ## [Archives](archives/index.md)
 
