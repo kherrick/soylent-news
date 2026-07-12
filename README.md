@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-12, 16:57:00](https://soylentnews.org/article.pl?sid=26/07/11/1844243&from=rss) - [Quantum Mechanics Surprisingly Based on Real Numbers](https://soylentnews.org/article.pl?sid=26/07/11/1844243&from=rss)
 * [2026-07-12, 12:10:00](https://soylentnews.org/article.pl?sid=26/07/11/0144241&from=rss) - [New Dental Robot Attaches to Patient's Teeth for Drilling](https://soylentnews.org/article.pl?sid=26/07/11/0144241&from=rss)
 * [2026-07-12, 07:21:00](https://soylentnews.org/article.pl?sid=26/07/11/0138228&from=rss) - [Failed Aussie Blockchain Project Ends With Big Fine for Fibs About It Being on Track](https://soylentnews.org/article.pl?sid=26/07/11/0138228&from=rss)
 * [2026-07-12, 02:38:00](https://soylentnews.org/article.pl?sid=26/07/11/0130201&from=rss) - [NHTSA Calls Out Autonomous Cars for Interfering With First Responders](https://soylentnews.org/article.pl?sid=26/07/11/0130201&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-03, 15:49:00](https://soylentnews.org/article.pl?sid=26/07/02/058229&from=rss) - [Polestar Faces A Ban On Selling Its EVs In The US](https://soylentnews.org/article.pl?sid=26/07/02/058229&from=rss)
 * [2026-07-03, 10:57:00](https://soylentnews.org/article.pl?sid=26/07/02/0458244&from=rss) - [UN AI Great Risks and Rewards](https://soylentnews.org/article.pl?sid=26/07/02/0458244&from=rss)
 * [2026-07-03, 06:14:00](https://soylentnews.org/article.pl?sid=26/07/02/0455216&from=rss) - [Six-part Series from the Internet Archive on Vanishing Culture](https://soylentnews.org/article.pl?sid=26/07/02/0455216&from=rss)
-* [2026-07-03, 01:21:00](https://soylentnews.org/article.pl?sid=26/07/02/0453224&from=rss) - [How to Burst the AI Bubble: Strike at its Roots](https://soylentnews.org/article.pl?sid=26/07/02/0453224&from=rss)
 
 ## [Archives](archives/index.md)
 
