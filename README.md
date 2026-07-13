@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-13, 02:27:00](https://soylentnews.org/article.pl?sid=26/07/11/1848242&from=rss) - [Higher Blood Glucose Levels Linked to Faster Brain Aging](https://soylentnews.org/article.pl?sid=26/07/11/1848242&from=rss)
 * [2026-07-12, 21:45:00](https://soylentnews.org/article.pl?sid=26/07/11/1846204&from=rss) - [Volkswagen Sales Plunge as German Automaker Lays Out Plan to Slash Number of Brands](https://soylentnews.org/article.pl?sid=26/07/11/1846204&from=rss)
 * [2026-07-12, 16:57:00](https://soylentnews.org/article.pl?sid=26/07/11/1844243&from=rss) - [Quantum Mechanics Surprisingly Based on Real Numbers](https://soylentnews.org/article.pl?sid=26/07/11/1844243&from=rss)
 * [2026-07-12, 12:10:00](https://soylentnews.org/article.pl?sid=26/07/11/0144241&from=rss) - [New Dental Robot Attaches to Patient's Teeth for Drilling](https://soylentnews.org/article.pl?sid=26/07/11/0144241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-04, 01:13:00](https://soylentnews.org/article.pl?sid=26/07/02/1510239&from=rss) - [It's Time to Step Up and Have Your Say for Science](https://soylentnews.org/article.pl?sid=26/07/02/1510239&from=rss)
 * [2026-07-03, 20:29:00](https://soylentnews.org/article.pl?sid=26/07/02/0510215&from=rss) - [Bombshell Lawsuit Alleges that RAM Manufacturers are Colluding to Drive Up Prices](https://soylentnews.org/article.pl?sid=26/07/02/0510215&from=rss)
 * [2026-07-03, 15:49:00](https://soylentnews.org/article.pl?sid=26/07/02/058229&from=rss) - [Polestar Faces A Ban On Selling Its EVs In The US](https://soylentnews.org/article.pl?sid=26/07/02/058229&from=rss)
-* [2026-07-03, 10:57:00](https://soylentnews.org/article.pl?sid=26/07/02/0458244&from=rss) - [UN AI Great Risks and Rewards](https://soylentnews.org/article.pl?sid=26/07/02/0458244&from=rss)
 
 ## [Archives](archives/index.md)
 
