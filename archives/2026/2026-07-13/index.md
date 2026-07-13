@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 07:07:00](https://soylentnews.org/article.pl?sid=26/07/12/150251&from=rss) - [Electric Drone Breaks World Air Speed Record At 434 Mph, Designed For Anti-Aircraft Interceptor Role](https://soylentnews.org/article.pl?sid=26/07/12/150251&from=rss)
 * [2026-07-13, 02:27:00](https://soylentnews.org/article.pl?sid=26/07/11/1848242&from=rss) - [Higher Blood Glucose Levels Linked to Faster Brain Aging](https://soylentnews.org/article.pl?sid=26/07/11/1848242&from=rss)
