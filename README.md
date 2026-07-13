@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-13, 21:22:00](https://soylentnews.org/article.pl?sid=26/07/12/1514220&from=rss) - [OpenAI Job Listing Suggests ChatGPT Could Someday Replace Junior Analysts at Goldman Sachs](https://soylentnews.org/article.pl?sid=26/07/12/1514220&from=rss)
 * [2026-07-13, 16:40:00](https://soylentnews.org/article.pl?sid=26/07/12/1511228&from=rss) - [China Recovered its First Reusable Rocket and Showed a New Way to Do It](https://soylentnews.org/article.pl?sid=26/07/12/1511228&from=rss)
 * [2026-07-13, 11:53:00](https://soylentnews.org/article.pl?sid=26/07/12/2127219&from=rss) - [Why Navies Around The World Keep Submarine Propeller Designs So Secretive](https://soylentnews.org/article.pl?sid=26/07/12/2127219&from=rss)
 * [2026-07-13, 07:07:00](https://soylentnews.org/article.pl?sid=26/07/12/150251&from=rss) - [Electric Drone Breaks World Air Speed Record at 434 Mph, Designed for Anti-Aircraft Interceptor Role](https://soylentnews.org/article.pl?sid=26/07/12/150251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-04, 15:24:00](https://soylentnews.org/article.pl?sid=26/07/02/1526221&from=rss) - [Oomwoo is a New Open-Source Robot Vacuum You Can 3D Print Yourself](https://soylentnews.org/article.pl?sid=26/07/02/1526221&from=rss)
 * [2026-07-04, 10:42:00](https://soylentnews.org/article.pl?sid=26/07/02/1523206&from=rss) - [Sony Announces End of PlayStation Discs, Parts of Digital Store in the Same Day](https://soylentnews.org/article.pl?sid=26/07/02/1523206&from=rss)
 * [2026-07-04, 05:54:00](https://soylentnews.org/article.pl?sid=26/07/02/1516223&from=rss) - [Engineer Open-Sources DIY Radar System That's 95% Cheaper Than $250,000 Commercial Offerings, Has 20](https://soylentnews.org/article.pl?sid=26/07/02/1516223&from=rss)
-* [2026-07-04, 04:16:00](https://soylentnews.org/article.pl?sid=26/07/02/1521222&from=rss) - [Americans!  Enjoy Your 4th July Celebrations](https://soylentnews.org/article.pl?sid=26/07/02/1521222&from=rss)
 
 ## [Archives](archives/index.md)
 
