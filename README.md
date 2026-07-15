@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-15, 16:04:00](https://soylentnews.org/article.pl?sid=26/07/14/0547216&from=rss) - [AI Servers Will Consume More Power Than All Conventional Data Centers Combined By 2027](https://soylentnews.org/article.pl?sid=26/07/14/0547216&from=rss)
 * [2026-07-15, 11:19:00](https://soylentnews.org/article.pl?sid=26/07/14/0543205&from=rss) - [AI Coding Agents Can be Tricked Into Installing Malware Via 'Clean' GitHub Repositories](https://soylentnews.org/article.pl?sid=26/07/14/0543205&from=rss)
 * [2026-07-15, 06:29:00](https://soylentnews.org/article.pl?sid=26/07/14/0540206&from=rss) - [MPs Tell NHS to Start Packing Palantir's Bags Ahead of 2027 Contract Break](https://soylentnews.org/article.pl?sid=26/07/14/0540206&from=rss)
 * [2026-07-15, 01:42:00](https://soylentnews.org/article.pl?sid=26/07/14/0538220&from=rss) - [Microsoft Admits Windows 11 Has a GDID Tracker With No Off Switch](https://soylentnews.org/article.pl?sid=26/07/14/0538220&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-06, 09:00:00](https://soylentnews.org/article.pl?sid=26/07/05/092233&from=rss) - [New Law Could Let Tesla Ship Cars With No Brake Pedals Installed](https://soylentnews.org/article.pl?sid=26/07/05/092233&from=rss)
 * [2026-07-06, 04:16:00](https://soylentnews.org/article.pl?sid=26/07/05/0859246&from=rss) - [The Weirdness of Neutrinos Could Completely Rewrite Particle Physics](https://soylentnews.org/article.pl?sid=26/07/05/0859246&from=rss)
 * [2026-07-05, 23:35:00](https://soylentnews.org/article.pl?sid=26/07/04/0717219&from=rss) - [What the US Was Like in the 1920s](https://soylentnews.org/article.pl?sid=26/07/04/0717219&from=rss)
-* [2026-07-05, 18:52:00](https://soylentnews.org/article.pl?sid=26/07/04/0714213&from=rss) - [Raspberry Pi OS Gets a New Kernel but Apparently Not a New Version Number](https://soylentnews.org/article.pl?sid=26/07/04/0714213&from=rss)
 
 ## [Archives](archives/index.md)
 
