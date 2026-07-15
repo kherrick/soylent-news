@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-15, 01:42:00](https://soylentnews.org/article.pl?sid=26/07/14/0538220&from=rss) - [Microsoft Admits Windows 11 Has a GDID Tracker With No Off Switch](https://soylentnews.org/article.pl?sid=26/07/14/0538220&from=rss)
 * [2026-07-14, 21:02:00](https://soylentnews.org/article.pl?sid=26/07/12/2153233&from=rss) - [This UK Satellite's Thermal Camera Raises Major Privacy Concerns](https://soylentnews.org/article.pl?sid=26/07/12/2153233&from=rss)
 * [2026-07-14, 16:06:00](https://soylentnews.org/article.pl?sid=26/07/12/2149242&from=rss) - [US Weighs Removing Steering Wheel Requirement For Driverless Cars](https://soylentnews.org/article.pl?sid=26/07/12/2149242&from=rss)
 * [2026-07-14, 11:22:00](https://soylentnews.org/article.pl?sid=26/07/12/2143209&from=rss) - [Scientist Models Way To Make Sure No One's Violating The Ban On Nuclear Weapons In Space](https://soylentnews.org/article.pl?sid=26/07/12/2143209&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-05, 18:52:00](https://soylentnews.org/article.pl?sid=26/07/04/0714213&from=rss) - [Raspberry Pi OS Gets a New Kernel but Apparently Not a New Version Number](https://soylentnews.org/article.pl?sid=26/07/04/0714213&from=rss)
 * [2026-07-05, 14:02:00](https://soylentnews.org/article.pl?sid=26/07/04/074205&from=rss) - [61% of US Adults Use AI for Health Information Now - Up From 2% in 2024](https://soylentnews.org/article.pl?sid=26/07/04/074205&from=rss)
 * [2026-07-05, 09:21:00](https://soylentnews.org/article.pl?sid=26/07/04/0653237&from=rss) - [It's Looking Like a Hot, Messy Summer for Security Teams as AI Finds Hidden Vulnerabilities](https://soylentnews.org/article.pl?sid=26/07/04/0653237&from=rss)
-* [2026-07-05, 05:34:00](https://soylentnews.org/article.pl?sid=26/07/04/0645204&from=rss) - [10 Medieval Inventions That Shaped the Modern World](https://soylentnews.org/article.pl?sid=26/07/04/0645204&from=rss)
 
 ## [Archives](archives/index.md)
 
