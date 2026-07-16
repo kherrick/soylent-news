@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-16, 06:15:00](https://soylentnews.org/article.pl?sid=26/07/15/0036236&from=rss) - [RAMpocalyse Pricing Prompts Maker To Construct His Own Memory Using Ancient Apollo-Era Tech](https://soylentnews.org/article.pl?sid=26/07/15/0036236&from=rss)
 * [2026-07-16, 01:32:00](https://soylentnews.org/article.pl?sid=26/07/15/0034229&from=rss) - [Mapped: Where It Costs the Most to Own a Car in America](https://soylentnews.org/article.pl?sid=26/07/15/0034229&from=rss)
 * [2026-07-15, 20:50:00](https://soylentnews.org/article.pl?sid=26/07/15/0032228&from=rss) - [‘STEM Is Not Just About Formulas And Calculations, It Is Also About Creativity’](https://soylentnews.org/article.pl?sid=26/07/15/0032228&from=rss)
 * [2026-07-15, 16:04:00](https://soylentnews.org/article.pl?sid=26/07/14/0547216&from=rss) - [AI Servers Will Consume More Power Than All Conventional Data Centers Combined By 2027](https://soylentnews.org/article.pl?sid=26/07/14/0547216&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-06, 23:04:00](https://soylentnews.org/article.pl?sid=26/07/05/1921216&from=rss) - [David Rosenthal on the LLM Negative Feedback Loop](https://soylentnews.org/article.pl?sid=26/07/05/1921216&from=rss)
 * [2026-07-06, 18:23:00](https://soylentnews.org/article.pl?sid=26/07/05/1917212&from=rss) - [Travel like it's 0 AD. ](https://soylentnews.org/article.pl?sid=26/07/05/1917212&from=rss)
 * [2026-07-06, 13:42:00](https://soylentnews.org/article.pl?sid=26/07/05/1911206&from=rss) - [Modern Life May be Outpacing the Human Mind](https://soylentnews.org/article.pl?sid=26/07/05/1911206&from=rss)
-* [2026-07-06, 09:00:00](https://soylentnews.org/article.pl?sid=26/07/05/092233&from=rss) - [New Law Could Let Tesla Ship Cars With No Brake Pedals Installed](https://soylentnews.org/article.pl?sid=26/07/05/092233&from=rss)
 
 ## [Archives](archives/index.md)
 
