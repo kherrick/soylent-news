@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-17, 17:33:00](https://soylentnews.org/article.pl?sid=26/07/16/0415252&from=rss) - [Why the Human Body Has So Many Design Flaws](https://soylentnews.org/article.pl?sid=26/07/16/0415252&from=rss)
 * [2026-07-17, 12:49:00](https://soylentnews.org/article.pl?sid=26/07/16/0231216&from=rss) - [Microsoft's Secure Boot Has Been Broken for a Decade and No One Noticed Until Now](https://soylentnews.org/article.pl?sid=26/07/16/0231216&from=rss)
 * [2026-07-17, 08:07:00](https://soylentnews.org/article.pl?sid=26/07/16/0229204&from=rss) - [Irish Datacenters Now Guzzle 23% of the Country's Electricity](https://soylentnews.org/article.pl?sid=26/07/16/0229204&from=rss)
 * [2026-07-17, 03:23:00](https://soylentnews.org/article.pl?sid=26/07/16/0225242&from=rss) - [Miami-Based City Labs Achieves a First for Commercial Nuclear Power in Space](https://soylentnews.org/article.pl?sid=26/07/16/0225242&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-08, 08:05:00](https://soylentnews.org/article.pl?sid=26/07/06/1957237&from=rss) - [South Korea to Spend $1T on More Memory Chip Production and Humanoid Robots](https://soylentnews.org/article.pl?sid=26/07/06/1957237&from=rss)
 * [2026-07-08, 03:21:00](https://soylentnews.org/article.pl?sid=26/07/05/222222&from=rss) - [Google Loses Final Appeal Over $4.7 Billion EU Android Antitrust Fine](https://soylentnews.org/article.pl?sid=26/07/05/222222&from=rss)
 * [2026-07-07, 22:44:00](https://soylentnews.org/article.pl?sid=26/07/05/2151242&from=rss) - [New Attack Provides One More Reason Why AI Browsers Are A Bad Idea](https://soylentnews.org/article.pl?sid=26/07/05/2151242&from=rss)
-* [2026-07-07, 18:00:00](https://soylentnews.org/article.pl?sid=26/07/05/2125258&from=rss) - [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&from=rss)
 
 ## [Archives](archives/index.md)
 
