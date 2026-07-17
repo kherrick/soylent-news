@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-17, 03:23:00](https://soylentnews.org/article.pl?sid=26/07/16/0225242&from=rss) - [Miami-Based City Labs Achieves a First for Commercial Nuclear Power in Space](https://soylentnews.org/article.pl?sid=26/07/16/0225242&from=rss)
 * [2026-07-16, 22:36:00](https://soylentnews.org/article.pl?sid=26/07/15/1458200&from=rss) - [New York is the First US State to Ban Smart Glasses in All its Courthouses](https://soylentnews.org/article.pl?sid=26/07/15/1458200&from=rss)
 * [2026-07-16, 17:51:00](https://soylentnews.org/article.pl?sid=26/07/15/1451242&from=rss) - [FreeBSD 16 Retires the Last of its GPL Code From its Base System](https://soylentnews.org/article.pl?sid=26/07/15/1451242&from=rss)
 * [2026-07-16, 11:07:00](https://soylentnews.org/article.pl?sid=26/07/15/0038203&from=rss) - [Meta Data Center Water Discharges Suspended After Contaminating The City's Reclamation Water Supply ](https://soylentnews.org/article.pl?sid=26/07/15/0038203&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-07, 18:00:00](https://soylentnews.org/article.pl?sid=26/07/05/2125258&from=rss) - [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&from=rss)
 * [2026-07-07, 13:13:00](https://soylentnews.org/article.pl?sid=26/07/05/2113231&from=rss) - [NetNut Cracked As Google And FBI Target 2 Million-Device Botnet](https://soylentnews.org/article.pl?sid=26/07/05/2113231&from=rss)
 * [2026-07-07, 08:34:00](https://soylentnews.org/article.pl?sid=26/07/05/1926209&from=rss) - [Amazon is Ready to Deploy the LEO Satellite Broadband Service](https://soylentnews.org/article.pl?sid=26/07/05/1926209&from=rss)
-* [2026-07-07, 03:52:00](https://soylentnews.org/article.pl?sid=26/07/05/1924207&from=rss) - [For The First Time, A Cell Built From Scratch Grows And Divides](https://soylentnews.org/article.pl?sid=26/07/05/1924207&from=rss)
 
 ## [Archives](archives/index.md)
 
