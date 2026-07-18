@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-18, 17:20:00](https://soylentnews.org/article.pl?sid=26/07/17/1518215&from=rss) - [Archaeologists Found Homer's Iliad Inside a 1,600-Year-Old Egyptian Mummy](https://soylentnews.org/article.pl?sid=26/07/17/1518215&from=rss)
 * [2026-07-18, 12:36:00](https://soylentnews.org/article.pl?sid=26/07/17/151212&from=rss) - [Linus Torvalds Puts His Foot Down, Tells Anti-AI Programmers To 'Fork It' - and Then This Happened](https://soylentnews.org/article.pl?sid=26/07/17/151212&from=rss)
 * [2026-07-18, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/17/1454240&from=rss) - [Hundreds Rally at Bethesda HQ to Protest Xbox Layoffs](https://soylentnews.org/article.pl?sid=26/07/17/1454240&from=rss)
 * [2026-07-18, 03:05:00](https://soylentnews.org/article.pl?sid=26/07/17/0436211&from=rss) - [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't](https://soylentnews.org/article.pl?sid=26/07/17/0436211&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-09, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/08/0151252&from=rss) - [The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire](https://soylentnews.org/article.pl?sid=26/07/08/0151252&from=rss)
 * [2026-07-09, 03:08:00](https://soylentnews.org/article.pl?sid=26/07/08/0149218&from=rss) - [Rats Show Empathy, According to Model](https://soylentnews.org/article.pl?sid=26/07/08/0149218&from=rss)
 * [2026-07-08, 22:22:00](https://soylentnews.org/article.pl?sid=26/07/08/0147225&from=rss) - [Kernel Anti-Cheat Digital Restrictions Management Technology Is an Overreach](https://soylentnews.org/article.pl?sid=26/07/08/0147225&from=rss)
-* [2026-07-08, 17:37:00](https://soylentnews.org/article.pl?sid=26/07/06/2010203&from=rss) - [Zombie ‘Who Owns Unix?’ Lawsuit Comes Alive Again](https://soylentnews.org/article.pl?sid=26/07/06/2010203&from=rss)
 
 ## [Archives](archives/index.md)
 
