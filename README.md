@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-18, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/17/1454240&from=rss) - [Hundreds Rally at Bethesda HQ to Protest Xbox Layoffs](https://soylentnews.org/article.pl?sid=26/07/17/1454240&from=rss)
 * [2026-07-18, 03:05:00](https://soylentnews.org/article.pl?sid=26/07/17/0436211&from=rss) - [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't](https://soylentnews.org/article.pl?sid=26/07/17/0436211&from=rss)
 * [2026-07-17, 22:18:00](https://soylentnews.org/article.pl?sid=26/07/17/0430256&from=rss) - [Mathematical Explanation for Accelerated Universe Expansion That Doesn't Require Dark Energy](https://soylentnews.org/article.pl?sid=26/07/17/0430256&from=rss)
 * [2026-07-17, 17:33:00](https://soylentnews.org/article.pl?sid=26/07/16/0415252&from=rss) - [Why the Human Body Has So Many Design Flaws](https://soylentnews.org/article.pl?sid=26/07/16/0415252&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-08, 22:22:00](https://soylentnews.org/article.pl?sid=26/07/08/0147225&from=rss) - [Kernel Anti-Cheat Digital Restrictions Management Technology Is an Overreach](https://soylentnews.org/article.pl?sid=26/07/08/0147225&from=rss)
 * [2026-07-08, 17:37:00](https://soylentnews.org/article.pl?sid=26/07/06/2010203&from=rss) - [Zombie ‘Who Owns Unix?’ Lawsuit Comes Alive Again](https://soylentnews.org/article.pl?sid=26/07/06/2010203&from=rss)
 * [2026-07-08, 12:53:00](https://soylentnews.org/article.pl?sid=26/07/06/204247&from=rss) - [Paper Mill Cancer Studies Get Double the Number of Citations as Genuine Papers](https://soylentnews.org/article.pl?sid=26/07/06/204247&from=rss)
-* [2026-07-08, 08:05:00](https://soylentnews.org/article.pl?sid=26/07/06/1957237&from=rss) - [South Korea to Spend $1T on More Memory Chip Production and Humanoid Robots](https://soylentnews.org/article.pl?sid=26/07/06/1957237&from=rss)
 
 ## [Archives](archives/index.md)
 
