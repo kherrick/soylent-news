@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-19, 21:53:00](https://soylentnews.org/article.pl?sid=26/07/19/0313244&from=rss) - [Welcome to DebConf26!](https://soylentnews.org/article.pl?sid=26/07/19/0313244&from=rss)
 * [2026-07-19, 17:08:00](https://soylentnews.org/article.pl?sid=26/07/19/036256&from=rss) - [AI Mania Is Eviscerating Global Decision-Making](https://soylentnews.org/article.pl?sid=26/07/19/036256&from=rss)
 * [2026-07-19, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/19/034232&from=rss) - [Finland Is Preparing to Hide an Entire City Underground](https://soylentnews.org/article.pl?sid=26/07/19/034232&from=rss)
 * [2026-07-19, 07:40:00](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss) - [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-10, 12:17:00](https://soylentnews.org/article.pl?sid=26/07/09/0339222&from=rss) - [Back to Basics, or Masm. Writing a Tiny Notepad for W11.](https://soylentnews.org/article.pl?sid=26/07/09/0339222&from=rss)
 * [2026-07-10, 07:30:00](https://soylentnews.org/article.pl?sid=26/07/09/0335227&from=rss) - [Record-Breaking Ocean Drilling Reveals Why Japan's 2011 Tsunami Was So Deadly](https://soylentnews.org/article.pl?sid=26/07/09/0335227&from=rss)
 * [2026-07-10, 02:46:00](https://soylentnews.org/article.pl?sid=26/07/09/0329217&from=rss) - [Bethesda, Id Software Reportedly Hit Hard by Microsoft Layoffs](https://soylentnews.org/article.pl?sid=26/07/09/0329217&from=rss)
-* [2026-07-09, 22:06:00](https://soylentnews.org/article.pl?sid=26/07/08/0159235&from=rss) - [Interoception:  the Sense of How You Feel Inside](https://soylentnews.org/article.pl?sid=26/07/08/0159235&from=rss)
 
 ## [Archives](archives/index.md)
 
