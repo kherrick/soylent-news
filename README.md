@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-19, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/19/034232&from=rss) - [Finland Is Preparing to Hide an Entire City Underground](https://soylentnews.org/article.pl?sid=26/07/19/034232&from=rss)
 * [2026-07-19, 07:40:00](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss) - [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss)
 * [2026-07-19, 02:53:00](https://soylentnews.org/article.pl?sid=26/07/17/1524222&from=rss) - [Experts May Have Drastically Underestimated the Lifespan of EV Batteries](https://soylentnews.org/article.pl?sid=26/07/17/1524222&from=rss)
 * [2026-07-18, 22:03:00](https://soylentnews.org/article.pl?sid=26/07/17/1520210&from=rss) - [CXMT's DDR5 RAM Isn't As Performant Or As Consistent As SK Hynix Dies, Early Testing Shows](https://soylentnews.org/article.pl?sid=26/07/17/1520210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-10, 02:46:00](https://soylentnews.org/article.pl?sid=26/07/09/0329217&from=rss) - [Bethesda, Id Software Reportedly Hit Hard by Microsoft Layoffs](https://soylentnews.org/article.pl?sid=26/07/09/0329217&from=rss)
 * [2026-07-09, 22:06:00](https://soylentnews.org/article.pl?sid=26/07/08/0159235&from=rss) - [Interoception:  the Sense of How You Feel Inside](https://soylentnews.org/article.pl?sid=26/07/08/0159235&from=rss)
 * [2026-07-09, 17:23:00](https://soylentnews.org/article.pl?sid=26/07/08/0155211&from=rss) - [NASA May Send A Backup, Nuclear-Powered Mars Rover To The Moon](https://soylentnews.org/article.pl?sid=26/07/08/0155211&from=rss)
-* [2026-07-09, 12:32:00](https://soylentnews.org/article.pl?sid=26/07/08/0153215&from=rss) - [The Twenty-Ninth International Obfuscated C Code Contest is back](https://soylentnews.org/article.pl?sid=26/07/08/0153215&from=rss)
 
 ## [Archives](archives/index.md)
 
