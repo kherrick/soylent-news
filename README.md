@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-20, 08:12:00](https://soylentnews.org/article.pl?sid=26/07/20/0325216&from=rss) - [Fake Go DNS Scanner Spread Malware Through Over 200 GitHub Repos](https://soylentnews.org/article.pl?sid=26/07/20/0325216&from=rss)
 * [2026-07-20, 03:24:00](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss) - [The Galaxy's Coldest “Stars” Might Actually be Alien Megastructures](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss)
 * [2026-07-19, 21:53:00](https://soylentnews.org/article.pl?sid=26/07/19/0313244&from=rss) - [Welcome to DebConf26!](https://soylentnews.org/article.pl?sid=26/07/19/0313244&from=rss)
 * [2026-07-19, 17:08:00](https://soylentnews.org/article.pl?sid=26/07/19/036256&from=rss) - [AI Mania is Eviscerating Global Decision-Making](https://soylentnews.org/article.pl?sid=26/07/19/036256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-10, 21:44:00](https://soylentnews.org/article.pl?sid=26/07/09/0348202&from=rss) - [Qualcomm Buys Lattner's Modular for Almost $4bn](https://soylentnews.org/article.pl?sid=26/07/09/0348202&from=rss)
 * [2026-07-10, 17:01:00](https://soylentnews.org/article.pl?sid=26/07/09/0343224&from=rss) - [Alibaba Bans Anthropic's Claude Code After an Alleged Hidden China-Detection Backdoor is Uncovered](https://soylentnews.org/article.pl?sid=26/07/09/0343224&from=rss)
 * [2026-07-10, 12:17:00](https://soylentnews.org/article.pl?sid=26/07/09/0339222&from=rss) - [Back to Basics, or Masm. Writing a Tiny Notepad for W11.](https://soylentnews.org/article.pl?sid=26/07/09/0339222&from=rss)
-* [2026-07-10, 07:30:00](https://soylentnews.org/article.pl?sid=26/07/09/0335227&from=rss) - [Record-Breaking Ocean Drilling Reveals Why Japan's 2011 Tsunami Was So Deadly](https://soylentnews.org/article.pl?sid=26/07/09/0335227&from=rss)
 
 ## [Archives](archives/index.md)
 

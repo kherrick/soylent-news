@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 08:12:00](https://soylentnews.org/article.pl?sid=26/07/20/0325216&from=rss) - [Fake Go DNS Scanner Spread Malware Through Over 200 GitHub Repos](https://soylentnews.org/article.pl?sid=26/07/20/0325216&from=rss)
 * [2026-07-20, 03:24:00](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss) - [The Galaxy's Coldest “Stars” Might Actually be Alien Megastructures](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss)
