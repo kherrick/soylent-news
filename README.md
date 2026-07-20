@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-20, 12:55:00](https://soylentnews.org/article.pl?sid=26/07/20/0338215&from=rss) - [Great Ape Laughter Reveals a Hidden Origin of Human Speech](https://soylentnews.org/article.pl?sid=26/07/20/0338215&from=rss)
 * [2026-07-20, 08:12:00](https://soylentnews.org/article.pl?sid=26/07/20/0325216&from=rss) - [Fake Go DNS Scanner Spread Malware Through Over 200 GitHub Repos](https://soylentnews.org/article.pl?sid=26/07/20/0325216&from=rss)
 * [2026-07-20, 03:24:00](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss) - [The Galaxy's Coldest “Stars” Might Actually be Alien Megastructures](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss)
 * [2026-07-19, 21:53:00](https://soylentnews.org/article.pl?sid=26/07/19/0313244&from=rss) - [Welcome to DebConf26!](https://soylentnews.org/article.pl?sid=26/07/19/0313244&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-11, 02:54:00](https://soylentnews.org/article.pl?sid=26/07/09/1625207&from=rss) - [Suspecting AI Cheating, Ivy League Prof Ordered an in-Person Final; Scores Fell 50%](https://soylentnews.org/article.pl?sid=26/07/09/1625207&from=rss)
 * [2026-07-10, 21:44:00](https://soylentnews.org/article.pl?sid=26/07/09/0348202&from=rss) - [Qualcomm Buys Lattner's Modular for Almost $4bn](https://soylentnews.org/article.pl?sid=26/07/09/0348202&from=rss)
 * [2026-07-10, 17:01:00](https://soylentnews.org/article.pl?sid=26/07/09/0343224&from=rss) - [Alibaba Bans Anthropic's Claude Code After an Alleged Hidden China-Detection Backdoor is Uncovered](https://soylentnews.org/article.pl?sid=26/07/09/0343224&from=rss)
-* [2026-07-10, 12:17:00](https://soylentnews.org/article.pl?sid=26/07/09/0339222&from=rss) - [Back to Basics, or Masm. Writing a Tiny Notepad for W11.](https://soylentnews.org/article.pl?sid=26/07/09/0339222&from=rss)
 
 ## [Archives](archives/index.md)
 
