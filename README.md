@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-21, 16:41:00](https://soylentnews.org/article.pl?sid=26/07/21/0553204&from=rss) - [Airbus Migrating 70 Critical Apps From AWS To France's Scaleway Amid Digital Sovereignty Push](https://soylentnews.org/article.pl?sid=26/07/21/0553204&from=rss)
 * [2026-07-21, 11:45:00](https://soylentnews.org/article.pl?sid=26/07/21/0550247&from=rss) - [Deep-Sea Life Has a Secret Food Source Scientists Never Expected](https://soylentnews.org/article.pl?sid=26/07/21/0550247&from=rss)
 * [2026-07-21, 07:59:00](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss) - [Eating Chili Peppers May Raise the Risk of One Deadly Cancer](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss)
 * [2026-07-21, 03:15:00](https://soylentnews.org/article.pl?sid=26/07/20/0413210&from=rss) - [US Sanctions First VPN In Crackdown On Ransomware Criminals](https://soylentnews.org/article.pl?sid=26/07/20/0413210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-12, 07:21:00](https://soylentnews.org/article.pl?sid=26/07/11/0138228&from=rss) - [Failed Aussie Blockchain Project Ends With Big Fine for Fibs About It Being on Track](https://soylentnews.org/article.pl?sid=26/07/11/0138228&from=rss)
 * [2026-07-12, 02:38:00](https://soylentnews.org/article.pl?sid=26/07/11/0130201&from=rss) - [NHTSA Calls Out Autonomous Cars for Interfering With First Responders](https://soylentnews.org/article.pl?sid=26/07/11/0130201&from=rss)
 * [2026-07-11, 21:49:00](https://soylentnews.org/article.pl?sid=26/07/11/0123222&from=rss) - [Woman's Puzzling Decline Turns Out to be Cobalt Poisoning From Hip Replacement](https://soylentnews.org/article.pl?sid=26/07/11/0123222&from=rss)
-* [2026-07-11, 17:07:00](https://soylentnews.org/article.pl?sid=26/07/10/0939213&from=rss) - [Geopolitical Tensions Are Complicating Research Efforts in the Norwegian Archipelago of Svalbar](https://soylentnews.org/article.pl?sid=26/07/10/0939213&from=rss)
 
 ## [Archives](archives/index.md)
 
