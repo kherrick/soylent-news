@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 21:14:00](https://soylentnews.org/article.pl?sid=26/07/21/2225209&from=rss) - [Five Tech Giants are Hiding $1.65tn in AI Debt, Using the Trick that Toppled Enron](https://soylentnews.org/article.pl?sid=26/07/21/2225209&from=rss)
 * [2026-07-22, 16:23:00](https://soylentnews.org/article.pl?sid=26/07/21/2223243&from=rss) - [German Startup Qurie Bags Funding for Molecular Heat Pump](https://soylentnews.org/article.pl?sid=26/07/21/2223243&from=rss)
 * [2026-07-22, 13:41:00](https://soylentnews.org/article.pl?sid=26/07/21/2222218&from=rss) - [My Hunt for the Original McDonald’s French-Fry Recipe](https://soylentnews.org/article.pl?sid=26/07/21/2222218&from=rss)
 * [2026-07-22, 11:36:00](https://soylentnews.org/article.pl?sid=26/07/22/0025243&from=rss) - [The 2024 New York City Meteorite Contains Amino Acids](https://soylentnews.org/article.pl?sid=26/07/22/0025243&from=rss)
