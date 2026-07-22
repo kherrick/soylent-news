@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-22, 11:36:00](https://soylentnews.org/article.pl?sid=26/07/22/0025243&from=rss) - [The 2024 New York City Meteorite Contains Amino Acids](https://soylentnews.org/article.pl?sid=26/07/22/0025243&from=rss)
 * [2026-07-22, 06:57:00](https://soylentnews.org/article.pl?sid=26/07/21/069235&from=rss) - [How a Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist](https://soylentnews.org/article.pl?sid=26/07/21/069235&from=rss)
 * [2026-07-22, 02:12:00](https://soylentnews.org/article.pl?sid=26/07/21/065210&from=rss) - [Doctors Document Rare Case of Dropped Head Syndrome Caused by Drug Use](https://soylentnews.org/article.pl?sid=26/07/21/065210&from=rss)
 * [2026-07-21, 21:24:00](https://soylentnews.org/article.pl?sid=26/07/21/0559241&from=rss) - [The Shocking Secrets of Madison Square Garden’s Surveillance Machine](https://soylentnews.org/article.pl?sid=26/07/21/0559241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-13, 02:27:00](https://soylentnews.org/article.pl?sid=26/07/11/1848242&from=rss) - [Higher Blood Glucose Levels Linked to Faster Brain Aging](https://soylentnews.org/article.pl?sid=26/07/11/1848242&from=rss)
 * [2026-07-12, 21:45:00](https://soylentnews.org/article.pl?sid=26/07/11/1846204&from=rss) - [Volkswagen Sales Plunge as German Automaker Lays Out Plan to Slash Number of Brands](https://soylentnews.org/article.pl?sid=26/07/11/1846204&from=rss)
 * [2026-07-12, 16:57:00](https://soylentnews.org/article.pl?sid=26/07/11/1844243&from=rss) - [Quantum Mechanics Surprisingly Based on Real Numbers](https://soylentnews.org/article.pl?sid=26/07/11/1844243&from=rss)
-* [2026-07-12, 12:10:00](https://soylentnews.org/article.pl?sid=26/07/11/0144241&from=rss) - [New Dental Robot Attaches to Patient's Teeth for Drilling](https://soylentnews.org/article.pl?sid=26/07/11/0144241&from=rss)
 
 ## [Archives](archives/index.md)
 
