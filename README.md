@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-23, 11:20:00](https://soylentnews.org/article.pl?sid=26/07/23/023217&from=rss) - [Sweet! Sugar Found in Raspberries Was Discovered Near the Milky Way's Center](https://soylentnews.org/article.pl?sid=26/07/23/023217&from=rss)
 * [2026-07-23, 06:38:00](https://soylentnews.org/article.pl?sid=26/07/22/0039239&from=rss) - [Zilog Z80 Turns 50 as an Open-Source Replacement Heads to Drop-in DIP40 Silicon](https://soylentnews.org/article.pl?sid=26/07/22/0039239&from=rss)
 * [2026-07-23, 01:56:00](https://soylentnews.org/article.pl?sid=26/07/21/2227215&from=rss) - [Open Source Misses the Point and Cannot Save Us](https://soylentnews.org/article.pl?sid=26/07/21/2227215&from=rss)
 * [2026-07-22, 21:14:00](https://soylentnews.org/article.pl?sid=26/07/21/2225209&from=rss) - [Five Tech Giants are Hiding $1.65tn in AI Debt, Using the Trick that Toppled Enron](https://soylentnews.org/article.pl?sid=26/07/21/2225209&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-14, 06:45:00](https://soylentnews.org/article.pl?sid=26/07/12/2137226&from=rss) - [Utility Companies Want To Take Control Of Your Home's Smart Thermostat](https://soylentnews.org/article.pl?sid=26/07/12/2137226&from=rss)
 * [2026-07-14, 02:00:00](https://soylentnews.org/article.pl?sid=26/07/12/2132224&from=rss) - [New Horizons Pluto Probe Just Woke Itself Up After 321 Days Of Hibernation](https://soylentnews.org/article.pl?sid=26/07/12/2132224&from=rss)
 * [2026-07-13, 21:22:00](https://soylentnews.org/article.pl?sid=26/07/12/1514220&from=rss) - [OpenAI Job Listing Suggests ChatGPT Could Someday Replace Junior Analysts at Goldman Sachs](https://soylentnews.org/article.pl?sid=26/07/12/1514220&from=rss)
-* [2026-07-13, 16:40:00](https://soylentnews.org/article.pl?sid=26/07/12/1511228&from=rss) - [China Recovered its First Reusable Rocket and Showed a New Way to Do It](https://soylentnews.org/article.pl?sid=26/07/12/1511228&from=rss)
 
 ## [Archives](archives/index.md)
 
