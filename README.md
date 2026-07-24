@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-24, 01:43:00](https://soylentnews.org/article.pl?sid=26/07/23/0234212&from=rss) - [Former OpenAI CTO Does What Altman Won't: Releases a Frontier AI Model That's Actually Open](https://soylentnews.org/article.pl?sid=26/07/23/0234212&from=rss)
 * [2026-07-23, 20:55:00](https://soylentnews.org/article.pl?sid=26/07/23/0228206&from=rss) - [NASA's Artemis III Will Need Three Rockets to Do the Job Apollo Did With One](https://soylentnews.org/article.pl?sid=26/07/23/0228206&from=rss)
 * [2026-07-23, 16:08:00](https://soylentnews.org/article.pl?sid=26/07/23/029223&from=rss) - [Could China and Russia Really Destroy Starlink?](https://soylentnews.org/article.pl?sid=26/07/23/029223&from=rss)
 * [2026-07-23, 11:20:00](https://soylentnews.org/article.pl?sid=26/07/23/023217&from=rss) - [Sweet! Sugar Found in Raspberries Was Discovered Near the Milky Way's Center](https://soylentnews.org/article.pl?sid=26/07/23/023217&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-14, 21:02:00](https://soylentnews.org/article.pl?sid=26/07/12/2153233&from=rss) - [This UK Satellite's Thermal Camera Raises Major Privacy Concerns](https://soylentnews.org/article.pl?sid=26/07/12/2153233&from=rss)
 * [2026-07-14, 16:06:00](https://soylentnews.org/article.pl?sid=26/07/12/2149242&from=rss) - [US Weighs Removing Steering Wheel Requirement For Driverless Cars](https://soylentnews.org/article.pl?sid=26/07/12/2149242&from=rss)
 * [2026-07-14, 11:22:00](https://soylentnews.org/article.pl?sid=26/07/12/2143209&from=rss) - [Scientist Models Way To Make Sure No One's Violating The Ban On Nuclear Weapons In Space](https://soylentnews.org/article.pl?sid=26/07/12/2143209&from=rss)
-* [2026-07-14, 06:45:00](https://soylentnews.org/article.pl?sid=26/07/12/2137226&from=rss) - [Utility Companies Want To Take Control Of Your Home's Smart Thermostat](https://soylentnews.org/article.pl?sid=26/07/12/2137226&from=rss)
 
 ## [Archives](archives/index.md)
 
