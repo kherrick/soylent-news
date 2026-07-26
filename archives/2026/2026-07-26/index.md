@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 20:06:00](https://soylentnews.org/article.pl?sid=26/07/26/0337236&from=rss) - [India's First Privately Developed Rocket Reaches Orbit on Dramatic Debut Launch](https://soylentnews.org/article.pl?sid=26/07/26/0337236&from=rss)
 * [2026-07-26, 15:19:00](https://soylentnews.org/article.pl?sid=26/07/25/2052238&from=rss) - [The ACLU is Arming Lawyers to Expose State Surveillance Secrets](https://soylentnews.org/article.pl?sid=26/07/25/2052238&from=rss)
 * [2026-07-26, 10:35:00](https://soylentnews.org/article.pl?sid=26/07/25/2048246&from=rss) - [Your Cookware Got Worse on Purpose](https://soylentnews.org/article.pl?sid=26/07/25/2048246&from=rss)
 * [2026-07-26, 05:43:00](https://soylentnews.org/article.pl?sid=26/07/25/2045217&from=rss) - [Astronomers Found the First Atmosphere on a Planet in Another Star's Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&from=rss)
