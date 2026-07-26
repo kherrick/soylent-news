@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-26, 01:00:00](https://soylentnews.org/article.pl?sid=26/07/25/2042256&from=rss) - [MIT to Become Hotbed of AI Video Surveillance](https://soylentnews.org/article.pl?sid=26/07/25/2042256&from=rss)
 * [2026-07-25, 20:17:00](https://soylentnews.org/article.pl?sid=26/07/25/2039220&from=rss) - [Ben Thompson is Wrong: US [AI] Frontier Labs are Right to be Panicking](https://soylentnews.org/article.pl?sid=26/07/25/2039220&from=rss)
 * [2026-07-25, 15:34:00](https://soylentnews.org/article.pl?sid=26/07/24/1452216&from=rss) - [There Isn't a Single Consumer Wi-Fi Router That is 100% American-Made](https://soylentnews.org/article.pl?sid=26/07/24/1452216&from=rss)
 * [2026-07-25, 10:50:00](https://soylentnews.org/article.pl?sid=26/07/24/1448254&from=rss) - [Alan Turing's Top Secret DIY Project](https://soylentnews.org/article.pl?sid=26/07/24/1448254&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-16, 22:36:00](https://soylentnews.org/article.pl?sid=26/07/15/1458200&from=rss) - [New York is the First US State to Ban Smart Glasses in All its Courthouses](https://soylentnews.org/article.pl?sid=26/07/15/1458200&from=rss)
 * [2026-07-16, 17:51:00](https://soylentnews.org/article.pl?sid=26/07/15/1451242&from=rss) - [FreeBSD 16 Retires the Last of its GPL Code From its Base System](https://soylentnews.org/article.pl?sid=26/07/15/1451242&from=rss)
 * [2026-07-16, 11:07:00](https://soylentnews.org/article.pl?sid=26/07/15/0038203&from=rss) - [Meta Data Center Water Discharges Suspended After Contaminating The City's Reclamation Water Supply ](https://soylentnews.org/article.pl?sid=26/07/15/0038203&from=rss)
-* [2026-07-16, 06:15:00](https://soylentnews.org/article.pl?sid=26/07/15/0036236&from=rss) - [RAMpocalyse Pricing Prompts Maker To Construct His Own Memory Using Ancient Apollo-Era Tech](https://soylentnews.org/article.pl?sid=26/07/15/0036236&from=rss)
 
 ## [Archives](archives/index.md)
 
