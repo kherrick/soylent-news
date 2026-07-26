@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-26, 15:19:00](https://soylentnews.org/article.pl?sid=26/07/25/2052238&from=rss) - [The ACLU is Arming Lawyers to Expose State Surveillance Secrets](https://soylentnews.org/article.pl?sid=26/07/25/2052238&from=rss)
 * [2026-07-26, 10:35:00](https://soylentnews.org/article.pl?sid=26/07/25/2048246&from=rss) - [Your Cookware Got Worse on Purpose](https://soylentnews.org/article.pl?sid=26/07/25/2048246&from=rss)
 * [2026-07-26, 05:43:00](https://soylentnews.org/article.pl?sid=26/07/25/2045217&from=rss) - [Astronomers Found the First Atmosphere on a Planet in Another Star's Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&from=rss)
 * [2026-07-26, 01:00:00](https://soylentnews.org/article.pl?sid=26/07/25/2042256&from=rss) - [MIT to Become Hotbed of AI Video Surveillance](https://soylentnews.org/article.pl?sid=26/07/25/2042256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-17, 12:49:00](https://soylentnews.org/article.pl?sid=26/07/16/0231216&from=rss) - [Microsoft's Secure Boot Has Been Broken for a Decade and No One Noticed Until Now](https://soylentnews.org/article.pl?sid=26/07/16/0231216&from=rss)
 * [2026-07-17, 08:07:00](https://soylentnews.org/article.pl?sid=26/07/16/0229204&from=rss) - [Irish Datacenters Now Guzzle 23% of the Country's Electricity](https://soylentnews.org/article.pl?sid=26/07/16/0229204&from=rss)
 * [2026-07-17, 03:23:00](https://soylentnews.org/article.pl?sid=26/07/16/0225242&from=rss) - [Miami-Based City Labs Achieves a First for Commercial Nuclear Power in Space](https://soylentnews.org/article.pl?sid=26/07/16/0225242&from=rss)
-* [2026-07-16, 22:36:00](https://soylentnews.org/article.pl?sid=26/07/15/1458200&from=rss) - [New York is the First US State to Ban Smart Glasses in All its Courthouses](https://soylentnews.org/article.pl?sid=26/07/15/1458200&from=rss)
 
 ## [Archives](archives/index.md)
 
