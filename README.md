@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-27, 10:23:00](https://soylentnews.org/article.pl?sid=26/07/26/1920201&from=rss) - [Google Just Had Its First Negative Cash Flow Quarter Due To Massive AI Spending](https://soylentnews.org/article.pl?sid=26/07/26/1920201&from=rss)
 * [2026-07-27, 05:38:00](https://soylentnews.org/article.pl?sid=26/07/26/041247&from=rss) - [Orange-Lipped Monkey That Roars and Snorts Deep in Congo Rainforest is New Species to Science](https://soylentnews.org/article.pl?sid=26/07/26/041247&from=rss)
 * [2026-07-27, 00:52:00](https://soylentnews.org/article.pl?sid=26/07/26/0345250&from=rss) - [GitHub Slashes Public Bug Bounty Payouts as AI Report Flood Buries its Security Team](https://soylentnews.org/article.pl?sid=26/07/26/0345250&from=rss)
 * [2026-07-26, 20:06:00](https://soylentnews.org/article.pl?sid=26/07/26/0337236&from=rss) - [India's First Privately Developed Rocket Reaches Orbit on Dramatic Debut Launch](https://soylentnews.org/article.pl?sid=26/07/26/0337236&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-18, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/17/1454240&from=rss) - [Hundreds Rally at Bethesda HQ to Protest Xbox Layoffs](https://soylentnews.org/article.pl?sid=26/07/17/1454240&from=rss)
 * [2026-07-18, 03:05:00](https://soylentnews.org/article.pl?sid=26/07/17/0436211&from=rss) - [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't](https://soylentnews.org/article.pl?sid=26/07/17/0436211&from=rss)
 * [2026-07-17, 22:18:00](https://soylentnews.org/article.pl?sid=26/07/17/0430256&from=rss) - [Mathematical Explanation for Accelerated Universe Expansion That Doesn't Require Dark Energy](https://soylentnews.org/article.pl?sid=26/07/17/0430256&from=rss)
-* [2026-07-17, 17:33:00](https://soylentnews.org/article.pl?sid=26/07/16/0415252&from=rss) - [Why the Human Body Has So Many Design Flaws](https://soylentnews.org/article.pl?sid=26/07/16/0415252&from=rss)
 
 ## [Archives](archives/index.md)
 
