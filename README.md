@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-28, 14:52:00](https://soylentnews.org/article.pl?sid=26/07/27/0440212&from=rss) - [The Fight Against AI Data Centers is Important – but It's Just a Starting Point](https://soylentnews.org/article.pl?sid=26/07/27/0440212&from=rss)
 * [2026-07-28, 10:05:00](https://soylentnews.org/article.pl?sid=26/07/27/0428208&from=rss) - [South Korea Making its Own Security-Centric AI Model](https://soylentnews.org/article.pl?sid=26/07/27/0428208&from=rss)
 * [2026-07-28, 05:24:00](https://soylentnews.org/article.pl?sid=26/07/26/2115230&from=rss) - [If You're Reading This, You're Probably an AI Bot](https://soylentnews.org/article.pl?sid=26/07/26/2115230&from=rss)
 * [2026-07-28, 00:38:00](https://soylentnews.org/article.pl?sid=26/07/26/1939241&from=rss) - [China Advances Plans For National Single-Stack IPv6 Network, And Its Surveillance-Friendly Version](https://soylentnews.org/article.pl?sid=26/07/26/1939241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-19, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/19/034232&from=rss) - [Finland is Preparing to Hide an Entire City Underground](https://soylentnews.org/article.pl?sid=26/07/19/034232&from=rss)
 * [2026-07-19, 07:40:00](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss) - [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss)
 * [2026-07-19, 02:53:00](https://soylentnews.org/article.pl?sid=26/07/17/1524222&from=rss) - [Experts May Have Drastically Underestimated the Lifespan of EV Batteries](https://soylentnews.org/article.pl?sid=26/07/17/1524222&from=rss)
-* [2026-07-18, 22:03:00](https://soylentnews.org/article.pl?sid=26/07/17/1520210&from=rss) - [CXMT's DDR5 RAM Isn't As Performant Or As Consistent As SK Hynix Dies, Early Testing Shows](https://soylentnews.org/article.pl?sid=26/07/17/1520210&from=rss)
 
 ## [Archives](archives/index.md)
 
