@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-28, 19:34:00](https://soylentnews.org/article.pl?sid=26/07/27/0445232&from=rss) - [Google Breaks Alibaba’s Record For Europe’s Largest DMA Fine](https://soylentnews.org/article.pl?sid=26/07/27/0445232&from=rss)
 * [2026-07-28, 14:52:00](https://soylentnews.org/article.pl?sid=26/07/27/0440212&from=rss) - [The Fight Against AI Data Centers is Important – but It's Just a Starting Point](https://soylentnews.org/article.pl?sid=26/07/27/0440212&from=rss)
 * [2026-07-28, 10:05:00](https://soylentnews.org/article.pl?sid=26/07/27/0428208&from=rss) - [South Korea Making its Own Security-Centric AI Model](https://soylentnews.org/article.pl?sid=26/07/27/0428208&from=rss)
 * [2026-07-28, 05:24:00](https://soylentnews.org/article.pl?sid=26/07/26/2115230&from=rss) - [If You're Reading This, You're Probably an AI Bot](https://soylentnews.org/article.pl?sid=26/07/26/2115230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-19, 17:08:00](https://soylentnews.org/article.pl?sid=26/07/19/036256&from=rss) - [AI Mania is Eviscerating Global Decision-Making](https://soylentnews.org/article.pl?sid=26/07/19/036256&from=rss)
 * [2026-07-19, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/19/034232&from=rss) - [Finland is Preparing to Hide an Entire City Underground](https://soylentnews.org/article.pl?sid=26/07/19/034232&from=rss)
 * [2026-07-19, 07:40:00](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss) - [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss)
-* [2026-07-19, 02:53:00](https://soylentnews.org/article.pl?sid=26/07/17/1524222&from=rss) - [Experts May Have Drastically Underestimated the Lifespan of EV Batteries](https://soylentnews.org/article.pl?sid=26/07/17/1524222&from=rss)
 
 ## [Archives](archives/index.md)
 
