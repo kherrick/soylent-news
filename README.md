@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-30, 00:15:00](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss) - [Librarians Are Hosting Viral 'Avoiding AI' Workshops for People Who Are Fed Up With Big Tech](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss)
 * [2026-07-29, 19:29:00](https://soylentnews.org/article.pl?sid=26/07/29/0621219&from=rss) - [Your Shared Claude Chats Were Being Quietly Published on Google](https://soylentnews.org/article.pl?sid=26/07/29/0621219&from=rss)
 * [2026-07-29, 14:36:00](https://soylentnews.org/article.pl?sid=26/07/29/0617214&from=rss) - [Microsoft responds to LG monitors installing McAfee ads on Windows](https://soylentnews.org/article.pl?sid=26/07/29/0617214&from=rss)
 * [2026-07-29, 09:51:00](https://soylentnews.org/article.pl?sid=26/07/28/1936202&from=rss) - [Sony's Decision to Ditch Discs Was Practically Inevitable, Data Shows](https://soylentnews.org/article.pl?sid=26/07/28/1936202&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-20, 22:27:00](https://soylentnews.org/article.pl?sid=26/07/20/040231&from=rss) - [A Moment Of Silence, Please, For The Final Release Of Debian On X86-32](https://soylentnews.org/article.pl?sid=26/07/20/040231&from=rss)
 * [2026-07-20, 17:43:00](https://soylentnews.org/article.pl?sid=26/07/20/0344230&from=rss) - [Clever Hacker Fits 537,000 Domains in a Tiny $5 ESP32 Ad-Blocking Dongle](https://soylentnews.org/article.pl?sid=26/07/20/0344230&from=rss)
 * [2026-07-20, 12:55:00](https://soylentnews.org/article.pl?sid=26/07/20/0338215&from=rss) - [Great Ape Laughter Reveals a Hidden Origin of Human Speech](https://soylentnews.org/article.pl?sid=26/07/20/0338215&from=rss)
-* [2026-07-20, 08:12:00](https://soylentnews.org/article.pl?sid=26/07/20/0325216&from=rss) - [Fake Go DNS Scanner Spread Malware Through Over 200 GitHub Repos](https://soylentnews.org/article.pl?sid=26/07/20/0325216&from=rss)
 
 ## [Archives](archives/index.md)
 
