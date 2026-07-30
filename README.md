@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-30, 09:48:00](https://soylentnews.org/article.pl?sid=26/07/29/0716213&from=rss) - [Covertly Transmitting Data From Air-Gapped Systems Via Video Cable Emissions](https://soylentnews.org/article.pl?sid=26/07/29/0716213&from=rss)
 * [2026-07-30, 05:03:00](https://soylentnews.org/article.pl?sid=26/07/29/0711249&from=rss) - [Signals Are Grim for Jodrell Bank Observatory After UK Science Funding Decision](https://soylentnews.org/article.pl?sid=26/07/29/0711249&from=rss)
 * [2026-07-30, 00:15:00](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss) - [Librarians Are Hosting Viral 'Avoiding AI' Workshops for People Who Are Fed Up With Big Tech](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss)
 * [2026-07-29, 19:29:00](https://soylentnews.org/article.pl?sid=26/07/29/0621219&from=rss) - [Your Shared Claude Chats Were Being Quietly Published on Google](https://soylentnews.org/article.pl?sid=26/07/29/0621219&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-21, 07:59:00](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss) - [Eating Chili Peppers May Raise the Risk of One Deadly Cancer](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss)
 * [2026-07-21, 03:15:00](https://soylentnews.org/article.pl?sid=26/07/20/0413210&from=rss) - [US Sanctions First VPN In Crackdown On Ransomware Criminals](https://soylentnews.org/article.pl?sid=26/07/20/0413210&from=rss)
 * [2026-07-20, 22:27:00](https://soylentnews.org/article.pl?sid=26/07/20/040231&from=rss) - [A Moment Of Silence, Please, For The Final Release Of Debian On X86-32](https://soylentnews.org/article.pl?sid=26/07/20/040231&from=rss)
-* [2026-07-20, 17:43:00](https://soylentnews.org/article.pl?sid=26/07/20/0344230&from=rss) - [Clever Hacker Fits 537,000 Domains in a Tiny $5 ESP32 Ad-Blocking Dongle](https://soylentnews.org/article.pl?sid=26/07/20/0344230&from=rss)
 
 ## [Archives](archives/index.md)
 
