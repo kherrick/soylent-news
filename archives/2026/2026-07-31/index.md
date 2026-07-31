@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 19:09:00](https://soylentnews.org/article.pl?sid=26/07/30/2220248&from=rss) - [Can Your Phone Give You Tourette's Syndrome?](https://soylentnews.org/article.pl?sid=26/07/30/2220248&from=rss)
 * [2026-07-31, 14:12:00](https://soylentnews.org/article.pl?sid=26/07/30/2224202&from=rss) - [OpenAI Says the Rogue Agent That Hacked Hugging Face Also Breached Other Services](https://soylentnews.org/article.pl?sid=26/07/30/2224202&from=rss)
 * [2026-07-31, 09:33:00](https://soylentnews.org/article.pl?sid=26/07/30/1215205&from=rss) - [AI Insiders Ask Uncle Sam to Help Slow the Race They Started](https://soylentnews.org/article.pl?sid=26/07/30/1215205&from=rss)
 * [2026-07-31, 04:45:00](https://soylentnews.org/article.pl?sid=26/07/30/1212210&from=rss) - [Impostor Chinese Models Pretend They're Claude](https://soylentnews.org/article.pl?sid=26/07/30/1212210&from=rss)
