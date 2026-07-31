@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-07-31](index.md)
+
+* [2026-07-31, 00:00:00](https://soylentnews.org/article.pl?sid=26/07/30/0221244&from=rss) - [New AMD Linux Patch Boosts Low-End Gaming Performance on Steam Deck](https://soylentnews.org/article.pl?sid=26/07/30/0221244&from=rss)

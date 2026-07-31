@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-31, 00:00:00](https://soylentnews.org/article.pl?sid=26/07/30/0221244&from=rss) - [New AMD Linux Patch Boosts Low-End Gaming Performance on Steam Deck](https://soylentnews.org/article.pl?sid=26/07/30/0221244&from=rss)
 * [2026-07-30, 19:19:00](https://soylentnews.org/article.pl?sid=26/07/29/120234&from=rss) - [Apps Targeted at US Troops Contain Chinese and Russian Code](https://soylentnews.org/article.pl?sid=26/07/29/120234&from=rss)
 * [2026-07-30, 14:30:00](https://soylentnews.org/article.pl?sid=26/07/29/1151240&from=rss) - [On Flock License Plate Tracking Cameras](https://soylentnews.org/article.pl?sid=26/07/29/1151240&from=rss)
 * [2026-07-30, 09:48:00](https://soylentnews.org/article.pl?sid=26/07/29/0716213&from=rss) - [Covertly Transmitting Data From Air-Gapped Systems Via Video Cable Emissions](https://soylentnews.org/article.pl?sid=26/07/29/0716213&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-21, 21:24:00](https://soylentnews.org/article.pl?sid=26/07/21/0559241&from=rss) - [The Shocking Secrets of Madison Square Garden’s Surveillance Machine](https://soylentnews.org/article.pl?sid=26/07/21/0559241&from=rss)
 * [2026-07-21, 16:41:00](https://soylentnews.org/article.pl?sid=26/07/21/0553204&from=rss) - [Airbus Migrating 70 Critical Apps From AWS To France's Scaleway Amid Digital Sovereignty Push](https://soylentnews.org/article.pl?sid=26/07/21/0553204&from=rss)
 * [2026-07-21, 11:45:00](https://soylentnews.org/article.pl?sid=26/07/21/0550247&from=rss) - [Deep-Sea Life Has a Secret Food Source Scientists Never Expected](https://soylentnews.org/article.pl?sid=26/07/21/0550247&from=rss)
-* [2026-07-21, 07:59:00](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss) - [Eating Chili Peppers May Raise the Risk of One Deadly Cancer](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss)
 
 ## [Archives](archives/index.md)
 
