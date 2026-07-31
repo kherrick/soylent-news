@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-31, 09:33:00](https://soylentnews.org/article.pl?sid=26/07/30/1215205&from=rss) - [AI Insiders Ask Uncle Sam to Help Slow the Race They Started](https://soylentnews.org/article.pl?sid=26/07/30/1215205&from=rss)
 * [2026-07-31, 04:45:00](https://soylentnews.org/article.pl?sid=26/07/30/1212210&from=rss) - [Impostor Chinese Models Pretend They're Claude](https://soylentnews.org/article.pl?sid=26/07/30/1212210&from=rss)
 * [2026-07-31, 00:00:00](https://soylentnews.org/article.pl?sid=26/07/30/0221244&from=rss) - [New AMD Linux Patch Boosts Low-End Gaming Performance on Steam Deck](https://soylentnews.org/article.pl?sid=26/07/30/0221244&from=rss)
 * [2026-07-30, 19:19:00](https://soylentnews.org/article.pl?sid=26/07/29/120234&from=rss) - [Apps Targeted at US Troops Contain Chinese and Russian Code](https://soylentnews.org/article.pl?sid=26/07/29/120234&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-22, 06:57:00](https://soylentnews.org/article.pl?sid=26/07/21/069235&from=rss) - [How a Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist](https://soylentnews.org/article.pl?sid=26/07/21/069235&from=rss)
 * [2026-07-22, 02:12:00](https://soylentnews.org/article.pl?sid=26/07/21/065210&from=rss) - [Doctors Document Rare Case of Dropped Head Syndrome Caused by Drug Use](https://soylentnews.org/article.pl?sid=26/07/21/065210&from=rss)
 * [2026-07-21, 21:24:00](https://soylentnews.org/article.pl?sid=26/07/21/0559241&from=rss) - [The Shocking Secrets of Madison Square Garden’s Surveillance Machine](https://soylentnews.org/article.pl?sid=26/07/21/0559241&from=rss)
-* [2026-07-21, 16:41:00](https://soylentnews.org/article.pl?sid=26/07/21/0553204&from=rss) - [Airbus Migrating 70 Critical Apps From AWS To France's Scaleway Amid Digital Sovereignty Push](https://soylentnews.org/article.pl?sid=26/07/21/0553204&from=rss)
 
 ## [Archives](archives/index.md)
 
