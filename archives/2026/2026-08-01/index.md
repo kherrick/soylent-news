@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 23:28:00](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss) - [Open Source Project Fools AI Scrapers With Poisoned Font](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss)
 * [2026-08-01, 18:43:00](https://soylentnews.org/article.pl?sid=26/07/31/1425202&from=rss) - [The Metric System Encodes 18th Century Lab Equipment](https://soylentnews.org/article.pl?sid=26/07/31/1425202&from=rss)
 * [2026-08-01, 14:03:00](https://soylentnews.org/article.pl?sid=26/07/31/1420234&from=rss) - [NHS England Rapped Over Inaccurate Palantir Patient Data Disclosure](https://soylentnews.org/article.pl?sid=26/07/31/1420234&from=rss)
 * [2026-08-01, 09:16:00](https://soylentnews.org/article.pl?sid=26/07/31/1417222&from=rss) - [LinkedIn Realizes its Users Have Been Bathing in AI Slop, Makes Changes](https://soylentnews.org/article.pl?sid=26/07/31/1417222&from=rss)
