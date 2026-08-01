@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-07-31, 23:48:00](https://soylentnews.org/article.pl?sid=26/07/30/2234251&from=rss) - [Who Wins and Who Loses After US Bans Foreign Robots?](https://soylentnews.org/article.pl?sid=26/07/30/2234251&from=rss)
 * [2026-07-31, 19:09:00](https://soylentnews.org/article.pl?sid=26/07/30/2220248&from=rss) - [Can Your Phone Give You Tourette's Syndrome?](https://soylentnews.org/article.pl?sid=26/07/30/2220248&from=rss)
 * [2026-07-31, 14:12:00](https://soylentnews.org/article.pl?sid=26/07/30/2224202&from=rss) - [OpenAI Says the Rogue Agent That Hacked Hugging Face Also Breached Other Services](https://soylentnews.org/article.pl?sid=26/07/30/2224202&from=rss)
 * [2026-07-31, 09:33:00](https://soylentnews.org/article.pl?sid=26/07/30/1215205&from=rss) - [AI Insiders Ask Uncle Sam to Help Slow the Race They Started](https://soylentnews.org/article.pl?sid=26/07/30/1215205&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-22, 16:23:00](https://soylentnews.org/article.pl?sid=26/07/21/2223243&from=rss) - [German Startup Qurie Bags Funding for Molecular Heat Pump](https://soylentnews.org/article.pl?sid=26/07/21/2223243&from=rss)
 * [2026-07-22, 13:41:00](https://soylentnews.org/article.pl?sid=26/07/21/2222218&from=rss) - [My Hunt for the Original McDonald’s French-Fry Recipe](https://soylentnews.org/article.pl?sid=26/07/21/2222218&from=rss)
 * [2026-07-22, 11:36:00](https://soylentnews.org/article.pl?sid=26/07/22/0025243&from=rss) - [The 2024 New York City Meteorite Contains Amino Acids](https://soylentnews.org/article.pl?sid=26/07/22/0025243&from=rss)
-* [2026-07-22, 06:57:00](https://soylentnews.org/article.pl?sid=26/07/21/069235&from=rss) - [How a Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist](https://soylentnews.org/article.pl?sid=26/07/21/069235&from=rss)
 
 ## [Archives](archives/index.md)
 
