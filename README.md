@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-01, 09:16:00](https://soylentnews.org/article.pl?sid=26/07/31/1417222&from=rss) - [LinkedIn Realizes its Users Have Been Bathing in AI Slop, Makes Changes](https://soylentnews.org/article.pl?sid=26/07/31/1417222&from=rss)
 * [2026-08-01, 04:34:00](https://soylentnews.org/article.pl?sid=26/07/31/0929247&from=rss) - [Aus Car Makers Face Data Security Probe](https://soylentnews.org/article.pl?sid=26/07/31/0929247&from=rss)
 * [2026-07-31, 23:48:00](https://soylentnews.org/article.pl?sid=26/07/30/2234251&from=rss) - [Who Wins and Who Loses After US Bans Foreign Robots?](https://soylentnews.org/article.pl?sid=26/07/30/2234251&from=rss)
 * [2026-07-31, 19:09:00](https://soylentnews.org/article.pl?sid=26/07/30/2220248&from=rss) - [Can Your Phone Give You Tourette's Syndrome?](https://soylentnews.org/article.pl?sid=26/07/30/2220248&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-23, 01:56:00](https://soylentnews.org/article.pl?sid=26/07/21/2227215&from=rss) - [Open Source Misses the Point and Cannot Save Us](https://soylentnews.org/article.pl?sid=26/07/21/2227215&from=rss)
 * [2026-07-22, 21:14:00](https://soylentnews.org/article.pl?sid=26/07/21/2225209&from=rss) - [Five Tech Giants are Hiding $1.65tn in AI Debt, Using the Trick that Toppled Enron](https://soylentnews.org/article.pl?sid=26/07/21/2225209&from=rss)
 * [2026-07-22, 16:23:00](https://soylentnews.org/article.pl?sid=26/07/21/2223243&from=rss) - [German Startup Qurie Bags Funding for Molecular Heat Pump](https://soylentnews.org/article.pl?sid=26/07/21/2223243&from=rss)
-* [2026-07-22, 13:41:00](https://soylentnews.org/article.pl?sid=26/07/21/2222218&from=rss) - [My Hunt for the Original McDonald’s French-Fry Recipe](https://soylentnews.org/article.pl?sid=26/07/21/2222218&from=rss)
 
 ## [Archives](archives/index.md)
 
