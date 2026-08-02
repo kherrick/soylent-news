@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-02, 04:15:00](https://soylentnews.org/article.pl?sid=26/08/02/085258&from=rss) - [China Inc. Is Winning the AI Race](https://soylentnews.org/article.pl?sid=26/08/02/085258&from=rss)
 * [2026-08-01, 23:28:00](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss) - [Open Source Project Fools AI Scrapers With Poisoned Font](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss)
 * [2026-08-01, 18:43:00](https://soylentnews.org/article.pl?sid=26/07/31/1425202&from=rss) - [The Metric System Encodes 18th Century Lab Equipment](https://soylentnews.org/article.pl?sid=26/07/31/1425202&from=rss)
 * [2026-08-01, 14:03:00](https://soylentnews.org/article.pl?sid=26/07/31/1420234&from=rss) - [NHS England Rapped Over Inaccurate Palantir Patient Data Disclosure](https://soylentnews.org/article.pl?sid=26/07/31/1420234&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-23, 20:55:00](https://soylentnews.org/article.pl?sid=26/07/23/0228206&from=rss) - [NASA's Artemis III Will Need Three Rockets to Do the Job Apollo Did With One](https://soylentnews.org/article.pl?sid=26/07/23/0228206&from=rss)
 * [2026-07-23, 16:08:00](https://soylentnews.org/article.pl?sid=26/07/23/029223&from=rss) - [Could China and Russia Really Destroy Starlink?](https://soylentnews.org/article.pl?sid=26/07/23/029223&from=rss)
 * [2026-07-23, 11:20:00](https://soylentnews.org/article.pl?sid=26/07/23/023217&from=rss) - [Sweet! Sugar Found in Raspberries Was Discovered Near the Milky Way's Center](https://soylentnews.org/article.pl?sid=26/07/23/023217&from=rss)
-* [2026-07-23, 06:38:00](https://soylentnews.org/article.pl?sid=26/07/22/0039239&from=rss) - [Zilog Z80 Turns 50 as an Open-Source Replacement Heads to Drop-in DIP40 Silicon](https://soylentnews.org/article.pl?sid=26/07/22/0039239&from=rss)
 
 ## [Archives](archives/index.md)
 
