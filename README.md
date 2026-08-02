@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-02, 13:40:00](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss) - [Space Force-Backed Mission Does Its Best Impression Of Top Gun In Orbit](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss)
 * [2026-08-02, 08:56:00](https://soylentnews.org/article.pl?sid=26/08/02/087237&from=rss) - [Microsoft Vows To Make Windows 11 Fly On 8GB RAM Amid Memory Shortage](https://soylentnews.org/article.pl?sid=26/08/02/087237&from=rss)
 * [2026-08-02, 04:15:00](https://soylentnews.org/article.pl?sid=26/08/02/085258&from=rss) - [China Inc. Is Winning the AI Race](https://soylentnews.org/article.pl?sid=26/08/02/085258&from=rss)
 * [2026-08-01, 23:28:00](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss) - [Open Source Project Fools AI Scrapers With Poisoned Font](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-24, 06:26:00](https://soylentnews.org/article.pl?sid=26/07/23/0249220&from=rss) - [I Could've Rickrolled the Entire FIFA World Cup and All I Needed Was My ID](https://soylentnews.org/article.pl?sid=26/07/23/0249220&from=rss)
 * [2026-07-24, 01:43:00](https://soylentnews.org/article.pl?sid=26/07/23/0234212&from=rss) - [Former OpenAI CTO Does What Altman Won't: Releases a Frontier AI Model That's Actually Open](https://soylentnews.org/article.pl?sid=26/07/23/0234212&from=rss)
 * [2026-07-23, 20:55:00](https://soylentnews.org/article.pl?sid=26/07/23/0228206&from=rss) - [NASA's Artemis III Will Need Three Rockets to Do the Job Apollo Did With One](https://soylentnews.org/article.pl?sid=26/07/23/0228206&from=rss)
-* [2026-07-23, 16:08:00](https://soylentnews.org/article.pl?sid=26/07/23/029223&from=rss) - [Could China and Russia Really Destroy Starlink?](https://soylentnews.org/article.pl?sid=26/07/23/029223&from=rss)
 
 ## [Archives](archives/index.md)
 
