@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-03, 09:27:00](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss) - [The EU's Right to Repair Directive Has Kicked in](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss)
 * [2026-08-03, 04:42:00](https://soylentnews.org/article.pl?sid=26/08/03/0316232&from=rss) - [Curiosity Rover Spots Field of Giant Honeycomb on Mars – but No Giant Space Bees](https://soylentnews.org/article.pl?sid=26/08/03/0316232&from=rss)
 * [2026-08-02, 23:59:00](https://soylentnews.org/article.pl?sid=26/08/02/2131203&from=rss) - [Americans Give All-Day School Phone Bans a Ringing Endorsement](https://soylentnews.org/article.pl?sid=26/08/02/2131203&from=rss)
 * [2026-08-02, 20:08:00](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss) - [Landmark Solar Farm Forced to Shut Down as Grid Overload Worries Worsen - Too Much Power](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-25, 01:21:00](https://soylentnews.org/article.pl?sid=26/07/24/1423206&from=rss) - [US Blocks SSL Security Certificates for Iran's Fars News Agency](https://soylentnews.org/article.pl?sid=26/07/24/1423206&from=rss)
 * [2026-07-24, 20:37:00](https://soylentnews.org/article.pl?sid=26/07/23/229219&from=rss) - [Former Microsoft AI Leaders Are Spending $1M to Prove AI Can Replace CEOs](https://soylentnews.org/article.pl?sid=26/07/23/229219&from=rss)
 * [2026-07-24, 15:55:00](https://soylentnews.org/article.pl?sid=26/07/23/225237&from=rss) - [Scientists Believed This Near-Earth Object Was an Asteroid for 28 Years. They Were Wrong](https://soylentnews.org/article.pl?sid=26/07/23/225237&from=rss)
-* [2026-07-24, 11:08:00](https://soylentnews.org/article.pl?sid=26/07/23/221216&from=rss) - [I Wanted a Clock That Never Needed Setting. Things Escalated.](https://soylentnews.org/article.pl?sid=26/07/23/221216&from=rss)
 
 ## [Archives](archives/index.md)
 
