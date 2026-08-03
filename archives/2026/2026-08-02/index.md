@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 23:59:00](https://soylentnews.org/article.pl?sid=26/08/02/2131203&from=rss) - [Americans Give All-Day School Phone Bans A Ringing Endorsement](https://soylentnews.org/article.pl?sid=26/08/02/2131203&from=rss)
 * [2026-08-02, 20:08:00](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss) - [Landmark Solar Farm Forced To Shut Down As Grid Overload Worries Worsen - Too Much Power](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss)
 * [2026-08-02, 13:40:00](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss) - [Space Force-Backed Mission Does Its Best Impression Of Top Gun In Orbit](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss)
 * [2026-08-02, 08:56:00](https://soylentnews.org/article.pl?sid=26/08/02/087237&from=rss) - [Microsoft Vows To Make Windows 11 Fly On 8GB RAM Amid Memory Shortage](https://soylentnews.org/article.pl?sid=26/08/02/087237&from=rss)

@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-02, 23:59:00](https://soylentnews.org/article.pl?sid=26/08/02/2131203&from=rss) - [Americans Give All-Day School Phone Bans A Ringing Endorsement](https://soylentnews.org/article.pl?sid=26/08/02/2131203&from=rss)
 * [2026-08-02, 20:08:00](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss) - [Landmark Solar Farm Forced To Shut Down As Grid Overload Worries Worsen - Too Much Power](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss)
 * [2026-08-02, 13:40:00](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss) - [Space Force-Backed Mission Does Its Best Impression Of Top Gun In Orbit](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss)
 * [2026-08-02, 08:56:00](https://soylentnews.org/article.pl?sid=26/08/02/087237&from=rss) - [Microsoft Vows To Make Windows 11 Fly On 8GB RAM Amid Memory Shortage](https://soylentnews.org/article.pl?sid=26/08/02/087237&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-24, 15:55:00](https://soylentnews.org/article.pl?sid=26/07/23/225237&from=rss) - [Scientists Believed This Near-Earth Object Was an Asteroid for 28 Years. They Were Wrong](https://soylentnews.org/article.pl?sid=26/07/23/225237&from=rss)
 * [2026-07-24, 11:08:00](https://soylentnews.org/article.pl?sid=26/07/23/221216&from=rss) - [I Wanted a Clock That Never Needed Setting. Things Escalated.](https://soylentnews.org/article.pl?sid=26/07/23/221216&from=rss)
 * [2026-07-24, 06:26:00](https://soylentnews.org/article.pl?sid=26/07/23/0249220&from=rss) - [I Could've Rickrolled the Entire FIFA World Cup and All I Needed Was My ID](https://soylentnews.org/article.pl?sid=26/07/23/0249220&from=rss)
-* [2026-07-24, 01:43:00](https://soylentnews.org/article.pl?sid=26/07/23/0234212&from=rss) - [Former OpenAI CTO Does What Altman Won't: Releases a Frontier AI Model That's Actually Open](https://soylentnews.org/article.pl?sid=26/07/23/0234212&from=rss)
 
 ## [Archives](archives/index.md)
 
