@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-03](index.md)
+
+* [2026-08-03, 04:42:00](https://soylentnews.org/article.pl?sid=26/08/03/0316232&from=rss) - [Curiosity Rover Spots Field of Giant Honeycomb on Mars – but No Giant Space Bees](https://soylentnews.org/article.pl?sid=26/08/03/0316232&from=rss)
