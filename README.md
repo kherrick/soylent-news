@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-03, 23:33:00](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss) - [Three US States To Deploy 60Mph Drones Armed With Pepper Spray To Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss)
 * [2026-08-03, 18:54:00](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss) - [The US Government Just Banned Roombas](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss)
 * [2026-08-03, 14:10:00](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss) - [Tesla Burns Through a Billion as Musk Bets the Farm on Chips and Bots](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss)
 * [2026-08-03, 09:27:00](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss) - [The EU's Right to Repair Directive Has Kicked in](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-25, 15:34:00](https://soylentnews.org/article.pl?sid=26/07/24/1452216&from=rss) - [There Isn't a Single Consumer Wi-Fi Router That is 100% American-Made](https://soylentnews.org/article.pl?sid=26/07/24/1452216&from=rss)
 * [2026-07-25, 10:50:00](https://soylentnews.org/article.pl?sid=26/07/24/1448254&from=rss) - [Alan Turing's Top Secret DIY Project](https://soylentnews.org/article.pl?sid=26/07/24/1448254&from=rss)
 * [2026-07-25, 06:04:00](https://soylentnews.org/article.pl?sid=26/07/24/1428215&from=rss) - [OpenAI's Rogue Agents are a Wake-up Call to Risks Posed by Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/07/24/1428215&from=rss)
-* [2026-07-25, 01:21:00](https://soylentnews.org/article.pl?sid=26/07/24/1423206&from=rss) - [US Blocks SSL Security Certificates for Iran's Fars News Agency](https://soylentnews.org/article.pl?sid=26/07/24/1423206&from=rss)
 
 ## [Archives](archives/index.md)
 
