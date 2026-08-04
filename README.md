@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2026-08-03, 23:33:00](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss) - [Three US States To Deploy 60Mph Drones Armed With Pepper Spray To Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss)
+* [2026-08-03, 23:33:00](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss) - [Three US States to Deploy 60 Mph Drones Armed With Pepper Spray to Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss)
 * [2026-08-03, 18:54:00](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss) - [The US Government Just Banned Roombas](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss)
 * [2026-08-03, 14:10:00](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss) - [Tesla Burns Through a Billion as Musk Bets the Farm on Chips and Bots](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss)
 * [2026-08-03, 09:27:00](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss) - [The EU's Right to Repair Directive Has Kicked in](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss)
