@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 23:18:00](https://soylentnews.org/article.pl?sid=26/08/04/0720220&from=rss) - [NASA's Swift Rescue Slips To Late August As LINK Battles Its Spin](https://soylentnews.org/article.pl?sid=26/08/04/0720220&from=rss)
 * [2026-08-04, 18:32:00](https://soylentnews.org/article.pl?sid=26/08/03/2135236&from=rss) - [Excuses Like 'AI Did It' Don't Exist In The Eyes Of The Law](https://soylentnews.org/article.pl?sid=26/08/03/2135236&from=rss)
 * [2026-08-04, 13:51:00](https://soylentnews.org/article.pl?sid=26/08/03/2132222&from=rss) - [Reaction Wheel Failures Leave Swift Rescue Mission Spinning In Orbit](https://soylentnews.org/article.pl?sid=26/08/03/2132222&from=rss)
 * [2026-08-04, 09:07:00](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss) - [Iran-Linked CyberAv3ngers Suspected In Attacks On Minnesota Water Systems](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss)
