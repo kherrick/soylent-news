@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-04, 09:07:00](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss) - [Iran-Linked CyberAv3ngers Suspected In Attacks On Minnesota Water Systems](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss)
 * [2026-08-04, 04:25:00](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss) - [America Bans Imported Robots Due To Supply Chain And Security Risks](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss)
 * [2026-08-03, 23:33:00](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss) - [Three US States to Deploy 60 Mph Drones Armed With Pepper Spray to Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss)
 * [2026-08-03, 18:54:00](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss) - [The US Government Just Banned Roombas](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-26, 01:00:00](https://soylentnews.org/article.pl?sid=26/07/25/2042256&from=rss) - [MIT to Become Hotbed of AI Video Surveillance](https://soylentnews.org/article.pl?sid=26/07/25/2042256&from=rss)
 * [2026-07-25, 20:17:00](https://soylentnews.org/article.pl?sid=26/07/25/2039220&from=rss) - [Ben Thompson is Wrong: US [AI] Frontier Labs are Right to be Panicking](https://soylentnews.org/article.pl?sid=26/07/25/2039220&from=rss)
 * [2026-07-25, 15:34:00](https://soylentnews.org/article.pl?sid=26/07/24/1452216&from=rss) - [There Isn't a Single Consumer Wi-Fi Router That is 100% American-Made](https://soylentnews.org/article.pl?sid=26/07/24/1452216&from=rss)
-* [2026-07-25, 10:50:00](https://soylentnews.org/article.pl?sid=26/07/24/1448254&from=rss) - [Alan Turing's Top Secret DIY Project](https://soylentnews.org/article.pl?sid=26/07/24/1448254&from=rss)
 
 ## [Archives](archives/index.md)
 
