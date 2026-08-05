@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-05, 08:47:00](https://soylentnews.org/article.pl?sid=26/08/04/1127256&from=rss) - [NOAA Ditches Weather-Predicting Supercomputers for Google Cloud](https://soylentnews.org/article.pl?sid=26/08/04/1127256&from=rss)
 * [2026-08-05, 04:04:00](https://soylentnews.org/article.pl?sid=26/08/04/0723205&from=rss) - [Judge Refuses XAI's Request to Stop a Minnesota Law Banning 'Nudify' Apps](https://soylentnews.org/article.pl?sid=26/08/04/0723205&from=rss)
 * [2026-08-04, 23:18:00](https://soylentnews.org/article.pl?sid=26/08/04/0720220&from=rss) - [NASA's Swift Rescue Slips To Late August As LINK Battles Its Spin](https://soylentnews.org/article.pl?sid=26/08/04/0720220&from=rss)
 * [2026-08-04, 18:32:00](https://soylentnews.org/article.pl?sid=26/08/03/2135236&from=rss) - [Excuses Like 'AI Did It' Don't Exist In The Eyes Of The Law](https://soylentnews.org/article.pl?sid=26/08/03/2135236&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-27, 00:52:00](https://soylentnews.org/article.pl?sid=26/07/26/0345250&from=rss) - [GitHub Slashes Public Bug Bounty Payouts as AI Report Flood Buries its Security Team](https://soylentnews.org/article.pl?sid=26/07/26/0345250&from=rss)
 * [2026-07-26, 20:06:00](https://soylentnews.org/article.pl?sid=26/07/26/0337236&from=rss) - [India's First Privately Developed Rocket Reaches Orbit on Dramatic Debut Launch](https://soylentnews.org/article.pl?sid=26/07/26/0337236&from=rss)
 * [2026-07-26, 15:19:00](https://soylentnews.org/article.pl?sid=26/07/25/2052238&from=rss) - [The ACLU is Arming Lawyers to Expose State Surveillance Secrets](https://soylentnews.org/article.pl?sid=26/07/25/2052238&from=rss)
-* [2026-07-26, 10:35:00](https://soylentnews.org/article.pl?sid=26/07/25/2048246&from=rss) - [Your Cookware Got Worse on Purpose](https://soylentnews.org/article.pl?sid=26/07/25/2048246&from=rss)
 
 ## [Archives](archives/index.md)
 
