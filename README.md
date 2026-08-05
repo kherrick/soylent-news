@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-05, 23:02:00](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss) - [UK Wants Datacenters To Pay A Fee For Grid Connection Requests](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss)
 * [2026-08-05, 18:16:00](https://soylentnews.org/article.pl?sid=26/08/04/1147244&from=rss) - [Tech Buyers Are Opting for Sovereignty From Day One](https://soylentnews.org/article.pl?sid=26/08/04/1147244&from=rss)
 * [2026-08-05, 13:28:00](https://soylentnews.org/article.pl?sid=26/08/04/1145222&from=rss) - [How OpenAI's Agent Escaped: Sprung by Humans in a Series of Preventable Events](https://soylentnews.org/article.pl?sid=26/08/04/1145222&from=rss)
 * [2026-08-05, 08:47:00](https://soylentnews.org/article.pl?sid=26/08/04/1127256&from=rss) - [NOAA Ditches Weather-Predicting Supercomputers for Google Cloud](https://soylentnews.org/article.pl?sid=26/08/04/1127256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-27, 15:09:00](https://soylentnews.org/article.pl?sid=26/07/26/1927253&from=rss) - [Firefox Containers Preview: Introducing Native Containers in Firefox 153 ](https://soylentnews.org/article.pl?sid=26/07/26/1927253&from=rss)
 * [2026-07-27, 10:23:00](https://soylentnews.org/article.pl?sid=26/07/26/1920201&from=rss) - [Google Just Had Its First Negative Cash Flow Quarter Due To Massive AI Spending](https://soylentnews.org/article.pl?sid=26/07/26/1920201&from=rss)
 * [2026-07-27, 05:38:00](https://soylentnews.org/article.pl?sid=26/07/26/041247&from=rss) - [Orange-Lipped Monkey That Roars and Snorts Deep in Congo Rainforest is New Species to Science](https://soylentnews.org/article.pl?sid=26/07/26/041247&from=rss)
-* [2026-07-27, 00:52:00](https://soylentnews.org/article.pl?sid=26/07/26/0345250&from=rss) - [GitHub Slashes Public Bug Bounty Payouts as AI Report Flood Buries its Security Team](https://soylentnews.org/article.pl?sid=26/07/26/0345250&from=rss)
 
 ## [Archives](archives/index.md)
 
