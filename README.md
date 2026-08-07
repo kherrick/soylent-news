@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-07, 03:28:00](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss) - [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
 * [2026-08-06, 22:43:00](https://soylentnews.org/article.pl?sid=26/08/05/1914258&from=rss) - [Everything Counts. in Large Amounts. Even AI Tokens.](https://soylentnews.org/article.pl?sid=26/08/05/1914258&from=rss)
 * [2026-08-06, 18:02:00](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss) - [Cyberattacks Hit Water Facilities in Seven States Across the US](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss)
 * [2026-08-06, 13:13:00](https://soylentnews.org/article.pl?sid=26/08/05/124251&from=rss) - [UK Mulls Making Employers Ask Before Installing Bossware](https://soylentnews.org/article.pl?sid=26/08/05/124251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-28, 19:34:00](https://soylentnews.org/article.pl?sid=26/07/27/0445232&from=rss) - [Google Breaks Alibaba’s Record For Europe’s Largest DMA Fine](https://soylentnews.org/article.pl?sid=26/07/27/0445232&from=rss)
 * [2026-07-28, 14:52:00](https://soylentnews.org/article.pl?sid=26/07/27/0440212&from=rss) - [The Fight Against AI Data Centers is Important – but It's Just a Starting Point](https://soylentnews.org/article.pl?sid=26/07/27/0440212&from=rss)
 * [2026-07-28, 10:05:00](https://soylentnews.org/article.pl?sid=26/07/27/0428208&from=rss) - [South Korea Making its Own Security-Centric AI Model](https://soylentnews.org/article.pl?sid=26/07/27/0428208&from=rss)
-* [2026-07-28, 05:24:00](https://soylentnews.org/article.pl?sid=26/07/26/2115230&from=rss) - [If You're Reading This, You're Probably an AI Bot](https://soylentnews.org/article.pl?sid=26/07/26/2115230&from=rss)
 
 ## [Archives](archives/index.md)
 
