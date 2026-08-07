@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-07, 17:41:00](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss) - [OpenAI Reveals its Rogue Agent Swarm Went a Little Bit Borg Ahead of Hugging Face Hack](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss)
 * [2026-08-07, 12:54:00](https://soylentnews.org/article.pl?sid=26/08/06/1423227&from=rss) - [US Military GPS Jamming Exercise Suspected of Contributing to Civilian Plane Crash in New Mexico](https://soylentnews.org/article.pl?sid=26/08/06/1423227&from=rss)
 * [2026-08-07, 08:13:00](https://soylentnews.org/article.pl?sid=26/08/06/1421244&from=rss) - [Desktop Linux Just Cracked 10% Market Share - and Windows 11 is Mostly the Reason](https://soylentnews.org/article.pl?sid=26/08/06/1421244&from=rss)
 * [2026-08-07, 03:28:00](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss) - [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-29, 09:51:00](https://soylentnews.org/article.pl?sid=26/07/28/1936202&from=rss) - [Sony's Decision to Ditch Discs Was Practically Inevitable, Data Shows](https://soylentnews.org/article.pl?sid=26/07/28/1936202&from=rss)
 * [2026-07-29, 05:04:00](https://soylentnews.org/article.pl?sid=26/07/28/1933258&from=rss) - [Activist Charged With Felony After Giving Border Agent “Duress Code” That Wiped His Phone](https://soylentnews.org/article.pl?sid=26/07/28/1933258&from=rss)
 * [2026-07-29, 00:19:00](https://soylentnews.org/article.pl?sid=26/07/28/1925225&from=rss) - [JWST Just Examined Two Stars Suspected of Harboring Dyson Spheres](https://soylentnews.org/article.pl?sid=26/07/28/1925225&from=rss)
-* [2026-07-28, 19:34:00](https://soylentnews.org/article.pl?sid=26/07/27/0445232&from=rss) - [Google Breaks Alibaba’s Record For Europe’s Largest DMA Fine](https://soylentnews.org/article.pl?sid=26/07/27/0445232&from=rss)
 
 ## [Archives](archives/index.md)
 
