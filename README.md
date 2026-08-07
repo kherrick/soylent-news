@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-06, 22:43:00](https://soylentnews.org/article.pl?sid=26/08/05/1914258&from=rss) - [Everything Counts. in Large Amounts. Even AI Tokens.](https://soylentnews.org/article.pl?sid=26/08/05/1914258&from=rss)
+* [2026-08-06, 18:02:00](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss) - [Cyberattacks Hit Water Facilities in Seven States Across the US](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss)
 * [2026-08-06, 13:13:00](https://soylentnews.org/article.pl?sid=26/08/05/124251&from=rss) - [UK Mulls Making Employers Ask Before Installing Bossware](https://soylentnews.org/article.pl?sid=26/08/05/124251&from=rss)
 * [2026-08-06, 08:30:00](https://soylentnews.org/article.pl?sid=26/08/05/0212222&from=rss) - [SpaceX is Set to Acquire 130,000 Acres of Marshland in Southern Louisiana](https://soylentnews.org/article.pl?sid=26/08/05/0212222&from=rss)
 * [2026-08-06, 03:46:00](https://soylentnews.org/article.pl?sid=26/08/05/029207&from=rss) - [Cloud Giants Pour Nearly $600B Into Capex as AI Demand Surges](https://soylentnews.org/article.pl?sid=26/08/05/029207&from=rss)
@@ -48,8 +50,6 @@
 * [2026-07-28, 14:52:00](https://soylentnews.org/article.pl?sid=26/07/27/0440212&from=rss) - [The Fight Against AI Data Centers is Important – but It's Just a Starting Point](https://soylentnews.org/article.pl?sid=26/07/27/0440212&from=rss)
 * [2026-07-28, 10:05:00](https://soylentnews.org/article.pl?sid=26/07/27/0428208&from=rss) - [South Korea Making its Own Security-Centric AI Model](https://soylentnews.org/article.pl?sid=26/07/27/0428208&from=rss)
 * [2026-07-28, 05:24:00](https://soylentnews.org/article.pl?sid=26/07/26/2115230&from=rss) - [If You're Reading This, You're Probably an AI Bot](https://soylentnews.org/article.pl?sid=26/07/26/2115230&from=rss)
-* [2026-07-28, 00:38:00](https://soylentnews.org/article.pl?sid=26/07/26/1939241&from=rss) - [China Advances Plans For National Single-Stack IPv6 Network, And Its Surveillance-Friendly Version](https://soylentnews.org/article.pl?sid=26/07/26/1939241&from=rss)
-* [2026-07-27, 19:55:00](https://soylentnews.org/article.pl?sid=26/07/26/1934211&from=rss) - [When Your Vehicle Outlives its Cloud: What Happens Next?](https://soylentnews.org/article.pl?sid=26/07/26/1934211&from=rss)
 
 ## [Archives](archives/index.md)
 
