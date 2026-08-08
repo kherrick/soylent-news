@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-08, 07:55:00](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss) - [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
 * [2026-08-08, 03:10:00](https://soylentnews.org/article.pl?sid=26/08/07/0152201&from=rss) - [Texas Halts Data Center Connections to Power Grid Amid Overwhelming Demand](https://soylentnews.org/article.pl?sid=26/08/07/0152201&from=rss)
 * [2026-08-07, 22:24:00](https://soylentnews.org/article.pl?sid=26/08/07/0145239&from=rss) - [Backlash Against BMW for Ads in Cars](https://soylentnews.org/article.pl?sid=26/08/07/0145239&from=rss)
 * [2026-08-07, 17:41:00](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss) - [OpenAI Reveals its Rogue Agent Swarm Went a Little Bit Borg Ahead of Hugging Face Hack](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-30, 00:15:00](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss) - [Librarians Are Hosting Viral 'Avoiding AI' Workshops for People Who Are Fed Up With Big Tech](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss)
 * [2026-07-29, 19:29:00](https://soylentnews.org/article.pl?sid=26/07/29/0621219&from=rss) - [Your Shared Claude Chats Were Being Quietly Published on Google](https://soylentnews.org/article.pl?sid=26/07/29/0621219&from=rss)
 * [2026-07-29, 14:36:00](https://soylentnews.org/article.pl?sid=26/07/29/0617214&from=rss) - [Microsoft responds to LG monitors installing McAfee ads on Windows](https://soylentnews.org/article.pl?sid=26/07/29/0617214&from=rss)
-* [2026-07-29, 09:51:00](https://soylentnews.org/article.pl?sid=26/07/28/1936202&from=rss) - [Sony's Decision to Ditch Discs Was Practically Inevitable, Data Shows](https://soylentnews.org/article.pl?sid=26/07/28/1936202&from=rss)
 
 ## [Archives](archives/index.md)
 
