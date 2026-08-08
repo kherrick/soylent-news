@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-08, 17:22:00](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss) - [AI Chatbots Have Failed People in Crisis. Can That be Fixed?](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss)
 * [2026-08-08, 12:41:00](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss) - [Russian Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss)
 * [2026-08-08, 07:55:00](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss) - [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
 * [2026-08-08, 03:10:00](https://soylentnews.org/article.pl?sid=26/08/07/0152201&from=rss) - [Texas Halts Data Center Connections to Power Grid Amid Overwhelming Demand](https://soylentnews.org/article.pl?sid=26/08/07/0152201&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-30, 09:48:00](https://soylentnews.org/article.pl?sid=26/07/29/0716213&from=rss) - [Covertly Transmitting Data From Air-Gapped Systems Via Video Cable Emissions](https://soylentnews.org/article.pl?sid=26/07/29/0716213&from=rss)
 * [2026-07-30, 05:03:00](https://soylentnews.org/article.pl?sid=26/07/29/0711249&from=rss) - [Signals Are Grim for Jodrell Bank Observatory After UK Science Funding Decision](https://soylentnews.org/article.pl?sid=26/07/29/0711249&from=rss)
 * [2026-07-30, 00:15:00](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss) - [Librarians Are Hosting Viral 'Avoiding AI' Workshops for People Who Are Fed Up With Big Tech](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss)
-* [2026-07-29, 19:29:00](https://soylentnews.org/article.pl?sid=26/07/29/0621219&from=rss) - [Your Shared Claude Chats Were Being Quietly Published on Google](https://soylentnews.org/article.pl?sid=26/07/29/0621219&from=rss)
 
 ## [Archives](archives/index.md)
 
