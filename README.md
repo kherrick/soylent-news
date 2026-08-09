@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-09, 07:49:00](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss) - [The First Self-Driving Vehicle On Mars Has Proven To Be A Smashing Success](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss)
 * [2026-08-09, 02:58:00](https://soylentnews.org/article.pl?sid=26/08/08/0049242&from=rss) - [Police National Legal Database Confirms Data Theft After Dark Web Leak](https://soylentnews.org/article.pl?sid=26/08/08/0049242&from=rss)
 * [2026-08-08, 22:15:00](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss) - [NASA Puts Astronauts’ Lives In The Hands Of Tesla’s Flaky Cybertruck](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
 * [2026-08-08, 17:22:00](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss) - [AI Chatbots Have Failed People in Crisis. Can That be Fixed?](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss)
@@ -49,7 +50,6 @@
 * [2026-07-31, 00:00:00](https://soylentnews.org/article.pl?sid=26/07/30/0221244&from=rss) - [New AMD Linux Patch Boosts Low-End Gaming Performance on Steam Deck](https://soylentnews.org/article.pl?sid=26/07/30/0221244&from=rss)
 * [2026-07-30, 19:19:00](https://soylentnews.org/article.pl?sid=26/07/29/120234&from=rss) - [Apps Targeted at US Troops Contain Chinese and Russian Code](https://soylentnews.org/article.pl?sid=26/07/29/120234&from=rss)
 * [2026-07-30, 14:30:00](https://soylentnews.org/article.pl?sid=26/07/29/1151240&from=rss) - [On Flock License Plate Tracking Cameras](https://soylentnews.org/article.pl?sid=26/07/29/1151240&from=rss)
-* [2026-07-30, 09:48:00](https://soylentnews.org/article.pl?sid=26/07/29/0716213&from=rss) - [Covertly Transmitting Data From Air-Gapped Systems Via Video Cable Emissions](https://soylentnews.org/article.pl?sid=26/07/29/0716213&from=rss)
 
 ## [Archives](archives/index.md)
 
