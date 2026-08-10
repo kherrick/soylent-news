@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-10, 21:38:00](https://soylentnews.org/article.pl?sid=26/08/10/0250210&from=rss) - [‘Humans Will Be A Rounding Error On The Internet’ Says Cloudflare Exec](https://soylentnews.org/article.pl?sid=26/08/10/0250210&from=rss)
 * [2026-08-10, 16:50:00](https://soylentnews.org/article.pl?sid=26/08/10/0247256&from=rss) - [After Price Hikes Due To AI Data Centers, Firms To Pay For All Dedicated Upstream Infrastructure](https://soylentnews.org/article.pl?sid=26/08/10/0247256&from=rss)
 * [2026-08-10, 12:08:00](https://soylentnews.org/article.pl?sid=26/08/10/0236212&from=rss) - [Thousands Of Servers Can Be Backdoored By Exploiting Buggy Motherboard Controllers](https://soylentnews.org/article.pl?sid=26/08/10/0236212&from=rss)
 * [2026-08-10, 07:19:00](https://soylentnews.org/article.pl?sid=26/08/09/2121234&from=rss) - [China Launches Mysterious Probe Into Security of Palo Alto Networks' Products](https://soylentnews.org/article.pl?sid=26/08/09/2121234&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-01, 14:03:00](https://soylentnews.org/article.pl?sid=26/07/31/1420234&from=rss) - [NHS England Rapped Over Inaccurate Palantir Patient Data Disclosure](https://soylentnews.org/article.pl?sid=26/07/31/1420234&from=rss)
 * [2026-08-01, 09:16:00](https://soylentnews.org/article.pl?sid=26/07/31/1417222&from=rss) - [LinkedIn Realizes its Users Have Been Bathing in AI Slop, Makes Changes](https://soylentnews.org/article.pl?sid=26/07/31/1417222&from=rss)
 * [2026-08-01, 04:34:00](https://soylentnews.org/article.pl?sid=26/07/31/0929247&from=rss) - [Aus Car Makers Face Data Security Probe](https://soylentnews.org/article.pl?sid=26/07/31/0929247&from=rss)
-* [2026-07-31, 23:48:00](https://soylentnews.org/article.pl?sid=26/07/30/2234251&from=rss) - [Who Wins and Who Loses After US Bans Foreign Robots?](https://soylentnews.org/article.pl?sid=26/07/30/2234251&from=rss)
 
 ## [Archives](archives/index.md)
 
