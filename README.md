@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-11, 16:47:00](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss) - [Why 'Click-to-Cancel' Rules Are Popping Up Across the US](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss)
 * [2026-08-11, 12:01:00](https://soylentnews.org/article.pl?sid=26/08/10/1124248&from=rss) - [Poop Made Life on Earth Possible. Yes, Poop.](https://soylentnews.org/article.pl?sid=26/08/10/1124248&from=rss)
 * [2026-08-11, 07:11:00](https://soylentnews.org/article.pl?sid=26/08/10/1114225&from=rss) - [How the Famed USENIX Security Conf is Managing a Flood of Papers in the AI Era](https://soylentnews.org/article.pl?sid=26/08/10/1114225&from=rss)
 * [2026-08-11, 02:25:00](https://soylentnews.org/article.pl?sid=26/08/10/118233&from=rss) - [Court Orders Meta to Pay an Additional $567 Million in New Mexico Child Safety Case](https://soylentnews.org/article.pl?sid=26/08/10/118233&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-02, 08:56:00](https://soylentnews.org/article.pl?sid=26/08/02/087237&from=rss) - [Microsoft Vows to Make Windows 11 Fly on 8GB RAM Amid Memory Shortage](https://soylentnews.org/article.pl?sid=26/08/02/087237&from=rss)
 * [2026-08-02, 04:15:00](https://soylentnews.org/article.pl?sid=26/08/02/085258&from=rss) - [China Inc. Is Winning the AI Race](https://soylentnews.org/article.pl?sid=26/08/02/085258&from=rss)
 * [2026-08-01, 23:28:00](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss) - [Open Source Project Fools AI Scrapers With Poisoned Font](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss)
-* [2026-08-01, 18:43:00](https://soylentnews.org/article.pl?sid=26/07/31/1425202&from=rss) - [The Metric System Encodes 18th Century Lab Equipment](https://soylentnews.org/article.pl?sid=26/07/31/1425202&from=rss)
 
 ## [Archives](archives/index.md)
 
