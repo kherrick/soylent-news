@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-12, 11:39:00](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss) - [Protesters Haul A Guillotine To City Council Meeting About A Potential AI Data Center](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss)
 * [2026-08-12, 07:02:00](https://soylentnews.org/article.pl?sid=26/08/10/1747216&from=rss) - [Terafab  To Be Larger Than The Pentagon, Apple Park, Mall Of America, And Giga Texas Combined](https://soylentnews.org/article.pl?sid=26/08/10/1747216&from=rss)
 * [2026-08-12, 02:15:00](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss) - [Price Hikes May be Coming for PC Motherboards Next](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss)
 * [2026-08-11, 21:31:00](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss) - [Linus Torvalds Says AI Has Made 'Huge' Linux Kernel Updates The New Normal](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-03, 04:42:00](https://soylentnews.org/article.pl?sid=26/08/03/0316232&from=rss) - [Curiosity Rover Spots Field of Giant Honeycomb on Mars – but No Giant Space Bees](https://soylentnews.org/article.pl?sid=26/08/03/0316232&from=rss)
 * [2026-08-02, 23:59:00](https://soylentnews.org/article.pl?sid=26/08/02/2131203&from=rss) - [Americans Give All-Day School Phone Bans a Ringing Endorsement](https://soylentnews.org/article.pl?sid=26/08/02/2131203&from=rss)
 * [2026-08-02, 20:08:00](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss) - [Landmark Solar Farm Forced to Shut Down as Grid Overload Worries Worsen - Too Much Power](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss)
-* [2026-08-02, 13:40:00](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss) - [Space Force-Backed Mission Does its Best Impression of Top Gun in Orbit](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss)
 
 ## [Archives](archives/index.md)
 
