@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-12, 02:15:00](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss) - [Price Hikes May be Coming for PC Motherboards Next](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss)
 * [2026-08-11, 21:31:00](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss) - [Linus Torvalds Says AI Has Made 'Huge' Linux Kernel Updates The New Normal](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss)
 * [2026-08-11, 16:47:00](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss) - [Why 'Click-to-Cancel' Rules Are Popping Up Across the US](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss)
 * [2026-08-11, 12:01:00](https://soylentnews.org/article.pl?sid=26/08/10/1124248&from=rss) - [Poop Made Life on Earth Possible. Yes, Poop.](https://soylentnews.org/article.pl?sid=26/08/10/1124248&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-02, 20:08:00](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss) - [Landmark Solar Farm Forced to Shut Down as Grid Overload Worries Worsen - Too Much Power](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss)
 * [2026-08-02, 13:40:00](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss) - [Space Force-Backed Mission Does its Best Impression of Top Gun in Orbit](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss)
 * [2026-08-02, 08:56:00](https://soylentnews.org/article.pl?sid=26/08/02/087237&from=rss) - [Microsoft Vows to Make Windows 11 Fly on 8GB RAM Amid Memory Shortage](https://soylentnews.org/article.pl?sid=26/08/02/087237&from=rss)
-* [2026-08-02, 04:15:00](https://soylentnews.org/article.pl?sid=26/08/02/085258&from=rss) - [China Inc. Is Winning the AI Race](https://soylentnews.org/article.pl?sid=26/08/02/085258&from=rss)
 
 ## [Archives](archives/index.md)
 
