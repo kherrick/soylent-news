@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-13, 01:56:00](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss) - [The Return of MySpace? Platform Owners Tease Re-Launch ‘When the Time Is Right’](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss)
 * [2026-08-12, 21:10:00](https://soylentnews.org/article.pl?sid=26/08/10/1755226&from=rss) - [May I Have Access to All of Your Private Information, Please?](https://soylentnews.org/article.pl?sid=26/08/10/1755226&from=rss)
 * [2026-08-12, 16:24:00](https://soylentnews.org/article.pl?sid=26/08/10/1752257&from=rss) - [Open-Source Stealth USB Hides An Encrypted Partition Behind An 8GB Decoy Drive](https://soylentnews.org/article.pl?sid=26/08/10/1752257&from=rss)
 * [2026-08-12, 11:39:00](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss) - [Protesters Haul A Guillotine To City Council Meeting About A Potential AI Data Center](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-03, 18:54:00](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss) - [The US Government Just Banned Roombas](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss)
 * [2026-08-03, 14:10:00](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss) - [Tesla Burns Through a Billion as Musk Bets the Farm on Chips and Bots](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss)
 * [2026-08-03, 09:27:00](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss) - [The EU's Right to Repair Directive Has Kicked in](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss)
-* [2026-08-03, 04:42:00](https://soylentnews.org/article.pl?sid=26/08/03/0316232&from=rss) - [Curiosity Rover Spots Field of Giant Honeycomb on Mars – but No Giant Space Bees](https://soylentnews.org/article.pl?sid=26/08/03/0316232&from=rss)
 
 ## [Archives](archives/index.md)
 
