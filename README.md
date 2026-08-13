@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-13, 20:55:00](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss) - [AMD Acquires AI Chip Startup Taalas to Boost Inference Performance by Etching Models Into Silicon](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
 * [2026-08-13, 16:13:00](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss) - [License Plate Reader Searches Should Require a Warrant](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss)
 * [2026-08-13, 11:28:00](https://soylentnews.org/article.pl?sid=26/08/12/0010209&from=rss) - [Windows 11'S Built-In Weather App Hogs More Than 1.2 Gigabytes Of RAM Just To Tell The Forecast ](https://soylentnews.org/article.pl?sid=26/08/12/0010209&from=rss)
 * [2026-08-13, 06:47:00](https://soylentnews.org/article.pl?sid=26/08/12/008202&from=rss) - [Hey Claude, Get Me an Appointment...](https://soylentnews.org/article.pl?sid=26/08/12/008202&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-04, 13:51:00](https://soylentnews.org/article.pl?sid=26/08/03/2132222&from=rss) - [Reaction Wheel Failures Leave Swift Rescue Mission Spinning In Orbit](https://soylentnews.org/article.pl?sid=26/08/03/2132222&from=rss)
 * [2026-08-04, 09:07:00](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss) - [Iran-Linked CyberAv3ngers Suspected In Attacks On Minnesota Water Systems](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss)
 * [2026-08-04, 04:25:00](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss) - [America Bans Imported Robots Due To Supply Chain And Security Risks](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss)
-* [2026-08-03, 23:33:00](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss) - [Three US States to Deploy 60 Mph Drones Armed With Pepper Spray to Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss)
 
 ## [Archives](archives/index.md)
 
