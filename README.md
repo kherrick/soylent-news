@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-13, 11:28:00](https://soylentnews.org/article.pl?sid=26/08/12/0010209&from=rss) - [Windows 11'S Built-In Weather App Hogs More Than 1.2 Gigabytes Of RAM Just To Tell The Forecast ](https://soylentnews.org/article.pl?sid=26/08/12/0010209&from=rss)
 * [2026-08-13, 06:47:00](https://soylentnews.org/article.pl?sid=26/08/12/008202&from=rss) - [Hey Claude, Get Me an Appointment...](https://soylentnews.org/article.pl?sid=26/08/12/008202&from=rss)
 * [2026-08-13, 01:56:00](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss) - [The Return of MySpace? Platform Owners Tease Re-Launch ‘When the Time Is Right’](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss)
 * [2026-08-12, 21:10:00](https://soylentnews.org/article.pl?sid=26/08/10/1755226&from=rss) - [May I Have Access to All of Your Private Information, Please?](https://soylentnews.org/article.pl?sid=26/08/10/1755226&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-04, 04:25:00](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss) - [America Bans Imported Robots Due To Supply Chain And Security Risks](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss)
 * [2026-08-03, 23:33:00](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss) - [Three US States to Deploy 60 Mph Drones Armed With Pepper Spray to Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss)
 * [2026-08-03, 18:54:00](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss) - [The US Government Just Banned Roombas](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss)
-* [2026-08-03, 14:10:00](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss) - [Tesla Burns Through a Billion as Musk Bets the Farm on Chips and Bots](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss)
 
 ## [Archives](archives/index.md)
 
