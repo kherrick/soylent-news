@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-14, 01:42:00](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss) - [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss)
 * [2026-08-13, 20:55:00](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss) - [AMD Acquires AI Chip Startup Taalas to Boost Inference Performance by Etching Models Into Silicon](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
 * [2026-08-13, 16:13:00](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss) - [License Plate Reader Searches Should Require a Warrant](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss)
 * [2026-08-13, 11:28:00](https://soylentnews.org/article.pl?sid=26/08/12/0010209&from=rss) - [Windows 11'S Built-In Weather App Hogs More Than 1.2 Gigabytes Of RAM Just To Tell The Forecast ](https://soylentnews.org/article.pl?sid=26/08/12/0010209&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-04, 18:32:00](https://soylentnews.org/article.pl?sid=26/08/03/2135236&from=rss) - [Excuses Like 'AI Did It' Don't Exist In The Eyes Of The Law](https://soylentnews.org/article.pl?sid=26/08/03/2135236&from=rss)
 * [2026-08-04, 13:51:00](https://soylentnews.org/article.pl?sid=26/08/03/2132222&from=rss) - [Reaction Wheel Failures Leave Swift Rescue Mission Spinning In Orbit](https://soylentnews.org/article.pl?sid=26/08/03/2132222&from=rss)
 * [2026-08-04, 09:07:00](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss) - [Iran-Linked CyberAv3ngers Suspected In Attacks On Minnesota Water Systems](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss)
-* [2026-08-04, 04:25:00](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss) - [America Bans Imported Robots Due To Supply Chain And Security Risks](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss)
 
 ## [Archives](archives/index.md)
 
