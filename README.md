@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-14, 15:54:00](https://soylentnews.org/article.pl?sid=26/08/13/2028222&from=rss) - [The Zuckerfesto](https://soylentnews.org/article.pl?sid=26/08/13/2028222&from=rss)
 * [2026-08-14, 11:13:00](https://soylentnews.org/article.pl?sid=26/08/13/2024258&from=rss) - [AI Is Dead. Organoids Are Alive            ](https://soylentnews.org/article.pl?sid=26/08/13/2024258&from=rss)
 * [2026-08-14, 06:26:00](https://soylentnews.org/article.pl?sid=26/08/13/127223&from=rss) - [When the Army Tries to Automate a Factory](https://soylentnews.org/article.pl?sid=26/08/13/127223&from=rss)
 * [2026-08-14, 01:42:00](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss) - [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-05, 08:47:00](https://soylentnews.org/article.pl?sid=26/08/04/1127256&from=rss) - [NOAA Ditches Weather-Predicting Supercomputers for Google Cloud](https://soylentnews.org/article.pl?sid=26/08/04/1127256&from=rss)
 * [2026-08-05, 04:04:00](https://soylentnews.org/article.pl?sid=26/08/04/0723205&from=rss) - [Judge Refuses XAI's Request to Stop a Minnesota Law Banning 'Nudify' Apps](https://soylentnews.org/article.pl?sid=26/08/04/0723205&from=rss)
 * [2026-08-04, 23:18:00](https://soylentnews.org/article.pl?sid=26/08/04/0720220&from=rss) - [NASA's Swift Rescue Slips To Late August As LINK Battles Its Spin](https://soylentnews.org/article.pl?sid=26/08/04/0720220&from=rss)
-* [2026-08-04, 18:32:00](https://soylentnews.org/article.pl?sid=26/08/03/2135236&from=rss) - [Excuses Like 'AI Did It' Don't Exist In The Eyes Of The Law](https://soylentnews.org/article.pl?sid=26/08/03/2135236&from=rss)
 
 ## [Archives](archives/index.md)
 
