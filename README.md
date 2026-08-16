@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-16, 10:40:00](https://soylentnews.org/article.pl?sid=26/08/15/0332259&from=rss) - [IoT Device Forgets to Feed Hungry Kittens](https://soylentnews.org/article.pl?sid=26/08/15/0332259&from=rss)
 * [2026-08-16, 05:57:00](https://soylentnews.org/article.pl?sid=26/08/15/0320242&from=rss) - [Muse Glimmer 30B Open Weight Model for Local Deployment](https://soylentnews.org/article.pl?sid=26/08/15/0320242&from=rss)
 * [2026-08-16, 01:12:00](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss) - [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss)
 * [2026-08-15, 20:25:00](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss) - [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-07, 03:28:00](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss) - [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
 * [2026-08-06, 22:43:00](https://soylentnews.org/article.pl?sid=26/08/05/1914258&from=rss) - [Everything Counts. in Large Amounts. Even AI Tokens.](https://soylentnews.org/article.pl?sid=26/08/05/1914258&from=rss)
 * [2026-08-06, 18:02:00](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss) - [Cyberattacks Hit Water Facilities in Seven States Across the US](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss)
-* [2026-08-06, 13:13:00](https://soylentnews.org/article.pl?sid=26/08/05/124251&from=rss) - [UK Mulls Making Employers Ask Before Installing Bossware](https://soylentnews.org/article.pl?sid=26/08/05/124251&from=rss)
 
 ## [Archives](archives/index.md)
 
