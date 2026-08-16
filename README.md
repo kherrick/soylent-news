@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-16, 15:27:00](https://soylentnews.org/article.pl?sid=26/08/15/0329232&from=rss) - [Cloudflare Open-Sources Vibe-Coding Platform for People Who Aren't Coders](https://soylentnews.org/article.pl?sid=26/08/15/0329232&from=rss)
 * [2026-08-16, 10:40:00](https://soylentnews.org/article.pl?sid=26/08/15/0332259&from=rss) - [IoT Device Forgets to Feed Hungry Kittens](https://soylentnews.org/article.pl?sid=26/08/15/0332259&from=rss)
 * [2026-08-16, 05:57:00](https://soylentnews.org/article.pl?sid=26/08/15/0320242&from=rss) - [Muse Glimmer 30B Open Weight Model for Local Deployment](https://soylentnews.org/article.pl?sid=26/08/15/0320242&from=rss)
 * [2026-08-16, 01:12:00](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss) - [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-07, 08:13:00](https://soylentnews.org/article.pl?sid=26/08/06/1421244&from=rss) - [Desktop Linux Just Cracked 10% Market Share - and Windows 11 is Mostly the Reason](https://soylentnews.org/article.pl?sid=26/08/06/1421244&from=rss)
 * [2026-08-07, 03:28:00](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss) - [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
 * [2026-08-06, 22:43:00](https://soylentnews.org/article.pl?sid=26/08/05/1914258&from=rss) - [Everything Counts. in Large Amounts. Even AI Tokens.](https://soylentnews.org/article.pl?sid=26/08/05/1914258&from=rss)
-* [2026-08-06, 18:02:00](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss) - [Cyberattacks Hit Water Facilities in Seven States Across the US](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss)
 
 ## [Archives](archives/index.md)
 
