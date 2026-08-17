@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-17, 05:49:00](https://soylentnews.org/article.pl?sid=26/08/15/2252208&from=rss) - [Will We Ever Solve the Problem of Losing Data?](https://soylentnews.org/article.pl?sid=26/08/15/2252208&from=rss)
 * [2026-08-17, 00:59:00](https://soylentnews.org/article.pl?sid=26/08/15/2249241&from=rss) - [The Color of White Light](https://soylentnews.org/article.pl?sid=26/08/15/2249241&from=rss)
 * [2026-08-16, 20:11:00](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss) - [Firefox is Now the Last Major Browser That Still Supports uBlock Origin](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss)
 * [2026-08-16, 15:27:00](https://soylentnews.org/article.pl?sid=26/08/15/0329232&from=rss) - [Cloudflare Open-Sources Vibe-Coding Platform for People Who Aren't Coders](https://soylentnews.org/article.pl?sid=26/08/15/0329232&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-07, 22:24:00](https://soylentnews.org/article.pl?sid=26/08/07/0145239&from=rss) - [Backlash Against BMW for Ads in Cars](https://soylentnews.org/article.pl?sid=26/08/07/0145239&from=rss)
 * [2026-08-07, 17:41:00](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss) - [OpenAI Reveals its Rogue Agent Swarm Went a Little Bit Borg Ahead of Hugging Face Hack](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss)
 * [2026-08-07, 12:54:00](https://soylentnews.org/article.pl?sid=26/08/06/1423227&from=rss) - [US Military GPS Jamming Exercise Suspected of Contributing to Civilian Plane Crash in New Mexico](https://soylentnews.org/article.pl?sid=26/08/06/1423227&from=rss)
-* [2026-08-07, 08:13:00](https://soylentnews.org/article.pl?sid=26/08/06/1421244&from=rss) - [Desktop Linux Just Cracked 10% Market Share - and Windows 11 is Mostly the Reason](https://soylentnews.org/article.pl?sid=26/08/06/1421244&from=rss)
 
 ## [Archives](archives/index.md)
 
