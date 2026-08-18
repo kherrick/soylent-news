@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-18, 19:30:00](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss) - [Memory Maker CXMT Overtakes Tencent to Become China's Most Valuable Company 17 Days After its IPO](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss)
 * [2026-08-18, 14:58:00](https://soylentnews.org/article.pl?sid=26/08/18/0350221&from=rss) - [Scientists Increasingly Depend on ‘Black-Box’ Tools They Cannot Control or Fully Understand](https://soylentnews.org/article.pl?sid=26/08/18/0350221&from=rss)
 * [2026-08-18, 10:07:00](https://soylentnews.org/article.pl?sid=26/08/18/0348225&from=rss) - [Recent Developments Applying AI to the Riemann Hypothesis](https://soylentnews.org/article.pl?sid=26/08/18/0348225&from=rss)
 * [2026-08-18, 05:20:00](https://soylentnews.org/article.pl?sid=26/08/16/201225&from=rss) - [Always Finish Your Antibiotics? Longer is Better? Outdated Ideas About Antibiotics Are Common](https://soylentnews.org/article.pl?sid=26/08/16/201225&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-09, 07:49:00](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss) - [The First Self-Driving Vehicle On Mars Has Proven To Be A Smashing Success](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss)
 * [2026-08-09, 02:58:00](https://soylentnews.org/article.pl?sid=26/08/08/0049242&from=rss) - [Police National Legal Database Confirms Data Theft After Dark Web Leak](https://soylentnews.org/article.pl?sid=26/08/08/0049242&from=rss)
 * [2026-08-08, 22:15:00](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss) - [NASA Puts Astronauts’ Lives In The Hands Of Tesla’s Flaky Cybertruck](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
-* [2026-08-08, 17:22:00](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss) - [AI Chatbots Have Failed People in Crisis. Can That be Fixed?](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss)
 
 ## [Archives](archives/index.md)
 
