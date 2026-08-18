@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-18, 00:35:00](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss) - [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss)
 * [2026-08-17, 19:49:00](https://soylentnews.org/article.pl?sid=26/08/16/1954250&from=rss) - [If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them](https://soylentnews.org/article.pl?sid=26/08/16/1954250&from=rss)
 * [2026-08-17, 15:12:00](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss) - [Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss)
 * [2026-08-17, 05:49:00](https://soylentnews.org/article.pl?sid=26/08/15/2252208&from=rss) - [Will We Ever Solve the Problem of Losing Data?](https://soylentnews.org/article.pl?sid=26/08/15/2252208&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-08, 12:41:00](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss) - [Russian Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss)
 * [2026-08-08, 07:55:00](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss) - [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
 * [2026-08-08, 03:10:00](https://soylentnews.org/article.pl?sid=26/08/07/0152201&from=rss) - [Texas Halts Data Center Connections to Power Grid Amid Overwhelming Demand](https://soylentnews.org/article.pl?sid=26/08/07/0152201&from=rss)
-* [2026-08-07, 22:24:00](https://soylentnews.org/article.pl?sid=26/08/07/0145239&from=rss) - [Backlash Against BMW for Ads in Cars](https://soylentnews.org/article.pl?sid=26/08/07/0145239&from=rss)
 
 ## [Archives](archives/index.md)
 
