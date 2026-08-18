@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-18, 10:07:00](https://soylentnews.org/article.pl?sid=26/08/18/0348225&from=rss) - [Recent developments apllying AI to the Riemann hypothesis](https://soylentnews.org/article.pl?sid=26/08/18/0348225&from=rss)
 * [2026-08-18, 05:20:00](https://soylentnews.org/article.pl?sid=26/08/16/201225&from=rss) - [Always Finish Your Antibiotics? Longer is Better? Outdated Ideas About Antibiotics Are Common](https://soylentnews.org/article.pl?sid=26/08/16/201225&from=rss)
 * [2026-08-18, 00:35:00](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss) - [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss)
 * [2026-08-17, 19:49:00](https://soylentnews.org/article.pl?sid=26/08/16/1954250&from=rss) - [If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them](https://soylentnews.org/article.pl?sid=26/08/16/1954250&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-08, 22:15:00](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss) - [NASA Puts Astronauts’ Lives In The Hands Of Tesla’s Flaky Cybertruck](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
 * [2026-08-08, 17:22:00](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss) - [AI Chatbots Have Failed People in Crisis. Can That be Fixed?](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss)
 * [2026-08-08, 12:41:00](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss) - [Russian Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss)
-* [2026-08-08, 07:55:00](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss) - [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
 
 ## [Archives](archives/index.md)
 
