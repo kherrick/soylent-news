@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-19, 09:53:00](https://soylentnews.org/article.pl?sid=26/08/19/0124242&from=rss) - [The Ongoing Evolution of OpenBSD's relayd(8) and httpd(8)](https://soylentnews.org/article.pl?sid=26/08/19/0124242&from=rss)
 * [2026-08-19, 08:43:00](https://soylentnews.org/article.pl?sid=26/08/19/0825217&from=rss) - [Tim King, AmigaDOS Royalty, Dies Aged 70](https://soylentnews.org/article.pl?sid=26/08/19/0825217&from=rss)
 * [2026-08-19, 05:04:00](https://soylentnews.org/article.pl?sid=26/08/19/0125241&from=rss) - [Quake Shareware, a CD-ROM Just a Little Too Full](https://soylentnews.org/article.pl?sid=26/08/19/0125241&from=rss)
 * [2026-08-19, 00:22:00](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss) - [Tiny Satellite Will Use the Dark Side of the Moon to Eavesdrop on Whispers From the Early Universe](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-10, 02:34:00](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss) - [NASA Boss Balks At Billion-Dollar Estimate For Recycled Moon Rover](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss)
 * [2026-08-09, 21:51:00](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss) - [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
 * [2026-08-09, 17:19:00](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss) - [The End Of August Will Feature A Lunar Eclipse Visible All Over North America](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss)
-* [2026-08-09, 12:21:00](https://soylentnews.org/article.pl?sid=26/08/09/013207&from=rss) - [OpenAI Says Apple 'Is Getting This Wrong' After Trade Secret Lawsuit](https://soylentnews.org/article.pl?sid=26/08/09/013207&from=rss)
 
 ## [Archives](archives/index.md)
 
