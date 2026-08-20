@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 19:11:00](https://soylentnews.org/article.pl?sid=26/08/19/0423256&from=rss) - [Nvidia Crypto Mining GPUs Hacked to Restore Locked-Away VRAM — Software Mod Unlocks 64GB of VRAM](https://soylentnews.org/article.pl?sid=26/08/19/0423256&from=rss)
 * [2026-08-20, 14:28:00](https://soylentnews.org/article.pl?sid=26/08/19/0419256&from=rss) - [AI-Generated Bills Are Reportedly Causing Problems in the Capitol](https://soylentnews.org/article.pl?sid=26/08/19/0419256&from=rss)
 * [2026-08-20, 09:46:00](https://soylentnews.org/article.pl?sid=26/08/19/0417243&from=rss) - [China Reportedly Orders State Agencies to Uninstall its Government-Only Edition of Windows 10](https://soylentnews.org/article.pl?sid=26/08/19/0417243&from=rss)
 * [2026-08-20, 04:58:00](https://soylentnews.org/article.pl?sid=26/08/19/049230&from=rss) - [Atlassian to Build $1.4b Tower in Sydney](https://soylentnews.org/article.pl?sid=26/08/19/049230&from=rss)
