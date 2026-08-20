@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-20, 09:46:00](https://soylentnews.org/article.pl?sid=26/08/19/0417243&from=rss) - [China Reportedly Orders State Agencies to Uninstall its Government-Only Edition of Windows 10](https://soylentnews.org/article.pl?sid=26/08/19/0417243&from=rss)
 * [2026-08-20, 04:58:00](https://soylentnews.org/article.pl?sid=26/08/19/049230&from=rss) - [Atlassian to Build $1.4b Tower in Sydney](https://soylentnews.org/article.pl?sid=26/08/19/049230&from=rss)
 * [2026-08-20, 00:09:00](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss) - [LIthium Battery Updates--Solid Li Batteries Are Not Coming Soon](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss)
 * [2026-08-19, 19:20:00](https://soylentnews.org/article.pl?sid=26/08/19/0132244&from=rss) - [Secret Tracking Device Placed in Rare Book Ends Up in Amazon Processing Facility](https://soylentnews.org/article.pl?sid=26/08/19/0132244&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-11, 02:25:00](https://soylentnews.org/article.pl?sid=26/08/10/118233&from=rss) - [Court Orders Meta to Pay an Additional $567 Million in New Mexico Child Safety Case](https://soylentnews.org/article.pl?sid=26/08/10/118233&from=rss)
 * [2026-08-10, 21:38:00](https://soylentnews.org/article.pl?sid=26/08/10/0250210&from=rss) - [‘Humans Will Be A Rounding Error On The Internet’ Says Cloudflare Exec](https://soylentnews.org/article.pl?sid=26/08/10/0250210&from=rss)
 * [2026-08-10, 16:50:00](https://soylentnews.org/article.pl?sid=26/08/10/0247256&from=rss) - [After Price Hikes Due To AI Data Centers, Firms To Pay For All Dedicated Upstream Infrastructure](https://soylentnews.org/article.pl?sid=26/08/10/0247256&from=rss)
-* [2026-08-10, 12:08:00](https://soylentnews.org/article.pl?sid=26/08/10/0236212&from=rss) - [Thousands Of Servers Can Be Backdoored By Exploiting Buggy Motherboard Controllers](https://soylentnews.org/article.pl?sid=26/08/10/0236212&from=rss)
 
 ## [Archives](archives/index.md)
 
