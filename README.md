@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-20, 00:09:00](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss) - [LIthium Battery Updates--Solid Li Batteries Are Not Coming Soon](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss)
 * [2026-08-19, 19:20:00](https://soylentnews.org/article.pl?sid=26/08/19/0132244&from=rss) - [Secret Tracking Device Placed in Rare Book Ends Up in Amazon Processing Facility](https://soylentnews.org/article.pl?sid=26/08/19/0132244&from=rss)
 * [2026-08-19, 14:36:00](https://soylentnews.org/article.pl?sid=26/08/19/0129231&from=rss) - [Microsoft Copilot Reveals Secret Input That Allowed It to be Hacked](https://soylentnews.org/article.pl?sid=26/08/19/0129231&from=rss)
 * [2026-08-19, 09:53:00](https://soylentnews.org/article.pl?sid=26/08/19/0124242&from=rss) - [The Ongoing Evolution of OpenBSD's relayd(8) and httpd(8)](https://soylentnews.org/article.pl?sid=26/08/19/0124242&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-10, 16:50:00](https://soylentnews.org/article.pl?sid=26/08/10/0247256&from=rss) - [After Price Hikes Due To AI Data Centers, Firms To Pay For All Dedicated Upstream Infrastructure](https://soylentnews.org/article.pl?sid=26/08/10/0247256&from=rss)
 * [2026-08-10, 12:08:00](https://soylentnews.org/article.pl?sid=26/08/10/0236212&from=rss) - [Thousands Of Servers Can Be Backdoored By Exploiting Buggy Motherboard Controllers](https://soylentnews.org/article.pl?sid=26/08/10/0236212&from=rss)
 * [2026-08-10, 07:19:00](https://soylentnews.org/article.pl?sid=26/08/09/2121234&from=rss) - [China Launches Mysterious Probe Into Security of Palo Alto Networks' Products](https://soylentnews.org/article.pl?sid=26/08/09/2121234&from=rss)
-* [2026-08-10, 02:34:00](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss) - [NASA Boss Balks At Billion-Dollar Estimate For Recycled Moon Rover](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss)
 
 ## [Archives](archives/index.md)
 
