@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-21, 14:07:00](https://soylentnews.org/article.pl?sid=26/08/20/1628253&from=rss) - [IRC is Back on Linux.Org!](https://soylentnews.org/article.pl?sid=26/08/20/1628253&from=rss)
 * [2026-08-21, 09:25:00](https://soylentnews.org/article.pl?sid=26/08/20/146258&from=rss) - [Baidu Says Chinese Buyers Want Local AI Chips Due to ‘Supply Chain’ Issues](https://soylentnews.org/article.pl?sid=26/08/20/146258&from=rss)
 * [2026-08-21, 04:44:00](https://soylentnews.org/article.pl?sid=26/08/20/144219&from=rss) - [Firm Test-Fires 3D-Printed, Fully Cryogenic Reusable Rocket Engine](https://soylentnews.org/article.pl?sid=26/08/20/144219&from=rss)
 * [2026-08-20, 23:59:00](https://soylentnews.org/article.pl?sid=26/08/20/141229&from=rss) - [ChatGPT's Computer History Tracks Your Clicks and Keystrokes](https://soylentnews.org/article.pl?sid=26/08/20/141229&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-12, 07:02:00](https://soylentnews.org/article.pl?sid=26/08/10/1747216&from=rss) - [Terafab  To Be Larger Than The Pentagon, Apple Park, Mall Of America, And Giga Texas Combined](https://soylentnews.org/article.pl?sid=26/08/10/1747216&from=rss)
 * [2026-08-12, 02:15:00](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss) - [Price Hikes May be Coming for PC Motherboards Next](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss)
 * [2026-08-11, 21:31:00](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss) - [Linus Torvalds Says AI Has Made 'Huge' Linux Kernel Updates The New Normal](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss)
-* [2026-08-11, 16:47:00](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss) - [Why 'Click-to-Cancel' Rules Are Popping Up Across the US](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss)
 
 ## [Archives](archives/index.md)
 
