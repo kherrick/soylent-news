@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-20, 23:59:00](https://soylentnews.org/article.pl?sid=26/08/20/141229&from=rss) - [ChatGPT's Computer History Tracks Your Clicks and Keystrokes](https://soylentnews.org/article.pl?sid=26/08/20/141229&from=rss)
 * [2026-08-20, 19:11:00](https://soylentnews.org/article.pl?sid=26/08/19/0423256&from=rss) - [Nvidia Crypto Mining GPUs Hacked to Restore Locked-Away VRAM — Software Mod Unlocks 64GB of VRAM](https://soylentnews.org/article.pl?sid=26/08/19/0423256&from=rss)
 * [2026-08-20, 14:28:00](https://soylentnews.org/article.pl?sid=26/08/19/0419256&from=rss) - [AI-Generated Bills Are Reportedly Causing Problems in the Capitol](https://soylentnews.org/article.pl?sid=26/08/19/0419256&from=rss)
 * [2026-08-20, 09:46:00](https://soylentnews.org/article.pl?sid=26/08/19/0417243&from=rss) - [China Reportedly Orders State Agencies to Uninstall its Government-Only Edition of Windows 10](https://soylentnews.org/article.pl?sid=26/08/19/0417243&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-11, 16:47:00](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss) - [Why 'Click-to-Cancel' Rules Are Popping Up Across the US](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss)
 * [2026-08-11, 12:01:00](https://soylentnews.org/article.pl?sid=26/08/10/1124248&from=rss) - [Poop Made Life on Earth Possible. Yes, Poop.](https://soylentnews.org/article.pl?sid=26/08/10/1124248&from=rss)
 * [2026-08-11, 07:11:00](https://soylentnews.org/article.pl?sid=26/08/10/1114225&from=rss) - [How the Famed USENIX Security Conf is Managing a Flood of Papers in the AI Era](https://soylentnews.org/article.pl?sid=26/08/10/1114225&from=rss)
-* [2026-08-11, 02:25:00](https://soylentnews.org/article.pl?sid=26/08/10/118233&from=rss) - [Court Orders Meta to Pay an Additional $567 Million in New Mexico Child Safety Case](https://soylentnews.org/article.pl?sid=26/08/10/118233&from=rss)
 
 ## [Archives](archives/index.md)
 
