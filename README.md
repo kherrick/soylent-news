@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-21, 23:33:00](https://soylentnews.org/article.pl?sid=26/08/20/1635259&from=rss) - [The 6 AI-Free Linux Distros  That Are Likely To Stay That Way](https://soylentnews.org/article.pl?sid=26/08/20/1635259&from=rss)
 * [2026-08-21, 18:55:00](https://soylentnews.org/article.pl?sid=26/08/20/1632204&from=rss) - [NASA Estimates The Size Of The Hole SpaceX Made In The Moon](https://soylentnews.org/article.pl?sid=26/08/20/1632204&from=rss)
 * [2026-08-21, 14:07:00](https://soylentnews.org/article.pl?sid=26/08/20/1628253&from=rss) - [IRC is Back on Linux.Org!](https://soylentnews.org/article.pl?sid=26/08/20/1628253&from=rss)
 * [2026-08-21, 09:25:00](https://soylentnews.org/article.pl?sid=26/08/20/146258&from=rss) - [Baidu Says Chinese Buyers Want Local AI Chips Due to ‘Supply Chain’ Issues](https://soylentnews.org/article.pl?sid=26/08/20/146258&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-12, 16:24:00](https://soylentnews.org/article.pl?sid=26/08/10/1752257&from=rss) - [Open-Source Stealth USB Hides An Encrypted Partition Behind An 8GB Decoy Drive](https://soylentnews.org/article.pl?sid=26/08/10/1752257&from=rss)
 * [2026-08-12, 11:39:00](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss) - [Protesters Haul A Guillotine To City Council Meeting About A Potential AI Data Center](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss)
 * [2026-08-12, 07:02:00](https://soylentnews.org/article.pl?sid=26/08/10/1747216&from=rss) - [Terafab  To Be Larger Than The Pentagon, Apple Park, Mall Of America, And Giga Texas Combined](https://soylentnews.org/article.pl?sid=26/08/10/1747216&from=rss)
-* [2026-08-12, 02:15:00](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss) - [Price Hikes May be Coming for PC Motherboards Next](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss)
 
 ## [Archives](archives/index.md)
 
