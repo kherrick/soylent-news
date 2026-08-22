@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-22, 09:08:00](https://soylentnews.org/article.pl?sid=26/08/20/1641225&from=rss) - [Inside Defcon, The Conference That Made Cybersecurity Noob-Friendly](https://soylentnews.org/article.pl?sid=26/08/20/1641225&from=rss)
 * [2026-08-22, 04:25:00](https://soylentnews.org/politics/article.pl?sid=26/08/20/1637255&from=rss) - [Experts, Lawmakers Blast RFK Jr. for Destroying Healthcare Research - \"Sabotage\"](https://soylentnews.org/politics/article.pl?sid=26/08/20/1637255&from=rss)
 * [2026-08-21, 23:33:00](https://soylentnews.org/article.pl?sid=26/08/20/1635259&from=rss) - [The 6 AI-Free Linux Distros  That Are Likely To Stay That Way](https://soylentnews.org/article.pl?sid=26/08/20/1635259&from=rss)
 * [2026-08-21, 18:55:00](https://soylentnews.org/article.pl?sid=26/08/20/1632204&from=rss) - [NASA Estimates The Size Of The Hole SpaceX Made In The Moon](https://soylentnews.org/article.pl?sid=26/08/20/1632204&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-13, 01:56:00](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss) - [The Return of MySpace? Platform Owners Tease Re-Launch ‘When the Time Is Right’](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss)
 * [2026-08-12, 21:10:00](https://soylentnews.org/article.pl?sid=26/08/10/1755226&from=rss) - [May I Have Access to All of Your Private Information, Please?](https://soylentnews.org/article.pl?sid=26/08/10/1755226&from=rss)
 * [2026-08-12, 16:24:00](https://soylentnews.org/article.pl?sid=26/08/10/1752257&from=rss) - [Open-Source Stealth USB Hides An Encrypted Partition Behind An 8GB Decoy Drive](https://soylentnews.org/article.pl?sid=26/08/10/1752257&from=rss)
-* [2026-08-12, 11:39:00](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss) - [Protesters Haul A Guillotine To City Council Meeting About A Potential AI Data Center](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss)
 
 ## [Archives](archives/index.md)
 
