@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-22, 23:24:00](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss) - [An AI Broke Snowflake's Code. Then Another AI Agent Exploited It](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss)
 * [2026-08-22, 18:53:00](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss) - [Several Technologies Predicted In Aliens (1986)](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss)
 * [2026-08-22, 13:51:00](https://soylentnews.org/article.pl?sid=26/08/21/1222236&from=rss) - [Almost Nobody Pays Attention to Web Standards Anymore](https://soylentnews.org/article.pl?sid=26/08/21/1222236&from=rss)
 * [2026-08-22, 09:08:00](https://soylentnews.org/article.pl?sid=26/08/20/1641225&from=rss) - [Inside Defcon, The Conference That Made Cybersecurity Noob-Friendly](https://soylentnews.org/article.pl?sid=26/08/20/1641225&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-13, 16:13:00](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss) - [License Plate Reader Searches Should Require a Warrant](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss)
 * [2026-08-13, 11:28:00](https://soylentnews.org/article.pl?sid=26/08/12/0010209&from=rss) - [Windows 11'S Built-In Weather App Hogs More Than 1.2 Gigabytes Of RAM Just To Tell The Forecast ](https://soylentnews.org/article.pl?sid=26/08/12/0010209&from=rss)
 * [2026-08-13, 06:47:00](https://soylentnews.org/article.pl?sid=26/08/12/008202&from=rss) - [Hey Claude, Get Me an Appointment...](https://soylentnews.org/article.pl?sid=26/08/12/008202&from=rss)
-* [2026-08-13, 01:56:00](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss) - [The Return of MySpace? Platform Owners Tease Re-Launch ‘When the Time Is Right’](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss)
 
 ## [Archives](archives/index.md)
 
