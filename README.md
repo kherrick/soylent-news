@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-23, 13:40:00](https://soylentnews.org/article.pl?sid=26/08/22/1912251&from=rss) - [Fairphone's Latest Repairable Phone is Going on Sale in the US](https://soylentnews.org/article.pl?sid=26/08/22/1912251&from=rss)
 * [2026-08-23, 08:50:00](https://soylentnews.org/article.pl?sid=26/08/22/191250&from=rss) - [Hackers Tricked a Major Retailer's AI Shopping Bot to Do Something It Was Never Supposed to](https://soylentnews.org/article.pl?sid=26/08/22/191250&from=rss)
 * [2026-08-23, 04:07:00](https://soylentnews.org/article.pl?sid=26/08/21/2148204&from=rss) - [Why Polylactide (PLA) 3D-Printing Plastic Is So Brittle](https://soylentnews.org/article.pl?sid=26/08/21/2148204&from=rss)
 * [2026-08-22, 23:24:00](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss) - [An AI Broke Snowflake's Code. Then Another AI Agent Exploited It](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-14, 06:26:00](https://soylentnews.org/article.pl?sid=26/08/13/127223&from=rss) - [When the Army Tries to Automate a Factory](https://soylentnews.org/article.pl?sid=26/08/13/127223&from=rss)
 * [2026-08-14, 01:42:00](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss) - [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss)
 * [2026-08-13, 20:55:00](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss) - [AMD Acquires AI Chip Startup Taalas to Boost Inference Performance by Etching Models Into Silicon](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
-* [2026-08-13, 16:13:00](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss) - [License Plate Reader Searches Should Require a Warrant](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss)
 
 ## [Archives](archives/index.md)
 
