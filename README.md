@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-24, 13:21:00](https://soylentnews.org/article.pl?sid=26/08/23/0243226&from=rss) - [Chinese Regulators Tell Tesla to Fix Nearly 3 Million Cars](https://soylentnews.org/article.pl?sid=26/08/23/0243226&from=rss)
 * [2026-08-24, 08:36:00](https://soylentnews.org/article.pl?sid=26/08/23/0237250&from=rss) - [Cloverleaf Deal is Latest Example of Nvidia Using its War Chest to Patch Cracks in the AI Bubble](https://soylentnews.org/article.pl?sid=26/08/23/0237250&from=rss)
 * [2026-08-24, 03:54:00](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss) - [Radiation Damage to the HST Has Been Several Years Out of Phase With the Solar Cycle](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss)
 * [2026-08-23, 23:09:00](https://soylentnews.org/article.pl?sid=26/08/23/0033227&from=rss) - [Amazon’s New Terms Of Service Bar Customers From Filing Class-Action Lawsuits](https://soylentnews.org/article.pl?sid=26/08/23/0033227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-15, 06:08:00](https://soylentnews.org/article.pl?sid=26/08/13/2037237&from=rss) - [Surprise, Surprise: CBP Officers Are Misusing Surveillance Tech](https://soylentnews.org/article.pl?sid=26/08/13/2037237&from=rss)
 * [2026-08-15, 01:22:00](https://soylentnews.org/article.pl?sid=26/08/13/2034239&from=rss) - [Claude's New Scarlet Letter Watermark Is Invisible — For Now](https://soylentnews.org/article.pl?sid=26/08/13/2034239&from=rss)
 * [2026-08-14, 20:39:00](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss) - [Ninth Circuit Rewrites Section 230 To Remove The Part That Actually Mattered ](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
-* [2026-08-14, 15:54:00](https://soylentnews.org/article.pl?sid=26/08/13/2028222&from=rss) - [The Zuckerfesto](https://soylentnews.org/article.pl?sid=26/08/13/2028222&from=rss)
 
 ## [Archives](archives/index.md)
 
