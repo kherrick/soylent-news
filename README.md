@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-24, 03:54:00](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss) - [Radiation Damage to the HST Has Been Several Years Out of Phase With the Solar Cycle](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss)
 * [2026-08-23, 23:09:00](https://soylentnews.org/article.pl?sid=26/08/23/0033227&from=rss) - [Amazon’s New Terms Of Service Bar Customers From Filing Class-Action Lawsuits](https://soylentnews.org/article.pl?sid=26/08/23/0033227&from=rss)
 * [2026-08-23, 18:24:00](https://soylentnews.org/article.pl?sid=26/08/23/0027258&from=rss) - [Planned US Data Centers Set to Produce 24M Cars’ Worth of Carbon Dioxide](https://soylentnews.org/article.pl?sid=26/08/23/0027258&from=rss)
 * [2026-08-23, 13:40:00](https://soylentnews.org/article.pl?sid=26/08/22/1912251&from=rss) - [Fairphone's Latest Repairable Phone is Going on Sale in the US](https://soylentnews.org/article.pl?sid=26/08/22/1912251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-14, 20:39:00](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss) - [Ninth Circuit Rewrites Section 230 To Remove The Part That Actually Mattered ](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
 * [2026-08-14, 15:54:00](https://soylentnews.org/article.pl?sid=26/08/13/2028222&from=rss) - [The Zuckerfesto](https://soylentnews.org/article.pl?sid=26/08/13/2028222&from=rss)
 * [2026-08-14, 11:13:00](https://soylentnews.org/article.pl?sid=26/08/13/2024258&from=rss) - [AI Is Dead. Organoids Are Alive            ](https://soylentnews.org/article.pl?sid=26/08/13/2024258&from=rss)
-* [2026-08-14, 06:26:00](https://soylentnews.org/article.pl?sid=26/08/13/127223&from=rss) - [When the Army Tries to Automate a Factory](https://soylentnews.org/article.pl?sid=26/08/13/127223&from=rss)
 
 ## [Archives](archives/index.md)
 
