@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-25, 03:22:00](https://soylentnews.org/article.pl?sid=26/08/23/2258205&from=rss) - [The Dead Internet Theory May Be Coming True, Pew Research Findings Show](https://soylentnews.org/article.pl?sid=26/08/23/2258205&from=rss)
 * [2026-08-24, 22:45:00](https://soylentnews.org/article.pl?sid=26/08/23/2251212&from=rss) - [As Wisconsin Cities Flee Flock, Its Shared Camera Network Loses Value](https://soylentnews.org/article.pl?sid=26/08/23/2251212&from=rss)
 * [2026-08-24, 18:04:00](https://soylentnews.org/article.pl?sid=26/08/23/0248216&from=rss) - [Hackers Poison Popular Rust Crates to Steal Developers' Credentials](https://soylentnews.org/article.pl?sid=26/08/23/0248216&from=rss)
 * [2026-08-24, 13:21:00](https://soylentnews.org/article.pl?sid=26/08/23/0243226&from=rss) - [Chinese Regulators Tell Tesla to Fix Nearly 3 Million Cars](https://soylentnews.org/article.pl?sid=26/08/23/0243226&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-15, 20:25:00](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss) - [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
 * [2026-08-15, 15:44:00](https://soylentnews.org/article.pl?sid=26/08/15/0137204&from=rss) - [Arizona University Offers Online Content Creation Degree](https://soylentnews.org/article.pl?sid=26/08/15/0137204&from=rss)
 * [2026-08-15, 10:56:00](https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss) - [Anthropic Will Design its Own Hardware to Power Claude](https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss)
-* [2026-08-15, 06:08:00](https://soylentnews.org/article.pl?sid=26/08/13/2037237&from=rss) - [Surprise, Surprise: CBP Officers Are Misusing Surveillance Tech](https://soylentnews.org/article.pl?sid=26/08/13/2037237&from=rss)
 
 ## [Archives](archives/index.md)
 
