@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-25, 17:37:00](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss) - [Framework Responds to Complaints That BIOS Update Bricks Ryzen 7040 Laptops](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss)
 * [2026-08-25, 12:51:00](https://soylentnews.org/article.pl?sid=26/08/24/1641227&from=rss) - [Ancient ‘Who Owns Linux?’ Case Now Has One Foot Very Deep in the Grave](https://soylentnews.org/article.pl?sid=26/08/24/1641227&from=rss)
 * [2026-08-25, 08:08:00](https://soylentnews.org/article.pl?sid=26/08/24/1639241&from=rss) - [Software Should Work, And Talking About It Needn't Be Boring](https://soylentnews.org/article.pl?sid=26/08/24/1639241&from=rss)
 * [2026-08-25, 03:22:00](https://soylentnews.org/article.pl?sid=26/08/23/2258205&from=rss) - [The Dead Internet Theory May Be Coming True, Pew Research Findings Show](https://soylentnews.org/article.pl?sid=26/08/23/2258205&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-16, 10:40:00](https://soylentnews.org/article.pl?sid=26/08/15/0332259&from=rss) - [IoT Device Forgets to Feed Hungry Kittens](https://soylentnews.org/article.pl?sid=26/08/15/0332259&from=rss)
 * [2026-08-16, 05:57:00](https://soylentnews.org/article.pl?sid=26/08/15/0320242&from=rss) - [Muse Glimmer 30B Open Weight Model for Local Deployment](https://soylentnews.org/article.pl?sid=26/08/15/0320242&from=rss)
 * [2026-08-16, 01:12:00](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss) - [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss)
-* [2026-08-15, 20:25:00](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss) - [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
 
 ## [Archives](archives/index.md)
 
