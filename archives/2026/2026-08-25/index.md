@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 18:45:00](https://soylentnews.org/breakingnews/article.pl?sid=26/08/25/1845218&from=rss) - [RIP: Dolly Parton](https://soylentnews.org/breakingnews/article.pl?sid=26/08/25/1845218&from=rss)
 * [2026-08-25, 17:37:00](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss) - [Framework Responds to Complaints That BIOS Update Bricks Ryzen 7040 Laptops](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss)
 * [2026-08-25, 12:51:00](https://soylentnews.org/article.pl?sid=26/08/24/1641227&from=rss) - [Ancient ‘Who Owns Linux?’ Case Now Has One Foot Very Deep in the Grave](https://soylentnews.org/article.pl?sid=26/08/24/1641227&from=rss)
 * [2026-08-25, 08:08:00](https://soylentnews.org/article.pl?sid=26/08/24/1639241&from=rss) - [Software Should Work, And Talking About It Needn't Be Boring](https://soylentnews.org/article.pl?sid=26/08/24/1639241&from=rss)

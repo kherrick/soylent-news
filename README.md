@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-25, 18:45:00](https://soylentnews.org/breakingnews/article.pl?sid=26/08/25/1845218&from=rss) - [RIP: Dolly Parton](https://soylentnews.org/breakingnews/article.pl?sid=26/08/25/1845218&from=rss)
 * [2026-08-25, 17:37:00](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss) - [Framework Responds to Complaints That BIOS Update Bricks Ryzen 7040 Laptops](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss)
 * [2026-08-25, 12:51:00](https://soylentnews.org/article.pl?sid=26/08/24/1641227&from=rss) - [Ancient ‘Who Owns Linux?’ Case Now Has One Foot Very Deep in the Grave](https://soylentnews.org/article.pl?sid=26/08/24/1641227&from=rss)
 * [2026-08-25, 08:08:00](https://soylentnews.org/article.pl?sid=26/08/24/1639241&from=rss) - [Software Should Work, And Talking About It Needn't Be Boring](https://soylentnews.org/article.pl?sid=26/08/24/1639241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-16, 15:27:00](https://soylentnews.org/article.pl?sid=26/08/15/0329232&from=rss) - [Cloudflare Open-Sources Vibe-Coding Platform for People Who Aren't Coders](https://soylentnews.org/article.pl?sid=26/08/15/0329232&from=rss)
 * [2026-08-16, 10:40:00](https://soylentnews.org/article.pl?sid=26/08/15/0332259&from=rss) - [IoT Device Forgets to Feed Hungry Kittens](https://soylentnews.org/article.pl?sid=26/08/15/0332259&from=rss)
 * [2026-08-16, 05:57:00](https://soylentnews.org/article.pl?sid=26/08/15/0320242&from=rss) - [Muse Glimmer 30B Open Weight Model for Local Deployment](https://soylentnews.org/article.pl?sid=26/08/15/0320242&from=rss)
-* [2026-08-16, 01:12:00](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss) - [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss)
 
 ## [Archives](archives/index.md)
 
