@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-26, 16:10:00](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss) - [RIP: Tim Curry - Star of the Rocky Horror Picture Show](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss)
 * [2026-08-26, 12:34:00](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss) - [Thunder + Fiber-Optic Cabling Used for Seismic Imaging](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss)
 * [2026-08-26, 07:57:00](https://soylentnews.org/article.pl?sid=26/08/25/2359237&from=rss) - [Dismantling the Roadless Rule Threatens to Disrupt Wildlife and Water in US](https://soylentnews.org/article.pl?sid=26/08/25/2359237&from=rss)
 * [2026-08-26, 00:05:00](https://soylentnews.org/article.pl?sid=26/08/25/2346243&from=rss) - [Desktop CPU Shipments Crater 20% Amid High Component Costs](https://soylentnews.org/article.pl?sid=26/08/25/2346243&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-17, 19:49:00](https://soylentnews.org/article.pl?sid=26/08/16/1954250&from=rss) - [If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them](https://soylentnews.org/article.pl?sid=26/08/16/1954250&from=rss)
 * [2026-08-17, 15:12:00](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss) - [Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss)
 * [2026-08-17, 05:49:00](https://soylentnews.org/article.pl?sid=26/08/15/2252208&from=rss) - [Will We Ever Solve the Problem of Losing Data?](https://soylentnews.org/article.pl?sid=26/08/15/2252208&from=rss)
-* [2026-08-17, 00:59:00](https://soylentnews.org/article.pl?sid=26/08/15/2249241&from=rss) - [The Color of White Light](https://soylentnews.org/article.pl?sid=26/08/15/2249241&from=rss)
 
 ## [Archives](archives/index.md)
 
