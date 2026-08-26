@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 22:05:00](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss) - [Humanoid Robots Have Beaten Usain Bolt's 100-Meter Dash Record](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss)
 * [2026-08-26, 17:29:00](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss) - [Florida Seeks Court Ruling to Officially Classify Sam Altman and ChatGPT as a 'Public Nuisance'](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss)
 * [2026-08-26, 16:10:00](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss) - [RIP: Tim Curry - Star of the Rocky Horror Picture Show](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss)
 * [2026-08-26, 12:34:00](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss) - [Thunder + Fiber-Optic Cabling Used for Seismic Imaging](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss)
