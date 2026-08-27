@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-27, 12:18:00](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss) - [US Authorities Say Siemens Controllers Used for Water and Other Infrastructure Are Being Targeted](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss)
+* [2026-08-27, 07:35:00](https://soylentnews.org/article.pl?sid=26/08/26/0437210&from=rss) - [This Company is Making a 'No Tech' Tractor for Maximum Repairability](https://soylentnews.org/article.pl?sid=26/08/26/0437210&from=rss)
 * [2026-08-27, 02:48:00](https://soylentnews.org/article.pl?sid=26/08/26/0410207&from=rss) - [OpenAI's Overhead Will Rise 20 Percent for Some Workloads as It Hardens Security](https://soylentnews.org/article.pl?sid=26/08/26/0410207&from=rss)
 * [2026-08-26, 22:05:00](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss) - [Humanoid Robots Have Beaten Usain Bolt's 100-Meter Dash Record](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss)
 * [2026-08-26, 17:29:00](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss) - [Florida Seeks Court Ruling to Officially Classify Sam Altman and ChatGPT as a 'Public Nuisance'](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss)
@@ -48,8 +50,6 @@
 * [2026-08-18, 19:30:00](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss) - [Memory Maker CXMT Overtakes Tencent to Become China's Most Valuable Company 17 Days After its IPO](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss)
 * [2026-08-18, 14:58:00](https://soylentnews.org/article.pl?sid=26/08/18/0350221&from=rss) - [Scientists Increasingly Depend on ‘Black-Box’ Tools They Cannot Control or Fully Understand](https://soylentnews.org/article.pl?sid=26/08/18/0350221&from=rss)
 * [2026-08-18, 10:07:00](https://soylentnews.org/article.pl?sid=26/08/18/0348225&from=rss) - [Recent Developments Applying AI to the Riemann Hypothesis](https://soylentnews.org/article.pl?sid=26/08/18/0348225&from=rss)
-* [2026-08-18, 05:20:00](https://soylentnews.org/article.pl?sid=26/08/16/201225&from=rss) - [Always Finish Your Antibiotics? Longer is Better? Outdated Ideas About Antibiotics Are Common](https://soylentnews.org/article.pl?sid=26/08/16/201225&from=rss)
-* [2026-08-18, 00:35:00](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss) - [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss)
 
 ## [Archives](archives/index.md)
 
