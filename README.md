@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-27, 02:48:00](https://soylentnews.org/article.pl?sid=26/08/26/0410207&from=rss) - [OpenAI's Overhead Will Rise 20 Percent for Some Workloads as It Hardens Security](https://soylentnews.org/article.pl?sid=26/08/26/0410207&from=rss)
 * [2026-08-26, 22:05:00](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss) - [Humanoid Robots Have Beaten Usain Bolt's 100-Meter Dash Record](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss)
 * [2026-08-26, 17:29:00](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss) - [Florida Seeks Court Ruling to Officially Classify Sam Altman and ChatGPT as a 'Public Nuisance'](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss)
 * [2026-08-26, 16:10:00](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss) - [RIP: Tim Curry - Star of the Rocky Horror Picture Show](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-18, 10:07:00](https://soylentnews.org/article.pl?sid=26/08/18/0348225&from=rss) - [Recent Developments Applying AI to the Riemann Hypothesis](https://soylentnews.org/article.pl?sid=26/08/18/0348225&from=rss)
 * [2026-08-18, 05:20:00](https://soylentnews.org/article.pl?sid=26/08/16/201225&from=rss) - [Always Finish Your Antibiotics? Longer is Better? Outdated Ideas About Antibiotics Are Common](https://soylentnews.org/article.pl?sid=26/08/16/201225&from=rss)
 * [2026-08-18, 00:35:00](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss) - [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss)
-* [2026-08-17, 19:49:00](https://soylentnews.org/article.pl?sid=26/08/16/1954250&from=rss) - [If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them](https://soylentnews.org/article.pl?sid=26/08/16/1954250&from=rss)
 
 ## [Archives](archives/index.md)
 
