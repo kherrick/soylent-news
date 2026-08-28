@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-28, 21:22:00](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss) - ['Security by Antiquity': Why Older Tech is Sometimes Safer From Hackers](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss)
+* [2026-08-28, 16:34:00](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss) - [HaikuOS Version: R1/beta6 Released!](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss)
 * [2026-08-28, 11:53:00](https://soylentnews.org/article.pl?sid=26/08/27/1719228&from=rss) - [The Human Reservation Plan](https://soylentnews.org/article.pl?sid=26/08/27/1719228&from=rss)
 * [2026-08-28, 07:09:00](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss) - [AliExpress Ran Silent Browser Audio to Fingerprint and Track Devices, Researchers Find](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss)
 * [2026-08-28, 02:24:00](https://soylentnews.org/article.pl?sid=26/08/26/0445241&from=rss) - [An Ultra-Rare Piece of Microsoft History Could be Hiding on Your Shelf](https://soylentnews.org/article.pl?sid=26/08/26/0445241&from=rss)
@@ -48,8 +50,6 @@
 * [2026-08-20, 00:09:00](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss) - [LIthium Battery Updates--Solid Li Batteries Are Not Coming Soon](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss)
 * [2026-08-19, 19:20:00](https://soylentnews.org/article.pl?sid=26/08/19/0132244&from=rss) - [Secret Tracking Device Placed in Rare Book Ends Up in Amazon Processing Facility](https://soylentnews.org/article.pl?sid=26/08/19/0132244&from=rss)
 * [2026-08-19, 14:36:00](https://soylentnews.org/article.pl?sid=26/08/19/0129231&from=rss) - [Microsoft Copilot Reveals Secret Input That Allowed It to be Hacked](https://soylentnews.org/article.pl?sid=26/08/19/0129231&from=rss)
-* [2026-08-19, 09:53:00](https://soylentnews.org/article.pl?sid=26/08/19/0124242&from=rss) - [The Ongoing Evolution of OpenBSD's relayd(8) and httpd(8)](https://soylentnews.org/article.pl?sid=26/08/19/0124242&from=rss)
-* [2026-08-19, 08:43:00](https://soylentnews.org/article.pl?sid=26/08/19/0825217&from=rss) - [Tim King, AmigaDOS Royalty, Dies Aged 70](https://soylentnews.org/article.pl?sid=26/08/19/0825217&from=rss)
 
 ## [Archives](archives/index.md)
 
