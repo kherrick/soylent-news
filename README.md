@@ -1,5 +1,8 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-28, 11:53:00](https://soylentnews.org/article.pl?sid=26/08/27/1719228&from=rss) - [The Human Reservation Plan](https://soylentnews.org/article.pl?sid=26/08/27/1719228&from=rss)
+* [2026-08-28, 07:09:00](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss) - [AliExpress Ran Silent Browser Audio to Fingerprint and Track Devices, Researchers Find](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss)
+* [2026-08-28, 02:24:00](https://soylentnews.org/article.pl?sid=26/08/26/0445241&from=rss) - [An Ultra-Rare Piece of Microsoft History Could be Hiding on Your Shelf](https://soylentnews.org/article.pl?sid=26/08/26/0445241&from=rss)
 * [2026-08-27, 21:42:00](https://soylentnews.org/article.pl?sid=26/08/26/0443249&from=rss) - [China Calls Off Ambitious Ice-Hunting Moonshot a Day Before Flight](https://soylentnews.org/article.pl?sid=26/08/26/0443249&from=rss)
 * [2026-08-27, 17:00:00](https://soylentnews.org/article.pl?sid=26/08/26/0441245&from=rss) - [Specially Crafted NTFS File-System Image Allows Root Access on Linux With NTFS3 Driver](https://soylentnews.org/article.pl?sid=26/08/26/0441245&from=rss)
 * [2026-08-27, 12:18:00](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss) - [US Authorities Say Siemens Controllers Used for Water and Other Infrastructure Are Being Targeted](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss)
@@ -47,9 +50,6 @@
 * [2026-08-19, 14:36:00](https://soylentnews.org/article.pl?sid=26/08/19/0129231&from=rss) - [Microsoft Copilot Reveals Secret Input That Allowed It to be Hacked](https://soylentnews.org/article.pl?sid=26/08/19/0129231&from=rss)
 * [2026-08-19, 09:53:00](https://soylentnews.org/article.pl?sid=26/08/19/0124242&from=rss) - [The Ongoing Evolution of OpenBSD's relayd(8) and httpd(8)](https://soylentnews.org/article.pl?sid=26/08/19/0124242&from=rss)
 * [2026-08-19, 08:43:00](https://soylentnews.org/article.pl?sid=26/08/19/0825217&from=rss) - [Tim King, AmigaDOS Royalty, Dies Aged 70](https://soylentnews.org/article.pl?sid=26/08/19/0825217&from=rss)
-* [2026-08-19, 05:04:00](https://soylentnews.org/article.pl?sid=26/08/19/0125241&from=rss) - [Quake Shareware, a CD-ROM Just a Little Too Full](https://soylentnews.org/article.pl?sid=26/08/19/0125241&from=rss)
-* [2026-08-19, 00:22:00](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss) - [Tiny Satellite Will Use the Dark Side of the Moon to Eavesdrop on Whispers From the Early Universe](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss)
-* [2026-08-18, 19:30:00](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss) - [Memory Maker CXMT Overtakes Tencent to Become China's Most Valuable Company 17 Days After its IPO](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss)
 
 ## [Archives](archives/index.md)
 
