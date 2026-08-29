@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-29](index.md)
+
+* [2026-08-29, 02:07:00](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss) - [Self-Hosted Email Is In Steep Decline, Microsoft And Google Are Taking Over](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss)

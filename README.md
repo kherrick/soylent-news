@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-29, 02:07:00](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss) - [Self-Hosted Email Is In Steep Decline, Microsoft And Google Are Taking Over](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss)
 * [2026-08-28, 21:22:00](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss) - ['Security by Antiquity': Why Older Tech is Sometimes Safer From Hackers](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss)
 * [2026-08-28, 16:34:00](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss) - [HaikuOS Version: R1/beta6 Released!](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss)
 * [2026-08-28, 11:53:00](https://soylentnews.org/article.pl?sid=26/08/27/1719228&from=rss) - [The Human Reservation Plan](https://soylentnews.org/article.pl?sid=26/08/27/1719228&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-20, 04:58:00](https://soylentnews.org/article.pl?sid=26/08/19/049230&from=rss) - [Atlassian to Build $1.4b Tower in Sydney](https://soylentnews.org/article.pl?sid=26/08/19/049230&from=rss)
 * [2026-08-20, 00:09:00](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss) - [LIthium Battery Updates--Solid Li Batteries Are Not Coming Soon](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss)
 * [2026-08-19, 19:20:00](https://soylentnews.org/article.pl?sid=26/08/19/0132244&from=rss) - [Secret Tracking Device Placed in Rare Book Ends Up in Amazon Processing Facility](https://soylentnews.org/article.pl?sid=26/08/19/0132244&from=rss)
-* [2026-08-19, 14:36:00](https://soylentnews.org/article.pl?sid=26/08/19/0129231&from=rss) - [Microsoft Copilot Reveals Secret Input That Allowed It to be Hacked](https://soylentnews.org/article.pl?sid=26/08/19/0129231&from=rss)
 
 ## [Archives](archives/index.md)
 
