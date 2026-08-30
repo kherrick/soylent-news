@@ -1,5 +1,11 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-30, 06:34:00](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss) - [Advent and Stripe Abandon $50 Billion Pursuit of PayPal](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss)
+* [2026-08-30, 01:55:00](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss) - [Uber Hit With a Nearly $1 Billion Fine for Automatically Deactivating Drivers in Europe](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss)
+* [2026-08-29, 21:11:00](https://soylentnews.org/article.pl?sid=26/08/29/0014247&from=rss) - [Brave Adds Email Aliases to Hide Your Real Address](https://soylentnews.org/article.pl?sid=26/08/29/0014247&from=rss)
+* [2026-08-29, 16:21:00](https://soylentnews.org/article.pl?sid=26/08/29/0013246&from=rss) - [Local Officials Face Death Threats and Gunfire Over AI Data Center Projects](https://soylentnews.org/article.pl?sid=26/08/29/0013246&from=rss)
+* [2026-08-29, 11:49:00](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss) - [SourceHut Updates ToS to Prohibit LLMs](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss)
+* [2026-08-29, 06:56:00](https://soylentnews.org/article.pl?sid=26/08/28/1232209&from=rss) - [Nvidia Warns of 15% AI Server Price Hikes and Buy Your Own AI Workstatation for Only $100k](https://soylentnews.org/article.pl?sid=26/08/28/1232209&from=rss)
 * [2026-08-29, 02:07:00](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss) - [Self-Hosted Email Is In Steep Decline, Microsoft And Google Are Taking Over](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss)
 * [2026-08-28, 21:22:00](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss) - ['Security by Antiquity': Why Older Tech is Sometimes Safer From Hackers](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss)
 * [2026-08-28, 16:34:00](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss) - [HaikuOS Version: R1/beta6 Released!](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss)
@@ -44,12 +50,6 @@
 * [2026-08-21, 09:25:00](https://soylentnews.org/article.pl?sid=26/08/20/146258&from=rss) - [Baidu Says Chinese Buyers Want Local AI Chips Due to ‘Supply Chain’ Issues](https://soylentnews.org/article.pl?sid=26/08/20/146258&from=rss)
 * [2026-08-21, 04:44:00](https://soylentnews.org/article.pl?sid=26/08/20/144219&from=rss) - [Firm Test-Fires 3D-Printed, Fully Cryogenic Reusable Rocket Engine](https://soylentnews.org/article.pl?sid=26/08/20/144219&from=rss)
 * [2026-08-20, 23:59:00](https://soylentnews.org/article.pl?sid=26/08/20/141229&from=rss) - [ChatGPT's Computer History Tracks Your Clicks and Keystrokes](https://soylentnews.org/article.pl?sid=26/08/20/141229&from=rss)
-* [2026-08-20, 19:11:00](https://soylentnews.org/article.pl?sid=26/08/19/0423256&from=rss) - [Nvidia Crypto Mining GPUs Hacked to Restore Locked-Away VRAM — Software Mod Unlocks 64GB of VRAM](https://soylentnews.org/article.pl?sid=26/08/19/0423256&from=rss)
-* [2026-08-20, 14:28:00](https://soylentnews.org/article.pl?sid=26/08/19/0419256&from=rss) - [AI-Generated Bills Are Reportedly Causing Problems in the Capitol](https://soylentnews.org/article.pl?sid=26/08/19/0419256&from=rss)
-* [2026-08-20, 09:46:00](https://soylentnews.org/article.pl?sid=26/08/19/0417243&from=rss) - [China Reportedly Orders State Agencies to Uninstall its Government-Only Edition of Windows 10](https://soylentnews.org/article.pl?sid=26/08/19/0417243&from=rss)
-* [2026-08-20, 04:58:00](https://soylentnews.org/article.pl?sid=26/08/19/049230&from=rss) - [Atlassian to Build $1.4b Tower in Sydney](https://soylentnews.org/article.pl?sid=26/08/19/049230&from=rss)
-* [2026-08-20, 00:09:00](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss) - [LIthium Battery Updates--Solid Li Batteries Are Not Coming Soon](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss)
-* [2026-08-19, 19:20:00](https://soylentnews.org/article.pl?sid=26/08/19/0132244&from=rss) - [Secret Tracking Device Placed in Rare Book Ends Up in Amazon Processing Facility](https://soylentnews.org/article.pl?sid=26/08/19/0132244&from=rss)
 
 ## [Archives](archives/index.md)
 
