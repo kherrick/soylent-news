@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-31, 18:05:00](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss) - [AI Agents Meant To Replace Meta Workers Made “Large-Scale, Disruptive Actions”](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss)
+* [2026-08-31, 13:22:00](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss) - [Sony Is Reminding Us (Again) That We Don’t Own Our PlayStation Games](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss)
 * [2026-08-31, 08:30:00](https://soylentnews.org/article.pl?sid=26/08/30/2252232&from=rss) - [Flock Shock Rocks Cop Cam Vendor As Protests Mount](https://soylentnews.org/article.pl?sid=26/08/30/2252232&from=rss)
 * [2026-08-31, 03:58:00](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss) - [India's Crewed Space Program Will Fly This Year, After Missing 2022 and 2025 Targets](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss)
 * [2026-08-30, 23:05:00](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss) - [Judge Rules That The Pentagon's Anthropic Ban Was 'Illegal And Baseless'](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss)
@@ -48,8 +50,6 @@
 * [2026-08-22, 18:53:00](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss) - [Several Technologies Predicted In Aliens (1986)](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss)
 * [2026-08-22, 13:51:00](https://soylentnews.org/article.pl?sid=26/08/21/1222236&from=rss) - [Almost Nobody Pays Attention to Web Standards Anymore](https://soylentnews.org/article.pl?sid=26/08/21/1222236&from=rss)
 * [2026-08-22, 09:08:00](https://soylentnews.org/article.pl?sid=26/08/20/1641225&from=rss) - [Inside Defcon, The Conference That Made Cybersecurity Noob-Friendly](https://soylentnews.org/article.pl?sid=26/08/20/1641225&from=rss)
-* [2026-08-22, 04:25:00](https://soylentnews.org/politics/article.pl?sid=26/08/20/1637255&from=rss) - [Experts, Lawmakers Blast RFK Jr. for Destroying Healthcare Research - \"Sabotage\"](https://soylentnews.org/politics/article.pl?sid=26/08/20/1637255&from=rss)
-* [2026-08-21, 23:33:00](https://soylentnews.org/article.pl?sid=26/08/20/1635259&from=rss) - [The 6 AI-Free Linux Distros  That Are Likely To Stay That Way](https://soylentnews.org/article.pl?sid=26/08/20/1635259&from=rss)
 
 ## [Archives](archives/index.md)
 
