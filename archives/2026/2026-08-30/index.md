@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-30](index.md)
 
+* [2026-08-30, 23:05:00](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss) - [Judge Rules That The Pentagon's Anthropic Ban Was 'Illegal And Baseless'](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss)
 * [2026-08-30, 18:21:00](https://soylentnews.org/article.pl?sid=26/08/30/1332203&from=rss) - [X Uncovers Massive Chinese Bot Farm Targeting U.S. Data Centers](https://soylentnews.org/article.pl?sid=26/08/30/1332203&from=rss)
 * [2026-08-30, 13:36:00](https://soylentnews.org/article.pl?sid=26/08/30/1326251&from=rss) - [Get Up To $60 Back For Your Pre-Installed Windows 11 License](https://soylentnews.org/article.pl?sid=26/08/30/1326251&from=rss)
 * [2026-08-30, 06:34:00](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss) - [Advent and Stripe Abandon $50 Billion Pursuit of PayPal](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss)
