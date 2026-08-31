@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-31](index.md)
+
+* [2026-08-31, 03:58:00](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss) - [India's Crewed Space Program Will Fly This Year, After Missing 2022 and 2025 Targets](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss)
