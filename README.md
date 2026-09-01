@@ -1,13 +1,14 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-01, 03:49:00](https://soylentnews.org/article.pl?sid=26/08/31/017238&from=rss) - [Spy to Space: The Science Behind NASA's Roman Space Telescope](https://soylentnews.org/article.pl?sid=26/08/31/017238&from=rss)
 * [2026-08-31, 22:57:00](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss) - [1 In 6 VPNs Track Your Location, According To New Report From Proton](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss)
 * [2026-08-31, 18:05:00](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss) - [AI Agents Meant To Replace Meta Workers Made “Large-Scale, Disruptive Actions”](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss)
 * [2026-08-31, 13:22:00](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss) - [Sony Is Reminding Us (Again) That We Don’t Own Our PlayStation Games](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss)
 * [2026-08-31, 08:30:00](https://soylentnews.org/article.pl?sid=26/08/30/2252232&from=rss) - [Flock Shock Rocks Cop Cam Vendor As Protests Mount](https://soylentnews.org/article.pl?sid=26/08/30/2252232&from=rss)
 * [2026-08-31, 03:58:00](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss) - [India's Crewed Space Program Will Fly This Year, After Missing 2022 and 2025 Targets](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss)
-* [2026-08-30, 23:05:00](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss) - [Judge Rules That The Pentagon's Anthropic Ban Was 'Illegal And Baseless'](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss)
+* [2026-08-30, 23:05:00](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss) - [Judge Rules That the Pentagon's Anthropic Ban Was 'Illegal and Baseless'](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss)
 * [2026-08-30, 18:21:00](https://soylentnews.org/article.pl?sid=26/08/30/1332203&from=rss) - [X Uncovers Massive Chinese Bot Farm Targeting U.S. Data Centers](https://soylentnews.org/article.pl?sid=26/08/30/1332203&from=rss)
-* [2026-08-30, 13:36:00](https://soylentnews.org/article.pl?sid=26/08/30/1326251&from=rss) - [Get Up To $60 Back For Your Pre-Installed Windows 11 License](https://soylentnews.org/article.pl?sid=26/08/30/1326251&from=rss)
+* [2026-08-30, 13:36:00](https://soylentnews.org/article.pl?sid=26/08/30/1326251&from=rss) - [Get Up to $60 Back for Your Pre-Installed Windows 11 License](https://soylentnews.org/article.pl?sid=26/08/30/1326251&from=rss)
 * [2026-08-30, 06:34:00](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss) - [Advent and Stripe Abandon $50 Billion Pursuit of PayPal](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss)
 * [2026-08-30, 01:55:00](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss) - [Uber Hit With a Nearly $1 Billion Fine for Automatically Deactivating Drivers in Europe](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss)
 * [2026-08-29, 21:11:00](https://soylentnews.org/article.pl?sid=26/08/29/0014247&from=rss) - [Brave Adds Email Aliases to Hide Your Real Address](https://soylentnews.org/article.pl?sid=26/08/29/0014247&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-23, 04:07:00](https://soylentnews.org/article.pl?sid=26/08/21/2148204&from=rss) - [Why Polylactide (PLA) 3D-Printing Plastic Is So Brittle](https://soylentnews.org/article.pl?sid=26/08/21/2148204&from=rss)
 * [2026-08-22, 23:24:00](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss) - [An AI Broke Snowflake's Code. Then Another AI Agent Exploited It](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss)
 * [2026-08-22, 18:53:00](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss) - [Several Technologies Predicted In Aliens (1986)](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss)
-* [2026-08-22, 13:51:00](https://soylentnews.org/article.pl?sid=26/08/21/1222236&from=rss) - [Almost Nobody Pays Attention to Web Standards Anymore](https://soylentnews.org/article.pl?sid=26/08/21/1222236&from=rss)
 
 ## [Archives](archives/index.md)
 
