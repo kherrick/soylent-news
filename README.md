@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-08-31, 22:57:00](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss) - [1 In 6 VPNs Track Your Location, According To New Report From Proton](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss)
 * [2026-08-31, 18:05:00](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss) - [AI Agents Meant To Replace Meta Workers Made “Large-Scale, Disruptive Actions”](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss)
 * [2026-08-31, 13:22:00](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss) - [Sony Is Reminding Us (Again) That We Don’t Own Our PlayStation Games](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss)
 * [2026-08-31, 08:30:00](https://soylentnews.org/article.pl?sid=26/08/30/2252232&from=rss) - [Flock Shock Rocks Cop Cam Vendor As Protests Mount](https://soylentnews.org/article.pl?sid=26/08/30/2252232&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-22, 23:24:00](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss) - [An AI Broke Snowflake's Code. Then Another AI Agent Exploited It](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss)
 * [2026-08-22, 18:53:00](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss) - [Several Technologies Predicted In Aliens (1986)](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss)
 * [2026-08-22, 13:51:00](https://soylentnews.org/article.pl?sid=26/08/21/1222236&from=rss) - [Almost Nobody Pays Attention to Web Standards Anymore](https://soylentnews.org/article.pl?sid=26/08/21/1222236&from=rss)
-* [2026-08-22, 09:08:00](https://soylentnews.org/article.pl?sid=26/08/20/1641225&from=rss) - [Inside Defcon, The Conference That Made Cybersecurity Noob-Friendly](https://soylentnews.org/article.pl?sid=26/08/20/1641225&from=rss)
 
 ## [Archives](archives/index.md)
 
