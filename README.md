@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-01, 08:30:00](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss) - [FBI Seizes Hacking Tools It Says China Used to Attack NASA, DOE, US Senate and Critical Networks](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss)
 * [2026-09-01, 03:49:00](https://soylentnews.org/article.pl?sid=26/08/31/017238&from=rss) - [Spy to Space: The Science Behind NASA's Roman Space Telescope](https://soylentnews.org/article.pl?sid=26/08/31/017238&from=rss)
 * [2026-08-31, 22:57:00](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss) - [1 In 6 VPNs Track Your Location, According To New Report From Proton](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss)
 * [2026-08-31, 18:05:00](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss) - [AI Agents Meant To Replace Meta Workers Made “Large-Scale, Disruptive Actions”](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-23, 08:50:00](https://soylentnews.org/article.pl?sid=26/08/22/191250&from=rss) - [Hackers Tricked a Major Retailer's AI Shopping Bot to Do Something It Was Never Supposed to](https://soylentnews.org/article.pl?sid=26/08/22/191250&from=rss)
 * [2026-08-23, 04:07:00](https://soylentnews.org/article.pl?sid=26/08/21/2148204&from=rss) - [Why Polylactide (PLA) 3D-Printing Plastic Is So Brittle](https://soylentnews.org/article.pl?sid=26/08/21/2148204&from=rss)
 * [2026-08-22, 23:24:00](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss) - [An AI Broke Snowflake's Code. Then Another AI Agent Exploited It](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss)
-* [2026-08-22, 18:53:00](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss) - [Several Technologies Predicted In Aliens (1986)](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss)
 
 ## [Archives](archives/index.md)
 
