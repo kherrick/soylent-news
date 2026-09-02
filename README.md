@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-02, 08:18:00](https://soylentnews.org/article.pl?sid=26/09/01/0310224&from=rss) - [FOSS Force Interviews Richard Stallman](https://soylentnews.org/article.pl?sid=26/09/01/0310224&from=rss)
 * [2026-09-02, 03:30:00](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss) - [Meta Settles States' Child-Safety Claims for $18B; Florida Rejects Deal as \"Peanuts\"](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss)
 * [2026-09-01, 22:44:00](https://soylentnews.org/article.pl?sid=26/09/01/0255250&from=rss) - [Debian Votes To Let Contributors Code With AI](https://soylentnews.org/article.pl?sid=26/09/01/0255250&from=rss)
 * [2026-09-01, 17:55:00](https://soylentnews.org/article.pl?sid=26/09/01/0237240&from=rss) - [OpenAI Explains How its Naughty AI Agents Attacked Hugging Face](https://soylentnews.org/article.pl?sid=26/09/01/0237240&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-24, 08:36:00](https://soylentnews.org/article.pl?sid=26/08/23/0237250&from=rss) - [Cloverleaf Deal is Latest Example of Nvidia Using its War Chest to Patch Cracks in the AI Bubble](https://soylentnews.org/article.pl?sid=26/08/23/0237250&from=rss)
 * [2026-08-24, 03:54:00](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss) - [Radiation Damage to the HST Has Been Several Years Out of Phase With the Solar Cycle](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss)
 * [2026-08-23, 23:09:00](https://soylentnews.org/article.pl?sid=26/08/23/0033227&from=rss) - [Amazon’s New Terms Of Service Bar Customers From Filing Class-Action Lawsuits](https://soylentnews.org/article.pl?sid=26/08/23/0033227&from=rss)
-* [2026-08-23, 18:24:00](https://soylentnews.org/article.pl?sid=26/08/23/0027258&from=rss) - [Planned US Data Centers Set to Produce 24M Cars’ Worth of Carbon Dioxide](https://soylentnews.org/article.pl?sid=26/08/23/0027258&from=rss)
 
 ## [Archives](archives/index.md)
 
