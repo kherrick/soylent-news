@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-02, 17:55:00](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss) - [A Matter of Millimeters: The story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss)
 * [2026-09-02, 13:06:00](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss) - [Plastic Bottles Can be Turned Into Edible, Vanilla-Flavour Cookies](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss)
 * [2026-09-02, 08:18:00](https://soylentnews.org/article.pl?sid=26/09/01/0310224&from=rss) - [FOSS Force Interviews Richard Stallman](https://soylentnews.org/article.pl?sid=26/09/01/0310224&from=rss)
 * [2026-09-02, 03:30:00](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss) - [Meta Settles States' Child-Safety Claims for $18B; Florida Rejects Deal as \"Peanuts\"](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-24, 18:04:00](https://soylentnews.org/article.pl?sid=26/08/23/0248216&from=rss) - [Hackers Poison Popular Rust Crates to Steal Developers' Credentials](https://soylentnews.org/article.pl?sid=26/08/23/0248216&from=rss)
 * [2026-08-24, 13:21:00](https://soylentnews.org/article.pl?sid=26/08/23/0243226&from=rss) - [Chinese Regulators Tell Tesla to Fix Nearly 3 Million Cars](https://soylentnews.org/article.pl?sid=26/08/23/0243226&from=rss)
 * [2026-08-24, 08:36:00](https://soylentnews.org/article.pl?sid=26/08/23/0237250&from=rss) - [Cloverleaf Deal is Latest Example of Nvidia Using its War Chest to Patch Cracks in the AI Bubble](https://soylentnews.org/article.pl?sid=26/08/23/0237250&from=rss)
-* [2026-08-24, 03:54:00](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss) - [Radiation Damage to the HST Has Been Several Years Out of Phase With the Solar Cycle](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss)
 
 ## [Archives](archives/index.md)
 
