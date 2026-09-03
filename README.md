@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-03, 08:06:00](https://soylentnews.org/article.pl?sid=26/09/02/1158220&from=rss) - [More Than 100 Water Systems Were Hit in July Cyberattacks in US](https://soylentnews.org/article.pl?sid=26/09/02/1158220&from=rss)
 * [2026-09-03, 03:21:00](https://soylentnews.org/article.pl?sid=26/09/02/0022223&from=rss) - [California Lawmakers Unanimously Pass Linux Exemption From Age-Verification Law](https://soylentnews.org/article.pl?sid=26/09/02/0022223&from=rss)
 * [2026-09-02, 22:37:00](https://soylentnews.org/article.pl?sid=26/09/02/0020259&from=rss) - [The Balkanization Of Virtualization Will De-Throne VMware, Which Doesn't Mind A Bit](https://soylentnews.org/article.pl?sid=26/09/02/0020259&from=rss)
 * [2026-09-02, 17:55:00](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss) - [A Matter of Millimeters: The story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-25, 08:08:00](https://soylentnews.org/article.pl?sid=26/08/24/1639241&from=rss) - [Software Should Work, And Talking About It Needn't Be Boring](https://soylentnews.org/article.pl?sid=26/08/24/1639241&from=rss)
 * [2026-08-25, 03:22:00](https://soylentnews.org/article.pl?sid=26/08/23/2258205&from=rss) - [The Dead Internet Theory May Be Coming True, Pew Research Findings Show](https://soylentnews.org/article.pl?sid=26/08/23/2258205&from=rss)
 * [2026-08-24, 22:45:00](https://soylentnews.org/article.pl?sid=26/08/23/2251212&from=rss) - [As Wisconsin Cities Flee Flock, Its Shared Camera Network Loses Value](https://soylentnews.org/article.pl?sid=26/08/23/2251212&from=rss)
-* [2026-08-24, 18:04:00](https://soylentnews.org/article.pl?sid=26/08/23/0248216&from=rss) - [Hackers Poison Popular Rust Crates to Steal Developers' Credentials](https://soylentnews.org/article.pl?sid=26/08/23/0248216&from=rss)
 
 ## [Archives](archives/index.md)
 
