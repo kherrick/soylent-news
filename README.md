@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-04, 22:09:00](https://soylentnews.org/article.pl?sid=26/09/02/1921237&from=rss) - [Is Russia's Rival To Starlink Failing? Here's What We Know.](https://soylentnews.org/article.pl?sid=26/09/02/1921237&from=rss)
 * [2026-09-04, 17:23:00](https://soylentnews.org/article.pl?sid=26/09/02/1918230&from=rss) - [Without New Landers Or Rovers, It's Helicopters Or Bust For NASA's Mars Program](https://soylentnews.org/article.pl?sid=26/09/02/1918230&from=rss)
 * [2026-09-04, 12:38:00](https://soylentnews.org/article.pl?sid=26/09/02/1914259&from=rss) - [China's EUV Technology 'At A Similar Stage To ASML In 2004,' Analyst Claims](https://soylentnews.org/article.pl?sid=26/09/02/1914259&from=rss)
 * [2026-09-04, 07:53:00](https://soylentnews.org/article.pl?sid=26/09/02/1912237&from=rss) - [Turns Out Brits Would Quite Like Their Private Messages To Stay Private](https://soylentnews.org/article.pl?sid=26/09/02/1912237&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-26, 16:10:00](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss) - [RIP: Tim Curry - Star of the Rocky Horror Picture Show](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss)
 * [2026-08-26, 12:34:00](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss) - [Thunder + Fiber-Optic Cabling Used for Seismic Imaging](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss)
 * [2026-08-26, 07:57:00](https://soylentnews.org/article.pl?sid=26/08/25/2359237&from=rss) - [Dismantling the Roadless Rule Threatens to Disrupt Wildlife and Water in US](https://soylentnews.org/article.pl?sid=26/08/25/2359237&from=rss)
-* [2026-08-26, 00:05:00](https://soylentnews.org/article.pl?sid=26/08/25/2346243&from=rss) - [Desktop CPU Shipments Crater 20% Amid High Component Costs](https://soylentnews.org/article.pl?sid=26/08/25/2346243&from=rss)
 
 ## [Archives](archives/index.md)
 
