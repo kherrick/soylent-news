@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-04, 03:07:00](https://soylentnews.org/article.pl?sid=26/09/02/1910231&from=rss) - [FBI Investigating 153 Million US And Canadian Driver’s Licenses Leaked On Russian Cybercrime Forum](https://soylentnews.org/article.pl?sid=26/09/02/1910231&from=rss)
 * [2026-09-03, 22:24:00](https://soylentnews.org/article.pl?sid=26/09/02/195251&from=rss) - [Rare, Working Apple I Computer Heads To Auction](https://soylentnews.org/article.pl?sid=26/09/02/195251&from=rss)
 * [2026-09-03, 17:42:00](https://soylentnews.org/article.pl?sid=26/09/02/127255&from=rss) - [Nvidia to Buy Hugging Face for $12.9 Billion](https://soylentnews.org/article.pl?sid=26/09/02/127255&from=rss)
 * [2026-09-03, 12:49:00](https://soylentnews.org/article.pl?sid=26/09/02/121253&from=rss) - [Anthropic's New Hardware Standard Lets AI Agents Control the Physical World](https://soylentnews.org/article.pl?sid=26/09/02/121253&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-25, 22:20:00](https://soylentnews.org/article.pl?sid=26/08/24/1646220&from=rss) - [LHC Collisions Reveal Oxygen and Neon's Shifting Nuclear Geometry](https://soylentnews.org/article.pl?sid=26/08/24/1646220&from=rss)
 * [2026-08-25, 18:45:00](https://soylentnews.org/breakingnews/article.pl?sid=26/08/25/1845218&from=rss) - [RIP: Dolly Parton](https://soylentnews.org/breakingnews/article.pl?sid=26/08/25/1845218&from=rss)
 * [2026-08-25, 17:37:00](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss) - [Framework Responds to Complaints That BIOS Update Bricks Ryzen 7040 Laptops](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss)
-* [2026-08-25, 12:51:00](https://soylentnews.org/article.pl?sid=26/08/24/1641227&from=rss) - [Ancient ‘Who Owns Linux?’ Case Now Has One Foot Very Deep in the Grave](https://soylentnews.org/article.pl?sid=26/08/24/1641227&from=rss)
 
 ## [Archives](archives/index.md)
 
