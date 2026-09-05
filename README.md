@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-05, 07:45:00](https://soylentnews.org/article.pl?sid=26/09/04/037218&from=rss) - [UK Digital ID May be Dead, but its Legacy IT Problem Lives on](https://soylentnews.org/article.pl?sid=26/09/04/037218&from=rss)
 * [2026-09-05, 02:57:00](https://soylentnews.org/article.pl?sid=26/09/03/1228231&from=rss) - [NASA's Swift Shortens Orbital Lifetime for the Sake of Science](https://soylentnews.org/article.pl?sid=26/09/03/1228231&from=rss)
 * [2026-09-04, 22:09:00](https://soylentnews.org/article.pl?sid=26/09/02/1921237&from=rss) - [Is Russia's Rival To Starlink Failing? Here's What We Know.](https://soylentnews.org/article.pl?sid=26/09/02/1921237&from=rss)
 * [2026-09-04, 17:23:00](https://soylentnews.org/article.pl?sid=26/09/02/1918230&from=rss) - [Without New Landers Or Rovers, It's Helicopters Or Bust For NASA's Mars Program](https://soylentnews.org/article.pl?sid=26/09/02/1918230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-26, 22:05:00](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss) - [Humanoid Robots Have Beaten Usain Bolt's 100-Meter Dash Record](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss)
 * [2026-08-26, 17:29:00](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss) - [Florida Seeks Court Ruling to Officially Classify Sam Altman and ChatGPT as a 'Public Nuisance'](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss)
 * [2026-08-26, 16:10:00](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss) - [RIP: Tim Curry - Star of the Rocky Horror Picture Show](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss)
-* [2026-08-26, 12:34:00](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss) - [Thunder + Fiber-Optic Cabling Used for Seismic Imaging](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss)
 
 ## [Archives](archives/index.md)
 
