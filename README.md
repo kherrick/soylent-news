@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-06, 12:21:00](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss) - [Healthcare Cyberattacks Hit Pacemakers And Millions Of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
 * [2026-09-06, 07:36:00](https://soylentnews.org/article.pl?sid=26/09/05/1218207&from=rss) - [G20 Ministers Adopt 'Carolina Principles' for Emerging Technologies](https://soylentnews.org/article.pl?sid=26/09/05/1218207&from=rss)
 * [2026-09-06, 02:50:00](https://soylentnews.org/article.pl?sid=26/09/05/0356203&from=rss) - [“We Have to Assume That The Internet Will go Offline in the Next Few Years”](https://soylentnews.org/article.pl?sid=26/09/05/0356203&from=rss)
 * [2026-09-05, 22:05:00](https://soylentnews.org/article.pl?sid=26/09/05/0346246&from=rss) - [Microsoft to Impose Time Limits on Xbox Cloud Gaming Subscribers](https://soylentnews.org/article.pl?sid=26/09/05/0346246&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-28, 02:24:00](https://soylentnews.org/article.pl?sid=26/08/26/0445241&from=rss) - [An Ultra-Rare Piece of Microsoft History Could be Hiding on Your Shelf](https://soylentnews.org/article.pl?sid=26/08/26/0445241&from=rss)
 * [2026-08-27, 21:42:00](https://soylentnews.org/article.pl?sid=26/08/26/0443249&from=rss) - [China Calls Off Ambitious Ice-Hunting Moonshot a Day Before Flight](https://soylentnews.org/article.pl?sid=26/08/26/0443249&from=rss)
 * [2026-08-27, 17:00:00](https://soylentnews.org/article.pl?sid=26/08/26/0441245&from=rss) - [Specially Crafted NTFS File-System Image Allows Root Access on Linux With NTFS3 Driver](https://soylentnews.org/article.pl?sid=26/08/26/0441245&from=rss)
-* [2026-08-27, 12:18:00](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss) - [US Authorities Say Siemens Controllers Used for Water and Other Infrastructure Are Being Targeted](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss)
 
 ## [Archives](archives/index.md)
 
