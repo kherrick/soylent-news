@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-07, 21:44:00](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss) - [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss)
 * [2026-09-07, 17:02:00](https://soylentnews.org/article.pl?sid=26/09/06/1214244&from=rss) - [UK Cyber Bill Targets AI Users, Not the Vendors Building It](https://soylentnews.org/article.pl?sid=26/09/06/1214244&from=rss)
 * [2026-09-07, 12:19:00](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss) - [Ecosia Just Launched a Linux Browser to Help Europe Battle Big Tech](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss)
 * [2026-09-07, 07:29:00](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss) - [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-29, 11:49:00](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss) - [SourceHut Updates ToS to Prohibit LLMs](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss)
 * [2026-08-29, 06:56:00](https://soylentnews.org/article.pl?sid=26/08/28/1232209&from=rss) - [Nvidia Warns of 15% AI Server Price Hikes and Buy Your Own AI Workstatation for Only $100k](https://soylentnews.org/article.pl?sid=26/08/28/1232209&from=rss)
 * [2026-08-29, 02:07:00](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss) - [Self-Hosted Email Is In Steep Decline, Microsoft And Google Are Taking Over](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss)
-* [2026-08-28, 21:22:00](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss) - ['Security by Antiquity': Why Older Tech is Sometimes Safer From Hackers](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss)
 
 ## [Archives](archives/index.md)
 
