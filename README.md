@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-07, 12:19:00](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss) - [Ecosia Just Launched a Linux Browser to Help Europe Battle Big Tech](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss)
 * [2026-09-07, 07:29:00](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss) - [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
 * [2026-09-07, 02:41:00](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss) - [New World Projection](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss)
 * [2026-09-06, 21:50:00](https://soylentnews.org/article.pl?sid=26/09/05/231232&from=rss) - [Anil Dash on How Venture Capitalism Has Morphed Into Cancer Capitalism](https://soylentnews.org/article.pl?sid=26/09/05/231232&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-29, 02:07:00](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss) - [Self-Hosted Email Is In Steep Decline, Microsoft And Google Are Taking Over](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss)
 * [2026-08-28, 21:22:00](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss) - ['Security by Antiquity': Why Older Tech is Sometimes Safer From Hackers](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss)
 * [2026-08-28, 16:34:00](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss) - [HaikuOS Version: R1/beta6 Released!](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss)
-* [2026-08-28, 11:53:00](https://soylentnews.org/article.pl?sid=26/08/27/1719228&from=rss) - [The Human Reservation Plan](https://soylentnews.org/article.pl?sid=26/08/27/1719228&from=rss)
 
 ## [Archives](archives/index.md)
 
