@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-07](index.md)
+
+* [2026-09-07, 02:41:00](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss) - [New World Projection](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss)
