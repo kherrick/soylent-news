@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-08, 11:57:00](https://soylentnews.org/article.pl?sid=26/09/06/179256&from=rss) - [100% Tariff On Drones Will Be Disaster For The US, Critics Warn](https://soylentnews.org/article.pl?sid=26/09/06/179256&from=rss)
 * [2026-09-08, 07:12:00](https://soylentnews.org/article.pl?sid=26/09/06/176207&from=rss) - [Meet The 2026 Ig Nobel Prize Winners](https://soylentnews.org/article.pl?sid=26/09/06/176207&from=rss)
 * [2026-09-08, 02:26:00](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss) - [JavaScript Installer Pnpm Recast In Rust Because ECMAScript Can't Keep Up](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss)
 * [2026-09-07, 21:44:00](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss) - [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-30, 01:55:00](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss) - [Uber Hit With a Nearly $1 Billion Fine for Automatically Deactivating Drivers in Europe](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss)
 * [2026-08-29, 21:11:00](https://soylentnews.org/article.pl?sid=26/08/29/0014247&from=rss) - [Brave Adds Email Aliases to Hide Your Real Address](https://soylentnews.org/article.pl?sid=26/08/29/0014247&from=rss)
 * [2026-08-29, 16:21:00](https://soylentnews.org/article.pl?sid=26/08/29/0013246&from=rss) - [Local Officials Face Death Threats and Gunfire Over AI Data Center Projects](https://soylentnews.org/article.pl?sid=26/08/29/0013246&from=rss)
-* [2026-08-29, 11:49:00](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss) - [SourceHut Updates ToS to Prohibit LLMs](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss)
 
 ## [Archives](archives/index.md)
 
