@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-09, 21:10:00](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss) - [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
 * [2026-09-09, 16:29:00](https://soylentnews.org/article.pl?sid=26/09/09/0150228&from=rss) - [Autistici/Inventati (A/I) Ceases Operations After 25 Years](https://soylentnews.org/article.pl?sid=26/09/09/0150228&from=rss)
 * [2026-09-09, 11:40:00](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss) - [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
 * [2026-09-09, 06:54:00](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss) - [EFF Asks California Governor to Veto Bill That Would Require Online Age Verification](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-31, 13:22:00](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss) - [Sony Is Reminding Us (Again) That We Don’t Own Our PlayStation Games](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss)
 * [2026-08-31, 08:30:00](https://soylentnews.org/article.pl?sid=26/08/30/2252232&from=rss) - [Flock Shock Rocks Cop Cam Vendor As Protests Mount](https://soylentnews.org/article.pl?sid=26/08/30/2252232&from=rss)
 * [2026-08-31, 03:58:00](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss) - [India's Crewed Space Program Will Fly This Year, After Missing 2022 and 2025 Targets](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss)
-* [2026-08-30, 23:05:00](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss) - [Judge Rules That the Pentagon's Anthropic Ban Was 'Illegal and Baseless'](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss)
 
 ## [Archives](archives/index.md)
 
