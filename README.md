@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-08, 21:26:00](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss) - [Medieval Manuscripts Are \"Biological Time Capsules\" For Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
 * [2026-09-08, 16:43:00](https://soylentnews.org/article.pl?sid=26/09/06/1714249&from=rss) - [Chinese Startup Unveils $100K 'Urban VTOL' Apparently So Simple, Anyone Can Fly It](https://soylentnews.org/article.pl?sid=26/09/06/1714249&from=rss)
 * [2026-09-08, 11:57:00](https://soylentnews.org/article.pl?sid=26/09/06/179256&from=rss) - [100% Tariff On Drones Will Be Disaster For The US, Critics Warn](https://soylentnews.org/article.pl?sid=26/09/06/179256&from=rss)
 * [2026-09-08, 07:12:00](https://soylentnews.org/article.pl?sid=26/09/06/176207&from=rss) - [Meet The 2026 Ig Nobel Prize Winners](https://soylentnews.org/article.pl?sid=26/09/06/176207&from=rss)
@@ -49,7 +50,6 @@
 * [2026-08-30, 13:36:00](https://soylentnews.org/article.pl?sid=26/08/30/1326251&from=rss) - [Get Up to $60 Back for Your Pre-Installed Windows 11 License](https://soylentnews.org/article.pl?sid=26/08/30/1326251&from=rss)
 * [2026-08-30, 06:34:00](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss) - [Advent and Stripe Abandon $50 Billion Pursuit of PayPal](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss)
 * [2026-08-30, 01:55:00](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss) - [Uber Hit With a Nearly $1 Billion Fine for Automatically Deactivating Drivers in Europe](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss)
-* [2026-08-29, 21:11:00](https://soylentnews.org/article.pl?sid=26/08/29/0014247&from=rss) - [Brave Adds Email Aliases to Hide Your Real Address](https://soylentnews.org/article.pl?sid=26/08/29/0014247&from=rss)
 
 ## [Archives](archives/index.md)
 
