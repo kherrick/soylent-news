@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-10, 11:23:00](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss) - [Microsoft Will Stop Finishing Your Sentences in Word and Outlook](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss)
 * [2026-09-10, 06:40:00](https://soylentnews.org/article.pl?sid=26/09/09/0450255&from=rss) - [LibreOffice Breaks Download Records After Declaring It Has No AI Features](https://soylentnews.org/article.pl?sid=26/09/09/0450255&from=rss)
 * [2026-09-10, 01:57:00](https://soylentnews.org/article.pl?sid=26/09/09/0448227&from=rss) - [UK Military Wants Lasers to Stop Drone Swarms Without Running Out of Ammo](https://soylentnews.org/article.pl?sid=26/09/09/0448227&from=rss)
 * [2026-09-09, 21:10:00](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss) - [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-01, 03:49:00](https://soylentnews.org/article.pl?sid=26/08/31/017238&from=rss) - [Spy to Space: The Science Behind NASA's Roman Space Telescope](https://soylentnews.org/article.pl?sid=26/08/31/017238&from=rss)
 * [2026-08-31, 22:57:00](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss) - [1 In 6 VPNs Track Your Location, According To New Report From Proton](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss)
 * [2026-08-31, 18:05:00](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss) - [AI Agents Meant To Replace Meta Workers Made “Large-Scale, Disruptive Actions”](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss)
-* [2026-08-31, 13:22:00](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss) - [Sony Is Reminding Us (Again) That We Don’t Own Our PlayStation Games](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss)
 
 ## [Archives](archives/index.md)
 
