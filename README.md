@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-10, 20:53:00](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss) - [How to Design a Space Habitat That Supports its Residents’ Mental Health](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss)
 * [2026-09-10, 16:06:00](https://soylentnews.org/article.pl?sid=26/09/09/1417204&from=rss) - [Decoding the NEC V20 Microcode ](https://soylentnews.org/article.pl?sid=26/09/09/1417204&from=rss)
 * [2026-09-10, 11:23:00](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss) - [Microsoft Will Stop Finishing Your Sentences in Word and Outlook](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss)
 * [2026-09-10, 06:40:00](https://soylentnews.org/article.pl?sid=26/09/09/0450255&from=rss) - [LibreOffice Breaks Download Records After Declaring It Has No AI Features](https://soylentnews.org/article.pl?sid=26/09/09/0450255&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-01, 13:15:00](https://soylentnews.org/article.pl?sid=26/09/01/0231258&from=rss) - [Rules of the Road: Engineers Have Built a Traffic Control System for the Moon](https://soylentnews.org/article.pl?sid=26/09/01/0231258&from=rss)
 * [2026-09-01, 08:30:00](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss) - [FBI Seizes Hacking Tools It Says China Used to Attack NASA, DOE, US Senate and Critical Networks](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss)
 * [2026-09-01, 03:49:00](https://soylentnews.org/article.pl?sid=26/08/31/017238&from=rss) - [Spy to Space: The Science Behind NASA's Roman Space Telescope](https://soylentnews.org/article.pl?sid=26/08/31/017238&from=rss)
-* [2026-08-31, 22:57:00](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss) - [1 In 6 VPNs Track Your Location, According To New Report From Proton](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss)
 
 ## [Archives](archives/index.md)
 

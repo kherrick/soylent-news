@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-10](index.md)
 
+* [2026-09-10, 20:53:00](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss) - [How to Design a Space Habitat That Supports its Residents’ Mental Health](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss)
 * [2026-09-10, 16:06:00](https://soylentnews.org/article.pl?sid=26/09/09/1417204&from=rss) - [Decoding the NEC V20 Microcode ](https://soylentnews.org/article.pl?sid=26/09/09/1417204&from=rss)
 * [2026-09-10, 11:23:00](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss) - [Microsoft Will Stop Finishing Your Sentences in Word and Outlook](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss)
 * [2026-09-10, 06:40:00](https://soylentnews.org/article.pl?sid=26/09/09/0450255&from=rss) - [LibreOffice Breaks Download Records After Declaring It Has No AI Features](https://soylentnews.org/article.pl?sid=26/09/09/0450255&from=rss)
