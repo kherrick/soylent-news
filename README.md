@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-11, 20:40:00](https://soylentnews.org/article.pl?sid=26/09/10/1116231&from=rss) - [Europe May Finally Have Found a Space Entrepreneur Who is Meeting the Moment](https://soylentnews.org/article.pl?sid=26/09/10/1116231&from=rss)
 * [2026-09-11, 15:55:00](https://soylentnews.org/article.pl?sid=26/09/10/1059246&from=rss) - [US Senator Calls on the NSA to Give Guidance for Use of VPNs](https://soylentnews.org/article.pl?sid=26/09/10/1059246&from=rss)
 * [2026-09-11, 11:06:00](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss) - [Hugging Face is Too Important to Fall Into Nvidia's Hands](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss)
 * [2026-09-11, 08:30:00](https://soylentnews.org/article.pl?sid=26/09/11/0834258&from=rss) - [In Memoriam: 9/11 - 25 Years](https://soylentnews.org/article.pl?sid=26/09/11/0834258&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-02, 17:55:00](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss) - [A Matter of Millimeters: The story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss)
 * [2026-09-02, 13:06:00](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss) - [Plastic Bottles Can be Turned Into Edible, Vanilla-Flavour Cookies](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss)
 * [2026-09-02, 08:18:00](https://soylentnews.org/article.pl?sid=26/09/01/0310224&from=rss) - [FOSS Force Interviews Richard Stallman](https://soylentnews.org/article.pl?sid=26/09/01/0310224&from=rss)
-* [2026-09-02, 03:30:00](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss) - [Meta Settles States' Child-Safety Claims for $18B; Florida Rejects Deal as \"Peanuts\"](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss)
 
 ## [Archives](archives/index.md)
 
