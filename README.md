@@ -1,5 +1,8 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-11, 11:06:00](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss) - [Hugging Face is Too Important to Fall Into Nvidia's Hands](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss)
+* [2026-09-11, 08:30:00](https://soylentnews.org/article.pl?sid=26/09/11/0834258&from=rss) - [In Memoriam: 9/11 - 25 Years](https://soylentnews.org/article.pl?sid=26/09/11/0834258&from=rss)
+* [2026-09-11, 06:24:00](https://soylentnews.org/article.pl?sid=26/09/10/0216258&from=rss) - [How to Edit Claude's Memory](https://soylentnews.org/article.pl?sid=26/09/10/0216258&from=rss)
 * [2026-09-11, 01:34:00](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss) - [Genome Duplication Is A Radical Evolutionary Gamble](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss)
 * [2026-09-10, 20:53:00](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss) - [How to Design a Space Habitat That Supports its Residents’ Mental Health](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss)
 * [2026-09-10, 16:06:00](https://soylentnews.org/article.pl?sid=26/09/09/1417204&from=rss) - [Decoding the NEC V20 Microcode ](https://soylentnews.org/article.pl?sid=26/09/09/1417204&from=rss)
@@ -47,9 +50,6 @@
 * [2026-09-02, 08:18:00](https://soylentnews.org/article.pl?sid=26/09/01/0310224&from=rss) - [FOSS Force Interviews Richard Stallman](https://soylentnews.org/article.pl?sid=26/09/01/0310224&from=rss)
 * [2026-09-02, 03:30:00](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss) - [Meta Settles States' Child-Safety Claims for $18B; Florida Rejects Deal as \"Peanuts\"](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss)
 * [2026-09-01, 22:44:00](https://soylentnews.org/article.pl?sid=26/09/01/0255250&from=rss) - [Debian Votes To Let Contributors Code With AI](https://soylentnews.org/article.pl?sid=26/09/01/0255250&from=rss)
-* [2026-09-01, 17:55:00](https://soylentnews.org/article.pl?sid=26/09/01/0237240&from=rss) - [OpenAI Explains How its Naughty AI Agents Attacked Hugging Face](https://soylentnews.org/article.pl?sid=26/09/01/0237240&from=rss)
-* [2026-09-01, 13:15:00](https://soylentnews.org/article.pl?sid=26/09/01/0231258&from=rss) - [Rules of the Road: Engineers Have Built a Traffic Control System for the Moon](https://soylentnews.org/article.pl?sid=26/09/01/0231258&from=rss)
-* [2026-09-01, 08:30:00](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss) - [FBI Seizes Hacking Tools It Says China Used to Attack NASA, DOE, US Senate and Critical Networks](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss)
 
 ## [Archives](archives/index.md)
 
