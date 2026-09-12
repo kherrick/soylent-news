@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-12](index.md)
 
+* [2026-09-12, 20:23:00](https://soylentnews.org/article.pl?sid=26/09/11/1717228&from=rss) - [NASA And IBM Unveil An Open Source Lunar AI Model](https://soylentnews.org/article.pl?sid=26/09/11/1717228&from=rss)
 * [2026-09-12, 15:41:00](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss) - [Anthropic's September 2026 Report: State Espionage, Weaponized Swarms, and the Rise of Autonomous AI](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss)
 * [2026-09-12, 10:56:00](https://soylentnews.org/article.pl?sid=26/09/11/1117227&from=rss) - [Switzerland Tests a FOSS Escape Route From Microsoft 365](https://soylentnews.org/article.pl?sid=26/09/11/1117227&from=rss)
 * [2026-09-12, 06:10:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/11/1112257&from=rss) - [The AI Agent Navier Stokes Explosion](https://soylentnews.org/breakingnews/article.pl?sid=26/09/11/1112257&from=rss)
