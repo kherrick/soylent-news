@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-12, 06:10:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/11/1112257&from=rss) - [The AI Agent Navier Stokes Explosion](https://soylentnews.org/breakingnews/article.pl?sid=26/09/11/1112257&from=rss)
 * [2026-09-12, 01:24:00](https://soylentnews.org/article.pl?sid=26/09/11/118207&from=rss) - [NIH to Use Part of its Budget to Pay for Department of Defense Research](https://soylentnews.org/article.pl?sid=26/09/11/118207&from=rss)
 * [2026-09-11, 20:40:00](https://soylentnews.org/article.pl?sid=26/09/10/1116231&from=rss) - [Europe May Finally Have Found a Space Entrepreneur Who is Meeting the Moment](https://soylentnews.org/article.pl?sid=26/09/10/1116231&from=rss)
 * [2026-09-11, 15:55:00](https://soylentnews.org/article.pl?sid=26/09/10/1059246&from=rss) - [US Senator Calls on the NSA to Give Guidance for Use of VPNs](https://soylentnews.org/article.pl?sid=26/09/10/1059246&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-03, 03:21:00](https://soylentnews.org/article.pl?sid=26/09/02/0022223&from=rss) - [California Lawmakers Unanimously Pass Linux Exemption From Age-Verification Law](https://soylentnews.org/article.pl?sid=26/09/02/0022223&from=rss)
 * [2026-09-02, 22:37:00](https://soylentnews.org/article.pl?sid=26/09/02/0020259&from=rss) - [The Balkanization Of Virtualization Will De-Throne VMware, Which Doesn't Mind A Bit](https://soylentnews.org/article.pl?sid=26/09/02/0020259&from=rss)
 * [2026-09-02, 17:55:00](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss) - [A Matter of Millimeters: The story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss)
-* [2026-09-02, 13:06:00](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss) - [Plastic Bottles Can be Turned Into Edible, Vanilla-Flavour Cookies](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss)
 
 ## [Archives](archives/index.md)
 
