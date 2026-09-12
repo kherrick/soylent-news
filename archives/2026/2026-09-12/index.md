@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-12](index.md)
+
+* [2026-09-12, 01:24:00](https://soylentnews.org/article.pl?sid=26/09/11/118207&from=rss) - [NIH to Use Part of its Budget to Pay for Department of Defense Research](https://soylentnews.org/article.pl?sid=26/09/11/118207&from=rss)
