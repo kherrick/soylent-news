@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-13, 15:27:00](https://soylentnews.org/article.pl?sid=26/09/13/0258221&from=rss) - [Microcode in Intel's 8087 Floating-Point Chip: The Scale Instruction](https://soylentnews.org/article.pl?sid=26/09/13/0258221&from=rss)
 * [2026-09-13, 10:39:00](https://soylentnews.org/article.pl?sid=26/09/11/1730236&from=rss) - [Digital Sovereignty Sounds Great Until You Try Ditching Your Suppliers](https://soylentnews.org/article.pl?sid=26/09/11/1730236&from=rss)
 * [2026-09-13, 05:54:00](https://soylentnews.org/article.pl?sid=26/09/11/1727217&from=rss) - [Microsoft Anoints Rust As A 'Tier 1' Internal Language](https://soylentnews.org/article.pl?sid=26/09/11/1727217&from=rss)
 * [2026-09-13, 01:11:00](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss) - [Retired Man Turns Spare Room Into Soviet-Era Supercomputer](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-04, 12:38:00](https://soylentnews.org/article.pl?sid=26/09/02/1914259&from=rss) - [China's EUV Technology 'At A Similar Stage To ASML In 2004,' Analyst Claims](https://soylentnews.org/article.pl?sid=26/09/02/1914259&from=rss)
 * [2026-09-04, 07:53:00](https://soylentnews.org/article.pl?sid=26/09/02/1912237&from=rss) - [Turns Out Brits Would Quite Like Their Private Messages To Stay Private](https://soylentnews.org/article.pl?sid=26/09/02/1912237&from=rss)
 * [2026-09-04, 03:07:00](https://soylentnews.org/article.pl?sid=26/09/02/1910231&from=rss) - [FBI Investigating 153 Million US And Canadian Driver’s Licenses Leaked On Russian Cybercrime Forum](https://soylentnews.org/article.pl?sid=26/09/02/1910231&from=rss)
-* [2026-09-03, 22:24:00](https://soylentnews.org/article.pl?sid=26/09/02/195251&from=rss) - [Rare, Working Apple I Computer Heads To Auction](https://soylentnews.org/article.pl?sid=26/09/02/195251&from=rss)
 
 ## [Archives](archives/index.md)
 
