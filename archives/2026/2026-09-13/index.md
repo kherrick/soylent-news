@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-13](index.md)
+
+* [2026-09-13, 01:11:00](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss) - [Retired Man Turns Spare Room Into Soviet-Era Supercomputer](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss)
