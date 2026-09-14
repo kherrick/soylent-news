@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-09-14](index.md)
 
+* [2026-09-14, 05:38:00](https://soylentnews.org/article.pl?sid=26/09/13/1821227&from=rss) - [Anthropic Researcher Quits With a Warning: Self-Improving AI Could \"Kill Us All\"](https://soylentnews.org/article.pl?sid=26/09/13/1821227&from=rss)
 * [2026-09-14, 00:50:00](https://soylentnews.org/article.pl?sid=26/09/13/031233&from=rss) - [The End of a Solar Telescope](https://soylentnews.org/article.pl?sid=26/09/13/031233&from=rss)
