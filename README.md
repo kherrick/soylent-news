@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-15, 05:21:00](https://soylentnews.org/article.pl?sid=26/09/14/0541223&from=rss) - [Boy Developed \"Toasted Skin\" Condition From Using a Laptop Every Day](https://soylentnews.org/article.pl?sid=26/09/14/0541223&from=rss)
 * [2026-09-15, 00:37:00](https://soylentnews.org/article.pl?sid=26/09/14/0539247&from=rss) - [Iran and Houthi Rebels Used Anthropic's Claude AI to Target US Warships and Build Hypersonic Missile](https://soylentnews.org/article.pl?sid=26/09/14/0539247&from=rss)
 * [2026-09-14, 19:55:00](https://soylentnews.org/article.pl?sid=26/09/13/2047209&from=rss) - [Another Microsoft Team Admits It’s Struggling To Handle Flood Of AI-Generated Code](https://soylentnews.org/article.pl?sid=26/09/13/2047209&from=rss)
 * [2026-09-14, 15:03:00](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss) - [A Rant About Phishing: It's Not the User's Fault (and Not DNS Either)](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-06, 02:50:00](https://soylentnews.org/article.pl?sid=26/09/05/0356203&from=rss) - [“We Have to Assume That The Internet Will go Offline in the Next Few Years”](https://soylentnews.org/article.pl?sid=26/09/05/0356203&from=rss)
 * [2026-09-05, 22:05:00](https://soylentnews.org/article.pl?sid=26/09/05/0346246&from=rss) - [Microsoft to Impose Time Limits on Xbox Cloud Gaming Subscribers](https://soylentnews.org/article.pl?sid=26/09/05/0346246&from=rss)
 * [2026-09-05, 17:19:00](https://soylentnews.org/article.pl?sid=26/09/04/0310255&from=rss) - [Commodore 64 Released September 1, 1982](https://soylentnews.org/article.pl?sid=26/09/04/0310255&from=rss)
-* [2026-09-05, 12:28:00](https://soylentnews.org/article.pl?sid=26/09/04/039204&from=rss) - [Meta's $17 Billion Settlement is a Bad Deal for Teens and All Social Media Users](https://soylentnews.org/article.pl?sid=26/09/04/039204&from=rss)
 
 ## [Archives](archives/index.md)
 
