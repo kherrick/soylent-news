@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-16, 14:32:00](https://soylentnews.org/article.pl?sid=26/09/15/1156210&from=rss) - [Chinese Chipmaker CXMT Allegedly Used a Written Roadmap to Steal Samsung DRAM Tech](https://soylentnews.org/article.pl?sid=26/09/15/1156210&from=rss)
 * [2026-09-16, 09:44:00](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss) - [Four Groups Caught Using the Same Chrome and Windows Exploit Kit](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss)
 * [2026-09-16, 05:02:00](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss) - [Russian Plot to Sabotage Undersea Cables With 'Secret Weapon' Foiled by NATO](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss)
 * [2026-09-16, 00:18:00](https://soylentnews.org/article.pl?sid=26/09/15/1120256&from=rss) - [OpenAI Agent Backdoor Communications](https://soylentnews.org/article.pl?sid=26/09/15/1120256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-07, 12:19:00](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss) - [Ecosia Just Launched a Linux Browser to Help Europe Battle Big Tech](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss)
 * [2026-09-07, 07:29:00](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss) - [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
 * [2026-09-07, 02:41:00](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss) - [New World Projection](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss)
-* [2026-09-06, 21:50:00](https://soylentnews.org/article.pl?sid=26/09/05/231232&from=rss) - [Anil Dash on How Venture Capitalism Has Morphed Into Cancer Capitalism](https://soylentnews.org/article.pl?sid=26/09/05/231232&from=rss)
 
 ## [Archives](archives/index.md)
 
