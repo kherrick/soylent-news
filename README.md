@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-16, 09:44:00](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss) - [Four Groups Caught Using the Same Chrome and Windows Exploit Kit](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss)
 * [2026-09-16, 05:02:00](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss) - [Russian Plot to Sabotage Undersea Cables With 'Secret Weapon' Foiled by NATO](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss)
 * [2026-09-16, 00:18:00](https://soylentnews.org/article.pl?sid=26/09/15/1120256&from=rss) - [OpenAI Agent Backdoor Communications](https://soylentnews.org/article.pl?sid=26/09/15/1120256&from=rss)
 * [2026-09-15, 19:35:00](https://soylentnews.org/article.pl?sid=26/09/14/0557231&from=rss) - [Could Europe's Giant Four Carriers Rival Starlink With New Consortium?](https://soylentnews.org/article.pl?sid=26/09/14/0557231&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-07, 07:29:00](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss) - [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
 * [2026-09-07, 02:41:00](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss) - [New World Projection](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss)
 * [2026-09-06, 21:50:00](https://soylentnews.org/article.pl?sid=26/09/05/231232&from=rss) - [Anil Dash on How Venture Capitalism Has Morphed Into Cancer Capitalism](https://soylentnews.org/article.pl?sid=26/09/05/231232&from=rss)
-* [2026-09-06, 17:11:00](https://soylentnews.org/article.pl?sid=26/09/05/2154212&from=rss) - [You'll See Lake [Ontario, America, or Both] Depending on Where You Are in the World](https://soylentnews.org/article.pl?sid=26/09/05/2154212&from=rss)
 
 ## [Archives](archives/index.md)
 
