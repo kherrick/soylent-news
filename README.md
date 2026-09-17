@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-17, 04:43:00](https://soylentnews.org/article.pl?sid=26/09/16/0344204&from=rss) - [Have Space Gun - Will Orbit](https://soylentnews.org/article.pl?sid=26/09/16/0344204&from=rss)
 * [2026-09-17, 00:00:00](https://soylentnews.org/article.pl?sid=26/09/16/0341241&from=rss) - [Australia Considers Noise Cameras to Combat Loud Vehicles](https://soylentnews.org/article.pl?sid=26/09/16/0341241&from=rss)
 * [2026-09-16, 19:18:00](https://soylentnews.org/article.pl?sid=26/09/16/0336241&from=rss) - [Rocket Lab is Seeing Red About NASA's Decision on a Mars Spacecraft](https://soylentnews.org/article.pl?sid=26/09/16/0336241&from=rss)
 * [2026-09-16, 14:32:00](https://soylentnews.org/article.pl?sid=26/09/15/1156210&from=rss) - [Chinese Chipmaker CXMT Allegedly Used a Written Roadmap to Steal Samsung DRAM Tech](https://soylentnews.org/article.pl?sid=26/09/15/1156210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-08, 02:26:00](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss) - [JavaScript Installer Pnpm Recast In Rust Because ECMAScript Can't Keep Up](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss)
 * [2026-09-07, 21:44:00](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss) - [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss)
 * [2026-09-07, 17:02:00](https://soylentnews.org/article.pl?sid=26/09/06/1214244&from=rss) - [UK Cyber Bill Targets AI Users, Not the Vendors Building It](https://soylentnews.org/article.pl?sid=26/09/06/1214244&from=rss)
-* [2026-09-07, 12:19:00](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss) - [Ecosia Just Launched a Linux Browser to Help Europe Battle Big Tech](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss)
 
 ## [Archives](archives/index.md)
 
