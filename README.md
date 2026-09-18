@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-18, 09:24:00](https://soylentnews.org/article.pl?sid=26/09/17/1426240&from=rss) - [Swift 6.4 Unifies Building Across Linux, MacOS, Windows](https://soylentnews.org/article.pl?sid=26/09/17/1426240&from=rss)
 * [2026-09-18, 04:41:00](https://soylentnews.org/article.pl?sid=26/09/17/1020216&from=rss) - [US Senator's Attempt to Mandate an \"AI Kill Switch\" is Rejected](https://soylentnews.org/article.pl?sid=26/09/17/1020216&from=rss)
 * [2026-09-17, 23:55:00](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss) - [Open Weights Are Not Open Source: Why AI's Favorite Label is Under Dispute](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss)
 * [2026-09-17, 19:12:00](https://soylentnews.org/article.pl?sid=26/09/17/034200&from=rss) - [It's the End! of the Keyboard ...](https://soylentnews.org/article.pl?sid=26/09/17/034200&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-09, 06:54:00](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss) - [EFF Asks California Governor to Veto Bill That Would Require Online Age Verification](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss)
 * [2026-09-09, 02:10:00](https://soylentnews.org/article.pl?sid=26/09/08/0321237&from=rss) - [Russian Hacker Faces Up to 20 Years in Prison, Following Extradition and Indictment](https://soylentnews.org/article.pl?sid=26/09/08/0321237&from=rss)
 * [2026-09-08, 21:26:00](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss) - [Medieval Manuscripts Are \"Biological Time Capsules\" For Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
-* [2026-09-08, 16:43:00](https://soylentnews.org/article.pl?sid=26/09/06/1714249&from=rss) - [Chinese Startup Unveils $100K 'Urban VTOL' Apparently So Simple, Anyone Can Fly It](https://soylentnews.org/article.pl?sid=26/09/06/1714249&from=rss)
 
 ## [Archives](archives/index.md)
 
