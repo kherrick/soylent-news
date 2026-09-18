@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-17](index.md)
 
+* [2026-09-17, 23:55:00](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss) - [Open Weights Are Not Open Source: Why AI's Favorite Label is Under Dispute](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss)
 * [2026-09-17, 19:12:00](https://soylentnews.org/article.pl?sid=26/09/17/034200&from=rss) - [It's the End! of the Keyboard ...](https://soylentnews.org/article.pl?sid=26/09/17/034200&from=rss)
 * [2026-09-17, 14:21:00](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss) - [A New Solar Cell Could Generate Electricity Underwater](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss)
 * [2026-09-17, 09:32:00](https://soylentnews.org/article.pl?sid=26/09/16/0358226&from=rss) - [MPs and Peers Tell UK to Stop Winging It on AI Regulation](https://soylentnews.org/article.pl?sid=26/09/16/0358226&from=rss)
