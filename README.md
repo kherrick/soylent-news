@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-19, 09:14:00](https://soylentnews.org/article.pl?sid=26/09/17/1444214&from=rss) - [Not Just Proton: Getting to Know Valve's New SteamOS Compatibility Layers](https://soylentnews.org/article.pl?sid=26/09/17/1444214&from=rss)
 * [2026-09-19, 04:29:00](https://soylentnews.org/article.pl?sid=26/09/17/1440248&from=rss) - [Judge Orders Microsoft to Spill Internal Docs and Scour Execs' Comms in Secondhand Licensing Case](https://soylentnews.org/article.pl?sid=26/09/17/1440248&from=rss)
 * [2026-09-18, 23:36:00](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss) - [SpaceX Aims Starship for Orbit on September 22](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss)
 * [2026-09-18, 18:50:00](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss) - [AI Agents Can Modify Themselves Without Humans Telling Them To Do So - and other Bad News](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-10, 06:40:00](https://soylentnews.org/article.pl?sid=26/09/09/0450255&from=rss) - [LibreOffice Breaks Download Records After Declaring It Has No AI Features](https://soylentnews.org/article.pl?sid=26/09/09/0450255&from=rss)
 * [2026-09-10, 01:57:00](https://soylentnews.org/article.pl?sid=26/09/09/0448227&from=rss) - [UK Military Wants Lasers to Stop Drone Swarms Without Running Out of Ammo](https://soylentnews.org/article.pl?sid=26/09/09/0448227&from=rss)
 * [2026-09-09, 21:10:00](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss) - [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
-* [2026-09-09, 16:29:00](https://soylentnews.org/article.pl?sid=26/09/09/0150228&from=rss) - [Autistici/Inventati (A/I) Ceases Operations After 25 Years](https://soylentnews.org/article.pl?sid=26/09/09/0150228&from=rss)
 
 ## [Archives](archives/index.md)
 
