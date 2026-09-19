@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-18, 23:36:00](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss) - [SpaceX Aims Starship for Orbit on September 22](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss)
 * [2026-09-18, 18:50:00](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss) - [AI Agents Can Modify Themselves Without Humans Telling Them To Do So - and other Bad News](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss)
 * [2026-09-18, 14:07:00](https://soylentnews.org/article.pl?sid=26/09/17/1428251&from=rss) - [Lawmakers Target Flock Cameras With A Threat To Highway Funding](https://soylentnews.org/article.pl?sid=26/09/17/1428251&from=rss)
 * [2026-09-18, 09:24:00](https://soylentnews.org/article.pl?sid=26/09/17/1426240&from=rss) - [Swift 6.4 Unifies Building Across Linux, MacOS, Windows](https://soylentnews.org/article.pl?sid=26/09/17/1426240&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-09, 21:10:00](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss) - [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
 * [2026-09-09, 16:29:00](https://soylentnews.org/article.pl?sid=26/09/09/0150228&from=rss) - [Autistici/Inventati (A/I) Ceases Operations After 25 Years](https://soylentnews.org/article.pl?sid=26/09/09/0150228&from=rss)
 * [2026-09-09, 11:40:00](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss) - [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
-* [2026-09-09, 06:54:00](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss) - [EFF Asks California Governor to Veto Bill That Would Require Online Age Verification](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss)
 
 ## [Archives](archives/index.md)
 
