@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-20, 08:43:00](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss) - [Fujitsu Ready To Sell Its Custom ‘Monaka’ Arm Chip, Maybe To Rival Server-Makers](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss)
 * [2026-09-20, 04:07:00](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss) - [Grandmother Jailed for Six Months After Facial Recognition Mistake Launches $10 Million Lawsuit](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss)
 * [2026-09-19, 23:19:00](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss) - [Tyrannosaurus Rex Was Warm-Blooded And Able To Live In The Arctic, Study Finds](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss)
 * [2026-09-19, 18:36:00](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss) - [Hackers Reveal How Flock Cameras Really Track Cars and People](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-11, 06:24:00](https://soylentnews.org/article.pl?sid=26/09/10/0216258&from=rss) - [How to Edit Claude's Memory](https://soylentnews.org/article.pl?sid=26/09/10/0216258&from=rss)
 * [2026-09-11, 01:34:00](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss) - [Genome Duplication Is A Radical Evolutionary Gamble](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss)
 * [2026-09-10, 20:53:00](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss) - [How to Design a Space Habitat That Supports its Residents’ Mental Health](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss)
-* [2026-09-10, 16:06:00](https://soylentnews.org/article.pl?sid=26/09/09/1417204&from=rss) - [Decoding the NEC V20 Microcode ](https://soylentnews.org/article.pl?sid=26/09/09/1417204&from=rss)
 
 ## [Archives](archives/index.md)
 
