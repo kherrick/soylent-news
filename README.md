@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-21, 22:46:00](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss) - [Scientists Develop New Method for Deciphering Ancient Scrolls](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss)
 * [2026-09-21, 18:03:00](https://soylentnews.org/article.pl?sid=26/09/20/1245219&from=rss) - [The Only Verified Report of a Person Being Struck by Debris That Had Fallen From Orbit](https://soylentnews.org/article.pl?sid=26/09/20/1245219&from=rss)
 * [2026-09-21, 13:19:00](https://soylentnews.org/article.pl?sid=26/09/20/1242228&from=rss) - [Nvidia Goes Green to Keep Grid Capacity From Zapping its Revenues](https://soylentnews.org/article.pl?sid=26/09/20/1242228&from=rss)
 * [2026-09-21, 08:31:00](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss) - [California May Gut State Net Neutrality Law to Comply With Trump Admin Demand](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-12, 15:41:00](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss) - [Anthropic's September 2026 Report: State Espionage, Weaponized Swarms, and the Rise of Autonomous AI](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss)
 * [2026-09-12, 10:56:00](https://soylentnews.org/article.pl?sid=26/09/11/1117227&from=rss) - [Switzerland Tests a FOSS Escape Route From Microsoft 365](https://soylentnews.org/article.pl?sid=26/09/11/1117227&from=rss)
 * [2026-09-12, 06:10:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/11/1112257&from=rss) - [The AI Agent Navier Stokes Explosion](https://soylentnews.org/breakingnews/article.pl?sid=26/09/11/1112257&from=rss)
-* [2026-09-12, 01:24:00](https://soylentnews.org/article.pl?sid=26/09/11/118207&from=rss) - [NIH to Use Part of its Budget to Pay for Department of Defense Research](https://soylentnews.org/article.pl?sid=26/09/11/118207&from=rss)
 
 ## [Archives](archives/index.md)
 
