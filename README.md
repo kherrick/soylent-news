@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-21, 08:31:00](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss) - [California May Gut State Net Neutrality Law to Comply With Trump Admin Demand](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss)
 * [2026-09-21, 03:44:00](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss) - [The Story of How Wolves Became Dogs is Stranger Than We Thought](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss)
 * [2026-09-20, 23:00:00](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss) - [China's Humanoid Robots Are Walking Off The Assembly Line On Their Own](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss)
 * [2026-09-20, 18:18:00](https://soylentnews.org/article.pl?sid=26/09/19/2259249&from=rss) - [Spain Gets Its First Taste Of AI-Aided Cyber Attack](https://soylentnews.org/article.pl?sid=26/09/19/2259249&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-12, 01:24:00](https://soylentnews.org/article.pl?sid=26/09/11/118207&from=rss) - [NIH to Use Part of its Budget to Pay for Department of Defense Research](https://soylentnews.org/article.pl?sid=26/09/11/118207&from=rss)
 * [2026-09-11, 20:40:00](https://soylentnews.org/article.pl?sid=26/09/10/1116231&from=rss) - [Europe May Finally Have Found a Space Entrepreneur Who is Meeting the Moment](https://soylentnews.org/article.pl?sid=26/09/10/1116231&from=rss)
 * [2026-09-11, 15:55:00](https://soylentnews.org/article.pl?sid=26/09/10/1059246&from=rss) - [US Senator Calls on the NSA to Give Guidance for Use of VPNs](https://soylentnews.org/article.pl?sid=26/09/10/1059246&from=rss)
-* [2026-09-11, 11:06:00](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss) - [Hugging Face is Too Important to Fall Into Nvidia's Hands](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss)
 
 ## [Archives](archives/index.md)
 
