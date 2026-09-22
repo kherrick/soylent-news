@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-22](index.md)
 
+* [2026-09-22, 22:27:00](https://soylentnews.org/article.pl?sid=26/09/21/1858235&from=rss) - [The Linux Kernel is Approaching 2,000 CVEs Per Release](https://soylentnews.org/article.pl?sid=26/09/21/1858235&from=rss)
 * [2026-09-22, 17:45:00](https://soylentnews.org/article.pl?sid=26/09/21/1856234&from=rss) - [What Happened to the Snowden Archive?](https://soylentnews.org/article.pl?sid=26/09/21/1856234&from=rss)
 * [2026-09-22, 13:01:00](https://soylentnews.org/article.pl?sid=26/09/21/1853215&from=rss) - [Your Cloud Survived Everything Except The Real World](https://soylentnews.org/article.pl?sid=26/09/21/1853215&from=rss)
 * [2026-09-22, 08:18:00](https://soylentnews.org/article.pl?sid=26/09/21/1849250&from=rss) - [A Severe Misalignment](https://soylentnews.org/article.pl?sid=26/09/21/1849250&from=rss)
