@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-22, 13:01:00](https://soylentnews.org/article.pl?sid=26/09/21/1853215&from=rss) - [Your Cloud Survived Everything Except The Real World](https://soylentnews.org/article.pl?sid=26/09/21/1853215&from=rss)
 * [2026-09-22, 08:18:00](https://soylentnews.org/article.pl?sid=26/09/21/1849250&from=rss) - [A Severe Misalignment](https://soylentnews.org/article.pl?sid=26/09/21/1849250&from=rss)
 * [2026-09-22, 03:30:00](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss) - [How to Know If You Can Trust an AI's Answer to Your Question](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss)
 * [2026-09-21, 22:46:00](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss) - [Scientists Develop New Method for Deciphering Ancient Scrolls](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-13, 05:54:00](https://soylentnews.org/article.pl?sid=26/09/11/1727217&from=rss) - [Microsoft Anoints Rust As A 'Tier 1' Internal Language](https://soylentnews.org/article.pl?sid=26/09/11/1727217&from=rss)
 * [2026-09-13, 01:11:00](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss) - [Retired Man Turns Spare Room Into Soviet-Era Supercomputer](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss)
 * [2026-09-12, 20:23:00](https://soylentnews.org/article.pl?sid=26/09/11/1717228&from=rss) - [NASA And IBM Unveil An Open Source Lunar AI Model](https://soylentnews.org/article.pl?sid=26/09/11/1717228&from=rss)
-* [2026-09-12, 15:41:00](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss) - [Anthropic's September 2026 Report: State Espionage, Weaponized Swarms, and the Rise of Autonomous AI](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss)
 
 ## [Archives](archives/index.md)
 
