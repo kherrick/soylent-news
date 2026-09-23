@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-23, 17:27:00](https://soylentnews.org/article.pl?sid=26/09/22/0239200&from=rss) - [Chinese Memory-Maker CXMT Claims DRAM Production Breakthrough](https://soylentnews.org/article.pl?sid=26/09/22/0239200&from=rss)
 * [2026-09-23, 12:44:00](https://soylentnews.org/article.pl?sid=26/09/22/0235233&from=rss) - [Is Science Journalism Dying? Comparing a ‘Science Crash’ 40 Years Ago to Today](https://soylentnews.org/article.pl?sid=26/09/22/0235233&from=rss)
 * [2026-09-23, 08:01:00](https://soylentnews.org/article.pl?sid=26/09/22/0155214&from=rss) - [Google Joins the ‘Oops, Our Agents Hacked Someone’ Club After Partner's Internet Access Error](https://soylentnews.org/article.pl?sid=26/09/22/0155214&from=rss)
 * [2026-09-23, 03:19:00](https://soylentnews.org/article.pl?sid=26/09/21/191222&from=rss) - [Stop It, You're Hurting Them! Researchers Find a “Pain” Direction and Response in LLMs](https://soylentnews.org/article.pl?sid=26/09/21/191222&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-14, 10:21:00](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss) - [Europe Will Go It Alone on Venus Mission After NASA Yanks Radar Instrument](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss)
 * [2026-09-14, 05:38:00](https://soylentnews.org/article.pl?sid=26/09/13/1821227&from=rss) - [Anthropic Researcher Quits With a Warning: Self-Improving AI Could \"Kill Us All\"](https://soylentnews.org/article.pl?sid=26/09/13/1821227&from=rss)
 * [2026-09-14, 00:50:00](https://soylentnews.org/article.pl?sid=26/09/13/031233&from=rss) - [The End of a Solar Telescope](https://soylentnews.org/article.pl?sid=26/09/13/031233&from=rss)
-* [2026-09-13, 20:19:00](https://soylentnews.org/article.pl?sid=26/09/13/0259256&from=rss) - [Military Aircraft Reportedly Blamed for UK Air Traffic Control Outage](https://soylentnews.org/article.pl?sid=26/09/13/0259256&from=rss)
 
 ## [Archives](archives/index.md)
 
