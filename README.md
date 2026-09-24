@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-24, 02:51:00](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss) - [The AI Models That Cheat The Most, According To New CAIS Benchmark](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss)
 * [2026-09-23, 22:10:00](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss) - [Ctenophores Aren't Just Beautiful, They're Biological Wonders](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss)
 * [2026-09-23, 17:27:00](https://soylentnews.org/article.pl?sid=26/09/22/0239200&from=rss) - [Chinese Memory-Maker CXMT Claims DRAM Production Breakthrough](https://soylentnews.org/article.pl?sid=26/09/22/0239200&from=rss)
 * [2026-09-23, 12:44:00](https://soylentnews.org/article.pl?sid=26/09/22/0235233&from=rss) - [Is Science Journalism Dying? Comparing a ‘Science Crash’ 40 Years Ago to Today](https://soylentnews.org/article.pl?sid=26/09/22/0235233&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-14, 19:55:00](https://soylentnews.org/article.pl?sid=26/09/13/2047209&from=rss) - [Another Microsoft Team Admits It’s Struggling To Handle Flood Of AI-Generated Code](https://soylentnews.org/article.pl?sid=26/09/13/2047209&from=rss)
 * [2026-09-14, 15:03:00](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss) - [A Rant About Phishing: It's Not the User's Fault (and Not DNS Either)](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss)
 * [2026-09-14, 10:21:00](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss) - [Europe Will Go It Alone on Venus Mission After NASA Yanks Radar Instrument](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss)
-* [2026-09-14, 05:38:00](https://soylentnews.org/article.pl?sid=26/09/13/1821227&from=rss) - [Anthropic Researcher Quits With a Warning: Self-Improving AI Could \"Kill Us All\"](https://soylentnews.org/article.pl?sid=26/09/13/1821227&from=rss)
 
 ## [Archives](archives/index.md)
 
