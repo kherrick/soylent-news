@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-24, 12:18:00](https://soylentnews.org/article.pl?sid=26/09/23/1840210&from=rss) - [Laid-Off Developers Create AI Model to Replace CEOs and Other Executives](https://soylentnews.org/article.pl?sid=26/09/23/1840210&from=rss)
 * [2026-09-24, 07:36:00](https://soylentnews.org/article.pl?sid=26/09/22/1520218&from=rss) - [Authors of Submitted Journal Articles Are Asked to Explain Their Papers and It Doesn't Go Very Well](https://soylentnews.org/article.pl?sid=26/09/22/1520218&from=rss)
 * [2026-09-24, 02:51:00](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss) - [The AI Models That Cheat The Most, According To New CAIS Benchmark](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss)
 * [2026-09-23, 22:10:00](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss) - [Ctenophores Aren't Just Beautiful, They're Biological Wonders](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-15, 05:21:00](https://soylentnews.org/article.pl?sid=26/09/14/0541223&from=rss) - [Boy Developed \"Toasted Skin\" Condition From Using a Laptop Every Day](https://soylentnews.org/article.pl?sid=26/09/14/0541223&from=rss)
 * [2026-09-15, 00:37:00](https://soylentnews.org/article.pl?sid=26/09/14/0539247&from=rss) - [Iran and Houthi Rebels Used Anthropic's Claude AI to Target US Warships and Build Hypersonic Missile](https://soylentnews.org/article.pl?sid=26/09/14/0539247&from=rss)
 * [2026-09-14, 19:55:00](https://soylentnews.org/article.pl?sid=26/09/13/2047209&from=rss) - [Another Microsoft Team Admits It’s Struggling To Handle Flood Of AI-Generated Code](https://soylentnews.org/article.pl?sid=26/09/13/2047209&from=rss)
-* [2026-09-14, 15:03:00](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss) - [A Rant About Phishing: It's Not the User's Fault (and Not DNS Either)](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss)
 
 ## [Archives](archives/index.md)
 
