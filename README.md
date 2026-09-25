@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-25, 16:44:00](https://soylentnews.org/article.pl?sid=26/09/24/0929229&from=rss) - [Converting Radiation to Electricity](https://soylentnews.org/article.pl?sid=26/09/24/0929229&from=rss)
 * [2026-09-25, 11:54:00](https://soylentnews.org/article.pl?sid=26/09/24/0924249&from=rss) - [Cities Across US Oppose FCC Plan To Preempt Local Broadband Rules](https://soylentnews.org/article.pl?sid=26/09/24/0924249&from=rss)
 * [2026-09-25, 07:12:00](https://soylentnews.org/article.pl?sid=26/09/24/024235&from=rss) - [Who Signed Off On That AI Agent? Nobody? Thought So.](https://soylentnews.org/article.pl?sid=26/09/24/024235&from=rss)
 * [2026-09-25, 02:31:00](https://soylentnews.org/article.pl?sid=26/09/24/022213&from=rss) - [Scientists Bet On 3D-Printed Coral Reefs To Revitalise Marine Life](https://soylentnews.org/article.pl?sid=26/09/24/022213&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-16, 09:44:00](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss) - [Four Groups Caught Using the Same Chrome and Windows Exploit Kit](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss)
 * [2026-09-16, 05:02:00](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss) - [Russian Plot to Sabotage Undersea Cables With 'Secret Weapon' Foiled by NATO](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss)
 * [2026-09-16, 00:18:00](https://soylentnews.org/article.pl?sid=26/09/15/1120256&from=rss) - [OpenAI Agent Backdoor Communications](https://soylentnews.org/article.pl?sid=26/09/15/1120256&from=rss)
-* [2026-09-15, 19:35:00](https://soylentnews.org/article.pl?sid=26/09/14/0557231&from=rss) - [Could Europe's Giant Four Carriers Rival Starlink With New Consortium?](https://soylentnews.org/article.pl?sid=26/09/14/0557231&from=rss)
 
 ## [Archives](archives/index.md)
 
