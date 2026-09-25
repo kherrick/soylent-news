@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-25, 02:31:00](https://soylentnews.org/article.pl?sid=26/09/24/022213&from=rss) - [Scientists Bet On 3D-Printed Coral Reefs To Revitalise Marine Life](https://soylentnews.org/article.pl?sid=26/09/24/022213&from=rss)
 * [2026-09-24, 21:46:00](https://soylentnews.org/article.pl?sid=26/09/23/1848225&from=rss) - [A New Report From Europe Raises Serious Alarms About Orbital Collisions](https://soylentnews.org/article.pl?sid=26/09/23/1848225&from=rss)
 * [2026-09-24, 17:01:00](https://soylentnews.org/article.pl?sid=26/09/23/1844220&from=rss) - [eCrime on eCrime](https://soylentnews.org/article.pl?sid=26/09/23/1844220&from=rss)
 * [2026-09-24, 12:18:00](https://soylentnews.org/article.pl?sid=26/09/23/1840210&from=rss) - [Laid-Off Developers Create AI Model to Replace CEOs and Other Executives](https://soylentnews.org/article.pl?sid=26/09/23/1840210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-15, 19:35:00](https://soylentnews.org/article.pl?sid=26/09/14/0557231&from=rss) - [Could Europe's Giant Four Carriers Rival Starlink With New Consortium?](https://soylentnews.org/article.pl?sid=26/09/14/0557231&from=rss)
 * [2026-09-15, 14:50:00](https://soylentnews.org/article.pl?sid=26/09/14/0553239&from=rss) - [Intel Revives One Mono Font After Brief Retirement During Open-Source Purge](https://soylentnews.org/article.pl?sid=26/09/14/0553239&from=rss)
 * [2026-09-15, 10:06:00](https://soylentnews.org/article.pl?sid=26/09/14/0546256&from=rss) - [Chinese Military Researchers And Tech Giants Caught Using Claude](https://soylentnews.org/article.pl?sid=26/09/14/0546256&from=rss)
-* [2026-09-15, 05:21:00](https://soylentnews.org/article.pl?sid=26/09/14/0541223&from=rss) - [Boy Developed \"Toasted Skin\" Condition From Using a Laptop Every Day](https://soylentnews.org/article.pl?sid=26/09/14/0541223&from=rss)
 
 ## [Archives](archives/index.md)
 
