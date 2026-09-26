@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-26, 04:22:00](https://soylentnews.org/article.pl?sid=26/09/24/1013251&from=rss) - [VLC 3.0.24 Multimedia Player Upgrades to FFmpeg 8.1.2, Adds Flatpak Support](https://soylentnews.org/article.pl?sid=26/09/24/1013251&from=rss)
+* [2026-09-26, 02:09:00](https://soylentnews.org/article.pl?sid=26/09/24/0943210&from=rss) - [America Gave Up Its Rare Earth Edge. China Took Full Advantage.](https://soylentnews.org/article.pl?sid=26/09/24/0943210&from=rss)
 * [2026-09-25, 21:25:00](https://soylentnews.org/article.pl?sid=26/09/24/0933205&from=rss) - [Southern Water Taps Fiber Network To Sniff Out Leaky Pipes](https://soylentnews.org/article.pl?sid=26/09/24/0933205&from=rss)
 * [2026-09-25, 16:44:00](https://soylentnews.org/article.pl?sid=26/09/24/0929229&from=rss) - [Converting Radiation to Electricity](https://soylentnews.org/article.pl?sid=26/09/24/0929229&from=rss)
 * [2026-09-25, 11:54:00](https://soylentnews.org/article.pl?sid=26/09/24/0924249&from=rss) - [Cities Across US Oppose FCC Plan To Preempt Local Broadband Rules](https://soylentnews.org/article.pl?sid=26/09/24/0924249&from=rss)
@@ -48,8 +50,6 @@
 * [2026-09-17, 00:00:00](https://soylentnews.org/article.pl?sid=26/09/16/0341241&from=rss) - [Australia Considers Noise Cameras to Combat Loud Vehicles](https://soylentnews.org/article.pl?sid=26/09/16/0341241&from=rss)
 * [2026-09-16, 19:18:00](https://soylentnews.org/article.pl?sid=26/09/16/0336241&from=rss) - [Rocket Lab is Seeing Red About NASA's Decision on a Mars Spacecraft](https://soylentnews.org/article.pl?sid=26/09/16/0336241&from=rss)
 * [2026-09-16, 14:32:00](https://soylentnews.org/article.pl?sid=26/09/15/1156210&from=rss) - [Chinese Chipmaker CXMT Allegedly Used a Written Roadmap to Steal Samsung DRAM Tech](https://soylentnews.org/article.pl?sid=26/09/15/1156210&from=rss)
-* [2026-09-16, 09:44:00](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss) - [Four Groups Caught Using the Same Chrome and Windows Exploit Kit](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss)
-* [2026-09-16, 05:02:00](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss) - [Russian Plot to Sabotage Undersea Cables With 'Secret Weapon' Foiled by NATO](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss)
 
 ## [Archives](archives/index.md)
 
