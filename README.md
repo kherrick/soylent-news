@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-27, 20:57:00](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss) - [The More Americans Hear About Datacenters, the Less They Like Them](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss)
 * [2026-09-27, 16:16:00](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss) - [Discord Age Verification Rolls Out Today With Changes Spurred by User Backlash](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss)
 * [2026-09-27, 11:31:00](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss) - [Qualcomm Wants You to Let AI Agents Spend Your Money](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss)
 * [2026-09-27, 11:05:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-18, 23:36:00](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss) - [SpaceX Aims Starship for Orbit on September 22](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss)
 * [2026-09-18, 18:50:00](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss) - [AI Agents Can Modify Themselves Without Humans Telling Them To Do So - and other Bad News](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss)
 * [2026-09-18, 14:07:00](https://soylentnews.org/article.pl?sid=26/09/17/1428251&from=rss) - [Lawmakers Target Flock Cameras With A Threat To Highway Funding](https://soylentnews.org/article.pl?sid=26/09/17/1428251&from=rss)
-* [2026-09-18, 09:24:00](https://soylentnews.org/article.pl?sid=26/09/17/1426240&from=rss) - [Swift 6.4 Unifies Building Across Linux, MacOS, Windows](https://soylentnews.org/article.pl?sid=26/09/17/1426240&from=rss)
 
 ## [Archives](archives/index.md)
 

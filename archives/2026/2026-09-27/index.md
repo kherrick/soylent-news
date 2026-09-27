@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-27](index.md)
 
+* [2026-09-27, 20:57:00](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss) - [The More Americans Hear About Datacenters, the Less They Like Them](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss)
 * [2026-09-27, 16:16:00](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss) - [Discord Age Verification Rolls Out Today With Changes Spurred by User Backlash](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss)
 * [2026-09-27, 11:31:00](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss) - [Qualcomm Wants You to Let AI Agents Spend Your Money](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss)
 * [2026-09-27, 11:05:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss)
