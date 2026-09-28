@@ -1,11 +1,13 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-28, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces - UPDATED](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss)
+* [2026-09-28, 11:12:00](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss) - [Astronomers Estimate That the Moon's Water Reserves Are Insufficient to Sustain a Lunar City](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss)
 * [2026-09-28, 06:24:00](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss) - [Reverse-Engineering the Vintage Intel 8087'S Tangent Algorithm: More Than CORDIC](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss)
 * [2026-09-28, 01:38:00](https://soylentnews.org/article.pl?sid=26/09/27/0927223&from=rss) - [‘Real Mummy's Curse’ Behind Sale and Trade of Mummified Remains Exposed](https://soylentnews.org/article.pl?sid=26/09/27/0927223&from=rss)
 * [2026-09-27, 20:57:00](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss) - [The More Americans Hear About Datacenters, the Less They Like Them](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss)
 * [2026-09-27, 16:16:00](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss) - [Discord Age Verification Rolls Out Today With Changes Spurred by User Backlash](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss)
 * [2026-09-27, 11:31:00](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss) - [Qualcomm Wants You to Let AI Agents Spend Your Money](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss)
-* [2026-09-27, 11:05:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss)
+* [2026-09-27, 11:05:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces - UPDATED](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss)
 * [2026-09-27, 06:45:00](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss) - [Small Undersea Volcanoes May Unleash Outsized Tsunamis](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss)
 * [2026-09-27, 02:02:00](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss) - [NASA Gives SpaceX a Billion Reasons to Keep Flying Crew Dragon](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss)
 * [2026-09-26, 21:13:00](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss) - [Trove of Stolen Sensitive FBI Employee Data is Significant Intelligence Risk](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss)
@@ -48,8 +50,6 @@
 * [2026-09-19, 18:36:00](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss) - [Hackers Reveal How Flock Cameras Really Track Cars and People](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss)
 * [2026-09-19, 13:55:00](https://soylentnews.org/article.pl?sid=26/09/17/1446234&from=rss) - [AWS Says Wartime Damage Means Some Middle East Cloud Resources Are Gone For Good](https://soylentnews.org/article.pl?sid=26/09/17/1446234&from=rss)
 * [2026-09-19, 09:14:00](https://soylentnews.org/article.pl?sid=26/09/17/1444214&from=rss) - [Not Just Proton: Getting to Know Valve's New SteamOS Compatibility Layers](https://soylentnews.org/article.pl?sid=26/09/17/1444214&from=rss)
-* [2026-09-19, 04:29:00](https://soylentnews.org/article.pl?sid=26/09/17/1440248&from=rss) - [Judge Orders Microsoft to Spill Internal Docs and Scour Execs' Comms in Secondhand Licensing Case](https://soylentnews.org/article.pl?sid=26/09/17/1440248&from=rss)
-* [2026-09-18, 23:36:00](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss) - [SpaceX Aims Starship for Orbit on September 22](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss)
 
 ## [Archives](archives/index.md)
 
