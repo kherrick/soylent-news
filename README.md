@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-28, 20:42:00](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss) - [Europe's Fastest Supercomputer Is Finally Getting Its Domestic Silicon Infusion](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss)
+* [2026-09-28, 15:57:00](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss) - [The FAA is Testing an AI-Powered Air Traffic Management Tool](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss)
 * [2026-09-28, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces - UPDATED](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss)
 * [2026-09-28, 11:12:00](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss) - [Astronomers Estimate That the Moon's Water Reserves Are Insufficient to Sustain a Lunar City](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss)
 * [2026-09-28, 06:24:00](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss) - [Reverse-Engineering the Vintage Intel 8087'S Tangent Algorithm: More Than CORDIC](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss)
@@ -48,8 +50,6 @@
 * [2026-09-20, 04:07:00](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss) - [Grandmother Jailed for Six Months After Facial Recognition Mistake Launches $10 Million Lawsuit](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss)
 * [2026-09-19, 23:19:00](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss) - [Tyrannosaurus Rex Was Warm-Blooded And Able To Live In The Arctic, Study Finds](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss)
 * [2026-09-19, 18:36:00](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss) - [Hackers Reveal How Flock Cameras Really Track Cars and People](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss)
-* [2026-09-19, 13:55:00](https://soylentnews.org/article.pl?sid=26/09/17/1446234&from=rss) - [AWS Says Wartime Damage Means Some Middle East Cloud Resources Are Gone For Good](https://soylentnews.org/article.pl?sid=26/09/17/1446234&from=rss)
-* [2026-09-19, 09:14:00](https://soylentnews.org/article.pl?sid=26/09/17/1444214&from=rss) - [Not Just Proton: Getting to Know Valve's New SteamOS Compatibility Layers](https://soylentnews.org/article.pl?sid=26/09/17/1444214&from=rss)
 
 ## [Archives](archives/index.md)
 
