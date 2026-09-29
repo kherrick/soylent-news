@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-29, 10:52:00](https://soylentnews.org/article.pl?sid=26/09/28/0145235&from=rss) - [UK's Uncrewed Experimental Sub Shows It Can Fire Torpedoes](https://soylentnews.org/article.pl?sid=26/09/28/0145235&from=rss)
 * [2026-09-29, 06:06:00](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss) - [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss)
 * [2026-09-29, 01:25:00](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss) - [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss)
 * [2026-09-28, 20:42:00](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss) - [Europe's Fastest Supercomputer Is Finally Getting Its Domestic Silicon Infusion](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-20, 18:18:00](https://soylentnews.org/article.pl?sid=26/09/19/2259249&from=rss) - [Spain Gets Its First Taste Of AI-Aided Cyber Attack](https://soylentnews.org/article.pl?sid=26/09/19/2259249&from=rss)
 * [2026-09-20, 13:35:00](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss) - [What Happens When Neutrinos Swap Identities Inside A Supernova?](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss)
 * [2026-09-20, 08:43:00](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss) - [Fujitsu Ready To Sell Its Custom ‘Monaka’ Arm Chip, Maybe To Rival Server-Makers](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss)
-* [2026-09-20, 04:07:00](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss) - [Grandmother Jailed for Six Months After Facial Recognition Mistake Launches $10 Million Lawsuit](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss)
 
 ## [Archives](archives/index.md)
 
