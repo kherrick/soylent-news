@@ -1,11 +1,12 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-29, 15:35:00](https://soylentnews.org/article.pl?sid=26/09/28/0158240&from=rss) - [OpenAI's Astra Model Went for a Drive and No One Died](https://soylentnews.org/article.pl?sid=26/09/28/0158240&from=rss)
 * [2026-09-29, 10:52:00](https://soylentnews.org/article.pl?sid=26/09/28/0145235&from=rss) - [UK's Uncrewed Experimental Sub Shows It Can Fire Torpedoes](https://soylentnews.org/article.pl?sid=26/09/28/0145235&from=rss)
 * [2026-09-29, 06:06:00](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss) - [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss)
 * [2026-09-29, 01:25:00](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss) - [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss)
 * [2026-09-28, 20:42:00](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss) - [Europe's Fastest Supercomputer Is Finally Getting Its Domestic Silicon Infusion](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss)
 * [2026-09-28, 15:57:00](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss) - [The FAA is Testing an AI-Powered Air Traffic Management Tool](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss)
-* [2026-09-28, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces - UPDATED](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss)
+* [2026-09-28, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss) - [UK Counter-Terror Police Investigation - UPDATED 29 Sep 2026 19:25 BST](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss)
 * [2026-09-28, 11:12:00](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss) - [Astronomers Estimate That the Moon's Water Reserves Are Insufficient to Sustain a Lunar City](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss)
 * [2026-09-28, 06:24:00](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss) - [Reverse-Engineering the Vintage Intel 8087'S Tangent Algorithm: More Than CORDIC](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss)
 * [2026-09-28, 01:38:00](https://soylentnews.org/article.pl?sid=26/09/27/0927223&from=rss) - [‘Real Mummy's Curse’ Behind Sale and Trade of Mummified Remains Exposed](https://soylentnews.org/article.pl?sid=26/09/27/0927223&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-20, 23:00:00](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss) - [China's Humanoid Robots Are Walking Off The Assembly Line On Their Own](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss)
 * [2026-09-20, 18:18:00](https://soylentnews.org/article.pl?sid=26/09/19/2259249&from=rss) - [Spain Gets Its First Taste Of AI-Aided Cyber Attack](https://soylentnews.org/article.pl?sid=26/09/19/2259249&from=rss)
 * [2026-09-20, 13:35:00](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss) - [What Happens When Neutrinos Swap Identities Inside A Supernova?](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss)
-* [2026-09-20, 08:43:00](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss) - [Fujitsu Ready To Sell Its Custom ‘Monaka’ Arm Chip, Maybe To Rival Server-Makers](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss)
 
 ## [Archives](archives/index.md)
 
