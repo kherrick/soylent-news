@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-29, 06:06:00](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss) - [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss)
+* [2026-09-29, 01:25:00](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss) - [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss)
 * [2026-09-28, 20:42:00](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss) - [Europe's Fastest Supercomputer Is Finally Getting Its Domestic Silicon Infusion](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss)
 * [2026-09-28, 15:57:00](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss) - [The FAA is Testing an AI-Powered Air Traffic Management Tool](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss)
 * [2026-09-28, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces - UPDATED](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss)
@@ -48,8 +50,6 @@
 * [2026-09-20, 13:35:00](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss) - [What Happens When Neutrinos Swap Identities Inside A Supernova?](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss)
 * [2026-09-20, 08:43:00](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss) - [Fujitsu Ready To Sell Its Custom ‘Monaka’ Arm Chip, Maybe To Rival Server-Makers](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss)
 * [2026-09-20, 04:07:00](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss) - [Grandmother Jailed for Six Months After Facial Recognition Mistake Launches $10 Million Lawsuit](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss)
-* [2026-09-19, 23:19:00](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss) - [Tyrannosaurus Rex Was Warm-Blooded And Able To Live In The Arctic, Study Finds](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss)
-* [2026-09-19, 18:36:00](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss) - [Hackers Reveal How Flock Cameras Really Track Cars and People](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss)
 
 ## [Archives](archives/index.md)
 
