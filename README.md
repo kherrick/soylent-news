@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-09-30, 10:31:00](https://soylentnews.org/article.pl?sid=26/09/29/011258&from=rss) - [Trump Says AI Is Now Super Intelligence. What’s Really Super Is The Internet Response](https://soylentnews.org/article.pl?sid=26/09/29/011258&from=rss)
 * [2026-09-30, 05:47:00](https://soylentnews.org/article.pl?sid=26/09/29/0059203&from=rss) - [Study Links Coffee Consumption to Metabolic Health and Sex Hormones](https://soylentnews.org/article.pl?sid=26/09/29/0059203&from=rss)
 * [2026-09-30, 01:16:00](https://soylentnews.org/article.pl?sid=26/09/29/0057232&from=rss) - [The Last Quiet Thing](https://soylentnews.org/article.pl?sid=26/09/29/0057232&from=rss)
 * [2026-09-29, 20:19:00](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss) - [Former NASA Chief Sounds Alarm on China's Lunar \"Exploration\" Plans](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-21, 18:03:00](https://soylentnews.org/article.pl?sid=26/09/20/1245219&from=rss) - [The Only Verified Report of a Person Being Struck by Debris That Had Fallen From Orbit](https://soylentnews.org/article.pl?sid=26/09/20/1245219&from=rss)
 * [2026-09-21, 13:19:00](https://soylentnews.org/article.pl?sid=26/09/20/1242228&from=rss) - [Nvidia Goes Green to Keep Grid Capacity From Zapping its Revenues](https://soylentnews.org/article.pl?sid=26/09/20/1242228&from=rss)
 * [2026-09-21, 08:31:00](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss) - [California May Gut State Net Neutrality Law to Comply With Trump Admin Demand](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss)
-* [2026-09-21, 03:44:00](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss) - [The Story of How Wolves Became Dogs is Stranger Than We Thought](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss)
 
 ## [Archives](archives/index.md)
 
