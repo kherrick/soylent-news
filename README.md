@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-01, 19:57:00](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss) - [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
 * [2026-10-01, 15:11:00](https://soylentnews.org/article.pl?sid=26/09/30/0813249&from=rss) - [Fresh CSS Constructs Move Web Design Beyond Ticky-Tacky Little Boxes](https://soylentnews.org/article.pl?sid=26/09/30/0813249&from=rss)
 * [2026-10-01, 10:23:00](https://soylentnews.org/article.pl?sid=26/09/30/022212&from=rss) - [The Flood of the Millennium That Wasn't a Single Flood](https://soylentnews.org/article.pl?sid=26/09/30/022212&from=rss)
 * [2026-10-01, 05:50:00](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss) - [Nearly 70% Of Workers Use AI Regularly Now – But Many Get No Time To Upskill](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-23, 08:01:00](https://soylentnews.org/article.pl?sid=26/09/22/0155214&from=rss) - [Google Joins the ‘Oops, Our Agents Hacked Someone’ Club After Partner's Internet Access Error](https://soylentnews.org/article.pl?sid=26/09/22/0155214&from=rss)
 * [2026-09-23, 03:19:00](https://soylentnews.org/article.pl?sid=26/09/21/191222&from=rss) - [Stop It, You're Hurting Them! Researchers Find a “Pain” Direction and Response in LLMs](https://soylentnews.org/article.pl?sid=26/09/21/191222&from=rss)
 * [2026-09-22, 22:27:00](https://soylentnews.org/article.pl?sid=26/09/21/1858235&from=rss) - [The Linux Kernel is Approaching 2,000 CVEs Per Release](https://soylentnews.org/article.pl?sid=26/09/21/1858235&from=rss)
-* [2026-09-22, 17:45:00](https://soylentnews.org/article.pl?sid=26/09/21/1856234&from=rss) - [What Happened to the Snowden Archive?](https://soylentnews.org/article.pl?sid=26/09/21/1856234&from=rss)
 
 ## [Archives](archives/index.md)
 
