@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-10-01](index.md)
 
+* [2026-10-01, 05:50:00](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss) - [Nearly 70% Of Workers Use AI Regularly Now – But Many Get No Time To Upskill](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss)
 * [2026-10-01, 00:57:00](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss) - [More is Different When AI Agents Work Together](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss)

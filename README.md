@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-01, 05:50:00](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss) - [Nearly 70% Of Workers Use AI Regularly Now – But Many Get No Time To Upskill](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss)
 * [2026-10-01, 00:57:00](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss) - [More is Different When AI Agents Work Together](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss)
 * [2026-09-30, 20:10:00](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss) - [UK Government Vows to Reclaim Services From Outsourcing Giants](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss)
 * [2026-09-30, 16:24:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/30/1626244&from=rss) - [UK Counter-Terror Police Investigation - UPDATED 30 Sep 2026 17:18 BST](https://soylentnews.org/breakingnews/article.pl?sid=26/09/30/1626244&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-22, 17:45:00](https://soylentnews.org/article.pl?sid=26/09/21/1856234&from=rss) - [What Happened to the Snowden Archive?](https://soylentnews.org/article.pl?sid=26/09/21/1856234&from=rss)
 * [2026-09-22, 13:01:00](https://soylentnews.org/article.pl?sid=26/09/21/1853215&from=rss) - [Your Cloud Survived Everything Except The Real World](https://soylentnews.org/article.pl?sid=26/09/21/1853215&from=rss)
 * [2026-09-22, 08:18:00](https://soylentnews.org/article.pl?sid=26/09/21/1849250&from=rss) - [A Severe Misalignment](https://soylentnews.org/article.pl?sid=26/09/21/1849250&from=rss)
-* [2026-09-22, 03:30:00](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss) - [How to Know If You Can Trust an AI's Answer to Your Question](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss)
 
 ## [Archives](archives/index.md)
 
