@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-02, 14:51:00](https://soylentnews.org/article.pl?sid=26/09/30/1454244&from=rss) - [How Brain Stimulation Could Impact How We Develop New Skills](https://soylentnews.org/article.pl?sid=26/09/30/1454244&from=rss)
+* [2026-10-02, 10:08:00](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss) - [NASA, for the Time Being, is Unable to Move the Space Station's Large Robotic Arm](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss)
 * [2026-10-02, 05:27:00](https://soylentnews.org/article.pl?sid=26/09/30/1446254&from=rss) - [AI Round-Up - and  It Isn't Much Good News](https://soylentnews.org/article.pl?sid=26/09/30/1446254&from=rss)
 * [2026-10-02, 00:42:00](https://soylentnews.org/article.pl?sid=26/09/30/0845238&from=rss) - [October Skies Will Put On A Show](https://soylentnews.org/article.pl?sid=26/09/30/0845238&from=rss)
 * [2026-10-01, 19:57:00](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss) - [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
@@ -48,8 +50,6 @@
 * [2026-09-24, 02:51:00](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss) - [The AI Models That Cheat The Most, According To New CAIS Benchmark](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss)
 * [2026-09-23, 22:10:00](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss) - [Ctenophores Aren't Just Beautiful, They're Biological Wonders](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss)
 * [2026-09-23, 17:27:00](https://soylentnews.org/article.pl?sid=26/09/22/0239200&from=rss) - [Chinese Memory-Maker CXMT Claims DRAM Production Breakthrough](https://soylentnews.org/article.pl?sid=26/09/22/0239200&from=rss)
-* [2026-09-23, 12:44:00](https://soylentnews.org/article.pl?sid=26/09/22/0235233&from=rss) - [Is Science Journalism Dying? Comparing a ‘Science Crash’ 40 Years Ago to Today](https://soylentnews.org/article.pl?sid=26/09/22/0235233&from=rss)
-* [2026-09-23, 08:01:00](https://soylentnews.org/article.pl?sid=26/09/22/0155214&from=rss) - [Google Joins the ‘Oops, Our Agents Hacked Someone’ Club After Partner's Internet Access Error](https://soylentnews.org/article.pl?sid=26/09/22/0155214&from=rss)
 
 ## [Archives](archives/index.md)
 
