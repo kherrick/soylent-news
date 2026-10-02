@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-02, 19:36:00](https://soylentnews.org/article.pl?sid=26/09/30/1457252&from=rss) - [Roller Coaster of Death!](https://soylentnews.org/article.pl?sid=26/09/30/1457252&from=rss)
 * [2026-10-02, 14:51:00](https://soylentnews.org/article.pl?sid=26/09/30/1454244&from=rss) - [How Brain Stimulation Could Impact How We Develop New Skills](https://soylentnews.org/article.pl?sid=26/09/30/1454244&from=rss)
 * [2026-10-02, 10:08:00](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss) - [NASA, for the Time Being, is Unable to Move the Space Station's Large Robotic Arm](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss)
 * [2026-10-02, 05:27:00](https://soylentnews.org/article.pl?sid=26/09/30/1446254&from=rss) - [AI Round-Up - and  It Isn't Much Good News](https://soylentnews.org/article.pl?sid=26/09/30/1446254&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-24, 07:36:00](https://soylentnews.org/article.pl?sid=26/09/22/1520218&from=rss) - [Authors of Submitted Journal Articles Are Asked to Explain Their Papers and It Doesn't Go Very Well](https://soylentnews.org/article.pl?sid=26/09/22/1520218&from=rss)
 * [2026-09-24, 02:51:00](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss) - [The AI Models That Cheat The Most, According To New CAIS Benchmark](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss)
 * [2026-09-23, 22:10:00](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss) - [Ctenophores Aren't Just Beautiful, They're Biological Wonders](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss)
-* [2026-09-23, 17:27:00](https://soylentnews.org/article.pl?sid=26/09/22/0239200&from=rss) - [Chinese Memory-Maker CXMT Claims DRAM Production Breakthrough](https://soylentnews.org/article.pl?sid=26/09/22/0239200&from=rss)
 
 ## [Archives](archives/index.md)
 
