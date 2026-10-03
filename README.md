@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-03, 09:49:00](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss) - [RAM Supply Set to Worsen, Says Micron, as CEO Celebrates ‘Much Higher’ Prices](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss)
 * [2026-10-03, 05:06:00](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss) - [Tesla Scores Deal to Help Double the US Electric Semi-Truck Fleet](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss)
 * [2026-10-03, 00:23:00](https://soylentnews.org/article.pl?sid=26/10/01/1214219&from=rss) - [First DVD Player Announced Sept 26, 1996](https://soylentnews.org/article.pl?sid=26/10/01/1214219&from=rss)
 * [2026-10-02, 19:36:00](https://soylentnews.org/article.pl?sid=26/09/30/1457252&from=rss) - [Roller Coaster of Death!](https://soylentnews.org/article.pl?sid=26/09/30/1457252&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-24, 21:46:00](https://soylentnews.org/article.pl?sid=26/09/23/1848225&from=rss) - [A New Report From Europe Raises Serious Alarms About Orbital Collisions](https://soylentnews.org/article.pl?sid=26/09/23/1848225&from=rss)
 * [2026-09-24, 17:01:00](https://soylentnews.org/article.pl?sid=26/09/23/1844220&from=rss) - [eCrime on eCrime](https://soylentnews.org/article.pl?sid=26/09/23/1844220&from=rss)
 * [2026-09-24, 12:18:00](https://soylentnews.org/article.pl?sid=26/09/23/1840210&from=rss) - [Laid-Off Developers Create AI Model to Replace CEOs and Other Executives](https://soylentnews.org/article.pl?sid=26/09/23/1840210&from=rss)
-* [2026-09-24, 07:36:00](https://soylentnews.org/article.pl?sid=26/09/22/1520218&from=rss) - [Authors of Submitted Journal Articles Are Asked to Explain Their Papers and It Doesn't Go Very Well](https://soylentnews.org/article.pl?sid=26/09/22/1520218&from=rss)
 
 ## [Archives](archives/index.md)
 
