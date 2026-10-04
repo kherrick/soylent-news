@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-04, 14:21:00](https://soylentnews.org/article.pl?sid=26/10/03/2122259&from=rss) - [BMW Just Announced It’s Replacing Several Management Roles With AI](https://soylentnews.org/article.pl?sid=26/10/03/2122259&from=rss)
 * [2026-10-04, 09:38:00](https://soylentnews.org/article.pl?sid=26/10/03/0415226&from=rss) - [New Traffic Cameras Can Detect 'Ghost Plates' Designed to Escape the Law](https://soylentnews.org/article.pl?sid=26/10/03/0415226&from=rss)
 * [2026-10-04, 04:53:00](https://soylentnews.org/article.pl?sid=26/10/03/046225&from=rss) - [Cancelled Beloved Aussie Soap Neighbours Revived with AI](https://soylentnews.org/article.pl?sid=26/10/03/046225&from=rss)
 * [2026-10-04, 00:04:00](https://soylentnews.org/article.pl?sid=26/10/03/0355245&from=rss) - [The US Government Plans to Use AI to Help Redact Documents](https://soylentnews.org/article.pl?sid=26/10/03/0355245&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-26, 02:09:00](https://soylentnews.org/article.pl?sid=26/09/24/0943210&from=rss) - [America Gave Up Its Rare Earth Edge. China Took Full Advantage.](https://soylentnews.org/article.pl?sid=26/09/24/0943210&from=rss)
 * [2026-09-25, 21:25:00](https://soylentnews.org/article.pl?sid=26/09/24/0933205&from=rss) - [Southern Water Taps Fiber Network To Sniff Out Leaky Pipes](https://soylentnews.org/article.pl?sid=26/09/24/0933205&from=rss)
 * [2026-09-25, 16:44:00](https://soylentnews.org/article.pl?sid=26/09/24/0929229&from=rss) - [Converting Radiation to Electricity](https://soylentnews.org/article.pl?sid=26/09/24/0929229&from=rss)
-* [2026-09-25, 11:54:00](https://soylentnews.org/article.pl?sid=26/09/24/0924249&from=rss) - [Cities Across US Oppose FCC Plan To Preempt Local Broadband Rules](https://soylentnews.org/article.pl?sid=26/09/24/0924249&from=rss)
 
 ## [Archives](archives/index.md)
 
