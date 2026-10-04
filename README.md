@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-04, 00:04:00](https://soylentnews.org/article.pl?sid=26/10/03/0355245&from=rss) - [The US Government Plans to Use AI to Help Redact Documents](https://soylentnews.org/article.pl?sid=26/10/03/0355245&from=rss)
 * [2026-10-03, 19:21:00](https://soylentnews.org/article.pl?sid=26/10/03/0352234&from=rss) - [Ex-Soldier's Telecom Hacking Spree Earns Him 70 Months](https://soylentnews.org/article.pl?sid=26/10/03/0352234&from=rss)
 * [2026-10-03, 14:37:00](https://soylentnews.org/article.pl?sid=26/10/03/0349244&from=rss) - [The Ethernet Spec Was First Drafted on This Day in 1980](https://soylentnews.org/article.pl?sid=26/10/03/0349244&from=rss)
 * [2026-10-03, 09:49:00](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss) - [RAM Supply Set to Worsen, Says Micron, as CEO Celebrates ‘Much Higher’ Prices](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-25, 11:54:00](https://soylentnews.org/article.pl?sid=26/09/24/0924249&from=rss) - [Cities Across US Oppose FCC Plan To Preempt Local Broadband Rules](https://soylentnews.org/article.pl?sid=26/09/24/0924249&from=rss)
 * [2026-09-25, 07:12:00](https://soylentnews.org/article.pl?sid=26/09/24/024235&from=rss) - [Who Signed Off On That AI Agent? Nobody? Thought So.](https://soylentnews.org/article.pl?sid=26/09/24/024235&from=rss)
 * [2026-09-25, 02:31:00](https://soylentnews.org/article.pl?sid=26/09/24/022213&from=rss) - [Scientists Bet On 3D-Printed Coral Reefs To Revitalise Marine Life](https://soylentnews.org/article.pl?sid=26/09/24/022213&from=rss)
-* [2026-09-24, 21:46:00](https://soylentnews.org/article.pl?sid=26/09/23/1848225&from=rss) - [A New Report From Europe Raises Serious Alarms About Orbital Collisions](https://soylentnews.org/article.pl?sid=26/09/23/1848225&from=rss)
 
 ## [Archives](archives/index.md)
 
