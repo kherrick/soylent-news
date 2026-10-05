@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-04, 23:55:00](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss) - [OpenAI Pauses Some Training Amid Allegations Its Rogue Agents Behaved More Badly Than First Thought](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss)
 * [2026-10-04, 19:04:00](https://soylentnews.org/article.pl?sid=26/10/03/2124247&from=rss) - [Millions of Faces. No Arrests.](https://soylentnews.org/article.pl?sid=26/10/03/2124247&from=rss)
 * [2026-10-04, 14:21:00](https://soylentnews.org/article.pl?sid=26/10/03/2122259&from=rss) - [BMW Just Announced It’s Replacing Several Management Roles With AI](https://soylentnews.org/article.pl?sid=26/10/03/2122259&from=rss)
 * [2026-10-04, 09:38:00](https://soylentnews.org/article.pl?sid=26/10/03/0415226&from=rss) - [New Traffic Cameras Can Detect 'Ghost Plates' Designed to Escape the Law](https://soylentnews.org/article.pl?sid=26/10/03/0415226&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-26, 06:55:00](https://soylentnews.org/article.pl?sid=26/09/24/0947234&from=rss) - [Trump’s China Rivalry And “AI Race” Delusion May Endanger US, Experts Say](https://soylentnews.org/article.pl?sid=26/09/24/0947234&from=rss)
 * [2026-09-26, 04:22:00](https://soylentnews.org/article.pl?sid=26/09/24/1013251&from=rss) - [VLC 3.0.24 Multimedia Player Upgrades to FFmpeg 8.1.2, Adds Flatpak Support](https://soylentnews.org/article.pl?sid=26/09/24/1013251&from=rss)
 * [2026-09-26, 02:09:00](https://soylentnews.org/article.pl?sid=26/09/24/0943210&from=rss) - [America Gave Up Its Rare Earth Edge. China Took Full Advantage.](https://soylentnews.org/article.pl?sid=26/09/24/0943210&from=rss)
-* [2026-09-25, 21:25:00](https://soylentnews.org/article.pl?sid=26/09/24/0933205&from=rss) - [Southern Water Taps Fiber Network To Sniff Out Leaky Pipes](https://soylentnews.org/article.pl?sid=26/09/24/0933205&from=rss)
 
 ## [Archives](archives/index.md)
 
