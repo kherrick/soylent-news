@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-10-05](index.md)
 
+* [2026-10-05, 09:25:00](https://soylentnews.org/article.pl?sid=26/10/04/095205&from=rss) - [Don’t Dare Call Corporate/State Strategy a Conspiracy – NO MORE!](https://soylentnews.org/article.pl?sid=26/10/04/095205&from=rss)
 * [2026-10-05, 04:38:00](https://soylentnews.org/article.pl?sid=26/10/03/2126210&from=rss) - [Debugging Drug Discovery](https://soylentnews.org/article.pl?sid=26/10/03/2126210&from=rss)

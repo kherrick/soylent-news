@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-05, 09:25:00](https://soylentnews.org/article.pl?sid=26/10/04/095205&from=rss) - [Don’t Dare Call Corporate/State Strategy a Conspiracy – NO MORE!](https://soylentnews.org/article.pl?sid=26/10/04/095205&from=rss)
 * [2026-10-05, 04:38:00](https://soylentnews.org/article.pl?sid=26/10/03/2126210&from=rss) - [Debugging Drug Discovery](https://soylentnews.org/article.pl?sid=26/10/03/2126210&from=rss)
 * [2026-10-04, 23:55:00](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss) - [OpenAI Pauses Some Training Amid Allegations Its Rogue Agents Behaved More Badly Than First Thought](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss)
 * [2026-10-04, 19:04:00](https://soylentnews.org/article.pl?sid=26/10/03/2124247&from=rss) - [Millions of Faces. No Arrests.](https://soylentnews.org/article.pl?sid=26/10/03/2124247&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-26, 16:29:00](https://soylentnews.org/article.pl?sid=26/09/26/0152214&from=rss) - [California Tightens Datacenter Rules on Water and Power](https://soylentnews.org/article.pl?sid=26/09/26/0152214&from=rss)
 * [2026-09-26, 11:36:00](https://soylentnews.org/article.pl?sid=26/09/26/0118212&from=rss) - [Owners Mourn Spoiled Food After Firmware Update Bricks Samsung Smart Fridges](https://soylentnews.org/article.pl?sid=26/09/26/0118212&from=rss)
 * [2026-09-26, 06:55:00](https://soylentnews.org/article.pl?sid=26/09/24/0947234&from=rss) - [Trump’s China Rivalry And “AI Race” Delusion May Endanger US, Experts Say](https://soylentnews.org/article.pl?sid=26/09/24/0947234&from=rss)
-* [2026-09-26, 04:22:00](https://soylentnews.org/article.pl?sid=26/09/24/1013251&from=rss) - [VLC 3.0.24 Multimedia Player Upgrades to FFmpeg 8.1.2, Adds Flatpak Support](https://soylentnews.org/article.pl?sid=26/09/24/1013251&from=rss)
 
 ## [Archives](archives/index.md)
 
