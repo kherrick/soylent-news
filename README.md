@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-06, 04:23:00](https://soylentnews.org/article.pl?sid=26/10/04/0921226&from=rss) - [Canada Gets Serious About Its Own Launch Industry As US Relations Fray](https://soylentnews.org/article.pl?sid=26/10/04/0921226&from=rss)
 * [2026-10-05, 23:33:00](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss) - [Your Car is a Smartphone on Wheels. Here's Who's Listening.](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss)
 * [2026-10-05, 18:50:00](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss) - [NASA Chief Teases The Return Of The World's Fastest Spy Plane](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss)
 * [2026-10-05, 14:06:00](https://soylentnews.org/article.pl?sid=26/10/04/098250&from=rss) - [Returning to USA From Vacation? The Government Can Search Your Phone Without A Warrant.](https://soylentnews.org/article.pl?sid=26/10/04/098250&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-27, 11:05:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces - UPDATED](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss)
 * [2026-09-27, 06:45:00](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss) - [Small Undersea Volcanoes May Unleash Outsized Tsunamis](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss)
 * [2026-09-27, 02:02:00](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss) - [NASA Gives SpaceX a Billion Reasons to Keep Flying Crew Dragon](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss)
-* [2026-09-26, 21:13:00](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss) - [Trove of Stolen Sensitive FBI Employee Data is Significant Intelligence Risk](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss)
 
 ## [Archives](archives/index.md)
 

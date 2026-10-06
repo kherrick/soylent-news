@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-10-06](index.md)
+
+* [2026-10-06, 04:23:00](https://soylentnews.org/article.pl?sid=26/10/04/0921226&from=rss) - [Canada Gets Serious About Its Own Launch Industry As US Relations Fray](https://soylentnews.org/article.pl?sid=26/10/04/0921226&from=rss)
