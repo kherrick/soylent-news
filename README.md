@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-06, 23:26:00](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss) - [California's New Law Bans Companies From Relying on AI to Fire Workers](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss)
 * [2026-10-06, 18:39:00](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss) - [A 47 Million Car Inspection Study Just Busted a Big EV Myth](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss)
 * [2026-10-06, 13:58:00](https://soylentnews.org/article.pl?sid=26/10/06/018249&from=rss) - [Google Ending ChromeOS Support Two Years Early](https://soylentnews.org/article.pl?sid=26/10/06/018249&from=rss)
 * [2026-10-06, 09:04:00](https://soylentnews.org/article.pl?sid=26/10/06/015208&from=rss) - [Open AI Monitoring Open AI for Misconduct](https://soylentnews.org/article.pl?sid=26/10/06/015208&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-28, 01:38:00](https://soylentnews.org/article.pl?sid=26/09/27/0927223&from=rss) - [‘Real Mummy's Curse’ Behind Sale and Trade of Mummified Remains Exposed](https://soylentnews.org/article.pl?sid=26/09/27/0927223&from=rss)
 * [2026-09-27, 20:57:00](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss) - [The More Americans Hear About Datacenters, the Less They Like Them](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss)
 * [2026-09-27, 16:16:00](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss) - [Discord Age Verification Rolls Out Today With Changes Spurred by User Backlash](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss)
-* [2026-09-27, 11:31:00](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss) - [Qualcomm Wants You to Let AI Agents Spend Your Money](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss)
 
 ## [Archives](archives/index.md)
 
