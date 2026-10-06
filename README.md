@@ -1,5 +1,8 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-05, 23:33:00](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss) - [Your Car is a Smartphone on Wheels. Here's Who's Listening.](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss)
+* [2026-10-05, 18:50:00](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss) - [NASA Chief Teases The Return Of The World's Fastest Spy Plane](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss)
+* [2026-10-05, 14:06:00](https://soylentnews.org/article.pl?sid=26/10/04/098250&from=rss) - [Returning to USA From Vacation? The Government Can Search Your Phone Without A Warrant.](https://soylentnews.org/article.pl?sid=26/10/04/098250&from=rss)
 * [2026-10-05, 09:25:00](https://soylentnews.org/article.pl?sid=26/10/04/095205&from=rss) - [Don’t Dare Call Corporate/State Strategy a Conspiracy – NO MORE!](https://soylentnews.org/article.pl?sid=26/10/04/095205&from=rss)
 * [2026-10-05, 04:38:00](https://soylentnews.org/article.pl?sid=26/10/03/2126210&from=rss) - [Debugging Drug Discovery](https://soylentnews.org/article.pl?sid=26/10/03/2126210&from=rss)
 * [2026-10-04, 23:55:00](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss) - [OpenAI Pauses Some Training Amid Allegations Its Rogue Agents Behaved More Badly Than First Thought](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss)
@@ -47,9 +50,6 @@
 * [2026-09-27, 06:45:00](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss) - [Small Undersea Volcanoes May Unleash Outsized Tsunamis](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss)
 * [2026-09-27, 02:02:00](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss) - [NASA Gives SpaceX a Billion Reasons to Keep Flying Crew Dragon](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss)
 * [2026-09-26, 21:13:00](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss) - [Trove of Stolen Sensitive FBI Employee Data is Significant Intelligence Risk](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss)
-* [2026-09-26, 16:29:00](https://soylentnews.org/article.pl?sid=26/09/26/0152214&from=rss) - [California Tightens Datacenter Rules on Water and Power](https://soylentnews.org/article.pl?sid=26/09/26/0152214&from=rss)
-* [2026-09-26, 11:36:00](https://soylentnews.org/article.pl?sid=26/09/26/0118212&from=rss) - [Owners Mourn Spoiled Food After Firmware Update Bricks Samsung Smart Fridges](https://soylentnews.org/article.pl?sid=26/09/26/0118212&from=rss)
-* [2026-09-26, 06:55:00](https://soylentnews.org/article.pl?sid=26/09/24/0947234&from=rss) - [Trump’s China Rivalry And “AI Race” Delusion May Endanger US, Experts Say](https://soylentnews.org/article.pl?sid=26/09/24/0947234&from=rss)
 
 ## [Archives](archives/index.md)
 
