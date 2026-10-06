@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-06, 18:39:00](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss) - [A 47 Million Car Inspection Study Just Busted a Big EV Myth](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss)
 * [2026-10-06, 13:58:00](https://soylentnews.org/article.pl?sid=26/10/06/018249&from=rss) - [Google Ending ChromeOS Support Two Years Early](https://soylentnews.org/article.pl?sid=26/10/06/018249&from=rss)
 * [2026-10-06, 09:04:00](https://soylentnews.org/article.pl?sid=26/10/06/015208&from=rss) - [Open AI Monitoring Open AI for Misconduct](https://soylentnews.org/article.pl?sid=26/10/06/015208&from=rss)
 * [2026-10-06, 04:23:00](https://soylentnews.org/article.pl?sid=26/10/04/0921226&from=rss) - [Canada Gets Serious About Its Own Launch Industry As US Relations Fray](https://soylentnews.org/article.pl?sid=26/10/04/0921226&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-27, 20:57:00](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss) - [The More Americans Hear About Datacenters, the Less They Like Them](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss)
 * [2026-09-27, 16:16:00](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss) - [Discord Age Verification Rolls Out Today With Changes Spurred by User Backlash](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss)
 * [2026-09-27, 11:31:00](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss) - [Qualcomm Wants You to Let AI Agents Spend Your Money](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss)
-* [2026-09-27, 11:05:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces - UPDATED](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss)
 
 ## [Archives](archives/index.md)
 
