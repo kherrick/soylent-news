@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-06, 13:58:00](https://soylentnews.org/article.pl?sid=26/10/06/018249&from=rss) - [Google Ending ChromeOS Support Two Years Early](https://soylentnews.org/article.pl?sid=26/10/06/018249&from=rss)
+* [2026-10-06, 09:04:00](https://soylentnews.org/article.pl?sid=26/10/06/015208&from=rss) - [Open AI Monitoring Open AI for Misconduct](https://soylentnews.org/article.pl?sid=26/10/06/015208&from=rss)
 * [2026-10-06, 04:23:00](https://soylentnews.org/article.pl?sid=26/10/04/0921226&from=rss) - [Canada Gets Serious About Its Own Launch Industry As US Relations Fray](https://soylentnews.org/article.pl?sid=26/10/04/0921226&from=rss)
 * [2026-10-05, 23:33:00](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss) - [Your Car is a Smartphone on Wheels. Here's Who's Listening.](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss)
 * [2026-10-05, 18:50:00](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss) - [NASA Chief Teases The Return Of The World's Fastest Spy Plane](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss)
@@ -48,8 +50,6 @@
 * [2026-09-27, 16:16:00](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss) - [Discord Age Verification Rolls Out Today With Changes Spurred by User Backlash](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss)
 * [2026-09-27, 11:31:00](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss) - [Qualcomm Wants You to Let AI Agents Spend Your Money](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss)
 * [2026-09-27, 11:05:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss) - [UK Counter-Terror Police Investigate After Several Arrested Near Base Used by US Forces - UPDATED](https://soylentnews.org/breakingnews/article.pl?sid=26/09/27/115249&from=rss)
-* [2026-09-27, 06:45:00](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss) - [Small Undersea Volcanoes May Unleash Outsized Tsunamis](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss)
-* [2026-09-27, 02:02:00](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss) - [NASA Gives SpaceX a Billion Reasons to Keep Flying Crew Dragon](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss)
 
 ## [Archives](archives/index.md)
 
