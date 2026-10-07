@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-07, 18:24:00](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss) - [RIP: Milt Windler, NASA Flight Director Who Helped Save Apollo 13, Dies at 94](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss)
 * [2026-10-07, 13:37:00](https://soylentnews.org/article.pl?sid=26/10/06/0348230&from=rss) - [Vincent Bernat: Hacking the Go Compiler to Efficiently Map IPv4 to IPv6](https://soylentnews.org/article.pl?sid=26/10/06/0348230&from=rss)
 * [2026-10-07, 08:56:00](https://soylentnews.org/article.pl?sid=26/10/06/0340223&from=rss) - [AI Market Needs to Make $6 Trillion a Year by 2031 to Fund its Infrastructure Habit](https://soylentnews.org/article.pl?sid=26/10/06/0340223&from=rss)
 * [2026-10-07, 04:10:00](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss) - [Federal Judge in Oklahoma Rules Warrantless ALPR Searches May be Unconstitutional](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-28, 15:57:00](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss) - [The FAA is Testing an AI-Powered Air Traffic Management Tool](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss)
 * [2026-09-28, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss) - [UK Counter-Terror Police Investigation - UPDATED 30 Sep 2026 17:18 BST](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss)
 * [2026-09-28, 11:12:00](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss) - [Astronomers Estimate That the Moon's Water Reserves Are Insufficient to Sustain a Lunar City](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss)
-* [2026-09-28, 06:24:00](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss) - [Reverse-Engineering the Vintage Intel 8087'S Tangent Algorithm: More Than CORDIC](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss)
 
 ## [Archives](archives/index.md)
 
