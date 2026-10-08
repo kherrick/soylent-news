@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-08, 04:01:00](https://soylentnews.org/article.pl?sid=26/10/07/0314229&from=rss) - [New Forensic Evidence Supports Egyptian \"Retainer Sacrifice\"](https://soylentnews.org/article.pl?sid=26/10/07/0314229&from=rss)
 * [2026-10-07, 23:13:00](https://soylentnews.org/article.pl?sid=26/10/07/035258&from=rss) - [Trump's ‘AI Accord’ Does Little to Actually Keep AI Safe, Experts Say](https://soylentnews.org/article.pl?sid=26/10/07/035258&from=rss)
 * [2026-10-07, 18:24:00](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss) - [RIP: Milt Windler, NASA Flight Director Who Helped Save Apollo 13, Dies at 94](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss)
 * [2026-10-07, 13:37:00](https://soylentnews.org/article.pl?sid=26/10/06/0348230&from=rss) - [Vincent Bernat: Hacking the Go Compiler to Efficiently Map IPv4 to IPv6](https://soylentnews.org/article.pl?sid=26/10/06/0348230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-29, 01:25:00](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss) - [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss)
 * [2026-09-28, 20:42:00](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss) - [Europe's Fastest Supercomputer Is Finally Getting Its Domestic Silicon Infusion](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss)
 * [2026-09-28, 15:57:00](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss) - [The FAA is Testing an AI-Powered Air Traffic Management Tool](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss)
-* [2026-09-28, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss) - [UK Counter-Terror Police Investigation - UPDATED 30 Sep 2026 17:18 BST](https://soylentnews.org/breakingnews/article.pl?sid=26/09/28/1259254&from=rss)
 
 ## [Archives](archives/index.md)
 
