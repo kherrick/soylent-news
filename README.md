@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-08, 23:06:00](https://soylentnews.org/article.pl?sid=26/10/08/0047239&from=rss) - [Researchers Discover Experimental Evidence of New Type of Magnetism](https://soylentnews.org/article.pl?sid=26/10/08/0047239&from=rss)
 * [2026-10-08, 18:15:00](https://soylentnews.org/article.pl?sid=26/10/08/0046228&from=rss) - [No More Cheap Phones](https://soylentnews.org/article.pl?sid=26/10/08/0046228&from=rss)
 * [2026-10-08, 13:33:00](https://soylentnews.org/article.pl?sid=26/10/08/0044257&from=rss) - [Social Media May Make Investors Feel More Confident Than They Should be](https://soylentnews.org/article.pl?sid=26/10/08/0044257&from=rss)
 * [2026-10-08, 08:48:00](https://soylentnews.org/article.pl?sid=26/10/07/0320248&from=rss) - [Apple Changes Full-Disk Access Permissions To Curb Abuse From AI Agents](https://soylentnews.org/article.pl?sid=26/10/07/0320248&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-29, 20:19:00](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss) - [Former NASA Chief Sounds Alarm on China's Lunar \"Exploration\" Plans](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss)
 * [2026-09-29, 15:35:00](https://soylentnews.org/article.pl?sid=26/09/28/0158240&from=rss) - [OpenAI's Astra Model Went for a Drive and No One Died](https://soylentnews.org/article.pl?sid=26/09/28/0158240&from=rss)
 * [2026-09-29, 10:52:00](https://soylentnews.org/article.pl?sid=26/09/28/0145235&from=rss) - [UK's Uncrewed Experimental Sub Shows It Can Fire Torpedoes](https://soylentnews.org/article.pl?sid=26/09/28/0145235&from=rss)
-* [2026-09-29, 06:06:00](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss) - [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss)
 
 ## [Archives](archives/index.md)
 
