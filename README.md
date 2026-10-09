@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-09, 13:17:00](https://soylentnews.org/article.pl?sid=26/10/08/149251&from=rss) - [AI Chatbots Give Us a Narrow Slice of Knowledge: Researchers Warn of ‘Knowledge Collapse’](https://soylentnews.org/article.pl?sid=26/10/08/149251&from=rss)
 * [2026-10-09, 08:32:00](https://soylentnews.org/article.pl?sid=26/10/08/147212&from=rss) - [The 3dfx Voodoo Story: We Talk to Cofounder Ross Smith](https://soylentnews.org/article.pl?sid=26/10/08/147212&from=rss)
 * [2026-10-09, 03:48:00](https://soylentnews.org/article.pl?sid=26/10/08/141214&from=rss) - [Chemistry Nobel Goes To Reactions Like Those That Gave Life A Hand](https://soylentnews.org/article.pl?sid=26/10/08/141214&from=rss)
 * [2026-10-08, 23:06:00](https://soylentnews.org/article.pl?sid=26/10/08/0047239&from=rss) - [Researchers Discover Experimental Evidence of New Type of Magnetism](https://soylentnews.org/article.pl?sid=26/10/08/0047239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-30, 10:31:00](https://soylentnews.org/article.pl?sid=26/09/29/011258&from=rss) - [Trump Says AI Is Now Super Intelligence. What’s Really Super Is The Internet Response](https://soylentnews.org/article.pl?sid=26/09/29/011258&from=rss)
 * [2026-09-30, 05:47:00](https://soylentnews.org/article.pl?sid=26/09/29/0059203&from=rss) - [Study Links Coffee Consumption to Metabolic Health and Sex Hormones](https://soylentnews.org/article.pl?sid=26/09/29/0059203&from=rss)
 * [2026-09-30, 01:16:00](https://soylentnews.org/article.pl?sid=26/09/29/0057232&from=rss) - [The Last Quiet Thing](https://soylentnews.org/article.pl?sid=26/09/29/0057232&from=rss)
-* [2026-09-29, 20:19:00](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss) - [Former NASA Chief Sounds Alarm on China's Lunar \"Exploration\" Plans](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss)
 
 ## [Archives](archives/index.md)
 
