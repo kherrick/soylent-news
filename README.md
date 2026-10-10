@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-10, 03:40:00](https://soylentnews.org/article.pl?sid=26/10/08/1421209&from=rss) - [ICE Is Reportedly Using A Palantir Database To Compile Dossiers On Protestors](https://soylentnews.org/article.pl?sid=26/10/08/1421209&from=rss)
 * [2026-10-09, 22:53:00](https://soylentnews.org/article.pl?sid=26/10/08/1418255&from=rss) - [Trade Group Crunches Numbers On Trump’s Impossible Push For 100% US-Made Tech](https://soylentnews.org/article.pl?sid=26/10/08/1418255&from=rss)
 * [2026-10-09, 18:03:00](https://soylentnews.org/article.pl?sid=26/10/08/1414239&from=rss) - [Formula1 Fiasco](https://soylentnews.org/article.pl?sid=26/10/08/1414239&from=rss)
 * [2026-10-09, 13:17:00](https://soylentnews.org/article.pl?sid=26/10/08/149251&from=rss) - [AI Chatbots Give Us a Narrow Slice of Knowledge: Researchers Warn of ‘Knowledge Collapse’](https://soylentnews.org/article.pl?sid=26/10/08/149251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-09-30, 20:10:00](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss) - [UK Government Vows to Reclaim Services From Outsourcing Giants](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss)
 * [2026-09-30, 16:24:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/30/1626244&from=rss) - [UK Counter-Terror Police Investigation - UPDATED 02 Oct 2026 07:18 BST](https://soylentnews.org/breakingnews/article.pl?sid=26/09/30/1626244&from=rss)
 * [2026-09-30, 15:19:00](https://soylentnews.org/article.pl?sid=26/09/29/014245&from=rss) - [Paleontologists Reconstruct Forests of 56 Million Years Ago With Chilling Parallels for Our Time](https://soylentnews.org/article.pl?sid=26/09/29/014245&from=rss)
-* [2026-09-30, 10:31:00](https://soylentnews.org/article.pl?sid=26/09/29/011258&from=rss) - [Trump Says AI Is Now Super Intelligence. What’s Really Super Is The Internet Response](https://soylentnews.org/article.pl?sid=26/09/29/011258&from=rss)
 
 ## [Archives](archives/index.md)
 
