@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-10, 13:12:00](https://soylentnews.org/article.pl?sid=26/10/10/136205&from=rss) - [Pediatricians Renew Call To Ban Raw Milk As Anti-Science Rhetoric Reigns](https://soylentnews.org/article.pl?sid=26/10/10/136205&from=rss)
 * [2026-10-10, 08:22:00](https://soylentnews.org/article.pl?sid=26/10/08/1424234&from=rss) - [It's Nobel Prize Week](https://soylentnews.org/article.pl?sid=26/10/08/1424234&from=rss)
 * [2026-10-10, 03:40:00](https://soylentnews.org/article.pl?sid=26/10/08/1421209&from=rss) - [ICE Is Reportedly Using A Palantir Database To Compile Dossiers On Protestors](https://soylentnews.org/article.pl?sid=26/10/08/1421209&from=rss)
 * [2026-10-09, 22:53:00](https://soylentnews.org/article.pl?sid=26/10/08/1418255&from=rss) - [Trade Group Crunches Numbers On Trump’s Impossible Push For 100% US-Made Tech](https://soylentnews.org/article.pl?sid=26/10/08/1418255&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-01, 05:50:00](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss) - [Nearly 70% Of Workers Use AI Regularly Now – But Many Get No Time To Upskill](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss)
 * [2026-10-01, 00:57:00](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss) - [More is Different When AI Agents Work Together](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss)
 * [2026-09-30, 20:10:00](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss) - [UK Government Vows to Reclaim Services From Outsourcing Giants](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss)
-* [2026-09-30, 16:24:00](https://soylentnews.org/breakingnews/article.pl?sid=26/09/30/1626244&from=rss) - [UK Counter-Terror Police Investigation - UPDATED 02 Oct 2026 07:18 BST](https://soylentnews.org/breakingnews/article.pl?sid=26/09/30/1626244&from=rss)
 
 ## [Archives](archives/index.md)
 
