@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-11, 18:01:00](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss) - [Spies, Prime Ministers, And Balls: The BBC Domesday Project at 40](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss)
 * [2026-10-11, 13:15:00](https://soylentnews.org/article.pl?sid=26/10/10/2141242&from=rss) - [ExxonMobil's Own Scientists Doubted Climate Fixes The Company Hyped](https://soylentnews.org/article.pl?sid=26/10/10/2141242&from=rss)
 * [2026-10-11, 08:32:00](https://soylentnews.org/article.pl?sid=26/10/10/2134230&from=rss) - [Samsung Eyes $80B Quarterly Profit As Memory Buyers Pay The Price](https://soylentnews.org/article.pl?sid=26/10/10/2134230&from=rss)
 * [2026-10-11, 03:44:00](https://soylentnews.org/article.pl?sid=26/10/10/2126238&from=rss) - [Amazon’s $1B Plan To Combat Data Center Backlash Draws More Backlash](https://soylentnews.org/article.pl?sid=26/10/10/2126238&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-02, 10:08:00](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss) - [NASA, for the Time Being, is Unable to Move the Space Station's Large Robotic Arm](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss)
 * [2026-10-02, 05:27:00](https://soylentnews.org/article.pl?sid=26/09/30/1446254&from=rss) - [AI Round-Up - and  It Isn't Much Good News](https://soylentnews.org/article.pl?sid=26/09/30/1446254&from=rss)
 * [2026-10-02, 00:42:00](https://soylentnews.org/article.pl?sid=26/09/30/0845238&from=rss) - [October Skies Will Put On A Show](https://soylentnews.org/article.pl?sid=26/09/30/0845238&from=rss)
-* [2026-10-01, 19:57:00](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss) - [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
 
 ## [Archives](archives/index.md)
 
