@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-11, 08:32:00](https://soylentnews.org/article.pl?sid=26/10/10/2134230&from=rss) - [Samsung Eyes $80B Quarterly Profit As Memory Buyers Pay The Price](https://soylentnews.org/article.pl?sid=26/10/10/2134230&from=rss)
 * [2026-10-11, 03:44:00](https://soylentnews.org/article.pl?sid=26/10/10/2126238&from=rss) - [Amazon’s $1B Plan To Combat Data Center Backlash Draws More Backlash](https://soylentnews.org/article.pl?sid=26/10/10/2126238&from=rss)
 * [2026-10-10, 23:01:00](https://soylentnews.org/article.pl?sid=26/10/10/2122240&from=rss) - [Inside a 1980s Filter Chip that Uses Switched Capacitors](https://soylentnews.org/article.pl?sid=26/10/10/2122240&from=rss)
 * [2026-10-10, 18:18:00](https://soylentnews.org/article.pl?sid=26/10/10/1819227&from=rss) - [“Software Is Over”: Bold AI Developer Takes Aim At Adobe With Open Source Clones](https://soylentnews.org/article.pl?sid=26/10/10/1819227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-02, 00:42:00](https://soylentnews.org/article.pl?sid=26/09/30/0845238&from=rss) - [October Skies Will Put On A Show](https://soylentnews.org/article.pl?sid=26/09/30/0845238&from=rss)
 * [2026-10-01, 19:57:00](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss) - [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
 * [2026-10-01, 15:11:00](https://soylentnews.org/article.pl?sid=26/09/30/0813249&from=rss) - [Fresh CSS Constructs Move Web Design Beyond Ticky-Tacky Little Boxes](https://soylentnews.org/article.pl?sid=26/09/30/0813249&from=rss)
-* [2026-10-01, 10:23:00](https://soylentnews.org/article.pl?sid=26/09/30/022212&from=rss) - [The Flood of the Millennium That Wasn't a Single Flood](https://soylentnews.org/article.pl?sid=26/09/30/022212&from=rss)
 
 ## [Archives](archives/index.md)
 
