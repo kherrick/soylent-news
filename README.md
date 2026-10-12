@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-12, 08:18:00](https://soylentnews.org/article.pl?sid=26/10/11/1921216&from=rss) - [What Do the Experts Say About Starting Out in a STEM Career?](https://soylentnews.org/article.pl?sid=26/10/11/1921216&from=rss)
 * [2026-10-12, 03:35:00](https://soylentnews.org/article.pl?sid=26/10/12/0346216&from=rss) - [Optics: Why the Closest Things Are the Blurriest](https://soylentnews.org/article.pl?sid=26/10/12/0346216&from=rss)
 * [2026-10-11, 22:45:00](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss) - [The AI Contingency Plan](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss)
 * [2026-10-11, 18:01:00](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss) - [Spies, Prime Ministers, And Balls: The BBC Domesday Project at 40](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-03, 00:23:00](https://soylentnews.org/article.pl?sid=26/10/01/1214219&from=rss) - [First DVD Player Announced Sept 26, 1996](https://soylentnews.org/article.pl?sid=26/10/01/1214219&from=rss)
 * [2026-10-02, 19:36:00](https://soylentnews.org/article.pl?sid=26/09/30/1457252&from=rss) - [Roller Coaster of Death!](https://soylentnews.org/article.pl?sid=26/09/30/1457252&from=rss)
 * [2026-10-02, 14:51:00](https://soylentnews.org/article.pl?sid=26/09/30/1454244&from=rss) - [How Brain Stimulation Could Impact How We Develop New Skills](https://soylentnews.org/article.pl?sid=26/09/30/1454244&from=rss)
-* [2026-10-02, 10:08:00](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss) - [NASA, for the Time Being, is Unable to Move the Space Station's Large Robotic Arm](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss)
 
 ## [Archives](archives/index.md)
 
