@@ -1,6 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2026-10-12, 03:36:00](https://soylentnews.org/article.pl?sid=26/10/11/1917226&from=rss) - [ICE is Reportedly Using a Palantir Database to Compile Dossiers on Protestors](https://soylentnews.org/article.pl?sid=26/10/11/1917226&from=rss)
+* [2026-10-12, 03:35:00](https://soylentnews.org/article.pl?sid=26/10/12/0346216&from=rss) - [Optics: Why the Closest Things Are the Blurriest](https://soylentnews.org/article.pl?sid=26/10/12/0346216&from=rss)
 * [2026-10-11, 22:45:00](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss) - [The AI Contingency Plan](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss)
 * [2026-10-11, 18:01:00](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss) - [Spies, Prime Ministers, And Balls: The BBC Domesday Project at 40](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss)
 * [2026-10-11, 13:15:00](https://soylentnews.org/article.pl?sid=26/10/10/2141242&from=rss) - [ExxonMobil's Own Scientists Doubted Climate Fixes The Company Hyped](https://soylentnews.org/article.pl?sid=26/10/10/2141242&from=rss)
