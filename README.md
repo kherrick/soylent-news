@@ -1,6 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
-* [2026-10-11, 22:45:00](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss) - [The AI Contingency plan](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss)
+* [2026-10-12, 03:36:00](https://soylentnews.org/article.pl?sid=26/10/11/1917226&from=rss) - [ICE is Reportedly Using a Palantir Database to Compile Dossiers on Protestors](https://soylentnews.org/article.pl?sid=26/10/11/1917226&from=rss)
+* [2026-10-11, 22:45:00](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss) - [The AI Contingency Plan](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss)
 * [2026-10-11, 18:01:00](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss) - [Spies, Prime Ministers, And Balls: The BBC Domesday Project at 40](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss)
 * [2026-10-11, 13:15:00](https://soylentnews.org/article.pl?sid=26/10/10/2141242&from=rss) - [ExxonMobil's Own Scientists Doubted Climate Fixes The Company Hyped](https://soylentnews.org/article.pl?sid=26/10/10/2141242&from=rss)
 * [2026-10-11, 08:32:00](https://soylentnews.org/article.pl?sid=26/10/10/2134230&from=rss) - [Samsung Eyes $80B Quarterly Profit As Memory Buyers Pay The Price](https://soylentnews.org/article.pl?sid=26/10/10/2134230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-02, 19:36:00](https://soylentnews.org/article.pl?sid=26/09/30/1457252&from=rss) - [Roller Coaster of Death!](https://soylentnews.org/article.pl?sid=26/09/30/1457252&from=rss)
 * [2026-10-02, 14:51:00](https://soylentnews.org/article.pl?sid=26/09/30/1454244&from=rss) - [How Brain Stimulation Could Impact How We Develop New Skills](https://soylentnews.org/article.pl?sid=26/09/30/1454244&from=rss)
 * [2026-10-02, 10:08:00](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss) - [NASA, for the Time Being, is Unable to Move the Space Station's Large Robotic Arm](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss)
-* [2026-10-02, 05:27:00](https://soylentnews.org/article.pl?sid=26/09/30/1446254&from=rss) - [AI Round-Up - and  It Isn't Much Good News](https://soylentnews.org/article.pl?sid=26/09/30/1446254&from=rss)
 
 ## [Archives](archives/index.md)
 
