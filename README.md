@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-13, 03:11:00](https://soylentnews.org/article.pl?sid=26/10/12/0342220&from=rss) - [Goodbye Mark Stephens AKA Bob Cringely](https://soylentnews.org/article.pl?sid=26/10/12/0342220&from=rss)
 * [2026-10-12, 22:28:00](https://soylentnews.org/article.pl?sid=26/10/12/0339243&from=rss) - [Scientists Get a New Clue to the Origin of Solar Wind 'Switchbacks'](https://soylentnews.org/article.pl?sid=26/10/12/0339243&from=rss)
 * [2026-10-12, 17:44:00](https://soylentnews.org/article.pl?sid=26/10/12/0335234&from=rss) - [TP-Link Problems in US Grow Amid FCC Router Ban and Four State Lawsuits](https://soylentnews.org/article.pl?sid=26/10/12/0335234&from=rss)
 * [2026-10-12, 12:59:00](https://soylentnews.org/article.pl?sid=26/10/12/0330257&from=rss) - [AI Giants Promise to Play Nice With Personal Data After UK Watchdog Scrutiny](https://soylentnews.org/article.pl?sid=26/10/12/0330257&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-03, 19:21:00](https://soylentnews.org/article.pl?sid=26/10/03/0352234&from=rss) - [Ex-Soldier's Telecom Hacking Spree Earns Him 70 Months](https://soylentnews.org/article.pl?sid=26/10/03/0352234&from=rss)
 * [2026-10-03, 14:37:00](https://soylentnews.org/article.pl?sid=26/10/03/0349244&from=rss) - [The Ethernet Spec Was First Drafted on This Day in 1980](https://soylentnews.org/article.pl?sid=26/10/03/0349244&from=rss)
 * [2026-10-03, 09:49:00](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss) - [RAM Supply Set to Worsen, Says Micron, as CEO Celebrates ‘Much Higher’ Prices](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss)
-* [2026-10-03, 05:06:00](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss) - [Tesla Scores Deal to Help Double the US Electric Semi-Truck Fleet](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss)
 
 ## [Archives](archives/index.md)
 
