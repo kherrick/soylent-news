@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-13, 17:29:00](https://soylentnews.org/article.pl?sid=26/10/12/200231&from=rss) - [Wild Tomatoes Still Hold the Flavor We Bred Away: New Map Shows Breeders Where to Look](https://soylentnews.org/article.pl?sid=26/10/12/200231&from=rss)
 * [2026-10-13, 12:42:00](https://soylentnews.org/article.pl?sid=26/10/12/1957224&from=rss) - [Optional Practical Training Fees](https://soylentnews.org/article.pl?sid=26/10/12/1957224&from=rss)
 * [2026-10-13, 07:53:00](https://soylentnews.org/article.pl?sid=26/10/12/0344219&from=rss) - [The People Supporting the Internet](https://soylentnews.org/article.pl?sid=26/10/12/0344219&from=rss)
 * [2026-10-13, 03:11:00](https://soylentnews.org/article.pl?sid=26/10/12/0342220&from=rss) - [Goodbye Mark Stephens AKA Bob Cringely](https://soylentnews.org/article.pl?sid=26/10/12/0342220&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-04, 09:38:00](https://soylentnews.org/article.pl?sid=26/10/03/0415226&from=rss) - [New Traffic Cameras Can Detect 'Ghost Plates' Designed to Escape the Law](https://soylentnews.org/article.pl?sid=26/10/03/0415226&from=rss)
 * [2026-10-04, 04:53:00](https://soylentnews.org/article.pl?sid=26/10/03/046225&from=rss) - [Cancelled Beloved Aussie Soap Neighbours Revived with AI](https://soylentnews.org/article.pl?sid=26/10/03/046225&from=rss)
 * [2026-10-04, 00:04:00](https://soylentnews.org/article.pl?sid=26/10/03/0355245&from=rss) - [The US Government Plans to Use AI to Help Redact Documents](https://soylentnews.org/article.pl?sid=26/10/03/0355245&from=rss)
-* [2026-10-03, 19:21:00](https://soylentnews.org/article.pl?sid=26/10/03/0352234&from=rss) - [Ex-Soldier's Telecom Hacking Spree Earns Him 70 Months](https://soylentnews.org/article.pl?sid=26/10/03/0352234&from=rss)
 
 ## [Archives](archives/index.md)
 
