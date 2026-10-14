@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-14, 12:27:00](https://soylentnews.org/article.pl?sid=26/10/14/0118206&from=rss) - [Chinese Cars in Norway Stored Military Exercise Footage and Access Codes](https://soylentnews.org/article.pl?sid=26/10/14/0118206&from=rss)
 * [2026-10-14, 07:46:00](https://soylentnews.org/article.pl?sid=26/10/14/0116254&from=rss) - [Your CPU still has an 8086 mode](https://soylentnews.org/article.pl?sid=26/10/14/0116254&from=rss)
 * [2026-10-14, 02:57:00](https://soylentnews.org/article.pl?sid=26/10/13/1349209&from=rss) - [Hundreds Of French Supermarkets Hacked In 'Unprecedented' Cyberattack](https://soylentnews.org/article.pl?sid=26/10/13/1349209&from=rss)
 * [2026-10-13, 22:13:00](https://soylentnews.org/article.pl?sid=26/10/13/0613239&from=rss) - [Celebrating the Brilliant Pragmatism of TCP/IP, the Wiring of the World](https://soylentnews.org/article.pl?sid=26/10/13/0613239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-05, 04:38:00](https://soylentnews.org/article.pl?sid=26/10/03/2126210&from=rss) - [Debugging Drug Discovery](https://soylentnews.org/article.pl?sid=26/10/03/2126210&from=rss)
 * [2026-10-04, 23:55:00](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss) - [OpenAI Pauses Some Training Amid Allegations Its Rogue Agents Behaved More Badly Than First Thought](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss)
 * [2026-10-04, 19:04:00](https://soylentnews.org/article.pl?sid=26/10/03/2124247&from=rss) - [Millions of Faces. No Arrests.](https://soylentnews.org/article.pl?sid=26/10/03/2124247&from=rss)
-* [2026-10-04, 14:21:00](https://soylentnews.org/article.pl?sid=26/10/03/2122259&from=rss) - [BMW Just Announced It’s Replacing Several Management Roles With AI](https://soylentnews.org/article.pl?sid=26/10/03/2122259&from=rss)
 
 ## [Archives](archives/index.md)
 
