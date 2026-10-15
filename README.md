@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-15, 17:01:00](https://soylentnews.org/article.pl?sid=26/10/14/1441255&from=rss) - [Researchers to Teens: Get to Bed – It's Good for Your Blood Sugar](https://soylentnews.org/article.pl?sid=26/10/14/1441255&from=rss)
 * [2026-10-15, 12:14:00](https://soylentnews.org/article.pl?sid=26/10/14/1440236&from=rss) - [Intel Optimizes IPv6 Networking Into Nothingness, Say Users](https://soylentnews.org/article.pl?sid=26/10/14/1440236&from=rss)
 * [2026-10-15, 07:28:00](https://soylentnews.org/article.pl?sid=26/10/14/0129251&from=rss) - [Statisticians Build Better Way to Make Sense of Competing Sports Rankings](https://soylentnews.org/article.pl?sid=26/10/14/0129251&from=rss)
 * [2026-10-15, 02:46:00](https://soylentnews.org/article.pl?sid=26/10/14/0127256&from=rss) - [Japan Declares Cyber ‘Emergency’ After Millions Affected In Hacks](https://soylentnews.org/article.pl?sid=26/10/14/0127256&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-06, 09:04:00](https://soylentnews.org/article.pl?sid=26/10/06/015208&from=rss) - [Open AI Monitoring Open AI for Misconduct](https://soylentnews.org/article.pl?sid=26/10/06/015208&from=rss)
 * [2026-10-06, 04:23:00](https://soylentnews.org/article.pl?sid=26/10/04/0921226&from=rss) - [Canada Gets Serious About Its Own Launch Industry As US Relations Fray](https://soylentnews.org/article.pl?sid=26/10/04/0921226&from=rss)
 * [2026-10-05, 23:33:00](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss) - [Your Car is a Smartphone on Wheels. Here's Who's Listening.](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss)
-* [2026-10-05, 18:50:00](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss) - [NASA Chief Teases The Return Of The World's Fastest Spy Plane](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss)
 
 ## [Archives](archives/index.md)
 
