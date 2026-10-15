@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-15, 07:28:00](https://soylentnews.org/article.pl?sid=26/10/14/0129251&from=rss) - [Statisticians Build Better Way to Make Sense of Competing Sports Rankings](https://soylentnews.org/article.pl?sid=26/10/14/0129251&from=rss)
 * [2026-10-15, 02:46:00](https://soylentnews.org/article.pl?sid=26/10/14/0127256&from=rss) - [Japan Declares Cyber ‘Emergency’ After Millions Affected In Hacks](https://soylentnews.org/article.pl?sid=26/10/14/0127256&from=rss)
 * [2026-10-14, 21:54:00](https://soylentnews.org/article.pl?sid=26/10/14/0125242&from=rss) - [Argonne Scientists Create Chatty X-Ray Microscope That Zooms in Where You Tell It to](https://soylentnews.org/article.pl?sid=26/10/14/0125242&from=rss)
 * [2026-10-14, 17:12:00](https://soylentnews.org/article.pl?sid=26/10/14/0123253&from=rss) - [The Eruption That Destroyed Pompeii is Helping Scientists Date Earth's History](https://soylentnews.org/article.pl?sid=26/10/14/0123253&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-05, 23:33:00](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss) - [Your Car is a Smartphone on Wheels. Here's Who's Listening.](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss)
 * [2026-10-05, 18:50:00](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss) - [NASA Chief Teases The Return Of The World's Fastest Spy Plane](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss)
 * [2026-10-05, 14:06:00](https://soylentnews.org/article.pl?sid=26/10/04/098250&from=rss) - [Returning to USA From Vacation? The Government Can Search Your Phone Without A Warrant.](https://soylentnews.org/article.pl?sid=26/10/04/098250&from=rss)
-* [2026-10-05, 09:25:00](https://soylentnews.org/article.pl?sid=26/10/04/095205&from=rss) - [Don’t Dare Call Corporate/State Strategy a Conspiracy – NO MORE!](https://soylentnews.org/article.pl?sid=26/10/04/095205&from=rss)
 
 ## [Archives](archives/index.md)
 
