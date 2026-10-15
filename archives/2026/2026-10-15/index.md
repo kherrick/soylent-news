@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-10-15](index.md)
+
+* [2026-10-15, 02:46:00](https://soylentnews.org/article.pl?sid=26/10/14/0127256&from=rss) - [Japan Declares Cyber ‘Emergency’ After Millions Affected In Hacks](https://soylentnews.org/article.pl?sid=26/10/14/0127256&from=rss)
