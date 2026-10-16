@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-16, 16:45:00](https://soylentnews.org/article.pl?sid=26/10/14/2338218&from=rss) - [European Datacenter Boom Threatens Higher Energy Bills Unless Governments Intervene](https://soylentnews.org/article.pl?sid=26/10/14/2338218&from=rss)
 * [2026-10-16, 11:53:00](https://soylentnews.org/article.pl?sid=26/10/14/2335212&from=rss) - [Scientists Find Evidence Of A Second-Generation Planet Born From A Dying Star](https://soylentnews.org/article.pl?sid=26/10/14/2335212&from=rss)
 * [2026-10-16, 07:19:00](https://soylentnews.org/article.pl?sid=26/10/14/2332208&from=rss) - [Microsoft's President Says AI Is Less Regulated Than A Carton Of Milk](https://soylentnews.org/article.pl?sid=26/10/14/2332208&from=rss)
 * [2026-10-16, 02:28:00](https://soylentnews.org/article.pl?sid=26/10/14/2329209&from=rss) - [Wallpaper That Generates Power? Researchers Have Developed It](https://soylentnews.org/article.pl?sid=26/10/14/2329209&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-07, 08:56:00](https://soylentnews.org/article.pl?sid=26/10/06/0340223&from=rss) - [AI Market Needs to Make $6 Trillion a Year by 2031 to Fund its Infrastructure Habit](https://soylentnews.org/article.pl?sid=26/10/06/0340223&from=rss)
 * [2026-10-07, 04:10:00](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss) - [Federal Judge in Oklahoma Rules Warrantless ALPR Searches May be Unconstitutional](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss)
 * [2026-10-06, 23:26:00](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss) - [California's New Law Bans Companies From Relying on AI to Fire Workers](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss)
-* [2026-10-06, 18:39:00](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss) - [A 47 Million Car Inspection Study Just Busted a Big EV Myth](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss)
 
 ## [Archives](archives/index.md)
 
