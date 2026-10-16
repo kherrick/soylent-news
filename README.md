@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-16, 11:53:00](https://soylentnews.org/article.pl?sid=26/10/14/2335212&from=rss) - [Scientists Find Evidence Of A Second-Generation Planet Born From A Dying Star](https://soylentnews.org/article.pl?sid=26/10/14/2335212&from=rss)
 * [2026-10-16, 07:19:00](https://soylentnews.org/article.pl?sid=26/10/14/2332208&from=rss) - [Microsoft's President Says AI Is Less Regulated Than A Carton Of Milk](https://soylentnews.org/article.pl?sid=26/10/14/2332208&from=rss)
 * [2026-10-16, 02:28:00](https://soylentnews.org/article.pl?sid=26/10/14/2329209&from=rss) - [Wallpaper That Generates Power? Researchers Have Developed It](https://soylentnews.org/article.pl?sid=26/10/14/2329209&from=rss)
 * [2026-10-15, 21:43:00](https://soylentnews.org/article.pl?sid=26/10/14/1445210&from=rss) - [Ukrainian Drone Strikes On Yandex Datacenters Knock Cloud And Payments Offline](https://soylentnews.org/article.pl?sid=26/10/14/1445210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-07, 04:10:00](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss) - [Federal Judge in Oklahoma Rules Warrantless ALPR Searches May be Unconstitutional](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss)
 * [2026-10-06, 23:26:00](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss) - [California's New Law Bans Companies From Relying on AI to Fire Workers](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss)
 * [2026-10-06, 18:39:00](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss) - [A 47 Million Car Inspection Study Just Busted a Big EV Myth](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss)
-* [2026-10-06, 13:58:00](https://soylentnews.org/article.pl?sid=26/10/06/018249&from=rss) - [Google Ending ChromeOS Support Two Years Early](https://soylentnews.org/article.pl?sid=26/10/06/018249&from=rss)
 
 ## [Archives](archives/index.md)
 
