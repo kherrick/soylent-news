@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-17, 02:15:00](https://soylentnews.org/article.pl?sid=26/10/15/009202&from=rss) - ['123456' Password Linked To Denmark Data Breach Affecting 8.8M People](https://soylentnews.org/article.pl?sid=26/10/15/009202&from=rss)
 * [2026-10-16, 21:28:00](https://soylentnews.org/article.pl?sid=26/10/14/2339219&from=rss) - [NASA's Perseverance Rover Breaks Record For Off-World Driving Distance](https://soylentnews.org/article.pl?sid=26/10/14/2339219&from=rss)
 * [2026-10-16, 16:45:00](https://soylentnews.org/article.pl?sid=26/10/14/2338218&from=rss) - [European Datacenter Boom Threatens Higher Energy Bills Unless Governments Intervene](https://soylentnews.org/article.pl?sid=26/10/14/2338218&from=rss)
 * [2026-10-16, 11:53:00](https://soylentnews.org/article.pl?sid=26/10/14/2335212&from=rss) - [Scientists Find Evidence Of A Second-Generation Planet Born From A Dying Star](https://soylentnews.org/article.pl?sid=26/10/14/2335212&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-07, 18:24:00](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss) - [RIP: Milt Windler, NASA Flight Director Who Helped Save Apollo 13, Dies at 94](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss)
 * [2026-10-07, 13:37:00](https://soylentnews.org/article.pl?sid=26/10/06/0348230&from=rss) - [Vincent Bernat: Hacking the Go Compiler to Efficiently Map IPv4 to IPv6](https://soylentnews.org/article.pl?sid=26/10/06/0348230&from=rss)
 * [2026-10-07, 08:56:00](https://soylentnews.org/article.pl?sid=26/10/06/0340223&from=rss) - [AI Market Needs to Make $6 Trillion a Year by 2031 to Fund its Infrastructure Habit](https://soylentnews.org/article.pl?sid=26/10/06/0340223&from=rss)
-* [2026-10-07, 04:10:00](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss) - [Federal Judge in Oklahoma Rules Warrantless ALPR Searches May be Unconstitutional](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss)
 
 ## [Archives](archives/index.md)
 
