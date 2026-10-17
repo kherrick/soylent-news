@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-17, 16:28:00](https://soylentnews.org/article.pl?sid=26/10/15/080249&from=rss) - [Anthropic Warns Small AI Models Could Self-Replicate Through IoT Devices](https://soylentnews.org/article.pl?sid=26/10/15/080249&from=rss)
 * [2026-10-17, 11:46:00](https://soylentnews.org/article.pl?sid=26/10/15/0757205&from=rss) - [FBI Arrests OpenAI Employee Suspected Of Planting A Surveillance Bug](https://soylentnews.org/article.pl?sid=26/10/15/0757205&from=rss)
 * [2026-10-17, 07:01:00](https://soylentnews.org/article.pl?sid=26/10/15/0754236&from=rss) - [Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter is — and Isn't](https://soylentnews.org/article.pl?sid=26/10/15/0754236&from=rss)
 * [2026-10-17, 02:15:00](https://soylentnews.org/article.pl?sid=26/10/15/009202&from=rss) - ['123456' Password Linked To Denmark Data Breach Affecting 8.8M People](https://soylentnews.org/article.pl?sid=26/10/15/009202&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-08, 08:48:00](https://soylentnews.org/article.pl?sid=26/10/07/0320248&from=rss) - [Apple Changes Full-Disk Access Permissions To Curb Abuse From AI Agents](https://soylentnews.org/article.pl?sid=26/10/07/0320248&from=rss)
 * [2026-10-08, 04:01:00](https://soylentnews.org/article.pl?sid=26/10/07/0314229&from=rss) - [New Forensic Evidence Supports Egyptian \"Retainer Sacrifice\"](https://soylentnews.org/article.pl?sid=26/10/07/0314229&from=rss)
 * [2026-10-07, 23:13:00](https://soylentnews.org/article.pl?sid=26/10/07/035258&from=rss) - [Trump's ‘AI Accord’ Does Little to Actually Keep AI Safe, Experts Say](https://soylentnews.org/article.pl?sid=26/10/07/035258&from=rss)
-* [2026-10-07, 18:24:00](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss) - [RIP: Milt Windler, NASA Flight Director Who Helped Save Apollo 13, Dies at 94](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss)
 
 ## [Archives](archives/index.md)
 
