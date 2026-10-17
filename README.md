@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-17, 21:18:00](https://soylentnews.org/article.pl?sid=26/10/15/084215&from=rss) - [Tiny11 Puts Windows 11 on a Diet Without the PowerShell Workout](https://soylentnews.org/article.pl?sid=26/10/15/084215&from=rss)
 * [2026-10-17, 16:28:00](https://soylentnews.org/article.pl?sid=26/10/15/080249&from=rss) - [Anthropic Warns Small AI Models Could Self-Replicate Through IoT Devices](https://soylentnews.org/article.pl?sid=26/10/15/080249&from=rss)
 * [2026-10-17, 11:46:00](https://soylentnews.org/article.pl?sid=26/10/15/0757205&from=rss) - [FBI Arrests OpenAI Employee Suspected Of Planting A Surveillance Bug](https://soylentnews.org/article.pl?sid=26/10/15/0757205&from=rss)
 * [2026-10-17, 07:01:00](https://soylentnews.org/article.pl?sid=26/10/15/0754236&from=rss) - [Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter is — and Isn't](https://soylentnews.org/article.pl?sid=26/10/15/0754236&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-08, 13:33:00](https://soylentnews.org/article.pl?sid=26/10/08/0044257&from=rss) - [Social Media May Make Investors Feel More Confident Than They Should be](https://soylentnews.org/article.pl?sid=26/10/08/0044257&from=rss)
 * [2026-10-08, 08:48:00](https://soylentnews.org/article.pl?sid=26/10/07/0320248&from=rss) - [Apple Changes Full-Disk Access Permissions To Curb Abuse From AI Agents](https://soylentnews.org/article.pl?sid=26/10/07/0320248&from=rss)
 * [2026-10-08, 04:01:00](https://soylentnews.org/article.pl?sid=26/10/07/0314229&from=rss) - [New Forensic Evidence Supports Egyptian \"Retainer Sacrifice\"](https://soylentnews.org/article.pl?sid=26/10/07/0314229&from=rss)
-* [2026-10-07, 23:13:00](https://soylentnews.org/article.pl?sid=26/10/07/035258&from=rss) - [Trump's ‘AI Accord’ Does Little to Actually Keep AI Safe, Experts Say](https://soylentnews.org/article.pl?sid=26/10/07/035258&from=rss)
 
 ## [Archives](archives/index.md)
 
