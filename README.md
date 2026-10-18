@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-18, 11:39:00](https://soylentnews.org/article.pl?sid=26/10/17/1959256&from=rss) - [EU Open Source Summit 2026](https://soylentnews.org/article.pl?sid=26/10/17/1959256&from=rss)
 * [2026-10-18, 06:43:00](https://soylentnews.org/article.pl?sid=26/10/17/1958253&from=rss) - [New Motherboards, Old RAM, Plenty Of Life Left In Yesterday's PCs](https://soylentnews.org/article.pl?sid=26/10/17/1958253&from=rss)
 * [2026-10-18, 02:02:00](https://soylentnews.org/article.pl?sid=26/10/17/1953233&from=rss) - [The US May Rewrite Some Rules Of The Road To Fight Annoying, Overbright Headlights](https://soylentnews.org/article.pl?sid=26/10/17/1953233&from=rss)
 * [2026-10-17, 21:18:00](https://soylentnews.org/article.pl?sid=26/10/15/084215&from=rss) - [Tiny11 Puts Windows 11 on a Diet Without the PowerShell Workout](https://soylentnews.org/article.pl?sid=26/10/15/084215&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-09, 03:48:00](https://soylentnews.org/article.pl?sid=26/10/08/141214&from=rss) - [Chemistry Nobel Goes To Reactions Like Those That Gave Life A Hand](https://soylentnews.org/article.pl?sid=26/10/08/141214&from=rss)
 * [2026-10-08, 23:06:00](https://soylentnews.org/article.pl?sid=26/10/08/0047239&from=rss) - [Researchers Discover Experimental Evidence of New Type of Magnetism](https://soylentnews.org/article.pl?sid=26/10/08/0047239&from=rss)
 * [2026-10-08, 18:15:00](https://soylentnews.org/article.pl?sid=26/10/08/0046228&from=rss) - [No More Cheap Phones](https://soylentnews.org/article.pl?sid=26/10/08/0046228&from=rss)
-* [2026-10-08, 13:33:00](https://soylentnews.org/article.pl?sid=26/10/08/0044257&from=rss) - [Social Media May Make Investors Feel More Confident Than They Should be](https://soylentnews.org/article.pl?sid=26/10/08/0044257&from=rss)
 
 ## [Archives](archives/index.md)
 
