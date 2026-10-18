@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-18, 21:03:00](https://soylentnews.org/article.pl?sid=26/10/17/205201&from=rss) - [World Timekeepers Decide To Kill The Leap Second](https://soylentnews.org/article.pl?sid=26/10/17/205201&from=rss)
 * [2026-10-18, 16:12:00](https://soylentnews.org/article.pl?sid=26/10/17/203218&from=rss) - [US Tech Giants Warn Europe That Ditching US Tech Giants Could Cost €115B](https://soylentnews.org/article.pl?sid=26/10/17/203218&from=rss)
 * [2026-10-18, 11:39:00](https://soylentnews.org/article.pl?sid=26/10/17/1959256&from=rss) - [EU Open Source Summit 2026](https://soylentnews.org/article.pl?sid=26/10/17/1959256&from=rss)
 * [2026-10-18, 06:43:00](https://soylentnews.org/article.pl?sid=26/10/17/1958253&from=rss) - [New Motherboards, Old RAM, Plenty Of Life Left In Yesterday's PCs](https://soylentnews.org/article.pl?sid=26/10/17/1958253&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-09, 13:17:00](https://soylentnews.org/article.pl?sid=26/10/08/149251&from=rss) - [AI Chatbots Give Us a Narrow Slice of Knowledge: Researchers Warn of ‘Knowledge Collapse’](https://soylentnews.org/article.pl?sid=26/10/08/149251&from=rss)
 * [2026-10-09, 08:32:00](https://soylentnews.org/article.pl?sid=26/10/08/147212&from=rss) - [The 3dfx Voodoo Story: We Talk to Cofounder Ross Smith](https://soylentnews.org/article.pl?sid=26/10/08/147212&from=rss)
 * [2026-10-09, 03:48:00](https://soylentnews.org/article.pl?sid=26/10/08/141214&from=rss) - [Chemistry Nobel Goes To Reactions Like Those That Gave Life A Hand](https://soylentnews.org/article.pl?sid=26/10/08/141214&from=rss)
-* [2026-10-08, 23:06:00](https://soylentnews.org/article.pl?sid=26/10/08/0047239&from=rss) - [Researchers Discover Experimental Evidence of New Type of Magnetism](https://soylentnews.org/article.pl?sid=26/10/08/0047239&from=rss)
 
 ## [Archives](archives/index.md)
 
