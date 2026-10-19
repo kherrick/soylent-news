@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 20:42:00](https://soylentnews.org/article.pl?sid=26/10/18/2146215&from=rss) - [When Faster Supercomputers Aren’t Enough](https://soylentnews.org/article.pl?sid=26/10/18/2146215&from=rss)
 * [2026-10-19, 15:50:00](https://soylentnews.org/article.pl?sid=26/10/18/2141251&from=rss) - [Spyware Vendors Found A Way To Make Targeted Ads Even Worse](https://soylentnews.org/article.pl?sid=26/10/18/2141251&from=rss)
 * [2026-10-19, 11:11:00](https://soylentnews.org/article.pl?sid=26/10/18/2138253&from=rss) - [Meta Unveils Muse Spark Open To Compete With Chinese Open-Weights](https://soylentnews.org/article.pl?sid=26/10/18/2138253&from=rss)
 * [2026-10-19, 06:23:00](https://soylentnews.org/article.pl?sid=26/10/18/2134222&from=rss) - [Inside the Intel 8087 Chip: Floating-point Addition and Subtraction ](https://soylentnews.org/article.pl?sid=26/10/18/2134222&from=rss)
