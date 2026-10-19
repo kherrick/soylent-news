@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-19, 15:50:00](https://soylentnews.org/article.pl?sid=26/10/18/2141251&from=rss) - [Spyware Vendors Found A Way To Make Targeted Ads Even Worse](https://soylentnews.org/article.pl?sid=26/10/18/2141251&from=rss)
 * [2026-10-19, 11:11:00](https://soylentnews.org/article.pl?sid=26/10/18/2138253&from=rss) - [Meta Unveils Muse Spark Open To Compete With Chinese Open-Weights](https://soylentnews.org/article.pl?sid=26/10/18/2138253&from=rss)
 * [2026-10-19, 06:23:00](https://soylentnews.org/article.pl?sid=26/10/18/2134222&from=rss) - [Inside the Intel 8087 Chip: Floating-point Addition and Subtraction ](https://soylentnews.org/article.pl?sid=26/10/18/2134222&from=rss)
 * [2026-10-19, 01:41:00](https://soylentnews.org/article.pl?sid=26/10/17/2256240&from=rss) - [Researchers Warned Attackers Could 'Defrost The Food' Months Before French Supermarkets Got Hit](https://soylentnews.org/article.pl?sid=26/10/17/2256240&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-10, 08:22:00](https://soylentnews.org/article.pl?sid=26/10/08/1424234&from=rss) - [It's Nobel Prize Week](https://soylentnews.org/article.pl?sid=26/10/08/1424234&from=rss)
 * [2026-10-10, 03:40:00](https://soylentnews.org/article.pl?sid=26/10/08/1421209&from=rss) - [ICE Is Reportedly Using A Palantir Database To Compile Dossiers On Protestors](https://soylentnews.org/article.pl?sid=26/10/08/1421209&from=rss)
 * [2026-10-09, 22:53:00](https://soylentnews.org/article.pl?sid=26/10/08/1418255&from=rss) - [Trade Group Crunches Numbers On Trump’s Impossible Push For 100% US-Made Tech](https://soylentnews.org/article.pl?sid=26/10/08/1418255&from=rss)
-* [2026-10-09, 18:03:00](https://soylentnews.org/article.pl?sid=26/10/08/1414239&from=rss) - [Formula1 Fiasco](https://soylentnews.org/article.pl?sid=26/10/08/1414239&from=rss)
 
 ## [Archives](archives/index.md)
 
