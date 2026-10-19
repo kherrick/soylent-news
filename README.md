@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-19, 06:23:00](https://soylentnews.org/article.pl?sid=26/10/18/2134222&from=rss) - [Inside the Intel 8087 Chip: Floating-point Addition and Subtraction ](https://soylentnews.org/article.pl?sid=26/10/18/2134222&from=rss)
 * [2026-10-19, 01:41:00](https://soylentnews.org/article.pl?sid=26/10/17/2256240&from=rss) - [Researchers Warned Attackers Could 'Defrost The Food' Months Before French Supermarkets Got Hit](https://soylentnews.org/article.pl?sid=26/10/17/2256240&from=rss)
 * [2026-10-18, 21:03:00](https://soylentnews.org/article.pl?sid=26/10/17/205201&from=rss) - [World Timekeepers Decide To Kill The Leap Second](https://soylentnews.org/article.pl?sid=26/10/17/205201&from=rss)
 * [2026-10-18, 16:12:00](https://soylentnews.org/article.pl?sid=26/10/17/203218&from=rss) - [US Tech Giants Warn Europe That Ditching US Tech Giants Could Cost €115B](https://soylentnews.org/article.pl?sid=26/10/17/203218&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-09, 22:53:00](https://soylentnews.org/article.pl?sid=26/10/08/1418255&from=rss) - [Trade Group Crunches Numbers On Trump’s Impossible Push For 100% US-Made Tech](https://soylentnews.org/article.pl?sid=26/10/08/1418255&from=rss)
 * [2026-10-09, 18:03:00](https://soylentnews.org/article.pl?sid=26/10/08/1414239&from=rss) - [Formula1 Fiasco](https://soylentnews.org/article.pl?sid=26/10/08/1414239&from=rss)
 * [2026-10-09, 13:17:00](https://soylentnews.org/article.pl?sid=26/10/08/149251&from=rss) - [AI Chatbots Give Us a Narrow Slice of Knowledge: Researchers Warn of ‘Knowledge Collapse’](https://soylentnews.org/article.pl?sid=26/10/08/149251&from=rss)
-* [2026-10-09, 08:32:00](https://soylentnews.org/article.pl?sid=26/10/08/147212&from=rss) - [The 3dfx Voodoo Story: We Talk to Cofounder Ross Smith](https://soylentnews.org/article.pl?sid=26/10/08/147212&from=rss)
 
 ## [Archives](archives/index.md)
 
