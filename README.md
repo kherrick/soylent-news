@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-20, 15:47:00](https://soylentnews.org/article.pl?sid=26/10/19/0525221&from=rss) - [Rocket Lab Announces Another Delay for its Medium-Lift Neutron Rocket](https://soylentnews.org/article.pl?sid=26/10/19/0525221&from=rss)
 * [2026-10-20, 11:04:00](https://soylentnews.org/article.pl?sid=26/10/19/0515251&from=rss) - [Smartphone Shipments Plummet as Memory Crisis Pumps Up Prices](https://soylentnews.org/article.pl?sid=26/10/19/0515251&from=rss)
 * [2026-10-20, 06:20:00](https://soylentnews.org/article.pl?sid=26/10/19/0511219&from=rss) - [AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec](https://soylentnews.org/article.pl?sid=26/10/19/0511219&from=rss)
 * [2026-10-20, 01:31:00](https://soylentnews.org/article.pl?sid=26/10/19/054239&from=rss) - [Python 3.15 Goes Global With UTF-8 Support](https://soylentnews.org/article.pl?sid=26/10/19/054239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-11, 08:32:00](https://soylentnews.org/article.pl?sid=26/10/10/2134230&from=rss) - [Samsung Eyes $80B Quarterly Profit As Memory Buyers Pay The Price](https://soylentnews.org/article.pl?sid=26/10/10/2134230&from=rss)
 * [2026-10-11, 03:44:00](https://soylentnews.org/article.pl?sid=26/10/10/2126238&from=rss) - [Amazon’s $1B Plan To Combat Data Center Backlash Draws More Backlash](https://soylentnews.org/article.pl?sid=26/10/10/2126238&from=rss)
 * [2026-10-10, 23:01:00](https://soylentnews.org/article.pl?sid=26/10/10/2122240&from=rss) - [Inside a 1980s Filter Chip that Uses Switched Capacitors](https://soylentnews.org/article.pl?sid=26/10/10/2122240&from=rss)
-* [2026-10-10, 18:18:00](https://soylentnews.org/article.pl?sid=26/10/10/1819227&from=rss) - [“Software is Over”: Bold AI Developer Takes Aim at Adobe With Open Source Clones](https://soylentnews.org/article.pl?sid=26/10/10/1819227&from=rss)
 
 ## [Archives](archives/index.md)
 
