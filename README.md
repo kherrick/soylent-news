@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-21, 10:54:00](https://soylentnews.org/article.pl?sid=26/10/20/0337238&from=rss) - [Indirect Prompt Injection Starts Turning Up in Webpage Headers](https://soylentnews.org/article.pl?sid=26/10/20/0337238&from=rss)
 * [2026-10-21, 06:06:00](https://soylentnews.org/article.pl?sid=26/10/19/1749226&from=rss) - [Microplastics In Water Aren’t Inert And Make Damaging Chemicals On Their Own](https://soylentnews.org/article.pl?sid=26/10/19/1749226&from=rss)
 * [2026-10-21, 01:23:00](https://soylentnews.org/article.pl?sid=26/10/19/0535231&from=rss) - [Back When US Air Force Pilots Used Malware-Laden USB Drives to Plan Afghanistan Missions](https://soylentnews.org/article.pl?sid=26/10/19/0535231&from=rss)
 * [2026-10-20, 20:37:00](https://soylentnews.org/article.pl?sid=26/10/19/0528257&from=rss) - [These High-Tech Batteries Are Built to Break Down in Your Digestive System](https://soylentnews.org/article.pl?sid=26/10/19/0528257&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-12, 03:35:00](https://soylentnews.org/article.pl?sid=26/10/12/0346216&from=rss) - [Optics: Why the Closest Things Are the Blurriest](https://soylentnews.org/article.pl?sid=26/10/12/0346216&from=rss)
 * [2026-10-11, 22:45:00](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss) - [The AI Contingency Plan](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss)
 * [2026-10-11, 18:01:00](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss) - [Spies, Prime Ministers, And Balls: The BBC Domesday Project at 40](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss)
-* [2026-10-11, 13:15:00](https://soylentnews.org/article.pl?sid=26/10/10/2141242&from=rss) - [ExxonMobil's Own Scientists Doubted Climate Fixes The Company Hyped](https://soylentnews.org/article.pl?sid=26/10/10/2141242&from=rss)
 
 ## [Archives](archives/index.md)
 
