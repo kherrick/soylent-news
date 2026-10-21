@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-21, 06:06:00](https://soylentnews.org/article.pl?sid=26/10/19/1749226&from=rss) - [Microplastics In Water Aren’t Inert And Make Damaging Chemicals On Their Own](https://soylentnews.org/article.pl?sid=26/10/19/1749226&from=rss)
 * [2026-10-21, 01:23:00](https://soylentnews.org/article.pl?sid=26/10/19/0535231&from=rss) - [Back When US Air Force Pilots Used Malware-Laden USB Drives to Plan Afghanistan Missions](https://soylentnews.org/article.pl?sid=26/10/19/0535231&from=rss)
 * [2026-10-20, 20:37:00](https://soylentnews.org/article.pl?sid=26/10/19/0528257&from=rss) - [These High-Tech Batteries Are Built to Break Down in Your Digestive System](https://soylentnews.org/article.pl?sid=26/10/19/0528257&from=rss)
 * [2026-10-20, 15:47:00](https://soylentnews.org/article.pl?sid=26/10/19/0525221&from=rss) - [Rocket Lab Announces Another Delay for its Medium-Lift Neutron Rocket](https://soylentnews.org/article.pl?sid=26/10/19/0525221&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-11, 22:45:00](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss) - [The AI Contingency Plan](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss)
 * [2026-10-11, 18:01:00](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss) - [Spies, Prime Ministers, And Balls: The BBC Domesday Project at 40](https://soylentnews.org/article.pl?sid=26/10/11/0033254&from=rss)
 * [2026-10-11, 13:15:00](https://soylentnews.org/article.pl?sid=26/10/10/2141242&from=rss) - [ExxonMobil's Own Scientists Doubted Climate Fixes The Company Hyped](https://soylentnews.org/article.pl?sid=26/10/10/2141242&from=rss)
-* [2026-10-11, 08:32:00](https://soylentnews.org/article.pl?sid=26/10/10/2134230&from=rss) - [Samsung Eyes $80B Quarterly Profit As Memory Buyers Pay The Price](https://soylentnews.org/article.pl?sid=26/10/10/2134230&from=rss)
 
 ## [Archives](archives/index.md)
 
