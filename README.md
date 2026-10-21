@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-21, 20:21:00](https://soylentnews.org/article.pl?sid=26/10/20/0352235&from=rss) - [Running Local LLMs on Aggregated Physical Resources by Chaining Apple Mac Silicons](https://soylentnews.org/article.pl?sid=26/10/20/0352235&from=rss)
 * [2026-10-21, 15:39:00](https://soylentnews.org/article.pl?sid=26/10/20/0349215&from=rss) - [First Series of Adult T. Rex Footprints Hints at its Walking Speed](https://soylentnews.org/article.pl?sid=26/10/20/0349215&from=rss)
 * [2026-10-21, 10:54:00](https://soylentnews.org/article.pl?sid=26/10/20/0337238&from=rss) - [Indirect Prompt Injection Starts Turning Up in Webpage Headers](https://soylentnews.org/article.pl?sid=26/10/20/0337238&from=rss)
 * [2026-10-21, 06:06:00](https://soylentnews.org/article.pl?sid=26/10/19/1749226&from=rss) - [Microplastics In Water Aren’t Inert And Make Damaging Chemicals On Their Own](https://soylentnews.org/article.pl?sid=26/10/19/1749226&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-12, 12:59:00](https://soylentnews.org/article.pl?sid=26/10/12/0330257&from=rss) - [AI Giants Promise to Play Nice With Personal Data After UK Watchdog Scrutiny](https://soylentnews.org/article.pl?sid=26/10/12/0330257&from=rss)
 * [2026-10-12, 08:18:00](https://soylentnews.org/article.pl?sid=26/10/11/1921216&from=rss) - [What Do the Experts Say About Starting Out in a STEM Career?](https://soylentnews.org/article.pl?sid=26/10/11/1921216&from=rss)
 * [2026-10-12, 03:35:00](https://soylentnews.org/article.pl?sid=26/10/12/0346216&from=rss) - [Optics: Why the Closest Things Are the Blurriest](https://soylentnews.org/article.pl?sid=26/10/12/0346216&from=rss)
-* [2026-10-11, 22:45:00](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss) - [The AI Contingency Plan](https://soylentnews.org/article.pl?sid=26/10/11/1916205&from=rss)
 
 ## [Archives](archives/index.md)
 
