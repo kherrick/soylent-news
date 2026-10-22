@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 20:12:00](https://soylentnews.org/article.pl?sid=26/10/21/1625213&from=rss) - [OpenBSD 8.0 Beefs Up Virtual Machines And Gets A Taste Of Wine](https://soylentnews.org/article.pl?sid=26/10/21/1625213&from=rss)
 * [2026-10-22, 15:23:00](https://soylentnews.org/article.pl?sid=26/10/21/1621256&from=rss) - [Tens Of Thousands Of Nvidia GPUs Sit Idle In Meta's Prometheus Supercluster, Waiting For Failure](https://soylentnews.org/article.pl?sid=26/10/21/1621256&from=rss)
 * [2026-10-22, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/10/22/1248234&from=rss) - [333 Tor Exit Nodes Hijacked To Intercept SSH Traffic And Retrieve Plaintext Email](https://soylentnews.org/breakingnews/article.pl?sid=26/10/22/1248234&from=rss)
 * [2026-10-22, 10:36:00](https://soylentnews.org/article.pl?sid=26/10/21/1618203&from=rss) - [Vanillin Provides a Sweet Solution for Chronic Wound Healing](https://soylentnews.org/article.pl?sid=26/10/21/1618203&from=rss)
