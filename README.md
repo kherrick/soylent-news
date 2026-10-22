@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-22, 15:23:00](https://soylentnews.org/article.pl?sid=26/10/21/1621256&from=rss) - [Tens Of Thousands Of Nvidia GPUs Sit Idle In Meta's Prometheus Supercluster, Waiting For Failure](https://soylentnews.org/article.pl?sid=26/10/21/1621256&from=rss)
 * [2026-10-22, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/10/22/1248234&from=rss) - [333 Tor Exit Nodes Hijacked To Intercept SSH Traffic And Retrieve Plaintext Email](https://soylentnews.org/breakingnews/article.pl?sid=26/10/22/1248234&from=rss)
 * [2026-10-22, 10:36:00](https://soylentnews.org/article.pl?sid=26/10/21/1618203&from=rss) - [Vanillin Provides a Sweet Solution for Chronic Wound Healing](https://soylentnews.org/article.pl?sid=26/10/21/1618203&from=rss)
 * [2026-10-22, 05:53:00](https://soylentnews.org/article.pl?sid=26/10/21/1611252&from=rss) - [PHP Vulnerabilities Could Put Much Of The Internet At Risk, Experts Warn](https://soylentnews.org/article.pl?sid=26/10/21/1611252&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-13, 12:42:00](https://soylentnews.org/article.pl?sid=26/10/12/1957224&from=rss) - [Optional Practical Training Fees](https://soylentnews.org/article.pl?sid=26/10/12/1957224&from=rss)
 * [2026-10-13, 07:53:00](https://soylentnews.org/article.pl?sid=26/10/12/0344219&from=rss) - [The People Supporting the Internet](https://soylentnews.org/article.pl?sid=26/10/12/0344219&from=rss)
 * [2026-10-13, 03:11:00](https://soylentnews.org/article.pl?sid=26/10/12/0342220&from=rss) - [Goodbye Mark Stephens AKA Bob Cringely](https://soylentnews.org/article.pl?sid=26/10/12/0342220&from=rss)
-* [2026-10-12, 22:28:00](https://soylentnews.org/article.pl?sid=26/10/12/0339243&from=rss) - [Scientists Get a New Clue to the Origin of Solar Wind 'Switchbacks'](https://soylentnews.org/article.pl?sid=26/10/12/0339243&from=rss)
 
 ## [Archives](archives/index.md)
 
