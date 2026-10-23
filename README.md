@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-23, 10:20:00](https://soylentnews.org/article.pl?sid=26/10/22/0141249&from=rss) - [Indian Certification Authority EMudhra’s Private Keys Compromised – One Of Them Was The Number ‘4’](https://soylentnews.org/article.pl?sid=26/10/22/0141249&from=rss)
 * [2026-10-23, 05:48:00](https://soylentnews.org/article.pl?sid=26/10/22/0139217&from=rss) - [Accident Or Not, The No Kings Takedown Is Why You Shouldn’t Rent Your Megaphone From Zuck ](https://soylentnews.org/article.pl?sid=26/10/22/0139217&from=rss)
 * [2026-10-23, 00:55:00](https://soylentnews.org/article.pl?sid=26/10/22/0138217&from=rss) - [Slime Moulds and the Bitter Debate Over the Nature of Intelligence](https://soylentnews.org/article.pl?sid=26/10/22/0138217&from=rss)
 * [2026-10-22, 20:12:00](https://soylentnews.org/article.pl?sid=26/10/21/1625213&from=rss) - [OpenBSD 8.0 Beefs Up Virtual Machines And Gets A Taste Of Wine](https://soylentnews.org/article.pl?sid=26/10/21/1625213&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-14, 07:46:00](https://soylentnews.org/article.pl?sid=26/10/14/0116254&from=rss) - [Your CPU still has an 8086 mode](https://soylentnews.org/article.pl?sid=26/10/14/0116254&from=rss)
 * [2026-10-14, 02:57:00](https://soylentnews.org/article.pl?sid=26/10/13/1349209&from=rss) - [Hundreds Of French Supermarkets Hacked In 'Unprecedented' Cyberattack](https://soylentnews.org/article.pl?sid=26/10/13/1349209&from=rss)
 * [2026-10-13, 22:13:00](https://soylentnews.org/article.pl?sid=26/10/13/0613239&from=rss) - [Celebrating the Brilliant Pragmatism of TCP/IP, the Wiring of the World](https://soylentnews.org/article.pl?sid=26/10/13/0613239&from=rss)
-* [2026-10-13, 17:29:00](https://soylentnews.org/article.pl?sid=26/10/12/200231&from=rss) - [Wild Tomatoes Still Hold the Flavor We Bred Away: New Map Shows Breeders Where to Look](https://soylentnews.org/article.pl?sid=26/10/12/200231&from=rss)
 
 ## [Archives](archives/index.md)
 
