@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-23, 19:53:00](https://soylentnews.org/article.pl?sid=26/10/22/088253&from=rss) - [Senedd Member Says Smart Glasses Help With Speeches in the Senedd (Welsh Parliament)](https://soylentnews.org/article.pl?sid=26/10/22/088253&from=rss)
 * [2026-10-23, 15:12:00](https://soylentnews.org/article.pl?sid=26/10/22/0142250&from=rss) - [Merging SpaceX And Tesla Would Be A \"Good Idea,\" Musk Says](https://soylentnews.org/article.pl?sid=26/10/22/0142250&from=rss)
 * [2026-10-23, 10:20:00](https://soylentnews.org/article.pl?sid=26/10/22/0141249&from=rss) - [Indian Certification Authority EMudhra’s Private Keys Compromised – One Of Them Was The Number ‘4’](https://soylentnews.org/article.pl?sid=26/10/22/0141249&from=rss)
 * [2026-10-23, 05:48:00](https://soylentnews.org/article.pl?sid=26/10/22/0139217&from=rss) - [Accident Or Not, The No Kings Takedown Is Why You Shouldn’t Rent Your Megaphone From Zuck ](https://soylentnews.org/article.pl?sid=26/10/22/0139217&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-14, 17:12:00](https://soylentnews.org/article.pl?sid=26/10/14/0123253&from=rss) - [The Eruption That Destroyed Pompeii is Helping Scientists Date Earth's History](https://soylentnews.org/article.pl?sid=26/10/14/0123253&from=rss)
 * [2026-10-14, 12:27:00](https://soylentnews.org/article.pl?sid=26/10/14/0118206&from=rss) - [Chinese Cars in Norway Stored Military Exercise Footage and Access Codes](https://soylentnews.org/article.pl?sid=26/10/14/0118206&from=rss)
 * [2026-10-14, 07:46:00](https://soylentnews.org/article.pl?sid=26/10/14/0116254&from=rss) - [Your CPU still has an 8086 mode](https://soylentnews.org/article.pl?sid=26/10/14/0116254&from=rss)
-* [2026-10-14, 02:57:00](https://soylentnews.org/article.pl?sid=26/10/13/1349209&from=rss) - [Hundreds Of French Supermarkets Hacked In 'Unprecedented' Cyberattack](https://soylentnews.org/article.pl?sid=26/10/13/1349209&from=rss)
 
 ## [Archives](archives/index.md)
 
