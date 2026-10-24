@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-24, 05:26:00](https://soylentnews.org/article.pl?sid=26/10/22/1128242&from=rss) - [EU Wants Booking.Com to Check Out of its Scam Problem](https://soylentnews.org/article.pl?sid=26/10/22/1128242&from=rss)
 * [2026-10-24, 00:37:00](https://soylentnews.org/article.pl?sid=26/10/22/1118219&from=rss) - [Google Brings Gemini Personal Intelligence to Android Auto](https://soylentnews.org/article.pl?sid=26/10/22/1118219&from=rss)
 * [2026-10-23, 19:53:00](https://soylentnews.org/article.pl?sid=26/10/22/088253&from=rss) - [Senedd Member Says Smart Glasses Help With Speeches in the Senedd (Welsh Parliament)](https://soylentnews.org/article.pl?sid=26/10/22/088253&from=rss)
 * [2026-10-23, 15:12:00](https://soylentnews.org/article.pl?sid=26/10/22/0142250&from=rss) - [Merging SpaceX And Tesla Would Be A \"Good Idea,\" Musk Says](https://soylentnews.org/article.pl?sid=26/10/22/0142250&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-15, 02:46:00](https://soylentnews.org/article.pl?sid=26/10/14/0127256&from=rss) - [Japan Declares Cyber ‘Emergency’ After Millions Affected In Hacks](https://soylentnews.org/article.pl?sid=26/10/14/0127256&from=rss)
 * [2026-10-14, 21:54:00](https://soylentnews.org/article.pl?sid=26/10/14/0125242&from=rss) - [Argonne Scientists Create Chatty X-Ray Microscope That Zooms in Where You Tell It to](https://soylentnews.org/article.pl?sid=26/10/14/0125242&from=rss)
 * [2026-10-14, 17:12:00](https://soylentnews.org/article.pl?sid=26/10/14/0123253&from=rss) - [The Eruption That Destroyed Pompeii is Helping Scientists Date Earth's History](https://soylentnews.org/article.pl?sid=26/10/14/0123253&from=rss)
-* [2026-10-14, 12:27:00](https://soylentnews.org/article.pl?sid=26/10/14/0118206&from=rss) - [Chinese Cars in Norway Stored Military Exercise Footage and Access Codes](https://soylentnews.org/article.pl?sid=26/10/14/0118206&from=rss)
 
 ## [Archives](archives/index.md)
 
