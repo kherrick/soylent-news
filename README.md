@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-25, 00:25:00](https://soylentnews.org/article.pl?sid=26/10/24/0858220&from=rss) - [With \"AI\" Coding the Future of Software Development Looks More Grim Than Ever Before!](https://soylentnews.org/article.pl?sid=26/10/24/0858220&from=rss)
 * [2026-10-24, 19:42:00](https://soylentnews.org/article.pl?sid=26/10/22/135232&from=rss) - [TP-Link Tries To Appease Trump Admin With Pledge To Assemble Routers In US](https://soylentnews.org/article.pl?sid=26/10/22/135232&from=rss)
 * [2026-10-24, 17:19:00](https://soylentnews.org/article.pl?sid=26/10/22/132205&from=rss) - [Strategic Maple Syrup Reserve Close to Empty](https://soylentnews.org/article.pl?sid=26/10/22/132205&from=rss)
 * [2026-10-24, 14:54:00](https://soylentnews.org/article.pl?sid=26/10/22/1257204&from=rss) - [Japan's Sample Return Mission to Phobos May Also Collect Some Mars Dust](https://soylentnews.org/article.pl?sid=26/10/22/1257204&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-16, 02:28:00](https://soylentnews.org/article.pl?sid=26/10/14/2329209&from=rss) - [Wallpaper That Generates Power? Researchers Have Developed It](https://soylentnews.org/article.pl?sid=26/10/14/2329209&from=rss)
 * [2026-10-15, 21:43:00](https://soylentnews.org/article.pl?sid=26/10/14/1445210&from=rss) - [Ukrainian Drone Strikes On Yandex Datacenters Knock Cloud And Payments Offline](https://soylentnews.org/article.pl?sid=26/10/14/1445210&from=rss)
 * [2026-10-15, 17:01:00](https://soylentnews.org/article.pl?sid=26/10/14/1441255&from=rss) - [Researchers to Teens: Get to Bed – It's Good for Your Blood Sugar](https://soylentnews.org/article.pl?sid=26/10/14/1441255&from=rss)
-* [2026-10-15, 12:14:00](https://soylentnews.org/article.pl?sid=26/10/14/1440236&from=rss) - [Intel Optimizes IPv6 Networking Into Nothingness, Say Users](https://soylentnews.org/article.pl?sid=26/10/14/1440236&from=rss)
 
 ## [Archives](archives/index.md)
 
