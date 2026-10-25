@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-25, 14:42:00](https://soylentnews.org/article.pl?sid=26/10/24/216243&from=rss) - [The ESA's Euclid Telescope Discovered a New Comet Completely by Accident](https://soylentnews.org/article.pl?sid=26/10/24/216243&from=rss)
 * [2026-10-25, 09:59:00](https://soylentnews.org/article.pl?sid=26/10/24/2055252&from=rss) - [UK Government Hasn't the Foggiest How Much It's Spending on Digital Transformation](https://soylentnews.org/article.pl?sid=26/10/24/2055252&from=rss)
 * [2026-10-25, 05:10:00](https://soylentnews.org/article.pl?sid=26/10/24/0859252&from=rss) - [EFF:  Introducing Our New Surveillance Self-Defense Guide](https://soylentnews.org/article.pl?sid=26/10/24/0859252&from=rss)
 * [2026-10-25, 00:25:00](https://soylentnews.org/article.pl?sid=26/10/24/0858220&from=rss) - [With \"AI\" Coding the Future of Software Development Looks More Grim Than Ever Before!](https://soylentnews.org/article.pl?sid=26/10/24/0858220&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-16, 16:45:00](https://soylentnews.org/article.pl?sid=26/10/14/2338218&from=rss) - [European Datacenter Boom Threatens Higher Energy Bills Unless Governments Intervene](https://soylentnews.org/article.pl?sid=26/10/14/2338218&from=rss)
 * [2026-10-16, 11:53:00](https://soylentnews.org/article.pl?sid=26/10/14/2335212&from=rss) - [Scientists Find Evidence Of A Second-Generation Planet Born From A Dying Star](https://soylentnews.org/article.pl?sid=26/10/14/2335212&from=rss)
 * [2026-10-16, 07:19:00](https://soylentnews.org/article.pl?sid=26/10/14/2332208&from=rss) - [Microsoft's President Says AI Is Less Regulated Than A Carton Of Milk](https://soylentnews.org/article.pl?sid=26/10/14/2332208&from=rss)
-* [2026-10-16, 02:28:00](https://soylentnews.org/article.pl?sid=26/10/14/2329209&from=rss) - [Wallpaper That Generates Power? Researchers Have Developed It](https://soylentnews.org/article.pl?sid=26/10/14/2329209&from=rss)
 
 ## [Archives](archives/index.md)
 
