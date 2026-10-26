@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-10-26](index.md)
+
+* [2026-10-26, 00:18:00](https://soylentnews.org/article.pl?sid=26/10/25/0033232&from=rss) - [UK Threatens Subsea Cable Saboteurs With 14 Years Behind Bars](https://soylentnews.org/article.pl?sid=26/10/25/0033232&from=rss)
