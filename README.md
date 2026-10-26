@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-26, 09:39:00](https://soylentnews.org/article.pl?sid=26/10/25/0120233&from=rss) - [How Ocean Chemistry Helped Life Keep Breathing](https://soylentnews.org/article.pl?sid=26/10/25/0120233&from=rss)
 * [2026-10-26, 04:59:00](https://soylentnews.org/article.pl?sid=26/10/25/0047216&from=rss) - [Vendors Asking Forward Deployed Engineers to Make Good on Trillion-Dollar AI Bet](https://soylentnews.org/article.pl?sid=26/10/25/0047216&from=rss)
 * [2026-10-26, 00:18:00](https://soylentnews.org/article.pl?sid=26/10/25/0033232&from=rss) - [UK Threatens Subsea Cable Saboteurs With 14 Years Behind Bars](https://soylentnews.org/article.pl?sid=26/10/25/0033232&from=rss)
 * [2026-10-25, 19:31:00](https://soylentnews.org/article.pl?sid=26/10/25/0024211&from=rss) - [Artemis II Results Show How Much Science People Can Do at the Moon](https://soylentnews.org/article.pl?sid=26/10/25/0024211&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-17, 11:46:00](https://soylentnews.org/article.pl?sid=26/10/15/0757205&from=rss) - [FBI Arrests OpenAI Employee Suspected Of Planting A Surveillance Bug](https://soylentnews.org/article.pl?sid=26/10/15/0757205&from=rss)
 * [2026-10-17, 07:01:00](https://soylentnews.org/article.pl?sid=26/10/15/0754236&from=rss) - [Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter is — and Isn't](https://soylentnews.org/article.pl?sid=26/10/15/0754236&from=rss)
 * [2026-10-17, 02:15:00](https://soylentnews.org/article.pl?sid=26/10/15/009202&from=rss) - ['123456' Password Linked To Denmark Data Breach Affecting 8.8M People](https://soylentnews.org/article.pl?sid=26/10/15/009202&from=rss)
-* [2026-10-16, 21:28:00](https://soylentnews.org/article.pl?sid=26/10/14/2339219&from=rss) - [NASA's Perseverance Rover Breaks Record For Off-World Driving Distance](https://soylentnews.org/article.pl?sid=26/10/14/2339219&from=rss)
 
 ## [Archives](archives/index.md)
 
