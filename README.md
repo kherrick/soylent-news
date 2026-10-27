@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-26, 23:56:00](https://soylentnews.org/article.pl?sid=26/10/25/0129222&from=rss) - [A Privacy Company Just Saved The Clearest Flock Surveillance Map](https://soylentnews.org/article.pl?sid=26/10/25/0129222&from=rss)
 * [2026-10-26, 19:23:00](https://soylentnews.org/article.pl?sid=26/10/25/0125258&from=rss) - [Your Brain May be Switching Between Two Versions of Reality 15 Times a Second](https://soylentnews.org/article.pl?sid=26/10/25/0125258&from=rss)
 * [2026-10-26, 14:30:00](https://soylentnews.org/article.pl?sid=26/10/25/0123231&from=rss) - [Does Anyone Actually Want To Win The Medium-Lift Race In The United States?](https://soylentnews.org/article.pl?sid=26/10/25/0123231&from=rss)
 * [2026-10-26, 09:39:00](https://soylentnews.org/article.pl?sid=26/10/25/0120233&from=rss) - [How Ocean Chemistry Helped Life Keep Breathing](https://soylentnews.org/article.pl?sid=26/10/25/0120233&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-18, 02:02:00](https://soylentnews.org/article.pl?sid=26/10/17/1953233&from=rss) - [The US May Rewrite Some Rules Of The Road To Fight Annoying, Overbright Headlights](https://soylentnews.org/article.pl?sid=26/10/17/1953233&from=rss)
 * [2026-10-17, 21:18:00](https://soylentnews.org/article.pl?sid=26/10/15/084215&from=rss) - [Tiny11 Puts Windows 11 on a Diet Without the PowerShell Workout](https://soylentnews.org/article.pl?sid=26/10/15/084215&from=rss)
 * [2026-10-17, 16:28:00](https://soylentnews.org/article.pl?sid=26/10/15/080249&from=rss) - [Anthropic Warns Small AI Models Could Self-Replicate Through IoT Devices](https://soylentnews.org/article.pl?sid=26/10/15/080249&from=rss)
-* [2026-10-17, 11:46:00](https://soylentnews.org/article.pl?sid=26/10/15/0757205&from=rss) - [FBI Arrests OpenAI Employee Suspected Of Planting A Surveillance Bug](https://soylentnews.org/article.pl?sid=26/10/15/0757205&from=rss)
 
 ## [Archives](archives/index.md)
 
