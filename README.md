@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-27, 14:15:00](https://soylentnews.org/article.pl?sid=26/10/26/1734201&from=rss) - [Alzheimer’s Damage May Begin Outside the Brain](https://soylentnews.org/article.pl?sid=26/10/26/1734201&from=rss)
 * [2026-10-27, 09:29:00](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss) - [New Study Rekindles Contested Question: Earth and Mars Had Different Origins](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss)
 * [2026-10-27, 04:37:00](https://soylentnews.org/article.pl?sid=26/10/26/1728237&from=rss) - [Terence Tao: AI Turns Beautiful Mathematics Into ‘Toxic Waste’](https://soylentnews.org/article.pl?sid=26/10/26/1728237&from=rss)
 * [2026-10-26, 23:56:00](https://soylentnews.org/article.pl?sid=26/10/25/0129222&from=rss) - [A Privacy Company Just Saved The Clearest Flock Surveillance Map](https://soylentnews.org/article.pl?sid=26/10/25/0129222&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-18, 16:12:00](https://soylentnews.org/article.pl?sid=26/10/17/203218&from=rss) - [US Tech Giants Warn Europe That Ditching US Tech Giants Could Cost €115B](https://soylentnews.org/article.pl?sid=26/10/17/203218&from=rss)
 * [2026-10-18, 11:39:00](https://soylentnews.org/article.pl?sid=26/10/17/1959256&from=rss) - [EU Open Source Summit 2026](https://soylentnews.org/article.pl?sid=26/10/17/1959256&from=rss)
 * [2026-10-18, 06:43:00](https://soylentnews.org/article.pl?sid=26/10/17/1958253&from=rss) - [New Motherboards, Old RAM, Plenty Of Life Left In Yesterday's PCs](https://soylentnews.org/article.pl?sid=26/10/17/1958253&from=rss)
-* [2026-10-18, 02:02:00](https://soylentnews.org/article.pl?sid=26/10/17/1953233&from=rss) - [The US May Rewrite Some Rules Of The Road To Fight Annoying, Overbright Headlights](https://soylentnews.org/article.pl?sid=26/10/17/1953233&from=rss)
 
 ## [Archives](archives/index.md)
 
