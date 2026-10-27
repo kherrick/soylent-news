@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-27, 09:29:00](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss) - [New Study Rekindles Contested Question: Earth and Mars Had Different Origins](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss)
 * [2026-10-27, 04:37:00](https://soylentnews.org/article.pl?sid=26/10/26/1728237&from=rss) - [Terence Tao: AI Turns Beautiful Mathematics Into ‘Toxic Waste’](https://soylentnews.org/article.pl?sid=26/10/26/1728237&from=rss)
 * [2026-10-26, 23:56:00](https://soylentnews.org/article.pl?sid=26/10/25/0129222&from=rss) - [A Privacy Company Just Saved The Clearest Flock Surveillance Map](https://soylentnews.org/article.pl?sid=26/10/25/0129222&from=rss)
 * [2026-10-26, 19:23:00](https://soylentnews.org/article.pl?sid=26/10/25/0125258&from=rss) - [Your Brain May be Switching Between Two Versions of Reality 15 Times a Second](https://soylentnews.org/article.pl?sid=26/10/25/0125258&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-18, 11:39:00](https://soylentnews.org/article.pl?sid=26/10/17/1959256&from=rss) - [EU Open Source Summit 2026](https://soylentnews.org/article.pl?sid=26/10/17/1959256&from=rss)
 * [2026-10-18, 06:43:00](https://soylentnews.org/article.pl?sid=26/10/17/1958253&from=rss) - [New Motherboards, Old RAM, Plenty Of Life Left In Yesterday's PCs](https://soylentnews.org/article.pl?sid=26/10/17/1958253&from=rss)
 * [2026-10-18, 02:02:00](https://soylentnews.org/article.pl?sid=26/10/17/1953233&from=rss) - [The US May Rewrite Some Rules Of The Road To Fight Annoying, Overbright Headlights](https://soylentnews.org/article.pl?sid=26/10/17/1953233&from=rss)
-* [2026-10-17, 21:18:00](https://soylentnews.org/article.pl?sid=26/10/15/084215&from=rss) - [Tiny11 Puts Windows 11 on a Diet Without the PowerShell Workout](https://soylentnews.org/article.pl?sid=26/10/15/084215&from=rss)
 
 ## [Archives](archives/index.md)
 
