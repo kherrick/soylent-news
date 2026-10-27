@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-27, 23:45:00](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss) - [Max-Severity GitLab Bug Allows Remote Code Execution Over 12 Years Of Releases](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss)
 * [2026-10-27, 19:01:00](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss) - [Comcast Loses More Customers, Claims Other ISPs' Cheap Prices Are \"Irrational\"](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss)
 * [2026-10-27, 14:15:00](https://soylentnews.org/article.pl?sid=26/10/26/1734201&from=rss) - [Alzheimer’s Damage May Begin Outside the Brain](https://soylentnews.org/article.pl?sid=26/10/26/1734201&from=rss)
 * [2026-10-27, 09:29:00](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss) - [New Study Rekindles Contested Question: Earth and Mars Had Different Origins](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-19, 01:41:00](https://soylentnews.org/article.pl?sid=26/10/17/2256240&from=rss) - [Researchers Warned Attackers Could 'Defrost The Food' Months Before French Supermarkets Got Hit](https://soylentnews.org/article.pl?sid=26/10/17/2256240&from=rss)
 * [2026-10-18, 21:03:00](https://soylentnews.org/article.pl?sid=26/10/17/205201&from=rss) - [World Timekeepers Decide To Kill The Leap Second](https://soylentnews.org/article.pl?sid=26/10/17/205201&from=rss)
 * [2026-10-18, 16:12:00](https://soylentnews.org/article.pl?sid=26/10/17/203218&from=rss) - [US Tech Giants Warn Europe That Ditching US Tech Giants Could Cost €115B](https://soylentnews.org/article.pl?sid=26/10/17/203218&from=rss)
-* [2026-10-18, 11:39:00](https://soylentnews.org/article.pl?sid=26/10/17/1959256&from=rss) - [EU Open Source Summit 2026](https://soylentnews.org/article.pl?sid=26/10/17/1959256&from=rss)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-27](index.md)
 
+* [2026-10-27, 23:45:00](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss) - [Max-Severity GitLab Bug Allows Remote Code Execution Over 12 Years Of Releases](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss)
 * [2026-10-27, 19:01:00](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss) - [Comcast Loses More Customers, Claims Other ISPs' Cheap Prices Are \"Irrational\"](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss)
 * [2026-10-27, 14:15:00](https://soylentnews.org/article.pl?sid=26/10/26/1734201&from=rss) - [Alzheimer’s Damage May Begin Outside the Brain](https://soylentnews.org/article.pl?sid=26/10/26/1734201&from=rss)
 * [2026-10-27, 09:29:00](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss) - [New Study Rekindles Contested Question: Earth and Mars Had Different Origins](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss)
