@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-28, 23:32:00](https://soylentnews.org/article.pl?sid=26/10/27/0233227&from=rss) - [Australia Ponders Robotaxi Introduction as Unions Bark Warnings](https://soylentnews.org/article.pl?sid=26/10/27/0233227&from=rss)
 * [2026-10-28, 18:46:00](https://soylentnews.org/article.pl?sid=26/10/27/0229206&from=rss) - [Human Receives AI-Designed Virus for the First Time](https://soylentnews.org/article.pl?sid=26/10/27/0229206&from=rss)
 * [2026-10-28, 14:01:00](https://soylentnews.org/article.pl?sid=26/10/27/0225246&from=rss) - [US Official: Russia's Stalker Satellite Sure Looks Like an Orbital Weapon](https://soylentnews.org/article.pl?sid=26/10/27/0225246&from=rss)
 * [2026-10-28, 09:18:00](https://soylentnews.org/article.pl?sid=26/10/27/0059258&from=rss) - [Walter Koenig, Actor Best Known as Chekov on Star Trek, Dies Aged 90](https://soylentnews.org/article.pl?sid=26/10/27/0059258&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-20, 01:31:00](https://soylentnews.org/article.pl?sid=26/10/19/054239&from=rss) - [Python 3.15 Goes Global With UTF-8 Support](https://soylentnews.org/article.pl?sid=26/10/19/054239&from=rss)
 * [2026-10-19, 20:42:00](https://soylentnews.org/article.pl?sid=26/10/18/2146215&from=rss) - [When Faster Supercomputers Aren’t Enough](https://soylentnews.org/article.pl?sid=26/10/18/2146215&from=rss)
 * [2026-10-19, 15:50:00](https://soylentnews.org/article.pl?sid=26/10/18/2141251&from=rss) - [Spyware Vendors Found A Way To Make Targeted Ads Even Worse](https://soylentnews.org/article.pl?sid=26/10/18/2141251&from=rss)
-* [2026-10-19, 11:11:00](https://soylentnews.org/article.pl?sid=26/10/18/2138253&from=rss) - [Meta Unveils Muse Spark Open To Compete With Chinese Open-Weights](https://soylentnews.org/article.pl?sid=26/10/18/2138253&from=rss)
 
 ## [Archives](archives/index.md)
 
