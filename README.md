@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-28, 09:18:00](https://soylentnews.org/article.pl?sid=26/10/27/0059258&from=rss) - [Walter Koenig, Actor Best Known as Chekov on Star Trek, Dies Aged 90](https://soylentnews.org/article.pl?sid=26/10/27/0059258&from=rss)
 * [2026-10-28, 04:36:00](https://soylentnews.org/article.pl?sid=26/10/27/0057254&from=rss) - [Anthropocene: Rejection Revisited](https://soylentnews.org/article.pl?sid=26/10/27/0057254&from=rss)
 * [2026-10-27, 23:45:00](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss) - [Max-Severity GitLab Bug Allows Remote Code Execution Over 12 Years Of Releases](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss)
 * [2026-10-27, 19:01:00](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss) - [Comcast Loses More Customers, Claims Other ISPs' Cheap Prices Are \"Irrational\"](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-19, 11:11:00](https://soylentnews.org/article.pl?sid=26/10/18/2138253&from=rss) - [Meta Unveils Muse Spark Open To Compete With Chinese Open-Weights](https://soylentnews.org/article.pl?sid=26/10/18/2138253&from=rss)
 * [2026-10-19, 06:23:00](https://soylentnews.org/article.pl?sid=26/10/18/2134222&from=rss) - [Inside the Intel 8087 Chip: Floating-point Addition and Subtraction ](https://soylentnews.org/article.pl?sid=26/10/18/2134222&from=rss)
 * [2026-10-19, 01:41:00](https://soylentnews.org/article.pl?sid=26/10/17/2256240&from=rss) - [Researchers Warned Attackers Could 'Defrost The Food' Months Before French Supermarkets Got Hit](https://soylentnews.org/article.pl?sid=26/10/17/2256240&from=rss)
-* [2026-10-18, 21:03:00](https://soylentnews.org/article.pl?sid=26/10/17/205201&from=rss) - [World Timekeepers Decide To Kill The Leap Second](https://soylentnews.org/article.pl?sid=26/10/17/205201&from=rss)
 
 ## [Archives](archives/index.md)
 
