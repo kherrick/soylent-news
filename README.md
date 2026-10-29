@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-29, 09:07:00](https://soylentnews.org/article.pl?sid=26/10/28/0139238&from=rss) - [Auto Tech Startup Claims It Traced Hack Attempt Back To Rival's IP Address](https://soylentnews.org/article.pl?sid=26/10/28/0139238&from=rss)
 * [2026-10-29, 04:15:00](https://soylentnews.org/article.pl?sid=26/10/28/0137206&from=rss) - [No One Besides the Biggest Tech Giants is Seeing Benefits From AI](https://soylentnews.org/article.pl?sid=26/10/28/0137206&from=rss)
 * [2026-10-28, 23:32:00](https://soylentnews.org/article.pl?sid=26/10/27/0233227&from=rss) - [Australia Ponders Robotaxi Introduction as Unions Bark Warnings](https://soylentnews.org/article.pl?sid=26/10/27/0233227&from=rss)
 * [2026-10-28, 18:46:00](https://soylentnews.org/article.pl?sid=26/10/27/0229206&from=rss) - [Human Receives AI-Designed Virus for the First Time](https://soylentnews.org/article.pl?sid=26/10/27/0229206&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-20, 11:04:00](https://soylentnews.org/article.pl?sid=26/10/19/0515251&from=rss) - [Smartphone Shipments Plummet as Memory Crisis Pumps Up Prices](https://soylentnews.org/article.pl?sid=26/10/19/0515251&from=rss)
 * [2026-10-20, 06:20:00](https://soylentnews.org/article.pl?sid=26/10/19/0511219&from=rss) - [AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec](https://soylentnews.org/article.pl?sid=26/10/19/0511219&from=rss)
 * [2026-10-20, 01:31:00](https://soylentnews.org/article.pl?sid=26/10/19/054239&from=rss) - [Python 3.15 Goes Global With UTF-8 Support](https://soylentnews.org/article.pl?sid=26/10/19/054239&from=rss)
-* [2026-10-19, 20:42:00](https://soylentnews.org/article.pl?sid=26/10/18/2146215&from=rss) - [When Faster Supercomputers Aren’t Enough](https://soylentnews.org/article.pl?sid=26/10/18/2146215&from=rss)
 
 ## [Archives](archives/index.md)
 
