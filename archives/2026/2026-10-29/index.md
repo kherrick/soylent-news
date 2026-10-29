@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-10-29](index.md)
+
+* [2026-10-29, 04:15:00](https://soylentnews.org/article.pl?sid=26/10/28/0137206&from=rss) - [No One Besides the Biggest Tech Giants is Seeing Benefits From AI](https://soylentnews.org/article.pl?sid=26/10/28/0137206&from=rss)
