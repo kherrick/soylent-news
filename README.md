@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-30, 08:49:00](https://soylentnews.org/article.pl?sid=26/10/29/0239231&from=rss) - [A Startup Called Warhound Is Genetically Engineering Dogs For The Military](https://soylentnews.org/article.pl?sid=26/10/29/0239231&from=rss)
 * [2026-10-30, 03:55:00](https://soylentnews.org/article.pl?sid=26/10/29/0237206&from=rss) - [From Cheap Tool to Premium Subscription: When a Beloved App's Price Skyrockets](https://soylentnews.org/article.pl?sid=26/10/29/0237206&from=rss)
 * [2026-10-29, 23:15:00](https://soylentnews.org/article.pl?sid=26/10/28/0145248&from=rss) - [The Most Popular Streaming Platforms in the US Might Not be What You Think](https://soylentnews.org/article.pl?sid=26/10/28/0145248&from=rss)
 * [2026-10-29, 22:08:00](https://soylentnews.org/breakingnews/article.pl?sid=26/10/29/2211223&from=rss) - [Patrick Stewart Dies: ‘Star Trek: The Next Generation’ Actor Was 86](https://soylentnews.org/breakingnews/article.pl?sid=26/10/29/2211223&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-21, 15:39:00](https://soylentnews.org/article.pl?sid=26/10/20/0349215&from=rss) - [First Series of Adult T. Rex Footprints Hints at its Walking Speed](https://soylentnews.org/article.pl?sid=26/10/20/0349215&from=rss)
 * [2026-10-21, 10:54:00](https://soylentnews.org/article.pl?sid=26/10/20/0337238&from=rss) - [Indirect Prompt Injection Starts Turning Up in Webpage Headers](https://soylentnews.org/article.pl?sid=26/10/20/0337238&from=rss)
 * [2026-10-21, 06:06:00](https://soylentnews.org/article.pl?sid=26/10/19/1749226&from=rss) - [Microplastics In Water Aren’t Inert And Make Damaging Chemicals On Their Own](https://soylentnews.org/article.pl?sid=26/10/19/1749226&from=rss)
-* [2026-10-21, 01:23:00](https://soylentnews.org/article.pl?sid=26/10/19/0535231&from=rss) - [Back When US Air Force Pilots Used Malware-Laden USB Drives to Plan Afghanistan Missions](https://soylentnews.org/article.pl?sid=26/10/19/0535231&from=rss)
 
 ## [Archives](archives/index.md)
 
