@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-10-31](index.md)
+
+* [2026-10-31, 03:44:00](https://soylentnews.org/article.pl?sid=26/10/29/1125232&from=rss) - [The Return of Magnetic Tapes](https://soylentnews.org/article.pl?sid=26/10/29/1125232&from=rss)
