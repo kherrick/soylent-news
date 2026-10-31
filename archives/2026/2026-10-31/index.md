@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 22:37:00](https://soylentnews.org/article.pl?sid=26/10/29/1654256&from=rss) - [Microsoft Offers Parachutes To 60K Employees If They Jump By The End Of The Year](https://soylentnews.org/article.pl?sid=26/10/29/1654256&from=rss)
 * [2026-10-31, 17:52:00](https://soylentnews.org/article.pl?sid=26/10/29/1546233&from=rss) - [ICE Plan To Buy Robot Dogs Spurs Protest From Hundreds Of Boston Dynamics Employees](https://soylentnews.org/article.pl?sid=26/10/29/1546233&from=rss)
 * [2026-10-31, 13:08:00](https://soylentnews.org/article.pl?sid=26/10/29/1540224&from=rss) - [IBM Admits Mainframes Need To Be Modernized And Will Use AI To Do The Job](https://soylentnews.org/article.pl?sid=26/10/29/1540224&from=rss)
 * [2026-10-31, 11:01:00](https://soylentnews.org/article.pl?sid=26/10/31/055253&from=rss) - [Attacker Gained Access to Luanti's ContentDB's Servers](https://soylentnews.org/article.pl?sid=26/10/31/055253&from=rss)
