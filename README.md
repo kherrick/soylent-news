@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-31, 13:08:00](https://soylentnews.org/article.pl?sid=26/10/29/1540224&from=rss) - [IBM Admits Mainframes Need To Be Modernized And Will Use AI To Do The Job](https://soylentnews.org/article.pl?sid=26/10/29/1540224&from=rss)
 * [2026-10-31, 11:01:00](https://soylentnews.org/article.pl?sid=26/10/31/055253&from=rss) - [Attacker Gained Access to Luanti's ContentDB's Servers](https://soylentnews.org/article.pl?sid=26/10/31/055253&from=rss)
 * [2026-10-31, 08:27:00](https://soylentnews.org/article.pl?sid=26/10/29/1133203&from=rss) - [Worm Armed 42 GitHub Repos by Hiding a Payload Too Big to Fail](https://soylentnews.org/article.pl?sid=26/10/29/1133203&from=rss)
 * [2026-10-31, 03:44:00](https://soylentnews.org/article.pl?sid=26/10/29/1125232&from=rss) - [The Return of Magnetic Tapes](https://soylentnews.org/article.pl?sid=26/10/29/1125232&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-22, 20:12:00](https://soylentnews.org/article.pl?sid=26/10/21/1625213&from=rss) - [OpenBSD 8.0 Beefs Up Virtual Machines And Gets A Taste Of Wine](https://soylentnews.org/article.pl?sid=26/10/21/1625213&from=rss)
 * [2026-10-22, 15:23:00](https://soylentnews.org/article.pl?sid=26/10/21/1621256&from=rss) - [Tens Of Thousands Of Nvidia GPUs Sit Idle In Meta's Prometheus Supercluster, Waiting For Failure](https://soylentnews.org/article.pl?sid=26/10/21/1621256&from=rss)
 * [2026-10-22, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/10/22/1248234&from=rss) - [333 Tor Exit Nodes Hijacked To Intercept SSH Traffic And Retrieve Plaintext Email](https://soylentnews.org/breakingnews/article.pl?sid=26/10/22/1248234&from=rss)
-* [2026-10-22, 10:36:00](https://soylentnews.org/article.pl?sid=26/10/21/1618203&from=rss) - [Vanillin Provides a Sweet Solution for Chronic Wound Healing](https://soylentnews.org/article.pl?sid=26/10/21/1618203&from=rss)
 
 ## [Archives](archives/index.md)
 
