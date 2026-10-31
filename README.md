@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-10-31, 08:27:00](https://soylentnews.org/article.pl?sid=26/10/29/1133203&from=rss) - [Worm Armed 42 GitHub Repos by Hiding a Payload Too Big to Fail](https://soylentnews.org/article.pl?sid=26/10/29/1133203&from=rss)
 * [2026-10-31, 03:44:00](https://soylentnews.org/article.pl?sid=26/10/29/1125232&from=rss) - [The Return of Magnetic Tapes](https://soylentnews.org/article.pl?sid=26/10/29/1125232&from=rss)
 * [2026-10-30, 23:04:00](https://soylentnews.org/article.pl?sid=26/10/29/0245245&from=rss) - [The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans](https://soylentnews.org/article.pl?sid=26/10/29/0245245&from=rss)
 * [2026-10-30, 18:13:00](https://soylentnews.org/article.pl?sid=26/10/29/0243255&from=rss) - [Emulate Apple II on Raspberry Pi](https://soylentnews.org/article.pl?sid=26/10/29/0243255&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-22, 12:56:00](https://soylentnews.org/breakingnews/article.pl?sid=26/10/22/1248234&from=rss) - [333 Tor Exit Nodes Hijacked To Intercept SSH Traffic And Retrieve Plaintext Email](https://soylentnews.org/breakingnews/article.pl?sid=26/10/22/1248234&from=rss)
 * [2026-10-22, 10:36:00](https://soylentnews.org/article.pl?sid=26/10/21/1618203&from=rss) - [Vanillin Provides a Sweet Solution for Chronic Wound Healing](https://soylentnews.org/article.pl?sid=26/10/21/1618203&from=rss)
 * [2026-10-22, 05:53:00](https://soylentnews.org/article.pl?sid=26/10/21/1611252&from=rss) - [PHP Vulnerabilities Could Put Much Of The Internet At Risk, Experts Warn](https://soylentnews.org/article.pl?sid=26/10/21/1611252&from=rss)
-* [2026-10-22, 01:10:00](https://soylentnews.org/article.pl?sid=26/10/20/041236&from=rss) - [Microsoft Abandons UK AI Supercomputer as Grid Struggles to Keep Up](https://soylentnews.org/article.pl?sid=26/10/20/041236&from=rss)
 
 ## [Archives](archives/index.md)
 
