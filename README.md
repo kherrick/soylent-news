@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-01, 03:26:00](https://soylentnews.org/article.pl?sid=26/10/29/1658241&from=rss) - [Delaware Plan Would Let AI Agents Run Entire Businesses](https://soylentnews.org/article.pl?sid=26/10/29/1658241&from=rss)
 * [2026-10-31, 22:37:00](https://soylentnews.org/article.pl?sid=26/10/29/1654256&from=rss) - [Microsoft Offers Parachutes To 60K Employees If They Jump By The End Of The Year](https://soylentnews.org/article.pl?sid=26/10/29/1654256&from=rss)
 * [2026-10-31, 17:52:00](https://soylentnews.org/article.pl?sid=26/10/29/1546233&from=rss) - [ICE Plan To Buy Robot Dogs Spurs Protest From Hundreds Of Boston Dynamics Employees](https://soylentnews.org/article.pl?sid=26/10/29/1546233&from=rss)
 * [2026-10-31, 13:08:00](https://soylentnews.org/article.pl?sid=26/10/29/1540224&from=rss) - [IBM Admits Mainframes Need To Be Modernized And Will Use AI To Do The Job](https://soylentnews.org/article.pl?sid=26/10/29/1540224&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-23, 10:20:00](https://soylentnews.org/article.pl?sid=26/10/22/0141249&from=rss) - [Indian Certification Authority EMudhra’s Private Keys Compromised – One Of Them Was The Number ‘4’](https://soylentnews.org/article.pl?sid=26/10/22/0141249&from=rss)
 * [2026-10-23, 05:48:00](https://soylentnews.org/article.pl?sid=26/10/22/0139217&from=rss) - [Accident Or Not, The No Kings Takedown Is Why You Shouldn’t Rent Your Megaphone From Zuck ](https://soylentnews.org/article.pl?sid=26/10/22/0139217&from=rss)
 * [2026-10-23, 00:55:00](https://soylentnews.org/article.pl?sid=26/10/22/0138217&from=rss) - [Slime Moulds and the Bitter Debate Over the Nature of Intelligence](https://soylentnews.org/article.pl?sid=26/10/22/0138217&from=rss)
-* [2026-10-22, 20:12:00](https://soylentnews.org/article.pl?sid=26/10/21/1625213&from=rss) - [OpenBSD 8.0 Beefs Up Virtual Machines And Gets A Taste Of Wine](https://soylentnews.org/article.pl?sid=26/10/21/1625213&from=rss)
 
 ## [Archives](archives/index.md)
 
