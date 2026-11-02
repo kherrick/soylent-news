@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-02, 07:49:00](https://soylentnews.org/article.pl?sid=26/10/31/2350235&from=rss) - [Voyager 1 Gives Controllers The Silent Treatment - But It Has Communicated Again](https://soylentnews.org/article.pl?sid=26/10/31/2350235&from=rss)
+* [2026-11-02, 03:03:00](https://soylentnews.org/article.pl?sid=26/10/31/2344241&from=rss) - [Rare Meteorite From Mars Gives Us A View Into Its Ancient Crust](https://soylentnews.org/article.pl?sid=26/10/31/2344241&from=rss)
 * [2026-11-01, 22:28:00](https://soylentnews.org/article.pl?sid=26/10/31/0512216&from=rss) - [Github Competitor Entire Is Live Now – How The Agent-First Platform Works](https://soylentnews.org/article.pl?sid=26/10/31/0512216&from=rss)
 * [2026-11-01, 17:41:00](https://soylentnews.org/article.pl?sid=26/10/31/0458210&from=rss) - [Alibaba's Qwen AI Caught Trying to Contact Server in China](https://soylentnews.org/article.pl?sid=26/10/31/0458210&from=rss)
 * [2026-11-01, 12:56:00](https://soylentnews.org/article.pl?sid=26/10/31/0450227&from=rss) - [FreeBSD Founder Ports Omarchy to FreeBSD in Ten Days, Ten Releases](https://soylentnews.org/article.pl?sid=26/10/31/0450227&from=rss)
@@ -48,8 +50,6 @@
 * [2026-10-24, 14:54:00](https://soylentnews.org/article.pl?sid=26/10/22/1257204&from=rss) - [Japan's Sample Return Mission to Phobos May Also Collect Some Mars Dust](https://soylentnews.org/article.pl?sid=26/10/22/1257204&from=rss)
 * [2026-10-24, 10:11:00](https://soylentnews.org/article.pl?sid=26/10/22/1132244&from=rss) - [The Ferranti Files: 40 Years of Sinclair Secret](https://soylentnews.org/article.pl?sid=26/10/22/1132244&from=rss)
 * [2026-10-24, 05:26:00](https://soylentnews.org/article.pl?sid=26/10/22/1128242&from=rss) - [EU Wants Booking.Com to Check Out of its Scam Problem](https://soylentnews.org/article.pl?sid=26/10/22/1128242&from=rss)
-* [2026-10-24, 00:37:00](https://soylentnews.org/article.pl?sid=26/10/22/1118219&from=rss) - [Google Brings Gemini Personal Intelligence to Android Auto](https://soylentnews.org/article.pl?sid=26/10/22/1118219&from=rss)
-* [2026-10-23, 19:53:00](https://soylentnews.org/article.pl?sid=26/10/22/088253&from=rss) - [Senedd Member Says Smart Glasses Help With Speeches in the Senedd (Welsh Parliament)](https://soylentnews.org/article.pl?sid=26/10/22/088253&from=rss)
 
 ## [Archives](archives/index.md)
 
