@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-01, 22:28:00](https://soylentnews.org/article.pl?sid=26/10/31/0512216&from=rss) - [Github Competitor Entire Is Live Now – How The Agent-First Platform Works](https://soylentnews.org/article.pl?sid=26/10/31/0512216&from=rss)
 * [2026-11-01, 17:41:00](https://soylentnews.org/article.pl?sid=26/10/31/0458210&from=rss) - [Alibaba's Qwen AI Caught Trying to Contact Server in China](https://soylentnews.org/article.pl?sid=26/10/31/0458210&from=rss)
 * [2026-11-01, 12:56:00](https://soylentnews.org/article.pl?sid=26/10/31/0450227&from=rss) - [FreeBSD Founder Ports Omarchy to FreeBSD in Ten Days, Ten Releases](https://soylentnews.org/article.pl?sid=26/10/31/0450227&from=rss)
 * [2026-11-01, 08:10:00](https://soylentnews.org/article.pl?sid=26/10/29/171204&from=rss) - [Insect Declines Threaten Wildlife Far Beyond Insect World](https://soylentnews.org/article.pl?sid=26/10/29/171204&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-24, 05:26:00](https://soylentnews.org/article.pl?sid=26/10/22/1128242&from=rss) - [EU Wants Booking.Com to Check Out of its Scam Problem](https://soylentnews.org/article.pl?sid=26/10/22/1128242&from=rss)
 * [2026-10-24, 00:37:00](https://soylentnews.org/article.pl?sid=26/10/22/1118219&from=rss) - [Google Brings Gemini Personal Intelligence to Android Auto](https://soylentnews.org/article.pl?sid=26/10/22/1118219&from=rss)
 * [2026-10-23, 19:53:00](https://soylentnews.org/article.pl?sid=26/10/22/088253&from=rss) - [Senedd Member Says Smart Glasses Help With Speeches in the Senedd (Welsh Parliament)](https://soylentnews.org/article.pl?sid=26/10/22/088253&from=rss)
-* [2026-10-23, 15:12:00](https://soylentnews.org/article.pl?sid=26/10/22/0142250&from=rss) - [Merging SpaceX And Tesla Would Be A \"Good Idea,\" Musk Says](https://soylentnews.org/article.pl?sid=26/10/22/0142250&from=rss)
 
 ## [Archives](archives/index.md)
 
