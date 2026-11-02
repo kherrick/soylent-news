@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-02, 17:10:00](https://soylentnews.org/article.pl?sid=26/11/01/2151226&from=rss) - [Orangutan Mothers Seek Out Playmates for Young](https://soylentnews.org/article.pl?sid=26/11/01/2151226&from=rss)
+* [2026-11-02, 12:39:00](https://soylentnews.org/article.pl?sid=26/11/01/2149243&from=rss) - [Six Billion Dollars Crypto Heist at Binance](https://soylentnews.org/article.pl?sid=26/11/01/2149243&from=rss)
 * [2026-11-02, 07:49:00](https://soylentnews.org/article.pl?sid=26/10/31/2350235&from=rss) - [Voyager 1 Gives Controllers The Silent Treatment - But It Has Communicated Again](https://soylentnews.org/article.pl?sid=26/10/31/2350235&from=rss)
 * [2026-11-02, 03:03:00](https://soylentnews.org/article.pl?sid=26/10/31/2344241&from=rss) - [Rare Meteorite From Mars Gives Us A View Into Its Ancient Crust](https://soylentnews.org/article.pl?sid=26/10/31/2344241&from=rss)
 * [2026-11-01, 22:28:00](https://soylentnews.org/article.pl?sid=26/10/31/0512216&from=rss) - [Github Competitor Entire Is Live Now – How The Agent-First Platform Works](https://soylentnews.org/article.pl?sid=26/10/31/0512216&from=rss)
@@ -48,8 +50,6 @@
 * [2026-10-24, 19:42:00](https://soylentnews.org/article.pl?sid=26/10/22/135232&from=rss) - [TP-Link Tries To Appease Trump Admin With Pledge To Assemble Routers In US](https://soylentnews.org/article.pl?sid=26/10/22/135232&from=rss)
 * [2026-10-24, 17:19:00](https://soylentnews.org/article.pl?sid=26/10/22/132205&from=rss) - [Strategic Maple Syrup Reserve Close to Empty](https://soylentnews.org/article.pl?sid=26/10/22/132205&from=rss)
 * [2026-10-24, 14:54:00](https://soylentnews.org/article.pl?sid=26/10/22/1257204&from=rss) - [Japan's Sample Return Mission to Phobos May Also Collect Some Mars Dust](https://soylentnews.org/article.pl?sid=26/10/22/1257204&from=rss)
-* [2026-10-24, 10:11:00](https://soylentnews.org/article.pl?sid=26/10/22/1132244&from=rss) - [The Ferranti Files: 40 Years of Sinclair Secret](https://soylentnews.org/article.pl?sid=26/10/22/1132244&from=rss)
-* [2026-10-24, 05:26:00](https://soylentnews.org/article.pl?sid=26/10/22/1128242&from=rss) - [EU Wants Booking.Com to Check Out of its Scam Problem](https://soylentnews.org/article.pl?sid=26/10/22/1128242&from=rss)
 
 ## [Archives](archives/index.md)
 
