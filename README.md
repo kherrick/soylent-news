@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-03, 16:58:00](https://soylentnews.org/article.pl?sid=26/11/02/1429242&from=rss) - [Refrigerators Attacked Once More](https://soylentnews.org/article.pl?sid=26/11/02/1429242&from=rss)
 * [2026-11-03, 12:14:00](https://soylentnews.org/article.pl?sid=26/11/02/1426258&from=rss) - [Jonathan Swift's Book, \"Gulliver's Travels\", Turned 300 Years Old Last Month](https://soylentnews.org/article.pl?sid=26/11/02/1426258&from=rss)
 * [2026-11-03, 07:30:00](https://soylentnews.org/article.pl?sid=26/11/02/1423211&from=rss) - [A Common Gut Bacterium Makes a Cholesterol-Lowering Compound That Shrank Artery Plaque in Mice](https://soylentnews.org/article.pl?sid=26/11/02/1423211&from=rss)
 * [2026-11-03, 02:44:00](https://soylentnews.org/article.pl?sid=26/11/02/1418244&from=rss) - ['Mother of All Editors' Emacs is 50](https://soylentnews.org/article.pl?sid=26/11/02/1418244&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-25, 19:31:00](https://soylentnews.org/article.pl?sid=26/10/25/0024211&from=rss) - [Artemis II Results Show How Much Science People Can Do at the Moon](https://soylentnews.org/article.pl?sid=26/10/25/0024211&from=rss)
 * [2026-10-25, 14:42:00](https://soylentnews.org/article.pl?sid=26/10/24/216243&from=rss) - [The ESA's Euclid Telescope Discovered a New Comet Completely by Accident](https://soylentnews.org/article.pl?sid=26/10/24/216243&from=rss)
 * [2026-10-25, 09:59:00](https://soylentnews.org/article.pl?sid=26/10/24/2055252&from=rss) - [UK Government Hasn't the Foggiest How Much It's Spending on Digital Transformation](https://soylentnews.org/article.pl?sid=26/10/24/2055252&from=rss)
-* [2026-10-25, 05:10:00](https://soylentnews.org/article.pl?sid=26/10/24/0859252&from=rss) - [EFF:  Introducing Our New Surveillance Self-Defense Guide](https://soylentnews.org/article.pl?sid=26/10/24/0859252&from=rss)
 
 ## [Archives](archives/index.md)
 
