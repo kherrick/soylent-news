@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-02, 22:02:00](https://soylentnews.org/article.pl?sid=26/11/01/2155249&from=rss) - [US-Backed Vaccine Trial On Babies Canceled After International Outcry](https://soylentnews.org/article.pl?sid=26/11/01/2155249&from=rss)
 * [2026-11-02, 17:10:00](https://soylentnews.org/article.pl?sid=26/11/01/2151226&from=rss) - [Orangutan Mothers Seek Out Playmates for Young](https://soylentnews.org/article.pl?sid=26/11/01/2151226&from=rss)
 * [2026-11-02, 12:39:00](https://soylentnews.org/article.pl?sid=26/11/01/2149243&from=rss) - [Six Billion Dollars Crypto Heist at Binance](https://soylentnews.org/article.pl?sid=26/11/01/2149243&from=rss)
 * [2026-11-02, 07:49:00](https://soylentnews.org/article.pl?sid=26/10/31/2350235&from=rss) - [Voyager 1 Gives Controllers The Silent Treatment - But It Has Communicated Again](https://soylentnews.org/article.pl?sid=26/10/31/2350235&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-25, 00:25:00](https://soylentnews.org/article.pl?sid=26/10/24/0858220&from=rss) - [With \"AI\" Coding the Future of Software Development Looks More Grim Than Ever Before!](https://soylentnews.org/article.pl?sid=26/10/24/0858220&from=rss)
 * [2026-10-24, 19:42:00](https://soylentnews.org/article.pl?sid=26/10/22/135232&from=rss) - [TP-Link Tries To Appease Trump Admin With Pledge To Assemble Routers In US](https://soylentnews.org/article.pl?sid=26/10/22/135232&from=rss)
 * [2026-10-24, 17:19:00](https://soylentnews.org/article.pl?sid=26/10/22/132205&from=rss) - [Strategic Maple Syrup Reserve Close to Empty](https://soylentnews.org/article.pl?sid=26/10/22/132205&from=rss)
-* [2026-10-24, 14:54:00](https://soylentnews.org/article.pl?sid=26/10/22/1257204&from=rss) - [Japan's Sample Return Mission to Phobos May Also Collect Some Mars Dust](https://soylentnews.org/article.pl?sid=26/10/22/1257204&from=rss)
 
 ## [Archives](archives/index.md)
 
