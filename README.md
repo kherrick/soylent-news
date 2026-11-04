@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-04, 07:14:00](https://soylentnews.org/article.pl?sid=26/11/03/0546224&from=rss) - [Anthropic VS Code Extension on Cursor Backdoored for Nearly 12 Hours](https://soylentnews.org/article.pl?sid=26/11/03/0546224&from=rss)
+* [2026-11-04, 02:28:00](https://soylentnews.org/article.pl?sid=26/11/03/0542212&from=rss) - [Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses](https://soylentnews.org/article.pl?sid=26/11/03/0542212&from=rss)
 * [2026-11-03, 21:45:00](https://soylentnews.org/article.pl?sid=26/11/02/1432239&from=rss) - [AlpineBSD Announced – An AI-Free FOSS OS](https://soylentnews.org/article.pl?sid=26/11/02/1432239&from=rss)
 * [2026-11-03, 16:58:00](https://soylentnews.org/article.pl?sid=26/11/02/1429242&from=rss) - [Refrigerators Attacked Once More](https://soylentnews.org/article.pl?sid=26/11/02/1429242&from=rss)
 * [2026-11-03, 12:14:00](https://soylentnews.org/article.pl?sid=26/11/02/1426258&from=rss) - [Jonathan Swift's Book, \"Gulliver's Travels\", Turned 300 Years Old Last Month](https://soylentnews.org/article.pl?sid=26/11/02/1426258&from=rss)
@@ -48,8 +50,6 @@
 * [2026-10-26, 09:39:00](https://soylentnews.org/article.pl?sid=26/10/25/0120233&from=rss) - [How Ocean Chemistry Helped Life Keep Breathing](https://soylentnews.org/article.pl?sid=26/10/25/0120233&from=rss)
 * [2026-10-26, 04:59:00](https://soylentnews.org/article.pl?sid=26/10/25/0047216&from=rss) - [Vendors Asking Forward Deployed Engineers to Make Good on Trillion-Dollar AI Bet](https://soylentnews.org/article.pl?sid=26/10/25/0047216&from=rss)
 * [2026-10-26, 00:18:00](https://soylentnews.org/article.pl?sid=26/10/25/0033232&from=rss) - [UK Threatens Subsea Cable Saboteurs With 14 Years Behind Bars](https://soylentnews.org/article.pl?sid=26/10/25/0033232&from=rss)
-* [2026-10-25, 19:31:00](https://soylentnews.org/article.pl?sid=26/10/25/0024211&from=rss) - [Artemis II Results Show How Much Science People Can Do at the Moon](https://soylentnews.org/article.pl?sid=26/10/25/0024211&from=rss)
-* [2026-10-25, 14:42:00](https://soylentnews.org/article.pl?sid=26/10/24/216243&from=rss) - [The ESA's Euclid Telescope Discovered a New Comet Completely by Accident](https://soylentnews.org/article.pl?sid=26/10/24/216243&from=rss)
 
 ## [Archives](archives/index.md)
 
