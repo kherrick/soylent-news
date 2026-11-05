@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-05, 21:19:00](https://soylentnews.org/article.pl?sid=26/11/04/100243&from=rss) - [North Korean Fake Job Interview Led To $6.3B Binance Heist](https://soylentnews.org/article.pl?sid=26/11/04/100243&from=rss)
 * [2026-11-05, 16:30:00](https://soylentnews.org/article.pl?sid=26/11/03/2342251&from=rss) - [PC Chip Plunge Wipes Out A Quarter Of Intel’s Value](https://soylentnews.org/article.pl?sid=26/11/03/2342251&from=rss)
 * [2026-11-05, 11:48:00](https://soylentnews.org/article.pl?sid=26/11/03/2339254&from=rss) - [Think You Can Save The Hubble Space Telescope? NASA Wants To Know.](https://soylentnews.org/article.pl?sid=26/11/03/2339254&from=rss)
 * [2026-11-05, 07:05:00](https://soylentnews.org/article.pl?sid=26/11/03/2336251&from=rss) - [GM Agrees to $220 Million Settlement Over Selling Driver Data](https://soylentnews.org/article.pl?sid=26/11/03/2336251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-27, 23:45:00](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss) - [Max-Severity GitLab Bug Allows Remote Code Execution Over 12 Years Of Releases](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss)
 * [2026-10-27, 19:01:00](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss) - [Comcast Loses More Customers, Claims Other ISPs' Cheap Prices Are \"Irrational\"](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss)
 * [2026-10-27, 14:15:00](https://soylentnews.org/article.pl?sid=26/10/26/1734201&from=rss) - [Alzheimer’s Damage May Begin Outside the Brain](https://soylentnews.org/article.pl?sid=26/10/26/1734201&from=rss)
-* [2026-10-27, 09:29:00](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss) - [New Study Rekindles Contested Question: Earth and Mars Had Different Origins](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss)
 
 ## [Archives](archives/index.md)
 
