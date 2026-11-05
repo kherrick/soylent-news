@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-05, 16:30:00](https://soylentnews.org/article.pl?sid=26/11/03/2342251&from=rss) - [PC Chip Plunge Wipes Out A Quarter Of Intel’s Value](https://soylentnews.org/article.pl?sid=26/11/03/2342251&from=rss)
+* [2026-11-05, 11:48:00](https://soylentnews.org/article.pl?sid=26/11/03/2339254&from=rss) - [Think You Can Save The Hubble Space Telescope? NASA Wants To Know.](https://soylentnews.org/article.pl?sid=26/11/03/2339254&from=rss)
 * [2026-11-05, 07:05:00](https://soylentnews.org/article.pl?sid=26/11/03/2336251&from=rss) - [GM Agrees to $220 Million Settlement Over Selling Driver Data](https://soylentnews.org/article.pl?sid=26/11/03/2336251&from=rss)
 * [2026-11-05, 02:19:00](https://soylentnews.org/article.pl?sid=26/11/03/0552258&from=rss) - [Flesh-Eating Screwworms Spread to Third State and Are Attacking Pets](https://soylentnews.org/article.pl?sid=26/11/03/0552258&from=rss)
 * [2026-11-04, 21:34:00](https://soylentnews.org/article.pl?sid=26/11/03/0640245&from=rss) - [Researchers May Have Discovered the 6th Dwarf Planet](https://soylentnews.org/article.pl?sid=26/11/03/0640245&from=rss)
@@ -48,8 +50,6 @@
 * [2026-10-27, 19:01:00](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss) - [Comcast Loses More Customers, Claims Other ISPs' Cheap Prices Are \"Irrational\"](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss)
 * [2026-10-27, 14:15:00](https://soylentnews.org/article.pl?sid=26/10/26/1734201&from=rss) - [Alzheimer’s Damage May Begin Outside the Brain](https://soylentnews.org/article.pl?sid=26/10/26/1734201&from=rss)
 * [2026-10-27, 09:29:00](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss) - [New Study Rekindles Contested Question: Earth and Mars Had Different Origins](https://soylentnews.org/article.pl?sid=26/10/26/1730202&from=rss)
-* [2026-10-27, 04:37:00](https://soylentnews.org/article.pl?sid=26/10/26/1728237&from=rss) - [Terence Tao: AI Turns Beautiful Mathematics Into ‘Toxic Waste’](https://soylentnews.org/article.pl?sid=26/10/26/1728237&from=rss)
-* [2026-10-26, 23:56:00](https://soylentnews.org/article.pl?sid=26/10/25/0129222&from=rss) - [A Privacy Company Just Saved The Clearest Flock Surveillance Map](https://soylentnews.org/article.pl?sid=26/10/25/0129222&from=rss)
 
 ## [Archives](archives/index.md)
 
