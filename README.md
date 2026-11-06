@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-06, 20:50:00](https://soylentnews.org/article.pl?sid=26/11/06/0112251&from=rss) - [Britain's Driverless Dream Hits A Roundabout Of Awkward Questions](https://soylentnews.org/article.pl?sid=26/11/06/0112251&from=rss)
 * [2026-11-06, 16:14:00](https://soylentnews.org/article.pl?sid=26/11/05/1726228&from=rss) - [Ericsson Says It Can Detect, Track Drones Using Only Mobile Networks](https://soylentnews.org/article.pl?sid=26/11/05/1726228&from=rss)
 * [2026-11-06, 11:31:00](https://soylentnews.org/politics/article.pl?sid=26/11/05/1724200&from=rss) - [Midterms Impact (Big Tech and Others)](https://soylentnews.org/politics/article.pl?sid=26/11/05/1724200&from=rss)
 * [2026-11-06, 06:47:00](https://soylentnews.org/article.pl?sid=26/11/05/1719219&from=rss) - [The UCD Physicist Stacking Quantum Materials Like Lego](https://soylentnews.org/article.pl?sid=26/11/05/1719219&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-28, 23:32:00](https://soylentnews.org/article.pl?sid=26/10/27/0233227&from=rss) - [Australia Ponders Robotaxi Introduction as Unions Bark Warnings](https://soylentnews.org/article.pl?sid=26/10/27/0233227&from=rss)
 * [2026-10-28, 18:46:00](https://soylentnews.org/article.pl?sid=26/10/27/0229206&from=rss) - [Human Receives AI-Designed Virus for the First Time](https://soylentnews.org/article.pl?sid=26/10/27/0229206&from=rss)
 * [2026-10-28, 14:01:00](https://soylentnews.org/article.pl?sid=26/10/27/0225246&from=rss) - [US Official: Russia's Stalker Satellite Sure Looks Like an Orbital Weapon](https://soylentnews.org/article.pl?sid=26/10/27/0225246&from=rss)
-* [2026-10-28, 09:18:00](https://soylentnews.org/article.pl?sid=26/10/27/0059258&from=rss) - [Walter Koenig, Actor Best Known as Chekov on Star Trek, Dies Aged 90](https://soylentnews.org/article.pl?sid=26/10/27/0059258&from=rss)
 
 ## [Archives](archives/index.md)
 
