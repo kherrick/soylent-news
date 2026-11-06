@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-06, 16:14:00](https://soylentnews.org/article.pl?sid=26/11/05/1726228&from=rss) - [Ericsson Says It Can Detect, Track Drones Using Only Mobile Networks](https://soylentnews.org/article.pl?sid=26/11/05/1726228&from=rss)
+* [2026-11-06, 11:31:00](https://soylentnews.org/politics/article.pl?sid=26/11/05/1724200&from=rss) - [Midterms Impact (Big Tech and Others)](https://soylentnews.org/politics/article.pl?sid=26/11/05/1724200&from=rss)
 * [2026-11-06, 06:47:00](https://soylentnews.org/article.pl?sid=26/11/05/1719219&from=rss) - [The UCD Physicist Stacking Quantum Materials Like Lego](https://soylentnews.org/article.pl?sid=26/11/05/1719219&from=rss)
 * [2026-11-06, 02:02:00](https://soylentnews.org/article.pl?sid=26/11/04/1515206&from=rss) - [Your Secrets Aren't Safe With This Cute Robot Toy — They're on Chinese Servers Ready to be Hacked](https://soylentnews.org/article.pl?sid=26/11/04/1515206&from=rss)
 * [2026-11-05, 21:19:00](https://soylentnews.org/article.pl?sid=26/11/04/100243&from=rss) - [North Korean Fake Job Interview Led To $6.3B Binance Heist](https://soylentnews.org/article.pl?sid=26/11/04/100243&from=rss)
@@ -48,8 +50,6 @@
 * [2026-10-28, 18:46:00](https://soylentnews.org/article.pl?sid=26/10/27/0229206&from=rss) - [Human Receives AI-Designed Virus for the First Time](https://soylentnews.org/article.pl?sid=26/10/27/0229206&from=rss)
 * [2026-10-28, 14:01:00](https://soylentnews.org/article.pl?sid=26/10/27/0225246&from=rss) - [US Official: Russia's Stalker Satellite Sure Looks Like an Orbital Weapon](https://soylentnews.org/article.pl?sid=26/10/27/0225246&from=rss)
 * [2026-10-28, 09:18:00](https://soylentnews.org/article.pl?sid=26/10/27/0059258&from=rss) - [Walter Koenig, Actor Best Known as Chekov on Star Trek, Dies Aged 90](https://soylentnews.org/article.pl?sid=26/10/27/0059258&from=rss)
-* [2026-10-28, 04:36:00](https://soylentnews.org/article.pl?sid=26/10/27/0057254&from=rss) - [Anthropocene: Rejection Revisited](https://soylentnews.org/article.pl?sid=26/10/27/0057254&from=rss)
-* [2026-10-27, 23:45:00](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss) - [Max-Severity GitLab Bug Allows Remote Code Execution Over 12 Years Of Releases](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss)
 
 ## [Archives](archives/index.md)
 
