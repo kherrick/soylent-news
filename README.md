@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-06, 06:47:00](https://soylentnews.org/article.pl?sid=26/11/05/1719219&from=rss) - [The UCD Physicist Stacking Quantum Materials Like Lego](https://soylentnews.org/article.pl?sid=26/11/05/1719219&from=rss)
 * [2026-11-06, 02:02:00](https://soylentnews.org/article.pl?sid=26/11/04/1515206&from=rss) - [Your Secrets Aren't Safe With This Cute Robot Toy — They're on Chinese Servers Ready to be Hacked](https://soylentnews.org/article.pl?sid=26/11/04/1515206&from=rss)
 * [2026-11-05, 21:19:00](https://soylentnews.org/article.pl?sid=26/11/04/100243&from=rss) - [North Korean Fake Job Interview Led To $6.3B Binance Heist](https://soylentnews.org/article.pl?sid=26/11/04/100243&from=rss)
 * [2026-11-05, 16:30:00](https://soylentnews.org/article.pl?sid=26/11/03/2342251&from=rss) - [PC Chip Plunge Wipes Out A Quarter Of Intel’s Value](https://soylentnews.org/article.pl?sid=26/11/03/2342251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-28, 09:18:00](https://soylentnews.org/article.pl?sid=26/10/27/0059258&from=rss) - [Walter Koenig, Actor Best Known as Chekov on Star Trek, Dies Aged 90](https://soylentnews.org/article.pl?sid=26/10/27/0059258&from=rss)
 * [2026-10-28, 04:36:00](https://soylentnews.org/article.pl?sid=26/10/27/0057254&from=rss) - [Anthropocene: Rejection Revisited](https://soylentnews.org/article.pl?sid=26/10/27/0057254&from=rss)
 * [2026-10-27, 23:45:00](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss) - [Max-Severity GitLab Bug Allows Remote Code Execution Over 12 Years Of Releases](https://soylentnews.org/article.pl?sid=26/10/26/1740232&from=rss)
-* [2026-10-27, 19:01:00](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss) - [Comcast Loses More Customers, Claims Other ISPs' Cheap Prices Are \"Irrational\"](https://soylentnews.org/article.pl?sid=26/10/26/1737236&from=rss)
 
 ## [Archives](archives/index.md)
 
