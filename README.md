@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-07, 20:37:00](https://soylentnews.org/article.pl?sid=26/11/06/2028236&from=rss) - [AI Agents Are A ‘Bane’ For Some Website Operators, Says Cloudflare](https://soylentnews.org/article.pl?sid=26/11/06/2028236&from=rss)
 * [2026-11-07, 15:54:00](https://soylentnews.org/article.pl?sid=26/11/06/2027202&from=rss) - [Switch 2 Sales Fell By Almost 40 Percent After Nintendo Increased Prices](https://soylentnews.org/article.pl?sid=26/11/06/2027202&from=rss)
 * [2026-11-07, 11:01:00](https://soylentnews.org/article.pl?sid=26/11/06/2024201&from=rss) - [Feds Warn Grocers: Don't Chill On Cyber Defenses As Freezer Hacking Spree Heats Up](https://soylentnews.org/article.pl?sid=26/11/06/2024201&from=rss)
 * [2026-11-07, 06:24:00](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss) - ['Stop Dirty Datacenters': Europe-Wide Protests Planned Demanding Building Moratorium](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-29, 22:08:00](https://soylentnews.org/breakingnews/article.pl?sid=26/10/29/2211223&from=rss) - [Patrick Stewart Dies: ‘Star Trek: The Next Generation’ Actor Was 86](https://soylentnews.org/breakingnews/article.pl?sid=26/10/29/2211223&from=rss)
 * [2026-10-29, 18:32:00](https://soylentnews.org/article.pl?sid=26/10/28/0143238&from=rss) - [Finland vs Google Treepocalypse](https://soylentnews.org/article.pl?sid=26/10/28/0143238&from=rss)
 * [2026-10-29, 13:50:00](https://soylentnews.org/article.pl?sid=26/10/28/0142234&from=rss) - [What in-House Legal Leaders Really Think About AI, in Their Own Words](https://soylentnews.org/article.pl?sid=26/10/28/0142234&from=rss)
-* [2026-10-29, 09:07:00](https://soylentnews.org/article.pl?sid=26/10/28/0139238&from=rss) - [Auto Tech Startup Claims It Traced Hack Attempt Back To Rival's IP Address](https://soylentnews.org/article.pl?sid=26/10/28/0139238&from=rss)
 
 ## [Archives](archives/index.md)
 

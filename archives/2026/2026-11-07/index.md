@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-07](index.md)
 
+* [2026-11-07, 20:37:00](https://soylentnews.org/article.pl?sid=26/11/06/2028236&from=rss) - [AI Agents Are A ‘Bane’ For Some Website Operators, Says Cloudflare](https://soylentnews.org/article.pl?sid=26/11/06/2028236&from=rss)
 * [2026-11-07, 15:54:00](https://soylentnews.org/article.pl?sid=26/11/06/2027202&from=rss) - [Switch 2 Sales Fell By Almost 40 Percent After Nintendo Increased Prices](https://soylentnews.org/article.pl?sid=26/11/06/2027202&from=rss)
 * [2026-11-07, 11:01:00](https://soylentnews.org/article.pl?sid=26/11/06/2024201&from=rss) - [Feds Warn Grocers: Don't Chill On Cyber Defenses As Freezer Hacking Spree Heats Up](https://soylentnews.org/article.pl?sid=26/11/06/2024201&from=rss)
 * [2026-11-07, 06:24:00](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss) - ['Stop Dirty Datacenters': Europe-Wide Protests Planned Demanding Building Moratorium](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss)
