@@ -1,0 +1,8 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-11-07](index.md)
+
+* [2026-11-07, 06:24:00](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss) - ['Stop Dirty Datacenters': Europe-Wide Protests Planned Demanding Building Moratorium](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss)
+* [2026-11-07, 01:43:00](https://soylentnews.org/article.pl?sid=26/11/06/0114225&from=rss) - [Chef Sacked Over Pineapple on Pizza](https://soylentnews.org/article.pl?sid=26/11/06/0114225&from=rss)

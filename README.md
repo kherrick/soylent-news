@@ -1,5 +1,7 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-07, 06:24:00](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss) - ['Stop Dirty Datacenters': Europe-Wide Protests Planned Demanding Building Moratorium](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss)
+* [2026-11-07, 01:43:00](https://soylentnews.org/article.pl?sid=26/11/06/0114225&from=rss) - [Chef Sacked Over Pineapple on Pizza](https://soylentnews.org/article.pl?sid=26/11/06/0114225&from=rss)
 * [2026-11-06, 20:50:00](https://soylentnews.org/article.pl?sid=26/11/06/0112251&from=rss) - [Britain's Driverless Dream Hits A Roundabout Of Awkward Questions](https://soylentnews.org/article.pl?sid=26/11/06/0112251&from=rss)
 * [2026-11-06, 16:14:00](https://soylentnews.org/article.pl?sid=26/11/05/1726228&from=rss) - [Ericsson Says It Can Detect, Track Drones Using Only Mobile Networks](https://soylentnews.org/article.pl?sid=26/11/05/1726228&from=rss)
 * [2026-11-06, 11:31:00](https://soylentnews.org/politics/article.pl?sid=26/11/05/1724200&from=rss) - [Midterms Impact (Big Tech and Others)](https://soylentnews.org/politics/article.pl?sid=26/11/05/1724200&from=rss)
@@ -48,8 +50,6 @@
 * [2026-10-29, 09:07:00](https://soylentnews.org/article.pl?sid=26/10/28/0139238&from=rss) - [Auto Tech Startup Claims It Traced Hack Attempt Back To Rival's IP Address](https://soylentnews.org/article.pl?sid=26/10/28/0139238&from=rss)
 * [2026-10-29, 04:15:00](https://soylentnews.org/article.pl?sid=26/10/28/0137206&from=rss) - [No Company Besides the Biggest Tech Giants Is Seeing Benefits From AI](https://soylentnews.org/article.pl?sid=26/10/28/0137206&from=rss)
 * [2026-10-28, 23:32:00](https://soylentnews.org/article.pl?sid=26/10/27/0233227&from=rss) - [Australia Ponders Robotaxi Introduction as Unions Bark Warnings](https://soylentnews.org/article.pl?sid=26/10/27/0233227&from=rss)
-* [2026-10-28, 18:46:00](https://soylentnews.org/article.pl?sid=26/10/27/0229206&from=rss) - [Human Receives AI-Designed Virus for the First Time](https://soylentnews.org/article.pl?sid=26/10/27/0229206&from=rss)
-* [2026-10-28, 14:01:00](https://soylentnews.org/article.pl?sid=26/10/27/0225246&from=rss) - [US Official: Russia's Stalker Satellite Sure Looks Like an Orbital Weapon](https://soylentnews.org/article.pl?sid=26/10/27/0225246&from=rss)
 
 ## [Archives](archives/index.md)
 
