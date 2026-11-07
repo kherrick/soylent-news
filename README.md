@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-07, 11:01:00](https://soylentnews.org/article.pl?sid=26/11/06/2024201&from=rss) - [Feds Warn Grocers: Don't Chill On Cyber Defenses As Freezer Hacking Spree Heats Up](https://soylentnews.org/article.pl?sid=26/11/06/2024201&from=rss)
 * [2026-11-07, 06:24:00](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss) - ['Stop Dirty Datacenters': Europe-Wide Protests Planned Demanding Building Moratorium](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss)
 * [2026-11-07, 01:43:00](https://soylentnews.org/article.pl?sid=26/11/06/0114225&from=rss) - [Chef Sacked Over Pineapple on Pizza](https://soylentnews.org/article.pl?sid=26/11/06/0114225&from=rss)
 * [2026-11-06, 20:50:00](https://soylentnews.org/article.pl?sid=26/11/06/0112251&from=rss) - [Britain's Driverless Dream Hits A Roundabout Of Awkward Questions](https://soylentnews.org/article.pl?sid=26/11/06/0112251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-29, 13:50:00](https://soylentnews.org/article.pl?sid=26/10/28/0142234&from=rss) - [What in-House Legal Leaders Really Think About AI, in Their Own Words](https://soylentnews.org/article.pl?sid=26/10/28/0142234&from=rss)
 * [2026-10-29, 09:07:00](https://soylentnews.org/article.pl?sid=26/10/28/0139238&from=rss) - [Auto Tech Startup Claims It Traced Hack Attempt Back To Rival's IP Address](https://soylentnews.org/article.pl?sid=26/10/28/0139238&from=rss)
 * [2026-10-29, 04:15:00](https://soylentnews.org/article.pl?sid=26/10/28/0137206&from=rss) - [No Company Besides the Biggest Tech Giants Is Seeing Benefits From AI](https://soylentnews.org/article.pl?sid=26/10/28/0137206&from=rss)
-* [2026-10-28, 23:32:00](https://soylentnews.org/article.pl?sid=26/10/27/0233227&from=rss) - [Australia Ponders Robotaxi Introduction as Unions Bark Warnings](https://soylentnews.org/article.pl?sid=26/10/27/0233227&from=rss)
 
 ## [Archives](archives/index.md)
 
