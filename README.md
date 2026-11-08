@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-08, 06:06:00](https://soylentnews.org/article.pl?sid=26/11/07/0839225&from=rss) - [Bank of England Pours Cold Water on AI Productivity Boom](https://soylentnews.org/article.pl?sid=26/11/07/0839225&from=rss)
 * [2026-11-08, 01:23:00](https://soylentnews.org/article.pl?sid=26/11/07/0238213&from=rss) - [Software Squeezes More Data Out of Webb Telescope for Imaging Exoplanets](https://soylentnews.org/article.pl?sid=26/11/07/0238213&from=rss)
 * [2026-11-07, 20:37:00](https://soylentnews.org/article.pl?sid=26/11/06/2028236&from=rss) - [AI Agents Are A ‘Bane’ For Some Website Operators, Says Cloudflare](https://soylentnews.org/article.pl?sid=26/11/06/2028236&from=rss)
 * [2026-11-07, 15:54:00](https://soylentnews.org/article.pl?sid=26/11/06/2027202&from=rss) - [Switch 2 Sales Fell By Almost 40 Percent After Nintendo Increased Prices](https://soylentnews.org/article.pl?sid=26/11/06/2027202&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-30, 03:55:00](https://soylentnews.org/article.pl?sid=26/10/29/0237206&from=rss) - [From Cheap Tool to Premium Subscription: When a Beloved App's Price Skyrockets](https://soylentnews.org/article.pl?sid=26/10/29/0237206&from=rss)
 * [2026-10-29, 23:15:00](https://soylentnews.org/article.pl?sid=26/10/28/0145248&from=rss) - [The Most Popular Streaming Platforms in the US Might Not be What You Think](https://soylentnews.org/article.pl?sid=26/10/28/0145248&from=rss)
 * [2026-10-29, 22:08:00](https://soylentnews.org/breakingnews/article.pl?sid=26/10/29/2211223&from=rss) - [Patrick Stewart Dies: ‘Star Trek: The Next Generation’ Actor Was 86](https://soylentnews.org/breakingnews/article.pl?sid=26/10/29/2211223&from=rss)
-* [2026-10-29, 18:32:00](https://soylentnews.org/article.pl?sid=26/10/28/0143238&from=rss) - [Finland vs Google Treepocalypse](https://soylentnews.org/article.pl?sid=26/10/28/0143238&from=rss)
 
 ## [Archives](archives/index.md)
 
