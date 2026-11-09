@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-09, 05:48:00](https://soylentnews.org/article.pl?sid=26/11/08/0458253&from=rss) - [Blue Origin Says It Is Building A Higher-Performing Rocket Engine At 1/4 The Cost](https://soylentnews.org/article.pl?sid=26/11/08/0458253&from=rss)
 * [2026-11-09, 01:06:00](https://soylentnews.org/article.pl?sid=26/11/08/0456241&from=rss) - [Scan Your Eyeballs, Think of the Children: How Britain Sells Surveillance as Safety](https://soylentnews.org/article.pl?sid=26/11/08/0456241&from=rss)
 * [2026-11-08, 20:18:00](https://soylentnews.org/article.pl?sid=26/11/07/1959250&from=rss) - [Uranium Cubes Reveal Why The German Nuclear Project Failed](https://soylentnews.org/article.pl?sid=26/11/07/1959250&from=rss)
 * [2026-11-08, 15:33:00](https://soylentnews.org/article.pl?sid=26/11/07/1651224&from=rss) - [GhostBSD 26.2 Takes the Fright Out of FreeBSD With a Friendlier Installer](https://soylentnews.org/article.pl?sid=26/11/07/1651224&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-31, 03:44:00](https://soylentnews.org/article.pl?sid=26/10/29/1125232&from=rss) - [The Return of Magnetic Tapes](https://soylentnews.org/article.pl?sid=26/10/29/1125232&from=rss)
 * [2026-10-30, 23:04:00](https://soylentnews.org/article.pl?sid=26/10/29/0245245&from=rss) - [The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans](https://soylentnews.org/article.pl?sid=26/10/29/0245245&from=rss)
 * [2026-10-30, 18:13:00](https://soylentnews.org/article.pl?sid=26/10/29/0243255&from=rss) - [Emulate Apple II on Raspberry Pi](https://soylentnews.org/article.pl?sid=26/10/29/0243255&from=rss)
-* [2026-10-30, 13:30:00](https://soylentnews.org/article.pl?sid=26/10/29/0241214&from=rss) - [Researchers Uncover Signs of Massive Surveillance Operation on Starlink Users](https://soylentnews.org/article.pl?sid=26/10/29/0241214&from=rss)
 
 ## [Archives](archives/index.md)
 
