@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-10, 05:29:00](https://soylentnews.org/article.pl?sid=26/11/08/1030236&from=rss) - [The White House Is Apparently A Popular Residential Proxy Exit Spot](https://soylentnews.org/article.pl?sid=26/11/08/1030236&from=rss)
 * [2026-11-10, 00:46:00](https://soylentnews.org/article.pl?sid=26/11/08/1027217&from=rss) - [UK Mathematician Debunks Myth Around Parthenon's Optical Illusions](https://soylentnews.org/article.pl?sid=26/11/08/1027217&from=rss)
 * [2026-11-09, 20:03:00](https://soylentnews.org/article.pl?sid=26/11/08/1024223&from=rss) - [The New York Times Doesn’t Understand AI’s Role in Suppressing Wages ](https://soylentnews.org/article.pl?sid=26/11/08/1024223&from=rss)
 * [2026-11-09, 15:14:00](https://soylentnews.org/article.pl?sid=26/11/09/1117209&from=rss) - [Immutable Leap To The Future](https://soylentnews.org/article.pl?sid=26/11/09/1117209&from=rss)
@@ -49,7 +50,6 @@
 * [2026-10-31, 22:37:00](https://soylentnews.org/article.pl?sid=26/10/29/1654256&from=rss) - [Microsoft Offers Parachutes To 60K Employees If They Jump By The End Of The Year](https://soylentnews.org/article.pl?sid=26/10/29/1654256&from=rss)
 * [2026-10-31, 17:52:00](https://soylentnews.org/article.pl?sid=26/10/29/1546233&from=rss) - [ICE Plan To Buy Robot Dogs Spurs Protest From Hundreds Of Boston Dynamics Employees](https://soylentnews.org/article.pl?sid=26/10/29/1546233&from=rss)
 * [2026-10-31, 13:08:00](https://soylentnews.org/article.pl?sid=26/10/29/1540224&from=rss) - [IBM Admits Mainframes Need To Be Modernized And Will Use AI To Do The Job](https://soylentnews.org/article.pl?sid=26/10/29/1540224&from=rss)
-* [2026-10-31, 11:01:00](https://soylentnews.org/article.pl?sid=26/10/31/055253&from=rss) - [Attacker Gained Access to Luanti's ContentDB's Servers](https://soylentnews.org/article.pl?sid=26/10/31/055253&from=rss)
 
 ## [Archives](archives/index.md)
 
