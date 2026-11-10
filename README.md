@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-10, 14:57:00](https://soylentnews.org/article.pl?sid=26/11/08/1039224&from=rss) - [US Air Traffic Control Enters The 21st Century, Starts To Abandon Floppy Disks](https://soylentnews.org/article.pl?sid=26/11/08/1039224&from=rss)
 * [2026-11-10, 10:14:00](https://soylentnews.org/article.pl?sid=26/11/08/1037201&from=rss) - [Agents Reveal Secrets When Offered To Team Up With Each Other](https://soylentnews.org/article.pl?sid=26/11/08/1037201&from=rss)
 * [2026-11-10, 05:29:00](https://soylentnews.org/article.pl?sid=26/11/08/1030236&from=rss) - [The White House Is Apparently A Popular Residential Proxy Exit Spot](https://soylentnews.org/article.pl?sid=26/11/08/1030236&from=rss)
 * [2026-11-10, 00:46:00](https://soylentnews.org/article.pl?sid=26/11/08/1027217&from=rss) - [UK Mathematician Debunks Myth Around Parthenon's Optical Illusions](https://soylentnews.org/article.pl?sid=26/11/08/1027217&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-01, 08:10:00](https://soylentnews.org/article.pl?sid=26/10/29/171204&from=rss) - [Insect Declines Threaten Wildlife Far Beyond Insect World](https://soylentnews.org/article.pl?sid=26/10/29/171204&from=rss)
 * [2026-11-01, 03:26:00](https://soylentnews.org/article.pl?sid=26/10/29/1658241&from=rss) - [Delaware Plan Would Let AI Agents Run Entire Businesses](https://soylentnews.org/article.pl?sid=26/10/29/1658241&from=rss)
 * [2026-10-31, 22:37:00](https://soylentnews.org/article.pl?sid=26/10/29/1654256&from=rss) - [Microsoft Offers Parachutes To 60K Employees If They Jump By The End Of The Year](https://soylentnews.org/article.pl?sid=26/10/29/1654256&from=rss)
-* [2026-10-31, 17:52:00](https://soylentnews.org/article.pl?sid=26/10/29/1546233&from=rss) - [ICE Plan To Buy Robot Dogs Spurs Protest From Hundreds Of Boston Dynamics Employees](https://soylentnews.org/article.pl?sid=26/10/29/1546233&from=rss)
 
 ## [Archives](archives/index.md)
 
