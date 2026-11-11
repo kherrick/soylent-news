@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-11, 00:25:00](https://soylentnews.org/article.pl?sid=26/11/08/1021252&from=rss) - [Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver](https://soylentnews.org/article.pl?sid=26/11/08/1021252&from=rss)
 * [2026-11-10, 19:42:00](https://soylentnews.org/article.pl?sid=26/11/08/1042216&from=rss) - [Nvidia CEO Jensen Huang Summoned By Congress Over Chinese Espionage Concerns](https://soylentnews.org/article.pl?sid=26/11/08/1042216&from=rss)
 * [2026-11-10, 14:57:00](https://soylentnews.org/article.pl?sid=26/11/08/1039224&from=rss) - [US Air Traffic Control Enters The 21st Century, Starts To Abandon Floppy Disks](https://soylentnews.org/article.pl?sid=26/11/08/1039224&from=rss)
 * [2026-11-10, 10:14:00](https://soylentnews.org/article.pl?sid=26/11/08/1037201&from=rss) - [Agents Reveal Secrets When Offered To Team Up With Each Other](https://soylentnews.org/article.pl?sid=26/11/08/1037201&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-01, 17:41:00](https://soylentnews.org/article.pl?sid=26/10/31/0458210&from=rss) - [Alibaba's Qwen AI Caught Trying to Contact Server in China](https://soylentnews.org/article.pl?sid=26/10/31/0458210&from=rss)
 * [2026-11-01, 12:56:00](https://soylentnews.org/article.pl?sid=26/10/31/0450227&from=rss) - [FreeBSD Founder Ports Omarchy to FreeBSD in Ten Days, Ten Releases](https://soylentnews.org/article.pl?sid=26/10/31/0450227&from=rss)
 * [2026-11-01, 08:10:00](https://soylentnews.org/article.pl?sid=26/10/29/171204&from=rss) - [Insect Declines Threaten Wildlife Far Beyond Insect World](https://soylentnews.org/article.pl?sid=26/10/29/171204&from=rss)
-* [2026-11-01, 03:26:00](https://soylentnews.org/article.pl?sid=26/10/29/1658241&from=rss) - [Delaware Plan Would Let AI Agents Run Entire Businesses](https://soylentnews.org/article.pl?sid=26/10/29/1658241&from=rss)
 
 ## [Archives](archives/index.md)
 
