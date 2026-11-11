@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 19:27:00](https://soylentnews.org/article.pl?sid=26/11/10/048218&from=rss) - [Reverse Engineering a Vintage Diode-Transistor Logic Chip](https://soylentnews.org/article.pl?sid=26/11/10/048218&from=rss)
 * [2026-11-11, 14:45:00](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss) - [Linus Torvalds Sees Signs AI-Prompted Patch Flood Has Peaked](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss)
 * [2026-11-11, 09:56:00](https://soylentnews.org/article.pl?sid=26/11/10/042200&from=rss) - [Children Talk to AI to Create Video Games](https://soylentnews.org/article.pl?sid=26/11/10/042200&from=rss)
 * [2026-11-11, 05:11:00](https://soylentnews.org/article.pl?sid=26/11/10/0358253&from=rss) - [Physicists Listened to Electrical Noise to Crack a Superconductor Mystery](https://soylentnews.org/article.pl?sid=26/11/10/0358253&from=rss)

@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-11, 19:27:00](https://soylentnews.org/article.pl?sid=26/11/10/048218&from=rss) - [Reverse Engineering a Vintage Diode-Transistor Logic Chip](https://soylentnews.org/article.pl?sid=26/11/10/048218&from=rss)
 * [2026-11-11, 14:45:00](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss) - [Linus Torvalds Sees Signs AI-Prompted Patch Flood Has Peaked](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss)
 * [2026-11-11, 09:56:00](https://soylentnews.org/article.pl?sid=26/11/10/042200&from=rss) - [Children Talk to AI to Create Video Games](https://soylentnews.org/article.pl?sid=26/11/10/042200&from=rss)
 * [2026-11-11, 05:11:00](https://soylentnews.org/article.pl?sid=26/11/10/0358253&from=rss) - [Physicists Listened to Electrical Noise to Crack a Superconductor Mystery](https://soylentnews.org/article.pl?sid=26/11/10/0358253&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-02, 12:39:00](https://soylentnews.org/article.pl?sid=26/11/01/2149243&from=rss) - [Six Billion Dollars Crypto Heist at Binance](https://soylentnews.org/article.pl?sid=26/11/01/2149243&from=rss)
 * [2026-11-02, 07:49:00](https://soylentnews.org/article.pl?sid=26/10/31/2350235&from=rss) - [Voyager 1 Gives Controllers The Silent Treatment - But It Has Communicated Again](https://soylentnews.org/article.pl?sid=26/10/31/2350235&from=rss)
 * [2026-11-02, 03:03:00](https://soylentnews.org/article.pl?sid=26/10/31/2344241&from=rss) - [Rare Meteorite From Mars Gives Us A View Into Its Ancient Crust](https://soylentnews.org/article.pl?sid=26/10/31/2344241&from=rss)
-* [2026-11-01, 22:28:00](https://soylentnews.org/article.pl?sid=26/10/31/0512216&from=rss) - [Github Competitor Entire Is Live Now – How The Agent-First Platform Works](https://soylentnews.org/article.pl?sid=26/10/31/0512216&from=rss)
 
 ## [Archives](archives/index.md)
 
