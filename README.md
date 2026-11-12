@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-12, 04:17:00](https://soylentnews.org/article.pl?sid=26/11/11/021231&from=rss) - [The Four-Color Theorem Gets a Rare New Proof](https://soylentnews.org/article.pl?sid=26/11/11/021231&from=rss)
 * [2026-11-12, 00:15:00](https://soylentnews.org/article.pl?sid=26/11/11/0157217&from=rss) - [Tell Sam Altman How Much Free RAM You Have](https://soylentnews.org/article.pl?sid=26/11/11/0157217&from=rss)
 * [2026-11-11, 19:27:00](https://soylentnews.org/article.pl?sid=26/11/10/048218&from=rss) - [Reverse Engineering a Vintage Diode-Transistor Logic Chip](https://soylentnews.org/article.pl?sid=26/11/10/048218&from=rss)
 * [2026-11-11, 14:45:00](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss) - [Linus Torvalds Sees Signs AI-Prompted Patch Flood Has Peaked](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-02, 22:02:00](https://soylentnews.org/article.pl?sid=26/11/01/2155249&from=rss) - [US-Backed Vaccine Trial On Babies Canceled After International Outcry](https://soylentnews.org/article.pl?sid=26/11/01/2155249&from=rss)
 * [2026-11-02, 17:10:00](https://soylentnews.org/article.pl?sid=26/11/01/2151226&from=rss) - [Orangutan Mothers Seek Out Playmates for Young](https://soylentnews.org/article.pl?sid=26/11/01/2151226&from=rss)
 * [2026-11-02, 12:39:00](https://soylentnews.org/article.pl?sid=26/11/01/2149243&from=rss) - [Six Billion Dollars Crypto Heist at Binance](https://soylentnews.org/article.pl?sid=26/11/01/2149243&from=rss)
-* [2026-11-02, 07:49:00](https://soylentnews.org/article.pl?sid=26/10/31/2350235&from=rss) - [Voyager 1 Gives Controllers The Silent Treatment - But It Has Communicated Again](https://soylentnews.org/article.pl?sid=26/10/31/2350235&from=rss)
 
 ## [Archives](archives/index.md)
 
