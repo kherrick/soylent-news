@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 17:39:00](https://soylentnews.org/breakingnews/article.pl?sid=26/11/12/1740223&from=rss) - [Nvidia CEO Jensen Huang Has Resigned](https://soylentnews.org/breakingnews/article.pl?sid=26/11/12/1740223&from=rss)
 * [2026-11-12, 14:27:00](https://soylentnews.org/article.pl?sid=26/11/11/028225&from=rss) - [A Sample Of Over 5,000 Drives Reveals One Problem With New HDDs](https://soylentnews.org/article.pl?sid=26/11/11/028225&from=rss)
 * [2026-11-12, 09:44:00](https://soylentnews.org/article.pl?sid=26/11/11/024228&from=rss) - [Level 3 Driving Autonomy in the EU](https://soylentnews.org/article.pl?sid=26/11/11/024228&from=rss)
 * [2026-11-12, 04:17:00](https://soylentnews.org/article.pl?sid=26/11/11/021231&from=rss) - [The Four-Color Theorem Gets a Rare New Proof](https://soylentnews.org/article.pl?sid=26/11/11/021231&from=rss)
