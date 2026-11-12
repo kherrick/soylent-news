@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-12, 14:27:00](https://soylentnews.org/article.pl?sid=26/11/11/028225&from=rss) - [A Sample Of Over 5,000 Drives Reveals One Problem With New HDDs](https://soylentnews.org/article.pl?sid=26/11/11/028225&from=rss)
 * [2026-11-12, 09:44:00](https://soylentnews.org/article.pl?sid=26/11/11/024228&from=rss) - [Level 3 Driving Autonomy in the EU](https://soylentnews.org/article.pl?sid=26/11/11/024228&from=rss)
 * [2026-11-12, 04:17:00](https://soylentnews.org/article.pl?sid=26/11/11/021231&from=rss) - [The Four-Color Theorem Gets a Rare New Proof](https://soylentnews.org/article.pl?sid=26/11/11/021231&from=rss)
 * [2026-11-12, 00:15:00](https://soylentnews.org/article.pl?sid=26/11/11/0157217&from=rss) - [Tell Sam Altman How Much Free RAM You Have](https://soylentnews.org/article.pl?sid=26/11/11/0157217&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-03, 07:30:00](https://soylentnews.org/article.pl?sid=26/11/02/1423211&from=rss) - [A Common Gut Bacterium Makes a Cholesterol-Lowering Compound That Shrank Artery Plaque in Mice](https://soylentnews.org/article.pl?sid=26/11/02/1423211&from=rss)
 * [2026-11-03, 02:44:00](https://soylentnews.org/article.pl?sid=26/11/02/1418244&from=rss) - ['Mother of All Editors' Emacs is 50](https://soylentnews.org/article.pl?sid=26/11/02/1418244&from=rss)
 * [2026-11-02, 22:02:00](https://soylentnews.org/article.pl?sid=26/11/01/2155249&from=rss) - [US-Backed Vaccine Trial On Babies Canceled After International Outcry](https://soylentnews.org/article.pl?sid=26/11/01/2155249&from=rss)
-* [2026-11-02, 17:10:00](https://soylentnews.org/article.pl?sid=26/11/01/2151226&from=rss) - [Orangutan Mothers Seek Out Playmates for Young](https://soylentnews.org/article.pl?sid=26/11/01/2151226&from=rss)
 
 ## [Archives](archives/index.md)
 
