@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 22:22:00](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/2221203&from=rss) - [FAA Issues Nationwide (US) Ground Stop Due to \"Extraordinary Circumstances\"](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/2221203&from=rss)
 * [2026-11-13, 19:01:00](https://soylentnews.org/article.pl?sid=26/11/11/170249&from=rss) - [30 Years of Internet Transfers With Curl](https://soylentnews.org/article.pl?sid=26/11/11/170249&from=rss)
 * [2026-11-13, 14:52:00](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/1449202&from=rss) - [Microsoft is Down](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/1449202&from=rss)
 * [2026-11-13, 14:19:00](https://soylentnews.org/article.pl?sid=26/11/11/1551241&from=rss) - [NASA’s Voyager 1 To Cross Historic One Light-Day Milestone On Nov. 18](https://soylentnews.org/article.pl?sid=26/11/11/1551241&from=rss)
