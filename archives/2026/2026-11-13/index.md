@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 09:33:00](https://soylentnews.org/article.pl?sid=26/11/11/1545244&from=rss) - [A Chinese Team Made A Big Splash With A Drone Swarm World Record](https://soylentnews.org/article.pl?sid=26/11/11/1545244&from=rss)
 * [2026-11-13, 04:37:00](https://soylentnews.org/article.pl?sid=26/11/11/2028214&from=rss) - [SpaceX's First Attempt To Catch Both Starship Stages Takes Place November 13](https://soylentnews.org/article.pl?sid=26/11/11/2028214&from=rss)
