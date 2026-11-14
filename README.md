@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-14, 23:28:00](https://soylentnews.org/article.pl?sid=26/11/14/019226&from=rss) - [Anduril Says Its First Satellite Can See Adversaries Maneuver In Orbital Night](https://soylentnews.org/article.pl?sid=26/11/14/019226&from=rss)
 * [2026-11-14, 18:39:00](https://soylentnews.org/article.pl?sid=26/11/14/011242&from=rss) - [Google DeepMind Just Mathematically Verified Key Parts Of Signal](https://soylentnews.org/article.pl?sid=26/11/14/011242&from=rss)
 * [2026-11-14, 13:52:00](https://soylentnews.org/article.pl?sid=26/11/13/2233231&from=rss) - [US Bit Barn Boom Sees Energy Needs Grow 10X as Fast as Grid Capacity](https://soylentnews.org/article.pl?sid=26/11/13/2233231&from=rss)
 * [2026-11-14, 09:06:00](https://soylentnews.org/article.pl?sid=26/11/13/2229237&from=rss) - [EU Floats ‘Most Significant’ Consumer Law Upgrade With Digital Fairness Act](https://soylentnews.org/article.pl?sid=26/11/13/2229237&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-06, 06:47:00](https://soylentnews.org/article.pl?sid=26/11/05/1719219&from=rss) - [The UCD Physicist Stacking Quantum Materials Like Lego](https://soylentnews.org/article.pl?sid=26/11/05/1719219&from=rss)
 * [2026-11-06, 02:02:00](https://soylentnews.org/article.pl?sid=26/11/04/1515206&from=rss) - [Your Secrets Aren't Safe With This Cute Robot Toy — They're on Chinese Servers Ready to be Hacked](https://soylentnews.org/article.pl?sid=26/11/04/1515206&from=rss)
 * [2026-11-05, 21:19:00](https://soylentnews.org/article.pl?sid=26/11/04/100243&from=rss) - [North Korean Fake Job Interview Led To $6.3B Binance Heist](https://soylentnews.org/article.pl?sid=26/11/04/100243&from=rss)
-* [2026-11-05, 16:30:00](https://soylentnews.org/article.pl?sid=26/11/03/2342251&from=rss) - [PC Chip Plunge Wipes Out A Quarter Of Intel’s Value](https://soylentnews.org/article.pl?sid=26/11/03/2342251&from=rss)
 
 ## [Archives](archives/index.md)
 
