@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-14, 09:06:00](https://soylentnews.org/article.pl?sid=26/11/13/2229237&from=rss) - [EU Floats ‘Most Significant’ Consumer Law Upgrade With Digital Fairness Act](https://soylentnews.org/article.pl?sid=26/11/13/2229237&from=rss)
 * [2026-11-14, 04:24:00](https://soylentnews.org/article.pl?sid=26/11/11/1537250&from=rss) - [NASA Just Made A Bunch Of Moon Base Announcements: Here’s What They Are](https://soylentnews.org/article.pl?sid=26/11/11/1537250&from=rss)
 * [2026-11-13, 23:42:00](https://soylentnews.org/article.pl?sid=26/11/11/177230&from=rss) - [SpaceX Now Fundamentally An \"Infrastructure Company,\" Senior Official Says](https://soylentnews.org/article.pl?sid=26/11/11/177230&from=rss)
 * [2026-11-13, 22:22:00](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/2221203&from=rss) - [FAA Issues Nationwide (US) Ground Stop Due to \"Extraordinary Circumstances\"](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/2221203&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-05, 16:30:00](https://soylentnews.org/article.pl?sid=26/11/03/2342251&from=rss) - [PC Chip Plunge Wipes Out A Quarter Of Intel’s Value](https://soylentnews.org/article.pl?sid=26/11/03/2342251&from=rss)
 * [2026-11-05, 11:48:00](https://soylentnews.org/article.pl?sid=26/11/03/2339254&from=rss) - [Think You Can Save The Hubble Space Telescope? NASA Wants To Know.](https://soylentnews.org/article.pl?sid=26/11/03/2339254&from=rss)
 * [2026-11-05, 07:05:00](https://soylentnews.org/article.pl?sid=26/11/03/2336251&from=rss) - [GM Agrees to $220 Million Settlement Over Selling Driver Data](https://soylentnews.org/article.pl?sid=26/11/03/2336251&from=rss)
-* [2026-11-05, 02:19:00](https://soylentnews.org/article.pl?sid=26/11/03/0552258&from=rss) - [Flesh-Eating Screwworms Spread to Third State and Are Attacking Pets](https://soylentnews.org/article.pl?sid=26/11/03/0552258&from=rss)
 
 ## [Archives](archives/index.md)
 
