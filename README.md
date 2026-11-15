@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-15, 08:49:00](https://soylentnews.org/article.pl?sid=26/11/14/0729256&from=rss) - [A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data](https://soylentnews.org/article.pl?sid=26/11/14/0729256&from=rss)
 * [2026-11-15, 04:00:00](https://soylentnews.org/article.pl?sid=26/11/14/0112237&from=rss) - [NASA Asks Earthlings To Wave As Voyager 1 Reaches A Light-Day Away](https://soylentnews.org/article.pl?sid=26/11/14/0112237&from=rss)
 * [2026-11-15, 01:45:00](https://soylentnews.org/article.pl?sid=26/11/14/1312230&from=rss) - [London Hotel Put Admin Login for Booking Website on Whiteboard Behind the Front Desk](https://soylentnews.org/article.pl?sid=26/11/14/1312230&from=rss)
 * [2026-11-14, 23:28:00](https://soylentnews.org/article.pl?sid=26/11/14/019226&from=rss) - [Anduril Says Its First Satellite Can See Adversaries Maneuver In Orbital Night](https://soylentnews.org/article.pl?sid=26/11/14/019226&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-06, 20:50:00](https://soylentnews.org/article.pl?sid=26/11/06/0112251&from=rss) - [Britain's Driverless Dream Hits A Roundabout Of Awkward Questions](https://soylentnews.org/article.pl?sid=26/11/06/0112251&from=rss)
 * [2026-11-06, 16:14:00](https://soylentnews.org/article.pl?sid=26/11/05/1726228&from=rss) - [Ericsson Says It Can Detect, Track Drones Using Only Mobile Networks](https://soylentnews.org/article.pl?sid=26/11/05/1726228&from=rss)
 * [2026-11-06, 11:31:00](https://soylentnews.org/politics/article.pl?sid=26/11/05/1724200&from=rss) - [Midterms Impact (Big Tech and Others)](https://soylentnews.org/politics/article.pl?sid=26/11/05/1724200&from=rss)
-* [2026-11-06, 06:47:00](https://soylentnews.org/article.pl?sid=26/11/05/1719219&from=rss) - [The UCD Physicist Stacking Quantum Materials Like Lego](https://soylentnews.org/article.pl?sid=26/11/05/1719219&from=rss)
 
 ## [Archives](archives/index.md)
 
