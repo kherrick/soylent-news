@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-15, 13:32:00](https://soylentnews.org/article.pl?sid=26/11/14/0735209&from=rss) - [Scientists Check Their Work and Confirm It With Update on Iconic Black Hole Image](https://soylentnews.org/article.pl?sid=26/11/14/0735209&from=rss)
 * [2026-11-15, 08:49:00](https://soylentnews.org/article.pl?sid=26/11/14/0729256&from=rss) - [A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data](https://soylentnews.org/article.pl?sid=26/11/14/0729256&from=rss)
 * [2026-11-15, 04:00:00](https://soylentnews.org/article.pl?sid=26/11/14/0112237&from=rss) - [NASA Asks Earthlings To Wave As Voyager 1 Reaches A Light-Day Away](https://soylentnews.org/article.pl?sid=26/11/14/0112237&from=rss)
 * [2026-11-15, 01:45:00](https://soylentnews.org/article.pl?sid=26/11/14/1312230&from=rss) - [London Hotel Put Admin Login for Booking Website on Whiteboard Behind the Front Desk](https://soylentnews.org/article.pl?sid=26/11/14/1312230&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-07, 01:43:00](https://soylentnews.org/article.pl?sid=26/11/06/0114225&from=rss) - [Chef Sacked Over Pineapple on Pizza](https://soylentnews.org/article.pl?sid=26/11/06/0114225&from=rss)
 * [2026-11-06, 20:50:00](https://soylentnews.org/article.pl?sid=26/11/06/0112251&from=rss) - [Britain's Driverless Dream Hits A Roundabout Of Awkward Questions](https://soylentnews.org/article.pl?sid=26/11/06/0112251&from=rss)
 * [2026-11-06, 16:14:00](https://soylentnews.org/article.pl?sid=26/11/05/1726228&from=rss) - [Ericsson Says It Can Detect, Track Drones Using Only Mobile Networks](https://soylentnews.org/article.pl?sid=26/11/05/1726228&from=rss)
-* [2026-11-06, 11:31:00](https://soylentnews.org/politics/article.pl?sid=26/11/05/1724200&from=rss) - [Midterms Impact (Big Tech and Others)](https://soylentnews.org/politics/article.pl?sid=26/11/05/1724200&from=rss)
 
 ## [Archives](archives/index.md)
 
