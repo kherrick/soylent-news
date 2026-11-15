@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 23:04:00](https://soylentnews.org/article.pl?sid=26/11/14/135250&from=rss) - [NASA's Secret Weapon in the Lunar Space Race May be ... Procurement Reform?](https://soylentnews.org/article.pl?sid=26/11/14/135250&from=rss)
 * [2026-11-15, 18:17:00](https://soylentnews.org/article.pl?sid=26/11/14/1253243&from=rss) - [Russian Cloud Yandex Says Drone Attacks On Its Datacenters Caused Data Loss](https://soylentnews.org/article.pl?sid=26/11/14/1253243&from=rss)
 * [2026-11-15, 13:32:00](https://soylentnews.org/article.pl?sid=26/11/14/0735209&from=rss) - [Scientists Check Their Work and Confirm It With Update on Iconic Black Hole Image](https://soylentnews.org/article.pl?sid=26/11/14/0735209&from=rss)
 * [2026-11-15, 08:49:00](https://soylentnews.org/article.pl?sid=26/11/14/0729256&from=rss) - [A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data](https://soylentnews.org/article.pl?sid=26/11/14/0729256&from=rss)
