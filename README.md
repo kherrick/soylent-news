@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-16, 22:42:00](https://soylentnews.org/article.pl?sid=26/11/15/223220&from=rss) - [FBI Says $1.2 Billion Stolen From Binance by North Korea Has Been Recovered](https://soylentnews.org/article.pl?sid=26/11/15/223220&from=rss)
 * [2026-11-16, 17:59:00](https://soylentnews.org/article.pl?sid=26/11/15/2159207&from=rss) - [The Greatest Car Stunt Was Also The World’s First Computer-Modeled Stunt](https://soylentnews.org/article.pl?sid=26/11/15/2159207&from=rss)
 * [2026-11-16, 13:13:00](https://soylentnews.org/article.pl?sid=26/11/15/2155211&from=rss) - [Some Places Have Already Banned AI Glasses, And The List Just Keeps Growing](https://soylentnews.org/article.pl?sid=26/11/15/2155211&from=rss)
 * [2026-11-16, 08:30:00](https://soylentnews.org/article.pl?sid=26/11/14/1321220&from=rss) - [Gödel's Notebooks in Obscure Shorthand Contain Myriad of Novel Proofs](https://soylentnews.org/article.pl?sid=26/11/14/1321220&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-08, 10:48:00](https://soylentnews.org/article.pl?sid=26/11/07/1633256&from=rss) - [Do You Speak Geek? 5 Tech Terms That Endure, and 5 That Got Defragged](https://soylentnews.org/article.pl?sid=26/11/07/1633256&from=rss)
 * [2026-11-08, 06:06:00](https://soylentnews.org/article.pl?sid=26/11/07/0839225&from=rss) - [Bank of England Pours Cold Water on AI Productivity Boom](https://soylentnews.org/article.pl?sid=26/11/07/0839225&from=rss)
 * [2026-11-08, 01:23:00](https://soylentnews.org/article.pl?sid=26/11/07/0238213&from=rss) - [Software Squeezes More Data Out of Webb Telescope for Imaging Exoplanets](https://soylentnews.org/article.pl?sid=26/11/07/0238213&from=rss)
-* [2026-11-07, 20:37:00](https://soylentnews.org/article.pl?sid=26/11/06/2028236&from=rss) - [AI Agents Are A ‘Bane’ For Some Website Operators, Says Cloudflare](https://soylentnews.org/article.pl?sid=26/11/06/2028236&from=rss)
 
 ## [Archives](archives/index.md)
 
