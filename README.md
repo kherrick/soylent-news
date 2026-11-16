@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-16, 08:30:00](https://soylentnews.org/article.pl?sid=26/11/14/1321220&from=rss) - [Gödel's Notebooks in Obscure Shorthand Contain Myriad of Novel Proofs](https://soylentnews.org/article.pl?sid=26/11/14/1321220&from=rss)
 * [2026-11-16, 03:47:00](https://soylentnews.org/article.pl?sid=26/11/14/1319214&from=rss) - [C++26 Stumbles at Finish Line Over Contracts Dispute](https://soylentnews.org/article.pl?sid=26/11/14/1319214&from=rss)
 * [2026-11-15, 23:04:00](https://soylentnews.org/article.pl?sid=26/11/14/135250&from=rss) - [NASA's Secret Weapon in the Lunar Space Race May be ... Procurement Reform?](https://soylentnews.org/article.pl?sid=26/11/14/135250&from=rss)
 * [2026-11-15, 18:17:00](https://soylentnews.org/article.pl?sid=26/11/14/1253243&from=rss) - [Russian Cloud Yandex Says Drone Attacks On Its Datacenters Caused Data Loss](https://soylentnews.org/article.pl?sid=26/11/14/1253243&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-07, 20:37:00](https://soylentnews.org/article.pl?sid=26/11/06/2028236&from=rss) - [AI Agents Are A ‘Bane’ For Some Website Operators, Says Cloudflare](https://soylentnews.org/article.pl?sid=26/11/06/2028236&from=rss)
 * [2026-11-07, 15:54:00](https://soylentnews.org/article.pl?sid=26/11/06/2027202&from=rss) - [Switch 2 Sales Fell By Almost 40 Percent After Nintendo Increased Prices](https://soylentnews.org/article.pl?sid=26/11/06/2027202&from=rss)
 * [2026-11-07, 11:01:00](https://soylentnews.org/article.pl?sid=26/11/06/2024201&from=rss) - [Feds Warn Grocers: Don't Chill On Cyber Defenses As Freezer Hacking Spree Heats Up](https://soylentnews.org/article.pl?sid=26/11/06/2024201&from=rss)
-* [2026-11-07, 06:24:00](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss) - ['Stop Dirty Datacenters': Europe-Wide Protests Planned Demanding Building Moratorium](https://soylentnews.org/article.pl?sid=26/11/06/0116253&from=rss)
 
 ## [Archives](archives/index.md)
 
