@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-11-17](index.md)
+
+* [2026-11-17, 03:30:00](https://soylentnews.org/article.pl?sid=26/11/16/0422238&from=rss) - [ULA Suffers First Outright Failure With Loss of Vulcan Rocket Carrying 40 Amazon Leo Satellites](https://soylentnews.org/article.pl?sid=26/11/16/0422238&from=rss)
