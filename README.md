@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-17, 08:15:00](https://soylentnews.org/article.pl?sid=26/11/16/161207&from=rss) - [The Mind of Money: Mental Accounting Theory Checks Out](https://soylentnews.org/article.pl?sid=26/11/16/161207&from=rss)
 * [2026-11-17, 03:30:00](https://soylentnews.org/article.pl?sid=26/11/16/0422238&from=rss) - [ULA Suffers First Outright Failure With Loss of Vulcan Rocket Carrying 40 Amazon Leo Satellites](https://soylentnews.org/article.pl?sid=26/11/16/0422238&from=rss)
 * [2026-11-16, 22:42:00](https://soylentnews.org/article.pl?sid=26/11/15/223220&from=rss) - [FBI Says $1.2 Billion Stolen From Binance by North Korea Has Been Recovered](https://soylentnews.org/article.pl?sid=26/11/15/223220&from=rss)
 * [2026-11-16, 17:59:00](https://soylentnews.org/article.pl?sid=26/11/15/2159207&from=rss) - [The Greatest Car Stunt Was Also The World’s First Computer-Modeled Stunt](https://soylentnews.org/article.pl?sid=26/11/15/2159207&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-08, 20:18:00](https://soylentnews.org/article.pl?sid=26/11/07/1959250&from=rss) - [Uranium Cubes Reveal Why The German Nuclear Project Failed](https://soylentnews.org/article.pl?sid=26/11/07/1959250&from=rss)
 * [2026-11-08, 15:33:00](https://soylentnews.org/article.pl?sid=26/11/07/1651224&from=rss) - [GhostBSD 26.2 Takes the Fright Out of FreeBSD With a Friendlier Installer](https://soylentnews.org/article.pl?sid=26/11/07/1651224&from=rss)
 * [2026-11-08, 10:48:00](https://soylentnews.org/article.pl?sid=26/11/07/1633256&from=rss) - [Do You Speak Geek? 5 Tech Terms That Endure, and 5 That Got Defragged](https://soylentnews.org/article.pl?sid=26/11/07/1633256&from=rss)
-* [2026-11-08, 06:06:00](https://soylentnews.org/article.pl?sid=26/11/07/0839225&from=rss) - [Bank of England Pours Cold Water on AI Productivity Boom](https://soylentnews.org/article.pl?sid=26/11/07/0839225&from=rss)
 
 ## [Archives](archives/index.md)
 
