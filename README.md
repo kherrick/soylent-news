@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-17, 22:26:00](https://soylentnews.org/article.pl?sid=26/11/16/1657250&from=rss) - [Comets Didn't Seed Life on Earth After All, Potentially Overturning a Century-Old Idea](https://soylentnews.org/article.pl?sid=26/11/16/1657250&from=rss)
 * [2026-11-17, 17:45:00](https://soylentnews.org/article.pl?sid=26/11/16/1656211&from=rss) - [Microsoft Blames Monster Email Outage On Software Defect Introduced In July Fix](https://soylentnews.org/article.pl?sid=26/11/16/1656211&from=rss)
 * [2026-11-17, 13:03:00](https://soylentnews.org/article.pl?sid=26/11/16/1654212&from=rss) - [Samsung, Micron & SK hynix Must Face The Music Over Artificial DRAM Shortage](https://soylentnews.org/article.pl?sid=26/11/16/1654212&from=rss)
 * [2026-11-17, 08:15:00](https://soylentnews.org/article.pl?sid=26/11/16/161207&from=rss) - [The Mind of Money: Mental Accounting Theory Checks Out](https://soylentnews.org/article.pl?sid=26/11/16/161207&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-09, 10:30:00](https://soylentnews.org/article.pl?sid=26/11/08/052205&from=rss) - [Meet *Sshole, The Vulnerability That Lets Hackers SSH Into Linux Devices](https://soylentnews.org/article.pl?sid=26/11/08/052205&from=rss)
 * [2026-11-09, 05:48:00](https://soylentnews.org/article.pl?sid=26/11/08/0458253&from=rss) - [Blue Origin Says It Is Building A Higher-Performing Rocket Engine At 1/4 The Cost](https://soylentnews.org/article.pl?sid=26/11/08/0458253&from=rss)
 * [2026-11-09, 01:06:00](https://soylentnews.org/article.pl?sid=26/11/08/0456241&from=rss) - [Scan Your Eyeballs, Think of the Children: How Britain Sells Surveillance as Safety](https://soylentnews.org/article.pl?sid=26/11/08/0456241&from=rss)
-* [2026-11-08, 20:18:00](https://soylentnews.org/article.pl?sid=26/11/07/1959250&from=rss) - [Uranium Cubes Reveal Why The German Nuclear Project Failed](https://soylentnews.org/article.pl?sid=26/11/07/1959250&from=rss)
 
 ## [Archives](archives/index.md)
 
