@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-11-18](index.md)
+
+* [2026-11-18, 03:15:00](https://soylentnews.org/article.pl?sid=26/11/17/0347206&from=rss) - [The Latest FreeBSD Report is Here, and the AI Debate is Ongoing](https://soylentnews.org/article.pl?sid=26/11/17/0347206&from=rss)
