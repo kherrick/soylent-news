@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-18, 08:01:00](https://soylentnews.org/politics/article.pl?sid=26/11/17/0353203&from=rss) - [Trump Admin Loses Fight to Spy on Random Journalists’ LinkedIn DMs](https://soylentnews.org/politics/article.pl?sid=26/11/17/0353203&from=rss)
 * [2026-11-18, 03:15:00](https://soylentnews.org/article.pl?sid=26/11/17/0347206&from=rss) - [The Latest FreeBSD Report is Here, and the AI Debate is Ongoing](https://soylentnews.org/article.pl?sid=26/11/17/0347206&from=rss)
 * [2026-11-17, 22:26:00](https://soylentnews.org/article.pl?sid=26/11/16/1657250&from=rss) - [Comets Didn't Seed Life on Earth After All, Potentially Overturning a Century-Old Idea](https://soylentnews.org/article.pl?sid=26/11/16/1657250&from=rss)
 * [2026-11-17, 17:45:00](https://soylentnews.org/article.pl?sid=26/11/16/1656211&from=rss) - [Microsoft Blames Monster Email Outage On Software Defect Introduced In July Fix](https://soylentnews.org/article.pl?sid=26/11/16/1656211&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-09, 20:03:00](https://soylentnews.org/article.pl?sid=26/11/08/1024223&from=rss) - [The New York Times Doesn’t Understand AI’s Role in Suppressing Wages ](https://soylentnews.org/article.pl?sid=26/11/08/1024223&from=rss)
 * [2026-11-09, 15:14:00](https://soylentnews.org/article.pl?sid=26/11/09/1117209&from=rss) - [Immutable Leap To The Future](https://soylentnews.org/article.pl?sid=26/11/09/1117209&from=rss)
 * [2026-11-09, 10:30:00](https://soylentnews.org/article.pl?sid=26/11/08/052205&from=rss) - [Meet *Sshole, The Vulnerability That Lets Hackers SSH Into Linux Devices](https://soylentnews.org/article.pl?sid=26/11/08/052205&from=rss)
-* [2026-11-09, 05:48:00](https://soylentnews.org/article.pl?sid=26/11/08/0458253&from=rss) - [Blue Origin Says It Is Building A Higher-Performing Rocket Engine At 1/4 The Cost](https://soylentnews.org/article.pl?sid=26/11/08/0458253&from=rss)
 
 ## [Archives](archives/index.md)
 
