@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-19, 17:07:00](https://soylentnews.org/article.pl?sid=26/11/18/1518215&from=rss) - [Google: AI Agent Turned A Security Patch Into A Working Exploit With No Human Help](https://soylentnews.org/article.pl?sid=26/11/18/1518215&from=rss)
 * [2026-11-19, 12:24:00](https://soylentnews.org/article.pl?sid=26/11/18/1516206&from=rss) - [NSANet Secure Communications Network Goes Down](https://soylentnews.org/article.pl?sid=26/11/18/1516206&from=rss)
 * [2026-11-19, 07:42:00](https://soylentnews.org/article.pl?sid=26/11/18/1513217&from=rss) - [Powering the Space Elevator](https://soylentnews.org/article.pl?sid=26/11/18/1513217&from=rss)
 * [2026-11-19, 02:52:00](https://soylentnews.org/article.pl?sid=26/11/18/1510211&from=rss) - [Popular TikTok Docs Have Big Influence on Gen Z Followers](https://soylentnews.org/article.pl?sid=26/11/18/1510211&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-11, 05:11:00](https://soylentnews.org/article.pl?sid=26/11/10/0358253&from=rss) - [Physicists Listened to Electrical Noise to Crack a Superconductor Mystery](https://soylentnews.org/article.pl?sid=26/11/10/0358253&from=rss)
 * [2026-11-11, 00:25:00](https://soylentnews.org/article.pl?sid=26/11/08/1021252&from=rss) - [Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver](https://soylentnews.org/article.pl?sid=26/11/08/1021252&from=rss)
 * [2026-11-10, 19:42:00](https://soylentnews.org/article.pl?sid=26/11/08/1042216&from=rss) - [Nvidia CEO Jensen Huang Summoned By Congress Over Chinese Espionage Concerns](https://soylentnews.org/article.pl?sid=26/11/08/1042216&from=rss)
-* [2026-11-10, 14:57:00](https://soylentnews.org/article.pl?sid=26/11/08/1039224&from=rss) - [US Air Traffic Control Enters The 21st Century, Starts To Abandon Floppy Disks](https://soylentnews.org/article.pl?sid=26/11/08/1039224&from=rss)
 
 ## [Archives](archives/index.md)
 
