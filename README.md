@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-19, 07:42:00](https://soylentnews.org/article.pl?sid=26/11/18/1513217&from=rss) - [Powering the Space Elevator](https://soylentnews.org/article.pl?sid=26/11/18/1513217&from=rss)
 * [2026-11-19, 02:52:00](https://soylentnews.org/article.pl?sid=26/11/18/1510211&from=rss) - [Popular TikTok Docs Have Big Influence on Gen Z Followers](https://soylentnews.org/article.pl?sid=26/11/18/1510211&from=rss)
 * [2026-11-18, 22:10:00](https://soylentnews.org/article.pl?sid=26/11/17/0412200&from=rss) - [Catching AI's Mistakes Has a Real Cost](https://soylentnews.org/article.pl?sid=26/11/17/0412200&from=rss)
 * [2026-11-18, 17:26:00](https://soylentnews.org/article.pl?sid=26/11/17/048204&from=rss) - [ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites](https://soylentnews.org/article.pl?sid=26/11/17/048204&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-10, 19:42:00](https://soylentnews.org/article.pl?sid=26/11/08/1042216&from=rss) - [Nvidia CEO Jensen Huang Summoned By Congress Over Chinese Espionage Concerns](https://soylentnews.org/article.pl?sid=26/11/08/1042216&from=rss)
 * [2026-11-10, 14:57:00](https://soylentnews.org/article.pl?sid=26/11/08/1039224&from=rss) - [US Air Traffic Control Enters The 21st Century, Starts To Abandon Floppy Disks](https://soylentnews.org/article.pl?sid=26/11/08/1039224&from=rss)
 * [2026-11-10, 10:14:00](https://soylentnews.org/article.pl?sid=26/11/08/1037201&from=rss) - [Agents Reveal Secrets When Offered To Team Up With Each Other](https://soylentnews.org/article.pl?sid=26/11/08/1037201&from=rss)
-* [2026-11-10, 05:29:00](https://soylentnews.org/article.pl?sid=26/11/08/1030236&from=rss) - [The White House Is Apparently A Popular Residential Proxy Exit Spot](https://soylentnews.org/article.pl?sid=26/11/08/1030236&from=rss)
 
 ## [Archives](archives/index.md)
 
