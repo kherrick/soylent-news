@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-20, 16:53:00](https://soylentnews.org/article.pl?sid=26/11/20/035234&from=rss) - [GPU Giants Throw HPC Users Some Tasty Crumbs](https://soylentnews.org/article.pl?sid=26/11/20/035234&from=rss)
 * [2026-11-20, 12:08:00](https://soylentnews.org/article.pl?sid=26/11/20/032203&from=rss) - [San Diego Dumps Both Flock Cameras and Smart Streetlights](https://soylentnews.org/article.pl?sid=26/11/20/032203&from=rss)
 * [2026-11-20, 07:25:00](https://soylentnews.org/article.pl?sid=26/11/20/0257234&from=rss) - [Yet Another Satellite Company is Jockeying for a Rocket—but This One Makes Sense](https://soylentnews.org/article.pl?sid=26/11/20/0257234&from=rss)
 * [2026-11-20, 02:32:00](https://soylentnews.org/article.pl?sid=26/11/20/0254236&from=rss) - [Waymo Taken Off the Freeways](https://soylentnews.org/article.pl?sid=26/11/20/0254236&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-12, 04:17:00](https://soylentnews.org/article.pl?sid=26/11/11/021231&from=rss) - [The Four-Color Theorem Gets a Rare New Proof](https://soylentnews.org/article.pl?sid=26/11/11/021231&from=rss)
 * [2026-11-12, 00:15:00](https://soylentnews.org/article.pl?sid=26/11/11/0157217&from=rss) - [Tell Sam Altman How Much Free RAM You Have](https://soylentnews.org/article.pl?sid=26/11/11/0157217&from=rss)
 * [2026-11-11, 19:27:00](https://soylentnews.org/article.pl?sid=26/11/10/048218&from=rss) - [Reverse Engineering a Vintage Diode-Transistor Logic Chip](https://soylentnews.org/article.pl?sid=26/11/10/048218&from=rss)
-* [2026-11-11, 14:45:00](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss) - [Linus Torvalds Sees Signs AI-Prompted Patch Flood Has Peaked](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss)
 
 ## [Archives](archives/index.md)
 
