@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-20, 02:32:00](https://soylentnews.org/article.pl?sid=26/11/20/0254236&from=rss) - [Waymo taken off the freeways](https://soylentnews.org/article.pl?sid=26/11/20/0254236&from=rss)
 * [2026-11-19, 21:53:00](https://soylentnews.org/article.pl?sid=26/11/18/1520239&from=rss) - [Microsoft's 2026 Cloud Outage Exposes the Risks of Centralised Infrastructure](https://soylentnews.org/article.pl?sid=26/11/18/1520239&from=rss)
 * [2026-11-19, 17:07:00](https://soylentnews.org/article.pl?sid=26/11/18/1518215&from=rss) - [Google: AI Agent Turned A Security Patch Into A Working Exploit With No Human Help](https://soylentnews.org/article.pl?sid=26/11/18/1518215&from=rss)
 * [2026-11-19, 12:24:00](https://soylentnews.org/article.pl?sid=26/11/18/1516206&from=rss) - [NSANet Secure Communications Network Goes Down](https://soylentnews.org/article.pl?sid=26/11/18/1516206&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-11, 14:45:00](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss) - [Linus Torvalds Sees Signs AI-Prompted Patch Flood Has Peaked](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss)
 * [2026-11-11, 09:56:00](https://soylentnews.org/article.pl?sid=26/11/10/042200&from=rss) - [Children Talk to AI to Create Video Games](https://soylentnews.org/article.pl?sid=26/11/10/042200&from=rss)
 * [2026-11-11, 05:11:00](https://soylentnews.org/article.pl?sid=26/11/10/0358253&from=rss) - [Physicists Listened to Electrical Noise to Crack a Superconductor Mystery](https://soylentnews.org/article.pl?sid=26/11/10/0358253&from=rss)
-* [2026-11-11, 00:25:00](https://soylentnews.org/article.pl?sid=26/11/08/1021252&from=rss) - [Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver](https://soylentnews.org/article.pl?sid=26/11/08/1021252&from=rss)
 
 ## [Archives](archives/index.md)
 
