@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-20, 12:08:00](https://soylentnews.org/article.pl?sid=26/11/20/032203&from=rss) - [San Diego Dumps Both Flock Cameras and Smart Streetlights](https://soylentnews.org/article.pl?sid=26/11/20/032203&from=rss)
 * [2026-11-20, 07:25:00](https://soylentnews.org/article.pl?sid=26/11/20/0257234&from=rss) - [Yet Another Satellite Company is Jockeying for a Rocket—but This One Makes Sense](https://soylentnews.org/article.pl?sid=26/11/20/0257234&from=rss)
 * [2026-11-20, 02:32:00](https://soylentnews.org/article.pl?sid=26/11/20/0254236&from=rss) - [Waymo Taken Off the Freeways](https://soylentnews.org/article.pl?sid=26/11/20/0254236&from=rss)
 * [2026-11-19, 21:53:00](https://soylentnews.org/article.pl?sid=26/11/18/1520239&from=rss) - [Microsoft's 2026 Cloud Outage Exposes the Risks of Centralised Infrastructure](https://soylentnews.org/article.pl?sid=26/11/18/1520239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-12, 00:15:00](https://soylentnews.org/article.pl?sid=26/11/11/0157217&from=rss) - [Tell Sam Altman How Much Free RAM You Have](https://soylentnews.org/article.pl?sid=26/11/11/0157217&from=rss)
 * [2026-11-11, 19:27:00](https://soylentnews.org/article.pl?sid=26/11/10/048218&from=rss) - [Reverse Engineering a Vintage Diode-Transistor Logic Chip](https://soylentnews.org/article.pl?sid=26/11/10/048218&from=rss)
 * [2026-11-11, 14:45:00](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss) - [Linus Torvalds Sees Signs AI-Prompted Patch Flood Has Peaked](https://soylentnews.org/article.pl?sid=26/11/10/047210&from=rss)
-* [2026-11-11, 09:56:00](https://soylentnews.org/article.pl?sid=26/11/10/042200&from=rss) - [Children Talk to AI to Create Video Games](https://soylentnews.org/article.pl?sid=26/11/10/042200&from=rss)
 
 ## [Archives](archives/index.md)
 
