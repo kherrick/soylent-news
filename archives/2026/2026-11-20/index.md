@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 07:25:00](https://soylentnews.org/article.pl?sid=26/11/20/0257234&from=rss) - [Yet Another Satellite Company is Jockeying for a Rocket—but This One Makes Sense](https://soylentnews.org/article.pl?sid=26/11/20/0257234&from=rss)
 * [2026-11-20, 02:32:00](https://soylentnews.org/article.pl?sid=26/11/20/0254236&from=rss) - [Waymo taken off the freeways](https://soylentnews.org/article.pl?sid=26/11/20/0254236&from=rss)
