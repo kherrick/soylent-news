@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 21:35:00](https://soylentnews.org/article.pl?sid=26/11/20/037206&from=rss) - [California Sues OpenAI to Stop \"Public Nuisance\" of Out-of-Control AI Agents](https://soylentnews.org/article.pl?sid=26/11/20/037206&from=rss)
 * [2026-11-20, 16:53:00](https://soylentnews.org/article.pl?sid=26/11/20/035234&from=rss) - [GPU Giants Throw HPC Users Some Tasty Crumbs](https://soylentnews.org/article.pl?sid=26/11/20/035234&from=rss)
 * [2026-11-20, 12:08:00](https://soylentnews.org/article.pl?sid=26/11/20/032203&from=rss) - [San Diego Dumps Both Flock Cameras and Smart Streetlights](https://soylentnews.org/article.pl?sid=26/11/20/032203&from=rss)
 * [2026-11-20, 07:25:00](https://soylentnews.org/article.pl?sid=26/11/20/0257234&from=rss) - [Yet Another Satellite Company is Jockeying for a Rocket—but This One Makes Sense](https://soylentnews.org/article.pl?sid=26/11/20/0257234&from=rss)
