@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-21](index.md)
 
+* [2026-11-21, 21:17:00](https://soylentnews.org/article.pl?sid=26/11/20/1411222&from=rss) - [IoT and the Subscription Madness](https://soylentnews.org/article.pl?sid=26/11/20/1411222&from=rss)
 * [2026-11-21, 16:37:00](https://soylentnews.org/article.pl?sid=26/11/20/0658232&from=rss) - [PostgreSQL Patches 52 Security Holes, Sends Version 14 Into Retirement](https://soylentnews.org/article.pl?sid=26/11/20/0658232&from=rss)
 * [2026-11-21, 14:00:00](https://soylentnews.org/article.pl?sid=26/11/20/0652240&from=rss) - [US Route 66 Turns 100 Years Old](https://soylentnews.org/article.pl?sid=26/11/20/0652240&from=rss)
 * [2026-11-21, 11:54:00](https://soylentnews.org/article.pl?sid=26/11/20/0645222&from=rss) - [NoisyTCP Bug Gives Linux Servers a Remote Crash Problem 11 Years in the Making](https://soylentnews.org/article.pl?sid=26/11/20/0645222&from=rss)

@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-21, 21:17:00](https://soylentnews.org/article.pl?sid=26/11/20/1411222&from=rss) - [IoT and the Subscription Madness](https://soylentnews.org/article.pl?sid=26/11/20/1411222&from=rss)
 * [2026-11-21, 16:37:00](https://soylentnews.org/article.pl?sid=26/11/20/0658232&from=rss) - [PostgreSQL Patches 52 Security Holes, Sends Version 14 Into Retirement](https://soylentnews.org/article.pl?sid=26/11/20/0658232&from=rss)
 * [2026-11-21, 14:00:00](https://soylentnews.org/article.pl?sid=26/11/20/0652240&from=rss) - [US Route 66 Turns 100 Years Old](https://soylentnews.org/article.pl?sid=26/11/20/0652240&from=rss)
 * [2026-11-21, 11:54:00](https://soylentnews.org/article.pl?sid=26/11/20/0645222&from=rss) - [NoisyTCP Bug Gives Linux Servers a Remote Crash Problem 11 Years in the Making](https://soylentnews.org/article.pl?sid=26/11/20/0645222&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-13, 09:33:00](https://soylentnews.org/article.pl?sid=26/11/11/1545244&from=rss) - [A Chinese Team Made A Big Splash With A Drone Swarm World Record](https://soylentnews.org/article.pl?sid=26/11/11/1545244&from=rss)
 * [2026-11-13, 04:37:00](https://soylentnews.org/article.pl?sid=26/11/11/2028214&from=rss) - [SpaceX's First Attempt To Catch Both Starship Stages Takes Place November 13](https://soylentnews.org/article.pl?sid=26/11/11/2028214&from=rss)
 * [2026-11-12, 23:56:00](https://soylentnews.org/article.pl?sid=26/11/11/1532213&from=rss) - [Ring Cameras Go Mobile as Amazon Debuts AI-Powered Security Drone and Robot](https://soylentnews.org/article.pl?sid=26/11/11/1532213&from=rss)
-* [2026-11-12, 19:12:00](https://soylentnews.org/article.pl?sid=26/11/11/1514211&from=rss) - [A Major E-Mail Provider Demonstrates It Likely Does Not Understand Mail At All](https://soylentnews.org/article.pl?sid=26/11/11/1514211&from=rss)
 
 ## [Archives](archives/index.md)
 
