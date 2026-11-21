@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-21, 02:23:00](https://soylentnews.org/article.pl?sid=26/11/20/0634210&from=rss) - [Anthropic IPO Successful](https://soylentnews.org/article.pl?sid=26/11/20/0634210&from=rss)
 * [2026-11-20, 21:35:00](https://soylentnews.org/article.pl?sid=26/11/20/037206&from=rss) - [California Sues OpenAI to Stop \"Public Nuisance\" of Out-of-Control AI Agents](https://soylentnews.org/article.pl?sid=26/11/20/037206&from=rss)
 * [2026-11-20, 16:53:00](https://soylentnews.org/article.pl?sid=26/11/20/035234&from=rss) - [GPU Giants Throw HPC Users Some Tasty Crumbs](https://soylentnews.org/article.pl?sid=26/11/20/035234&from=rss)
 * [2026-11-20, 12:08:00](https://soylentnews.org/article.pl?sid=26/11/20/032203&from=rss) - [San Diego Dumps Both Flock Cameras and Smart Streetlights](https://soylentnews.org/article.pl?sid=26/11/20/032203&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-12, 14:27:00](https://soylentnews.org/article.pl?sid=26/11/11/028225&from=rss) - [A Sample Of Over 5,000 Drives Reveals One Problem With New HDDs](https://soylentnews.org/article.pl?sid=26/11/11/028225&from=rss)
 * [2026-11-12, 09:44:00](https://soylentnews.org/article.pl?sid=26/11/11/024228&from=rss) - [Level 3 Driving Autonomy in the EU](https://soylentnews.org/article.pl?sid=26/11/11/024228&from=rss)
 * [2026-11-12, 04:17:00](https://soylentnews.org/article.pl?sid=26/11/11/021231&from=rss) - [The Four-Color Theorem Gets a Rare New Proof](https://soylentnews.org/article.pl?sid=26/11/11/021231&from=rss)
-* [2026-11-12, 00:15:00](https://soylentnews.org/article.pl?sid=26/11/11/0157217&from=rss) - [Tell Sam Altman How Much Free RAM You Have](https://soylentnews.org/article.pl?sid=26/11/11/0157217&from=rss)
 
 ## [Archives](archives/index.md)
 
