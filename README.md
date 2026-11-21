@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-21, 14:00:00](https://soylentnews.org/article.pl?sid=26/11/20/0652240&from=rss) - [US Route 66 Turns 100 Years Old](https://soylentnews.org/article.pl?sid=26/11/20/0652240&from=rss)
 * [2026-11-21, 11:54:00](https://soylentnews.org/article.pl?sid=26/11/20/0645222&from=rss) - [NoisyTCP Bug Gives Linux Servers a Remote Crash Problem 11 Years in the Making](https://soylentnews.org/article.pl?sid=26/11/20/0645222&from=rss)
 * [2026-11-21, 07:06:00](https://soylentnews.org/article.pl?sid=26/11/20/0637236&from=rss) - [Reddit to Require All Users to Logon](https://soylentnews.org/article.pl?sid=26/11/20/0637236&from=rss)
 * [2026-11-21, 02:23:00](https://soylentnews.org/article.pl?sid=26/11/20/0634210&from=rss) - [Anthropic IPO Successful](https://soylentnews.org/article.pl?sid=26/11/20/0634210&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-12, 23:56:00](https://soylentnews.org/article.pl?sid=26/11/11/1532213&from=rss) - [Ring Cameras Go Mobile as Amazon Debuts AI-Powered Security Drone and Robot](https://soylentnews.org/article.pl?sid=26/11/11/1532213&from=rss)
 * [2026-11-12, 19:12:00](https://soylentnews.org/article.pl?sid=26/11/11/1514211&from=rss) - [A Major E-Mail Provider Demonstrates It Likely Does Not Understand Mail At All](https://soylentnews.org/article.pl?sid=26/11/11/1514211&from=rss)
 * [2026-11-12, 17:39:00](https://soylentnews.org/breakingnews/article.pl?sid=26/11/12/1740223&from=rss) - [Nvidia CEO Jensen Huang Has Resigned](https://soylentnews.org/breakingnews/article.pl?sid=26/11/12/1740223&from=rss)
-* [2026-11-12, 14:27:00](https://soylentnews.org/article.pl?sid=26/11/11/028225&from=rss) - [A Sample Of Over 5,000 Drives Reveals One Problem With New HDDs](https://soylentnews.org/article.pl?sid=26/11/11/028225&from=rss)
 
 ## [Archives](archives/index.md)
 
