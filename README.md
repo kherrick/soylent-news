@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-22, 16:14:00](https://soylentnews.org/article.pl?sid=26/11/21/1455241&from=rss) - [SpaceX's Starshield Troubles In Ukraine Could Threaten Its Broader Military Business](https://soylentnews.org/article.pl?sid=26/11/21/1455241&from=rss)
 * [2026-11-22, 11:31:00](https://soylentnews.org/article.pl?sid=26/11/21/1453202&from=rss) - [AI Boom Threatens Circuit Board Crunch To Rival Pandemic-Era Chip Shortage](https://soylentnews.org/article.pl?sid=26/11/21/1453202&from=rss)
 * [2026-11-22, 06:44:00](https://soylentnews.org/article.pl?sid=26/11/21/1450229&from=rss) - [Claude Fable 5.2 Creates Stunning Underwater World in Just 97 KB, Runs at 180 FPS on an RTX 5070 Ti ](https://soylentnews.org/article.pl?sid=26/11/21/1450229&from=rss)
 * [2026-11-22, 01:58:00](https://soylentnews.org/article.pl?sid=26/11/21/1441239&from=rss) - [America's Hyperscale Bit Barns Draw As Much Power As Entire States](https://soylentnews.org/article.pl?sid=26/11/21/1441239&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-13, 22:22:00](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/2221203&from=rss) - [FAA Issues Nationwide (US) Ground Stop Due to \"Extraordinary Circumstances\"](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/2221203&from=rss)
 * [2026-11-13, 19:01:00](https://soylentnews.org/article.pl?sid=26/11/11/170249&from=rss) - [30 Years of Internet Transfers With Curl](https://soylentnews.org/article.pl?sid=26/11/11/170249&from=rss)
 * [2026-11-13, 14:52:00](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/1449202&from=rss) - [Microsoft is Down](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/1449202&from=rss)
-* [2026-11-13, 14:19:00](https://soylentnews.org/article.pl?sid=26/11/11/1551241&from=rss) - [NASA’s Voyager 1 To Cross Historic One Light-Day Milestone On Nov. 18](https://soylentnews.org/article.pl?sid=26/11/11/1551241&from=rss)
 
 ## [Archives](archives/index.md)
 
