@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 20:51:00](https://soylentnews.org/article.pl?sid=26/11/22/0442228&from=rss) - [The Riemann Hypothesis Has Been Proved After 167 Years](https://soylentnews.org/article.pl?sid=26/11/22/0442228&from=rss)
 * [2026-11-23, 16:05:00](https://soylentnews.org/article.pl?sid=26/11/22/0440208&from=rss) - ['Not Rocket Surgery':  Researcher Who Found Six Danfoss Fridge Controller Zero-Days in Under an Hour](https://soylentnews.org/article.pl?sid=26/11/22/0440208&from=rss)
 * [2026-11-23, 11:16:00](https://soylentnews.org/article.pl?sid=26/11/22/0433227&from=rss) - [Prisons Get OK to Jam Contraband Phones. CTIA Says Nearby Phones Will be Jammed Too.](https://soylentnews.org/article.pl?sid=26/11/22/0433227&from=rss)
 * [2026-11-23, 06:31:00](https://soylentnews.org/article.pl?sid=26/11/22/0422237&from=rss) - [Detonating a Huge Pile of Lead Azide. Really.](https://soylentnews.org/article.pl?sid=26/11/22/0422237&from=rss)
