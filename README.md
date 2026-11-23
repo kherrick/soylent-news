@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-23, 06:31:00](https://soylentnews.org/article.pl?sid=26/11/22/0422237&from=rss) - [Detonating a Huge Pile of Lead Azide. Really.](https://soylentnews.org/article.pl?sid=26/11/22/0422237&from=rss)
 * [2026-11-23, 01:50:00](https://soylentnews.org/article.pl?sid=26/11/22/0314217&from=rss) - [Tiny e-Readers + FOSS Software](https://soylentnews.org/article.pl?sid=26/11/22/0314217&from=rss)
 * [2026-11-22, 21:01:00](https://soylentnews.org/article.pl?sid=26/11/21/152254&from=rss) - [Astronomers Watched A Star Spiral To Its Death Inside A Giant Companion](https://soylentnews.org/article.pl?sid=26/11/21/152254&from=rss)
 * [2026-11-22, 16:14:00](https://soylentnews.org/article.pl?sid=26/11/21/1455241&from=rss) - [SpaceX's Starshield Troubles In Ukraine Could Threaten Its Broader Military Business](https://soylentnews.org/article.pl?sid=26/11/21/1455241&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-14, 09:06:00](https://soylentnews.org/article.pl?sid=26/11/13/2229237&from=rss) - [EU Floats ‘Most Significant’ Consumer Law Upgrade With Digital Fairness Act](https://soylentnews.org/article.pl?sid=26/11/13/2229237&from=rss)
 * [2026-11-14, 04:24:00](https://soylentnews.org/article.pl?sid=26/11/11/1537250&from=rss) - [NASA Just Made A Bunch Of Moon Base Announcements: Here’s What They Are](https://soylentnews.org/article.pl?sid=26/11/11/1537250&from=rss)
 * [2026-11-13, 23:42:00](https://soylentnews.org/article.pl?sid=26/11/11/177230&from=rss) - [SpaceX Now Fundamentally An \"Infrastructure Company,\" Senior Official Says](https://soylentnews.org/article.pl?sid=26/11/11/177230&from=rss)
-* [2026-11-13, 22:22:00](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/2221203&from=rss) - [FAA Issues Nationwide (US) Ground Stop Due to \"Extraordinary Circumstances\"](https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/2221203&from=rss)
 
 ## [Archives](archives/index.md)
 
