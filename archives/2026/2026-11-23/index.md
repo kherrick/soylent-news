@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-11-23](index.md)
+
+* [2026-11-23, 01:50:00](https://soylentnews.org/article.pl?sid=26/11/22/0314217&from=rss) - [Tiny e-Readers + FOSS Software](https://soylentnews.org/article.pl?sid=26/11/22/0314217&from=rss)
