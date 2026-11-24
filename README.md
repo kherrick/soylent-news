@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-24, 01:37:00](https://soylentnews.org/article.pl?sid=26/11/22/0450245&from=rss) - [OpenAI Sued by California After Admitting to 80 Loss-of-Control Incidents](https://soylentnews.org/article.pl?sid=26/11/22/0450245&from=rss)
 * [2026-11-23, 20:51:00](https://soylentnews.org/article.pl?sid=26/11/22/0442228&from=rss) - [The Riemann Hypothesis Has Been Proved After 167 Years](https://soylentnews.org/article.pl?sid=26/11/22/0442228&from=rss)
 * [2026-11-23, 16:05:00](https://soylentnews.org/article.pl?sid=26/11/22/0440208&from=rss) - ['Not Rocket Surgery':  Researcher Who Found Six Danfoss Fridge Controller Zero-Days in Under an Hour](https://soylentnews.org/article.pl?sid=26/11/22/0440208&from=rss)
 * [2026-11-23, 11:16:00](https://soylentnews.org/article.pl?sid=26/11/22/0433227&from=rss) - [Prisons Get OK to Jam Contraband Phones. CTIA Says Nearby Phones Will be Jammed Too.](https://soylentnews.org/article.pl?sid=26/11/22/0433227&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-15, 01:45:00](https://soylentnews.org/article.pl?sid=26/11/14/1312230&from=rss) - [London Hotel Put Admin Login for Booking Website on Whiteboard Behind the Front Desk](https://soylentnews.org/article.pl?sid=26/11/14/1312230&from=rss)
 * [2026-11-14, 23:28:00](https://soylentnews.org/article.pl?sid=26/11/14/019226&from=rss) - [Anduril Says Its First Satellite Can See Adversaries Maneuver In Orbital Night](https://soylentnews.org/article.pl?sid=26/11/14/019226&from=rss)
 * [2026-11-14, 18:39:00](https://soylentnews.org/article.pl?sid=26/11/14/011242&from=rss) - [Google DeepMind Just Mathematically Verified Key Parts Of Signal](https://soylentnews.org/article.pl?sid=26/11/14/011242&from=rss)
-* [2026-11-14, 13:52:00](https://soylentnews.org/article.pl?sid=26/11/13/2233231&from=rss) - [US Bit Barn Boom Sees Energy Needs Grow 10X as Fast as Grid Capacity](https://soylentnews.org/article.pl?sid=26/11/13/2233231&from=rss)
 
 ## [Archives](archives/index.md)
 
