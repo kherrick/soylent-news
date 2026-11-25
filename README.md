@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-25, 15:51:00](https://soylentnews.org/article.pl?sid=26/11/25/1338250&from=rss) - [This Could Mess With Thanksgiving, Says VMware As It Drops Third Critical Patch Bundle In A Week](https://soylentnews.org/article.pl?sid=26/11/25/1338250&from=rss)
 * [2026-11-25, 11:04:00](https://soylentnews.org/article.pl?sid=26/11/24/1929217&from=rss) - [Fans Petition For Their Content to Stay On Youtube](https://soylentnews.org/article.pl?sid=26/11/24/1929217&from=rss)
 * [2026-11-25, 06:19:00](https://soylentnews.org/article.pl?sid=26/11/24/0350244&from=rss) - [Software Issues Have Even Reached Mercury As BepiColombo Probe Arrives In Uncertain State](https://soylentnews.org/article.pl?sid=26/11/24/0350244&from=rss)
 * [2026-11-25, 01:29:00](https://soylentnews.org/article.pl?sid=26/11/24/0141251&from=rss) - [Researcher Plants 2M Canaries Into The AI Supply Chain. A Privacy Disaster Surfaced.](https://soylentnews.org/article.pl?sid=26/11/24/0141251&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-16, 13:13:00](https://soylentnews.org/article.pl?sid=26/11/15/2155211&from=rss) - [Some Places Have Already Banned AI Glasses, And The List Just Keeps Growing](https://soylentnews.org/article.pl?sid=26/11/15/2155211&from=rss)
 * [2026-11-16, 08:30:00](https://soylentnews.org/article.pl?sid=26/11/14/1321220&from=rss) - [Gödel's Notebooks in Obscure Shorthand Contain Myriad of Novel Proofs](https://soylentnews.org/article.pl?sid=26/11/14/1321220&from=rss)
 * [2026-11-16, 03:47:00](https://soylentnews.org/article.pl?sid=26/11/14/1319214&from=rss) - [C++26 Stumbles at Finish Line Over Contracts Dispute](https://soylentnews.org/article.pl?sid=26/11/14/1319214&from=rss)
-* [2026-11-15, 23:04:00](https://soylentnews.org/article.pl?sid=26/11/14/135250&from=rss) - [NASA's Secret Weapon in the Lunar Space Race May be ... Procurement Reform?](https://soylentnews.org/article.pl?sid=26/11/14/135250&from=rss)
 
 ## [Archives](archives/index.md)
 
