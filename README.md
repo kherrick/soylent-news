@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-26, 06:04:00](https://soylentnews.org/article.pl?sid=26/11/25/0537215&from=rss) - [Everything is Falling Apart, and AI's Fingerprints Are All Over It](https://soylentnews.org/article.pl?sid=26/11/25/0537215&from=rss)
 * [2026-11-26, 03:00:00](https://soylentnews.org/article.pl?sid=26/11/25/1720255&from=rss) - [Happy Thanksgiving To All of Our US Friends](https://soylentnews.org/article.pl?sid=26/11/25/1720255&from=rss)
 * [2026-11-26, 01:17:00](https://soylentnews.org/article.pl?sid=26/11/25/0528239&from=rss) - [Hundreds Of Optimizely Websites Deliver Potent Malware Cocktail To Unsuspecting Visitors](https://soylentnews.org/article.pl?sid=26/11/25/0528239&from=rss)
 * [2026-11-25, 20:35:00](https://soylentnews.org/politics/article.pl?sid=26/11/24/1934203&from=rss) - [FCC Declares California Isn't Allowed To Enforce Phone Service Rules](https://soylentnews.org/politics/article.pl?sid=26/11/24/1934203&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-17, 08:15:00](https://soylentnews.org/article.pl?sid=26/11/16/161207&from=rss) - [The Mind of Money: Mental Accounting Theory Checks Out](https://soylentnews.org/article.pl?sid=26/11/16/161207&from=rss)
 * [2026-11-17, 03:30:00](https://soylentnews.org/article.pl?sid=26/11/16/0422238&from=rss) - [ULA Suffers First Outright Failure With Loss of Vulcan Rocket Carrying 40 Amazon Leo Satellites](https://soylentnews.org/article.pl?sid=26/11/16/0422238&from=rss)
 * [2026-11-16, 22:42:00](https://soylentnews.org/article.pl?sid=26/11/15/223220&from=rss) - [FBI Says $1.2 Billion Stolen From Binance by North Korea Has Been Recovered](https://soylentnews.org/article.pl?sid=26/11/15/223220&from=rss)
-* [2026-11-16, 17:59:00](https://soylentnews.org/article.pl?sid=26/11/15/2159207&from=rss) - [The Greatest Car Stunt Was Also The World’s First Computer-Modeled Stunt](https://soylentnews.org/article.pl?sid=26/11/15/2159207&from=rss)
 
 ## [Archives](archives/index.md)
 
