@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-26, 20:15:00](https://soylentnews.org/article.pl?sid=26/11/25/1152238&from=rss) - [Measles Death Toll Rises To 14 As National Case Tally Nears 6,000](https://soylentnews.org/article.pl?sid=26/11/25/1152238&from=rss)
 * [2026-11-26, 15:31:00](https://soylentnews.org/article.pl?sid=26/11/25/0552229&from=rss) - [US Blacklists Megaspeed Hours After Jensen Huang Returns to Nvidia](https://soylentnews.org/article.pl?sid=26/11/25/0552229&from=rss)
 * [2026-11-26, 10:46:00](https://soylentnews.org/article.pl?sid=26/11/25/0547245&from=rss) - [NASA May Get $2 Billion Boost as White House Seeks to Accelerate Artemis](https://soylentnews.org/article.pl?sid=26/11/25/0547245&from=rss)
 * [2026-11-26, 06:04:00](https://soylentnews.org/article.pl?sid=26/11/25/0537215&from=rss) - [Everything is Falling Apart, and AI's Fingerprints Are All Over It](https://soylentnews.org/article.pl?sid=26/11/25/0537215&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-17, 22:26:00](https://soylentnews.org/article.pl?sid=26/11/16/1657250&from=rss) - [Comets Didn't Seed Life on Earth After All, Potentially Overturning a Century-Old Idea](https://soylentnews.org/article.pl?sid=26/11/16/1657250&from=rss)
 * [2026-11-17, 17:45:00](https://soylentnews.org/article.pl?sid=26/11/16/1656211&from=rss) - [Microsoft Blames Monster Email Outage On Software Defect Introduced In July Fix](https://soylentnews.org/article.pl?sid=26/11/16/1656211&from=rss)
 * [2026-11-17, 13:03:00](https://soylentnews.org/article.pl?sid=26/11/16/1654212&from=rss) - [Samsung, Micron & SK hynix Must Face The Music Over Artificial DRAM Shortage](https://soylentnews.org/article.pl?sid=26/11/16/1654212&from=rss)
-* [2026-11-17, 08:15:00](https://soylentnews.org/article.pl?sid=26/11/16/161207&from=rss) - [The Mind of Money: Mental Accounting Theory Checks Out](https://soylentnews.org/article.pl?sid=26/11/16/161207&from=rss)
 
 ## [Archives](archives/index.md)
 

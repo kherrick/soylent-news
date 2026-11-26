@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 20:15:00](https://soylentnews.org/article.pl?sid=26/11/25/1152238&from=rss) - [Measles Death Toll Rises To 14 As National Case Tally Nears 6,000](https://soylentnews.org/article.pl?sid=26/11/25/1152238&from=rss)
 * [2026-11-26, 15:31:00](https://soylentnews.org/article.pl?sid=26/11/25/0552229&from=rss) - [US Blacklists Megaspeed Hours After Jensen Huang Returns to Nvidia](https://soylentnews.org/article.pl?sid=26/11/25/0552229&from=rss)
 * [2026-11-26, 10:46:00](https://soylentnews.org/article.pl?sid=26/11/25/0547245&from=rss) - [NASA May Get $2 Billion Boost as White House Seeks to Accelerate Artemis](https://soylentnews.org/article.pl?sid=26/11/25/0547245&from=rss)
 * [2026-11-26, 06:04:00](https://soylentnews.org/article.pl?sid=26/11/25/0537215&from=rss) - [Everything is Falling Apart, and AI's Fingerprints Are All Over It](https://soylentnews.org/article.pl?sid=26/11/25/0537215&from=rss)
