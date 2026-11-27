@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-27, 05:50:00](https://soylentnews.org/article.pl?sid=26/11/24/1931254&from=rss) - [Airbus May Be Leaving Microsoft Office, But For Its 36,000 Defense Staff, Office Isn't Leaving Them](https://soylentnews.org/article.pl?sid=26/11/24/1931254&from=rss)
 * [2026-11-27, 01:01:00](https://soylentnews.org/article.pl?sid=26/11/25/1157233&from=rss) - [A Truly Independent Web Browser - Ladybird in Alpha](https://soylentnews.org/article.pl?sid=26/11/25/1157233&from=rss)
 * [2026-11-26, 20:15:00](https://soylentnews.org/article.pl?sid=26/11/25/1152238&from=rss) - [Measles Death Toll Rises To 14 As National Case Tally Nears 6,000](https://soylentnews.org/article.pl?sid=26/11/25/1152238&from=rss)
 * [2026-11-26, 15:31:00](https://soylentnews.org/article.pl?sid=26/11/25/0552229&from=rss) - [US Blacklists Megaspeed Hours After Jensen Huang Returns to Nvidia](https://soylentnews.org/article.pl?sid=26/11/25/0552229&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-18, 08:01:00](https://soylentnews.org/politics/article.pl?sid=26/11/17/0353203&from=rss) - [Trump Admin Loses Fight to Spy on Random Journalists’ LinkedIn DMs](https://soylentnews.org/politics/article.pl?sid=26/11/17/0353203&from=rss)
 * [2026-11-18, 03:15:00](https://soylentnews.org/article.pl?sid=26/11/17/0347206&from=rss) - [The Latest FreeBSD Report is Here, and the AI Debate is Ongoing](https://soylentnews.org/article.pl?sid=26/11/17/0347206&from=rss)
 * [2026-11-17, 22:26:00](https://soylentnews.org/article.pl?sid=26/11/16/1657250&from=rss) - [Comets Didn't Seed Life on Earth After All, Potentially Overturning a Century-Old Idea](https://soylentnews.org/article.pl?sid=26/11/16/1657250&from=rss)
-* [2026-11-17, 17:45:00](https://soylentnews.org/article.pl?sid=26/11/16/1656211&from=rss) - [Microsoft Blames Monster Email Outage On Software Defect Introduced In July Fix](https://soylentnews.org/article.pl?sid=26/11/16/1656211&from=rss)
 
 ## [Archives](archives/index.md)
 
