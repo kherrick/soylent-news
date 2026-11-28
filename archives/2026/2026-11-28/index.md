@@ -1,0 +1,7 @@
+# [Soylent News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-11-28](index.md)
+
+* [2026-11-28, 00:47:00](https://soylentnews.org/article.pl?sid=26/11/26/1833218&from=rss) - [AI Comes Up With Bizarre Physics Experiments. But They Work.](https://soylentnews.org/article.pl?sid=26/11/26/1833218&from=rss)
