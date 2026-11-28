@@ -1,5 +1,6 @@
 # [Soylent News](https://kherrick.github.io/soylent-news/)
 
+* [2026-11-28, 10:17:00](https://soylentnews.org/article.pl?sid=26/11/26/1845228&from=rss) - [Bluetooth Brakes Are Broken](https://soylentnews.org/article.pl?sid=26/11/26/1845228&from=rss)
 * [2026-11-28, 05:32:00](https://soylentnews.org/article.pl?sid=26/11/26/1838213&from=rss) - [FCC Proposes 'Tit-For-Tat' Restrictions On Foreign Satellite Operators](https://soylentnews.org/article.pl?sid=26/11/26/1838213&from=rss)
 * [2026-11-28, 00:47:00](https://soylentnews.org/article.pl?sid=26/11/26/1833218&from=rss) - [AI Comes Up With Bizarre Physics Experiments. But They Work.](https://soylentnews.org/article.pl?sid=26/11/26/1833218&from=rss)
 * [2026-11-27, 20:03:00](https://soylentnews.org/article.pl?sid=26/11/25/1412224&from=rss) - [Microsoft Declares ‘Code Red’ After Disruptive Global Outage](https://soylentnews.org/article.pl?sid=26/11/25/1412224&from=rss)
@@ -49,7 +50,6 @@
 * [2026-11-19, 12:24:00](https://soylentnews.org/article.pl?sid=26/11/18/1516206&from=rss) - [NSANet Secure Communications Network Goes Down](https://soylentnews.org/article.pl?sid=26/11/18/1516206&from=rss)
 * [2026-11-19, 07:42:00](https://soylentnews.org/article.pl?sid=26/11/18/1513217&from=rss) - [Powering the Space Elevator](https://soylentnews.org/article.pl?sid=26/11/18/1513217&from=rss)
 * [2026-11-19, 02:52:00](https://soylentnews.org/article.pl?sid=26/11/18/1510211&from=rss) - [Popular TikTok Docs Have Big Influence on Gen Z Followers](https://soylentnews.org/article.pl?sid=26/11/18/1510211&from=rss)
-* [2026-11-18, 22:10:00](https://soylentnews.org/article.pl?sid=26/11/17/0412200&from=rss) - [Catching AI's Mistakes Has a Real Cost](https://soylentnews.org/article.pl?sid=26/11/17/0412200&from=rss)
 
 ## [Archives](archives/index.md)
 
